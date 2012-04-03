@@ -33,31 +33,31 @@
    ^1)[2]L. 79/1994, 10. gr.^2)[3]L. 21/1987, 1. gr.
 
                                      2. gr.
-           Þegar fiskiskip siglir með ísfisk til sölu í erlendri höfn er
+        Þegar fiskiskip siglir með ísfisk til sölu í erlendri höfn er
    skiptaverðmæti aflans til hlutaskipta, aflaverðlauna og aukaaflaverðlauna
    64% af því heildarverðmæti (brúttósöluverðmæti) sem útgerðin fær fyrir
    hann. Þetta hlutfall skal þó vera 70% þegar fiski er landað til bræðslu
    erlendis.
 
                                      3. gr.
-           [Þegar afli fiskiskips er fluttur ísaður í kössum með öðru skipi
-   til sölu á erlendum markaði skal draga frá heildarverðmæti
-   flutningskostnað, erlenda tolla og kostnað við söluna erlendis annan en
-   umboðslaun. Skiptaverðmæti skal vera 76% af þannig ákveðnu söluverði með
-   þeim breytingum til hækkunar eða lækkunar sem kveðið er á um í 1. gr.]^1)
+        [Þegar afli fiskiskips er fluttur ísaður í kössum með öðru skipi til
+   sölu á erlendum markaði skal draga frá heildarverðmæti flutningskostnað,
+   erlenda tolla og kostnað við söluna erlendis annan en umboðslaun.
+   Skiptaverðmæti skal vera 76% af þannig ákveðnu söluverði með þeim
+   breytingum til hækkunar eða lækkunar sem kveðið er á um í 1. gr.]^1)
 
    ^1)[4]L. 21/1987, 2. gr.
 
                                      4. gr.
-           [Þegar seldur er afli fiskiskips sem frystir bolfisk um borð,
-   heilan eða flakaðan, er skiptaverðmætið 74,5% af fob-verðmæti
-   framleiðslunnar við útflutning. Þetta skiptahlutfall skal þó vera 69% af
-   cif-verðmætinu sé þannig samið um sölu framleiðslunnar.
-           Þegar seldur er afli fiskiskips sem frystir rækju um borð er
+        [Þegar seldur er afli fiskiskips sem frystir bolfisk um borð, heilan
+   eða flakaðan, er skiptaverðmætið 74,5% af fob-verðmæti framleiðslunnar við
+   útflutning. Þetta skiptahlutfall skal þó vera 69% af cif-verðmætinu sé
+   þannig samið um sölu framleiðslunnar.
+        Þegar seldur er afli fiskiskips sem frystir rækju um borð er
    skiptaverðmætið 71,5% af fob-verðmæti framleiðslunnar við útflutning.
    Þetta hlutfall skal þó vera 66% af cif-verðmætinu sé þannig samið um sölu
    framleiðslunnar.
-           Skiptahlutfallið skal hækka eða lækka um hálft prósentustig fyrir
+        Skiptahlutfallið skal hækka eða lækka um hálft prósentustig fyrir
    hvert eitt prósentustig sem skiptahlutfallið breytist til hækkunar eða
    lækkunar skv. 1. og 2. mgr. 1. gr.]^1)
 
@@ -66,7 +66,7 @@
                                    II. kafli.
                     Um greiðslumiðlun innan sjávarútvegsins.
                                      5. gr.
-           Þegar framleiðandi sjávarafurða veðsetur framleiðslu sína við töku
+        Þegar framleiðandi sjávarafurða veðsetur framleiðslu sína við töku
    afurðaláns hjá viðskiptabanka eða öðrum lánveitanda skal hann greiða
    minnst [8%],^1) sbr. 7. gr., af samanlögðu hráefnisverði hvers skips, sem
    lagði hráefni til vinnslunnar, inn á sérstaka bankareikninga. Veðsetji
@@ -74,20 +74,20 @@
    að síður inna þessa greiðslu af hendi innan fjórtán daga frá því fiskurinn
    var afhentur. [Sambærileg skylda hvílir á þeim sem taka fiskafurðir í
    umboðssölu.]^1)
-           Viðskiptabanki útvegsmanns skal við gjaldeyrisskil leggja minnst
+        Viðskiptabanki útvegsmanns skal við gjaldeyrisskil leggja minnst
    [8%]^1) af brúttósöluverðmæti ísfisks, sem seldur er í erlendri höfn, sbr.
    2. og 3. gr., inn á sams konar bankareikninga.
-           Sama greiðsluskylda og að framan greinir hvílir á útvegsmönnum
+        Sama greiðsluskylda og að framan greinir hvílir á útvegsmönnum
    veiðiskipa sem vinna og frysta afla um borð, og miðast þá
    [8%]^1)-greiðslan við skilaverðmæti framleiðslunnar og fellur í gjalddaga
    við gjaldeyrisskil.
-           Ákvæði þessarar greinar ná ekki til opinna báta og þilfarsbáta
-   undir 10 lestum, sbr. 6. gr.
+        Ákvæði þessarar greinar ná ekki til opinna báta og þilfarsbáta undir
+   10 lestum, sbr. 6. gr.
 
    ^1)[6]L. 80/1997, 1. gr.
 
                                      6. gr.
-           Framleiðendur sjávarafurða og aðrir fiskkaupendur [svo og þeir sem
+        Framleiðendur sjávarafurða og aðrir fiskkaupendur [svo og þeir sem
    taka sjávarafurðir í umboðssölu]^1) skulu greiða [8,4%]^1) af samanlögðu
    hráefnisverði þess afla, sem þeir taka við af opnum bátum og þilfarsbátum
    undir 10 lestum, inn á sérstakan greiðslumiðlunarreikning smábáta hjá
@@ -97,20 +97,22 @@
    ^1)[7]L. 80/1997, 2. gr.
 
                                      7. gr.
-           Fé því, sem haldið er eftir skv. 5. gr., skal miðla á þennan hátt:
+        Fé því, sem haldið er eftir skv. 5. gr., skal miðla á þennan hátt:
 
-           [1.] ^1) 6% af hráefnisverði greiðist inn á vátryggingarreikning
+   [1.]
+           ^1) 6% af hráefnisverði greiðist inn á vátryggingarreikning
            skipsins hjá Landssambandi ísl. útvegsmanna, sbr. [8]lög nr.
            17/1976.
-           [2.] ^1) 2% af hráefnisverði greiðist inn á sérstakan
+   [2.]
+           ^1) 2% af hráefnisverði greiðist inn á sérstakan
            greiðslumiðlunarreikning fiskiskipa hjá [Lífeyrissjóði
            sjómanna].^1)
 
    ^1)[9]L. 80/1997, 3. gr.
 
                                      8. gr.
-           Fé því, sem safnast á greiðslumiðlunarreikning smábáta skv. 6.
-   gr., skal skipta mánaðarlega og færa til tekna á bankareikninga í þessum
+        Fé því, sem safnast á greiðslumiðlunarreikning smábáta skv. 6. gr.,
+   skal skipta mánaðarlega og færa til tekna á bankareikninga í þessum
    hlutföllum:
 
    1.       Til lífeyrissjóða sjómanna                        [37,5%]^1)
@@ -128,7 +130,7 @@
    ^1)[10]L. 80/1997, 4. gr.
 
                                      9. gr.
-           Fé því, sem safnast á greiðslumiðlunarreikning fiskiskipa skv. 3.
+        Fé því, sem safnast á greiðslumiðlunarreikning fiskiskipa skv. 3.
    tölul. 7. gr., skal skipta mánaðarlega og færa til tekna á bankareikninga
    í þessum hlutföllum:
 
@@ -140,13 +142,13 @@
                Íslands og Vélstjórafélags Íslands.]^1)          1,6%
    4.          Til Landssambands íslenskra útvegsmanna          4,0%
 
-           [Við skiptingu fjár milli þeirra samtaka sem um er rætt í 2.
-   tölul. 1. mgr. annars vegar og 3. tölul. 1. mgr. hins vegar skal taka mið
-   af fjölda félagsmanna er við fiskveiðar vinna. Skulu aðilar koma sér saman
-   um skiptingu fjár milli hlutaðeigandi samtaka og tilkynna Lífeyrissjóði
+        [Við skiptingu fjár milli þeirra samtaka sem um er rætt í 2. tölul.
+   1. mgr. annars vegar og 3. tölul. 1. mgr. hins vegar skal taka mið af
+   fjölda félagsmanna er við fiskveiðar vinna. Skulu aðilar koma sér saman um
+   skiptingu fjár milli hlutaðeigandi samtaka og tilkynna Lífeyrissjóði
    sjómanna um samkomulagið.
-           Komi upp ágreiningur um skiptingu fjár skv. 2. mgr. geta þau
-   samtök sem um er rætt í 2. og 3. tölul. 1. mgr. óskað eftir því við
+        Komi upp ágreiningur um skiptingu fjár skv. 2. mgr. geta þau samtök
+   sem um er rætt í 2. og 3. tölul. 1. mgr. óskað eftir því við
    sjávarútvegsráðherra að skipaður verði gerðardómur til að leysa úr
    ágreiningnum. Gerðardómur vegna ágreinings um skiptingu fjár skv. 2.
    tölul. 1. mgr. skal skipaður fimm mönnum, tveim tilnefndum af
@@ -161,26 +163,26 @@
    er heimilt að taka mið af fleiri atriðum en um er rætt í 2. mgr. Úrskurður
    gerðardóms er bindandi. Kostnaður af starfi gerðardóms skal greiddur af
    aðilum máls.
-           Sjávarútvegsráðherra getur sett reglur um starfsemi gerðardóms
+        Sjávarútvegsráðherra getur sett reglur um starfsemi gerðardóms
    samkvæmt þessari grein.]^2)
 
    ^1)[11]L. 45/1992, 1. gr.^2)[12]L. 80/1997, 5. gr.
 
                                     10. gr.
-           Lífeyrissjóður sjómanna skal hafa yfirumsjón með því að fé, sem
-   inn kemur skv. 1. tölul. 8. gr. og 1. tölul. 9. gr., sé skipt og greitt
-   inn á reikning hvers skips til hlutaðeigandi lífeyrissjóða í hlutfalli við
+        Lífeyrissjóður sjómanna skal hafa yfirumsjón með því að fé, sem inn
+   kemur skv. 1. tölul. 8. gr. og 1. tölul. 9. gr., sé skipt og greitt inn á
+   reikning hvers skips til hlutaðeigandi lífeyrissjóða í hlutfalli við
    iðgjaldsskyldan aflahlut skipverja.
 
                                     11. gr.
-           Þeim viðskiptabönkum eða öðrum, sem halda eftir fé útvegsmanna
+        Þeim viðskiptabönkum eða öðrum, sem halda eftir fé útvegsmanna
    samkvæmt lögum þessum, er skylt að senda þeim viðurkenningar fyrir móttöku
    fjárins án tafar. [Lífeyrissjóði sjómanna]^1) er skylt að senda þeim
    samtökum og sjóðum, sem tilgreind eru í 8. og 9. gr., mánaðarlegt yfirlit
    yfir allar innborganir á greiðslumiðlunarreikninga og skiptingu þeirra.
-           Lögtaksréttur fylgir kröfu vegna hlutdeildar af hráefnisverði,
-   sbr. 5. og 6. gr. laga þessara. Sé greiðsla ekki innt af hendi innan
-   mánaðar frá gjalddaga skal greiða dráttarvexti af vangreiddri fjárhæð.
+        Lögtaksréttur fylgir kröfu vegna hlutdeildar af hráefnisverði, sbr.
+   5. og 6. gr. laga þessara. Sé greiðsla ekki innt af hendi innan mánaðar
+   frá gjalddaga skal greiða dráttarvexti af vangreiddri fjárhæð.
 
    ^1)[13]L. 80/1997, 6. gr.
 
@@ -194,11 +196,11 @@
                                    VI. kafli.
                           Um reglugerð og gildistöku.
                                     16. gr.
-           Sjávarútvegsráðherra setur nánari reglur^1) um framkvæmd þessara
+        Sjávarútvegsráðherra setur nánari reglur^1) um framkvæmd þessara
    laga, þar með um innheimtu skv. II. kafla, yfirlit yfir greiðslumiðlun og
    um endurskoðun og eftirlit með greiðslum sem [Lífeyrissjóður sjómanna]^2)
    skal annast fyrir hönd ^2) samtaka sjómanna og útvegsmanna.
-           [Aðilar greiðslumiðlunar skv. 8. og 9. gr. skulu koma sér saman um
+        [Aðilar greiðslumiðlunar skv. 8. og 9. gr. skulu koma sér saman um
    skiptingu kostnaðar sem leiðir af umsýslu Lífeyrissjóðs sjómanna fyrir
    greiðslumiðlunina. Náist ekki samkomulag um skiptingu kostnaðar skal
    ráðherra setja reglugerð um slíka skiptingu.]^2)
@@ -206,19 +208,19 @@
    ^1)Rg. 147/1998.^2)[15]L. 80/1997, 7. gr.
 
                                     17. gr.
-           Lög þessi öðlast þegar gildi og taka ákvæði þeirra til fiskafla og
+        Lög þessi öðlast þegar gildi og taka ákvæði þeirra til fiskafla og
    sjávarafurðaframleiðslu frá og með 15. maí 1986.
 
                                     18. gr.
-            [Brot á 2. málsl. 1. mgr. 1. gr. varðar sektum nema þyngri
-   refsing liggi við samkvæmt öðrum lögum. Með brot á þessu ákvæði skal fara
-   að hætti opinberra mála.]^1)
+         [Brot á 2. málsl. 1. mgr. 1. gr. varðar sektum nema þyngri refsing
+   liggi við samkvæmt öðrum lögum. Með brot á þessu ákvæði skal fara að hætti
+   opinberra mála.]^1)
 
    ^1)[16]L. 79/1994, 11. gr.
 
                             Ákvæði til bráðabirgða.
 
-           [Eignum Styrktar- og lánasjóðs fiskiskipa og Framkvæmdasjóðs, sem
+        [Eignum Styrktar- og lánasjóðs fiskiskipa og Framkvæmdasjóðs, sem
    verið hafa í vörslu Fiskveiðasjóðs, skal varið til rannsókna á kjörhæfni
    veiðarfæra og áhrifum þeirra á lífríki sjávar. Skal ráðherra semja við
    fjármálastofnanir um varðveislu og innheimtu verðbréfa sjóðanna.]^1)

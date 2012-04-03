@@ -29,26 +29,31 @@
                                 Skilgreiningar.
                                                        Í lögum þessum merkir:
 
-           1. Gagnagrunnur á heilbrigðissviði: Safn gagna er hefur að geyma
+   1.
+           Gagnagrunnur á heilbrigðissviði: Safn gagna er hefur að geyma
            heilsufarsupplýsingar sem skráðar eru á samræmdan kerfisbundinn
            hátt í einn miðlægan gagnagrunn sem ætlaður er til úrvinnslu og
            upplýsingamiðlunar.
-           2. Persónuupplýsingar: Allar upplýsingar um persónugreindan eða
+   2.
+           Persónuupplýsingar: Allar upplýsingar um persónugreindan eða
            persónugreinanlegan einstakling. Maður telst persónugreinanlegur
            ef unnt er að persónugreina hann, beint eða óbeint, svo sem með
            tilvísun í kennitölu eða einn eða fleiri þætti sem sérkenna hann í
            líkamlegu, lífeðlisfræðilegu, andlegu, efnalegu, menningarlegu eða
            félagslegu tilliti.
-           3. Ópersónugreinanlegar upplýsingar: Upplýsingar um einstakling
-           sem ekki er persónugreinanlegur samkvæmt skilgreiningu 2. tölul.
-           4. Dulkóðun: Umbreyting orða eða talna í óskiljanlega runu af
-           táknum.
-           5. Dulkóðun í eina átt: Umbreyting orða eða talna í óskiljanlega
-           runu af táknum sem ekki er hægt að rekja til baka með
-           greiningarlykli.
-           6. Heilsufarsupplýsingar: Upplýsingar er varða heilsu
-           einstaklinga, þ.m.t. erfðafræðilegar upplýsingar.
-           7. Erfðafræðilegar upplýsingar: Hvers kyns upplýsingar sem varða
+   3.
+           Ópersónugreinanlegar upplýsingar: Upplýsingar um einstakling sem
+           ekki er persónugreinanlegur samkvæmt skilgreiningu 2. tölul.
+   4.
+           Dulkóðun: Umbreyting orða eða talna í óskiljanlega runu af táknum.
+   5.
+           Dulkóðun í eina átt: Umbreyting orða eða talna í óskiljanlega runu
+           af táknum sem ekki er hægt að rekja til baka með greiningarlykli.
+   6.
+           Heilsufarsupplýsingar: Upplýsingar er varða heilsu einstaklinga,
+           þ.m.t. erfðafræðilegar upplýsingar.
+   7.
+           Erfðafræðilegar upplýsingar: Hvers kyns upplýsingar sem varða
            erfanlega eiginleika einstaklings eða erfðamynstur slíkra
            eiginleika innan hóps skyldra einstaklinga, enn fremur allar
            upplýsingar sem varða flutning erfðaupplýsinga (erfðavísa) er lúta
@@ -72,8 +77,8 @@
      starfrækslunni, þ.m.t. eftirliti tölvunefndar sem starfar samkvæmt lögum
          um skráningu og meðferð persónuupplýsinga, og kostnaði við útgáfu og
                                                          kynningu skv. 8. gr.
-                     Rekstrarleyfishafi skal greiða allan kostnað við vinnslu
-                 upplýsinga til flutnings í gagnagrunn, sbr. 8. tölul. 5. gr.
+          Rekstrarleyfishafi skal greiða allan kostnað við vinnslu upplýsinga
+                            til flutnings í gagnagrunn, sbr. 8. tölul. 5. gr.
                 Ráðherra og rekstrarleyfishafa er heimilt að semja um frekari
    greiðslur í ríkissjóð og skal þeim varið til eflingar heilbrigðisþjónustu,
                                                         rannsókna og þróunar.
@@ -83,37 +88,46 @@
                         Rekstrarleyfi til gerðar og starfrækslu gagnagrunns á
                               heilbrigðissviði er háð eftirfarandi skilyrðum:
 
-           1. Gagnagrunnurinn sé alfarið staðsettur hér á landi.
-           2. Tækni-, öryggis- og skipulagslýsing uppfylli kröfur
-           tölvunefndar.
-           3. Skráning og úrvinnsla heilsufarsupplýsinga sé framkvæmd eða
-           henni stjórnað af fólki með starfsréttindi á sviði
-           heilbrigðisþjónustu.
-           4. Fyrir liggi ítarlegar upplýsingar um starfssvið og verkefni
+   1.
+           Gagnagrunnurinn sé alfarið staðsettur hér á landi.
+   2.
+           Tækni-, öryggis- og skipulagslýsing uppfylli kröfur tölvunefndar.
+   3.
+           Skráning og úrvinnsla heilsufarsupplýsinga sé framkvæmd eða henni
+           stjórnað af fólki með starfsréttindi á sviði heilbrigðisþjónustu.
+   4.
+           Fyrir liggi ítarlegar upplýsingar um starfssvið og verkefni
            umsækjanda um rekstrarleyfi.
-           5. Fyrir liggi ítarleg verkáætlun umsækjanda sem uppfyllir
-           skilyrði og markmið laga þessara um verktilhögun og verkframvindu.
-           6. Starfræksla gagnagrunnsins sé fjárhagslega aðskilin frá annarri
+   5.
+           Fyrir liggi ítarleg verkáætlun umsækjanda sem uppfyllir skilyrði
+           og markmið laga þessara um verktilhögun og verkframvindu.
+   6.
+           Starfræksla gagnagrunnsins sé fjárhagslega aðskilin frá annarri
            starfsemi rekstrarleyfishafa.
-           7. Heilbrigðis- og tryggingamálaráðuneyti og landlæknir eigi ætíð
+   7.
+           Heilbrigðis- og tryggingamálaráðuneyti og landlæknir eigi ætíð
            aðgang að tölfræðilegum upplýsingum úr gagnagrunninum í
            aðgengilegu formi, þannig að þær nýtist til gerðar
            heilbrigðisskýrslna, áætlana, stefnumótunar og annarra verkefna
            fyrrgreindra aðila.
-           8. Rekstrarleyfishafi greiði allan kostnað við vinnslu upplýsinga
+   8.
+           Rekstrarleyfishafi greiði allan kostnað við vinnslu upplýsinga
            heilbrigðisstofnana og sjálfstætt starfandi heilbrigðisstarfsmanna
            til flutnings í gagnagrunninn. Upplýsingarnar skulu unnar þannig
            að þær uppfylli þarfir viðkomandi stofnunar eða sjálfstætt
            starfandi heilbrigðisstarfsmanns fyrir samræmt upplýsingakerfi,
            þarfir sérgreina og þarfir heilbrigðisyfirvalda, sbr. 7. tölul.,
            og að þær nýtist við vísindarannsóknir.
-           9. Rekstrarleyfi sé tímabundið og ekki veitt til lengri tíma en 12
+   9.
+           Rekstrarleyfi sé tímabundið og ekki veitt til lengri tíma en 12
            ára í senn.
-           10. Rekstrarleyfishafi afhendi nefnd skv. 6. gr. afrit af
+   10.
+           Rekstrarleyfishafi afhendi nefnd skv. 6. gr. afrit af
            gagnagrunninum og skal afritið uppfært reglulega samkvæmt nánari
            ákvörðun í rekstrarleyfi. Afritið skal geymt í bankahólfi eða á
            annan tryggilegan hátt samkvæmt nánari ákvörðun í rekstrarleyfi.
-           11. Rekstrarleyfishafi skal tryggja að þegar leyfistíma lýkur fái
+   11.
+           Rekstrarleyfishafi skal tryggja að þegar leyfistíma lýkur fái
            heilbrigðis- og tryggingamálaráðuneytið, eða sá sem ráðherra felur
            starfrækslu gagnagrunnsins, ótímabundin afnot af öllum hugbúnaði
            og réttindum sem nauðsynleg eru til viðhalds og starfrækslu
@@ -131,10 +145,10 @@
 
                                      6. gr.
           Nefnd um gerð og starfrækslu gagnagrunns á heilbrigðissviði.
-                 Ráðherra skal skipa nefnd um gerð og starfrækslu gagnagrunns
-       samkvæmt lögum þessum. Nefndin skal skipuð þremur mönnum og þremur til
-   vara til fjögurra ára í senn. Skal einn þeirra vera heilbrigðisstarfsmaður
-    með þekkingu á faraldsfræði, annar skal hafa þekkingu á sviði upplýsinga-
+        Ráðherra skal skipa nefnd um gerð og starfrækslu gagnagrunns samkvæmt
+       lögum þessum. Nefndin skal skipuð þremur mönnum og þremur til vara til
+        fjögurra ára í senn. Skal einn þeirra vera heilbrigðisstarfsmaður með
+        þekkingu á faraldsfræði, annar skal hafa þekkingu á sviði upplýsinga-
      og/eða tölvunarfræði. Sá þriðji skal vera lögfræðingur og skal hann vera
                 formaður nefndarinnar. Varamenn skulu uppfylla sömu skilyrði.
                     Hlutverk nefndarinnar er að sjá um að gerð og starfræksla
@@ -153,12 +167,12 @@
        gagnagrunninum. Verði rekstrarleyfi afturkallað eða leyfishafi sviptur
        rekstrarleyfi skal nefndin starfrækja gagnagrunninn uns ráðherra hefur
         tekið ákvörðun um starfrækslu hans til frambúðar, sbr. 3. mgr. 5. gr.
-              Nefndinni skal séð fyrir starfsmönnum og starfsaðstöðu. Nefndin
-                    skal afla sér sérfræðiaðstoðar eftir því sem þurfa þykir.
+         Nefndinni skal séð fyrir starfsmönnum og starfsaðstöðu. Nefndin skal
+                         afla sér sérfræðiaðstoðar eftir því sem þurfa þykir.
            Nefndin skal tafarlaust gera ráðherra og tölvunefnd viðvart ef hún
                          telur að misfellur séu á starfrækslu gagnagrunnsins.
-           Nefndin skal eigi síðar en 1. mars ár hvert skila ráðherra skýrslu
-                                um starfrækslu gagnagrunnsins undangengið ár.
+        Nefndin skal eigi síðar en 1. mars ár hvert skila ráðherra skýrslu um
+                                   starfrækslu gagnagrunnsins undangengið ár.
 
                                   III. kafli.
                                Söfnun upplýsinga.
@@ -187,15 +201,15 @@
 
                                      8. gr.
                               Réttindi sjúklings.
-             Sjúklingur getur hvenær sem er óskað eftir því að upplýsingar um
-    hann verði ekki fluttar í gagnagrunn á heilbrigðissviði. Beiðni sjúklings
-              getur varðað allar upplýsingar sem þegar liggja fyrir um hann í
-      sjúkraskrám eða kunna að verða skráðar eða nánar tilteknar upplýsingar.
-   Skylt er að verða við slíkri beiðni. Sjúklingur skal tilkynna landlækni um
-    ósk sína. Landlæknir skal annast gerð eyðublaða fyrir slíkar tilkynningar
-            og sjá til þess að þau liggi frammi á heilbrigðisstofnunum og hjá
-   sjálfstætt starfandi heilbrigðisstarfsmönnum. Landlæknir skal sjá til þess
-     að dulkóðuð skrá yfir viðkomandi sjúklinga sé ávallt aðgengileg þeim sem
+        Sjúklingur getur hvenær sem er óskað eftir því að upplýsingar um hann
+   verði ekki fluttar í gagnagrunn á heilbrigðissviði. Beiðni sjúklings getur
+    varðað allar upplýsingar sem þegar liggja fyrir um hann í sjúkraskrám eða
+    kunna að verða skráðar eða nánar tilteknar upplýsingar. Skylt er að verða
+           við slíkri beiðni. Sjúklingur skal tilkynna landlækni um ósk sína.
+   Landlæknir skal annast gerð eyðublaða fyrir slíkar tilkynningar og sjá til
+            þess að þau liggi frammi á heilbrigðisstofnunum og hjá sjálfstætt
+           starfandi heilbrigðisstarfsmönnum. Landlæknir skal sjá til þess að
+        dulkóðuð skrá yfir viðkomandi sjúklinga sé ávallt aðgengileg þeim sem
                   annast flutning upplýsinga í gagnagrunn á heilbrigðissviði.
                   Landlæknir skal sjá til þess að upplýsingar um gagnagrunn á
           heilbrigðissviði og um rétt sjúklings skv. 1. mgr. séu aðgengilegar
@@ -207,19 +221,19 @@
                Aðgengi að gagnagrunni, hagnýting upplýsinga o.fl.
                                      9. gr.
  Aðgengi heilbrigðisyfirvalda að upplýsingum í gagnagrunni á heilbrigðissviði.
-             Heilbrigðis- og tryggingamálaráðuneyti og landlæknir eiga ávallt
-         rétt á tölfræðilegum upplýsingum úr gagnagrunni á heilbrigðissviði í
+        Heilbrigðis- og tryggingamálaráðuneyti og landlæknir eiga ávallt rétt
+              á tölfræðilegum upplýsingum úr gagnagrunni á heilbrigðissviði í
        aðgengilegu formi þannig að þær nýtist til gerðar heilbrigðisskýrslna,
          áætlana, stefnumótunar og annarra verkefna þeirra. Upplýsingar skulu
                               látnar fyrrgreindum aðilum í té án endurgjalds.
 
                                     10. gr.
                    Hagnýting gagnagrunns á heilbrigðissviði.
-                    Upplýsingar, sem skráðar eru eða aflað er með úrvinnslu í
-    gagnagrunni á heilbrigðissviði, má nýta til þess að þróa nýjar eða bættar
-    aðferðir við heilsueflingu, forspá, greiningu og meðferð sjúkdóma, til að
-   leita hagkvæmustu leiða í rekstri heilbrigðiskerfa og í þágu skýrslugerðar
-                                                          á heilbrigðissviði.
+        Upplýsingar, sem skráðar eru eða aflað er með úrvinnslu í gagnagrunni
+   á heilbrigðissviði, má nýta til þess að þróa nýjar eða bættar aðferðir við
+           heilsueflingu, forspá, greiningu og meðferð sjúkdóma, til að leita
+       hagkvæmustu leiða í rekstri heilbrigðiskerfa og í þágu skýrslugerðar á
+                                                            heilbrigðissviði.
                        Rekstrarleyfishafa skal heimil vinnsla í gagnagrunni á
     heilbrigðissviði úr þeim heilsufarsupplýsingum úr sjúkraskrám sem þar eru
    skráðar, enda sé þess gætt við úrvinnslu og samtengingu upplýsinga að ekki
@@ -237,8 +251,8 @@
               Rekstrarleyfishafa er á leyfistíma heimil fjárhagsleg hagnýting
          upplýsinga úr gagnagrunninum með þeim skilyrðum sem sett eru í lögum
                                                    þessum og í rekstrarleyfi.
-           Gagnagrunn á heilbrigðissviði má eigi flytja úr landi og úrvinnsla
-                                  úr honum má einungis fara fram hér á landi.
+        Gagnagrunn á heilbrigðissviði má eigi flytja úr landi og úrvinnsla úr
+                                     honum má einungis fara fram hér á landi.
 
                                     11. gr.
                                  Þagnarskylda.
@@ -255,15 +269,15 @@
      heilbrigðissviði að því er varðar skráningu og meðferð persónuupplýsinga
           og öryggi gagna í gagnagrunninum og annast eftirlit með því að þeim
                                             skilmálum sem hún setur sé fylgt.
-            Nefnd um starfrækslu gagnagrunns skv. 6. gr. skal hafa umsjón með
-    því að við starfrækslu gagnagrunns á heilbrigðissviði sé í hvívetna fylgt
+        Nefnd um starfrækslu gagnagrunns skv. 6. gr. skal hafa umsjón með því
+        að við starfrækslu gagnagrunns á heilbrigðissviði sé í hvívetna fylgt
          ákvæðum laga þessara og reglugerða settra samkvæmt þeim og skilyrðum
     rekstrarleyfis. Nefndin skal fylgjast með öllum fyrirspurnum og úrvinnslu
    úr gagnagrunninum. Hún skal reglulega senda vísindasiðanefnd skrá um allar
            fyrirspurnir sem gerðar eru í gagnagrunninum, ásamt upplýsingum um
                                                              fyrirspyrjendur.
-              Ráðherra skal setja reglugerð um þverfaglega siðanefnd sem meta
-        skal rannsóknir sem gerðar eru innan fyrirtækis rekstrarleyfishafa og
+         Ráðherra skal setja reglugerð um þverfaglega siðanefnd sem meta skal
+             rannsóknir sem gerðar eru innan fyrirtækis rekstrarleyfishafa og
      fyrirspurnir sem berast. Mat nefndarinnar verður að hafa leitt í ljós að
      engin vísindaleg eða siðfræðileg sjónarmið mæli gegn framkvæmd rannsókna
                                                      eða vinnslu fyrirspurna.
@@ -286,23 +300,23 @@
                                    Refsingar.
              Brot á ákvæðum laga þessara varðar fésektum eða fangelsi allt að
               þremur árum nema þyngri refsing liggi við samkvæmt öðrum lögum.
-              Sömu refsingu varðar enn fremur að virða ekki skilyrði sem sett
-         eru fyrir rekstrarleyfi samkvæmt lögum þessum eða reglugerðum settum
-      samkvæmt þeim, svo og að sinna ekki boði eða banni samkvæmt lögunum eða
-                                            reglugerðum settum samkvæmt þeim.
+          Sömu refsingu varðar enn fremur að virða ekki skilyrði sem sett eru
+    fyrir rekstrarleyfi samkvæmt lögum þessum eða reglugerðum settum samkvæmt
+   þeim, svo og að sinna ekki boði eða banni samkvæmt lögunum eða reglugerðum
+                                                        settum samkvæmt þeim.
            Dæma má lögaðila til greiðslu sekta vegna brota á lögum þessum eða
     reglugerðum settum samkvæmt þeim. Lögaðila má ákvarða sekt án tillits til
                                                       sakar starfsmanna hans.
-                Lögaðili ber ábyrgð á greiðslu sektar sem starfsmaður hans er
-         dæmdur til að greiða vegna brota á lögum þessum, enda séu brot tengd
-                                                 starfi hans hjá lögaðilanum.
+         Lögaðili ber ábyrgð á greiðslu sektar sem starfsmaður hans er dæmdur
+    til að greiða vegna brota á lögum þessum, enda séu brot tengd starfi hans
+                                                             hjá lögaðilanum.
 
                                     15. gr.
                          Svipting rekstrarleyfis o.fl.
                     Rekstrarleyfishafa má, auk refsingar skv. 14. gr., svipta
       rekstrarleyfi með dómi ef um ásetning eða stórfellt gáleysi er að ræða.
-               Gera má upptæk með dómi tæki sem stórfelld brot á lögum þessum
-      hafa verið framin með, svo og hagnað af broti, sbr. [2]69. gr. almennra
+          Gera má upptæk með dómi tæki sem stórfelld brot á lögum þessum hafa
+           verið framin með, svo og hagnað af broti, sbr. [2]69. gr. almennra
                                                   hegningarlaga, nr. 19/1940.
 
                                     16. gr.
@@ -311,20 +325,20 @@
 
                                     17. gr.
                                      Bætur.
-              Hafi rekstrarleyfishafi, starfsmaður hans eða sá sem hann hefur
-    falið vinnslu upplýsinga brotið gegn ákvæðum um vernd persónuupplýsinga í
-              lögum þessum, reglum sem settar eru samkvæmt þeim eða skilmálum
-     tölvunefndar skal rekstrarleyfishafi bæta hinum skráða fjárhagslegt tjón
-      sem hann hefur orðið fyrir af þeim völdum. Rekstraraðila verður þó ekki
-      gert að bæta tjón sem hann sannar að hvorki verður rakið til mistaka né
-                  vanrækslu af hans hálfu, starfsmanna hans eða vinnsluaðila.
+        Hafi rekstrarleyfishafi, starfsmaður hans eða sá sem hann hefur falið
+    vinnslu upplýsinga brotið gegn ákvæðum um vernd persónuupplýsinga í lögum
+       þessum, reglum sem settar eru samkvæmt þeim eða skilmálum tölvunefndar
+   skal rekstrarleyfishafi bæta hinum skráða fjárhagslegt tjón sem hann hefur
+   orðið fyrir af þeim völdum. Rekstraraðila verður þó ekki gert að bæta tjón
+      sem hann sannar að hvorki verður rakið til mistaka né vanrækslu af hans
+                                    hálfu, starfsmanna hans eða vinnsluaðila.
 
                                   VII. kafli.
                                   Ýmis ákvæði.
                                     18. gr.
                                   Reglugerðir.
-                 Ráðherra er heimilt að setja nánari ákvæði um framkvæmd laga
-                                                     þessara með reglugerðum.
+         Ráðherra er heimilt að setja nánari ákvæði um framkvæmd laga þessara
+                                                             með reglugerðum.
             Ráðherra skal setja reglugerð um starfsemi nefndar um starfrækslu
    gagnagrunns á heilbrigðissviði, sbr. 6. gr., og um aðgangstakmarkanir skv.
                                                               2. mgr. 10. gr.
@@ -337,17 +351,17 @@
 
                             Ákvæði til bráðabirgða.
                                        I.
-                Gjald rekstrarleyfishafa skv. 3. mgr. 4. gr. skal fyrsta árið
-          byggt á áætluðum kostnaði við undirbúning og eftirlit með starfsemi
-                                              gagnagrunns á heilbrigðissviði.
+        Gjald rekstrarleyfishafa skv. 3. mgr. 4. gr. skal fyrsta árið byggt á
+    áætluðum kostnaði við undirbúning og eftirlit með starfsemi gagnagrunns á
+                                                            heilbrigðissviði.
 
                                       II.
               Flutningur upplýsinga í gagnagrunn á heilbrigðissviði skal ekki
                    hefjast fyrr en sex mánuðum eftir gildistöku laga þessara.
 
                                       III.
-            Áður en vinnsla í gagnagrunni á heilbrigðissviði hefst skal nefnd
-    um starfrækslu gagnagrunns skv. 6. gr. sjá til þess að fyrir liggi úttekt
+         Áður en vinnsla í gagnagrunni á heilbrigðissviði hefst skal nefnd um
+       starfrækslu gagnagrunns skv. 6. gr. sjá til þess að fyrir liggi úttekt
                        óháðs sérfræðings á sviði öryggismála upplýsingakerfa.
 
 References
