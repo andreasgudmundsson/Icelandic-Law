@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -71,26 +70,27 @@ Sé um sérskóla að ræða er ráðherra heimilt með reglugerð að víkja fr
  að greiða við upphaf námsannar eða skólaárs. Upphæð innritunargjalds skal taka
  mið af kostnaði vegna ýmiss konar kennsluefnis og pappírsvara sem skóli lætur
 nemendum í té án sérstaks endurgjalds og nauðsynlegt er fyrir starfsemi skólans.
-Innritunargjald skal þó aldrei vera hærra en 6.000 kr. á skólaári. Heimilt er að
-     taka 25% hærra gjald af þeim sem fá leyfi til innritunar utan auglýsts
+Innritunargjald skal þó aldrei vera hærra en [8.500 kr.]^1) á skólaári. Heimilt
+  er að taka 25% hærra gjald af þeim sem fá leyfi til innritunar utan auglýsts
 innritunartíma og er skólanefnd heimilt að láta gjaldið renna í skólasjóð, enda
  sé tekjum hans samkvæmt skipulagsskrá ráðstafað í þágu nemenda. Efnisgjald er
  innheimt af nemendum sem njóta verklegrar kennslu vegna efnis sem skóli lætur
      nemendum í té og þeir þurfa að nota í námi sínu. Skal það taka mið af
-raunverulegum efniskostnaði. Efnisgjald skal þó aldrei vera hærra en 25.000 kr.
-  á skólaári eða 12.500 kr. á önn. Halda skal bókhald um fjárreiður þessar. Um
-  endurskoðun gilda sömu reglur og um annan rekstur. Menntamálaráðherra setur
-                  nánari reglur um innritunar- og efnisgjöld.
+  raunverulegum efniskostnaði. Efnisgjald skal þó aldrei vera hærra en [50.000
+ kr.]^1) á skólaári eða [25.000 kr.]^1) á önn. Halda skal bókhald um fjárreiður
+þessar. Um endurskoðun gilda sömu reglur og um annan rekstur. Menntamálaráðherra
+               setur nánari reglur um innritunar- og efnisgjöld.
     Heimilt er framhaldsskólum að innheimta sérstakt endurinnritunargjald af
  nemendum sem endurinnritast í bekkjardeild eða áfanga og skal upphæð gjaldsins
         miðast við 500 kr. fyrir hverja ólokna einingu frá síðustu önn.
-Menntamálaráðherra setur með reglugerð^1) nánari ákvæði um gjaldtökuna, m.a. um
+Menntamálaráðherra setur með reglugerð^2) nánari ákvæði um gjaldtökuna, m.a. um
 viðmiðun gjaldtökunnar, um mat á bekkjardeildum til eininga, tilhögun innheimtu
-                   og undanþágur frá greiðslu gjaldsins.]^2)
+                   og undanþágur frá greiðslu gjaldsins.]^3)
  Heimilt er skólanefnd að stofna sérstaka sjóði við framhaldsskóla. Skal um þá
 sett skipulagsskrá, leitað staðfestingar á henni og hún birt í Stjórnartíðindum.
-     Menntamálaráðherra setur reglugerð^3) um skipan og störf skólanefnda.
-        ^1)[8]Rg. 333/1997. ^2)[9]L. 140/1996, 2. gr. ^3)[10]Rg. 132/1997.
+     Menntamálaráðherra setur reglugerð^4) um skipan og störf skólanefnda.
+     ^1)[8]L. 148/2001, 2. gr. ^2)[9]Rg. 333/1997. ^3)[10]L. 140/1996, 2. gr.
+                              ^4)[11]Rg. 132/1997.
 8. gr. Skólameistari veitir skólanum forstöðu. Hann stjórnar daglegum rekstri og
    starfi framhaldsskóla og gætir þess að skólastarfið sé í samræmi við lög,
  reglugerðir, aðalnámskrá og önnur gildandi fyrirmæli á hverjum tíma. Hann ber
@@ -101,7 +101,7 @@ oddviti skólaráðs sem auk hans skal skipað fulltrúum kennara og nemenda, sv
   aðstoðarskólameistara og áfangastjóra starfi þeir við skólann. Heimilt er að
      setja í reglugerð^1) nánari ákvæði um skipan skólaráðs, verksvið þess,
                            starfstíma og starfshætti.
-                               ^1)[11]Rg. 140/1997.
+                               ^1)[12]Rg. 140/1997.
 9. gr. Almennur kennarafundur í framhaldsskóla fjallar um stefnumörkun í starfi
  skólans, um námsskipan, kennsluhætti, þar með talið námsmat, og aðra starfsemi
 og kemur tillögum sínum á framfæri við skólanefnd og skólaráð. Kennarafund skal
@@ -109,7 +109,7 @@ og kemur tillögum sínum á framfæri við skólanefnd og skólaráð. Kennaraf
   að halda kennarafund ef fulltrúar kennara í skólaráði eða þriðjungur fastra
                          kennara skólans krefjast þess.
       Nánari ákvæði um starfssvið kennarafundar skal setja í reglugerð.^1)
-                               ^1)[12]Rg. 138/1997.
+                               ^1)[13]Rg. 138/1997.
 10. gr. Í hverjum framhaldsskóla skal starfa nemendaráð sem er fulltrúi nemenda
   í hagsmunamálum þeirra. Nemendaráð hefur tillögu- og umsagnarrétt um markmið
 náms, námsefni og kennslutilhögun í skóla sínum. Almenn samtök nemenda í hverjum
@@ -132,7 +132,7 @@ skólanefnd.]^1) Kennari, sem ráðinn er aðstoðarskólameistari, skal fá ley
 Skólameistari ræður einnig kennara, námsráðgjafa, starfsfólk skólasafns og aðra
             starfsmenn skólans að höfðu samráði við skólanefnd.]^2)
  Hafi umsækjandi um stöðu kennara ekki réttindi til kennslu við framhaldsskóla
-     skal fara með umsókn hans samkvæmt ákvæðum [13]laga nr. 48/1986,^3) um
+     skal fara með umsókn hans samkvæmt ákvæðum [14]laga nr. 48/1986,^3) um
          lögverndun á starfsheiti og starfsréttindum grunnskólakennara,
                      framhaldsskólakennara og skólastjóra.
 Um skilyrði þess að vera ráðinn skólameistari eða kennari við framhaldsskóla fer
@@ -142,8 +142,8 @@ Um skilyrði þess að vera ráðinn skólameistari eða kennari við framhaldss
                        og starfssvið annarra starfsmanna.
   Menntamálaráðherra setur í reglugerð^4) ákvæði um starfssvið skólameistara,
            kennara og annarra starfsmanna skóla eftir því sem við á.
-    ^1)[14]L. 51/2001, 1. gr. ^2)[15]L. 100/1999, 1. gr. ^3)Nú [16]l. 86/1998.
-                               ^4)[17]Rg. 5/2001.
+    ^1)[15]L. 51/2001, 1. gr. ^2)[16]L. 100/1999, 1. gr. ^3)Nú [17]l. 86/1998.
+                               ^4)[18]Rg. 5/2001.
  12. gr. Hafi kennari starfað a.m.k. í fimm ár og óski að fá sérstakt námsorlof
     til að efla þekkingu sína og kennarahæfni skal hann senda skólanefnd og
 menntamálaráðuneyti beiðni um námsorlof ásamt greinargerð um hvernig hann hyggst
@@ -156,7 +156,7 @@ námsferðar njóti hann ekki sambærilegs styrks frá öðrum. Að loknu námso
    kennurum skylt að senda ráðuneytinu skýrslu um störf sín á námsorlofstíma.
   Ákvæði þessarar greinar taka einnig til skólameistara og annarra stjórnenda
  skóla. Menntamálaráðherra setur reglugerð^1) um framkvæmd námsorlofs kennara.
-                               ^1)[18]Rg. 331/1997.
+                               ^1)[19]Rg. 331/1997.
    13. gr. Í öllum framhaldsskólum skal rækja heilsuvernd. Sé heilsugæslustöð
      starfandi í nágrenni skólans skal fela henni að annast heilsuverndina.
         Héraðslæknar hafa umsjón með þessari starfsemi undir yfirstjórn
@@ -180,7 +180,7 @@ grunnskóla og starfsþjálfun þar sem hennar er krafist. Heimilt er skólameis
  Nemendum, sem ekki hafa náð tilskildum árangri við lok grunnskóla, skal standa
  til boða fornám^2) eða nám í sérstökum deildum á framhaldsskólastigi. Inntaka
               nemenda í framhaldsskóla er á ábyrgð skólameistara.
-                     ^1)[19]Rg. 98/2000. ^2)[20]Rg. 328/1997.
+                     ^1)[20]Rg. 98/2000. ^2)[21]Rg. 328/1997.
 
                             VII. kafli. Námsskipan.
 16. gr. Námsbrautir framhaldsskóla skiptast í starfsnámsbrautir, bóknámsbrautir,
@@ -199,7 +199,7 @@ námsbrautir framhaldsskólans. Nám á brautinni getur veitt undirbúning fyrir
  á bók-, list- eða starfsnámsbrautum og getur jafnframt verið hluti af því.]^2)
           Stofnun nýrra námsbrauta er háð samþykki menntamálaráðherra.
     Menntamálaráðherra setur reglugerð um framkvæmd ákvæða þessarar greinar.
-               ^1)[21]L. 133/1999, 5. gr. ^2)[22]L. 100/1999, 2. gr.
+               ^1)[22]L. 133/1999, 5. gr. ^2)[23]L. 100/1999, 2. gr.
  17. gr. Námsbrautir framhaldsskóla skulu skipulagðar í samræmi við lokamarkmið
  námsins. Þær skiptast í brautarkjarna, kjörsvið og frjálst val. Hlutfall milli
 þessara þátta er ákveðið í aðalnámskrá og getur verið mismunandi eftir brautum.
@@ -215,9 +215,9 @@ viðfangsefni. Starfsnám og viðurkennt listnám á framhaldsskólastigi má me
 kenndar eru í viðkomandi skóla, gefur nemendum kost á að kynnast list-, verk- og
                            fræðasviðum að eigin vali.
                                   18. gr. ^1)
-                            ^1)[23]L. 100/1999, 3. gr.
+                            ^1)[24]L. 100/1999, 3. gr.
       19. gr. Á framhaldsskólastigi skal veita fötluðum nemendum samkvæmt
-  skilgreiningu á hugtakinu fatlaður í [24]2. gr. laga nr. 59/1992, um málefni
+  skilgreiningu á hugtakinu fatlaður í [25]2. gr. laga nr. 59/1992, um málefni
   fatlaðra, kennslu og sérstakan stuðning í námi. Látin skal í té sérfræðileg
        aðstoð og nauðsynlegur aðbúnaður eftir því sem þörf krefur að mati
   menntamálaráðuneytisins. Fatlaðir nemendur skulu stunda nám við hlið annarra
@@ -225,7 +225,7 @@ kenndar eru í viðkomandi skóla, gefur nemendum kost á að kynnast list-, ver
  Menntamálaráðherra getur heimilað stofnun sérstakra deilda við framhaldsskóla
 fyrir fatlaða nemendur. Menntamálaráðherra setur reglugerð^1) með nánari ákvæðum
              um kennslu og nám fatlaðra nemenda í framhaldsskólum.
-                               ^1)[25]Rg. 372/1998.
+                               ^1)[26]Rg. 372/1998.
    20. gr. Nemendur sem hafa annað móðurmál en íslensku eiga rétt á sérstakri
    kennslu í íslensku. Menntamálaráðherra getur heimilað að stofnað verði til
 sérstaks grunnnáms í íslensku við framhaldsskóla fyrir þessa nemendur. Íslenskir
@@ -234,7 +234,7 @@ sérstaks grunnnáms í íslensku við framhaldsskóla fyrir þessa nemendur. Í
 reglugerð^1) skal kveðið nánar á um rétt þessara nemenda til kennslu í íslensku,
   svo og um tilhögun og mat á náminu. Einnig skal í reglugerð kveðið á um rétt
              heyrnarlausra nemenda til sérstakrar íslenskukennslu.
-                               ^1)[26]Rg. 329/1997.
+                               ^1)[27]Rg. 329/1997.
 
                          VIII. kafli. Námskrár og mat.
 21. gr. Aðalnámskrá, er menntamálaráðherra setur, er meginviðmiðun skólastarfs.
@@ -255,7 +255,7 @@ námsbrauta. Í aðalnámskrá skal setja viðmiðunarreglur um skólanámskrár
                                   skólastarfi.
        Tilkynning um gildistöku aðalnámskrár eða hluta hennar skal birt í
                               Stjórnartíðindum.^1)
-                         ^1)Augl. 274/1999, sbr. 371/2001.
+                  ^1)Augl. 274/1999, sbr. 371/2001 og 1004/2001.
  22. gr. Í hverjum skóla skal gefa út skólanámskrá þar sem gerð er grein fyrir
 námsframboði, lengd og innihaldi námsáfanga og skiptingu námsgreina á námsannir
    og/eða námsár. Þar skal einnig gerð grein fyrir áherslum í starfi skólans,
@@ -269,7 +269,7 @@ námsframboði, lengd og innihaldi námsáfanga og skiptingu námsgreina á nám
  þar á meðal kennslu- og stjórnunarhætti, samskipti innan skólans og tengsl við
 aðila utan skólans.^1) Á fimm ára fresti skal utanaðkomandi aðili gera úttekt á
                            sjálfsmatsaðferðum skóla.
-                               ^1)[27]Rg. 139/1997.
+                               ^1)[28]Rg. 139/1997.
 24. gr. [Almennt námsmat í framhaldsskóla er í höndum kennara.]^1) Matið byggist
    á markmiðum skólastarfs sem kveðið er á um í aðalnámskrá og skólanámskrá.
 [Námi á framhaldsskólastigi er veitir undirbúning til náms á háskólastigi lýkur
@@ -281,7 +281,7 @@ aðila utan skólans.^1) Á fimm ára fresti skal utanaðkomandi aðili gera út
  Menntamálaráðherra er heimilt að ákveða með reglugerð að lokapróf í tilteknum
     greinum af öðrum námsbrautum skuli samræmd að fenginni umsögn viðkomandi
                 starfsgreinaráðs ef um starfsnám er að ræða.]^3)
-     ^1)[28]L. 51/2001, 2. gr. ^2)[29]Rg. 525/2000. ^3)[30]L. 100/1999, 4. gr.
+     ^1)[29]L. 51/2001, 2. gr. ^2)[30]Rg. 525/2000. ^3)[31]L. 100/1999, 4. gr.
 
                              IX. kafli. Starfsnám.
      25. gr. Starfsnám skal stuðla að almennri menntun nemenda, veita þeim
@@ -328,7 +328,7 @@ tveggja ára í senn. Ef ekki tekst að skipa starfsgreinaráð er menntamálar�
   Samtök atvinnurekenda og launþega greiða kostnað af störfum fulltrúa sinna í
   starfsgreinaráði og menntamálaráðuneytið greiðir kostnað af störfum fulltrúa
          menntamálaráðherra og af sérfræðilegri vinnu við námskrárgerð.
-                  ^1)[31]Rg. 475/2001. ^2)[32]L. 100/1999, 5. gr.
+                  ^1)[32]Rg. 475/2001. ^2)[33]L. 100/1999, 5. gr.
 29. gr. Starfsgreinaráð skilgreinir þarfir starfsgreina fyrir kunnáttu og hæfni
                  starfsmanna og setur fram markmið starfsnáms.
 Starfsgreinaráð gerir tillögur um uppbyggingu starfsnáms og námskrá í sérgreinum
@@ -373,7 +373,7 @@ laun og önnur starfskjör skulu vera í samræmi við gildandi kjarasamninga a�
   skráningu námssamninga, svo og samningsslit og meðferð ágreiningsefna er upp
 kunna að koma varðandi framkvæmd samnings. Áður en reglugerð þessi er sett skal
             leitað umsagnar aðila vinnumarkaðar og samtaka nemenda.
-                      ^1)[33]Rg. 280/1997, sbr. [34]423/2000.
+                      ^1)[34]Rg. 280/1997, sbr. [35]423/2000.
 
                   X. kafli. Fullorðinsfræðsla og endurmenntun.
     33. gr. Menntamálaráðherra getur heimilað framhaldsskóla að bjóða nám í
@@ -384,7 +384,7 @@ kunna að koma varðandi framkvæmd samnings. Áður en reglugerð þessi er set
       þriðjungi kennslulauna. Menntamálaráðherra setur reglur um hlutdeild
  öldungadeildarnemenda í efniskostnaði. Nánari ákvæði um þessa starfsemi skulu
                               sett í reglugerð.^1)
-                               ^1)[35]Rg. 279/1997.
+                               ^1)[36]Rg. 279/1997.
      34. gr. Framhaldsskóla er heimilt, með samþykki menntamálaráðherra, að
  starfrækja endurmenntunarnámskeið eða annars konar nám í samráði eða samvinnu
     við faggreinafélög, stéttarfélög, atvinnurekendur eða aðra hagsmuna- eða
@@ -399,7 +399,7 @@ Halda skal kostnaði vegna þessara námskeiða aðgreindum frá öðrum rekstri
    aðra hagsmuna- og áhugahópa, fullorðinsfræðslumiðstöð, sbr. 33. og 34. gr.
   Samstarfsaðilar skulu gera með sér samning um starfsemina. Nánari ákvæði um
                    þessa starfsemi skal setja í reglugerð.^1)
-                               ^1)[36]Rg. 279/1997.
+                               ^1)[37]Rg. 279/1997.
 
                              XI. kafli. Skólasafn.
  36. gr. Í öllum framhaldsskólum skal vera skólasafn. Hlutverk þess er að vera
@@ -481,7 +481,7 @@ sérstaka viðhaldsáætlun til þriggja ára í senn sem menntamálaráðherra 
                       slíkar framkvæmdir á vegum ríkisins.
   Heimilt er að ráða sérstakan fjármálafulltrúa til þess að annast fjárreiður
           skóla og bókhald og starfar hann undir stjórn skólameistara.
-                      ^1)[37]Rg. 335/1999, sbr. augl. 4/2001.
+                      ^1)[38]Rg. 335/1999, sbr. augl. 4/2001.
   40. gr. Þar sem talið er nauðsynlegt að reka heimavist við framhaldsskóla er
 ríkið rekur greiðir ríkissjóður kostnað við umsjón og almennan rekstur. Nemendur
    bera sjálfir hluta sérgreinds kostnaðar í heimavistum og rekstri mötuneyta
@@ -498,7 +498,7 @@ reglugerða er varða framhaldsskóla og rekstur þeirra að uppfylltum skilyrð
   ríkissjóðs til þessara skóla. Njóti einkaskólar framlags af opinberu fé skal
    gerður verksamningur milli menntamálaráðherra og rekstraraðila skólans um
          fjárveitingu, rekstur, stjórnun og eigur eftir því sem við á.
-                               ^1)[38]Rg. 108/1999.
+                               ^1)[39]Rg. 108/1999.
  42. gr. Samtök atvinnurekenda og launþega geta gerst aðilar að stofnun og/eða
   rekstri framhaldsskóla eða hluta hans. Um slíka aðild skal gerður samningur
  milli aðila er kveði á um framlög og aðild að stjórnun hans, ef um slíkt á að
@@ -518,20 +518,20 @@ reglugerða er varða framhaldsskóla og rekstur þeirra að uppfylltum skilyrð
   45. gr. Árlega skal veita fé á fjárlögum til Þróunarsjóðs framhaldsskóla og
  heyrir hann undir menntamálaráðherra sem setur reglur^1) um styrkveitingar úr
                                     sjóðnum.
-                               ^1)[39]Rg. 274/1997.
+                               ^1)[40]Rg. 274/1997.
   46. gr. Menntamálaráðherra gerir Alþingi grein fyrir framkvæmd skólastarfs í
                  framhaldsskólum landsins á þriggja ára fresti.
 
                   XV. kafli. Gildistaka, brottfallin lög o.fl.
     47. gr. Lög þessi öðlast gildi 1. ágúst 1996 og skulu komin að fullu til
                 framkvæmda í upphafi skólaársins [20032004].^1)
-                            ^1)[40]L. 100/1999, 6. gr.
+                            ^1)[41]L. 100/1999, 6. gr.
                                     48. gr.
 
                             Ákvæði til bráðabirgða.
  I. [Ákvæði í 24. gr. um samræmd lokapróf úr framhaldsskóla skulu ekki komin að
              fullu til framkvæmda fyrr en skólaárið 20032004.]^1)
-                            ^1)[41]L. 100/1999, 7. gr.
+                            ^1)[42]L. 100/1999, 7. gr.
   II. Ákvæði um starfsnám í 25.32. gr. skulu vera komin til fullra framkvæmda
    innan fjögurra ára frá gildistöku laga þessara. Menntamálaráðherra setur í
     reglugerð áætlun um framkvæmd ákvæða greina þessara að höfðu samráði við
@@ -550,37 +550,38 @@ References
    5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/139-1997
    6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/141-1997
    7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/132-1997
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/333-1997
-   9. file:///altext/stjt/1996.140.html
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/132-1997
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/140-1997
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/138-1997
-  13. file://1986048.html
-  14. file:///altext/stjt/2001.051.html
-  15. file:///altext/stjt/1999.100.html
-  16. file://1998086.html
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/005-2001
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/331-1997
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/098-2000
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/328-1997
-  21. file:///altext/stjt/1999.133.html
-  22. file:///altext/stjt/1999.100.html
+   8. file:///altext/stjt/2001.148.html
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/333-1997
+  10. file:///altext/stjt/1996.140.html
+  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/132-1997
+  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/140-1997
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/138-1997
+  14. file://1986048.html
+  15. file:///altext/stjt/2001.051.html
+  16. file:///altext/stjt/1999.100.html
+  17. file://1998086.html
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/005-2001
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/331-1997
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/098-2000
+  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/328-1997
+  22. file:///altext/stjt/1999.133.html
   23. file:///altext/stjt/1999.100.html
-  24. file://1992059.html#g2
-  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/372-1998
-  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/329-1997
-  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/139-1997
-  28. file:///altext/stjt/2001.051.html
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/525-2000
-  30. file:///altext/stjt/1999.100.html
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/475-2001
-  32. file:///altext/stjt/1999.100.html
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/280-1997
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/423-2000
-  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/279-1997
+  24. file:///altext/stjt/1999.100.html
+  25. file://1992059.html#g2
+  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/372-1998
+  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/329-1997
+  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/139-1997
+  29. file:///altext/stjt/2001.051.html
+  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/525-2000
+  31. file:///altext/stjt/1999.100.html
+  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/475-2001
+  33. file:///altext/stjt/1999.100.html
+  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/280-1997
+  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/423-2000
   36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/279-1997
-  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/335-1999
-  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/108-1999
-  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/274-1997
-  40. file:///altext/stjt/1999.100.html
+  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/279-1997
+  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/335-1999
+  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/108-1999
+  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/274-1997
   41. file:///altext/stjt/1999.100.html
+  42. file:///altext/stjt/1999.100.html

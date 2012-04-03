@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,6 +7,9 @@
 
    --------------------------------------------------------------------------
 
+                         Tóku gildi 30. desember 1999.
+ Breytt með [2]l. 158/2000 (tóku gildi 1. jan. 2001), [3]l. 34/2001 (tóku gildi
+           16. maí 2001) og [4]l. 144/2001 (tóku gildi 1. jan. 2002).
                              1. gr. Almennt ákvæði.
 Eftirlitsskyldir aðilar skv. 5. gr. skulu standa straum af kostnaði við rekstur
             Fjármálaeftirlitsins í samræmi við ákvæði laga þessara.
@@ -47,22 +49,22 @@ hina eftirlitsskyldu starfsemi skal miða álagningu við lágmarksgjald skv. 5.
        Eftirtaldir eftirlitsskyldir aðilar skulu greiða eftirlitsgjald af
           álagningarstofni í þeim hlutföllum og stærðum sem hér segir:
    1. Viðskiptabankar, sparisjóðir og lánastofnanir aðrar en viðskiptabankar og
- sparisjóðir skulu greiða 0,01156% af eignum samtals, þó eigi lægri fjárhæð en
-                                  350.000 kr.
-   2. Vátryggingafélög skulu greiða 0,26596% af bókfærðum frumtryggingaiðgjöldum
+  sparisjóðir skulu greiða 0,0101% af eignum samtals, þó eigi lægri fjárhæð en
+                                  400.000 kr.
+   2. Vátryggingafélög skulu greiða 0,24420% af bókfærðum frumtryggingaiðgjöldum
 og 0,04873% af bókfærðum fengnum endurtryggingaiðgjöldum, þó eigi lægri fjárhæð
- en 350.000 kr. Vegna söfnunarlíftrygginga greiðist þó eftirlitsgjald sem nemur
+ en 400.000 kr. Vegna söfnunarlíftrygginga greiðist þó eftirlitsgjald sem nemur
  0,00615% af nettómismun iðgjaldaskuldar að frádregnum hluta endurtryggjenda í
                                iðgjaldaskuldinni.
    3. Félög eða einstaklingar sem stunda vátryggingamiðlun skulu greiða 0,04581%
   af því iðgjaldamagni sem miðlað er á næstliðnu ári, þó eigi lægri fjárhæð en
-                                  200.000 kr.
-   4. Fyrirtæki í verðbréfaþjónustu skulu greiða 0,07826% af eignum samtals, þó
+                                  150.000 kr.
+    4. Fyrirtæki í verðbréfaþjónustu skulu greiða 0,0792% af eignum samtals, þó
   aldrei lægri fjárhæð en 250.000 kr. Verðbréfasjóðir skulu greiða 0,01039% af
       eignum samtals, þó aldrei lægri fjárhæð en 250.000 kr. Rekstrarfélög
 verðbréfasjóða skulu greiða 0,08031% af eignum samtals, þó aldrei lægri fjárhæð
                                  en 150.000 kr.
-    5. Kauphallir og aðrir skipulegir tilboðsmarkaðir skulu greiða 0,76297% af
+         5. Kauphallir og skipulegir tilboðsmarkaðir skulu greiða 0,5% af
              rekstrartekjum, þó aldrei lægri fjárhæð en 250.000 kr.
    6. Lífeyrissjóðir skulu samtals greiða 0,00596% af hreinni eign til greiðslu
  lífeyris. Greiða skal eftirlitsgjaldið sem 150.000 kr. fastagjald vegna þeirra
@@ -74,18 +76,24 @@ lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris þar yfir. Það
                                   sjóðfélaga.
    7. Verðbréfamiðstöðvar skulu greiða 0,76297% af rekstrartekjum, þó eigi lægri
                              fjárhæð en 250.000 kr.
-     8. Innlánsdeildir samvinnufélaga og Póstgíróstofa Íslandspósts hf. skulu
-                    greiða fastagjald sem nemur 150.000 kr.
-   9. Nýsköpunarsjóður atvinnulífsins skal greiða 0,01156% af eignum samtals, þó
-   eigi lægri fjárhæð en 250.000 kr. Húsbréfadeild Íbúðalánasjóðs skal greiða
-      0,00031% af eignum samtals, þó eigi lægri fjárhæð en 250.000 kr. ^1)
-   10. Tryggingarsjóður innstæðueigenda og fjárfesta skal greiða fastagjald sem
-                               nemur 150.000 kr.
+    8. Innlánsdeildir samvinnufélaga skulu greiða fastagjald sem nemur 250.000
+kr. Póstgíróstofa Íslandspósts hf. skal greiða fastagjald sem nemur 150.000 kr.
+   9. Nýsköpunarsjóður atvinnulífsins skal greiða 0,0101% af eignum samtals, þó
+   eigi lægri fjárhæð en 400.000 kr. Húsbréfadeild Íbúðalánasjóðs skal greiða
+        0,0004% af eignum samtals, þó eigi lægri fjárhæð en 400.000 kr.
+    10. Tryggingarsjóður innstæðueigenda og fjárfesta og öryggissjóðir samkvæmt
+   lögum um innstæðutryggingar og tryggingakerfi fyrir fjárfesta skulu greiða
+                        fastagjald sem nemur 150.000 kr.
  Útibú erlendra eftirlitsskyldra aðila sem fengið hafa starfsleyfi hér á landi
         skulu greiða eftirlitsgjald samkvæmt viðeigandi tölulið 1. mgr.
+Þrátt fyrir 1. mgr. skal eftirlitsskyldur aðili sem er að minnsta kosti að ^9/10
+  hlutum í eigu annars eftirlitsskylds aðila greiða ^1/5 hluta eftirlitsgjalds
+  samkvæmt viðeigandi tölulið 1. mgr., enda hafi móðurfélagið heimild til sömu
+starfsemi og dótturfélagið. Ákvæði þetta á þó ekki við um lágmarksgjald skv. 1.
+                                      mgr.
     Eftirlitsgjald skal reiknast í heilum þúsundum króna. Við álagningu skal
-             jafnframt færa álagningarstofna í þúsundir króna.]^2)
-                ^1)[2]L. 34/2001, 9. gr. ^2)[3]L. 158/2000, 1. gr.
+             jafnframt færa álagningarstofna í þúsundir króna.]^1)
+                             ^1)[5]L. 144/2001, 1. gr.
                    6. gr. Framkvæmd álagningar og innheimtu.
 Álagning eftirlitsgjalds samkvæmt lögum þessum skal fara fram eigi síðar en 15.
   janúar ár hvert. Fjármálaeftirlitið skal gera eftirlitsskyldum aðilum grein
@@ -130,8 +138,9 @@ aðila verði gert að greiða samkvæmt reikningi fyrir nauðsynlegt umframefti
 opinbert eftirlit með fjármálastarfsemi og reglugerð settri samkvæmt þeim lögum.
                             9. gr. Gildistaka o.fl.
   Viðskiptaráðherra er heimilt að kveða nánar á um framkvæmd laga þessara með
-                                   reglugerð.
+                                 reglugerð.^1)
                          Lög þessi öðlast þegar gildi.
+                                ^1)[6]Rg. 562/2001.
      Ákvæði til bráðabirgða. Álagning eftirlitsgjalds fyrir árið 1999, sbr.
  auglýsingu nr. 5 6. janúar 1999, um álagningu eftirlitsgjalds þeirra aðila er
       lúta eftirliti Fjármálaeftirlitsins á árinu 1999, er sem hér segir:
@@ -186,5 +195,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999099
-   2. file://2001034.html
-   3. file:///altext/stjt/2000.158.html
+   2. file:///altext/stjt/2000.158.html
+   3. file://2001034.html
+   4. file:///altext/stjt/2001.144.html
+   5. file:///altext/stjt/2001.144.html
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001

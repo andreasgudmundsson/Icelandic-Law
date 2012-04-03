@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -27,7 +26,7 @@ skal standast próf sem sýni að hann hafi þá þekkingu og færni sem nauðsy
   til fjögurra ára í senn. Til að meta úrlausnir í einstökum tungumálum skipar
 ráðherra þriggja manna prófnefnd fyrir hvert tungumál. Skipun prófnefndar gildir
                         fyrir hvert próf sem haldið er.
-  Í reglugerð sem dómsmálaráðherra setur að fengnum tillögum prófstjórnar skal
+Í reglugerð^1) sem dómsmálaráðherra setur að fengnum tillögum prófstjórnar skal
 kveðið nánar á um framkvæmd prófs og mat prófúrlausna. Efnt skal til prófraunar
                            að jafnaði annað hvert ár.
 Sé óskað réttinda í tungumáli sem ekki er unnt að efna til prófs í sökum þess að
@@ -41,6 +40,7 @@ Að fenginni tillögu prófstjórnar ákveður dómsmálaráðherra gjald sem um
  ber að greiða fyrir að þreyta prófraun. Skal upphæð þess miðuð við kostnað við
     prófraunina. Gjaldið er óendurkræft þótt umsækjandi hverfi frá prófi eða
                                standist það ekki.
+                                ^1)[2]Rg. 893/2001.
  4. gr. Umsókn um löggildingu skal beint til dómsmálaráðherra. Umsækjandi skal
  leggja fram gögn til stuðnings því að hann fullnægi skilyrðum 2. gr. Hann skal
     vinna að því skriflegt heit að viðlögðum drengskap að hann muni rækja af
@@ -74,3 +74,4 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000148
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/893-2001

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -50,9 +49,10 @@ við ráðningu sérfræðinga á sviði rannsókna og annarra fræðistarfa vi�
       skráningu stúdenta í einstakar deildir þar sem kveðið er nánar á um
 inntökuskilyrði í viðkomandi deild. Þeir einir teljast stúdentar við Háskólann á
       Akureyri sem skrásettir hafa verið til náms samkvæmt reglum þessum.
-Við skrásetningu til náms greiðir stúdent skrásetningargjald, allt að 25.000 kr.
- Heimilt er að taka 15% hærra gjald af þeim sem fá leyfi til skrásetningar utan
-                        auglýstra skrásetningartímabila.
+ Við skrásetningu til náms greiðir stúdent skrásetningargjald, allt að [32.500
+      kr.]^1) Heimilt er að taka 15% hærra gjald af þeim sem fá leyfi til
+              skrásetningar utan auglýstra skrásetningartímabila.
+                             ^1)[2]L. 148/2001, 4. gr.
 
                           III. kafli. Stjórnskipulag.
   5. gr. Háskólaráð er æðsti ákvörðunaraðili innan skólans nema annað sé berum
@@ -108,7 +108,7 @@ viðkomandi deildarforseta. Skal þá prófdómari skipaður í hverju tilviki. 
   getur kennari eða meiri hluti stúdenta, telji þeir til þess sérstaka ástæðu,
 óskað skipunar prófdómara í einstöku prófi. Háskólarektor skipar prófdómendur að
                         fengnum tillögum háskóladeildar.
-                               ^1)[2]Rgl. 459/2000.
+                               ^1)[3]Rgl. 459/2000.
     11. gr. Rektor getur veitt stúdent áminningu eða vikið honum úr skóla um
 tiltekinn tíma eða að fullu ef hann hefur gerst sekur um brot á lögum eða öðrum
   reglum háskólans eða framkoma hans gagnvart starfsmönnum háskólans eða öðrum
@@ -157,11 +157,11 @@ ráðningu kennara og annarra starfsmanna. Háskólaráð setur nánari reglur u
                      VI. kafli. Gildistaka, reglugerð o.fl.
    17. gr. Menntamálaráðherra setur í reglugerð^1) nánari ákvæði um framkvæmd
                                  þessara laga.
-      ^1)[3]Rg. 292/1992, [4]rg. 393/1996, [5]rg. 888/1999, sbr. [6]146/2001;
-                               [7]rgl. 459/2000.
+     ^1)[4]Rg. 292/1992, [5]rg. 393/1996, [6]rg. 888/1999, sbr. [7]146/2001 og
+                         [8]698/2001; [9]rgl. 459/2000.
 18. gr. Allar reglur sem háskólaráð setur á grundvelli þessara laga skulu birtar
                               í Stjórnartíðindum.
-    19. gr. Lög þessi, sem sett eru með hliðsjón af [8]lögum um háskóla, nr.
+   19. gr. Lög þessi, sem sett eru með hliðsjón af [10]lögum um háskóla, nr.
                      136/1997, öðlast gildi 1. janúar 1999
     Ákvæði til bráðabirgða. Núverandi forstöðumenn deilda skulu gegna starfi
       deildarforseta þar til gildandi ráðningarsamningar þeirra renna út.
@@ -172,10 +172,12 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999040
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/459-2000
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/292-1992
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/393-1996
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/888-1999
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/146-2001
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/459-2000
-   8. file://1997136.html
+   2. file:///altext/stjt/2001.148.html
+   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/459-2000
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/292-1992
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/393-1996
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/888-1999
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/146-2001
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/698-2001
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/459-2000
+  10. file://1997136.html

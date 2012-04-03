@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -48,10 +47,11 @@ Eigandi köfunarbúnaðar ber ábyrgð á því að búnaðurinn fullnægi skily
                        og að búnaðinum verði haldið við.
    6. gr. Siglingastofnun Íslands hefur umsjón og eftirlit með framkvæmd laga
                                     þessara.
-   Ráðherra setur nánari reglur um framkvæmd laganna, m.a. um skilyrði fyrir
+  Ráðherra setur nánari reglur^1) um framkvæmd laganna, m.a. um skilyrði fyrir
  viðhaldi réttinda samkvæmt köfunarskírteini, svo sem um menntunar-, hæfnis- og
  heilsufarskröfur, eftir því sem við á, og um heimild Siglingastofnunar Íslands
     til gjaldtöku vegna eftirlits, útgáfu og endurnýjunar köfunarskírteina.
+                                ^1)[2]Rg. 535/2001.
     7. gr. Slys eða óhöpp sem verða við köfun skal tilkynna þegar í stað til
  lögreglu í því umdæmi þar sem slys eða óhapp átti sér stað og annast lögreglan
  rannsókn á orsökum þeirra. Við rannsóknina skal kalla til sérfróða aðila eftir
@@ -68,3 +68,4 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996031
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/535-2001

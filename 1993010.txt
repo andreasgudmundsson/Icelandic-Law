@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -412,8 +411,9 @@ Framsetning ársreiknings skal vera með skýrum hætti og í samræmi við ákv
  á árinu, svo og upplýsingar um atriði sem mikilvæg eru við mat á fjárhagslegri
 stöðu sjóðsins og afkomu hans á reikningsárinu en koma ekki fram annars staðar í
                                 ársreikningnum.
-[Fjármálaeftirlitinu]^2) er heimilt að setja nánari reglur um gerð ársreiknings.
-                ^1)[36]L. 17/1999, 4. gr. ^2)[37]L. 84/1998, 4. gr.
+     [Fjármálaeftirlitinu]^2) er heimilt að setja nánari reglur^3) um gerð
+                                 ársreiknings.
+     ^1)[36]L. 17/1999, 4. gr. ^2)[37]L. 84/1998, 4. gr. ^3)[38]Rgl. 695/2001.
    [31. gr.]^1) Ársreikningur verðbréfasjóðs skal endurskoðaður af löggiltum
    endurskoðanda eða endurskoðunarstofu. Endurskoðandi má ekki sitja í stjórn
  verðbréfasjóðs eða rekstrarfélags, vera starfsmaður þessara aðila eða starfa í
@@ -423,7 +423,7 @@ stöðu sjóðsins og afkomu hans á reikningsárinu en koma ekki fram annars st
        endurskoðanda allar umbeðnar upplýsingar sem unnt er að láta í té.
    Ákvæði 2. mgr. tekur einnig til upplýsinga og gagna hjá rekstrarfélagi og
    vörslufyrirtæki sem nauðsynleg eru vegna endurskoðunar hjá verðbréfasjóði.
-                             ^1)[38]L. 17/1999, 4. gr.
+                             ^1)[39]L. 17/1999, 4. gr.
   [32. gr.]^1) Endurskoðandi skal árita ársreikning og greina frá niðurstöðum
  endurskoðunarinnar. Hann skal gefa yfirlýsingu um að ársreikningur hafi verið
 endurskoðaður og að hann hafi verið saminn í samræmi við ákvæði laga, reglna og
@@ -448,7 +448,7 @@ endurskoðandi greint frá þeim atriðum í áritun sinni sem hann telur eðlil
                                annarra laga.]^3)
  Ákvæði 3. mgr. taka til endurskoðenda rekstrarfélags og vörslufyrirtækis eftir
                              því sem við getur átt.
-    ^1)[39]L. 17/1999, 4. gr. ^2)[40]L. 84/1998, 4. gr. ^3)[41]L. 21/1996, 11.
+    ^1)[40]L. 17/1999, 4. gr. ^2)[41]L. 84/1998, 4. gr. ^3)[42]L. 21/1996, 11.
                                       gr.
  [33. gr.]^1) Endurskoðaður ársreikningur verðbréfasjóðs ásamt ársskýrslu skal
 sendur [Fjármálaeftirlitinu]^2) innan tíu daga frá undirritun en í síðasta lagi
@@ -468,7 +468,7 @@ félögum er einnig skylt að láta Seðlabanka Íslands í té þær upplýsing
  þarf á að halda vegna hagskýrslugerðar, sbr. ákvæði laga um Seðlabanka Íslands
 [og ákvæði um samstarfssamning Seðlabanka Íslands og Fjármálaeftirlitsins, sbr.
               lög um opinbert eftirlit með fjármálastarfsemi].^2)
-                ^1)[42]L. 17/1999, 4. gr. ^2)[43]L. 84/1998, 4. gr.
+                ^1)[43]L. 17/1999, 4. gr. ^2)[44]L. 84/1998, 4. gr.
 
                               IX. kafli. Eftirlit.
       [34. gr.]^1) [Fjármálaeftirlitið]^2) hefur eftirlit með að starfsemi
@@ -482,13 +482,13 @@ Telji [Fjármálaeftirlitið]^2) að starfsemi verðbréfasjóðs, vörslufyrirt
   rekstrarfélags brjóti gegn ákvæðum laga þessara, reglugerða og reglna settra
  samkvæmt þeim eða sé að öðru leyti óeðlileg, óheilbrigð eða ótraust getur það
       veitt viðkomandi hæfilegan frest til úrbóta nema brot séu alvarleg.
-                ^1)[44]L. 17/1999, 4. gr. ^2)[45]L. 84/1998, 4. gr.
+                ^1)[45]L. 17/1999, 4. gr. ^2)[46]L. 84/1998, 4. gr.
 
                           X. kafli. Afturköllun leyfa.
     [35. gr.]^1) Skylt er ráðherra að afturkalla starfsleyfi verðbréfasjóðs
       1. uppfylli leyfishafi ekki lengur skilyrði til að öðlast starfsleyfi,
      2. sé bú leyfishafa tekið til gjaldþrotaskipta eða starfsemi hans slitið.
-                             ^1)[46]L. 17/1999, 4. gr.
+                             ^1)[47]L. 17/1999, 4. gr.
 [36. gr.]^1) Hafi verðbréfasjóðir, rekstrarfélag eða vörslufyrirtæki í starfsemi
 sinni ítrekað eða með alvarlegum hætti brotið gegn ákvæðum laga þessara, reglna
    eða reglugerða settra samkvæmt þeim eða starfsemi þeirra er að öðru leyti
@@ -499,15 +499,15 @@ sinni ítrekað eða með alvarlegum hætti brotið gegn ákvæðum laga þessar
 þessara er ráðherra heimilt að svipta sjóðinn starfsleyfi um stundarsakir. Skal
   þá ráðherra skipa hlutaðeigandi umsjónaraðila til bráðabirgða sem gera skal
            ráðstafanir sem miða að því að tryggja hag viðskiptamanna.
-    ^1)[47]L. 17/1999, 4. gr. ^2)[48]L. 84/1998, 4. gr. ^3)Nú [49]34. gr., sbr.
-                             [50]l. 17/1994, 4. gr.
+    ^1)[48]L. 17/1999, 4. gr. ^2)[49]L. 84/1998, 4. gr. ^3)Nú [50]34. gr., sbr.
+                             [51]l. 17/1994, 4. gr.
 [37. gr.]^1) Afturköllun á starfsleyfi verðbréfasjóðs skal rökstudd og tilkynnt
    hlutaðeigandi skriflega. Jafnframt skal birta tilkynningu um afturköllun í
                  Lögbirtingablaði og auglýsa hana í fjölmiðlum.
     Afturkalli ráðherra starfsleyfi verðbréfasjóðs endanlega skal hann skipa
 skilanefnd þriggja manna sem sér um slit á sjóðnum eða flutning á starfsemi hans
                            til annars verðbréfasjóðs.
-                             ^1)[51]L. 17/1999, 4. gr.
+                             ^1)[52]L. 17/1999, 4. gr.
 
                             XI. kafli. Ýmis ákvæði.
  [38. gr.]^1) Hyggist verðbréfasjóður markaðssetja hlutdeildarskírteini sín eða
@@ -521,15 +521,15 @@ landi. Um starfsemi slíkra leyfishafa fer samkvæmt nánari reglum^3) sem ráð
 Um gildi leyfa til starfsemi, sem lög þessi taka til, sem veitt eru af lögbærum
   yfirvöldum ríkja utan Evrópska efnahagssvæðisins, svo og um starfsemi slíkra
           leyfishafa hér á landi, fer eftir reglum sem ráðherra setur.
-     ^1)[52]L. 17/1999, 4. gr. ^2)[53]L. 84/1998, 4. gr. ^3)[54]Rg. 369/1993.
+     ^1)[53]L. 17/1999, 4. gr. ^2)[54]L. 84/1998, 4. gr. ^3)[55]Rg. 369/1993.
 [[39. gr.]^1) Rekstrarfélag skal gefa út útboðslýsingu fyrir hvern verðbréfasjóð
 sem það annast rekstur á samkvæmt lögum þessum. Í útboðslýsingu skulu koma fram
      nauðsynlegar upplýsingar til að viðskiptavinum sé kleift að meta kosti
               fjárfestinga í hlutdeildarskírteinum verðbréfasjóðs.
  Nánar skal kveðið á um útboðslýsingar verðbréfasjóða skv. 1. mgr. í reglum^2)
                      sem [Fjármálaeftirlitið]^3) setur.]^4)
-     ^1)[55]L. 17/1999, 4. gr. ^2)[56]Rg. 616/1996. ^3)[57]L. 84/1998, 4. gr.
-                           ^4)[58]L. 21/1996, 12. gr.
+     ^1)[56]L. 17/1999, 4. gr. ^2)[57]Rgl. 686/2001. ^3)[58]L. 84/1998, 4. gr.
+                           ^4)[59]L. 21/1996, 12. gr.
  [40. gr. Í auglýsingum og annarri kynningarstarfsemi verðbréfasjóða skal þess
 gætt að fram komi réttar og nákvæmar upplýsingar um starfsemi verðbréfasjóðsins.
        Þess skal gætt að skýrt komi fram hvort sjóðurinn hafi heimild til
@@ -538,7 +538,7 @@ Fjárfesti verðbréfasjóður í framvirkum samningum og valréttarsamningum sk
  gr. skal getið um það sérstaklega í auglýsingum og annarri kynningarstarfsemi.
 Jafnframt skal koma fram viðvörun til fjárfesta um að fjárfesting í slíkum sjóði
                                sé áhættusöm.]^1)
-                             ^1)[59]L. 17/1999, 5. gr.
+                             ^1)[60]L. 17/1999, 5. gr.
     [41. gr.]^1) Stjórnendur og starfsmenn verðbréfasjóða, rekstrarfélaga og
     vörslufyrirtækja eru bundnir þagnarskyldu um öll viðskipti sem þeir hafa
 milligöngu um og allt það er varðar hagi viðskiptamanna og þeir öðlast vitneskju
@@ -546,16 +546,16 @@ milligöngu um og allt það er varðar hagi viðskiptamanna og þeir öðlast v
 úrskurði að skylt sé að veita upplýsingar fyrir dómi eða lögreglu eða skylda sé
  til að veita upplýsingar lögum samkvæmt. Þagnarskyldan helst þótt látið sé af
                                     starfi.
-                             ^1)[60]L. 17/1999, 5. gr.
+                             ^1)[61]L. 17/1999, 5. gr.
   [42. gr.]^1) Kostnaður við birtingar tilkynninga samkvæmt lögum þessum skal
                      greiddur af viðkomandi verðbréfasjóði.
-                             ^1)[61]L. 17/1999, 5. gr.
+                             ^1)[62]L. 17/1999, 5. gr.
   [43. gr. Verðbréfasjóður getur höfðað mál í eigin nafni fyrir hönd einstakra
          eigenda hlutdeildarskírteina til ógildingar á skírteinum.]^1)
-                             ^1)[62]L. 17/1999, 6. gr.
+                             ^1)[63]L. 17/1999, 6. gr.
 [44. gr.]^1) Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt
              að kveða nánar á um framkvæmd þeirra með reglugerð.^2)
-                  ^1)[63]L. 17/1999, 6. gr. ^2)[64]Rg. 369/1993.
+                  ^1)[64]L. 17/1999, 6. gr. ^2)[65]Rg. 369/1993.
 
                              XII. kafli. Viðurlög.
  [45. gr.]^1) Brot gegn lögum þessum varða sektum eða fangelsi allt að einu ári
@@ -565,11 +565,11 @@ framið í þágu lögaðila er heimilt að beita stjórnendur lögaðilans fram
                                 starfsréttinda.
   Um tilraun og hlutdeild í brotum samkvæmt lögum þessum fer samkvæmt ákvæðum
                             almennra hegningarlaga.
-                             ^1)[65]L. 17/1999, 6. gr.
+                             ^1)[66]L. 17/1999, 6. gr.
 
                             XIII. kafli. Gildistaka.
                [46. gr.]^1) Lög þessi öðlast gildi 1. júlí 1993.
-                             ^1)[66]L. 17/1999, 6. gr.
+                             ^1)[67]L. 17/1999, 6. gr.
                             Ákvæði til bráðabirgða.
 
 References
@@ -612,32 +612,33 @@ References
   35. file:///altext/stjt/1998.084.html
   36. file:///altext/stjt/1999.017.html
   37. file:///altext/stjt/1998.084.html
-  38. file:///altext/stjt/1999.017.html
+  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/695-2001
   39. file:///altext/stjt/1999.017.html
-  40. file:///altext/stjt/1998.084.html
-  41. file:///altext/stjt/1996.021.html
-  42. file:///altext/stjt/1999.017.html
-  43. file:///altext/stjt/1998.084.html
-  44. file:///altext/stjt/1999.017.html
-  45. file:///altext/stjt/1998.084.html
-  46. file:///altext/stjt/1999.017.html
+  40. file:///altext/stjt/1999.017.html
+  41. file:///altext/stjt/1998.084.html
+  42. file:///altext/stjt/1996.021.html
+  43. file:///altext/stjt/1999.017.html
+  44. file:///altext/stjt/1998.084.html
+  45. file:///altext/stjt/1999.017.html
+  46. file:///altext/stjt/1998.084.html
   47. file:///altext/stjt/1999.017.html
-  48. file:///altext/stjt/1998.084.html
+  48. file:///altext/stjt/1999.017.html
   49. file:///altext/stjt/1998.084.html
-  50. file://1994017.html
-  51. file:///altext/stjt/1999.017.html
+  50. file:///altext/stjt/1998.084.html
+  51. file://1994017.html
   52. file:///altext/stjt/1999.017.html
-  53. file:///altext/stjt/1998.084.html
-  54. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-1993
-  55. file:///altext/stjt/1999.017.html
-  56. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/616-1996
-  57. file:///altext/stjt/1998.084.html
-  58. file:///altext/stjt/1996.021.html
-  59. file:///altext/stjt/1999.017.html
+  53. file:///altext/stjt/1999.017.html
+  54. file:///altext/stjt/1998.084.html
+  55. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-1993
+  56. file:///altext/stjt/1999.017.html
+  57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/686-2001
+  58. file:///altext/stjt/1998.084.html
+  59. file:///altext/stjt/1996.021.html
   60. file:///altext/stjt/1999.017.html
   61. file:///altext/stjt/1999.017.html
   62. file:///altext/stjt/1999.017.html
   63. file:///altext/stjt/1999.017.html
-  64. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-1993
-  65. file:///altext/stjt/1999.017.html
+  64. file:///altext/stjt/1999.017.html
+  65. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-1993
   66. file:///altext/stjt/1999.017.html
+  67. file:///altext/stjt/1999.017.html

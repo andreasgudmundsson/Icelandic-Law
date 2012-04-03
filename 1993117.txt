@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -449,7 +448,7 @@ hátt geta atvinnurekendur skv. b-lið tryggt mökum sínum og börnum innan 16 
   skal þá greiða nauðsynlegan kostnað vegna lækningar hins slasaða og tjóns á
                 gervilimum eða hjálpartækjum svo sem hér segir:
                              1. Að fullu skal greiða:
-                a. Læknishjálp samkvæmt samningum sjúkratrygginga.
+             a. [Læknishjálp sem samið hefur verið um skv. 39. gr.]^1)
     b. Sjúkrahúsvist, svo lengi sem afleiðingar slyssins gera hana nauðsynlega.
 Greiðsla sjúkrahúsvistar færist þó yfir á sjúkratryggingarnar þegar hinn slasaði
             er orðinn 70 ára, enda séu þá full tvö ár frá slysdegi.
@@ -483,13 +482,13 @@ Greiðslu fyrir sams konar viðgerðir á lélegri tönnum má takmarka við kos
       sjúkrastofnun, svo sem í endurhæfingu eða sjúkraþjálfun, með eða án
 innlagningar, þótt vegalengd sé skemmri en 15 km, enda séu ferðir fleiri en 30 á
                               sex mánaða tímabili.
- [Tryggingaráð setur reglur^1) um endurgreiðslu að nokkru eða öllu leyti fyrir
-sjúkrahjálp sem sérstakir samningar sjúkratrygginga samkvæmt framansögðu ná ekki
-                                   yfir.]^2)
+    [Að svo miklu leyti sem samningar skv. 39. gr. ná ekki til sjúkrahjálpar
+  samkvæmt framansögðu getur ráðherra ákveðið endurgreiðslu að nokkru eða öllu
+                            leyti með reglugerð.]^1)
 Nú veldur slys ekki óvinnufærni í 10 daga, en hefur þó í för með sér kostnað sem
  um ræðir í grein þessari og má þá greiða hann að svo miklu leyti sem hann fæst
                       ekki greiddur hjá sjúkratryggingum.
-                  ^1)[64]Rg. 765/2000. ^2)[65]L. 60/1999, 12. gr.
+                            ^1)[64]L. 154/2001, 2. gr.
 28. gr. Dagpeningar greiðast frá og með 8. degi eftir að slysið varð, enda hafi
  hinn slasaði verið óvinnufær í minnst 10 daga. Dagpeningar greiðast þangað til
 hinn slasaði verður vinnufær, úrskurður er felldur um varanlega örorku hans eða
@@ -528,7 +527,7 @@ Ef orkutap er minna en 50% er Tryggingastofnuninni heimilt að greiða í einu l
   reglum er ráðuneytið setur að fengnum tillögum tryggingaráðs. Ella greiðist
                        lífeyrir í hlutfalli við örorkuna.
        Örorkubætur greiðast ekki ef orkutapið er metið minna en 10%. ^2)
-   ^1)[66]L. 62/1999, 3. gr. ^2)[67]L. 111/2000, 23. gr. Sjá nmgr. 1 við 24. gr.
+   ^1)[65]L. 62/1999, 3. gr. ^2)[66]L. 111/2000, 23. gr. Sjá nmgr. 1 við 24. gr.
 30. gr. Ef slys veldur dauða innan tveggja ára frá því er það bar að höndum skal
                         greiða dánarbætur sem hér segir:
     a. Ekkja eða ekkill, sem var samvistum við hinn látna eða á framfæri hans,
@@ -568,7 +567,7 @@ slysatrygginga næsta almanaksár að meðtöldu tillagi til varasjóðs, allt a
    ríkisins á launum eða aflahlut sjómanna skv. 63. gr. skal tekið tillit til
  rekstrarkostnaðar slysatrygginga auk framlags í varasjóð, sbr. 2. mgr. Iðgjald
                   þetta skal ákveða árlega með reglugerð.]^3)
-   ^1)[68]L. 111/2000, 23. gr. ^2)[69]Rg. 94/1979, sbr. [70]623/1980. ^3)[71]L.
+   ^1)[67]L. 111/2000, 23. gr. ^2)[68]Rg. 94/1979, sbr. [69]623/1980. ^3)[70]L.
                                144/1995, 32. gr.
 
                           IV. kafli. Sjúkratryggingar.
@@ -584,8 +583,8 @@ Börn og unglingar, 16 ára og yngri, eru sjúkratryggð með foreldrum sínum. 
 [Ráðherra getur sett reglugerð^3) um fyrirkomulag og framkvæmd sjúkratrygginga,
       um starfsemi sjúkratryggingadeildar og um undanþágur frá sex mánaða
                   [búsetuskilyrði]^1) og framkvæmd þeirra.]^4)
-     ^1)[72]L. 60/1999, 13. gr. ^2)[73]L. 59/1998, 3. gr. ^3)[74]Rg. 463/1999.
-                           ^4)[75]L. 59/1998, 3. gr.
+     ^1)[71]L. 60/1999, 13. gr. ^2)[72]L. 59/1998, 3. gr. ^3)[73]Rg. 463/1999.
+                           ^4)[74]L. 59/1998, 3. gr.
                                    B. Bætur.
 33. gr. Hlutverk sjúkratryggingadeildar Tryggingastofnunar ríkisins er að annast
        sjúkratryggingar samkvæmt lögum þessum. Enn fremur er það hlutverk
@@ -613,13 +612,10 @@ sjúkrahúsvistar. Tryggingaráð setur reglur um greiðslu kostnaðar samkvæmt
         skal greiðsluheimildar frá Tryggingastofnun ríkisins fyrir fram.
   Tryggingastofnun getur áskilið vottorð sérfræðings um nauðsyn hjálpartækis,
                    þjálfunar, næringarefnis eða sérfæðis.]^6)
-             Ráðherra getur ákveðið að sjúkratryggingadeild greiði:
-   a. Gjald fyrir rannsóknir og læknishjálp sem Tryggingastofnunin semur um við
-                        opinberar heilbrigðisstofnanir.
-        b. Kostnað samkvæmt milliríkjasamningum af sjúkrahjálp við erlenda
-                 ríkisborgara sem dveljast hér um stundarsakir.
-       ^1)[76]Rg. 663/1996. ^2)[77]Rg. 622/1998. ^3)[78]L. 60/1999, 14. gr.
-  ^4)[79]L. 100/1996, 1. gr. ^5)[80]Rgl. 990/2000. ^6)[81]L. 100/1996, 2. gr.
+                                      ^7)
+       ^1)[75]Rgl. 29/1999. ^2)[76]Rg. 622/1998. ^3)[77]L. 60/1999, 14. gr.
+  ^4)[78]L. 100/1996, 1. gr. ^5)[79]Rgl. 990/2000. ^6)[80]L. 100/1996, 2. gr.
+                           ^7)[81]L. 154/2001, 3. gr.
  34. gr. Hverjum þeim, sem sjúkratryggður er skv. 32. gr., skal tryggð ókeypis
  vist að ráði læknis í sjúkrahúsum, þar með talið á fæðingarstofnunum, sbr. þó
    35. og 39. gr. eða ákvæði sérlaga. Sjúkrahúsvist skal tryggð eins lengi og
@@ -641,89 +637,87 @@ hann vera formaður hennar. Ráðherra getur með reglugerð^1) sett nánari ák
                                ^1)[82]Rg. 201/1998.
        36. gr. Til viðbótar þeim réttindum, sem þegar eru upptalin, skulu
                  sjúkratryggingar veita þá hjálp sem hér segir:
-          a. Almenna læknishjálp utan sjúkrahúsa hjá lækni sjúklings sem
-  Tryggingastofnunin hefur gert samning við. Með reglugerð má ákveða gjald sem
- hinn sjúkratryggði greiði fyrir hvert viðtal á læknastofu og hverja vitjun til
-  sjúklings. Sjúkratryggingar hafa heimild til að ákveða að sjúklingur greiði
+   a. [Almenna læknishjálp utan sjúkrahúsa sem samið hefur verið um skv. 39. gr.
+     Um gjald sem sjúkratryggður einstaklingur greiðir fyrir hvert viðtal á
+  læknastofu og hverja vitjun læknis fer samkvæmt gjaldskrá ráðherra, sbr. 2.
+   mgr.]^1) Sjúkratryggingar hafa heimild til að ákveða að sjúklingur greiði
    læknisreikninga að fullu og endurgreiða sjúkratryggingar þá sjúklingi sinn
                                      hluta.
-     b. Nauðsynlegar rannsóknir og aðgerðir hjá sérfræðingum eða stofnunum sem
-Tryggingastofnun ríkisins hefur samning við. Ráðherra hefur heimild til þess að
-      ákveða að skilyrði fyrir greiðslu sjúkratrygginga skuli háð tilvísun
-heilsugæslulæknis eða heimilislæknis. Fyrir hverja komu til sérfræðings samkvæmt
-      tilvísun greiði sjúklingur gjald sem ákveðið skal með reglugerð. Með
-  reglugerð^1) skal sömuleiðis setja nánari reglur um notkun tilvísana, þar á
+     b. [Nauðsynlegar rannsóknir og meðferð hjá sérfræðingum eða stofnunum sem
+ samningar skv. 39. gr. taka til.]^1) Ráðherra hefur heimild til þess að ákveða
+að skilyrði fyrir greiðslu sjúkratrygginga skuli háð tilvísun heilsugæslulæknis
+ eða heimilislæknis. Fyrir hverja komu til sérfræðings samkvæmt tilvísun greiði
+ sjúklingur gjald [samkvæmt gjaldskrá sem ráðherra setur, sbr. 2. mgr.]^1) Með
+  reglugerð^2) skal sömuleiðis setja nánari reglur um notkun tilvísana, þar á
  meðal í hvaða tilvikum og með hvaða hætti Tryggingastofnun ríkisins geti tekið
    þátt í greiðslu kostnaðar vegna rannsókna og aðgerða hjá sérfræðingum þótt
                          sjúklingur hafi ekki tilvísun.
     c. Lyf sem sjúkratryggðum er lífsnauðsynlegt að nota að staðaldri. Af öðrum
   nauðsynlegum lyfjakostnaði greiðir sjúkratryggður gjald sem ákveðið skal með
-    reglugerð.^2) Sé heildarverð lyfs jafnt eða lægra en þessi mörk greiðir
-  sjúkratryggður það. [Eftir að nýtt lyf hefur fengið markaðsleyfi hér á landi
-  skal nefnd skv. 41. gr. lyfjalaga ákveða hvort sjúkratryggingar taki þátt í
-                         greiðslu viðkomandi lyfs.]^3)
-    d. Röntgengreining og geislameðferð samkvæmt gjaldskrá sem heilbrigðis- og
- tryggingamálaráðherra setur, þó þannig að sjúkratryggður greiðir 900 kr. fyrir
-                            hverja röntgengreiningu.
-                         e. Sjúkradagpeningar skv. 38. gr.
-    f. Kostnað vegna aðstoðar ljósmóður við fæðingu í heimahúsum, ákveðinn með
-       þeim hætti sem um ræðir í 39. gr., og að auki dagpeninga, jafnháa
-               sjúkradagpeningum, í 10 daga frá því fæðing hefst.
-                           g. Tannlækningar skv. 37. gr.
-    h. Óhjákvæmilegan ferðakostnað læknis til þeirra sjúkratryggðu sem ekki eru
-  ferðafærir sökum sjúkdóms síns, þó þannig að sjúkratryggður greiðir 100 kr.
+  [gjaldskrá, sbr. 2. mgr.]^1)^3) Sé heildarverð lyfs jafnt eða lægra en þessi
+ mörk greiðir sjúkratryggður það. [Eftir að nýtt lyf hefur fengið markaðsleyfi
+hér á landi skal nefnd skv. 41. gr. lyfjalaga ákveða hvort sjúkratryggingar taki
+                      þátt í greiðslu viðkomandi lyfs.]^4)
+
+                      [d.] ^1) Sjúkradagpeningar skv. 38. gr.
+    [e.] ^1) [Aðstoð ljósmóður við fæðingu í heimahúsum samkvæmt samningum skv.
+ 39. gr. og að auki dagpeninga, jafnháa sjúkradagpeningum, í 10 daga frá því að
+                               fæðing hefst.]^1)
+                        [f.] ^1) Tannlækningar skv. 37. gr.
+   [g.] ^1) Óhjákvæmilegan ferðakostnað læknis til þeirra sjúkratryggðu sem ekki
+eru ferðafærir sökum sjúkdóms síns, þó þannig að sjúkratryggður greiðir 100 kr.
                                fyrir hverja ferð.
-    i. Óhjákvæmilegan flutningskostnað sjúkratryggðs í sjúkrahús innan lands að
-  ^7/8 hlutum, enda sé flutningsþörf svo bráð og heilsu hins sjúkratryggða svo
-varið að hann verður ekki fluttur eftir venjulegum farþega- og flutningsleiðum.
-Þó greiðir sjúkratryggður aldrei meira en 2.400 kr. Sjúkraflutningur innan bæjar
-greiðist þó ekki og frá kostnaði við sjúkrabifreið dregst kostnaður vegna fyrstu
-   10 km. Sömu reglur skulu gilda um flutning sjúks manns frá sjúkrahúsi til
-    heimilis eða dvalarstaðar, enda verði hann ekki fluttur eftir venjulegum
-     farþegaflutningsleiðum. Sé fylgd nauðsynleg greiðist ^7/8 af fargjaldi
-fylgdarmanns, jafnvel þó að um áætlunarferð sé að ræða. Flutningskostnaður milli
-sjúkrahúsa greiðist að fullu af því sjúkrahúsi sem sendir sjúkling nema um sé að
-   ræða flutning milli sjúkrahúsa í sama sveitarfélagi og heilsu sjúklings sé
-       þannig varið að hann geti notað venjulegar farþegaflutningsleiðir.
-       j. Óhjákvæmilegan ferðakostnað með takmörkunum og eftir reglum^4) sem
+     [h.] ^1) Óhjákvæmilegan flutningskostnað sjúkratryggðs í sjúkrahús innan
+      lands að ^7/8 hlutum, enda sé flutningsþörf svo bráð og heilsu hins
+sjúkratryggða svo varið að hann verður ekki fluttur eftir venjulegum farþega- og
+      flutningsleiðum. Þó greiðir sjúkratryggður aldrei meira en 2.400 kr.
+Sjúkraflutningur innan bæjar greiðist þó ekki og frá kostnaði við sjúkrabifreið
+ dregst kostnaður vegna fyrstu 10 km. Sömu reglur skulu gilda um flutning sjúks
+manns frá sjúkrahúsi til heimilis eða dvalarstaðar, enda verði hann ekki fluttur
+ eftir venjulegum farþegaflutningsleiðum. Sé fylgd nauðsynleg greiðist ^7/8 af
+       fargjaldi fylgdarmanns, jafnvel þó að um áætlunarferð sé að ræða.
+  Flutningskostnaður milli sjúkrahúsa greiðist að fullu af því sjúkrahúsi sem
+      sendir sjúkling nema um sé að ræða flutning milli sjúkrahúsa í sama
+sveitarfélagi og heilsu sjúklings sé þannig varið að hann geti notað venjulegar
+                            farþegaflutningsleiðir.
+    [i.] ^1) Óhjákvæmilegan ferðakostnað með takmörkunum og eftir reglum^5) sem
    tryggingaráð setur og ráðherra staðfestir fyrir sjúkratryggða sem þarfnast
     ítrekaðrar meðferðar hjá lækni eða í sjúkrahúsi með eða án innlagningar.
-     [Heimilt er með takmörkunum og eftir reglum^5) sem tryggingaráð setur og
+     [Heimilt er með takmörkunum og eftir reglum^6) sem tryggingaráð setur og
 ráðherra staðfestir að greiða óhjákvæmilegan dvalarkostnað annars foreldris við
  sjúkrahúsinnlögn barns yngra en 18 ára fjarri heimili. Ef um er að ræða erfiða
  meðferð við lífshættulegum sjúkdómi er heimilt að slík greiðsla nái til beggja
-                     foreldra barns undir 18 ára aldri.]^6)
-     k. Hjúkrun í heimahúsum vegna alvarlegra og langvinnra sjúkdóma og slysa
-      samkvæmt samningum sem Tryggingastofnun ríkisins gerir og reglum sem
-                              tryggingaráð setur.
-Ráðherra er með reglugerð^7) heimilt að breyta greiðslum sjúkratryggðra samkvæmt
- þessari grein, svo og að ákveða með reglugerð hámark eininga í lyfjaávísunum.
-Ráðherra er með reglugerð heimilt að ákveða að gjald skv. a-, b-, c- og d-liðum
-  skuli vera hlutfallsgjald og tiltaka hámark þess gjalds sem sjúklingi ber að
-   greiða. Þá er ráðherra og heimilt með reglugerð að ákveða greiðsluþátttöku
-         sjúkratryggðra fyrir sérhæfða göngudeildarþjónustu skv. b-lið.
- Með reglugerð^8) er einnig heimilt að ákveða víðtækari hjálp vegna veikinda en
-  mælt er fyrir um í þessari grein, þar á meðal að láta réttindi til greiðslu
-kostnaðar við tannlækningar ná til fleiri hópa en segir í 37. gr. og ákveða með
-       hliðsjón af ákvæðum þeirrar greinar hvernig þátttöku skuli haga í
-                        tannlækniskostnaði viðbótarhópa.
-       ^1)[83]Rg. 82/1995, sbr. [84]229/1995. ^2)[85]Rg. 948/2000. ^3)[86]L.
-108/2000, 32. gr. ^4)[87]Rg. 213/1999, sbr. [88]927/2000. ^5)[89]Rgl. 457/2000.
-    ^6)[90]L. 61/2000, 1. gr. ^7)[91]Rg. 81/1995, sbr. [92]228/1995. [93]Rg.
-    68/1996, sbr. [94]246/1997, [95]529/1997, [96]236/1999 og [97]572/2000.
-                      ^8)[98]Rg. 28/1999. [99]Rg. 29/1999.
-37. gr. Fyrir tannlæknaþjónustu, aðra en tannréttingar, greiða sjúkratryggingar
-samkvæmt gjaldskrá sem ráðherra setur. Gjaldskráin gildir bæði um tannlækningar
-sem starfræktar eru á vegum hins opinbera og annarra. Í stað gjaldskrár ráðherra
-        er Tryggingastofnun þó heimilt að semja um gjaldskrá er gildi um
-          tannlæknaþjónustu, alla eða að hluta, aðra en tannréttingar.
+                     foreldra barns undir 18 ára aldri.]^7)
+     [j.] ^1) [Hjúkrun í heimahúsum vegna alvarlegra og langvinnra sjúkdóma og
+                   slysa samkvæmt samningum skv. 39. gr.]^1)
+  [Heimilt er að breyta greiðslum sjúkratryggðra einstaklinga samkvæmt þessari
+grein með reglugerð^8) og ákveða hámark eininga í lyfjaávísunum. Sjúkratryggðir
+ einstaklingar skulu greiða gjald fyrir þjónustu skv. a-, b-, c-, d-, g-, h- og
+ i-liðum 1. mgr. í samræmi við gjaldskrá sem ráðherra setur. Um greiðslur fyrir
+  tannlæknaþjónustu fer samkvæmt ákvæðum 37. gr. Heimilt er að ákveða að gjald
+      skv. a-, b-, c-, d-, g-, h- og i-liðum 1. mgr. og 3. mgr. skuli vera
+  hlutfallsgjald og tiltaka hámark þess sem sjúkratryggðum einstaklingi ber að
+                                    greiða.
+     Með reglugerð^9) er einnig heimilt að ákveða frekari kostnaðarþátttöku
+Tryggingastofnunar ríkisins í heilbrigðisþjónustu en mælt er fyrir um í þessari
+                              grein og 37. gr.]^1)
+   ^1)[83]L. 154/2001, 4. gr. ^2)[84]Rg. 82/1995, sbr. [85]229/1995. ^3)[86]Rg.
+    948/2001, sbr. [87]845/2001 og [88]947/2001. ^4)[89]L. 108/2000, 32. gr.
+^5)[90]Rg. 213/1999, sbr. [91]927/2000. ^6)[92]Rgl. 457/2000. ^7)[93]L. 61/2000,
+   1. gr. ^8)[94]Rg. 68/1996, sbr. [95]246/1997, [96]529/1997, [97]236/1999,
+     [98]572/2000, [99]509/2001 og [100]953/2001. ^9)[101]Rg. 28/1999, sbr.
+                        [102]770/2001; [103]rg. 29/1999.
+        37. gr. [Fyrir tannlæknaþjónustu, aðra en tannréttingar, greiðir
+Tryggingastofnun ríkisins samkvæmt samningum, sbr. 39. gr. Takist ekki samningar
+skv. 39. gr. er ráðherra heimilt að setja gjaldskrá. Gjaldskráin gildir bæði um
+    tannlækningar sem starfræktar eru á vegum hins opinbera og annarra.]^1)
         Greiðslur sjúkratrygginga skv. 1. mgr. skulu vera sem hér segir:
         1. Fyrir tannlækningar barna og unglinga, 15 ára og yngri, aðrar en
                     gullfyllingar, krónu- og brúargerð, 75%.
      2. Fyrir tannlækningar 16 ára unglinga, aðrar en gullfyllingar, krónu- og
                                 brúargerð, 50%.
     3. Heimilt er að greiða allt að 50% kostnaðar við gullfyllingar, krónu- og
-   brúargerð hjá börnum og unglingum, 16 ára og yngri, samkvæmt reglum^1) sem
+   brúargerð hjá börnum og unglingum, 16 ára og yngri, samkvæmt reglum^2) sem
 ráðherra setur að fengnum tillögum tryggingaráðs. Því aðeins kemur til greiðslna
        samkvæmt þessum tölulið að fyrir liggi sérstök umsókn og samþykki
                                 sjúkratrygginga.
@@ -736,7 +730,8 @@ ráðherra setur að fengnum tillögum tryggingaráðs. Því aðeins kemur til 
                            Tryggingastofnun ákveður.
  Þrátt fyrir ákvæði 1. tölul. 2. mgr. skulu börn og unglingar, 15 ára og yngri,
       eiga kost á einni skoðun á ári hjá tannlækni sér að kostnaðarlausu.
-                      ^1)[100]Rg. 28/1999. [101]Rg. 29/1999.
+   ^1)[104]L. 154/2001, 5. gr. ^2)[105]Rg. 28/1999, sbr. [106]770/2001; [107]rg.
+                                    29/1999.
  38. gr. Sjúkratryggingar greiða sjúkradagpeninga ef sjúkratryggður, sem orðinn
   er 16 ára og nýtur ekki elli- og örorkulífeyris, verður algerlega óvinnufær,
    enda leggi hann niður vinnu og launatekjur falli niður sé um þær að ræða.
@@ -780,22 +775,24 @@ hefur verið háttað síðustu tvo mánuðina áður en hann varð óvinnufær.
                                       ^1)
  Dagpeningar eru ekki greiddir þeim sem í verkfalli á, nema hann hafi átt rétt
                      til dagpeninga áður en verkfall hófst.
-                           ^1)[102]L. 144/1995, 33. gr.
- 39. gr. Tryggingastofnun ríkisins gerir samninga um greiðslur samkvæmt þessum
-  kafla. Náist ekki samningar skal gerðardómur ákveða samningskjörin. Tilnefna
-   samningsaðilar einn gerðarmann hvor, en Hæstiréttur skipar oddamann. Verði
-   dómurinn ekki fullskipaður þannig tilnefnir Hæstiréttur þá sem vanta kann.
- Daggjöld sjúkrahúsa, sem ekki eru á föstum fjárlögum, svo og gjaldskrár fyrir
-slysa- og röntgendeildir, skulu ákveðin af heilbrigðis- og tryggingamálaráðherra
-  að höfðu nánu samráði við viðkomandi stofnanir. Daggjöld og gjaldskrár skulu
-     ákveðin þannig að samanlagðar tekjur stofnunar standi undir eðlilegum
-   rekstrarkostnaði á hverjum tíma miðað við þá þjónustu sem heilbrigðis- og
-            tryggingamálaráðherra hefur ákveðið að stofnunin veiti.
-  Sé um sjálfseignarstofnun eða einkaaðila að ræða jafngildir það samningi ef
- hlítt er ákvörðun ráðherra um daggjöld er vera skulu í einu lagi fyrir vist og
- þjónustu. Að öðrum kosti getur Tryggingastofnunin ákveðið, þrátt fyrir ákvæði
- 34. gr., að sjúklingum skuli greidd tiltekin upphæð fyrir hvern legudag upp í
-                                  kostnaðinn.
+                           ^1)[108]L. 144/1995, 33. gr.
+  39. gr. [Ráðherra skipar samninganefnd, sbr. lög um heilbrigðisþjónustu, sem
+        gerir samninga við sjálfstætt starfandi heilbrigðisstarfsmenn um
+    greiðsluþátttöku ríkisins vegna heilbrigðisþjónustu og við fyrirtæki og
+     stofnanir vegna sambærilegrar þjónustu sem þar er veitt. Um greiðslur
+   Tryggingastofnunar til heilbrigðisstarfsmanna, stofnana eða fyrirtækja fer
+samkvæmt þeim samningum. Tryggingastofnun ríkisins skal þó semja um þjónustu sem
+                             tilgreind er í 41. gr.
+   Ráðherra skal ákveða daggjöld dvalarheimila fyrir aldraða, hjúkrunarrýma á
+   öldrunarstofnunum og hjúkrunarheimila sem ekki eru á föstum fjárlögum með
+   reglugerð. Ráðherra skal áður en daggjöld eru ákveðin óska eftir tillögum
+ viðkomandi stofnana. Daggjöld hjúkrunarheimila og daggjöld vegna hjúkrunarrýma
+    skulu ákveðin með hliðsjón af mati á hjúkrunarþyngd. Samanlagðar tekjur
+stofnunar skulu standa undir eðlilegum rekstrarkostnaði á hverjum tíma miðað við
+ þá þjónustu sem kveðið er á um í lögum um málefni aldraðra og reglugerðum með
+     stoð í þeim lögum. Í reglugerð skal kveða nánar á um framkvæmd mats á
+                              hjúkrunarþyngd.]^1)
+                            ^1)[109]L. 154/2001, 6. gr.
    40. gr. Nú er sjúkratryggðum nauðsyn að leita sér lækninga þar sem hann er
  staddur erlendis og skulu þá sjúkratryggingar greiða kostnað af því eins og um
 læknishjálp innan lands væri að ræða. Þetta nær þó ekki til þeirra sem samkvæmt
@@ -807,17 +804,18 @@ er heimilt að endurgreiða manni kostnað, vegna veikinda eða slyss erlendis, 
    Nú er sjúkratryggðum nauðsyn að leita sér lækninga þar sem hann er staddur
    erlendis í aðildarríki EES-samningsins og skulu þá sjúkratryggingar greiða
     kostnað af því samkvæmt reglum EES-samningsins á sviði almannatrygginga.
-                 ^1)[103]Rg. 346/2000. ^2)[104]L. 60/1999, 15. gr.
-41. gr. [Tryggingastofnun ríkisins ber að leita bestu mögulegra kjara, að teknu
- tilliti til gæða, á þeim vörum og þjónustu sem hún greiðir eða tekur þátt í að
-                       greiða samkvæmt lögum þessum.]^1)
-    Sjúkratryggingadeild Tryggingastofnunar ríkisins er heimilt að semja við
-  stofnanir, fyrirtæki eða einstaklinga um þá þjónustu sem henni ber að veita
-  samkvæmt lögum þessum. Slíkan samning má gera í framhaldi af útboði. Í þeim
- tilvikum ákveður sjúkratryggingadeild hvaða tilboði skuli taka eða hvort öllum
-skuli hafnað. Ef tilboð eru óhæfilega há eða að öðru leyti ekki aðgengileg getur
-    sjúkratryggingadeild ráðstafað verkinu á grundvelli fasts samningsverðs.
-                            ^1)[105]L. 153/1996, 1. gr.
+                 ^1)[110]Rg. 346/2000. ^2)[111]L. 60/1999, 15. gr.
+41. gr. [Tryggingastofnun ríkisins er heimilt að semja við stofnanir, fyrirtæki
+    eða einstaklinga um þjónustu sem henni ber að veita og fellur ekki undir
+ verksvið samninganefndar skv. 1. mgr. 39. gr. laganna. Tryggingastofnun ber að
+leita bestu mögulegra kjara, að teknu tilliti til gæða, á þeim vörum og þjónustu
+ sem hún greiðir eða tekur þátt í að greiða samkvæmt lögum þessum. Samninga má
+  gera í framhaldi af útboði og ákveður stofnunin hvaða tilboði skuli taka eða
+  hvort öllum skuli hafnað. Ef tilboð eru óhæfilega há eða að öðru leyti ekki
+ aðgengileg getur stofnunin ráðstafað verkinu á grundvelli fasts samningsverðs.
+ Um samninga stofnunarinnar um afmörkuð rekstrarverkefni fer samkvæmt lögum um
+                            fjárreiður ríkisins.]^1)
+                            ^1)[112]L. 154/2001, 7. gr.
                                    C. Tekjur.
     42. gr. Kostnaður sjúkratrygginga greiðist að fullu úr ríkissjóði. Árleg
    heildarútgjöld sjúkratrygginga skulu vera í samræmi við ákvörðun Alþingis
@@ -857,8 +855,8 @@ umfram eru. Vasapeningar falla þó alveg niður við árstekjur sem nema 223.75
 daga í senn en útskrifast samt ekki og er þá heimilt að greiða honum dagpeninga
  sem eigi séu lægri en tvöfaldir sjúkradagpeningar hverju sinni. [Tryggingaráð
            setur nánari reglur^4) um greiðslu slíkra dagpeninga.]^3)
-    ^1)[106]L. 111/2000, 23. gr. Sjá nmgr. 1 við 24. gr. ^2)[107]Rg. 712/1999.
-               ^3)[108]L. 60/1999, 16. gr. ^4)[109]Rg. 174/2000.
+    ^1)[113]L. 111/2000, 23. gr. Sjá nmgr. 1 við 24. gr. ^2)[114]Rgl. 968/2001.
+               ^3)[115]L. 60/1999, 16. gr. ^4)[116]Rg. 174/2000.
   44. gr. Sama rétt til bóta og hjón hafa samkvæmt lögum þessum einnig karl og
 kona sem eru í óvígðri sambúð er skráð hefur verið í þjóðskrá lengur en eitt ár.
 Sama rétt hafa karl og kona sem átt hafa saman barn eða konan er þunguð af hans
@@ -884,6 +882,17 @@ nauðsynlegar eru til þess að hægt sé að úrskurða bætur eða endurskoða
   Starfsfólk Tryggingastofnunarinnar og umboðsmenn hennar skulu kynna sér til
  hlítar aðstæður umsækjenda og bótaþega og gera þeim grein fyrir ýtrasta rétti
    þeirra samkvæmt lögum þessum, reglugerðum og starfsreglum stofnunarinnar.
+ [Þeim heilbrigðisstarfsmönnum sem ábyrgð bera á vörslu sjúkraskráa er skylt að
+  veita læknum, eða eftir atvikum tannlæknum, Tryggingastofnunar ríkisins þær
+ upplýsingar sem stofnuninni eru nauðsynlegar vegna ákvörðunar um greiðslu bóta
+ eða endurgreiðslu reikninga og vegna eftirlitshlutverks stofnunarinnar. Þá er
+læknum Tryggingastofnunar, eða tannlæknum þegar það á við, heimilt að skoða þann
+hluta sjúkraskrár sem reikningsgerð á hendur stofnuninni er byggð á. Skoðun skal
+       fara fram á þeim stað þar sem sjúkraskrá er varðveitt. Við meðferð
+ persónuupplýsinga sem aflað er með þessum hætti skal þess gætt að uppfyllt séu
+  skilyrði laga um persónuvernd og meðferð persónuupplýsinga og jafnframt gætt
+           ákvæða laga um réttindi sjúklinga eftir því sem við á.]^1)
+                            ^1)[117]L. 154/2001, 8. gr.
   48. gr. Allar umsóknir skulu úrskurðaðar svo fljótt sem kostur er á og skulu
   bætur reiknaðar frá þeim degi sem umsækjandinn hefur uppfyllt skilyrðin til
  bótanna. Bætur skv. II. kafla, aðrar en lífeyrir skv. III. kafla, reiknast þó
@@ -901,7 +910,7 @@ sjúkrabætur og dagpeninga fyrir styttri tíma. Enn fremur má greiða bætur e
          fyrir lengri tíma en einn mánuð þar sem samgöngur eru erfiðar.
     Úrskurðaðar bætur falla niður ef þær eru ekki sóttar innan 12 mánaða, en
                 úrskurða má bætur á ný ef rökstudd umsókn berst.
-                           ^1)[110]L. 148/1994, 16. gr.
+                           ^1)[118]L. 148/1994, 16. gr.
  50. gr. Nú hafa bótaþega verið greiddar hærri bætur en vera bar samkvæmt lögum
  þessum og á þá Tryggingastofnunin endurkröfurétt á hendur honum eftir almennum
 reglum. Má og draga upphæðina frá bótum sem bótaþegi síðar kynni að öðlast rétt
@@ -918,30 +927,33 @@ til dvalar á einhverri stofnun skulu falla niður allar bætur til hans meðan 
 Tryggingastofnunin getur þó ákveðið að greiða bæturnar, eða hluta af þeim, maka
  hans og börnum eða einhverjum þriðja aðila sem sér um að bæturnar komi þeim að
                                 sem mestu gagni.
-                            ^1)[111]L. 123/1997, 6. gr.
+                            ^1)[119]L. 123/1997, 6. gr.
  52. gr. Óheimilt er að framselja eða veðsetja bótakröfur samkvæmt lögum þessum
    og ekki má leggja á þær löghald né gera í þeim fjárnám né halda bótafé til
      greiðslu opinberra gjalda, annarra en iðgjalda samkvæmt lögum þessum.
                                   53. gr. ^1)
-                            ^1)[112]L. 59/1998, 4. gr.
+                            ^1)[120]L. 59/1998, 4. gr.
   54. gr. Greiða skal bótaþegum, búsettum í þeim ríkjum sem ríkisstjórn gerir
   samninga við eða ráðherra hefur samið við með stoð í 64. gr., sömu bætur og
        viðkomandi hefði átt rétt á hefði hann verið búsettur hér á landi.
-  Heilbrigðis- og tryggingamálaráðherra getur með reglugerð^1) ákveðið að frá
+   [Tryggingastofnun ríkisins greiðir kostnað samkvæmt milliríkjasamningum af
+        sjúkrahjálp við erlenda ríkisborgara sem dveljast hér á landi um
+                               stundarsakir.]^1)
+  Heilbrigðis- og tryggingamálaráðherra getur með reglugerð^2) ákveðið að frá
  bótum, sem bótaþegi á rétt á hér á landi, dragist bætur sem hann fær samkvæmt
   erlendri löggjöf fyrir sama tímabil og bætur eru greiddar fyrir hér á landi.
-         ^1)[113]Rg. 655/1994, sbr. [114]463/1999. [115]Rg. 296/1998, sbr.
-                                 [116]127/1999.
+       ^1)[121]L. 154/2001, 9. gr. ^2)[122]Rg. 655/1994, sbr. [123]463/1999.
+                     [124]Rg. 296/1998, sbr. [125]127/1999.
                          B. Um iðgjöld, innheimtu o.fl.
    55. gr. Iðgjöld skv. 31. gr. skal skattstjóri leggja á með tekjuskatti og
- eignarskatti og færa þau á skattskrá, sbr. [117]98. gr. laga nr. 75/1981, með
-síðari breytingum, og skulu ákvæði [118]99. gr. þeirra laga og ákvæði [119]laga
+ eignarskatti og færa þau á skattskrá, sbr. [126]98. gr. laga nr. 75/1981, með
+síðari breytingum, og skulu ákvæði [127]99. gr. þeirra laga og ákvæði [128]laga
      nr. 30/1992, um yfirskattanefnd, gilda um iðgjöld eftir því sem við á.
     Í reglugerð skv. 4. mgr. 31. gr. skal kveða á um álagningu og innheimtu
                  ársiðgjalda vegna tækja þeirra er þar greinir.
                 Gjalddagar iðgjalda skulu ákveðnir í reglugerð.
 56. gr. Iðgjöld til slysatrygginga skulu innheimt af innheimtumönnum ríkissjóðs
-og sveitarsjóða eða sérstökum innheimtustofnunum. Ákvæði [120]laga nr. 75/1981,
+og sveitarsjóða eða sérstökum innheimtustofnunum. Ákvæði [129]laga nr. 75/1981,
    þar á meðal um dráttarvexti og fjárnámsrétt, gilda um innheimtu iðgjalda.
 57. gr. Iðgjöld skv. 31. gr. vegna sjómanna og iðgjöld af aflvélum samkvæmt sömu
  grein skulu hvíla sem lögveð á hlutaðeigandi skipum og aflvélum og ganga fyrir
@@ -954,18 +966,18 @@ skv. 1. mgr. 20. gr. Tekjur varasjóðs slysatrygginga eru vextir af höfuðstó
 bankavaxtabréfum eða í lánum sem tryggð eru með ríkisábyrgð eða annarri öruggri
                                    tryggingu.
 59. gr. Foreldri, sem fær úrskurð stjórnvalds um meðlag með börnum sínum eða um
- sérstök framlög skv. [121]15. gr. barnalaga, nr. 20/1992, getur snúið sér til
+ sérstök framlög skv. [130]15. gr. barnalaga, nr. 20/1992, getur snúið sér til
  Tryggingastofnunar ríkisins og fengið greiðslur samkvæmt úrskurði innan þeirra
 marka er 14. gr. þessara laga setur um fjárhæð meðlags og aldur barna. Sama skal
   gilda um foreldri sem leggur fram staðfest samkomulag um meðlagsgreiðslur og
-          aðrar greiðslur skv. III. kafla [122]barnalaga, nr. 20/1992.
+          aðrar greiðslur skv. III. kafla [131]barnalaga, nr. 20/1992.
    Á sama hátt skal barnsmóðir fá samkvæmt stjórnvaldsúrskurði eða staðfestu
                samkomulagi greitt hjá Tryggingastofnun ríkisins:
-       a. Framfærslulífeyri í allt að þrjá mánuði skv. 1. mgr. [123]21. gr.
+       a. Framfærslulífeyri í allt að þrjá mánuði skv. 1. mgr. [132]21. gr.
                             barnalaga, nr. 20/1992.
-    b. Hjúkrunar- og framfærslustyrk í allt að níu mánuði skv. 2. mgr. [124]21.
+    b. Hjúkrunar- og framfærslustyrk í allt að níu mánuði skv. 2. mgr. [133]21.
                           gr. barnalaga, nr. 20/1992.
-    c. Kostnað vegna meðgöngu og fæðingar skv. 1. mgr. [125]22. gr. barnalaga,
+    c. Kostnað vegna meðgöngu og fæðingar skv. 1. mgr. [134]22. gr. barnalaga,
                                   nr. 20/1992.
  Þegar eftir að sýslumaður hefur veitt viðtöku ósk frá móður um að aflað verði
 faðernisviðurkenningar hjá lýstum barnsföður getur hún fengið meðlag greitt með
@@ -998,7 +1010,7 @@ framfærslurétt eiga erlendis, svo og meðlög greidd skv. 4. mgr. 59. gr. þar
      grein, þar á meðal að hve miklu leyti skuli endurtryggja þá áhættu sem
                         Tryggingastofnunin tekur á sig.
    63. gr. Ráðherra getur ákveðið^1) að útgerðarmönnum skuli skylt að tryggja
- áhættu þá vegna bótaskyldra slysa og veikinda sem þeir bera skv. [126]36. gr.
+ áhættu þá vegna bótaskyldra slysa og veikinda sem þeir bera skv. [135]36. gr.
  laga nr. 35/1985, þannig að Tryggingastofnunin greiði hinum tryggða fullt kaup
         eða aflahlut jafnlangan tíma og sjómannalög ákveða hverju sinni.
 Halda skal tryggingum samkvæmt þessari grein reikningslega aðskildum frá annarri
@@ -1006,7 +1018,7 @@ Halda skal tryggingum samkvæmt þessari grein reikningslega aðskildum frá ann
  Tryggingastofnunarinnar þann tíma sem greiðsla kaups eða aflahlutar á sér stað
   og skulu iðgjöld^2) útgerðarmanna fyrir aukatryggingu þessa ákveðin með það
           fyrir augum að þau ásamt dagpeningunum nægi fyrir útgjöldum.
-          ^1)[127]Rg. 159/1996, [128]rg. 925/2000. ^2)[129]Rg. 776/1999.
+          ^1)[136]Rg. 159/1996, [137]rg. 925/2000. ^2)[138]Rg. 776/1999.
 64. gr. Heimilt er ríkisstjórninni að semja við erlend ríki og ráðherra að semja
   við erlendar tryggingastofnanir um gagnkvæman rétt til þeirra hlunninda sem
       almannatryggingar veita. [Í slíkum samningum má m.a. kveða svo á að
@@ -1015,26 +1027,26 @@ talin jafngilda búsetutíma á Íslandi, hvort sem um er að ræða íslenska �
  þegna annarra samningsríkja.]^1) Enn fremur er heimilt að kveða þar á um rétt
 til bótagreiðslna samkvæmt almannatryggingalögum við búsetu í öðru samningsríki,
           sbr. 11. gr., 54. gr. og 1. tölul. ákvæðis til bráðabirgða.
-                            ^1)[130]L. 60/1999, 17. gr.
+                            ^1)[139]L. 60/1999, 17. gr.
 65. gr. [Bætur almannatrygginga, svo og greiðslur skv. 59. gr. og fjárhæðir skv.
   17. gr., skulu breytast árlega í samræmi við fjárlög hverju sinni. Ákvörðun
    þeirra skal taka mið af launaþróun, þó þannig að þær hækki aldrei minna en
                    verðlag samkvæmt vísitölu neysluverðs.]^1)
-                           ^1)[131]L. 130/1997, 10. gr.
+                           ^1)[140]L. 130/1997, 10. gr.
  66. gr. Ráðherra er heimilt í reglugerð^1) að kveða á um nánari framkvæmd laga
        þessara. Þá er ráðherra heimilt að birta sem reglugerðir^2) reglur
  Evrópubandalagsins um almannatryggingar, enda eigi ákvæði þeirra stoð í lögum
                                     þessum.
-   ^1)[132]Rg. 83/1981. [133]Rg. 170/1987, sbr. [134]56/1998. [135]Rg. 148/1989.
-   [136]Rg. 74/1991. [137]Rg. 213/1991, sbr. [138]321/1991 og [139]110/2000.
-  [140]Rg. 655/1994, sbr. [141]463/1999. [142]Rg. 374/1996. [143]Rg. 296/1998.
-[144]Rg. 660/1998, sbr. [145]127/1999. [146]Rg. 808/1998, sbr. [147]691/2000 og
-[148]441/2001. [149]Rg. 379/1999. [150]Rg. 463/1999. [151]Rg. 471/2001. ^2)Augl.
-    550/1993, 367/1994 og 291/1997, sbr. [152]rg. 587/2000, [153]588/2000 og
-                                 [154]811/2000.
+   ^1)[141]Rg. 170/1987, sbr. [142]56/1998. [143]Rg. 148/1989. [144]Rg. 74/1991.
+[145]Rg. 213/1991, sbr. [146]321/1991 og [147]110/2000. [148]Rg. 655/1994, sbr.
+  [149]463/1999. [150]Rg. 374/1996. [151]Rg. 296/1998. [152]Rg. 660/1998, sbr.
+[153]127/1999. [154]Rg. 808/1998, sbr. [155]691/2000 og [156]441/2001. [157]Rg.
+ 379/1999. [158]Rg. 463/1999. [159]Rg. 471/2001. ^2)Augl. 550/1993, 367/1994 og
+   291/1997, sbr. [160]rg. 587/2000, [161]588/2000 og [162]811/2000; [163]rg.
+                                   847/2001.
                  67. gr. Lög þessi öðlast gildi 1. janúar 1994.
  Ákvæði til bráðabirgða. 1. Bætur, sem úrskurðaðar hafa verið fyrir gildistöku
-      [155]laga nr. 67/1971, skulu ekki skerðast vegna ákvæða II. kafla um
+      [164]laga nr. 67/1971, skulu ekki skerðast vegna ákvæða II. kafla um
   bótagreiðslur í hlutfalli við þann tíma sem bótaþegi hefur átt lögheimili á
                             Íslandi, sbr. þó 2. mgr.
    Nú á ellilífeyrisþegi eða umsækjandi um ellilífeyri ekki lögheimili á Íslandi
@@ -1050,7 +1062,7 @@ eftir almennum skerðingarreglum á hverjum tíma. Í reglugerð^1) skal kveða 
                             á um öryrkjavinnu þessa.
                                       3. ^2)
      4. Þeir sem ákveðið hafa frestun ellilífeyris fyrir 1. janúar 1992, sbr.
- [156]11. gr. laga nr. 67/1971, um almannatryggingar, skulu halda rétti sínum.
+ [165]11. gr. laga nr. 67/1971, um almannatryggingar, skulu halda rétti sínum.
     Tryggingastofnun ríkisins skal breyta fjárhæðum vegna frestunarinnar til
 samræmis við breytingar sem verða á fjárhæðum almannatrygginga hverju sinni. Nú
  andast maður, sem frestað hefur töku lífeyris fram yfir 67 ára aldur, fyrir 1.
@@ -1085,15 +1097,15 @@ einstaklingur, sem uppfyllti skilyrði 9. gr. b 1. janúar 1994 eða síðar, te
                                     það.]^9)
     [12. Sjúklingar sem áttu rétt til bóta skv. f-lið 1. mgr. 24. gr. fyrir 1.
        janúar 2001 skulu halda rétti sínum skv. III. kafla laganna.]^10)
-     [13. Þeir örorkulífeyrisþegar sem 2. mgr. [157]17. gr. laga nr. 117/1993,
+     [13. Þeir örorkulífeyrisþegar sem 2. mgr. [166]17. gr. laga nr. 117/1993,
    sbr. 14. gr. laga nr. 148/ 1994, átti við tímabilið 1. janúar 1997 til 31.
-   desember 1998 og þeir sem 5.7. mgr. [158]17. gr. laga nr. 117/1993, sbr.
- [159]1. gr. laga nr. 149/1998, hefur átt við tímabilið 1. janúar 1999 til 31.
+   desember 1998 og þeir sem 5.7. mgr. [167]17. gr. laga nr. 117/1993, sbr.
+ [168]1. gr. laga nr. 149/1998, hefur átt við tímabilið 1. janúar 1999 til 31.
  janúar 2001 skulu eiga rétt á greiðslum á tekjutryggingu örorkulífeyris vegna
               umræddra tímabila eftir þeim reglum sem hér greinir:
         a. Fyrir tímabilið 1. janúar 1997 til 31. desember 1998 skal greiða
-tekjutryggingu sem reiknast eftir ákvæði 2. mgr. [160]17. gr. laga nr. 117/1993,
- sbr. [161]14. gr. laga nr. 148/1994, en án þeirrar skerðingar skv. 2. mgr. 4.
+tekjutryggingu sem reiknast eftir ákvæði 2. mgr. [169]17. gr. laga nr. 117/1993,
+ sbr. [170]14. gr. laga nr. 148/1994, en án þeirrar skerðingar skv. 2. mgr. 4.
 gr. reglugerðar nr. 485/1995 sem fólst í því að telja helming samanlagðra tekna
  beggja hjóna til tekna lífeyrisþegans. Frá tekjutryggingu reiknaðri með þessum
         hætti skulu dragast þær greiðslur tekjutryggingar sem viðkomandi
@@ -1106,10 +1118,10 @@ gr. reglugerðar nr. 485/1995 sem fólst í því að telja helming samanlagðra
  eftir þeim viðmiðunarfjárhæðum sem hafa verið í gildi á hverju tímabili fyrir
    sig. Fjárhæðirnar í 1. gr. laga þessara skulu við útreikninga skv. b-lið í
     bráðabirgðaákvæði I bakreiknast til viðkomandi tímabila til samræmis við
-breytingar sem orðið hafa á fjárhæðum tekjutryggingar skv. [162]17. gr. laga nr.
+breytingar sem orðið hafa á fjárhæðum tekjutryggingar skv. [171]17. gr. laga nr.
  117/1993, um almannatryggingar, með síðari breytingum. Greiðslurnar skulu bera
     5,5% ársvexti frá þeim degi er lífeyrisþeginn fyrst gat átt rétt á að fá
-  greiðslu viðkomandi tímabils samkvæmt ákvæðum [163]laga nr. 117/1993 um það
+  greiðslu viðkomandi tímabils samkvæmt ákvæðum [172]laga nr. 117/1993 um það
 efni. Vextir skulu greiðast þó að ekki hafi legið fyrir umsókn um tekjutryggingu
                           frá viðkomandi lífeyrisþega.
       15. Tryggingastofnun ríkisins skal hafa frumkvæði að greiðslum samkvæmt
@@ -1124,26 +1136,26 @@ greiða skal. Liggi fyrir umsóknir án nægilegra upplýsinga skal Tryggingasto
    gr. laga þessara, en hafa ekki sótt um fyrir umrædd tímabil, geta sótt um
  tekjutryggingu sér til handa og skulu þeir þá fá úrlausn í samræmi við reglur
   þessa bráðabirgðaákvæðis að því tilskildu að sótt sé um fyrir 1. júlí 2001.
-   Eftir þann dag gilda ákvæði [164]48. gr. laga nr. 117/1993 um allar nýjar
+   Eftir þann dag gilda ákvæði [173]48. gr. laga nr. 117/1993 um allar nýjar
                          umsóknir um lífeyrisgreiðslur.
        17. Greiðsla tekjutryggingar og vaxta samkvæmt lögum þessum telst til
    skattskyldra tekna ársins 2001. Tryggingastofnun ríkisins skal halda eftir
-     staðgreiðslu af tekjutryggingunni samkvæmt [165]lögum nr. 45/1987, um
+     staðgreiðslu af tekjutryggingunni samkvæmt [174]lögum nr. 45/1987, um
                          staðgreiðslu opinberra gjalda.
    Þrátt fyrir ákvæði 1. mgr. er bótaþega heimilt allt til ársloka 2001 að óska
  eftir því að greiðslur á tekjutryggingu vegna tekjuáranna 1997, 1998, 1999 og
      2000, samkvæmt bráðabirgðaákvæðunum að framan, skuli færðar honum til
 skattskyldra tekna viðkomandi ár. Um endurákvörðun opinberra gjalda fer þá skv.
-    [166]101. gr. laga nr. 75/1981, um tekjuskatt og eignarskatt, með síðari
+    [175]101. gr. laga nr. 75/1981, um tekjuskatt og eignarskatt, með síðari
                                 breytingum.]^11)
-     [18. Þeir ellilífeyrisþegar, sem 2., 3. og 7. mgr. [167]17. gr. laga nr.
+     [18. Þeir ellilífeyrisþegar, sem 2., 3. og 7. mgr. [176]17. gr. laga nr.
  117/1993, með síðari breytingum, hafa átt við tímabilið 1. janúar 2001 til 31.
 mars 2001 skulu eiga rétt á greiðslum á tekjutryggingu ellilífeyris sem reiknast
 á þann hátt sem greinir í 1. gr. laga þessara. Frá tekjutryggingu reiknaðri með
     þessum hætti skulu dragast þær greiðslur tekjutryggingar sem viðkomandi
  ellilífeyrisþegi hefur þegar fengið. Greiðslurnar skulu bera 5,5% ársvexti frá
 þeim degi er lífeyrisþeginn fyrst gat átt rétt á að fá greiðslu samkvæmt ákvæðum
-[168]laga nr. 117/1993 um það efni. Vextir skulu greiðast þó að ekki hafi legið
+[177]laga nr. 117/1993 um það efni. Vextir skulu greiðast þó að ekki hafi legið
           fyrir umsókn um tekjutryggingu frá viðkomandi lífeyrisþega.
       19. Tryggingastofnun ríkisins skal hafa frumkvæði að greiðslum samkvæmt
   bráðabirgðaákvæði I í þeim tilvikum þar sem hún hefur í höndum umsóknir frá
@@ -1156,13 +1168,13 @@ stofnunin getur sjálf reiknað án atbeina lífeyrisþega hafi átt sér stað 
     20. Þeir ellilífeyrisþegar sem telja sig eiga rétt á tekjutryggingu skv. 1.
    gr. laga þessara, en hafa ekki sótt um fyrir umrætt tímabil, geta sótt um
  tekjutryggingu sér til handa og skulu þeir þá fá úrlausn í samræmi við reglur
-  bráðabirgðaákvæðis I í lögum þessum, sbr. [169]48. gr. laga nr. 117/1993 um
+  bráðabirgðaákvæðis I í lögum þessum, sbr. [178]48. gr. laga nr. 117/1993 um
                    nýjar umsóknir um lífeyrisgreiðslur.]^12)
-    ^1)[170]Rg. 159/1995. ^2)[171]L. 144/1995, 35. gr. ^3)[172]L. 130/1997, 11.
-    gr. ^4)[173]L. 144/1995, 34. gr. ^5)[174]L. 130/1997, 12. gr. ^6)[175]L.
-41/1998, 1. gr. ^7)Brbákv. með [176]l. 59/1998. ^8)Brbákv. með [177]l. 60/1999.
-^9)Brbákv. með [178]l. 62/1999. ^10)[179]L. 111/2000, 23. gr. ^11)Brbákv. I.V.
-          með [180]l. 3/2001. ^12)Brbákv. I.III. með [181]l. 9/2001.
+    ^1)[179]Rg. 159/1995. ^2)[180]L. 144/1995, 35. gr. ^3)[181]L. 130/1997, 11.
+    gr. ^4)[182]L. 144/1995, 34. gr. ^5)[183]L. 130/1997, 12. gr. ^6)[184]L.
+41/1998, 1. gr. ^7)Brbákv. með [185]l. 59/1998. ^8)Brbákv. með [186]l. 60/1999.
+^9)Brbákv. með [187]l. 62/1999. ^10)[188]L. 111/2000, 23. gr. ^11)Brbákv. I.V.
+          með [189]l. 3/2001. ^12)Brbákv. I.III. með [190]l. 9/2001.
 
 References
 
@@ -1230,121 +1242,130 @@ References
   61. file:///altext/stjt/1999.060.html
   62. file:///altext/stjt/1998.059.html
   63. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/527-1995
-  64. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/765-2000
-  65. file:///altext/stjt/1999.060.html
-  66. file:///altext/stjt/1999.062.html
+  64. file:///altext/stjt/2001.154.html
+  65. file:///altext/stjt/1999.062.html
+  66. file://2000111.html#g23
   67. file://2000111.html#g23
-  68. file://2000111.html#g23
-  69. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/094-1979
-  70. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/623-1980
-  71. file:///altext/stjt/1995.144.html
-  72. file:///altext/stjt/1999.060.html
-  73. file:///altext/stjt/1998.059.html
-  74. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1999
-  75. file:///altext/stjt/1998.059.html
-  76. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/663-1996
-  77. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/622-1998
-  78. file:///altext/stjt/1999.060.html
-  79. file:///altext/stjt/1996.100.html
-  80. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/990-2000
-  81. file:///altext/stjt/1996.100.html
+  68. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/094-1979
+  69. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/623-1980
+  70. file:///altext/stjt/1995.144.html
+  71. file:///altext/stjt/1999.060.html
+  72. file:///altext/stjt/1998.059.html
+  73. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1999
+  74. file:///altext/stjt/1998.059.html
+  75. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-1999
+  76. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/622-1998
+  77. file:///altext/stjt/1999.060.html
+  78. file:///altext/stjt/1996.100.html
+  79. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/990-2000
+  80. file:///altext/stjt/1996.100.html
+  81. file:///altext/stjt/2001.154.html
   82. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/201-1998
-  83. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/082-1995
-  84. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/229-1995
-  85. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/948-2000
-  86. file:///altext/stjt/2000.108.html
-  87. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/213-1999
-  88. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/927-2000
-  89. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/457-2000
-  90. file:///altext/stjt/2000.061.html
-  91. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/081-1995
-  92. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/228-1995
-  93. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/068-1996
-  94. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/246-1997
-  95. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/529-1997
-  96. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-1999
-  97. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/572-2000
-  98. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/028-1999
-  99. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-1999
- 100. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/028-1999
- 101. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-1999
- 102. file:///altext/stjt/1995.144.html
- 103. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/346-2000
- 104. file:///altext/stjt/1999.060.html
- 105. file:///altext/stjt/1996.153.html
- 106. file://2000111.html#g23
- 107. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/712-1999
- 108. file:///altext/stjt/1999.060.html
- 109. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/174-2000
- 110. file:///altext/stjt/1994.148.html
- 111. file:///altext/stjt/1997.123.html
- 112. file:///altext/stjt/1998.059.html
- 113. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/655-1994
- 114. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1999
- 115. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/296-1998
- 116. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-1999
- 117. file://1981075.html#g98
- 118. file://1981075.html#g99
- 119. file://1992030.html
- 120. file://1981075.html
- 121. file://1992020.html#g15
- 122. file://1992020.html
- 123. file://1992020.html#g21
- 124. file://1992020.html#g21
- 125. file://1992020.html#g22
- 126. file://1985035.html#g36
- 127. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/159-1996
- 128. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/925-2000
- 129. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/776-1999
- 130. file:///altext/stjt/1999.060.html
- 131. file:///altext/stjt/1997.130.html
- 132. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/083-1981
- 133. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/170-1987
- 134. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/056-1998
- 135. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/148-1989
- 136. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/074-1991
- 137. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/213-1991
- 138. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/321-1991
- 139. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/110-2000
- 140. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/655-1994
- 141. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1999
- 142. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-1996
- 143. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/296-1998
- 144. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/660-1998
- 145. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-1999
- 146. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/808-1998
- 147. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/691-2000
- 148. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/441-2001
- 149. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/379-1999
- 150. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1999
- 151. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/471-2001
- 152. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/587-2000
- 153. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/588-2000
- 154. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/811-2000
- 155. file:///altext/stjtnr.html#1971067
- 156. file:///altext/stjtnr.html#1971067?g11
- 157. file://1993117.html#g17
- 158. file://1993117.html#g17
- 159. file:///altext/stjt/1998.149.html
- 160. file://1993117.html#g17
- 161. file:///altext/stjt/1994.148.html
- 162. file://1993117.html#g17
- 163. file://1993117.html
- 164. file://1993117.html#g48
- 165. file://1987045.html
- 166. file://1981075.html#g101
+  83. file:///altext/stjt/2001.154.html
+  84. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/082-1995
+  85. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/229-1995
+  86. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/948-2001
+  87. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/845-2001
+  88. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/947-2001
+  89. file:///altext/stjt/2000.108.html
+  90. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/213-1999
+  91. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/927-2000
+  92. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/457-2000
+  93. file:///altext/stjt/2000.061.html
+  94. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/068-1996
+  95. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/246-1997
+  96. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/529-1997
+  97. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-1999
+  98. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/572-2000
+  99. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/509-2001
+ 100. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/953-2001
+ 101. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/028-1999
+ 102. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/770-2001
+ 103. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-1999
+ 104. file:///altext/stjt/2001.154.html
+ 105. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/028-1999
+ 106. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/770-2001
+ 107. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-1999
+ 108. file:///altext/stjt/1995.144.html
+ 109. file:///altext/stjt/2001.154.html
+ 110. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/346-2000
+ 111. file:///altext/stjt/1999.060.html
+ 112. file:///altext/stjt/2001.154.html
+ 113. file://2000111.html#g23
+ 114. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/968-2001
+ 115. file:///altext/stjt/1999.060.html
+ 116. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/174-2000
+ 117. file:///altext/stjt/2001.154.html
+ 118. file:///altext/stjt/1994.148.html
+ 119. file:///altext/stjt/1997.123.html
+ 120. file:///altext/stjt/1998.059.html
+ 121. file:///altext/stjt/2001.154.html
+ 122. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/655-1994
+ 123. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1999
+ 124. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/296-1998
+ 125. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-1999
+ 126. file://1981075.html#g98
+ 127. file://1981075.html#g99
+ 128. file://1992030.html
+ 129. file://1981075.html
+ 130. file://1992020.html#g15
+ 131. file://1992020.html
+ 132. file://1992020.html#g21
+ 133. file://1992020.html#g21
+ 134. file://1992020.html#g22
+ 135. file://1985035.html#g36
+ 136. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/159-1996
+ 137. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/925-2000
+ 138. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/776-1999
+ 139. file:///altext/stjt/1999.060.html
+ 140. file:///altext/stjt/1997.130.html
+ 141. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/170-1987
+ 142. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/056-1998
+ 143. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/148-1989
+ 144. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/074-1991
+ 145. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/213-1991
+ 146. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/321-1991
+ 147. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/110-2000
+ 148. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/655-1994
+ 149. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1999
+ 150. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-1996
+ 151. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/296-1998
+ 152. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/660-1998
+ 153. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-1999
+ 154. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/808-1998
+ 155. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/691-2000
+ 156. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/441-2001
+ 157. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/379-1999
+ 158. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1999
+ 159. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/471-2001
+ 160. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/587-2000
+ 161. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/588-2000
+ 162. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/811-2000
+ 163. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/847-2001
+ 164. file:///altext/stjtnr.html#1971067
+ 165. file:///altext/stjtnr.html#1971067?g11
+ 166. file://1993117.html#g17
  167. file://1993117.html#g17
- 168. file://1993117.html
- 169. file://1993117.html#g48
- 170. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/159-1995
- 171. file:///altext/stjt/1995.144.html
- 172. file:///altext/stjt/1997.130.html
- 173. file:///altext/stjt/1995.144.html
- 174. file:///altext/stjt/1997.130.html
- 175. file:///altext/stjt/1998.041.html
- 176. file:///altext/stjt/1998.059.html
- 177. file:///altext/stjt/1999.060.html
- 178. file:///altext/stjt/1999.062.html
- 179. file://2000111.html#g23
- 180. file:///altext/stjt/2001.003.html
- 181. file:///altext/stjt/2001.009.html
+ 168. file:///altext/stjt/1998.149.html
+ 169. file://1993117.html#g17
+ 170. file:///altext/stjt/1994.148.html
+ 171. file://1993117.html#g17
+ 172. file://1993117.html
+ 173. file://1993117.html#g48
+ 174. file://1987045.html
+ 175. file://1981075.html#g101
+ 176. file://1993117.html#g17
+ 177. file://1993117.html
+ 178. file://1993117.html#g48
+ 179. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/159-1995
+ 180. file:///altext/stjt/1995.144.html
+ 181. file:///altext/stjt/1997.130.html
+ 182. file:///altext/stjt/1995.144.html
+ 183. file:///altext/stjt/1997.130.html
+ 184. file:///altext/stjt/1998.041.html
+ 185. file:///altext/stjt/1998.059.html
+ 186. file:///altext/stjt/1999.060.html
+ 187. file:///altext/stjt/1999.062.html
+ 188. file://2000111.html#g23
+ 189. file:///altext/stjt/2001.003.html
+ 190. file:///altext/stjt/2001.009.html

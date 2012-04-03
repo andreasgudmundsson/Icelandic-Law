@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -630,13 +629,12 @@ krafist eða heimilað að önnur aðferð sé notuð við útreikning aðlagað
   móðurfélagsins samkvæmt ákvæðum þessarar greinar auk útreiknings á gjaldþoli
        vátryggingafélagsins. Við útreikninginn skal taka tillit til allra
                        hlutdeildarfélaga móðurfélagsins.
-Nánar skal kveða á um útreikning á aðlöguðu gjaldþoli í reglugerð. Þar má einnig
-      tilgreina undanþágur frá skyldu til að reikna aðlagað gjaldþol. Taki
+  Nánar skal kveða á um útreikning á aðlöguðu gjaldþoli í reglugerð.^1) Þar má
+  einnig tilgreina undanþágur frá skyldu til að reikna aðlagað gjaldþol. Taki
          útreikningurinn til fyrirtækja í öðrum ríkjum fer um samstarf
      eftirlitsstjórnvalda eftir alþjóðasamningum sem Ísland er aðili að og
-    samstarfssamningum sem Fjármálaeftirlitið gerir á grundvelli þeirra.]^1)
-    ^1)[25]L. 97/2000, 2. gr. Þessi ákvæði koma til framkvæmda við eftirlit sem
-              byggist á ársreikningum vegna reikningsársins 2001.
+    samstarfssamningum sem Fjármálaeftirlitið gerir á grundvelli þeirra.]^2)
+                  ^1)[25]Rg. 954/2001. ^2)[26]L. 97/2000, 2. gr.
         30. gr. Gjaldþol vátryggingafélags, sem rekur aðra starfsemi en
 líftryggingastarfsemi, skal á hverjum tíma nema minnst þeirri fjárhæð sem hærri
 er samkvæmt eftirfarandi útreikningi er nefnist lágmarksgjaldþol félagsins, sbr.
@@ -666,7 +664,7 @@ heild samkvæmt rekstrarreikningi. Sé síðastnefnda hlutfallið lægra en 0,50
             líftryggingar og skulu ákvæði um það sett með reglugerð.
    [Fjármálaeftirlitið]^1) getur sett reglur um hvernig taka skuli tillit til
                   verðlagsbreytinga við útreikning gjaldþols.
-                             ^1)[26]L. 84/1998, 5. gr.
+                             ^1)[27]L. 84/1998, 5. gr.
    31. gr. Gjaldþol vátryggingafélags sem rekur líftryggingastarfsemi skal á
 hverjum tíma nema minnst samanlögðum fjárhæðum samkvæmt eftirfarandi útreikningi
             er nefnist lágmarksgjaldþol félagsins, sbr. þó 33. gr.:
@@ -708,8 +706,7 @@ fjárhag félagsins á skömmum tíma og skal [Fjármálaeftirlitið]^1) setja f
  telst fullnægjandi. Lágmarksgjaldþol hlutdeildar- og dótturfélaga skal reiknað
      samkvæmt nefndum ákvæðum, jafnvel þótt aðrar reglur gildi í heimaríki
                                   þeirra.]^2)
-     ^1)[27]L. 84/1998, 5. gr. ^2)[28]L. 97/2000, 3. gr. Þessi ákvæði koma til
-framkvæmda við eftirlit sem byggist á ársreikningum vegna reikningsársins 2001.
+                ^1)[28]L. 84/1998, 5. gr. ^2)[29]L. 97/2000, 3. gr.
   33. gr. [Lágmarksgjaldþol mælt í ecu skal þrátt fyrir ákvæði 30. og 31. gr.
                         aldrei vera lægra en hér segir:
                  1. Í líftryggingafélagi, sbr. 23. gr.     800.000
@@ -737,7 +734,7 @@ Við stofnun vátryggingafélags og meðan félagið starfar á grundvelli framl
 áætlunar um starfsemina, sbr. 24. gr., skal tilskilið lágmarksgjaldþol ákveðið á
  grundvelli þeirrar áætlunar og endurskoðunar hennar ef forsendur áætlunarinnar
                                    breytast.
-                ^1)[29]L. 63/1997, 9. gr. ^2)[30]L. 84/1998, 5. gr.
+                ^1)[30]L. 63/1997, 9. gr. ^2)[31]L. 84/1998, 5. gr.
                                Vátryggingaskuld.
     34. gr. Vátryggingaskuldin skal metin þannig að hún samsvari óuppgerðum
   heildarskuldbindingum vátryggingafélags vegna gerðra vátryggingasamninga. Í
@@ -755,7 +752,7 @@ tryggja fjölbreytni og dreifingu eignanna. Skal í hverju tilviki fyrir sig met
                     vátryggingaskuldinni í samræmi við það.
  Setja skal nánari ákvæði í reglugerð^1) um þær tegundir eigna sem telja má til
          jöfnunar vátryggingaskuld félags, samsetningu þeirra og vægi.
-                      ^1)[31]Rg. 646/1995, sbr. [32]581/1997.
+                      ^1)[32]Rg. 646/1995, sbr. [33]581/1997.
  35. gr. Eignir til jöfnunar vátryggingaskuld vegna vátryggingaáhættu sem er í
   aðildarríki skulu ávaxtaðar í aðildarríki nema [Fjármálaeftirlitið]^1) veiti
                     undanþágu frá því skilyrði sérstaklega.
@@ -766,14 +763,14 @@ heimilt að ávaxta eignir á móti allt að 20% vátryggingaskuldbindinga, sem 
  Vátryggingafélagi skal frjálst að ávaxta eignir sem ekki er þörf til jöfnunar
  vátryggingaskuldinni að teknu tilliti til varfærnissjónarmiða og að uppfylltum
                  skilyrðum um fullnægjandi gjaldþol félagsins.
-                             ^1)[33]L. 84/1998, 5. gr.
+                             ^1)[34]L. 84/1998, 5. gr.
 36. gr. Stjórn vátryggingafélags, sem fengið hefur starfsleyfi hér á landi, skal
 sjá til þess að félagið hafi yfir að ráða nægilegri sérþekkingu til þess að meta
   og reikna út vátryggingaskuld félagsins og til að sjá um tryggingatæknilega
 útreikninga og athuganir fyrir félagið. [Fjármálaeftirlitið]^1) getur gert kröfu
  um að aðili með sérfræðikunnáttu á því sviði verði ráðinn að vátryggingafélagi
     telji það slíka þekkingu ekki í nægilegum mæli fyrir hendi hjá félaginu.
-                             ^1)[34]L. 84/1998, 5. gr.
+                             ^1)[35]L. 84/1998, 5. gr.
 37. gr. Líftryggingafélag skal tryggja sér þjónustu tryggingastærðfræðings, eða
       sérfræðings með sambærilega þekkingu, sem hefur á hendi nauðsynlega
  tryggingatæknilega útreikninga og athuganir fyrir félagið. Sá einn má taka að
@@ -796,14 +793,14 @@ vera viðstaddur og tjá sig á fundum stjórnarinnar. Sé hann ekki sammála á
 [Fjármálaeftirlitið]^1) getur krafið tryggingastærðfræðing líftryggingafélags um
   þær upplýsingar sem nauðsynlegar eru vegna eftirlits með iðgjaldagrundvelli,
              líftryggingaskuld og fjárhagsstöðu líftryggingafélags.
-                             ^1)[35]L. 84/1998, 5. gr.
+                             ^1)[36]L. 84/1998, 5. gr.
  38. gr. Vátryggingafélag skal halda skrá yfir þær eignir sem eru til jöfnunar
  vátryggingaskuld eða líftryggingaskuld á hverjum tíma og sjá til þess að nýjar
   eignir verði skráðar á reikningsárinu þegar breytingar eiga sér stað. Afrit
          skrárinnar, staðfest af löggiltum endurskoðanda og þegar við á
 tryggingastærðfræðingi, skal sent [Fjármálaeftirlitinu]^1) með ársreikningi og á
             öðrum tíma ef [Fjármálaeftirlitið]^1) telur ástæðu til.
-                             ^1)[36]L. 84/1998, 5. gr.
+                             ^1)[37]L. 84/1998, 5. gr.
                                   Eignaraðild.
 39. gr. [Aðilar sem hyggjast eignast virkan eignarhlut í vátryggingafélagi skulu
  leita samþykkis Fjármálaeftirlitsins fyrir fram. Með virkum eignarhlut er átt
@@ -828,7 +825,7 @@ aflað þegar einstaklingur eða lögaðili eykur svo við eignarhlut sinn að b
                                    lögaðila.
      10. Refsingar sem umsækjandi hefur verið dæmdur til að sæta og hvort hann
                             sæti opinberri rannsókn.
-    11. Náin tengsl umsækjanda við aðra lögaðila, sbr. 3. mgr. [37]4. gr. laga
+    11. Náin tengsl umsækjanda við aðra lögaðila, sbr. 3. mgr. [38]4. gr. laga
                  nr. 113/1996, um viðskiptabanka og sparisjóði.
     12. Aðrar upplýsingar sem Fjármálaeftirlitið fer fram á að umsækjandi veiti
            og máli skipta við mat á hæfi eigenda virkra eignarhluta.
@@ -919,7 +916,7 @@ Hyggist eigandi virks eignarhlutar draga svo úr hlutafjáreign sinni að hann e
  Ákvæði þessarar greinar gilda um náin tengsl eftir því sem við getur átt. Ekki
   má mynda náin tengsl nema sýnt sé að þau hindri ekki eftirlit með starfsemi
                                  félagsins.]^1)
-                            ^1)[38]L. 69/2001, 11. gr.
+                            ^1)[39]L. 69/2001, 11. gr.
  40. gr. [Sé aðila, sem á virkan eignarhlut í vátryggingafélagi, svo farið eða
   fari hann þannig með hlut sinn að skaði heilbrigðan og traustan rekstur þess
           getur Fjármálaeftirlitið gripið til eftirfarandi ráðstafana:
@@ -938,7 +935,7 @@ hliðsjón af þeim atriðum sem greinir í 4. mgr. 39. gr. Að auki skal höfð
      Telji Fjármálaeftirlitið að náin tengsl hindri eftirlit með starfsemi
  vátryggingafélags skal það fara fram á að tengslin verði strax rofin, nema það
                    telji aðrar ráðstafanir fullnægjandi.]^1)
-                            ^1)[39]L. 69/2001, 12. gr.
+                            ^1)[40]L. 69/2001, 12. gr.
  41. gr. Vátryggingahlutafélag má sjálft aldrei eiga meira en 10% hlutafjárins.
    Atkvæðisréttur fylgir ekki hlutabréfum sem vátryggingahlutafélag á sjálft.
  Gagnkvæmt vátryggingafélag má ekki afla eigin stofnfjárhluta til eignar eða að
@@ -956,7 +953,7 @@ háðar samþykki [Fjármálaeftirlitsins].^1) Stofnfé gagnkvæms vátryggingaf
    halda bók um stofnfjárhluti. Stofnfjárhlutirnir skulu skráðir í bókina með
 upplýsingum um nafn og heimilisfang ábyrgðarmanns. Stofnfjárhluturinn skal hafa
                       áritun félagsins um skrásetninguna.
-                             ^1)[40]L. 84/1998, 5. gr.
+                             ^1)[41]L. 84/1998, 5. gr.
   42. gr. Hver sá sem vátryggir hjá gagnkvæmu vátryggingafélagi er sameigandi
 þess. Settar skulu reglur um ábyrgð vátryggingataka á skuldbindingum félagsins í
                                 samþykktum þess.
@@ -975,7 +972,7 @@ stjórn gagnkvæms vátryggingafélags að krefja vátryggingataka um slíka gre
             Slíka heimild má þó einungis veita til eins árs í senn.
   Á hverju vátryggingaskírteini, sem gagnkvæmt vátryggingafélag gefur út, skal
            koma skýrt fram hvernig ábyrgð vátryggingataka er háttað.
-                             ^1)[41]L. 84/1998, 5. gr.
+                             ^1)[42]L. 84/1998, 5. gr.
 
                 IV. kafli. Stjórn. Endurskoðun og reikningsskil.
                                     Stjórn.
@@ -1019,8 +1016,8 @@ tilkynna verulegar breytingar á skipulagi samstæðu þegar þær ganga í gild
 Stjórn og framkvæmdastjóri skulu án tafar gera [Fjármálaeftirlitinu]^3) viðvart
    hafi þeir vitneskju um málefni sem hafa úrslitaþýðingu fyrir áframhaldandi
                               starfsemi félagsins.
-    ^1)[42]L. 97/2000, 4. gr. ^2)[43]L. 63/1997, 12. gr. ^3)[44]L. 84/1998, 5.
-                         gr. ^4)[45]L. 11/2000, 16. gr.
+    ^1)[43]L. 97/2000, 4. gr. ^2)[44]L. 63/1997, 12. gr. ^3)[45]L. 84/1998, 5.
+                         gr. ^4)[46]L. 11/2000, 16. gr.
 44. gr. Ársreikning skal semja fyrir hvert reikningsár. Ársreikningur skal hafa
  að geyma rekstrarreikning, efnahagsreikning, skýringar og upplýsingar um liði
       utan efnahagsreiknings. Einnig skal semja skýrslu stjórnar sem ásamt
@@ -1041,7 +1038,8 @@ Ef ársreikningur vátryggingafélags er ekki í samræmi við lög og regluger�
                meginniðurstöður ársreiknings í Lögbirtingablaði.
       Ráðherra setur nánari ákvæði um form og innihald ársreiknings og um
                     samstæðureikningsskil með reglugerð.^2)
-   ^1)[46]L. 84/1998, 5. gr. ^2)[47]Rg. 612/1996, [48]613/1996 og [49]677/1996.
+       ^1)[47]L. 84/1998, 5. gr. ^2)[48]Rg. 612/1996, [49]rg. 613/1996, sbr.
+                        [50]956/2001; [51]rg. 677/1996.
                          Endurskoðun og reikningsskil.
     45. gr. Ársreikningur vátryggingafélags skal endurskoðaður af löggiltum
 endurskoðanda. Aðalfundur kýs endurskoðendur í samræmi við samþykktir félags. Sé
@@ -1055,7 +1053,7 @@ starfa í þágu þess að öðru en endurskoðun. Hann má ekki vera skuldugur 
      Endurskoðendur félags eiga rétt á að sitja stjórnar- og félagsfundi í
  vátryggingafélagi og er skylt að mæta á aðalfundi æski stjórn eða atkvæðisbær
                                   maður þess.
-                             ^1)[50]L. 84/1998, 5. gr.
+                             ^1)[52]L. 84/1998, 5. gr.
  46. gr. Endurskoðandi skal endurskoða ársreikning vátryggingafélags í samræmi
      við góða endurskoðunarvenju. Hann skal með endurskoðun sinni komast að
   rökstuddri niðurstöðu um áreiðanleika þeirra upplýsinga sem ársreikningurinn
@@ -1083,14 +1081,14 @@ Upplýsingar, sem endurskoðandi veitir [Fjármálaeftirlitinu]^1) samkvæmt ák
 löggilts endurskoðanda. Ef ársreikningur er birtur opinberlega í styttri útgáfu
 skal auk upplýsinga um fyrirvara við undirritun, ef einhverjir eru, einnig koma
                       fram að um stytta útgáfu sé að ræða.
-               ^1)[51]L. 84/1998, 5. gr. ^2)[52]L. 63/1997, 13. gr.
+               ^1)[53]L. 84/1998, 5. gr. ^2)[54]L. 63/1997, 13. gr.
 47. gr. Vátryggingafélag sem fengið hefur starfsleyfi hér á landi skal innan 10
    daga frá undirritun og innan fjögurra mánaða frá lokum reikningsárs senda
  [Fjármálaeftirlitinu]^1) endurskoðaðan og undirritaðan ársreikning félagsins.
   [Fjármálaeftirlitið]^1) skal setja nánari reglur um þau gögn sem fylgja eiga
    ársreikningi um starfsemina og nauðsynleg eru til að unnt sé að framfylgja
                        eftirliti í samræmi við lög þessi.
-                             ^1)[53]L. 84/1998, 5. gr.
+                             ^1)[55]L. 84/1998, 5. gr.
  48. gr. Reki vátryggingafélag, sem fengið hefur starfsleyfi hér á landi, útibú
     eða veiti þjónustu erlendis skal það láta [Fjármálaeftirlitinu]^1) í té
   upplýsingar um iðgjaldamagn, tjónakostnað og umboðslaun án frádráttar á hlut
@@ -1102,7 +1100,7 @@ samkvæmt nánari reglum sem [Fjármálaeftirlitið]^1) setur. Upplýsingar þes
  [Fjármálaeftirlitið]^1) skal afla hliðstæðra upplýsinga um starfsemi erlendra
 vátryggingafélaga aðildarríkja hérlendis frá eftirlitsstjórnvöldum hlutaðeigandi
                                   heimaríkja.
-                             ^1)[54]L. 84/1998, 5. gr.
+                             ^1)[56]L. 84/1998, 5. gr.
   49. gr. Einungis er heimilt að úthluta sem arði hagnaði samkvæmt samþykktum
 ársreikningi síðasta reikningsárs, yfirfærðum hagnaði frá fyrri árum og óbundnu
  fé eftir að dregið hefur verið frá tap sem ekki hefur verið jafnað, svo og það
@@ -1116,15 +1114,15 @@ leggja til hliðar nægilegt fé fyrir vátryggingaskuld félagsins, svo og að 
   50. gr. Ráðherra vátryggingamála fer með yfirstjórn þeirra málefna sem falla
                                 undir lög þessi.
                                       ^1)
-                             ^1)[55]L. 84/1998, 5. gr.
+                             ^1)[57]L. 84/1998, 5. gr.
                                 51.52. gr. ^1)
-                             ^1)[56]L. 84/1998, 5. gr.
+                             ^1)[58]L. 84/1998, 5. gr.
                                    Eftirlit.
 53. gr. [Fjármálaeftirlitið hefur eftirlit með þeim er reka starfsemi sem háð er
    ákvæðum laga þessara og útibúum erlendra vátryggingafélaga sem fengið hafa
   starfsleyfi hér á landi. Um eftirlitið fer samkvæmt lögum þessum og lögum um
                   opinbert eftirlit með fjármálastarfsemi.]^1)
-                             ^1)[57]L. 84/1998, 5. gr.
+                             ^1)[59]L. 84/1998, 5. gr.
   54. gr. [Fjármálaeftirlitið skal a.m.k. árlega kanna gjaldþol og greiðsluþol
    vátryggingafélaga á grundvelli ársreiknings fyrir næstliðið reikningsár og
    annarra nauðsynlegra gagna og upplýsinga um starfsemina. Einnig skal kanna
@@ -1161,9 +1159,7 @@ skal fylgjast með lánum, ábyrgðum og liðum utan efnahagsreiknings, efnahags
      einstaklinga í öðrum ríkjum fer um samstarf eftirlitsstjórnvalda eftir
        alþjóðasamningum sem Ísland er aðili að og samstarfssamningum sem
                Fjármálaeftirlitið gerir á grundvelli þeirra.]^1)
-    ^1)[58]L. 97/2000, 5. gr. Reglur þessara ákvæða sem varða aðlagað gjaldþol
-       koma til framkvæmda við eftirlit sem byggist á ársreikningum vegna
-                reikningsársins 2001. ^2)[59]L. 84/1998, 5. gr.
+                ^1)[60]L. 97/2000, 5. gr. ^2)[61]L. 84/1998, 5. gr.
   55. gr. [Fjármálaeftirlitið]^1) skal, eftir því sem kostur er, fylgjast með
    vátryggingaskilmálum sem í boði eru hér á landi og gæta þess að þeir séu í
           samræmi við lög sem hér gilda og góða viðskiptaháttu. Telji
@@ -1212,7 +1208,7 @@ vátryggingafélögum sem hér reka vátryggingastarfsemi hvort vátryggingaskil
  Heimilt er að beita ákvæðum laga um opinbert eftirlit með fjármálastarfsemi um
   dagsektir, stjórnvaldssektir og leit og hald á gögnum við upplýsingaöflun og
                       eftirlit samkvæmt þessari grein.]^2)
-               ^1)[60]L. 84/1998, 5. gr. ^2)[61]L. 11/2000, 17. gr.
+               ^1)[62]L. 84/1998, 5. gr. ^2)[63]L. 11/2000, 17. gr.
 
        VI. kafli. Upplýsingaskylda. Val á löggjöf um vátryggingasamninga.
                                Upplýsingaskylda.
@@ -1256,7 +1252,7 @@ Vátryggingafélög skulu sjá til þess að starfsemi aðila skv. 2. mgr. sé �
  öflun vátrygginga fari fram með hag vátryggingataka og vátryggðra fyrir augum.
    Þau skulu einnig sjá til þess að tjónþolar fái fullnægjandi upplýsingar um
    bótarétt sinn og sundurliðun á því hvernig bætur til þeirra eru ákveðnar.
-                             ^1)[62]L. 84/1998, 5. gr.
+                             ^1)[64]L. 84/1998, 5. gr.
  59. gr. Vátryggingaskilmálar frumtrygginga, annarra en líftrygginga, sbr. 60.
   gr., sem boðnir eru vegna vátryggingaáhættu sem hér er og ekki er stóráhætta
    skv. 8. gr., skulu vera á íslensku eða öðru tungumáli sem vátryggingataki
@@ -1405,7 +1401,7 @@ starfsleyfi hlutaðeigandi eftirlitsstjórnvalda geta stofnsett útibú hér á 
  tilkynna [Fjármálaeftirlitinu]^1) skriflega með a.m.k. eins mánaðar fyrirvara.
    [Fjármálaeftirlitið]^1) skal a.m.k. árlega afla vottorðs skv. 5. tölul. um
                               gjaldþol félagsins.
-                             ^1)[63]L. 84/1998, 5. gr.
+                             ^1)[65]L. 84/1998, 5. gr.
  65. gr. Erlend vátryggingafélög með aðalstöðvar í aðildarríki sem hlotið hafa
       starfsleyfi eftirlitsstjórnvalda geta veitt þjónustu hér á landi án
      starfsstöðvar enda sé þeim heimilt að reka vátryggingastarfsemi í sömu
@@ -1439,7 +1435,7 @@ starfsleyfi hlutaðeigandi eftirlitsstjórnvalda geta stofnsett útibú hér á 
     upplýsingar um hvort lögmæltar ökutækjatryggingar séu fyrir hendi og um
 gildistíma. Fulltrúinn hefur ekki með höndum önnur verkefni fyrir félagið hér á
                   landi en tilgreind eru í þessari málsgrein.
-                             ^1)[64]L. 84/1998, 5. gr.
+                             ^1)[66]L. 84/1998, 5. gr.
   66. gr. Eftirlitsstjórnvöldum aðildarríkja eða fulltrúum sem þau tilnefna er
    heimilt, eftir að hafa tilkynnt það [Fjármálaeftirlitinu],^1) að gera þær
  vettvangskannanir hjá vátryggingafélögum sem þau hafa veitt starfsleyfi og hér
@@ -1447,7 +1443,7 @@ gildistíma. Fulltrúinn hefur ekki með höndum önnur verkefni fyrir félagið
        lögmæltu eftirliti með starfsemi útibúa aðildarríkja hér á landi.
    [Fjármálaeftirlitið]^1) hefur heimild til að taka þátt í þessum könnunum.
       Kostnaður vegna þessa greiðist af eftirlitsstjórnvöldum heimaríkis.
-                             ^1)[65]L. 84/1998, 5. gr.
+                             ^1)[67]L. 84/1998, 5. gr.
  67. gr. [Fjármálaeftirlitið]^1) skal veita eftirlitsstjórnvöldum hlutaðeigandi
   heimaríkja upplýsingar um starfsemi útibúa hér á landi til að þau geti lagt
  heildarmat á gjaldþol vátryggingafélaga sem hér starfa og eru undir eftirliti
@@ -1464,7 +1460,7 @@ finna hér á landi eða takmarka í samræmi við ákvæði gildandi laga þar 
   annarra laga sem eiga við um fjármálastarfsemi og ekki hefur verið unnt með
 kröfum eða aðgerðum samkvæmt þessum lögum að fá úr því bætt sem úrskeiðis hefur
                                      farið.
-                             ^1)[66]L. 84/1998, 5. gr.
+                             ^1)[68]L. 84/1998, 5. gr.
  68. gr. Óski vátryggingafélag, sem hér rekur útibú eða veitir þjónustu, eftir
  því að flytja vátryggingastofn sinn að nokkru eða öllu leyti til annars félags
      sem hefur starfsstöð á Evrópsku efnahagssvæði geta eftirlitsstjórnvöld
@@ -1480,7 +1476,7 @@ skyldur vátryggingataka, vátryggðra og annarra samkvæmt vátryggingasamningu
 [Fjármálaeftirlitið]^1) skal láta í té álit sitt innan þriggja mánaða frá því að
      beiðni um flutninginn barst, ella skal litið svo á að afstaða þess til
                             flutningsins sé jákvæð.
-                             ^1)[67]L. 84/1998, 5. gr.
+                             ^1)[69]L. 84/1998, 5. gr.
  69. gr. Afturkalli eftirlitsstjórnvöld heimaríkis starfsleyfi félags sem hefur
  útibú eða veitir þjónustu hér á landi skal [Fjármálaeftirlitið]^1) að fenginni
    tilkynningu þar um gera viðeigandi ráðstafanir til að koma í veg fyrir að
@@ -1488,7 +1484,7 @@ skyldur vátryggingataka, vátryggðra og annarra samkvæmt vátryggingasamningu
      við hlutaðeigandi eftirlitsstjórnvöld í því skyni að tryggja hagsmuni
  vátryggingataka og vátryggðra svo sem kostur er og eiga ákvæði 67. gr. við um
       takmörkun eða bann á frjálsri ráðstöfun eigna þegar nauðsyn krefur.
-                             ^1)[68]L. 84/1998, 5. gr.
+                             ^1)[70]L. 84/1998, 5. gr.
 70. gr. Vátryggingafélag, sem hér rekur útibú eða veitir þjónustu, skal tilkynna
 til vátryggingafélagaskrár allar breytingar á þeim atriðum sem kveðið er á um í
 22. gr. og við geta átt. Sé gerð ný rekstraráætlun skv. 24. gr. skal hún einnig
@@ -1496,7 +1492,7 @@ til vátryggingafélagaskrár allar breytingar á þeim atriðum sem kveðið er
    [Fjármálaeftirlitið]^1) getur gert kröfu um að öll gögn, sem ber að senda
  eftirlitinu vegna starfseminnar hér á landi, séu á íslensku í þýðingu löggilts
                                  skjalaþýðanda.
-                             ^1)[69]L. 84/1998, 5. gr.
+                             ^1)[71]L. 84/1998, 5. gr.
        Erlend vátryggingafélög hér á landi með aðalstöðvar utan Evrópsks
                                 efnahagssvæðis.
 71. gr. Erlend vátryggingafélög með aðalstöðvar utan Evrópsks efnahagssvæðis sem
@@ -1527,7 +1523,7 @@ um eftirlit með starfsemi útibúsins en segir í lögum þessum að því tils
   rýmri skilyrði en útibúum vátryggingafélaga með aðalstöðvar þar. Samráð skal
  haft við önnur aðildarríki um samninga af þessu tagi og þau upplýst um þá áður
                             en þeir eru gerðir.]^2)
-               ^1)[70]L. 84/1998, 5. gr. ^2)[71]L. 63/1997, 16. gr.
+               ^1)[72]L. 84/1998, 5. gr. ^2)[73]L. 63/1997, 16. gr.
 72. gr. Umsókn um starfsleyfi og um skráningu í vátryggingafélagaskrá skal send
 [Fjármálaeftirlitinu]^1) og gögn samkvæmt 21.24. gr. skulu fylgja umsókn eftir
  því sem við getur átt og nauðsynleg eru til þess að það geti metið umsóknina.
@@ -1559,7 +1555,7 @@ tekin til umsóknarinnar, þegar dótturfélag móðurfélags með aðalstöðva
   ríki sækir um starfsleyfi hér á landi og ef aðilar öðlast, beint eða óbeint,
  hlut í vátryggingafélagi með starfsleyfi hér á landi þannig að hið síðarnefnda
                        verði dótturfélag hins fyrrnefnda.
-               ^1)[72]L. 84/1998, 5. gr. ^2)[73]L. 63/1997, 17. gr.
+               ^1)[74]L. 84/1998, 5. gr. ^2)[75]L. 63/1997, 17. gr.
   73. gr. Aðalumboðsmaður skal senda [Fjármálaeftirlitinu]^1) ársreikning hins
  erlenda félags, svo og ársreikning vegna starfseminnar hér á landi, eigi síðar
  en mánuði eftir að þeir hafa verið samþykktir ásamt ársskýrslu með undirritun
@@ -1573,7 +1569,7 @@ gögn samkvæmt reglum sem [Fjármálaeftirlitið]^1) setur skulu fylgja, þar �
  eftirlitsstjórnvöld í heimalandi félagsins athugasemd við starfsemi þess, hafi
 greiðslustöðvun verið ákveðin, ákvörðun verið tekin um að slíta félaginu eða bú
                         þess tekið til gjaldþrotaskipta.
-               ^1)[74]L. 84/1998, 5. gr. ^2)[75]L. 63/1997, 18. gr.
+               ^1)[76]L. 84/1998, 5. gr. ^2)[77]L. 63/1997, 18. gr.
  74. gr. Brjóti félagið lög og reglugerðir um vátryggingastarfsemi eða vanræki
 skyldur sínar samkvæmt þeim þannig að hagsmunum vátryggingataka og vátryggðra sé
 stefnt í hættu, skal [Fjármálaeftirlitið]^1) veita félaginu tiltekinn frest til
@@ -1584,7 +1580,7 @@ að gera nauðsynlegar ráðstafanir til úrbóta. Hafi fullnægjandi ráðstafa
   landi. Hefur hann í því skyni leyfi til ráðstöfunar á eignum félagsins hér á
             landi að því marki er [Fjármálaeftirlitið]^1) heimilar.
    [Ákvæði X. og XI. kafla gilda eftir því sem við getur átt um útibúið.]^2)
-               ^1)[76]L. 84/1998, 5. gr. ^2)[77]L. 63/1997, 19. gr.
+               ^1)[78]L. 84/1998, 5. gr. ^2)[79]L. 63/1997, 19. gr.
 75. gr. Ráðherra getur að fenginni tillögu [Fjármálaeftirlitsins]^1) afturkallað
 starfsleyfi félagsins uppfylli félagið ekki lengur skilyrði fyrir starfsleyfinu
            eða vanræki gróflega skyldur sínar samkvæmt lögum þessum.
@@ -1597,7 +1593,7 @@ skuli á annan hátt reyna að ljúka skuldbindingum sínum vegna vátryggingasa
                          sérstaka stjórn, sbr. 94. gr.
 Við afturköllun á starfsleyfi félags getur [Fjármálaeftirlitið]^1) takmarkað eða
             bannað félaginu yfirráð yfir fjármunum sínum og eignum.
-                             ^1)[78]L. 84/1998, 5. gr.
+                             ^1)[80]L. 84/1998, 5. gr.
 76. gr. Félagið skal máð úr vátryggingafélagaskrá missi það starfsleyfi skv. 75.
   gr., enda sé viðskiptum þess og uppgjöri skuldbindinga hér á landi að fullu
                                      lokið.
@@ -1612,7 +1608,7 @@ skuldbindinga sem á henni hvíla. Sama gildir sé enginn aðalumboðsmaður fé
  félagsins hefur verið afturkallað og félagið getur sannað að staðið hafi verið
  við allar skuldbindingar félagsins hér á landi, eða að nógu há trygging fyrir
      skuldbindingum hafi að mati [Fjármálaeftirlitsins]^1) verið lögð fram.
-                             ^1)[79]L. 84/1998, 5. gr.
+                             ^1)[81]L. 84/1998, 5. gr.
 
  VIII. kafli. Starfsemi vátryggingafélaga erlendis sem fengið hafa starfsleyfi
                                   hér á landi.
@@ -1647,7 +1643,7 @@ framangreind gögn verði ekki send eftirlitsstjórnvöldum viðkomandi aðildar
   tveimur mánuðum eftir að öll gögn skv. 1. og 2. mgr. hafa borist til þeirra.
          Allar breytingar varðandi atriði 1. mgr. skal félagið tilkynna
      [Fjármálaeftirlitinu]^1) skriflega með a.m.k. eins mánaðar fyrirvara.
-                             ^1)[80]L. 84/1998, 5. gr.
+                             ^1)[82]L. 84/1998, 5. gr.
  78. gr. Óski vátryggingafélag, sem fengið hefur starfsleyfi hér á landi, eftir
   því að veita þjónustu í öðru aðildarríki án þess að hafa þar starfsstöð skal
    félagið tilkynna það [Fjármálaeftirlitinu]^1) ásamt upplýsingum um í hvaða
@@ -1671,7 +1667,7 @@ Sendi [Fjármálaeftirlitið]^1) ekki framangreindar upplýsingar á tilskildum 
         skal það greina félaginu frá ástæðum þess innan sömu tímamarka.
  Allar breytingar skal félagið tilkynna [Fjármálaeftirlitinu]^1) skriflega með
                          a.m.k. eins mánaðar fyrirvara.
-                             ^1)[81]L. 84/1998, 5. gr.
+                             ^1)[83]L. 84/1998, 5. gr.
    79. gr. Hafi vátryggingafélag, sem hefur fengið starfsleyfi hér á landi, í
    hyggju að hefja starfsemi í ríki utan Evrópska efnahagssvæðisins skal það
    tilkynnt [Fjármálaeftirlitinu]^1) fyrir fram ásamt lýsingu á fyrirhugaðri
@@ -1683,7 +1679,7 @@ starfsemi og öðrum upplýsingum sem [Fjármálaeftirlitið]^1) óskar eftir og
   getur þó tekið sér lengri fresti til afgreiðslu mála en þar eru tilgreindir.
    Skal það hafa samráð við eftirlitsstjórnvöld aðildarríkja áður en tekin er
                            afstaða til umsóknarinnar.
-                             ^1)[82]L. 84/1998, 5. gr.
+                             ^1)[84]L. 84/1998, 5. gr.
 
                          IX. kafli. Vátryggingamiðlun.
                       Skilgreining. Umsókn um starfsleyfi.
@@ -1693,7 +1689,7 @@ starfsemi og öðrum upplýsingum sem [Fjármálaeftirlitið]^1) óskar eftir og
  starfsleyfi hér á landi enda séu uppfyllt skilyrði laga þessara. Sé starfsemin
  ekki háð starfsleyfi skal vátryggingamiðlari sækja um starfsleyfi og gilda þá
                sömu reglur og um innlenda vátryggingamiðlara.]^1)
-                            ^1)[83]L. 63/1997, 20. gr.
+                            ^1)[85]L. 63/1997, 20. gr.
                                   81. gr. ^1)
   [Skilyrði starfsleyfis er búseta hér á landi, að umsækjandi sé lögráða, hann
     hafi óflekkað mannorð og hafi ekki á síðustu fimm árum verið úrskurðaður
@@ -1728,8 +1724,8 @@ starfsemi vátryggingamiðlara, þar með talin skil á gögnum, svo sem rekstra
      efnahagsreikningi, um starfsábyrgðartryggingu, þar á meðal um fjárhæð
 vátryggingar og lágmarksskilyrði hennar, um prófnefnd og námskeið og próf til að
                       mega stunda miðlun vátrygginga.]^1)
-     ^1)[84]L. 63/1997, 21. gr. ^2)[85]L. 84/1998, 5. gr. ^3)[86]Rg. 350/1997,
-             sbr. [87]643/2000; [88]rg. 352/1997, [89]rg. 853/1999.
+     ^1)[86]L. 63/1997, 21. gr. ^2)[87]L. 84/1998, 5. gr. ^3)[88]Rg. 350/1997,
+             sbr. [89]643/2000; [90]rg. 352/1997, [91]rg. 853/1999.
      82. gr. [Vátryggingamiðlari má ekki taka við þóknun af neinu tagi frá
  vátryggingafélagi nema vegna vátryggingasamninga sem komið hefur verið á milli
                   vátryggingafélagsins og vátryggingataka.]^1)
@@ -1746,7 +1742,7 @@ Vátryggingamiðlari skal í hvívetna leysa störf sín af hendi svo sem góða
 hann starfar fyrir um þóknun sem hann þiggur vegna viðskiptanna fari þeir fram á
   það.]^1) Vátryggingamiðlara er skylt að veita [Fjármálaeftirlitinu]^2) allar
     upplýsingar sem það óskar um vátryggingasamninga sem hann hefur komið á.
-               ^1)[90]L. 63/1997, 22. gr. ^2)[91]L. 84/1998, 5. gr.
+               ^1)[92]L. 63/1997, 22. gr. ^2)[93]L. 84/1998, 5. gr.
                                Upplýsingaskylda.
 83. gr. Vátryggingamiðlari skal veita vátryggingataka þær upplýsingar og aðstoð
  sem hann þarf á að halda til að geta metið skilmála og kjör vátrygginga sem í
@@ -1756,9 +1752,9 @@ vátryggingasamningi. [Hann skal gera fullnægjandi grein fyrir tegund og umfang
  vátryggingaáhættunnar til að unnt sé að gera vátryggingataka tilboð.]^1) Hann
 skal einnig, eftir að samningur er kominn á, veita vátryggingataka leiðbeiningar
    og ráðgjöf, þar á meðal verði tjón er fellur undir vátryggingasamninginn.
-                            ^1)[92]L. 63/1997, 23. gr.
+                            ^1)[94]L. 63/1997, 23. gr.
                                   84. gr. ^1)
-                            ^1)[93]L. 63/1997, 24. gr.
+                            ^1)[95]L. 63/1997, 24. gr.
                                    Skráning.
    85. gr. [Fjármálaeftirlitið]^1) skal halda skrá yfir þá sem leyfi hafa til
 vátryggingamiðlunar hér á landi. [Í reglugerð^2) skal kveða á um þau atriði sem
@@ -1774,7 +1770,7 @@ veita viðvörun eða frest til úrbóta því sem úrskeiðis hefur farið. Rá
      þegar í stað gera ráðstafanir til að slíkri starfsemi verði hætt.]^3)
 Birta skal í Lögbirtingablaði skráningu vátryggingamiðlara og árlega lista yfir
                   þá sem heimild hafa til vátryggingamiðlunar.
-     ^1)[94]L. 84/1998, 5. gr. ^2)[95]Rg. 853/1999. ^3)[96]L. 63/1997, 25. gr.
+     ^1)[96]L. 84/1998, 5. gr. ^2)[97]Rg. 853/1999. ^3)[98]L. 63/1997, 25. gr.
 
             X. kafli. Yfirfærsla vátryggingastofna. Samruni félaga.
                                   Yfirfærsla.
@@ -1801,7 +1797,7 @@ mgr. telji það, að teknu tilliti til þeirra athugasemda sem fram hafa komið
  Vátryggingatakar geta sagt upp vátryggingasamningi sínum við félagið frá þeim
  degi er flutningur stofnsins á sér stað tilkynni þeir uppsögn skriflega innan
                            mánaðar frá flutningsdegi.
-                             ^1)[97]L. 84/1998, 5. gr.
+                             ^1)[99]L. 84/1998, 5. gr.
 87. gr. [Fjármálaeftirlitið]^1) getur heimilað vátryggingafélagi, sem hér hefur
 fengið starfsleyfi og óskar eftir, að flytja vátryggingastofn sinn hér að nokkru
     eða öllu leyti til annars félags með starfsstöð á Evrópsku efnahagssvæði
@@ -1817,7 +1813,7 @@ tilskildar kröfur um gjaldþol séu uppfylltar að teknu tilliti til hins yfirf
     Um yfirfærslu vegna stofna vátryggingafélaga með aðalstöðvar á Evrópsku
  efnahagssvæði, sem hér reka útibú eða veita þjónustu, fer samkvæmt ákvæðum 68.
                                       gr.
-                             ^1)[98]L. 84/1998, 5. gr.
+                            ^1)[100]L. 84/1998, 5. gr.
                                     Samruni.
  88. gr. Óski vátryggingafélög, sem fengið hafa starfsleyfi hér á landi, eftir
 því að samruni eigi sér stað með yfirtöku eins eða fleiri vátryggingafélaga með
@@ -1835,7 +1831,7 @@ eignir og skuldir verði yfirfærðar til hins nýja félags. Skilyrði samruna 
   þótt eitt eða fleiri félaga sem yfirtekin eru, eða lögð verða niður, gangist
 undir skiptameðferð, að því tilskildu að sá kostur sé bundinn við félög sem hafa
          ekki enn hafist handa við að úthluta eignum sínum til eigenda.
-                             ^1)[99]L. 84/1998, 5. gr.
+                            ^1)[101]L. 84/1998, 5. gr.
  89. gr. Í drögum að samkomulagi um samruna, sem fylgja skulu umsókn, skal m.a.
      koma fram hvernig greiðslum er háttað fyrir hluti í félögum sem hætta
 vátryggingastarfsemi, hvenær hlutir sem kunna að vera notaðir sem greiðsla veiti
@@ -1857,7 +1853,7 @@ einnig lögð fram. Sama gildir verði gerðar breytingar á samþykktum félaga
    félaga, sem hætta vátryggingastarfsemi, skulu afturkölluð frá þeim degi er
          [Fjármálaeftirlitið]^1) tiltekur og félagið eða félögin máð úr
                              vátryggingafélagaskrá.
-                            ^1)[100]L. 84/1998, 5. gr.
+                            ^1)[102]L. 84/1998, 5. gr.
 
      XI. kafli. Sérstakar ráðstafanir. Brottfall starfsleyfis. Félagsslit.
                              Sérstakar ráðstafanir.
@@ -1883,7 +1879,7 @@ aðgerðum til að koma fjárhag þess á réttan kjöl, sbr. 1.3. mgr. Ákvö
           fjárhagsstaða félagsins versnað miðað við þessa áætlun skal
 [Fjármálaeftirlitið]^1) taka ákvörðun um nauðsynlegar ráðstafanir og gera kröfu
      um að ný rekstraráætlun til þriggja ára verði lögð fram ef þörf er á.
-                            ^1)[101]L. 84/1998, 5. gr.
+                            ^1)[103]L. 84/1998, 5. gr.
                             Brottfall starfsleyfis.
  91. gr. Sinni vátryggingafélag ítrekað ekki tilmælum [Fjármálaeftirlitsins]^1)
   um ráðstafanir til að meta á fullnægjandi hátt vátryggingaskuld sína eða að
@@ -1898,7 +1894,7 @@ aðgerðum til að koma fjárhag þess á réttan kjöl, sbr. 1.3. mgr. Ákvö
                skamms tíma hafa í för með sér tilskildar úrbætur.
  Einnig má afturkalla starfsleyfi nýti félag leyfið ekki innan tólf mánaða frá
       útgáfu þess eða starfsemin hafi legið niðri í sex mánuði eða meira.
-                            ^1)[102]L. 84/1998, 5. gr.
+                            ^1)[104]L. 84/1998, 5. gr.
   92. gr. [Fjármálaeftirlitið]^1) skal leggja til við ráðherra að starfsleyfi
     vátryggingafélags verði afturkallað hafi félagið ekki gert nauðsynlegar
 ráðstafanir til að rétta við fjárhag sinn, uppfylli félagið ekki lengur skilyrði
@@ -1916,7 +1912,7 @@ vátryggingastarfsemi þannig að hagsmunum vátryggingataka og vátryggðra sé
         því sem nauðsyn krefur, frjálsa ráðstöfun eigna félagsins þegar
 vátryggingaskuldin er vanmetin, skilyrðum um gjaldþol er ekki fullnægt og hætta
      er á versnandi fjárhagsstöðu félagsins sé ekki gripið til ráðstafana.
-                            ^1)[103]L. 84/1998, 5. gr.
+                            ^1)[105]L. 84/1998, 5. gr.
                                   Félagsslit.
    93. gr. Verði starfsleyfi vátryggingafélags afturkallað skal ráðherra, að
  fengnum tillögum [Fjármálaeftirlitsins],^1) skipa þriggja manna skilastjórn í
@@ -1937,7 +1933,7 @@ fleiri vátryggingafélaga eða hvort félagið skuli freista þess að ljúka u
                                 stefnt í hættu.
   Laun skilastjórnar og kostnaður hennar skal greiðast af eignum hlutaðeigandi
                  vátryggingafélags sem krafa utan skuldaraðar.
-                            ^1)[104]L. 84/1998, 5. gr.
+                            ^1)[106]L. 84/1998, 5. gr.
      94. gr. Ef skipuð er skilastjórn í líftryggingafélagi og ákveðið er að
  líftryggingastofninn skuli sæta sérstakri meðferð skal [Fjármálaeftirlitið]^1)
            þegar í stað taka í sínar vörslur þær eignir sem mæta eiga
@@ -1964,7 +1960,7 @@ framselt stofninn líftryggingafélagi því er [Fjármálaeftirlitið]^1) valdi
     Berist ekki tilboð í líftryggingastofn eða komi ekki fram þau tilboð er
 [Fjármálaeftirlitið]^1) vill mæla með skulu eignir hinna vátryggðu greiddar þeim
               í réttu hlutfalli við verðmæti líftrygginga þeirra.
-                            ^1)[105]L. 84/1998, 5. gr.
+                            ^1)[107]L. 84/1998, 5. gr.
   95. gr. Verði ákveðið að beiðast gjaldþrotaskipta í líftryggingafélagi skal
 hvorki telja eignir sem mæta eiga líftryggingaskuldinni með eignum þrotabúsins,
   né líftryggingaskuldina með skuldum þess. Ákvæði 94. gr. um sérstaka meðferð
@@ -1972,7 +1968,7 @@ líftryggingastofnsins gilda og getur [Fjármálaeftirlitið]^1) krafist allra g
    frá þrotabúinu sem nauðsynleg eru til að unnt sé að ljúka uppgjöri hans og
 ráðstöfun. Hafi sérstök meðferð líftryggingastofns verið ákveðin áður en beiðst
 er gjaldþrotaskipta hefur það ekki áhrif á framkvæmd samkvæmt þessari og 94. gr.
-                            ^1)[106]L. 84/1998, 5. gr.
+                            ^1)[108]L. 84/1998, 5. gr.
 96. gr. Verði ákveðið að beiðast gjaldþrotaskipta í vátryggingafélagi sem rekur
   aðra starfsemi en líftryggingastarfsemi og hér hefur fengið starfsleyfi skal
        [Fjármálaeftirlitið],^1) jafnskjótt og búið hefur verið tekið til
@@ -1986,7 +1982,7 @@ eftir athugasemdum vátryggingataka og vátryggðra er berast skulu skriflega in
  eins mánaðar frá birtingu tilkynningarinnar. Að teknu tilliti til þeirra skal
  [Fjármálaeftirlitið]^1) að frestinum loknum taka ákvörðun um hvort unnt sé að
             yfirfæra vátryggingastofna á þann hátt sem lagt er til.
-                            ^1)[107]L. 84/1998, 5. gr.
+                            ^1)[109]L. 84/1998, 5. gr.
        97. gr. Þegar tekin er ákvörðun um frjáls slit samkvæmt samþykktum
   vátryggingafélags sem hér hefur fengið starfsleyfi skal félagið leggja fyrir
   [Fjármálaeftirlitið]^1) greinargerð um óuppgerðar vátryggingaskuldbindingar
@@ -1996,20 +1992,20 @@ eftir athugasemdum vátryggingataka og vátryggðra er berast skulu skriflega in
         vátryggingastofns til annars eða annarra félaga, svo og þegar um
  líftryggingastofn er að ræða hvort stofninn skuli sæta sérstakri meðferð, sbr.
                                     94. gr.
-                            ^1)[108]L. 84/1998, 5. gr.
+                            ^1)[110]L. 84/1998, 5. gr.
 
                             XII. kafli. Ýmis ákvæði.
 98. gr. Ráðherra vátryggingamála er heimilt að setja reglugerðir^1) um þau efni
                           sem í lögum þessum greinir.
-       ^1)[109]Rg. 573/1995, [110]rg. 350/1997, sbr. [111]643/2000; [112]rg.
-       352/1997, [113]rg. 494/1997, [114]rg. 99/1998, [115]rg. 853/1999.
+       ^1)[111]Rg. 573/1995, [112]rg. 350/1997, sbr. [113]643/2000; [114]rg.
+       352/1997, [115]rg. 494/1997, [116]rg. 99/1998, [117]rg. 853/1999.
  99. gr. Brot gegn lögum þessum varða fésektum eða [fangelsi allt að 2 árum]^1)
                 nema þyngri refsing liggi við eftir öðrum lögum.
-                           ^1)[116]L. 82/1998, 213. gr.
+                           ^1)[118]L. 82/1998, 213. gr.
                                     100. gr.
    Lögin öðlast gildi 1. apríl 1994 nema ákvæði 34. og 35. gr. um eignir til
          jöfnunar vátryggingaskuldinni sem gilda frá [1. júlí 1995].^1)
-                            ^1)[117]L. 139/1994, 1. gr.
+                            ^1)[119]L. 139/1994, 1. gr.
                           Ákvæði til bráðabirgða. ^1)
 Tiltekin starfandi vátryggingafélög hafa aðlögunartíma til ársloka 1994 samkvæmt
  samningnum um Evrópskt efnahagssvæði til að uppfylla skilyrði laga þessara um
@@ -2020,7 +2016,7 @@ Heimilt er gagnvart þeim aðildarríkjum Evrópska efnahagssvæðisins sem ekki
  lögfest tilskipanir 92/49/EBE og 92/96/EBE að beita ákvæðum gerða 73/239/EBE,
 88/357/EBE, 79/267/EBE og 90/619/EBE, ásamt síðari breytingum, um starfsleyfi og
                        eftirlit með vátryggingastarfsemi.
-                            ^1)[118]L. 84/1998, 5. gr.
+                            ^1)[120]L. 84/1998, 5. gr.
 
 References
 
@@ -2049,45 +2045,45 @@ References
   22. file:///altext/stjt/1998.084.html
   23. file:///altext/stjt/1998.084.html
   24. file:///altext/stjt/1998.084.html
-  25. file:///altext/stjt/2000.097.html
-  26. file:///altext/stjt/1998.084.html
+  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/954-2001
+  26. file:///altext/stjt/2000.097.html
   27. file:///altext/stjt/1998.084.html
-  28. file:///altext/stjt/2000.097.html
-  29. file:///altext/stjt/1997.063.html
-  30. file:///altext/stjt/1998.084.html
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/646-1995
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/581-1997
-  33. file:///altext/stjt/1998.084.html
+  28. file:///altext/stjt/1998.084.html
+  29. file:///altext/stjt/2000.097.html
+  30. file:///altext/stjt/1997.063.html
+  31. file:///altext/stjt/1998.084.html
+  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/646-1995
+  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/581-1997
   34. file:///altext/stjt/1998.084.html
   35. file:///altext/stjt/1998.084.html
   36. file:///altext/stjt/1998.084.html
-  37. file://1996113.html#g4
-  38. file:///altext/stjt/2001.069.html
+  37. file:///altext/stjt/1998.084.html
+  38. file://1996113.html#g4
   39. file:///altext/stjt/2001.069.html
-  40. file:///altext/stjt/1998.084.html
+  40. file:///altext/stjt/2001.069.html
   41. file:///altext/stjt/1998.084.html
-  42. file:///altext/stjt/2000.097.html
-  43. file:///altext/stjt/1997.063.html
-  44. file:///altext/stjt/1998.084.html
-  45. file:///altext/stjt/2000.011.html
-  46. file:///altext/stjt/1998.084.html
-  47. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/612-1996
-  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/613-1996
-  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/677-1996
-  50. file:///altext/stjt/1998.084.html
-  51. file:///altext/stjt/1998.084.html
-  52. file:///altext/stjt/1997.063.html
+  42. file:///altext/stjt/1998.084.html
+  43. file:///altext/stjt/2000.097.html
+  44. file:///altext/stjt/1997.063.html
+  45. file:///altext/stjt/1998.084.html
+  46. file:///altext/stjt/2000.011.html
+  47. file:///altext/stjt/1998.084.html
+  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/612-1996
+  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/613-1996
+  50. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/956-2001
+  51. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/677-1996
+  52. file:///altext/stjt/1998.084.html
   53. file:///altext/stjt/1998.084.html
-  54. file:///altext/stjt/1998.084.html
+  54. file:///altext/stjt/1997.063.html
   55. file:///altext/stjt/1998.084.html
   56. file:///altext/stjt/1998.084.html
   57. file:///altext/stjt/1998.084.html
-  58. file:///altext/stjt/2000.097.html
+  58. file:///altext/stjt/1998.084.html
   59. file:///altext/stjt/1998.084.html
-  60. file:///altext/stjt/1998.084.html
-  61. file:///altext/stjt/2000.011.html
+  60. file:///altext/stjt/2000.097.html
+  61. file:///altext/stjt/1998.084.html
   62. file:///altext/stjt/1998.084.html
-  63. file:///altext/stjt/1998.084.html
+  63. file:///altext/stjt/2000.011.html
   64. file:///altext/stjt/1998.084.html
   65. file:///altext/stjt/1998.084.html
   66. file:///altext/stjt/1998.084.html
@@ -2095,7 +2091,7 @@ References
   68. file:///altext/stjt/1998.084.html
   69. file:///altext/stjt/1998.084.html
   70. file:///altext/stjt/1998.084.html
-  71. file:///altext/stjt/1997.063.html
+  71. file:///altext/stjt/1998.084.html
   72. file:///altext/stjt/1998.084.html
   73. file:///altext/stjt/1997.063.html
   74. file:///altext/stjt/1998.084.html
@@ -2103,26 +2099,26 @@ References
   76. file:///altext/stjt/1998.084.html
   77. file:///altext/stjt/1997.063.html
   78. file:///altext/stjt/1998.084.html
-  79. file:///altext/stjt/1998.084.html
+  79. file:///altext/stjt/1997.063.html
   80. file:///altext/stjt/1998.084.html
   81. file:///altext/stjt/1998.084.html
   82. file:///altext/stjt/1998.084.html
-  83. file:///altext/stjt/1997.063.html
-  84. file:///altext/stjt/1997.063.html
-  85. file:///altext/stjt/1998.084.html
-  86. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/350-1997
-  87. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/643-2000
-  88. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/352-1997
-  89. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/853-1999
-  90. file:///altext/stjt/1997.063.html
-  91. file:///altext/stjt/1998.084.html
+  83. file:///altext/stjt/1998.084.html
+  84. file:///altext/stjt/1998.084.html
+  85. file:///altext/stjt/1997.063.html
+  86. file:///altext/stjt/1997.063.html
+  87. file:///altext/stjt/1998.084.html
+  88. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/350-1997
+  89. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/643-2000
+  90. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/352-1997
+  91. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/853-1999
   92. file:///altext/stjt/1997.063.html
-  93. file:///altext/stjt/1997.063.html
-  94. file:///altext/stjt/1998.084.html
-  95. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/853-1999
-  96. file:///altext/stjt/1997.063.html
-  97. file:///altext/stjt/1998.084.html
-  98. file:///altext/stjt/1998.084.html
+  93. file:///altext/stjt/1998.084.html
+  94. file:///altext/stjt/1997.063.html
+  95. file:///altext/stjt/1997.063.html
+  96. file:///altext/stjt/1998.084.html
+  97. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/853-1999
+  98. file:///altext/stjt/1997.063.html
   99. file:///altext/stjt/1998.084.html
  100. file:///altext/stjt/1998.084.html
  101. file:///altext/stjt/1998.084.html
@@ -2133,13 +2129,15 @@ References
  106. file:///altext/stjt/1998.084.html
  107. file:///altext/stjt/1998.084.html
  108. file:///altext/stjt/1998.084.html
- 109. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/573-1995
- 110. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/350-1997
- 111. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/643-2000
- 112. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/352-1997
- 113. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/494-1997
- 114. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/099-1998
- 115. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/853-1999
- 116. file:///altext/stjt/1998.082.html
- 117. file:///altext/stjt/1994.139.html
- 118. file:///altext/stjt/1998.084.html
+ 109. file:///altext/stjt/1998.084.html
+ 110. file:///altext/stjt/1998.084.html
+ 111. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/573-1995
+ 112. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/350-1997
+ 113. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/643-2000
+ 114. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/352-1997
+ 115. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/494-1997
+ 116. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/099-1998
+ 117. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/853-1999
+ 118. file:///altext/stjt/1998.082.html
+ 119. file:///altext/stjt/1994.139.html
+ 120. file:///altext/stjt/1998.084.html

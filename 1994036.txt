@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -783,8 +782,9 @@ Kærunefndin getur einnig tekið fyrir mál að eigin frumkvæði og eftir tilm�
 byggingarfulltrúum, leigumiðlurum, Húseigendafélaginu og Leigjendasamtökunum. Í
    slíkum málum getur nefndin látið frá sér fara álit og tilmæli og gilda um
       málsmeðferð fyrirmæli þessarar greinar eftir því sem við getur átt.
-    Félagsmálaráðherra skal með reglugerð setja nánari ákvæði um erindi til
+   Félagsmálaráðherra skal með reglugerð^1) setja nánari ákvæði um erindi til
       kærunefndar, störf hennar, verkefni, valdsvið, starfsskilyrði o.fl.
+                                ^1)[8]Rg. 878/2001.
 
                       XVIII. kafli. Kynning laganna o.fl.
     86. gr. Húsnæðisstofnun ríkisins skal annast kynningu á lögum þessum og
@@ -809,3 +809,4 @@ References
    5. file://1998044.html
    6. file://1989092.html#g5
    7. file://1998015.html
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/878-2001

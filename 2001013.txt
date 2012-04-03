@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -60,10 +59,10 @@ Iðnaðarráðherra veitir leyfi til leitar að kolvetni með rannsóknir og vin
   kolvetni, vinnslu kolvetnis eða forgangsrétt til að fá slíkt leyfi síðar. Þó
    getur slíkt leyfi falið í sér heimild til borunar í þeim tilgangi að afla
       upplýsinga um almenn skilyrði til myndunar og varðveislu kolvetnis.
-  Iðnaðarráðherra setur reglur um skilyrði fyrir veitingu leyfis til leitar að
+Iðnaðarráðherra setur reglur^1) um skilyrði fyrir veitingu leyfis til leitar að
  kolvetni, m.a. ákvæði um greiðslu kostnaðar af mati á umsækjendum og veitingu
  leyfis, upplýsinga- og tilkynningarskyldu um framkvæmd og niðurstöður leitar,
-                       afhendingu gagna og þagnarskyldu.
+            afhendingu gagna og þagnarskyldu.   ^1)[2]Rg. 553/2001.
 
                        IV. kafli. Rannsóknir og vinnsla.
                       7. gr. Rannsóknar- og vinnsluleyfi.
@@ -282,3 +281,4 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001013
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/553-2001
