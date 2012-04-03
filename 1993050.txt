@@ -12,7 +12,8 @@
   Tóku gildi 1. júlí 1993. Breytt með l. 42/1996 (tóku gildi 1. júlí 1996), l.
 149/1997 (tóku gildi 14. jan. 1998), l. 37/1999 (tóku gildi 1. maí 1999), [1]l.
 111/2000 (tóku gildi 1. jan. 2001), [2]l. 88/2008 (tóku gildi 1. jan. 2009 nema
-brbákv. VII sem tók gildi 21. júní 2008) og l. 53/2009 (tóku gildi 1. maí 2009).
+brbákv. VII sem tók gildi 21. júní 2008), l. 53/2009 (tóku gildi 1. maí 2009) og
+                    l. 124/2009 (tóku gildi 30. des. 2009).
 
                        I. kafli. Bætur fyrir líkamstjón.
                        Líkamstjón sem veldur ekki dauða.
@@ -53,20 +54,21 @@ frá lífeyrissjóði, greiðslur frá sjúkrasjóði],^1) dagpeninga og aðrar 
 Bætur fara eftir aldri tjónþola á tjónsdegi og skulu vera þessar fyrir algeran,
                                100 stiga, miska:
 
-Aldur                  Krónur           Aldur                   Krónur
-49 ára og yngri        4.000.000        62 ára                  3.480.000
-50 ára                 3.960.000        63 ára                  3.440.000
-51 árs                 3.920.000        64 ára                  3.400.000
-52 ára                 3.880.000        65 ára                  3.360.000
-53 ára                 3.840.000        66 ára                  3.320.000
-54 ára                 3.800.000        67 ára                  3.280.000
-55 ára                 3.760.000        68 ára                  3.240.000
-56 ára                 3.720.000        69 ára                  3.200.000
-57 ára                 3.680.000        70 ára                  3.160.000
-58 ára                 3.640.000        71 árs                  3.120.000
-59 ára                 3.600.000        72 ára                  3.080.000
-60 ára                 3.560.000        73 ára                  3.040.000
-61 árs                 3.520.000        74 ára eða eldri        3.000.000
+Aldur                     Krónur              Aldur           Krónur
+49 ára og yngri           4.000.000           62 ára          3.480.000
+50 ára                    3.960.000           63 ára          3.440.000
+51 árs                    3.920.000           64 ára          3.400.000
+52 ára                    3.880.000           65 ára          3.360.000
+53 ára                    3.840.000           66 ára          3.320.000
+54 ára                    3.800.000           67 ára          3.280.000
+55 ára                    3.760.000           68 ára          3.240.000
+56 ára                    3.720.000           69 ára          3.200.000
+57 ára                    3.680.000           70 ára          3.160.000
+58 ára                    3.640.000           71 árs          3.120.000
+59 ára                    3.600.000           72 ára          3.080.000
+
+60 ára           3.560.000          73 ára                    3.040.000
+61 árs           3.520.000          74 ára eða eldri          3.000.000
 
 Við lægra miskastig lækka fjárhæðir þessar í réttu hlutfalli. Þegar sérstaklega
    stendur á er heimilt að ákveða hærri bætur, allt að 50% hærri en samkvæmt
@@ -123,8 +125,9 @@ Aldur        Stuðull        Aldur        Stuðull       Aldur       Stuðull
 20          17,572          45          9,265           70         1,783
 21          17,106          46          9,014           71         1,626
 22          16,626          47          8,750           72         1,412
-23          16,130          48          8,440           73         1,109
-24          15,619          49          8,116           74         0,667
+
+23          16,130          48          8,440          73          1,109
+24          15,619          49          8,116          74          0,667
 
 Sé tjónþoli orðinn 75 ára á þeim tíma sem upphaf varanlegrar örorku miðast við,
 en hafi stundað vinnu þegar tjón varð, skal ákvarða honum bætur skv. 1. mgr. og
@@ -292,6 +295,16 @@ hendi vinnuveitanda að því marki sem bótaábyrgð hvílir endanlega á vinnu
                                  eftir 1. mgr.
 Ákvæði 1. mgr. eiga einnig við um kröfu vinnuveitanda á hendur starfsmanni vegna
           tjóns sem starfsmaðurinn veldur vinnuveitanda í starfi sínu.
+       [23. gr. a. Meðábyrgð starfsmanns vegna líkamstjóns í vinnuslysum.
+Nú verður starfsmaður fyrir líkamstjóni í starfi sínu og skerðist þá ekki réttur
+hans til skaðabóta vegna meðábyrgðar nema hann hafi af stórkostlegu gáleysi eða
+                  ásetningi átt þátt í að tjónsatburður varð.
+ Ef starfsmaður sem 1. mgr. tekur til deyr af völdum tjónsatburðar skulu bætur
+sem greiðast þeim er misst hafa framfæranda ekki skerðast vegna meðábyrgðar hins
+    látna, nema hann hafi átt þátt í dauða sínum af stórkostlegu gáleysi eða
+                                 ásetningi.]^1)
+       ^1)L. 124/2009, 1. gr. Akvæðið tekur til tjónsatvika sem verða eftir
+            gildistöku þeirra laga, 30. des. 2009, sbr. 2. gr. s.l.
                              Almenn lækkunarregla.
  24. gr. Lækka má bótafjárhæð eða fella niður skaðabótaábyrgð ef ábyrgðin yrði
  hinum bótaskylda svo þungbær að ósanngjarnt má telja eða álíta verður að öðru

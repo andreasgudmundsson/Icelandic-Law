@@ -63,39 +63,38 @@ Undanþegin gjaldinu eru fyrirtæki sem að öllu leyti eru í eign opinberra a�
 17      Framleiðsla á pappír og pappírsvöru.
 18      Prentun og fjölföldun upptekins efnis. Þó ekki 18.20.0, fjölföldun
         upptekins efnis.
-
-19    Framleiðsla á koksi og hreinsuðum olíuvörum.
-20    Framleiðsla á efnum og efnavörum.
-21    Framleiðsla á lyfjum og efnum til lyfjagerðar.
-22    Framleiðsla á gúmmí- og plastvörum.
-23    Framleiðsla á vörum úr málmlausum steinefnum.
-24    Framleiðsla málma.
-25    Framleiðsla á málmvörum, að undanskildum vélum og búnaði.
-26    Framleiðsla á tölvu-, rafeinda- og optískum vörum.
-27    Framleiðsla á rafbúnaði og heimilistækjum.
-28    Framleiðsla á öðrum ótöldum vélum og tækjum.
-29    Framleiðsla á vélknúnum ökutækjum og tengivögnum.
-30    Framleiðsla annarra farartækja.
-31    Framleiðsla á húsgögnum og innréttingum.
-32    Framleiðsla, ót.a.
-33    Viðgerðir og uppsetning vélbúnaðar og tækja.
-Úr 38 Sorphirða, meðhöndlun og förgun sorps; endurnýting efnis.
-38.3  Endurnýting efnis.
-41    Bygging húsnæðis; þróun byggingarverkefna. Þó ekki 41.10.0, þróun
-      byggingarverkefna.
-42    Mannvirkjagerð.
-43    Sérhæfð byggingarstarfsemi.
-Úr 45 Sala, viðgerðir og viðhald á vélknúnum ökutækjum og tengivögnum.
-45.2  Bílaviðgerðir og viðhald.
-Úr 58 Útgáfustarfsemi.
-58.2  Hugbúnaðarútgáfa.
-62    Þjónustustarfsemi á sviði upplýsingatækni.
-Úr 63 Starfsemi á sviði upplýsingaþjónustu.
-63.1  Gagnavinnsla, hýsing og tengd starfsemi, vefgáttir.
-Úr 74 Önnur sérfræðileg, vísindaleg og tæknileg starfsemi.
-74.2  Ljósmyndaþjónusta.
-95    Viðgerðir á tölvum og hlutum til einka- og heimilisnota.
-Úr 96 Önnur þjónustustarfsemi.
-96.02 Hárgreiðslu- og snyrtistofur.]^1)
+19      Framleiðsla á koksi og hreinsuðum olíuvörum.
+20      Framleiðsla á efnum og efnavörum.
+21      Framleiðsla á lyfjum og efnum til lyfjagerðar.
+22      Framleiðsla á gúmmí- og plastvörum.
+23      Framleiðsla á vörum úr málmlausum steinefnum.
+24      Framleiðsla málma.
+25      Framleiðsla á málmvörum, að undanskildum vélum og búnaði.
+26      Framleiðsla á tölvu-, rafeinda- og optískum vörum.
+27      Framleiðsla á rafbúnaði og heimilistækjum.
+28      Framleiðsla á öðrum ótöldum vélum og tækjum.
+29      Framleiðsla á vélknúnum ökutækjum og tengivögnum.
+30      Framleiðsla annarra farartækja.
+31      Framleiðsla á húsgögnum og innréttingum.
+32      Framleiðsla, ót.a.
+33      Viðgerðir og uppsetning vélbúnaðar og tækja.
+Úr 38   Sorphirða, meðhöndlun og förgun sorps; endurnýting efnis.
+38.3    Endurnýting efnis.
+41      Bygging húsnæðis; þróun byggingarverkefna. Þó ekki 41.10.0, þróun
+        byggingarverkefna.
+42      Mannvirkjagerð.
+43      Sérhæfð byggingarstarfsemi.
+Úr 45   Sala, viðgerðir og viðhald á vélknúnum ökutækjum og tengivögnum.
+45.2    Bílaviðgerðir og viðhald.
+Úr 58   Útgáfustarfsemi.
+58.2    Hugbúnaðarútgáfa.
+62      Þjónustustarfsemi á sviði upplýsingatækni.
+Úr 63   Starfsemi á sviði upplýsingaþjónustu.
+63.1    Gagnavinnsla, hýsing og tengd starfsemi, vefgáttir.
+Úr 74   Önnur sérfræðileg, vísindaleg og tæknileg starfsemi.
+74.2    Ljósmyndaþjónusta.
+95      Viðgerðir á tölvum og hlutum til einka- og heimilisnota.
+Úr 96   Önnur þjónustustarfsemi.
+96.02   Hárgreiðslu- og snyrtistofur.]^1)
 
                                ^1)L. 21/2009, 1. gr.

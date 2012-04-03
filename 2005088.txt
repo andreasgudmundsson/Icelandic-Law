@@ -18,7 +18,9 @@
 jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 130/2008 (tóku gildi
  18. nóv. 2008), l. 147/2008 (tóku gildi 1. jan. 2009), l. 167/2008 (tóku gildi
   1. jan. 2009), l. 17/2009 (tóku gildi 15. mars 2009, birt í Stjtíð. 19. mars
-                2009) og l. 27/2009 (tóku gildi 1. apríl 2009).
+  2009), l. 27/2009 (tóku gildi 1. apríl 2009), l. 98/2009 (tóku gildi 1. okt.
+2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l. 136/2009 (tóku gildi
+                                 1. jan. 2010).
 
                             I. kafli. Almenn ákvæði.
                               1. gr. Orðskýringar.
@@ -652,16 +654,16 @@ fyrirtækjaskrá, sbr. [12]lög nr. 17/2003, um fyrirtækjaskrá. Ef um einstakl
 er að ræða sem stunda atvinnurekstur skulu þeir að minnsta kosti hafa framkvæmt
 þann lágmarksfjölda tollafgreiðslna sem tilgreindur er í reglugerð, sbr. 4. mgr.
                                     23. gr.
-     3. Þeir hafi tilkynnt skattstjóra um starfsemi sína og verið skráðir skv.
- [13]5. gr. laga nr. 50/1988, um virðisaukaskatt, og fyrirmælum settum samkvæmt
-                                     þeim.
+      3. Þeir hafi tilkynnt [ríkisskattstjóra]^2) um starfsemi sína og verið
+  skráðir skv. [13]5. gr. laga nr. 50/1988, um virðisaukaskatt, og fyrirmælum
+                             settum samkvæmt þeim.
    4. Þeir séu ekki í vanskilum við ríkissjóð með greiðslu opinberra gjalda eða
                                     skatta.
-   5. [Tollstjóri]^2) hafi samþykkt þann hugbúnað sem umsækjandi hyggst nota til
+   5. [Tollstjóri]^3) hafi samþykkt þann hugbúnað sem umsækjandi hyggst nota til
      samskipta við tollyfirvöld, nema þegar sótt er um VEF-tollafgreiðslu.
       6. Þeir hafi á að skipa starfsliði með fullnægjandi þekkingu á lögum og
                           reglum um tollmeðferð vara.
-                   ^1)L. 147/2008, 4. gr. ^2)L. 147/2008, 2. gr.
+      ^1)L. 147/2008, 4. gr. ^2)L. 136/2009, 106. gr. ^3)L. 147/2008, 2. gr.
                     25. gr. Skriflegar aðflutningsskýrslur.
  Aðrir en þeir sem um getur í 1. og 3. mgr. 23. gr., sbr. 4. mgr. sömu greinar,
           skulu afhenda ^1) tollstjóra skriflegar aðflutningsskýrslur.
@@ -2107,7 +2109,7 @@ sölu á erlendum markaði, skal skipstjóri gefa í fyrstu höfn sem skipið te
                             XX. kafli. Uppruni vöru.
    145. gr. Ráðherra er heimilt að setja almennar upprunareglur er gildi við
   innflutning og útflutning vöru. Við setningu upprunareglna skal samráð eftir
-    atvikum haft við iðnaðar- og viðskiptaráðuneyti, sjávarútvegsráðuneyti,
+ atvikum haft við [efnahags- og viðskiptaráðuneyti],^1) sjávarútvegsráðuneyti,
   landbúnaðarráðuneyti og utanríkisráðuneyti. Reglurnar skulu grundvallaðar á
                            eftirfarandi meginreglum:
        1. Þegar viðmiðun um breytingu á tollflokkun er beitt skal tilgreina
@@ -2116,7 +2118,7 @@ sölu á erlendum markaði, skal skipstjóri gefa í fyrstu höfn sem skipið te
                                reikningsaðferðir.
    3. Þegar miðað er við framleiðslu eða aðvinnsluaðferðir skal skýra nákvæmlega
             frá aðferðum sem gefa til kynna uppruna viðkomandi vöru.
- Upprunareglur skal birta með reglugerð. [Tollstjóri]^1) veitir innflytjendum,
+ Upprunareglur skal birta með reglugerð. [Tollstjóri]^2) veitir innflytjendum,
 útflytjendum og aðilum sem hagsmuna eiga að gæta bindandi álit um uppruna vöru.
   Álitið skal veita eins fljótt og hægt er og eigi síðar en 60 dögum eftir að
                               beiðni er lögð fram.
@@ -2144,7 +2146,7 @@ af vörum sem útfluttar eru héðan til tímabundinna nota eða til umflutnings
                    milliríkjasamningi sem Ísland er aðili að.
     Ráðherra getur með reglugerð eða öðrum fyrirmælum sett nánari reglur um
                           framkvæmd þessarar greinar.
-                              ^1)L. 147/2008, 2. gr.
+                   ^1)L. 98/2009, 4. gr. ^2)L. 147/2008, 2. gr.
 
                              XXI. kafli. Tollgæsla.
                             146. gr. Tollgæsluvald.
@@ -2511,9 +2513,9 @@ brot einnig upptöku eignar í för með sér og getur tollstjóri undir því s
   er nú var sagt eða 4. mgr. 181. gr. ákveðið eignaupptöku, enda fari verðmæti
                 þess sem gera á upptækt eigi fram úr 300.000 kr.
   Sektir allt að 300.000 kr. fyrir helstu brot á lögum þessum og reglum settum
-samkvæmt þeim skulu ákveðnar í reglugerð sem ráðherra setur að fengnum tillögum
-  ríkissaksóknara. Í reglugerðinni skal tilgreint til hvaða tegunda brota hún
-  tekur og hvaða sekt og önnur viðurlög skuli koma fyrir hverja tegund brots.
+   samkvæmt þeim skulu ákveðnar í reglugerð^2) sem ráðherra setur að fengnum
+tillögum ríkissaksóknara. Í reglugerðinni skal tilgreint til hvaða tegunda brota
+hún tekur og hvaða sekt og önnur viðurlög skuli koma fyrir hverja tegund brots.
 Heimilt er að víkja frá ákvæðum reglugerðarinnar ef veigamikil rök mæla með því.
  Þegar ákvörðun er tekin um sekt vegna brota á tveimur eða fleiri ákvæðum laga
   þessara eða reglna settra samkvæmt þeim skal sektin vera samtala sekta vegna
@@ -2532,7 +2534,7 @@ samkvæmt þessari grein ákveðnar af tollstjóra eða löglærðum fulltrúa h
 eða verið látinn gangast undir fjarstæð málalok að öðru leyti eða mál sem lokið
 er samkvæmt sama ákvæði hefði átt að ganga til dóms og getur hann þá borið málið
               undir dómara til ónýtingar á ákvörðun tollyfirvalda.
-                            ^1)[26]L. 88/2008, 234. gr.
+                   ^1)[26]L. 88/2008, 234. gr. ^2)Rg. 604/2009.
 186. gr. Sektir fyrir brot á refsiákvæðum þessa kafla og andvirði upptækrar vöru
                             skulu renna í ríkissjóð.
  187. gr. Sök samkvæmt ákvæðum þessa kafla fyrnist á fimm árum miðað við upphaf
@@ -2570,7 +2572,7 @@ eða fara frá landinu með hraðsendingum eða póstsendingum í einu sendingar
   190. gr. Ráðherra setur reglur^1) um almennan tollafgreiðslutíma. Tollstjóri
   getur heimilað að afgreiðsla fari fram á öðrum tímum, enda greiði viðkomandi
                         þann kostnað sem af því leiðir.
-                                 ^1)Rg. 1100/2006.
+                         ^1)Rg. 1100/2006, sbr. 823/2009.
   191. gr. Ráðherra setur reglur um skil tollstjóra á upplýsingum til Hagstofu
 Íslands úr aðflutnings- eða útflutningsskjölum og öðrum gögnum, að höfðu samráði
                              við Hagstofu Íslands.
@@ -2582,8 +2584,8 @@ milliríkjasamningum sem Ísland er aðili að, svo og bókunum og viðaukum vi�
  vangreiddra gjalda og til að vinna gegn ólöglegum innflutningi og útflutningi.
  193. gr. Ráðherra setur með reglugerð^1) eða öðrum fyrirmælum nánari ákvæði um
                             framkvæmd laga þessara.
-    ^1)Rg. 1100/2006, sbr. 172/2008; rg. 985/2007, rg. 630/2008, rg. 1247/2008,
-                                  rg. 89/2009.
+    ^1)Rg. 1100/2006, sbr. 172/2008. Rg. 985/2007. Rg. 630/2008. Rg. 1247/2008.
+                           Rg. 89/2009. Rg. 48/2010.
   194. gr. Ákvæði laga þessara um flokkun vara, álagningu, innheimtu, lögveð,
 tilhögun bókhalds, aðflutnings- og útflutningsskýrslur og önnur skjöl, eftirlit,
  stöðvun tollafgreiðslu, viðurlög, sektir, refsingar og aðra framkvæmd varðandi
@@ -2705,8 +2707,8 @@ gjaldmiðli á útflutningsskýrslu, sbr. ákvæði til bráðabirgða II í [30
                             Viðauki I. Tollskrá. ^1)
    ^1)Um texta, sjá Stjtíð. A 2005, bls. 468952, sbr. augl. A 141/2005 (Stjtíð.
 A 2005, bls. 10891090), augl. A 142/2006 (Stjtíð. A 2006, bls. 646694), augl.
-    A 13/2007, augl. A 95/2007, augl. A 175/2007, augl. A 49/2008 og augl. A
-                                   151/2008.
+A 13/2007, augl. A 95/2007, augl. A 175/2007, augl. A 49/2008, augl. A 151/2008
+                              og augl. A 94/2009.
 
                                 Viðauki II. ^1)
         ^1)Um texta, sjá Stjtíð. A 1995, bls. 305, sbr. l. 81/1998, 21. gr.

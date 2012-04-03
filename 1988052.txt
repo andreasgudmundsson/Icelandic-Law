@@ -17,8 +17,9 @@
  tilskipun 76/768/EBE), l. 68/2002 (tóku gildi 17. maí 2002; EES-samningurinn:
   XX. viðauki reglugerð 2037/2000), l. 164/2002 (tóku gildi 1. jan. 2003), l.
    96/2004 (tóku gildi 2. júlí 2004; EES-samningurinn: II. viðauki tilskipun
-  98/8/EB) og [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók
-                             gildi 21. júní 2008).
+98/8/EB). [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi
+ 21. júní 2008) og l. 92/2009 (tóku gildi 26. ágúst 2009; EES-samningurinn: II.
+                      og XX. viðauki reglugerð 842/2006).
 
                             I. kafli. Upphafsákvæði.
                           [Gildissvið og markmið.]^1)
@@ -41,10 +42,19 @@ slík efni í því formi og magni að venjuleg notkun þeirra felur í sér hæ
  mannslíkamann, svo sem hörund, hár, neglur, varir, tennur eða slímhúð í munni.
  Fegrunar- og snyrtiefnum er einkum ætlað að hreinsa, breyta útliti, veita ilm,
       bæta líkamsþef eða vernda og halda líkamshlutum í góðu ástandi.]^3)
-[Markmið þessara laga er að eiturefni, hættuleg efni, [sæfiefni]^2) og fegrunar-
-  og snyrtiefni séu notuð með gát og varúð þannig að hvorki hljótist af tjón á
-        mönnum eða dýrum né matvæli eða umhverfi mengist af efnunum.]^3)
-        ^1)L. 164/2002, 6. gr. ^2)L. 96/2004, 1. gr. ^3)L. 42/2001, 1. gr.
+        [Flúoreraðar gróðurhúsalofttegundir eru í skilningi þessara laga
+   vetnisflúorkolefni (HFC), perflúorkolefni (PFC) og brennisteinshexaflúoríð
+                                    (SF[6]).
+Rekstraraðili er einstaklingur eða lögaðili sem ber ábyrgð á stjórn tæknilegrar
+                  virkni þess búnaðar sem lög þessi taka til.
+  Þjónustuaðili er einstaklingur eða lögaðili sem þjónustar þann búnað sem lög
+                              þessi taka til.]^4)
+  [Markmið þessara laga er að eiturefni, hættuleg efni, sæfiefni, fegrunar- og
+snyrtiefni og flúoreraðar gróðurhúsalofttegundir notist með gát og varúð þannig
+að hvorki hljótist af tjón á mönnum né dýrum, né að matvæli eða umhverfi mengist
+                                af efnunum.]^4)
+     ^1)L. 164/2002, 6. gr. ^2)L. 96/2004, 1. gr. ^3)L. 42/2001, 1. gr. ^4)L.
+                                92/2009, 1. gr.
                              [Umhverfisstofnun.]^1)
                               ^1)L. 164/2002, 6. gr.
   2. gr. [[Umhverfisstofnun]^1) skal vera ráðherra til ráðuneytis um framkvæmd
@@ -246,7 +256,7 @@ getur þá í reglugerð að fengnum tillögum [Umhverfisstofnunar]^1) kveðið 
   og snyrtiefna, hvort sem efnin flokkast sem eiturefni eða hættuleg efni eða
                                    ekki.]^2)
       ^1)Rg. 748/2003, sbr. 870/2004, 385/2005, 320/2006, 738/2006, 158/2007,
-                  425/2008 og 427/2009. ^2)L. 42/2001, 2. gr.
+             425/2008, 427/2009 og 879/2009. ^2)L. 42/2001, 2. gr.
     Nánari reglur um notkun og bann við notkun eiturefna og hættulegra efna.
    18. gr. Ráðherra setur að fengnum tillögum [Umhverfisstofnunar]^1) nánari
  reglur^2) um notkun og bann við notkun eiturefna og hættulegra efna hvort sem
@@ -294,7 +304,7 @@ krabbameinsvaldandi í mönnum eða dýrum eða liggja undir grun um að vera þ
     ^1)L. 164/2002, 6. gr. ^2)Rg. 236/1990, sbr. 348/1990, 664/1997, 766/1997,
  459/1998, 460/1998, 500/1998, 639/1998, 77/1999, 150/1999, 548/1999, 754/1999,
  613/2000, 921/2000, 380/2001, 197/2002, 579/2002, 442/2004, 978/2005, 995/2006
-                   og 1269/2007; rg. 155/2000, sbr. 354/2002.
+                   og 1269/2007. Rg. 155/2000, sbr. 354/2002.
                                   Flutningur.
 21. gr. [Umhverfisstofnun]^1) gerir tillögur um búnað og merkingar farartækja á
     landi, sem flytja eiturefni og hættuleg efni, til viðkomandi ráðuneyta.
@@ -386,10 +396,63 @@ refsa með sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Nú 
          ólöglegri starfsemi. Andvirði hins upptæka rennur í ríkissjóð.
                               ^1)L. 82/1998, 192. gr.
 
-                            V. kafli. Önnur ákvæði.
+          [V. kafli. Ákvæði um flúoreraðar gróðurhúsalofttegundir.]^1)
+                               ^1)L. 92/2009, 2. gr.
+              [27. gr. Geymsla flúoreraðra gróðurhúsalofttegunda.
+     Rekstraraðilum staðbundinna kælikerfa, loftkælinga, varmadælukerfa og
+ staðbundinna slökkvikerfa sem innihalda flúoreraðar gróðurhúsalofttegundir ber
+  að hindra leka þessara lofttegunda og stöðva slíkan leka komi hann til, með
+       öllum þeim tæknilegu ráðstöfunum sem eru mögulegar. Enn fremur ber
+       rekstraraðilum að sjá til þess að haldin sé skrá yfir flúoreraðar
+   gróðurhúsalofttegundir og að lekaleit sé framkvæmd af vottuðum aðilum.]^1)
+                               ^1)L. 92/2009, 2. gr.
+                             [28. gr. Endurnýting.
+         Rekstraraðilar staðbundins búnaðar sem inniheldur flúoreraðar
+    gróðurhúsalofttegundir, og nánar er tiltekinn í reglugerð, bera ábyrgð á
+  endurnýtingu flúoreraðra gróðurhúsalofttegunda til að tryggja endurvinnslu,
+     endurheimt eða eyðingu þeirra. Endurnýting skal framkvæmd af vottuðum
+                                  aðilum.]^1)
+                               ^1)L. 92/2009, 2. gr.
+                          [29. gr. Menntun og vottun.
+Starfsmenn sem annast uppsetningu, viðhald, áfyllingu, lekaleit og aðra þjónustu
+  vegna staðbundinna kælikerfa, loftkælinga, varmadælukerfa, spenna með hárri
+    rafspennu, loftkælinga í vélknúnum ökutækjum, leysiefna og staðbundinna
+slökkvikerfa sem innihalda flúoreraðar gróðurhúsalofttegundir skulu hafa vottun.
+  Til að hljóta slíka vottun skulu þeir hafa lokið námi með fullnægjandi hætti
+                     samkvæmt reglugerð sem ráðherra setur.
+    Rekstrar- og þjónustuaðilar skulu hafa vottun um að þeir uppfylli kröfur
+  reglugerða sem ráðherra setur um húsnæði, öryggi og lágmarkstækjabúnað vegna
+starfsemi sinnar. Enn fremur skulu rekstrar- og þjónustuaðilar hafa vottun um að
+               starfsmenn þeirra hafi hlotið vottun skv. 1. mgr.
+ Vottun samkvæmt lögum þessum er framkvæmd af faggiltri skoðunarstofu samkvæmt
+    [8]lögum nr. 24/2006, um faggildingu o.fl., og gildir í fjögur ár. Hafi
+ viðkomandi sannanlega verið að vinna við umrædd kerfi framlengist vottunin um
+                              önnur fjögur ár.]^1)
+                               ^1)L. 92/2009, 2. gr.
+                               [30. gr. Merking.
+ Óheimilt er að flytja, setja á markað eða afhenda vöru og búnað sem inniheldur
+ flúoreraðar gróðurhúsalofttegundir nema á vörunni og búnaðinum sé merkiskilti
+     með viðurkenndum iðnaðarheitum, innihaldslýsingu og varnaðarorðum.]^1)
+                               ^1)L. 92/2009, 2. gr.
+          [31. gr. Reglugerðir um flúoreraðar gróðurhúsalofttegundir.
+Ráðherra er heimilt, að fengnum tillögum Umhverfisstofnunar, að setja reglugerð
+              vegna flúoreraðra lofttegunda um eftirtalin atriði:
+     a. nánari ákvæði um framkvæmd lekaleitar, áskilnað um lekaleitarkerfi og
+                  skráningu flúoreraðra gróðurhúsalofttegunda,
+                            b. framkvæmd endurnýtingar,
+                              c. framkvæmd vottunar,
+                          d. framkvæmd og mat menntunar,
+     e. húsnæði, öryggi og lágmarkstækjabúnað starfsemi sem tengist notkun og
+                                meðferð efnanna,
+                  f. nánari ákvæði um merkingar vöru og búnaðar,
+   g. ákvæði um notkun og bann við notkun flúoreraðra gróðurhúsalofttegunda.]^1)
+                               ^1)L. 92/2009, 2. gr.
+
+                         [VI. kafli.]^1) Önnur ákvæði.
+                               ^1)L. 92/2009, 2. gr.
                                 Samstarfsnefnd.
-   27. gr. [Ráðherra skipar samstarfsnefnd þeirra aðila sem tilgreindir eru í
-  ac-liðum 3. mgr. 23. gr.]^1) Aðilar tilnefna hver einn fulltrúa í nefndina.
+[32. gr.]^1) [Ráðherra skipar samstarfsnefnd þeirra aðila sem tilgreindir eru í
+  ac-liðum 3. mgr. 23. gr.]^2) Aðilar tilnefna hver einn fulltrúa í nefndina.
   Ráðherra skipar fimmta manninn í nefndina án tilnefningar. Er hann jafnframt
                              formaður nefndarinnar.
   Verkefni nefndarinnar er að fjalla um verkaskiptingu milli eftirlitsaðila í
@@ -398,57 +461,68 @@ takmarkatilfellum og samræmingu aðgerða. Formaður kallar saman fund í nefnd
                        ef tilefni er til að þeirra dómi.
       Ráðherra setur í reglugerð nánari ákvæði um starfssvið og starfsemi
                                  nefndarinnar.
-                               ^1)L. 1/1992, 26. gr.
+                    ^1)L. 92/2009, 2. gr. ^2)L. 1/1992, 26. gr.
                         Ráðgjöf [Umhverfisstofnunar].^1)
                               ^1)L. 164/2002, 6. gr.
-  28. gr. [Umhverfisstofnun]^1) skal eftir nánara samkomulagi veita lyfjanefnd
-                   eiturefnafræðilega ráðgjöf ef þörf gerist.
-                                      ^2)
-                   ^1)L. 164/2002, 6. gr. ^2)L. 1/1992, 26. gr.
+     [33. gr.]^1) [Umhverfisstofnun]^2) skal eftir nánara samkomulagi veita
+             lyfjanefnd eiturefnafræðilega ráðgjöf ef þörf gerist.
+                                      ^3)
+        ^1)L. 92/2009, 2. gr. ^2)L. 164/2002, 6. gr. ^3)L. 1/1992, 26. gr.
 
-                          VI. kafli. Niðurlagsákvæði.
-   29. gr. Nánari ákvæði um framkvæmd laga þessara má setja í reglugerð^1) er
-          ráðherra setur að fengnum tillögum [Umhverfisstofnunar].^2)
+                       [VII. kafli.]^1) Niðurlagsákvæði.
+                               ^1)L. 92/2009, 2. gr.
+[34. gr.]^1) Nánari ákvæði um framkvæmd laga þessara má setja í reglugerð^2) er
+          ráðherra setur að fengnum tillögum [Umhverfisstofnunar].^3)
    [Þrátt fyrir ákvæði 23. gr. laga þessara er umhverfisráðherra heimilt, að
-    fenginni umsögn [Umhverfisstofnunar]^2) og í samráði við heilbrigðis- og
-   tryggingamálaráðherra, að setja reglugerð^3) um innflutning, sölu, notkun,
+    fenginni umsögn [Umhverfisstofnunar]^3) og í samráði við heilbrigðis- og
+   tryggingamálaráðherra, að setja reglugerð^4) um innflutning, sölu, notkun,
  örugga meðhöndlun og förgun eiturefna og hættulegra efna sem geta haft skaðleg
-                             áhrif á umhverfið.]^4)
- [Ráðherra getur í reglugerð að fengnum tillögum [Umhverfisstofnunar]^2) bannað
+                             áhrif á umhverfið.]^5)
+ [Ráðherra getur í reglugerð að fengnum tillögum [Umhverfisstofnunar]^3) bannað
  innflutning og framleiðslu eiturefna og hættulegra efna sem haft geta skaðleg
-   áhrif á umhverfið. Ráðherra getur heimilað [Umhverfisstofnun]^2) að veita
+   áhrif á umhverfið. Ráðherra getur heimilað [Umhverfisstofnun]^3) að veita
    tímabundnar undanþágur frá slíku banni í því skyni að draga smám saman úr
   innflutningi og framleiðslu efnisins og kveðið þar á um hvaða skilyrðum slík
                               undanþága skuli háð.
  Við veitingu innflutnings- og framleiðsluleyfa skv. 3. mgr. er heimilt að taka
 mið af markaðshlutdeild umsækjanda undanfarin fimm ár. Þegar stefnt er að algeru
 banni við innflutningi og framleiðslu efnis er heimilt að hafna umsókn aðila sem
-               hefur ekki flutt inn eða framleitt efnið áður.]^5)
-      ^1)Rg. 242/1974 (varnir gegn mengun matvæla af völdum blýs o.fl.). Rg.
- 238/1986 (eftirlit með framkvæmd laganna). Rg. 149/1989 (um meindýraeyða). Rg.
-    236/1990 (um flokkun, merkingu og meðferð eiturefna, hættulegra efna og
-    vörutegunda sem innihalda slík efni), sbr. 348/1990, 664/1997, 459/1998,
- 460/1998, 639/1998, 77/1999, 150/1999, 548/1999, 754/1999, 613/2000, 921/2000,
-  380/2001, 197/2002, 579/2002, 442/2004, 978/2005, 995/2006 og 1269/2007. Rg.
-289/1994 (um leysiefni til notkunar í matvælaiðnaði), sbr. 144/1995, 562/1995 og
- 493/1998. Rg. 609/1996 (um meðferð umbúða og umbúðaúrgangs), sbr. 682/1999 og
-562/2005. Rg. 230/1998 (um efni sem stuðla að gróðurhúsaáhrifum), sbr. 888/2002.
- Rg. 785/1999 (um starfsleyfi fyrir atvinnurekstur sem getur haft í för með sér
-mengun), sbr. 849/2000. Rg. 786/1999 (um mengunarvarnaeftirlit), sbr. 850/2000.
-    ^2)L. 164/2002, 6. gr. ^3)Rg. 533/1993, sbr. 384/1997. Rg. 946/1999 (um
-    rafhlöður og rafgeyma með tilteknum hættulegum efnum). Rg. 255/2002 (um
- takmörkun á útstreymi rokgjarnra lífrænna efna), sbr. 1024/2005. Rg. 586/2002
-    (um efni sem eyða ósonlaginu), sbr. 659/2002, 586/2005 og 139/2006. Rg.
-    1083/2004 (um gildistöku EES-reglugerða um inn- og útflutning tiltekinna
- hættulegra efna). Rg. 1101/2004 (um markaðssetningu sæfiefna), sbr. 243/2007,
-  150/2008, 520/2008, 1234/2008 og 15/2009. Rg. 1025/2005 (um rokgjörn lífræn
-efnasambönd í málningu, lakki og efnum til lakkviðgerða ökutækja). Rg. 560/2007
-     (um fljótandi eldsneyti). ^4)L. 51/1993, 1. gr. ^5)L. 68/2002, 1. gr.
+               hefur ekki flutt inn eða framleitt efnið áður.]^6)
+    ^1)L. 92/2009, 2. gr. ^2)Rg. 242/1974 (varnir gegn mengun matvæla af völdum
+  blýs o.fl.). Rg. 238/1986 (eftirlit með framkvæmd laganna). Rg. 149/1989 (um
+    meindýraeyða). Rg. 236/1990 (um flokkun, merkingu og meðferð eiturefna,
+    hættulegra efna og vörutegunda sem innihalda slík efni), sbr. 348/1990,
+ 664/1997, 459/1998, 460/1998, 639/1998, 77/1999, 150/1999, 548/1999, 754/1999,
+ 613/2000, 921/2000, 380/2001, 197/2002, 579/2002, 442/2004, 978/2005, 995/2006
+  og 1269/2007. Rg. 289/1994 (um leysiefni til notkunar í matvælaiðnaði), sbr.
+       144/1995, 562/1995 og 493/1998. Rg. 609/1996 (um meðferð umbúða og
+ umbúðaúrgangs), sbr. 682/1999 og 562/2005. Rg. 230/1998 (um efni sem stuðla að
+     gróðurhúsaáhrifum), sbr. 888/2002. Rg. 785/1999 (um starfsleyfi fyrir
+atvinnurekstur sem getur haft í för með sér mengun), sbr. 849/2000. Rg. 786/1999
+    (um mengunarvarnaeftirlit), sbr. 850/2000. ^3)L. 164/2002, 6. gr. ^4)Rg.
+ 533/1993, sbr. 384/1997. Rg. 946/1999 (um rafhlöður og rafgeyma með tilteknum
+ hættulegum efnum). Rg. 255/2002 (um takmörkun á útstreymi rokgjarnra lífrænna
+    efna), sbr. 1024/2005. Rg. 586/2002 (um efni sem eyða ósonlaginu), sbr.
+ 659/2002, 586/2005 og 139/2006. Rg. 1083/2004 (um gildistöku EES-reglugerða um
+       inn- og útflutning tiltekinna hættulegra efna). Rg. 1101/2004 (um
+markaðssetningu sæfiefna), sbr. 243/2007, 150/2008, 520/2008, 1234/2008, 15/2009
+og 1030/2009. Rg. 1025/2005 (um rokgjörn lífræn efnasambönd í málningu, lakki og
+ efnum til lakkviðgerða ökutækja). Rg. 560/2007 (um fljótandi eldsneyti). ^5)L.
+                     51/1993, 1. gr. ^6)L. 68/2002, 1. gr.
                                   Gildistaka.
-   30. gr. Með lögum þessum, sem taka gildi 1. júlí 1988, falla úr gildi lög
- Ákvæði til bráðabirgða. Ákvæði 17. gr. skulu haldast uns sett hafa verið í lög
-fyllri ákvæði um notkun eiturefna og hættulegra efna í matvæli og mengun matvæla
-                             af völdum slíkra efna.
+ [35. gr.]^1) Með lögum þessum, sem taka gildi 1. júlí 1988, falla úr gildi lög
+                               ^1)L. 92/2009, 2. gr.
+
+                            Ákvæði til bráðabirgða.
+   I. Ákvæði 17. gr. skulu haldast uns sett hafa verið í lög fyllri ákvæði um
+notkun eiturefna og hættulegra efna í matvæli og mengun matvæla af völdum slíkra
+                                     efna.
+[II. Heimilt er að gefa út bráðabirgðavottun skv. 29. gr. Slík bráðabirgðavottun
+gildir ekki lengur en til 4. júlí 2011. Umhverfisráðherra gefur út reglugerð um
+                         skilyrði bráðabirgðavottunar.
+Heimilt er að meta aðra menntun sem umsækjandi hefur sem jafngildi náms skv. 29.
+              gr. Skal slíkt mat fara fram fyrir 4. júlí 2011.]^1)
+                               ^1)L. 92/2009, 3. gr.
 
 References
 
@@ -460,3 +534,4 @@ References
    5. file://1994093.html
    6. file://1995093.html#g32
    7. file://2008088.html#g233
+   8. file://2006024.html

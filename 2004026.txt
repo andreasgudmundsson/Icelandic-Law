@@ -737,7 +737,7 @@ aðildarríkis, sé ekki heimilt að taka þátt í stofnun Evrópufélags með 
        e) heiti og skráða skrifstofu sem fyrirhuguð eru fyrir Evrópufélagið.
    22. gr. Í stað sérfræðinga, sem starfa fyrir hönd hvers samrunafélags, er
      hugsanlegt að einn eða fleiri óháðir sérfræðingar, í skilningi 10. gr.
-    tilskipunar 78/855/ EBE, sem yfirvald á sviði dómgæslu eða stjórnsýslu í
+    tilskipunar 78/855/EBE, sem yfirvald á sviði dómgæslu eða stjórnsýslu í
 einhverju aðildarríki samrunafélaganna eða fyrirhugaðs Evrópufélags tilnefnir í
   því skyni að sameiginlegri beiðni allra félaganna, skoði samrunaáætlunina og
                 gefi öllum hluthöfum eina, sameiginlega skýrslu.
@@ -799,7 +799,7 @@ er að skráð skrifstofa Evrópufélagsins verði, sem er til þess bært að g
                                 í 25. og 26. gr.
   28. gr. Fyrir hvert samrunafélag skal birta tilkynningu um samrunann eins og
   mælt er fyrir um í lögum hvers aðildarríkis í samræmi við 3. gr. tilskipunar
-                                  68/151/ EBE.
+                                  68/151/EBE.
 29. gr. 1. Samruni, sem er framkvæmdur eins og mælt er fyrir um í a-lið 2. mgr.
           17. gr., hefur eftirfarandi réttaráhrif sem verða samtímis:
       a) allar eignir og skuldir hvers félags, sem tekið er yfir, færast til
@@ -933,7 +933,7 @@ skýrslu þar sem lagalegir og efnahagslegir þættir breytingarinnar eru skýr�
 rökstuddir og skýrt er hvaða afleiðingar samþykkt Evrópufélagsformsins mun hafa
                          fyrir hluthafa og starfsmenn.
 5. Birta skal áætlunina um breytingu félagsins á þann hátt sem mælt er fyrir um
-í lögum hvers aðildarríkis, í samræmi við 3. gr. tilskipunar 68/ 151/EBE, minnst
+í lögum hvers aðildarríkis, í samræmi við 3. gr. tilskipunar 68/151/EBE, minnst
    einum mánuði fyrir hluthafafundinn sem er boðaður til að taka ákvörðun um
                               breytingu félagsins.
   6. Fyrir hluthafafundinn, sem um getur í 7. mgr., skulu óháðir sérfræðingar,
@@ -941,9 +941,9 @@ einn eða fleiri, sem hafa verið tilnefndir eða samþykktir, í samræmi við 
 ákvæði sem hafa verið samþykkt til að framkvæma 10. gr. tilskipunar 78/855/EBE,
    af yfirvaldi á sviði dómgæslu eða stjórnsýslu í aðildarríkinu sem fer með
    lögsögu í málum félagsins sem breyta á í Evrópufélag, votta, í samræmi við
-    tilskipun 77/91/ EBE (^8), að breyttu breytanda, að hrein eign félagsins
- samsvari a.m.k. hlutafé þess, að viðbættum þeim varasjóðum sem ekki má úthluta
-                         samkvæmt lögum eða samþykktum.
+tilskipun 77/91/EBE (^8), að breyttu breytanda, að hrein eign félagsins samsvari
+ a.m.k. hlutafé þess, að viðbættum þeim varasjóðum sem ekki má úthluta samkvæmt
+                             lögum eða samþykktum.
        7. Hluthafafundur skal samþykkja breytingaráætlun ásamt samþykktum
    Evrópufélagsins. Ákvörðunin skal afgreidd eins og mælt er fyrir um í þeim
  ákvæðum landslaga sem samþykkt hafa verið til að framkvæma 7. gr. tilskipunar
@@ -990,8 +990,8 @@ getur kveðið á um að framkvæmdastjóri eða framkvæmdastjórar skuli bera 
    2. Hluthafafundur skal tilnefna menn til að sitja í eftirlitsstjórninni. Í
   fyrstu eftirlitsstjórnina má hins vegar tilnefna menn á grundvelli samþykkta
   félagsins. Þetta gildir með fyrirvara um 4. mgr. 47. gr. og um það með hvaða
- hætti tilhögun á þátttöku starfsmanna verður ákveðin samkvæmt tilskipun 2001/
-                                     86/EB.
+    hætti tilhögun á þátttöku starfsmanna verður ákveðin samkvæmt tilskipun
+                                  2001/86/EB.
      3. Samþykktir félagsins skulu mæla fyrir um fjölda þeirra sem sitja í
   eftirlitsstjórninni eða um reglur til að ákvarða þann fjölda. Aðildarríki er
  hins vegar heimilt að mæla fyrir um fjölda þeirra sem sitja í eftirlitsstjórn
@@ -1243,7 +1243,7 @@ verið samþykkt til að framkvæma 10. gr. tilskipunar 78/855/EBE, votta að ei
  6. Hluthafafundur Evrópufélagsins skal samþykkja áætlunina um breytingu ásamt
  samþykktum hlutafélagsins. Ákvörðunin skal afgreidd eins og mælt er fyrir um í
      þeim ákvæðum landslaga sem samþykkt hafa verið til að framkvæma 7. gr.
-                            tilskipunar 78/ 855/EBE.
+                            tilskipunar 78/855/EBE.
 
                 VI. bálkur. Viðbótarákvæði og bráðabirgðaákvæði.
 67. gr. 1. Meðan þriðji áfangi í þróun Efnahags- og myntbandalags Evrópu (EMU) á
@@ -1263,7 +1263,7 @@ gjaldmiðli og á sömu forsendum og við eiga um hlutafélög sem heyra undir l
   þess aðildarríkis. Engu að síður skal Evrópufélagið einnig eiga þess kost að
 birta ársreikninga sína og, þegar við á, samstæðureikninga í evrum í samræmi við
    tilskipun ráðsins 90/604/EBE frá 8. nóvember 1990 um breytingu á tilskipun
-78/660/EBE um ársreikninga og tilskipun 83/ 349/EBE um samstæðureikninga að því
+ 78/660/EBE um ársreikninga og tilskipun 83/349/EBE um samstæðureikninga að því
 er varðar undanþágur fyrir lítil og meðalstór félög og birtingu reikninga í ekum
                                   (ECU) (^11).
 
@@ -1281,7 +1281,7 @@ er varðar undanþágur fyrir lítil og meðalstór félög og birtingu reikning
                             hvor í sínu aðildarríki;
     b) hvort rýmka eigi hugtakið samruna í 2. mgr. 17. gr. þannig að það taki
  einnig til annarra tegunda samruna en þeirra sem skilgreindar eru í 1. mgr. 3.
-                 gr. og 1. mgr. 4. gr. tilskipunar 78/855/ EBE;
+                 gr. og 1. mgr. 4. gr. tilskipunar 78/855/EBE;
      c) hvort endurskoða eigi ákvæðið um lögsögu dómstóla í 16. mgr. 8. gr. í
  ljósi ákvæða sem kunna að verða felld inn í Brussel-samþykktina frá 1968 eða í
        aðra texta sem aðildarríkin eða ráðið hafa samþykkt í hennar stað;

@@ -11,7 +11,8 @@
 
    Tóku gildi 16. maí 2001. EES-samningurinn: XI. viðauki tilskipun 99/93/EB.
 Breytt með l. 72/2003 (tóku gildi 10. apríl 2003), [1]l. 62/2005 (tóku gildi 1.
-              júlí 2005) og l. 34/2007 (tóku gildi 30. mars 2007).
+ júlí 2005), l. 34/2007 (tóku gildi 30. mars 2007) og l. 98/2009 (tóku gildi 1.
+          okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010).
 
                         I. kafli. Markmið og gildissvið.
                                 1. gr. Markmið.
@@ -22,7 +23,9 @@ stuðla að öruggri og árangursríkri notkun þeirra með því að mæla fyri
                                2. gr. Gildissvið.
     Lög þessi gilda um rafrænar undirskriftir og starfsemi vottunaraðila með
                               staðfestu á Íslandi.
-        Viðskiptaráðherra fer með yfirstjórn mála samkvæmt lögum þessum.
+   [Efnahags- og viðskiptaráðherra]^1) fer með yfirstjórn mála samkvæmt lögum
+                                    þessum.
+                              ^1)L. 98/2009, 54. gr.
 
        II. kafli. Skilgreiningar, réttaráhrif og vernd persónuupplýsinga.
                               3. gr. Orðskýringar.
@@ -109,14 +112,14 @@ Ekki skal vera unnt að nota öruggan undirskriftarbúnað til að breyta þeim 
                               9. gr. Viðurkenning.
     Kröfum til undirskriftarbúnaðar skv. 8. gr. skal teljast fullnægt þegar:
         a. þar til bær aðili hefur staðfest að hann uppfylli kröfur 8. gr.;
- viðskiptaráðherra getur í reglugerð kveðið á um þá aðila sem veitt geta slíka
-                               staðfestingu, eða
+ [efnahags- og viðskiptaráðherra]^1) getur í reglugerð kveðið á um þá aðila sem
+                       veitt geta slíka staðfestingu, eða
         b. þar til bær aðili á Evrópska efnahagssvæðinu [eða í aðildarríki
-      stofnsamnings Fríverslunarsamtaka Evrópu]^1) hefur viðurkennt hann.
+      stofnsamnings Fríverslunarsamtaka Evrópu]^2) hefur viðurkennt hann.
 Líta skal svo á að undirskriftarbúnaður teljist öruggur skv. 8. gr. ef hann er í
  samræmi við staðla sem framkvæmdastjórn Evrópusambandsins hefur sett um slíkan
        búnað og birtir hafa verið í Stjórnartíðindum Evrópubandalagsins.
-                              ^1)L. 72/2003, 54. gr.
+                   ^1)L. 98/2009, 54. gr. ^2)L. 72/2003, 54. gr.
 
         V. kafli. Kröfur til vottunaraðila sem gefa út fullgild vottorð.
                        10. gr. Kröfur til starfseminnar.
@@ -172,8 +175,10 @@ Vottunaraðili sem gefur út fullgild vottorð skal sannreyna með viðeigandi h
     auðskiljanlegu máli. Þessar upplýsingar skulu, eftir því sem við á, vera
      aðgengilegar þriðja aðila sem treystir á vottorð og óskar eftir þeim.
                              16. gr. Nánari reglur.
-Viðskiptaráðherra er heimilt að setja nánari fyrirmæli í reglugerð um kröfur til
-     vottunaraðila sem gefa út fullgild vottorð skv. V. kafla laga þessara.
+   [Efnahags- og viðskiptaráðherra]^1) er heimilt að setja nánari fyrirmæli í
+reglugerð um kröfur til vottunaraðila sem gefa út fullgild vottorð skv. V. kafla
+                                 laga þessara.
+                              ^1)L. 98/2009, 54. gr.
 
                           VI. kafli. Skaðabótaábyrgð.
 17. gr. Vottunaraðili sem gefur út fullgilt vottorð til almennings eða ábyrgist

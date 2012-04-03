@@ -10,6 +10,8 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. janúar 2009. EES-samningurinn: XXII. viðauki tilskipun 2006/43/EB.
+  Breytt með l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku
+                              gildi 1. jan. 2010).
 
                             I. kafli. Almenn ákvæði.
                              1. gr. Skilgreiningar.
@@ -91,9 +93,10 @@ endurskoðendaráð sýnt að umsækjandi hafi næga þekkingu á þeim málefnu
       Endurskoðunarfyrirtæki skal tryggja að nöfn og heimilisföng eigenda
                     fyrirtækisins séu aðgengileg almenningi.
   Endurskoðunarfyrirtæki skal að uppfylltum ákvæðum þessarar greinar sækja um
-   réttindi til endurskoðunarstarfa til fjármálaráðuneytisins. Jafnframt ber
-   fyrirtækinu að tilkynna ráðuneytinu án tafar ef það uppfyllir ekki lengur
-                           eitthvert þessara ákvæða.
+ réttindi til endurskoðunarstarfa til [efnahags- og viðskiptaráðuneytisins].^1)
+Jafnframt ber fyrirtækinu að tilkynna ráðuneytinu án tafar ef það uppfyllir ekki
+                        lengur eitthvert þessara ákvæða.
+                              ^1)L. 98/2009, 51. gr.
          4. gr. Ráðuneytið birtir opinbera skrá yfir endurskoðendur og
 endurskoðunarfyrirtæki sem fengið hafa réttindi til endurskoðunarstarfa enda séu
                          ákvæði 2. og 3. gr. uppfyllt.
@@ -105,9 +108,9 @@ endurskoðunarfyrirtæki sem fengið hafa réttindi til endurskoðunarstarfa end
 tekið til gjaldþrotaskipta eða beðið verulegan álitshnekki svo draga megi í efa
    hæfi þess til að uppfylla þær kröfur sem gerðar eru um endurskoðun í lögum
 þessum. Endurskoðunarfyrirtæki sem hlotið hefur skráningu skal án tafar tilkynna
-    fjármálaráðuneytinu ef skilyrði þessarar málsgreinar eru ekki uppfyllt.
+      [ráðuneytinu]^1) ef skilyrði þessarar málsgreinar eru ekki uppfyllt.
   Endurskoðendur og endurskoðunarfyrirtæki skv. 1. mgr. skulu, án ástæðulauss
-dráttar, tilkynna fjármálaráðuneytinu ef breytingar verða á þeim upplýsingum sem
+ dráttar, tilkynna [ráðuneytinu]^1) ef breytingar verða á þeim upplýsingum sem
                               fram koma í skránni.
 Öðrum en endurskoðendum og endurskoðunarfyrirtækjum skv. 1. mgr. er eigi heimilt
 að nota orðin endurskoðandi eða endurskoðun í starfs- eða firmaheiti sínu. Þá er
@@ -120,23 +123,25 @@ mgr., með notkun starfsheitis, firmanafns eða með öðrum misvísandi hætti.
  Félagi löggiltra endurskoðenda. Sama á við ef skráning fellur niður, sbr. 10.
                                       mgr.
         Ráðherra gefur út löggildingarskírteini til handa endurskoðanda.
-Fyrir löggildingu skal endurskoðandi greiða gjald í ríkissjóð samkvæmt lögum nr.
-                      88/ 1991, um aukatekjur ríkissjóðs.
+Fyrir löggildingu skal endurskoðandi greiða gjald í ríkissjóð samkvæmt [5]lögum
+                     nr. 88/1991, um aukatekjur ríkissjóðs.
   Hafi endurskoðandi lagt inn réttindi sín eða þau verið felld niður skal nafn
   hans fellt út af skrá, sbr. 1. mgr. Sama á við um endurskoðunarfyrirtæki sem
  uppfyllir ekki lengur skilyrði 4. mgr. þessarar greinar og/eða skilyrði 3. gr.
+                              ^1)L. 98/2009, 51. gr.
                            5. gr. Próf og prófnefnd.
  Endurskoðendaráð skv. 14. gr. skipar þriggja manna prófnefnd endurskoðenda sem
      heldur próf fyrir þá sem sækja um löggildingu til endurskoðunarstarfa.
                 Prófnefndin skal skipuð til fjögurra ára í senn.
   Próf til öflunar endurskoðendaréttinda skal ná til þeirra greina bóknáms og
          verkmenntunar sem helst varða endurskoðendur og störf þeirra.
-Í reglugerð, sem ráðherra setur að fengnum tillögum endurskoðendaráðs, skal m.a.
-    kveðið nánar á um skilyrði til próftöku, prófgreinar, framkvæmd prófa og
+ Í reglugerð,^1) sem ráðherra setur að fengnum tillögum endurskoðendaráðs, skal
+ m.a. kveðið nánar á um skilyrði til próftöku, prófgreinar, framkvæmd prófa og
                       lágmarksárangur til að standast þau.
                Próf skulu að jafnaði haldin einu sinni ár hvert.
     Kostnaður vegna prófa, þ.m.t. þóknun til prófnefndarmanna, greiðist með
    próftökugjaldi sem ráðherra ákveður að fengnum tillögum endurskoðendaráðs.
+                                 ^1)Rg. 589/2009.
                          6. gr. Starfsábyrgðartrygging.
        Endurskoðanda er skylt að hafa í gildi starfsábyrgðartryggingu hjá
   vátryggingafélagi sem hefur starfsleyfi hér á landi vegna fjárhagstjóns sem
@@ -279,7 +284,7 @@ Verði ekki samkomulag í ráðinu um afgreiðslu máls skal þess getið í ums
 Sérhver endurskoðandi skal greiða í ríkissjóð árlegt gjald að fjárhæð 50.000 kr.
     til að standa straum af kostnaði við störf endurskoðendaráðs. Gjalddagi
 gjaldsins er 1. janúar og ef gjaldið er ekki greitt innan 30 daga frá gjalddaga
-skal greiða dráttarvexti af því skv. [5]III. kafla laga nr. 38/2001, um vexti og
+skal greiða dráttarvexti af því skv. [6]III. kafla laga nr. 38/2001, um vexti og
                      verðtryggingu, með síðari breytingum.
 
                         VI. kafli. Óhæði endurskoðenda.
@@ -337,7 +342,7 @@ komast að rökstuddri niðurstöðu í samræmi við þær faglegu kröfur sem 
 Endurskoðendur eða endurskoðunarfyrirtæki sem annast endurskoðun eininga tengdra
   almannahagsmunum skulu þó sæta gæðaeftirliti eigi sjaldnar en á þriggja ára
                                     fresti.
-        Endurskoðendaráð setur reglur um framkvæmd gæðaeftirlits og val
+       Endurskoðendaráð setur reglur^1) um framkvæmd gæðaeftirlits og val
    gæðaeftirlitsmanna svo að tryggt sé að þeir séu óháðir þeim sem eftirlitið
                                   beinist að.
 Endurskoðandi eða endurskoðunarfyrirtæki sem sætir gæðaeftirliti skal veita þeim
@@ -346,6 +351,7 @@ er eftir við gæðaeftirlitið. Lagaákvæði um þagnarskyldu takmarka ekki sk
                  þess að veita upplýsingar og aðgang að gögnum.
       Endurskoðendaráð skal árlega birta upplýsingar um heildarniðurstöðu
                                gæðaeftirlitsins.
+                                 ^1)Rgl. 912/2009.
 
                  VIII. kafli. Brottfall endurskoðunarréttinda.
    23. gr. Sá sem hefur löggildingu til endurskoðunarstarfa og fullnægir ekki
@@ -370,7 +376,8 @@ Endurskoðendaráð getur lagt til við ráðherra að réttindi endurskoðunarf
 til endurskoðunarstarfa verði felld niður uppfylli það ekki ákvæði laga þessara.
   26. gr. Hafi réttindi endurskoðanda verið felld niður eða þau lögð inn skal
          löggildingarskírteini skv. 8. mgr. 4. gr. án tafar skilað til
-                             fjármálaráðuneytisins.
+                              [ráðuneytisins].^1)
+                              ^1)L. 98/2009, 51. gr.
 
                       IX. kafli. Skaðabætur og refsingar.
  27. gr. Endurskoðandi ber ábyrgð á tjóni sem hann eða starfsmenn hans valda í
@@ -439,7 +446,7 @@ og 83/349/EBE og um niðurfellingu á tilskipun ráðsins 84/253/EBE eins og hú
 
                             Ákvæði til bráðabirgða.
  I. Fyrsta endurmenntunartímabil skv. 7. gr. hefst 1. janúar 2010. Þrátt fyrir
-  33. gr. halda ákvæði 3. og 4. málsl. 1. mgr. [6]4. gr. laga nr. 18/1997, um
+  33. gr. halda ákvæði 3. og 4. málsl. 1. mgr. [7]4. gr. laga nr. 18/1997, um
       endurskoðendur, með síðari breytingum, gildi sínu fram að þeim tíma.
  II. Þar til alþjóðlegir endurskoðunarstaðlar hafa verið teknir upp í íslenskan
 rétt skal endurskoðun skv. 9. gr. fara eftir góðri endurskoðunarvenju. Með góðri
@@ -458,5 +465,6 @@ References
    2. file://2006003.html
    3. file://2002161.html
    4. file://1994060.html
-   5. file://2001038.html
-   6. file://1997018.html
+   5. file://1991088.html
+   6. file://2001038.html
+   7. file://1997018.html

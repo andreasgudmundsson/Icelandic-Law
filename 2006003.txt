@@ -28,8 +28,9 @@ komu til framkvæmda skv. fyrirmælum í 10. gr.), l. 56/2003 (tóku gildi 7. ap
 augl. C 1/2006), l. 160/2006 (tóku gildi 30. des. 2006), l. 171/2007 (tóku gildi
   29. des. 2007), l. 80/2008 (tóku gildi 1. jan. 2009; EES-samningurinn: XXII.
    viðauki tilskipun 2006/43/EB), [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema
-  brbákv. VII sem tók gildi 21. júní 2008) og l. 162/2008 (tóku gildi 31. des.
-                                     2008).
+brbákv. VII sem tók gildi 21. júní 2008), l. 162/2008 (tóku gildi 31. des. 2008)
+  og l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1.
+                                  jan. 2010).
 
                             I. kafli. Almenn ákvæði.
                                   Gildissvið.
@@ -156,8 +157,8 @@ skal greina frá slíkum frávikum ásamt ástæðum fyrir þeim og hvaða áhri
                               á afkomu og efnahag.
                              Flokkun og uppsetning.
   6. gr. Efnahagsreikning og rekstrarreikning skal setja upp með kerfisbundnum
-    hætti. Fjármálaráðherra setur reglur um uppsetningu efnahagsreikninga og
-                               rekstrarreikninga.
+     hætti. [Efnahags- og viðskiptaráðherra]^1) setur reglur um uppsetningu
+                    efnahagsreikninga og rekstrarreikninga.
  Efnahagsreikningur og rekstrarreikningur skulu settir upp með hliðstæðum hætti
   frá ári til árs nema sérstakar aðstæður gefi tilefni til annars. Breytingar
                   skulu tilgreindar og rökstuddar í skýringum.
@@ -174,6 +175,7 @@ samanburðarfjárhæðir ef breyting á starfsemi félagsins orsakar það að l
    aðeins taka með ef slíkur liður var í reikningsskilum fyrra reikningsárs.
  Samsvarandi upplýsingar um fjárhæðir fyrra árs skal gefa í skýringum eftir því
                          sem við á, sbr. 4. og 5. mgr.
+                              ^1)L. 98/2009, 50. gr.
                                   Gjaldmiðill.
 7. gr. Texti ársreiknings og samstæðureiknings, sem samdir eru samkvæmt ákvæðum
 laga þessara, skal vera á íslensku og fjárhæðir tilgreindar í íslenskum krónum,
@@ -1223,11 +1225,11 @@ félagið ekki við kröfum hennar. Þessu til viðbótar getur ársreikningaskr
   félags verði hætt tímabundið á skipulegum verðbréfamarkaði, þar til félagið
     hefur birt fullnægjandi reikningsskil og/eða viðbótarupplýsingar að mati
                                ársreikningaskrár.
-Úrskurður ársreikningaskrár er kæranlegur til fjármálaráðherra innan 14 daga frá
+ Úrskurður ársreikningaskrár er kæranlegur til [ráðherra]^1) innan 14 daga frá
 því að hann er kynntur þeim er hann beinist að. Tekur úrskurðurinn ekki gildi ef
 kært er nema ráðherra staðfesti hann. Að öðru leyti skal farið með brot á lögum
-                  þessum í samræmi við ákvæði XII. kafla.]^1)
-                              ^1)L. 171/2007, 12. gr.
+                  þessum í samræmi við ákvæði XII. kafla.]^2)
+                  ^1)L. 98/2009, 50. gr. ^2)L. 171/2007, 12. gr.
                           Umsýslu- og eftirlitsgjald.
  95. gr. Gjaldskyldir aðilar samkvæmt lögum þessum skulu greiða árlegt umsýslu-
  og eftirlitsgjald. Skal gjaldið vera 100.000 kr. á hvert móðurfélag og 50.000
@@ -1535,13 +1537,14 @@ skv. 1. og 2. mgr. eða staðfestingu opinbers aðila á að ársreikningur hafi
    116. gr. Þegar sérstakar samkeppnisaðstæður mæla með því geta félög, sem á
 reikningsskiladegi fara ekki fram úr tvennum af eftirfarandi stærðarmörkum, sent
    ársreikningaskrá samandreginn rekstrarreikning samkvæmt nánari reglum sem
-                            fjármálaráðherra setur:
+                              [ráðherra]^1) setur:
                       1. eignir nema samtals 575.000.000 kr.,
                  2. rekstrartekjur nema samtals 1.150.000.000 kr.,
                  3. fjöldi ársverka á reikningsári er a.m.k. 250.
  Heimildinni til þess að beita ákvæði 1. mgr. má aðeins breyta ef félag hefur á
   reikningsskiladegi farið fram úr eða fer ekki lengur fram úr tvennum af þeim
             mörkum, sem nefnd eru í 1. mgr., tvö reikningsár í röð.
+                              ^1)L. 98/2009, 50. gr.
 117. gr. Ársreikningaskrá skal gera úrtakskannanir og athuganir á ársreikningum,
  samstæðureikningum og skýrslum stjórna í því skyni að sannreyna að þessi gögn
  séu í samræmi við ákvæði þessara laga. Hún getur krafist þeirra upplýsinga hjá
@@ -1647,14 +1650,15 @@ opinberrar birtingar. Heimild ársreikningaskrár til að leggja á sektir samkv
    fyrirsvarsmanns eða starfsmanns lögaðilans. Sektarfjárhæðin nemur allt að
     500.000 kr. og rennur í ríkissjóð. Sektin er aðfararhæf. Sektarákvörðun
  ársreikningaskrár er kæranleg til yfirskattanefndar, sbr. [7]lög nr. 30/1992.
-  Fjármálaráðherra skal setja reglugerð^3) um nánari framkvæmd á sektarheimild
+   [Ráðherra]^3) skal setja reglugerð^4) um nánari framkvæmd á sektarheimild
                              ársreikningaskrár.]^2)
               Sektir fyrir brot á lögum þessum renna í ríkissjóð.
   Sakir samkvæmt lögum þessum fyrnast á sex árum miðað við upphaf rannsóknar á
  vegum skattrannsóknarstjóra ríkisins eða ríkislögreglustjóra eða hjá löglærðum
  fulltrúum þeirra, gegn manni sem sökunaut, enda verði ekki óeðlilegar tafir á
                      rannsókn máls eða ákvörðun refsingar.
-        ^1)[8]L. 88/2008, 234. gr. ^2)L. 160/2006, 3. gr. ^3)Rg. 664/2008.
+     ^1)[8]L. 88/2008, 234. gr. ^2)L. 160/2006, 3. gr. ^3)L. 98/2009, 50. gr.
+                                ^4)Rg. 664/2008.
 
                            XIII. kafli. Ýmis ákvæði.
 127. gr. Ráðherra getur sett reglugerð^1) um framkvæmd laga þessara, þar á meðal
@@ -1668,10 +1672,10 @@ mgr. 68. gr., svo og 1. og 2. tölul. 1. mgr. 98. gr. og 1. og 2. tölul. 1. mgr
   Ráðherra er heimilt að breyta þessum fjárhæðum til samræmis við breytingar á
  fjárhæðum í tilskipun nr. 78/660/EBE eða ef verulegar breytingar verða á gengi
                                      evru.
-    ^1)Rg. 180/2006, rg. 181/2006, rg. 1130/2007, rg. 1131/2007, rg. 1132/2007,
-  rg. 1133/2007, rg. 1134/2007, rg. 664/2008, rg. 716/2008, rg. 717/2008, rg.
-718/2008, rg. 719/2008, rg. 720/2008, rg. 721/2008, rg. 722/2008, rg. 723/2008,
-                     rg. 825/2008, rg. 206/2009, 207/2009.
+    ^1)Rg. 180/2006. Rg. 181/2006. Rg. 1130/2007. Rg. 1131/2007. Rg. 1132/2007.
+  Rg. 1133/2007. Rg. 1134/2007. Rg. 664/2008. Rg. 716/2008. Rg. 717/2008. Rg.
+718/2008. Rg. 719/2008. Rg. 720/2008. Rg. 721/2008. Rg. 722/2008. Rg. 723/2008.
+                    Rg. 825/2008. Rg. 206/2009 Rg. 207/2009.
   128. gr. Með lögum þessum eru tekin upp ákvæði tilskipunar Evrópuþingsins og
  ráðsins nr. 78/660/EBE og nr. 83/349/EBE, og breytinga á þeim nr. 2001/65/EB,
 [2003/51/EB og 2004/109/EB],^1) og reglugerðar nr. 2002/1606/EB að því er varðar
@@ -1726,7 +1730,7 @@ fjármálamörkuðum, fara eftir séu alþjóðlega viðurkenndir og eigi við a
                        alþjóðlegra reikningsskilastaðla.
     3) Tilskipun ráðsins 78/660/EBE frá 25. júlí 1978 um ársreikninga félaga af
     tiltekinni gerð (^4), tilskipun ráðsins 83/349/EBE frá 13. júní 1983 um
- samstæðureikninga (^5), tilskipun ráðsins 86/635/ EBE frá 8. desember 1986 um
+  samstæðureikninga (^5), tilskipun ráðsins 86/635/EBE frá 8. desember 1986 um
   ársreikninga og samstæðureikninga banka og annarra fjármálastofnana (^6) og
      tilskipun ráðsins 91/674/EBE frá 19. desember 1991 um ársreikninga og
     samstæðureikninga vátryggingafélaga (^7) beinast einnig að félögum innan

@@ -13,9 +13,10 @@
 [1]l. 144/1994 (tóku gildi 1. jan. 1995), l. 44/1997 (tóku gildi 1. sept. 1997),
  l. 82/1998 (tóku gildi 1. okt. 1998), l. 22/2001 (tóku gildi 16. maí 2001), l.
   23/2001 (tóku gildi 16. maí 2001), l. 35/2003 (tóku gildi 1. júlí 2003), l.
- 45/2003 (tóku gildi 3. apríl 2003), l. 129/2004 (tóku gildi 31. des. 2005) og
+  45/2003 (tóku gildi 3. apríl 2003), l. 129/2004 (tóku gildi 31. des. 2005),
  [2]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
-                                     2008).
+2008) og l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi
+                                 1. jan. 2010).
 
                       I. kafli. Starfssvið samvinnufélaga.
   1. gr. Lög þessi gilda um félög er stofnuð eru á samvinnugrundvelli með því
@@ -24,11 +25,11 @@
   fastákveðin fjárhæð, félagsmenn og aðrir félagsaðilar bera ekki persónulega
  ábyrgð á heildarskuldbindingum félagsins og skipulag og starfsemi félagsins er
                            sem í lögum þessum segir.
-  [Viðskiptaráðherra fer með mál er varða samvinnufélög samkvæmt lögum þessum,
-         önnur en þau sem varða skráningu samvinnufélaga en með þau fer
-[fjármálaráðherra].^1) ráðherra er í lögum þessum átt við viðskiptaráðherra nema
-             [fjármálaráðherra]^1) sé tilgreindur sérstaklega.]^2)
-                    ^1)L. 35/2003, 5. gr. ^2)L. 44/1997, 1. gr.
+[[Efnahags- og viðskiptaráðherra]^1) fer með mál er varða samvinnufélög samkvæmt
+  lögum þessum, önnur en þau sem varða skráningu samvinnufélaga en með þau fer
+  [fjármálaráðherra].^2) Með ráðherra er í lögum þessum átt við [efnahags- og
+viðskiptaráðherra]^1) nema [fjármálaráðherra]^2) sé tilgreindur sérstaklega.]^3)
+        ^1)L. 98/2009, 13. gr. ^2)L. 35/2003, 5. gr. ^3)L. 44/1997, 1. gr.
         2. gr. Starfssvið samvinnufélags getur verið svo sem hér segir:
     1. Að útvega félagsmönnum og öðrum vörur og hvers konar þjónustu til eigin
                                      þarfa.
@@ -51,16 +52,16 @@ rekstri hafa sömu réttarstöðu í íslenskri löggjöf og samvinnufélög eft
 eigi síðar en 31. desember árið 2002 fullnægi félagið ekki skilyrðinu þegar við
 gildistöku laganna. Eiginfjárhlutfall félaga, sem fullnægja ekki skilyrðinu við
   gildistöku laganna, skal eigi vera lægra en 18% á aðlögunartímanum. Fullnægi
-   samvinnufélag ekki þessum skilyrðum er viðskiptaráðherra heimilt að veita
- félaginu frest í allt að sex mánuði til þess að auka eigið fé að fyrrgreindum
-   lágmörkum. Séu til þess ríkar ástæður að mati ráðherra er honum heimilt að
-                 framlengja þennan frest í allt að þrjá mánuði.
+   samvinnufélag ekki þessum skilyrðum er [efnahags- og viðskiptaráðherra]^1)
+ heimilt að veita félaginu frest í allt að sex mánuði til þess að auka eigið fé
+að fyrrgreindum lágmörkum. Séu til þess ríkar ástæður að mati ráðherra er honum
+           heimilt að framlengja þennan frest í allt að þrjá mánuði.
       2. Að endurskoðun á reikningum félagsins sé í höndum endurskoðanda eða
                               endurskoðunarfélags.
-   3. Að félagið sé aðili að Tryggingarsjóði innlánsdeilda. Samþykktir sjóðsins
-  skulu staðfestar af viðskiptaráðherra.^1) Í samþykktum skal m.a. kveðið á um
-eignarhald á sjóðnum og ráðstöfun eigna hans til samvinnufélaga við slit á honum
-                            eða slit á innlánsdeild.
+        3. Að félagið sé aðili að Tryggingarsjóði innlánsdeilda. Samþykktir
+     sjóðsins^2) skulu staðfestar af [efnahags- og viðskiptaráðherra].^1) Í
+ samþykktum skal m.a. kveðið á um eignarhald á sjóðnum og ráðstöfun eigna hans
+          til samvinnufélaga við slit á honum eða slit á innlánsdeild.
 Til tryggingar fyrir fé því sem lagt er í innlánsdeild eru eignir félagsins, þar
  með talin eign í Tryggingarsjóði innlánsdeilda og ábyrgð félagsmanna skv. 18.
                                       gr.
@@ -74,9 +75,9 @@ Til tryggingar fyrir fé því sem lagt er í innlánsdeild eru eignir félagsin
 eftir lok reikningstímabils. Sex mánaða árshlutareikningur skal vera áritaður af
 endurskoðanda sem endurskoðaður eða kannaður. Um eftirlitið gilda að öðru leyti
             ákvæði laga um opinbert eftirlit með fjármálastarfsemi.
-     Tryggingarsjóður innlánsdeilda er undanþeginn tekjuskatti ^2)]^3)]^4)
-      ^1)Augl. 760/2001. ^2)L. 129/2004, 92. gr. ^3)L. 23/2001, 1. gr. ^4)L.
-                                84/1993, 1. gr.
+     Tryggingarsjóður innlánsdeilda er undanþeginn tekjuskatti ^3)]^4)]^5)
+      ^1)L. 98/2009, 13. gr. ^2)Augl. 760/2001. ^3)L. 129/2004, 92. gr. ^4)L.
+                     23/2001, 1. gr. ^5)L. 84/1993, 1. gr.
  3. gr. Félögum, sem skrásett eru eftir lögum þessum, er einum rétt og skylt að
 hafa í nafni sínu orðin kaupfélag (skammstafað kf.), samvinnufélag (skammstafað
 svf.), pöntunarfélag (skammstafað pf.) eða framleiðslusamvinnufélag (skammstafað

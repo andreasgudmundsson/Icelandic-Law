@@ -16,7 +16,8 @@
  gildi 30. júní 2006), l. 39/2007 (tóku gildi 31. mars 2007), l. 143/2007 (tóku
 gildi 29. des. 2007), [1]l. 82/2008 (tóku gildi 1. júní 2008, birt í Stjtíð. 19.
   júní 2008), [2]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók
-         gildi 21. júní 2008) og l. 118/2008 (tóku gildi 1. okt. 2008).
+gildi 21. júní 2008), l. 118/2008 (tóku gildi 1. okt. 2008) og l. 145/2009 (tóku
+                             gildi 31. des. 2009).
 
             I. kafli. Markmið og gildissvið. Stjórn fjarskiptamála.
                          1. gr. Markmið og gildissvið.
@@ -136,26 +137,32 @@ og því um líkt sem sérstaklega er ætlað að koma á fjarskiptum eða reka 
   rekstraraðila í öðru ríki eða er móttekið af reikiviðskiptavini með upphaf í
     almennu símaneti í öðru ríki og lýkur í farsímaneti rekstraraðila hér á
                                    landi.]^1)
-    [24. ]^1) Samhýsing: Aðgangur að rými og tækniþjónustu sem er nauðsynlegur
+     [24. Reikiþjónusta: Símtalsþjónusta, SMS-þjónusta, MMS-þjónusta og önnur
+     gagnaflutningsþjónusta í farsímaneti sem á upphaf hjá viðskiptavini í
+  farsímaneti rekstraraðila hér á landi og lýkur í farsímaneti rekstraraðila í
+öðru ríki eða er móttekið af viðskiptavini með upphaf í almennu símaneti í öðru
+           ríki og lýkur í farsímaneti rekstraraðila hér á landi.]^4)
+    [25. ]^4) Samhýsing: Aðgangur að rými og tækniþjónustu sem er nauðsynlegur
    til að koma viðeigandi búnaði rétthafa fyrir með góðu móti og tengja hann.
-     [25. ]^1) Samruni: Um skilgreiningu á samruna fer eftir samkeppnislögum.
-     [26. ]^1) Samtenging: Efnisleg og rökvís tenging fjarskiptaneta sem gerir
+     [26. ]^4) Samruni: Um skilgreiningu á samruna fer eftir samkeppnislögum.
+     [27. ]^4) Samtenging: Efnisleg og rökvís tenging fjarskiptaneta sem gerir
  notendum kleift að eiga samskipti við aðra notendur eða fá aðgang að þjónustu
  sem er veitt af öðru fjarskiptafyrirtæki. Ekki skiptir máli hvort þjónustan er
      veitt af eigendum netsins eða öðrum aðilum sem kunna að hafa aðgang að
                                fjarskiptanetinu.
-      [27. ]^1) Skaðleg truflun: Truflun sem setur í hættu, rýrir alvarlega,
+      [28. ]^4) Skaðleg truflun: Truflun sem setur í hættu, rýrir alvarlega,
           hindrar eða truflar endurtekið þráðlausa fjarskiptaþjónustu.
-    [28. ]^1) Skilyrt aðgangskerfi: Sérhver tæknileg ráðstöfun eða fyrirkomulag
+    [29. ]^4) Skilyrt aðgangskerfi: Sérhver tæknileg ráðstöfun eða fyrirkomulag
            sem veitir aðgang að lokaðri hljóð- eða sjónvarpsþjónustu.
-    [29. ]^1) Virðisaukandi þjónusta: Þjónusta þar sem virðisaukandi þáttum er
+    [30. ]^4) Virðisaukandi þjónusta: Þjónusta þar sem virðisaukandi þáttum er
                           bætt við fjarskiptaþjónustu.
-      [30. ]^1) Yfirgjald: Gjald fyrir virðisaukandi þjónustu sem er hærra en
+      [31. ]^4) Yfirgjald: Gjald fyrir virðisaukandi þjónustu sem er hærra en
                              almennt símtalagjald.
-       [31. ]^1) Þróaður stafrænn sjónvarpsbúnaður: Aðgangskassi sem tengist
+       [32. ]^4) Þróaður stafrænn sjónvarpsbúnaður: Aðgangskassi sem tengist
    sjónvarpstæki eða stafrænt sjónvarpstæki sem getur tekið á móti stafrænni
                          gagnvirkri sjónvarpsþjónustu.
-        ^1)L. 118/2008, 1. gr. ^2)L. 78/2005, 12. gr. ^3)L. 39/2007, 1. gr.
+     ^1)L. 118/2008, 1. gr. ^2)L. 78/2005, 12. gr. ^3)L. 39/2007, 1. gr. ^4)L.
+                                145/2009, 1. gr.
 
                   III. kafli. Heimild til fjarskiptastarfsemi.
                                4. gr. Heimildir.
@@ -393,11 +400,11 @@ samkvæmt lögum þessum eða viðhalda eða breyta kvöðum sem þegar hafa ver
 tilteknum markaði getur það einnig talist hafa [umtalsverðan markaðsstyrk]^1) á
   tengdum markaði ef tengsl milli markaðanna eru slík að fyrirtæki getur beitt
   markaðsstyrk sínum á öðrum markaðinum til að auka markaðsstyrk sinn á hinum.
-  Samgönguráðherra er heimilt að setja reglugerð um nánari sundurliðun markaða
+Samgönguráðherra er heimilt að setja reglugerð^2) um nánari sundurliðun markaða
  skv. 16. gr., um greiningu á stöðu markaða og um mælikvarða sem nota skal við
       mat á því hvort fyrirtæki, eitt eða fleiri saman, hafi [umtalsverðan
                     markaðsstyrk]^1) samkvæmt þessari grein.
-                              ^1)L. 78/2005, 12. gr.
+                      ^1)L. 78/2005, 12. gr. ^2)Rg. 741/2009.
 
             VI. kafli. Um alþjónustu og sértæka fjarskiptaþjónustu.
                          19. gr. Réttur til alþjónustu.
@@ -464,7 +471,7 @@ Skal jöfnunargjaldið lagt á fjarskiptafyrirtæki sem starfrækja fjarskiptane
 þjónustu í hlutfalli við bókfærða veltu þessarar starfsemi. Með bókfærðri veltu
  er átt við rekstrartekjur sem fjarskiptafyrirtæki hefur af umræddri starfsemi
                                   hér á landi.
-Jöfnunargjald samkvæmt lögum þessum skal nema [0,65%]^1) af bókfærðri veltu skv.
+Jöfnunargjald samkvæmt lögum þessum skal nema [0,10%]^1) af bókfærðri veltu skv.
      2. mgr. Skal fjárþörf vegna alþjónustu endurskoðuð árlega af Póst- og
  fjarskiptastofnun og niðurstaða þeirrar endurskoðunar ásamt tillögu um breytt
  gjaldhlutfall, ef þörf þykir, lögð fyrir samgönguráðherra. Verði útgjöld hærri
@@ -484,7 +491,8 @@ vegna alþjónustukvaða, sundurliðaðan lista yfir einstakar greiðslur fyrirt
  fjárframlög og jöfnunargjöld í fjarskiptaþjónustu, þar á meðal um útreikning á
  kostnaði við að reka almenn fjarskiptanet eða veita almenna fjarskiptaþjónustu
                          og um útreikning rekstrartaps.
-          ^1)L. 143/2007, 1. gr. ^2)L. 78/2005, 4. gr. ^3)Rg. 1356/2007.
+   ^1)L. 145/2009, 2. gr. Lækkun jöfnunargjaldsprósentu gildir afturvirkt frá 1.
+     janúar 2009 skv. brbákv. s.l. ^2)L. 78/2005, 4. gr. ^3)Rg. 1356/2007.
                        23. gr. Sértæk fjarskiptaþjónusta.
    Nú óskar samgönguráðherra eftir því að lagt sé í framkvæmdir, rekstur eða
    þjónustu sem er til almannaheilla, í öryggisskyni, af umhverfisástæðum eða
@@ -660,33 +668,42 @@ slíkum aðgangi tengist. Gjöld fyrir aðgang og aðstöðu skulu byggjast á k
     [umtalsverðan markaðsstyrk]^1) skulu birta viðmiðunartilboð um aðgang að
     heimtaugum og tengdri aðstöðu. Póst- og fjarskiptastofnun getur krafist
    breytinga á viðmiðunartilboði, þ.m.t. verði. Póst- og fjarskiptastofnun er
-      heimilt að setja reglur um hvert skuli vera efni viðmiðunartilboðs.
+     heimilt að setja reglur^2) um hvert skuli vera efni viðmiðunartilboðs.
    Beiðnum um aðgang að heimtaugum skal aðeins hafnað á grundvelli hlutlægra
     viðmiðana, nauðsynjar þess að viðhalda heildstæði neta eða af tæknilegum
  ástæðum. Náist ekki samkomulag um aðgang getur aðili vísað málinu til Póst- og
                               fjarskiptastofnunar.
- Samgönguráðherra er heimilt að setja reglugerð^2) um sundurgreindan aðgang að
+ Samgönguráðherra er heimilt að setja reglugerð^3) um sundurgreindan aðgang að
                                   heimtaugum.
-                      ^1)L. 78/2005, 12. gr. ^2)Rg. 199/2002.
+             ^1)L. 78/2005, 12. gr. ^2)Rgl. 993/2009. ^3)Rg. 199/2002.
    35. gr. [Hámarksverð í heild- og smásölu fyrir reikisímtöl í farsímanetum.
 Fjarskiptafyrirtæki, sem veita reikiþjónustu hér á landi, skulu sjá til þess að
-  heild- og smásöluverð fyrir reikisímtal í farsímaneti, sem á sér upphaf eða
-  lýkur innan Evrópska efnahagssvæðisins, sé ekki hærra en hámarksverð sem þar
+ heild- og smásöluverð fyrir [reikiþjónustu]^1) í farsímaneti, sem á sér upphaf
+eða lýkur innan Evrópska efnahagssvæðisins, sé ekki hærra en hámarksverð sem þar
                                     gildir.
- Samgönguráðherra setur reglugerð^1) um reiki í almennum farsímanetum, þar sem
-                  m.a. er heimilt að kveða á um eftirfarandi:
+      Samgönguráðherra setur reglugerð^2) um [reikiþjónustu]^1) í almennum
+       farsímanetum, þar sem m.a. er heimilt að kveða á um eftirfarandi:
            a. Hámarksverð í heildsölu fyrir reikisímtöl í farsímanetum.
             b. Hámarksverð í smásölu fyrir reikisímtöl í farsímanetum.
-     c. Hámarksverð fyrir SMS-, MMS-þjónustu og aðra gagnaflutningsþjónustu í
-                                 farsímanetum.
+     c. Hámarksverð [í heild- og smásölu]^1) fyrir SMS-, MMS-þjónustu og aðra
+                     gagnaflutningsþjónustu í farsímanetum.
                                 d. Evrópugjaldskrá.
                      e. Gagnsæi smásölu- og Evrópugjaldskrár.
    f. Viðmiðunargengi og uppgjörsaðferðir sem fjarskiptafyrirtækjum er skylt að
           nota við myntbreytingar vegna reikiþjónustu í farsímanetum.
             g. Skyldur fjarskiptafyrirtækja til þess að verða við óskum
               reikiviðskiptavina um skipti milli reikigjaldskráa.
-      h. Upplýsingaskyldu fjarskiptafyrirtækja um viðeigandi reikigjöld.]^2)
-                     ^1)Rg. 1046/2008. ^2)L. 118/2008, 3. gr.
+        h. Upplýsingaskyldu fjarskiptafyrirtækja um viðeigandi reikigjöld.
+             [i. Reglur um tímamælingar og gjaldfærslur reikisímtala.
+           j. Gjaldtöku fyrir móttöku talhólfsskilaboða í reikiþjónustu.
+       k. Skyldu fjarskiptafyrirtækja til að veita reikiviðskiptavinum sínum
+   persónubundnar upplýsingar um verð og annað tengt gagnaflutningsþjónustu í
+                                     reiki.
+    l. Skyldu fjarskiptafyrirtækja til að gera reikiviðskiptavinum sínum kleift
+að fylgjast með gagnaflutningsnotkun sinni á grundvelli verðs og magns og veita
+       þeim kost á að velja efstu mörk fyrir slíka þjónustu yfir ákveðið
+                                tímabil.]^1)]^3)
+          ^1)L. 145/2009, 3. gr. ^2)Rg. 1046/2008. ^3)L. 118/2008, 3. gr.
         36. gr. Aðskilnaður sérleyfisstarfsemi frá fjarskiptastarfsemi.
  Fjarskiptafyrirtæki eða fyrirtækjasamstæður sem reka almenn fjarskiptanet eða
 veita almenna fjarskiptaþjónustu og njóta einka- eða sérréttinda á öðru sviði en
@@ -1342,8 +1359,8 @@ veitt tækifæri til þess að koma skoðunum sínum á framfæri og leggja til 
                        75. gr. Almenn reglugerðarheimild.
       Samgönguráðherra setur í reglugerð^1) nánari fyrirmæli um framkvæmd
                                 fjarskiptamála.
-   ^1)Rg. 866/2000, sbr. 700/2005; rg. 532/2001, rg. 348/2004, rg. 90/2007, rg.
-                                   1046/2008.
+   ^1)Rg. 866/2000, sbr. 700/2005. Rg. 532/2001. Rg. 348/2004. Rg. 90/2007. Rg.
+                            1046/2008. Rg. 741/2009.
                               76. gr. Gildistaka.
 Lög þessi öðlast gildi 25. júlí 2003. Ákvæði 22. gr. tekur gildi 1. janúar 2004
 og kemur fyrst til framkvæmda á árinu 2005 vegna bókfærðrar veltu á árinu 2004.

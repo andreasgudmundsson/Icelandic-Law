@@ -10,8 +10,9 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. júlí 2001. EES-samningurinn: tilskipun 2000/35/EB. Breytt með l.
- 51/2007 (tóku gildi 1. jan. 2008), l. 159/2008 (tóku gildi 1. jan. 2009) og l.
-                      23/2009 (tóku gildi 31. mars 2009).
+  51/2007 (tóku gildi 1. jan. 2008), l. 159/2008 (tóku gildi 1. jan. 2009), l.
+ 23/2009 (tóku gildi 31. mars 2009) og l. 98/2009 (tóku gildi 1. okt. 2009 nema
+                  69. og 70. gr. sem tóku gildi 1. jan. 2010).
 
                              I. kafli. Gildissvið.
   1. gr. Lög þessi gilda um vexti af peningakröfum á sviði fjármunaréttar og á
@@ -117,12 +118,12 @@ kafla átt við breytingu í hlutfalli við innlenda verðvísitölu. Um heimild
    Í lánssamningi er þó heimilt að miða við hlutabréfavísitölu, innlenda eða
 erlenda, eða safn slíkra vísitalna sem ekki mæla breytingar á almennu verðlagi.
                                ^1)L. 51/2007, 1. gr.
-    15. gr. Seðlabankinn getur að fengnu samþykki viðskiptaráðherra ákveðið
- lágmarkstíma verðtryggðra innstæðna og lána. Bankinn getur jafnframt að fengnu
- samþykki ráðherra ákveðið að vextir verðtryggðra innstæðna og lána skuli vera
-                          óbreytanlegir á lánstímanum.
-  Seðlabankinn setur nánari reglur^1) um verðtryggingu sparifjár og lánsfjár.
-                                 ^1)Rgl. 492/2001.
+          15. gr. Seðlabankinn getur að fengnu samþykki [efnahags- og
+   viðskiptaráðherra]^1) ákveðið lágmarkstíma verðtryggðra innstæðna og lána.
+     Bankinn getur jafnframt að fengnu samþykki ráðherra ákveðið að vextir
+     verðtryggðra innstæðna og lána skuli vera óbreytanlegir á lánstímanum.
+  Seðlabankinn setur nánari reglur^2) um verðtryggingu sparifjár og lánsfjár.
+                     ^1)L. 98/2009, 32. gr. ^2)Rgl. 492/2001.
 16. gr. Þegar skuldbindingum með ákvæðum um verðtryggingu er þinglýst skal þess
 gætt að verðtryggingarinnar sé getið í þinglýsingabókum og skulu þær koma fram á
              vottorðum þinglýsingarstjóra um efni þinglýsingabóka.
@@ -187,9 +188,9 @@ V. Vísitala neysluverðs, sbr. 14. gr. laga þessara, með grunninn 100 í maí
   skal gilda sem vísitala fyrir næsta mánuð á eftir, í fyrsta sinn fyrir apríl
 1995 gagnvart fjárskuldbindingum sem samið hefur verið um fyrir 1. apríl 1995 og
    eru með ákvæðum um lánskjaravísitölu þá sem Seðlabankinn reiknaði og birti
-mánaðarlega samkvæmt heimild í 39. gr. laga nr. 13/1979, um stjórn efnahagsmála
-  o.fl., sbr. reglugerð nr. 18/1989. Hagstofa Íslands skal birta mánaðarlega í
-         Lögbirtingablaði vísitölu skv. 2. málsl. þessarar málsgreinar.
+     mánaðarlega samkvæmt heimild í [4]39. gr. laga nr. 13/1979, um stjórn
+  efnahagsmála o.fl., sbr. reglugerð nr. 18/1989. Hagstofa Íslands skal birta
+  mánaðarlega í Lögbirtingablaði vísitölu skv. 2. málsl. þessarar málsgreinar.
     Verði gerð breyting á grunni vísitölu neysluverðs skal Hagstofan birta í
      Lögbirtingablaði margfeldisstuðul fyrir þannig breytta vísitölu í stað
                        stuðulsins sem getið er í 1. mgr.
@@ -216,3 +217,4 @@ References
    1. file://1987025.html
    2. file://1987025.html
    3. file://1986036.html
+   4. file://1979013.html

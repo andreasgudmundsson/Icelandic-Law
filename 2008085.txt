@@ -40,10 +40,9 @@ fræða, tækniþróunar eða lista. Menntun, sem háskólar veita, tekur mið a
       c. háskólastofnanir sem heyra undir skóla eða deildir samkvæmt ákvörðun
                                    skólaráðs,
                d. háskólastofnanir sem starfa á grundvelli sérlaga.
-Heimilt er í reglum,^1) er háskólaráð setur, að nota önnur heiti fyrir skóla og
+  Heimilt er í reglum, er háskólaráð setur, að nota önnur heiti fyrir skóla og
      deildir, sbr. a-lið 1. mgr., og að háskóli starfi á grundvelli annarra
                                skipulagseininga.
-                      ^1)Augl. 633/2008, sbr. augl. 807/2008.
                       5. gr. Háskólaráð og stjórn háskóla.
 Stjórn háskóla er falin háskólaráði og rektor. Háskólaráð markar heildarstefnu í
   kennslu og rannsóknum og mótar skipulag háskóla. Háskólaráð fer með almennt
@@ -88,10 +87,9 @@ Hverjum fulltrúa skv. 1., 2. og 3. tölul. 2. mgr. og 1., 2. og 3. tölul. 3. m
    fulltrúarnir mega ekki vera starfsmenn eða nemendur háskólans. Þegar þeir
     fulltrúar sem taldir eru í þessari málsgrein hafa verið tilnefndir telst
                              háskólaráð fullskipað.
-  Háskólaráð setur nánari reglur^1) um val á fulltrúum háskólasamfélagsins og
+    Háskólaráð setur nánari reglur um val á fulltrúum háskólasamfélagsins og
   nemenda. Leita skal umsagnar háskólafundar og heildarsamtaka nemenda háskóla
                áður en slíkar reglur eru settar eða þeim breytt.
-                                 ^1)Rgl. 985/2008.
                            7. gr. Fundir háskólaráðs.
  Háskólaráð heldur fundi eftir þörfum. Æski þrír fulltrúar í háskólaráði fundar
                       er formanni skylt að boða til hans.
@@ -165,10 +163,12 @@ Innan skóla fer fram kennsla, rannsóknir og stjórnun. Skólar eru sjálfstæ�
  Við skóla og deildir er heimilt að starfrækja sérstakar háskólastofnanir, sbr.
     c-lið 1. mgr. 4. gr., og rannsóknastofur sem settar eru á stofn samkvæmt
      ákvörðun skólaráðs og samkvæmt nánari reglum^1) sem háskólaráð setur.
-    ^1)Rgl. 824/2001, sbr. rgl. 489/2007 og rgl. 806/2008; rgl. 844/2001, sbr.
-    rgl. 895/2005 og rgl. 315/2009; rgl. 502/2002, sbr. rgl. 1026/2003, rgl.
-279/2006, rgl. 346/2008 og rgl. 317/2009; rgl. 1055/2006, sbr. rgl. 345/2008 og
-                         rgl. 316/2009; rgl. 370/2009.
+    ^1)Rgl. 824/2001, sbr. rgl. 489/2007 og rgl. 806/2008. Rgl. 844/2001, sbr.
+    rgl. 895/2005 og rgl. 315/2009. Rgl. 502/2002, sbr. rgl. 1026/2003, rgl.
+ 279/2006, rgl. 346/2008, rgl. 317/2009 og rgl. 785/2009. Rgl. 1055/2006, sbr.
+    rgl. 345/2008 og rgl. 316/2009. Rgl. 370/2009. Rgl. 569/2009, sbr. rgl.
+ 787/2009, rgl. 970/2009 og rgl. 1024/2009. Rgl. 570/2009. Rgl. 572/2009. Rgl.
+                   1021/2009. Rgl. 1022/2009. Rgl. 1023/2009.
                    12. gr. Forsetar skóla og deildarformenn.
   Daglegri starfsemi skóla stýrir forseti. Rektor ræður forseta hvers skóla að
 undangenginni auglýsingu. Heimilt er rektor að kalla starfsmann háskóla til þess
@@ -202,17 +202,17 @@ skóla. Ályktanir fundar skóla skulu kynntar háskólaráði, rektor, forstö�
                          V. kafli. Starfsfólk háskóla.
                               15. gr. Starfsheiti.
 Starfsheiti kennara við háskóla skulu vera prófessor, dósent, lektor og aðjunkt.
-  Háskólaráð getur sett nánari reglur^1) um þessi og önnur starfsheiti sem það
+   Háskólaráð getur sett nánari reglur um þessi og önnur starfsheiti sem það
                                 ákveður að nota.
    Háskólakennarar hafa með höndum og bera ábyrgð á kennslu sem fram fer til
                             viðurkenndrar prófgráðu.
  Háskólakennarar og sérfræðingar hafa með höndum sjálfstæðar vísindarannsóknir.
  Forstöðumenn stofnana hafa með höndum háskólakennslu og sjálfstæðar rannsóknir
               ef kveðið er á um það í reglum viðkomandi stofnunar.
-  Háskólaráð setur nánari reglur^2) um starfsheiti og starfsskyldur þeirra sem
+  Háskólaráð setur nánari reglur^1) um starfsheiti og starfsskyldur þeirra sem
    ráðnir eru í akademísk störf samkvæmt ákvæðum þessa kafla, sem og um leyfi
                               þeirra frá störfum.
-            ^1)Augl. 633/2008, sbr. augl. 807/2008. ^2)Rgl. 1096/2008.
+          ^1)Rgl. 605/2006, sbr. 968/2009. Rgl. 1096/2008. Rgl. 971/2009.
                               16. gr. Dómnefndir.
   Háskóli skal setja á fót dómnefnd til þess að meta hæfi þeirra sem sækja um
 akademísk störf eða fá boð um slíkt starf. Þeir sem hljóta akademískt starf við
@@ -266,7 +266,7 @@ skulu settar fyrir fram fyrir hvert háskólaár. Í slíkum reglum skal taka mi
   skilyrðum háskóla til þess að veita kennslu á viðkomandi námsleið. Í reglum
 háskólaráðs er heimilt að takmarka fjölda nemenda inn á einstaka námsleiðir enda
          séu þá ekki fyrir hendi skilyrði til inntöku allra umsækjenda.
-                       ^1)Rgl. 319/2009, sbr. rgl. 371/2009.
+       ^1)Rgl. 319/2009, sbr. rgl. 371/2009 og rgl. 463/2009. Rgl. 972/2009.
                       19. gr. Réttindi og skyldur nemenda.
   Háskólaráð setur, að fenginni umsögn heildarsamtaka nemenda innan háskólans,
    reglur um réttindi og skyldur nemenda, þ.m.t. um málskotsrétt þeirra innan
@@ -380,7 +380,9 @@ Háskóli skal árlega halda opinn ársfund þar sem fjárhagur skólans og megi
                             B-deild Stjórnartíðinda.
 Hver skóli semur og birtir eigin kennsluskrá. Árlega skal birt kennsluskrá fyrir
                                háskólann í heild.
-           ^1)Rgl. 387/2009 (fyrir Háskólann á Akureyri), rgl. 389/2009.
+    ^1)Rgl. 387/2009 (fyrir Háskólann á Akureyri). Rgl. 389/2009. Rgl. 569/2009
+ (fyrir Háskóla Íslands), sbr. rgl. 787/2009, rgl. 970/2009 og rgl. 1024/2009.
+          Rgl. 610/2009. Rgl. 611/2009. Rgl. 864/2009. Rgl. 885/2009.
 
                            X. kafli. Gildistaka o.fl.
                               29. gr. Gildistaka.
@@ -407,38 +409,27 @@ Akureyri eru félagsvísinda- og lagadeild, heilbrigðisvísindadeild, kennarade
  þessi taka til, laga sig að ákvæðum laga þessara um skóla, sbr. 2. mgr. 4. gr.
   [5]Lög nr. 57/1999, um búnaðarfræðslu, skulu endurskoðuð fyrir árslok 2009.
       ^1)Sjá nú rgl. 843/2001, sbr. rgl. 70/2003 ^2)Sjá nú rg. 292/1992, rg.
-393/1996, rgl. 459/2000, rgl. 876/2003, sbr. rgl. 388/2009; rgl. 868/2004, sbr.
- rgl. 642/2005, rgl. 977/2005, rgl. 1173/2006, rgl. 459/2007 og rgl. 451/2008;
-rgl. 925/2004, rgl. 413/2006, rgl. 414/2006, rgl. 757/2006, rgl. 1157/2007, rgl.
-1207/2007, sbr. rgl. 1358/2007; rgl. 1208/2007, rgl. 156/2008, 157/2008. ^3)Sjá
-    nú rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, rgl. 182/2001, rgl.
-   718/2001, rgl. 888/2001, rgl. 66/2002, rgl. 106/2002, rgl. 138/2002, rgl.
-   319/2002, rgl. 505/2002, rgl. 638/2002, rgl. 758/2002, rgl. 767/2002, rgl.
-   821/2002, rgl. 323/2003, rgl. 518/2003, rgl. 799/2003, rgl. 362/2004, rgl.
-  599/2004, rgl. 951/2004, rgl. 1057/2004, rgl. 132/2005, rgl. 532/2005, rgl.
-  611/2005, rgl. 892/2005, rgl. 1151/2005, rgl. 276/2006, rgl. 596/2006, rgl.
-  1058/2006, rgl. 338/2007, rgl. 581/2007, rgl. 662/2007, rgl. 888/2007, rgl.
- 1056/2007, rgl. 1297/2007, rgl. 347/2008, rgl. 418/2008, rgl. 984/2008 og rgl.
-985/2008; rgl. 296/2001, rgl. 720/2001, rgl. 731/2001, sbr. rgl. 344/2008; rgl.
-734/2001, rgl. 735/2001, sbr. rgl. 906/2004; rgl. 737/2001, sbr. rgl. 889/2007;
-rgl. 738/2001, rgl. 826/2001, sbr. rgl. 516/2003; rgl. 828/2001, rgl. 829/2001,
-rgl. 832/2001, rgl. 863/2001, rgl. 978/2001, rgl. 979/2001, sbr. rgl. 515/2003;
- rgl. 19/2002, rgl. 495/2002, rgl. 497/2002, rgl. 498/2002, rgl. 500/2002, rgl.
-   501/2002, rgl. 664/2002, rgl. 750/2002, rgl. 838/2002, rgl. 839/2002, rgl.
-952/2002, sbr. rgl. 253/2004, rgl. 600/2005, rgl. 892/2005, rgl. 1056/2006, rgl.
-  341/2007 og rgl. 343/2008; rgl. 156/2003, sbr. 850/2003; rgl. 164/2003, rgl.
-176/2003, sbr. rgl. 488/2007; rgl. 315/2003, rgl. 385/2003, rgl. 517/2003, rgl.
-   1041/2003, sbr. rgl. 255/2004; rgl. 1042/2003, sbr. rgl. 277/2006 og rgl.
- 1057/2006; rgl. 1046/2003, rgl. 1047/2003, rgl. 140/2004, rgl. 239/2004, sbr.
-  rgl. 278/2006 og rgl. 452/2007; rgl. 240/2004, rgl. 257/2004, rgl. 259/2004,
-   rgl. 260/2004, sbr. rgl. 891/2007; rgl. 398/2004, sbr. rgl. 909/2004; rgl.
-825/2004, rgl. 951/2004, rgl. 134/2005, sbr. rgl. 1152/2005; rgl. 296/2005, rgl.
-  526/2005, rgl. 540/2005, rgl. 1236/2005, rgl. 280/2006, rgl. 281/2006, rgl.
-478/2006, rgl. 594/2006, sbr. rgl. 339/2007; rgl. 595/2006, rgl. 605/2006, rgl.
-  797/2006, rgl. 798/2006, rgl. 340/2007, rgl. 343/2007, sbr. rgl. 487/2007 og
-rgl. 738/2007; rgl. 342/2007, sbr. rgl. 340/2008; rgl. 344/2007, rgl. 345/2007,
-sbr. rgl. 739/2007; rgl. 490/2007, rgl. 890/2007, rgl. 909/2007, rgl. 1298/2007,
-                              sbr. rgl. 341/2008.
+393/1996, rgl. 459/2000, rgl. 876/2003, sbr. rgl. 388/2009; rgl. 925/2004, rgl.
+413/2006, rgl. 414/2006, rgl. 757/2006, sbr. rgl. 546/2009; rgl. 1157/2007, rgl.
+ 1207/2007, sbr. rgl. 1358/2007; rgl. 1208/2007, rgl. 156/2008, rgl. 157/2008.
+   ^3)Sjá nú rgl. 296/2001, rgl. 720/2001, rgl. 734/2001, rgl. 738/2001, rgl.
+826/2001, sbr. rgl. 516/2003; rgl. 828/2001, rgl. 829/2001, rgl. 832/2001, rgl.
+ 863/2001, rgl. 978/2001, rgl. 979/2001, sbr. rgl. 515/2003; rgl. 19/2002, rgl.
+   495/2002, rgl. 497/2002, rgl. 498/2002, rgl. 501/2002, rgl. 664/2002, rgl.
+750/2002, rgl. 838/2002, rgl. 952/2002, sbr. rgl. 253/2004, rgl. 600/2005, rgl.
+ 892/2005, rgl. 1056/2006, rgl. 341/2007 og rgl. 343/2008; rgl. 156/2003, sbr.
+rgl. 850/2003; rgl. 164/2003, rgl. 176/2003, sbr. rgl. 488/2007; rgl. 315/2003,
+     rgl. 385/2003, rgl. 517/2003, rgl. 1041/2003, sbr. rgl. 255/2004; rgl.
+1042/2003, sbr. rgl. 277/2006 og rgl. 1057/2006; rgl. 1046/2003, rgl. 1047/2003,
+    rgl. 140/2004, rgl. 239/2004, sbr. rgl. 278/2006 og rgl. 452/2007; rgl.
+240/2004, rgl. 257/2004, rgl. 259/2004, rgl. 260/2004, sbr. rgl. 891/2007; rgl.
+398/2004, sbr. rgl. 909/2004; rgl. 825/2004, rgl. 951/2004, rgl. 134/2005, sbr.
+  rgl. 1152/2005; rgl. 296/2005, rgl. 526/2005, rgl. 540/2005, rgl. 1236/2005,
+rgl. 280/2006, rgl. 478/2006, rgl. 594/2006, sbr. rgl. 339/2007; rgl. 595/2006,
+ rgl. 797/2006, rgl. 798/2006, rgl. 340/2007, rgl. 343/2007, sbr. rgl. 487/2007
+    og rgl. 738/2007; rgl. 342/2007, sbr. rgl. 340/2008; rgl. 344/2007, rgl.
+345/2007, sbr. rgl. 739/2007; rgl. 890/2007, rgl. 909/2007, rgl. 1298/2007, sbr.
+                                 rgl. 341/2008.
 
 References
 

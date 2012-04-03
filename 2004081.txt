@@ -353,7 +353,7 @@ Forkaupsréttarhafi skal innan viku frá því að matsgerð skv. 1. mgr. barst 
   Falli jarðir, annað land eða fasteignir sem lög þessi gilda um í erfðir til
  annarra en þeirra sem greinir í 1. tölul. 1. mgr. skulu ákvæði þessa kafla um
  forkaupsrétt koma til framkvæmda. Náist ekki samkomulag um verð skal um mat á
-       kaupverði fara eftir lögum nr. 11/ 1973, um framkvæmd eignarnáms.
+      kaupverði fara eftir [7]lögum nr. 11/1973, um framkvæmd eignarnáms.
                           32. gr. Málshöfðunarfrestur.
    Ef seljandi lands eða annarrar fasteignar vanrækir að bjóða forkaupsrétt í
 samræmi við ákvæði þessa kafla geta forkaupsréttarhafar borið þá ákvörðun undir
@@ -371,7 +371,7 @@ ríkisins eða einstakra stofnana þess, er heimilt að leigja lengst til tíu �
           senn. Sömu reglur gilda um landspildur stærri en 5 hektarar.
 Leigusamninga um lóðir úr ríkisjörðum allt að 5 hektarar að stærð er heimilt að
 gera til allt að 50 ára, enda séu þeir gerðir í samræmi við ákvæði laga, svo sem
-skipulags- og byggingarlaga. Um stofnun slíkra lóða fer eftir [7]III. kafla laga
+skipulags- og byggingarlaga. Um stofnun slíkra lóða fer eftir [8]III. kafla laga
                    nr. 6/2001, um skráningu og mat fasteigna.
                         35. gr. Sala til sveitarfélaga.
     Heimilt er að selja ríkisjarðir eða hluta þeirra þeim sveitarfélögum sem
@@ -533,7 +533,7 @@ kunnugt um ákvörðun og skal úrskurður ráðuneytisins kveðinn upp innan á
                                56. gr. Refsingar.
  Brot gegn lögum þessum, reglugerðum og öðrum stjórnvaldsfyrirmælum settum með
                         heimild í þeim varða sektum. ^1)
-                            ^1)[8]L. 88/2008, 233. gr.
+                            ^1)[9]L. 88/2008, 233. gr.
                               57. gr. Gildistaka.
                       Lög þessi öðlast gildi 1. júlí 2004.
     Yfirlýsingar um að tilteknar jarðir séu óðalsjarðir sem ekki hefur verið
@@ -542,7 +542,7 @@ kunnugt um ákvörðun og skal úrskurður ráðuneytisins kveðinn upp innan á
                             Ákvæði til bráðabirgða.
     I. Sveitarfélög skulu innan sex mánaða frá gildistöku þessara laga senda
 landbúnaðarráðuneytinu upplýsingar um öll landsvæði sem voru í landbúnaðarnotum
- við gildistöku [9]jarðalaga, nr. 65/1976, og skipulögð hafa verið fyrir önnur
+ við gildistöku [10]jarðalaga, nr. 65/1976, og skipulögð hafa verið fyrir önnur
 not en landbúnað en hafa ekki verið leyst úr landbúnaðarnotum, sbr. 6. og 7. gr.
  Landbúnaðarráðuneytið skal að fengnum slíkum upplýsingum þinglýsa yfirlýsingum
                um að þau landsvæði séu leyst úr landbúnaðarnotum.
@@ -554,7 +554,7 @@ grundvelli upplýsinga úr jarðahluta [fasteignaskrár]^1) skv. 11. gr. er til 
                               ^1)L. 83/2008, 24. gr.
 IV. Þar til gerð jarðaskrár skv. 11. gr. er lokið skal landbúnaðarráðherra gefa
 árlega út lögbýlaskrá skv. 26. gr. á grundvelli annarra tiltækra upplýsinga með
- sama hætti og verið hefur skv. [10]29. gr. jarðalaga, nr. 65/1976, með síðari
+ sama hætti og verið hefur skv. [11]29. gr. jarðalaga, nr. 65/1976, með síðari
                                   breytingum.
     V. Allar jarðir sem skráðar voru í jarðaskrá landbúnaðarráðuneytisins 1.
 desember 2003 skulu teljast lögbýli eftir gildistöku þessara laga án tillits til
@@ -569,7 +569,8 @@ References
    4. file://2001006.html
    5. file://1953035.html
    6. file://2001006.html
-   7. file://2001006.html
-   8. file://2008088.html#g233
-   9. file://1976065.html
+   7. file://1973011.html
+   8. file://2001006.html
+   9. file://2008088.html#g233
   10. file://1976065.html
+  11. file://1976065.html
