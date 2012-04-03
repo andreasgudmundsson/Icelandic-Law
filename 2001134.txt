@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 15. mars 2002.
 
                             I. kafli. Almenn ákvæði.
@@ -67,7 +69,7 @@ bifreiða og tæknibúnað. Vegagerðinni er heimilt að setja í reglur gæðas
                             4. gr. Stjórnsýslukæra.
  Ákvörðunum Vegagerðarinnar og leigubifreiðastöðva samkvæmt lögum þessum verður
                           skotið til samgönguráðherra.
-       Um málsmeðferð fer eftir ákvæðum [2]stjórnsýslulaga, nr. 37/1993.
+       Um málsmeðferð fer eftir ákvæðum [4]stjórnsýslulaga, nr. 37/1993.
 
                           II. kafli. Leyfisveitingar.
                       5. gr. Skilyrði fyrir atvinnuleyfi.
@@ -187,7 +189,7 @@ leigubifreiðar innan sveitarfélagsins, sbr. 4. mgr. 2. gr. Gjöldin skulu stan
                                13. gr. Reglugerð.
    Samgönguráðherra setur að öðru leyti reglugerð^1) um nánari framkvæmd laga
                                     þessara.
-                                ^1)[3]Rg. 397/2003.
+                       ^1)[5]Rg. 397/2003, sbr. [6]259/2005.
                               14. gr. Gildistaka.
                      Lög þessi öðlast gildi 15. mars 2002.
  Ákvæði til bráðabirgða. Leigubifreiðastöðvar sem starfandi eru við gildistöku
@@ -201,5 +203,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001134
-   2. file://1993037.html
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/397-2003
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=167
+   3. http://www.althingi.is/altext/127/s/0168.html
+   4. file://1993037.html
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/397-2003
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/259-2005

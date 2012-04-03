@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 1. júní 2002.
 
                             I. kafli. Almenn ákvæði.
@@ -58,7 +60,7 @@ Nú er skuldbindingargildi kaupsamnings um fasteign bundið fyrirvara um atvik s
    aðrir skilmálar skulu jafnframt tilgreindir á tæmandi hátt. Sé um að ræða
  makaskipti skal seljandi tilgreina hversu hátt hin framboðna fasteign er metin
  til peningaverðs. Hefur þá rétthafi heimild til að kaupa fasteignina því verði
- eða matsverði. Mat skal framkvæmt af dómkvöddum mönnum samkvæmt reglum [2]34.
+ eða matsverði. Mat skal framkvæmt af dómkvöddum mönnum samkvæmt reglum [4]34.
                gr. jarðalaga, nr. 65/1976, með síðari breytingum.
 Forkaupsréttarhafi skal svara skriflega og afdráttarlaust tilboði seljanda innan
 15 daga frá því að honum barst það, ella glatar hann í það sinn rétti sínum til
@@ -515,4 +517,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002040
-   2. file://1976065.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=253
+   3. http://www.althingi.is/altext/127/s/0291.html
+   4. file://1976065.html

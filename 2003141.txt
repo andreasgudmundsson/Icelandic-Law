@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                          Tóku gildi 30. desember 2003.
 
       I. kafli. Eftirlaunaréttur, lífeyrisiðgjald og greiðsla eftirlauna.
@@ -27,7 +29,7 @@ til frádráttar greiðslum ríkissjóðs samkvæmt lögum þessum. Eftir að þ
 
                           II. kafli. Forseti Íslands.
    2. gr. Fyrrverandi forseti Íslands á rétt á eftirlaunum að liðnum þeim sex
-       mánuðum sem hann nýtur biðlauna, sbr. [2]4. gr. laga nr. 10/1990.
+       mánuðum sem hann nýtur biðlauna, sbr. [4]4. gr. laga nr. 10/1990.
    Eftirlaunin nema 60% af launum forseta Íslands eins og þau eru ákveðin af
     Kjaradómi hverju sinni. Ef forseti hefur gegnt embættinu lengur en eitt
 kjörtímabil eru eftirlaunin 70%, en 80% hafi hann gegnt embættinu lengur en tvö
@@ -119,7 +121,7 @@ Eftirlaunin fylgja föstum hæstaréttardómaralaunum eins og þau eru á hverju
                                       um.
                   Eftirlaunaréttur verður aldrei meiri en 80%.
   Réttur til eftirlauna samkvæmt þessari grein á ekki við um þá dómara sem fá
-                   lausn skv. [3]61. gr. stjórnarskrárinnar.
+                   lausn skv. [5]61. gr. stjórnarskrárinnar.
 
      VI. kafli. Maka- og örorkulífeyrir, biðlaun, skerðing greiðslna o.fl.
 16. gr. Nú andast sá sem lög þessi taka til og á þá maki hans rétt á lífeyri úr
@@ -152,7 +154,7 @@ Eftirlaunin fylgja föstum hæstaréttardómaralaunum eins og þau eru á hverju
                 Hæstaréttar tilnefna einn mann hver í nefndina.
   Fjármálaráðherra setur nánari reglur^1) um framkvæmd laganna og fyrirkomulag
          greiðslna úr ríkissjóði og Lífeyrissjóði starfsmanna ríkisins.
-                               ^1)[4]Rgl. 496/2004.
+                               ^1)[6]Rgl. 496/2004.
 
              VII. kafli. Gildistaka, brottfall laga, lagaskil o.fl.
                      21. gr. Lög þessi öðlast þegar gildi.
@@ -176,6 +178,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003141
-   2. file://1990010.html#g4
-   3. file://1944033.html#g61
-   4. http://stjornartidindi.is/servlet/stjrtid/B/2004/496.pdf
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=447
+   3. http://www.althingi.is/altext/130/s/0635.html
+   4. file://1990010.html#g4
+   5. file://1944033.html#g61
+   6. http://stjornartidindi.is/servlet/stjrtid/B/2004/496.pdf

@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                           Tóku gildi 7. febrúar 2003.
                                 1. gr. Markmið.
 Markmið laga þessara er að efla samkeppnishæfni íslensks atvinnulífs með því að
@@ -18,7 +20,7 @@ takast á við tækniþróun og rannsóknir er henni tengjast sem leiða til ný
   Á vegum Iðntæknistofnunar Íslands er rekin nýsköpunarmiðstöð fyrir lítil og
 meðalstór fyrirtæki. Nýsköpunarmiðstöðin þjónar öllum íslenskum atvinnugreinum í
     samræmi við hlutverk sitt. Stjórn stofnunarinnar ræður framkvæmdastjóra
-   nýsköpunarmiðstöðvarinnar í samræmi við [2]7. gr. laga um Iðntæknistofnun
+   nýsköpunarmiðstöðvarinnar í samræmi við [4]7. gr. laga um Iðntæknistofnun
         Íslands, nr. 41/1978. Framkvæmdastjórinn heyrir undir forstjóra
                                Iðntæknistofnunar.
                                 3. gr. Hlutverk.
@@ -114,4 +116,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003004
-   2. file://1978041.html#g7
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=345
+   3. http://www.althingi.is/altext/128/s/0381.html
+   4. file://1978041.html#g7

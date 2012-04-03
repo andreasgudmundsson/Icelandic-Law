@@ -2,16 +2,21 @@
 
    --------------------------------------------------------------------------
 
-                                  Sóttvarnalög
+                                Sóttvarnalög^1)
 
                              1997 nr. 19 17. apríl
 
    --------------------------------------------------------------------------
 
-Tóku gildi 1. janúar 1998. Breytt með [2]l. 90/2000 (tóku gildi 1. sept. 2000),
- [3]l. 74/2002 (tóku gildi 17. maí 2002; komu til framkvæmda skv. fyrirmælum í
-36. gr.), [4]l. 93/2002 (tóku gildi 31. maí 2002), [5]l. 164/2002 (tóku gildi 1.
-            jan. 2003) og [6]l. 55/2004 (tóku gildi 14. júní 2004).
+   ^1)Breyting var gerð á lögunum með [2]l. 76/2005, um breytingu á ýmsum lögum
+       við stofnun Landbúnaðarstofnunar, og tekur hún gildi 1. jan. 2006.
+              [3]Ferill málsins á Alþingi.   [4]Frumvarp til laga.
+
+Tóku gildi 1. janúar 1998. Breytt með [5]l. 90/2000 (tóku gildi 1. sept. 2000),
+ [6]l. 74/2002 (tóku gildi 17. maí 2002; komu til framkvæmda skv. fyrirmælum í
+36. gr.), [7]l. 93/2002 (tóku gildi 31. maí 2002), [8]l. 164/2002 (tóku gildi 1.
+  jan. 2003), [9]l. 55/2004 (tóku gildi 14. júní 2004) og [10]l. 76/2005 (taka
+                              gildi 1. jan. 2006).
 
                            I. kafli. Skilgreiningar.
    1. gr. Almennar sóttvarnir eru þær ráðstafanir sem lög þessi kveða á um að
@@ -43,8 +48,8 @@ einkaupplýsingar sem fram koma í smitsjúkdómaskrá og gilda um skrána sömu
   [Sóttvarnalæknir skal fá afhentar upplýsingar úr lyfjagagnagrunni landlæknis
     skv. 27. gr. lyfjalaga og frá heilbrigðisstofnunum til að halda skrá um
      sýklalyfjanotkun. Upplýsingarnar skulu vera ópersónugreinanlegar.]^2)
-        ^1)[7]Rg. 129/1999, sbr. [8]222/2001, [9]447/2001, [10]241/2003 og
-                    [11]558/2004. ^2)[12]L. 55/2004, 1. gr.
+       ^1)[11]Rg. 129/1999, sbr. [12]222/2001, [13]447/2001, [14]241/2003 og
+                    [15]558/2004. ^2)[16]L. 55/2004, 1. gr.
 
                         II. kafli. Yfirstjórn sóttvarna.
   4. gr. Embætti landlæknis ber ábyrgð á framkvæmd sóttvarna undir yfirstjórn
@@ -59,7 +64,7 @@ Sóttvarnalæknir skal í starfi sínu hafa samvinnu við [yfirlækna heilsugæs
     [Yfirlæknar heilsugæslu, sbr. 4. mgr.],^2) og sóttvarnalæknir skulu hafa
 samstarf um framkvæmd nauðsynlegra sóttvarna og njóta aðstoðar lögregluyfirvalda
                                   ef með þarf.
-     ^1)[13]L. 90/2000, 1. gr. ^2)[14]L. 93/2002, 15. gr. ^3)[15]Rg. 162/2003.
+     ^1)[17]L. 90/2000, 1. gr. ^2)[18]L. 93/2002, 15. gr. ^3)[19]Rg. 162/2003.
            5. gr. Verksvið sóttvarnalæknis er aðallega eftirfarandi:
    1. Að skipuleggja og samræma sóttvarnir og ónæmisaðgerðir um land allt, m.a.
                með útgáfu leiðbeininga um viðbrögð við farsóttum.
@@ -74,7 +79,7 @@ samstarf um framkvæmd nauðsynlegra sóttvarna og njóta aðstoðar lögregluyf
      [5. ]^1) Að vera læknum og öðrum, sem við sóttvarnir fást, til ráðgjafar.
    [6. ]^1) Að hafa umsjón með forvörnum gegn smitsjúkdómum, m.a. upplýsingum og
                      fræðslu til almennings um þessi efni.
-                             ^1)[16]L. 55/2004, 2. gr.
+                             ^1)[20]L. 55/2004, 2. gr.
 6. gr. Ráðherra skal skipa sjö manna ráð, sóttvarnaráð, til fjögurra ára í senn.
  Þar skulu eiga sæti sérfræðingar á sviði smitsjúkdómalækninga, bakteríufræði,
  veirufræði, kynsjúkdóma og faraldsfræði/heilbrigðisfræði, heilsugæslulæknir og
@@ -88,7 +93,7 @@ hjúkrunarfræðingur með sérþekkingu á sviði sóttvarna. Ráðherra skipar
            ráðgjafar um aðgerðir til varnar útbreiðslu smitsjúkdóma.
   Ráðið skal hafa aðsetur hjá embætti landlæknis og skal sóttvarnalæknir vera
                                   ritari þess.
-                            ^1)[17]L. 164/2002, 26. gr.
+                            ^1)[21]L. 164/2002, 26. gr.
 
                    III. kafli. Almennar sóttvarnaráðstafanir.
                             1. Skyldur einstaklinga.
@@ -121,13 +126,13 @@ heilsugæslu, sbr. 4. mgr. 4. gr.],^1) m.a. með því að veita upplýsingar se
 [Forstöðumönnum heilbrigðisstofnana er skylt að senda sóttvarnalækni upplýsingar
  um magn sýklalyfja sem notað er á viðkomandi stofnun, skipt eftir deildum þar
                                sem það á við.]^2)
-               ^1)[18]L. 93/2002, 16. gr. ^2)[19]L. 55/2004, 3. gr.
+               ^1)[22]L. 93/2002, 16. gr. ^2)[23]L. 55/2004, 3. gr.
       10. gr. Hafi læknir, sem hefur sjúkling til meðferðar sem haldinn er
    smitsjúkdómi, rökstuddan grun eða vitneskju um að sjúklingurinn fylgi ekki
   fyrirmælum sem honum voru sett um umgengni og meðferð skal hann tilkynna það
  þegar í stað til viðkomandi [yfirlæknis heilsugæslu, sbr. 4. mgr. 4. gr.],^1)
                               eða sóttvarnalæknis.
-                            ^1)[20]L. 93/2002, 17. gr.
+                            ^1)[24]L. 93/2002, 17. gr.
        3. Skyldur heilbrigðisfulltrúa og heilbrigðisnefnda og dýralækna.
   11. gr. Heilbrigðisfulltrúar og formenn heilbrigðisnefnda, samkvæmt lögum um
  hollustuhætti og heilbrigðiseftirlit, og dýralæknar skulu tilkynna viðkomandi
@@ -151,7 +156,7 @@ lögreglu ef með þarf. Nefndin skal gefa öllum þeim sem hafa eftirlit með d
    matvælum og umhverfi fyrirmæli um að grípa án tafar til allra nauðsynlegra
  aðgerða til að uppræta smithættu. Að öðru leyti skal framkvæmd vera í samræmi
  við lög þessi og, eftir því sem við á, sérlög um einstaka eftirlitsaðila.]^3)
-   ^1)[21]L. 93/2002, 18. gr. ^2)[22]L. 164/2002, 26. gr. ^3)[23]L. 90/2000, 2.
+   ^1)[25]L. 93/2002, 18. gr. ^2)[26]L. 164/2002, 26. gr. ^3)[27]L. 90/2000, 2.
                                       gr.
 
                    IV. kafli. Opinberar sóttvarnaráðstafanir.
@@ -168,7 +173,7 @@ samkomubanns. [Sóttvarnalæknir getur beitt slíkum vörnum til bráðabirgða 
  gera faraldsfræðilega rannsókn á uppruna smits og hefur í slíkum tilvikum sama
    rétt til aðgangs að gögnum og til skoðunar og kveðið er á um í 2. mgr. 11.
                                     gr.]^2)
-               ^1)[24]L. 93/2002, 19. gr. ^2)[25]L. 90/2000, 3. gr.
+               ^1)[28]L. 93/2002, 19. gr. ^2)[29]L. 90/2000, 3. gr.
       2. Sóttvarnaráðstafanir vegna hættu á farsóttum til eða frá Íslandi.
  13. gr. Um sóttvarnaráðstafanir, sem grípa má til vegna hættu á farsóttum frá
  útlöndum eða frá Íslandi til útlanda, skal setja reglugerð í samræmi við efni
@@ -193,7 +198,7 @@ aðrar nauðsynlegar ráðstafanir. Áður en gripið er til þvingunaraðgerða
 berist til landsins getur hann beint tilmælum til ráðherra um að setja reglugerð
   um að þeir sem koma til landsins og talin er hætta á að beri með sér slíkar
                      sóttir skuli sæta læknisrannsókn.]^2)
-               ^1)[26]L. 93/2002, 20. gr. ^2)[27]L. 90/2000, 4. gr.
+               ^1)[30]L. 93/2002, 20. gr. ^2)[31]L. 90/2000, 4. gr.
    15. gr. Ef maður, haldinn smitsjúkdómi, fellst ekki á að fylgja reglum um
   umgengni við aðra eða rökstuddur grunur er um að hann hafi ekki fylgt slíkum
   reglum getur sóttvarnalæknir ákveðið að hann skuli lagður inn á sjúkrahús í
@@ -232,7 +237,7 @@ Greiðsluhlutdeild sjúklinga skal fylgja lögum um almannatryggingar [og lögum
   smitsjúkdóma vegna greiningar og meðferðar tilkynningarskyldra smitsjúkdóma,
   sjúklingar eru kvaddir til rannsókna til að leita að smiti og þegar fólki er
                         gert að sæta læknisrannsókn.]^2)
-               ^1)[28]L. 74/2002, 35. gr. ^2)[29]L. 90/2000, 5. gr.
+               ^1)[32]L. 74/2002, 35. gr. ^2)[33]L. 90/2000, 5. gr.
    18. gr. Ráðherra skal með reglugerð^1) setja nánari ákvæði um fyrirkomulag
   skráninga og tilkynninga skv. 3. gr., starfsemi rannsóknastofa sem fást við
  rannsóknir á sýnum frá sjúklingum með smitsjúkdóma sem lögin taka til skv. 9.
@@ -242,9 +247,9 @@ Greiðsluhlutdeild sjúklinga skal fylgja lögum um almannatryggingar [og lögum
   kostnaðarlausu, skv. 17. gr. Þá er ráðherra heimilt að setja reglur ef grípa
    þarf til sérstakra ráðstafana vegna sóttvarna við náttúruhamfarir [og aðra
     vá]^3) og að setja í reglugerð nánari ákvæði um framkvæmd laga þessara.
-       ^1)[30]Rg. 129/1999, sbr. [31]222/2001, [32]447/2001, [33]241/2003 og
- [34]558/2004; [35]rg. 131/1999, [36]rg. 221/2001, [37]rg. 415/2004. ^2)[38]L.
-                   90/2000, 6. gr. ^3)[39]L. 93/2002, 21. gr.
+       ^1)[34]Rg. 129/1999, sbr. [35]222/2001, [36]447/2001, [37]241/2003 og
+ [38]558/2004; [39]rg. 131/1999, [40]rg. 221/2001, [41]rg. 415/2004. ^2)[42]L.
+                   90/2000, 6. gr. ^3)[43]L. 93/2002, 21. gr.
  19. gr. Með mál sem rísa kunna út af brotum á lögum þessum skal farið að hætti
                                 opinberra mála.
 Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum eða fangelsi
@@ -255,41 +260,45 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997019
-   2. file:///altext/stjt/2000.090.html
-   3. file:///altext/stjt/2002.074.html
-   4. file:///altext/stjt/2002.093.html
-   5. file:///altext/stjt/2002.164.html
-   6. file:///altext/stjt/2004.055.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-1999
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/222-2001
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2001
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/241-2003
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/558-2004
-  12. file:///altext/stjt/2004.055.html
-  13. file:///altext/stjt/2000.090.html
-  14. file:///altext/stjt/2002.093.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/162-2003
+   2. file://2005076.html
+   3. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=191
+   4. http://www.althingi.is/altext/121/s/0213.html
+   5. file:///altext/stjt/2000.090.html
+   6. file:///altext/stjt/2002.074.html
+   7. file:///altext/stjt/2002.093.html
+   8. file:///altext/stjt/2002.164.html
+   9. file:///altext/stjt/2004.055.html
+  10. file://2005076.html
+  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-1999
+  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/222-2001
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2001
+  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/241-2003
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/558-2004
   16. file:///altext/stjt/2004.055.html
-  17. file:///altext/stjt/2002.164.html
+  17. file:///altext/stjt/2000.090.html
   18. file:///altext/stjt/2002.093.html
-  19. file:///altext/stjt/2004.055.html
-  20. file:///altext/stjt/2002.093.html
-  21. file:///altext/stjt/2002.093.html
-  22. file:///altext/stjt/2002.164.html
-  23. file:///altext/stjt/2000.090.html
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/162-2003
+  20. file:///altext/stjt/2004.055.html
+  21. file:///altext/stjt/2002.164.html
+  22. file:///altext/stjt/2002.093.html
+  23. file:///altext/stjt/2004.055.html
   24. file:///altext/stjt/2002.093.html
-  25. file:///altext/stjt/2000.090.html
-  26. file:///altext/stjt/2002.093.html
+  25. file:///altext/stjt/2002.093.html
+  26. file:///altext/stjt/2002.164.html
   27. file:///altext/stjt/2000.090.html
-  28. file:///altext/stjt/2002.074.html
+  28. file:///altext/stjt/2002.093.html
   29. file:///altext/stjt/2000.090.html
-  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-1999
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/222-2001
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2001
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/241-2003
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/558-2004
-  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/131-1999
-  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/221-2001
-  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/415-2004
-  38. file:///altext/stjt/2000.090.html
-  39. file:///altext/stjt/2002.093.html
+  30. file:///altext/stjt/2002.093.html
+  31. file:///altext/stjt/2000.090.html
+  32. file:///altext/stjt/2002.074.html
+  33. file:///altext/stjt/2000.090.html
+  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-1999
+  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/222-2001
+  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2001
+  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/241-2003
+  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/558-2004
+  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/131-1999
+  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/221-2001
+  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/415-2004
+  42. file:///altext/stjt/2000.090.html
+  43. file:///altext/stjt/2002.093.html

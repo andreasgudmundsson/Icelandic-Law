@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 26. maí 2004.
                                1. gr. Gildissvið.
 Í þéttbýli skulu sveitarfélög starfrækja vatnsveitu í þeim tilgangi að fullnægja
@@ -18,7 +20,7 @@ sem kostur er, nema í þeim tilvikum sem um ræðir í 3. mgr. þessarar greina
  leggja í framkvæmdir við gerð hennar enda sýni rannsóknir og kostnaðaráætlanir
                  að hagkvæmt sé að leggja veituna og reka hana.
   Ákvæði þessara laga gilda ekki um vatnsveitur sem vatnsveitufélög eða aðrir
-             starfrækja samkvæmt ákvæðum [2]vatnalaga, nr. 15/1923.
+             starfrækja samkvæmt ákvæðum [4]vatnalaga, nr. 15/1923.
  Ákvæði 4. gr. um einkarétt sveitarfélaga til að eiga og reka vatnsveitu gilda
  ekki um landsvæði þar sem ekki er talið hagkvæmt að leggja vatnsveitu, sbr. 2.
                                       mgr.
@@ -38,7 +40,7 @@ Sveitarstjórn skal fylgjast reglubundið með því að þjónusta vatnsveitu v
                          3. gr. Samvinna sveitarfélaga.
      Sveitarstjórnum er heimilt að leggja og reka sameiginlega vatnsveitu.
  Sveitarstjórnir skulu gera með sér samkomulag um með hvaða hætti veitan skuli
-lögð og rekin. Ákvæði VIII. kafla [3]sveitarstjórnarlaga, nr. 45/1998, gilda um
+lögð og rekin. Ákvæði VIII. kafla [5]sveitarstjórnarlaga, nr. 45/1998, gilda um
     samvinnu sveitarfélaga á þessu sviði nema um annað sé sérstaklega samið.
            4. gr. Heimild til ráðstöfunar á einkarétti sveitarfélags.
  Sveitarfélag hefur einkarétt á rekstri vatnsveitu og sölu vatns sem hún getur
@@ -155,7 +157,7 @@ Stjórn vatnsveitu skal auglýsa gjaldskrána og breytingar á henni á þann h�
  Ráðherra skal setja reglugerð^1) fyrir vatnsveitur sveitarfélaga þar sem nánar
 skal kveðið á um framkvæmd vatnsveitumála, m.a. um stjórn og fjármál vatnsveitu,
                            gjaldtöku, vatnsæðar o.fl.
-         ^1)[4]Rg. 421/1992, sbr. [5]175/1994, [6]614/1996 og [7]891/2000.
+                                ^1)[6]Rg. 401/2005.
                             12. gr. Gildistaka o.fl.
                          Lög þessi öðlast þegar gildi.
 
@@ -163,9 +165,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004032
-   2. file://1923015.html
-   3. file://1998045.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/421-1992
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/175-1994
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/614-1996
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/891-2000
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=576
+   3. http://www.althingi.is/altext/130/s/0867.html
+   4. file://1923015.html
+   5. file://1998045.html
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/401-2005

@@ -8,11 +8,13 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 2005.
  1. gr. Ákvæði reglugerðar Evrópuþingsins og ráðsins (EB) nr. 2560/2001 frá 19.
  desember 2001, um greiðslur yfir landamæri í evrum, skulu hafa lagagildi hér á
     landi í samræmi við bókun 1 um altæka aðlögun við samninginn um Evrópska
-  efnahagssvæðið, sbr. [2]lög nr. 2/1993, um Evrópska efnahagssvæðið, þar sem
+  efnahagssvæðið, sbr. [4]lög nr. 2/1993, um Evrópska efnahagssvæðið, þar sem
  bókunin er lögfest. Reglugerðin um greiðslur yfir landamæri í evrum er prentuð
                         sem fylgiskjal með lögum þessum.
     2. gr. Viðskiptaráðherra er heimilt að setja reglugerð um greiðslur yfir
@@ -24,28 +26,22 @@ Reglugerð Evrópuþingsins og ráðsins (EB) nr. 2560/2001 frá 19. desember 20
                         greiðslur yfir landamæri í evrum
                   EVRÓPUÞINGIÐ OG RÁÐ EVRÓPUSAMBANDSINS HAFA,
    með hliðsjón af stofnsáttmála Evrópubandalagsins, einkum 1. mgr. 95. gr.,
-með hliðsjón af tillögu framkvæmdastjórnarinnar (Stjtíð. EB C 270 E, 25.9.2001,
-                                  bls. 270.),
-með hliðsjón af áliti efnahags- og félagsmálanefndarinnar (Áliti var skilað 10.
-       desember 2001 (hefur enn ekki verið birt í Stjórnartíðindum EB).),
-með hliðsjón af áliti Seðlabanka Evrópu (Stjtíð. EB C 308, 1.11.2001, bls. 17.),
- í samræmi við málsmeðferðina sem mælt er fyrir um í 251. gr. sáttmálans (Álit
-       Evrópuþingsins frá 15. nóvember 2001 (hefur enn ekki verið birt í
-Stjórnartíðindum EB), sameiginleg afstaða ráðsins frá 7. desember 2001 (Stjtíð.
-   EB C 363, 19.12.2001, bls. 1) og ákvörðun Evrópuþingsins frá 13. desember
-                                    2001.),
+             með hliðsjón af tillögu framkvæmdastjórnarinnar (^1),
+        með hliðsjón af áliti efnahags- og félagsmálanefndarinnar (^2),
+                 með hliðsjón af áliti Seðlabanka Evrópu (^3),
+ í samræmi við málsmeðferðina sem mælt er fyrir um í 251. gr. sáttmálans (^4),
                      og að teknu tilliti til eftirfarandi:
      1) Með tilskipun Evrópuþingsins og ráðsins 97/5/EB frá 27. janúar 1997 um
- færslu fjármuna milli landa (Stjtíð. EB L 43, 14.2.1997, bls. 25.) var leitast
-   við að bæta þjónustu við færslu fjármuna yfir landamæri, einkum skilvirkni
-    hennar. Markmiðið var einkum að gera neytendum og litlum og meðalstórum
- fyrirtækjum kleift að færa fjármuni á skjótan, áreiðanlegan og ódýran hátt frá
- einum hluta bandalagsins til annars. Slíkar færslur fjármuna og greiðslur yfir
-    landamæri almennt eru enn þá afar dýrar, miðað við greiðslur innanlands.
- Athugun, sem framkvæmdastjórnin lét gera og birti 20. september 2001, leiddi í
- ljós að neytendur fá ófullnægjandi eða engar upplýsingar um kostnað við færslu
-fjármuna og að meðalkostnaður við greiðslur yfir landamæri hefur vart breyst frá
-                 árinu 1993 þegar sambærileg athugun var gerð.
+  færslu fjármuna milli landa (^5) var leitast við að bæta þjónustu við færslu
+fjármuna yfir landamæri, einkum skilvirkni hennar. Markmiðið var einkum að gera
+    neytendum og litlum og meðalstórum fyrirtækjum kleift að færa fjármuni á
+ skjótan, áreiðanlegan og ódýran hátt frá einum hluta bandalagsins til annars.
+  Slíkar færslur fjármuna og greiðslur yfir landamæri almennt eru enn þá afar
+dýrar, miðað við greiðslur innanlands. Athugun, sem framkvæmdastjórnin lét gera
+  og birti 20. september 2001, leiddi í ljós að neytendur fá ófullnægjandi eða
+   engar upplýsingar um kostnað við færslu fjármuna og að meðalkostnaður við
+   greiðslur yfir landamæri hefur vart breyst frá árinu 1993 þegar sambærileg
+                               athugun var gerð.
     2) Orðsending framkvæmdastjórnarinnar til Evrópuþingsins og ráðsins frá 31.
 janúar 2000 um smásölugreiðslur á innri markaðnum ásamt ályktunum Evrópuþingsins
 frá 26. október 2000 um orðsendingu framkvæmdastjórnarinnar og frá 4. júlí 2001
@@ -96,12 +92,11 @@ landamæri er nauðsynlegt að hann fái upplýsingar um þau gjöld sem í gild
          gerður greinarmunur á greiðslum yfir landamæri og innanlands.
      11) Einnig er mikilvægt að auðvelda greiðslustofnunum að annast greiðslur
  yfir landamæri. Í tengslum við þetta skal stuðla að stöðlun, einkum að því er
-varðar notkun alþjóðlegs bankareikningsnúmers (IBAN) (ISO-staðall nr. 13613.) og
-bankanúmers (BIC) (ISO-staðall nr. 9362.) sem nauðsynleg eru við rafræna vinnslu
- á færslu fjármuna yfir landamæri. Sem víðtækust notkun þessara númera er talin
-  afar mikilvæg. Þar að auki skulu aðrar aðgerðir, sem fela í sér aukakostnað,
-    aflagðar í því skyni að lækka gjaldtöku af viðskiptavinum í tengslum við
-                           greiðslur yfir landamæri.
+ varðar notkun alþjóðlegs bankareikningsnúmers (IBAN) (^6) og bankanúmers (BIC)
+ (^7) sem nauðsynleg eru við rafræna vinnslu á færslu fjármuna yfir landamæri.
+ Sem víðtækust notkun þessara númera er talin afar mikilvæg. Þar að auki skulu
+   aðrar aðgerðir, sem fela í sér aukakostnað, aflagðar í því skyni að lækka
+      gjaldtöku af viðskiptavinum í tengslum við greiðslur yfir landamæri.
       12) Til að létta byrði stofnana sem annast greiðslur yfir landamæri er
 nauðsynlegt að afnema í áföngum skyldur um reglubundna, innlenda skýrslugjöf að
                   því er varðar hagskýrslur um greiðslujöfnuð.
@@ -232,9 +227,21 @@ Evrópuþingið og ráðið um beitingu þessarar reglugerðar, einkum að því
                            dögum eftir téða birtingu.
     Reglugerð þessi er bindandi í heild sinni og gildir í öllum aðildarríkjunum
                             án frekari lögfestingar.
+                   ^(1)Stjtíð. EB C 270 E, 25.9.2001, bls. 270.
+      ^(2)Áliti var skilað 10. desember 2001 (hefur enn ekki verið birt í
+                             Stjórnartíðindum EB).
+                   ^(3)Stjtíð. EB C 308, 1.11.2001, bls. 17.
+   ^(4)Álit Evrópuþingsins frá 15. nóvember 2001 (hefur enn ekki verið birt í
+Stjórnartíðindum EB), sameiginleg afstaða ráðsins frá 7. desember 2001 (Stjtíð.
+EB C 363, 19.12.2001, bls. 1) og ákvörðun Evrópuþingsins frá 13. desember 2001.
+                    ^(5)Stjtíð. EB L 43, 14.2.1997, bls. 25.
+                           ^(6)ISO-staðall nr. 13613.
+                           ^(7)ISO-staðall nr. 9362.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004146
-   2. file://1993002.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=212
+   3. http://www.althingi.is/altext/131/s/0214.html
+   4. file://1993002.html

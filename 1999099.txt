@@ -8,11 +8,14 @@
 
    --------------------------------------------------------------------------
 
-  Tóku gildi 30. desember 1999. Breytt með [2]l. 158/2000 (tóku gildi 1. jan.
- 2001), [3]l. 34/2001 (tóku gildi 16. maí 2001), [4]l. 144/2001 (tóku gildi 1.
- jan. 2002), [5]l. 37/2002 (tóku gildi 7. maí 2002), [6]l. 157/2002 (tóku gildi
-1. jan. 2003), [7]l. 137/2003 (tóku gildi 1. jan. 2004) og [8]l. 134/2004 (tóku
-                              gildi 1. jan. 2005).
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
+  Tóku gildi 30. desember 1999. Breytt með [4]l. 158/2000 (tóku gildi 1. jan.
+ 2001), [5]l. 34/2001 (tóku gildi 16. maí 2001), [6]l. 144/2001 (tóku gildi 1.
+ jan. 2002), [7]l. 37/2002 (tóku gildi 7. maí 2002), [8]l. 157/2002 (tóku gildi
+ 1. jan. 2003), [9]l. 137/2003 (tóku gildi 1. jan. 2004), [10]l. 134/2004 (tóku
+        gildi 1. jan. 2005) og [11]l. 32/2005 (tóku gildi 25. maí 2005;
+              EES-samningurinn: IX. viðauki tilskipun 2002/92/EB).
 
                              1. gr. Almennt ákvæði.
 Eftirlitsskyldir aðilar skv. 5. gr. skulu standa straum af kostnaði við rekstur
@@ -59,9 +62,8 @@ og 0,045% af bókfærðum fengnum endurtryggingaiðgjöldum, þó eigi lægri fj
   400.000 kr. Vegna söfnunarlíftrygginga greiðist þó eftirlitsgjald sem nemur
   0,0059% af nettómismun iðgjaldaskuldar að frádregnum hluta endurtryggjenda í
                                iðgjaldaskuldinni.
-   3. Félög eða einstaklingar sem stunda vátryggingamiðlun skulu greiða 0,09% af
-   því iðgjaldamagni sem miðlað er á næstliðnu ári, þó eigi lægri fjárhæð en
-                                  200.000 kr.
+   3. [Vátryggingamiðlarar skulu greiða 0,09% af því iðgjaldamagni sem miðlað er
+           á næstliðnu ári, þó eigi lægri fjárhæð en 200.000 kr.]^2)
     4. Verðbréfafyrirtæki skulu greiða 0,1% af eignum samtals, þó aldrei lægri
 fjárhæð en 400.000 kr. Verðbréfamiðlanir skulu greiða 0,1% af eignum samtals, þó
       aldrei lægri fjárhæð en 250.000 kr. Rekstrarfélög verðbréfasjóða og
@@ -97,8 +99,9 @@ eigi lægri fjárhæð en 400.000 kr. Íbúðalánasjóður skal greiða 0,0011%
    heimild til sömu starfsemi og dótturfélagið. Ákvæði þetta á þó ekki við um
                            lágmarksgjald skv. 1. mgr.
     Eftirlitsgjald skal reiknast í heilum þúsundum króna. Við álagningu skal
-             jafnframt færa álagningarstofna í þúsundir króna.]^2)
-               ^1)[9]L. 157/2002, 1. gr. ^2)[10]L. 134/2004, 1. gr.
+             jafnframt færa álagningarstofna í þúsundir króna.]^3)
+   ^1)[12]L. 157/2002, 1. gr. ^2)[13]L. 32/2005, 66. gr. ^3)[14]L. 134/2004, 1.
+                                      gr.
                    6. gr. Framkvæmd álagningar og innheimtu.
 Álagning eftirlitsgjalds samkvæmt lögum þessum skal fara fram eigi síðar en 15.
   janúar ár hvert. Fjármálaeftirlitið skal gera eftirlitsskyldum aðilum grein
@@ -145,7 +148,7 @@ opinbert eftirlit með fjármálastarfsemi og reglugerð settri samkvæmt þeim 
   Viðskiptaráðherra er heimilt að kveða nánar á um framkvæmd laga þessara með
                                  reglugerð.^1)
                          Lög þessi öðlast þegar gildi.
-                               ^1)[11]Rg. 562/2001.
+                               ^1)[15]Rg. 562/2001.
      Ákvæði til bráðabirgða. Álagning eftirlitsgjalds fyrir árið 1999, sbr.
  auglýsingu nr. 5 6. janúar 1999, um álagningu eftirlitsgjalds þeirra aðila er
       lúta eftirliti Fjármálaeftirlitsins á árinu 1999, er sem hér segir:
@@ -200,13 +203,17 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999099
-   2. file:///altext/stjt/2000.158.html
-   3. file://2001034.html
-   4. file:///altext/stjt/2001.144.html
-   5. file://2002037.html
-   6. file:///altext/stjt/2002.157.html
-   7. file:///altext/stjt/2003.137.html
-   8. file:///altext/stjt/2004.134.html
-   9. file:///altext/stjt/2002.157.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=200
+   3. http://www.althingi.is/altext/125/s/0233.html
+   4. file:///altext/stjt/2000.158.html
+   5. file://2001034.html
+   6. file:///altext/stjt/2001.144.html
+   7. file://2002037.html
+   8. file:///altext/stjt/2002.157.html
+   9. file:///altext/stjt/2003.137.html
   10. file:///altext/stjt/2004.134.html
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001
+  11. file://2005032.html
+  12. file:///altext/stjt/2002.157.html
+  13. file://2005032.html#g66
+  14. file:///altext/stjt/2004.134.html
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001

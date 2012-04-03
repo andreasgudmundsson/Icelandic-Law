@@ -2,13 +2,17 @@
 
    --------------------------------------------------------------------------
 
-                            Lög um búfjárhald o.fl.
+                           Lög um búfjárhald o.fl.^1)
 
                               2002 nr. 103 15. maí
 
    --------------------------------------------------------------------------
 
-                            Tóku gildi 6. júní 2002.
+    ^1)Breytingar voru gerðar á lögunum með [2]l. 76/2005, um breytingu á ýmsum
+    lögum við stofnun Landbúnaðarstofnunar, og taka þær gildi 1. jan. 2006.
+              [3]Ferill málsins á Alþingi.   [4]Frumvarp til laga.
+
+  Tóku gildi 6. júní 2002. Breytt með [5]l. 76/2005 (taka gildi 1. jan. 2006).
 
                 I. kafli. Markmið, yfirstjórn og skilgreiningar.
  1. gr. Tilgangur laga þessara er að tryggja góðan aðbúnað búfjár, að það hafi
@@ -122,7 +126,7 @@ beit, auk annarra verkefna sem þeim eru falin. Til starfsins skal velja menn se
 þeir sækja sérstakt námskeið á vegum Bændasamtaka Íslands sem samræmir jafnframt
   framkvæmd búfjáreftirlits. Bændasamtök Íslands skulu útbúa sérstaka handbók
        fyrir búfjáreftirlitsmenn með helstu upplýsingum. Um sérstakt hæfi
-        búfjáreftirlitsmanna fer eftir [2]stjórnsýslulögum, nr. 37/1993.
+        búfjáreftirlitsmanna fer eftir [6]stjórnsýslulögum, nr. 37/1993.
     Sveitarfélög á hverju starfssvæði geta með samkomulagi sín í milli falið
  sérstökum aðila umsjón með fjárreiðum og aðstöðu fyrir búfjáreftirlitið, t.d.
  búnaðarsamböndum, eða falið stærsta sveitarfélaginu að hafa umsjón með þessum
@@ -254,8 +258,8 @@ umráðamenn búfjár þurfa að uppfylla til að öðlast slíkt leyfi. Eins sk
       4. Reglugerð um starfssvæði búfjáreftirlits og framkvæmd þess, svo sem
   forðagæslu, eftirlitið sjálft og talningu búfjár. Í reglugerðinni skal m.a.
                       fjalla um haust- og vorskýrslur.^3)
-   ^1)[3]Rg. 463/2003. ^2)[4]Rg. 438/2002 (nautgripir). ^3)[5]Rg. 743/2002, sbr.
-                                  [6]231/2003.
+   ^1)[7]Rg. 289/2005. ^2)[8]Rg. 438/2002 (nautgripir). ^3)[9]Rg. 743/2002, sbr.
+                                 [10]231/2003.
  18. gr. Brot gegn lögum þessum eða reglugerðum og samþykktum sem settar verða
 samkvæmt þeim varða sektum eða fangelsi, ef miklar sakir eru. Hafi búfjáreigandi
 gerst sekur um illa meðferð á búfé skal honum bannað að eiga eða halda búfé. Með
@@ -263,25 +267,29 @@ gerst sekur um illa meðferð á búfé skal honum bannað að eiga eða halda b
   19. gr. Lög þessi öðlast þegar gildi. Reglugerðir sem settar hafa verið með
  heimild í eldri lögum halda gildi sínu þar til þær hafa verið endurskoðaðar að
                svo miklu leyti sem þær samrýmast lögum þessum.^1)
-    ^1)Sjá [7]rg. 251/1995, sbr. [8]904/2001 og [9]701/2002; [10]rg. 504/1998,
- sbr. [11]15/2000; [12]rg. 557/1998; [13]rg. 132/1999, [14]rg. 59/2000, [15]rg.
+   ^1)Sjá [11]rg. 251/1995, sbr. [12]904/2001 og [13]701/2002; [14]rg. 504/1998,
+ sbr. [15]15/2000; [16]rg. 557/1998; [17]rg. 132/1999, [18]rg. 59/2000, [19]rg.
                                     60/2000.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002103
-   2. file://1993037.html
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-2003
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/438-2002
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/743-2002
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/231-2003
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/251-1995
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/904-2001
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/701-2002
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/504-1998
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/015-2000
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/557-1998
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/132-1999
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/059-2000
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/060-2000
+   2. file://2005076.html
+   3. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=338
+   4. http://www.althingi.is/altext/127/s/0437.html
+   5. file://2005076.html
+   6. file://1993037.html
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/289-2005
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/438-2002
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/743-2002
+  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/231-2003
+  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/251-1995
+  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/904-2001
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/701-2002
+  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/504-1998
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/015-2000
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/557-1998
+  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/132-1999
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/059-2000
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/060-2000

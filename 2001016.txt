@@ -8,8 +8,10 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
  Tóku gildi 16. maí 2001. EES-samningurinn: II. viðauki tilskipun 93/42/EBE og
-         98/79/EB. Breytt með [2]l. 76/2002 (tóku gildi 17. maí 2002).
+         98/79/EB. Breytt með [4]l. 76/2002 (tóku gildi 17. maí 2002).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -56,7 +58,7 @@ tilætluð not hennar sem tækis í því skyni að setja hana á markað í eig
      tilskipunum Evrópusambandsins sem eru hluti af samningnum um Evrópska
  efnahagssvæðið [og stofnsamningi Fríverslunarsamtaka Evrópu].^1) Með klínískri
       prófun er einnig lagt mat á óæskilegar hliðarverkanir lækningatækja.
-                             ^1)[3]L. 76/2002, 29. gr.
+                             ^1)[5]L. 76/2002, 29. gr.
 
                II. kafli. Kröfur sem lækningatæki skulu uppfylla.
                              4. gr. Öryggiskröfur.
@@ -126,8 +128,8 @@ prófanir á lækningatækjum, sbr. 9. gr., samkvæmt gjaldskrá er ráðherra s
      fengnum tillögum landlæknis. Gjaldskráin skal taka mið af kostnaði við
                                   þjónustuna.
                 13. gr. Málsmeðferð, réttarúrræði og refsingar.
- Um málsmeðferð og réttarúrræði eftirlitsaðila skv. 10. gr. fer skv. [4]IV. og
- [5]V. kafla laga nr. 134/1995, um öryggi vöru og opinbera markaðsgæslu, eftir
+ Um málsmeðferð og réttarúrræði eftirlitsaðila skv. 10. gr. fer skv. [6]IV. og
+ [7]V. kafla laga nr. 134/1995, um öryggi vöru og opinbera markaðsgæslu, eftir
                                  því sem við á.
  Um mál sem rísa kunna út af brotum á lögum þessum fer að hætti opinberra mála.
 
@@ -135,7 +137,7 @@ prófanir á lækningatækjum, sbr. 9. gr., samkvæmt gjaldskrá er ráðherra s
  14. gr. Ráðherra er heimilt í reglugerð^1) að kveða á um nánari framkvæmd laga
     þessara, t.d. um öryggi lækningatækja, merkingar, notkunarleiðbeiningar,
               skráningu, klínískar prófanir og tilkynningarskyldu.
-                                ^1)[6]Rg. 892/2004.
+                                ^1)[8]Rg. 892/2004.
                      15. gr. Lög þessi öðlast þegar gildi.
 
                             Ákvæði til bráðabirgða.
@@ -150,8 +152,10 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001016
-   2. file:///altext/stjt/2002.076.html
-   3. file:///altext/stjt/2002.076.html
-   4. file:///altext/stjt/1995.134.html
-   5. file://1995134.html
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/892-2004
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=254
+   3. http://www.althingi.is/altext/126/s/0281.html
+   4. file:///altext/stjt/2002.076.html
+   5. file:///altext/stjt/2002.076.html
+   6. file:///altext/stjt/1995.134.html
+   7. file://1995134.html
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/892-2004

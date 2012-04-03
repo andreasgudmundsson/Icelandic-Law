@@ -8,9 +8,11 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
   Tóku gildi 27. maí 1993. Lögin falla úr gildi þegar Norðurlandasamningur um
   almannatryggingar, sem gerður var í Karlskrona 18. ágúst 2003, hefur öðlast
-           gildi að því er Ísland varðar, sbr. [2]l. 66/2004, 1. gr.
+           gildi að því er Ísland varðar, sbr. [4]l. 66/2004, 1. gr.
     1. gr. Heimilt er að fullgilda fyrir Íslands hönd samning milli Íslands,
 Danmerkur, Finnlands, Noregs og Svíþjóðar um almannatryggingar sem undirritaður
    var í Kaupmannahöfn 15. júní 1992 og prentaður er sem fylgiskjal með lögum
@@ -315,7 +317,7 @@ ráðherranefndarinnar vita um viðtöku tilkynninga þessara og hvenær samning
 atvinnuleysisbætur. Ákvæðin um félagslega aðstoð og fyrirframgreiðslu meðlags í
                   samningi frá 5. mars 1981 gilda þó áfram.^1)
      ^1)Ívitnaður samningur frá 5. mars 1981 hafði lagagildi hér á landi, sbr.
- [3]l. 66/1981. Þau lög voru hins vegar felld úr gildi með [4]l. 46/1993 og er
+ [5]l. 66/1981. Þau lög voru hins vegar felld úr gildi með [6]l. 46/1993 og er
 samningurinn frá 1981 því ekki birtur hér, þótt honum hafi verið ætlað að gilda
     áfram um tiltekin atriði. Vísast um hann til Lagasafns 1990, d. 559571.
  31. gr. Frumtexta samnings þessa skal geyma í danska utanríkisráðuneytinu sem
@@ -325,6 +327,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993046
-   2. file://2004066.html
-   3. file:///altext/stjtnr.html#1981066
-   4. file://1993046.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=116&mnr=283
+   3. http://www.althingi.is/altext/116/s/0406.html
+   4. file://2004066.html
+   5. file:///altext/stjtnr.html#1981066
+   6. file://1993046.html

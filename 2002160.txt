@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 2003.
 
    I. kafli. Samráðsnefnd atvinnulífs og stjórnvalda um utanríkisviðskipti og
@@ -52,7 +54,7 @@ atvinnulífsins í samráðsnefnd, sbr. ákvæði 3. mgr. 1. gr., og þrjá stj�
                            öðru leyti með sér verkum.
                        4. gr. Tekjur Útflutningsráðs eru:
    1. Markaðsgjald, 0,05%, sem lagt er á gjaldstofn til greiðslu tryggingagjalds
-       eins og hann er skilgreindur í [2]III. kafla laga nr. 113/1990, um
+       eins og hann er skilgreindur í [4]III. kafla laga nr. 113/1990, um
 tryggingagjald. Um álagningu og innheimtu markaðsgjalds fer eftir ákvæðum þeirra
     laga. Markaðsgjald má draga frá tekjum þess rekstrarárs þegar stofn þess
                                    myndaðist.
@@ -90,4 +92,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002160
-   2. file://1990113.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=429
+   3. http://www.althingi.is/altext/128/s/0556.html
+   4. file://1990113.html

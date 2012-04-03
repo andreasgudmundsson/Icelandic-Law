@@ -8,8 +8,10 @@
 
    --------------------------------------------------------------------------
 
-Tóku gildi 1. júní 1998. Breytt með [2]l. 121/1999 (tóku gildi 30. des. 1999) og
-                    [3]l. 34/2001 (tóku gildi 16. maí 2001).
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
+Tóku gildi 1. júní 1998. Breytt með [4]l. 121/1999 (tóku gildi 30. des. 1999) og
+                    [5]l. 34/2001 (tóku gildi 16. maí 2001).
 
                       I. kafli. Verðlagsstofa skiptaverðs.
    1. gr. Hlutverk Verðlagsstofu skiptaverðs er að fylgjast með fiskverði og
@@ -23,7 +25,7 @@ og útvegsmanna, sbr. II. kafla, stuðla að því með störfum sínum og úrsk
                        þau markmið nái fram að ganga.]^1)
  [Verðlagsstofa skiptaverðs skal hafa aðsetur á Akureyri, nema ráðherra ákveði
                                    annað.]^2)
-                ^1)[4]L. 34/2001, 7. gr. ^2)[5]L. 121/1999, 2. gr.
+                ^1)[6]L. 34/2001, 7. gr. ^2)[7]L. 121/1999, 2. gr.
  2. gr. Sjávarútvegsráðherra skipar forstöðumann Verðlagsstofu skiptaverðs til
   fimm ára í senn. Forstöðumaður ræður annað starfsfólk. Sjávarútvegsráðherra
       getur samið við aðrar ríkisstofnanir um að annast rekstur skrifstofu
@@ -64,7 +66,7 @@ afla með þeim hætti sem kveðið er á um í lögum og kjarasamningum á hver
 Verðlagsstofu rökstutt og skulu því fylgja nauðsynleg gögn. [Fulltrúar Farmanna-
 og fiskimannasambands Íslands, Sjómannasambands Íslands, Vélstjórafélags Íslands
     og Landssambands íslenskra útvegsmanna skulu hafa aðgang að álitinu.]^1)
-                             ^1)[6]L. 34/2001, 8. gr.
+                             ^1)[8]L. 34/2001, 8. gr.
 7. gr. Víki fiskverð við uppgjör á aflahlut áhafnar í verulegum atriðum frá því
 sem algengast er við sambærilega ráðstöfun afla á viðkomandi landsvæði að teknu
    tilliti til stærðar og gæða skal Verðlagsstofa skiptaverðs taka málið til
@@ -151,17 +153,17 @@ fullskipaðri nefnd og skal hún kveða upp úrskurð innan sjö daga ef málið
                   fullskipaðrar nefndar skal vera rökstuddur.
       14. gr. Þegar úrskurður er kveðinn upp ræður afl atkvæða úrslitum í
 úrskurðarnefnd. Um hæfi nefndarmanna til meðferðar einstaks máls og málsmeðferð
- að öðru leyti fer samkvæmt ákvæðum [7]stjórnsýslulaga, nr. 37/1993, eftir því
+ að öðru leyti fer samkvæmt ákvæðum [9]stjórnsýslulaga, nr. 37/1993, eftir því
                                sem við getur átt.
      15. gr. Ákvörðun úrskurðarnefndar um fiskverð, hvort sem hún byggist á
   samkomulagi eða úrskurði, er bindandi gagnvart útgerð og allri áhöfn skips á
  gildistíma hennar og er óheimilt að semja um annað fiskverð við einstaklinga í
  áhöfn. Skal ákvörðun nefndarinnar lögð til grundvallar fyrir dómi, nema svo sé
- ástatt sem um er rætt í 2. mgr. [8]13. gr. laga nr. 53/1989, um samningsbundna
+ástatt sem um er rætt í 2. mgr. [10]13. gr. laga nr. 53/1989, um samningsbundna
   gerðardóma. Hafi skip landað afla hjá aðila er telst skyldur útgerð eftir að
    máli var skotið til nefndarinnar en áður en úrskurður er upp kveðinn getur
      nefndin úrskurðað um aflahlut áhafnar vegna þess afla. Er sá úrskurður
-            aðfararhæfur, sbr. 1. mgr. [9]13. gr. laga nr. 53/1989.
+            aðfararhæfur, sbr. 1. mgr. [11]13. gr. laga nr. 53/1989.
  16. gr. Stöðvi útgerð rekstur skips eða breyti útgerðarháttum þess í verulegum
  atriðum á gildistíma úrskurðar skal það tilkynnt áhöfn skriflega með a.m.k. 10
   daga fyrirvara. Er útgerð skylt að greiða áhöfn bætur fyrir skertan aflahlut
@@ -195,11 +197,13 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998013
-   2. file:///altext/stjt/1999.121.html
-   3. file://2001034.html
-   4. file://2001034.html
-   5. file:///altext/stjt/1999.121.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=605
+   3. http://www.althingi.is/altext/122/s/1025.html
+   4. file:///altext/stjt/1999.121.html
+   5. file://2001034.html
    6. file://2001034.html
-   7. file://1993037.html
-   8. file://1989053.html#g13
-   9. file://1989053.html#g13
+   7. file:///altext/stjt/1999.121.html
+   8. file://2001034.html
+   9. file://1993037.html
+  10. file://1989053.html#g13
+  11. file://1989053.html#g13

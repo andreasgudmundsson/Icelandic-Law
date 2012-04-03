@@ -3,14 +3,19 @@
    --------------------------------------------------------------------------
 
   Lög um eldi og heilbrigði sláturdýra, slátrun, vinnslu, heilbrigðisskoðun og
-                            gæðamat á sláturafurðum
+                           gæðamat á sláturafurðum^1)
 
                               1997 nr. 96 27. maí
 
    --------------------------------------------------------------------------
 
- Tóku gildi 1. júlí 1997. Breytt með [2]l. 82/1998 (tóku gildi 1. okt. 1998) og
-                    [3]l. 82/2002 (tóku gildi 1. júní 2002).
+    ^1)Breytingar voru gerðar á lögunum með [2]l. 76/2005, um breytingu á ýmsum
+    lögum við stofnun Landbúnaðarstofnunar, og taka þær gildi 1. jan. 2006.
+              [3]Ferill málsins á Alþingi.   [4]Frumvarp til laga.
+
+  Tóku gildi 1. júlí 1997. Breytt með [5]l. 82/1998 (tóku gildi 1. okt. 1998),
+  [6]l. 82/2002 (tóku gildi 1. júní 2002) og [7]l. 76/2005 (taka gildi 1. jan.
+                                     2006).
 
                      I. kafli. Tilgangur, gildissvið o.fl.
 1. gr. Tilgangur laga þessara er að tryggja svo sem kostur er gæði, heilnæmi og
@@ -66,7 +71,7 @@ hollustu afurðanna. Í löggildingu sláturhúss skal tilgreina hámarksdagssl�
    Eigendum lögbýla er heimilt að slátra búfé sínu á sjálfu býlinu til eigin
    neyslu. Landbúnaðarráðherra getur sett reglur um töku og sendingu sýna til
   rannsókna úr þessum sláturdýrum og afurðum samkvæmt tillögum yfirdýralæknis.
-       ^1)[4]Rg. 260/1980, sbr. [5]417/2002 og [6]688/2002; [7]rg. 461/2003.
+      ^1)[8]Rg. 260/1980, sbr. [9]417/2002 og [10]688/2002; [11]rg. 461/2003.
 6. gr. Hver sá sem hyggst slátra dýrum sem lög þessi taka til í þeim tilgangi að
 dreifa afurðum skal senda landbúnaðarráðuneyti umsókn um löggildingu aðstöðu til
  slátrunar, kælingar, frystingar, vinnslu og geymslu sláturafurða. Hver sá sem
@@ -90,7 +95,7 @@ Yfirdýralæknir setur umráðamönnum hússins hæfilegan frest til að lagfær
       slátrun á þeim stað skuli þá þegar stöðvuð uns úr hefur verið bætt.
       8. gr. Landbúnaðarráðherra setur með reglugerð^1) ákvæði um flutning
 sláturafurða á markað, útbúnað flutningatækja og meðferð afurðanna í flutningi.
-                                ^1)[8]Rg. 461/2003.
+                               ^1)[12]Rg. 461/2003.
 9. gr. Slösuðum dýrum má slátra utan sláturhúsa í samræmi við nánari reglur sem
  landbúnaðarráðherra setur að fengnum tillögum yfirdýralæknis og í samráði við
                                umhverfisráðherra.
@@ -116,17 +121,17 @@ sláturafurða á markað, útbúnað flutningatækja og meðferð afurðanna í
                              meðferð afurðanna,^3)
    e. geymslu, meðferð og ráðstöfun á sýktum sláturafurðum og sláturúrgangi,^4)
              f. lágmarksreglur varðandi innra eftirlit sláturhúsa.^5)
-   ^1)[9]Rg. 650/2001, [10]rg. 730/2003. ^2)[11]Rg. 653/2001, sbr. [12]866/2002,
-  [13]580/2003, [14]639/2003 og [15]480/2004. ^3)[16]Rg. 461/2003. ^4)[17]Rg.
-        660/2000, sbr. [18]75/2001 og [19]668/2001. ^5)[20]Rg. 40/1999.
+         ^1)[13]Rg. 650/2001, [14]rg. 730/2003. ^2)[15]Rg. 653/2001, sbr.
+ [16]866/2002, [17]580/2003, [18]639/2003 og [19]480/2004. ^3)[20]Rg. 461/2003.
+   ^4)[21]Rg. 660/2000, sbr. [22]75/2001 og [23]668/2001. ^5)[24]Rg. 40/1999.
 11. gr. Heilbrigðisskoðun skal fara fram á öllum sláturdýrum áður en slátrun fer
    fram og mega ekki líða meira en 12 klukkustundir frá þeirri skoðun og til
     slátrunar. Þó þarf slík skoðun ekki að fara fram ef upplýsingar um eldi,
-   heilbrigði og lyfjagjöf fylgja sláturgrip í sláturhús samkvæmt reglum sem
+  heilbrigði og lyfjagjöf fylgja sláturgrip í sláturhús samkvæmt reglum^1) sem
 yfirdýralæknir setur. Þá skal heilbrigðisskoðun á öllum sláturafurðum fara fram
     í sláturhúsinu áður en frekari vinnsla fer fram eða þær eru afhentar til
  dreifingar. Að skoðun lokinni skal kjötskoðunarlæknir merkja sláturafurðirnar
-   samkvæmt reglugerð^1) er landbúnaðarráðherra setur um heilbrigðisskoðun og
+   samkvæmt reglugerð^2) er landbúnaðarráðherra setur um heilbrigðisskoðun og
           merkingu á sláturafurðum að fengnum tillögum yfirdýralæknis.
  Til að standa straum af kostnaði við heilbrigðiseftirlit kjötskoðunarlækna með
  sláturafurðum skal landbúnaðarráðherra innheimta gjald af sláturleyfishöfum af
@@ -134,10 +139,11 @@ yfirdýralæknir setur. Þá skal heilbrigðisskoðun á öllum sláturafurðum 
  landbúnaðarráðuneytisins. [Eftirlitsgjald þetta miðast við raunkostnað og skal
 vera 2,10 kr. fyrir hvert kíló kindakjöts, 3,00 kr. fyrir hvert kíló svínakjöts,
 2,20 kr. fyrir hvert kíló nautgripakjöts, 2,90 kr. fyrir hvert kíló hrossakjöts
-                og 6,50 kr. fyrir hvert kíló alifuglakjöts.]^2)
-      Ráðherra setur nánari ákvæði^3) um framkvæmd eftirlits og innheimtu
+                og 6,50 kr. fyrir hvert kíló alifuglakjöts.]^3)
+      Ráðherra setur nánari ákvæði^4) um framkvæmd eftirlits og innheimtu
                     eftirlitsgjalds samkvæmt þessari grein.
-        ^1)[21]Rg. 461/2003. ^2)[22]L. 82/2002, 1. gr. ^3)[23]Rg. 491/1997.
+    ^1)Rgl. 491/1997. ^2)[25]Rg. 461/2003. ^3)[26]L. 82/2002, 1. gr. ^4)[27]Rg.
+                                   336/2005.
    12. gr. Kjötskoðunarlæknir annast heilbrigðisskoðun og sér um að fram fari
        merking á kjöti og öðrum sláturafurðum. Ef nauðsyn krefur má fela
  heilbrigðisskoðun þessa öðrum sem í því skyni hafa næga þekkingu og þjálfun að
@@ -165,10 +171,10 @@ Landbúnaðarráðherra getur fyrirskipað dreifingarbann, upptöku og eyðingu 
                                  samkvæmt þeim.
  Landbúnaðarráðherra setur reglugerð^2) um slátrun, kælingu, frystingu, hlutun,
             brytjun, pökkun, flutning og aðra meðferð sláturafurða.
-    ^1)[24]Rg. 660/2000, sbr. [25]75/2001 og [26]668/2001. ^2)[27]Rg. 160/1984,
-[28]rg. 484/1998, sbr. [29]723/1999, [30]635/2000, [31]724/2001, [32]786/2001 og
-[33]709/2003; [34]rg. 653/2001, sbr. [35]866/2002, [36]580/2003, [37]639/2003 og
-                        [38]480/2004; [39]rg. 461/2003.
+    ^1)[28]Rg. 660/2000, sbr. [29]75/2001 og [30]668/2001. ^2)[31]Rg. 160/1984,
+[32]rg. 484/1998, sbr. [33]723/1999, [34]635/2000, [35]724/2001, [36]786/2001 og
+[37]709/2003; [38]rg. 653/2001, sbr. [39]866/2002, [40]580/2003, [41]639/2003 og
+                        [42]480/2004; [43]rg. 461/2003.
 
                         V. kafli. Gæðamat sláturafurða.
  15. gr. Kjötmatsmenn skulu meta allar sláturafurðir sem fluttar eru á erlendan
@@ -200,8 +206,8 @@ heilbrigðisvottorð fyrir sláturafurðir sem seldar eru innan lands eða flutt
    erlendan markað. Við ákvörðun gjalda skal miða við að tekjur standi undir
           nauðsynlegum kostnaði við úttekt á kjötvinnslustöð og útgáfu
                               heilbrigðisvottorða.
-        ^1)[40]Rg. 168/1970, sbr. [41]630/1982, [42]399/1987, [43]597/1994,
-                         [44]466/1996 og [45]461/2003.
+        ^1)[44]Rg. 168/1970, sbr. [45]630/1982, [46]399/1987, [47]597/1994,
+                         [48]466/1996 og [49]461/2003.
   18. gr. Yfirdýralækni og kjötskoðunarlæknum skal hvenær sem er vera heimill
   aðgangur að húsnæði og fyrirtækjum þar sem sláturdýr eða afurðir þeirra eru
  geymd og skulu þeim veittar allar nauðsynlegar upplýsingar vegna eftirlits og
@@ -216,11 +222,11 @@ heilbrigðisvottorð fyrir sláturafurðir sem seldar eru innan lands eða flutt
 21. gr. Brot gegn lögum þessum, reglugerðum og fyrirmælum, settum samkvæmt þeim,
        varða sektum eða [fangelsi allt að 2 árum]^1) ef sakir eru miklar.
             Með mál vegna brota skal farið að hætti opinberra mála.
-                            ^1)[46]L. 82/1998, 240. gr.
+                            ^1)[50]L. 82/1998, 240. gr.
                   22. gr. Lög þessi öðlast gildi 1. júlí 1997.
 
                             Ákvæði til bráðabirgða.
-   I. Reglugerðir, auglýsingar og önnur fyrirmæli sett samkvæmt [47]lögum nr.
+   I. Reglugerðir, auglýsingar og önnur fyrirmæli sett samkvæmt [51]lögum nr.
  30/1966, með síðari breytingum, skulu halda gildi sínu að svo miklu leyti sem
   þau stangast ekki á við lög þessi þar til nýjar reglugerðir, auglýsingar eða
                        önnur fyrirmæli hafa öðlast gildi.
@@ -230,49 +236,53 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997096
-   2. file:///altext/stjt/1998.082.html
-   3. file:///altext/stjt/2002.082.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/260-1980
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/417-2002
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2002
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/650-2001
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/730-2003
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/653-2001
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2002
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/580-2003
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/639-2003
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/480-2004
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/660-2000
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/075-2001
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/668-2001
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/040-1999
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
-  22. file:///altext/stjt/2002.082.html
-  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1997
-  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/660-2000
-  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/075-2001
-  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/668-2001
-  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/160-1984
-  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/484-1998
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/723-1999
-  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/635-2000
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/724-2001
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/786-2001
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/709-2003
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/653-2001
-  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2002
-  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/580-2003
-  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/639-2003
-  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/480-2004
-  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
-  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/168-1970
-  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/630-1982
-  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/399-1987
-  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/597-1994
-  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/466-1996
-  45. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
-  46. file:///altext/stjt/1998.082.html
-  47. file://1966030.html
+   2. file://2005076.html
+   3. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=477
+   4. http://www.althingi.is/altext/121/s/0804.html
+   5. file:///altext/stjt/1998.082.html
+   6. file:///altext/stjt/2002.082.html
+   7. file://2005076.html
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/260-1980
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/417-2002
+  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2002
+  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
+  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/650-2001
+  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/730-2003
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/653-2001
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2002
+  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/580-2003
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/639-2003
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/480-2004
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
+  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/660-2000
+  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/075-2001
+  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/668-2001
+  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/040-1999
+  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
+  26. file:///altext/stjt/2002.082.html
+  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/336-2005
+  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/660-2000
+  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/075-2001
+  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/668-2001
+  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/160-1984
+  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/484-1998
+  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/723-1999
+  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/635-2000
+  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/724-2001
+  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/786-2001
+  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/709-2003
+  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/653-2001
+  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2002
+  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/580-2003
+  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/639-2003
+  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/480-2004
+  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
+  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/168-1970
+  45. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/630-1982
+  46. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/399-1987
+  47. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/597-1994
+  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/466-1996
+  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/461-2003
+  50. file:///altext/stjt/1998.082.html
+  51. file://1966030.html

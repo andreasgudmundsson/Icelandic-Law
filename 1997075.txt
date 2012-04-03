@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 1998.
 
                             I. kafli. Almenn ákvæði.
@@ -272,7 +274,7 @@ hann hefur greitt hana veðsala áður en veðréttur í henni var niður fallin
   hafi hann vitað eða mátt vita að veðsali hafi farið út fyrir heimild skv. 1.
                            mgr. með ráðstöfun sinni.
    5. Um fjárnám í fasteign og rekstrartækjum skv. 24. gr. laga þessara gilda
-                 ákvæði [2]42. gr. laga um aðför, nr. 90/1989.
+                 ákvæði [4]42. gr. laga um aðför, nr. 90/1989.
                C. Veð í færanlegum vélbúnaði í verktakastarfsemi.
 28. gr. 1. Rekstraraðila, sem stundar verktakastarfsemi, er heimilt að setja að
  sjálfsvörsluveði einu nafni færanlegan vélbúnað sem heyrir atvinnurekstri hans
@@ -447,4 +449,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997075
-   2. file://1989090.html#g42
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=234
+   3. http://www.althingi.is/altext/121/s/0350.html
+   4. file://1989090.html#g42

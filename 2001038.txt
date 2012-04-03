@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
         Tóku gildi 1. júlí 2001. EES-samningurinn: tilskipun 2000/35/EB.
 
                              I. kafli. Gildissvið.
@@ -118,7 +120,7 @@ erlenda, eða safn slíkra vísitalna sem ekki mæla breytingar á almennu verð
  samþykki ráðherra ákveðið að vextir verðtryggðra innstæðna og lána skuli vera
                           óbreytanlegir á lánstímanum.
   Seðlabankinn setur nánari reglur^1) um verðtryggingu sparifjár og lánsfjár.
-                               ^1)[2]Rgl. 492/2001.
+                               ^1)[4]Rgl. 492/2001.
 16. gr. Þegar skuldbindingum með ákvæðum um verðtryggingu er þinglýst skal þess
 gætt að verðtryggingarinnar sé getið í þinglýsingabókum og skulu þær koma fram á
              vottorðum þinglýsingarstjóra um efni þinglýsingabóka.
@@ -158,13 +160,13 @@ niðurstöðu dómsmáls eða öðrum gerningi, gerðri fyrir gildistöku laga �
  við vanskil reiknist hæstu lögleyfðu dráttarvextir eins og þeir eru á hverjum
    tíma, dráttarvextir samkvæmt ákvörðun Seðlabanka Íslands eða dráttarvextir
      samkvæmt vaxtalögum, eða vísað er með öðrum hætti til dráttarvaxta sem
- Seðlabankinn ákvað skv. [3]10. gr. laga nr. 25/1987, og skulu þá dráttarvextir
+ Seðlabankinn ákvað skv. [5]10. gr. laga nr. 25/1987, og skulu þá dráttarvextir
       eftir gildistöku laganna reiknaðir skv. 1. mgr. 6. gr. laga þessara.
 III. Nú segir í lánssamningi í erlendum gjaldmiðli, gerðum fyrir gildistöku laga
 þessara, að við vanskil reiknist hæstu lögleyfðu dráttarvextir eins og þeir eru
      á hverjum tíma, dráttarvextir samkvæmt ákvörðun Seðlabanka Íslands eða
 dráttarvextir samkvæmt vaxtalögum, eða vísað er með öðrum hætti til dráttarvaxta
-      sem Seðlabankinn ákvað skv. [4]11. gr. laga nr. 25/1987, og skulu þá
+      sem Seðlabankinn ákvað skv. [6]11. gr. laga nr. 25/1987, og skulu þá
    dráttarvextir þessir vera ákvarðaðir með sama hætti næstu fimm árin eftir
  gildistöku laga þessara, en að þeim tíma loknum skulu þeir vera jafnháir þeim
      dráttarvöxtum í hlutaðeigandi gjaldmiðli sem síðast voru auglýstir af
@@ -173,7 +175,7 @@ dráttarvextir samkvæmt vaxtalögum, eða vísað er með öðrum hætti til dr
     krónum, gerðum fyrir gildistöku laga þessara, að fjárhæðir breytist með
 reikningsgengi SDR eða EUR (SDR- eða EUR-gengisvísitölu) sem Seðlabanki Íslands
       reiknar út og birtir og skal þá í hverjum mánuði miðað við opinbert
-  viðmiðunargengi EUR eða SDR (kaupgengi) skv. [5]15. gr. laga nr. 36/1986, um
+  viðmiðunargengi EUR eða SDR (kaupgengi) skv. [7]15. gr. laga nr. 36/1986, um
  Seðlabanka Íslands, á 21. degi undanfarandi mánaðar. Nú er gengi ekki skráð á
 21. degi mánaðar og skal þá lagt til grundvallar það kaupgengi er skráð var næst
  á undan þeim degi. Óheimilt er að taka við innlánum á reikninga sem stofnaðir
@@ -183,7 +185,7 @@ V. Vísitala neysluverðs, sbr. 14. gr. laga þessara, með grunninn 100 í maí
   skal gilda sem vísitala fyrir næsta mánuð á eftir, í fyrsta sinn fyrir apríl
 1995 gagnvart fjárskuldbindingum sem samið hefur verið um fyrir 1. apríl 1995 og
    eru með ákvæðum um lánskjaravísitölu þá sem Seðlabankinn reiknaði og birti
-     mánaðarlega samkvæmt heimild í [6]39. gr. laga nr. 13/1979, um stjórn
+     mánaðarlega samkvæmt heimild í [8]39. gr. laga nr. 13/1979, um stjórn
   efnahagsmála o.fl., sbr. reglugerð nr. 18/1989. Hagstofa Íslands skal birta
   mánaðarlega í Lögbirtingablaði vísitölu skv. 2. málsl. þessarar málsgreinar.
     Verði gerð breyting á grunni vísitölu neysluverðs skal Hagstofan birta í
@@ -198,8 +200,10 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001038
-   2. http://stjornartidindi.is/servlet/stjrtid/B/2001/492.pdf
-   3. file://1987025.html
-   4. file://1987025.html
-   5. file://1986036.html
-   6. file:///altext/stjtnr.html#1979013?g39
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=566
+   3. http://www.althingi.is/altext/126/s/0872.html
+   4. http://stjornartidindi.is/servlet/stjrtid/B/2001/492.pdf
+   5. file://1987025.html
+   6. file://1987025.html
+   7. file://1986036.html
+   8. file:///altext/stjtnr.html#1979013?g39

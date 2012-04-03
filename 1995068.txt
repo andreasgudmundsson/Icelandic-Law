@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
   Tóku gildi 1. desember 1995, að undanskilinni 1. gr. sem tók gildi 13. mars
                                      1995.
   1. gr. Heimilt er að fullgilda fyrir Íslands hönd samning um dómsvald og um
@@ -1151,3 +1153,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995068
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=118&mnr=328
+   3. http://www.althingi.is/altext/118/s/0497.html

@@ -8,7 +8,10 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
  Tóku gildi 16. apríl 2002. EES-samningurinn: XI. viðauki tilskipun 2000/31/EB.
+              Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -245,9 +248,11 @@ Sama gildir gagnvart þeim sem krafist hefur að aðgangur verði veittur að g�
 
                             VI. kafli. Ýmis ákvæði.
                                19. gr. Eftirlit.
- Samkeppnisstofnun hefur eftirlit með að farið sé eftir 6.7. gr. og 9.11. gr.
- laga þessara. Ef brotið er gegn ákvæðum þessum gilda ákvæði samkeppnislaga um
-         úrræði samkeppnisyfirvalda, stjórnvaldssektir og málsmeðferð.
+[Neytendastofa]^1) hefur eftirlit með að farið sé eftir 6.7. gr. og 9.11. gr.
+ laga þessara. Ef brotið er gegn ákvæðum þessum gilda ákvæði [laga um eftirlit
+      með óréttmætum viðskiptaháttum og gagnsæi markaðarins]^1) um úrræði
+             [Neytendastofu],^1) stjórnvaldssektir og málsmeðferð.
+                             ^1)[5]L. 62/2005, 13. gr.
                               20. gr. Tengiliður.
 Viðskiptaráðuneytið skal vera tengiliður vegna samstarfs við önnur aðildarríki á
  Evrópska efnahagssvæðinu um rafræn viðskipti. Þá skal viðskiptaráðuneytið vera
@@ -279,3 +284,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002030
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=489
+   3. http://www.althingi.is/altext/127/s/0774.html
+   4. file://2005062.html
+   5. file://2005062.html#g13

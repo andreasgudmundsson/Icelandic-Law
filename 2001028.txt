@@ -8,8 +8,11 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
    Tóku gildi 16. maí 2001. EES-samningurinn: XI. viðauki tilskipun 99/93/EB.
-             Breytt með [2]l. 72/2003 (tóku gildi 10. apríl 2003).
+  Breytt með [4]l. 72/2003 (tóku gildi 10. apríl 2003) og [5]l. 62/2005 (tóku
+                              gildi 1. júlí 2005).
 
                         I. kafli. Markmið og gildissvið.
                                 1. gr. Markmið.
@@ -114,7 +117,7 @@ Ekki skal vera unnt að nota öruggan undirskriftarbúnað til að breyta þeim 
 Líta skal svo á að undirskriftarbúnaður teljist öruggur skv. 8. gr. ef hann er í
  samræmi við staðla sem framkvæmdastjórn Evrópusambandsins hefur sett um slíkan
        búnað og birtir hafa verið í Stjórnartíðindum Evrópubandalagsins.
-                             ^1)[3]L. 72/2003, 54. gr.
+                             ^1)[6]L. 72/2003, 54. gr.
 
         V. kafli. Kröfur til vottunaraðila sem gefa út fullgild vottorð.
                        10. gr. Kröfur til starfseminnar.
@@ -195,25 +198,26 @@ Vottunaraðili er ekki skaðabótaskyldur skv. 1. mgr. ef hann sannar að tjón 
 
      VII. kafli. Eftirlit með vottunaraðilum sem gefa út fullgild vottorð.
                                18. gr. Eftirlit.
-Löggildingarstofa skal hafa eftirlit með því að starfsemi vottunaraðila sem gefa
-  út fullgild vottorð sé í samræmi við ákvæði laga þessara og reglna settra á
+  [Neytendastofa]^1) skal hafa eftirlit með því að starfsemi vottunaraðila sem
+gefa út fullgild vottorð sé í samræmi við ákvæði laga þessara og reglna settra á
                    grundvelli þeirra, sbr. þó 2. mgr. 5. gr.
-  Löggildingarstofa getur bannað starfsemi og aðstæður sem stríða gegn ákvæðum
+ [Neytendastofa]^1) getur bannað starfsemi og aðstæður sem stríða gegn ákvæðum
    laga þessara og reglna settra á grundvelli þeirra. Þá er heimilt að setja
  skilyrði fyrir áframhaldandi starfsemi og veita fresti til að fullnægja slíkum
                                    skilyrðum.
-Löggildingarstofa getur krafist þess að fram fari endurskoðun á kerfi, búnaði og
-    starfsskipulagi vottunaraðila sem gefa út fullgild vottorð (endurskoðun
-upplýsingatækni). Löggildingarstofa getur tilnefnt þá aðila sem hafa heimild til
-     að annast slíka endurskoðun. Vottunaraðili skal bera kostnað af slíkri
+ [Neytendastofa]^1) getur krafist þess að fram fari endurskoðun á kerfi, búnaði
+   og starfsskipulagi vottunaraðila sem gefa út fullgild vottorð (endurskoðun
+ upplýsingatækni). [Neytendastofa]^1) getur tilnefnt þá aðila sem hafa heimild
+   til að annast slíka endurskoðun. Vottunaraðili skal bera kostnað af slíkri
                                   endurskoðun.
-  Löggildingarstofa getur svipt vottunaraðila heimild til að kalla vottorð sem
+ [Neytendastofa]^1) getur svipt vottunaraðila heimild til að kalla vottorð sem
 hann gefur út fullgild vottorð ef hann hefur gróflega eða ítrekað brotið gegn
           ákvæðum laga þessara eða reglum settum á grundvelli þeirra.
     Ráðherra getur sett nánari fyrirmæli um tilhögun eftirlits í reglugerð.
+                             ^1)[7]L. 62/2005, 13. gr.
                       19. gr. Skráning og eftirlitsgjald.
   Vottunaraðili sem hyggst gefa út fullgild vottorð skal senda tilkynningu um
-starfsemi sína til Löggildingarstofu. Eftir að slík tilkynning hefur verið send
+starfsemi sína til [Neytendastofu].^1) Eftir að slík tilkynning hefur verið send
 getur vottunaraðili gefið út fullgild vottorð. Í tilkynningunni skulu koma fram
     þær upplýsingar sem nauðsynlegar eru til að sýna fram á að vottunaraðili
      fullnægi skilyrðum laga þessara í starfsemi sinni, m.a. upplýsingar um
@@ -223,46 +227,49 @@ getur vottunaraðili gefið út fullgild vottorð. Í tilkynningunni skulu koma 
  1.000.000 kr. á ári til að standa straum af kostnaði eftirlits samkvæmt lögum
 þessum. Ef vottunaraðili byrjar eða hættir starfsemi á gjaldárinu skal árgjaldið
    ákvarðað í réttu hlutfalli við þann tíma sem starfrækslan varaði á árinu.
-  Eftirlitsgjaldið skal renna beint til Löggildingarstofu og vera innheimt af
+  Eftirlitsgjaldið skal renna beint til [Neytendastofu]^1) og vera innheimt af
   henni. Aðför má gera til fullnustu kröfum um eftirlitsgjald án undangengins
                           dóms, úrskurðar eða sáttar.
   Gjalddagi eftirlitsgjalds er 1. febrúar ár hvert vegna síðasta almanaksárs.
   Ráðherra getur sett nánari fyrirmæli um tilhögun skráningar, tilkynningar og
                           upplýsingagjöf í reglugerð.
+                             ^1)[8]L. 62/2005, 13. gr.
                    20. gr. Athugun, aðgangur og þagnarskylda.
-Afhenda skal Löggildingarstofu allar þær upplýsingar og skýringar sem henni eru
- nauðsynlegar vegna eftirlitsins. Er Löggildingarstofu heimilt að setja fresti
- til afhendingar upplýsinga eða skýringa. Einnig getur Löggildingarstofa kvatt
+Afhenda skal [Neytendastofu]^1) allar þær upplýsingar og skýringar sem henni eru
+ nauðsynlegar vegna eftirlitsins. Er [Neytendastofu]^1) heimilt að setja fresti
+ til afhendingar upplýsinga eða skýringa. Einnig getur [Neytendastofa]^1) kvatt
      vottunaraðila og þá sem starfa á þeirra vegum á sinn fund til að veita
     upplýsingar og skýringar varðandi útgáfu á vottorðum eða aðra þjónustu í
                       tengslum við rafrænar undirskriftir.
-Löggildingarstofu er án dómsúrskurðar heimill aðgangur í eftirlitsstörfum sínum
+[Neytendastofu]^1) er án dómsúrskurðar heimill aðgangur í eftirlitsstörfum sínum
  að starfsstöð vottunaraðila eða öðrum þeim stöðum þar sem starfsemi sem fellur
        undir eftirlit laga þessara fer fram. Hún getur þar framkvæmt þær
   eftirlitsaðgerðir sem hún telur nauðsynlegar og krafist þess að starfsmenn á
- þeim stöðum veiti nauðsynlega aðstoð. Löggildingarstofa getur óskað liðveislu
+ þeim stöðum veiti nauðsynlega aðstoð. [Neytendastofa]^1) getur óskað liðveislu
     lögreglu ef tilraun er gerð til að hindra hana í eftirlitsstörfum sínum.
-    Réttur Löggildingarstofu til þess að krefjast upplýsinga eða aðgangs að
+    Réttur [Neytendastofu]^1) til þess að krefjast upplýsinga eða aðgangs að
  starfsstöðinni og tækjabúnaði verður ekki takmarkaður með vísan til reglna um
                                  þagnarskyldu.
-    Starfsmenn Löggildingarstofu eru bundnir þagnarskyldu. Þeir mega ekki að
+   Starfsmenn [Neytendastofu]^1) eru bundnir þagnarskyldu. Þeir mega ekki að
  viðlagðri ábyrgð skýra óviðkomandi frá því er þeir komast að í starfi sínu og
     leynt á að fara um viðskipti og rekstur vottunaraðila, tengdra aðila eða
-   annarra. Sama gildir um sérfræðinga sem starfa fyrir Löggildingarstofu að
+   annarra. Sama gildir um sérfræðinga sem starfa fyrir [Neytendastofu]^1) að
   eftirlitsstarfi samkvæmt lögum þessum. Þagnarskyldan helst þótt látið sé af
                                     starfi.
+                             ^1)[9]L. 62/2005, 13. gr.
                                21. gr. Dagsektir.
-   Löggildingarstofa getur lagt dagsektir á vottunaraðila að liðnum tilteknum
+  [Neytendastofa]^1) getur lagt dagsektir á vottunaraðila að liðnum tilteknum
  fresti veiti hann ekki umbeðnar upplýsingar, fari ekki eftir kröfum hennar um
            úrbætur eða sinni ekki kröfum eftirlitsins að öðru leyti.
 Fjárhæð dagsekta skal ákvörðuð með hliðsjón af umfangi rekstrar vottunaraðila og
  eðli brotsins. Dagsektir geta numið frá 10.000 kr. til 1 millj. kr. á dag. Þær
- greiðast þar til farið hefur verið eftir kröfum Löggildingarstofu. Óinnheimtar
-dagsektir falla ekki niður þrátt fyrir að orðið sé við kröfum Löggildingarstofu
-                 nema Löggildingarstofa ákveði það sérstaklega.
+greiðast þar til farið hefur verið eftir kröfum [Neytendastofu].^1) Óinnheimtar
+dagsektir falla ekki niður þrátt fyrir að orðið sé við kröfum [Neytendastofu]^1)
+                nema [Neytendastofa]^1) ákveði það sérstaklega.
    Dagsektir eru aðfararhæfar og renna í ríkissjóð að frádregnum kostnaði við
-   innheimtuna. Ákvörðun Löggildingarstofu um dagsektir verður ekki kærð til
+   innheimtuna. Ákvörðun [Neytendastofu]^1) um dagsektir verður ekki kærð til
                                    ráðherra.
+                            ^1)[10]L. 62/2005, 13. gr.
 
                            VIII. kafli. Ýmis ákvæði.
             22. gr. Vottunaraðilar sem hafa staðfestu utan Íslands.
@@ -280,7 +287,7 @@ efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evr�
            d. vottorðið eða vottunaraðilinn er viðurkenndur af Íslandi,
  Evrópubandalaginu, ríkjum utan Evrópubandalagsins eða alþjóðlegum stofnunum, í
                        tvíhliða eða marghliða samningum.
-                             ^1)[4]L. 72/2003, 55. gr.
+                            ^1)[11]L. 72/2003, 55. gr.
                                23. gr. Viðurlög.
  Fyrir brot gegn lögum þessum skal refsað með sektum nema þyngri refsing liggi
                            við samkvæmt öðrum lögum.
@@ -301,6 +308,13 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001028
-   2. file:///altext/stjt/2003.072.html
-   3. file:///altext/stjt/2003.072.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=524
+   3. http://www.althingi.is/altext/126/s/0820.html
    4. file:///altext/stjt/2003.072.html
+   5. file://2005062.html
+   6. file:///altext/stjt/2003.072.html
+   7. file://2005062.html#g13
+   8. file://2005062.html#g13
+   9. file://2005062.html#g13
+  10. file://2005062.html#g13
+  11. file:///altext/stjt/2003.072.html

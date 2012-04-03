@@ -8,10 +8,12 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
  Tóku gildi 1. janúar 1996. Lögin gilda um tjón sem leiðir af brotum sem framin
-  voru 1. janúar 1993 og síðar. Breytt með [2]l. 144/1995 (tóku gildi 1. jan.
-1996; komu til framkvæmda skv. fyrirmælum í 59. gr.), [3]l. 82/1998 (tóku gildi
-          1. okt. 1998) og [4]l. 118/1999 (tóku gildi 30. des. 1999).
+  voru 1. janúar 1993 og síðar. Breytt með [4]l. 144/1995 (tóku gildi 1. jan.
+1996; komu til framkvæmda skv. fyrirmælum í 59. gr.), [5]l. 82/1998 (tóku gildi
+          1. okt. 1998) og [6]l. 118/1999 (tóku gildi 30. des. 1999).
 
                              I. kafli. Gildissvið.
   1. gr. Ríkissjóður greiðir bætur vegna tjóns sem leiðir af broti á almennum
@@ -43,7 +45,7 @@ Bætur skulu greiddar fyrir tjón sem valdið er á umráðasvæði stofnunar e�
   Í sérstökum tilvikum er heimilt að greiða bætur fyrir tjón á munum sem maður
     veldur hafi hann strokið frá sambærilegri stofnun og greinir í 1. mgr. í
                     Danmörku, Finnlandi, Noregi eða Svíþjóð.
-                            ^1)[5]L. 82/1998, 223. gr.
+                            ^1)[7]L. 82/1998, 223. gr.
             5. gr. Bætur samkvæmt lögum þessum skulu ekki greiddar:
                     1. til stjórnvalda eða opinberra stofnana,
        2. þegar bæði tjónvaldur og tjónþoli voru, þegar brot var framið, um
@@ -56,7 +58,7 @@ Bætur skulu greiddar fyrir tjón sem valdið er á umráðasvæði stofnunar e�
 Umsókn um bætur skal hafa borist bótanefnd innan tveggja ára frá því að brot var
                                     framið.
     [Þegar veigamikil rök mæla með má víkja frá skilyrðum 1. og 2. mgr.]^1)
-                             ^1)[6]L. 118/1999, 1. gr.
+                             ^1)[8]L. 118/1999, 1. gr.
 7. gr. [Bætur vegna einstaks verknaðar skulu ekki greiddar nema höfuðstóll kröfu
                            sé 100.000 kr. eða hærri.
  Af dæmdum eða ákvörðuðum bótum, að vöxtum meðtöldum, greiðir ríkissjóður ekki
@@ -65,7 +67,7 @@ Umsókn um bætur skal hafa borist bótanefnd innan tveggja ára frá því að 
                         b. 2.500.000 kr. fyrir líkamstjón,
                             c. 600.000 kr. fyrir miska,
                    d. 2.500.000 kr. fyrir missi framfæranda.]^1)
-                            ^1)[7]L. 144/1995, 18. gr.
+                            ^1)[9]L. 144/1995, 18. gr.
 8. gr. Að öðru leyti en greinir í lögum þessum gilda við ákvörðun bóta almennar
   reglur um skaðabótaábyrgð tjónvalds, þar á meðal um lækkun eða niðurfellingu
  bóta vegna eigin sakar tjónþola eða hins látna á tjóninu eða eigin áhættu. Við
@@ -135,7 +137,7 @@ lækni rannsaka sig. Nefndinni er heimilt að fá afrit úr sjúkraskrá tjónþ
              tjónþola gagnvart tjónvaldi sem nemur fjárhæð bótanna.
 20. gr. Lög þessi öðlast gildi [1. júlí 1996]^1) og gilda um tjón sem leiðir af
                 brotum sem framin voru 1. janúar 1993 og síðar.
-                            ^1)[8]L. 144/1995, 19. gr.
+                            ^1)[10]L. 144/1995, 19. gr.
   Ákvæði til bráðabirgða. Umsókn um bætur vegna tjóns sem leiðir af broti sem
    framið er fyrir [1. júlí 1996]^1) skal hafa borist bótanefnd innan árs frá
                               gildistöku laganna.
@@ -143,17 +145,19 @@ lækni rannsaka sig. Nefndinni er heimilt að fá afrit úr sjúkraskrá tjónþ
            gildistöku laga þessara fyrst vexti frá 1. júlí 1996.]^1)
   Dómsmálaráðherra skal á ári hverju til ársloka 2000 gera Alþingi grein fyrir
                 þeim útgjöldum sem lög þessi hafa í för með sér.
-                            ^1)[9]L. 144/1995, 20. gr.
+                            ^1)[11]L. 144/1995, 20. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995069
-   2. file:///altext/stjt/1995.144.html
-   3. file:///altext/stjt/1998.082.html
-   4. file:///altext/stjt/1999.118.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=118&mnr=411
+   3. http://www.althingi.is/altext/118/s/0659.html
+   4. file:///altext/stjt/1995.144.html
    5. file:///altext/stjt/1998.082.html
    6. file:///altext/stjt/1999.118.html
-   7. file:///altext/stjt/1995.144.html
-   8. file:///altext/stjt/1995.144.html
+   7. file:///altext/stjt/1998.082.html
+   8. file:///altext/stjt/1999.118.html
    9. file:///altext/stjt/1995.144.html
+  10. file:///altext/stjt/1995.144.html
+  11. file:///altext/stjt/1995.144.html

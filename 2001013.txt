@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
  Tóku gildi 16. maí 2001. EES-samningurinn: XVI. viðauki tilskipun 93/38/EBE og
                         IV. viðauki tilskipun 94/22/EB.
 
@@ -66,7 +68,7 @@ Iðnaðarráðherra veitir leyfi til leitar að kolvetni með rannsóknir og vin
 Iðnaðarráðherra setur reglur^1) um skilyrði fyrir veitingu leyfis til leitar að
  kolvetni, m.a. ákvæði um greiðslu kostnaðar af mati á umsækjendum og veitingu
  leyfis, upplýsinga- og tilkynningarskyldu um framkvæmd og niðurstöður leitar,
-            afhendingu gagna og þagnarskyldu.   ^1)[2]Rg. 553/2001.
+            afhendingu gagna og þagnarskyldu.   ^1)[4]Rg. 553/2001.
 
                        IV. kafli. Rannsóknir og vinnsla.
                       7. gr. Rannsóknar- og vinnsluleyfi.
@@ -285,4 +287,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001013
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/553-2001
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=175
+   3. http://www.althingi.is/altext/126/s/0182.html
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/553-2001

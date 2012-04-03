@@ -8,8 +8,10 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
 Tóku gildi 30. maí 1994. EES-samningurinn: XIX. viðauki tilskipun 84/450/EBE og
-                                  90/314/EBE.
+        90/314/EBE. Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005).
 
                      I. kafli. Gildissvið og orðskýringar.
      1. gr. Lög þessi gilda um samninga, sem gerðir eru á milli farkaupa og
@@ -150,8 +152,9 @@ Sé um að ræða verulegar vanefndir farkaupa á skyldum hans samkvæmt lögum 
    16. gr. Samgönguráðherra er heimilt að setja nánari reglur^1) um framkvæmd
  þessara laga, m.a. um efni upplýsingabæklings til farkaupa, afpöntunarskilmála
    og aðrar upplýsingar um alferðir og atriði sem taka þarf fram í samningi.
-                                ^1)[2]Rg. 156/1995.
-  17. gr. Eftirlit með framkvæmd laga þessara er í höndum Samkeppnisstofnunar.
+                                ^1)[5]Rg. 156/1995.
+  17. gr. Eftirlit með framkvæmd laga þessara er í höndum [Neytendastofu].^1)
+                             ^1)[6]L. 62/2005, 13. gr.
    18. gr. Brot gegn lögum þessum varða sektum nema þyngri refsing liggi við
                              samkvæmt öðrum lögum.
 19. gr. Lög þessi öðlast þegar gildi. Lög þessi gilda ekki um alferðir sem samið
@@ -161,4 +164,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1994080
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/156-1995
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=117&mnr=293
+   3. http://www.althingi.is/altext/117/s/0391.html
+   4. file://2005062.html
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/156-1995
+   6. file://2005062.html#g13

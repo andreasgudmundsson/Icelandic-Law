@@ -8,10 +8,12 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 31. maí 1985.
 1. gr. Ráðherra þeim, sem fer með siglingamál, er heimilt að setja reglur^1) til
         að framfylgja alþjóðasamningi, sem Ísland er aðili að, um gáma.
-                                ^1)[2]Rg. 624/1997.
+                                ^1)[4]Rg. 624/1997.
  2. gr. Brot gegn reglum, sem settar verða samkvæmt lögum þessum, varða sektum.
                       3. gr. Lög þessi öðlast þegar gildi.
 
@@ -19,4 +21,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1985014
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/624-1997
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=107&mnr=324
+   3. http://www.althingi.is/altext/107/s/pdf/0513.pdf
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/624-1997

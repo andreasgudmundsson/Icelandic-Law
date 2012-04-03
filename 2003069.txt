@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
   Tóku gildi 25. júlí 2003. EES-samningurinn: XI. viðauki tilskipun 90/388/EB,
                2002/19/EB, 2002/20/EB, 2002/21/EB og 2002/22/EB.
 
@@ -76,7 +78,7 @@ og póstmála. Skal stofnunin beina tilmælum um breytingar á lögum og regluge
                                     birtar.
 Forstjóra Póst- og fjarskiptastofnunar er heimilt að fela öðrum hæfum aðilum að
  framkvæma einstaka þætti skoðunar sem framkvæmd er með heimild í lögum þessum.
-                                ^1)[2]Rg. 265/2001.
+                                ^1)[4]Rg. 265/2001.
            4. gr. Eftirlit með fjarskiptafyrirtækjum og póstrekendum.
 Póst- og fjarskiptastofnun hefur eftirlit með starfsemi fjarskiptafyrirtækja og
   póstrekenda, þar með talið fjárhagsstöðu þeirra, og skal fylgjast með því að
@@ -228,7 +230,7 @@ Telji Póst- og fjarskiptastofnun nauðsynlegt að taka ákvörðun í einstöku
 fjarskiptafyrirtækjum og póstrekendum, uppfylli þeir ekki skilyrði sem þeim hafa
     verið sett eða aðrar kvaðir sem á þá hafa verið lagðar samkvæmt lögum um
   fjarskipti og lögum um póstþjónustu. Dagsektir nemi 50.000 til 500.000 kr. á
- dag. Eru slíkar sektir aðfararhæfar skv. 5. tölul. 1. mgr. [3]1. gr. laga nr.
+ dag. Eru slíkar sektir aðfararhæfar skv. 5. tölul. 1. mgr. [5]1. gr. laga nr.
 90/1989, um aðför. Málskot til úrskurðarnefndar fjarskipta- og póstmála frestar
                aðför en úrskurðir nefndarinnar eru aðfararhæfir.
                 13. gr. Úrskurðarnefnd fjarskipta- og póstmála.
@@ -251,7 +253,7 @@ en slíkt mál skal höfða innan sex mánaða frá því að viðkomandi fékk 
   Um starfshætti nefndarinnar, málsmeðferð o.fl. skal mælt fyrir í reglugerð.
                             14. gr. Gjaldtaka o.fl.
   Fyrir útgáfu rekstrarleyfa fyrir póstþjónustu greiðist gjald til ríkissjóðs
-            samkvæmt [4]lögum nr. 88/1991, um aukatekjur ríkissjóðs.
+            samkvæmt [6]lögum nr. 88/1991, um aukatekjur ríkissjóðs.
 Við veitingu réttinda fyrir notkun tíðna þar sem takmarka þarf fjölda rétthafa,
 t.d. vegna takmarkaðs tíðnisviðs fyrir viðkomandi þjónustu og úthlutun tíðna fer
   fram eftir birtingu auglýsingar um fyrirhugaða úthlutun eða útboð, eða þegar
@@ -308,7 +310,7 @@ fyrir eftirfarandi þætti: skráningu fyrirtækja, útgáfu leyfisbréfa og sk�
                              fjarskiptamarkaðinum.
                               16. gr. Reglugerðir.
   Samgönguráðherra setur í reglugerð^1) nánari fyrirmæli um framkvæmd laganna.
-                                ^1)[5]Rg. 832/2000.
+                                ^1)[7]Rg. 832/2000.
                               17. gr. Gildistaka.
                      Lög þessi öðlast gildi 25. júlí 2003.
 
@@ -316,7 +318,9 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003069
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/265-2001
-   3. file://1989090.html#g1
-   4. file://1991088.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/832-2000
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=600
+   3. http://www.althingi.is/altext/128/s/0961.html
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/265-2001
+   5. file://1989090.html#g1
+   6. file://1991088.html
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/832-2000

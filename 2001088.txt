@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 15. júní 2001.
 1. gr. Ríkislögreglustjóri skal halda rafræna skrá með upplýsingum um erfðaefni
 einstaklinga og nefnist hún erfðaefnisskrá lögreglu. Tilgangur skrárinnar er að
@@ -87,3 +89,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001088
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=616
+   3. http://www.althingi.is/altext/126/s/0987.html

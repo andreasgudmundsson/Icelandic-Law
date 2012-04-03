@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 30. mars 1999.
                                1. gr. Tilgangur.
   Tilgangur laga þessara er að stuðla að ræktun fjölnytjaskóga og skjólbelta í
@@ -79,17 +81,17 @@ stjórn og skulu enn fremur staðfestir af landbúnaðarráðherra. Þar skal ko
      landshlutaverkefna umsjón skógræktarverkefna þar sem einstaklingum og
               félagasamtökum er veittur stuðningur til skógræktar.
                     11. gr. Reglugerð og almenn lagaákvæði.
-   Að öðru leyti en greinir í [2]lögum þessum fer um ræktun og meðferð skóga
+   Að öðru leyti en greinir í [4]lögum þessum fer um ræktun og meðferð skóga
   landshlutaverkefna samkvæmt ákvæðum laga um skógrækt, nr. 3/1955, með síðari
                                   breytingum.
 Landbúnaðarráðherra setur með reglugerð nánari ákvæði um framkvæmd þessara laga.
                               12. gr. Gildistaka.
                          Lög þessi öðlast þegar gildi.
                             Ákvæði til bráðabirgða.
-      I. Að fjórum árum liðnum skal endurskoða lög þessi ásamt [3]lögum um
+      I. Að fjórum árum liðnum skal endurskoða lög þessi ásamt [5]lögum um
            Héraðsskóga, nr. 32/1991, og Suðurlandsskóga, nr. 93/1997.
-   II. Þar til endurskoðun [4]laga nr. 63/1993, um mat á umhverfisáhrifum, er
-         lokið, sbr. fyrra bráðabirgðaákvæði [5]laga nr. 63/1993, skal
+   II. Þar til endurskoðun [6]laga nr. 63/1993, um mat á umhverfisáhrifum, er
+         lokið, sbr. fyrra bráðabirgðaákvæði [7]laga nr. 63/1993, skal
   landbúnaðarráðherra láta fara fram mat á umhverfisáhrifum landshlutaáætlunar
                    áður en stofnað er til landshlutaverkefna.
 
@@ -97,7 +99,9 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999056
-   2. file://1955003.html
-   3. file://1991032.html
-   4. file://1993063.html
-   5. file://1993063.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=123&mnr=484
+   3. http://www.althingi.is/altext/123/s/0791.html
+   4. file://1955003.html
+   5. file://1991032.html
+   6. file://1993063.html
+   7. file://1993063.html

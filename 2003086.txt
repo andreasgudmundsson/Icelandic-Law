@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
        Tóku gildi 10. apríl 2003 en komu til framkvæmda 1. júlí sama ár.
    1. gr. Íslenskar orkurannsóknir eru sérstök ríkisstofnun sem heyrir undir
                           yfirstjórn iðnaðarráðherra.
@@ -40,3 +42,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003086
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=545
+   3. http://www.althingi.is/altext/128/s/0892.html

@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 7. apríl 1993.
      1. gr. Skálholtsskóli er kirkjuleg menningar- og menntastofnun, í eigu
    þjóðkirkju Íslands og starfar á grunni fornrar skólahefðar í Skálholti og
@@ -35,3 +37,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993022
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=116&mnr=297
+   3. http://www.althingi.is/altext/116/s/0462.html

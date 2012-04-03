@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 1994.
               1. gr. Stofna skal sjóð er nefnist kirkjumálasjóður.
  2. gr. Ríkissjóði ber að skila kirkjumálasjóði árlega af tekjuskatti gjaldi er
@@ -42,3 +44,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993138
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=117&mnr=245
+   3. http://www.althingi.is/altext/117/s/0284.html

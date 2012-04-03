@@ -8,14 +8,16 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 1998.
- 1. gr. Lög þessi taka til afnota bóka í almenningsbókasöfnum, sbr. [2]lög nr.
-50/1976,^1) Landsbókasafni Íslands  Háskólabókasafni, sbr. [3]lög nr. 71/1994,
- skólasöfnum, sbr. [4]lög um grunnskóla, nr. 66/1995, með síðari breytingum, og
-[5]lög um framhaldsskóla, nr. 80/1996, og bókasöfnum í stofnunum sem kostuð eru
+ 1. gr. Lög þessi taka til afnota bóka í almenningsbókasöfnum, sbr. [4]lög nr.
+50/1976,^1) Landsbókasafni Íslands  Háskólabókasafni, sbr. [5]lög nr. 71/1994,
+ skólasöfnum, sbr. [6]lög um grunnskóla, nr. 66/1995, með síðari breytingum, og
+[7]lög um framhaldsskóla, nr. 80/1996, og bókasöfnum í stofnunum sem kostuð eru
                        af ríkissjóði eða sveitarfélögum.
          Lögin taka til bóka á prenti, í hljóðriti og í stafrænu formi.
-                               ^1)Nú [6]l. 36/1997.
+                               ^1)Nú [8]l. 36/1997.
  2. gr. Í fjárlögum ár hvert skal veita framlag til Bókasafnssjóðs höfunda sem
   úthlutað er úr samkvæmt lögum þessum til rithöfunda, þýðenda, myndhöfunda og
 annarra rétthafa, enda séu bækur þeirra notaðar í þeim bókasöfnum sem lögin taka
@@ -66,16 +68,18 @@ Varamenn skulu skipaðir með sama hætti. Ekki skulu tilnefndir í stjórn söm
    Menntamálaráðherra setur í reglugerð^1) nánari ákvæði um úthlutun og aðra
  starfsemi sjóðsins, svo og um skráningarskyldu bókasafna og annarra gagnasafna
                              og skýrslugerð þeirra.
-                                ^1)[7]Rg. 203/1998.
+                                ^1)[9]Rg. 203/1998.
                  7. gr. Lög þessi öðlast gildi 1. janúar 1998.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997033
-   2. file://1976050.html
-   3. file://1994071.html
-   4. file://1995066.html
-   5. file://1996080.html
-   6. file://1997036.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/203-1998
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=330
+   3. http://www.althingi.is/altext/121/s/0601.html
+   4. file://1976050.html
+   5. file://1994071.html
+   6. file://1995066.html
+   7. file://1996080.html
+   8. file://1997036.html
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/203-1998

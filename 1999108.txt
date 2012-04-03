@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 2000.
 
                       I. kafli. Almenn ákvæði um trúfélög.
@@ -141,3 +143,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999108
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=69
+   3. http://www.althingi.is/altext/125/s/0069.html

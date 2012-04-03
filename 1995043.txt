@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 9. mars 1995.
   1. gr. Menntamálaráðherra er heimilt að gera samning við lögaðila, félög eða
   stofnanir um að annast menntun á háskólastigi í listum sem fari fram á vegum
@@ -38,3 +40,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995043
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=118&mnr=277
+   3. http://www.althingi.is/altext/118/s/0334.html

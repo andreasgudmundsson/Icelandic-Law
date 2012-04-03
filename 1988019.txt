@@ -8,7 +8,9 @@
 
    --------------------------------------------------------------------------
 
- Tóku gildi 1. janúar 1989. Breytt með [2]l. 33/1999 (tóku gildi 1. nóv. 1999).
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
+ Tóku gildi 1. janúar 1989. Breytt með [4]l. 33/1999 (tóku gildi 1. nóv. 1999).
 
  1. gr. Lög þessi taka til sjóða og stofnana sem starfa samkvæmt skipulagsskrá
 staðfestri af dómsmálaráðherra samkvæmt lögum þessum eða samkvæmt skipulagsskrá
@@ -19,7 +21,7 @@ Undanskildir lögum þessum eru þó þeir sjóðir og stofnanir sem stofnað er
                               þeirra sé staðfest.
    [Um sjálfseignarstofnanir sem stunda atvinnurekstur fer samkvæmt lögum um
               sjálfseignarstofnanir sem stunda atvinnurekstur.]^1)
-                             ^1)[3]L. 33/1999, 49. gr.
+                             ^1)[5]L. 33/1999, 49. gr.
  2. gr. Stofnfé sjóðs eða stofnunar skal vera 300.000 kr. hið minnsta miðað við
   lánskjaravísitölu þá sem í gildi er við gildistöku laganna og breytist síðan
  árlega í samræmi við þá vísitölu í janúarmánuði. Skal dómsmálaráðherra auglýsa
@@ -82,5 +84,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1988019
-   2. file://1999033.html
-   3. file://1999033.html#g49
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=110&mnr=100
+   3. http://www.althingi.is/altext/110/s/pdf/0104.pdf
+   4. file://1999033.html
+   5. file://1999033.html#g49

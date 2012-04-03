@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 18. júní 2004.
 1. gr. Hlutverk tónlistarsjóðs er að efla íslenska tónlist og stuðla að kynningu
                 á íslenskum tónlistarmönnum og tónsköpun þeirra.
@@ -18,8 +20,9 @@ Alþingi veitir árlega fé í fjárlögum í tónlistarsjóð. Sjóðurinn skip
                                landi og erlendis.
 Menntamálaráðherra úthlutar úr tónlistarsjóði að fengnum tillögum tónlistarráðs,
                                   sbr. 3. gr.
-      Menntamálaráðherra setur nánari reglur um úthlutun styrkveitinga úr
+     Menntamálaráðherra setur nánari reglur^1) um úthlutun styrkveitinga úr
                                 tónlistarsjóði.
+                               ^1)[4]Rgl. 125/2005.
  2. gr. Menntamálaráðherra skipar tónlistarráð til þriggja ára í senn. Í ráðinu
 skulu eiga sæti þrír fulltrúar. Samtónn tilnefnir einn, en tveir eru skipaðir án
 tilnefningar og skal annar þeirra vera formaður ráðsins. Varamenn skulu skipaðir
@@ -39,3 +42,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004076
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=910
+   3. http://www.althingi.is/altext/130/s/1382.html
+   4. http://stjornartidindi.is/servlet/stjrtid/B/2005/125.pdf

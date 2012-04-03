@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 1. júlí 2001.
  1. gr. Með dómtúlki og skjalaþýðanda er í lögum þessum átt við þann sem öðlast
   hefur löggildingu til að annast túlkun fyrir dómi og þýðingu skjala sem hafa
@@ -42,7 +44,7 @@ Að fenginni tillögu prófstjórnar ákveður dómsmálaráðherra gjald sem um
  ber að greiða fyrir að þreyta prófraun. Skal upphæð þess miðuð við kostnað við
     prófraunina. Gjaldið er óendurkræft þótt umsækjandi hverfi frá prófi eða
                                standist það ekki.
-                                ^1)[2]Rg. 893/2001.
+                                ^1)[4]Rg. 893/2001.
  4. gr. Umsókn um löggildingu skal beint til dómsmálaráðherra. Umsækjandi skal
  leggja fram gögn til stuðnings því að hann fullnægi skilyrðum 2. gr. Hann skal
     vinna að því skriflegt heit að viðlögðum drengskap að hann muni rækja af
@@ -76,4 +78,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000148
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/893-2001
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=80
+   3. http://www.althingi.is/altext/126/s/0080.html
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/893-2001

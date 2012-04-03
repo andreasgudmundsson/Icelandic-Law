@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 1. júlí 2004.
 
               I. kafli. Gildissvið, skilgreiningar og yfirstjórn.
@@ -146,7 +148,7 @@ er jarðareiganda skylt að veita leyfi til framkvæmda og samþykkja kaupskyldu
                         16. gr. Greiðsla jarðarafgjalda.
   Ábúandi skal greiða jarðarafgjöld á gjalddaga. Hafi ábúandi ekki gert skil á
  jarðarafgjaldi innan 30 sólarhringa frá gjalddaga er jarðareiganda heimilt að
-krefjast dráttarvaxta samkvæmt [2]lögum nr. 38/2001, um vexti og verðtryggingu.
+krefjast dráttarvaxta samkvæmt [4]lögum nr. 38/2001, um vexti og verðtryggingu.
                           17. gr. Viðhaldsskylda o.fl.
   Ábúanda er skylt að halda við húsum, öðrum mannvirkjum, ræktun og hlunnindum
  þannig að þau rýrni ekki umfram eðlilega fyrningu að mati úttektarmanna, sbr.
@@ -200,7 +202,7 @@ aðgangur að jörðinni og mannvirkjum hennar þegar ábúandi er þar ekki vi�
        Falli ábúandi frá á ábúðartímanum heldur maki hans ábúðarréttinum.
                   26. gr. Réttur til ábúðar við skilnað hjóna.
   Ef hjón, annað eða bæði, hafa ábúðarrétt á jörð og hjúskap þeirra lýkur skal
- fara um ábúðarréttindin í samræmi við ákvæði [3]hjúskaparlaga, nr. 31/1993, ef
+ fara um ábúðarréttindin í samræmi við ákvæði [5]hjúskaparlaga, nr. 31/1993, ef
   hjónin koma sér ekki saman um hvort þeirra skuli hljóta ábúðarréttindin. Það
  hjóna sem aðallega hefur atvinnu sína af landbúnaðarstarfsemi á jörðinni skal
    hafa forgang til áframhaldandi ábúðar á jörðinni án tillits til þess hvort
@@ -376,7 +378,7 @@ nefndarmenn staðfesta matsgerðir með undirritun sinni. Yfirmatsnefnd skal ski
  ábúðarlok. Eftirstöðvar kaupverðsins skal jarðareigandi greiða með skuldabréfi
   til að hámarki tveggja ára. Fjárhæð skuldabréfsins skal verðtryggð samkvæmt
 byggingarvísitölu miðað við grunnvísitölu við ábúðarlok til greiðsludags og bera
-     vexti samkvæmt ákvæðum [4]laga nr. 38/2001, um vexti og verðtryggingu.
+     vexti samkvæmt ákvæðum [6]laga nr. 38/2001, um vexti og verðtryggingu.
             46. gr. Frágangur og skil ábúðarjarðar, mannvirkja o.fl.
    Á umsömdum eða lögbundnum tíma við ábúðarlok skal ábúandi skila ábúðarjörð
 sinni, ásamt öllum mannvirkjum og tilheyrandi fylgifé, í ekki lakara ástandi en
@@ -402,7 +404,7 @@ heimild í þeim varða sektum. Með mál út af brotum skal farið að hætti o
                             Ákvæði til bráðabirgða.
  I. Samningar um ábúð sem gerðir hafa verið fyrir gildistöku þessara laga skulu
        halda gildi sínu. Ef jarðareigandi hefur á grundvelli heimildar í
-á[5]búðarlögum, nr. 64/1976, með síðari breytingum, eða eldri lögum um sama efni
+á[7]búðarlögum, nr. 64/1976, með síðari breytingum, eða eldri lögum um sama efni
  fyrir gildistöku þessara laga tekið ákvörðun um aðra nýtingu jarðar, hlunninda
 eða ítaka sem jörð kann að eiga í öðrum jörðum en lög þessi gera ráð fyrir skulu
   þær ákvarðanir halda gildi sínu eftir gildistöku þessara laga án tillits til
@@ -413,7 +415,7 @@ Sama gildir ef jarðareigandi og ábúandi hafa fyrir gildistöku þessara laga 
                         þessum lögum eftir 1. júlí 2004.
  II. Um kaupskyldu jarðareiganda á ræktun, mannvirkjum og öðrum endurbótum eða
  framkvæmdum fráfarandi ábúanda sem gerðar hafa verið fyrir gildistöku þessara
- laga með heimild í ákvæðum á[6]búðarlaga, nr. 64/1976, með síðari breytingum,
+ laga með heimild í ákvæðum á[8]búðarlaga, nr. 64/1976, með síðari breytingum,
                          fer eftir svohljóðandi reglum:
     a. Nú á fráfarandi ábúandi mannvirki, hlut í mannvirkjum eða umbætur á jörð
  og er því til frambúðar haganlega fyrir komið og nauðsynlegt til búrekstrar á
@@ -436,16 +438,18 @@ Framangreindar reglur gilda aðeins við ábúðarlok þeirra ábúenda sem hafa
                        jörð við gildistöku þessara laga.
  Um mat á eignum og endurbótum fráfarandi ábúanda samkvæmt þessari grein fer að
                     öðru leyti eftir V. kafla þessara laga.
- III. Ábúendur sem hafa öðlast lífstíðarábúð á grundvelli [7]6. gr. ábúðarlaga,
+ III. Ábúendur sem hafa öðlast lífstíðarábúð á grundvelli [9]6. gr. ábúðarlaga,
         nr. 64/1976, með síðari breytingum, skulu halda þeim réttindum.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004080
-   2. file://2001038.html
-   3. file://1993031.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=782
+   3. http://www.althingi.is/altext/130/s/1193.html
    4. file://2001038.html
-   5. file://1976064.html
-   6. file://1976064.html
+   5. file://1993031.html
+   6. file://2001038.html
    7. file://1976064.html
+   8. file://1976064.html
+   9. file://1976064.html

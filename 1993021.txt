@@ -8,8 +8,10 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
  Tóku gildi 7. apríl 1993. EES-samningurinn: XX. viðauki tilskipun 90/313/EBE.
-              Breytt með [2]l. 50/1996 (tóku gildi 1. jan. 1997).
+              Breytt með [4]l. 50/1996 (tóku gildi 1. jan. 1997).
 
   1. gr. Lögum þessum er ætlað að tryggja almenningi aðgang að upplýsingum um
 umhverfismál hjá stjórnvöldum og að þau annist miðlun upplýsinga um umhverfismál
@@ -27,7 +29,7 @@ senda skriflega beiðni til viðkomandi stjórnvalds þar sem greint skal með s
                                   móttökudegi.
       4. gr. [Um aðgang að fyrirliggjandi gögnum um umhverfismál fer eftir
                               upplýsingalögum.]^1)
-                             ^1)[3]L. 50/1996, 25. gr.
+                             ^1)[5]L. 50/1996, 25. gr.
     5. gr. Grundvallarmarkmið laga þessara, sbr. 1. gr., er að tryggja rétt
  almennings til upplýsinga um umhverfismál en þó er heimilt að synja beiðni um
  slíkar upplýsingar, að öllu leyti eða hluta, ef rökstudd ástæða er til að ætla
@@ -45,7 +47,7 @@ Heimilt er að synja beiðni um upplýsingar sem aflað hefur verið fyrir gildi
      6. gr. [Heimilt er að kæra ákvörðun um synjun um að afla og láta í té
 upplýsingar um umhverfismál skv. 7. gr. til ráðherra innan sex vikna frá því að
                         aðila var tilkynnt um hana.]^1)
-                             ^1)[4]L. 50/1996, 25. gr.
+                             ^1)[6]L. 50/1996, 25. gr.
 7. gr. Nú óskar aðili upplýsinga sem ekki eru fyrirliggjandi en talið er rétt að
 afla og láta í té og er þá stjórnvaldi, sem í hlut á, heimilt að taka sanngjarnt
                      og hóflegt gjald fyrir slíka þjónustu.
@@ -67,6 +69,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993021
-   2. file://1996050.html
-   3. file://1996050.html#g25
-   4. file://1996050.html#g25
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=116&mnr=42
+   3. http://www.althingi.is/altext/116/s/0043.html
+   4. file://1996050.html
+   5. file://1996050.html#g25
+   6. file://1996050.html#g25

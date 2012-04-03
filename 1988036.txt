@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 31. maí 1988.
   1. gr. Í hverju sveitarfélagi má setja lögreglusamþykkt. Heimilt er að setja
          lögreglusamþykkt sem gildi fyrir fleiri en eitt sveitarfélag.
@@ -64,3 +66,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1988036
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=110&mnr=276
+   3. http://www.althingi.is/altext/110/s/pdf/0575.pdf

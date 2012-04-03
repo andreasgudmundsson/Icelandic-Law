@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 29. apríl 1997.
  1. gr. Samgönguráðherra skal heimilt að beita sér fyrir stofnun hlutafélags um
             rekstur flugskóla sem nefnast skal Flugskóli Íslands hf.
@@ -68,3 +70,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997017
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=152
+   3. http://www.althingi.is/altext/121/s/0168.html

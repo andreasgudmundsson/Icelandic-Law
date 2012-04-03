@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 1998.
 
                                I. kafli. Lögræði.
@@ -981,9 +983,9 @@ refsivert athæfi í sambandi við gerð samnings eða framkvæmd og skal hann �
                                     86. gr.
                                    Lagaskil.
                                    87. gr. 1.
- 2. Skyldur lögráðamanna, sem skipaðir hafa verið samkvæmt ákvæðum [2]laga nr.
+ 2. Skyldur lögráðamanna, sem skipaðir hafa verið samkvæmt ákvæðum [4]laga nr.
           68/1984 eða eldri laga, eru þær sem greinir í lögum þessum.
-Ákvæði til bráðabirgða. Þeir sem öðlast hafa sjálfræði samkvæmt ákvæðum [3]laga
+Ákvæði til bráðabirgða. Þeir sem öðlast hafa sjálfræði samkvæmt ákvæðum [5]laga
      nr. 68/1984 við gildistöku laga þessara halda sjálfræði sínu. Þeir sem
 ósjálfráða eru fyrir æsku sakir við gildistöku laganna öðlast sjálfræði samkvæmt
                                  ákvæði 1. gr.
@@ -992,5 +994,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997071
-   2. file://1984068.html
-   3. file://1984068.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=410
+   3. http://www.althingi.is/altext/121/s/0707.html
+   4. file://1984068.html
+   5. file://1984068.html

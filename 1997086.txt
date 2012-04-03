@@ -8,10 +8,12 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 1997.
      1. gr. Ríkisendurskoðun starfar á vegum Alþingis. Hún skal endurskoða
      ríkisreikning og reikninga þeirra aðila sem hafa með höndum rekstur og
-fjárvörslu á vegum ríkisins, sbr. [2]43. gr. stjórnarskipunarlaga, nr. 33/1944.
+fjárvörslu á vegum ríkisins, sbr. [4]43. gr. stjórnarskipunarlaga, nr. 33/1944.
   Þá getur hún framkvæmt stjórnsýsluendurskoðun skv. 9. gr. þessara laga. Enn
  fremur skal hún annast eftirlit með framkvæmd fjárlaga og vera þingnefndum til
              aðstoðar við störf er varða fjárhagsmálefni ríkisins.
@@ -113,4 +115,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997086
-   2. file://1944033.html#g43
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=262
+   3. http://www.althingi.is/altext/121/s/0497.html
+   4. file://1944033.html#g43

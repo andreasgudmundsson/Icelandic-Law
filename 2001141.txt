@@ -8,7 +8,11 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
 Tóku gildi 31. desember 2001. EES-samningurinn: XIX. viðauki tilskipun 98/27/EB.
+Breytt með [4]l. 33/2005 (tóku gildi 1. júní 2005; EES-samningurinn: IX. og XIX.
+                         viðauki tilskipun 2002/65/EB).
 
 1. gr. Samkvæmt lögum þessum geta stjórnvöld eða samtök, sem um ræðir í 2. og 3.
    gr., leitað lögbanns eða höfðað dómsmál skv. 4. gr. til að vernda hagsmuni
@@ -44,6 +48,10 @@ og stjórnsýslufyrirmælum aðildarríkjanna varðandi neytendalán (Stjtíð. 
       11. Tilskipun Evrópuþingsins og ráðsins 2000/31/EB frá 8. júní 2000 um
   tiltekna lagalega þætti þjónustu, einkum rafrænna viðskipta, í tengslum við
    upplýsingasamfélagið á innri markaðnum (tilskipun um rafræn viðskipti).
+    [12. Tilskipun Evrópuþingsins og ráðsins 2002/65/EB frá 23. september 2002
+varðandi fjarsölu á fjármálaþjónustu fyrir neytendur og um breytingu á tilskipun
+          ráðsins 90/619/EBE og á tilskipunum 97/7/EB og 98/27/EB.]^1)
+                             ^1)[5]L. 33/2005, 24. gr.
   2. gr. Erlend stjórnvöld, sem getið er á skrá Eftirlitsstofnunar EFTA vegna
  ákvæða í tilskipun 98/27/EB, geta að fullnægðum ákvæðum 1. gr. leitað lögbanns
  eða höfðað dómsmál hér á landi skv. 4. gr. Sama á við um samtök sem þannig eru
@@ -82,3 +90,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001141
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=150
+   3. http://www.althingi.is/altext/127/s/0150.html
+   4. file://2005033.html
+   5. file://2005033.html#g24

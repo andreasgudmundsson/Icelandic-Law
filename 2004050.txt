@@ -8,7 +8,9 @@
 
    --------------------------------------------------------------------------
 
-          Tóku gildi 14. júní 2004, komu til framkvæmda 1. júlí 2004.
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
+          Tóku gildi 14. júní 2004; komu til framkvæmda 1. júlí 2004.
 
                             I. kafli. Almenn ákvæði.
                        1. gr. Stjórn siglingaverndarmála.
@@ -97,7 +99,7 @@ liggi fyrir verndaráætlun með nákvæmum leiðbeiningum um viðbrögð við y
   Höfn sem rekur hafnaraðstöðu sem fellur undir lög þessi ber ábyrgð á því að
   lögboðnum ráðstöfunum um hafnavernd sé fullnægt og að í verndaráætlun liggi
           fyrir nákvæmar leiðbeiningar um viðbrögð við yfirvofandi vá.
-                               ^1)[2]Rgl. 529/2004.
+                               ^1)[4]Rgl. 529/2004.
 
                              II. kafli. Skipavernd.
 5. gr. Útgerðarfélög skulu útbúa áhættumat og verndaráætlun fyrir hvert íslenskt
@@ -149,7 +151,7 @@ hafnaryfirvalda á starfsfólki og farþegum skemmtiferðaskipa og í farangri �
  Tollstjórinn í Reykjavík setur reglur um leit í farmi sem tollstjórar annast.
   Hægt er að synja þeim mönnum sem neita öryggisleit samkvæmt þessari grein um
             aðgang að hafnaraðstöðu og skipi sem lög þessi ná yfir.
-                               ^1)[3]Rgl. 550/2004.
+                               ^1)[5]Rgl. 550/2004.
                                  9. gr. Gjöld.
  Siglingastofnun Íslands er heimilt að innheimta gjöld til að standa straum af
 kostnaði sem til fellur samkvæmt lögum þessum, þ.m.t. gjöld fyrir staðfestingar,
@@ -217,5 +219,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004050
-   2. http://stjornartidindi.is/servlet/stjrtid/B/2004/529.pdf
-   3. http://stjornartidindi.is/servlet/stjrtid/B/2004/550.pdf
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=569
+   3. http://www.althingi.is/altext/130/s/0859.html
+   4. http://stjornartidindi.is/servlet/stjrtid/B/2004/529.pdf
+   5. http://stjornartidindi.is/servlet/stjrtid/B/2004/550.pdf

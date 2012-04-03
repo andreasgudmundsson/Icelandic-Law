@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 31. maí 2002.
 
                I. kafli. Tilgangur, skilgreiningar og yfirstjórn.
@@ -47,7 +49,7 @@ Verði umráðahafi lands var við landbrot eða telji hættu á landbroti yfirv
                         6. gr. Samráð um fyrirhleðslur.
   Landgræðsla ríkisins skal hafa samráð við eiganda/umráðahafa mannvirkja eða
   lands sem fyrirhleðslu er ætlað að verja. Ef framkvæmd kann að hafa áhrif á
-veiði eða fiskrækt skal tilkynna það stjórn viðkomandi veiðifélags, sbr. [2]lög
+veiði eða fiskrækt skal tilkynna það stjórn viðkomandi veiðifélags, sbr. [4]lög
                      nr. 76/1970, um lax- og silungsveiði.
 Vilji landeigandi eða veiðifélag gera athugasemd við fyrirhugaða framkvæmd skal
    hún vera skrifleg og berast Landgræðslu ríkisins innan fjögurra vikna frá
@@ -93,7 +95,7 @@ Ef framkvæmdir við fyrirhleðslur valda bótaskyldu tjóni skal greiða skaða
  Landbúnaðarráðherra getur í reglugerð sett nánari ákvæði um framkvæmd laganna.
                         11. gr. Ágreiningsmál og kærur.
   Ef ágreiningur rís um framkvæmd þessara laga sker landbúnaðarráðherra úr. Sú
-         málsmeðferð fer eftir ákvæðum [3]stjórnsýslulaga, nr. 37/1993.
+         málsmeðferð fer eftir ákvæðum [5]stjórnsýslulaga, nr. 37/1993.
                             12. gr. Gildistaka o.fl.
                          Lög þessi öðlast þegar gildi.
 
@@ -101,5 +103,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002091
-   2. file://1970076.html
-   3. file://1993037.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=504
+   3. http://www.althingi.is/altext/127/s/0796.html
+   4. file://1970076.html
+   5. file://1993037.html

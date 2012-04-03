@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
      Tóku gildi 8. október 2004. EES-samningurinn: XVIII. viðauki tilskipun
                                   2001/86/EB.
 
@@ -40,7 +42,7 @@ samninganefnd fulltrúa starfsmanna og fulltrúar þeirra fyrirtækja sem standa
                     og reglugerð ráðsins (EB) nr. 2157/2001.
         b. Þátttökufélag: Félag sem á beinan þátt í að stofna Evrópufélag.
     c. Dótturfélag: Fyrirtæki sem félag hefur ráðandi aðstöðu gagnvart samkvæmt
-   skilgreiningu í [2]5. gr. laga um evrópsk samstarfsráð í fyrirtækjum, nr.
+   skilgreiningu í [4]5. gr. laga um evrópsk samstarfsráð í fyrirtækjum, nr.
                                     61/1999.
       d. Hlutaðeigandi dótturfélag eða starfsstöð: Dótturfélag eða starfsstöð
       þátttökufélags sem fyrirhugað er að verði dótturfélag eða starfsstöð
@@ -411,7 +413,7 @@ samninganefndinni eða fulltrúanefndinni, aðra fundi er falla undir samkomulag
   Evrópufélaginu eða dótturfélögum þess eða starfsstöðvum, fyrir þann tíma sem
                         þeir þurfa að vera fjarverandi.
   Fulltrúar starfsmanna sem starfa samkvæmt málsmeðferð um upplýsingamiðlun og
-samráð skulu njóta sams konar réttarverndar og trúnaðarmenn samkvæmt [3]lögum um
+samráð skulu njóta sams konar réttarverndar og trúnaðarmenn samkvæmt [5]lögum um
          stéttarfélög og vinnudeilur, nr. 80/1938, eftir því sem við á.
                              19. gr. Þagnarskylda.
  Fulltrúum í sérstöku samninganefndinni eða fulltrúanefndinni og sérfræðingum,
@@ -464,7 +466,7 @@ málshöfðunar hafa allir sem taldir eru upp í 18. gr., hlutaðeigandi stétta
                                      laga.
                     25. gr. Tengsl við ákvæði annarra laga.
  Þegar Evrópufélag er fyrirtæki sem starfar á Evrópska efnahagssvæðinu, eða er
- ráðandi fyrirtæki fyrirtækjahóps er þar starfar, í skilningi [4]5. gr. laga um
+ ráðandi fyrirtæki fyrirtækjahóps er þar starfar, í skilningi [6]5. gr. laga um
  evrópsk samstarfsráð í fyrirtækjum, nr. 61/1999, skulu ákvæði þeirra laga ekki
    gilda um Evrópufélagið eða dótturfélög þess nema sérstaka samninganefndin
        ákveði, í samræmi við 1. mgr. 10. gr. þessara laga, að hefja ekki
@@ -491,6 +493,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004027
-   2. file://1999061.html#g5
-   3. file://1938080.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=402
+   3. http://www.althingi.is/altext/130/s/0540.html
    4. file://1999061.html#g5
+   5. file://1938080.html
+   6. file://1999061.html#g5

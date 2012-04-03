@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 18. júní 2004.
     1. gr. Þegar Norðurlandasamningur um almannatryggingar, sem gerður var í
 Karlskrona 18. ágúst 2003 og prentaður er sem fylgiskjal með lögum þessum, hefur
@@ -237,3 +239,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004066
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=948
+   3. http://www.althingi.is/altext/130/s/1442.html

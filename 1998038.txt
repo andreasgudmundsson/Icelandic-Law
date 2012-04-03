@@ -8,10 +8,12 @@
 
    --------------------------------------------------------------------------
 
- Tóku gildi 11. maí 1998. Breytt með [2]l. 36/2000 (tóku gildi 26. maí 2000) og
-                   [3]l. 159/2000 (tóku gildi 29. des. 2000).
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-   1. gr. Ákvæði [4]5. gr. laga nr. 151 27. desember 1996, um fiskveiðar utan
+ Tóku gildi 11. maí 1998. Breytt með [4]l. 36/2000 (tóku gildi 26. maí 2000) og
+                   [5]l. 159/2000 (tóku gildi 29. des. 2000).
+
+   1. gr. Ákvæði [6]5. gr. laga nr. 151 27. desember 1996, um fiskveiðar utan
     lögsögu Íslands, gilda ekki um úthlutun veiðiheimilda úr norsk-íslenska
                                 síldarstofninum.
 2. gr. Á árunum 1998, 1999, [2000 og 2001]^1) skulu eftirfarandi reglur gilda um
@@ -37,10 +39,10 @@ reglum fyrri málsliðar b-liðar. Tilkynna skal Fiskistofu fyrir fram um flutni
   lögsögu annarra. Þá getur ráðherra ákveðið að endurúthluta skuli afla eftir
    tiltekinn tíma sýnist það nauðsynlegt til að fullnýta leyfðan heildarafla
                                 íslenskra skipa.
-    e. Að öðru leyti gilda á þessu tímabili ákvæði [5]laga nr. 151 27. desember
+    e. Að öðru leyti gilda á þessu tímabili ákvæði [7]laga nr. 151 27. desember
      1996, um fiskveiðar utan lögsögu Íslands, um veiðar úr norsk-íslenska
                   síldarstofninum eftir því sem við getur átt.
-                ^1)[6]L. 159/2000, 1. gr. ^2)[7]L. 36/2000, 1. gr.
+                ^1)[8]L. 159/2000, 1. gr. ^2)[9]L. 36/2000, 1. gr.
    3. gr. Sjávarútvegsráðherra skal fyrir 1. nóvember árið 2000 leggja fyrir
  Alþingi frumvarp um stjórn veiða úr norsk-íslenska síldarstofninum eftir árið
                                      2000.
@@ -50,9 +52,11 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998038
-   2. file:///altext/stjt/2000.036.html
-   3. file:///altext/stjt/2000.159.html
-   4. file://1996151.html#g5
-   5. file://1996151.html
-   6. file:///altext/stjt/2000.159.html
-   7. file:///altext/stjt/2000.036.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=642
+   3. http://www.althingi.is/altext/122/s/1105.html
+   4. file:///altext/stjt/2000.036.html
+   5. file:///altext/stjt/2000.159.html
+   6. file://1996151.html#g5
+   7. file://1996151.html
+   8. file:///altext/stjt/2000.159.html
+   9. file:///altext/stjt/2000.036.html

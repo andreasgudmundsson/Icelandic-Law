@@ -8,8 +8,10 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
 Tóku gildi 1. júní 2000. EES-samningurinn: XIX. viðauki tilskipun 85/577/EBE og
-                                    97/7/EB.
+          97/7/EB. Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005).
 
                     I. kafli. Gildissvið og skilgreiningar.
                                1. gr. Gildissvið.
@@ -200,7 +202,8 @@ skuli gilda lög í ríki sem er utan Evrópska efnahagssvæðisins skal slíkum
    ekki beitt um samninga sem lög þessi taka til nema neytandinn njóti betri
                              verndar samkvæmt þeim.
                                17. gr. Eftirlit.
-  Samkeppnisstofnun hefur eftirlit með viðskiptaháttum samkvæmt lögum þessum.
+  [Neytendastofa]^1) hefur eftirlit með viðskiptaháttum samkvæmt lögum þessum.
+                             ^1)[5]L. 62/2005, 13. gr.
  18. gr. Nýti neytandi sér rétt til að falla frá samningi er lög þessi taka til
  skal um réttaráhrif þess fara eftir lögum um lausafjárkaup, einkum með tilliti
   til endurgreiðslu vöru eða þjónustu sem látin var í té og skila á móttekinni
@@ -225,3 +228,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000046
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=421
+   3. http://www.althingi.is/altext/125/s/0684.html
+   4. file://2005062.html
+   5. file://2005062.html#g13

@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
     Tóku gildi 30. desember 2003. EES-samningurinn: XVIII. viðauki tilskipun
                                   1999/70/EB.
 
@@ -20,7 +22,7 @@
 eru liðir í þjálfunar-, aðlögunar- eða endurmenntunaráætlunum er njóta stuðnings
                                 opinberra aðila,
         c. starfsmenn sem framleigufyrirtæki útvega öðrum fyrirtækjum, eða
-     d. embættismenn, sbr. [2]22. gr. laga nr. 70/1996, um réttindi og skyldur
+     d. embættismenn, sbr. [4]22. gr. laga nr. 70/1996, um réttindi og skyldur
                              starfsmanna ríkisins.
                                 2. gr. Markmið.
     Markmið laga þessara er að bæta tímabundnar ráðningar með því að tryggja
@@ -99,4 +101,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003139
-   2. file://1996070.html#g22
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=410
+   3. http://www.althingi.is/altext/130/s/0558.html
+   4. file://1996070.html#g22

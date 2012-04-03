@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 11. júlí 2000.
 
                I. kafli. Ættleiðingar og lagaskilyrði fyrir þeim.
@@ -114,7 +116,8 @@ Leita skal umsagnar barnaverndarnefnda varðandi umsókn um leyfi til ættleiði
   barnaverndarnefndar sem ráðstafað hefur barni í fóstur ef því er að skipta.
       Enn fremur má leita umsagnar ættleiðingarnefndar til viðbótar umsögn
              barnaverndarnefndar ef ástæða þykir til, sbr. 17. gr.
-  Dómsmálaráðuneytið skal setja reglugerð um gerð umsagna barnaverndarnefnda.
+ Dómsmálaráðuneytið skal setja reglugerð^1) um gerð umsagna barnaverndarnefnda.
+                                ^1)[4]Rg. 238/2005.
                            17. gr. Ættleiðingarnefnd.
  Dómsmálaráðherra skal skipa nefnd sem veitir umsagnir í ættleiðingarmálum sem
 ráðuneytið leggur fyrir hana. Ráðherra getur falið nefndinni fleiri verkefni og
@@ -213,7 +216,8 @@ dómsmálaráðuneytis. Umsókn skal rituð á eyðublað sem dómsmálaráðune
   Dómsmálaráðherra getur mælt fyrir um að með umsókn skv. 1. mgr., eða áður en
  forsamþykki er gefið út, skuli umsækjendur leggja fram staðfestingu á að þeir
  hafi sótt námskeið um ættleiðingar erlendra barna. Ráðherra getur sett nánari
-               reglur um inntak þess, skipulagningu og gjaldtöku.
+             reglur^1) um inntak þess, skipulagningu og gjaldtöku.
+                                ^1)[5]Rg. 238/2005.
                  31. gr. Umsögn varðandi umsókn um forsamþykki.
 Leita skal umsagnar barnaverndarnefndar varðandi umsókn um forsamþykki í umdæmi
                             þar sem umsækjendur búa.
@@ -257,7 +261,7 @@ Starfsemi er varðar ættleiðingar erlendra barna skal ávallt hafa að leiðar
 það sem telja verður að sé barni til gagns og má ekki verða neinum fjárhagslega
                    eða á annan hátt til óhæfilegs ávinnings.
                Brot gegn ákvæðum þessarar greinar varðar sektum.
-                               ^1)[2]Rg. 1010/2003.
+                                ^1)[6]Rg. 238/2005.
 
                         VII. kafli. Lögsögureglur o.fl.
                       36. gr. Lögsaga í ættleiðingarmálum.
@@ -292,12 +296,12 @@ Dómsmálaráðherra getur ákveðið að víkja megi frá einstökum ákvæðum
                            41. gr. Stjórnvaldsreglur.
      Dómsmálaráðherra getur sett nánari ákvæði um framkvæmd laga þessara í
                                  reglugerð.^1)
-                               ^1)[3]Rg. 1010/2003.
+                                ^1)[7]Rg. 238/2005.
                      42. gr. Gildistaka og brottfallin lög.
      Lög þessi taka gildi þegar sex mánuðir eru liðnir frá birtingu þeirra.
                                43. gr. Lagaskil.
        Úr ættleiðingarumsóknum og umsóknum um forsamþykki sem borist hafa
- dómsmálaráðuneytinu fyrir gildistöku laga þessara skal leysa samkvæmt [4]lögum
+ dómsmálaráðuneytinu fyrir gildistöku laga þessara skal leysa samkvæmt [8]lögum
   nr. 15/1978. Ef umsækjendur óska þess er þó heimilt að beita reglum þessara
                                      laga.
 
@@ -305,6 +309,10 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999130
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1010-2003
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1010-2003
-   4. file://1978015.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=68
+   3. http://www.althingi.is/altext/125/s/0068.html
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2005
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2005
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2005
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2005
+   8. file://1978015.html

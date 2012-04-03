@@ -8,7 +8,9 @@
 
    --------------------------------------------------------------------------
 
-  Tóku gildi 1. júlí 1997. Breytt með [2]l. 77/2000 (tóku gildi 1. jan. 2001).
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
+  Tóku gildi 1. júlí 1997. Breytt með [4]l. 77/2000 (tóku gildi 1. jan. 2001).
 
                               I. kafli. Inngangur.
                                     Markmið.
@@ -151,8 +153,9 @@ sjúklings eða umboðsmanns vegna meðferðar. Heimilt er að taka gjald fyrir 
                     sjúkraskrárinnar til frekari afgreiðslu.
        Landlæknir skal innan átta vikna ákveða hvort viðkomandi fái afrit
 sjúkraskrárinnar. Synjun landlæknis má skjóta til úrskurðar heilbrigðisráðherra.
-Ráðherra setur nánari reglur um afhendingu og varðveislu sjúkraskráa, að fengum
-                  tillögum landlæknis og Læknafélags Íslands.
+  Ráðherra setur nánari reglur^1) um afhendingu og varðveislu sjúkraskráa, að
+               fengum tillögum landlæknis og Læknafélags Íslands.
+                       ^1)[5]Rg. 227/1991, sbr. [6]545/1995.
 15. gr. Þess skal gætt við aðgang að sjúkraskrám að þær hafa að geyma viðkvæmar
    persónuupplýsingar og að upplýsingar í þeim eru trúnaðarmál, sbr. 12. gr.
      Sjúkraskrár skulu geymdar á tryggum stað og þess gætt að einungis þeir
@@ -164,7 +167,7 @@ persónuupplýsinga að veita aðgang að upplýsingum úr sjúkraskrám, þar m
           leyfi þeim skilyrðum sem metin eru nauðsynleg hverju sinni.
  Í hvert sinn sem sjúkraskrá er skoðuð vegna vísindarannsóknar skal það skráð í
                        hana og ákvæða 1. og 2. mgr. gætt.
-                             ^1)[3]L. 77/2000, 46. gr.
+                             ^1)[7]L. 77/2000, 46. gr.
                    Athugasemdir við upplýsingar í sjúkraskrá.
 16. gr. Nú telur sjúklingur eða umboðsmaður hans að upplýsingar í sjúkraskrá séu
        rangar eða villandi og skulu þá athugasemdir hans lagðar í skrána.
@@ -258,7 +261,7 @@ Sjúk börn á skólaskyldualdri skulu fá kennslu sem hæfir aldri þeirra og �
  28. gr. Athugasemdum sjúklings vegna þjónustu á heilbrigðisstofnun skal beint
                      til yfirstjórnar viðkomandi stofnunar.
     Vilji sjúklingur kvarta yfir meðferð getur hann beint kvörtun sinni til
-     landlæknis eða nefndar um ágreiningsmál skv. 5. mgr. [4]3. gr. laga um
+     landlæknis eða nefndar um ágreiningsmál skv. 5. mgr. [8]3. gr. laga um
                        heilbrigðisþjónustu, nr. 97/1990.
 Starfsmönnum heilbrigðisstofnunar er skylt að leiðbeina sjúklingi eða vandamanni
 sem vill koma á framfæri athugasemd eða bera fram kvörtun. Enn fremur er stjórn
@@ -273,7 +276,7 @@ Sjúklingur skal fá skrifleg svör við athugasemdum sínum og kvörtunum eins 
 heilbrigðissviði. Þar skulu m.a. vera ákvæði um vísindasiðanefnd og siðanefndir
 skv. 4. mgr. 2. gr. Þá er ráðherra heimilt að setja reglugerð um framkvæmd laga
                                     þessara.
-                                ^1)[5]Rg. 552/1999.
+                                ^1)[9]Rg. 552/1999.
                                   Gildistaka.
                   30. gr. Lög þessi öðlast gildi 1. júlí 1997.
 
@@ -281,7 +284,11 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997074
-   2. file://2000077.html
-   3. file://2000077.html#g46
-   4. file://1990097.html#g3
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/552-1999
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=260
+   3. http://www.althingi.is/altext/121/s/0492.html
+   4. file://2000077.html
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/227-1991
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/545-1995
+   7. file://2000077.html#g46
+   8. file://1990097.html#g3
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/552-1999

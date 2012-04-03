@@ -8,8 +8,10 @@
 
    --------------------------------------------------------------------------
 
-Tóku gildi 18. mars 1963. Breytt með [2]l. 75/1982 (tóku gildi 10. júní 1982) og
-                    [3]l. 82/1998 (tóku gildi 1. okt. 1998).
+                        [2]Ferill málsins á Alþingi.
+
+Tóku gildi 18. mars 1963. Breytt með [3]l. 75/1982 (tóku gildi 10. júní 1982) og
+                    [4]l. 82/1998 (tóku gildi 1. okt. 1998).
 
 1. gr. Ráðherrar bera ábyrgð á stjórnarframkvæmdum öllum eftir því sem fyrir er
                       mælt í stjórnarskrá og lögum þessum.
@@ -29,8 +31,8 @@ vegna þeirrar embættisathafnar forseta, að hann hafi ráðið til hennar, át
  ábyrgð vegna þeirrar vanrækslu á ráðherra þeim, sem málefnið heyrir undir. Enn
    fremur hvílir ábyrgð á hverjum þeim ráðherra, sem stuðlað hefur að þeirri
                                    vanrækslu.
-5. gr. Sé um að ræða embættisathöfn í ríkisráði eða á ráðherrafundi, sbr. [4]16.
-   og [5]17. gr. stjórnarskrárinnar, bera allir viðstaddir ráðherrar, sem með
+5. gr. Sé um að ræða embættisathöfn í ríkisráði eða á ráðherrafundi, sbr. [5]16.
+   og [6]17. gr. stjórnarskrárinnar, bera allir viðstaddir ráðherrar, sem með
 ráðum, fortölum, atkvæði eða á annan hátt hafa stuðlað að þeirri athöfn, ábyrgð
                                     á henni.
 6. gr. Hver ráðherra ber ábyrgð á stjórnarerindum þeim, sem út eru gefin í hans
@@ -79,11 +81,11 @@ nokkuð það, er afstýrt gat slíkri hættu, eða veldur því, að slík fram
  Hafi ráðherra jafnframt brotið gegn hinum almennu hegningarlögum, skal hegning
    sú, sem hann hefur til unnið, tiltekin í einu lagi samkvæmt reglum 77. gr.
                             almennra hegningarlaga.
-                ^1)[6]L. 75/1982, 2. gr. ^2)[7]L. 82/1998, 157. gr.
+                ^1)[7]L. 75/1982, 2. gr. ^2)[8]L. 82/1998, 157. gr.
   12. gr. Sektir samkvæmt lögum þessum renna í ríkissjóð. Sé sekt eigi greidd,
     kemur [fangelsi]^1) í hennar stað og skal ákveða í dóminum, eftir öllum
                      málavöxtum, hve langt það skuli vera.
-                            ^1)[8]L. 82/1998, 157. gr.
+                            ^1)[9]L. 82/1998, 157. gr.
  13. gr. Hafi ráðherra bakað almenningi eða einstaklingi fjártjón með framkvæmd
    eða vanrækslu, sem refsiverð er eftir lögum þessum, skal og þegar þess er
     krafist, jafnframt hegningunni dæma hann til að greiða skaðabætur, en um
@@ -95,7 +97,7 @@ nokkuð það, er afstýrt gat slíkri hættu, eða veldur því, að slík fram
  málshöfðunina. Sök fyrnist þó aldrei fyrr en 6 mánuðir eru liðnir frá því, að
     næstu reglulegu alþingiskosningar, eftir að brot var framið, fóru fram.
      Nú samþykkir Alþingi, áður en málshöfðunarfrestur er liðinn, að kjósa
- rannsóknarnefnd samkvæmt [9]39. gr. stjórnarskrárinnar til athugunar á störfum
+rannsóknarnefnd samkvæmt [10]39. gr. stjórnarskrárinnar til athugunar á störfum
 ráðherra, og getur Alþingi þá jafnan samþykkt málshöfðun innan árs frá kosningu
                                rannsóknarnefndar.
 
@@ -103,11 +105,12 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1963004
-   2. file:///altext/stjtnr.html#1982075
-   3. file:///altext/stjt/1998.082.html
-   4. file://1944033.html#g16
-   5. file://1944033.html#g17
-   6. file:///altext/stjtnr.html#1982075?g2
-   7. file:///altext/stjt/1998.082.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=83&mnr=4
+   3. file:///altext/stjtnr.html#1982075
+   4. file:///altext/stjt/1998.082.html
+   5. file://1944033.html#g16
+   6. file://1944033.html#g17
+   7. file:///altext/stjtnr.html#1982075?g2
    8. file:///altext/stjt/1998.082.html
-   9. file://1944033.html#g39
+   9. file:///altext/stjt/1998.082.html
+  10. file://1944033.html#g39

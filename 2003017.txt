@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 1. júlí 2003.
 
                        I. kafli. Markmið og stjórnsýsla.
@@ -55,7 +57,7 @@ Einstaklingar með eigin atvinnurekstur eða sjálfstæða starfsemi skulu auðk
             í fyrirtækjaskrá með kennitölu þeirra samkvæmt þjóðskrá.
 Við nýskráningu í fyrirtækjaskrá ásamt útgáfu á kennitölu skal ríkisskattstjóri
      taka skráningargjald samkvæmt reglugerð^1) sem fjármálaráðherra setur.
-                                ^1)[2]Rg. 474/2003.
+                                ^1)[4]Rg. 474/2003.
        7. gr. Þeim sem skráðir eru í fyrirtækjaskrá er skylt að tilkynna
  ríkisskattstjóra allar breytingar er varða skráningu skv. 1.8. tölul. 4. gr.
 Opinberir aðilar skulu og láta ríkisskattstjóra í té upplýsingar sem þeir kunna
@@ -95,4 +97,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003017
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/474-2003
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=351
+   3. http://www.althingi.is/altext/128/s/0388.html
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/474-2003

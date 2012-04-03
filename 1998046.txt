@@ -8,17 +8,19 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 1999.
    1. gr. Verja skal 1% af heildarbyggingarkostnaði opinberrar byggingar til
                   listskreytingar hennar og umhverfis hennar.
  Opinberar byggingar merkja í lögum þessum allar þær byggingar sem ríkissjóður
-fjármagnar að nokkru eða öllu leyti, sbr. [2]lög um skipan opinberra framkvæmda,
+fjármagnar að nokkru eða öllu leyti, sbr. [4]lög um skipan opinberra framkvæmda,
    nr. 63/1970. Undanþegnar eru þó byggingar sem reistar eru til bráðabirgða,
 byggingar sem standa fjarri alfaraleið, skemmur og aðrar sambærilegar byggingar.
  Ákvæði 1. mgr. gilda einnig um byggingar sem reistar eru á vegum ríkisstofnana
 sem hafa sjálfstæðan fjárhag og eru því ekki háðar beinni fjárveitingarákvörðun
                        Alþingis um byggingarframkvæmdir.
-  2. gr. Í greinargerð með frumathugun og áætlanagerð skv. 3. gr. og [3]6. gr.
+  2. gr. Í greinargerð með frumathugun og áætlanagerð skv. 3. gr. og [5]6. gr.
  laga um skipan opinberra framkvæmda, nr. 63/1970, skal auk annarra atriða sem
    þar eru tilgreind gera grein fyrir áætlun um kostnað vegna listskreytinga.
 Við ákvarðanir um mannvirki sem lög þessi taka til skulu arkitekt mannvirkisins
@@ -60,5 +62,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998046
-   2. file://1970063.html
-   3. file://1970063.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=446
+   3. http://www.althingi.is/altext/122/s/0773.html
+   4. file://1970063.html
+   5. file://1970063.html

@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
        Tóku gildi 10. apríl 2003 en komu til framkvæmda 1. júlí sama ár.
      1. gr. Orkustofnun er sérstök ríkisstofnun sem heyrir undir yfirstjórn
                                 iðnaðarráðherra.
@@ -60,7 +62,7 @@ lánveitingar og greiðslur úr Orkusjóði. Um starfssvið orkuráðs skal nán
         gjalddaga. Orkustofnun skal leggja fram rökstudda greinargerð um
  endurgreiðslukröfu í hverju tilviki. Rísi ágreiningur um greiðsluna skal hann
    lagður í gerð þriggja manna að kröfu annars aðila eða beggja á grundvelli
- [2]laga nr. 53/1989, um samningsbundna gerðardóma. Endurgreiðslu skal að fullu
+ [4]laga nr. 53/1989, um samningsbundna gerðardóma. Endurgreiðslu skal að fullu
  lokið eigi síðar en sjö árum eftir að leyfi hefur verið gefið út. Endurgreiddu
  fé skal varið til að fjármagna rannsóknir á orkulindum landsins sem gerðar eru
                   skv. 2. tölul. 1. mgr. 2. gr. laga þessara.
@@ -90,10 +92,10 @@ Heimilt er að semja við aðila, sem hafa leyfi til fjárvörslu lögum samkvæ
    undirbúning úthlutunar, lánveitingar, þ.m.t. um vexti og önnur útlánakjör,
  greiðslur, eftirlit með framkvæmdum sem Orkusjóður veitir fé til og heimildir
                 til að fella niður endurgreiðsluskyldu lántaka.
-                                ^1)[3]Rg. 514/2003.
+                                ^1)[5]Rg. 514/2003.
 9. gr. Ráðherra getur í reglugerð^1) mælt nánar fyrir um starfsemi Orkustofnunar
                            og framkvæmd laga þessara.
-                                ^1)[4]Rg. 308/2004.
+                                ^1)[6]Rg. 308/2004.
    10. gr. Lög þessi öðlast þegar gildi en koma til framkvæmda 1. júlí 2003.
   Ákvæði til bráðabirgða. Iðnaðarráðherra ákveður í samráði við Orkustofnun og
  Íslenskar orkurannsóknir hvaða eignir og skuldir Orkustofnunar skuli tilheyra
@@ -104,6 +106,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003087
-   2. file://1989053.html
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/514-2003
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/308-2004
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=544
+   3. http://www.althingi.is/altext/128/s/0891.html
+   4. file://1989053.html
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/514-2003
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/308-2004

@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                             Tóku gildi 1. júlí 1996.
  1. gr. Til að auðvelda einstaklingi, sem á í verulegum fjárhagsörðugleikum, að
 leita nauðasamnings er ríkinu heimilt að veita réttaraðstoð eftir því sem nánar
@@ -46,3 +48,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996065
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=120&mnr=376
+   3. http://www.althingi.is/altext/120/s/0664.html

@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                            Tóku gildi 1. janúar 1999.
 1. gr. Tilgangur byggingarsamvinnufélaga er að reisa íbúðarhús fyrir félagsmenn
 sína til eigin afnota á sem hagkvæmastan hátt ásamt öðrum byggingum sem teljast
@@ -15,7 +17,7 @@ sína til eigin afnota á sem hagkvæmastan hátt ásamt öðrum byggingum sem t
   félagsmanna sinna. Tilgangur byggingarsamvinnufélags getur enn fremur verið
                                  eftirfarandi:
           a. Að eiga aðild að fyrirtækjum með takmarkaðri ábyrgð, svo sem
-     samvinnusamböndum samkvæmt [2]lögum nr. 22/1991, um samvinnufélög, og
+     samvinnusamböndum samkvæmt [4]lögum nr. 22/1991, um samvinnufélög, og
  hlutafélögum, enda starfi hlutaðeigandi fyrirtæki á sviði byggingariðnaðar eða
 að öðrum verkefnum sem mikilvæg verða að teljast fyrir byggingarsamvinnufélagið.
         b. Að útvega lán til byggingarframkvæmda þeirra sem félagið annast.
@@ -23,7 +25,7 @@ að öðrum verkefnum sem mikilvæg verða að teljast fyrir byggingarsamvinnuf�
 byggingarsamvinnufélag í nafni sínu og jafnframt er öðrum félögum óheimilt að
                                 bera slík heiti.
        2. gr. Um félagsstofnun, skrásetningu, félagsstjórn og félagsslit
-byggingarsamvinnufélags fer, eftir því sem við getur átt, eftir ákvæðum [3]laga
+byggingarsamvinnufélags fer, eftir því sem við getur átt, eftir ákvæðum [5]laga
      nr. 22/1991, um samvinnufélög, sjá þó 2. og 3. mgr. þessarar greinar.
   Lágmarksfjöldi stofnenda sé 10 manns, en í sveitarfélögum með yfir 15 þúsund
   íbúum skal lágmarksfjöldi stofnenda vera 50 manns. Óheimilt er að skrásetja
@@ -143,5 +145,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998153
-   2. file://1991022.html
-   3. file://1991022.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=123&mnr=332
+   3. http://www.althingi.is/altext/123/s/0414.html
+   4. file://1991022.html
+   5. file://1991022.html

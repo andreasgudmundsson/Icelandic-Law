@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
 Tóku gildi 30. mars 1999. EES-samningurinn: XVIII. viðauki tilskipun 75/129/EBE
  og 77/187/EBE, XXII. viðauki tilskipun 78/660/EBE og XVIII. viðauki tilskipun
                                    94/45/EB.
@@ -344,7 +346,7 @@ samstarfsráðinu og framkvæmdanefndinni, fulltrúa starfsmanna skv. 15. gr. og
  Fulltrúar í samningaráðinu, samstarfsráðinu eða fulltrúar starfsmanna skv. 15.
  gr. skulu hvorki sæta uppsögn né skerðingu á kjörum sínum vegna starfa sinna.
    Skulu fulltrúar starfsmanna njóta sams konar réttarverndar og trúnaðarmenn
-         samkvæmt [2]lögum um stéttarfélög og vinnudeilur, nr. 80/1938.
+         samkvæmt [4]lögum um stéttarfélög og vinnudeilur, nr. 80/1938.
 Fulltrúum starfsmanna skal tryggður réttur með samningi við vinnuveitanda til að
  taka sér frí frá störfum svo að þeir geti á eðlilegan hátt sinnt skyldum sínum
              við gerð og framkvæmd samninga samkvæmt lögum þessum.
@@ -381,4 +383,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999061
-   2. file://1938080.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=123&mnr=184
+   3. http://www.althingi.is/altext/123/s/0200.html
+   4. file://1938080.html

@@ -8,6 +8,8 @@
 
    --------------------------------------------------------------------------
 
+              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+
                           Tóku gildi 7. febrúar 2003.
 
                                I. kafli. Markmið.
@@ -29,7 +31,7 @@ styrki samkvæmt almennum áherslum Vísinda- og tækniráðs og á grundvelli f
   tækjum og búnaði til rannsókna. Við úthlutun úr Tækjasjóði skal taka mið af
                 úthlutunarstefnu Rannsóknasjóðs á hverjum tíma.
   Rannsóknasjóður tekur við hlutverki Vísindasjóðs og Tæknisjóðs sem nú starfa
- samkvæmt [2]lögum um Rannsóknarráð Íslands, nr. 61/1994, en Tækjasjóður tekur
+ samkvæmt [4]lögum um Rannsóknarráð Íslands, nr. 61/1994, en Tækjasjóður tekur
       við hlutverki Bygginga- og tækjasjóðs samkvæmt sömu lögum. Eignir og
 skuldbindingar Vísindasjóðs og Tæknisjóðs falla til Rannsóknasjóðs en eignir og
           skuldbindingar Bygginga- og tækjasjóðs falla til Tækjasjóðs.
@@ -87,7 +89,7 @@ Menntamálaráðherra skipar þriggja manna stjórn sjóðsins til þriggja ára
    af ráðherra án tilnefningar og skal hann jafnframt vera formaður stjórnar
                   sjóðsins. Varamenn eru skipaðir á sama hátt.
        Ákvarðanir stjórnar Rannsóknarnámssjóðs sæta ekki stjórnsýslukæru.
-                                ^1)[3]Rg. 974/2000.
+                                ^1)[5]Rg. 974/2000.
                        7. gr. Tekjur Rannsóknarnámssjóðs.
      Tekjur Rannsóknarnámssjóðs eru framlög í fjárlögum ár hvert og framlög
        samstarfsaðila um rannsóknartengt framhaldsnám. Heimilt er stjórn
@@ -147,18 +149,18 @@ starfsmanna stofnunarinnar. Menntamálaráðherra setur forstöðumanni erindisb
                                     13. gr.
       Ákvæði til bráðabirgða. Þrátt fyrir ákvæði 12. gr. laga þessara skal
                               eftirfarandi gilda:
-   Þeir sem þegið hafa styrk samkvæmt [4]lögum nr. 61/1994, um Rannsóknarráð
+   Þeir sem þegið hafa styrk samkvæmt [6]lögum nr. 61/1994, um Rannsóknarráð
   Íslands, halda óbreyttum réttindum og skyldum samkvæmt þeim styrkveitingum.
-Rannsóknarráð Íslands samkvæmt [5]lögum nr. 61/1994 skal annast úthlutun styrkja
+Rannsóknarráð Íslands samkvæmt [7]lögum nr. 61/1994 skal annast úthlutun styrkja
    úr sjóðum í vörslu ráðsins á árinu 2003 og jafnframt vinna að undirbúningi
 tillagna um úthlutunarreglur skv. 8. gr. laga þessara um styrkveitingar á árinu
  2004, þó eigi lengur en til 30. mars 2003. Skipað skal í stjórn Rannsóknasjóðs
                samkvæmt lögum þessum eigi síðar en 1. apríl 2003.
-   Núverandi stjórn Rannsóknarnámssjóðs sem skipuð var samkvæmt [6]lögum nr.
+   Núverandi stjórn Rannsóknarnámssjóðs sem skipuð var samkvæmt [8]lögum nr.
  61/1994 skal halda umboði sínu og starfa í samræmi við ákvæði laga þessara út
                              skipunartímabil sitt.
 Samningar við þá sem ráðnir hafa verið í tímabundnar stöður rannsóknarprófessora
-  samkvæmt [7]lögum nr. 61/1994 halda gildi sínu í samræmi við ákvæði þeirra.
+  samkvæmt [9]lögum nr. 61/1994 halda gildi sínu í samræmi við ákvæði þeirra.
         Starfsmenn á skrifstofu Rannsóknarráðs Íslands verða starfsmenn
   Rannsóknamiðstöðvar Íslands. Embætti framkvæmdastjóra Rannsóknarráðs Íslands
     skal lagt niður frá og með upphafsdegi skipunar í embætti forstöðumanns
@@ -169,9 +171,11 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003003
-   2. file://1994061.html
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/974-2000
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=357
+   3. http://www.althingi.is/altext/128/s/0394.html
    4. file://1994061.html
-   5. file://1994061.html
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/974-2000
    6. file://1994061.html
    7. file://1994061.html
+   8. file://1994061.html
+   9. file://1994061.html
