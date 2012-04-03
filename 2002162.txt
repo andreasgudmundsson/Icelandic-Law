@@ -7,7 +7,9 @@
 
    --------------------------------------------------------------------------
 
- Tóku gildi 1. janúar 2003. Breytt með [2]l. 8/2003 (tóku gildi 12. mars 2003).
+Tóku gildi 1. janúar 2003. EES-samningurinn: II. viðauki tilskipun 94/62/EB, XX.
+viðauki tilskipun 1999/31/EBE og 2000/53/EB. Breytt með [2]l. 8/2003 (tóku gildi
+          12. mars 2003) og [3]l. 144/2003 (tóku gildi 1. jan. 2004).
 
                       I. kafli. Markmið og skilgreiningar.
                                 1. gr. Markmið.
@@ -62,15 +64,21 @@ tekjum hvers uppgjörsflokks eingöngu varið til að mæta gjöldum þess flokk
                         5. gr. Úrvinnslugjald á ökutæki.
     Skráður eigandi gjaldskylds ökutækis skal á hverju gjaldtímabili greiða
  úrvinnslugjald að fjárhæð 520 kr. fyrir hvert gjaldskylt ökutæki sitt skv. 2.
-mgr. [3]1. gr. laga nr. 39/1988, um bifreiðagjald. Gjalddagar úrvinnslugjalds á
+mgr. [4]1. gr. laga nr. 39/1988, um bifreiðagjald. Gjalddagar úrvinnslugjalds á
 ökutæki eru 1. janúar ár hvert vegna gjaldtímabilsins 1. janúar  30. júní og 1.
    júlí ár hvert vegna gjaldtímabilsins 1. júlí  31. desember. Gjaldið skal
    innheimt með bifreiðagjaldi og fer um greiðsluskyldu, gjalddaga, eindaga,
  álagningu, innheimtu gjaldsins og kæruheimild samkvæmt lögum um bifreiðagjald.
  Bifreiðar sem eru undanþegnar bifreiðagjaldi skv. 4. gr. laga um bifreiðagjald
-  eru gjaldskyldar samkvæmt lögum þessum. Gjaldskylda fellur niður frá og með
-    upphafi fyrsta gjaldtímabils eftir að full 15 ár eru liðin frá skráningu
-                             ökutækis hér á landi.
+ eru gjaldskyldar samkvæmt lögum þessum. [Gjaldtímabil vegna bifreiða samkvæmt
+     málsgrein þessari er 1. janúar  31. desember og skal skráður eigandi
+ gjaldskylds ökutækis á gjaldtímabilinu greiða úrvinnslugjald að fjárhæð 1.040
+ kr. fyrir hvert gjaldskylt ökutæki sitt. Gjalddagi úrvinnslugjalds á bifreiðar
+ samkvæmt málsgrein þessari er 1. júlí ár hvert. Um innheimtu gjaldsins að öðru
+                            leyti gildir 1. mgr.]^1)
+[Gjaldskylda fellur niður frá og með upphafi fyrsta gjaldtímabils eftir að full
+            15 ár eru liðin frá skráningu ökutækis hér á landi.]^1)
+                             ^1)[5]L. 144/2003, 1. gr.
                           6. gr. Skilagjald á ökutæki.
 Greiða skal skilagjald, 10.000 kr., hverjum þeim sem afhendir gjaldskylt ökutæki
     til móttökustöðvar til endurnýtingar eða endanlegrar förgunar, enda hafi
@@ -101,6 +109,7 @@ virðisaukaskatti á hverja umbúðaeiningu, sbr. viðauka III, við móttöku �
                          8. Varnarefni: sbr. viðauka XIV.
                           9. Kælimiðlar: sbr. viðauka XV.
                          10. Hjólbarðar: sbr. viðauka XVI.
+               [11. Veiðarfæri úr gerviefnum: sbr. viðauka XVII.]^1)
   Við flokkun til gjaldskyldu samkvæmt lögum þessum skal fylgt flokkunarreglum
                                    tollalaga.
 Fyrirtækjum og atvinnugreinum er heimilt að semja sín á milli um ráðstafanir til
@@ -108,6 +117,7 @@ að tryggja úrvinnslu úrgangs vegna svartolíu, enda þjóni það markmiðum 
   Svartolía er þá undanþegin gjaldtöku samkvæmt lögum þessum, enda hafi stjórn
    Úrvinnslusjóðs staðfest samninginn, sbr. 3. mgr. 17. gr., og tilkynnt það
                                   tollstjóra.
+                             ^1)[6]L. 144/2003, 2. gr.
 
  III. kafli. Gjaldskyldir aðilar, álagning gjalds, uppgjörstímabil, gjalddagar,
            skýrslur, álag, dráttarvextir, kæruheimild og kærufrestur.
@@ -131,7 +141,7 @@ Gjaldskyldan tekur til allra framleiðenda og innflytjenda, svo sem einstaklinga
     Breytingar sem verða á starfsemi eftir að skráning hefur farið fram skal
       tilkynna skattstjóra eigi síðar en 15 dögum eftir að breyting varð.
   Að svo miklu leyti sem ekki er á annan veg kveðið á um í lögum þessum skulu
-  ákvæði [4]laga nr. 97/1987, um vörugjald, eiga við um álagningu, innheimtu,
+  ákvæði [7]laga nr. 97/1987, um vörugjald, eiga við um álagningu, innheimtu,
  tilkynningarskyldu, kærur, eftirlit og aðra framkvæmd gjaldtöku samkvæmt lögum
                                     þessum.
                             10. gr. Álagning gjalds.
@@ -172,7 +182,7 @@ gjalddaga hvers uppgjörstímabils skila skýrslu í því formi sem ríkisskatt
     skal áætla gjald af viðskiptum þeirra aðila sem skila ekki skýrslu innan
 tilskilins tíma, senda enga skýrslu eða ef skýrslu eða fylgigögnum er ábótavant.
  Skattstjóri skal tilkynna innheimtumanni og gjaldskyldum aðila um áætlanir og
- leiðréttingar sem gerðar hafa verið. Um málsmeðferð fer eftir ákvæðum [5]laga
+ leiðréttingar sem gerðar hafa verið. Um málsmeðferð fer eftir ákvæðum [8]laga
                         nr. 50/1988, um virðisaukaskatt.
 Sé gjald ekki greitt á tilskildum tíma skal gjaldskyldur aðili, sbr. 1. mgr. 9.
   gr., sæta álagi til viðbótar því gjaldi sem honum ber að standa skil á. Sama
@@ -183,7 +193,7 @@ svarar eða gefið fyrir lok kærufrests fullnægjandi skýringu á vafaatriðum
                         gjalddaga, þó ekki hærra en 10%.
      Sé gjald ekki greitt innan mánaðar frá gjalddaga skal gjaldandi greiða
  dráttarvexti af því sem gjaldfallið er. Um ákvörðun og útreikning dráttarvaxta
-           fer eftir [6]lögum um vexti og verðtryggingu, nr. 38/2001.
+           fer eftir [9]lögum um vexti og verðtryggingu, nr. 38/2001.
                       13. gr. Kæruheimild og kærufrestur.
 Heimilt er að kæra álagningu gjalds innan 30 daga frá gjalddaga gjaldsins. Kæru
    skal beint til þess tollstjóra eða þess skattstjóra sem annaðist álagningu
@@ -194,10 +204,10 @@ rökstuddan úrskurð um kæruna og tilkynna hana í ábyrgðarbréfi innan 30 d
                                lokum kærufrests.
  Gjaldskyldur aðili og tollstjórinn í Reykjavík geta skotið úrskurði tollstjóra
      skv. 1. mgr. til ríkistollanefndar sem kveður upp fullnaðarúrskurð. Um
-kærufresti og málsmeðferð fer eftir ákvæðum [7]101. gr. tollalaga, nr. 55/1987.
+kærufresti og málsmeðferð fer eftir ákvæðum [10]101. gr. tollalaga, nr. 55/1987.
 Gjaldskyldur aðili og ríkisskattstjóri geta skotið úrskurði skattstjóra skv. 1.
   mgr. til yfirskattanefndar sem kveður upp fullnaðarúrskurð. Um kærufresti og
-     málsmeðferð fer eftir ákvæðum [8]laga nr. 30/1992, um yfirskattanefnd.
+    málsmeðferð fer eftir ákvæðum [11]laga nr. 30/1992, um yfirskattanefnd.
 
                           IV. kafli. Úrvinnslusjóður.
                                14. gr. Framkvæmd.
@@ -269,14 +279,14 @@ gæta þess að sjóðurinn hafi nægilegt laust fé til ráðstöfunar til að 
 
                              V. kafli. Ýmis ákvæði.
                                20. gr. Viðurlög.
- Um viðurlög skulu gilda, eftir því sem við getur átt, ákvæði [9]tollalaga, nr.
-  55/1987, um innfluttar vörur og [10]laga um virðisaukaskatt, nr. 50/1988, um
+Um viðurlög skulu gilda, eftir því sem við getur átt, ákvæði [12]tollalaga, nr.
+  55/1987, um innfluttar vörur og [13]laga um virðisaukaskatt, nr. 50/1988, um
                           innlendar framleiðsluvörur.
                          21. gr. Reglugerðarheimildir.
         Umhverfisráðherra setur reglugerð^1) um framkvæmd laga þessara.
 Ráðherra skal að fengnum tillögum Úrvinnslusjóðs setja reglugerð um nauðsynlegan
       frágang úrgangs í hverjum uppgjörsflokki við móttöku í móttökustöð.
-                               ^1)[11]Rg. 227/2003.
+                               ^1)[14]Rg. 501/2003.
                               22. gr. Gildistaka.
                   Lög þessi skulu öðlast gildi 1. janúar 2003.
  Þrátt fyrir ákvæði 1. mgr. skal móttaka á flokkuðum úrgangi, sem til er kominn
@@ -289,34 +299,39 @@ vegna vara sem bera úrvinnslugjald, hefjast 1. apríl 2003 vegna vöru sem fell
         I. Úrvinnslusjóður skal taka við öllum sjóðum og skuldbindingum
        spilliefnanefndar sem stofnast hafa fyrir gildistöku laga þessara.
     II. Ákvæði 7. gr. og 1. tölul. 8. gr., sbr. viðauka III, skulu koma til
-framkvæmda 1. janúar 2008. Frá sama tíma falla úr gildi [12]lög nr. 52/1989, um
+framkvæmda 1. janúar 2008. Frá sama tíma falla úr gildi [15]lög nr. 52/1989, um
  ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir drykkjarvörur,
                              með síðari breytingum.
  Úrvinnslusjóði er þó heimilt að undirbúa samning við Endurvinnsluna hf. um að
             ákvæði 1. mgr. komi til framkvæmda fyrir 1. janúar 2008.
- III. Leggja skal úrvinnslugjald á pappírs-, pappa- og plastumbúðir, veiðarfæri
-               úr gerviefnum og heyrúlluplast frá 1. janúar 2004.
+III. [Leggja skal úrvinnslugjald á veiðarfæri úr gerviefnum og pappírs-, pappa-
+                    og plastumbúðir frá 1. janúar 2005.]^1)
+                            ^1)[16]L. 144/2003, 3. gr.
     [IV. Ákvæði 1. málsl. 2. mgr. 5. gr. laganna koma til framkvæmda 1. júlí
                                    2003.]^1)
-                             ^1)[13]L. 8/2003, 1. gr.
+                             ^1)[17]L. 8/2003, 1. gr.
 
-                               Viðaukar IXVI.^1)
+                              Viðaukar IXVII.^1)
      ^1)Um texta viðauka þessara vísast til Stjtíð. A 2002, bls. 514535, sbr.
-                            Stjtíð. A 2003, bls. 15.
+                    Stjtíð. A 2003, bls. 15 og bls. 584587.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002162
    2. file:///altext/stjt/2003.008.html
-   3. file://1988039.html#g1
-   4. file://1987097.html
-   5. file://1988050.html
-   6. file://2001038.html
-   7. file://1987055.html#g101
-   8. file://1992030.html
-   9. file://1987055.html
-  10. file://1988050.html
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/227-2003
-  12. file://1989052.html
-  13. file:///altext/stjt/2003.008.html
+   3. file:///altext/stjt/2003.144.html
+   4. file://1988039.html#g1
+   5. file:///altext/stjt/2003.144.html
+   6. file:///altext/stjt/2003.144.html
+   7. file://1987097.html
+   8. file://1988050.html
+   9. file://2001038.html
+  10. file://1987055.html#g101
+  11. file://1992030.html
+  12. file://1987055.html
+  13. file://1988050.html
+  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-2003
+  15. file://1989052.html
+  16. file:///altext/stjt/2003.144.html
+  17. file:///altext/stjt/2003.008.html

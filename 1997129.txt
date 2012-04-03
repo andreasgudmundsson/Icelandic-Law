@@ -479,9 +479,9 @@ lífeyrissjóðs skal einnig hafa með höndum almennt eftirlit með rekstri, b�
    [5. að setja verklagsreglur um verðbréfaviðskipti lífeyrissjóðsins, stjórnar
            hans og starfsmanna. Verklagsreglurnar skulu staðfestar af
                             Fjármálaeftirlitinu],^2)
-    [6.] ^2) að ákveða hver skuli vera fulltrúi af hálfu lífeyrissjóðs í stjórn
+    [6. ]^2) að ákveða hver skuli vera fulltrúi af hálfu lífeyrissjóðs í stjórn
           stofnunar eða atvinnufyrirtækis, nema lög kveði á um annað,
-     [7.] ^2) að láta tryggingafræðilega athugun fara fram á fjárhag sjóðsins,
+     [7. ]^2) að láta tryggingafræðilega athugun fara fram á fjárhag sjóðsins,
                                   sbr. 24. gr.
                ^1)[24]L. 56/2000, 4. gr. ^2)[25]L. 11/2000, 18. gr.
   30. gr. Fyrir lok júní hvert ár skal stjórn lífeyrissjóðs boða til ársfundar
@@ -587,7 +587,7 @@ mismunandi forsendur. Í auglýsingum og annarri kynningarstarfsemi lífeyrissj�
   skírteinunum skal skipt á aðra töluliði þessarar málsgreinar með tilliti til
                             takmarkana í 2.6. mgr.
                               8. Í öðrum verðbréfum.
-          [9.] ^1) Með gerð afleiðusamninga sem draga úr áhættu sjóðsins.
+          [9. ]^1) Með gerð afleiðusamninga sem draga úr áhættu sjóðsins.
 Verðbréf skv. 1., 2. og 5.8. tölul. 1. mgr. skulu hafa skráð kaup- og sölugengi
        á skipulegum markaði. Með skipulegum markaði er átt við skipulegan
  verðbréfamarkað innan aðildarríkja Efnahags- og framfarastofnunarinnar (OECD)
@@ -691,7 +691,7 @@ um uppsetningu ársreiknings, innihald einstakra liða efnahagsreiknings, yfirli
     er eftir. Jafnframt skal fylgja úttekt á ávöxtun eignasafna síðasta árs.
       Fjármálaeftirlitið skal setja nánari reglur um form og efni þessara
                                  skýrslna.]^3)
-    ^1)[40]L. 84/1998, 7. gr. ^2)[41]Rgl. 55/2000, sbr. [42]765/2002. ^3)[43]L.
+   ^1)[40]L. 84/1998, 7. gr. ^2)Rgl. 55/2000, sbr. [41]rgl. 765/2002. ^3)[42]L.
                                 56/2000, 10. gr.
 41. gr. Í skýrslu stjórnar skal koma fram yfirlit um starfsemi sjóðsins á árinu,
    svo og upplýsingar um atriði er mikilvæg eru við mat á fjárhagslegri stöðu
@@ -723,14 +723,14 @@ fjármuna eða önnur atriði sem veikt geta fjárhagsstöðu lífeyrissjóðsin
     endurskoðenda og aðra hlutaðeigandi aðila, að á hverjum tíma liggi fyrir
   skilgreining á góðri endurskoðunarvenju við endurskoðun hjá lífeyrissjóðum.
      [Fjármálaeftirlitið]^1) setur reglur^2) um endurskoðun lífeyrissjóða.
-                  ^1)[44]L. 84/1998, 7. gr. ^2)[45]Rgl. 685/2001.
+                  ^1)[43]L. 84/1998, 7. gr. ^2)[44]Rgl. 685/2001.
      43. gr. Senda skal [Fjármálaeftirlitinu]^1) endurskoðaðan ársreikning
  lífeyrissjóðs ásamt skýrslu stjórnar þegar eftir undirritun hans og eigi síðar
   en fjórum mánuðum eftir lok reikningsárs. Meginniðurstöður ársreiknings skal
    birta opinberlega og í samræmdu formi sem [Fjármálaeftirlitið]^1) ákveður.
       Slíkar meginniðurstöður skulu liggja frammi í starfsstöð viðkomandi
               lífeyrissjóðs og vera aðgengilegar fyrir sjóðfélaga.
-                             ^1)[46]L. 84/1998, 7. gr.
+                             ^1)[45]L. 84/1998, 7. gr.
 
                               IX. kafli. Eftirlit.
 44. gr. [Fjármálaeftirlitið]^1) hefur eftirlit með að starfsemi lífeyrissjóða sé
@@ -755,12 +755,12 @@ laga þessara, reglugerðum og reglum settum samkvæmt þeim, staðfestum samþy
      dótturfyrirtækjum eða hlutdeildarfyrirtækjum lífeyrissjóða, enda telji
  Fjármálaeftirlitið upplýsingarnar nauðsynlegar í eftirliti sínu með viðkomandi
                                lífeyrissjóði.]^2)
-               ^1)[47]L. 84/1998, 7. gr. ^2)[48]L. 11/2000, 19. gr.
+               ^1)[46]L. 84/1998, 7. gr. ^2)[47]L. 11/2000, 19. gr.
  45. gr. [Um eftirlit Fjármálaeftirlitsins gilda, eftir því sem við getur átt,
   lög um opinbert eftirlit með fjármálastarfsemi. Heimilt er að beita ákvæðum
     þeirra laga um dagsektir, stjórnvaldssektir og leit og hald á gögnum við
              upplýsingaöflun og eftirlit samkvæmt þessum lögum.]^1)
-                            ^1)[49]L. 11/2000, 20. gr.
+                            ^1)[48]L. 11/2000, 20. gr.
 
                    X. kafli. Umsjónaraðili, slit og samruni.
  46. gr. Fullnægi lífeyrissjóður ekki lengur skilyrði laga þessara til þess að
@@ -774,7 +774,7 @@ ekki sinnt er ráðherra heimilt að skipa lífeyrissjóði umsjónaraðila um t
   umsjónaraðili starfar. Tekur umsjónaraðili við réttindum og skyldum þessara
 aðila eftir því sem nánar er kveðið á um í erindisbréfi hans sem ráðherra gefur
   út. Kostnaður við starf umsjónaraðila greiðist af viðkomandi lífeyrissjóði.
-                             ^1)[50]L. 84/1998, 7. gr.
+                             ^1)[49]L. 84/1998, 7. gr.
       47. gr. Skipun umsjónaraðila skal rökstudd og tilkynnt hlutaðeigandi
     lífeyrissjóði skriflega. Jafnframt skal birta tilkynningu um skipunina í
                  Lögbirtingablaði og auglýsa hana í fjölmiðlum.
@@ -804,7 +804,7 @@ flutning og ákvörðun lífeyrisréttinda skal þess gætt að hver og einn sj�
    beggja sjóðanna verði ekki fyrir réttindaskerðingu vegna sameiningarinnar.
  Ráðherra getur með reglugerð kveðið nánar á um hvernig lífeyrisréttindi skulu
                             metin í þessu sambandi.
-                             ^1)[51]L. 84/1998, 7. gr.
+                             ^1)[50]L. 84/1998, 7. gr.
 49. gr. Stjórn sjóðs eða sá aðili sem samkvæmt samþykktum sjóðs hefur ákveðið að
  honum skuli slitið skal þegar í stað tilnefna þriggja manna skilanefnd er taki
   við störfum stjórnar og framkvæmdastjóra sjóðsins, enda hafi skilanefnd ekki
@@ -828,7 +828,7 @@ gr., V. kafla og X. kafla. Jafnframt eru þeir undanþegnir ákvæðum 3. gr. og
                 3. mgr. 14. gr. skal þó gilda fyrir þessa sjóði.
 51. gr. [Lífeyrissjóðir sem njóta bakábyrgðar ríkis, sveitarfélaga og banka eru
                   undanþegnir ákvæðum 21., 23. og 39. gr.]^1)
-                            ^1)[52]L. 56/2000, 11. gr.
+                            ^1)[51]L. 56/2000, 11. gr.
   52. gr. Lífeyrissjóðir, sem hyggjast halda áfram að taka við iðgjöldum eftir
      gildistöku laga þessara, skulu innan eins árs frá gildistökunni senda
    fjármálaráðuneytinu umsókn um starfsleyfi. Umsókn skulu fylgja samþykktir
@@ -857,9 +857,9 @@ vinnuveitenda gera með sér, enda fari slík breyting hvorki í bága við III.
     um breytingar. Breytingar á réttindaákvæðum skulu koma fram í staðfestum
    samþykktum fyrir viðkomandi sjóði. Að öðru leyti skulu lög þessi gilda um
               hlutaðeigandi sjóði eftir því sem við getur átt.]^2)
-               ^1)[53]L. 84/1998, 7. gr. ^2)[54]L. 56/2000, 12. gr.
+               ^1)[52]L. 84/1998, 7. gr. ^2)[53]L. 56/2000, 12. gr.
  54. gr. Lífeyrissjóði, sem starfar í samræmi við staðfesta reglugerð samkvæmt
- [55]lögum nr. 55/1980 og nýtur bakábyrgðar ríkis, sveitarfélags eða [banka eða
+ [54]lögum nr. 55/1980 og nýtur bakábyrgðar ríkis, sveitarfélags eða [banka eða
 naut slíkrar ábyrgðar 31. desember 1997, er heimilt að starfa áfram á óbreyttum
    iðgjalda- og]^1) réttindagrundvelli fyrir þá sem eiga aðild að sjóðnum við
  gildistöku laga þessara. [Lífeyrissjóðum með bakábyrgð ríkis eða sveitarfélaga
@@ -880,7 +880,7 @@ laga þessara. Um starfsleyfi fyrir slíka deild skal sótt innan sömu tímamar
  aðild að lífeyrissjóði er þessi grein tekur til kost á aðild að réttindakerfi
  eða öðrum lífeyrissjóði sem uppfyllir skilyrði laga þessara, [enda hafi slíkt
                val ekki farið fram fyrir gildistöku laganna].^1)
-               ^1)[56]L. 148/1998, 4. gr. ^2)[57]L. 141/2002, 1. gr.
+               ^1)[55]L. 148/1998, 4. gr. ^2)[56]L. 141/2002, 1. gr.
 
                             XII. kafli. Ýmis ákvæði.
 55. gr. Brot gegn lögum þessum varða sektum eða fangelsi allt að einu ári, nema
@@ -889,9 +889,9 @@ lögaðila er heimilt að beita stjórnendur lögaðilans framangreindum viðurl
                   einnig er heimilt að gera lögaðilanum sekt.
  56. gr. Fjármálaráðherra fer með framkvæmd laga þessara og er honum heimilt að
               kveða nánar á um framkvæmd þeirra með reglugerð.^1)
-   ^1)[58]Rg. 391/1998, sbr. [59]742/1998, [60]224/2001 og [61]293/2003; [62]rg.
-698/1998, sbr. [63]9/1999; [64]rg. 589/2000, [65]rg. 590/2000, [66]rg. 830/2000,
-             [67]rg. 882/2001, [68]rg. 523/2002, [69]rg. 357/2003.
+   ^1)[57]Rg. 391/1998, sbr. [58]742/1998, [59]224/2001 og [60]293/2003; [61]rg.
+698/1998, sbr. [62]9/1999; [63]rg. 589/2000, [64]rg. 590/2000, [65]rg. 830/2000,
+             [66]rg. 882/2001, [67]rg. 523/2002, [68]rg. 357/2003.
  57. gr. Kostnaður við birtingu tilkynninga samkvæmt lögum þessum skal greiddur
                           af viðkomandi lífeyrissjóði.
                   58. gr. Lög þessi öðlast gildi 1. júlí 1998.
@@ -909,18 +909,18 @@ valmöguleika í samsetningu lífeyrisréttinda sinna, sbr. 4. gr., enda er þa�
  lágmörkum skv. 4. gr. skal fjármálaráðherra láta, í samráði við hagsmunaaðila,
   undirbúa frumvarp um breytingu á lögum þessum þannig að þetta markmið þeirra
                                      náist.
- [III. Þrátt fyrir ákvæði [70]36. gr. er lífeyrissjóðum sem starfandi voru við
+ [III. Þrátt fyrir ákvæði [69]36. gr. er lífeyrissjóðum sem starfandi voru við
 gildistöku laga nr. 129/1997 ekki skylt að selja eignir í því skyni að fullnægja
                 þeim takmörkunum sem kveðið er á um í greininni.
  Lífeyrissjóðum sem keypt hafa óskráð bréf á grundvelli 9. tölul. 1. mgr. og 3.
-mgr. [71]36. gr. laga nr. 129/1997 er ekki skylt að selja óskráð bréf sem keypt
+mgr. [70]36. gr. laga nr. 129/1997 er ekki skylt að selja óskráð bréf sem keypt
                       voru fyrir gildistöku þessara laga.
-     Skuldabréf skv. 3. mgr. [72]33. gr. laga nr. 1/1997 sem Lífeyrissjóður
+     Skuldabréf skv. 3. mgr. [71]33. gr. laga nr. 1/1997 sem Lífeyrissjóður
    starfsmanna ríkisins hefur tekið við, svo og skuldabréf sem Lífeyrissjóður
  starfsmanna Reykjavíkurborgar hefur tekið við, vegna uppgreiðslu skuldbindinga
- fyrir gildistöku [73]laga nr. 129/1997 eru undanþegin takmörkunum 2. mgr. 36.
+ fyrir gildistöku [72]laga nr. 129/1997 eru undanþegin takmörkunum 2. mgr. 36.
                                     gr.]^1)
-                            ^1)[74]L. 56/2000, brbákv.
+                            ^1)[73]L. 56/2000, brbákv.
 
 References
 
@@ -956,46 +956,45 @@ References
   29. file:///altext/stjt/2000.056.html
   30. file:///altext/stjt/1998.084.html
   31. file:///altext/stjt/1998.084.html
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/687-2001
+  32. http://stjornartidindi.is/servlet/stjrtid/B/2001/687.pdf
   33. file:///altext/stjt/2000.056.html
   34. file:///altext/stjt/2002.065.html
   35. file:///altext/stjt/1998.084.html
-  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/966-2001
+  36. http://stjornartidindi.is/servlet/stjrtid/B/2001/966.pdf
   37. file:///altext/stjt/2000.056.html
   38. file:///altext/stjt/2000.056.html
   39. file:///altext/stjt/1998.084.html
   40. file:///altext/stjt/1998.084.html
-  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/055-2000
-  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/765-2002
-  43. file:///altext/stjt/2000.056.html
-  44. file:///altext/stjt/1998.084.html
-  45. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/685-2001
+  41. http://stjornartidindi.is/servlet/stjrtid/B/2002/765.pdf
+  42. file:///altext/stjt/2000.056.html
+  43. file:///altext/stjt/1998.084.html
+  44. http://stjornartidindi.is/servlet/stjrtid/B/2001/685.pdf
+  45. file:///altext/stjt/1998.084.html
   46. file:///altext/stjt/1998.084.html
-  47. file:///altext/stjt/1998.084.html
+  47. file:///altext/stjt/2000.011.html
   48. file:///altext/stjt/2000.011.html
-  49. file:///altext/stjt/2000.011.html
+  49. file:///altext/stjt/1998.084.html
   50. file:///altext/stjt/1998.084.html
-  51. file:///altext/stjt/1998.084.html
-  52. file:///altext/stjt/2000.056.html
-  53. file:///altext/stjt/1998.084.html
-  54. file:///altext/stjt/2000.056.html
-  55. file://1980055.html
-  56. file:///altext/stjt/1998.148.html
-  57. file:///altext/stjt/2002.141.html
-  58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-1998
-  59. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/742-1998
-  60. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/224-2001
-  61. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/293-2003
-  62. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/698-1998
-  63. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/009-1999
-  64. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/589-2000
-  65. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2000
-  66. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/830-2000
-  67. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/882-2001
-  68. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/523-2002
-  69. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/357-2003
+  51. file:///altext/stjt/2000.056.html
+  52. file:///altext/stjt/1998.084.html
+  53. file:///altext/stjt/2000.056.html
+  54. file://1980055.html
+  55. file:///altext/stjt/1998.148.html
+  56. file:///altext/stjt/2002.141.html
+  57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-1998
+  58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/742-1998
+  59. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/224-2001
+  60. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/293-2003
+  61. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/698-1998
+  62. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/009-1999
+  63. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/589-2000
+  64. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2000
+  65. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/830-2000
+  66. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/882-2001
+  67. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/523-2002
+  68. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/357-2003
+  69. file://1997129.html#g36
   70. file://1997129.html#g36
-  71. file://1997129.html#g36
-  72. file://1997001.html#g33
-  73. file://1997129.html
-  74. file:///altext/stjt/2000.056.html
+  71. file://1997001.html#g33
+  72. file://1997129.html
+  73. file:///altext/stjt/2000.056.html

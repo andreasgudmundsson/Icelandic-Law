@@ -13,7 +13,7 @@
  jan. 1989), [7]l. 31/1990 (tóku gildi 1. júlí 1992), [8]l. 92/1991 (tóku gildi
   1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), [9]l. 71/1996 (tóku
 gildi 19. júní 1996), [10]l. 62/2000 (tóku gildi 26. maí 2000) og [11]l. 76/2003
-                           (taka gildi 1. nóv. 2003).
+                           (tóku gildi 1. nóv. 2003).
 
  1. gr. Setja skal á stofn Innheimtustofnun sveitarfélaga. Stofnunin skal vera
  sameign allra sveitarfélaga landsins. Lögheimili Innheimtustofnunarinnar er í
@@ -125,13 +125,13 @@ Innheimtustofnun sveitarfélaga standa skil á meðlagsgreiðslum fyrir slíkan 
   [18]45. gr. framfærslulaga, nr. 80/1947,^8) til að krefja skattayfirvöld um
         upplýsingar um tekjur og eignir barnsfeðra, svo og til að krefja
  vinnumiðlunarskrifstofur og kaupgreiðendur um að láta þeim í té vinnuskýrslur.
- [Kröfur til endurgreiðslu barnsmeðlaga og sérstakra framlaga skv. [19]15. gr.
- barnalaga, nr. 20/1992,^9) sem greidd eru fyrir milligöngu opinberra aðila og
-               endurgreiða ber að lögum, fyrnast á tíu árum.]^10)
-     ^1)Nú [20]l. 25/1987. ^2)[21]L. 41/1986, 1. gr. ^3)[22]L. 39/1987, 1. gr.
-^4)[23]L. 71/1996, 1. gr. ^5)[24]L. 92/1991, 57. gr. ^6)[25]L. 31/1990, 44. gr.
-^7)[26]L. 49/1988, 1. gr. ^8)Nú [27]l. 40/1991. ^9)Ný [28]barnalög, nr. 76/2003,
-              taka gildi 1. nóv. 2003. ^10)[29]L. 62/2000, 1. gr.
+     [Kröfur til endurgreiðslu barnsmeðlaga og sérstakra framlaga [samkvæmt
+ barnalögum],^9) sem greidd eru fyrir milligöngu opinberra aðila og endurgreiða
+                     ber að lögum, fyrnast á tíu árum.]^10)
+     ^1)Nú [19]l. 25/1987. ^2)[20]L. 41/1986, 1. gr. ^3)[21]L. 39/1987, 1. gr.
+^4)[22]L. 71/1996, 1. gr. ^5)[23]L. 92/1991, 57. gr. ^6)[24]L. 31/1990, 44. gr.
+   ^7)[25]L. 49/1988, 1. gr. ^8)Nú [26]l. 40/1991. ^9)[27]L. 76/2003, 82. gr.
+                           ^10)[28]L. 62/2000, 1. gr.
           6. gr. Reikningsár Innheimtustofnunarinnar er almanaksárið.
 Reikningar skulu fullgerðir fyrir 31. mars ár hvert, og skal endurskoðun þeirra
                          lokið eigi síðar en 30. júní.
@@ -142,7 +142,7 @@ Reikningar skulu fullgerðir fyrir 31. mars ár hvert, og skal endurskoðun þei
                     sveitarfélaga og félagsmálaráðuneytinu.
             Ársreikningarnir skulu birtir í B-deild Stjórnartíðinda.
 7. gr. Setja skal með reglugerð^1) nánari ákvæði um framkvæmd laga þessara. ^2)
-                  ^1)[30]Rg. 491/1996. ^2)[31]L. 92/1991, 57. gr.
+                  ^1)[29]Rg. 491/1996. ^2)[30]L. 92/1991, 57. gr.
  8. gr. Lög þessi öðlast gildi 1. janúar 1972 og ná til allra meðlagsgreiðslna,
        sem Tryggingastofnun ríkisins innir af hendi frá og með þeim degi.
 
@@ -167,16 +167,15 @@ References
   16. file:///altext/stjtnr.html#1984043?g5
   17. file:///altext/stjtnr.html#1961010?g13
   18. file:///altext/stjtnr.html#1947080?g45
-  19. file://1992020.html#g15
-  20. file://1987025.html
-  21. file:///altext/stjtnr.html#1986041?g1
-  22. file:///altext/stjtnr.html#1987039?g1
-  23. file:///altext/stjt/1996.071.html
-  24. file:///altext/stjt/1991.092.html
-  25. file://1990031.html#g44
-  26. file:///altext/stjtnr.html#1988049?g1
-  27. file://1991040.html
-  28. file://2003076.html
-  29. file:///altext/stjt/2000.062.html
-  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1996
-  31. file:///altext/stjt/1991.092.html
+  19. file://1987025.html
+  20. file:///altext/stjtnr.html#1986041?g1
+  21. file:///altext/stjtnr.html#1987039?g1
+  22. file:///altext/stjt/1996.071.html
+  23. file:///altext/stjt/1991.092.html
+  24. file://1990031.html#g44
+  25. file:///altext/stjtnr.html#1988049?g1
+  26. file://1991040.html
+  27. file://2003076.html#g82
+  28. file:///altext/stjt/2000.062.html
+  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1996
+  30. file:///altext/stjt/1991.092.html

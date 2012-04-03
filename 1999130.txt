@@ -249,13 +249,14 @@ Ef synjað er um forsamþykki skal það gert með úrskurði á sama hátt og g
     stjórnvalda og annarra opinberra aðila og löggiltra ættleiðingarfélaga í
  heimalandi barns og að öðru leyti að láta í té það liðsinni sem nauðsynlegt er
                 til þess að af lögmætri ættleiðingu geti orðið.
-Dómsmálaráðherra getur sett reglur um að þeim sem óska eftir að ættleiða erlent
-    barn sé skylt að leita milligöngu um ættleiðinguna hjá félagi sem hefur
+  Dómsmálaráðherra getur sett reglur^1) um að þeim sem óska eftir að ættleiða
+ erlent barn sé skylt að leita milligöngu um ættleiðinguna hjá félagi sem hefur
                             löggildingu skv. 34. gr.
 Starfsemi er varðar ættleiðingar erlendra barna skal ávallt hafa að leiðarljósi
 það sem telja verður að sé barni til gagns og má ekki verða neinum fjárhagslega
                    eða á annan hátt til óhæfilegs ávinnings.
                Brot gegn ákvæðum þessarar greinar varðar sektum.
+                               ^1)[2]Rg. 1010/2003.
 
                         VII. kafli. Lögsögureglur o.fl.
                       36. gr. Lögsaga í ættleiðingarmálum.
@@ -288,12 +289,14 @@ Dómsmálaráðherra getur ákveðið að víkja megi frá einstökum ákvæðum
 
     VIII. kafli. Stjórnvaldsreglur, gildistaka, brottfall laga og lagaskil.
                            41. gr. Stjórnvaldsreglur.
-Dómsmálaráðherra getur sett nánari ákvæði um framkvæmd laga þessara í reglugerð.
+     Dómsmálaráðherra getur sett nánari ákvæði um framkvæmd laga þessara í
+                                 reglugerð.^1)
+                               ^1)[3]Rg. 1010/2003.
                      42. gr. Gildistaka og brottfallin lög.
      Lög þessi taka gildi þegar sex mánuðir eru liðnir frá birtingu þeirra.
                                43. gr. Lagaskil.
        Úr ættleiðingarumsóknum og umsóknum um forsamþykki sem borist hafa
- dómsmálaráðuneytinu fyrir gildistöku laga þessara skal leysa samkvæmt [2]lögum
+ dómsmálaráðuneytinu fyrir gildistöku laga þessara skal leysa samkvæmt [4]lögum
   nr. 15/1978. Ef umsækjendur óska þess er þó heimilt að beita reglum þessara
                                      laga.
 
@@ -301,4 +304,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999130
-   2. file://1978015.html
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1010-2003
+   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1010-2003
+   4. file://1978015.html

@@ -32,56 +32,60 @@
 eru í þessari grein, enda undanþiggi ráðherra ekki tiltekin svæði slíkum veiðum.
 Þegar rætt er um viðmiðunarlínu er átt við línu sem dregin er umhverfis landið á
                            milli eftirtalinna staða:
-                  1. Horn (grp. 1) [hfill] 66°27'4 N  22°24'3 V
-                  2. Selsker (viti) [hfill] 66°07'5 N  21°30'0 V
-               3. Ásbúðarrif (grp. 2) [hfill] 66°08'1 N  20°11'0 V
-              4. [Siglunes (grp. 3) [hfill] 66°11'9 N  18°49'9 V]^1)
-           5. Flatey (Skjálfanda) (grp. 4) [hfill] 66°10'3 N  17°50'3 V
-           6. Mánáreyjar (Lágey) (grp. 5) [hfill] 66°17'8 N  17°06'8 V
-               7. Rauðinúpur (grp. 6) [hfill] 66°30'7 N  16°32'4 V
-                8. Rifstangi (grp. 7) [hfill] 66°32'3 N  16°11'8 V
-            9. Hraunhafnartangi (grp. 8) [hfill] 66°32'2 N  16°01'5 V
-                10. Langanes (grp. 9) [hfill] 66°22'7 N  14°31'9 V
-                  11. Skálatáarsker [hfill] 65°59'7 N  14°36'4 V
-                 12. Almenningsfles [hfill] 65°33'1 N  13°40'5 V
-             13. Glettinganes (grp. 10) [hfill] 65°30'5 N  13°36'3 V
-            14. Norðfjarðarhorn (grp. 11) [hfill] 65°10'0 N  13°30'8 V
-                15. Gerpir (grp. 12) [hfill] 65°04'7 N  13°29'6 V
-            16. Hólmur (Seley) (grp. 13) [hfill] 64°58'9 N  13°30'6 V
-            17. Skrúður (Þursi) (grp. 15) [hfill] 64°54'1 N  13°36'8 V
-                  18. Papey (viti) [hfill] 64°35'5 N  14°10'5 V
-               19. Hvítingar (grp. 18) [hfill] 64°23'9 N  14°28'0 V
-               20. Stokksnes (grp. 19) [hfill] 64°14'1 N  14°58'4 V
-            21. Hrollaugseyjar (grp. 20) [hfill] 64°01'7 N  15°58'7 V
-             22. Ingólfshöfði (grp. 22) [hfill] 63°47'8 N  16°38'5 V
-               23. Hvalsíki (grp. 23) [hfill] 63°44'1 N  17°33'5 V
-          24. Meðallandssandur I (grp. 24) [hfill] 63°32'4 N  17°55'6 V
-          25. Meðallandssandur II (grp. 25) [hfill] 63°30'6 N  17°59'9 V
-              26. Mýrnatangi (grp. 26) [hfill] 63°27'4 N  18°11'8 V
-              27. Kötlutangi (grp. 27) [hfill] 63°23'4 N  18°42'8 V
-             28. Lundadrangur (grp. 28) [hfill] 63°23'5 N  19°07'5 V
+                   1. Horn (grp. 1)[hfill] 66°27'4 N  22°24'3 V
+                  2. Selsker (viti)[hfill] 66°07'5 N  21°30'0 V
+                3. Ásbúðarrif (grp. 2)[hfill] 66°08'1 N  20°11'0 V
+              4. [Siglunes (grp. 3)[hfill] 66°11'9 N  18°49'9 V]^1)
+                              5. Flatey (Skjálfanda)
+                       (grp. 4)[hfill] 66°10'3 N  17°50'3 V
+                               6. Mánáreyjar (Lágey)
+                       (grp. 5)[hfill] 66°17'8 N  17°06'8 V
+                7. Rauðinúpur (grp. 6)[hfill] 66°30'7 N  16°32'4 V
+                8. Rifstangi (grp. 7)[hfill] 66°32'3 N  16°11'8 V
+             9. Hraunhafnartangi (grp. 8)[hfill] 66°32'2 N  16°01'5 V
+                10. Langanes (grp. 9)[hfill] 66°22'7 N  14°31'9 V
+                  11. Skálatáarsker[hfill] 65°59'7 N  14°36'4 V
+                  12. Almenningsfles[hfill] 65°33'1 N  13°40'5 V
+              13. Glettinganes (grp. 10)[hfill] 65°30'5 N  13°36'3 V
+            14. Norðfjarðarhorn (grp. 11)[hfill] 65°10'0 N  13°30'8 V
+                 15. Gerpir (grp. 12)[hfill] 65°04'7 N  13°29'6 V
+             16. Hólmur (Seley) (grp. 13)[hfill] 64°58'9 N  13°30'6 V
+            17. Skrúður (Þursi) (grp. 15)[hfill] 64°54'1 N  13°36'8 V
+                   18. Papey (viti)[hfill] 64°35'5 N  14°10'5 V
+               19. Hvítingar (grp. 18)[hfill] 64°23'9 N  14°28'0 V
+               20. Stokksnes (grp. 19)[hfill] 64°14'1 N  14°58'4 V
+             21. Hrollaugseyjar (grp. 20)[hfill] 64°01'7 N  15°58'7 V
+              22. Ingólfshöfði (grp. 22)[hfill] 63°47'8 N  16°38'5 V
+                23. Hvalsíki (grp. 23)[hfill] 63°44'1 N  17°33'5 V
+                              24. Meðallandssandur I
+                       (grp. 24)[hfill] 63°32'4 N  17°55'6 V
+                              25. Meðallandssandur II
+                       (grp. 25)[hfill] 63°30'6 N  17°59'9 V
+               26. Mýrnatangi (grp. 26)[hfill] 63°27'4 N  18°11'8 V
+               27. Kötlutangi (grp. 27)[hfill] 63°23'4 N  18°42'8 V
+              28. Lundadrangur (grp. 28)[hfill] 63°23'5 N  19°07'5 V
                            29. Bakkafjara (skúr við sæ-
-                       streng) [hfill] 63°32'3 N  20°10'9 V
-                30. Knarrarós (viti) [hfill] 63°49'4 N  20°58'6 V
-                    31. Hafnarnes [hfill] 63°50'6 N  21°23'5 V
-                 32. Selvogur (viti) [hfill] 63°49'3 N  21°39'1 V
-              33. Krýsuvíkurberg (viti) [hfill] 63°49'8 N  22°04'2 V
-              34. Reykjanes (aukaviti) [hfill] 63°48'0 N  22°41'9 V
-                 35. Önglabrjótsnef [hfill] 63°49'0 N  22°44'3 V
-                 36. Stafnes (viti) [hfill] 63°58'3 N  22°45'5 V
+                        streng)[hfill] 63°32'3 N  20°10'9 V
+                 30. Knarrarós (viti)[hfill] 63°49'4 N  20°58'6 V
+                    31. Hafnarnes[hfill] 63°50'6 N  21°23'5 V
+                 32. Selvogur (viti)[hfill] 63°49'3 N  21°39'1 V
+              33. Krýsuvíkurberg (viti)[hfill] 63°49'8 N  22°04'2 V
+               34. Reykjanes (aukaviti)[hfill] 63°48'0 N  22°41'9 V
+                  35. Önglabrjótsnef[hfill] 63°49'0 N  22°44'3 V
+                  36. Stafnes (viti)[hfill] 63°58'3 N  22°45'5 V
                           37. 1. sjm. r/v V af Garðskaga-
-                         vita [hfill] 64°04'9 N  22°43'6 V
-                 38. Malarrif (viti) [hfill] 64°43'7 N  23°48'2 V
-                 39. Dritvíkurtangi [hfill] 64°45'0 N  23°55'3 V
-                   40. Skálasnagi [hfill] 64°51'3 N  24°02'5 V
-               41. Öndverðarnes (viti) [hfill] 64°53'1 N  24°02'7 V
-                   42. Skor (viti) [hfill] 65°24'9 N  23°57'2 V
-              43. Bjargtangar (grp. 33) [hfill] 65°30'2 N  24°32'1 V
-                44. Kópanes (grp. 34) [hfill] 65°48'4 N  24°06'0 V
-                 45. Barði (grp. 35) [hfill] 66°03'7 N  23°47'4 V
-               46. Straumnes (grp. 36) [hfill] 66°25'7 N  23°08'4 V
-                 47. Kögur (grp. 37) [hfill] 66°28'3 N  22°55'5 V
-                 48. Horn (grp. 38) [hfill] 66°27'9 N  22°28'2 V
+                         vita[hfill] 64°04'9 N  22°43'6 V
+                 38. Malarrif (viti)[hfill] 64°43'7 N  23°48'2 V
+                  39. Dritvíkurtangi[hfill] 64°45'0 N  23°55'3 V
+                    40. Skálasnagi[hfill] 64°51'3 N  24°02'5 V
+               41. Öndverðarnes (viti)[hfill] 64°53'1 N  24°02'7 V
+                   42. Skor (viti)[hfill] 65°24'9 N  23°57'2 V
+              43. Bjargtangar (grp. 33)[hfill] 65°30'2 N  24°32'1 V
+                44. Kópanes (grp. 34)[hfill] 65°48'4 N  24°06'0 V
+                 45. Barði (grp. 35)[hfill] 66°03'7 N  23°47'4 V
+               46. Straumnes (grp. 36)[hfill] 66°25'7 N  23°08'4 V
+                 47. Kögur (grp. 37)[hfill] 66°28'3 N  22°55'5 V
+                  48. Horn (grp. 38)[hfill] 66°27'9 N  22°28'2 V
     Heimildir fiskiskipa til veiða með botnvörpu, flotvörpu og dragnót innan
 fiskveiðilandhelgi Íslands miðast við stærðir skipa og aflvísa þeirra. Er skipum
      skipt niður í þrjá flokka miðað við stærðir þeirra og aflvísa þannig:
@@ -248,7 +252,7 @@ sérstöku leyfi Fiskistofu. Um skilyrði fyrir veitingu slíkra leyfa skal kve�
         í reglugerð og gilda ákvæði 1. mgr. um þau eftir því sem við á.
      ^1)[9]Rg. 687/1997, sbr. [10]620/2000 og [11]1/2001. ^2)[12]Rg. 438/1999,
     sbr. [13]577/1999, [14]600/2000 og [15]770/2000; [16]rg. 717/2000, sbr.
-               [17]625/2002; [18]rg. 830/2002, sbr. [19]861/2002.
+       [17]625/2002; [18]rg. 830/2002, sbr. [19]861/2002 og [20]807/2003.
 7. gr. Grásleppuveiðar skulu háðar sérstöku leyfi Fiskistofu og eiga þeir bátar
   einir kost á slíku leyfi sem rétt áttu til leyfis á grásleppuvertíðinni 1997
  samkvæmt reglum þar um. Ráðherra skal í reglugerð^1) kveða nánar á um skipulag
@@ -261,14 +265,14 @@ sérstöku leyfi Fiskistofu. Um skilyrði fyrir veitingu slíkra leyfa skal kve�
   áhrif veiða getur ráðherra ákveðið að veiðar úr tilteknum nytjastofni eða á
      tilteknu svæði séu háðar leyfi Fiskistofu. Sama á við ef þörf er á að
   skipuleggja veiðar úr stofnum sem ekki er stjórnað með skiptingu heildarafla
-  milli einstakra skipa, sbr. [20]7. gr. laga nr. 38 15. maí 1990, með síðari
+  milli einstakra skipa, sbr. [21]7. gr. laga nr. 38 15. maí 1990, með síðari
   breytingum, t.d. vegna óvissu um veiðiþol viðkomandi stofns. Ráðherra skal í
    reglugerð kveða nánar á um skilyrði fyrir veitingu leyfa samkvæmt þessari
 málsgrein. Getur ráðherra sett almennar og svæðisbundnar reglur og m.a. ákveðið
   að leyfin séu bundin við ákveðið svæði og að aðeins hljóti leyfi til veiða á
  tilteknu svæði tiltekinn fjöldi skipa, skip sem skráð eru á því svæði, skip af
    ákveðinni stærð eða gerð eða skip sem áður hafa stundað tilteknar veiðar.
-       ^1)[21]Rg. 129/2002, sbr. [22]29/2003, [23]123/2003 og [24]149/2003.
+       ^1)[22]Rg. 129/2002, sbr. [23]29/2003, [24]123/2003 og [25]149/2003.
 8. gr. Ráðherra er heimilt með reglugerð að skipta veiðisvæðum milli veiðarfæra
 með því að banna notkun ákveðinna veiðarfæra á ákveðnum svæðum í tiltekinn tíma.
   Áður en ákvarðanir um slíka skiptingu veiðisvæða eru teknar skal leita álits
@@ -287,29 +291,28 @@ með því að banna notkun ákveðinna veiðarfæra á ákveðnum svæðum í t
  Heimilt er að banna tímabundið allar veiðar eða notkun tiltekinna veiðarfæra á
    ákveðnu svæði sé þess talin þörf vegna tilrauna eða vísindalegra rannsókna
                           Hafrannsóknastofnunarinnar.
-   ^1)[25]Rg. 262/1994 (um bann við línuveiðum í norðanverðum Breiðafirði), sbr.
-[26]210/2000 og [27]274/2001. [28]Rg. 411/1999 (um verndun smáfisks við tog- og
-dragnótaveiðar fyrir Suðurlandi), sbr. [29]10/2000, [30]494/2000, [31]79/2001 og
- [32]27/2002. [33]Rg. 766/1999 (um bann við veiðum með [34]fiskibotnvörpu út af
-      Víkuráli). Rg. 627/2000 (um verndun smáfisks við togveiðar norður af
-   Vestfjörðum). [35]Rg. 190/2001 (um bann við veiðum með [36]fiskibotnvörpu
-        suðvestur af Snæfellsnesi). Rg. 719/2001 (um bann við veiðum með
- [37]fiskibotnvörpu á Vestfjarðamiðum án smáfiskaskilju). Rg. 753/2001 (um bann
-  við veiðum með [38]fiskibotnvörpu á Eldeyjarbanka). Rg. 40/2002 (um bann við
- rækjuveiðum í Langaneskanti), sbr. [39]40/2003. [40]Rg. 162/2002 (um bann við
-veiðum með [41]fiskibotnvörpu suðvestur af Malarrifi). Rg. 484/2002 (um bann við
-veiðum með [42]fiskibotnvörpu við Suðausturland án smáfiskaskilju). Rg. 693/2002
- (um verndun hrygningar steinbíts á Látragrunni). [43]Rg. 697/2002 (um bann við
- veiðum með [44]fiskibotnvörpu í Víkurál). Rg. 724/2002 (um bann við veiðum með
-[45]fiskibotnvörpu austnorðaustur af Héraðsflóa án smáfiskaskilju). Rg. 774/2002
-   (um bann við síldveiðum við Suðausturland). [46]Rg. 775/2002 (um bann við
- síldveiðum við Suðvesturland). [47]Rg. 809/2002 (um friðunarsvæði við Ísland).
- [48]Rg. 832/2002 (um bann við síldveiðum við Austurland). [49]Rg. 923/2002 (um
-bann við síldveiðum fyrir Vesturlandi). [50]Rg. 68/2003 (um bann við veiðum með
-[51]línu og fiskibotnvörpu á Sléttugrunni). Rg. 107/2003 (um bann við veiðum með
-[52]línu og fiskibotnvörpu á Rifsbanka). Rg. 230/2003 (um bann við línuveiðum á
-      Kötlugrunni). [53]Rg. 311/2003 (um bann við línuveiðum við Suður- og
-   Suðausturland). [54]Rg. 334/2003 (um bann við kolmunnaveiðum á Þórsbanka).
+   ^1)[26]Rg. 262/1994 (um bann við línuveiðum í norðanverðum Breiðafirði), sbr.
+     [27]210/2000 og [28]274/2001. [29]Rg. 766/1999 (um bann við veiðum með
+   [30]fiskibotnvörpu út af Víkuráli). Rg. 627/2000 (um verndun smáfisks við
+   togveiðar norður af Vestfjörðum). [31]Rg. 190/2001 (um bann við veiðum með
+[32]fiskibotnvörpu suðvestur af Snæfellsnesi). Rg. 719/2001 (um bann við veiðum
+ með [33]fiskibotnvörpu á Vestfjarðamiðum án smáfiskaskilju). Rg. 753/2001 (um
+ bann við veiðum með [34]fiskibotnvörpu á Eldeyjarbanka). Rg. 40/2002 (um bann
+ við rækjuveiðum í Langaneskanti), sbr. [35]40/2003. [36]Rg. 162/2002 (um bann
+  við veiðum með [37]fiskibotnvörpu suðvestur af Malarrifi). Rg. 693/2002 (um
+   verndun hrygningar steinbíts á Látragrunni). [38]Rg. 697/2002 (um bann við
+ veiðum með [39]fiskibotnvörpu í Víkurál). Rg. 724/2002 (um bann við veiðum með
+[40]fiskibotnvörpu austnorðaustur af Héraðsflóa án smáfiskaskilju). Rg. 809/2002
+(um friðunarsvæði við Ísland). [41]Rg. 68/2003 (um bann við veiðum með [42]línu
+og fiskibotnvörpu á Sléttugrunni). Rg. 107/2003 (um bann við veiðum með [43]línu
+     og fiskibotnvörpu á Rifsbanka). Rg. 230/2003 (um bann við línuveiðum á
+      Kötlugrunni). [44]Rg. 311/2003 (um bann við línuveiðum við Suður- og
+Suðausturland), sbr. [45]363/2003. [46]Rg. 334/2003 (um bann við kolmunnaveiðum
+ á Þórsbanka). [47]Rg. 362/2003 (um verndun smáfisks við tog- og dragnótaveiðar
+ fyrir Suðausturlandi), sbr. [48]448/2003, [49]642/2003 og [50]82/2004. [51]Rg.
+ 694/2003 (um verndun hrygningar steinbíts á Látragrunni). [52]Rg. 710/2003 (um
+bann við síldveiðum með vörpu), sbr. [53]889/2003. [54]Rg. 882/2003 (um bann við
+             síldveiðum í hringnót við Austurland og í Jökuldýpi).
   10. gr. Veiðieftirlitsmönnum Fiskistofu er heimilt að fara í veiðiferðir með
 fiskiskipum og er skipstjórum þeirra skylt að veita þeim alla aðstoð og aðstöðu
    um borð í skipum sínum til þess að þeir geti sinnt eftirliti með veiðum. Í
@@ -384,27 +387,27 @@ allar reglur um útbúnað, gerð og frágang veiðarfæra og takmarkað notkun 
    [60]afla og úthaldi á fiskveiðum). Rg. 285/1985 (um loðnuveiðar). [61]Rg.
   373/1985 (um leyfisbindingu veiða). [62]Rg. 113/1988, sbr. [63]539/1989 (um
  veitingu veiðileyfa). [64]Rg. 128/1988, sbr. [65]4/1990 (um grásleppuveiðar).
-     [66]Rg. 376/1992 (um síldveiðar). [67]Rg. 492/1993, sbr. [68]482/1994
-  (ígulkeraveiðar). [69]Rg. 198/1995 (um bann við rækjuveiðum á Skötufirði og
+   [66]Rg. 376/1992 (um síldveiðar). [67]Rg. 492/1993, sbr. [68]482/1994 (um
+   ígulkeraveiðar). [69]Rg. 198/1995 (um bann við rækjuveiðum á Skötufirði og
       innanverðu Ísafjarðardjúpi). [70]Rg. 609/1995. [71]Rg. 334/1997 (um
   dragnótaveiðar). [72]Rg. 24/1998 (um möskvamæla og framkvæmd möskvamælinga).
     [73]Rg. 150/1998, sbr. [74]445/1999 (um mælingar á fiskilestum). [75]Rg.
           304/1999, sbr. [76]276/2000, [77]30/2001 og [78]191/2001 (um
  úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar). [79]Rg. 739/2000
-   (um gerð og útbúnað smárækjuskilju). [80]Rg. 278/2001 (um gerð og útbúnað
-smáfiskaskilju), sbr. [81]738/2002. [82]Rg. 129/2002 (um hrognkelsaveiðar), sbr.
- [83]29/2003, [84]123/2003 og [85]149/2003. [86]Rg. 278/2002 (um humarveiðar).
- [87]Rg. 365/2002 (um þorskfisknet), sbr. [88]138/2003 og [89]225/2003. [90]Rg.
-  543/2002 (um möskvastærðir og útbúnað varpna til veiða á botnfiski, rækju og
-  humri), sbr. [91]39/2003 og [92]84/2003. [93]Rg. 224/2003 (um takmarkanir á
-                         heimild til veiða á sæbjúgum).
+  (um gerð og útbúnað smárækjuskilju). [80]Rg. 129/2002 (um hrognkelsaveiðar),
+ sbr. [81]29/2003, [82]123/2003, [83]149/2003 og [84]44/2004. [85]Rg. 278/2002
+    (um humarveiðar). [86]Rg. 365/2002 (um þorskfisknet), sbr. [87]138/2003,
+  [88]225/2003 og [89]603/2003. [90]Rg. 543/2002 (um möskvastærðir og útbúnað
+varpna til veiða á botnfiski, rækju og humri), sbr. [91]39/2003, [92]84/2003 og
+[93]425/2003. [94]Rg. 224/2003 (um takmarkanir á heimild til veiða á sæbjúgum).
+             [95]Rg. 805/2003 (um gerð og útbúnað smáfiskaskilju).
   15. gr. Brot gegn ákvæðum laga þessara og reglum settum samkvæmt þeim varða
 viðurlögum skv. 16.17. gr. laga þessara, hvort sem þau eru framin af ásetningi
 eða gáleysi. Sé um stórfelld eða ítrekuð ásetningsbrot að ræða skulu þau þar að
                    auki varða ^1) fangelsi allt að sex árum.
 Beita skal ákvæðum laga um sérstakt gjald vegna ólögmæts sjávarafla vegna brota
                       á lögum þessum eftir því sem við á.
-                            ^1)[94]L. 82/1998, 239. gr.
+                            ^1)[96]L. 82/1998, 239. gr.
 16. gr. Við brotum gegn 3.5. gr. laga þessara skal sekt ekki nema lægri fjárhæð
   en 600.000 kr. og ekki hærri fjárhæð en 6.000.000 kr., eftir eðli og umfangi
  brots. Sama gildir sé skip staðið að veiðum á svæðum þar sem veiðar hafa verið
@@ -464,41 +467,41 @@ References
   17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/625-2002
   18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/830-2002
   19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/861-2002
-  20. file://1990038.html#g7
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-2002
-  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-2003
-  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/123-2003
-  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/149-2003
-  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/262-1994
-  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/210-2000
-  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/274-2001
-  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/411-1999
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/010-2000
-  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/494-2000
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/079-2001
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/027-2002
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/766-1999
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/627-2000
-  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/190-2001
-  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/719-2001
-  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/753-2001
-  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/040-2002
-  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/040-2003
-  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/162-2002
-  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/484-2002
-  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/693-2002
-  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/697-2002
-  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/724-2002
-  45. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/774-2002
-  46. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/775-2002
-  47. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/809-2002
-  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/832-2002
-  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/923-2002
-  50. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/068-2003
-  51. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/107-2003
-  52. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/230-2003
-  53. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/311-2003
-  54. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/334-2003
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/807-2003
+  21. file://1990038.html#g7
+  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-2002
+  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-2003
+  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/123-2003
+  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/149-2003
+  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/262-1994
+  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/210-2000
+  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/274-2001
+  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/766-1999
+  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/627-2000
+  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/190-2001
+  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/719-2001
+  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/753-2001
+  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/040-2002
+  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/040-2003
+  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/162-2002
+  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/693-2002
+  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/697-2002
+  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/724-2002
+  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/809-2002
+  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/068-2003
+  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/107-2003
+  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/230-2003
+  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/311-2003
+  45. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/363-2003
+  46. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/334-2003
+  47. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/362-2003
+  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/448-2003
+  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/642-2003
+  50. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/082-2004
+  51. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/694-2003
+  52. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/710-2003
+  53. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/889-2003
+  54. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/882-2003
   55. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/026-1998
   56. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/262-1977
   57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/311-1977
@@ -524,18 +527,20 @@ References
   77. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/030-2001
   78. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/191-2001
   79. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/739-2000
-  80. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/278-2001
-  81. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/738-2002
-  82. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-2002
-  83. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-2003
-  84. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/123-2003
-  85. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/149-2003
-  86. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/278-2002
-  87. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/365-2002
-  88. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/138-2003
-  89. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/225-2003
+  80. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-2002
+  81. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/029-2003
+  82. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/123-2003
+  83. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/149-2003
+  84. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/044-2004
+  85. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/278-2002
+  86. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/365-2002
+  87. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/138-2003
+  88. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/225-2003
+  89. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/603-2003
   90. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/543-2002
   91. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/039-2003
   92. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/084-2003
-  93. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/224-2003
-  94. file:///altext/stjt/1998.082.html
+  93. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/425-2003
+  94. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/224-2003
+  95. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/805-2003
+  96. file:///altext/stjt/1998.082.html

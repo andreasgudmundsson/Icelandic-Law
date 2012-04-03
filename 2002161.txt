@@ -7,7 +7,9 @@
 
    --------------------------------------------------------------------------
 
-                           Tóku gildi 1. janúar 2003.
+ Tóku gildi 1. janúar 2003. EES-samningurinn: IX. viðauki tilskipun 85/611/EBE,
+  86/635/EBE, 93/22/EBE, 95/26/EB, 2000/12/EB og 2000/43/EB. Breytt með [2]l.
+                       4/2004 (tóku gildi 6. febr. 2004).
 
                              I. kafli. Gildissvið.
   1. gr. Lög þessi gilda um innlend fjármálafyrirtæki og um starfsemi erlendra
@@ -431,7 +433,7 @@ Fari áhættuskuldbindingar fjármálafyrirtækis yfir þau mörk sem kveðið e
 1. mgr. skal það tilkynnt Fjármálaeftirlitinu án tafar. Fjármálaeftirlitið getur
     veitt fyrirtækinu frest til að koma skuldbindingum sínum í lögmætt horf.
 Fjármálaeftirlitið setur nánari reglur^1) um stórar áhættur fjármálafyrirtækja.
-                                ^1)[2]Rg. 34/2002.
+                               ^1)[3]Rgl. 531/2003.
 
              V. kafli. Starfsemi fjármálafyrirtækja á milli landa.
              A. Starfsemi erlendra fjármálafyrirtækja hér á landi.
@@ -491,7 +493,7 @@ starfsemi hér á landi og innlendra fjármálafyrirtækja erlendis. Í regluger
     tengjast fjármálasviði og dótturfélaga fjármálafyrirtækja til að stunda
 fjármálastarfsemi hér á landi og um heimildir innlendra fyrirtækja sem tengjast
             fjármálasviði til að stunda fjármálastarfsemi erlendis.
-                       ^1)[3]Rg. 307/1994, [4]rg. 308/1994.
+                       ^1)[4]Rg. 307/1994, [5]rg. 308/1994.
               B. Starfsemi innlendra fjármálafyrirtækja erlendis.
                      36. gr. Tilkynning um stofnun útibús.
 Innlend fjármálafyrirtæki, sem hyggjast starfrækja útibú í öðru ríki á Evrópska
@@ -725,7 +727,7 @@ fjögurra ára í senn. Til að standa straum af kostnaði við framkvæmd próf
  að endurskoða úrlausn próftaka. Í reglugerð^1) skal kveða nánar á um framkvæmd
  prófs í verðbréfaviðskiptum, þar á meðal prófkröfur, og heimildir til að veita
          undanþágur frá einstökum hlutum slíks prófs eða prófi í heild.
-                                ^1)[5]Rg. 506/2000.
+                                ^1)[6]Rg. 633/2003.
  54. gr. Verkaskipting stjórnar og framkvæmdastjóra. Framkvæmd starfa stjórnar.
   Í samþykktum fjármálafyrirtækis skal kveðið á um verkaskiptingu stjórnar og
          framkvæmdastjóra sem skal taka mið af ákvæðum hlutafélagalaga.
@@ -904,8 +906,8 @@ samþykkja framsalið nema að fengnu samþykki Fjármálaeftirlitsins og að fu
       a. að um sé að ræða lið í nauðsynlegri fjárhagslegri endurskipulagningu
  viðkomandi sparisjóðs og sýnt þyki að slíkri fjárhagslegri endurskipulagningu
 verði ekki komið við nema með því að stofnfjáreigandi eignist virkan eignarhlut,
-   b. að sýnt sé fram á að öflun stofnfjárhlutarins sé liður í eflingu samvinnu
-                          milli sparisjóða í landinu.
+   b. [að sýnt sé fram á að öflun stofnfjárhlutarins sé liður í eflingu samvinnu
+milli sparisjóða í landinu eða sparisjóða innan Evrópska efnahagssvæðisins].^1)
   Stofnfjáreigendur skulu eiga jafnan atkvæðisrétt nema öðruvísi sé ákveðið í
  samþykktum sparisjóðs. Þó er einstökum stofnfjáreigendum aldrei heimilt, fyrir
  sjálfs sín hönd eða annarra, að fara með meira en 5% af heildaratkvæðamagni í
@@ -918,6 +920,7 @@ Stofnfjáreiganda er óheimilt að fela öðrum umboð sitt á fundum stofnfjár
  Þar sem talað er um heildaratkvæðamagn í sparisjóði í lögum þessum er átt við
   heildaratkvæðamagn að frádregnum atkvæðum samkvæmt þeim stofnfjárbréfum sem
                              sparisjóður á sjálfur.
+                              ^1)[7]L. 4/2004, 1. gr.
                        71. gr. Sveitarfélagssparisjóðir.
 Ákvæði 1. mgr. 61. gr. um fjölda stofnfjáreigenda og 3. mgr. 70. gr. um tilhögun
      atkvæðisréttar í sparisjóði taka hvorki til þeirra sparisjóða þar sem
@@ -942,8 +945,8 @@ Stjórnin kýs sér formann úr sínum hópi. Heimilt er að kjósa varamenn, ja
   framkvæmd þannig að sparisjóðurinn sameinist hlutafélagi sem sparisjóðurinn
 hefur áður stofnað í því skyni að taka við rekstri sparisjóðsins og öllum eignum
                  hans og skuldum, réttindum og skuldbindingum.
-Ákvæði 1. málsl. 2. mgr. [6]3. gr. laga nr. 2/1995, um hlutafélög, gilda ekki um
-fjölda stofnenda í hlutafélagi skv. 1. mgr. Ákvæði 1. mgr. [7]20. gr. sömu laga
+Ákvæði 1. málsl. 2. mgr. [8]3. gr. laga nr. 2/1995, um hlutafélög, gilda ekki um
+fjölda stofnenda í hlutafélagi skv. 1. mgr. Ákvæði 1. mgr. [9]20. gr. sömu laga
 um lágmarksfjölda hluthafa gilda ekki um hlutafélag skv. 1. mgr. fram að því að
            breyting sparisjóðs í hlutafélag skv. 1. mgr. á sér stað.
 Við breytingu sparisjóðs í hlutafélag samkvæmt þessari grein heldur starfsleyfi
@@ -975,33 +978,36 @@ nemur samtals af áætluðu markaðsvirði sparisjóðsins. Markaðsvirði spari
  hlutafjár sparisjóðsins eftir breytingu hans í hlutafélag sem ekki gengur til
 stofnfjáreigenda samkvæmt framansögðu skal verða eign sjálfseignarstofnunar sem
                           sett er á stofn skv. 76. gr.
-Ákvæði 120.128. gr. og ákvæði [8]131. gr. laga nr. 2/1995, um hlutafélög, skulu
-  að öðru leyti og eftir því sem við getur átt gilda um breytingu sparisjóðs í
-           hlutafélag samkvæmt undanfarandi ákvæðum þessarar greinar.
+  Ákvæði 120.128. gr. og ákvæði [10]131. gr. laga nr. 2/1995, um hlutafélög,
+skulu að öðru leyti og eftir því sem við getur átt gilda um breytingu sparisjóðs
+          í hlutafélag samkvæmt undanfarandi ákvæðum þessarar greinar.
     75. gr. Atkvæðaréttur í sparisjóði sem breytt hefur verið í hlutafélag.
  Í samþykktum sparisjóðs sem breytt hefur verið í hlutafélag skv. 73. gr. skal
  kveðið á um atkvæðisrétt sem fylgir hlutum í sparisjóðnum og um meðferð hans.
   Einstökum hluthöfum er aldrei heimilt, fyrir sjálfs sín hönd eða annarra, að
 fara með meira en 5% af heildaratkvæðamagni í sparisjóði, hvort sem yfirráð yfir
           atkvæðisrétti byggjast á beinni eða óbeinni eignarhlutdeild.
-  Í samþykktum er þó heimilt að kveða á um að sjálfseignarstofnun skv. 76. gr.
-  geti farið með meira en 5% af heildaratkvæðamagni í sparisjóði. Á stofnfundi
- skal sjálfseignarstofnunin fara með atkvæði í samræmi við hlutafjáreign sína.
+    [Sjálfseignarstofnun fer þó með atkvæðisrétt í samræmi við hlutafjáreign
+                                   sína.]^1)
+                             ^1)[11]L. 4/2004, 2. gr.
              76. gr. Sjálfseignarstofnun sem hluthafi í sparisjóði.
    Sé ákveðið að breyta sparisjóði í hlutafélag samkvæmt ákvæðum 73. gr. skal
  sparisjóðurinn gangast fyrir stofnun sjálfseignarstofnunar sem við breytinguna
 verður eigandi þess hluta hlutafjár í sparisjóðnum sem kveðið er á um í 74. gr.
   Megintilgangur sjálfseignarstofnunarinnar skal vera að stuðla að viðgangi og
  vexti í starfsemi sparisjóðsins. Fjármálaeftirlitið skal staðfesta samþykktir
-                                stofnunarinnar.
-Í stjórn sjálfseignarstofnunar skv. 1. mgr. skulu minnst eiga sæti fimm menn úr
-                          fulltrúaráði stofnunarinnar.
-Fulltrúaráð sjálfseignarstofnunar, sem í skulu eiga sæti allir stofnfjáreigendur
-      í viðkomandi sparisjóði er honum var breytt í hlutafélag, skal kjósa
- stjórnarmenn sjálfseignarstofnunarinnar. Fulltrúaráðið getur valið fleiri til
-  setu í ráðinu. Nú verða fulltrúaráðsmenn færri en þrjátíu og er þá skylt að
-   fjölga í ráðinu á næsta fundi þess þannig að meðlimir verði eigi færri en
-                                    þrjátíu.
+ stofnunarinnar. [Fyrir fund stofnfjáreigenda skv. 1. mgr. 73. gr. verða engar
+   skuldbindandi ákvarðanir teknar fyrir hönd sjálfseignarstofnunarinnar.]^1)
+  [Í stjórn sjálfseignarstofnunar skv. 1. mgr. skulu eiga sæti tveir fulltrúar
+   sveitarfélags þar sem sparisjóðurinn á heimilisfesti við breytingu hans í
+  hlutafélag, einn fulltrúi tilnefndur af fjármálaráðherra og tveir fulltrúar
+ tilnefndir af viðskiptaráðherra. Stjórnin, þannig skipuð, velur sér formann og
+ fer með hagsmuni sjálfseignarstofnunarinnar frá og með fundi stofnfjáreigenda
+ skv. 1. mgr. 73. gr. Stjórnartími skal vera fjögur ár nema annað sé ákveðið í
+samþykktum. Minnst tveimur mánuðum fyrir lok stjórnartíma skal formaður stjórnar
+                     afla nýrra tilnefninga skv. 1. málsl.
+Fyrir fund stofnfjáreigenda skv. 1. mgr. 73. gr. skal sparisjóðurinn hafa aflað
+                 tilnefninga skv. 2. mgr. þessarar greinar.]^1)
 Einungis skal heimilt að úthluta af fjármunum sjálfseignarstofnunar skv. 1. mgr.
     eða ráðstafa eignum, sem eftir verða við slit hennar, til menningar- og
 líknarmála á starfssvæði viðkomandi sparisjóðs við breytingu hans í hlutafélag.
@@ -1009,11 +1015,14 @@ líknarmála á starfssvæði viðkomandi sparisjóðs við breytingu hans í hl
 leyti gilda um sjálfseignarstofnun skv. 1. mgr. Sjálfseignarstofnun sem stofnuð
   er samkvæmt þessari grein er undanþegin tekjuskatti og eignarskatti, enda sé
    farið eftir skilyrðum 1. málsl. um úthlutun til menningar- og líknarmála.
+    ^1)[12]L. 4/2004, 3. gr. Breytingin tók gildi 6. febrúar 2004, en tekur þó
+ekki til sparisjóða þar sem stofnfjáreigendafundur hafði þegar tekið ákvörðun um
+    hlutafélagavæðingu skv. [13]73. gr. laganna, sbr. [14]5. gr. l. 4/2004.
                            77. gr. Lágmark stofnfjár.
 Sparisjóðum, sem starfandi eru við gildistöku laga þessara með eigið fé lægra en
 það stofnfé sem mælt er fyrir um í 14. gr., er heimilt að halda áfram starfsemi
   sinni, enda fari eigið fé þeirra ekki niður fyrir þá fjárhæð sem það nam við
- gildistöku [9]laga nr. 43/1993, um viðskiptabanka og sparisjóði. Fari eigið fé
+gildistöku [15]laga nr. 43/1993, um viðskiptabanka og sparisjóði. Fari eigið fé
      niður fyrir framangreind mörk er Fjármálaeftirlitinu heimilt að veita
   hlutaðeigandi sparisjóði hæfilegan frest til úrbóta. Uppfylli sparisjóðurinn
    ekki skilyrðin um eigið fé að liðnum veittum fresti skal starfsleyfi hans
@@ -1074,7 +1083,7 @@ rafeyrisfyrirtækis vegna útistandandi rafeyris skal viðkomandi rafeyrisfyrirt
     Rafeyrisfyrirtæki má ekki eiga hlut í öðrum fyrirtækjum nema þau annist
 rekstrarþætti sem tengjast rafeyri sem viðkomandi rafeyrisfyrirtæki gefur út eða
                                     dreifir.
-                               ^1)[10]Rg. 671/2002.
+                               ^1)[16]Rg. 671/2002.
                        82. gr. Takmarkanir á gildissviði.
  Fjármálaeftirlitinu er heimilt að undanþiggja rafeyrisfyrirtæki frá einstökum
   eða öllum ákvæðum laga þessara ef að hámarki er unnt að geyma 6.000 krónur á
@@ -1170,8 +1179,7 @@ verðbréfasjóðs skal eigið fé þess ekki nema lægri fjárhæð en sem svar
 ef það telur að hún gefi ekki rétta mynd af þeirri starfsemi sem fyrirhuguð er.
 Fjármálaeftirlitinu er heimilt að ákveða í reglum^2) að aðrir liðir en greindir
            eru í 5.7. mgr. teljist með eigin fé fjármálafyrirtækis.
-         ^1)[11]Rgl. 693/2001, sbr. [12]58/2002. ^2)[13]Rg. 852/2000, sbr.
-                                 [14]964/2000.
+                    ^1)[17]Rgl. 530/2003. ^2)[18]Rgl. 540/2003.
                         85. gr. Frádráttur frá eigin fé.
   Frá eigin fé skv. 4. mgr. 84. gr. skal draga bókfært virði á eignarhlutum og
       víkjandi kröfum í öðrum fjármálafyrirtækjum eða fyrirtækjum tengdum
@@ -1185,7 +1193,7 @@ heildarfjárhæð eignarhluta og víkjandi krafna sem er umfram 10% af eigin fé
     Þegar fjárfesting í hlutum í öðrum fjármálafyrirtækjum eða fyrirtækjum á
      fjármálasviði er bráðabirgðaráðstöfun og ætluð sem fjárhagsaðstoð við
          endurskipulagningu eða til bjargar hlutaðeigandi fyrirtæki er
-   Fjármálaeftirlitinu heimilt að veita undanþágu frá ákvæði 1. málsl.1. mgr.
+  Fjármálaeftirlitinu heimilt að veita undanþágu frá ákvæði 1. málsl. 1. mgr.
   Eignarhlutir og víkjandi kröfur í öðrum fjármálafyrirtækjum eða fyrirtækjum
    tengdum fjármálasviði, sbr. 1. mgr., sem reiknast með í samstæðureikningi
    hlutaðeigandi fjármálafyrirtækis, dragast ekki frá eigin fé hlutaðeigandi
@@ -1245,7 +1253,7 @@ uppsetningu ársreiknings, innihald einstakra liða rekstrar- og efnahagsreiknin
    Fjármálaeftirlitið skal sjá til þess í samráði við reikningsskilaráð að á
    hverjum tíma liggi fyrir skilgreining á góðri reikningsskilavenju við gerð
              ársreiknings og árshlutareiknings fjármálafyrirtækis.
-              ^1)[15]Rgl. 692/2001, sbr. [16]51/2002 og [17]755/2002.
+            ^1)[19]Rgl. 834/2003, [20]rgl. 97/2004, [21]rgl. 102/2004.
                            89. gr. Skýrsla stjórnar.
      Í skýrslu stjórnar skal koma fram yfirlit yfir starfsemi hlutaðeigandi
  fjármálafyrirtækis á árinu, svo og upplýsingar um atriði sem mikilvæg eru við
@@ -1292,13 +1300,14 @@ við um sambærileg atriði sem endurskoðandi fær vitneskju um og varða fyrir
 Fjármálaeftirlitið skal sjá til þess í samráði við Félag löggiltra endurskoðenda
  og aðra hlutaðeigandi aðila að á hverjum tíma liggi fyrir skilgreining á góðri
  endurskoðunarvenju við endurskoðun hjá fjármálafyrirtækjum. Fjármálaeftirlitið
-                setur reglur um endurskoðun fjármálafyrirtækja.
+               setur reglur^1) um endurskoðun fjármálafyrirtækja.
         Að öðru leyti en fram kemur í lögum þessum gilda um endurskoðun
-fjármálafyrirtækja ákvæði [18]VII. kafla laga nr. 144/1994, um ársreikninga, með
+fjármálafyrirtækja ákvæði [22]VII. kafla laga nr. 144/1994, um ársreikninga, með
                               áorðnum breytingum.
   Ákvæði 1. mgr. eiga einnig við um dótturfyrirtæki fjármálafyrirtækis, svo og
  eignarhaldsfélag á fjármálasviði eða blandað eignarhaldsfélag skv. 97. gr. og
                          dótturfyrirtæki slíkra félaga.
+                               ^1)[23]Rgl. 532/2003.
                           94. gr. Sérstök endurskoðun.
        Fjármálaeftirlitið getur látið fara fram sérstaka endurskoðun hjá
       fjármálafyrirtæki telji eftirlitið ástæðu til að ætla að endurskoðað
@@ -1322,7 +1331,7 @@ fjármálafyrirtækja ákvæði [18]VII. kafla laga nr. 144/1994, um ársreiknin
  Fjármálafyrirtæki skulu semja og birta árshlutauppgjör í samræmi við reglur^1)
                          sem Fjármálaeftirlitið setur.
  Fjármálaeftirlitið getur veitt undanþágu frá ákvæðum um gerð árshlutauppgjörs.
-                               ^1)[19]Rgl. 691/2001.
+                               ^1)[24]Rgl. 834/2003.
                          97. gr. Samstæðureikningsskil.
                  Fyrirtæki telst vera móðurfyrirtæki þegar það:
                 1. ræður yfir meiri hluta atkvæða í öðru fyrirtæki,
@@ -1353,11 +1362,12 @@ fjármálasviði sem lýst er í 1. mgr., teljast vera dótturfyrirtæki. Fyrirt
 Ákvæði 87.92. gr. og 95.96. gr. gilda eftir því sem við á bæði fyrir samstæðu,
        þar sem móðurfyrirtæki er fjármálafyrirtæki eða eignarhaldsfélag á
             fjármálasviði, og fyrir einstök fyrirtæki samstæðunnar.
-Fjármálaeftirlitið setur að höfðu samráði við reikningsskilaráð nánari reglur um
-gerð samstæðureikningsskila fyrir samstæðu fyrirtækja þar sem móðurfyrirtækið er
-            fjármálafyrirtæki eða eignarhaldsfélag á fjármálasviði.
+Fjármálaeftirlitið setur að höfðu samráði við reikningsskilaráð nánari reglur^1)
+um gerð samstæðureikningsskila fyrir samstæðu fyrirtækja þar sem móðurfyrirtækið
+           er fjármálafyrirtæki eða eignarhaldsfélag á fjármálasviði.
      Fjármálaeftirlitið getur sett reglur um samstæðuuppgjör fyrir samstæðu
         fyrirtækja þar sem móðurfyrirtækið er blandað eignarhaldsfélag.
+                               ^1)[25]Rgl. 834/2003.
 
                 XII. kafli. Slit og samruni fjármálafyrirtækja.
                                     A. Slit.
@@ -1419,10 +1429,10 @@ samþykki hluthafafundar eða fundar stofnfjáreigenda í yfirtekna fyrirtækinu
     stofnfjáreigenda, svo og að fengnu samþykki Fjármálaeftirlitsins. Ef hið
    yfirtekna fyrirtæki er alfarið í eigu yfirtökufélags þarf ekki að koma til
    atkvæðagreiðslu skv. 1. málsl. þessarar málsgreinar í yfirtekna félaginu.
- Samruni sparisjóðs við annað fyrirtæki eða einstaka rekstrarhluta þess er því
+ [Samruni sparisjóðs við annað fyrirtæki eða einstaka rekstrarhluta þess er því
   aðeins heimill að sparisjóðnum hafi áður verið breytt í hlutafélag samkvæmt
     ákvæðum VIII. kafla, nema þegar um er að ræða samruna tveggja eða fleiri
-                                  sparisjóða.
+    sparisjóða sem ekki hefur verið breytt í hlutafélag eða hlutafélög.]^1)
   Um samruna fjármálafyrirtækja gilda að öðru leyti ákvæði laga um hlutafélög
          eftir því sem við getur átt og samningar hlutaðeigandi aðila.
     Fjármálafyrirtæki, sem er slitið vegna samruna, er ekki skylt að gefa út
@@ -1438,6 +1448,7 @@ Við samruna tveggja eða fleiri fjármálafyrirtækja skal eigið fé, sem ver�
  við samruna, ekki vera lægra en samanlagt eigið fé hlutaðeigandi fyrirtækja á
 þeim tíma sem samruni átti sér stað, enda hafi lágmarki skv. 14. gr. ekki verið
                                       náð.
+                             ^1)[26]L. 4/2004, 4. gr.
 
                              XIII. kafli. Eftirlit.
                         A. Almennar eftirlitsheimildir.
@@ -1578,9 +1589,9 @@ innlánsskilríki eða viðtökuskírteini afhent úr hlutaðeigandi fyrirtæki,
  nafni fjármálafyrirtækja, skuldbindingar sem veita þeim handveðsrétt, arðmiðar
        af skuldabréfum þeirra og framsöl skulu undanþegin stimpilgjaldi.
           111. gr. Undanþegnir sjóðir og undanþága frá rekstrarformi.
-   Þrátt fyrir starfsheimildir Hafnabótasjóðs samkvæmt [20]lögum nr. 23/1994,
- hafnalögum, Íbúðalánasjóðs samkvæmt [21]lögum nr. 44/1998, um húsnæðismál, og
- Ferðamálasjóðs samkvæmt [22]lögum nr. 117/1994, um skipulag ferðamála, teljast
+   Þrátt fyrir starfsheimildir Hafnabótasjóðs samkvæmt [27]lögum nr. 23/1994,
+ hafnalögum, Íbúðalánasjóðs samkvæmt [28]lögum nr. 44/1998, um húsnæðismál, og
+ Ferðamálasjóðs samkvæmt [29]lögum nr. 117/1994, um skipulag ferðamála, teljast
         þessir sjóðir ekki til fjármálafyrirtækja samkvæmt lögum þessum.
 Opinberir fjárfestingarlánasjóðir sem starfandi eru við gildistöku laga þessara
          eru undanþegnir skilyrði 13. gr. um að starfa sem hlutafélög.
@@ -1588,7 +1599,7 @@ Opinberir fjárfestingarlánasjóðir sem starfandi eru við gildistöku laga þ
                           XVI. kafli. Gildistaka o.fl.
                               112. gr. Innleiðing.
  Með lögum þessum eru tekin upp ákvæði tilskipana Evrópuþingsins og ráðsins nr.
-      2000/ 12/EB um stofnun og rekstur lánastofnana, 93/6/EBE um eigið fé
+      2000/12/EB um stofnun og rekstur lánastofnana, 93/6/EBE um eigið fé
  fjárfestingarfyrirtækja og lánastofnana, 93/22/EBE um fjárfestingarþjónustu á
 sviði verðbréfaviðskipta, 86/635/EBE um ársreikninga og samstæðureikninga banka
 og annarra fjármálastofnana, 107/2001/EB um breytingu á tilskipun 85/611/EBE um
@@ -1598,7 +1609,7 @@ sameiginlega fjárfestingu í framseljanlegum verðbréfum, 95/26/EB um breyting
         lánastofnun og 2000/46 um stofnun og rekstur rafeyrisfyrirtækja.
                               113. gr. Gildistaka.
  Lög þessi öðlast gildi 1. janúar 2003. Með fjármálagerningum í lögum þessum er
-        átt við verðbréf samkvæmt skilgreiningu [23]laga nr. 13/1996, um
+        átt við verðbréf samkvæmt skilgreiningu [30]laga nr. 13/1996, um
                               verðbréfaviðskipti.
                                     114. gr.
                                     115. gr.
@@ -1610,7 +1621,7 @@ verðbréfamiðlanir skulu halda starfsleyfi sínu við gildistöku laga þessar
 skulu innan sex mánaða tilkynna Fjármálaeftirlitinu hvaða starfsemi skv. 3. gr.
   og IV. kafla þau stunda við gildistöku laganna. Tilkynningin skal vera á því
                    formi sem Fjármálaeftirlitið óskar eftir.
-    Lánastofnanir, sem hafa starfsleyfi samkvæmt [24]lögum nr. 123/1993, um
+    Lánastofnanir, sem hafa starfsleyfi samkvæmt [31]lögum nr. 123/1993, um
 lánastofnanir aðrar en viðskiptabanka og sparisjóði, skulu hafa starfsleyfi sem
                       lánafyrirtæki samkvæmt lögum þessum.
     Starfandi fjármálafyrirtæki skv. 1. mgr. er óheimilt að hefja síðar nýja
@@ -1626,26 +1637,33 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002161
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/034-2002
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/307-1994
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/308-1994
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2000
-   6. file://1995002.html#g3
-   7. file://1995002.html#g20
-   8. file://1995002.html#g131
-   9. file://1993043.html
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/671-2002
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/693-2001
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/058-2002
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/852-2000
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/964-2000
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/692-2001
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/051-2002
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/755-2002
-  18. file://1994144.html
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/691-2001
-  20. file://1994023.html
-  21. file://1998044.html
-  22. file://1994117.html
-  23. file://1996013.html
-  24. file://1993123.html
+   2. file:///altext/stjt/2004.004.html
+   3. http://stjornartidindi.is/servlet/stjrtid/B/2003/531.pdf
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/307-1994
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/308-1994
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/633-2003
+   7. file:///altext/stjt/2004.004.html
+   8. file://1995002.html#g3
+   9. file://1995002.html#g20
+  10. file://1995002.html#g131
+  11. file:///altext/stjt/2004.004.html
+  12. file:///altext/stjt/2004.004.html
+  13. file:///altext/stjt/2004.004.html
+  14. file:///altext/stjt/2004.004.html
+  15. file://1993043.html
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/671-2002
+  17. http://stjornartidindi.is/servlet/stjrtid/B/2003/530.pdf
+  18. http://stjornartidindi.is/servlet/stjrtid/B/2003/540.pdf
+  19. http://stjornartidindi.is/servlet/stjrtid/B/2003/834.pdf
+  20. http://stjornartidindi.is/servlet/stjrtid/B/2004/97.pdf
+  21. http://stjornartidindi.is/servlet/stjrtid/B/2004/102.pdf
+  22. file://1994144.html
+  23. http://stjornartidindi.is/servlet/stjrtid/B/2003/532.pdf
+  24. http://stjornartidindi.is/servlet/stjrtid/B/2003/834.pdf
+  25. http://stjornartidindi.is/servlet/stjrtid/B/2003/834.pdf
+  26. file:///altext/stjt/2004.004.html
+  27. file://1994023.html
+  28. file://1998044.html
+  29. file://1994117.html
+  30. file://1996013.html
+  31. file://1993123.html

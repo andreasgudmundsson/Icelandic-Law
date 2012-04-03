@@ -7,7 +7,9 @@
 
    --------------------------------------------------------------------------
 
-            Taka gildi 25. júlí 2003, sjá þó ákvæði 76. gr. laganna.
+ Tóku gildi 25. júlí 2003, sjá þó ákvæði 76. gr. laganna. EES-samningurinn: XI.
+   viðauki tilskipun 1999/5/EB, reglugerð 2887/2000/EB, tilskipun 2002/19/EB,
+         2002/20/EB, 2002/21/EB, 2002/22/EB, 2002/58/EB og 2002/77/EB.
 
             I. kafli. Markmið og gildissvið. Stjórn fjarskiptamála.
                          1. gr. Markmið og gildissvið.
@@ -411,7 +413,7 @@ Samgönguráðherra setur í reglugerð um alþjónustu nánari fyrirmæli um fj
 og jöfnunargjöld í fjarskiptaþjónustu, þar á meðal um útreikning á kostnaði við
     að reka almenn fjarskiptanet eða veita almenna fjarskiptaþjónustu og um
                             útreikning rekstrartaps.
-   ^1)Ákvæði greinarinnar taka gildi 1. janúar 2004 og koma fyrst til framkvæmda
+   ^1)Ákvæði greinarinnar tóku gildi 1. janúar 2004 og koma fyrst til framkvæmda
        á árinu 2005 vegna bókfærðrar veltu á árinu 2004, sbr. [9]76. gr.
                        23. gr. Sértæk fjarskiptaþjónusta.
    Nú óskar samgönguráðherra eftir því að lagt sé í framkvæmdir, rekstur eða
@@ -807,7 +809,7 @@ Fjarskiptafyrirtæki sem falin hefur verið alþjónusta skulu að beiðni áskr
                      af kostnaði ásamt hæfilegri álagningu.
   Póst- og fjarskiptastofnun getur sett nánari reglur^1) um númeraflutning og
      tímasetningar í því sambandi og sker úr ágreiningi um framkvæmd hans.
-                     ^1)[13]Rgl. 401/2001, sbr. [14]840/2001.
+    ^1)[13]Rgl. 401/2001, sbr. [14]rgl. 840/2001, [15]508/2003 og [16]83/2004.
                          53. gr. Forval og fast forval.
  Fyrirtæki sem hafa umtalsverða markaðshlutdeild í tengingum við almenna fasta
   talsímanetið skulu gera áskrifendum sínum mögulegt að fá aðgang að þjónustu
@@ -824,7 +826,7 @@ Póst- og fjarskiptastofnun skal tryggja að gjöld fyrir aðgang og samtengingu
                               hæfilegri álagningu.
    Póst- og fjarskiptastofnun er heimilt að setja reglur^1) um forval og fast
                                     forval.
-                               ^1)[15]Rgl. 280/2002.
+                               ^1)[17]Rgl. 280/2002.
                         54. gr. Verndun talsímanetsins.
 Fyrirtæki sem bjóða almenna talsímaþjónustu skulu gera nauðsynlegar ráðstafanir
   sem miða að því að almenna talsímanetið og almenna talsímaþjónustan, þ.m.t.
@@ -867,7 +869,7 @@ fjarskiptanet skulu birta upplýsingar um tæknilega eiginleika í nettengipunkt
  fjarskiptastofnunar. Stofnuninni er þó heimilt að gefa út almennt leyfi fyrir
  þráðlaus fjarskiptanet í ákveðnum tíðnisviðum þegar geislað afl senda er undir
                           hámarki sem stofnunin setur.
-                               ^1)[16]Rg. 532/2001.
+                               ^1)[18]Rg. 532/2001.
                        60. gr. Innanhússfjarskiptalagnir.
      Fjarskiptalagnir í húsnæði áskrifenda, þ.m.t. húskassar, eru á ábyrgð
 húseigenda. Staðsetning húskassa og allar lagnir í byggingu skulu vera í samræmi
@@ -933,7 +935,7 @@ Fjarskiptabúnað í erlendum skipum, flugvélum eða öðrum farartækjum sem e
   farartækjum í íslenskri lögsögu ef notkunin telst andstæð íslenskum reglum.
   Þrátt fyrir ákvæði 2. mgr. getur Póst- og fjarskiptastofnun heimilað notkun
           búnaðar sem viðurkenndur er til notkunar á alþjóðavettvangi.
-                                ^1)[17]Rg. 53/2000.
+                                ^1)[19]Rg. 53/2000.
                   64. gr. Takmörkun fjarskipta vegna truflana.
 Póst- og fjarskiptastofnun getur látið innsigla fjarskiptavirki eða hluta þeirra
    eða bannað notkun þeirra og eftir atvikum fyrirskipað að fá þau afhent til
@@ -1130,7 +1132,7 @@ fella niður skráningu fyrirtækisins, afturkalla réttindi, bæta við skilyr�
                        75. gr. Almenn reglugerðarheimild.
       Samgönguráðherra setur í reglugerð^1) nánari fyrirmæli um framkvæmd
                                 fjarskiptamála.
-             ^1)[18]Rg. 866/2000, [19]rg. 532/2001, [20]rg. 298/2002.
+             ^1)[20]Rg. 866/2000, [21]rg. 532/2001, [22]rg. 298/2002.
                               76. gr. Gildistaka.
 Lög þessi öðlast gildi 25. júlí 2003. Ákvæði 22. gr. tekur gildi 1. janúar 2004
 og kemur fyrst til framkvæmda á árinu 2005 vegna bókfærðrar veltu á árinu 2004.
@@ -1167,21 +1169,23 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003081
    2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/734-2000
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/086-2002
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/318-2003
+   3. http://stjornartidindi.is/servlet/stjrtid/B/2002/86.pdf
+   4. http://stjornartidindi.is/servlet/stjrtid/B/2003/318.pdf
    5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/641-2000
    6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/813-2000
    7. file:///altext/stjtnr.html#1981075?k7
    8. file://1981075.html
    9. file:///altext/stjtnr.html#2000813?g76
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/094-2002
+  10. http://stjornartidindi.is/servlet/stjrtid/B/2002/94.pdf
   11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/960-2001
   12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/199-2002
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/401-2001
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/840-2001
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/280-2002
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/053-2000
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/298-2002
+  13. http://stjornartidindi.is/servlet/stjrtid/B/2001/401.pdf
+  14. http://stjornartidindi.is/servlet/stjrtid/B/2001/840.pdf
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/508-2003
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/083-2004
+  17. http://stjornartidindi.is/servlet/stjrtid/B/2002/280.pdf
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/053-2000
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000
+  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001
+  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/298-2002

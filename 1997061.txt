@@ -138,7 +138,7 @@ Með stjórn deildarinnar fer sérstök stjórnarnefnd sem í eiga sæti fimm me
    tryggingardeildar útflutningslána sem starfrækt er samkvæmt [10]lögum nr.
   76/1987,^2) um Iðnlánasjóð, og er stofnfé hinnar nýju deildar ekki hluti af
                       stofnfé sjóðsins skv. 1. mgr. 7. gr.
-         ^2)[11]L. 143/2002, 1. gr. ^2)Felld úr gildi með [12]l. 60/1997.
+         ^1)[11]L. 143/2002, 1. gr. ^2)Felld úr gildi með [12]l. 60/1997.
     12. gr. [Stjórnarnefnd tryggingardeildar útflutnings ákveður iðgjöld og
 tryggingarhlutföll deildarinnar en þau skulu háð samþykki fjármálaráðherra. Við
     ákvörðun þeirra skal miðað við að þau standi undir rekstri deildarinnar,
@@ -156,22 +156,22 @@ til lengri tíma litið. Starfsemi deildarinnar skal haldið aðgreindri í bók
 [Heildarskuldbindingar tryggingardeildar útflutnings vegna trygginga og ábyrgða
  skv. 11. gr. mega aldrei nema hærri fjárhæð en jafnvirði 130 millj. sérstakra
                            dráttarréttinda (SDR).]^1)
- Stjórnarnefnd tryggingardeildar setur deildinni nánari starfsreglur sem háðar
+Stjórnarnefnd tryggingardeildar setur deildinni nánari starfsreglur^2) sem háðar
                         skulu samþykki fjármálaráðherra.
-                            ^1)[14]L. 143/2002, 3. gr.
+                  ^1)[14]L. 143/2002, 3. gr. ^2)[15]Rgl. 38/2004.
 
               III. kafli. Endurskoðun, eftirlit, gildistaka o.fl.
 14. gr. Stjórn Nýsköpunarsjóðs skal semja ársreikning fyrir hvert reikningsár í
- samræmi við ákvæði [15]laga nr. 144/1994, um ársreikninga. [Ársreikningi skal
+ samræmi við ákvæði [16]laga nr. 144/1994, um ársreikninga. [Ársreikningi skal
        fylgja skrá yfir hlutafjárkaup, lánveitingar og óafturkræf framlög
                               Nýsköpunarsjóðs.]^1)
      Ársreikningur Nýsköpunarsjóðs skal endurskoðaður af Ríkisendurskoðun.
-                             ^1)[16]L. 32/1999, 2. gr.
+                             ^1)[17]L. 32/1999, 2. gr.
       15. gr. [Fjármálaeftirlitið]^1) hefur eftirlit með því að starfsemi
  Nýsköpunarsjóðs sé í samræmi við ákvæði laga þessara og reglna settra samkvæmt
     þeim. Um eftirlitið fer samkvæmt ákvæðum laga um [opinbert eftirlit með
                              fjármálastarfsemi].^1)
-                            ^1)[17]L. 84/1998, 10. gr.
+                            ^1)[18]L. 84/1998, 10. gr.
  16. gr. Stjórnendur Nýsköpunarsjóðs og aðrir þeir sem vinna fyrir sjóðinn eru
  bundnir þagnarskyldu um atriði sem þeir fá vitneskju um í starfi sínu og leynt
  skulu fara samkvæmt lögum, fyrirmælum yfirboðara eða eðli máls. Þagnarskyldan
@@ -179,10 +179,10 @@ til lengri tíma litið. Starfsemi deildarinnar skal haldið aðgreindri í bók
   17. gr. Nýsköpunarsjóður er undanþeginn tekjuskatti og eignarskatti. Lán sem
             sjóðurinn tekur eða veitir eru undanþegin stimpilgjaldi.
    18. gr. Ráðherra setur í reglugerð^1) nánari ákvæði um framkvæmd laganna.
-              ^1)[18]Rg. 769/1997, sbr. [19]310/1999 og [20]924/2002.
+              ^1)[19]Rg. 769/1997, sbr. [20]310/1999 og [21]924/2002.
 19. gr. Fyrir brot á lögum þessum skal refsað með sektum eða [fangelsi allt að 2
        árum]^1) liggi ekki þyngri refsing við broti samkvæmt öðrum lögum.
-                            ^1)[21]L. 82/1998, 237. gr.
+                            ^1)[22]L. 82/1998, 237. gr.
  20. gr. Lög þessi öðlast þegar gildi. Nýsköpunarsjóður skal taka til starfa 1.
                                   janúar 1998.
   Allur kostnaður af stofnun Nýsköpunarsjóðs atvinnulífsins greiðist af honum.
@@ -195,7 +195,7 @@ réttinda og hann hafði samkvæmt kjarasamningum og/eða ráðningarsamningum. 
       Nýsköpunarsjóður yfirtekur lífeyrisskuldbindingar vegna starfsmanna
  Fiskveiðasjóðs, Iðnlánasjóðs og Iðnþróunarsjóðs sem taka við starfi í sjóðnum.
                                       ^1)
-                             ^1)[22]L. 32/1999, 3. gr.
+                             ^1)[23]L. 32/1999, 3. gr.
 
 References
 
@@ -214,11 +214,12 @@ References
   12. file://1997060.html
   13. file:///altext/stjt/2002.143.html
   14. file:///altext/stjt/2002.143.html
-  15. file://1994144.html
-  16. file:///altext/stjt/1999.032.html
-  17. file:///altext/stjt/1998.084.html
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/769-1997
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/310-1999
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/924-2002
-  21. file:///altext/stjt/1998.082.html
-  22. file:///altext/stjt/1999.032.html
+  15. http://stjornartidindi.is/servlet/stjrtid/B/2004/38.pdf
+  16. file://1994144.html
+  17. file:///altext/stjt/1999.032.html
+  18. file:///altext/stjt/1998.084.html
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/769-1997
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/310-1999
+  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/924-2002
+  22. file:///altext/stjt/1998.082.html
+  23. file:///altext/stjt/1999.032.html

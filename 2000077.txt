@@ -7,10 +7,12 @@
 
    --------------------------------------------------------------------------
 
-Tóku gildi 1. janúar 2001. Breytt með [2]l. 90/2001 (tóku gildi 15. júní 2001),
-  [3]l. 30/2002 (tóku gildi 16. apríl 2002), [4]l. 81/2002 (tóku gildi 17. maí
-2002), [5]l. 46/2003 (tóku gildi 7. apríl 2003) og [6]l. 72/2003 (tóku gildi 10.
-                                  apríl 2003).
+  Tóku gildi 1. janúar 2001. EES-samningurinn: XI. viðauki tilskipun 95/46/EB,
+  XIX. viðauki tilskipun 97/7/EB og XI. viðauki tilskipun 97/66/EB. Breytt með
+[2]l. 90/2001 (tóku gildi 15. júní 2001; EES-samningurinn: XI. viðauki tilskipun
+95/46/EB), [3]l. 30/2002 (tóku gildi 16. apríl 2002), [4]l. 81/2002 (tóku gildi
+ 17. maí 2002; EES-samningurinn: XI. viðauki tilskipun 95/46/EB), [5]l. 46/2003
+    (tóku gildi 7. apríl 2003) og [6]l. 72/2003 (tóku gildi 10. apríl 2003).
 
                 I. kafli. Markmið, skilgreiningar og gildissvið.
                                 1. gr. Markmið.
@@ -88,7 +90,7 @@ tilgangi. Rafræn vöktun svæðis þar sem takmarkaður hópur fólks fer um a�
    [Lögin gilda um vinnslu persónuupplýsinga á vegum ábyrgðaraðila sem hefur
  staðfestu hér á landi, enda fari vinnsla persónuupplýsinganna fram á Evrópska
 efnahagssvæðinu, [í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu]^1) eða
-       í landi eða á stöðum sem Persónuvernd auglýsir í Stjórnartíðindum.
+     í landi eða á stöðum sem Persónuvernd auglýsir í Stjórnartíðindum.^2)
 [Lögin gilda einnig um vinnslu persónuupplýsinga þótt ábyrgðaraðili hafi hvorki
    staðfestu í ríki á Evrópska efnahagssvæðinu né í aðildarríki stofnsamnings
  Fríverslunarsamtaka Evrópu ef hann notar tæki og búnað sem er hér á landi.]^1)
@@ -99,8 +101,9 @@ lögaðila, sbr. 45. gr. laganna, enda þótt ábyrgðaraðili hafi ekki staðfe
                     að flytja persónuupplýsingar um Ísland.
   Þegar svo hagar til sem greinir í 2. og 3. mgr. skal ábyrgðaraðili tilnefna
     fulltrúa sinn sem hefur staðfestu hér á landi og gilda þá ákvæði laganna
-        varðandi ábyrgðaraðila um þann fulltrúa eftir því sem við á.]^2)
-                ^1)[9]L. 72/2003, 5. gr. ^2)[10]L. 90/2001, 1. gr.
+        varðandi ábyrgðaraðila um þann fulltrúa eftir því sem við á.]^3)
+    ^1)[9]L. 72/2003, 5. gr. ^2)Augl. 435/2003, sbr. augl. 974/2003. ^3)[10]L.
+                                90/2001, 1. gr.
 
             II. kafli. Almennar reglur um vinnslu persónuupplýsinga.
                7. gr. [Meginreglur um gæði gagna og vinnslu.]^1)
@@ -251,16 +254,17 @@ vinna með persónuupplýsingar í samræmi við fyrirmæli ábyrgðaraðila nem
 ábyrgðaraðili, sbr. 1. mgr. 6. gr., skal jafnframt mælt svo fyrir í samningi að
      lög og reglur þess ríkis þar sem vinnsluaðili hefur staðfestu gildi um
   öryggisráðstafanir við vinnslu persónuupplýsinga. Getur Persónuvernd t.d. í
-  auglýsingu í Stjórnartíðindum áskilið að slíkur samningur innihaldi stöðluð
+ auglýsingu^1) í Stjórnartíðindum áskilið að slíkur samningur innihaldi stöðluð
   ákvæði sem séu í samræmi við ákvörðun framkvæmdastjórnar Evrópubandalagsins.
 Sama á við þegar ábyrgðaraðili hefur staðfestu í ríki á Evrópska efnahagssvæðinu
 en vinnsluaðili ekki fari vinnslan fram í landi eða á stöðum sem upp eru taldir
-                  í auglýsingu sem Persónuvernd gefur út.]^1)
+                  í auglýsingu sem Persónuvernd gefur út.]^2)
  [Ákvæði 4. mgr. gilda einnig þegar vinnsluaðili á staðfestu í öðru aðildarríki
 stofnsamnings Fríverslunarsamtaka Evrópu en ábyrgðaraðili, sbr. 1. mgr. 6. gr.,
        og þegar ábyrgðaraðili hefur staðfestu í aðildarríki stofnsamnings
-              Fríverslunarsamtaka Evrópu en vinnsluaðili ekki.]^2)
-                ^1)[20]L. 90/2001, 7. gr. ^2)[21]L. 72/2003, 6. gr.
+              Fríverslunarsamtaka Evrópu en vinnsluaðili ekki.]^3)
+    ^1)Augl. 435/2003, sbr. augl. 974/2003. ^2)[20]L. 90/2001, 7. gr. ^3)[21]L.
+                                72/2003, 6. gr.
                    14. gr. Frestur til að fullnægja skyldum.
 Ábyrgðaraðili skal afgreiða erindi samkvæmt ákvæðum 16., 18., 22., 25., 26., 27.
    og 28. gr. svo fljótt sem verða má og eigi síðar en innan eins mánaðar frá
@@ -490,15 +494,15 @@ Viðtakandi markpósts á rétt á að fá vitneskju um hvaðan þær upplýsing
 Ríki sem framfylgir tilskipun Evrópusambandsins 95/46/ESB um vernd einstaklinga
  í tengslum við vinnslu persónuupplýsinga og um frjálst flæði slíkra upplýsinga
 telst fullnægja skilyrðum 1. mgr. [Sama á við um lönd eða staði sem Persónuvernd
-      auglýsir í Stjórnartíðindum að virtum ákvörðunum framkvæmdastjórnar
-                            Evrópubandalagsins.]^1)
+     auglýsir^1) í Stjórnartíðindum að virtum ákvörðunum framkvæmdastjórnar
+                            Evrópubandalagsins.]^2)
    Við mat á því hvort ríki sem ekki framfylgir tilskipun 95/46/ESB fullnægi
     skilyrðum 1. mgr. skal m.a. líta til reglna viðkomandi ríkis um meðferð
 persónuupplýsinga, reglna um góða viðskiptahætti og þeirra öryggisráðstafana sem
 viðhafðar eru hjá viðtakanda. Þá skal taka mið af því hvort viðkomandi ríki hafi
       fullgilt samning Evrópuráðsins nr. 108 frá 28. janúar 1981, um vernd
             einstaklinga varðandi vélræna vinnslu persónuupplýsinga.
-                             ^1)[26]L. 90/2001, 9. gr.
+         ^1)Augl. 435/2003, sbr. augl. 974/2003. ^2)[26]L. 90/2001, 9. gr.
   30. gr. Flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi
                             persónuupplýsingavernd.
 Óheimill er flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi
@@ -547,7 +551,7 @@ tilkynningarskyldu getur Persónuvernd sett fyrirmæli, þar á meðal um þau a
     sem talin eru í 2. mgr. 35. gr. Persónuvernd getur einnig mælt fyrir um
 ráðstafanir til að draga úr óhagræði sem slík vinnsla persónuupplýsinga kann að
                      hafa í för með sér fyrir hinn skráða.
-                      ^1)[28]Rgl. 90/2001, sbr. [29]170/2001.
+                   ^1)[28]Rgl. 90/2001, sbr. [29]rgl. 170/2001.
                            32. gr. Efni tilkynninga.
    Í tilkynningu til Persónuverndar skv. 31. gr. skal tilgreina eftirfarandi
                                     atriði:
@@ -581,8 +585,8 @@ sér sérstaka hættu á að farið verði í bága við réttindi og frelsi skr
    verið athuguð af stofnuninni og samþykkt með útgáfu sérstakrar heimildar.
 Persónuvernd getur ákveðið^2) að slík leyfisskylda falli brott þegar settar hafa
   verið almennar reglur og öryggisstaðlar sem fylgja skuli við slíka vinnslu.
-        ^1)[32]Rgl. 90/2001, sbr. [33]170/2001. ^2)[34]Rgl. 170/2001, sbr.
-                                 [35]157/2003.
+      ^1)[32]Rgl. 90/2001, sbr. [33]rgl. 170/2001. ^2)[34]Rgl. 170/2001, sbr.
+                               [35]rgl. 157/2003.
                     34. gr. Forsendur leyfisveitingar o.fl.
 Ábyrgðaraðila má aðeins veita leyfi skv. 33. gr., eða einstakar aðrar heimildir
     samkvæmt lögum þessum, ef líklegt er að hann geti fullnægt skyldum sínum
@@ -820,9 +824,9 @@ References
   13. file:///altext/stjt/2003.046.html
   14. file:///altext/stjt/2001.090.html
   15. file:///altext/stjt/2002.081.html
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/299-2001
+  16. http://stjornartidindi.is/servlet/stjrtid/B/2001/299.pdf
   17. file:///altext/stjt/2001.090.html
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/299-2001
+  18. http://stjornartidindi.is/servlet/stjrtid/B/2001/299.pdf
   19. file:///altext/stjt/2001.090.html
   20. file:///altext/stjt/2001.090.html
   21. file:///altext/stjt/2003.072.html
@@ -832,16 +836,16 @@ References
   25. file:///altext/stjt/2001.090.html
   26. file:///altext/stjt/2001.090.html
   27. file:///altext/stjt/2001.090.html
-  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/090-2001
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/170-2001
+  28. http://stjornartidindi.is/servlet/stjrtid/B/2001/90.pdf
+  29. http://stjornartidindi.is/servlet/stjrtid/B/2001/170.pdf
   30. file:///altext/stjt/2002.081.html
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/090-2001
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/090-2001
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/170-2001
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/170-2001
-  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2003
+  31. http://stjornartidindi.is/servlet/stjrtid/B/2001/90.pdf
+  32. http://stjornartidindi.is/servlet/stjrtid/B/2001/90.pdf
+  33. http://stjornartidindi.is/servlet/stjrtid/B/2001/170.pdf
+  34. http://stjornartidindi.is/servlet/stjrtid/B/2001/170.pdf
+  35. http://stjornartidindi.is/servlet/stjrtid/B/2003/157.pdf
   36. file:///altext/stjt/2001.090.html
-  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/340-2003
+  37. http://stjornartidindi.is/servlet/stjrtid/B/2003/340.pdf
   38. file:///altext/stjt/2002.081.html
   39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/246-2001
   40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/322-2001

@@ -25,14 +25,14 @@ Markmið laga þessara er að stuðla að því að fjármálastarfsemi sem lög
                          1. viðskiptabanka og sparisjóða,
              2. lánastofnana annarra en viðskiptabanka og sparisjóða,
      [3. rafeyrisfyrirtækja, skv. 1. og 2. gr. laga um rafeyrisfyrirtæki],^1)
-                            [4.] ^1) vátryggingafélaga,
-           [5.] ^1) félaga og einstaklinga sem stunda vátryggingamiðlun,
-                     [6.] ^1) fyrirtækja í verðbréfaþjónustu,
-             [7.] ^1) verðbréfasjóða og rekstrarfélaga verðbréfasjóða,
-               [8.] ^1) [kauphalla og skipulegra tilboðsmarkaða],^2)
-                           [9.] ^1) verðbréfamiðstöðva,
-                             [10.] ^1) lífeyrissjóða,
-      [11.] ^1) aðila, annarra en greinir í 1. tölul., sem heimild hafa lögum
+                            [4. ]^1) vátryggingafélaga,
+           [5. ]^1) félaga og einstaklinga sem stunda vátryggingamiðlun,
+                     [6. ]^1) fyrirtækja í verðbréfaþjónustu,
+             [7. ]^1) verðbréfasjóða og rekstrarfélaga verðbréfasjóða,
+               [8. ]^1) [kauphalla og skipulegra tilboðsmarkaða],^2)
+                           [9. ]^1) verðbréfamiðstöðva,
+                             [10. ]^1) lífeyrissjóða,
+      [11. ]^1) aðila, annarra en greinir í 1. tölul., sem heimild hafa lögum
                     samkvæmt til þess að taka við innlánum.
  Lögin taka einnig til eftirlits með annarri starfsemi en greinir í 1. mgr. sem
              Fjármálaeftirlitinu er falið samkvæmt sérstökum lögum.
@@ -320,7 +320,7 @@ References
    5. file:///altext/stjt/2003.050.html
    6. file://2002037.html
    7. file:///altext/stjt/2000.011.html
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/704-2001
+   8. http://stjornartidindi.is/servlet/stjrtid/B/2001/704.pdf
    9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001
   10. file:///altext/stjt/2000.011.html
   11. file:///altext/stjt/2000.011.html
