@@ -532,8 +532,8 @@ Landsvæði þjóðgarða skulu vera í ríkiseign nema sérstakar ástæður m�
                  þjóðgarða og skulu þær staðfestar af ráðherra.
      Umhverfisráðherra setur, að fenginni tillögu [Umhverfisstofnunar],^1)
       reglugerð^2) um meðferð og rekstur þjóðgarða og umgengni almennings.
-    ^2)[55]L. 164/2002, 22. gr. ^2)[56]Rg. 319/1984, sbr. [57]292/2001; [58]rg.
-        359/1993, sbr. [59]285/2001; [60]rg. 513/1995, [61]rg. 568/2001.
+    ^2)[55]L. 164/2002, 22. gr. ^2)[56]Rg. 359/1993, sbr. [57]285/2001; [58]rg.
+                 513/1995, [59]rg. 568/2001, [60]rg. 879/2004.
                 53. gr. Friðlýsing annarra náttúruminja á landi.
 Umhverfisráðherra getur, að fengnum tillögum eða áliti [[Umhverfisstofnunar]^1)
                 og Náttúrufræðistofnunar Íslands],^2) friðlýst:
@@ -550,9 +550,9 @@ svæði í kringum náttúrumyndanir svo sem nauðsynlegt er til þess að þær
                          raskað, fækkað eða útrýmt.^6)
  Friðlýsing skv. 2. og 3. tölul. 1. mgr. getur ýmist verið staðbundin eða tekið
                                til landsins alls.
-    ^1)[62]L. 164/2002, 22. gr. ^2)[63]L. 140/2001, 10. gr. ^3)Augl. 457/1996,
+    ^1)[61]L. 164/2002, 22. gr. ^2)[62]L. 140/2001, 10. gr. ^3)Augl. 457/1996,
     augl. 606/2001, augl. 663/2002. ^4)Augl. 120/1994, augl. 326/1999, augl.
-    249/2001, augl. 591/2002. ^5)[64]L. 140/2001, 11. gr. ^6)Augl. 364/2002.
+    249/2001, augl. 591/2002. ^5)[63]L. 140/2001, 11. gr. ^6)Augl. 364/2002.
                     54. gr. Friðlýsing náttúruminja í hafi.
    Umhverfisráðherra getur, að fengnu samþykki sjávarútvegsráðherra og eftir
        atvikum að fengnum tillögum eða áliti Hafrannsóknastofnunarinnar,
@@ -564,7 +564,7 @@ hafsbotni sem mikilvægt þykir að varðveita sakir fegurðar eða sérkenna e�
    til þess að þær fái notið sín og skal þess greinilega getið í friðlýsingu.
    Ákvæði annarra greina þessa kafla gilda eftir því sem við á um friðlýstar
                              náttúruminjar í hafi.
-              ^1)[65]L. 164/2002, 22. gr. ^2)[66]L. 140/2001, 12. gr.
+              ^1)[64]L. 164/2002, 22. gr. ^2)[65]L. 140/2001, 12. gr.
                            55. gr. Stofnun fólkvangs.
   Umhverfisráðherra getur, að fengnum tillögum hlutaðeigandi sveitarfélags eða
   sveitarfélaga og áliti [Umhverfisstofnunar],^1) lýst tiltekið landsvæði, sem
@@ -573,7 +573,7 @@ Vilji eitt sveitarfélag eða fleiri að tiltekið svæði verði lýst fólkvan
 það eða þau gera tillögu um slíkt til [Umhverfisstofnunar]^1) þar sem m.a. skal
  gerð grein fyrir mörkum fólkvangsins og hvaða takmarkanir ákvörðun um fólkvang
      kunni að setja umráðarétti eigenda eða rétthafa viðkomandi landsvæðis.
-                            ^1)[67]L. 164/2002, 22. gr.
+                            ^1)[66]L. 164/2002, 22. gr.
               56. gr. Kostnaður við stofnun og rekstur fólkvangs.
 Hlutaðeigandi sveitarfélög bera allan kostnað af stofnun og rekstri fólkvangs að
     því leyti sem ekki koma til framlög úr ríkissjóði og skal honum skipt í
@@ -587,7 +587,7 @@ Sveitarfélög sem standa að rekstri fólkvangs skulu gera með sér samvinnusa
 nefndarinnar. Ef ekki er öðruvísi ákveðið ræður afl atkvæða. Þegar um er að ræða
   atriði sem hafa sérstakan kostnað í för með sér fer þó um atkvæðisrétt eftir
                      greiðsluhlutföllum aðila, sbr. 56. gr.
-                            ^1)[68]L. 164/2002, 22. gr.
+                            ^1)[67]L. 164/2002, 22. gr.
                       58. gr. Undirbúningur friðlýsingar.
  [Umhverfisstofnun]^1) annast undirbúning friðlýsingar, sbr. þó 2. mgr. 55. gr.
 Leita skal samráðs við Hafrannsóknastofnunina við undirbúning friðlýsingar skv.
@@ -595,7 +595,7 @@ Leita skal samráðs við Hafrannsóknastofnunina við undirbúning friðlýsing
  fyrir landeigendur, viðkomandi sveitarfélög og aðra sem hagsmuna eiga að gæta.
   Náist samkomulag um friðlýsingu skal málinu vísað til umhverfisráðherra til
                               frekari ákvörðunar.
-                            ^1)[69]L. 164/2002, 22. gr.
+                            ^1)[68]L. 164/2002, 22. gr.
                   59. gr. Samkomulag næst ekki um friðlýsingu.
       Náist ekki samkomulag um friðlýsingu skal málinu vísað til meðferðar
   umhverfisráðherra. Ráðherra sendir landeigendum og öðrum rétthöfum lands er
@@ -622,23 +622,23 @@ umhverfi að hætta sé á að ákveðnar lífverur, búsvæði þeirra og vistk
  eða verði fyrir verulegum skaða getur umhverfisráðherra látið friðlýsingu taka
           til banns við slíkum framkvæmdum, enda sé áður fengin umsögn
            [Umhverfisstofnunar]^1) og Náttúrufræðistofnunar Íslands.
-                            ^1)[70]L. 164/2002, 22. gr.
+                            ^1)[69]L. 164/2002, 22. gr.
                              61. gr. Meðferð máls.
    Um undirbúning og ákvörðun um friðlýsingu fer að öðru leyti eftir ákvæðum
-                       [71]stjórnsýslulaga, nr. 37/1993.
+                       [70]stjórnsýslulaga, nr. 37/1993.
                        62. gr. Auglýsingar og merkingar.
     Umhverfisráðherra skal birta ákvörðun um friðlýsingu og ákvæði hennar í
                                Stjórnartíðindum.
  [Umhverfisstofnun]^1) skal merkja og veita upplýsingar um friðlýst svæði eftir
      því sem við verður komið og nauðsynlegt þykir að mati stofnunarinnar.
-                            ^1)[72]L. 164/2002, 22. gr.
+                            ^1)[71]L. 164/2002, 22. gr.
                     63. gr. Röskun friðlýstra náttúruminja.
    Friðlýstum náttúruminjum má enginn granda, spilla né breyta. Varðar röskun
                  þeirra refsingu skv. 76. gr., sbr. og 75. gr.
                         64. gr. Heimild til eignarnáms.
 Umhverfisráðherra er heimilt að taka eignarnámi lönd, mannvirki og réttindi til
    að framkvæma friðlýsingu samkvæmt lögum þessum. Um framkvæmd eignarnáms og
- ákvörðun bóta fer eftir ákvæðum [73]laga um framkvæmd eignarnáms, nr. 11/1973.
+ ákvörðun bóta fer eftir ákvæðum [72]laga um framkvæmd eignarnáms, nr. 11/1973.
 
              VIII. kafli. Náttúruverndaráætlun og náttúruminjaskrá.
                          65. gr. Náttúruverndaráætlun.
@@ -647,7 +647,7 @@ Umhverfisráðherra er heimilt að taka eignarnámi lönd, mannvirki og réttind
      [Umhverfisstofnun]^1) skal í samráði við Náttúrufræðistofnun Íslands,
 náttúrustofur og hlutaðeigandi náttúruverndarnefndir sjá um undirbúning og öflun
                            gagna vegna áætlunarinnar.
-                            ^1)[74]L. 164/2002, 22. gr.
+                            ^1)[73]L. 164/2002, 22. gr.
                       66. gr. Efni náttúruverndaráætlunar.
   Í náttúruverndaráætlun skv. 65. gr. skulu vera sem gleggstar upplýsingar um
      náttúruminjar, þ.e. náttúruverndarsvæði og lífverur, [búsvæði þeirra,
@@ -667,7 +667,7 @@ vistgerðir]^1) og vistkerfi, sem ástæða þykir til að friðlýsa. Skal í �
              e. séu mikilvæg fyrir viðhald náttúrulegra þróunarferla,
                       f. hafi alþjóðlegt náttúruverndargildi,
             g. séu einkennandi fyrir náttúrufar viðkomandi landshluta.
-                            ^1)[75]L. 140/2001, 13. gr.
+                            ^1)[74]L. 140/2001, 13. gr.
                            67. gr. Náttúruminjaskrá.
  Umhverfisráðherra skal gefa út heildstæða náttúruminjaskrá^1) eigi sjaldnar en
  fimmta hvert ár og birta í Stjórnartíðindum. Birta má hvenær sem er ákvarðanir
@@ -675,7 +675,7 @@ vistgerðir]^1) og vistkerfi, sem ástæða þykir til að friðlýsa. Skal í �
     [Umhverfisstofnun]^2) skal í samráði við Náttúrufræðistofnun Íslands og
 hlutaðeigandi náttúrustofur og náttúruverndarnefndir sjá um undirbúning og öflun
        gagna vegna viðbóta við náttúruminjaskrá og heildarútgáfu hennar.
-           ^1)Augl. 631/1995, sbr. 78/2002. ^2)[76]L. 164/2002, 22. gr.
+           ^1)Augl. 631/1995, sbr. 78/2002. ^2)[75]L. 164/2002, 22. gr.
                         68. gr. Efni náttúruminjaskrár.
           Í náttúruminjaskrá skulu vera sem gleggstar upplýsingar um:
                            a. friðlýstar náttúruminjar,
@@ -687,10 +687,10 @@ hlutaðeigandi náttúrustofur og náttúruverndarnefndir sjá um undirbúning o
                                náttúru landsins.
      Umhverfisráðherra getur í reglugerð sett nánari fyrirmæli um skráningu
                                  náttúruminja.
-                            ^1)[77]L. 140/2001, 14. gr.
+                            ^1)[76]L. 140/2001, 14. gr.
                  69. gr. Sala jarðar sem er á náttúruminjaskrá.
   Um sölu jarðar sem öll eða að hluta er á náttúruminjaskrá fer eftir ákvæðum
- [78]jarðalaga, nr. 65/1976, en þó þannig að ríkissjóður skal hafa forkaupsrétt
+ [77]jarðalaga, nr. 65/1976, en þó þannig að ríkissjóður skal hafa forkaupsrétt
          að þeim aðilum frágengnum sem hann er veittur með þeim lögum.
 
                             IX. kafli. Ýmis ákvæði.
@@ -703,9 +703,9 @@ sjóbaða, vatnsbökkum og öðrum stígum og svæðum sem ástæða er til að 
                            þurfa þykir í þessu skyni.
  Framkvæmdir samkvæmt þessari grein skulu einungis gerðar með samþykki eigenda
                               eða rétthafa lands.
-                            ^1)[79]L. 164/2002, 22. gr.
+                            ^1)[78]L. 164/2002, 22. gr.
                                   71. gr. ^1)
-                            ^1)[80]L. 140/2001, 15. gr.
+                            ^1)[79]L. 140/2001, 15. gr.
                     72. gr. Kostnaður við framkvæmd laganna.
  Kostnaður við framkvæmd laga þessara skal greiddur úr ríkissjóði eftir því sem
                             ákveðið er í fjárlögum.
@@ -717,26 +717,26 @@ ráðstöfunum sem þeim er skylt að hlutast til um samkvæmt lögunum eða til
 Rísi ágreiningur um ákvörðun annars aðila en umhverfisráðherra um framkvæmd laga
     þessara er heimilt að kæra umrædda ákvörðun til ráðherra sem kveður upp
   endanlegan úrskurð á stjórnsýslustigi. Um kærurétt og málsmeðferð fer eftir
-                   ákvæðum [81]stjórnsýslulaga, nr. 37/1993.
+                   ákvæðum [80]stjórnsýslulaga, nr. 37/1993.
                        75. gr. Spjöll á náttúru landsins.
 Hver sá sem veldur á ólögmætan hátt spjöllum á náttúru landsins, hvort heldur er
            af gáleysi eða ásetningi, skal sæta refsingu skv. 76. gr.
                               76. gr. Refsiábyrgð.
   Hver sá sem brýtur gegn ákvæðum laga þessara eða reglna settra samkvæmt þeim
  skal sæta sektum eða fangelsi allt að tveimur árum. Sektir renna í ríkissjóð.
-Með mál samkvæmt þessari grein skal farið að hætti opinberra mála, sbr. [82]lög
+Með mál samkvæmt þessari grein skal farið að hætti opinberra mála, sbr. [81]lög
                     um meðferð opinberra mála, nr. 19/1991.
                               77. gr. Skaðabætur.
 Hver sá er fyrir fjártjóni verður vegna framkvæmda skv. VII. kafla laga þessara
 á rétt til skaðabóta úr ríkissjóði sé ekki öðruvísi ákveðið. Ef samkomulag næst
-  ekki um bætur skulu þær ákveðnar í samræmi við ákvæði [83]laga um framkvæmd
+  ekki um bætur skulu þær ákveðnar í samræmi við ákvæði [82]laga um framkvæmd
                             eignarnáms, nr. 11/1973.
                               78. gr. Gildistaka.
                       Lög þessi öðlast gildi 1. júlí 1999.
  Reglugerðir og önnur stjórnvaldsfyrirmæli, sem sett eru samkvæmt eldri lögum,
    skulu halda gildi sínu að svo miklu leyti sem þau fara ekki í bága við lög
                                    þessi.^1)
-                      ^1)[84]Rg. 205/1973, sbr. [85]640/1982.
+                      ^1)[83]Rg. 205/1973, sbr. [84]640/1982.
                                     79. gr.
 
                             Ákvæði til bráðabirgða.
@@ -749,7 +749,7 @@ I. Umhverfisráðherra skal eigi síðar en árið 2002 leggja fyrir Alþingi í
 gera áætlun um frágang svæðanna og kostnað við hann, svo og tillögur um greiðslu
 kostnaðar. Þá skal stofnunin enn fremur hafa umsjón með frágangi svæðanna. Skal
                       honum lokið eigi síðar en árið 2003.
-               ^1)Nú Umhverfisstofnun, sbr. [86]l. 164/2002, 22. gr.
+               ^1)Nú Umhverfisstofnun, sbr. [85]l. 164/2002, 22. gr.
  III. Sveitarstjórnir skulu eigi síðar en árið 2002 hafa lokið úttekt á ástandi
    skv. 44. gr. og skilað Náttúruvernd ríkisins skriflegri greinargerð þar að
                                     lútandi.
@@ -812,34 +812,33 @@ References
   53. file:///altext/stjt/2002.164.html
   54. file:///altext/stjt/2001.140.html
   55. file:///altext/stjt/2002.164.html
-  56. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/319-1984
-  57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/292-2001
-  58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/359-1993
-  59. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/285-2001
-  60. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/513-1995
-  61. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/568-2001
-  62. file:///altext/stjt/2002.164.html
+  56. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/359-1993
+  57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/285-2001
+  58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/513-1995
+  59. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/568-2001
+  60. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/879-2004
+  61. file:///altext/stjt/2002.164.html
+  62. file:///altext/stjt/2001.140.html
   63. file:///altext/stjt/2001.140.html
-  64. file:///altext/stjt/2001.140.html
-  65. file:///altext/stjt/2002.164.html
-  66. file:///altext/stjt/2001.140.html
+  64. file:///altext/stjt/2002.164.html
+  65. file:///altext/stjt/2001.140.html
+  66. file:///altext/stjt/2002.164.html
   67. file:///altext/stjt/2002.164.html
   68. file:///altext/stjt/2002.164.html
   69. file:///altext/stjt/2002.164.html
-  70. file:///altext/stjt/2002.164.html
-  71. file://1993037.html
-  72. file:///altext/stjt/2002.164.html
-  73. file://1973011.html
-  74. file:///altext/stjt/2002.164.html
-  75. file:///altext/stjt/2001.140.html
-  76. file:///altext/stjt/2002.164.html
-  77. file:///altext/stjt/2001.140.html
-  78. file://1976065.html
-  79. file:///altext/stjt/2002.164.html
-  80. file:///altext/stjt/2001.140.html
-  81. file://1993037.html
-  82. file://1991019.html
-  83. file://1973011.html
-  84. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/205-1973
-  85. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/640-1982
-  86. file:///altext/stjt/2002.164.html
+  70. file://1993037.html
+  71. file:///altext/stjt/2002.164.html
+  72. file://1973011.html
+  73. file:///altext/stjt/2002.164.html
+  74. file:///altext/stjt/2001.140.html
+  75. file:///altext/stjt/2002.164.html
+  76. file:///altext/stjt/2001.140.html
+  77. file://1976065.html
+  78. file:///altext/stjt/2002.164.html
+  79. file:///altext/stjt/2001.140.html
+  80. file://1993037.html
+  81. file://1991019.html
+  82. file://1973011.html
+  83. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/205-1973
+  84. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/640-1982
+  85. file:///altext/stjt/2002.164.html

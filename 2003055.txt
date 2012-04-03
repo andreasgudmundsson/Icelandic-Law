@@ -9,7 +9,8 @@
    --------------------------------------------------------------------------
 
  Tóku gildi 7. apríl 2003. EES-samningurinn: XX. viðauki tilskipun 75/442/EBE,
-                     1999/31/EB, 2000/53/EB og 2000/76/EB.
+1999/31/EB, 2000/53/EB og 2000/76/EB. Breytt með [2]l. 150/2004 (tóku gildi 30.
+                                  des. 2004).
 
                 I. kafli. Markmið, gildissvið og skilgreiningar.
                                 1. gr. Markmið.
@@ -269,8 +270,8 @@ eða endurnýtingu úrgangsins og flutningskostnaði, þ.m.t. kostnaði við að
      k. eftirlit með útflutningi, umflutningi og innflutningi úrgangs, þ.m.t.
                             tryggingu skv. 12. gr.,
                     l. önnur atriði sem samræmast lögum þessum.
-       ^1)[2]Rg. 737/2003 (um meðhöndlun úrgangs). [3]Rg. 738/2003 (um urðun
-                úrgangs). [4]Rg. 739/2003 (um brennslu úrgangs).
+       ^1)[3]Rg. 737/2003 (um meðhöndlun úrgangs). [4]Rg. 738/2003 (um urðun
+                úrgangs). [5]Rg. 739/2003 (um brennslu úrgangs).
 
                      III. kafli. Sérákvæði um urðunarstaði.
                 14. gr. Umsókn um starfsleyfi fyrir urðunarstað.
@@ -376,7 +377,7 @@ brennslustöðin fullnægi kröfum um losunarmörk, ella skal starfsemi stöðva
    samkvæmt lögum þessum í umboði stofnunarinnar. Umhverfisstofnun er einnig
 heimilt að fela tiltekna þætti heilbrigðiseftirlitsins faggiltum skoðunaraðilum.
       Skal í slíkum tilvikum gerður sérstakur samningur við hinn faggilta
-    skoðunaraðila, sbr. [5]30. gr. laga um fjárreiður ríkisins, nr. 88/1997.
+    skoðunaraðila, sbr. [6]30. gr. laga um fjárreiður ríkisins, nr. 88/1997.
  Starfsmönnum Umhverfisstofnunar og öðrum eftirlitsaðilum samkvæmt lögum þessum
    skal heimill aðgangur til skoðunar og eftirlits, þar á meðal töku sýna og
 myndatöku, að öllum þeim stöðum sem lög þessi, reglugerðir og samþykktir settar
@@ -394,16 +395,16 @@ tekur að sér samkvæmt lögum þessum. Upphæð gjalds skal taka mið af kostn
                         innheimta gjald á varnarsvæðum.
      Heimilt er sveitarfélögum að setja gjaldskrá og innheimta gjald fyrir
     eftirlitsskylda starfsemi, svo sem fyrir eftirlit, sé eftirlitið á vegum
-     sveitarfélaga. Leita skal umsagnar hlutaðeigandi heilbrigðisnefndar og
-   hollustuháttaráðs áður en gjaldskrá er sett. Upphæð gjaldsins skal byggð á
-     rekstraráætlun þar sem rökstudd eru þau atriði sem ákvörðun gjalds við
-  viðkomandi eftirlit byggist á og má gjaldið ekki vera hærra en sá kostnaður.
-  Hvert eftirlitssvæði skal hafa sameiginlega gjaldskrá og skal hlutaðeigandi
- heilbrigðisnefnd láta birta hana í B-deild Stjórnartíðinda. Gjöld má innheimta
- með fjárnámi. Gjöld skulu tryggð með lögveðsrétti í viðkomandi fasteign tvö ár
-      eftir gjalddaga þegar leyfi eða þjónusta er tengd notkun fasteignar.
-  Umhverfisráðherra skal gefa út leiðbeinandi reglur um uppbyggingu gjaldskráa
-                                 sveitarfélaga.
+sveitarfélaga. Leita skal umsagnar hlutaðeigandi heilbrigðisnefndar ^1) áður en
+gjaldskrá er sett. Upphæð gjaldsins skal byggð á rekstraráætlun þar sem rökstudd
+   eru þau atriði sem ákvörðun gjalds við viðkomandi eftirlit byggist á og má
+    gjaldið ekki vera hærra en sá kostnaður. Hvert eftirlitssvæði skal hafa
+sameiginlega gjaldskrá og skal hlutaðeigandi heilbrigðisnefnd láta birta hana í
+B-deild Stjórnartíðinda. Gjöld má innheimta með fjárnámi. Gjöld skulu tryggð með
+   lögveðsrétti í viðkomandi fasteign tvö ár eftir gjalddaga þegar leyfi eða
+þjónusta er tengd notkun fasteignar. Umhverfisráðherra skal gefa út leiðbeinandi
+                reglur um uppbyggingu gjaldskráa sveitarfélaga.
+                             ^1)[7]L. 150/2004, 3. gr.
                             22. gr. Þvingunarúrræði.
 Umhverfisstofnun og heilbrigðisnefnd þar sem hún fer með eftirlit er heimilt að
                      beita úrræðum samkvæmt grein þessari.
@@ -485,7 +486,9 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003055
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/737-2003
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/738-2003
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/739-2003
-   5. file://1997088.html#g30
+   2. file:///altext/stjt/2004.150.html
+   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/737-2003
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/738-2003
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/739-2003
+   6. file://1997088.html#g30
+   7. file:///altext/stjt/2004.150.html

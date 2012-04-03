@@ -8,16 +8,18 @@
 
    --------------------------------------------------------------------------
 
-                          Tóku gildi 30. janúar 1989.
+   Tóku gildi 30. janúar 1989. Breytt með [2]l. 129/2004 (taka gildi 31. des.
+                                     2005).
+
    1. gr. Stofna skal norrænan þróunarsjóð samkvæmt samningi milli Danmerkur,
   Finnlands, Íslands, Noregs og Svíþjóðar um stofnun norræns þróunarsjóðs sem
                 undirritaður var í Stokkhólmi 3. nóvember 1988.
-    2. gr. Sjóðurinn skal undanþeginn ákvæðum [2]laga nr. 63/1979, um skipan
+    2. gr. Sjóðurinn skal undanþeginn ákvæðum [3]laga nr. 63/1979, um skipan
   gjaldeyris- og viðskiptamála,^1) svo og annarra laga er setja kunna hömlur á
  greiðslur í erlendum gjaldeyri eða gjaldeyrisviðskipti, að svo miklu leyti sem
   slík ákvæði hindra eða torvelda starfsemi sjóðsins eða efndir skuldbindinga
                                      hans.
-                               ^1)Nú [3]l. 87/1992.
+                               ^1)Nú [4]l. 87/1992.
 3. gr. Sjóðurinn skal vera undanþeginn aðstöðugjaldi, landsútsvari, tekjuskatti
  og eignarskatti, svo og öðrum gjöldum sem lögð kunna að vera á tekjur, eignir
                      eða veltu til ríkis eða sveitarfélaga.
@@ -29,5 +31,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1989014
-   2. file:///altext/stjtnr.html#1979063
-   3. file://1992087.html
+   2. file:///altext/stjt/2004.129.html
+   3. file:///altext/stjtnr.html#1979063
+   4. file://1992087.html

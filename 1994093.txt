@@ -285,12 +285,12 @@ lyfjaprófana, veitingu leyfa til þeirra og eftirlit með þeim og framkvæmd �
     í samræmi við reglur um góða starfshætti í klínískum prófunum (GCP; Good
      Clinical Practice), Helsinki-sáttmálann, siðareglur og lög um réttindi
                                  sjúklinga.]^2)
-                  ^1)[42]Rg. 443/2004. ^2)[43]L. 108/2000, 8. gr.
+        ^1)[42]Rg. 443/2004, sbr. [43]907/2004. ^2)[44]L. 108/2000, 8. gr.
  10. gr. [Lyfjastofnun hefur umsjón með útgáfu sérlyfjaskrár er greinir sérlyf
 sem hafa markaðsleyfi á Íslandi eftir lyfjaflokkum eða á annan hliðstæðan hátt.
 Í skránni skal m.a. greina frá ábendingum, frábendingum, skammtastærðum, helstu
            aukaverkunum og hámarksverði lyfja, sbr. [43. gr.]^1)]^2)
-               ^1)[44]L. 89/2003, 4. gr. ^2)[45]L. 108/2000, 9. gr.
+               ^1)[45]L. 89/2003, 4. gr. ^2)[46]L. 108/2000, 9. gr.
 
      V. kafli. Ávísun lyfja. Lyfseðlar og afgreiðsla þeirra. Merking lyfja.
 11. gr. [Lyfjastofnun skal ákveða hvort lyf skuli vera lyfseðilsskylt, hve mikið
@@ -309,7 +309,7 @@ tannlæknir, dýralæknir) eða les hann fyrir í síma með þeim hætti að lj
 Landlæknir hefur eftirlit með lyfjaávísunum lækna og afhendingu lyfjafræðinga á
      lyfjum í neyðartilfellum. [Yfirdýralæknir hefur eftirlit með ávísunum
                                  dýralyfja.]^2)
-              ^1)[46]L. 108/2000, 11. gr. ^2)[47]L. 131/1994, 1. gr.
+              ^1)[47]L. 108/2000, 11. gr. ^2)[48]L. 131/1994, 1. gr.
 12. gr. Ráðherra setur reglugerð^1) um gerð lyfseðla og ávísun lyfja, afgreiðslu
    þeirra og merkingu. Í reglugerð þessari skal m.a. kveða á um eftirfarandi
                                     atriði:
@@ -323,20 +323,20 @@ Landlæknir hefur eftirlit með lyfjaávísunum lækna og afhendingu lyfjafræð
          8. rétt læknanema og lækna án lækningaleyfis til að ávísa lyfjum,
                               9. gildistíma lyfseðla,
                                 10. merkingu lyfja.
-    ^1)[48]Rg. 91/2001, sbr. [49]844/2002; [50]rg. 105/2001, [51]rg. 111/2001,
-    sbr. [52]485/2001 og [53]843/2002; [54]rg. 233/2001, sbr. [55]490/2001,
-           [56]248/2002 og [57]848/2002. ^2)[58]L. 108/2000, 12. gr.
+    ^1)[49]Rg. 91/2001, sbr. [50]844/2002; [51]rg. 105/2001, [52]rg. 111/2001,
+    sbr. [53]485/2001 og [54]843/2002; [55]rg. 233/2001, sbr. [56]490/2001,
+           [57]248/2002 og [58]848/2002. ^2)[59]L. 108/2000, 12. gr.
 
         VI. kafli. [Auglýsing og kynning lyfja. Skráning aukaverkana og
                        tilkynningarskylda (lyfjagát).]^1)
-                            ^1)[59]L. 108/2000, 18. gr.
+                            ^1)[60]L. 108/2000, 18. gr.
 13. gr. Bannaðar eru hvers konar lyfjaauglýsingar með þeim undantekningum sem um
                              getur í kafla þessum.
  [[Einnig er bannað að auglýsa með texta eða myndum, beint eða óbeint, að vara
 sem ekki hefur hlotið viðurkenningu sem lyf fyrirbyggi, lækni eða lini sjúkdóma,
 sjúkdómseinkenni eða verki eða lagi eða breyti líffærastarfsemi.]^1) Í sérstökum
  tilvikum er Lyfjastofnun heimilt að veita undanþágu frá þessari málsgrein.]^2)
-               ^1)[60]L. 63/2002, 1. gr. ^2)[61]L. 108/2000, 13. gr.
+               ^1)[61]L. 63/2002, 1. gr. ^2)[62]L. 108/2000, 13. gr.
    14. gr. Auglýsa má og kynna [lyf, sem markaðsleyfi hafa hér á landi],^1) á
   íslensku í tímaritum eða blöðum þeirra heilbrigðisstétta sem ávísa og dreifa
                                     lyfjum.
@@ -348,7 +348,7 @@ sjúkdómseinkenni eða verki eða lagi eða breyti líffærastarfsemi.]^1) Í s
    [Í auglýsingu er heimilt að aðeins komi fram nafn lyfsins ef markmiðið með
  auglýsingunni er einungis að vekja athygli á nafninu. Ákvæðið gildir aðeins um
                         auglýsingar lausasölulyfja.]^1)
-                            ^1)[62]L. 108/2000, 14. gr.
+                            ^1)[63]L. 108/2000, 14. gr.
 15. gr. Heimilt er að kynna lyfseðilsskyld lyf fyrir þeim heilbrigðisstéttum sem
 ávísa og dreifa lyfjum en þó á þann hátt að ekki sé líklegt að auglýsingin komi
                             almenningi fyrir sjónir.
@@ -366,7 +366,7 @@ sjúkdómseinkenni eða verki eða lagi eða breyti líffærastarfsemi.]^1) Í s
 tiltekinna lyfja. Allar upplýsingar í slíkum bæklingum skulu vera í samræmi við
        viðurkennda samantekt á eiginleikum lyfs (SPC; Summary of Product
         Characteristics) og skulu Lyfjastofnun send eintök af þeim.]^2)
-               ^1)[63]L. 55/1995, 1. gr. ^2)[64]L. 108/2000, 15. gr.
+               ^1)[64]L. 55/1995, 1. gr. ^2)[65]L. 108/2000, 15. gr.
     17. gr. Heimilt er að afhenda persónulega lækni, tannlækni eða dýralækni
 lyfjasýnishorn í minnstu pakkningu og án greiðslu enda sé um að ræða nýskráð lyf
 til kynningar hér á markaði sem ekki teljast ávana- eða fíknilyf. Slík afhending
@@ -382,7 +382,7 @@ Lyfjastofnun vísar umfjöllun um lyfjaauglýsingar til Samkeppnisstofnunar í �
  Auglýsendur skulu halda skrá yfir allar auglýsingar þar sem fram kemur hvar og
  hvenær þær voru birtar. Skrána skal geyma í tvö ár og skal hún vera aðgengileg
                                Lyfjastofnun.]^1)
-                            ^1)[65]L. 108/2000, 16. gr.
+                            ^1)[66]L. 108/2000, 16. gr.
 19. gr. [Skráning aukaverkana og tilkynningarskylda er í höndum Lyfjastofnunar í
  samvinnu við landlækni og í samræmi við ákvæði reglugerðar sem ráðherra setur.
 Markaðsleyfishafi skal hafa í sinni þjónustu aðila með fullnægjandi þekkingu til
@@ -390,7 +390,7 @@ Markaðsleyfishafi skal hafa í sinni þjónustu aðila með fullnægjandi þekk
 aukaverkanir lyfs sem honum er tilkynnt um. Einnig ber honum að tilkynna þar til
  bærum aðilum um þær aukaverkanir í samræmi við ákvæði reglugerðar sem ráðherra
                                    setur.]^1)
-                            ^1)[66]L. 108/2000, 17. gr.
+                            ^1)[67]L. 108/2000, 17. gr.
 
                VII. kafli. Um stofnun lyfjabúða og lyfsöluleyfi.
   20. gr. Leyfi til lyfjasölu hafa þeir aðilar einir sem til þess hafa hlotið
@@ -417,7 +417,7 @@ heilsugæsluumdæmi þar sem lyfjabúð er ekki starfrækt rekstur lyfjabúðar 
 heimilt að semja við utanaðkomandi lyfsöluleyfishafa um þjónustu, þar með talinn
                      rekstur lyfjabúðar, sbr. [38. gr.]^3)
     Fyrir lyfsöluleyfi skal greiða gjald sem ákveðið er af fjármálaráðherra.
-    ^1)[67]L. 108/2000, 19. gr. ^2)[68]L. 83/2004, 6. gr. ^3)[69]L. 89/2003, 4.
+    ^1)[68]L. 108/2000, 19. gr. ^2)[69]L. 83/2004, 6. gr. ^3)[70]L. 89/2003, 4.
                                       gr.
   21. gr. [Hvert lyfsöluleyfi takmarkast við rekstur einnar lyfjabúðar og ber
       lyfsöluleyfishafi sjálfur faglega ábyrgð á rekstri lyfjabúðarinnar.
@@ -442,7 +442,7 @@ hluta í lyfsölu, lyfjaframleiðslu eða lyfjaheildsölu að það hafi teljand
 ára aldri. Um lyfsölu dýralækna gildir [6. mgr. 33. gr.]^2) Ráðherra er heimilt
   að setja í reglugerð nánari ákvæði um þessa málsgrein, m.a. um undanþágu frá
       banni þessu hvað maka varðar þar sem öðru verður ekki við komið.]^3)
-    ^1)[70]L. 63/2002, 2. gr. ^2)[71]L. 89/2003, 4. gr. ^3)[72]L. 108/2000, 20.
+    ^1)[71]L. 63/2002, 2. gr. ^2)[72]L. 89/2003, 4. gr. ^3)[73]L. 108/2000, 20.
                                       gr.
                        22. gr. Lyfsöluleyfi fellur niður:
              1. ef leyfishafi er sviptur lyfjafræðingsleyfi sínu ,^1)
@@ -454,10 +454,10 @@ leyfi um eitt ár í senn eftir þann tíma að fenginni umsögn [Lyfjastofnunar
    Ráðherra er heimilt að svipta leyfishafa lyfsöluleyfi ef hann brýtur gegn
     ákvæðum þessara laga eða annarra og brotið er þess eðlis að telja verði
    leyfishafa óhæfan til að annast lyfsölu. Um missi starfsréttinda fer eftir
-              [73]V. kafla [74]laga um lyfjafræðinga, nr. 35/1978.
+              [74]V. kafla [75]laga um lyfjafræðinga, nr. 35/1978.
       Við starfslok er leyfishafa eða dánarbúi heimilt að selja reksturinn
    lyfjafræðingi sem öðlast hefur lyfsöluleyfi samkvæmt ákvæðum laga þessara.
-                            ^1)[75]L. 108/2000, 21. gr.
+                            ^1)[76]L. 108/2000, 21. gr.
 
                        VIII. kafli. Um rekstur lyfjabúða.
    23. gr. Lyfjabúð skal auðkenna á áberandi hátt. Handhöfum lyfsöluleyfis er
@@ -482,10 +482,10 @@ Lyfsalar skulu tölvuskrá allar upplýsingar af lyfseðlum á formi sem samþyk
        af landlækni og [Persónuvernd, sbr. lög um persónuvernd og meðferð
 persónuupplýsinga].^2) Landlæknir getur krafist þessara upplýsinga allt að einu
                               ári aftur í tímann.
-               ^1)[76]L. 89/2003, 2. gr. ^2)[77]L. 77/2000, 46. gr.
+               ^1)[77]L. 89/2003, 2. gr. ^2)[78]L. 77/2000, 46. gr.
 
                          [IX. kafli. Gagnagrunnar.]^1)
-                             ^1)[78]L. 89/2003, 3. gr.
+                             ^1)[79]L. 89/2003, 3. gr.
 [25. gr. Starfrækja skal tvo gagnagrunna, tölfræðigagnagrunn og lyfjagagnagrunn,
  sem hafa að geyma upplýsingar sem Tryggingastofnun fær afhentar frá lyfsölum,
       sbr. 2. mgr. 24. gr. Markmiðið með rekstri gagnagrunnanna er að gera
@@ -497,7 +497,7 @@ eftirlitshlutverki sínu með ávana- og fíknilyfjum og lyfjaávísunum almennt
 persónuvernd og meðferð persónuupplýsinga, eftirlit með öryggi persónuupplýsinga
     í tölfræðigagnagrunni og lyfjagagnagrunni og starfrækslu þeirra að öðru
                                    leyti.]^1)
-                             ^1)[79]L. 89/2003, 3. gr.
+                             ^1)[80]L. 89/2003, 3. gr.
   [26. gr. Í þeim tilgangi að hafa eftirlit með lyfjakostnaði og til að vinna
       tölfræðiupplýsingar um lyfjanotkun landsmanna rekur Tryggingastofnun
 tölfræðigagnagrunn um afgreiðslu lyfja til sjúklinga, sbr. 2. mgr. 24. gr., þar
@@ -510,7 +510,7 @@ eru færð í tölfræðigagnagrunninn. Skal Tryggingastofnun sjá um að þetta
    tölfræðigagnagrunninum til að sinna fræðslu og rannsóknum. Öðrum aðilum er
   einnig í sama tilgangi heimilt að fá upplýsingar úr gagnagrunninum. Ráðherra
   setur reglugerð um notkun upplýsinganna og um aðgang að gagnagrunninum.]^1)
-                             ^1)[80]L. 89/2003, 3. gr.
+                             ^1)[81]L. 89/2003, 3. gr.
    [27. gr. Landlæknir starfrækir lyfjagagnagrunn um afgreiðslu lyfja í þeim
  tilgangi að hafa almennt eftirlit með ávísunum lækna á lyf og vegna eftirlits
                            með ávana- og fíknilyfjum.
@@ -547,26 +547,26 @@ eftirlitshlutverk embættisins samkvæmt lögum um heilbrigðisþjónustu, lækn
   lyfjagagnagrunninum. Skal þar m.a. kveðið á um skyldu umsækjanda til að gera
  grein fyrir tilefni þess að óskað er eftir upplýsingum úr grunninum og hvernig
                meðferð og úrvinnslu upplýsinga verði háttað.]^1)
-                             ^1)[81]L. 89/2003, 3. gr.
+                             ^1)[82]L. 89/2003, 3. gr.
 
     [X. kafli.]^1) Vistun lyfjafræði- og lyfjatækninema. Skyldur starfsmanna
                                    lyfjabúða.
-                             ^1)[82]L. 89/2003, 3. gr.
+                             ^1)[83]L. 89/2003, 3. gr.
  [28. gr.]^1) Lyfjabúðir vista lyfjafræði- og lyfjatækninema til verklegs náms
               samkvæmt samkomulagi við viðkomandi menntastofnanir.
-                             ^1)[83]L. 89/2003, 3. gr.
+                             ^1)[84]L. 89/2003, 3. gr.
    [29. gr.]^1) Lyfjafræðinemar, sem lokið hafa 4. árs námi og tveggja mánaða
     vistun í lyfjabúð, geta sótt um leyfi til ráðherra til að gegna störfum
  aðstoðarlyfjafræðinga tímabundið. Í slíkum tilvikum skal lyfjafræðinemi starfa
                          með og á ábyrgð lyfjafræðings.
-                             ^1)[84]L. 89/2003, 3. gr.
+                             ^1)[85]L. 89/2003, 3. gr.
 [30. gr.]^1) Starfsmenn lyfjabúða eru bundnir þagnarskyldu um alla vitneskju eða
        grun sem þeir öðlast í starfi sínu um sjúkdóma eða önnur einkamál.
      Um vitnaskyldu framangreindra aðila fer eftir ákvæðum réttarfarslaga.
-                             ^1)[85]L. 89/2003, 3. gr.
+                             ^1)[86]L. 89/2003, 3. gr.
 
                       [XI. kafli.]^1) Um afgreiðslu lyfja.
-                             ^1)[86]L. 89/2003, 3. gr.
+                             ^1)[87]L. 89/2003, 3. gr.
    [31. gr.]^1) Lyfjafræðingar eða aðstoðarlyfjafræðingar skulu bera ábyrgð á
     afgreiðslu lyfseðils og hafa með höndum lokaeftirlit að rétt sé afgreitt
        samkvæmt lyfjaávísun eða eiturbeiðni. [Í lyfjabúð skulu á almennum
@@ -587,15 +587,15 @@ reglugerð að kveða á um að í lyfjabúðum þar sem umfang starfsemi er mik
   [yfirlæknis heilsugæslu]^4) og lyfsala. Ef lyfjatæknir er ekki fáanlegur til
 starfa í útibúi frá lyfjabúð er heimilt að veita þennan sama rétt öðrum ábyrgum
  umboðsmanni sem lyfsali ræður til þess að fengnu samþykki [Lyfjastofnunar].^2)
-    ^1)[87]L. 89/2003, 3. gr. ^2)[88]L. 108/2000, 23. gr. ^3)[89]L. 63/2002, 3.
-                         gr. ^4)[90]L. 93/2002, 14. gr.
+    ^1)[88]L. 89/2003, 3. gr. ^2)[89]L. 108/2000, 23. gr. ^3)[90]L. 63/2002, 3.
+                         gr. ^4)[91]L. 93/2002, 14. gr.
 
  [XII. kafli.]^1) [Innflutningur og heildsala lyfja. Samhliða innflutt lyf.]^2)
-                ^1)[91]L. 89/2003, 3. gr. ^2)[92]L. 83/2004, 8. gr.
+                ^1)[92]L. 89/2003, 3. gr. ^2)[93]L. 83/2004, 8. gr.
 [32. gr.]^1) Leyfi til innflutnings fullgerðra lyfja og lyfjaefna til dreifingar
       í heildsölu hafa þeir einir sem til þess hafa hlotið leyfi ráðherra.
 Fyrir lyfjaheildsöluleyfi skal greitt gjald sem ákveðið er af fjármálaráðherra.
-                             ^1)[93]L. 89/2003, 3. gr.
+                             ^1)[94]L. 89/2003, 3. gr.
 [33. gr.]^1) [Til að fá lyfjaheildsöluleyfi hér á landi verður lyfjaheildsala að
                         fullnægja eftirtöldum skilyrðum:
     1. Henni veiti faglega forstöðu lyfjafræðingur sem hefur starfsleyfi hér á
@@ -640,16 +640,16 @@ eigin stofum eða í vitjunum og til sölu frá starfsstofu sinni. Ráðherra sk
 Lyfjaheildsölum er skylt að tölvuskrá söluupplýsingar á formi sem samþykkt er af
   Lyfjastofnun og jafnframt veita stofnuninni upplýsingar um starfsemi sína og
                         halda bækur þar að lútandi.]^4)
-   ^1)[94]L. 89/2003, 3. gr. ^2)[95]L. 83/2004, 7. gr. ^3)[96]L. 63/2002, 4. gr.
-                          ^4)[97]L. 108/2000, 24. gr.
+   ^1)[95]L. 89/2003, 3. gr. ^2)[96]L. 83/2004, 7. gr. ^3)[97]L. 63/2002, 4. gr.
+                          ^4)[98]L. 108/2000, 24. gr.
 
                       [XIII. kafli.]^1) Framleiðsla lyfja.
-                             ^1)[98]L. 89/2003, 3. gr.
+                             ^1)[99]L. 89/2003, 3. gr.
   [34. gr.]^1) Leyfi til framleiðslu lyfja hafa þeir aðilar einir sem til þess
                           hafa hlotið leyfi ráðherra.
         Fyrir lyfjaframleiðsluleyfi skal greitt gjald sem ákveðið er af
                                fjármálaráðherra.
-                             ^1)[99]L. 89/2003, 3. gr.
+                            ^1)[100]L. 89/2003, 3. gr.
    [35. gr.]^1) Til að fá lyfjaframleiðsluleyfi verður fyrirtæki að fullnægja
                              eftirtöldum skilyrðum:
     1. að því veiti faglega forstöðu lyfjafræðingur sem hefur starfsleyfi hér á
@@ -663,15 +663,15 @@ Lyfjaheildsölum er skylt að tölvuskrá söluupplýsingar á formi sem samþyk
 þessara eða annarra laga má svipta hann leyfinu. Lyfjaframleiðendum er skylt að
   veita [Lyfjastofnun]^2) upplýsingar um starfsemi sína og halda bækur þar að
                                     lútandi.
-              ^1)[100]L. 89/2003, 3. gr. ^2)[101]L. 108/2000, 25. gr.
+              ^1)[101]L. 89/2003, 3. gr. ^2)[102]L. 108/2000, 25. gr.
 [36. gr.]^1) Lyfjabúðir skulu framleiða forskriftarlyf lækna eða útvega þau svo
 fljótt sem unnt er. Heimilt er að framleiða stöðluð forskriftarlyf í lyfjabúðum
   [og lyfjagerðum]^2) ef settum skilyrðum er fullnægt. Heimilt er að takmarka
                 framleiðsluleyfi þeirra við tiltekin lyfjaform.
-               ^1)[102]L. 89/2003, 3. gr. ^2)[103]L. 83/2004, 9. gr.
+               ^1)[103]L. 89/2003, 3. gr. ^2)[104]L. 83/2004, 9. gr.
 
  [XIV. kafli.]^1) Um lyfjaþjónustu á sjúkrahúsum og öðrum heilbrigðisstofnunum.
-                            ^1)[104]L. 89/2003, 3. gr.
+                            ^1)[105]L. 89/2003, 3. gr.
 [37. gr.]^1) Á sjúkrahúsum er heimilt að starfrækja sérstök sjúkrahússapótek sem
   hafa umsjón með og bera ábyrgð á öflun og varðveislu lyfja og eftirliti með
      notkun þeirra á einstökum deildum. Rekstur sjúkrahússapóteks skal vera
@@ -681,7 +681,7 @@ fljótt sem unnt er. Heimilt er að framleiða stöðluð forskriftarlyf í lyfj
  Stjórn sjúkrahúss er heimilt að leita útboða um rekstur sjúkrahússapóteks sem
   veitir þá þjónustu sem um ræðir í þessum kafla enda uppfylli reksturinn öll
            önnur skilyrði laganna um starfsemi og rekstur lyfjabúða.
-                            ^1)[105]L. 89/2003, 3. gr.
+                            ^1)[106]L. 89/2003, 3. gr.
 [38. gr.]^1) Á sjúkrahúsum og öðrum stofnunum, sem reknar eru samkvæmt lögum um
        heilbrigðisþjónustu eða samkvæmt öðrum sérlögum og ekki starfrækja
   sjúkrahússapótek, skal lyfjafræðingur hafa umsjón með og bera ábyrgð á öflun
@@ -691,32 +691,32 @@ fljótt sem unnt er. Heimilt er að framleiða stöðluð forskriftarlyf í lyfj
 sjúkrahússapótek]^2) um lyfjafræðilega þjónustu, svo sem umsjón með öflun lyfja
          og eftirlit með notkun þeirra. Samningurinn er háður samþykki
                               [Lyfjastofnunar].^2)
-              ^1)[106]L. 89/2003, 3. gr. ^2)[107]L. 108/2000, 26. gr.
+              ^1)[107]L. 89/2003, 3. gr. ^2)[108]L. 108/2000, 26. gr.
   [39. gr.]^1) Sjúkrahússapóteki er heimilt að afgreiða lyf til sjúklinga sem
    útskrifast af sjúkrahúsinu og göngudeildarsjúklinga. Sjúkrahússapóteki er
 einungis heimilt að afgreiða lyfseðla sem merktir eru sjúkrahúsinu og gefnir eru
                                út af læknum þess.
   Um afgreiðslu lyfja samkvæmt heimild þessarar greinar fer eftir þeim almennu
              reglum sem gilda um gerð lyfseðla og afgreiðslu lyfja.
-                            ^1)[108]L. 89/2003, 3. gr.
+                            ^1)[109]L. 89/2003, 3. gr.
 [40. gr.]^1) Á hverju deildaskiptu sjúkrahúsi skal starfa þriggja til fimm manna
 lyfjanefnd sem er ráðgefandi um lyfjaval sjúkrahússins. Í slíkri lyfjanefnd skal
 vera a.m.k. einn starfandi lækna sjúkrahússins og einn starfandi lyfjafræðingur
   í þjónustu sjúkrahússins. Að jafnaði skal þess gætt þegar völ er á fleiri en
 einu jafngildu lyfi að velja til notkunar á sjúkrahúsi þau lyf sem ódýrari eru.
-                            ^1)[109]L. 89/2003, 3. gr.
+                            ^1)[110]L. 89/2003, 3. gr.
      [41. gr.]^1) Stjórn sjúkrahúss ber að sjá svo um að húsnæði og búnaður
    sjúkrahússapóteks eða lyfjageymslu sjúkrahússins sé við hæfi og skal hlíta
                   úrskurði [Lyfjastofnunar]^2) þar að lútandi.
-              ^1)[110]L. 89/2003, 3. gr. ^2)[111]L. 108/2000, 27. gr.
+              ^1)[111]L. 89/2003, 3. gr. ^2)[112]L. 108/2000, 27. gr.
 
                            [XV. kafli.]^1) Lyfjaverð.
-                            ^1)[112]L. 89/2003, 3. gr.
+                            ^1)[113]L. 89/2003, 3. gr.
      [42. gr.]^1) Verðlagning lyfja, sem seld eru án lyfseðils, er frjáls.
     [[Lyfjagreiðslunefnd]^2) ákvarðar verðlagningu dýralyfja sem seld eru án
                         lyfseðils, sbr. [43. gr.]^3)]^4)
-   ^1)[113]L. 89/2003, 3. gr. ^2)[114]L. 83/2004, 10. gr. ^3)[115]L. 89/2003, 4.
-                        gr. ^4)[116]L. 131/1994, 4. gr.
+   ^1)[114]L. 89/2003, 3. gr. ^2)[115]L. 83/2004, 10. gr. ^3)[116]L. 89/2003, 4.
+                        gr. ^4)[117]L. 131/1994, 4. gr.
 [43. gr.]^1) [Ráðherra skipar fimm manna nefnd, lyfjagreiðslunefnd, til fjögurra
   ára í senn. Nefndin skal skipuð fagmönnum á sviði læknisfræði, lyfjafræði og
 fjármála. Fjórir nefndarmenn skulu skipaðir eftir tilnefningu Tryggingastofnunar
@@ -727,7 +727,7 @@ Lyfjagreiðslunefnd skal við ákvarðanir sínar hafa í huga það markmið la
                Lyfjagreiðslunefnd skal ákveða að fenginni umsókn:
     1. Hámarksverð á lyfseðilsskyldum lyfjum og öllum dýralyfjum í heildsölu og
                                     smásölu.
-     2. Hvort sjúkratryggingar taka þátt í greiðslu skv. [117]36. gr. laga um
+     2. Hvort sjúkratryggingar taka þátt í greiðslu skv. [118]36. gr. laga um
     almannatryggingar, nr. 117/1993, á lyfjum sem eru á markaði hér á landi.
       3. Greiðsluþátttökuverð, þ.e. það verð sem almannatryggingar skulu miða
                            greiðsluþátttöku sína við.
@@ -771,7 +771,7 @@ nefndin rökstyðja ákvörðun sína og gera umsækjanda grein fyrir heimild ha
        Ráðherra er heimilt með reglugerð að setja nánari reglur um störf
         lyfjagreiðslunefndar. Lyfjagreiðslunefnd er heimilt að setja sér
                               verklagsreglur.]^2)
-              ^1)[118]L. 89/2003, 3. gr. ^2)[119]L. 83/2004, 11. gr.
+              ^1)[119]L. 89/2003, 3. gr. ^2)[120]L. 83/2004, 11. gr.
 [44. gr.]^1) [Innflytjendur lyfja, lyfjaframleiðendur og umboðsmenn þeirra skulu
   sækja um hámarksverð í heildsölu, greiðsluþátttöku almannatrygginga og allar
 verðbreytingar á lyfseðilsskyldum lyfjum og dýralyfjum til lyfjagreiðslunefndar
@@ -804,7 +804,7 @@ bárust henni. Ef óvenjulega margar umsóknir hafa borist nefndinni getur hún 
      slíka framlengingu áður en fresturinn sem lyfjagreiðslunefnd hefur til
  ákvarðanatöku er liðinn. Ef ákvörðun liggur ekki fyrir innan þessara tímamarka
          er umsækjanda heimilt að hækka verðið samkvæmt umsókninni.]^2)
-              ^1)[120]L. 89/2003, 3. gr. ^2)[121]L. 83/2004, 12. gr.
+              ^1)[121]L. 89/2003, 3. gr. ^2)[122]L. 83/2004, 12. gr.
  [45. gr. Lyfjagreiðslunefnd er heimilt að beita verðstöðvun. Ef verðstöðvun er
  beitt á öll lyf eða lyf í sérstökum flokki skal endurskoða ákvörðunina a.m.k.
 einu sinni á ári. Heimilt er að veita undanþágu frá verðstöðvun samkvæmt umsókn
@@ -819,15 +819,15 @@ daga. Hafi umsækjandi ekki látið nauðsynlegar upplýsingar fylgja með umsó
  viðbótar framlengt frestinn einu sinni um 60 daga. Skal tilkynna umsækjanda um
   slíka framlengingu áður en fresturinn sem nefndin hefur til ákvarðanatöku er
                                   liðinn.]^1)
-                            ^1)[122]L. 83/2004, 13. gr.
+                            ^1)[123]L. 83/2004, 13. gr.
   [46. gr. Lyfjagreiðslunefnd skal endurmeta forsendur lyfjaverðs hér á landi,
  samanborið við sömu lyf á Evrópska efnahagssvæðinu, reglulega og eigi sjaldnar
  en á tveggja ára fresti og gera tillögur um breytingar gefi matið tilefni til
                                    þess.]^1)
-                            ^1)[123]L. 83/2004, 13. gr.
+                            ^1)[124]L. 83/2004, 13. gr.
 
                [XVI. kafli.]^1) Eftirlit, málarekstur og refsing.
-                            ^1)[124]L. 89/2003, 3. gr.
+                            ^1)[125]L. 89/2003, 3. gr.
  [47. gr.]^1) [Eftirlit samkvæmt lögum þessum, reglugerðum eða öðrum fyrirmælum
    er í höndum Lyfjastofnunar. Til að knýja á um framkvæmd ráðstöfunar getur
                    Lyfjastofnun beitt eftirfarandi aðgerðum:
@@ -852,7 +852,7 @@ Stöðvun starfsemi og förgun á vörum skal því aðeins beitt að Lyfjastofn
 Ef ákvörðun um dagsektir er skotið til dómstóla byrja dagsektir ekki að falla á
  fyrr en dómur er endanlegur. Dagsektir renna í ríkissjóð og má án undangengins
                    dóms gera aðför til fullnustu þeirra.]^2)
-    ^1)[125]L. 83/2004, 13. gr. ^2)[126]L. 63/2002, 5. gr. ^3)[127]L. 108/2000,
+    ^1)[126]L. 83/2004, 13. gr. ^2)[127]L. 63/2002, 5. gr. ^3)[128]L. 108/2000,
                                     30. gr.
   [48. gr.]^1) [Um mál sem rísa kunna út af brotum á lögum þessum fer að hætti
               opinberra mála nema öðruvísi sé mælt fyrir í lögum.
@@ -866,11 +866,11 @@ Fyrir brot gegn lögum þessum eða reglugerðum settum samkvæmt þeim skal ref
   Lyf og lyfjaefni, sem eru framleidd, flutt inn eða seld ólöglega hér á landi
 skulu gerð upptæk með dómi og enn fremur ágóði af ólöglegri lyfjasölu. Andvirði
                       hins upptæka rennur í ríkissjóð.]^4)
-   ^1)[128]L. 83/2004, 13. gr. ^2)[129]L. 82/1998, 215. gr. ^3)[130]L. 10/1997,
-                       13. gr. ^4)[131]L. 55/1995, 2. gr.
+   ^1)[129]L. 83/2004, 13. gr. ^2)[130]L. 82/1998, 215. gr. ^3)[131]L. 10/1997,
+                       13. gr. ^4)[132]L. 55/1995, 2. gr.
 
                        [XVII. kafli.]^1) Niðurlagsákvæði.
-                            ^1)[132]L. 89/2003, 3. gr.
+                            ^1)[133]L. 89/2003, 3. gr.
   [49. gr.]^1) [Ráðherra er heimilt að setja reglugerðir^2) um framkvæmd laga
     þessara, t.d. um skömmtun í lyfjaöskjur og um takmörkun og eftirlit með
 framleiðslu og markaðssetningu tiltekinna efna sem hægt er að nota við ólöglega
@@ -881,31 +881,32 @@ framleiðslu og markaðssetningu tiltekinna efna sem hægt er að nota við ól�
  aðlögun vegna EES-samningsins og stofnsamnings Fríverslunarsamtaka Evrópu.]^5)
         Ákvarðanir Lyfjastofnunar má kæra til ráðherra samkvæmt ákvæðum
                               stjórnsýslulaga.]^6)
-   ^1)[133]L. 83/2004, 13. gr. ^2)[134]Rg. 421/1988, með síðari breytingum, sbr.
- [135]539/2000, [136]91/2001, [137]105/2001, [138]111/2001 og [139]233/2001 (um
-gerð lyfseðla og ávísun lyfja o.fl.). [140]Rg. 633/1994 (um gildistöku EES-gerða
- um lyf). [141]Rg. 328/1995, sbr. [142]95/2001 (um lyfjaauglýsingar). [143]Rg.
-582/1995, sbr. [144]584/1995 og [145]622/1995 (um markaðsleyfi samhliða lyfja).
-   [146]Rg. 594/1995 (um litarefni í lyfjum). [147]Rg. 501/1996 (um ákvörðun
- lyfjaverðs). [148]Rg. 650/1996 (um leyfisgjöld vegna lyfja). [149]Rg. 699/1996
-      (um innflutning og heildsöludreifingu lyfja), sbr. [150]484/2001 og
-  [151]846/2002. [152]Rg. 700/1996 (um framleiðslu lyfja). Augl. 226/1997 (um
-     gildistöku alþjóðasamþykkta á sviði lyfjamála). [153]Rg. 426/1997 (um
- lyfsöluleyfi og lyfjabúðir). [154]Rg. 684/1997 (um markaðsleyfi náttúrulyfja).
- [155]Rg. 212/1998 (um innflutning einstaklinga á lyfjum til eigin nota), sbr.
- [156]230/2001. [157]Rg. 421/1998 (um vistun lyfjafræði- og lyfjatæknistúdenta
- til verklegs náms). [158]Rg. 462/2000 (um markaðsleyfi fyrir sérlyf, merkingar
-   þeirra og fylgiseðla), sbr. [159]766/2001. [160]Rg. 539/2000 (um heimildir
-   dýralækna til að ávísa lyfjum), sbr. [161]912/2000. [162]Rg. 967/2000 (um
-innflutning, sölu og dreifingu smáskammtalyfja). [163]Rg. 850/2002 (um skömmtun
-  lyfja). [164]Rg. 241/2004 (um val, geymslu og meðferð lyfja á sjúkrahúsum og
- öðrum heilbrigðisstofnunum). [165]Rg. 443/2004 (um klínískar lyfjarannsóknir á
-    mönnum). ^3)[166]Rg. 181/2001. ^4)[167]Rg. 652/2001, [168]rg. 402/2002.
-            ^5)[169]L. 76/2002, 28. gr. ^6)[170]L. 108/2000, 31. gr.
+   ^1)[134]L. 83/2004, 13. gr. ^2)[135]Rg. 421/1988, með síðari breytingum, sbr.
+ [136]539/2000, [137]91/2001, [138]105/2001, [139]111/2001 og [140]233/2001 (um
+gerð lyfseðla og ávísun lyfja o.fl.). [141]Rg. 633/1994 (um gildistöku EES-gerða
+ um lyf). [142]Rg. 328/1995, sbr. [143]95/2001 (um lyfjaauglýsingar). [144]Rg.
+582/1995, sbr. [145]584/1995 og [146]622/1995 (um markaðsleyfi samhliða lyfja).
+   [147]Rg. 594/1995 (um litarefni í lyfjum). [148]Rg. 501/1996 (um ákvörðun
+ lyfjaverðs). [149]Rg. 650/1996 (um leyfisgjöld vegna lyfja). [150]Rg. 699/1996
+      (um innflutning og heildsöludreifingu lyfja), sbr. [151]484/2001 og
+   [152]846/2002. [153]Rg. 426/1997 (um lyfsöluleyfi og lyfjabúðir). [154]Rg.
+   684/1997 (um markaðsleyfi náttúrulyfja). [155]Rg. 212/1998 (um innflutning
+einstaklinga á lyfjum til eigin nota), sbr. [156]230/2001. [157]Rg. 421/1998 (um
+ vistun lyfjafræði- og lyfjatæknistúdenta til verklegs náms). [158]Rg. 462/2000
+      (um markaðsleyfi fyrir sérlyf, merkingar þeirra og fylgiseðla), sbr.
+ [159]766/2001. [160]Rg. 539/2000 (um heimildir dýralækna til að ávísa lyfjum),
+    sbr. [161]912/2000. [162]Rg. 967/2000 (um innflutning, sölu og dreifingu
+ smáskammtalyfja). [163]Rg. 850/2002 (um skömmtun lyfja). [164]Rg. 241/2004 (um
+  val, geymslu og meðferð lyfja á sjúkrahúsum og öðrum heilbrigðisstofnunum).
+ [165]Rg. 443/2004 (um klínískar lyfjarannsóknir á mönnum), sbr. [166]907/2004.
+    [167]Rg. 893/2004 (um framleiðslu lyfja). Augl. 902/2004 (um gildistöku
+alþjóðasamþykkta á sviði lyfjamála). ^3)[168]Rg. 181/2001. ^4)[169]Rg. 652/2001,
+  [170]rg. 402/2002, [171]rg. 834/2004. ^5)[172]L. 76/2002, 28. gr. ^6)[173]L.
+                               108/2000, 31. gr.
                [50. gr.]^1) Lög þessi öðlast gildi 1. júlí 1994.
-                            ^1)[171]L. 83/2004, 13. gr.
+                            ^1)[174]L. 83/2004, 13. gr.
    Ákvæði til bráðabirgða. 1. Þær reglugerðir, sem settar hafa verið samkvæmt
-[172]lyfjalögum, nr. 108/1984, og [173]lögum um lyfjadreifingu, nr. 76/1982, með
+[175]lyfjalögum, nr. 108/1984, og [176]lögum um lyfjadreifingu, nr. 76/1982, með
   síðari breytingum,^1) skulu halda gildi sínu þar til nýjar reglugerðir hafa
           öðlast gildi enda stangist efni þeirra ekki á við lög þessi.
    2. Núverandi lyfsalar halda lyfsöluleyfum sínum eftir gildistöku ákvæða VII.
@@ -913,7 +914,7 @@ innflutning, sölu og dreifingu smáskammtalyfja). [163]Rg. 850/2002 (um skömmt
 Háskóla Íslands hafa frest til [15. mars 1996]^2) til að uppfylla skilyrði laga
   þessara. Læknar og sveitarfélög halda leyfum sínum til lyfsölu fram til [15.
    mars 1996]^2) og eftir það þar til sá er uppfyllir skilyrði samkvæmt lögum
- þessum sækir um lyfsöluleyfið. Þrátt fyrir ákvæði 2. mgr. [174]6. gr. laga um
+ þessum sækir um lyfsöluleyfið. Þrátt fyrir ákvæði 2. mgr. [177]6. gr. laga um
    lyfjadreifingu, nr. 76/1982, getur ráðherra framlengt lyfsöluleyfi þar til
                          ákvæði VII. kafla taka gildi.
      3. Ákvæði VII. og [XV. kafla]^3) koma þó eigi til framkvæmda fyrr en [15.
@@ -923,7 +924,7 @@ Háskóla Íslands hafa frest til [15. mars 1996]^2) til að uppfylla skilyrði 
  1. september 2004. Lyfjaverðsnefnd og greiðsluþátttökunefnd skulu halda umboði
             sínu þar til lyfjagreiðslunefnd hefur verið skipuð.]^4)
    ^1)Um rg. samkvæmt eldri lögum, sjá Lagasafn 1990, d. 10411050 og 10541062.
- ^2)[175]L. 118/1995, 4. gr. ^3)[176]L. 89/2003, 4. gr. ^4)[177]L. 83/2004, 14.
+ ^2)[178]L. 118/1995, 4. gr. ^3)[179]L. 89/2003, 4. gr. ^4)[180]L. 83/2004, 14.
                                       gr.
 
 References
@@ -971,42 +972,42 @@ References
   40. file:///altext/stjt/2000.108.html
   41. file:///altext/stjt/2004.083.html
   42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/443-2004
-  43. file:///altext/stjt/2000.108.html
-  44. file:///altext/stjt/2003.089.html
-  45. file:///altext/stjt/2000.108.html
+  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/907-2004
+  44. file:///altext/stjt/2000.108.html
+  45. file:///altext/stjt/2003.089.html
   46. file:///altext/stjt/2000.108.html
-  47. file:///altext/stjt/1994.131.html
-  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/091-2001
-  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/844-2002
-  50. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/105-2001
-  51. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/111-2001
-  52. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/485-2001
-  53. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/843-2002
-  54. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/233-2001
-  55. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/490-2001
-  56. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/248-2002
-  57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/848-2002
-  58. file:///altext/stjt/2000.108.html
+  47. file:///altext/stjt/2000.108.html
+  48. file:///altext/stjt/1994.131.html
+  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/091-2001
+  50. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/844-2002
+  51. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/105-2001
+  52. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/111-2001
+  53. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/485-2001
+  54. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/843-2002
+  55. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/233-2001
+  56. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/490-2001
+  57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/248-2002
+  58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/848-2002
   59. file:///altext/stjt/2000.108.html
-  60. file:///altext/stjt/2002.063.html
-  61. file:///altext/stjt/2000.108.html
+  60. file:///altext/stjt/2000.108.html
+  61. file:///altext/stjt/2002.063.html
   62. file:///altext/stjt/2000.108.html
-  63. file:///altext/stjt/1995.055.html
-  64. file:///altext/stjt/2000.108.html
+  63. file:///altext/stjt/2000.108.html
+  64. file:///altext/stjt/1995.055.html
   65. file:///altext/stjt/2000.108.html
   66. file:///altext/stjt/2000.108.html
   67. file:///altext/stjt/2000.108.html
-  68. file:///altext/stjt/2004.083.html
-  69. file:///altext/stjt/2003.089.html
-  70. file:///altext/stjt/2002.063.html
-  71. file:///altext/stjt/2003.089.html
-  72. file:///altext/stjt/2000.108.html
-  73. file://1978035.html
+  68. file:///altext/stjt/2000.108.html
+  69. file:///altext/stjt/2004.083.html
+  70. file:///altext/stjt/2003.089.html
+  71. file:///altext/stjt/2002.063.html
+  72. file:///altext/stjt/2003.089.html
+  73. file:///altext/stjt/2000.108.html
   74. file://1978035.html
-  75. file:///altext/stjt/2000.108.html
-  76. file:///altext/stjt/2003.089.html
-  77. file://2000077.html#g46
-  78. file:///altext/stjt/2003.089.html
+  75. file://1978035.html
+  76. file:///altext/stjt/2000.108.html
+  77. file:///altext/stjt/2003.089.html
+  78. file://2000077.html#g46
   79. file:///altext/stjt/2003.089.html
   80. file:///altext/stjt/2003.089.html
   81. file:///altext/stjt/2003.089.html
@@ -1016,71 +1017,71 @@ References
   85. file:///altext/stjt/2003.089.html
   86. file:///altext/stjt/2003.089.html
   87. file:///altext/stjt/2003.089.html
-  88. file:///altext/stjt/2000.108.html
-  89. file:///altext/stjt/2002.063.html
-  90. file:///altext/stjt/2002.093.html
-  91. file:///altext/stjt/2003.089.html
-  92. file:///altext/stjt/2004.083.html
-  93. file:///altext/stjt/2003.089.html
+  88. file:///altext/stjt/2003.089.html
+  89. file:///altext/stjt/2000.108.html
+  90. file:///altext/stjt/2002.063.html
+  91. file:///altext/stjt/2002.093.html
+  92. file:///altext/stjt/2003.089.html
+  93. file:///altext/stjt/2004.083.html
   94. file:///altext/stjt/2003.089.html
-  95. file:///altext/stjt/2004.083.html
-  96. file:///altext/stjt/2002.063.html
-  97. file:///altext/stjt/2000.108.html
-  98. file:///altext/stjt/2003.089.html
+  95. file:///altext/stjt/2003.089.html
+  96. file:///altext/stjt/2004.083.html
+  97. file:///altext/stjt/2002.063.html
+  98. file:///altext/stjt/2000.108.html
   99. file:///altext/stjt/2003.089.html
  100. file:///altext/stjt/2003.089.html
- 101. file:///altext/stjt/2000.108.html
- 102. file:///altext/stjt/2003.089.html
- 103. file:///altext/stjt/2004.083.html
- 104. file:///altext/stjt/2003.089.html
+ 101. file:///altext/stjt/2003.089.html
+ 102. file:///altext/stjt/2000.108.html
+ 103. file:///altext/stjt/2003.089.html
+ 104. file:///altext/stjt/2004.083.html
  105. file:///altext/stjt/2003.089.html
  106. file:///altext/stjt/2003.089.html
- 107. file:///altext/stjt/2000.108.html
- 108. file:///altext/stjt/2003.089.html
+ 107. file:///altext/stjt/2003.089.html
+ 108. file:///altext/stjt/2000.108.html
  109. file:///altext/stjt/2003.089.html
  110. file:///altext/stjt/2003.089.html
- 111. file:///altext/stjt/2000.108.html
- 112. file:///altext/stjt/2003.089.html
+ 111. file:///altext/stjt/2003.089.html
+ 112. file:///altext/stjt/2000.108.html
  113. file:///altext/stjt/2003.089.html
- 114. file:///altext/stjt/2004.083.html
- 115. file:///altext/stjt/2003.089.html
- 116. file:///altext/stjt/1994.131.html
- 117. file://1993117.html#g36
- 118. file:///altext/stjt/2003.089.html
- 119. file:///altext/stjt/2004.083.html
- 120. file:///altext/stjt/2003.089.html
- 121. file:///altext/stjt/2004.083.html
+ 114. file:///altext/stjt/2003.089.html
+ 115. file:///altext/stjt/2004.083.html
+ 116. file:///altext/stjt/2003.089.html
+ 117. file:///altext/stjt/1994.131.html
+ 118. file://1993117.html#g36
+ 119. file:///altext/stjt/2003.089.html
+ 120. file:///altext/stjt/2004.083.html
+ 121. file:///altext/stjt/2003.089.html
  122. file:///altext/stjt/2004.083.html
  123. file:///altext/stjt/2004.083.html
- 124. file:///altext/stjt/2003.089.html
- 125. file:///altext/stjt/2004.083.html
- 126. file:///altext/stjt/2002.063.html
- 127. file:///altext/stjt/2000.108.html
- 128. file:///altext/stjt/2004.083.html
- 129. file:///altext/stjt/1998.082.html
- 130. file:///altext/stjt/1997.010.html
- 131. file:///altext/stjt/1995.055.html
- 132. file:///altext/stjt/2003.089.html
- 133. file:///altext/stjt/2004.083.html
- 134. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/421-1988
- 135. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/539-2000
- 136. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/091-2001
- 137. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/105-2001
- 138. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/111-2001
- 139. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/233-2001
- 140. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/633-1994
- 141. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/328-1995
- 142. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/095-2001
- 143. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/582-1995
- 144. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-1995
- 145. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/622-1995
- 146. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/594-1995
- 147. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1996
- 148. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/650-1996
- 149. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/699-1996
- 150. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/484-2001
- 151. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/846-2002
- 152. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/700-1996
+ 124. file:///altext/stjt/2004.083.html
+ 125. file:///altext/stjt/2003.089.html
+ 126. file:///altext/stjt/2004.083.html
+ 127. file:///altext/stjt/2002.063.html
+ 128. file:///altext/stjt/2000.108.html
+ 129. file:///altext/stjt/2004.083.html
+ 130. file:///altext/stjt/1998.082.html
+ 131. file:///altext/stjt/1997.010.html
+ 132. file:///altext/stjt/1995.055.html
+ 133. file:///altext/stjt/2003.089.html
+ 134. file:///altext/stjt/2004.083.html
+ 135. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/421-1988
+ 136. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/539-2000
+ 137. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/091-2001
+ 138. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/105-2001
+ 139. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/111-2001
+ 140. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/233-2001
+ 141. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/633-1994
+ 142. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/328-1995
+ 143. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/095-2001
+ 144. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/582-1995
+ 145. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-1995
+ 146. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/622-1995
+ 147. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/594-1995
+ 148. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1996
+ 149. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/650-1996
+ 150. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/699-1996
+ 151. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/484-2001
+ 152. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/846-2002
  153. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/426-1997
  154. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/684-1997
  155. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/212-1998
@@ -1094,15 +1095,18 @@ References
  163. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/850-2002
  164. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/241-2004
  165. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/443-2004
- 166. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/181-2001
- 167. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/652-2001
- 168. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/402-2002
- 169. file:///altext/stjt/2002.076.html
- 170. file:///altext/stjt/2000.108.html
- 171. file:///altext/stjt/2004.083.html
- 172. file://1984108.html
- 173. file://1982076.html
- 174. file://1982076.html
- 175. file:///altext/stjt/1995.118.html
- 176. file:///altext/stjt/2003.089.html
- 177. file:///altext/stjt/2004.083.html
+ 166. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/907-2004
+ 167. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/893-2004
+ 168. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/181-2001
+ 169. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/652-2001
+ 170. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/402-2002
+ 171. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/834-2004
+ 172. file:///altext/stjt/2002.076.html
+ 173. file:///altext/stjt/2000.108.html
+ 174. file:///altext/stjt/2004.083.html
+ 175. file://1984108.html
+ 176. file://1982076.html
+ 177. file://1982076.html
+ 178. file:///altext/stjt/1995.118.html
+ 179. file:///altext/stjt/2003.089.html
+ 180. file:///altext/stjt/2004.083.html

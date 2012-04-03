@@ -8,7 +8,7 @@
 
    --------------------------------------------------------------------------
 
-                            Tóku gildi 23. maí 2001.
+ Tóku gildi 23. maí 2001. Breytt með [2]l. 129/2004 (taka gildi 31. des. 2005).
 
                      I. kafli. Staða, markmið og verkefni.
  1. gr. Seðlabanki Íslands er sjálfstæð stofnun í eigu ríkisins. Um stjórn hans
@@ -47,7 +47,7 @@ fjárhæð seðla þeirra og myntar sem bankinn gefur út og lætur birta auglý
 Seðlabankinn setur nánari reglur^1) um viðskipti sín samkvæmt þessari grein, þar
     á meðal hvaða lánastofnunum öðrum en innlánsstofnunum er heimilt að eiga
                              innstæður í bankanum.
-                      ^1)[2]Rgl. 385/2002, sbr. [3]449/2004.
+                               ^1)[3]Rgl. 997/2004.
        7. gr. Seðlabanki Íslands getur veitt lánastofnunum, sem geta átt
   innlánsviðskipti við bankann, sbr. 6. gr., lán með kaupum á verðbréfum eða á
  annan hátt gegn tryggingum sem bankinn metur gildar. Lánsviðskipti þessi geta
@@ -57,7 +57,7 @@ verið í innlendri eða erlendri mynt. Bankinn setur nánari reglur^1) um viðs
 traust á fjármálakerfi landsins getur hann veitt lánastofnunum í lausafjárvanda
  ábyrgðir eða önnur lán en um ræðir í 1. mgr. á sérstökum kjörum og gegn öðrum
     tryggingum en um getur í 1. mgr. eða öðrum skilyrðum sem bankinn setur.
-                      ^1)[4]Rgl. 385/2002, sbr. [5]449/2004.
+                               ^1)[4]Rgl. 997/2004.
 8. gr. Til að ná markmiðum sínum skv. 3. gr. kaupir Seðlabanki Íslands og selur
  ríkistryggð verðbréf og önnur trygg innlend verðbréf á verðbréfamarkaði eða í
                       beinum viðskiptum við lánastofnanir.
@@ -79,18 +79,18 @@ bindihlutfall sé mismunandi eftir eðli lánastofnana og verðbréfasjóða og 
 innlána og annarra skuldbindinga sem bindingin nær til. Gæta skal jafnræðis við
  ákvörðun bindiskyldu þannig að hún valdi ekki röskun á samkeppnisstöðu á milli
               þeirra innlendu fyrirtækja sem sæta innlánsbindingu.
-                               ^1)[6]Rgl. 906/2003.
+                               ^1)[5]Rgl. 906/2003.
 12. gr. Seðlabanka Íslands er heimilt að setja reglur^1) um lágmark eða meðaltal
  lauss fjár lánastofnana sem þeim ber ætíð að hafa yfir að ráða í þeim tilgangi
     að mæta fyrirsjáanlegum og hugsanlegum greiðsluskuldbindingum á tilteknu
  tímabili, sbr. 4. gr. Í þeim má ákveða að mismunandi ákvæði gildi um einstaka
                               flokka lánastofnana.
-                               ^1)[7]Rgl. 386/2002.
+                               ^1)[6]Rgl. 386/2002.
    13. gr. Seðlabanka Íslands er heimilt að setja lánastofnunum reglur^1) um
 gjaldeyrisjöfnuð. Í slíkum jöfnuði skal auk gengisbundinna eigna og skulda telja
 skuldbindingar og kröfur sem tengdar eru erlendum gjaldmiðlum utan efnahags, svo
                   sem framvirka samninga og valréttarsamninga.
-                               ^1)[8]Rgl. 387/2002.
+                               ^1)[7]Rgl. 387/2002.
 14. gr. Seðlabanki Íslands annast hvers konar bankaþjónustu fyrir ríkissjóð aðra
   en lánafyrirgreiðslu, sbr. 16. gr. Innstæður ríkissjóðs skulu varðveittar á
   reikningum í Seðlabankanum nema sérstakar aðstæður gefi tilefni til annars.
@@ -124,7 +124,7 @@ Seðlabankinn setur reglur^1) um starfsemi skipulegra gjaldeyrismarkaða eftir �
  sem kveðið er á um í lögum um gjaldeyrismál. Þegar sérstaklega stendur á getur
       Seðlabankinn tímabundið takmarkað eða stöðvað viðskipti á skipulegum
                               gjaldeyrismörkuðum.
-          ^1)[9]Rgl. 187/2002, [10]rgl. 913/2002, sbr. [11]rgl. 68/2004.
+           ^1)[8]Rgl. 187/2002, [9]rgl. 913/2002, sbr. [10]rgl. 68/2004.
 19. gr. Hvern virkan dag sem skipulegir gjaldeyrismarkaðir eru almennt starfandi
  skal Seðlabanki Íslands skrá gengi krónunnar gagnvart helstu gjaldmiðlum. Það
    gengi skal notað til viðmiðunar í opinberum samningum, dómsmálum og öðrum
@@ -260,7 +260,7 @@ bankans á sviði peningamála og fjármálakerfis. Jafnframt er bankanum heimil
                               reikningsskilavenju.
    Forsætisráðherra setur nánari reglur^1) um reikningsskil og ársreikning að
                   fengnum tillögum Seðlabankans, sbr. 28. gr.
-                               ^1)[12]Rgl. 896/2002.
+                               ^1)[11]Rgl. 896/2002.
  33. gr. Innri endurskoðun í Seðlabanka Íslands er í höndum aðalendurskoðanda,
        sbr. 28. gr. Auk þess skal Ríkisendurskoðun annast endurskoðun hjá
                                  Seðlabankanum.
@@ -320,17 +320,17 @@ samkvæmt þessari grein má innheimta með aðför að lögum. Reglur um viður
 vanrækja að veita bankanum upplýsingar, sem hann á rétt á samkvæmt lögum þessum,
 eða veita bankanum vísvitandi rangar upplýsingar. Bankastjórn setur reglur^1) um
                þessi viðurlög sem skulu staðfestar af bankaráði.
-                               ^1)[13]Rgl. 389/2002.
+                               ^1)[12]Rgl. 389/2002.
   38. gr. Seðlabanka Íslands er heimilt að setja reglur^1) um viðfangsefni sín
 samkvæmt lögum þessum eftir því sem ástæða verður talin til. Seðlabankinn birtir
    reglur sem hann setur samkvæmt lögum þessum þannig að þær séu aðgengilegar
                                   almenningi.
-                     ^1)[14]Rgl. 788/2003, [15]rgl. 789/2003.
+                     ^1)[13]Rgl. 788/2003, [14]rgl. 789/2003.
 
                           IX. kafli. Gildistaka o.fl.
 39. gr. Forsætisráðherra getur, að fengnu áliti bankaráðs, sett með reglugerð^1)
            nánari ákvæði um framkvæmd einstakra ákvæða laga þessara.
-     ^1)[16]Rg. 470/1986, sbr. [17]136/1989, [18]111/1995 og [19]640/1999 (um
+     ^1)[15]Rg. 470/1986, sbr. [16]136/1989, [17]111/1995 og [18]640/1999 (um
                               Seðlabanka Íslands).
                     40. gr. Lög þessi öðlast gildi nú þegar.
 
@@ -348,21 +348,20 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001036
-   2. http://stjornartidindi.is/servlet/stjrtid/B/2002/385.pdf
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/449-2004
-   4. http://stjornartidindi.is/servlet/stjrtid/B/2002/385.pdf
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/449-2004
-   6. http://stjornartidindi.is/servlet/stjrtid/B/2003/906.pdf
-   7. http://stjornartidindi.is/servlet/stjrtid/B/2002/386.pdf
-   8. http://stjornartidindi.is/servlet/stjrtid/B/2002/387.pdf
-   9. http://stjornartidindi.is/servlet/stjrtid/B/2002/187.pdf
-  10. http://stjornartidindi.is/servlet/stjrtid/B/2002/913.pdf
-  11. http://stjornartidindi.is/servlet/stjrtid/B/2004/68.pdf
-  12. http://stjornartidindi.is/servlet/stjrtid/B/2002/896.pdf
-  13. http://stjornartidindi.is/servlet/stjrtid/B/2002/389.pdf
-  14. http://stjornartidindi.is/servlet/stjrtid/B/2003/788.pdf
-  15. http://stjornartidindi.is/servlet/stjrtid/B/2003/789.pdf
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/470-1986
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1989
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/111-1995
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/640-1999
+   2. file:///altext/stjt/2004.129.html
+   3. http://stjornartidindi.is/servlet/stjrtid/B/2004/997.pdf
+   4. http://stjornartidindi.is/servlet/stjrtid/B/2004/997.pdf
+   5. http://stjornartidindi.is/servlet/stjrtid/B/2003/906.pdf
+   6. http://stjornartidindi.is/servlet/stjrtid/B/2002/386.pdf
+   7. http://stjornartidindi.is/servlet/stjrtid/B/2002/387.pdf
+   8. http://stjornartidindi.is/servlet/stjrtid/B/2002/187.pdf
+   9. http://stjornartidindi.is/servlet/stjrtid/B/2002/913.pdf
+  10. http://stjornartidindi.is/servlet/stjrtid/B/2004/68.pdf
+  11. http://stjornartidindi.is/servlet/stjrtid/B/2002/896.pdf
+  12. http://stjornartidindi.is/servlet/stjrtid/B/2002/389.pdf
+  13. http://stjornartidindi.is/servlet/stjrtid/B/2003/788.pdf
+  14. http://stjornartidindi.is/servlet/stjrtid/B/2003/789.pdf
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/470-1986
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1989
+  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/111-1995
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/640-1999
