@@ -11,7 +11,7 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
  Tóku gildi 30. júní 2006. EES-samningurinn: II. viðauki tilskipun 2004/22/EB,
-                           90/384/EBE og 71/316/EBE.
+  90/384/EBE og 71/316/EBE. Breytt með l. 34/2007 (tóku gildi 30. mars 2007).
 
                             I. kafli. Almenn ákvæði.
                                 1. gr. Markmið.
@@ -320,9 +320,10 @@ eftir því sem við getur átt, og reglur settar samkvæmt þeim. Í erindisbr�
  Fullgilt vottorð löggilts vigtarmanns er sönnun um þyngd þess sem vegið var og
  hvað var vegið. Í stjórnvaldsfyrirmælum er unnt að tilgreina að ákveðin störf
                      skuli unnin af löggiltum vigtarmönnum.
- Neytendastofa setur nánari reglur að fenginni umsögn fagráðs, sbr. 35. gr., um
-     almennt og sérstakt hæfi löggiltra vigtarmanna, þ.m.t. hvaða störf séu
+ Neytendastofa setur nánari reglur^1) að fenginni umsögn fagráðs, sbr. 35. gr.,
+   um almennt og sérstakt hæfi löggiltra vigtarmanna, þ.m.t. hvaða störf séu
                 ósamrýmanleg störfum löggiltra vigtarmanna o.fl.
+                                 ^1)Rgl. 650/2007.
                       28. gr. Svipting löggildingar o.fl.
     Brot á reglum um starfsskyldur vigtarmanns eru grundvöllur tafarlausrar
   sviptingar réttinda löggilts vigtarmanns. Hið sama á við um ásetningsbrot um
@@ -430,13 +431,26 @@ dreift hefur verið til söluaðila skuli afturkallaðar. Afturköllun og sölub
    heimilt að leggja á einstakar tegundir framleiðsluvöru og mælitækja eða á
                  framleiðslulotur, eftir því sem við getur átt.
 Um réttarúrræði Neytendastofu vegna brota á sviði lögmælifræði fer að öðru leyti
-  samkvæmt ákvæðum [6]IV. og [7]V. kafla laga nr. 134/1995, um öryggi vöru og
+    samkvæmt ákvæðum IV. og [6]V. kafla laga nr. 134/1995, um öryggi vöru og
               opinbera markaðsgæslu, eftir því sem við getur átt.
          38. gr. Um afturköllun á löggildingu og annarri viðurkenningu.
  Neytendastofa skal afturkalla löggildingu og aðra viðurkenningu sem hún veitir
 samkvæmt lögum þessum eða reglum settum samkvæmt þeim þegar sá sem hlotið hefur
 löggildingu eða viðurkenningu, eða aðili sem starfar á hans vegum, brýtur ákvæði
                  þessara laga eða reglna settra samkvæmt þeim.
+                            [38. gr. a. Málsmeðferð.
+ Ákvæði laga um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðarins
+                 gilda um úrræði Neytendastofu og málsmeðferð.
+ Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til
+     áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um
+                      Neytendastofu og talsmann neytenda.
+   Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður
+                  áfrýjunarnefndar neytendamála liggur fyrir.
+ Nú vill aðili ekki una úrskurði áfrýjunarnefndar neytendamála og getur hann þá
+höfðað mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá
+því að aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar
+       ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar.]^1)
+                               ^1)L. 34/2007, 8. gr.
                                39. gr. Dagsektir.
   Ef ekki er farið að ákvörðun sem tekin hefur verið samkvæmt þessum lögum og
   reglum settum samkvæmt þeim getur Neytendastofa ákveðið að sá sem ákvörðunin
@@ -447,8 +461,8 @@ numið frá 10500 þús. kr. á dag. Ákvörðun um dagsektir skal tilkynnt br
   daga frá því að hún er kynnt þeim er hún beinist að. Dagsektir reiknast ekki
      fyrr en frestur er liðinn. Ef ákvörðun er skotið til áfrýjunarnefndar
   neytendamála falla dagsektir ekki á fyrr en niðurstaða hennar liggur fyrir.
-   Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður
-                         áfrýjunarnefndar liggur fyrir.
+                                      ^1)
+                               ^1)L. 34/2007, 9. gr.
                            40. gr. Stjórnvaldssektir.
   Neytendastofa getur lagt stjórnvaldssektir á einstaklinga og fyrirtæki fyrir
                brot sem framin eru af ásetningi eða gáleysi gegn:
@@ -459,9 +473,7 @@ numið frá 10500 þús. kr. á dag. Ákvörðun um dagsektir skal tilkynnt br
    c. ákvæðum V. kafla, um niðurstöður mælinga, og reglum settum samkvæmt lögum
                              sem gilda um það efni.
                Stjórnvaldssektir geta numið allt að 10 millj. kr.
- Ákvarðanir Neytendastofu um að leggja á stjórnvaldssektir eða dagsektir, sbr.
- 39. gr., og fjárhæð þeirra, eru kæranlegar til áfrýjunarnefndar neytendamála.
-  Málskot til áfrýjunarnefndar neytendamála frestar aðför. Við aðför samkvæmt
+^1) Málskot til áfrýjunarnefndar neytendamála frestar aðför. Við aðför samkvæmt
      ákvörðunum Neytendastofu skal kveðja gerðarþola fyrir héraðsdóm og um
                   málsmeðferð fer skv. 13. kafla aðfararlaga.
      Frestur til að greiða stjórnvaldssektir er fjórar vikur nema annað sé
@@ -470,6 +482,7 @@ numið frá 10500 þús. kr. á dag. Ákvörðun um dagsektir skal tilkynnt br
 stjórnvaldssekta. Í reglugerðinni skal jafnframt kveðið á um vexti og kostnað ef
     stjórnvaldssekt er ekki greidd á eindaga svo og um hver annar en sá sem
        stjórnvaldssekt er lögð á geti borið ábyrgð á greiðslu gjaldsins.
+                              ^1)L. 34/2007, 10. gr.
                                41. gr. Refsingar.
  Sá sem af ásetningi eða gáleysi brýtur gegn ákvæðum III. kafla, 12. og 13. gr.
 IV. kafla, V. kafla, 20. og 22. gr. VI. kafla, 25.27. gr. VII. kafla og 33. gr.
@@ -510,17 +523,17 @@ tilskipunum sem af henni eru leiddar. Í reglugerð sem ráðherra setur skal kv
                          fenginni umsögn Neytendastofu.
  44. gr. Ráðherra er heimilt í reglugerð^1) að setja nánari ákvæði um framkvæmd
                                  laga þessara.
- Í reglugerð sem ráðherra setur skal innleiða nánari reglur um mælitækjaflokka
+Í reglugerð^2) sem ráðherra setur skal innleiða nánari reglur um mælitækjaflokka
    sem taldir eru upp í tilskipun 2004/22/EB, um mælitæki, sbr. 13. gr. laga
  þessara. Taki ráðherra ákvörðun við setningu reglugerðar skv. 1. málsl. um að
   setja ekki reglur um alla mælitækjaflokka sem taldir eru upp í tilskipuninni
 skal ákvörðunin rökstudd og send til Eftirlitsstofnunar EFTA. Hið sama gildir um
           mælitæki sem falla undir gildissvið tilskipunar 71/316/EBE.
-     ^1)[8]Rg. 793/2002 (um löggildingu ósjálfvirkra voga), sbr. [9]958/2006.
- [10]Rg. 954/2006 (um löggildingarskyldu mælitækja í notkun). [11]Rg. 955/2006
-(um löggildingartákn og merkingar eftirlitsskyldra mælitækja). [12]Rg. 956/2006
-       (um starfshætti þeirra sem annast löggildingar mælitækja í umboði
-                                Neytendastofu).
+      ^1)Rg. 793/2002 (um löggildingu ósjálfvirkra voga), sbr. 958/2006. Rg.
+     954/2006 (um löggildingarskyldu mælitækja í notkun). Rg. 955/2006 (um
+ löggildingartákn og merkingar eftirlitsskyldra mælitækja), sbr. 192/2007. Rg.
+   956/2006 (um starfshætti þeirra sem annast löggildingar mælitækja í umboði
+                        Neytendastofu). ^2)Rg. 465/2007.
                      45. gr. Lög þessi öðlast þegar gildi.
 Ákvæði til bráðabirgða. Þrátt fyrir ákvæði 10. gr. er heimilt að setja á markað
   og taka í fyrstu notkun hér á landi mælitæki sem uppfyllir kröfur fyrir 30.
@@ -535,10 +548,4 @@ References
    3. http://www.althingi.is/altext/132/s/906.html
    4. file://1993037.html
    5. file://2005062.html
-   6. file:///altext/stjt/1995.134.html
-   7. file://1995134.html
-   8. file://ekkitil/ekkitil.html?REGL/2002793
-   9. file://ekkitil/ekkitil.html?REGL/2006958
-  10. file://ekkitil/ekkitil.html?REGL/2006954
-  11. file://ekkitil/ekkitil.html?REGL/2006955
-  12. file://ekkitil/ekkitil.html?REGL/2006956
+   6. file://1995134.html

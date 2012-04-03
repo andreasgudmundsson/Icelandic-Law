@@ -11,7 +11,7 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
  Tóku gildi 1. júlí 1992. Breytt með [4]l. 90/1996 (tóku gildi 1. júlí 1997) og
-                    [5]l. 82/1998 (tóku gildi 1. okt. 1998).
+                     l. 82/1998 (tóku gildi 1. okt. 1998).
 
                             I. kafli. Almenn ákvæði.
     1. gr. Samkvæmt því sem mælt er fyrir í lögum þessum má til bráðabirgða
@@ -35,7 +35,7 @@ Um framlagningu gagna við gerðina og varðveislu þeirra, efni bókunar sýslu
  um hana í gerðabók og undirritun og viðurvist votts við hana skal farið eftir
  fyrirmælum 32. gr., 2. og 3. mgr. 33. gr., 34. gr. og 1. mgr. 51. gr. laga um
                                      aðför.
-                                ^1)[6]Rg. 17/1992.
+                                  ^1)Rg. 17/1992.
 
                             II. kafli. Kyrrsetning.
  5. gr. Kyrrsetja má eignir skuldara til tryggingar fullnustu lögvarinnar kröfu
@@ -393,7 +393,7 @@ Brjóti gerðarþoli eða einhver á hans vegum lögbann af ásetningi eða gál
                             í refsimáli skv. 2. mgr.
 Fresta má refsi- eða bótamáli vegna brots á lögbanni þar til dómur hefur gengið
                      í máli til staðfestingar á lögbanninu.
-               ^1)[7]L. 90/1996, 43. gr. ^2)[8]L. 82/1998, 194. gr.
+                 ^1)[5]L. 90/1996, 43. gr. ^2)L. 82/1998, 194. gr.
 
 V. kafli. Meðferð mála fyrir héraðsdómi til úrlausnar ágreinings um undirbúning,
                        framkvæmd eða endurupptöku gerðar.
@@ -549,7 +549,4 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=112&mnr=241
    3. http://www.althingi.is/altext/112/s/0357.html
    4. file://1996090.html
-   5. file:///altext/stjt/1998.082.html
-   6. file://ekkitil/ekkitil.html?REGL/1992017
-   7. file://1996090.html#g43
-   8. file:///altext/stjt/1998.082.html
+   5. file://1996090.html#g43

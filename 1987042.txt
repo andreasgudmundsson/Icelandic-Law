@@ -10,14 +10,15 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 1. júlí 1987. Breytt með [4]l. 137/1989 (tóku gildi 16. jan. 1990).
+ Tóku gildi 1. júlí 1987. Breytt með l. 137/1989 (tóku gildi 16. jan. 1990) og
+                   [4]l. 75/2007 (tóku gildi 1. ágúst 2007).
 
    1. gr. Hagstofa Íslands skal reikna og birta vísitölu byggingarkostnaðar.
      Vísitalan skal reist á þeim grunni sem Hagstofan ákveður í samráði við
-  Rannsóknastofnun byggingariðnaðarins. Grunnur vísitölunnar skal miðaður við
-    tiltekna gerð íbúðarhúsnæðis. Auk þess er Hagstofunni heimilt að reikna
-   vísitölur sem miðast við aðrar gerðir húsa, byggingarmannvirkja eða hluta
-                                    þeirra.
+ [Nýsköpunarmiðstöð Íslands].^1) Grunnur vísitölunnar skal miðaður við tiltekna
+  gerð íbúðarhúsnæðis. Auk þess er Hagstofunni heimilt að reikna vísitölur sem
+      miðast við aðrar gerðir húsa, byggingarmannvirkja eða hluta þeirra.
+                             ^1)[5]L. 75/2007, 17. gr.
       2. gr. Vísitala byggingarkostnaðar skal miðuð við byggingarkostnað á
 höfuðborgarsvæði. Vísitalan skal reiknuð samkvæmt verðlagi um miðjan hvern mánuð
 og gilda í mánaðartíma frá fyrsta degi mánaðarins næsta eftir útreikningsmánuð.
@@ -39,10 +40,10 @@ I. Ákvæði 2. gr. þessara laga um mánaðarlegan útreikning og gildistíma v
  [II. Eftir upptöku virðisaukaskatts hinn 1. janúar 1990 skal Hagstofa Íslands
  við útreikning vísitölu byggingarkostnaðar frá og með janúar 1990 taka tillit
   til endurgreiðslna virðisaukaskatts af byggingu íbúðarhúsnæðis vegna vinnu á
-byggingarstað, sbr. 2. mgr. [5]42. gr. laga nr. 50/1988, með áorðnum breytingum,
+byggingarstað, sbr. 2. mgr. [6]42. gr. laga nr. 50/1988, með áorðnum breytingum,
    þannig að endurgreiddur virðisaukaskattur sé dreginn frá byggingarkostnaði
                    reiknuðum með fullum virðisaukaskatti.]^1)
-                             ^1)[6]L. 137/1989, 1. gr.
+                              ^1)L. 137/1989, 1. gr.
 
 References
 
@@ -50,6 +51,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1987042
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=109&mnr=423
    3. http://www.althingi.is/altext/109/s/pdf/0866.pdf
-   4. file:///altext/stjt/1989.137.html
-   5. file://1988050.html#g42
-   6. file:///altext/stjt/1989.137.html
+   4. file://2007075.html
+   5. file://2007075.html#g17
+   6. file://1988050.html#g42

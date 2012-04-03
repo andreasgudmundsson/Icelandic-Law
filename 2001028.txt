@@ -11,8 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
    Tóku gildi 16. maí 2001. EES-samningurinn: XI. viðauki tilskipun 99/93/EB.
-  Breytt með [4]l. 72/2003 (tóku gildi 10. apríl 2003) og [5]l. 62/2005 (tóku
-                              gildi 1. júlí 2005).
+Breytt með l. 72/2003 (tóku gildi 10. apríl 2003), [4]l. 62/2005 (tóku gildi 1.
+              júlí 2005) og l. 34/2007 (tóku gildi 30. mars 2007).
 
                         I. kafli. Markmið og gildissvið.
                                 1. gr. Markmið.
@@ -117,7 +117,7 @@ Ekki skal vera unnt að nota öruggan undirskriftarbúnað til að breyta þeim 
 Líta skal svo á að undirskriftarbúnaður teljist öruggur skv. 8. gr. ef hann er í
  samræmi við staðla sem framkvæmdastjórn Evrópusambandsins hefur sett um slíkan
        búnað og birtir hafa verið í Stjórnartíðindum Evrópubandalagsins.
-                             ^1)[6]L. 72/2003, 54. gr.
+                              ^1)L. 72/2003, 54. gr.
 
         V. kafli. Kröfur til vottunaraðila sem gefa út fullgild vottorð.
                        10. gr. Kröfur til starfseminnar.
@@ -213,8 +213,19 @@ gefa út fullgild vottorð sé í samræmi við ákvæði laga þessara og regln
  [Neytendastofa]^1) getur svipt vottunaraðila heimild til að kalla vottorð sem
 hann gefur út fullgild vottorð ef hann hefur gróflega eða ítrekað brotið gegn
           ákvæðum laga þessara eða reglum settum á grundvelli þeirra.
+ [Ákvæði laga um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðarins
+                 gilda um úrræði Neytendastofu og málsmeðferð.
+ Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til
+     áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um
+                      Neytendastofu og talsmann neytenda.
+   Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður
+                  áfrýjunarnefndar neytendamála liggur fyrir.
+Nú vill vottunaraðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað
+mál til ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að
+ aðili fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki
+         gildistöku úrskurðar nefndarinnar né heimild til aðfarar.]^2)
     Ráðherra getur sett nánari fyrirmæli um tilhögun eftirlits í reglugerð.
-                             ^1)[7]L. 62/2005, 13. gr.
+                  ^1)[5]L. 62/2005, 13. gr. ^2)L. 34/2007, 5. gr.
                       19. gr. Skráning og eftirlitsgjald.
   Vottunaraðili sem hyggst gefa út fullgild vottorð skal senda tilkynningu um
 starfsemi sína til [Neytendastofu].^1) Eftir að slík tilkynning hefur verið send
@@ -233,7 +244,7 @@ getur vottunaraðili gefið út fullgild vottorð. Í tilkynningunni skulu koma 
   Gjalddagi eftirlitsgjalds er 1. febrúar ár hvert vegna síðasta almanaksárs.
   Ráðherra getur sett nánari fyrirmæli um tilhögun skráningar, tilkynningar og
                           upplýsingagjöf í reglugerð.
-                             ^1)[8]L. 62/2005, 13. gr.
+                             ^1)[6]L. 62/2005, 13. gr.
                    20. gr. Athugun, aðgangur og þagnarskylda.
 Afhenda skal [Neytendastofu]^1) allar þær upplýsingar og skýringar sem henni eru
  nauðsynlegar vegna eftirlitsins. Er [Neytendastofu]^1) heimilt að setja fresti
@@ -256,7 +267,7 @@ Afhenda skal [Neytendastofu]^1) allar þær upplýsingar og skýringar sem henni
    annarra. Sama gildir um sérfræðinga sem starfa fyrir [Neytendastofu]^1) að
   eftirlitsstarfi samkvæmt lögum þessum. Þagnarskyldan helst þótt látið sé af
                                     starfi.
-                             ^1)[9]L. 62/2005, 13. gr.
+                             ^1)[7]L. 62/2005, 13. gr.
                                21. gr. Dagsektir.
   [Neytendastofa]^1) getur lagt dagsektir á vottunaraðila að liðnum tilteknum
  fresti veiti hann ekki umbeðnar upplýsingar, fari ekki eftir kröfum hennar um
@@ -269,7 +280,7 @@ dagsektir falla ekki niður þrátt fyrir að orðið sé við kröfum [Neytenda
    Dagsektir eru aðfararhæfar og renna í ríkissjóð að frádregnum kostnaði við
    innheimtuna. Ákvörðun [Neytendastofu]^1) um dagsektir verður ekki kærð til
                                    ráðherra.
-                            ^1)[10]L. 62/2005, 13. gr.
+                             ^1)[8]L. 62/2005, 13. gr.
 
                            VIII. kafli. Ýmis ákvæði.
             22. gr. Vottunaraðilar sem hafa staðfestu utan Íslands.
@@ -287,7 +298,7 @@ efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evr�
            d. vottorðið eða vottunaraðilinn er viðurkenndur af Íslandi,
  Evrópubandalaginu, ríkjum utan Evrópubandalagsins eða alþjóðlegum stofnunum, í
                        tvíhliða eða marghliða samningum.
-                            ^1)[11]L. 72/2003, 55. gr.
+                              ^1)L. 72/2003, 55. gr.
                                23. gr. Viðurlög.
  Fyrir brot gegn lögum þessum skal refsað með sektum nema þyngri refsing liggi
                            við samkvæmt öðrum lögum.
@@ -310,11 +321,8 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001028
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=524
    3. http://www.althingi.is/altext/126/s/0820.html
-   4. file:///altext/stjt/2003.072.html
-   5. file://2005062.html
-   6. file:///altext/stjt/2003.072.html
+   4. file://2005062.html
+   5. file://2005062.html#g13
+   6. file://2005062.html#g13
    7. file://2005062.html#g13
    8. file://2005062.html#g13
-   9. file://2005062.html#g13
-  10. file://2005062.html#g13
-  11. file:///altext/stjt/2003.072.html

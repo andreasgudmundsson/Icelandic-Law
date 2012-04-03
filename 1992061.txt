@@ -10,13 +10,14 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 22. júní 1992. Breytt með [4]l. 73/1996 (tóku gildi 19. júní 1996),
- [5]l. 44/1999 (tóku gildi 1. júlí 1999) og [6]l. 164/2002 (tóku gildi 1. jan.
-                                     2003).
+  Tóku gildi 22. júní 1992. Breytt með l. 73/1996 (tóku gildi 19. júní 1996),
+ [4]l. 44/1999 (tóku gildi 1. júlí 1999), l. 164/2002 (tóku gildi 1. jan. 2003)
+                   og l. 24/2007 (tóku gildi 29. mars 2007).
 
   1. gr. Óheimilt er að brenna sinu nema á jörðum sem eru í ábúð eða nýttar af
-   ábúendum lögbýla og þá samkvæmt leyfi sýslumanns og að fylgt sé ákvæðum í
-                             reglugerð, sbr. 4. gr.
+    ábúendum lögbýla og þá samkvæmt leyfi sýslumanns, [að höfðu samráði við
+      lögreglustjóra],^1) og að fylgt sé ákvæðum í reglugerð, sbr. 4. gr.
+                               ^1)L. 24/2007, 9. gr.
    2. gr. Aldrei má brenna sinu þar sem almannahætta stafar af eða tjón getur
       hlotist af á náttúruminjum, fuglalífi, mosa, lyng- eða trjágróðri og
                                   mannvirkjum.
@@ -30,8 +31,8 @@ reglugerð, sbr. 4. gr. Eftir þann tíma er hvarvetna óheimilt að brenna sinu
    skilyrði ábúanda, sbr. 3. gr., skuli sett, m.a. um skyldu til að tilkynna
  hlutaðeigandi slökkviliðsstjóra, eftirlit með brennu og annað sem nauðsynlegt
                                      þykir.
-     ^1)[7]Rg. 157/1993, sbr. [8]273/1994. ^2)[9]L. 73/1996, 27. gr. ^3)[10]L.
-                               164/2002, 24. gr.
+    ^1)Rg. 157/1993, sbr. 273/1994. ^2)L. 73/1996, 27. gr. ^3)L. 164/2002, 24.
+                                      gr.
 5. gr. Óheimilt er að kveikja eld á víðavangi þar sem almannahætta getur stafað
                 af eða hætt er gróðri, dýralífi eða mannvirkjum.
  Skylt er hverjum þeim sem ferðast um að gæta ýtrustu varkárni í meðferð elds.
@@ -50,10 +51,4 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1992061
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=115&mnr=280
    3. http://www.althingi.is/altext/115/s/0469.html
-   4. file:///altext/stjt/1996.073.html
-   5. file://1999044.html
-   6. file:///altext/stjt/2002.164.html
-   7. file://ekkitil/ekkitil.html?REGL/1993157
-   8. file://ekkitil/ekkitil.html?REGL/1994273
-   9. file:///altext/stjt/1996.073.html
-  10. file:///altext/stjt/2002.164.html
+   4. file://1999044.html

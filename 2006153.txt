@@ -10,8 +10,9 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Taka gildi 1. júlí 2007 nema 1. tölul. ákvæðis til bráðabirgða sem tók gildi 1.
-                                  janúar 2007.
+Tóku gildi 1. júlí 2007 nema 1. tölul. ákvæðis til bráðabirgða sem tók gildi 1.
+         janúar 2007. Breytt með l. 167/2007 (tóku gildi 1. jan. 2008).
+
                             1. gr. Markmið laganna.
    Markmið laga þessara er að lögbinda gjaldstofn fyrir sveitarfélög til töku
  sérstaks skatts, gatnagerðargjalds, af fasteignum og rétt sveitarfélaga til að
@@ -143,12 +144,13 @@ Sveitarstjórn skal verja gatnagerðargjaldi til gatnagerðar í sveitarfélagin
                   skipulags- og [7]byggingarlaga, nr. 73/1997.
                               11. gr. Kæruheimild.
    Aðili máls getur skotið ákvörðun sveitarstjórnar samkvæmt lögum þessum til
-úrskurðar félagsmálaráðherra. Kærufrestur er þrír mánuðir frá því að aðili fékk
- vitneskju um ákvörðunina. Kæruheimild þessi skerðir þó eigi rétt aðila til að
-                           höfða mál fyrir dómstólum.
+ úrskurðar [samgönguráðherra].^1) Kærufrestur er þrír mánuðir frá því að aðili
+fékk vitneskju um ákvörðunina. Kæruheimild þessi skerðir þó eigi rétt aðila til
+                         að höfða mál fyrir dómstólum.
 Komist ráðherra að þeirri niðurstöðu að ákvörðun sveitarfélags hafi ekki verið í
     samræmi við lög getur hann ógilt ákvörðunina og eftir atvikum lagt fyrir
                       sveitarstjórn að taka nýja ákvörðun.
+                              ^1)L. 167/2007, 6. gr.
      12. gr. Samþykkt sveitarfélags um gatnagerðargjald og birting hennar.
  Sveitarstjórn skal setja samþykkt um gatnagerðargjald fyrir sveitarfélagið þar
   sem eftir atvikum er kveðið á um álagningu gjaldsins, undanþágur frá því og
@@ -163,8 +165,8 @@ Um álagningu og innheimtu gatnagerðargjalds sem gjaldfallið er í tíð eldri
                             Ákvæði til bráðabirgða.
     1. Þrátt fyrir ákvæði 2. málsl. 1. mgr. 13. gr. skal 1. tölul. ákvæðis til
  bráðabirgða við [8]lög um gatnagerðargjald, nr. 17/1996, gilda um innheimtu og
- álagningu gatnagerðargjalda vegna framkvæmda á grundvelli [9]3. og [10]4. gr.
-laga nr. 51/1974, um gatnagerðargjöld, sem lokið er við fyrir 31. desember 2009.
+ álagningu gatnagerðargjalda vegna framkvæmda á grundvelli 3. og [9]4. gr. laga
+  nr. 51/1974, um gatnagerðargjöld, sem lokið er við fyrir 31. desember 2009.
        Ákvæði þetta gildir aðeins um lóðir sem úthlutað var eða veitt var
                      byggingarleyfi á fyrir 1. janúar 1997.
       2. Samningar um gatnagerðargjald af tilteknum lóðum, sem lóðarhafar eða
@@ -184,5 +186,4 @@ References
    6. file://2001038.html
    7. file://1997073.html
    8. file://1996017.html
-   9. file:///altext/stjtnr.html#1974051?g3
-  10. file://1974051.html
+   9. file://1974051.html

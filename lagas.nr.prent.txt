@@ -1,0 +1,328 @@
+
+   --------------------------------------------------------------------------
+
+   Útgáfa 135a - í vinnslu (22.02.2008)
+
+     * [1]2007 nr. 163 21. desember Lög um Hagstofu Íslands og opinbera
+       hagskýrslugerð
+     * [2]2007 nr. 150 20. desember Lög um fyrningu kröfuréttinda
+     * [3]2007 nr. 135 12. nóvember Lög um notkun raflagna og raffanga í
+       núverandi ástandi á íbúðar- og skólasvæði fyrrum varnarsvæðis á
+       Keflavíkurflugvelli
+     * [4]2007 nr. 110 26. júní Lög um kauphallir
+     * [5]2007 nr. 108 26. júní Lög um verðbréfaviðskipti
+     * [6]2007 nr. 100 11. maí Lög um almannatryggingar
+     * [7]2007 nr. 99 11. maí Lög um félagslega aðstoð
+     * [8]2007 nr. 86 30. mars Lög um skattlagningu kaupskipaútgerðar
+     * [9]2007 nr. 84 30. mars Lög um opinber innkaup
+     * [10]2007 nr. 80 29. mars Vegalög
+     * [11]2007 nr. 73 28. mars Lög um íslensku friðargæsluna og þátttöku
+       hennar í alþjóðlegri friðargæslu
+     * [12]2007 nr. 71 28. mars Lög um námsgögn
+     * [13]2007 nr. 70 28. mars Æskulýðslög
+     * [14]2007 nr. 50 27. mars Lög um sameignarfélög
+     * [15]2007 nr. 41 27. mars Lög um landlækni
+     * [16]2007 nr. 40 27. mars Lög um heilbrigðisþjónustu
+     * [17]2007 nr. 38 27. mars Lög um íslenska alþjóðlega skipaskrá
+     * [18]2007 nr. 30 23. mars Lög um áhafnir íslenskra fiskiskipa,
+       varðskipa, skemmtibáta og annarra skipa
+     * [19]2006 nr. 176 20. desember Lög um ráðstafanir í kjölfar samnings
+       við Bandaríkin um skil á varnarsvæðinu á Keflavíkurflugvelli
+     * [20]2006 nr. 153 15. desember Lög um gatnagerðargjald
+     * [21]2006 nr. 152 15. desember Lög um ættleiðingarstyrki
+     * [22]2006 nr. 150 15. desember Lög um stofnun opinbers hlutafélags um
+       Lánasjóð sveitarfélaga
+     * [23]2006 nr. 116 10. ágúst Lög um stjórn fiskveiða
+     * [24]2006 nr. 61 14. júní Lög um lax- og silungsveiði
+     * [25]2006 nr. 60 14. júní Lög um varnir gegn fisksjúkdómum
+     * [26]2006 nr. 58 14. júní Lög um fiskrækt
+     * [27]2006 nr. 57 14. júní Lög um eldi vatnafiska
+     * [28]2006 nr. 54 14. júní Lög um atvinnuleysistryggingar
+     * [29]2006 nr. 47 14. júní Lög um kjararáð
+     * [30]2006 nr. 22 12. apríl Lög um greiðslur til foreldra langveikra eða
+       alvarlega fatlaðra barna
+     * [31]2006 nr. 20 31. mars Vatnalög
+     * [32]2006 nr. 3 17. janúar Lög um ársreikninga
+     * [33]2005 nr. 133 20. desember Lög um ráðstöfun á söluandvirði
+       Landssíma Íslands hf.
+     * [34]2005 nr. 88 18. maí Tollalög
+     * [35]2005 nr. 80 24. maí Lög um Matvælastofnun
+     * [36]2005 nr. 73 24. maí Lög um skipan ferðamála
+     * [37]2005 nr. 44 19. maí Samkeppnislög
+     * [38]2005 nr. 32 11. maí Lög um miðlun vátrygginga
+     * [39]2004 nr. 99 9. júní Lög um sölu fasteigna, fyrirtækja og skipa
+     * [40]2004 nr. 87 9. júní Lög um olíugjald og kílómetragjald
+     * [41]2004 nr. 30 7. maí Lög um vátryggingarsamninga
+     * [42]2004 nr. 14 26. mars Lög um erfðafjárskatt
+     * [43]2003 nr. 90 7. maí Lög um tekjuskatt
+     * [44]2003 nr. 88 26. mars Lög um Ábyrgðasjóð launa
+     * [45]2003 nr. 87 26. mars Lög um Orkustofnun
+     * [46]2003 nr. 81 26. mars Lög um fjarskipti
+     * [47]2003 nr. 79 26. mars Lög um námsstyrki
+     * [48]2003 nr. 61 27. mars Hafnalög
+     * [49]2003 nr. 47 20. mars Lög um eftirlit með skipum
+     * [50]2003 nr. 30 20. mars Lög um verðbréfasjóði og fjárfestingarsjóði
+     * [51]2002 nr. 162 20. desember Lög um úrvinnslugjald
+     * [52]2002 nr. 161 20. desember Lög um fjármálafyrirtæki
+     * [53]2002 nr. 155 18. desember Lög um félagamerki
+     * [54]2002 nr. 103 15. maí Lög um búfjárhald o.fl.
+     * [55]2002 nr. 96 15. maí Lög um útlendinga
+     * [56]2002 nr. 91 15. maí Lög um varnir gegn landbroti
+     * [57]2002 nr. 90 15. maí Lög um Umhverfisstofnun
+     * [58]2002 nr. 55 2. maí Lög um útflutning hrossa
+     * [59]2002 nr. 33 16. apríl Lög um eldi nytjastofna sjávar
+     * [60]2001 nr. 137 21. desember Kvikmyndalög
+     * [61]2001 nr. 76 31. maí Lög um áhafnir íslenskra farþegaskipa og
+       flutningaskipa
+     * [62]2001 nr. 73 31. maí Lög um fólksflutninga og farmflutninga á landi
+     * [63]2001 nr. 46 19. maí Lög um hönnun
+     * [64]2001 nr. 38 26. maí Lög um vexti og verðtryggingu
+     * [65]2001 nr. 6 6. febrúar Lög um skráningu og mat fasteigna
+     * [66]2000 nr. 111 25. maí Lög um sjúklingatryggingu
+     * [67]2000 nr. 95 22. maí Lög um fæðingar- og foreldraorlof
+     * [68]2000 nr. 76 23. maí Lög um stofnun hlutafélags um Flugstöð Leifs
+       Eiríkssonar
+     * [69]1999 nr. 125 31. desember Lög um málefni aldraðra
+     * [70]1999 nr. 99 27. desember Lög um greiðslu kostnaðar við opinbert
+       eftirlit með fjármálastarfsemi
+     * [71]1999 nr. 57 19. mars Lög um búnaðarfræðslu
+     * [72]1999 nr. 44 22. mars Lög um náttúruvernd
+     * [73]1999 nr. 43 22. mars Lög um tímabundnar endurgreiðslur vegna
+       kvikmyndagerðar á Íslandi
+     * [74]1999 nr. 41 22. mars Lög um Háskóla Íslands
+     * [75]1999 nr. 40 22. mars Lög um Háskólann á Akureyri
+     * [76]1998 nr. 87 16. júní Lög um opinbert eftirlit með
+       fjármálastarfsemi
+     * [77]1998 nr. 66 15. júní Lög um dýralækna og heilbrigðisþjónustu við
+       dýr
+     * [78]1998 nr. 60 10. júní Lög um loftferðir
+     * [79]1998 nr. 58 10. júní Lög um þjóðlendur og ákvörðun marka
+       eignarlanda, þjóðlendna og afrétta
+     * [80]1998 nr. 55 10. júní Lög um meðferð, vinnslu og dreifingu
+       sjávarafurða
+     * [81]1998 nr. 45 3. júní Sveitarstjórnarlög
+     * [82]1998 nr. 44 3. júní Lög um húsnæðismál
+     * [83]1998 nr. 13 27. mars Lög um Verðlagsstofu skiptaverðs og
+       úrskurðarnefnd sjómanna og útvegsmanna
+     * [84]1998 nr. 7 12. mars Lög um hollustuhætti og mengunarvarnir
+     * [85]1998 nr. 5 6. mars Lög um kosningar til sveitarstjórna
+     * [86]1997 nr. 138 23. desember Lög um húsaleigubætur
+     * [87]1997 nr. 131 23. desember Lög um rafræna eignarskráningu verðbréfa
+     * [88]1997 nr. 129 23. desember Lög um skyldutryggingu lífeyrisréttinda
+       og starfsemi lífeyrissjóða
+     * [89]1997 nr. 96 27. maí Lög um eldi og heilbrigði sláturdýra, slátrun,
+       vinnslu, heilbrigðisskoðun og gæðamat á sláturafurðum
+     * [90]1997 nr. 84 26. maí Lög um búnaðargjald
+     * [91]1997 nr. 79 26. maí Lög um veiðar í fiskveiðilandhelgi Íslands
+     * [92]1997 nr. 78 26. maí Lög um stöðu, stjórn og starfshætti
+       þjóðkirkjunnar
+     * [93]1997 nr. 73 28. maí Skipulags- og byggingarlög
+     * [94]1997 nr. 61 26. maí Lög um Nýsköpunarsjóð atvinnulífsins
+     * [95]1997 nr. 49 23. maí Lög um varnir gegn snjóflóðum og skriðuföllum
+     * [96]1997 nr. 45 22. maí Lög um vörumerki
+     * [97]1997 nr. 19 17. apríl Sóttvarnalög
+     * [98]1996 nr. 151 27. desember Lög um fiskveiðar utan lögsögu Íslands
+     * [99]1996 nr. 146 27. desember Lög um öryggi raforkuvirkja,
+       neysluveitna og raffanga
+     * [100]1996 nr. 80 11. júní Lög um framhaldsskóla
+     * [101]1996 nr. 57 3. júní Lög um umgengni um nytjastofna sjávar
+     * [102]1996 nr. 6 19. mars Lög um Siglingastofnun Íslands
+     * [103]1995 nr. 146 28. desember Lög um Bjargráðasjóð
+     * [104]1995 nr. 93 28. júní Lög um matvæli
+     * [105]1995 nr. 53 8. mars Lög um stuðning við framkvæmdir sveitarfélaga
+       í fráveitumálum
+     * [106]1995 nr. 51 7. mars Lög um greiðslur Atvinnuleysistryggingasjóðs
+       vegna fiskvinnslufólks
+     * [107]1995 nr. 12 2. mars Lög um vísitölu neysluverðs
+     * [108]1995 nr. 4 30. janúar Lög um tekjustofna sveitarfélaga
+     * [109]1994 nr. 162 31. desember Lög um lífræna landbúnaðarframleiðslu
+     * [110]1994 nr. 113 28. júní Lög um eftirlaun til aldraðra
+     * [111]1994 nr. 93 20. maí Lyfjalög
+     * [112]1994 nr. 80 19. maí Lög um alferðir
+     * [113]1994 nr. 60 11. maí Lög um vátryggingastarfsemi
+     * [114]1994 nr. 26 6. apríl Lög um fjöleignarhús
+     * [115]1994 nr. 22 29. mars Lög um eftirlit með fóðri, áburði og sáðvöru
+     * [116]1994 nr. 15 16. mars Lög um dýravernd
+     * [117]1993 nr. 99 8. september Lög um framleiðslu, verðlagningu og sölu
+       á búvörum
+     * [118]1993 nr. 25 7. apríl Lög um dýrasjúkdóma og varnir gegn þeim
+     * [119]1992 nr. 59 2. júní Lög um málefni fatlaðra
+     * [120]1992 nr. 36 27. maí Lög um Fiskistofu
+     * [121]1991 nr. 88 31. desember Lög um aukatekjur ríkissjóðs
+     * [122]1991 nr. 55 31. maí Lög um þingsköp Alþingis
+     * [123]1991 nr. 17 20. mars Lög um einkaleyfi
+     * [124]1990 nr. 113 28. desember Lög um tryggingagjald
+     * [125]1990 nr. 67 11. maí Lög um Tilraunastöð Háskóla Íslands í
+       meinafræði að Keldum
+     * [126]1990 nr. 54 16. maí Lög um innflutning dýra
+     * [127]1990 nr. 43 16. maí Lög um lánasýslu ríkisins
+     * [128]1988 nr. 52 18. maí Lög um eiturefni og hættuleg efni
+     * [129]1988 nr. 50 24. maí Lög um virðisaukaskatt
+     * [130]1988 nr. 36 18. maí Lög um lögreglusamþykktir
+     * [131]1987 nr. 50 30. mars Umferðarlög
+     * [132]1987 nr. 45 30. mars Lög um staðgreiðslu opinberra gjalda
+     * [133]1987 nr. 43 30. mars Lög um lögskráningu sjómanna
+     * [134]1986 nr. 50 6. maí Lög um Rannsóknadeild fisksjúkdóma
+     * [135]1986 nr. 6 21. mars Lög um afréttamálefni, fjallskil o.fl.
+     * [136]1985 nr. 34 19. júní Siglingalög
+     * [137]1973 nr. 16 13. apríl Lög um happdrætti Dvalarheimilis aldraðra
+       sjómanna
+     * [138]1971 nr. 54 6. apríl Lög um Innheimtustofnun sveitarfélaga
+     * [139]1969 nr. 73 28. maí Lög um Stjórnarráð Íslands
+     * [140]1965 nr. 17 24. apríl Lög um landgræðslu
+     * [141]1962 nr. 94 29. desember Lög um almannavarnir
+     * [142]1959 nr. 18 22. apríl Lög um happdrætti fyrir Samband íslenskra
+       berkla- og brjóstholssjúklinga
+     * [143]1955 nr. 3 6. mars Lög um skógrækt
+     * [144]1923 nr. 15 20. júní Vatnalög
+     * [145]1903 nr. 42 13. nóvember Lög um verslanaskrár, firmu og
+       prókúruumboð
+
+References
+
+   Visible links
+   1. http://www.althingi.is/lagas/135a/2007163.html
+   2. http://www.althingi.is/lagas/135a/2007150.html
+   3. http://www.althingi.is/lagas/135a/2007135.html
+   4. http://www.althingi.is/lagas/135a/2007110.html
+   5. http://www.althingi.is/lagas/135a/2007108.html
+   6. http://www.althingi.is/lagas/135a/2007100.html
+   7. http://www.althingi.is/lagas/135a/2007099.html
+   8. http://www.althingi.is/lagas/135a/2007086.html
+   9. http://www.althingi.is/lagas/135a/2007084.html
+  10. http://www.althingi.is/lagas/135a/2007080.html
+  11. http://www.althingi.is/lagas/135a/2007073.html
+  12. http://www.althingi.is/lagas/135a/2007071.html
+  13. http://www.althingi.is/lagas/135a/2007070.html
+  14. http://www.althingi.is/lagas/135a/2007050.html
+  15. http://www.althingi.is/lagas/135a/2007041.html
+  16. http://www.althingi.is/lagas/135a/2007040.html
+  17. http://www.althingi.is/lagas/135a/2007038.html
+  18. http://www.althingi.is/lagas/135a/2007030.html
+  19. http://www.althingi.is/lagas/135a/2006176.html
+  20. http://www.althingi.is/lagas/135a/2006153.html
+  21. http://www.althingi.is/lagas/135a/2006152.html
+  22. http://www.althingi.is/lagas/135a/2006150.html
+  23. http://www.althingi.is/lagas/135a/2006116.html
+  24. http://www.althingi.is/lagas/135a/2006061.html
+  25. http://www.althingi.is/lagas/135a/2006060.html
+  26. http://www.althingi.is/lagas/135a/2006058.html
+  27. http://www.althingi.is/lagas/135a/2006057.html
+  28. http://www.althingi.is/lagas/135a/2006054.html
+  29. http://www.althingi.is/lagas/135a/2006047.html
+  30. http://www.althingi.is/lagas/135a/2006022.html
+  31. http://www.althingi.is/lagas/135a/2006020.html
+  32. http://www.althingi.is/lagas/135a/2006003.html
+  33. http://www.althingi.is/lagas/135a/2005133.html
+  34. http://www.althingi.is/lagas/135a/2005088.html
+  35. http://www.althingi.is/lagas/135a/2005080.html
+  36. http://www.althingi.is/lagas/135a/2005073.html
+  37. http://www.althingi.is/lagas/135a/2005044.html
+  38. http://www.althingi.is/lagas/135a/2005032.html
+  39. http://www.althingi.is/lagas/135a/2004099.html
+  40. http://www.althingi.is/lagas/135a/2004087.html
+  41. http://www.althingi.is/lagas/135a/2004030.html
+  42. http://www.althingi.is/lagas/135a/2004014.html
+  43. http://www.althingi.is/lagas/135a/2003090.html
+  44. http://www.althingi.is/lagas/135a/2003088.html
+  45. http://www.althingi.is/lagas/135a/2003087.html
+  46. http://www.althingi.is/lagas/135a/2003081.html
+  47. http://www.althingi.is/lagas/135a/2003079.html
+  48. http://www.althingi.is/lagas/135a/2003061.html
+  49. http://www.althingi.is/lagas/135a/2003047.html
+  50. http://www.althingi.is/lagas/135a/2003030.html
+  51. http://www.althingi.is/lagas/135a/2002162.html
+  52. http://www.althingi.is/lagas/135a/2002161.html
+  53. http://www.althingi.is/lagas/135a/2002155.html
+  54. http://www.althingi.is/lagas/135a/2002103.html
+  55. http://www.althingi.is/lagas/135a/2002096.html
+  56. http://www.althingi.is/lagas/135a/2002091.html
+  57. http://www.althingi.is/lagas/135a/2002090.html
+  58. http://www.althingi.is/lagas/135a/2002055.html
+  59. http://www.althingi.is/lagas/135a/2002033.html
+  60. http://www.althingi.is/lagas/135a/2001137.html
+  61. http://www.althingi.is/lagas/135a/2001076.html
+  62. http://www.althingi.is/lagas/135a/2001073.html
+  63. http://www.althingi.is/lagas/135a/2001046.html
+  64. http://www.althingi.is/lagas/135a/2001038.html
+  65. http://www.althingi.is/lagas/135a/2001006.html
+  66. http://www.althingi.is/lagas/135a/2000111.html
+  67. http://www.althingi.is/lagas/135a/2000095.html
+  68. http://www.althingi.is/lagas/135a/2000076.html
+  69. http://www.althingi.is/lagas/135a/1999125.html
+  70. http://www.althingi.is/lagas/135a/1999099.html
+  71. http://www.althingi.is/lagas/135a/1999057.html
+  72. http://www.althingi.is/lagas/135a/1999044.html
+  73. http://www.althingi.is/lagas/135a/1999043.html
+  74. http://www.althingi.is/lagas/135a/1999041.html
+  75. http://www.althingi.is/lagas/135a/1999040.html
+  76. http://www.althingi.is/lagas/135a/1998087.html
+  77. http://www.althingi.is/lagas/135a/1998066.html
+  78. http://www.althingi.is/lagas/135a/1998060.html
+  79. http://www.althingi.is/lagas/135a/1998058.html
+  80. http://www.althingi.is/lagas/135a/1998055.html
+  81. http://www.althingi.is/lagas/135a/1998045.html
+  82. http://www.althingi.is/lagas/135a/1998044.html
+  83. http://www.althingi.is/lagas/135a/1998013.html
+  84. http://www.althingi.is/lagas/135a/1998007.html
+  85. http://www.althingi.is/lagas/135a/1998005.html
+  86. http://www.althingi.is/lagas/135a/1997138.html
+  87. http://www.althingi.is/lagas/135a/1997131.html
+  88. http://www.althingi.is/lagas/135a/1997129.html
+  89. http://www.althingi.is/lagas/135a/1997096.html
+  90. http://www.althingi.is/lagas/135a/1997084.html
+  91. http://www.althingi.is/lagas/135a/1997079.html
+  92. http://www.althingi.is/lagas/135a/1997078.html
+  93. http://www.althingi.is/lagas/135a/1997073.html
+  94. http://www.althingi.is/lagas/135a/1997061.html
+  95. http://www.althingi.is/lagas/135a/1997049.html
+  96. http://www.althingi.is/lagas/135a/1997045.html
+  97. http://www.althingi.is/lagas/135a/1997019.html
+  98. http://www.althingi.is/lagas/135a/1996151.html
+  99. http://www.althingi.is/lagas/135a/1996146.html
+ 100. http://www.althingi.is/lagas/135a/1996080.html
+ 101. http://www.althingi.is/lagas/135a/1996057.html
+ 102. http://www.althingi.is/lagas/135a/1996006.html
+ 103. http://www.althingi.is/lagas/135a/1995146.html
+ 104. http://www.althingi.is/lagas/135a/1995093.html
+ 105. http://www.althingi.is/lagas/135a/1995053.html
+ 106. http://www.althingi.is/lagas/135a/1995051.html
+ 107. http://www.althingi.is/lagas/135a/1995012.html
+ 108. http://www.althingi.is/lagas/135a/1995004.html
+ 109. http://www.althingi.is/lagas/135a/1994162.html
+ 110. http://www.althingi.is/lagas/135a/1994113.html
+ 111. http://www.althingi.is/lagas/135a/1994093.html
+ 112. http://www.althingi.is/lagas/135a/1994080.html
+ 113. http://www.althingi.is/lagas/135a/1994060.html
+ 114. http://www.althingi.is/lagas/135a/1994026.html
+ 115. http://www.althingi.is/lagas/135a/1994022.html
+ 116. http://www.althingi.is/lagas/135a/1994015.html
+ 117. http://www.althingi.is/lagas/135a/1993099.html
+ 118. http://www.althingi.is/lagas/135a/1993025.html
+ 119. http://www.althingi.is/lagas/135a/1992059.html
+ 120. http://www.althingi.is/lagas/135a/1992036.html
+ 121. http://www.althingi.is/lagas/135a/1991088.html
+ 122. http://www.althingi.is/lagas/135a/1991055.html
+ 123. http://www.althingi.is/lagas/135a/1991017.html
+ 124. http://www.althingi.is/lagas/135a/1990113.html
+ 125. http://www.althingi.is/lagas/135a/1990067.html
+ 126. http://www.althingi.is/lagas/135a/1990054.html
+ 127. http://www.althingi.is/lagas/135a/1990043.html
+ 128. http://www.althingi.is/lagas/135a/1988052.html
+ 129. http://www.althingi.is/lagas/135a/1988050.html
+ 130. http://www.althingi.is/lagas/135a/1988036.html
+ 131. http://www.althingi.is/lagas/135a/1987050.html
+ 132. http://www.althingi.is/lagas/135a/1987045.html
+ 133. http://www.althingi.is/lagas/135a/1987043.html
+ 134. http://www.althingi.is/lagas/135a/1986050.html
+ 135. http://www.althingi.is/lagas/135a/1986006.html
+ 136. http://www.althingi.is/lagas/135a/1985034.html
+ 137. http://www.althingi.is/lagas/135a/1973016.html
+ 138. http://www.althingi.is/lagas/135a/1971054.html
+ 139. http://www.althingi.is/lagas/135a/1969073.html
+ 140. http://www.althingi.is/lagas/135a/1965017.html
+ 141. http://www.althingi.is/lagas/135a/1962094.html
+ 142. http://www.althingi.is/lagas/135a/1959018.html
+ 143. http://www.althingi.is/lagas/135a/1955003.html
+ 144. http://www.althingi.is/lagas/135a/1923015.html
+ 145. http://www.althingi.is/lagas/135a/1903042.html

@@ -10,8 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Tóku gildi 1. september 1998. Breytt með [4]l. 82/1998 (tóku gildi 1. okt. 1998)
-                  og [5]l. 19/1999 (tóku gildi 24. mars 1999).
+ Tóku gildi 1. september 1998. Breytt með l. 82/1998 (tóku gildi 1. okt. 1998),
+l. 19/1999 (tóku gildi 24. mars 1999) og l. 24/2007 (tóku gildi 29. mars 2007).
 
                          I. kafli. Gildissvið laganna.
  1. gr. Með vopni er í lögum þessum átt við hvert það tæki eða efni sem unnt er
@@ -58,13 +58,13 @@ Ráðherra er heimilt með reglugerð að ákveða nánar en um getur í 2.5. 
         c. vopn og tæki sem eingöngu eru notuð við aflífun dýra í löggiltum
                                   sláturhúsum,
    d. önnur tæki og efni sem valda óverulegri hættu samkvæmt ákvörðun ráðherra.
-                               ^1)[6]Rgl. 464/2000.
+                                 ^1)Rgl. 464/2000.
 
         II. kafli. Framleiðsla, innflutningur, útflutningur og verslun.
    4. gr. Enginn má framleiða skotvopn, skotfæri, sprengiefni eða skotelda í
-  atvinnuskyni nema með leyfi ríkislögreglustjóra. Áður en leyfi er veitt skal
-leita umsagnar lögreglustjóra, Vinnueftirlits ríkisins og slökkviliðsstjóra eða
-                    annarra yfirvalda er með brunamál fara.
+  atvinnuskyni nema með leyfi [lögreglustjóra].^1) Áður en leyfi er veitt skal
+  leita umsagnar ^1) Vinnueftirlits ríkisins og slökkviliðsstjóra eða annarra
+                        yfirvalda er með brunamál fara.
 Leyfi skv. 1. mgr. má aðeins veita þeim einstaklingi sem hefur skotvopnaleyfi og
            sýnir að öðru leyti fram á hæfni sína til framleiðslunnar.
  Heimilt er að veita skráðu félagi eða firma leyfi skv. 1. mgr., enda tilnefni
@@ -83,19 +83,20 @@ Leyfi skv. 1. mgr. má aðeins veita þeim einstaklingi sem hefur skotvopnaleyfi
 samkvæmt þessari grein, þar með talið um framleiðslu, búnað framleiðsluhúsnæðis
  og nauðsynlegar öryggisreglur. Áður en slík reglugerð er sett skal haft samráð
             við Vinnueftirlit ríkisins og Brunamálastofnun ríkisins.
+                              ^1)L. 24/2007, 11. gr.
     5. gr. Enginn má flytja til landsins skotvopn, skotfæri, sprengiefni eða
- skotelda nema með leyfi ríkislögreglustjóra. Leyfi til verslunar með skotvopn,
- skotfæri, sprengiefni eða skotelda skv. 7. gr. felur jafnframt í sér leyfi til
-       innflutnings á þeim vörum. Ríkislögreglustjóra er heimilt að fela
-  lögreglustjórum að veita slík leyfi. Áður en leyfi er veitt til innflutnings
-  skotvopna skal leita umsagnar lögreglustjóra, slökkviliðsstjóra eða annarra
-yfirvalda er með brunamál fara. Sé sótt um leyfi til innflutnings á sprengiefni
-                skal og leita umsagnar Vinnueftirlits ríkisins.
- Ríkislögreglustjóra er heimilt að veita þeim sem hafa skotvopnaleyfi leyfi til
+           skotelda [í atvinnuskyni nema með leyfi lögreglustjórans á
+höfuðborgarsvæðinu].^1) Leyfi til verslunar með skotvopn, skotfæri, sprengiefni
+  eða skotelda skv. 7. gr. felur jafnframt í sér leyfi til innflutnings á þeim
+vörum. ^1) Áður en leyfi er veitt til innflutnings skotvopna skal leita umsagnar
+  ^1) slökkviliðsstjóra eða annarra yfirvalda er með brunamál fara. Sé sótt um
+   leyfi til innflutnings á sprengiefni skal og leita umsagnar Vinnueftirlits
+                                   ríkisins.
+ [Lögreglustjóra]^1) er heimilt að veita þeim sem hafa skotvopnaleyfi leyfi til
  innflutnings skotvopna og skotfæra til eigin nota samkvæmt nánari ákvæðum sem
                           ráðherra setur í reglugerð.
  Óheimilt er að flytja til landsins eða framleiða skotvopn sem ekki eru númeruð
- eintaksnúmeri framleiðanda. Ríkislögreglustjóra er heimilt að víkja frá þessu
+ eintaksnúmeri framleiðanda. [Lögreglustjóra]^1) er heimilt að víkja frá þessu
              skilyrði þegar skotvopn hefur ótvírætt söfnunargildi.
                     Óheimilt er að flytja inn eða framleiða:
                    a. sjálfvirka eða hálfsjálfvirka skammbyssu,
@@ -109,26 +110,30 @@ sem tekur fleiri en tvö skothylki nema henni hafi verið breytt til samræmis v
  Óheimilt er að flytja til landsins, framleiða eða eiga sérstaklega hættulegar
 tegundir vopna, eða hluta þeirra, sem eingöngu eru ætluð til nota í hernaði, svo
                    og slík skotfæri, skotelda og sprengiefni.
-   Þrátt fyrir ákvæði 1.6. mgr. er heimilt með leyfi ríkislögreglustjóra að
-     framleiða vopn til útflutnings. Ríkislögreglustjóri getur og heimilað
-innflutning slíkra vopna ef þau hafa ótvírætt söfnunargildi vegna aldurs þeirra
-   eða tengsla við sögu landsins. [Sama gildir ef slík vopn eru sérhönnuð og
-              sannanlega ætluð til íþróttaiðkunar skv. 17. gr.]^1)
+     Þrátt fyrir ákvæði 1.6. mgr. er heimilt með leyfi [lögreglustjórans á
+  höfuðborgarsvæðinu, að fenginni umsögn ríkislögreglustjóra],^1) að framleiða
+   vopn til útflutnings. [Lögreglustjórinn á höfuðborgarsvæðinu getur og, að
+ fenginni umsögn ríkislögreglustjóra],^1) heimilað innflutning slíkra vopna ef
+    þau hafa ótvírætt söfnunargildi vegna aldurs þeirra eða tengsla við sögu
+   landsins. [Sama gildir ef slík vopn eru sérhönnuð og sannanlega ætluð til
+                        íþróttaiðkunar skv. 17. gr.]^2)
   Ráðherra setur í reglugerð nánari ákvæði um framkvæmd innflutnings samkvæmt
   þessari grein, m.a. um staðfestingu lögreglustjóra á vörureikningum áður en
  tollafgreiðsla fer fram, um innflutning þeirra efna og tækja sem greind eru í
  3.6. mgr. og eftirlíkinga þeirra. Í reglugerðinni er einnig heimilt að ákveða
 nánar hvaða efni og tæki megi flytja til landsins og um prófun þeirra, merkingar
                                 og gæðaeftirlit.
-                             ^1)[7]L. 19/1999, 1. gr.
- 6. gr. Enginn má flytja úr landi skotvopn, skotfæri, sprengiefni eða skotelda
-nema með leyfi ríkislögreglustjóra. Ríkislögreglustjóri má fela lögreglustjórum
-að gefa út slík leyfi þar sem um er að ræða tímabundinn flutning á milli landa.
+                   ^1)L. 24/2007, 12. gr. ^2)L. 19/1999, 1. gr.
+ 6. gr. [Enginn má flytja úr landi skotvopn, skotfæri, sprengiefni eða skotelda
+ nema með leyfi lögreglustjóra, enda liggi fyrir staðfesting frá þar til bærum
+  yfirvöldum um heimild fyrir innflutningi. Ákvæði þetta á aðeins við þegar um
+                     varanlegan útflutning er að ræða.]^1)
 Ekki þarf leyfi fyrir greindum tækjum og efnum sem flutt eru úr landi með skipum
    eða flugförum ef þessar vörur teljast vera nauðsynlegur búnaður skips eða
                                    flugfars.
+                              ^1)L. 24/2007, 13. gr.
 7. gr. Enginn má versla með skotvopn, skotfæri, sprengiefni eða skotelda nema að
-                       fengnu leyfi ríkislögreglustjóra.
+                       fengnu leyfi [lögreglustjóra].^1)
 Leyfi skv. 1. mgr. má aðeins veita þeim einstaklingi sem hefur verslunarleyfi og
 skotvopnaleyfi eða sérþekkingu á þeim vörum sem þar um ræðir eftir nánari reglum
                               sem ráðherra setur.
@@ -136,22 +141,22 @@ Leyfi skv. 1. mgr. má veita skrásettu firma eða félagi sem hefur verslunarle
   enda tilnefni firmað eða félagið mann sem fullnægi skilyrðum 2. mgr. og hafi
 umsjón með daglegri verslun og ábyrgist vörslu varanna ásamt stjórnendum firmans
                                  eða félagsins.
-Í sérstökum tilvikum er heimilt að veita félagasamtökum leyfi til þess að selja
- skotelda í smásölu, enda þótt þau hafi ekki verslunarleyfi. Þrátt fyrir ákvæði
-1. mgr. getur ríkislögreglustjóri heimilað lögreglustjórum að veita leyfi til að
-                           selja skotelda í smásölu.
+  [Í sérstökum tilvikum er heimilt að veita félagasamtökum leyfi til að selja
+                            skotelda í smásölu.]^1)
    Aðeins skal veita þeim leyfi skv. 1. mgr. sem hafa til umráða fullnægjandi
 húsnæði til þess að geyma í þargreindar vörur. Ráðherra setur í reglugerð ákvæði
                      um slíkt húsnæði og um vörslu varanna.
-       Áður en leyfi skv. 1. mgr. er veitt skal leita umsagnar viðkomandi
-lögreglustjóra og slökkviliðsstjóra eða annarra yfirvalda sem með brunamál fara.
+     Áður en leyfi skv. 1. mgr. er veitt skal leita umsagnar viðkomandi ^1)
+         slökkviliðsstjóra eða annarra yfirvalda sem með brunamál fara.
  Leyfi skv. 1. mgr. skal ekki veita til lengri tíma en fimm ára eða til skemmri
-             tíma ef ástæða þykir til að mati ríkislögreglustjóra.
-       8. gr. Ríkislögreglustjóra er heimilt að veita leyfi til reksturs
+             tíma ef ástæða þykir til að mati [lögreglustjóra].^1)
+                              ^1)L. 24/2007, 14. gr.
+       8. gr. [Lögreglustjóra]^1) er heimilt að veita leyfi til reksturs
    skotvopnaleigu, enda sé fullnægt ákvæðum 2., 3., 5., 6. og 7. mgr. 7. gr.
  Ráðherra skal setja reglugerð um rekstur skotvopnaleigu og þar skal m.a. kveða
    nánar á um skilyrði sem leigutaki og leigusali skulu fullnægja, svo og um
                            starfsemina að öðru leyti.
+                              ^1)L. 24/2007, 15. gr.
   9. gr. Verslunareigandi, innflytjandi eða framleiðandi skotvopna, skotfæra,
   sprengiefna og skotelda skal halda færslubók yfir keypt og seld skotvopn og
 skotfæri. Skal hann gefa viðkomandi lögreglustjóra, hvenær sem hann óskar þess,
@@ -214,34 +219,32 @@ verið um að ræða árásar- eða ofbeldisbrot, brot á lögum um ávana- og f
    Lögreglustjóri getur veitt manni búsettum erlendis tímabundið leyfi fyrir
 skotvopni, enda fullnægi viðkomandi skilyrðum 1. mgr. Ráðherra setur í reglugerð
                   nánari ákvæði um tímabundið skotvopnaleyfi.
-                            ^1)[8]L. 82/1998, 242. gr.
+                              ^1)L. 82/1998, 242. gr.
  14. gr. Lögreglustjóri getur veitt félagi, stofnun eða einstaklingi leyfi til
   þess að eiga skotvopn ef slíkur aðili þarf nauðsynlega á því að halda vegna
    starfsemi sinnar. Í slíku tilviki skal tilnefndur ákveðinn aðili er annist
                   vörslu skotvopnanna og tilheyrandi skotfæra.
-Lögreglustjóra er heimilt, að fengnu samþykki ríkislögreglustjóra, að víkja frá
-   ákvæði laganna um að skotvopn skuli númerað eintaksnúmeri framleiðanda við
- veitingu leyfa skv. 1. mgr. þegar um er að ræða umsókn bónda sem er ábúandi á
-   lögbýli eða dýralæknis um leyfi fyrir hlaupstuttri einskota byssu, þó ekki
-              stærri en 22 cal. (fjárbyssu) til aflífunar búfjár.
- 15. gr. Ríkislögreglustjóri getur heimilað einstaklingi, samtökum og opinberu
+                                      ^1)
+                              ^1)L. 24/2007, 16. gr.
+ 15. gr. [Lögreglustjóri]^1) getur heimilað einstaklingi, samtökum og opinberu
    safni að eiga og varðveita skotvopn sem hefur ótvírætt söfnunargildi vegna
 aldurs, tengsla við sögu landsins eða af öðrum sérstökum ástæðum. Ráðherra setur
 í reglugerð nánari ákvæði um þessi atriði. Heimilt er að veita sömu aðilum leyfi
  til að eiga og varðveita takmarkað magn skotfæra fyrir framangreind vopn, enda
                      hafi skotfærin ótvírætt söfnunargildi.
 Óheimilt er að nota vopn skv. 1. mgr. til veiða og kaupa fyrir þau skotfæri nema
-með leyfi ríkislögreglustjóra. Vopn þessi skal skrá sérstaklega í skotvopnaskrá.
+með leyfi [lögreglustjóra].^1) Vopn þessi skal skrá sérstaklega í skotvopnaskrá.
+                              ^1)L. 24/2007, 17. gr.
   16. gr. Skotvopni, sem er hluti dánarbús, skal innan tólf mánaða frá andláti
 leyfishafa ráðstafað til aðila sem hefur leyfi til að eiga slíkt skotvopn. Þegar
 um er að ræða skotvopn sem hefur ótvírætt minja- eða tilfinningagildi er heimilt
         að víkja frá þessu skilyrði, enda verði skotvopnið gert óvirkt.
       17. gr. Félag sem hefur iðkun skotfimi að markmiði skal leita leyfis
- ríkislögreglustjóra. Áður en slíkt leyfi er gefið út skal ríkislögreglustjóri
-  afla umsagnar lögreglustjóra í viðkomandi umdæmi. Ráðherra setur í reglugerð
-                          nánari ákvæði um slík leyfi.
-Ráðherra skal í reglugerð setja nánari ákvæði um skotvopnaleyfi til einstaklinga
-    til iðkunar skotfimi og um leyfi til skotfélaga til eignar á skotvopnum.
+[lögreglustjóra].^1) ^1) Ráðherra setur í reglugerð nánari ákvæði um slík leyfi.
+     Ráðherra skal í reglugerð^2) setja nánari ákvæði um skotvopnaleyfi til
+   einstaklinga til iðkunar skotfimi og um leyfi til skotfélaga til eignar á
+                                  skotvopnum.
+   ^1)L. 24/2007, 18. gr. ^2)Rg. 787/1998, sbr. 433/2007, 846/2007 og 847/2007.
   18. gr. Halda skal sérstaka skotvopnaskrá fyrir landið í heild. Í hana skrá
 lögreglustjórar upplýsingar um veitt skotvopnaleyfi samkvæmt reglum er ráðherra
 setur í reglugerð. Í skotvopnaskrá skal skrá allar breytingar á skotvopnum skv.
@@ -323,7 +326,7 @@ til þess leyfi lögreglustjóra. Leyfið veitir lögreglustjóri í því umdæ
 Ráðherra skal setja í reglugerð^1) ákvæði um geymslu á sprengiefni, um flutning
 á því og meðferð þess. Áður en slík reglugerð er sett skal leita eftir tillögum
            frá Brunamálastofnun ríkisins og Vinnueftirliti ríkisins.
-                                ^1)[9]Rg. 684/1999.
+                          ^1)Rg. 684/1999, sbr. 161/2007.
      29. gr. Nú finnst sprengiefni eða hlutir, sem ætla má að hafi að geyma
  sprengiefni, rekið á land eða á víðavangi og skal þá finnandi, landeigandi eða
                ábúandi þegar tilkynna lögreglustjóra um fundinn.
@@ -346,8 +349,9 @@ Ráðherra skal setja í reglugerð^1) ákvæði um geymslu á sprengiefni, um f
   Heimilt er að víkja frá banni 2. mgr. með leyfi ríkislögreglustjóra ef vopn
               hefur söfnunargildi eða sérstakar ástæður mæla með.
   Öðrum en lögreglu er óheimilt að flytja til landsins, framleiða eða eignast
-     handjárn og fótajárn úr málmi eða öðru efni. Sama gildir um gasvopn og
-                                  táragasvopn.
+ handjárn og fótajárn úr málmi eða öðru efni. [Sama gildir um úðavopn, svo sem
+                          gasvopn og táragasvopn.]^1)
+                              ^1)L. 24/2007, 19. gr.
    31. gr. Barni yngra en 16 ára má ekki selja eða afhenda örvaboga með meiri
                     togkrafti en 7 kg eða oddhvassar örvar.
 
@@ -360,7 +364,7 @@ getið í leiðbeiningum með skoteldum. Öll sala á skoteldum til barna yngri 
 getur hann sett reglur um að ekki megi selja almenningi ýmsar skaðlegar tegundir
  skotelda. Jafnframt getur hann kveðið á um sérstakt eftirlit í því skyni og að
              innflytjandi skuli eftir atvikum bera kostnað af því.
-                     ^1)[10]Rg. 952/2003, sbr. [11]1040/2006.
+              ^1)Rg. 952/2003, sbr. 1040/2006, 163/2007 og 848/2007.
 
                    VII. kafli. Refsingar, eignaupptaka o.fl.
 34. gr. Leyfi samkvæmt lögum þessum getur leyfisveitandi afturkallað hvenær sem
@@ -392,7 +396,7 @@ verðlítið að ekki sé rétt að selja það og skal þá eyðileggja það e
                                   öðrum lögum.
 Tilraun og hlutdeild í brotum á lögum þessum og reglum settum samkvæmt þeim eru
                refsiverð skv. III. kafla almennra hegningarlaga.
-                            ^1)[12]L. 82/1998, 242. gr.
+                              ^1)L. 82/1998, 242. gr.
  37. gr. Skotvopn, skotfæri, sprengiefni og skotelda, sem flutt hafa verið til
  landsins eða framleidd eru í landinu án heimildar eða finnast vörslulaus eða í
 vörslu manns án heimildar, skal gera upptæk til ríkissjóðs. Jafnframt skal gera
@@ -414,8 +418,8 @@ aukabúnaði sem hefur áhrif á eiginleika skotvopns eða verkan, eru óheimila
    Breytingar skv. 1. mgr. skulu skráðar í skotvopnaskrá og í skotvopnaleyfi.
    39. gr. Ráðherra getur sett í reglugerð^1) nánari ákvæði um framkvæmd laga
                                     þessara.
-    ^1)[13]Rg. 787/1998, sbr. [14]688/2003; [15]rg. 684/1999, [16]rg. 952/2003,
-                              sbr. [17]1040/2006.
+   ^1)Rg. 787/1998, sbr. 688/2003, 162/2007, 433/2007, 846/2007 og 847/2007; rg.
+  684/1999, sbr. 161/2007; rg. 952/2003, sbr. 1040/2006, 163/2007 og 848/2007.
                40. gr. Lög þessi öðlast gildi 1. september 1998.
 
 References
@@ -424,17 +428,3 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998016
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=175
    3. http://www.althingi.is/altext/122/s/0175.html
-   4. file:///altext/stjt/1998.082.html
-   5. file:///altext/stjt/1999.019.html
-   6. file://ekkitil/ekkitil.html?REGL/2000464
-   7. file:///altext/stjt/1999.019.html
-   8. file:///altext/stjt/1998.082.html
-   9. file://ekkitil/ekkitil.html?REGL/1999684
-  10. file://ekkitil/ekkitil.html?REGL/2003952
-  11. file://ekkitil/ekkitil.html?REGL/20061040
-  12. file:///altext/stjt/1998.082.html
-  13. file://ekkitil/ekkitil.html?REGL/1998787
-  14. file://ekkitil/ekkitil.html?REGL/2003688
-  15. file://ekkitil/ekkitil.html?REGL/1999684
-  16. file://ekkitil/ekkitil.html?REGL/2003952
-  17. file://ekkitil/ekkitil.html?REGL/20061040

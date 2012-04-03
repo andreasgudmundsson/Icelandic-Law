@@ -10,28 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-   Tóku gildi 1. september 1987. Breytt með [4]l. 96/1987 (tóku gildi 1. jan.
-  1988), [5]l. 40/1989 (tóku gildi 30. maí 1989), [6]l. 19/1991 (tóku gildi 1.
-   júlí 1992 nema 1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), [7]l.
-  20/1991 (tóku gildi 1. júlí 1992), [8]l. 21/1991 (tóku gildi 1. júlí 1992),
-  [9]l. 90/1991 (tóku gildi 1. júlí 1992), [10]l. 91/1991 (tóku gildi 1. júlí
- 1992), [11]l. 92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9.
-  jan. 1992), [12]l. 18/1993 (tóku gildi 1. jan. 1994), [13]l. 122/1993 (tóku
- gildi 1. jan. 1994), [14]l. 52/1994 (tóku gildi 20. maí 1994, sjá þó 3. gr.),
-  [15]l. 66/1994 (tóku gildi 30. maí 1994), [16]l. 87/1995 (tóku gildi 1. júlí
-1995), [17]l. 69/1996 (tóku gildi 19. júní 1996), [18]l. 10/1997 (tóku gildi 26.
-mars 1997), [19]l. 83/1997 (tóku gildi 6. júní 1997), [20]l. 81/1998 (tóku gildi
-24. júní 1998), [21]l. 82/1998 (tóku gildi 1. okt. 1998), [22]l. 109/1999 (tóku
-gildi 30. des. 1999), [23]l. 84/2000 (tóku gildi 1. ágúst 2000), [24]l. 87/2000
-  (tóku gildi 2. júní 2000), [25]l. 104/2000 (tóku gildi 1. júlí 2000), [26]l.
- 155/2000 (tóku gildi 1. jan. 2001), [27]l. 85/2001 (tóku gildi 15. júní 2001),
-[28]l. 86/2001 (tóku gildi 15. júní 2001), [29]l. 146/2001 (tóku gildi 31. des.
-2001 nema 2. gr. sem tók gildi 1. jan. 2002), [30]l. 46/2002 (tóku gildi 7. maí
- 2002), [31]l. 66/2002 (tóku gildi 17. maí 2002), [32]l. 32/2003 (tóku gildi 3.
- apríl 2003), [33]l. 80/2003 (tóku gildi 10. apríl 2003), [34]l. 134/2003 (tóku
-   gildi 30. des. 2003), [35]l. 129/2004 (taka gildi 31. des. 2005) og [36]l.
-                       72/2005 (tóku gildi 1. júlí 2005).
-                  Felld úr gildi skv. [37]l. 88/2005, 196. gr.
+ Felld úr gildi skv. [4]l. 88/2005, 196. gr. Síðustu útgáfu laganna í lagasafni
+                                má finna [5]hér.
 
 References
 
@@ -39,37 +19,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1987055
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=109&mnr=196
    3. http://www.althingi.is/altext/109/s/pdf/0207.pdf
-   4. file:///altext/stjtnr.html#1987096
-   5. file:///altext/stjt/1989.040.html
-   6. file://1991019.html
-   7. file://1991020.html
-   8. file://1991021.html
-   9. file://1991090.html
-  10. file://1991091.html
-  11. file:///altext/stjt/1991.092.html
-  12. file:///altext/stjt/1993.018.html
-  13. file:///altext/stjt/1993.122.html
-  14. file:///altext/stjt/1994.052.html
-  15. file:///altext/stjt/1994.066.html
-  16. file:///altext/stjt/1995.087.html
-  17. file:///altext/stjt/1996.069.html
-  18. file:///altext/stjt/1997.010.html
-  19. file:///altext/stjt/1997.083.html
-  20. file:///altext/stjt/1998.081.html
-  21. file:///altext/stjt/1998.082.html
-  22. file:///altext/stjt/1999.109.html
-  23. file:///altext/stjt/2000.084.html
-  24. file:///altext/stjt/2000.087.html
-  25. file:///altext/stjt/2000.104.html
-  26. file:///altext/stjt/2000.155.html
-  27. file:///altext/stjt/2001.085.html
-  28. file:///altext/stjt/2001.086.html
-  29. file:///altext/stjt/2001.146.html
-  30. file:///altext/stjt/2002.046.html
-  31. file:///altext/stjt/2002.066.html
-  32. file:///altext/stjt/2003.032.html
-  33. file:///altext/stjt/2003.080.html
-  34. file:///altext/stjt/2003.134.html
-  35. file:///altext/stjt/2004.129.html
-  36. file:///altext/stjt/2005.072.html
-  37. file://2005088.html
+   4. file://2005088.html
+   5. http://www.althingi.is/lagas/131b/1987055.html

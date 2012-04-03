@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Tóku gildi 1. janúar 1995. Breytt með [4]l. 65/2006 (tóku gildi 27. júní 2006).
+  Tóku gildi 1. janúar 1995. Breytt með l. 65/2006 (tóku gildi 27. júní 2006).
 
                        I. kafli. Gildissvið laganna o.fl.
 1. gr. Lög þessi gilda um samninga sem fjalla um afnot af húsi eða hluta af húsi
@@ -49,7 +49,7 @@ skyldur og öðlist minni réttindi en lögin mæla fyrir um nema ákvæði laga
 óvígðri sambúð er átt við sambúð karls og konu sem skráð er í þjóðskrá enda eigi
    þau barn saman, von á barni saman eða sambúðin hefur verið skráð í eitt ár
   samfellt hið skemmsta. Sama gildir um sambúð einstaklinga af sama kyni.]^1)
-                             ^1)[5]L. 65/2006, 6. gr.
+                               ^1)L. 65/2006, 6. gr.
 
                            II. kafli. Leigusamningur.
              4. gr. Leigusamningur um húsnæði skal vera skriflegur.
@@ -101,7 +101,7 @@ Um tímabundna og ótímabundna leigusamninga gilda ákvæði X. kafla um forgan
                             leigjandi hafi samþykkt.
   11. gr. Um heimild til að víkja húsaleigusamningi til hliðar í heild eða að
 hluta eða til að breyta honum, ef það yrði talið ósanngjarnt eða andstætt góðri
-   viðskiptavenju að bera hann fyrir sig, gilda ákvæði [6]laga nr. 7/1936, um
+   viðskiptavenju að bera hann fyrir sig, gilda ákvæði [4]laga nr. 7/1936, um
                    samningsgerð, umboð og ógilda löggerninga.
  12. gr. Réttindi leigjanda, sem byggjast á eða leiðir af ákvæðum laga þessara,
       eru gild gagnvart sérhverjum án þinglýsingar, sbr. þó ákvæði 2. mgr.
@@ -617,7 +617,7 @@ jafngilda leigu til loka leigutímans, en ella til þess tíma er honum hefði v
                     rétt að rýma húsnæðið samkvæmt uppsögn.
 Leigusali skal þó strax gera nauðsynlegar ráðstafanir til að leigja húsnæðið hið
   allra fyrsta gegn hæfilegu gjaldi og skulu þær leigutekjur, sem hann þannig
-    hefur eða hefði átt að hafa, koma til frádráttar leigubótum skv. 1 mgr.
+    hefur eða hefði átt að hafa, koma til frádráttar leigubótum skv. 1. mgr.
 
                         XIII. kafli. Skil leiguhúsnæðis.
  63. gr. Að leigutíma loknum skal leigjandi skila húsnæðinu í hendur leigusala
@@ -746,16 +746,16 @@ leigustarfsemi sinni. Hlutaðeigandi lögreglustjóra ber að veita atbeina sinn
  82. gr. Félagsmálaráðherra setur í reglugerð^1) nánari ákvæði um leigumiðlun,
   þar á meðal um skilyrði fyrir veitingu leyfis til leigumiðlunar og ákvæði um
  gjaldtöku er hafa skal til hliðsjónar við ákvörðun þóknunar til leigumiðlara.
-                                ^1)[7]Rg. 675/1994.
+                                 ^1)Rg. 675/1994.
 
                           XVI. kafli. Húsnæðisnefndir.
-83. gr. Þar sem húsnæðisnefndir sveitarfélaga eru kosnar skv. [8]40. gr. laga um
+83. gr. Þar sem húsnæðisnefndir sveitarfélaga eru kosnar skv. [5]40. gr. laga um
    Húsnæðisstofnun ríkisins, nr. 97/1993,^1) skulu þær fylgjast með framkvæmd
       húsaleigumála samkvæmt lögum þessum og afla upplýsinga um þau mál í
 hlutaðeigandi sveitarfélagi eftir því sem kostur er. Þeim ber og að veita aðilum
 leigusamnings, sem þess óska, leiðbeiningar um ágreiningsefni og leitast við að
                             sætta slíkan ágreining.
-                               ^1)Nú [9]l. 44/1998.
+                               ^1)Nú [6]l. 44/1998.
 
                      XVII. kafli. Kærunefnd húsaleigumála.
   84. gr. Félagsmálaráðherra skipar kærunefnd húsaleigumála til þriggja ára í
@@ -763,10 +763,10 @@ leigusamnings, sem þess óska, leiðbeiningar um ágreiningsefni og leitast vi�
   Félagsmálaráðherra skipar einn eftir tilnefningu Húseigendafélagsins, annan
   eftir tilnefningu Leigjendasamtakanna og þann þriðja án tilnefningar og skal
 hann vera formaður. Formaður skal fullnægja almennum skilyrðum héraðsdómara skv.
-    1.7. tölul. 1. mgr. [10]5. gr. laga nr. 92/1989.^1) Varamenn skulu vera
+    1.7. tölul. 1. mgr. [7]5. gr. laga nr. 92/1989.^1) Varamenn skulu vera
                       jafnmargir og skipaðir á sama hátt.
      Kostnaður af störfum kærunefndar húsaleigumála greiðist úr ríkissjóði.
-                               ^1)Nú [11]l. 15/1998.
+                               ^1)Nú [8]l. 15/1998.
  85. gr. Greini aðila leigusamnings á við gerð og/eða framkvæmd leigusamnings,
   geta þeir, einn eða fleiri, snúið sér til kærunefndar húsaleigumála og óskað
                       eftir álitsgerð um ágreiningsefnið.
@@ -790,7 +790,7 @@ byggingarfulltrúum, leigumiðlurum, Húseigendafélaginu og Leigjendasamtökunu
       málsmeðferð fyrirmæli þessarar greinar eftir því sem við getur átt.
    Félagsmálaráðherra skal með reglugerð^1) setja nánari ákvæði um erindi til
       kærunefndar, störf hennar, verkefni, valdsvið, starfsskilyrði o.fl.
-                               ^1)[12]Rg. 878/2001.
+                                 ^1)Rg. 878/2001.
 
                       XVIII. kafli. Kynning laganna o.fl.
     86. gr. Húsnæðisstofnun ríkisins skal annast kynningu á lögum þessum og
@@ -811,12 +811,8 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1994036
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=117&mnr=144
    3. http://www.althingi.is/altext/117/s/0160.html
-   4. file:///altext/stjt/2006.065.html
-   5. file:///altext/stjt/2006.065.html
-   6. file://1936007.html
-   7. file://ekkitil/ekkitil.html?REGL/1994675
-   8. file://1993097.html
-   9. file://1998044.html
-  10. file://1989092.html#g5
-  11. file://1998015.html
-  12. file://ekkitil/ekkitil.html?REGL/2001878
+   4. file://1936007.html
+   5. file://1993097.html
+   6. file://1998044.html
+   7. file://1989092.html#g5
+   8. file://1998015.html

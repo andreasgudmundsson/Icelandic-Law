@@ -10,8 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Tóku gildi 1. júlí 1985. Breytt með [4]l. 84/1991 (tóku gildi 1. jan. 1993, sjá
-                          þó ákvæði til bráðabirgða).
+Tóku gildi 1. júlí 1985. Breytt með l. 84/1991 (tóku gildi 1. jan. 1993, sjá þó
+                            ákvæði til bráðabirgða).
 
                    I. kafli. Skipan Verðlagsráðs og verkefni.
      1. gr. Verðlagsráð sjávarútvegsins annast meginframkvæmd laga þessara.
@@ -85,10 +85,10 @@ fiskkaupenda, þannig: 2 frá Félagi síldarsaltenda á Norður- og Austurlandi
                              ákveðið verðlagssvæði.
  6. gr. [Verð á öllum tegundum fersks sjávarafla, úrgangsfiski og fiskúrgangi,
 sem seldur er hér á landi, skal ákveðið með frjálsum samningum milli kaupenda og
- seljenda eða með sölu á uppboðsmarkaði, sbr. [5]lög nr. 123 28. desember 1989.
+ seljenda eða með sölu á uppboðsmarkaði, sbr. [4]lög nr. 123 28. desember 1989.
    Verðlagsráði er þó heimilt með meiri hluta atkvæða að ákveða lágmarksverð
             einstakra tegunda sjávarafla fyrir tiltekið tímabil.]^1)
-                             ^1)[6]L. 84/1991, 1. gr.
+                               ^1)L. 84/1991, 1. gr.
     7. gr. Skylt skal öllum opinberum aðilum, svo sem Fiskifélagi Íslands og
 Hagstofu Íslands, ásamt útflutningssamtökum fiskframleiðenda, svo og öðrum þeim
       aðilum sem hafa með höndum sölu og/eða vinnslu sjávarafurða, að láta
@@ -103,32 +103,32 @@ framleiðslukostnaði þeirra. Jafnframt skal Verðlagsráð haga verðákvörð
    þannig að þær stuðli að bættri meðferð afla, þ.e. tekið verði mið af gæðum
                 sjávarafla eftir því sem markaðsaðstæður bjóða.
               [Verðlagsráð kveður sjálft á um verðlagstímabil.]^1)
-                             ^1)[7]L. 84/1991, 2. gr.
+                               ^1)L. 84/1991, 2. gr.
 9. gr. Verðlagsráð skal í störfum sínum vinna að verðákvörðunum svo tímanlega að
  verðlagning sjávarafla liggi fyrir áður en nýtt verðlagstímabil hefst. Ákveða
    skal með reglugerð hvenær verðákvörðun skuli liggja fyrir í síðasta lagi.
 [10. gr.]^1) Ákvarðanir Verðlagsráðs eru bindandi sem lágmarksverð og má enginn
    selja sjávarafla undir því verði sem ákveðið hefur verið samkvæmt ákvæðum
                                  þessara laga.
-                             ^1)[8]L. 84/1991, 3. gr.
+                               ^1)L. 84/1991, 3. gr.
 
                             III. kafli. Ýmis ákvæði.
 [11. gr.]^1) Sjávarútvegsráðherra ákveður verðlagsráðsmönnum þóknun fyrir störf
 þeirra og greiðist hún úr ríkissjóði ásamt öðrum kostnaði við ráðið og starfsemi
                                      þess.
-                             ^1)[9]L. 84/1991, 3. gr.
-[12 gr.]^1) Sjávarútvegsráðherra setur með reglugerð nánari ákvæði um framkvæmd
+                               ^1)L. 84/1991, 3. gr.
+[12. gr.]^1) Sjávarútvegsráðherra setur með reglugerð nánari ákvæði um framkvæmd
                  laga þessara að fengnum tillögum Verðlagsráðs.
-                             ^1)[10]L. 84/1991, 3. gr.
+                               ^1)L. 84/1991, 3. gr.
   [13. gr.]^1) Með mál út af brotum á lögum þessum og reglugerðum, sem settar
   verða samkvæmt þeim, skal farið að hætti opinberra mála og varða brot sektum
               nema þyngri refsing liggi við samkvæmt öðrum lögum.
    Nú tregðast aðili, sem samkvæmt lögum þessum er skylt að gefa Verðlagsráði
  skýrslu eða upplýsingar, við að láta þær í té og má þá beita dagsektum frá 500
              kr. til 5000 kr. þar til hann uppfyllir skyldur sínar.
-                             ^1)[11]L. 84/1991, 3. gr.
+                               ^1)L. 84/1991, 3. gr.
                    [14. gr.]^1) Lög þessi öðlast þegar gildi.
-                             ^1)[12]L. 84/1991, 3. gr.
+                               ^1)L. 84/1991, 3. gr.
                             Ákvæði til bráðabirgða.
 
 References
@@ -137,12 +137,4 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1985043
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=107&mnr=209
    3. http://www.althingi.is/altext/107/s/pdf/0248.pdf
-   4. file:///altext/stjt/1991.084.html
-   5. file://1989123.html
-   6. file:///altext/stjt/1991.084.html
-   7. file:///altext/stjt/1991.084.html
-   8. file:///altext/stjt/1991.084.html
-   9. file:///altext/stjt/1991.084.html
-  10. file:///altext/stjt/1991.084.html
-  11. file:///altext/stjt/1991.084.html
-  12. file:///altext/stjt/1991.084.html
+   4. file://1989123.html

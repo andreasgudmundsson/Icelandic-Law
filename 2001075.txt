@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 15. júní 2001. Breytt með [4]l. 129/2003 (tóku gildi 1. jan. 2004).
+  Tóku gildi 15. júní 2001. Breytt með l. 129/2003 (tóku gildi 1. jan. 2004).
 
                             1. gr. Heimild til sölu.
       Heimilt er að selja allt hlutafé ríkissjóðs í Landssíma Íslands hf.
@@ -20,14 +20,14 @@
                                   alþjónustu.
                                3. gr. Gildistaka.
                           Lög þessi taka þegar gildi.
-  Ákvæði til bráðabirgða. Þrátt fyrir ákvæði til bráðabirgða II í [5]lögum nr.
+  Ákvæði til bráðabirgða. Þrátt fyrir ákvæði til bráðabirgða II í [4]lögum nr.
   131/1997, um rafræna eignarskráningu verðbréfa, skal hlutabréf ríkissjóðs í
     Landssíma Íslands hf., útgefið 23. janúar 1998, vera ógilt við útgáfu á
      rafbréfum í félaginu í verðbréfamiðstöð án undangenginnar innköllunar.
 Ákvæði 1. mgr. 20. gr. laga um hlutafélög gildir ekki um Landssíma Íslands hf. á
                   meðan hlutafé er að fullu í eigu ríkissjóðs.
                                       ^1)
-                             ^1)[6]L. 129/2003, 1. gr.
+                              ^1)L. 129/2003, 1. gr.
 
 References
 
@@ -35,6 +35,4 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001075
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=707
    3. http://www.althingi.is/altext/126/s/1129.html
-   4. file:///altext/stjt/2003.129.html
-   5. file://1997131.html
-   6. file:///altext/stjt/2003.129.html
+   4. file://1997131.html

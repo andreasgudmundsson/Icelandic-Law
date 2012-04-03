@@ -10,8 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 9. mars 1995. Breytt með [4]l. 84/2005 (tóku gildi 9. júní 2005) og
-                   [5]l. 115/2005 (tóku gildi 30. des. 2005).
+  Tóku gildi 9. mars 1995. Breytt með l. 84/2005 (tóku gildi 9. júní 2005), l.
+ 115/2005 (tóku gildi 30. des. 2005) og l. 167/2007 (tóku gildi 1. jan. 2008).
 
      1. gr. Markmið laga þessara er að stuðla að framkvæmdum við fráveitur
                        sveitarfélaga með styrkveitingum.
@@ -40,7 +40,7 @@ uppfylli að öðru leyti skilyrði til úthlutunar samkvæmt þessari grein. R�
   njóta ekki fjárstuðnings samkvæmt lögum þessum. Sama gildir um endurbætur á
     eldri kerfum og framkvæmdir sem eru umfram það sem krafist er í lögum og
                      reglugerðum um hreinsun fráveituvatns.
-                ^1)[6]L. 115/2005, 1. gr. ^2)[7]L. 84/2005, 1. gr.
+                   ^1)L. 115/2005, 1. gr. ^2)L. 84/2005, 1. gr.
   4. gr. Fjárhagslegur stuðningur ríkisins vegna framkvæmda sveitarfélaga við
 fráveitur skv. 3. gr. getur numið allt að 200 m.kr. á ári eftir því sem nánar er
  kveðið á um í fjárlögum, þó aldrei hærri upphæð en sem nemur 20% af staðfestum
@@ -52,14 +52,15 @@ fráveituframkvæmdir þegar miðað er við heildarkostnað á íbúa. Skal fr�
 [Heimilt er að ráðstafa allt að 10 millj. kr. ár hvert til rannsókna á viðtökum
       fráveitu með það að markmiði að þær leiði til lækkunar kostnaðar við
                     fráveituframkvæmdir á síðari stigum.]^1)
-                             ^1)[8]L. 115/2005, 2. gr.
+                              ^1)L. 115/2005, 2. gr.
 5. gr. Umhverfisráðherra skipar fráveitunefnd sér til ráðuneytis um fráveitumál
    sveitarfélaga. Í fráveitunefnd skulu eiga sæti þrír fulltrúar skipaðir til
 fjögurra ára í senn. Einn skal skipaður samkvæmt tilnefningu Sambands íslenskra
- sveitarfélaga, annar samkvæmt tilnefningu félagsmálaráðherra og sá þriðji skal
-  skipaður án tilnefningar og skal hann jafnframt vera formaður nefndarinnar.
+  sveitarfélaga, annar samkvæmt tilnefningu [samgönguráðherra]^1) og sá þriðji
+skal skipaður án tilnefningar og skal hann jafnframt vera formaður nefndarinnar.
                     Varamenn skulu skipaðir með sama hætti.
            Kostnaður af störfum nefndarinnar greiðist úr ríkissjóði.
+                              ^1)L. 167/2007, 9. gr.
         6. gr. Fráveitunefnd fjallar um styrkumsóknir og framkvæmda- og
 kostnaðaráætlanir sveitarfélaga vegna framkvæmda í fráveitumálum á yfirstandandi
             ári og áætlar styrkhæfni hverrar áætlaðrar framkvæmdar.
@@ -97,8 +98,3 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995053
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=118&mnr=430
    3. http://www.althingi.is/altext/118/s/0704.html
-   4. file:///altext/stjt/2005.084.html
-   5. file:///altext/stjt/2005.115.html
-   6. file:///altext/stjt/2005.115.html
-   7. file:///altext/stjt/2005.084.html
-   8. file:///altext/stjt/2005.115.html

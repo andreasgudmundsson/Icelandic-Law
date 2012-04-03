@@ -10,7 +10,9 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-       Tóku gildi 10. apríl 2003 en komu til framkvæmda 1. júlí sama ár.
+Tóku gildi 10. apríl 2003 en komu til framkvæmda 1. júlí sama ár. Breytt með l.
+  48/2007 (tóku gildi 3. apríl 2007) og l. 167/2007 (tóku gildi 1. jan. 2008).
+
      1. gr. Orkustofnun er sérstök ríkisstofnun sem heyrir undir yfirstjórn
                                 iðnaðarráðherra.
                        2. gr. Hlutverk Orkustofnunar er:
@@ -38,6 +40,19 @@ Orkustofnun er heimilt að gera samninga við fyrirtæki eða stofnanir um framk
       ráðherra á samningum sem gerðir eru til lengri tíma en tveggja ára.
      Orkustofnun er heimilt að hafa samvinnu við stofnanir eða fyrirtæki um
   þjónustustarfsemi, svo sem rekstur húsnæðis, símvörslu, tölvuþjónustu o.fl.
+ [Til að sinna hlutverki sínu skv. 3. tölul. 1. mgr. er Orkustofnun heimilt að
+   krefjast gagna sem varða nýtingu á jarðrænum auðlindum, orkuframleiðslu og
+ orkunotkun, þ.m.t. gagna um innflutning, geymslu og sölu á jarðefnaeldsneyti.
+   Skylt er þeim sem stunda atvinnurekstur er varðar framangreint að afhenda
+ stofnuninni nauðsynleg gögn innan frests sem hún tilgreinir. Í reglugerð skal
+           kveða nánar á um tegund gagna, gæði þeirra og skilafrest.
+ Sé gögnum ekki skilað innan tilgreinds frests er Orkustofnun heimilt að leggja
+ dagsektir á viðkomandi fyrirtæki eða stofnun. Dagsektir geta numið 10100 þús.
+kr. á dag. Ákvörðun um dagsektir skal tilkynnt bréflega á sannanlegan hátt þeim
+   sem hún beinist að. Ákvarðanir um að leggja á dagsektir eru aðfararhæfar.
+    Innheimtar dagsektir skulu renna í ríkissjóð að frádregnum kostnaði við
+                                innheimtuna.]^1)
+                               ^1)L. 48/2007, 1. gr.
  3. gr. Starfsemi vatnamælinga Orkustofnunar skal rekin sem sjálfstæð eining og
  vera fjárhagslega aðgreind frá annarri starfsemi stofnunarinnar. Skal einingin
  standa undir þeim kostnaði sem af starfsemi hennar hlýst með sölu á þjónustu.
@@ -92,15 +107,22 @@ Heimilt er að semja við aðila, sem hafa leyfi til fjárvörslu lögum samkvæ
    undirbúning úthlutunar, lánveitingar, þ.m.t. um vexti og önnur útlánakjör,
  greiðslur, eftirlit með framkvæmdum sem Orkusjóður veitir fé til og heimildir
                 til að fella niður endurgreiðsluskyldu lántaka.
-                                ^1)[5]Rg. 514/2003.
+                                 ^1)Rg. 514/2003.
 9. gr. Ráðherra getur í reglugerð^1) mælt nánar fyrir um starfsemi Orkustofnunar
                            og framkvæmd laga þessara.
-                                ^1)[6]Rg. 308/2004.
+                                 ^1)Rg. 308/2004.
    10. gr. Lög þessi öðlast þegar gildi en koma til framkvæmda 1. júlí 2003.
-  Ákvæði til bráðabirgða. Iðnaðarráðherra ákveður í samráði við Orkustofnun og
- Íslenskar orkurannsóknir hvaða eignir og skuldir Orkustofnunar skuli tilheyra
-hvorri stofnun. Þó skulu allar rannsóknaniðurstöður og gagnasöfn sem fjármögnuð
-           hafa verið með opinberu fé áfram vera eign Orkustofnunar.
+                            Ákvæði til bráðabirgða.
+I. Iðnaðarráðherra ákveður í samráði við Orkustofnun og Íslenskar orkurannsóknir
+ hvaða eignir og skuldir Orkustofnunar skuli tilheyra hvorri stofnun. Þó skulu
+ allar rannsóknaniðurstöður og gagnasöfn sem fjármögnuð hafa verið með opinberu
+                       fé áfram vera eign Orkustofnunar.
+[II. Starfsemi vatnamælinga Orkustofnunar lýtur yfirstjórn umhverfisráðherra frá
+1. janúar 2008. Umhverfisráðherra skal vinna að sameiningu Veðurstofu Íslands og
+    vatnamælinga Orkustofnunar í eina stofnun eigi síðar en 1. janúar 2009.
+ Orkustofnun annast starfsemi vatnamælinga, undir yfirstjórn umhverfisráðherra,
+                    þar til ný stofnun tekur til starfa.]^1)
+                              ^1)L. 167/2007, 33. gr.
 
 References
 
@@ -109,5 +131,3 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=544
    3. http://www.althingi.is/altext/128/s/0891.html
    4. file://1989053.html
-   5. file://ekkitil/ekkitil.html?REGL/2003514
-   6. file://ekkitil/ekkitil.html?REGL/2004308

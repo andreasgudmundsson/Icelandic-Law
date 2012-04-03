@@ -23,10 +23,10 @@ hvers fiskiskips skv. 2. tölul. 7. gr. laga um skiptaverðmæti og greiðslumi�
       viðkomandi vátryggingarfélaga, að þeim hluta, sem þarf til greiðslu
       vátryggingariðgjalds hvers skips, enda liggi fyrir samkomulag milli
   Landssambands íslenskra útvegsmanna og vátryggingarfélaganna um vátryggingar
-  fiskiskipa, sbr. þó ákvæði laga um [5]bátaábyrgðarfélög, nr. 41/1967,^2) með
-      síðari breytingum, og [6]laga nr. 47/1967,^3) um Samábyrgð Íslands á
-                      fiskiskipum, með síðari breytingum.
-        ^1)[7]L. 24/1986, 13. gr. ^2)Nú [8]l. 18/1976. ^3)Nú [9]l. 37/1978.
+fiskiskipa, sbr. þó ákvæði laga um bátaábyrgðarfélög, nr. 41/1967,^2) með síðari
+  breytingum, og laga nr. 47/1967,^2) um Samábyrgð Íslands á fiskiskipum, með
+                               síðari breytingum.
+                  ^1)[5]L. 24/1986, 13. gr. ^2)Nú [6]l. 98/2000.
  3. gr. Við árslok skal endurgreiða skipseiganda innistæðu skipsins, er kann að
     verða umfram greiðslu vátryggingariðgjalda. Þó er heimilt að endurgreiða
 skipseiganda innistæðu skipsins fyrr, séu vátryggingariðgjöld skipsins að fullu
@@ -46,8 +46,5 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=97&mnr=158
    3. file://1986024.html
    4. file://1986024.html
-   5. file:///altext/stjtnr.html#1967041
-   6. file:///altext/stjtnr.html#1967047
-   7. file://1986024.html
-   8. file://1976018.html
-   9. file://1978037.html
+   5. file://1986024.html
+   6. file://2000098.html

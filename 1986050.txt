@@ -10,9 +10,9 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 21. maí 1986. Breytt með [4]l. 61/1985 (tóku gildi 11. júlí 1985),
-[5]l. 83/1997 (tóku gildi 6. júní 1997), [6]l. 82/1998 (tóku gildi 1. okt. 1998)
-                  og [7]l. 60/2006 (tóku gildi 1. júlí 2006).
+ Tóku gildi 21. maí 1986. Breytt með l. 61/1985 (tóku gildi 11. júlí 1985), l.
+ 83/1997 (tóku gildi 6. júní 1997), l. 82/1998 (tóku gildi 1. okt. 1998), [4]l.
+  60/2006 (tóku gildi 1. júlí 2006) og l. 167/2007 (tóku gildi 1. jan. 2008).
 
                               I. kafli. Tilgangur.
 1. gr. Tilgangur laga þessara er að efla innlendar rannsóknir á fisksjúkdómum og
@@ -24,18 +24,18 @@ deild, Rannsóknadeild fisksjúkdóma, er hafi það hlutverk að annast rannsó
  fisksjúkdómum, sjúkdómsgreiningar á fiski, útgáfu heilbrigðisvottorða og aðra
                                skylda starfsemi.
 Deildin lætur fiskeldisstöðvum í té vottorð um heilsufar fisks í stöðinni eftir
-  því sem reglubundið eftirlit, sbr. lög [um varnir gegn fisksjúkdómum]^1) og
- [8]lög nr. 61/1985,^2) og rannsóknir og önnur starfsemi deildarinnar samkvæmt
-                         lögum þessum gefa tilefni til.
-       ^1)[9]L. 60/2006, 13. gr. ^2)[10]L. 61/1985 breyttu þágildandi [11]l.
-                             77/1981, um dýralækna.
+því sem reglubundið eftirlit, sbr. lög [um varnir gegn fisksjúkdómum]^1) og lög
+  nr. 61/1985,^2) og rannsóknir og önnur starfsemi deildarinnar samkvæmt lögum
+                            þessum gefa tilefni til.
+   ^1)[5]L. 60/2006, 13. gr. ^2)L. 61/1985 breyttu þágildandi [6]l. 77/1981, um
+                                   dýralækna.
     3. gr. [Forstöðumaður Tilraunastöðvar Háskóla Íslands í meinafræði ræður
-   deildarstjóra Rannsóknadeildar fisksjúkdóma, sbr. [12]lög nr. 67/1990.]^1)
+   deildarstjóra Rannsóknadeildar fisksjúkdóma, sbr. [7]lög nr. 67/1990.]^1)
 Deildarstjóri sér um stjórn deildarinnar og markar henni stefnu og starfssvið í
  samræmi við lög og reglur og sér um tengsl við þá er varnir gegn fisksjúkdómum
   varða. Hann annast gerð starfs- og fjárhagsáætlunar og ber ábyrgð á fjárhag
                                  deildarinnar.
-                            ^1)[13]L. 83/1997, 118. gr.
+                              ^1)L. 83/1997, 118. gr.
    4. gr. Deildin hefur sjálfstæðan fjárhag og lýtur yfirstjórn forstöðumanns
                  Tilraunastöðvar Háskóla Íslands í meinafræði.
          5. gr. Verkefni Rannsóknadeildar fisksjúkdóma skulu m.a. vera:
@@ -44,17 +44,17 @@ Deildarstjóri sér um stjórn deildarinnar og markar henni stefnu og starfssvi�
       3. Að rannsaka, þegar þess er þörf, alifiska sem fengið hafa lyfjagjöf.
      4. Að veita fiskeldisstöðvum hvers konar aðstoð og ráðgjöf er að gagni má
     koma til varnar útbreiðslu sjúkdóma og til að tryggja heilbrigði fiska.
-   5. Að gefa út heilbrigðisvottorð samkvæmt tillögum [Landbúnaðarstofnunar]^1)
-og í samræmi við erlendar kröfur vegna útflutnings. Heilbrigðisvottorðin byggi á
+   5. Að gefa út heilbrigðisvottorð samkvæmt tillögum [Matvælastofnunar]^1) og í
+  samræmi við erlendar kröfur vegna útflutnings. Heilbrigðisvottorðin byggi á
 reglubundnu eftirliti og sýnum frá eldisstöðvum, sem og sýnum úr villtum fiskum
                          sem valdir eru til undaneldis.
          6. Að sinna öðrum skyldum verkefnum eftir ákvörðun forstöðumanns.
-                            ^1)[14]L. 60/2006, 13. gr.
+                              ^1)L. 167/2007, 82. gr.
          6. gr. Rannsóknadeild fisksjúkdóma skal starfa í samvinnu við
-               [Landbúnaðarstofnun]^1) og dýralækni fisksjúkdóma.
+                 [Matvælastofnun]^1) og dýralækni fisksjúkdóma.
 Rannsóknadeildin getur samið við aðrar rannsóknastofnanir um að annast tiltekna
                  þætti rannsókna vegna fisksjúkdóma í landinu.
-                            ^1)[15]L. 60/2006, 13. gr.
+                              ^1)L. 167/2007, 82. gr.
   7. gr. Starfsmenn rannsóknadeildarinnar mega ekki vera fjárhagslega tengdir
            fiskeldisfyrirtækjum eða sitja í stjórn slíkra fyrirtækja.
  8. gr. Rannsóknadeild fisksjúkdóma skal árlega semja skýrslu um starfsemi sína
@@ -63,7 +63,7 @@ Rannsóknadeildin getur samið við aðrar rannsóknastofnanir um að annast til
      staðfestir gjaldskrá fyrir þá þjónustu, sem hún veitir, með reglugerð.
 
                       III. kafli. Fisksjúkdómarannsóknir.
-10. gr. [Landbúnaðarstofnun]^1) setur reglur um lágmarkstíðni sýnatöku og fjölda
+  10. gr. [Matvælastofnun]^1) setur reglur um lágmarkstíðni sýnatöku og fjölda
 sýna sem tekin skulu úr hverri klak- og eldisstöð til að tryggja grunneftirlit.
   Skulu allar klak- og eldisstöðvar hlíta slíku eftirliti hvort sem um sölu úr
 stöðinni er að ræða eða ekki. Þegar um sýnatöku vegna fyrirhugaðs útflutnings er
@@ -75,21 +75,20 @@ að ræða skal rannsóknadeildin ganga úr skugga um að sýnatökur og úrvinn
                              varða sjúkdómavarnir.
 Vilji umsjónarmaður eldisstöðvar eigi hlíta skriflegum fyrirmælum eftirlitsaðila
           er rétt að skjóta málinu til úrskurðar landbúnaðarráðherra.
-                            ^1)[16]L. 60/2006, 13. gr.
+                              ^1)L. 167/2007, 82. gr.
 11. gr. Rannsóknadeild fisksjúkdóma skal rannsaka sýni frá fiskeldisstöðvum með
  viðurkenndum aðferðum. Finnist ekkert athugavert við rannsókn er sú niðurstaða
     skráð í skýrslur um viðkomandi stöð. Þær niðurstöður, ásamt reglubundnu
       eftirliti, eru grundvöllur útgáfu heilbrigðisvottorða, sbr. 14. gr.
 Ef tilteknir smitsjúkdómar, sem taldir eru hættulegir eða sérstaklega er getið í
 reglugerð,^1) greinast skal rannsóknadeildin þegar í stað tilkynna um sjúkdóminn
-           til [Landbúnaðarstofnunar]^2) og dýralæknis fisksjúkdóma.
-  [Landbúnaðarstofnun]^2) skal þá í samráði við Rannsóknadeild fisksjúkdóma og
+             til [Matvælastofnunar]^2) og dýralæknis fisksjúkdóma.
+    [Matvælastofnun]^2) skal þá í samráði við Rannsóknadeild fisksjúkdóma og
  dýralækni fisksjúkdóma gera tillögur til ráðherra um nauðsynlegar aðgerðir og
                               varúðarráðstafanir.
    Að fengnum úrskurði ráðherra skal dýralæknir fisksjúkdóma hafa með höndum
              nauðsynlegar aðgerðir í samvinnu við héraðsdýralækna.
-    ^1)[17]Rg. 403/1986, sbr. [18]597/1989 og [19]148/1992. ^2)[20]L. 60/2006,
-                                    13. gr.
+        ^1)Rg. 403/1986, sbr. 597/1989 og 148/1992. ^2)L. 167/2007, 82. gr.
  12. gr. Deildarstjóri Rannsóknadeildar fisksjúkdóma, dýralæknir fisksjúkdóma,
   svo og héraðsdýralæknar eða fulltrúar þeirra, skulu hafa frjálsan aðgang að
      fiskeldisstöðvum og skulu þeim veittar allar nauðsynlegar upplýsingar.
@@ -127,7 +126,7 @@ Kostnaður við rannsóknir í klak- og eldisstöð, sem sett hefur verið í s�
 18. gr. Fyrir brot gegn lögum þessum, reglugerðum og fyrirmælum gefnum samkvæmt
 þeim skal refsa með sektum en með [fangelsi allt að 2 árum]^1) séu sakir miklar.
              Með mál vegna brota skal fara að hætti opinberra mála.
-                            ^1)[21]L. 82/1998, 182. gr.
+                              ^1)L. 82/1998, 182. gr.
                      19. gr. Lög þessi öðlast þegar gildi.
                            Ákvæði til bráðabirgða. 1.
            2. Lög þessi skulu endurskoðuð innan fimm ára frá gildistöku.
@@ -138,21 +137,7 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1986050
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=108&mnr=431
    3. http://www.althingi.is/altext/108/s/pdf/0791.pdf
-   4. file:///altext/stjtnr.html#1985061
-   5. file:///altext/stjt/1997.083.html
-   6. file:///altext/stjt/1998.082.html
-   7. file://2006060.html
-   8. file:///altext/stjtnr.html#1985061
-   9. file://2006060.html#g13
-  10. file:///altext/stjtnr.html#1985061
-  11. file://1981077.html
-  12. file://1990067.html
-  13. file:///altext/stjt/1997.083.html
-  14. file://2006060.html#g13
-  15. file://2006060.html#g13
-  16. file://2006060.html#g13
-  17. file://ekkitil/ekkitil.html?REGL/1986403
-  18. file://ekkitil/ekkitil.html?REGL/1989597
-  19. file://ekkitil/ekkitil.html?REGL/1992148
-  20. file://2006060.html#g13
-  21. file:///altext/stjt/1998.082.html
+   4. file://2006060.html
+   5. file://2006060.html#g13
+   6. file://1981077.html
+   7. file://1990067.html

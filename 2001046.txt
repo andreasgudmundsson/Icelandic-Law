@@ -11,9 +11,9 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
    Tóku gildi 1. október 2001, sjá þó 60. gr. EES-samningurinn: XVII. viðauki
- tilskipun 98/71/EB. Breytt með [4]l. 76/2002 (tóku gildi 17. maí 2002), [5]l.
- 54/2004 (tóku gildi 14. júní 2004) og [6]l. 108/2006 (tóku gildi 1. nóv. 2006
-                             skv. augl. C 1/2006).
+tilskipun 98/71/EB. Breytt með l. 76/2002 (tóku gildi 17. maí 2002), l. 54/2004
+ (tóku gildi 14. júní 2004), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C
+               1/2006) og l. 167/2007 (tóku gildi 1. jan. 2008).
 
                             I. kafli. Almenn ákvæði.
 1. gr. Hönnuður eða sá sem sækir rétt sinn til hans getur með skráningu samkvæmt
@@ -150,7 +150,7 @@ Einkaleyfastofan skal flokka hönnun í samræmi við ákvæði Locarno-samnings
       Að beiðni umsækjanda má þó fresta skráningu í allt að sex mánuði frá
   umsóknardegi, eða forgangsréttardegi ef forgangsréttar er krafist. Beiðni um
                         frestun skal koma fram í umsókn.
-                             ^1)[7]L. 54/2004, 1. gr.
+                               ^1)L. 54/2004, 1. gr.
  19. gr. Ef umsókn um skráningu hönnunar er ekki í samræmi við ákvæði laga eða
 reglna eða telji Einkaleyfastofan að aðrar tálmanir leiði til þess að synja beri
  um skráningu skal umsækjanda tilkynnt það og honum veittur kostur á að tjá sig
@@ -306,15 +306,17 @@ Komi fram beiðni um yfirfærslu hönnunarumsóknar eða -skráningar skal umsó
  skotið til áfrýjunarnefndar ákvörðun um að skráningin skuli standa í breyttri
  eða óbreyttri mynd. Sé fallið frá áfrýjun getur áfrýjunarnefnd þó tekið málið
                 til úrskurðar ef sérstakar ástæður mæla með því.
-  36. gr. Áfrýjun skal berast iðnaðarráðuneyti innan tveggja mánaða frá því að
- viðkomandi var tilkynnt um ákvörðun. Innan sama frests skal greiða ráðuneytinu
- tilskilið áfrýjunargjald. Áfrýjunargjaldið skal ákveðið sem hámarksgjald vegna
-   kostnaðar eða hluta kostnaðar við áfrýjunarnefnd hugverkaréttinda á sviði
-  iðnaðar, m.a. þóknunar til nefndarmanna í einstökum málum, póstburðargjalda,
-    ljósritunarkostnaðar og annars umsýslukostnaðar er til fellur við störf
- nefndarinnar. Sé áfrýjunargjald ekki greitt innan frestsins skal vísa áfrýjun
-      frá. Áfrýjun frestar frekari meðferð málsins hjá Einkaleyfastofunni.
+36. gr. Áfrýjun skal berast [viðskiptaráðuneyti]^1) innan tveggja mánaða frá því
+     að viðkomandi var tilkynnt um ákvörðun. Innan sama frests skal greiða
+    ráðuneytinu tilskilið áfrýjunargjald. Áfrýjunargjaldið skal ákveðið sem
+      hámarksgjald vegna kostnaðar eða hluta kostnaðar við áfrýjunarnefnd
+  hugverkaréttinda á sviði iðnaðar, m.a. þóknunar til nefndarmanna í einstökum
+málum, póstburðargjalda, ljósritunarkostnaðar og annars umsýslukostnaðar er til
+  fellur við störf nefndarinnar. Sé áfrýjunargjald ekki greitt innan frestsins
+       skal vísa áfrýjun frá. Áfrýjun frestar frekari meðferð málsins hjá
+                              Einkaleyfastofunni.
      Ákvarðanir áfrýjunarnefndar verða ekki bornar undir annað stjórnvald.
+                              ^1)L. 167/2007, 88. gr.
 
                      VII. kafli. Refsi- og bótaábyrgð o.fl.
 37. gr. Sá sem af ásetningi brýtur gegn hönnunarrétti skal sæta sektum. Sé brot
@@ -398,7 +400,7 @@ stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum]^1) sem getur fyrir
            Nafn og heimilisfang umboðsmanns skal skrá í hönnunarskrá.
   Tilnefni umsækjandi eða eigandi hönnunarréttar ekki umboðsmann skv. 1. mgr.
                    innan tilskilins frests skal umsókn afmáð.
-                            ^1)[8]L. 108/2006, 31. gr.
+                              ^1)L. 108/2006, 31. gr.
   48. gr. Glati umsækjandi rétti af þeirri ástæðu að hann eða umboðsmaður hans
  hefur ekki virt frest sem Einkaleyfastofan hefur veitt honum á grundvelli laga
 þessara skal Einkaleyfastofan endurveita honum réttinn ef umsækjandi hefur gert
@@ -430,10 +432,11 @@ hönnunarréttar á frumkvæði að enda eigi nytjaleyfishafi rétt á bótum ve
       hönnunarskrá og skulu tilkynningar Einkaleyfastofunnar sendar honum.
    52. gr. Einkaleyfastofunni er eftir beiðni heimilt að taka að sér sérstök
                   verkefni á sviði hönnunar og hönnunarréttar.
-Iðnaðarráðherra setur reglur um slíka þjónustu og greiðslu fyrir hana, sbr. 53.
-                                      gr.
- 53. gr. Iðnaðarráðherra setur nánari reglur^1) um framkvæmd laga þessara, m.a.
-   um hönnunarumsóknir og meðferð þeirra, meðferð andmælamála, endurnýjun og
+ [Viðskiptaráðherra]^1) setur reglur um slíka þjónustu og greiðslu fyrir hana,
+                                  sbr. 53. gr.
+                              ^1)L. 167/2007, 88. gr.
+53. gr. [Viðskiptaráðherra]^1) setur nánari reglur^2) um framkvæmd laga þessara,
+ m.a. um hönnunarumsóknir og meðferð þeirra, meðferð andmælamála, endurnýjun og
 brottfall hönnunarskráningar, færslu í hönnunarskrá, efni og útgáfu ELS-tíðinda
 og verklag Einkaleyfastofunnar. Þá skal ráðherra ákveða gjöld samkvæmt lögunum,
                                   sbr. 36. gr.
@@ -446,8 +449,8 @@ formskilyrðum og jafnvel efnisskilyrðum venjulegra umsókna, alþjóðlegra um
                                þjónustuverkefni.
  Gjöld samkvæmt lögum þessum renna beint til Einkaleyfastofunnar og innheimtir
                                   hún gjöldin.
-    ^1)[9]Rg. 41/2000, sbr. [10]110/2003; [11]rg. 706/2001, sbr. [12]531/2004;
-       [13]rg. 916/2001, sbr. [14]15/2003, [15]898/2003 og [16]540/2004.
+     ^1)L. 167/2007, 88. gr. ^2)Rg. 41/2000, sbr. 110/2003; rg. 706/2001, sbr.
+          531/2004; rg. 916/2001, sbr. 15/2003, 898/2003 og 540/2004.
 
                      X. kafli. Alþjóðleg skráning hönnunar.
     54. gr. Með alþjóðlegri skráningu hönnunar er átt við skráningu hönnunar
@@ -508,16 +511,3 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001046
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=505
    3. http://www.althingi.is/altext/126/s/0792.html
-   4. file:///altext/stjt/2002.076.html
-   5. file:///altext/stjt/2004.054.html
-   6. file:///altext/stjt/2006.108.html
-   7. file:///altext/stjt/2004.054.html
-   8. file:///altext/stjt/2006.108.html
-   9. file://ekkitil/ekkitil.html?REGL/2000041
-  10. file://ekkitil/ekkitil.html?REGL/2003110
-  11. file://ekkitil/ekkitil.html?REGL/2001706
-  12. file://ekkitil/ekkitil.html?REGL/2004531
-  13. file://ekkitil/ekkitil.html?REGL/2001916
-  14. file://ekkitil/ekkitil.html?REGL/2003015
-  15. file://ekkitil/ekkitil.html?REGL/2003898
-  16. file://ekkitil/ekkitil.html?REGL/2004540

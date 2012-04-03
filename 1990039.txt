@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 1. júní 1990. Breytt með [4]l. 129/2004 (tóku gildi 31. des. 2005).
+  Tóku gildi 1. júní 1990. Breytt með l. 129/2004 (tóku gildi 31. des. 2005).
 
 1. gr. Stofna skal sjóð er nefnist Verðjöfnunarsjóður sjávarútvegsins. Hlutverk
 sjóðsins er að draga úr áhrifum verðsveiflna á sjávarafurðum á þjóðarbúskapinn.
@@ -47,7 +47,7 @@ deild hvar 35% verðbilið er hverju sinni. Greiðslur skulu þó aldrei vera 
   7. gr. Innstæður á verðjöfnunarreikningum sjóðsins teljast eign hans en eru
    bundnar við verðjöfnun á afurðum þess framleiðanda sem inneign myndaði. Sé
  félagi, sem á reikning í sjóðnum, slitið og það sameinað öðru félagi með þeim
- hætti að ákvæðum [[5]51. og [6]53. gr. laga nr. 90/2003, um tekjuskatt],^1) sé
+ hætti að ákvæðum [[4]51. og [5]53. gr. laga nr. 90/2003, um tekjuskatt],^1) sé
    fullnægt skal það félag, er við tekur, taka við rétti til verðjöfnunar af
   sérreikningi þess félags sem slitið var. Sé rekstur einstaklings, sem greitt
         hefur í sjóðinn, seldur er heimilt að kveða svo á að innstæða á
@@ -60,7 +60,7 @@ réttindum sem hinn látni hafði áunnið sér gagnvart sjóðnum uppfylli þei
     eigi við skal innstæða á verðjöfnunarreikningi þess renna inn á óskiptan
    reikning Verðjöfnunarsjóðs. Sama á við ef framleiðandi hefur ekki í sex ár
                     framleitt sjávarafurðir til útflutnings.
-                            ^1)[7]L. 129/2004, 81. gr.
+                              ^1)L. 129/2004, 81. gr.
 8. gr. Greiðslur framleiðenda inn á verðjöfnunarreikninga hjá Verðjöfnunarsjóði
  skulu koma til lækkunar á tekjum þeirra á því ári sem framleiðsla á sér stað.
 Útgreiðslur af verðjöfnunarreikningum til framleiðenda skulu færðar til tekna á
@@ -87,7 +87,7 @@ sjóðsins skal honum skipt hlutfallslega niður á verðjöfnunarreikninga sjó
                       hagkvæman hátt í erlendum gjaldeyri.
     12. gr. Sjávarútvegsráðherra setur með reglugerð,^1) að fengnum tillögum
              sjóðstjórnar, nánari ákvæði um framkvæmd þessara laga.
-                                ^1)[8]Rg. 254/1990.
+                                 ^1)Rg. 254/1990.
  13. gr. Verðjöfnunarsjóður sjávarútvegsins er undanþeginn opinberum gjöldum og
                        sköttum hverju nafni sem nefnast.
                   14. gr. Lög þessi öðlast gildi 1. júní 1990.
@@ -99,8 +99,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1990039
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=112&mnr=519
    3. http://www.althingi.is/altext/112/s/0905.html
-   4. file:///altext/stjt/2004.129.html
-   5. file://2003090.html#g51
-   6. file://2003090.html#g53
-   7. file:///altext/stjt/2004.129.html
-   8. file://ekkitil/ekkitil.html?REGL/1990254
+   4. file://2003090.html#g51
+   5. file://2003090.html#g53

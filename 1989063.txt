@@ -10,9 +10,9 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 14. júní 1989. Breytt með [4]l. 73/1996 (tóku gildi 19. júní 1996),
-[5]l. 83/1997 (tóku gildi 6. júní 1997), [6]l. 51/2002 (tóku gildi 1. júlí 2002)
-                  og [7]l. 79/2004 (tóku gildi 1. jan. 2005).
+ Tóku gildi 14. júní 1989. Breytt með l. 73/1996 (tóku gildi 19. júní 1996), l.
+ 83/1997 (tóku gildi 6. júní 1997), l. 51/2002 (tóku gildi 1. júlí 2002) og l.
+                       79/2004 (tóku gildi 1. jan. 2005).
 
                        I. kafli. Um aðsetur og hlutverk.
   1. gr. Hagþjónusta landbúnaðarins er ríkisstofnun er lýtur sérstakri stjórn
@@ -23,7 +23,7 @@ skal rekstur hennar vera í nánum tengslum við búvísindadeild [Landbúnaðar
   Kostnaður af starfi Hagþjónustu landbúnaðarins greiðist úr ríkissjóði og af
 sértekjum sem henni er heimilt að afla sér, m.a. með því að taka að sér að vinna
         sérstök verkefni fyrir stofnanir, félagasamtök og einstaklinga.
-                             ^1)[8]L. 79/2004, 5. gr.
+                               ^1)L. 79/2004, 5. gr.
                  2. gr. Hlutverk Hagþjónustu landbúnaðarins er:
     1. Að stuðla að því að bændur færi bókhald fyrir bú sín, m.a. með skipulegu
     fræðslu- og leiðbeiningarstarfi um skattskil, bókhald og notkun þess til
@@ -44,7 +44,7 @@ sértekjum sem henni er heimilt að afla sér, m.a. með því að taka að sér
                             landbúnaðarhagfræði.]^1)
     7. Að vinna að öðrum skyldum verkefnum eftir því sem um semst og við verður
                                      komið.
-                             ^1)[9]L. 79/2004, 5. gr.
+                               ^1)L. 79/2004, 5. gr.
 
                    II. kafli. Um skipan stjórnar og hlutverk.
      3. gr. Landbúnaðarráðherra skipar [þrjá]^1) menn í stjórn Hagþjónustu
@@ -55,14 +55,14 @@ sértekjum sem henni er heimilt að afla sér, m.a. með því að taka að sér
       Landbúnaðarráðherra skipar formann úr röðum stjórnarmanna og ákveður
                                  stjórnarlaun.
              [Ráðherra skipar forstöðumann til fimm ára í senn.]^4)
-    ^1)[10]L. 51/2002, 2. gr. ^2)[11]L. 79/2004, 5. gr. ^3)[12]L. 73/1996, 21.
-                         gr. ^4)[13]L. 83/1997, 87. gr.
+     ^1)L. 51/2002, 2. gr. ^2)L. 79/2004, 5. gr. ^3)L. 73/1996, 21. gr. ^4)L.
+                                83/1997, 87. gr.
                        4. gr. Hlutverk stjórnar er m.a.:
    [1. ]^1) Stjórn leggur árlega, í samvinnu við forstöðumann, fram tillögur til
 landbúnaðarráðuneytisins um fjárþörf stofnunarinnar vegna undirbúnings fjárlaga.
    [2. ]^1) Stjórn tekur ákvarðanir um mótun á starfsemi stofnunarinnar og hefur
           eftirlit með að hún þjóni því hlutverki sem henni er ætlað.
-                            ^1)[14]L. 83/1997, 88. gr.
+                              ^1)L. 83/1997, 88. gr.
                      5. gr. Hlutverk forstöðumanns er m.a.:
      1. Forstöðumaður annast daglega stjórn stofnunarinnar samkvæmt ákvörðunum
   stjórnar, svo og það samstarf við aðrar stofnanir sem nauðsynlegt er talið.
@@ -106,7 +106,7 @@ tekjur eða gjöld einstakra manna eða stofnana. Skulu þeir ætíð gæta þes
   tilhögun Hagþjónustu landbúnaðarins þar sem m.a. er kveðið á um samstarf og
   samvinnu Hagþjónustu landbúnaðarins og búvísindadeildar [Landbúnaðarháskóla
                                   Íslands].^1)
-                             ^1)[15]L. 79/2004, 5. gr.
+                               ^1)L. 79/2004, 5. gr.
 12. gr. Brot á ákvæðum laga þessara varða sektum, nema þyngri refsing liggi við
  samkvæmt öðrum lögum. Með mál út af brotum skal fara að hætti opinberra mála.
                          Lög þessi öðlast þegar gildi.
@@ -114,7 +114,7 @@ tekjur eða gjöld einstakra manna eða stofnana. Skulu þeir ætíð gæta þes
 landbúnaðarins geta sinnt því hlutverki sem þeim er ætlað samkvæmt lögunum skulu
 Búreikningastofa landbúnaðarins og [Bændasamtök Íslands]^1) gegna þeim verkefnum
     þeirra sem tök eru á með þeim réttindum og skyldum sem lög þessi ákveða.
-                            ^1)[16]L. 73/1996, 21. gr.
+                              ^1)L. 73/1996, 21. gr.
 
 References
 
@@ -122,16 +122,3 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1989063
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=111&mnr=413
    3. http://www.althingi.is/altext/111/s/0773.html
-   4. file:///altext/stjt/1996.073.html
-   5. file:///altext/stjt/1997.083.html
-   6. file:///altext/stjt/2002.051.html
-   7. file:///altext/stjt/2004.079.html
-   8. file:///altext/stjt/2004.079.html
-   9. file:///altext/stjt/2004.079.html
-  10. file:///altext/stjt/2002.051.html
-  11. file:///altext/stjt/2004.079.html
-  12. file:///altext/stjt/1996.073.html
-  13. file:///altext/stjt/1997.083.html
-  14. file:///altext/stjt/1997.083.html
-  15. file:///altext/stjt/2004.079.html
-  16. file:///altext/stjt/1996.073.html

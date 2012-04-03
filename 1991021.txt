@@ -10,9 +10,9 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Tóku gildi 1. júlí 1992. Breytt með [4]l. 92/1991 (tóku gildi 1. júlí 1992 nema
-103. gr. sem tók gildi 9. jan. 1992), [5]l. 26/1998 (tóku gildi 29. apríl 1998)
-                  og [6]l. 32/2000 (tóku gildi 26. maí 2000).
+  Tóku gildi 1. júlí 1992. Breytt með l. 92/1991 (tóku gildi 1. júlí 1992 nema
+103. gr. sem tók gildi 9. jan. 1992), l. 26/1998 (tóku gildi 29. apríl 1998) og
+                     l. 32/2000 (tóku gildi 26. maí 2000).
 
                            1. þáttur. Almenn ákvæði.
                             I. kafli. Orðskýringar.
@@ -112,7 +112,7 @@ heimild til greiðslustöðvunar eða til að leita nauðasamnings og gjaldþrot
   sambærilega heimild í sínu heimaríki. Bú slíks útibús verður ekki tekið til
  gjaldþrotaskipta hér á landi, nema bú erlenda félagsins hafi áður verið tekið
                              til gjaldþrotaskipta.
-                            ^1)[7]L. 92/1991, 108. gr.
+                              ^1)L. 92/1991, 108. gr.
 7. gr. Beiðni um heimild til greiðslustöðvunar eða til að leita nauðasamnings og
 krafa um gjaldþrotaskipti skal vera skrifleg. Í henni eða fylgigögnum með henni
               skal eftirfarandi koma fram svo skýrt sem verða má:
@@ -169,7 +169,7 @@ skráningu upplýsinga og veitingu vottorða um þau málefni sem lög þessi ta
     hagsmuna að gæta upplýsingar úr skrám skv. 1. mgr. Sá sem hefur lögmætra
      hagsmuna að gæta getur einnig krafist aðgangs að beiðnum eða kröfum og
      fylgigögnum með þeim þótt þær hafi ekki verið lagðar fram á dómþingi.
-                                ^1)[8]Rg. 226/1992.
+                                 ^1)Rg. 226/1992.
 
                           2. þáttur. Greiðslustöðvun.
                    III. kafli. Heimild til greiðslustöðvunar.
@@ -652,7 +652,7 @@ leita nauðasamnings og heimildin hafi verið felld niður innan þriggja ára f
    Skuldarinn má einn skjóta synjunarúrskurði héraðsdómara til æðra dóms. Ef
 heimildin er veitt fyrir æðra dómi miðast tímamörk í ákvæðum VI. kafla við þann
                       dag sem úrlausn hans er kveðin upp.
-                            ^1)[9]L. 92/1991, 108. gr.
+                              ^1)L. 92/1991, 108. gr.
  39. gr. Telji héraðsdómari skilyrðum fullnægt til þess veitir hann skuldaranum
   heimild til að leita nauðasamnings með úrskurði. Slíkum úrskurði verður ekki
                              skotið til æðra dóms.
@@ -1314,7 +1314,7 @@ gjaldþrotaskipta, að afhenda skiptastjóra eignir þrotabúsins eða synjar ho
                 hana skal farið með hann eftir ákvæðum 170. gr.
  Úrskurði skv. 3. mgr. má ef þörf krefur fullnægja með aðför án aðfararfrests.
                     Málskot úrskurðarins frestar ekki aðför.
-                             ^1)[10]L. 32/2000, 7. gr.
+                               ^1)L. 32/2000, 7. gr.
   83. gr. Meðan á gjaldþrotaskiptum stendur má skiptastjóri krefjast úrskurðar
 héraðsdómara um að þrotamanninum verði bönnuð för úr landi um tiltekinn tíma ef
 nærvera hans verður talin nauðsynleg vegna athugunar á fjárreiðum þrotabúsins og
@@ -1338,7 +1338,7 @@ Banni eftir úrskurði héraðsdómara skv. 2. mgr. skal framfylgt með sama hæ
 gerst sekir um refsivert athæfi skal hann tilkynna það [ríkislögreglustjóra].^1)
 Skiptastjóra er óskylt að leita eftir slíkri vitneskju umfram það sem leiðir af
                     upplýsingaöflun hans starfa sinna vegna.
-                             ^1)[11]L. 26/1998, 1. gr.
+                               ^1)L. 26/1998, 1. gr.
 
                XIV. kafli. Fyrstu aðgerðir við gjaldþrotaskipti.
     85. gr. Skiptastjóri skal án tafar eftir skipun sína gefa út og fá birta
@@ -2474,11 +2474,3 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1991021
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=113&mnr=97
    3. http://www.althingi.is/altext/113/s/0100.html
-   4. file:///altext/stjt/1991.092.html
-   5. file:///altext/stjt/1998.026.html
-   6. file:///altext/stjt/2000.032.html
-   7. file:///altext/stjt/1991.092.html
-   8. file://ekkitil/ekkitil.html?REGL/1992226
-   9. file:///altext/stjt/1991.092.html
-  10. file:///altext/stjt/2000.032.html
-  11. file:///altext/stjt/1998.026.html

@@ -10,7 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-                           Tóku gildi 1. janúar 2003.
+ Tóku gildi 1. janúar 2003. Breytt með l. 64/2007 (tóku gildi 4. apríl 2007) og
+                   [4]l. 75/2007 (tóku gildi 1. ágúst 2007).
 
    I. kafli. Samráðsnefnd atvinnulífs og stjórnvalda um utanríkisviðskipti og
                                útflutningsaðstoð.
@@ -18,24 +19,15 @@
 útflutningsaðstoð sinnir stefnumótun og skilgreinir samvinnu- og átaksverkefni í
  útflutningsaðstoð og markaðssetningu. Hún er einnig vettvangur til samráðs og
   skoðanaskipta um markaðssetningu íslensks útflutnings á erlendum vettvangi.
-Nefndin fundar ekki sjaldnar en fjórum sinnum á ári og stýrir utanríkisráðherra
-                               tveimur fundanna.
+            [Nefndin skal funda eigi sjaldnar en tvisvar á ári.]^1)
  Í samráðsnefndinni sitja fulltrúar samtaka úr atvinnulífinu og stjórnvalda og
-   stjórn Útflutningsráðs Íslands. Af hálfu atvinnulífsins sitja í nefndinni
- fulltrúar Samtaka atvinnulífsins, Samtaka verslunarinnar  FÍS, Verslunarráðs
-   Íslands, Samtaka iðnaðarins, Landssambands íslenskra útvegsmanna, Samtaka
-  fiskvinnslustöðva, Bændasamtakanna, Samtaka ferðaþjónustunnar, SVÞ  Samtaka
-   verslunar og þjónustu, Bandalags íslenskra listamanna og Samtaka íslenskra
-      hugbúnaðarfyrirtækja. Af opinberri hálfu sitja í nefndinni fulltrúi
-utanríkisráðherra, sem er formaður, og fulltrúar iðnaðar- og viðskiptaráðherra,
-          landbúnaðarráðherra, menntamálaráðherra, samgönguráðherra og
-   sjávarútvegsráðherra. Þá eiga sæti í nefndinni fulltrúar Byggðastofnunar,
-      Ferðamálaráðs, Nýsköpunarsjóðs atvinnulífsins og Iðntæknistofnunar.
- Utanríkisráðherra skipar í nefndina samkvæmt tilnefningu framangreindra aðila
- til þriggja ára í senn. Honum er jafnframt heimilt í reglugerð að veita öðrum
-  samtökum eða stofnunum aðild að samráðsnefndinni að fenginni umsögn hennar.
+      stjórn Útflutningsráðs Íslands. [Utanríkisráðherra skipar fulltrúa í
+   samráðsnefndina að höfðu samráði við stjórn Útflutningsráðs.]^1) Honum er
+  jafnframt heimilt í reglugerð að veita öðrum samtökum eða stofnunum aðild að
+                  samráðsnefndinni að fenginni umsögn hennar.
  Fulltrúar samtaka úr atvinnulífinu í samráðsnefndinni velja fjóra aðalmenn og
                fjóra varamenn til setu í stjórn Útflutningsráðs.
+                               ^1)L. 64/2007, 1. gr.
 
                        II. kafli. Útflutningsráð Íslands.
    2. gr. Útflutningsráð Íslands hefur það hlutverk að koma á auknu samstarfi
@@ -54,7 +46,7 @@ atvinnulífsins í samráðsnefnd, sbr. ákvæði 3. mgr. 1. gr., og þrjá stj�
                            öðru leyti með sér verkum.
                        4. gr. Tekjur Útflutningsráðs eru:
    1. Markaðsgjald, 0,05%, sem lagt er á gjaldstofn til greiðslu tryggingagjalds
-       eins og hann er skilgreindur í [4]III. kafla laga nr. 113/1990, um
+       eins og hann er skilgreindur í [5]III. kafla laga nr. 113/1990, um
 tryggingagjald. Um álagningu og innheimtu markaðsgjalds fer eftir ákvæðum þeirra
     laga. Markaðsgjald má draga frá tekjum þess rekstrarárs þegar stofn þess
                                    myndaðist.
@@ -81,9 +73,10 @@ standi að mestu leyti undir kostnaði við þau störf sem unnin eru samkvæmt 
         6. gr. Utanríkisráðherra er heimilt, að fenginni umsögn stjórnar
 Útflutningsráðs, að kveða nánar á í reglugerð um starfsemi Útflutningsráðs og um
               verkaskiptingu milli þess og utanríkisráðuneytisins.
-7. gr. Verði ekki annað ákveðið með lögum fellur markaðsgjald skv. 1. tölul. 1.
-mgr. 4. gr. laga þessara niður frá og með 1. janúar 2008, þó þannig að álagning
-          gjaldsins fari fram árið 2008 vegna gjaldstofns ársins 2007.
+7. gr. [Verði ekki annað ákveðið með lögum fellur markaðsgjald skv. 1. tölul. 1.
+  mgr. 4. gr. niður frá og með 1. janúar 2013, þó þannig að álagning gjaldsins
+             fari fram árið 2013 vegna gjaldstofns ársins 2012.]^1)
+                               ^1)L. 64/2007, 2. gr.
 
                             III. kafli. Gildistaka.
                  8. gr. Lög þessi öðlast gildi 1. janúar 2003.
@@ -94,4 +87,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002160
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=429
    3. http://www.althingi.is/altext/128/s/0556.html
-   4. file://1990113.html
+   4. file://2007075.html
+   5. file://1990113.html

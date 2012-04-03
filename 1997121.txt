@@ -10,8 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Tóku gildi 1. janúar 1998. Breytt með [4]l. 70/2000 (tóku gildi 26. maí 2000) og
-   [5]l. 180/2000 (tóku gildi 11. jan. 2001; EES-samningurinn: XV. viðauki).
+Tóku gildi 1. janúar 1998. Breytt með l. 70/2000 (tóku gildi 26. maí 2000) og l.
+      180/2000 (tóku gildi 11. jan. 2001; EES-samningurinn: XV. viðauki).
 
    1. gr. Ríkissjóður má aldrei takast á hendur ábyrgðarskuldbindingar, nema
          heimild sé veitt til þess í lögum. Ríkissjóður má ekki ganga í
@@ -21,7 +21,7 @@ heimila. Um veitingu ríkisábyrgða fer að öðru leyti eftir ákvæðum laga 
     Endurlán verða þó ekki veitt aðilum utan B- og C-hluta ríkissjóðs, nema
            sérstaklega sé kveðið á um það í lögum sem ábyrgð heimila.
   2. gr. Í frumvarpi sem fjármálaráðherra leggur fram um veitingu ríkisábyrgða
-  skal liggja fyrir umsögn Ríkisábyrgðasjóðs samkvæmt [6]lögum nr. 43/1990, um
+  skal liggja fyrir umsögn Ríkisábyrgðasjóðs samkvæmt [4]lögum nr. 43/1990, um
                    Lánasýslu ríkisins, á eftirtöldum þáttum:
                           1. Mat á greiðsluhæfi skuldara.
                  2. Mat á afskriftaþörf vegna áhættu af ábyrgðum.
@@ -76,7 +76,7 @@ af þeim skuldbindingum sínum sem ríkisábyrgð er á. Almennar viðskiptaskul
      [Ábyrgðargjald skv. 1. mgr. nemur 0,0625% á ársfjórðungi af höfuðstól
 gjaldskyldra skuldbindinga eins og hann er að meðaltali á hverju gjaldtímabili,
                   sbr. 8. gr. Gjaldið rennur í ríkissjóð.]^1)
-                             ^1)[7]L. 180/2000, 1. gr.
+                              ^1)L. 180/2000, 1. gr.
  7. gr. [Lán sem áhættugjald skv. 4. gr. hefur verið greitt af, skuldbindingar
   vegna innstæðna á innlánsreikningum í innlánsstofnunum, skuldbindingar vegna
    útflutningsábyrgða með ríkisábyrgð, Seðlabanki Íslands, Íbúðalánasjóður og
@@ -86,7 +86,7 @@ gjaldskyldra skuldbindinga eins og hann er að meðaltali á hverju gjaldtímabi
    ríkissjóðs, skal reikna í sama hlutfalli og eignaraðild ríkissjóðs nemur.
      Eignaraðild ríkissjóðs í félögum og fyrirtækjum þar sem ábyrgð eigenda
   takmarkast við framlag þeirra, t.d. í hlutafélögum, veldur ekki gjaldskyldu.
-                             ^1)[8]L. 70/2000, 1. gr.
+                               ^1)L. 70/2000, 1. gr.
 8. gr. Ríkisábyrgðasjóður annast útreikning, álagningu og innheimtu áhættugjalds
        skv. 4. gr. og ábyrgðargjalds skv. 6. gr. Ábyrgðarþegi skal veita
    Ríkisábyrgðasjóði allar þær upplýsingar sem hann telur nauðsynlegar í því
@@ -99,11 +99,11 @@ gjaldskyldra skuldbindinga eins og hann er að meðaltali á hverju gjaldtímabi
     Ábyrgðargjaldi skv. 6. og 7. gr. skal skila, ásamt skýrslu skv. 2. mgr.,
 ársfjórðungslega eftir á. Gjalddagi vegna hvers ársfjórðungs er 15. dagur næsta
  mánaðar eftir að gjaldtímabili lýkur. Sé ábyrgðargjald ekki greitt á gjalddaga
- skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er skv. [9]10. gr.
+ skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er skv. [5]10. gr.
                     laga nr. 25/1987, með síðari breytingum.
  9. gr. Fjármálaráðherra skal með reglugerð^1) setja nánari ákvæði um framkvæmd
                                  laga þessara.
-                      ^1)[10]Rg. 237/1998, sbr. [11]557/2001.
+                          ^1)Rg. 237/1998, sbr. 557/2001.
                  10. gr. Lög þessi öðlast gildi 1. janúar 1998.
  Ákvæði til bráðabirgða. Eftir gildistöku laga þessara skal fara fram athugun á
    fjárhagsstöðu Ríkisábyrgðasjóðs með það að markmiði að leiða í ljós áhættu
@@ -117,11 +117,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997121
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=99
    3. http://www.althingi.is/altext/122/s/0099.html
-   4. file:///altext/stjt/2000.070.html
-   5. file:///altext/stjt/2000.180.html
-   6. file://1990043.html
-   7. file:///altext/stjt/2000.180.html
-   8. file:///altext/stjt/2000.070.html
-   9. file://1987025.html
-  10. file://ekkitil/ekkitil.html?REGL/1998237
-  11. file://ekkitil/ekkitil.html?REGL/2001557
+   4. file://1990043.html
+   5. file://1987025.html

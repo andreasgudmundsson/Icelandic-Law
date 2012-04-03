@@ -8,8 +8,9 @@
 
    --------------------------------------------------------------------------
 
-Upphaflega [2]l. 41/1975. Tóku gildi 11. júní 1975. Endurútgefin, sbr. [3]6. gr.
-                         l. 48/1990, sem [4]l. 95/1990.
+ Upphaflega l. 41/1975. Tóku gildi 11. júní 1975. Endurútgefin, sbr. 6. gr. l.
+48/1990, sem [2]l. 95/1990. Breytt með [3]l. 41/2007 (tóku gildi 1. sept. 2007).
+
  1. gr. Rétt til að kalla sig félagsráðgjafa hefur sá einn, sem til þess hefur
                            leyfi heilbrigðisráðherra.
      2. gr. Leyfi skv. 1. gr. skal veita umsækjanda sem lokið hefur prófi í
@@ -32,7 +33,7 @@ leyfi til að kalla sig félagsráðgjafa og stunda félagsráðgjöf hér á la
 íslenskra félagsráðgjafa og félagsvísindadeildar Háskóla Íslands, nánari ákvæði
   um skilyrði fyrir veitingu leyfis til að kalla sig sérfræðing í einhverri af
                           sérgreinum félagsráðgjafar.
-                                ^1)[5]Rg. 555/1999.
+                                 ^1)Rg. 555/1999.
 5. gr. Óheimilt er að ráða til félagsráðgjafastarfa aðra en þá, sem starfsleyfi
     hafa skv. 2. gr., með þeim undantekningum, sem leiðir af ákvæðum 3. gr.
     6. gr. Félagsráðgjafa er skylt að gæta þagmælsku um atriði, sem hann fær
@@ -41,10 +42,12 @@ vitneskju um í starfi sínu og leynt skulu fara samkvæmt lögum eða eðli má
    7. gr. Félagsráðgjafa ber að þekkja skyldur sínar samkvæmt lögum, viðhalda
         þekkingu sinni og tileinka sér nýjungar er varða félagsráðgjöf.
        Félagsráðgjafar bera ábyrgð á þeirri félagsráðgjöf sem þeir veita.
-  8. gr. Um félagsráðgjafa gilda að öðru leyti og eftir því sem við getur átt
-                       reglur [6]læknalaga, nr. 53/1988.
- Reglur læknalaga gilda m.a. um viðurlög við brotum í starfi félagsráðgjafa, um
-         sviptingu löggildingar þeirra og endurveitingu starfsréttinda.
+   8. gr. [Um eftirlit með félagsráðgjöfum, veitingu áminningar og sviptingu
+starfsleyfa eða takmörkun starfsréttinda sem veitt eru samkvæmt lögum þessum og
+         endurveitingu slíkra réttinda gilda ákvæði laga um landlækni.
+      Ákvæði læknalaga gilda að öðru leyti eftir því sem við getur átt um
+            félagsráðgjafa og um refsingar fyrir brot í starfi.]^1)
+                             ^1)[4]L. 41/2007, 24. gr.
   9. gr. Með mál út af brotum gegn lögum þessum skal farið að hætti opinberra
                                      mála.
 10. gr. Ráðherra getur sett nánari ákvæði í reglugerð um framkvæmd laga þessara.
@@ -53,8 +56,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1990095
-   2. file:///altext/stjtnr.html#1975041
-   3. file:///altext/stjt/1990.048.html
-   4. file://1990095.html
-   5. file://ekkitil/ekkitil.html?REGL/1999555
-   6. file://1988053.html
+   2. file://1990095.html
+   3. file://2007041.html
+   4. file://2007041.html#g24

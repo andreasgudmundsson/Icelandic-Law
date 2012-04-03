@@ -10,9 +10,10 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 4. maí 1984. Breytt með [4]l. 23/1991 (tóku gildi 17. apríl 1991),
-[5]l. 116/1993 (tóku gildi 1. jan. 1994; EES-samningurinn: VII. viðauki), [6]l.
- 76/2002 (tóku gildi 17. maí 2002) og [7]l. 11/2004 (tóku gildi 15. júní 2004).
+ Tóku gildi 4. maí 1984. Breytt með l. 23/1991 (tóku gildi 17. apríl 1991), l.
+ 116/1993 (tóku gildi 1. jan. 1994; EES-samningurinn: VII. viðauki), l. 76/2002
+   (tóku gildi 17. maí 2002), l. 11/2004 (tóku gildi 15. júní 2004) og [4]l.
+                      41/2007 (tóku gildi 1. sept. 2007).
 
 1. gr. Rétt til þess að kalla sig sjóntækjafræðing og starfa sem slíkur hefur sá
              einn sem til þess hefur leyfi heilbrigðismálaráðherra.
@@ -21,12 +22,12 @@
 viðurkenndir eru sem slíkir af heilbrigðisstjórn þess lands sem námið er stundað
  í.]^1) Leita skal umsagnar prófessorsins í augnlækningum við Háskóla Íslands,
       félags sjóntækjafræðinga og landlæknis áður en leyfið er veitt.]^2)
-                ^1)[8]L. 76/2002, 12. gr. ^2)[9]L. 116/1993, 8. gr.
+                   ^1)L. 76/2002, 12. gr. ^2)L. 116/1993, 8. gr.
   3. gr. [Nú uppfyllir maður skilyrði 2. gr. að öðru leyti en að því er varðar
    ríkisfang í öðru aðildarríki EES-samningsins eða í Sviss og er þá ráðherra
  heimilt að veita honum ótakmarkað eða tímabundið leyfi að fenginni umsögn sömu
                          aðila og um getur í 2. gr.]^1)
-                            ^1)[10]L. 76/2002, 13. gr.
+                              ^1)L. 76/2002, 13. gr.
    4. gr. Ráðherra getur veitt íslenskum ríkisborgurum, sem eru í starfi við
  gildistöku laganna og hafa starfað í 5 ár samfellt, ótakmarkað starfsleyfi að
                 fenginni umsögn sömu aðila og um getur í 2. gr.
@@ -37,18 +38,20 @@ viðurkenndir eru sem slíkir af heilbrigðisstjórn þess lands sem námið er 
                                 sjónhjálpartæki.
 Ráðherra getur í reglugerð^1) takmarkað heimildir sjóntækjafræðinga til að mæla
                      sjón hjá nánar tilgreindum hópum.]^2)
-        ^1)[11]Rg. 1043/2004, sbr. [12]626/2005. ^2)[13]L. 11/2004, 1. gr.
+              ^1)Rg. 1043/2004, sbr. 626/2005. ^2)L. 11/2004, 1. gr.
  6. gr. Óheimilt er að ráða til hvers konar sjóntækjafræðistarfa aðra en þá sem
                     hafa starfsleyfi samkvæmt lögum þessum.
 7. gr. Sjóntækjafræðingi ber að þekkja skyldur sínar, viðhalda þekkingu sinni og
                     tileinka sér nýjungar er varða starfið.
   8. gr. Sjóntækjafræðingi er skylt að halda dagbók um þá er leita til hans og
                aðrar skýrslur í samræmi við fyrirmæli landlæknis.
-   9. gr. Um sjóntækjafræðinga gilda að öðru leyti reglur [14]læknalaga, nr.
- 80/1969.^1) Reglur læknalaga gilda um viðurlög við brotum í starfi, sviptingu
-                 starfsleyfis og endurveitingu starfsréttinda.
+  9. gr. [Um eftirlit með sjóntækjafræðingum, veitingu áminningar og sviptingu
+starfsleyfa eða takmörkun starfsréttinda sem veitt eru samkvæmt lögum þessum og
+         endurveitingu slíkra réttinda gilda ákvæði laga um landlækni.
+      Ákvæði læknalaga gilda að öðru leyti eftir því sem við getur átt um
+           sjóntækjafræðinga og um refsingar fyrir brot í starfi.]^1)
    Með mál út af brotum gegn lögum þessum skal farið að hætti opinberra mála.
-                               ^1)Nú [15]l. 53/1988.
+                             ^1)[5]L. 41/2007, 24. gr.
 10. gr. Ráðherra getur sett nánari ákvæði í reglugerð um framkvæmd laga þessara.
                      11. gr. Lög þessi öðlast þegar gildi.
 
@@ -58,15 +61,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1984017
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=106&mnr=63
    3. http://www.althingi.is/altext/106/s/pdf/0068.pdf
-   4. file:///altext/stjt/1991.023.html
-   5. file:///altext/stjt/1993.116.html
-   6. file:///altext/stjt/2002.076.html
-   7. file:///altext/stjt/2004.011.html
-   8. file:///altext/stjt/2002.076.html
-   9. file:///altext/stjt/1993.116.html
-  10. file:///altext/stjt/2002.076.html
-  11. file://ekkitil/ekkitil.html?REGL/20041043
-  12. file://ekkitil/ekkitil.html?REGL/2005626
-  13. file:///altext/stjt/2004.011.html
-  14. file:///altext/stjtnr.html#1969080
-  15. file://1988053.html
+   4. file://2007041.html
+   5. file://2007041.html#g24

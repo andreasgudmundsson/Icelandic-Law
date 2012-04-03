@@ -11,7 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
 Tóku gildi 30. maí 1994. EES-samningurinn: XIX. viðauki tilskipun 84/450/EBE og
-        90/314/EBE. Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005).
+90/314/EBE. Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005), l. 34/2007 (tóku
+         gildi 30. mars 2007) og l. 167/2007 (tóku gildi 1. jan. 2008).
 
                      I. kafli. Gildissvið og orðskýringar.
      1. gr. Lög þessi gilda um samninga, sem gerðir eru á milli farkaupa og
@@ -149,12 +150,23 @@ Sé um að ræða verulegar vanefndir farkaupa á skyldum hans samkvæmt lögum 
   standa straum af viðbótarkostnaði sem leiðir af útilokun hans frá ferðinni.
 
                           VI. kafli. Gildistaka o.fl.
-   16. gr. Samgönguráðherra er heimilt að setja nánari reglur^1) um framkvæmd
+16. gr. [Viðskiptaráðherra]^1) er heimilt að setja nánari reglur^2) um framkvæmd
  þessara laga, m.a. um efni upplýsingabæklings til farkaupa, afpöntunarskilmála
    og aðrar upplýsingar um alferðir og atriði sem taka þarf fram í samningi.
-                                ^1)[5]Rg. 156/1995.
+                     ^1)L. 167/2007, 14. gr. ^2)Rg. 156/1995.
   17. gr. Eftirlit með framkvæmd laga þessara er í höndum [Neytendastofu].^1)
-                             ^1)[6]L. 62/2005, 13. gr.
+ [Ákvæði laga um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðarins
+                 gilda um úrræði Neytendastofu og málsmeðferð.
+ Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til
+     áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um
+                      Neytendastofu og talsmann neytenda.
+   Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður
+                  áfrýjunarnefndar neytendamála liggur fyrir.
+Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til
+ ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili
+    fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki
+         gildistöku úrskurðar nefndarinnar né heimild til aðfarar.]^2)
+                  ^1)[5]L. 62/2005, 13. gr. ^2)L. 34/2007, 1. gr.
    18. gr. Brot gegn lögum þessum varða sektum nema þyngri refsing liggi við
                              samkvæmt öðrum lögum.
 19. gr. Lög þessi öðlast þegar gildi. Lög þessi gilda ekki um alferðir sem samið
@@ -167,5 +179,4 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=117&mnr=293
    3. http://www.althingi.is/altext/117/s/0391.html
    4. file://2005062.html
-   5. file://ekkitil/ekkitil.html?REGL/1995156
-   6. file://2005062.html#g13
+   5. file://2005062.html#g13

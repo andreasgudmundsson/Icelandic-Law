@@ -11,7 +11,7 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
  Tóku gildi 7. apríl 2003. EES-samningurinn: XX. viðauki tilskipun 75/442/EBE,
-1999/31/EB, 2000/53/EB og 2000/76/EB. Breytt með [4]l. 150/2004 (tóku gildi 30.
+  1999/31/EB, 2000/53/EB og 2000/76/EB. Breytt með l. 150/2004 (tóku gildi 30.
                                   des. 2004).
 
                 I. kafli. Markmið, gildissvið og skilgreiningar.
@@ -272,8 +272,8 @@ eða endurnýtingu úrgangsins og flutningskostnaði, þ.m.t. kostnaði við að
      k. eftirlit með útflutningi, umflutningi og innflutningi úrgangs, þ.m.t.
                             tryggingu skv. 12. gr.,
                     l. önnur atriði sem samræmast lögum þessum.
-       ^1)[5]Rg. 737/2003 (um meðhöndlun úrgangs). [6]Rg. 738/2003 (um urðun
-                úrgangs). [7]Rg. 739/2003 (um brennslu úrgangs).
+   ^1)Rg. 737/2003 (um meðhöndlun úrgangs). Rg. 738/2003 (um urðun úrgangs). Rg.
+                        739/2003 (um brennslu úrgangs).
 
                      III. kafli. Sérákvæði um urðunarstaði.
                 14. gr. Umsókn um starfsleyfi fyrir urðunarstað.
@@ -379,7 +379,7 @@ brennslustöðin fullnægi kröfum um losunarmörk, ella skal starfsemi stöðva
    samkvæmt lögum þessum í umboði stofnunarinnar. Umhverfisstofnun er einnig
 heimilt að fela tiltekna þætti heilbrigðiseftirlitsins faggiltum skoðunaraðilum.
       Skal í slíkum tilvikum gerður sérstakur samningur við hinn faggilta
-    skoðunaraðila, sbr. [8]30. gr. laga um fjárreiður ríkisins, nr. 88/1997.
+    skoðunaraðila, sbr. [4]30. gr. laga um fjárreiður ríkisins, nr. 88/1997.
  Starfsmönnum Umhverfisstofnunar og öðrum eftirlitsaðilum samkvæmt lögum þessum
    skal heimill aðgangur til skoðunar og eftirlits, þar á meðal töku sýna og
 myndatöku, að öllum þeim stöðum sem lög þessi, reglugerðir og samþykktir settar
@@ -406,7 +406,7 @@ B-deild Stjórnartíðinda. Gjöld má innheimta með fjárnámi. Gjöld skulu t
    lögveðsrétti í viðkomandi fasteign tvö ár eftir gjalddaga þegar leyfi eða
 þjónusta er tengd notkun fasteignar. Umhverfisráðherra skal gefa út leiðbeinandi
                 reglur um uppbyggingu gjaldskráa sveitarfélaga.
-                             ^1)[9]L. 150/2004, 3. gr.
+                              ^1)L. 150/2004, 3. gr.
                             22. gr. Þvingunarúrræði.
 Umhverfisstofnun og heilbrigðisnefnd þar sem hún fer með eftirlit er heimilt að
                      beita úrræðum samkvæmt grein þessari.
@@ -490,9 +490,4 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003055
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=338
    3. http://www.althingi.is/altext/128/s/0368.html
-   4. file:///altext/stjt/2004.150.html
-   5. file://ekkitil/ekkitil.html?REGL/2003737
-   6. file://ekkitil/ekkitil.html?REGL/2003738
-   7. file://ekkitil/ekkitil.html?REGL/2003739
-   8. file://1997088.html#g30
-   9. file:///altext/stjt/2004.150.html
+   4. file://1997088.html#g30

@@ -11,8 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
  Tóku gildi 16. apríl 2002. EES-samningurinn: XI. viðauki tilskipun 2000/31/EB.
-Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005) og [5]l. 108/2006 (tóku gildi
-                       1. nóv. 2006 skv. augl. C 1/2006).
+ Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005), l. 108/2006 (tóku gildi 1.
+    nóv. 2006 skv. augl. C 1/2006) og l. 34/2007 (tóku gildi 30. mars 2007).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -42,7 +42,7 @@ Færeyjum til að veita þjónustu hér á landi að því er varðar lagalegar 
                     stofnun og starfrækslu þjónustunnar.]^1)
 Þjónustuveitandi telst hafa staðfestu í tilteknu ríki ef hann stundar þar virka
                atvinnustarfsemi ótímabundið í fastri starfsstöð.
-                            ^1)[6]L. 108/2006, 90. gr.
+                              ^1)L. 108/2006, 90. gr.
                  4. gr. Almennar undantekningar frá meginreglu.
                    Ákvæði 3. gr. gilda ekki um eftirfarandi:
          1. rétt aðila til að semja um hvaða lög gildi um samninga þeirra,
@@ -84,7 +84,7 @@ til þess aðildarríkis þar sem þjónustuveitandi hefur staðfestu. Í tilkyn
     aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu og í Færeyjum og um
  tilkynningar íslenskra stjórnvalda til þarlendra stjórnvalda eftir því sem við
                                      á.]^1)
-                            ^1)[7]L. 108/2006, 91. gr.
+                              ^1)L. 108/2006, 91. gr.
 
                          III. kafli. Upplýsingaskylda.
                           6. gr. Almennar upplýsingar.
@@ -260,7 +260,16 @@ Sama gildir gagnvart þeim sem krafist hefur að aðgangur verði veittur að g�
  laga þessara. Ef brotið er gegn ákvæðum þessum gilda ákvæði [laga um eftirlit
       með óréttmætum viðskiptaháttum og gagnsæi markaðarins]^1) um úrræði
              [Neytendastofu],^1) stjórnvaldssektir og málsmeðferð.
-                             ^1)[8]L. 62/2005, 13. gr.
+[Ákvörðunum sem Neytendastofa tekur á grundvelli laga þessara verður skotið til
+     áfrýjunarnefndar neytendamála sem starfar á grundvelli 4. gr. laga um
+                      Neytendastofu og talsmann neytenda.
+   Ákvörðun Neytendastofu verður ekki borin undir dómstóla fyrr en úrskurður
+                  áfrýjunarnefndar neytendamála liggur fyrir.
+Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað mál til
+ ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili
+    fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki
+         gildistöku úrskurðar nefndarinnar né heimild til aðfarar.]^2)
+                  ^1)[5]L. 62/2005, 13. gr. ^2)L. 34/2007, 6. gr.
                               20. gr. Tengiliður.
 Viðskiptaráðuneytið skal vera tengiliður vegna samstarfs við önnur aðildarríki á
  Evrópska efnahagssvæðinu um rafræn viðskipti. Þá skal viðskiptaráðuneytið vera
@@ -295,7 +304,4 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=489
    3. http://www.althingi.is/altext/127/s/0774.html
    4. file://2005062.html
-   5. file:///altext/stjt/2006.108.html
-   6. file:///altext/stjt/2006.108.html
-   7. file:///altext/stjt/2006.108.html
-   8. file://2005062.html#g13
+   5. file://2005062.html#g13

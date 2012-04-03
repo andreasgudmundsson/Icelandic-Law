@@ -10,7 +10,9 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-  Tóku gildi 1. júlí 1997. Breytt með [4]l. 77/2000 (tóku gildi 1. jan. 2001).
+  Tóku gildi 1. júlí 1997. Breytt með [4]l. 77/2000 (tóku gildi 1. jan. 2001),
+ [5]l. 40/2007 (tóku gildi 1. sept. 2007) og [6]l. 41/2007 (tóku gildi 1. sept.
+                                     2007).
 
                               I. kafli. Inngangur.
                                     Markmið.
@@ -23,9 +25,9 @@ gagnvart heilbrigðisþjónustunni og styðja trúnaðarsambandið sem ríkja be
                                      leyti.
                                 Skilgreiningar.
                 2. gr. Sjúklingur: Notandi heilbrigðisþjónustu.
-   Heilbrigðisstarfsmaður: Einstaklingur sem starfar í heilbrigðisþjónustu og
-   hlotið hefur löggildingu heilbrigðis- og tryggingamálaráðherra til slíkra
-                                    starfa.
+ [Heilbrigðisstarfsmaður: Einstaklingur sem starfar við heilbrigðisþjónustu og
+hefur hlotið leyfi heilbrigðis- og tryggingamálaráðherra til að nota starfsheiti
+                       löggiltrar heilbrigðisstéttar.]^1)
        Meðferð: Rannsókn, aðgerð eða önnur þjónusta sem læknir eða annar
 heilbrigðisstarfsmaður veitir til að greina, lækna, endurhæfa, hjúkra eða annast
                                    sjúkling.
@@ -33,6 +35,7 @@ heilbrigðisstarfsmaður veitir til að greina, lækna, endurhæfa, hjúkra eða
 kleift að bæta heilsu og lækna sjúkdóma. Mat vísindasiðanefndar eða siðanefndar
     skv. 29. gr. á rannsókninni verður að hafa leitt í ljós að vísindaleg og
              siðfræðileg sjónarmið mæli ekki gegn framkvæmd hennar.
+                             ^1)[7]L. 41/2007, 24. gr.
                            Gæði heilbrigðisþjónustu.
  3. gr. Sjúklingur á rétt á fullkomnustu heilbrigðisþjónustu sem á hverjum tíma
                                er völ á að veita.
@@ -155,7 +158,7 @@ sjúklings eða umboðsmanns vegna meðferðar. Heimilt er að taka gjald fyrir 
 sjúkraskrárinnar. Synjun landlæknis má skjóta til úrskurðar heilbrigðisráðherra.
   Ráðherra setur nánari reglur^1) um afhendingu og varðveislu sjúkraskráa, að
                fengum tillögum landlæknis og Læknafélags Íslands.
-                       ^1)[5]Rg. 227/1991, sbr. [6]545/1995.
+                          ^1)Rg. 227/1991, sbr. 545/1995.
 15. gr. Þess skal gætt við aðgang að sjúkraskrám að þær hafa að geyma viðkvæmar
    persónuupplýsingar og að upplýsingar í þeim eru trúnaðarmál, sbr. 12. gr.
      Sjúkraskrár skulu geymdar á tryggum stað og þess gætt að einungis þeir
@@ -167,7 +170,7 @@ persónuupplýsinga að veita aðgang að upplýsingum úr sjúkraskrám, þar m
           leyfi þeim skilyrðum sem metin eru nauðsynleg hverju sinni.
  Í hvert sinn sem sjúkraskrá er skoðuð vegna vísindarannsóknar skal það skráð í
                        hana og ákvæða 1. og 2. mgr. gætt.
-                             ^1)[7]L. 77/2000, 46. gr.
+                             ^1)[8]L. 77/2000, 46. gr.
                    Athugasemdir við upplýsingar í sjúkraskrá.
 16. gr. Nú telur sjúklingur eða umboðsmaður hans að upplýsingar í sjúkraskrá séu
        rangar eða villandi og skulu þá athugasemdir hans lagðar í skrána.
@@ -190,10 +193,11 @@ Skylt er að gera sjúklingi grein fyrir því ef unnt er að fá þá meðferð
   fyrst og fremst byggt á læknisfræðilegum sjónarmiðum og eftir atvikum öðrum
                               faglegum forsendum.
                          Val á heilbrigðisstarfsmanni.
-  20. gr. Þrátt fyrir skiptingu landsins í heilsugæsluumdæmi samkvæmt lögum um
-   heilbrigðisþjónustu á sjúklingur rétt á að leita til þess læknis sem honum
+ 20. gr. Þrátt fyrir skiptingu landsins í [heilbrigðisumdæmi]^1) samkvæmt lögum
+ um heilbrigðisþjónustu á sjúklingur rétt á að leita til þess læknis sem honum
   hentar best. Þá á hann rétt á að fá álit annars læknis á greiningu, meðferð,
        ástandi og batahorfum. Sama gildir um aðra heilbrigðisstarfsmenn.
+                             ^1)[9]L. 40/2007, 39. gr.
                         Ábyrgð sjúklings á eigin heilsu.
 21. gr. Sjúklingur ber ábyrgð á heilsu sinni eftir því sem það er á hans færi og
 ástand hans leyfir. Honum ber eftir atvikum að vera virkur þátttakandi í meðferð
@@ -260,15 +264,18 @@ Sjúk börn á skólaskyldualdri skulu fá kennslu sem hæfir aldri þeirra og �
                    Athugasemdir og kvartanir vegna meðferðar.
  28. gr. Athugasemdum sjúklings vegna þjónustu á heilbrigðisstofnun skal beint
                      til yfirstjórnar viðkomandi stofnunar.
-    Vilji sjúklingur kvarta yfir meðferð getur hann beint kvörtun sinni til
-     landlæknis eða nefndar um ágreiningsmál skv. 5. mgr. [8]3. gr. laga um
-                       heilbrigðisþjónustu, nr. 97/1990.
+       [Vilji sjúklingur kvarta yfir meðferð getur hann beint kvörtun til
+                                landlæknis.]^1)
 Starfsmönnum heilbrigðisstofnunar er skylt að leiðbeina sjúklingi eða vandamanni
 sem vill koma á framfæri athugasemd eða bera fram kvörtun. Enn fremur er stjórn
   heilbrigðisstofnunar skylt að taka til athugunar ábendingar starfsmanna sem
                      telja að réttur sjúklinga sé brotinn.
 Sjúklingur skal fá skrifleg svör við athugasemdum sínum og kvörtunum eins fljótt
                                   og auðið er.
+      ^1)[10]L. 41/2007, 24. gr. Málsgreininni var einnig breytt með b-lið 4.
+ tölul. [11]39. gr. l. 40/2007 sem öðluðust gildi samtímis [12]l. 41/2007. Þar
+ hljóðar málsgreinin svo: Vilji sjúklingur kvarta yfir meðferð getur hann beint
+      kvörtun sinni til landlæknis í samræmi við ákvæði laga um landlækni.
 
                       VIII. kafli. Gildistökuákvæði o.fl.
                     Heimild ráðherra til að setja reglugerð.
@@ -276,7 +283,7 @@ Sjúklingur skal fá skrifleg svör við athugasemdum sínum og kvörtunum eins 
 heilbrigðissviði. Þar skulu m.a. vera ákvæði um vísindasiðanefnd og siðanefndir
 skv. 4. mgr. 2. gr. Þá er ráðherra heimilt að setja reglugerð um framkvæmd laga
                                     þessara.
-                                ^1)[9]Rg. 552/1999.
+                                 ^1)Rg. 552/1999.
                                   Gildistaka.
                   30. gr. Lög þessi öðlast gildi 1. júlí 1997.
 
@@ -287,8 +294,11 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=260
    3. http://www.althingi.is/altext/121/s/0492.html
    4. file://2000077.html
-   5. file://ekkitil/ekkitil.html?REGL/1991227
-   6. file://ekkitil/ekkitil.html?REGL/1995545
-   7. file://2000077.html#g46
-   8. file://1990097.html#g3
-   9. file://ekkitil/ekkitil.html?REGL/1999552
+   5. file://2007040.html
+   6. file://2007041.html
+   7. file://2007041.html#g24
+   8. file://2000077.html#g46
+   9. file://2007040.html#g39
+  10. file://2007041.html#g24
+  11. file://2007040.html#g39
+  12. file://2007041.html

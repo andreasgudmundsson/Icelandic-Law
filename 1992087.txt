@@ -11,8 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
      Tóku gildi 23. nóvember 1992. EES-samningurinn: XII. viðauki tilskipun
-88/361/EBE. Breytt með [4]l. 82/1998 (tóku gildi 1. okt. 1998) og [5]l. 128/1999
-  (tóku gildi 1. febr. 2000; EES-samningurinn: IX. viðauki tilskipun 97/5/EB).
+88/361/EBE. Breytt með l. 82/1998 (tóku gildi 1. okt. 1998) og l. 128/1999 (tóku
+     gildi 1. febr. 2000; EES-samningurinn: IX. viðauki tilskipun 97/5/EB).
 
       1. gr. Í lögum þessum hafa eftirfarandi orð merkingu sem hér segir:
                               Innlendur aðili merkir:
@@ -153,7 +153,7 @@ upplýsingakerfi og hæfisskilyrði starfsfólks. Í þeim skal enn fremur kveð
 afturköllun heimilda til gjaldeyrisviðskipta að því er varðar þá aðila sem ekki
   hafa heimild til slíkra viðskipta í lögum eða samkvæmt ákvæðum í alþjóðlegum
                        samningum sem Ísland er aðili að.
-           ^1)[6]Rgl. 387/2002, [7]rgl. 913/2002, sbr. [8]rgl. 68/2004.
+                ^1)Rgl. 387/2002, rgl. 913/2002, sbr. rgl. 68/2004.
 9. gr. Ákveða má í reglugerð að viðskipti innlendra aðila við erlenda aðila með
   verðbréf skuli fara fram fyrir milligöngu þeirra aðila sem hafa heimild til
 verðbréfamiðlunar hér á landi samkvæmt lögum eða ákvæðum í alþjóðlegum samningum
@@ -178,7 +178,7 @@ yfirfærslunnar. Með viðskiptamönnum er hins vegar ekki átt við aðila sem 
 lánastofnun, vátryggingafélag, fyrirtæki í verðbréfaþjónustu eða verðbréfasjóð.
  Heimilt er að veita upplýsingar þær sem tilgreindar eru í 1. mgr. með rafrænum
                                    hætti.]^1)
-                             ^1)[9]L. 128/1999, 1. gr.
+                              ^1)L. 128/1999, 1. gr.
   [11. gr. Nú óskar viðskiptamaður eftir því að aðili sem annast yfirfærslu á
  milli viðskiptareikninga á milli landa skuldbindi sig til að ljúka tiltekinni
   yfirfærslu innan ákveðinna tímamarka gegn ákveðnu gjaldi og skal aðilinn þá
@@ -192,7 +192,7 @@ nema viðskiptamaður sem bað um yfirfærsluna hafi tilgreint að móttakandi h
   Evrópska efnahagssvæðisins og að hámarki 4.000.000 kr. eða jafngildi þeirrar
    fjárhæðar í gjaldmiðlum ríkja Evrópska efnahagssvæðisins. Fjárhæð þessi er
     bundin við gengi evru (EUR) miðað við kaupgengi hennar 1. júlí 1999.]^1)
-                            ^1)[10]L. 128/1999, 2. gr.
+                              ^1)L. 128/1999, 2. gr.
   [12. gr. Hafi ekki verið samið um annað á milli viðskiptamanns og aðila sem
   annast yfirfærslu á milli viðskiptareikninga á milli landa skal henni lokið
  fyrir lok fimmta almenns viðskiptadags (bankadags) talið frá deginum eftir að
@@ -218,7 +218,7 @@ viðskiptamanni vexti nema óviðráðanleg ytri atvik hafi komið í veg fyrir 
 Nánar skal kveðið á um framkvæmd þessarar greinar í reglugerð,^1) þar á meðal um
     skuldbindingar sem hvíla á milliliðum er eiga þátt í yfirfærslu á milli
     viðskiptareikninga á milli aðildarríkja Evrópska efnahagssvæðisins.]^2)
-                  ^1)[11]Rg. 56/2000. ^2)[12]L. 128/1999, 2. gr.
+                      ^1)Rg. 56/2000. ^2)L. 128/1999, 2. gr.
     [13. gr. Í reglugerð skal kveðið á um þau kæru- og bótaúrræði sem standa
    viðskiptamanni til boða komi til ágreinings milli hans og aðila sem annast
  yfirfærslu á milli viðskiptareikninga á milli landa eða móttöku yfirfærslna í
@@ -226,7 +226,7 @@ samræmi við ákvæði 11. og 12. gr. Skuldbindingar sem lagðar eru á þá se
  yfirfærslu á milli viðskiptareikninga á milli landa eða móttöku yfirfærslna í
 samræmi við ákvæði 11. og 12. gr. eiga eftir atvikum einnig við þá aðila sem eru
                       milliliðir í slíkum viðskiptum.]^1)
-                            ^1)[13]L. 128/1999, 2. gr.
+                              ^1)L. 128/1999, 2. gr.
      [14. gr.]^1) Skylt er að veita Seðlabankanum allar þær upplýsingar um
      gjaldeyrisviðskipti sem hann kann að óska eftir til að hann geti sinnt
 nauðsynlegu eftirliti og hagskýrslugerð, sbr. ákvæði laga um Seðlabanka Íslands.
@@ -234,26 +234,26 @@ Bankanum er heimilt að setja nánari reglur um framkvæmd gjaldeyrisviðskipta,
    sem um skráningar- og tilkynningarskyldu vegna reikninga innlendra aðila í
  erlendum innlánsstofnunum, framlagningu gagna, almenna upplýsingagjöf og gerð
                                    eyðublaða.
-                            ^1)[14]L. 128/1999, 2. gr.
+                              ^1)L. 128/1999, 2. gr.
 [15. gr.]^1) Þeir sem annast framkvæmd þessara laga eru bundnir þagnarskyldu um
 hagi einstakra viðskiptamanna og önnur atriði sem þeir fá vitneskju um í starfi
  sínu og leynt skulu fara samkvæmt lögum eða eðli málsins, nema dómari úrskurði
  að upplýsingar sé skylt að veita fyrir dómi eða lögreglu eða skylda sé til að
  veita upplýsingar lögum samkvæmt. Þagnarskyldan helst þótt látið sé af starfi.
-                            ^1)[15]L. 128/1999, 2. gr.
+                              ^1)L. 128/1999, 2. gr.
 [16. gr.]^1) Fyrir brot á lögum þessum skal refsa með sektum eða [fangelsi allt
 að 2 árum]^2) liggi ekki þyngri refsing við broti samkvæmt öðrum lögum. Sé brot
 framið í þágu lögaðila er heimilt að beita stjórnendur lögaðilans framangreindum
      viðurlögum og einnig er heimilt að gera lögaðilanum sekt eða sviptingu
   starfsréttinda. Tilraun og hlutdeild í brotum á lögum þessum eru refsiverðar
             eftir því sem segir í III. kafla almennra hegningarlaga.
-              ^1)[16]L. 128/1999, 2. gr. ^2)[17]L. 82/1998, 203. gr.
+                  ^1)L. 128/1999, 2. gr. ^2)L. 82/1998, 203. gr.
    [17. gr.]^1) [Viðskiptaráðherra fer með framkvæmd laga þessara. Hann setur
                      reglugerð^2) um framkvæmd þeirra.]^3)
-    ^1)[18]L. 128/1999, 2. gr. ^2)[19]Rg. 679/1994 (um gjaldeyrismál), [20]rg.
-              13/1995, [21]rg. 56/2000. ^3)[22]L. 128/1999, 3. gr.
+    ^1)L. 128/1999, 2. gr. ^2)Rg. 679/1994 (um gjaldeyrismál), rg. 13/1995, rg.
+                        56/2000. ^3)L. 128/1999, 3. gr.
                    [18. gr.]^1) Lög þessi öðlast þegar gildi.
-                            ^1)[23]L. 128/1999, 2. gr.
+                              ^1)L. 128/1999, 2. gr.
                             Ákvæði til bráðabirgða.
 
 References
@@ -262,23 +262,3 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1992087
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=116&mnr=5
    3. http://www.althingi.is/altext/116/s/0005.html
-   4. file:///altext/stjt/1998.082.html
-   5. file:///altext/stjt/1999.128.html
-   6. file:///altext/stjtnr.html#2002387
-   7. file:///altext/stjtnr.html#2002913
-   8. file://ekkitil/ekkitil.html?REGL/2004068
-   9. file:///altext/stjt/1999.128.html
-  10. file:///altext/stjt/1999.128.html
-  11. file://ekkitil/ekkitil.html?REGL/2000056
-  12. file:///altext/stjt/1999.128.html
-  13. file:///altext/stjt/1999.128.html
-  14. file:///altext/stjt/1999.128.html
-  15. file:///altext/stjt/1999.128.html
-  16. file:///altext/stjt/1999.128.html
-  17. file:///altext/stjt/1998.082.html
-  18. file:///altext/stjt/1999.128.html
-  19. file://ekkitil/ekkitil.html?REGL/1994679
-  20. file://ekkitil/ekkitil.html?REGL/1995013
-  21. file://ekkitil/ekkitil.html?REGL/2000056
-  22. file:///altext/stjt/1999.128.html
-  23. file:///altext/stjt/1999.128.html

@@ -11,12 +11,12 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
   Tóku gildi 1. janúar 2001. EES-samningurinn: XI. viðauki tilskipun 95/46/EB,
-  XIX. viðauki tilskipun 97/7/EB og XI. viðauki tilskipun 97/66/EB. Breytt með
-[4]l. 90/2001 (tóku gildi 15. júní 2001; EES-samningurinn: XI. viðauki tilskipun
-95/46/EB), [5]l. 30/2002 (tóku gildi 16. apríl 2002), [6]l. 81/2002 (tóku gildi
- 17. maí 2002; EES-samningurinn: XI. viðauki tilskipun 95/46/EB), [7]l. 46/2003
- (tóku gildi 7. apríl 2003) [8]l. 72/2003 (tóku gildi 10. apríl 2003) og [9]l.
-                       50/2006 (tóku gildi 1. júlí 2006).
+XIX. viðauki tilskipun 97/7/EB og XI. viðauki tilskipun 97/66/EB. Breytt með l.
+   90/2001 (tóku gildi 15. júní 2001; EES-samningurinn: XI. viðauki tilskipun
+95/46/EB), [4]l. 30/2002 (tóku gildi 16. apríl 2002), l. 81/2002 (tóku gildi 17.
+ maí 2002; EES-samningurinn: XI. viðauki tilskipun 95/46/EB), l. 46/2003 (tóku
+gildi 7. apríl 2003) l. 72/2003 (tóku gildi 10. apríl 2003) og l. 50/2006 (tóku
+                              gildi 1. júlí 2006).
 
                 I. kafli. Markmið, skilgreiningar og gildissvið.
                                 1. gr. Markmið.
@@ -63,7 +63,7 @@ eða annars samsvarandi búnaðar, án þess að fram fari söfnun myndefnis eð
                        e. Upplýsingar um stéttarfélagsaðild.
    9. Sértæk ákvörðun: Ákvörðun sem afmarkar rétt og/eða skyldur eins eða fleiri
                            tilgreindra einstaklinga.
-                             ^1)[10]L. 46/2003, 1. gr.
+                               ^1)L. 46/2003, 1. gr.
                           3. gr. Efnislegt gildissvið.
  Lögin gilda um sérhverja rafræna vinnslu persónuupplýsinga. Lögin gilda einnig
 um handvirka vinnslu persónuupplýsinga sem eru eða eiga að verða hluti af skrá.
@@ -82,7 +82,7 @@ tilgangi. Rafræn vöktun svæðis þar sem takmarkaður hópur fólks fer um a�
  Um sjónvarpsvöktun fer, auk ákvæðis 1. mgr., samkvæmt ákvæðum 7., 24., 40. og
     41. gr. laganna, svo og eftir því sem við á ákvæðum 31., 32. og 38. gr.
                                   laganna.]^1)
-                             ^1)[11]L. 46/2003, 2. gr.
+                               ^1)L. 46/2003, 2. gr.
                        5. gr. Tengsl við tjáningarfrelsi.
     Að því marki sem það er nauðsynlegt til að samræma sjónarmið um rétt til
    einkalífs annars vegar og tjáningarfrelsis hins vegar má víkja frá ákvæðum
@@ -106,8 +106,8 @@ lögaðila, sbr. 45. gr. laganna, enda þótt ábyrgðaraðili hafi ekki staðfe
   Þegar svo hagar til sem greinir í 2. og 3. mgr. skal ábyrgðaraðili tilnefna
     fulltrúa sinn sem hefur staðfestu hér á landi og gilda þá ákvæði laganna
         varðandi ábyrgðaraðila um þann fulltrúa eftir því sem við á.]^3)
-    ^1)[12]L. 72/2003, 5. gr. ^2)[13]Augl. 638/2005, sbr. [14]augl. 1041/2006.
-                           ^3)[15]L. 90/2001, 1. gr.
+   ^1)L. 72/2003, 5. gr. ^2)Augl. 638/2005, sbr. augl. 1041/2006. ^3)L. 90/2001,
+                                     1. gr.
 
             II. kafli. Almennar reglur um vinnslu persónuupplýsinga.
                7. gr. [Meginreglur um gæði gagna og vinnslu.]^1)
@@ -127,7 +127,7 @@ sagnfræðilegum, tölfræðilegum eða vísindalegum tilgangi telst ekki ósamr
              aðila lengur en þörf krefur miðað við tilgang vinnslu.
   [Ábyrgðaraðili ber ábyrgð á því að vinnsla persónuupplýsinga uppfylli ávallt
                                ákvæði 1. mgr.]^1)
-                             ^1)[16]L. 90/2001, 2. gr.
+                               ^1)L. 90/2001, 2. gr.
    8. gr. [Almennar reglur um heimildir fyrir vinnslu persónuupplýsinga.]^1)
 Vinnsla persónuupplýsinga er því aðeins heimil að einhverjir eftirfarandi þátta
                                 séu fyrir hendi:
@@ -152,7 +152,7 @@ Vinnsla persónuupplýsinga er því aðeins heimil að einhverjir eftirfarandi 
 ótvírætt að þörfin fyrir vinnsluna vegi þyngra en tillitið til þess að hún fari
   ekki fram. Getur Persónuvernd bundið slík leyfi þeim skilyrðum sem hún metur
         nauðsynleg hverju sinni til að tryggja hagsmuni hins skráða.]^1)
-                ^1)[17]L. 90/2001, 3. gr. ^2)[18]L. 46/2003, 3. gr.
+                    ^1)L. 90/2001, 3. gr. ^2)L. 46/2003, 3. gr.
     9. gr. [Sérstök skilyrði fyrir vinnslu viðkvæmra persónuupplýsinga.]^1)
  [Vinnsla viðkvæmra persónuupplýsinga er óheimil nema uppfyllt sé eitthvert af
 skilyrðum 1. mgr. 8. gr. og enn fremur eitthvert af eftirfarandi skilyrðum:]^1)
@@ -199,7 +199,7 @@ velja má og nálgast fólk til þátttöku í vísindarannsóknum og hvaða fr�
                    veita því áður en samþykkis þess er óskað.
   Persónuvernd leysir úr ágreiningi um hvort persónuupplýsingar skuli teljast
                               viðkvæmar eða ekki.
-                ^1)[19]L. 90/2001, 4. gr. ^2)[20]L. 81/2002, 1. gr.
+                    ^1)L. 90/2001, 4. gr. ^2)L. 81/2002, 1. gr.
                            10. gr. Notkun kennitölu.
  Notkun kennitölu er heimil eigi hún sér málefnalegan tilgang og sé nauðsynleg
      til að tryggja örugga persónugreiningu. Persónuvernd getur bannað eða
@@ -221,7 +221,7 @@ um hvernig tryggja skuli öryggi upplýsinga, þ.m.t. þá staðla sem hún ákv
     Ábyrgðaraðili skal skrá með hvaða hætti hann mótar öryggisstefnu, gerir
    áhættumat og ákveður öryggisráðstafanir. Skal Persónuvernd hafa aðgang að
           upplýsingum um framangreind atriði hvenær sem hún óskar.]^2)
-                  ^1)[21]Rgl. 299/2001. ^2)[22]L. 90/2001, 5. gr.
+                      ^1)Rgl. 299/2001. ^2)L. 90/2001, 5. gr.
                             12. gr. Innra eftirlit.
 [Ábyrgðaraðili skal viðhafa innra eftirlit með vinnslu persónuupplýsinga til að
    ganga úr skugga um að unnið sé í samræmi við gildandi lög og reglur og þær
@@ -238,7 +238,7 @@ eftirlitsins. Skýrslur um innra eftirlit skal varðveita tryggilega. Persónuve
   Persónuvernd getur sett frekari fyrirmæli^1) um framkvæmd innra eftirlits og
 veitt undanþágu frá því að slíkt innra eftirlit skuli viðhaft eða takmarkað til
                   hvaða þátta í vinnslunni það skuli taka.]^2)
-                  ^1)[23]Rgl. 299/2001. ^2)[24]L. 90/2001, 6. gr.
+                      ^1)Rgl. 299/2001. ^2)L. 90/2001, 6. gr.
       13. gr. [Trúnaðarskylda vinnsluaðila við meðferð persónuupplýsinga.
 Ábyrgðaraðila er heimilt að semja við tiltekinn aðila um að annast, í heild eða
  að hluta, þá vinnslu persónuupplýsinga sem hann ber ábyrgð á samkvæmt ákvæðum
@@ -267,8 +267,8 @@ en vinnsluaðili ekki fari vinnslan fram í landi eða á stöðum sem upp eru t
 stofnsamnings Fríverslunarsamtaka Evrópu en ábyrgðaraðili, sbr. 1. mgr. 6. gr.,
        og þegar ábyrgðaraðili hefur staðfestu í aðildarríki stofnsamnings
               Fríverslunarsamtaka Evrópu en vinnsluaðili ekki.]^3)
-    ^1)[25]Augl. 638/2005, sbr. [26]augl. 1041/2006. ^2)[27]L. 90/2001, 7. gr.
-                           ^3)[28]L. 72/2003, 6. gr.
+   ^1)Augl. 638/2005, sbr. augl. 1041/2006. ^2)L. 90/2001, 7. gr. ^3)L. 72/2003,
+                                     6. gr.
                    14. gr. Frestur til að fullnægja skyldum.
 Ábyrgðaraðili skal afgreiða erindi samkvæmt ákvæðum 16., 18., 22., 25., 26., 27.
    og 28. gr. svo fljótt sem verða má og eigi síðar en innan eins mánaðar frá
@@ -358,7 +358,7 @@ lykta mál sem er til meðferðar má fresta veitingu upplýsinganna þar til lo
     leiðréttingar og eyðingar rangra eða villandi persónuupplýsinga um hann.
 Ákvæði 1. mgr. gilda ekki hafi hinn skráði þegar fengið vitneskju um þau atriði
                     sem fram koma í 1.3. tölul. 1. mgr.]^1)
-                             ^1)[29]L. 81/2002, 2. gr.
+                               ^1)L. 81/2002, 2. gr.
 21. gr. [Skylda til að láta hinn skráða vita um vinnslu persónuupplýsinga þegar
                   þeirra er aflað hjá öðrum en honum sjálfum.
 Þegar ábyrgðaraðili aflar persónuupplýsinga frá öðrum en hinum skráða skal hann
@@ -389,7 +389,7 @@ samtímis láta hinn skráða vita af því og greina honum frá þeim atriðum 
    4. hagsmunir hins skráða af því að fá vitneskju um upplýsingarnar þykja eiga
 að víkja fyrir veigamiklum almannahagsmunum eða einkahagsmunum, þ.m.t. hagsmunum
                                 hans sjálfs.]^1)
-                             ^1)[30]L. 81/2002, 3. gr.
+                               ^1)L. 81/2002, 3. gr.
       22. gr. Rökstuðningur sértækra ákvarðana sem byggjast á sjálfvirkri
                                upplýsingavinnslu.
  Ef fyrir liggur sértæk ákvörðun sem að öllu leyti er byggð á rafrænni vinnslu
@@ -488,8 +488,8 @@ Viðtakandi markpósts á rétt á að fá vitneskju um hvaðan þær upplýsing
   skoðanakannanir. Persónuvernd er heimilt að undanþiggja vísindarannsóknir og
  hliðstæðar rannsóknir slíkum takmörkunum, enda þyki ljóst að slíkt geti skert
              til muna áreiðanleika niðurstöðu rannsóknarinnar.]^4)
-    ^1)[31]L. 50/2006, 23. gr. ^2)[32]Rgl. 36/2005. ^3)[33]L. 30/2002, 23. gr.
-                           ^4)[34]L. 90/2001, 8. gr.
+      ^1)L. 50/2006, 23. gr. ^2)Rgl. 36/2005. ^3)[5]L. 30/2002, 23. gr. ^4)L.
+                                90/2001, 8. gr.
 
                 V. kafli. Flutningur persónuupplýsinga úr landi.
      29. gr. Flutningur persónuupplýsinga til ríkis sem veitir fullnægjandi
@@ -507,7 +507,7 @@ persónuupplýsinga, reglna um góða viðskiptahætti og þeirra öryggisráðs
 viðhafðar eru hjá viðtakanda. Þá skal taka mið af því hvort viðkomandi ríki hafi
       fullgilt samning Evrópuráðsins nr. 108 frá 28. janúar 1981, um vernd
             einstaklinga varðandi vélræna vinnslu persónuupplýsinga.
-    ^1)[35]Augl. 638/2005, sbr. [36]augl. 1041/2006. ^2)[37]L. 90/2001, 9. gr.
+          ^1)Augl. 638/2005, sbr. augl. 1041/2006. ^2)L. 90/2001, 9. gr.
   30. gr. Flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi
                             persónuupplýsingavernd.
 Óheimill er flutningur persónuupplýsinga til ríkis sem ekki veitir fullnægjandi
@@ -538,7 +538,7 @@ við ákvörðun sem Persónuvernd hefur auglýst í Stjórnartíðindum, að te
  til ákvarðana framkvæmdastjórnar Evrópubandalagsins, sbr. 2. mgr. 29. gr. laga
   þessara. Að öðru leyti getur Persónuvernd sett nánari fyrirmæli um flutning
                         persónuupplýsinga úr landi.]^1)
-                            ^1)[38]L. 90/2001, 10. gr.
+                              ^1)L. 90/2001, 10. gr.
 
                VI. kafli. Tilkynningarskylda, leyfisskylda o.fl.
                           31. gr. Tilkynningarskylda.
@@ -556,7 +556,7 @@ tilkynningarskyldu getur Persónuvernd sett fyrirmæli, þar á meðal um þau a
     sem talin eru í 2. mgr. 35. gr. Persónuvernd getur einnig mælt fyrir um
 ráðstafanir til að draga úr óhagræði sem slík vinnsla persónuupplýsinga kann að
                      hafa í för með sér fyrir hinn skráða.
-        ^1)[39]Rgl. 698/2004, sbr. [40]rgl. 836/2006 og [41]rgl. 1042/2006.
+              ^1)Rgl. 698/2004, sbr. rgl. 836/2006 og rgl. 1042/2006.
                            32. gr. Efni tilkynninga.
    Í tilkynningu til Persónuverndar skv. 31. gr. skal tilgreina eftirfarandi
                                     atriði:
@@ -582,8 +582,7 @@ ráðstafanir til að draga úr óhagræði sem slík vinnsla persónuupplýsing
 upplýsingum nema henni hafi áður verið tilkynnt um breytta vinnslu. Persónuvernd
 getur mælt fyrir um ráðstafanir til að tryggja gæði og áreiðanleika tilkynninga
      og ákveðið mismunandi tilkynningarfrest eftir tegund og eðli vinnslu.
-     ^1)[42]L. 81/2002, 4. gr. ^2)[43]Rgl. 698/2004, sbr. [44]rgl. 836/2006 og
-                              [45]rgl. 1042/2006.
+   ^1)L. 81/2002, 4. gr. ^2)Rgl. 698/2004, sbr. rgl. 836/2006 og rgl. 1042/2006.
                           33. gr. Leyfisskyld vinnsla.
 Sé um að ræða vinnslu almennra eða viðkvæmra persónuupplýsinga sem getur falið í
 sér sérstaka hættu á að farið verði í bága við réttindi og frelsi skráðra aðila
@@ -591,8 +590,8 @@ sér sérstaka hættu á að farið verði í bága við réttindi og frelsi skr
    verið athuguð af stofnuninni og samþykkt með útgáfu sérstakrar heimildar.
 Persónuvernd getur ákveðið^2) að slík leyfisskylda falli brott þegar settar hafa
   verið almennar reglur og öryggisstaðlar sem fylgja skuli við slíka vinnslu.
-        ^1)[46]Rgl. 698/2004, sbr. [47]rgl. 836/2006 og [48]rgl. 1042/2006.
-                 ^2)[49]Rgl. 170/2001, sbr. [50]rgl. 157/2003.
+     ^1)Rgl. 698/2004, sbr. rgl. 836/2006 og rgl. 1042/2006. ^2)Rgl. 170/2001,
+                              sbr. rgl. 157/2003.
                     34. gr. Forsendur leyfisveitingar o.fl.
 Ábyrgðaraðila má aðeins veita leyfi skv. 33. gr., eða einstakar aðrar heimildir
     samkvæmt lögum þessum, ef líklegt er að hann geti fullnægt skyldum sínum
@@ -698,8 +697,8 @@ til að skoða myndir sem teknar hafa verið af honum. Persónuvernd setur jafnf
    rafrænnar vöktunar, ákveður varðveisluaðferð og varðveislutíma og heimilar
    afhendingu þess í öðrum tilvikum en þeim sem mælt er fyrir um í 2. mgr. 9.
                                     gr.]^5)
-     ^1)[51]L. 90/2001, 11. gr. ^2)[52]Rgl. 340/2003. ^3)[53]Augl. 1001/2001.
-                ^4)[54]Rgl. 837/2006. ^5)[55]L. 81/2002, 5. gr.
+       ^1)L. 90/2001, 11. gr. ^2)Rgl. 340/2003. ^3)Augl. 1001/2001. ^4)Rgl.
+                        837/2006. ^5)L. 81/2002, 5. gr.
               38. gr. Aðgangur Persónuverndar að upplýsingum o.fl.
 Persónuvernd getur krafið ábyrgðaraðila, vinnsluaðila og þá sem starfa á þeirra
       vegum um allar þær upplýsingar og skriflegar skýringar sem henni eru
@@ -794,7 +793,7 @@ um eftirlit Persónuverndar með rafrænni vinnslu persónuupplýsinga hjá lög
 Þá skal í reglugerð kveða nánar á um starfsemi þeirra sem nota nafnalista, vinna
 nafnáritanir, þar á meðal við markaðssetningarstarfsemi, og við gerð markaðs- og
                                 skoðanakannana.
-           ^1)[56]Rg. 246/2001. ^2)[57]Rg. 322/2001, sbr. [58]926/2004.
+                 ^1)Rg. 246/2001. ^2)Rg. 322/2001, sbr. 926/2004.
                               46. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 2001.
  Ákvæði til bráðabirgða. Þegar er lög þessi hafa verið birt skal ráðherra skipa
@@ -803,7 +802,7 @@ stjórn og auglýsa embætti forstjóra Persónuverndar laust til umsóknar. Eft
    annast undirbúning að gildistöku laganna og sinna stjórnsýslu skv. 2. mgr.
 Þrátt fyrir 1. mgr. 46. gr. skal Persónuvernd þegar er stjórn hennar hefur verið
        skipuð taka að sér eftirlit með því að meðferð persónuupplýsinga í
- Schengen-upplýsingakerfinu á Íslandi sé í samræmi við [59]lög nr. 16/2000, um
+  Schengen-upplýsingakerfinu á Íslandi sé í samræmi við [6]lög nr. 16/2000, um
                       Schengen-upplýsingakerfið á Íslandi.
  Sérhver ábyrgðaraðili sem beitir rafrænni tækni við vinnslu persónuupplýsinga
  við gildistöku laganna skal á þar til gerðu eyðublaði tilkynna Persónuvernd um
@@ -818,59 +817,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000077
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=280
    3. http://www.althingi.is/altext/125/s/0399.html
-   4. file:///altext/stjt/2001.090.html
-   5. file://2002030.html
-   6. file:///altext/stjt/2002.081.html
-   7. file:///altext/stjt/2003.046.html
-   8. file:///altext/stjt/2003.072.html
-   9. file:///altext/stjt/2006.050.html
-  10. file:///altext/stjt/2003.046.html
-  11. file:///altext/stjt/2003.046.html
-  12. file:///altext/stjt/2003.072.html
-  13. file://ekkitil/ekkitil.html?AUGL/2005638
-  14. file://ekkitil/ekkitil.html?AUGL/20061041
-  15. file:///altext/stjt/2001.090.html
-  16. file:///altext/stjt/2001.090.html
-  17. file:///altext/stjt/2001.090.html
-  18. file:///altext/stjt/2003.046.html
-  19. file:///altext/stjt/2001.090.html
-  20. file:///altext/stjt/2002.081.html
-  21. file://ekkitil/ekkitil.html?REGL/2001299
-  22. file:///altext/stjt/2001.090.html
-  23. file://ekkitil/ekkitil.html?REGL/2001299
-  24. file:///altext/stjt/2001.090.html
-  25. file://ekkitil/ekkitil.html?AUGL/2005638
-  26. file://ekkitil/ekkitil.html?AUGL/20061041
-  27. file:///altext/stjt/2001.090.html
-  28. file:///altext/stjt/2003.072.html
-  29. file:///altext/stjt/2002.081.html
-  30. file:///altext/stjt/2002.081.html
-  31. file:///altext/stjt/2006.050.html
-  32. file://ekkitil/ekkitil.html?REGL/2005036
-  33. file://2002030.html#g23
-  34. file:///altext/stjt/2001.090.html
-  35. file://ekkitil/ekkitil.html?AUGL/2005638
-  36. file://ekkitil/ekkitil.html?AUGL/20061041
-  37. file:///altext/stjt/2001.090.html
-  38. file:///altext/stjt/2001.090.html
-  39. file://ekkitil/ekkitil.html?REGL/2004698
-  40. file://ekkitil/ekkitil.html?REGL/2006836
-  41. file://ekkitil/ekkitil.html?REGL/20061042
-  42. file:///altext/stjt/2002.081.html
-  43. file://ekkitil/ekkitil.html?REGL/2004698
-  44. file://ekkitil/ekkitil.html?REGL/2006836
-  45. file://ekkitil/ekkitil.html?REGL/20061042
-  46. file://ekkitil/ekkitil.html?REGL/2004698
-  47. file://ekkitil/ekkitil.html?REGL/2006836
-  48. file://ekkitil/ekkitil.html?REGL/20061042
-  49. file://ekkitil/ekkitil.html?REGL/2001170
-  50. file://ekkitil/ekkitil.html?REGL/2003157
-  51. file:///altext/stjt/2001.090.html
-  52. file://ekkitil/ekkitil.html?REGL/2003340
-  53. file://ekkitil/ekkitil.html?AUGL/20011001
-  54. file://ekkitil/ekkitil.html?REGL/2006837
-  55. file:///altext/stjt/2002.081.html
-  56. file://ekkitil/ekkitil.html?REGL/2001246
-  57. file://ekkitil/ekkitil.html?REGL/2001322
-  58. file://ekkitil/ekkitil.html?REGL/2004926
-  59. file://2000016.html
+   4. file://2002030.html
+   5. file://2002030.html#g23
+   6. file://2000016.html

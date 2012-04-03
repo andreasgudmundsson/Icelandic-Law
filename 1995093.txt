@@ -10,10 +10,10 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Tóku gildi 30. júní 1995. Breytt með [4]l. 169/2000 (tóku gildi 29. des. 2000),
-  [5]l. 164/2002 (tóku gildi 1. jan. 2003), [6]l. 17/2003 (tóku gildi 1. júlí
-2003), [7]l. 76/2005 (tóku gildi 1. jan. 2006) og [8]l. 68/2006 (tóku gildi 30.
-                                  júní 2006).
+Tóku gildi 30. júní 1995. Breytt með l. 169/2000 (tóku gildi 29. des. 2000), l.
+164/2002 (tóku gildi 1. jan. 2003), [4]l. 17/2003 (tóku gildi 1. júlí 2003), l.
+ 76/2005 (tóku gildi 1. jan. 2006), [5]l. 68/2006 (tóku gildi 30. júní 2006) og
+                     l. 167/2007 (tóku gildi 1. jan. 2008).
 
                        I. kafli. Tilgangur og gildissvið.
    1. gr. Tilgangur laganna er að tryggja, svo sem kostur er, gæði, öryggi og
@@ -73,35 +73,23 @@ heilsuspillandi vegna neyslu þeirra, en einnig eru tilteknar örverur notaðar 
  reglum. Markmiðið er að sannreyna hæfni, kunnáttu og áreiðanleika viðkomandi.
 
                          III. kafli. Stjórn og skipan.
- 5. gr. Umhverfisráðherra, í lögum þessum nefndur ráðherra, fer með yfirstjórn
-   mála samkvæmt lögum þessum, að svo miklu leyti sem hún er ekki falin öðrum
-          ráðherrum. [Umhverfisstofnun]^1) er ráðherra til ráðgjafar.
-                            ^1)[9]L. 164/2002, 19. gr.
-   6. gr. Landbúnaðarráðherra fer með yfirstjórn mála er varða eftirlitsstörf
-    dýralækna. Eftirfarandi svið falla undir yfirstjórn landbúnaðarráðherra:
-                  a. innflutningur og útflutningur búfjárafurða,
-                             b. smitsjúkdómar búfjár,
-                    c. meðferð, skoðun og mat á sláturafurðum,
-                         d. heilbrigðisskoðun eldisfisks.
-     [Landbúnaðarstofnun]^1) er ráðgjafi landbúnaðarráðherra um þessi mál.
-                            ^1)[10]L. 76/2005, 49. gr.
-7. gr. Sjávarútvegsráðherra fer með yfirstjórn mála er varða meðferð, flutning,
-        geymslu og vinnslu sjávarafurða vegna útflutnings. Fiskistofa er
-                sjávarútvegsráðherra til ráðgjafar um þessi mál.
- 8. gr. Samstarfsráð skal vinna að samræmingu reglna og fyrirmæla um matvæli og
-matvælaeftirlit og fjalla um framkvæmd matvælaeftirlits, sbr. IX. kafla laganna.
-    Ráðið skipa einn fulltrúi tilnefndur af [Umhverfisstofnun],^1) annar af
-Fiskistofu og sá þriðji tilnefndur af [Landbúnaðarstofnun]^2) og skulu varamenn
-      tilnefndir af sömu aðilum. Ráðið skiptir með sér verkum og setur sér
-   starfsreglur sem skulu staðfestar af ráðherra sem fer með yfirstjórn mála
-                             samkvæmt lögum þessum.
- Ráðið gerir tillögu um úrlausn ágreiningsmála sem varða framkvæmd laga þessara
-    og reglugerða settra samkvæmt þeim. Jafnframt skal ráðið fá til umsagnar
-        tillögur að lögum og reglugerðum um matvæli og matvælaeftirlit.
-  Samstarfsráð gerir árlega skýrslu um störf sín á liðnu starfsári og skal hún
-kynnt ráðherrum, opinberum eftirlitsaðilum og samtökum hagsmunaaðila sem starfa
-                     við framleiðslu og dreifingu matvæla.
-              ^1)[11]L. 164/2002, 19. gr. ^2)[12]L. 76/2005, 49. gr.
+ 5. gr. [Sjávarútvegs- og landbúnaðarráðherra, í lögum þessum nefndur ráðherra,
+ fer með yfirstjórn mála samkvæmt lögum þessum. Matvælastofnun er ráðherra til
+                                 ráðgjafar.]^1)
+                              ^1)L. 167/2007, 34. gr.
+   6. gr. [Matvælastofnun annast opinbert eftirlit samkvæmt lögum þessum með:
+           a. frumframleiðslu, innflutningi og útflutningi búfjárafurða,
+                             b. smitsjúkdómum búfjár,
+                    c. meðferð, skoðun og mati á sláturafurðum,
+                         d. heilbrigðisskoðun eldisfisks,
+       e. meðferð, flutningi, geymslu, vinnslu og dreifingu sjávarafurða, að
+                             undanskilinni smásölu,
+            f. innflutningi annarra matvæla en getið er í ae-lið.]^1)
+                              ^1)L. 167/2007, 35. gr.
+                                   7. gr. ^1)
+                              ^1)L. 167/2007, 36. gr.
+                                   8. gr. ^1)
+                              ^1)L. 167/2007, 37. gr.
 
                       IV. kafli. Framleiðsla og dreifing.
  9. gr. Þeir sem framleiða matvæli eða dreifa þeim skulu tilkynna um starfsemi
@@ -110,23 +98,23 @@ sína til fyrirtækjaskrár ^1) og hafa starfsleyfi frá viðkomandi eftirlitsa�
  Ráðherra er heimilt með reglugerð að setja ákvæði um tilkynningarskyldu þeirra
  sem framleiða eða flytja inn umbúðir fyrir matvæli og efni eða efnablöndur sem
                   nota á við framleiðslu og dreifingu matvæla.
-                            ^1)[13]L. 17/2003, 12. gr.
+                             ^1)[6]L. 17/2003, 12. gr.
 10. gr. Þeir sem framleiða matvæli eða dreifa þeim skulu haga starfsemi sinni í
 samræmi við almenna hollustuhætti og tryggja að matvæli valdi ekki heilsutjóni.
 Jafnframt skal þess gætt að matvælin óhreinkist ekki eða spillist á annan hátt.
   Starfsfólk, sem starfar við framleiðslu matvæla eða dreifir þeim, skal gæta
 ýtrasta hreinlætis og þrifnaðar við störf sín. Það skal hafa þekkingu á meðferð
 matvæla. Matvælaframleiðendur og dreifendur bera ábyrgð á að fræðsla fari fram.
-  [Hlutaðeigandi ráðherra er heimilt að setja reglur um að þeir sem starfa við
-framleiðslu og dreifingu matvæla skuli sækja námskeið um meðferð matvæla þar sem
-        sérstök áhersla er lögð á innra eftirlit og öryggi matvæla.]^1)
+[[Ráðherra]^1) er heimilt að setja reglur um að þeir sem starfa við framleiðslu
+  og dreifingu matvæla skuli sækja námskeið um meðferð matvæla þar sem sérstök
+            áhersla er lögð á innra eftirlit og öryggi matvæla.]^2)
 Þeim sem haldnir eru sjúkdómum, sem hætta er á að geti dreifst með matvælum, er
 óheimilt að starfa við meðferð matvæla. Eftirlitsaðilar, sbr. IX. kafla laganna,
  geta að höfðu samráði við landlækni gert kröfu um reglubundna heilsufarsskoðun
    starfsfólks. [Eftirlitsaðilar skulu einnig með öðrum hætti vinna að því að
   fyrirbyggja að matvæli geti valdið heilsutjóni og skulu grípa til viðeigandi
-         ráðstafana ef vart verður við matarsjúkdóma eða smithættu.]^1)
-                            ^1)[14]L. 169/2000, 1. gr.
+         ráðstafana ef vart verður við matarsjúkdóma eða smithættu.]^2)
+                  ^1)L. 167/2007, 38. gr. ^2)L. 169/2000, 1. gr.
  11. gr. Óheimilt er að hafa matvæli á boðstólum eða dreifa þeim þannig að þau
   blekki kaupanda að því er varðar uppruna, tegund, gæðaflokkun, samsetningu,
                              magn, eðli eða áhrif.
@@ -163,10 +151,9 @@ upplýsingum um innihald, geymsluskilyrði, geymsluþol og nettóþyngd eða lag
  efna, næringarefnagildi, ástand vöru og þá meðhöndlun sem vara hefur fengið í
       framleiðslu. Enn fremur er ráðherra heimilt að undanþiggja tilteknar
        vörutegundir eða vöruflokka einstökum ákvæðum um umbúðamerkingar.
-      ^1)[15]Rg. 588/1993 (um merkingu, auglýsingu og kynningu matvæla), sbr.
-      [16]142/1995, [17]726/1997, [18]54/2000, [19]439/2000, [20]863/2000,
-   [21]352/2003, [22]503/2005 og [23]787/2006. [24]Rg. 503/2005 (um merkingu
-                          matvæla), sbr. [25]553/2006.
+   ^1)Rg. 588/1993 (um merkingu, auglýsingu og kynningu matvæla), sbr. 142/1995,
+   726/1997, 54/2000, 439/2000, 863/2000, 352/2003, 503/2005 og 787/2006. Rg.
+                 503/2005 (um merkingu matvæla), sbr. 553/2006.
 
                      VI. kafli. Sérreglur um efnainnihald.
      16. gr. Ráðherra er heimilt með reglugerð^1) að setja ákvæði um heiti,
@@ -176,59 +163,60 @@ upplýsingum um innihald, geymsluskilyrði, geymsluþol og nettóþyngd eða lag
  heimilt að nota sama heiti á aðrar vörur eða veita einhverjar þær upplýsingar
 sem gætu orðið til þess að neytendur villtust á vörunni og öðrum vörum sem hafa
                       annan uppruna eða aðra samsetningu.
-    ^1)[26]Rg. 735/1997 (um ungbarnablöndur og stoðblöndur), sbr. [27]465/2000,
-   [28]198/2002 og [29]388/2004. [30]Rg. 674/1998 (um megrunarfæði). [31]Rg.
- 542/2000 (um kaffi o.fl.), sbr. [32]667/2002. [33]Rg. 605/2000 (um matvæli til
-                  nota í sérstökum læknisfræðilegum tilgangi).
+   ^1)Rg. 735/1997 (um ungbarnablöndur og stoðblöndur), sbr. 465/2000, 198/2002
+og 388/2004. Rg. 674/1998 (um megrunarfæði). Rg. 542/2000 (um kaffi o.fl.), sbr.
+    667/2002. Rg. 605/2000 (um matvæli til nota í sérstökum læknisfræðilegum
+                                   tilgangi).
     17. gr. Ráðherra skal með reglugerðum^1) setja ákvæði um notkun aukefna,
  bragðefna, varnarefna og bætiefna við framleiðslu matvæla og um leyfilegt magn
                             aðskotaefna í matvælum.
 Óheimilt er að nota vaxtaraukandi efni til framleiðslu á matvælum, nema til þess
                 hafi verið veitt sérstök undanþága í reglugerð.
-        ^1)[34]Rg. 587/1993 (um bragðefni í matvælum), sbr. [35]305/2001 og
-[36]848/2003. [37]Rg. 289/1994 (um leysiefni til notkunar í matvælaiðnaði), sbr.
-[38]562/1995 og [39]493/1998. [40]Rg. 526/2006 (um íblöndun bætiefna í matvæli).
+     ^1)Rg. 587/1993 (um bragðefni í matvælum), sbr. 305/2001 og 848/2003. Rg.
+289/1994 (um leysiefni til notkunar í matvælaiðnaði), sbr. 562/1995 og 493/1998.
+         Rg. 526/2006 (um íblöndun bætiefna í matvæli), sbr. 855/2007.
 
                    VII. kafli. Framkvæmd og fræðslustarfsemi.
-18. gr. Til þess að tryggja framkvæmd laga þessara setur hlutaðeigandi ráðherra
-  reglugerð^1) um atriði sem lög þessi ná til. Þar skal m.a. kveðið nánar á um
+     18. gr. Til þess að tryggja framkvæmd laga þessara setur [ráðherra]^1)
+  reglugerð^2) um atriði sem lög þessi ná til. Þar skal m.a. kveðið nánar á um
  framleiðslu og dreifingu matvæla, efnainnihald, viðmiðunarmörk fyrir örverur,
                  umbúðir, matvælaeftirlit og matvælarannsóknir.
-    ^1)Rg. 121/2004 (um varnarefnaleifar í matvælum), sbr. 385/2004, 922/2004,
- 505/2005, 998/2005, 434/2006, 436/2006, 437/2006, 438/2006, 552/2006, 908/2006
- og 918/2006. Rg. 405/2004 (um náttúrulegt ölkelduvatn og átappað lindarvatn),
-sbr. 1097/2004. Rg. 411/2004 (um ýmis aðskotaefni í matvælum), sbr. 56/2005. Rg.
-  425/2004 (um gildistöku tiltekinnar gerðar Evrópusambandsins um fyrirkomulag
-vöktunar á hámarksgildum varnarefnaleifa í tilteknum matvælum). Rg. 624/2004 (um
-fæðubótarefni), sbr. 684/2005. Rg. 921/2004 (um efni og hluti úr sellulósafilmu
-   sem er ætlað að snerta matvæli). Rg. 331/2005 (um kjöt og kjötvörur). Rg.
-  439/2005 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í
- matvælum). Rg. 508/2005 (um gildistöku tiltekinnar gerðar Evrópusambandsins um
-    aðskotaefni í matvælum). Rg. 681/2005 (um gildistöku tiltekinnar gerðar
-  Evrópusambandsins um merkingu matvæla og innihaldsefna matvæla með viðbættum
- jurtasterólum, jurtasterólestrum, jurtastanólum og/eða jurtastanólestrum). Rg.
-    439/2006 (um leirhluti sem er ætlað að snerta matvæli). Rg. 526/2006 (um
-   íblöndun bætiefna í matvæli). Rg. 555/2006 (um gildistöku tiltekinna gerða
-                 Evrópusambandsins um aðskotaefni í matvælum).
-19. gr. [Umhverfisstofnun],^1) [Landbúnaðarstofnun]^2) og Fiskistofa skulu, hver
- á sínu sviði, sjá um að haldið sé uppi fræðslu fyrir almenning um þau málefni
-      sem lög þessi ná til. Jafnframt skulu þessir aðilar vinna að eflingu
+     ^1)L. 167/2007, 38. gr. ^2)Rg. 121/2004 (um varnarefnaleifar í matvælum),
+   sbr. 385/2004, 922/2004, 505/2005, 998/2005, 434/2006, 436/2006, 437/2006,
+ 438/2006, 552/2006, 908/2006, 918/2006, 54/2007, 55/2007, 940/2007, 941/2007,
+    942/2007, 943/2007, 1010/2007 og 1018/2007. Rg. 405/2004 (um náttúrulegt
+   ölkelduvatn og átappað lindarvatn), sbr. 1097/2004. Rg. 411/2004 (um ýmis
+ aðskotaefni í matvælum), sbr. 56/2005. Rg. 425/2004 (um gildistöku tiltekinnar
+       gerðar Evrópusambandsins um fyrirkomulag vöktunar á hámarksgildum
+  varnarefnaleifa í tilteknum matvælum). Rg. 624/2004 (um fæðubótarefni), sbr.
+ 684/2005 og 399/2007. Rg. 921/2004 (um efni og hluti úr sellulósafilmu sem er
+ætlað að snerta matvæli). Rg. 331/2005 (um kjöt og kjötvörur). Rg. 439/2005 (um
+ gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum). Rg.
+ 508/2005 (um gildistöku tiltekinnar gerðar Evrópusambandsins um aðskotaefni í
+ matvælum). Rg. 681/2005 (um gildistöku tiltekinnar gerðar Evrópusambandsins um
+     merkingu matvæla og innihaldsefna matvæla með viðbættum jurtasterólum,
+  jurtasterólestrum, jurtastanólum og/eða jurtastanólestrum). Rg. 439/2006 (um
+leirhluti sem er ætlað að snerta matvæli). Rg. 526/2006 (um íblöndun bætiefna í
+  matvæli), sbr. 566/2007 og 855/2007. Rg. 555/2006 (um gildistöku tiltekinna
+gerða Evrópusambandsins um aðskotaefni í matvælum). Rg. 237/2007 (um gildistöku
+         tiltekinna gerða Evrópusambandsins um aðskotaefni í matvælum).
+19. gr. [Matvælastofnun skal sjá um að halda uppi fræðslu fyrir almenning um þau
+    málefni sem lög þessi ná til. Jafnframt skal stofnunin vinna að eflingu
 fræðslustarfs fyrir þá sem starfa við framleiðslu og dreifingu matvæla og veita
  ráðgjöf við gerð námsefnis fyrir kennslu um matvæli og meðferð þeirra, sbr. 2.
-                             mgr. þessarar greinar.
+                                    mgr.]^1)
   Menntamálaráðuneytið setur ákvæði í námskrá eftir því sem við á um kennslu í
   matreiðslu, örverufræði, matvælafræði, næringarfræði og um neytendamálefni,
   hefur eftirlit með fræðslunni og fylgist með því að fullnægjandi aðstaða sé
                                   fyrir hendi.
-              ^1)[41]L. 164/2002, 19. gr. ^2)[42]L. 76/2005, 49. gr.
+                              ^1)L. 167/2007, 39. gr.
 
                          VIII. kafli. Leyfisveitingar.
-20. gr. Framleiðsla og dreifing matvæla er háð leyfi heilbrigðisnefndar. Heimilt
-   er að binda slíkar leyfisveitingar ákveðnum kröfum til þess að tryggja að
-matvæli verði ekki fyrir skemmdum eða spillist á annan hátt. Þegar ákvæði þessi
-        eiga við um starfsemi sem er undir yfirstjórn sjávarútvegs- eða
- landbúnaðarráðherra er leyfisveiting annars vegar í höndum Fiskistofu og hins
-                   vegar í höndum [Landbúnaðarstofnunar].^1)
+   20. gr. [Framleiðsla og dreifing matvæla er háð leyfi heilbrigðisnefndar.
+ Heimilt er að binda slíkar leyfisveitingar ákveðnum kröfum til þess að tryggja
+  að matvæli verði ekki fyrir skemmdum eða spillist á annan hátt. Þegar ákvæði
+  þessi eiga við um starfsemi sem er undir opinberu eftirliti Matvælastofnunar
+          skv. 6. gr. er leyfisveiting í höndum þeirrar stofnunar.]^1)
  Leyfisveiting og endurnýjun leyfa er háð því að eftirlits- og leyfisgjald hafi
   verið greitt, sbr. og 25. og 26. gr., og leyfi til framleiðslu og dreifingar
  matvæla má fella úr gildi ef sá sem slíkt leyfi hefur gerist sekur um ítrekuð
@@ -237,37 +225,29 @@ matvæli verði ekki fyrir skemmdum eða spillist á annan hátt. Þegar ákvæ�
 Þeir sem annast leyfisveitingu geta endurskoðað veitt leyfi ef framleiðandi eða
  dreifandi ráðgerir að taka í notkun framleiðslutækni sem ekki hefur áður verið
  almennt í notkun og skal viðkomandi eftirliti tilkynnt um slíkar fyrirætlanir.
-                            ^1)[43]L. 76/2005, 49. gr.
-21. gr. Þrátt fyrir ákvæði 20. gr. og III. og IX. kafla laganna geta ráðherrar,
- að höfðu samráði við samstarfsráð, gert með sér samkomulag um að einn og sami
-     aðili annist leyfisveitingar og eftirlit vegna tiltekinnar starfsemi.
+                              ^1)L. 167/2007, 40. gr.
+                                  21. gr. ^1)
+                              ^1)L. 167/2007, 41. gr.
 
                           IX. kafli. Matvælaeftirlit.
-22. gr. Heilbrigðisnefnd hefur undir yfirumsjón [Umhverfisstofnunar]^1) opinbert
-  eftirlit með framleiðslu og dreifingu matvæla, að svo miklu leyti sem það er
- ekki falið öðrum aðilum. [Umhverfisstofnun]^1) skráir nauðsynlegar upplýsingar
- um framleiðslu og dreifingu matvæla vegna matvælaeftirlits. [Umhverfisstofnun
-skal hafa aðgang að niðurstöðum úr sýnatökum heilbrigðisnefnda sveitarfélaganna.
- Þá er ráðherra heimilt að fela stofnuninni eftirlit með afmörkuðum þáttum.]^2)
-  [Landbúnaðarstofnun]^3) hefur yfirumsjón opinbers eftirlits með matvælum sem
-                    falla undir ákvæði 6. gr. laga þessara.
-   Fiskistofa hefur með höndum opinbert eftirlit með framleiðslu og dreifingu
-                 matvæla sem falla undir ákvæði 7. gr. laganna.
-   ^1)[44]L. 164/2002, 19. gr. ^2)[45]L. 68/2006, 10. gr. ^3)[46]L. 76/2005, 49.
-                                      gr.
- 23. gr. Hlutaðeigandi ráðherra er heimilt að ákveða með reglugerð að opinberir
+   22. gr. [Heilbrigðisnefnd hefur undir yfirumsjón Matvælastofnunar opinbert
+eftirlit með framleiðslu og dreifingu matvæla. Matvælastofnun hefur þó opinbert
+   eftirlit með matvælum sem falla undir ákvæði 6. gr. Matvælastofnun skráir
+       nauðsynlegar upplýsingar um framleiðslu og dreifingu matvæla vegna
+ matvælaeftirlits. Matvælastofnun skal hafa aðgang að niðurstöðum úr sýnatökum
+ heilbrigðisnefnda sveitarfélaganna. Þá er ráðherra heimilt að fela stofnuninni
+                      eftirlit með afmörkuðum þáttum.]^1)
+                              ^1)L. 167/2007, 42. gr.
+     23. gr. [Ráðherra]^1) er heimilt að ákveða með reglugerð að opinberir
 eftirlitsaðilar skuli hljóta faggildingu. Það sama á við um aðra aðila sem kunna
-  að taka að sér eftirlit með framleiðslu og dreifingu matvæla. Hlutaðeigandi
-  ráðherra er einnig heimilt að ákveða að rannsóknir og útgáfa vottorða vegna
-   eftirlits samkvæmt lögum þessum skuli framkvæmd af aðilum sem hlotið hafa
-                                  faggildingu.
-  Hlutaðeigandi ráðherra er heimilt með reglugerð^1) að ákveða með hvaða hætti
- komið skal á innra eftirliti framleiðenda og dreifenda matvæla og hvort og þá
-        með hvaða skilyrðum það getur verið þáttur í opinberu eftirliti.
- Samstarfsráð skal vera ráðherrum til ráðgjafar um undirbúning lagafrumvarpa og
-reglugerða varðandi faggildingu rannsóknar- og eftirlitsaðila og einnig varðandi
-                                innra eftirlit.
-                       ^1)[47]Rg. 40/1999, [48]rg. 730/2003.
+ að taka að sér eftirlit með framleiðslu og dreifingu matvæla. [Ráðherra]^1) er
+   einnig heimilt að ákveða að rannsóknir og útgáfa vottorða vegna eftirlits
+  samkvæmt lögum þessum skuli framkvæmd af aðilum sem hlotið hafa faggildingu.
+[Ráðherra]^1) er heimilt með reglugerð^2) að ákveða með hvaða hætti komið skal á
+   innra eftirliti framleiðenda og dreifenda matvæla og hvort og þá með hvaða
+             skilyrðum það getur verið þáttur í opinberu eftirliti.
+                                      ^1)
+               ^1)L. 167/2007, 43. gr. ^2)Rg. 40/1999, rg. 730/2003.
 24. gr. Matvælaframleiðendum og dreifendum er skylt að láta aðilum, sem fara með
    eftirlit samkvæmt lögum þessum, endurgjaldslaust í té nauðsynleg sýni til
    rannsókna og veita þeim allar þær upplýsingar sem nauðsynlegar teljast við
@@ -277,65 +257,69 @@ reglugerða varðandi faggildingu rannsóknar- og eftirlitsaðila og einnig var�
 verslunarleynd er þeir kunna að komast að við leyfisveitingar, sbr. VIII. kafla,
                             og framkvæmd eftirlits.
  [Eftirlitsaðilar og þeir sem framleiða matvæli eða dreifa þeim skulu tilkynna
- til hlutaðeigandi stofnana, sem eru ráðuneytum til ráðgjafar samkvæmt ákvæðum
-   III. kafla laganna, ef gögn sem þessir aðilar hafa undir höndum eða aðrar
+   [Matvælastofnun]^1) ef gögn sem þessir aðilar hafa undir höndum eða aðrar
         ástæður benda til hættu á heilsutjóni vegna neyslu matvæla. Sama
 tilkynningarskylda á við um þá sem starfa við rannsóknir og greiningu á matvælum
   ef þeir greina í matvælum örverur sem geta valdið sjúkdómum í mönnum sem eru
-tilkynningarskyldir samkvæmt ákvæðum [49]sóttvarnalaga, nr. 19/1997, eða reglna
-                       settra með stoð í þeim lögum.]^1)
-                            ^1)[50]L. 169/2000, 2. gr.
+ tilkynningarskyldir samkvæmt ákvæðum [7]sóttvarnalaga, nr. 19/1997, eða reglna
+                       settra með stoð í þeim lögum.]^2)
+                  ^1)L. 167/2007, 44. gr. ^2)L. 169/2000, 2. gr.
 
                    X. kafli. Rekstrarkostnaður og gjaldtaka.
- 25. gr. Hlutaðeigandi ráðherra getur sett gjaldskrá vegna kostnaðar að því er
-            varðar starfsemi [Umhverfisstofnunar],^1) Fiskistofu og
-     [Landbúnaðarstofnunar]^2) vegna matvælaeftirlits, sbr. 22. gr. Þá skal
- hlutaðeigandi ráðherra setja gjaldskrá vegna opinberra matvælarannsókna. Gjald
-    samkvæmt þessum ákvæðum má taka lögtaki og setur hlutaðeigandi ráðherra
-reglugerð með nánari ákvæðum um upphæð þess, gjaldskyldu, innheimtu, gjalddaga,
-         lögvernd og annað er lýtur að innheimtu gjaldsins. [Gjaldtaka
- [Umhverfisstofnunar],^1) Fiskistofu og [Landbúnaðarstofnunar]^2) skal taka mið
- af kostnaði við undirbúning, ferð, skoðun, frágang, sýnatöku og rannsókn sýna
-                          vegna matvælaeftirlits.]^3)
+  25. gr. [Ráðherra]^1) getur sett gjaldskrá vegna kostnaðar að því er varðar
+  starfsemi [Matvælastofnunar]^1) vegna matvælaeftirlits, sbr. 22. gr. Þá skal
+ [ráðherra]^1) setja gjaldskrá vegna opinberra matvælarannsókna. Gjald samkvæmt
+   þessum ákvæðum má taka lögtaki og setur [ráðherra]^1) reglugerð með nánari
+ákvæðum um upphæð þess, gjaldskyldu, innheimtu, gjalddaga, lögvernd og annað er
+lýtur að innheimtu gjaldsins. [Gjaldtaka [Matvælastofnunar]^1) skal taka mið af
+kostnaði við undirbúning, ferð, skoðun, frágang, sýnatöku og rannsókn sýna vegna
+                             matvælaeftirlits.]^2)
  Eftirlitsgjöld heilbrigðiseftirlits sveitarfélaga vegna matvælaeftirlits skulu
-          vera samkvæmt lögum um hollustuhætti og [mengunarvarnir].^3)
-   ^1)[51]L. 164/2002, 19. gr. ^2)[52]L. 76/2005, 49. gr. ^3)[53]L. 169/2000, 3.
-                                      gr.
-26. gr. [Hlutaðeigandi ráðherra skal setja gjaldskrá vegna útgáfu starfsleyfa og
-  vottorða skv. VIII. og IX. kafla laganna, svo og vegna skráningar og móttöku
-   umsókna um heimild til notkunar aukefna og annarra slíkra leyfisveitinga.
-Gjaldskrá skal taka mið af kostnaði sem hlýst af útgáfu starfsleyfa og vottorða,
-skráningu og móttöku umsókna og leyfisveitingum og má ákvörðun gjalds ekki vera
-                           hærri en sá kostnaður.]^1)
-                            ^1)[54]L. 169/2000, 4. gr.
+          vera samkvæmt lögum um hollustuhætti og [mengunarvarnir].^2)
+                  ^1)L. 167/2007, 45. gr. ^2)L. 169/2000, 3. gr.
+26. gr. [[Ráðherra]^1) skal setja gjaldskrá vegna útgáfu starfsleyfa og vottorða
+ skv. VIII. og IX. kafla laganna, svo og vegna skráningar og móttöku umsókna um
+ heimild til notkunar aukefna og annarra slíkra leyfisveitinga. Gjaldskrá skal
+ taka mið af kostnaði sem hlýst af útgáfu starfsleyfa og vottorða, skráningu og
+ móttöku umsókna og leyfisveitingum og má ákvörðun gjalds ekki vera hærri en sá
+                                 kostnaður.]^2)
+                  ^1)L. 167/2007, 46. gr. ^2)L. 169/2000, 4. gr.
 27. gr. Heimilt er að gera kröfu um að hlutaðeigandi framleiðandi eða dreifandi
  greiði nauðsynlegan rannsóknarkostnað. Til að slík krafa verði höfð uppi þarf
 rökstuddur grunur að leika á að vara eða starfsemi uppfylli ekki ákvæði laga eða
   reglugerða settra samkvæmt þeim og ekki mega liggja fyrir vottorð faggiltra
  aðila sem sýna annað. [Gjaldtaka skal taka mið af kostnaði við rannsókn og má
               ákvörðun gjalds ekki vera hærri en sá kostnaður.]^1)
-                            ^1)[55]L. 169/2000, 5. gr.
+                              ^1)L. 169/2000, 5. gr.
 
                               XI. kafli. Valdsvið.
  28. gr. Þegar hætta er talin á að matvæli geti valdið alvarlegu heilsutjóni er
   ráðherra heimilt að fyrirskipa nauðsynlegar varúðar- og varnaðaraðgerðir sem
  geta náð til alls landsins eða hluta þess. Skal ráðherra, eftir því sem við á,
- hafa samráð við landlækni, [Umhverfisstofnun],^1) [Landbúnaðarstofnun]^2) eða
-                Fiskistofu áður en til slíkra aðgerða er gripið.
-              ^1)[56]L. 164/2002, 19. gr. ^2)[57]L. 76/2005, 49. gr.
+hafa samráð við landlækni [eða Matvælastofnun]^1) áður en til slíkra aðgerða er
+                                    gripið.
+                              ^1)L. 167/2007, 47. gr.
     29. gr. Eftirlitsaðila er heimilt að stöðva eða takmarka framleiðslu og
 dreifingu matvæla og leggja hald á þau þegar rökstuddur grunur er um að matvæli
      uppfylli ekki ákvæði laga þessara eða reglugerða settra samkvæmt þeim.
 Þegar eftirlitsaðilar leggja hald á matvæli er þeim heimil förgun þeirra sé það
-     talið nauðsynlegt, sbr. og 9. mgr. [58]27. gr. laga nr. 81/1988,^1) um
+     talið nauðsynlegt, sbr. og 9. mgr. [8]27. gr. laga nr. 81/1988,^1) um
                      hollustuhætti og heilbrigðiseftirlit.
   Þegar eftirlitsaðili stöðvar dreifingu vöru, svo sem inn- eða útflutning, og
    hætta er talin á að vörunni verði þrátt fyrir það dreift á markað þar sem
 eftirlit er í höndum annars aðila er eftirlitsaðilum skylt að hafa samráð sín á
                      milli og gera viðeigandi ráðstafanir.
-                               ^1)Nú [59]l. 7/1998.
-30. gr. Um valdsvið og þvingunarúrræði eftirlitsaðila gilda að öðru leyti ákvæði
-                 laga um hollustuhætti og heilbrigðiseftirlit.
+                                ^1)Nú [9]l. 7/1998.
+  30. gr. [Matvælastofnun getur gripið til þvingunarúrræða og viðurlaga vegna
+                          brota gegn lögum þessum.]^1)
+Um valdsvið og þvingunarúrræði eftirlitsaðila gilda að öðru leyti ákvæði laga um
+                     hollustuhætti og heilbrigðiseftirlit.
+                              ^1)L. 167/2007, 48. gr.
+   [30. gr. a. Rísi ágreiningur milli heilbrigðisnefndar og sveitarstjórna um
+ framkvæmd þessara laga skal vísa málinu til fullnaðarúrskurðar ráðherra. Sama
+  gildir um ágreining milli Matvælastofnunar og heilbrigðisnefnda um framkvæmd
+                               laga þessara.]^1)
+                              ^1)L. 167/2007, 49. gr.
 
                 XII. kafli. Málsmeðferð, úrskurðir og viðurlög.
  31. gr. Sá er sekur gerist um brot gegn ákvæðum þessara laga skal greiða allan
@@ -352,59 +336,9 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995093
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=119&mnr=15
    3. http://www.althingi.is/altext/119/s/0015.html
-   4. file:///altext/stjt/2000.169.html
-   5. file:///altext/stjt/2002.164.html
-   6. file://2003017.html
-   7. file:///altext/stjt/2005.076.html
-   8. file://2006068.html
-   9. file:///altext/stjt/2002.164.html
-  10. file:///altext/stjt/2005.076.html
-  11. file:///altext/stjt/2002.164.html
-  12. file:///altext/stjt/2005.076.html
-  13. file://2003017.html#g12
-  14. file:///altext/stjt/2000.169.html
-  15. file://ekkitil/ekkitil.html?REGL/1993588
-  16. file://ekkitil/ekkitil.html?REGL/1995142
-  17. file://ekkitil/ekkitil.html?REGL/1997726
-  18. file://ekkitil/ekkitil.html?REGL/2000054
-  19. file://ekkitil/ekkitil.html?REGL/2000439
-  20. file://ekkitil/ekkitil.html?REGL/2000863
-  21. file://ekkitil/ekkitil.html?REGL/2003352
-  22. file://ekkitil/ekkitil.html?REGL/2005503
-  23. file://ekkitil/ekkitil.html?REGL/2006787
-  24. file://ekkitil/ekkitil.html?REGL/2005503
-  25. file://ekkitil/ekkitil.html?REGL/2006553
-  26. file://ekkitil/ekkitil.html?REGL/1997735
-  27. file://ekkitil/ekkitil.html?REGL/2000465
-  28. file://ekkitil/ekkitil.html?REGL/2002198
-  29. file://ekkitil/ekkitil.html?REGL/2004388
-  30. file://ekkitil/ekkitil.html?REGL/1998674
-  31. file://ekkitil/ekkitil.html?REGL/2000542
-  32. file://ekkitil/ekkitil.html?REGL/2002667
-  33. file://ekkitil/ekkitil.html?REGL/2000605
-  34. file://ekkitil/ekkitil.html?REGL/1993587
-  35. file://ekkitil/ekkitil.html?REGL/2001305
-  36. file://ekkitil/ekkitil.html?REGL/2003848
-  37. file://ekkitil/ekkitil.html?REGL/1994289
-  38. file://ekkitil/ekkitil.html?REGL/1995562
-  39. file://ekkitil/ekkitil.html?REGL/1998493
-  40. file://ekkitil/ekkitil.html?REGL/2006526
-  41. file:///altext/stjt/2002.164.html
-  42. file:///altext/stjt/2005.076.html
-  43. file:///altext/stjt/2005.076.html
-  44. file:///altext/stjt/2002.164.html
-  45. file://2006068.html#g10
-  46. file:///altext/stjt/2005.076.html
-  47. file://ekkitil/ekkitil.html?REGL/1999040
-  48. file://ekkitil/ekkitil.html?REGL/2003730
-  49. file://1997019.html
-  50. file:///altext/stjt/2000.169.html
-  51. file:///altext/stjt/2002.164.html
-  52. file:///altext/stjt/2005.076.html
-  53. file:///altext/stjt/2000.169.html
-  54. file:///altext/stjt/2000.169.html
-  55. file:///altext/stjt/2000.169.html
-  56. file:///altext/stjt/2002.164.html
-  57. file:///altext/stjt/2005.076.html
-  58. file://1988081.html
-  59. file://1998007.html
+   4. file://2003017.html
+   5. file://2006068.html
+   6. file://2003017.html#g12
+   7. file://1997019.html
+   8. file://1988081.html
+   9. file://1998007.html

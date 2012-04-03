@@ -10,8 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Tóku gildi 13. júní 1984. Breytt með [4]l. 73/1989 (tóku gildi 14. júní 1989) og
-                    [5]l. 15/1992 (tóku gildi 1. júlí 1992).
+ Tóku gildi 13. júní 1984. Breytt með l. 73/1989 (tóku gildi 14. júní 1989), l.
+ 15/1992 (tóku gildi 1. júlí 1992) og [4]l. 41/2007 (tóku gildi 1. sept. 2007).
 
   1. gr. Rétt til að starfa sem sjúkraliði hér á landi og kalla sig sjúkraliða
        hefur sá einn sem til þess hefur fengið leyfi heilbrigðisráðherra.
@@ -19,7 +19,7 @@ Tóku gildi 13. júní 1984. Breytt með [4]l. 73/1989 (tóku gildi 14. júní 1
        landi sem heilbrigðis- og tryggingamálaráðuneytið viðurkennir.]^1)
   Einnig má veita þeim leyfi sem lokið hefur hliðstæðu námi erlendis. Áður en
        slíkt leyfi er veitt skal leita umsagnar Sjúkraliðafélags Íslands.
-                             ^1)[6]L. 15/1992, 2. gr.
+                               ^1)L. 15/1992, 2. gr.
    3. gr. Óheimilt er að ráða sem sjúkraliða aðra en þá sem hafa starfsleyfi
                              samkvæmt þessum lögum.
    4. gr. Sjúkraliða ber að þekkja skyldur sínar, viðhalda þekkingu sinni og
@@ -36,20 +36,19 @@ Tóku gildi 13. júní 1984. Breytt með [4]l. 73/1989 (tóku gildi 14. júní 1
   Komi upp ágreiningur um ráðningu sjúkraliða samkvæmt 2. mgr. skal ráðuneytið
                           skera úr um þann ágreining.
                                     ^1)]^2)
-                 ^1)[7]L. 15/1992, 2. gr. ^2)[8]L. 73/1989, 1. gr.
+                    ^1)L. 15/1992, 2. gr. ^2)L. 73/1989, 1. gr.
 6. gr. Sjúkraliða er skylt að gæta þagmælsku um atriði sem hann fær vitneskju um
   í starfi sínu og leynt skulu fara samkvæmt lögum eða eðli máls. Þagnarskylda
                   helst þótt viðkomandi hafi látið af störfum.
- 7. gr. Ef sjúkraliði vanrækir skyldur sínar eða brýtur gegn heilbrigðislöggjöf
-landsins að dómi landlæknis skal landlæknir áminna hann. Komi áminningin ekki að
-  haldi leggur landlæknir málið fyrir ráðherra. Getur þá ráðherra úrskurðað að
-  hlutaðeigandi skuli sviptur starfsleyfi, en skjóta má hann þeim úrskurði til
-                                   dómstóla.
-Nú hefur sjúkraliði verið sviptur starfsleyfi samkvæmt 1. mgr. og er þá ráðherra
-   heimilt að veita honum leyfið aftur, enda liggi fyrir meðmæli landlæknis.
+     7. gr. [Um eftirlit með sjúkraliðum, veitingu áminningar og sviptingu
+starfsleyfa eða takmörkun starfsréttinda sem veitt eru samkvæmt lögum þessum og
+         endurveitingu slíkra réttinda gilda ákvæði laga um landlækni.
+ Ákvæði læknalaga gilda að öðru leyti eftir því sem við getur átt um sjúkraliða
+                    og um refsingar fyrir brot í starfi.]^1)
+                             ^1)[5]L. 41/2007, 24. gr.
   8. gr. Ráðherra getur í reglugerð^1) sett nánari ákvæði um framkvæmd þessara
                                      laga.
-                                ^1)[9]Rg. 897/2001.
+                                 ^1)Rg. 897/2001.
                       9. gr. Lög þessi öðlast þegar gildi.
 
 References
@@ -58,9 +57,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1984058
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=106&mnr=314
    3. http://www.althingi.is/altext/106/s/pdf/0622.pdf
-   4. file:///altext/stjt/1989.073.html
-   5. file:///altext/stjt/1992.015.html
-   6. file:///altext/stjt/1992.015.html
-   7. file:///altext/stjt/1992.015.html
-   8. file:///altext/stjt/1989.073.html
-   9. file://ekkitil/ekkitil.html?REGL/2001897
+   4. file://2007041.html
+   5. file://2007041.html#g24

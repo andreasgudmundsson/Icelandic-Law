@@ -11,7 +11,7 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
     Tóku gildi 30. desember 2002. EES-samningurinn: XVII. viðauki tilskipun
-                                  89/104/EBE.
+         89/104/EBE. Breytt með l. 167/2007 (tóku gildi 1. jan. 2008).
 
 1. gr. Félög eða samtök geta öðlast einkarétt fyrir félagsmenn sína til að nota
        í atvinnustarfsemi sameiginlegt auðkenni fyrir vörur eða þjónustu.
@@ -52,8 +52,8 @@ um vörumerki skal bæta það tjón sem eigandi merkis, eða sá sem hefur rét
                             nota það, verður fyrir.
   8. gr. Endanlegum ákvörðunum Einkaleyfastofunnar samkvæmt lögum þessum geta
    aðilar máls áfrýjað til áfrýjunarnefndar hugverkaréttinda á sviði iðnaðar.
-   Áfrýjun skal berast iðnaðarráðuneyti innan tveggja mánaða frá þeim degi er
-    ákvörðun var tekin. Innan sama frests skal greiða ráðuneytinu tilskilið
+ Áfrýjun skal berast [viðskiptaráðuneyti]^1) innan tveggja mánaða frá þeim degi
+   er ákvörðun var tekin. Innan sama frests skal greiða ráðuneytinu tilskilið
 áfrýjunargjald. Sé áfrýjunargjald ekki greitt innan frestsins skal vísa áfrýjun
                                       frá.
       Úrskurðir áfrýjunarnefndar verða ekki bornir undir annað stjórnvald.
@@ -61,16 +61,17 @@ um vörumerki skal bæta það tjón sem eigandi merkis, eða sá sem hefur rét
  áfrýjunarnefndar undir dómstóla ber þeim að höfða mál innan þriggja mánaða frá
 þeim degi sem Einkaleyfastofan tók ákvörðun sína eða áfrýjunarnefnd úrskurðaði í
                                     málinu.
-  9. gr. Iðnaðarráðherra er heimilt að setja nánari reglur,^1) m.a. um frágang
-umsókna og meðferð þeirra hjá Einkaleyfastofunni, um form skrárinnar og færslu,
-  útgáfu skráningarskírteina og efni þeirra og meðferð andmælamála, svo og um
-   gjöld fyrir umsóknir, endurnýjanir, afgreiðslur, endurrit, áfrýjanir o.fl.
+                              ^1)L. 167/2007, 89. gr.
+  9. gr. [Viðskiptaráðherra]^1) er heimilt að setja nánari reglur,^2) m.a. um
+frágang umsókna og meðferð þeirra hjá Einkaleyfastofunni, um form skrárinnar og
+færslu, útgáfu skráningarskírteina og efni þeirra og meðferð andmælamála, svo og
+ um gjöld fyrir umsóknir, endurnýjanir, afgreiðslur, endurrit, áfrýjanir o.fl.
   Gjöld skulu standa straum af kostnaði við rekstur Einkaleyfastofunnar vegna
 málefna sem tengjast félagamerkjum og við þjónustu sem veitt er, m.a. í tengslum
   við umsóknir og skráningu félagamerkja, útskriftir úr skrám, afgreiðslur og
                                    endurrit.
-     ^1)[5]Rg. 41/2000, sbr. [6]110/2003; [7]rg. 916/2001, sbr. [8]15/2003 og
-                                  [9]898/2003.
+     ^1)L. 167/2007, 89. gr. ^2)Rg. 41/2000, sbr. 110/2003; rg. 916/2001, sbr.
+                        15/2003, 898/2003 og 1057/2007.
   10. gr. Sá sem af ásetningi brýtur gegn félagamerkjarétti skal sæta sektum.
        Eftir atvikum getur refsing verið fangelsi í allt að þrjá mánuði.
  Sektir samkvæmt lögum þessum má gera jafnt lögaðila sem einstaklingi. Lögaðila
@@ -91,8 +92,3 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=346
    3. http://www.althingi.is/altext/128/s/0382.html
    4. file://1997045.html
-   5. file://ekkitil/ekkitil.html?REGL/2000041
-   6. file://ekkitil/ekkitil.html?REGL/2003110
-   7. file://ekkitil/ekkitil.html?REGL/2001916
-   8. file://ekkitil/ekkitil.html?REGL/2003015
-   9. file://ekkitil/ekkitil.html?REGL/2003898

@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 24. júní 1998. Breytt með [4]l. 18/2002 (tóku gildi 3. apríl 2002).
+  Tóku gildi 24. júní 1998. Breytt með l. 18/2002 (tóku gildi 3. apríl 2002).
 
 1. gr. Ríkisskattstjóri skal láta uppi bindandi álit í skattamálum eftir því sem
 nánar er kveðið á um í lögum þessum, enda geti mál varðað verulega hagsmuni þess
@@ -45,7 +45,7 @@ frá með rökstuðningi. Hið sama gildir ef ljóst þykir að álitsbeiðandi 
  4. gr. Þegar ríkisskattstjóri hefur lokið við gerð bindandi álits sendir hann
  það til álitsbeiðanda og viðkomandi skattyfirvalds. Álitið skal vera rökstutt.
        5. gr. Álitsbeiðandi getur kært bindandi álit ríkisskattstjóra til
-yfirskattanefndar. Um kærufrest, efni kæru og málsmeðferð fer eftir [5]lögum nr.
+yfirskattanefndar. Um kærufrest, efni kæru og málsmeðferð fer eftir [4]lögum nr.
                           30/1992, um yfirskattanefnd.
  Álitsbeiðanda og fjármálaráðherra er heimilt að bera úrskurð yfirskattanefndar
    skv. 1. mgr. undir dómstóla enda sé það gert innan eins mánaðar frá því að
@@ -67,7 +67,7 @@ skattlagningu álitsbeiðanda. Álitið er ekki bindandi fyrir skattyfirvöld a�
           beiðni er dregin til baka, að endurgreiða gjald skv. 1. mgr.
       Ákvörðun um fjárhæð gjalds skv. 1. mgr. er hvorki hægt að bera undir
                           yfirskattanefnd né dómstóla.
-                             ^1)[6]L. 18/2002, 1. gr.
+                               ^1)L. 18/2002, 1. gr.
   8. gr. Ríkisskattstjóri skal birta ákvarðanir og niðurstöður sem fram koma í
     álitum samkvæmt lögum þessum að því leyti sem þær hafa almenna þýðingu.
   9. gr. Ráðherra er heimilt að setja nánari reglur um framkvæmd laga þessara.
@@ -79,6 +79,4 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998091
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=552
    3. http://www.althingi.is/altext/122/s/0941.html
-   4. file:///altext/stjt/2002.018.html
-   5. file://1992030.html
-   6. file:///altext/stjt/2002.018.html
+   4. file://1992030.html

@@ -10,7 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-        Tóku gildi 1. júlí 2001. EES-samningurinn: tilskipun 2000/35/EB.
+ Tóku gildi 1. júlí 2001. EES-samningurinn: tilskipun 2000/35/EB. Breytt með l.
+                       51/2007 (tóku gildi 1. jan. 2008).
 
                              I. kafli. Gildissvið.
   1. gr. Lög þessi gilda um vexti af peningakröfum á sviði fjármunaréttar og á
@@ -110,17 +111,18 @@ kafla átt við breytingu í hlutfalli við innlenda verðvísitölu. Um heimild
              Afleiðusamningar falla ekki undir ákvæði þessa kafla.
 14. gr. Heimilt er að verðtryggja sparifé og lánsfé skv. 13. gr. sé grundvöllur
  verðtryggingarinnar vísitala neysluverðs sem Hagstofa Íslands reiknar samkvæmt
-lögum sem um vísitöluna gilda og birtir mánaðarlega í Lögbirtingablaði. Vísitala
- sem reiknuð er og birt í tilteknum mánuði gildir um verðtryggingu sparifjár og
-                         lánsfjár næsta mánuð á eftir.
+    lögum sem um vísitöluna gilda og birtir mánaðarlega í Lögbirtingablaði.
+  [Vísitala sem reiknuð er og birt í tilteknum mánuði gildir um verðtryggingu
+          sparifjár og lánsfjár frá fyrsta degi þar næsta mánaðar.]^1)
    Í lánssamningi er þó heimilt að miða við hlutabréfavísitölu, innlenda eða
 erlenda, eða safn slíkra vísitalna sem ekki mæla breytingar á almennu verðlagi.
+                               ^1)L. 51/2007, 1. gr.
     15. gr. Seðlabankinn getur að fengnu samþykki viðskiptaráðherra ákveðið
  lágmarkstíma verðtryggðra innstæðna og lána. Bankinn getur jafnframt að fengnu
  samþykki ráðherra ákveðið að vextir verðtryggðra innstæðna og lána skuli vera
                           óbreytanlegir á lánstímanum.
   Seðlabankinn setur nánari reglur^1) um verðtryggingu sparifjár og lánsfjár.
-                               ^1)[4]Rgl. 492/2001.
+                                 ^1)Rgl. 492/2001.
 16. gr. Þegar skuldbindingum með ákvæðum um verðtryggingu er þinglýst skal þess
 gætt að verðtryggingarinnar sé getið í þinglýsingabókum og skulu þær koma fram á
              vottorðum þinglýsingarstjóra um efni þinglýsingabóka.
@@ -160,13 +162,13 @@ niðurstöðu dómsmáls eða öðrum gerningi, gerðri fyrir gildistöku laga �
  við vanskil reiknist hæstu lögleyfðu dráttarvextir eins og þeir eru á hverjum
    tíma, dráttarvextir samkvæmt ákvörðun Seðlabanka Íslands eða dráttarvextir
      samkvæmt vaxtalögum, eða vísað er með öðrum hætti til dráttarvaxta sem
- Seðlabankinn ákvað skv. [5]10. gr. laga nr. 25/1987, og skulu þá dráttarvextir
+ Seðlabankinn ákvað skv. [4]10. gr. laga nr. 25/1987, og skulu þá dráttarvextir
       eftir gildistöku laganna reiknaðir skv. 1. mgr. 6. gr. laga þessara.
 III. Nú segir í lánssamningi í erlendum gjaldmiðli, gerðum fyrir gildistöku laga
 þessara, að við vanskil reiknist hæstu lögleyfðu dráttarvextir eins og þeir eru
      á hverjum tíma, dráttarvextir samkvæmt ákvörðun Seðlabanka Íslands eða
 dráttarvextir samkvæmt vaxtalögum, eða vísað er með öðrum hætti til dráttarvaxta
-      sem Seðlabankinn ákvað skv. [6]11. gr. laga nr. 25/1987, og skulu þá
+      sem Seðlabankinn ákvað skv. [5]11. gr. laga nr. 25/1987, og skulu þá
    dráttarvextir þessir vera ákvarðaðir með sama hætti næstu fimm árin eftir
  gildistöku laga þessara, en að þeim tíma loknum skulu þeir vera jafnháir þeim
      dráttarvöxtum í hlutaðeigandi gjaldmiðli sem síðast voru auglýstir af
@@ -175,7 +177,7 @@ dráttarvextir samkvæmt vaxtalögum, eða vísað er með öðrum hætti til dr
     krónum, gerðum fyrir gildistöku laga þessara, að fjárhæðir breytist með
 reikningsgengi SDR eða EUR (SDR- eða EUR-gengisvísitölu) sem Seðlabanki Íslands
       reiknar út og birtir og skal þá í hverjum mánuði miðað við opinbert
-  viðmiðunargengi EUR eða SDR (kaupgengi) skv. [7]15. gr. laga nr. 36/1986, um
+  viðmiðunargengi EUR eða SDR (kaupgengi) skv. [6]15. gr. laga nr. 36/1986, um
  Seðlabanka Íslands, á 21. degi undanfarandi mánaðar. Nú er gengi ekki skráð á
 21. degi mánaðar og skal þá lagt til grundvallar það kaupgengi er skráð var næst
  á undan þeim degi. Óheimilt er að taka við innlánum á reikninga sem stofnaðir
@@ -185,9 +187,9 @@ V. Vísitala neysluverðs, sbr. 14. gr. laga þessara, með grunninn 100 í maí
   skal gilda sem vísitala fyrir næsta mánuð á eftir, í fyrsta sinn fyrir apríl
 1995 gagnvart fjárskuldbindingum sem samið hefur verið um fyrir 1. apríl 1995 og
    eru með ákvæðum um lánskjaravísitölu þá sem Seðlabankinn reiknaði og birti
-     mánaðarlega samkvæmt heimild í [8]39. gr. laga nr. 13/1979, um stjórn
-  efnahagsmála o.fl., sbr. reglugerð nr. 18/1989. Hagstofa Íslands skal birta
-  mánaðarlega í Lögbirtingablaði vísitölu skv. 2. málsl. þessarar málsgreinar.
+mánaðarlega samkvæmt heimild í 39. gr. laga nr. 13/1979, um stjórn efnahagsmála
+  o.fl., sbr. reglugerð nr. 18/1989. Hagstofa Íslands skal birta mánaðarlega í
+         Lögbirtingablaði vísitölu skv. 2. málsl. þessarar málsgreinar.
     Verði gerð breyting á grunni vísitölu neysluverðs skal Hagstofan birta í
      Lögbirtingablaði margfeldisstuðul fyrir þannig breytta vísitölu í stað
                        stuðulsins sem getið er í 1. mgr.
@@ -195,6 +197,14 @@ V. Vísitala neysluverðs, sbr. 14. gr. laga þessara, með grunninn 100 í maí
     stjórnvaldsfyrirmælum öðrum og samningum sem í gildi eru 1. apríl 1995.
 VI. Eigi skemur en viku fyrir gildistökudag laga þessara skal Seðlabankinn birta
                             dráttarvexti skv. 6. gr.
+  [VII. Vísitala sem reiknuð er og birt í janúarmánuði 2008 og grundvallast á
+  verðupplýsingum miðað við verðlag tvo fyrstu virka daga janúar skal gilda um
+            verðtryggingu sparifjár og lánsfjár í febrúar 2008.]^1)
+                               ^1)L. 51/2007, 2. gr.
+  [VIII. Vísitala sem reiknuð er og birt í janúarmánuði 2008 og grundvallast á
+ verðupplýsingum miðað við verðlag í um það bil vikutíma um miðjan janúar skal
+         gilda um verðtryggingu sparifjár og lánsfjár í mars 2008.]^1)
+                               ^1)L. 51/2007, 2. gr.
 
 References
 
@@ -202,8 +212,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001038
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=566
    3. http://www.althingi.is/altext/126/s/0872.html
-   4. file://ekkitil/ekkitil.html?REGL/2001492
+   4. file://1987025.html
    5. file://1987025.html
-   6. file://1987025.html
-   7. file://1986036.html
-   8. file:///altext/stjtnr.html#1979013?g39
+   6. file://1986036.html

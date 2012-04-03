@@ -10,8 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 1. ágúst 1996. Breytt með [4]l. 72/2003 (tóku gildi 10. apríl 2003)
-        og [5]l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006).
+ Tóku gildi 1. ágúst 1996. Breytt með l. 72/2003 (tóku gildi 10. apríl 2003) og
+           l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006).
 
                       I. kafli. Til hverra lög þessi taka.
   1. gr. Lög þessi taka til hvers kennara og skólastjórnanda við grunnskóla í
@@ -43,7 +43,7 @@ til starfa með sömu kjörum og íslenskir ríkisborgarar. Einnig má víkja fr
                         að gegna starfi til bráðabirgða.
     5. Leyfisbréf menntamálaráðherra til að nota starfsheitið grunnskólakennari
  og til að starfa sem slíkur hér á landi við grunnskóla á vegum opinberra aðila
-  eða aðra hliðstæðaskóla samkvæmt ákvæðum laga um lögverndun á starfsheiti og
+ eða aðra hliðstæða skóla samkvæmt ákvæðum laga um lögverndun á starfsheiti og
     starfsréttindum grunnskólakennara, framhaldsskólakennara og skólastjóra.
                     6. Fjárforræði, ef stöðu fylgja fjárreiður.
 Nú hefur umsækjandi um starf hlotið dóm fyrir refsiverðan verknað, slíkan sem um
@@ -51,7 +51,7 @@ ræðir í 1. mgr. 68. gr. almennra hegningarlaga, og telst hann þá ekki fulln
                                 starfsskilyrðum.
  Konur og karlar hafa jafnan rétt til að fá ráðningu eða skipun í kennara- eða
     skólastjórnendastörf við grunnskóla og til sömu launa fyrir sömu störf.
-               ^1)[6]L. 72/2003, 39. gr. ^2)[7]L. 108/2006, 39. gr.
+                  ^1)L. 72/2003, 39. gr. ^2)L. 108/2006, 39. gr.
 4. gr. Nú er starfsmaður skipaður í stöðu og ber þá að líta svo á að hann skuli
         gegna stöðunni þar til eitthvert eftirgreindra atriða kemur til:
       a. að hann brýtur af sér í starfinu, svo að honum beri að víkja úr því,
@@ -92,7 +92,7 @@ gefa honum kost á að bæta ráð sitt áður en honum er veitt lausn um stunda
     Lausn um stundarsakir skal jafnan vera skrifleg með tilgreindum ástæðum.
   8. gr. Nú hefur starfsmanni verið veitt lausn um stundarsakir fyrir meintar
 misfellur í starfi og skal þá þegar mál hans rannsakað af kunnáttumönnum eða að
-hætti opinberra mála, efástæða þykir til, svo að upplýst verði hvort rétt er að
+hætti opinberra mála, ef ástæða þykir til, svo að upplýst verði hvort rétt er að
       veita honum lausn að fullu eða láta hann aftur taka við starfi sínu.
  Úrslit um stöðuna skulu ráðin strax og lokaniðurstöður rannsóknar eru kunnar.
 9. gr. Meðan lausn um stundarsakir stendur nýtur starfsmaður hálfra fastra launa
@@ -275,15 +275,15 @@ atvinnufyrirtækis ber honum að skýra sveitarstjórn eða eftir atvikum skóla
                   fjalla um ágreiningsatriði þau sem upp koma.
 
                           IX. kafli. Gildistaka o.fl.
-    36. gr. Lög þessi eru sett með vísan til b-liðar 1. mgr. 57. [8]laga um
+    36. gr. Lög þessi eru sett með vísan til b-liðar 1. mgr. 57. [4]laga um
  grunnskóla, nr. 66/1995. Við flutning grunnskólanna til sveitarfélaga yfirtaka
 sveitarfélögin ráðningar og ráðningarsamninga núverandi starfsmanna. Kennarar og
 skólastjórnendur, sem starfað hafa hjá ríki fyrir flutninginn, skulu halda öllum
 starfsréttindum sínum óbreyttum, þar með töldum réttindum sem byggjast á starfs-
    og þjónustualdri. Flutningurinn felur því ekki í sér niðurlagningu stöðu í
-  skilningi [9]14. gr. laga nr. 38/1954^1) og gilda ákvæði hennar því ekki um
+  skilningi [5]14. gr. laga nr. 38/1954^1) og gilda ákvæði hennar því ekki um
                       starfsmenn í skilningi laga þessara.
-                               ^1)Nú [10]l. 70/1996.
+                               ^1)Nú [6]l. 70/1996.
 37. gr. Eftir flutning grunnskólanna frá ríki til sveitarfélaga skulu starfsmenn
   ekki njóta lakari réttinda í veikindaforföllum og barnsburðarleyfum en þeir
    njóta nú og kveðið er á um í reglugerðum nr. 410/1989, um barnsburðarleyfi
@@ -299,10 +299,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996072
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=120&mnr=323
    3. http://www.althingi.is/altext/120/s/0570.html
-   4. file:///altext/stjt/2003.072.html
-   5. file:///altext/stjt/2006.108.html
-   6. file:///altext/stjt/2003.072.html
-   7. file:///altext/stjt/2006.108.html
-   8. file://1995066.html
-   9. file://1954038.html
-  10. file://1996070.html
+   4. file://1995066.html
+   5. file://1954038.html
+   6. file://1996070.html

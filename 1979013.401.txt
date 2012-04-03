@@ -8,13 +8,13 @@
 
    --------------------------------------------------------------------------
 
-                       ^1)[2]Rg. 405/1979, sbr. [3]534/1980.
-                        [4]Ferill málsins á Alþingi.
+                          ^1)Rg. 405/1979, sbr. 534/1980.
+                        [2]Ferill málsins á Alþingi.
 
- Tóku gildi 10. apríl 1979. Breytt með [5]l. 21/1985 (tóku gildi 31. maí 1985),
- [6]l. 13/1989 (tóku gildi 30. mars 1989), [7]l. 118/1990 (tóku gildi 31. des.
-  1990), [8]l. 95/1992 (tóku gildi 1. jan. 1993), [9]l. 13/1997 (tóku gildi 1.
-            júlí 1997) og [10]l. 51/2002 (tóku gildi 1. júlí 2002).
+ Tóku gildi 10. apríl 1979. Breytt með l. 21/1985 (tóku gildi 31. maí 1985), l.
+  13/1989 (tóku gildi 30. mars 1989), l. 118/1990 (tóku gildi 31. des. 1990),
+[3]l. 95/1992 (tóku gildi 1. jan. 1993), [4]l. 13/1997 (tóku gildi 1. júlí 1997)
+                    og l. 51/2002 (tóku gildi 1. júlí 2002).
 
 
 
@@ -35,12 +35,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1979013.401
-   2. file://ekkitil/ekkitil.html?REGL/1979405
-   3. file://ekkitil/ekkitil.html?REGL/1980534
-   4. http://www.althingi.is/dba-bin/ferill.pl?ltg=100&mnr=230
-   5. file:///altext/stjtnr.html#1985021
-   6. file:///altext/stjt/1989.013.html
-   7. file:///altext/stjt/1990.118.html
-   8. file://1992095.html
-   9. file://1997013.html
-  10. file:///altext/stjt/2002.051.html
+   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=100&mnr=230
+   3. file://1992095.html
+   4. file://1997013.html

@@ -11,8 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
  Tóku gildi 6. júní 1997; komu til framkvæmda skv. fyrirmælum í 52. gr. Breytt
- með [4]l. 51/2002 (tóku gildi 1. júlí 2002), [5]l. 95/2002 (tóku gildi 31. maí
- 2002) og [6]l. 23/2006 (tóku gildi 3. maí 2006; EES-samningurinn: XX. viðauki
+ með l. 51/2002 (tóku gildi 1. júlí 2002), l. 95/2002 (tóku gildi 31. maí 2002)
+    og [4]l. 23/2006 (tóku gildi 3. maí 2006; EES-samningurinn: XX. viðauki
                              tilskipun 2003/4/EB).
 
                            I. kafli. Ríkisreikningur.
@@ -20,7 +20,7 @@
   1. gr. Bókhaldi ríkisaðila skal hagað á skýran og aðgengilegan hátt og skulu
 reikningsskil gefa glögga mynd af rekstri þeirra og efnahag. Að svo miklu leyti
    sem ekki er sérstaklega mælt fyrir á annan veg í lögum þessum gilda ákvæði
-[7]laga nr. 145/1994, um bókhald, og [8]laga nr. 144/1994, um ársreikninga, svo
+[5]laga nr. 145/1994, um bókhald, og [6]laga nr. 144/1994, um ársreikninga, svo
                   og góðar bókhalds- og reikningsskilavenjur.
                                   Ríkisaðilar.
 2. gr. Ríkisaðilar eru þeir sem fara með ríkisvald og þær stofnanir og fyrirtæki
@@ -55,7 +55,7 @@ ríkissjóður kostar að öllu eða að verulegu leyti starfsemi þeirra með f
    [fjársýslustjóra]^1) þar sem m.a. komi fram að reikningurinn nái til allra
   ríkisaðila og að hann sé gerður í samræmi við lög og þær venjur sem gilda um
                             reikningsskil ríkisins.
-                             ^1)[9]L. 95/2002, 1. gr.
+                               ^1)L. 95/2002, 1. gr.
                                   Endurskoðun.
    6. gr. Ríkisendurskoðandi er endurskoðandi ríkisreiknings og ársreikninga
                    ríkisaðila, sbr. lög um Ríkisendurskoðun.
@@ -171,7 +171,7 @@ Einnig skulu þeir sem ekki eru ríkisaðilar og um getur í 3. málsl. 1. tölu
 Hverju ráðuneyti ber að sjá til þess að stofnanir, sem undir það heyra samkvæmt
        stjórnarráðslögum og reglugerð, uppfylli ákvæði laga um skilafrest
                                ársreikninga.]^1)
-                             ^1)[10]L. 95/2002, 2. gr.
+                               ^1)L. 95/2002, 2. gr.
 
                        III. kafli. Frumvarp til fjárlaga.
                                     Almennt.
@@ -290,8 +290,8 @@ taka ákvarðanir um réttindi og skyldur manna nema sérstök heimild sé til �
       við verkefnið sé ekki umtalsverður hluti heildarútgjalda stofnunar.
    Verktaki og starfsmenn hans skulu bundnir þagnarskyldu um það sem þeir fá
      vitneskju um við framkvæmd rekstrarverkefnisins og leynt á að fara. Um
-þagnarskylduna gilda ákvæði [11]18. gr. laga um réttindi og skyldur starfsmanna
-  ríkisins, nr. 70/1996, og skal brot á henni varða refsingu skv. [12]136. gr.
+ þagnarskylduna gilda ákvæði [7]18. gr. laga um réttindi og skyldur starfsmanna
+  ríkisins, nr. 70/1996, og skal brot á henni varða refsingu skv. [8]136. gr.
                       almennra hegningarlaga, nr. 19/1940.
    Í samningi um rekstrarverkefni samkvæmt þessari grein skal m.a. skilgreina
 umfang og gæði þeirrar þjónustu sem ríkissjóður kaupir, samningstíma, greiðslur
@@ -310,7 +310,7 @@ Uppsagnarfrestur samnings skal stystur vera þrír mánuðir. Fjármálaráðher
   fjárlagaárinu og áætlun um kostnað sem af þeim hlýst næstu þrjú fjárlagaár.
   Jafnframt skal gera grein fyrir markmiðum og ávinningi ríkisins af áformuðum
                                    samningum.
-                  ^1)[13]L. 23/2006, 18. gr. ^2)[14]Rg. 343/2006.
+                    ^1)[9]L. 23/2006, 18. gr. ^2)Rg. 343/2006.
          Eignir keyptar nauðungarsölu og ráðstöfun þeirra hjá A-hluta.
 31. gr. Ríkisaðilar í A-hluta geta án sérstakrar lagaheimildar keypt eignir við
       nauðungarsölu á grundvelli veðréttar eða skilmála að baki áfallinna
@@ -322,7 +322,7 @@ Uppsagnarfrestur samnings skal stystur vera þrír mánuðir. Fjármálaráðher
 staðgreiðslu, enda séu þau innan marka fjárheimilda, og skal jafnan um það samið
   hvenær greiða skuli fyrir þau viðskipti. Fjármálaráðherra setur reglur^1) um
                           láns- og reikningsviðskipti.
-                               ^1)[15]Rgl. 83/2000.
+                                 ^1)Rgl. 83/2000.
                        Ófyrirséð greiðsluskylda A-hluta.
  33. gr. Valdi ófyrirséð atvik því að greiða þarf úr ríkissjóði án heimildar í
    fjárlögum er fjármálaráðherra að höfðu samráði við hlutaðeigandi ráðherra
@@ -412,9 +412,9 @@ ráðuneytisstjóri fjármálaráðuneytis, [fjársýslustjóri],^2) ríkisendur
     hagstofustjóri, auk [eins fulltrúa]^1) sem fjármálaráðherra skipar eftir
 tilnefningu Seðlabanka Íslands ^1) Ráðherra skipar formann nefndarinnar úr hópi
                                  nefndarmanna.
-                ^1)[16]L. 51/2002, 2. gr. ^2)[17]L. 95/2002, 3. gr.
+                    ^1)L. 51/2002, 2. gr. ^2)L. 95/2002, 3. gr.
                             [Fjársýsla ríkisins.]^1)
-                             ^1)[18]L. 95/2002, 4. gr.
+                               ^1)L. 95/2002, 4. gr.
         48. gr. [Fjársýsla ríkisins er sérstök stofnun sem heyrir undir
    fjármálaráðherra. Fjársýslustjóri veitir Fjársýslu ríkisins forstöðu og er
                skipaður af fjármálaráðherra til fimm ára í senn.
@@ -429,7 +429,7 @@ Fjársýsla ríkisins annast féhirslu ríkisins og greiðsluþjónustu fyrir r�
      og þær ríkisstofnanir sem þess óska, svo og móttöku innheimtufjár frá
      innheimtustofnunum ríkisins ásamt innheimtu á skuldabréfum og kröfum.
             Fjársýsla ríkisins skal annast gerð ríkisreiknings.]^1)
-                             ^1)[19]L. 95/2002, 4. gr.
+                               ^1)L. 95/2002, 4. gr.
                               Ábyrgð á fjárreiðum.
         49. gr. Forstöðumenn og stjórnir ríkisaðila bera ábyrgð á því að
    fjárhagsráðstafanir þeirra séu í samræmi við heimildir. Þessir aðilar bera
@@ -437,7 +437,7 @@ Fjársýsla ríkisins annast féhirslu ríkisins og greiðsluþjónustu fyrir r�
          staðið sé við skilaskyldu á þeim til [Fjársýslu ríkisins].^1)
  Brot á ákvæðum laga þessara varða skyldur opinberra starfsmanna samkvæmt lögum
                   um réttindi og skyldur starfsmanna ríkisins.
-                             ^1)[20]L. 95/2002, 5. gr.
+                               ^1)L. 95/2002, 5. gr.
 50. gr. Að öðru leyti en mælt er fyrir um í lögum þessum gilda þau um fjárreiður
      Alþingis eftir því sem við á. Forsætisnefnd skal, að höfðu samráði við
 fjármálaráðherra, taka ákvarðanir skv. 2. mgr. 29. gr., 32. gr., 2. mgr. 37. gr.
@@ -447,8 +447,8 @@ fjármálaráðherra, taka ákvarðanir skv. 2. mgr. 29. gr., 32. gr., 2. mgr. 3
                              Reglugerðarheimildir.
     51. gr. Fjármálaráðherra er heimilt með reglugerð^1) að kveða nánar á um
                             framkvæmd laga þessara.
-    ^1)[21]Rg. 530/1975, sbr. [22]208/1987; [23]rg. 533/1975, [24]rg. 206/2003,
-                      [25]rg. 1061/2004, [26]rg. 214/2006.
+    ^1)Rg. 530/1975, sbr. 208/1987; rg. 533/1975, rg. 206/2003, rg. 1061/2004,
+                                 rg. 214/2006.
                                   Gildistaka.
  52. gr. Lög þessi öðlast þegar gildi og koma til framkvæmda við gerð frumvarps
       til fjárlaga fyrir árið 1998 og uppgjör ríkisreiknings fyrir það ár.
@@ -460,26 +460,9 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997088
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=100
    3. http://www.althingi.is/altext/121/s/0103.html
-   4. file:///altext/stjt/2002.051.html
-   5. file:///altext/stjt/2002.095.html
-   6. file://2006023.html
-   7. file://1994145.html
-   8. file://1994144.html
-   9. file:///altext/stjt/2002.095.html
-  10. file:///altext/stjt/2002.095.html
-  11. file://1996070.html#g18
-  12. file://1940019.html#g136
-  13. file://2006023.html#g18
-  14. file://ekkitil/ekkitil.html?REGL/2006343
-  15. file://ekkitil/ekkitil.html?REGL/2000083
-  16. file:///altext/stjt/2002.051.html
-  17. file:///altext/stjt/2002.095.html
-  18. file:///altext/stjt/2002.095.html
-  19. file:///altext/stjt/2002.095.html
-  20. file:///altext/stjt/2002.095.html
-  21. file://ekkitil/ekkitil.html?REGL/1975530
-  22. file://ekkitil/ekkitil.html?REGL/1987208
-  23. file://ekkitil/ekkitil.html?REGL/1975533
-  24. file://ekkitil/ekkitil.html?REGL/2003206
-  25. file://ekkitil/ekkitil.html?REGL/20041061
-  26. file://ekkitil/ekkitil.html?REGL/2006214
+   4. file://2006023.html
+   5. file://1994145.html
+   6. file://1994144.html
+   7. file://1996070.html#g18
+   8. file://1940019.html#g136
+   9. file://2006023.html#g18

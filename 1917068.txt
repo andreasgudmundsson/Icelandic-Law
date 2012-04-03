@@ -10,8 +10,8 @@
 
                         ^1)Sjá Lagasafn 1990, d. 15511555.
    Tóku gildi 27. febrúar 1918. Breytt með [2]l. 10/1926 (tóku gildi 15. júní
-1926), [3]l. 56/1933 (tóku gildi 19. júní 1933), [4]l. 116/1990 (tóku gildi 31.
-             des. 1990) og [5]l. 91/1991 (tóku gildi 1. júlí 1992).
+  1926), [3]l. 56/1933 (tóku gildi 19. júní 1933), l. 116/1990 (tóku gildi 31.
+             des. 1990) og [4]l. 91/1991 (tóku gildi 1. júlí 1992).
 
 References
 
@@ -19,5 +19,4 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1917068
    2. file://1926010.html
    3. file://1933056.html
-   4. file:///altext/stjt/1990.116.html
-   5. file://1991091.html
+   4. file://1991091.html
