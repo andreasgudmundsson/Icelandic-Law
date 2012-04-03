@@ -1,3 +1,4 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -49,7 +50,9 @@ starfa á ábyrgð og undir handleiðslu hans. Aðstoðarfólk þetta hefur ekki
       refsingu vegna brota sjúkraþjálfara, um sviptingu starfsleyfis og um
                              endurveitingu leyfis.
    Með mál út af brotum gegn lögum þessum skal farið að hætti opinberra mála.
-12. gr. Ráðherra getur sett nánari ákvæði í reglugerð um framkvæmd laga þessara.
+   12. gr. Ráðherra getur sett nánari ákvæði í reglugerð^1) um framkvæmd laga
+                                    þessara.
+                                ^1)[4]Rg. 318/2001.
 
 References
 
@@ -57,3 +60,4 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1976058
    2. file:///altext/stjt/1993.116.html
    3. file:///altext/stjt/1993.116.html
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/318-2001

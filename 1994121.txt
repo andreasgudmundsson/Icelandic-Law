@@ -1,3 +1,4 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -122,7 +123,7 @@ greiðsluskuldbindingum lánveitanda annars vegar og neytanda hins vegar samkvæ
    lánssamningi þeirra. Árlegri hlutfallstölu kostnaðar skal lýst sem árlegri
     prósentu af upphæð höfuðstóls lánsins. Hún skal reiknuð út í samræmi við
 stærðfræðilíkingu sem nánar skal mælt fyrir um í reglugerð^1) er ráðherra setur.
-                    ^1)Rg. 377/1993, sbr. 491/1993 og 236/2000.
+               ^1)[4]Rg. 377/1993, sbr. [5]491/1993 og [6]236/2000.
      11. gr. Árleg hlutfallstala kostnaðar skal reiknuð út á þeim tíma sem
  lánssamningur er gerður. Við útreikning árlegrar hlutfallstölu skal gengið út
    frá því að lánssamningur gildi umsaminn tíma og að lánveitandi og neytandi
@@ -146,7 +147,7 @@ hlutfallstölu kostnaðar miðað við þá forsendu að verðlag, vextir og ön
 til. Ef lánveitandi er jafnframt seljandi vöru eða þjónustu skal einnig gefa upp
   staðgreiðsluverð hins selda. Um framkvæmd upplýsingaskyldu samkvæmt þessari
          grein skal nánar mælt fyrir í reglugerð er ráðherra setur.]^1)
-                             ^1)[4]L. 179/2000, 3. gr.
+                             ^1)[7]L. 179/2000, 3. gr.
 14. gr. Nú eru vextir eða annar lántökukostnaður ekki tilgreindir í lánssamningi
 og er lánveitanda þá eigi heimilt að krefja neytanda um greiðslu þeirra. Að öðru
         leyti fer um vexti af neytendalánum samkvæmt ákvæðum vaxtalaga.
@@ -232,11 +233,11 @@ eða fleiri hlutanna til afhendingar gegn því að greiða um leið mismun andv
                             VI. kafli. Ýmis ákvæði.
  21. gr. Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að
               kveða nánar á um framkvæmd þeirra með reglugerð.^1)
-                    ^1)Rg. 377/1993, sbr. 491/1993 og 236/2000.
+               ^1)[8]Rg. 377/1993, sbr. [9]491/1993 og [10]236/2000.
      22. gr. Viðskiptaráðherra getur sett reglur^1) um hvernig prenta skuli
  leiðbeiningar um réttarstöðu neytanda á skriflega samninga og skjöl sem lögin
                                    taka til.
-                    ^1)Rg. 377/1993, sbr. 491/1993 og 236/2000.
+              ^1)[11]Rg. 377/1993, sbr. [12]491/1993 og [13]236/2000.
  23. gr. Viðskiptaráðherra getur breytt fjárhæðum í lögum þessum eftir því sem
                         verðlagsþróun gefur tilefni til.
  24. gr. Eigi má með samningi víkja frá ákvæðum laga þessara né reglugerða, sem
@@ -265,7 +266,7 @@ starfsmann lögaðilans ef sýnt þykir að einhver starfsmaður lögaðilans ha
 ákvæði tilskipunar ráðsins nr. 102 frá 22. desember 1986, um samræmingu á lögum
   og stjórnsýslufyrirmælum aðildarríkjanna varðandi neytendalán, ásamt síðari
                                 breytingum.]^1)
-                             ^1)[5]L. 179/2000, 4. gr.
+                            ^1)[14]L. 179/2000, 4. gr.
 
 References
 
@@ -273,5 +274,14 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1994121
    2. file:///altext/stjt/2000.179.html
    3. file:///altext/stjt/2000.179.html
-   4. file:///altext/stjt/2000.179.html
-   5. file:///altext/stjt/2000.179.html
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/377-1993
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1993
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2000
+   7. file:///altext/stjt/2000.179.html
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/377-1993
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1993
+  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2000
+  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/377-1993
+  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1993
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2000
+  14. file:///altext/stjt/2000.179.html

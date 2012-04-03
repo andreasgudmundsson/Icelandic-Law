@@ -1,3 +1,4 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -39,7 +40,7 @@ nafni sveitarfélags nema með staðfestingu ráðuneytisins. Birta skal staðfe
 Iðnaðarráðherra setur nánari reglur^1) um skráningu byggðarmerkja, m.a. varðandi
   umsóknir og meðferð þeirra, skilyrði fyrir skráningu, ógildingu, birtingu og
              gjöld fyrir umsóknir og vottorð úr byggðarmerkjaskrá.
-                                 ^1)Rg. 112/1999.
+                                ^1)[2]Rg. 112/1999.
                             6. gr. Lágmarksíbúatala.
                   Lágmarksíbúatala sveitarfélags er 50 íbúar.
 Nú hefur íbúafjöldi sveitarfélags verið lægri en 50 í þrjú ár samfleytt og skal
@@ -578,7 +579,7 @@ fjárhagsáætlun reikningsársins til samanburðar og í honum skal koma fram y
     Ráðherra setur með reglugerð^1) nánari ákvæði um bókhald og ársreikninga
     sveitarfélaga að höfðu samráði við Hagstofu Íslands og Samband íslenskra
                                  sveitarfélaga.
-                                 ^1)Rg. 944/2000.
+                     ^1)[3]Rg. 944/2000, sbr. augl. 414/2001.
                        68. gr. Endurskoðun ársreiknings.
 Sveitarstjórn ræður löggiltan endurskoðanda eða endurskoðunarfyrirtæki sem vinna
                      skal endurskoðun hjá sveitarfélaginu.
@@ -688,10 +689,11 @@ sveitarfélag og samhliða upplýsa ráðuneytið um álit sitt. Sveitarstjórn 
        hvernig sveitarstjórnin hyggst bregðast við aðvörun nefndarinnar.
   Þóknun til eftirlitsnefndarmanna skal ákveðin af ráðherra. Þóknunin og annar
             kostnaður af starfi nefndarinnar greiðist úr ríkissjóði.
-Ráðherra setur í samráði við Samband íslenskra sveitarfélaga reglugerð um störf
-   og málsmeðferð eftirlitsnefndar og viðmiðanir varðandi fjárhagsleg málefni
+  Ráðherra setur í samráði við Samband íslenskra sveitarfélaga reglugerð^1) um
+störf og málsmeðferð eftirlitsnefndar og viðmiðanir varðandi fjárhagsleg málefni
   sveitarfélaga. Fjárhagsviðmiðanir skulu taka til þeirra atriða sem meginmáli
                skipta við mat á rekstri og efnahag sveitarfélaga.
+                                ^1)[4]Rg. 374/2001.
                                75. gr. Fjárþröng.
  Komist sveitarfélag í fjárþröng þannig að sveitarstjórn telur sér eigi unnt að
 standa í skilum skal hún tilkynna það til eftirlitsnefndar skv. 74. gr. Ákvörðun
@@ -922,7 +924,7 @@ Sveitarstjórn hins sameinaða sveitarfélags skal hlutast til um að samþykkti
 almennar reglur^1) þess efnis að Jöfnunarsjóður sveitarfélaga veiti fjárhagslega
 aðstoð til þess að greiða fyrir sameiningu sveitarfélaga. Slíka aðstoð má veita
                       í allt að fimm ár eftir sameiningu.
-                                 ^1)Rg. 619/1994.
+                                ^1)[5]Rg. 619/1994.
                      99. gr. Afsláttur af fasteignaskatti.
      Þegar sveitarfélag í dreifbýli og sveitarfélag í þéttbýli sameinast er
   sveitarstjórn hins sameinaða sveitarfélags heimilt að ákveða að um tiltekinn
@@ -979,10 +981,10 @@ Við framkvæmd atkvæðagreiðslu skv. 5. mgr. skal farið eftir meginreglum la
            kosningar til sveitarstjórna eftir því sem við getur átt.
                               105. gr. Gildistaka.
                        [Lög þessi öðlast þegar gildi.]^1)
-                             ^1)[2]L. 123/1998, 1. gr.
+                             ^1)[6]L. 123/1998, 1. gr.
  Ákvæði til bráðabirgða. Vegna ákvæðis 1. mgr. 1. gr. laganna skal þeim hlutum
     landsins, þar með talið jöklum, sem ekki hefur þegar verið skipað innan
-staðarmarka sveitarfélaga á grundvelli [3]1. eða [4]3. gr. sveitarstjórnarlaga,
+staðarmarka sveitarfélaga á grundvelli [7]1. eða [8]3. gr. sveitarstjórnarlaga,
    nr. 8/1986, skipað innan staðarmarka sveitarfélaga með eftirfarandi hætti:
 Eignarlandi skal skipað innan staðarmarka sama sveitarfélags og sú jörð sem það
        hefur áður tilheyrt nema fyrir liggi sérstakar heimildir um annað.
@@ -1015,6 +1017,10 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998045
-   2. file:///altext/stjt/1998.123.html
-   3. file:///altext/stjtnr.html#1986008?g1
-   4. file://1986008.html
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-1999
+   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/944-2000
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-2001
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/619-1994
+   6. file:///altext/stjt/1998.123.html
+   7. file:///altext/stjtnr.html#1986008?g1
+   8. file://1986008.html

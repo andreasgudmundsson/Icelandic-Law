@@ -1,3 +1,4 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -42,14 +43,14 @@
 29.      Surtsey                  63°17'7                 20°36'2     
 30.      Eldeyjardrangur          63°43'8                 22°59'4     
 31.      Geirfugladrangur         63°40'7                 23°17'1     
-32.      Skálasnagi               64°51'3                 24°02'5     
-33.      Bjargtangar              65°30'2                 24°32'1     
-34.      Kópanes                  65°48'4                 24°06'0     
-35.      Barði                    66°03'7                 23°47'4     
 
-36.         Straumnes         66°25'7                  23°08'4         
-37.         Kögur             66°28'3                  22°55'5         
-38.         Horn              66°27'9                  22°28'2         
+32.         Skálasnagi          64°51'3                 24°02'5        
+33.         Bjargtangar         65°30'2                 24°32'1        
+34.         Kópanes             65°48'4                 24°06'0        
+35.         Barði               66°03'7                 23°47'4        
+36.         Straumnes           66°25'7                 23°08'4        
+37.         Kögur               66°28'3                 22°55'5        
+38.         Horn                66°27'9                 22°28'2        
 
   Landhelgin skal auk þess afmörkuð af línu sem alls staðar er 12 sjómílur frá
   stórstraumsfjöruborði Kolbeinseyjar (67°08'9 n.br., 18°41'3 v.lg.), Hvalbaks
@@ -85,7 +86,7 @@ stjórnun auðlinda, lífrænna og ólífrænna, á hafsbotni og í honum, í ha
  nýtingarstigi eru annaðhvort hreyfingarlausar á hafsbotni eða í honum eða geta
                  ekki hreyft sig án snertingar við hafsbotninn.
  Stjórnvöld setja reglur^1) um rannsóknir og hagnýtingu auðlinda landgrunnsins.
-                     ^1)Rg. 196/1985 (afmörkun landgrunnsins).
+                   ^1)[2]Rg. 196/1985 (afmörkun landgrunnsins).
 
                         IV. Afmörkun svæða milli landa.
   7. gr. Afmörkun efnahagslögsögu og landgrunns milli Íslands og annarra landa
@@ -138,3 +139,4 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1979041
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/196-1985

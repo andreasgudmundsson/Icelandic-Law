@@ -1,3 +1,4 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -12,8 +13,8 @@ leiða heitt vatn um lögsagnarumdæmið, þar sem bæjarstjórn ákveður, og e
  til þess að selja heitt vatn til upphitunar á húsum, sem ná til hitaveitunnar.
    Bæjarstjórn setur reglugerð^1) um rekstur hitaveitunnar, sem ríkisstjórnin
                                   staðfestir.
-       ^1)Rg. 208/1961, sbr. 122/1979 (um hitalagnir o.fl. í Reykjavík). Rg.
-                      406/1989 (um Hitaveitu Reykjavíkur).
+      ^1)[2]Rg. 208/1961, sbr. [3]122/1979 (um hitalagnir o.fl. í Reykjavík).
+                  [4]Rg. 406/1989 (um Hitaveitu Reykjavíkur).
   2. gr. Þegar bæjarstjórnin hefur leitt heitt vatn frá jarðhitasvæði jarðanna
  Reykja og Reykjahvols í Mosfellssveit, getur bæjarstjórnin bannað, að hús, sem
 ná til hitaveitunnar, verði hituð með öðrum hætti en með vatni frá hitaveitunni.
@@ -91,3 +92,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1940038
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/208-1961
+   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/122-1979
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/406-1989

@@ -1,3 +1,4 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -292,9 +293,9 @@ staðgreiðslu, reiknast dráttarvextir eftir almennum reglum frá og með gjald
                               Setning reglugerðar.
   18. gr. Ráðherra getur með reglugerð^1) sett nánari ákvæði um framkvæmd laga
                                     þessara.
-                                 ^1)Rg. 753/1997.
+                               ^1)[38]Rg. 753/1997.
                            Brottfall lagaákvæða o.fl.
- 19. gr. Ákvæði laga þessara koma í stað þeirra ákvæða [38]laga nr. 46/1980, um
+ 19. gr. Ákvæði laga þessara koma í stað þeirra ákvæða [39]laga nr. 46/1980, um
 aðbúnað, hollustuhætti og öryggi á vinnustöðum, með síðari breytingum, er fela í
     sér ákvörðun gjaldstofns og gjaldtöku af launagreiðendum sem miðast við
                         launagreiðslur eða launatímabil.
@@ -344,4 +345,5 @@ References
   35. file://1981075.html
   36. file://1981075.html#g26
   37. file://1981075.html#g31
-  38. file://1980046.html
+  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/753-1997
+  39. file://1980046.html

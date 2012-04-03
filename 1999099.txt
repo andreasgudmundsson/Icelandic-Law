@@ -1,3 +1,4 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -77,15 +78,14 @@ lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris þar yfir. Það
                     greiða fastagjald sem nemur 150.000 kr.
    9. Nýsköpunarsjóður atvinnulífsins skal greiða 0,01156% af eignum samtals, þó
    eigi lægri fjárhæð en 250.000 kr. Húsbréfadeild Íbúðalánasjóðs skal greiða
-0,00031% af eignum samtals, þó eigi lægri fjárhæð en 250.000 kr. Kvótaþing skal
-                    greiða fastagjald sem nemur 150.000 kr.
+      0,00031% af eignum samtals, þó eigi lægri fjárhæð en 250.000 kr. ^1)
    10. Tryggingarsjóður innstæðueigenda og fjárfesta skal greiða fastagjald sem
                                nemur 150.000 kr.
  Útibú erlendra eftirlitsskyldra aðila sem fengið hafa starfsleyfi hér á landi
         skulu greiða eftirlitsgjald samkvæmt viðeigandi tölulið 1. mgr.
     Eftirlitsgjald skal reiknast í heilum þúsundum króna. Við álagningu skal
-               jafnframt færa álagningarstofna í þúsundir króna.]
-                             ^1)[2]L. 158/2000, 1. gr.
+             jafnframt færa álagningarstofna í þúsundir króna.]^2)
+                ^1)[2]L. 34/2001, 9. gr. ^2)[3]L. 158/2000, 1. gr.
                    6. gr. Framkvæmd álagningar og innheimtu.
 Álagning eftirlitsgjalds samkvæmt lögum þessum skal fara fram eigi síðar en 15.
   janúar ár hvert. Fjármálaeftirlitið skal gera eftirlitsskyldum aðilum grein
@@ -186,4 +186,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999099
-   2. file:///altext/stjt/2000.158.html
+   2. file://2001034.html
+   3. file:///altext/stjt/2000.158.html
