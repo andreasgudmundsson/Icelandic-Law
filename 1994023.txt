@@ -425,12 +425,15 @@
    2.
            Tekjur af starfsemi sjóðsins.
    3.
-           Sérstakt vörugjald skv. 6. tölul. 1. mgr. 11. gr.^1)
+           Sérstakt vörugjald skv. 6. tölul. 1. mgr. 11. gr.
    4.
            Framlag úr ríkissjóði samkvæmt ákvörðun Alþingis.
 
-   ^1)Á árinu 1995 er tiltekinn hluti af þessum tekjum látinn mæta framlögum
-   úr ríkissjóði til hafnarmannvirkja, sbr. [3]l. 148/1994, 35. gr.
+        [Tekjum af vörugjaldi skv. 1. og 3. tölul. 1. mgr. skal ráðstafað til
+   sjóðsins eða til annarra þarfa samkvæmt ákvörðun Alþingis í fjárlögum
+   hverju sinni.]^1)
+
+   ^1)[3]L. 144/1995, 51. gr.
 
                                     32. gr.
         Hafnabótasjóði er heimilt að taka lán til starfsemi sinnar samkvæmt
@@ -514,4 +517,4 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1994023
    2. file:///altext/stjtnr.html#1984069
-   3. file:///altext/stjt/1994.148.html
+   3. file:///altext/stjt/1995.144.html

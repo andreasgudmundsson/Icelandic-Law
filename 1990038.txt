@@ -163,20 +163,19 @@
    ákveðinn þannig að sókn sé heimil á 34% færri dögum á hverju tímabili en
    verið hefði með fastákveðnum viðbótarbanndögum. Heimilt er að flytja
    sóknardaga frá fyrsta og öðru veiðitímabili yfir á þriðja og fjórða
-   veiðitímabil sama fiskveiðiárs, enda verði bátum ekki haldið til veiða á
-   því veiðitímabili sem sóknardagar eru fluttir frá. Sóknardagar, sem
-   fluttir eru á þennan hátt, skulu margfaldaðir með stuðlinum 0,5 og broti
-   sleppt. Þannig umreiknuðum sóknardögum skal skipt jafnt milli þriðja og
-   fjórða veiðitímabils. Útgerðir skulu tilkynna Fiskistofu um flutning á
-   sóknardögum fyrir upphaf þess veiðitímabils sem sóknardagar eru fluttir
-   frá. Annað veiðitímabil fiskveiðiársins 1996/1997 er fyrsta veiðitímabil
-   sem heimilt er að flytja sóknardaga frá. Við útreikning á sóknardögum á
-   hverju tímabili á næsta fiskveiðiári skal hlutfall afla, sem er jafnt
-   hlutfall fluttra sóknardaga af heildarfjölda sóknardaga á tímabilinu,
-   reiknast til afla þess tímabils sem sóknardagar voru fluttir frá. Ráðherra
-   skal með reglugerð kveða nánar á um fyrirkomulag sóknardaga, eftirlit með
-   þeim og hvernig tilkynnt skuli um flutning á sóknardögum. Ráðherra getur á
-   sama hátt með reglugerð leyft flutning milli annarra tímabila.
+   veiðitímabil sama fiskveiðiárs, ...^1) Sóknardagar, sem fluttir eru á
+   þennan hátt, skulu margfaldaðir með stuðlinum 0,5 og broti sleppt. Þannig
+   umreiknuðum sóknardögum skal skipt jafnt milli þriðja og fjórða
+   veiðitímabils. Útgerðir skulu tilkynna Fiskistofu um flutning á
+   sóknardögum fyrir upphaf [þriðja veiðitímabils].^2) Annað veiðitímabil
+   [fiskveiðiársins 1995/1996]^3) er fyrsta veiðitímabil sem heimilt er að
+   flytja sóknardaga frá. Við útreikning á sóknardögum á hverju tímabili á
+   næsta fiskveiðiári skal hlutfall afla, sem er jafnt hlutfall fluttra
+   sóknardaga af heildarfjölda sóknardaga á tímabilinu, reiknast til afla
+   þess tímabils sem sóknardagar voru fluttir frá. Ráðherra skal með
+   reglugerð kveða nánar á um fyrirkomulag sóknardaga, eftirlit með þeim og
+   hvernig tilkynnt skuli um flutning á sóknardögum. Ráðherra getur á sama
+   hátt með reglugerð leyft flutning milli annarra tímabila.
         Sé einn maður í áhöfn krókabáts er óheimilt að róa með og eiga í sjó
    fleiri en 12 bala af línu en 20 bala séu tveir eða fleiri í áhöfn. Miðað
    er við að 500 krókar séu á línu í hverjum bala.
@@ -194,9 +193,10 @@
         Heimilt er án sérstaks leyfis að stunda fiskveiðar í tómstundum til
    eigin neyslu. Slíkar veiðar er einungis heimilt að stunda með handfærum án
    sjálfvirknibúnaðar. Afla, sem veiddur er samkvæmt heimild í þessari
-   málsgrein, er óheimilt að selja eða fénýta á annan hátt.]^1)
+   málsgrein, er óheimilt að selja eða fénýta á annan hátt.]^4)
 
-   ^1)[8]L. 83/1995, 2. gr. [9]Um gildistöku sjá 6. gr. s.l.
+   ^1)[8]L. 158/1995, 1. gr.^2)[9]L. 158/1995, 2. gr.^3)[10]L. 158/1995, 3.
+   gr.^4)[11]L. 83/1995, 2. gr. [12]Um gildistöku sjá 6. gr. s.l.
 
                                      7. gr.
         Veiðar á þeim tegundum sjávardýra, sem ekki sæta takmörkun á
@@ -228,7 +228,7 @@
    tilkynningu vegna hvers skips um aflamark þess í upphafi veiðitímabils eða
    vertíðar.
 
-   ^1)[10]L. 87/1994, 3. gr.^2)[11]L. 36/1992, 6. gr.
+   ^1)[13]L. 87/1994, 3. gr.^2)[14]L. 36/1992, 6. gr.
 
                                      8. gr.
         Verði veiðar takmarkaðar skv. 3. gr. á tegundum sjávardýra sem
@@ -255,7 +255,7 @@
    bætast þær við heildaraflamark viðkomandi tegunda og koma til úthlutunar í
    samræmi við aflahlutdeild einstakra skipa.]^1)
 
-   ^1)[12]L. 87/1994, 4. gr.
+   ^1)[15]L. 87/1994, 4. gr.
 
                                     10. gr.
         Heimilt er að veiða umfram úthlutað aflamark af tiltekinni
@@ -286,7 +286,7 @@
    metið er hversu miklu af aflamarki skips er náð hverju sinni. Skal álagið
    vera allt að 20% á þorsk og ýsu en allt að 15% á aðrar tegundir.
 
-   ^1)[13]L. 87/1994, 5. gr.^2)[14]L. 83/1995, 3. gr.^3)[15]L. 87/1994, 6.
+   ^1)[16]L. 87/1994, 5. gr.^2)[17]L. 83/1995, 3. gr.^3)[18]L. 87/1994, 6.
    gr.
 
                                     11. gr.
@@ -328,7 +328,7 @@
    bráðabirgða, fyrr en að liðnum fimm árum frá gildistöku laga þessara, enda
    hafi skipi, sem framselt er af, verið haldið til veiða allt það tímabil.
 
-   ^1)[16]L. 36/1992, 8. gr.
+   ^1)[19]L. 36/1992, 8. gr.
 
                                     12. gr.
         Heimilt er að færa aflamark milli skipa sömu útgerðar eða skipa sem
@@ -353,8 +353,8 @@
    lækkar þó um 5% fyrir hverja fulla 30 daga sem skipi er haldið til veiða
    utan fiskveiðilandhelgi Íslands á fiskveiðiárinu.]^4)
 
-   ^1)[17]L. 36/1992, 9. gr.^2)[18]L. 83/1995, 4. gr.^3)[19]L. 87/1994, 8.
-   gr.^4)[20]L. 87/1994, 9. gr.
+   ^1)[20]L. 36/1992, 9. gr.^2)[21]L. 83/1995, 4. gr.^3)[22]L. 87/1994, 8.
+   gr.^4)[23]L. 87/1994, 9. gr.
 
                                   III. kafli.
                              Framkvæmd og eftirlit.
@@ -384,7 +384,7 @@
    sem ráðherra ákveður, allar þær upplýsingar sem unnt er að láta í té og
    nauðsynlegar eru taldar vegna eftirlits með framkvæmd laga þessara.
 
-   ^1)[21]L. 36/1992, 10. gr.
+   ^1)[24]L. 36/1992, 10. gr.
 
                                     16. gr.
         Afli skal ávallt veginn á löndunarstað. Hafnaryfirvöld á hverjum
@@ -405,12 +405,12 @@
    vegna ferðar eftirlitsmanns [stofunnar]^2) til að fylgjast með löndun úr
    skipinu erlendis eða skipið komi til hafnar á Íslandi vegna eftirlits.
 
-   ^1)[22]L. 87/1994, 10. gr.^2)[23]L. 36/1992, 11. gr.
+   ^1)[25]L. 87/1994, 10. gr.^2)[26]L. 36/1992, 11. gr.
 
                                     17. gr.
         [Fiskistofa]^1) annast eftirlit með framkvæmd laga þessara og hefur í
    því skyni sérstaka eftirlitsmenn í sinni þjónustu.
-        Jafnframt því sem þessir eftirlitsmenn sinna verkefnum skv. [24]8.
+        Jafnframt því sem þessir eftirlitsmenn sinna verkefnum skv. [27]8.
    gr. laga nr. 81 31. maí 1976 og eftirliti með reglum settum samkvæmt
    heimild í þeim lögum skulu þeir fylgjast með löndun, vigtun og vinnslu
    afla, enn fremur útflutningi afla eða afurða eins og nánar er kveðið á í
@@ -423,7 +423,7 @@
    útgerða, sjálfvirkur eftirlitsbúnaður til fjareftirlits um borð í
    fiskiskip.]^3)
 
-   ^1)[25]L. 36/1992, 12. gr.^2)Erbr. 87/1995.^3)[26]L. 83/1995, 5. gr.
+   ^1)[28]L. 36/1992, 12. gr.^2)Erbr. 87/1995.^3)[29]L. 83/1995, 5. gr.
 
                                     18. gr.
         Ráðherra skal með reglugerð ákveða sérstakt gjald 
@@ -440,22 +440,36 @@
    vera lægra en [2.000 kr.]^2) og er sú fjárhæð grunntala er miðast við
    byggingarvísitölu í janúar 1991 og breytist í hlutfalli við þær breytingar
    sem síðar kunna að verða á henni.
+        [Innheimta skal sérstakt gjald vegna afla báta er veiðar stunda með
+   línu og handfærum með dagatakmörkunum skv. 1.8. mgr. 6. gr. og vegna þess
+   helmings afla sem ekki telst til aflamarks við línuveiðar yfir
+   vetrarmánuðina skv. 6. mgr. 10. gr. Skal gjaldið vera jafnhátt gjaldi
+   vegna tilkynningar um aflamark skv. 2. mgr. og gilda ákvæði þeirrar
+   málsgreinar um gjald þetta eftir því sem við getur átt. Gjald samkvæmt
+   þessari málsgrein skal innheimt árlega samhliða gjaldi vegna almenns
+   veiðileyfis skv. 4. mgr. Skal gjaldið miðast við landaðan afla viðkomandi
+   báts er veiðar stundar skv. 1.8. mgr. 6. gr. á 12 mánaða tímabili frá 1.
+   ágúst til 31. júlí fyrir upphaf hvers fiskveiðiárs og þann hluta línuafla
+   hvers skips sem ekki taldist til aflamarks á næstliðnum vetri skv. 6. mgr.
+   10. gr. miðað við skráningu aflans í aflaupplýsingakerfi Fiskistofu.]^3)
         Fyrir veitingu almenns leyfis til veiða í atvinnuskyni og veiðileyfa,
    sem veitt verða á grundvelli 2. mgr. 4. gr., skal greiða [10.000 kr.]^2)
    Ráðherra er heimilt að hækka gjaldið er nemur hlutfallslegri hækkun er
-   kann að verða á vísitölu byggingarkostnaðar, sbr. [27]l. nr. 42/1987.
+   kann að verða á vísitölu byggingarkostnaðar, sbr. [30]l. nr. 42/1987.
    Grunntaxti gjaldsins er miðaður við byggingarvísitölu í desember 1989,
    þ.e. 157,9 stig.
         Útgerð skips skal greiða fæði veiðieftirlitsmanna og sjá þeim
    endurgjaldslaust fyrir aðstöðu meðan þeir stunda eftirlitsstörf um borð.
         [Fyrir staðfestingu Fiskistofu á flutningi aflahlutdeildar milli
    skipa skal útgerð þess skips sem flutt er frá greiða 1.500 kr.
-        Gjald skv. 5. mgr. er grunngjald er miðast við byggingarvísitölu í
-   janúar 1994 og breytist í hlutfalli við þær breytingar er á henni kunna að
-   verða.]^3)
+        Gjald skv. [6. mgr.]^4) er grunngjald er miðast við byggingarvísitölu
+   í janúar 1994 og breytist í hlutfalli við þær breytingar er á henni kunna
+   að verða.]^5)
 
-   ^1)[28]L. 87/1994, 11. gr.^2)[29]L. 1/1992, 5. gr.^3)[30]L. 87/1994, 12.
-   gr.
+   ^1)[31]L. 87/1994, 11. gr.^2)[32]L. 1/1992, 5. gr.^3)[33]L. 144/1995, 12.
+   gr. Ákvæðið komi til framkvæmda við útgáfu almenns leyfis til veiða í
+   atvinnuskyni vegna fiskveiðiársins er hefst 1. september 1996, sbr.
+   [34]59. gr. s.l.^4)[35]L. 144/1995, 13. gr.^5)[36]L. 87/1994, 12. gr.
 
                                    IV. kafli.
                                  Viðurlög o.fl.
@@ -467,7 +481,7 @@
    hætti opinberra mála.
 
                                     20. gr.
-        [Beita skal ákvæðum [31]laga nr. 37 27. maí 1992, um sérstakt gjald
+        [Beita skal ákvæðum [37]laga nr. 37 27. maí 1992, um sérstakt gjald
    vegna ólögmæts sjávarafla, með síðari breytingum, vegna brota gegn þessum
    lögum eftir því sem við á.]^1)
         Ráðuneytinu er enn fremur heimilt, vegna brota á ákvæðum laga
@@ -476,12 +490,12 @@
    m.a. upptöku skv. 1. mgr. Sama gildir verði vanskil á greiðslu andvirðis
    ólöglegs sjávarafla sem sætt hefur upptöku.
 
-   ^1)[32]L. 87/1994, 13. gr.
+   ^1)[38]L. 87/1994, 13. gr.
 
                                    V. kafli.
                                   Ýmis ákvæði.
                                     21. gr.
-        Þrátt fyrir ákvæði [33]3. gr. laga nr. 81 31. maí 1976, með áorðnum
+        Þrátt fyrir ákvæði [39]3. gr. laga nr. 81 31. maí 1976, með áorðnum
    breytingum, skulu veiðar með vörpu heimilaðar á vannýttum fisktegundum á
    ákveðnum svæðum samkvæmt reglum er ráðherra setur.
 
@@ -511,7 +525,7 @@
    flutningur til þess að veiðiheimildir þess skips sem flutt er til verði
    bersýnilega umfram veiðigetu þess.]^1)
 
-   ^1)[34]L. 87/1994, brbákv.
+   ^1)[40]L. 87/1994, brbákv.
 
                                       [X.
         Á fiskveiðiárunum 1995/1996 til og með 1998/1999 skal árlega ráðstafa
@@ -526,7 +540,7 @@
    aflaheimilda skv. 9. gr. og miðast við að skerðing umfram tiltekin mörk
    skuli að fullu bætt, þó þannig að ekkert skip fái meira en 10 lestir af
    þorski, miðað við slægðan fisk, í sinn hlut árlega. Skip, sem leyfi hafa
-   til fullvinnslu botnfiskafla um borð, sbr. [35]lög nr. 54/1992, skulu ekki
+   til fullvinnslu botnfiskafla um borð, sbr. [41]lög nr. 54/1992, skulu ekki
    njóta bóta samkvæmt þessu ákvæði.
         Ráðherra skal með reglugerð kveða nánar á um úthlutun samkvæmt
    þessari grein. Skal hann m.a. kveða á um við hvaða tíma skuli miða
@@ -544,7 +558,7 @@
    1. mgr. þessa ákvæðis er heimilt að taka mið af breytingum í aflamarki sem
    orðið hafa á lengra tímabili en milli fiskveiðiára.]^1)
 
-   ^1)[36]L. 83/1995, brbákv. I.
+   ^1)[42]L. 83/1995, brbákv. I.
 
                                       [XI.
         Á fiskveiðiárunum 1995/1996 til og með 1998/1999 skal Byggðastofnun
@@ -555,7 +569,7 @@
    skal sjávarútvegsráðherra með reglugerð ráðstafa þessum aflaheimildum til
    krókabáta.]^1)
 
-   ^1)[37]L. 83/1995, brbákv. II.
+   ^1)[43]L. 83/1995, brbákv. II.
 
                                      [XII.
         Sjávarútvegsráðherra skal tafarlaust láta fara fram könnun á þeim
@@ -566,7 +580,17 @@
    tilkynningarskyldu og eftirlit með þessum veiðum með öðrum hætti sem hann
    telur fullnægjandi.]^1)
 
-   ^1)[38]L. 83/1995, brbákv. III.
+   ^1)[44]L. 83/1995, brbákv. III.
+
+                                     [XIII.
+        Þrátt fyrir ákvæði 4. málsl. 3. mgr. 18. gr. skal við innheimtu
+   gjaldsins í fyrsta sinn 1. september 1996 miða gjaldið við landaðan afla
+   viðkomandi krókabáts á sex mánaða tímabili frá 1. febrúar til 31. júlí
+   1996 og þann helming afla sem ekki telst til aflamarks við línuveiðar við
+   afla landaðan í janúar og febrúar 1996 miðað við skráningu aflans í
+   aflaupplýsingakerfi Fiskistofu.]^1)
+
+   ^1)[45]L. 144/1995, 14. gr.
 
 References
 
@@ -578,34 +602,41 @@ References
    5. file:///altext/stjtnr.html#1988003?g10
    6. file:///altext/stjt/1995.083.html
    7. file:///altext/stjt/1995.083.html
-   8. file:///altext/stjt/1995.083.html
-   9. file:///altext/stjt/1995.083.html
-  10. file:///altext/stjt/1994.087.html
-  11. file://1992036.html
-  12. file:///altext/stjt/1994.087.html
+   8. file:///altext/stjt/1995.158.html
+   9. file:///altext/stjt/1995.158.html
+  10. file:///altext/stjt/1995.158.html
+  11. file:///altext/stjt/1995.083.html
+  12. file:///altext/stjt/1995.083.html
   13. file:///altext/stjt/1994.087.html
-  14. file:///altext/stjt/1995.083.html
+  14. file://1992036.html
   15. file:///altext/stjt/1994.087.html
-  16. file://1992036.html
-  17. file://1992036.html
-  18. file:///altext/stjt/1995.083.html
-  19. file:///altext/stjt/1994.087.html
-  20. file:///altext/stjt/1994.087.html
-  21. file://1992036.html
+  16. file:///altext/stjt/1994.087.html
+  17. file:///altext/stjt/1995.083.html
+  18. file:///altext/stjt/1994.087.html
+  19. file://1992036.html
+  20. file://1992036.html
+  21. file:///altext/stjt/1995.083.html
   22. file:///altext/stjt/1994.087.html
-  23. file://1992036.html
-  24. file://1976081.html#g8
-  25. file://1992036.html
-  26. file:///altext/stjt/1995.083.html
-  27. file://1987042.html
-  28. file:///altext/stjt/1994.087.html
-  29. file:///altext/stjt/1992.001.html
-  30. file:///altext/stjt/1994.087.html
-  31. file://1992037.html
-  32. file:///altext/stjt/1994.087.html
-  33. file://1976081.html#g3
-  34. file:///altext/stjt/1994.087.html
-  35. file://1992054.html
-  36. file:///altext/stjt/1995.083.html
-  37. file:///altext/stjt/1995.083.html
-  38. file:///altext/stjt/1995.083.html
+  23. file:///altext/stjt/1994.087.html
+  24. file://1992036.html
+  25. file:///altext/stjt/1994.087.html
+  26. file://1992036.html
+  27. file://1976081.html#g8
+  28. file://1992036.html
+  29. file:///altext/stjt/1995.083.html
+  30. file://1987042.html
+  31. file:///altext/stjt/1994.087.html
+  32. file:///altext/stjt/1992.001.html
+  33. file:///altext/stjt/1995.144.html
+  34. file:///altext/stjt/1995.144.html
+  35. file:///altext/stjt/1995.144.html
+  36. file:///altext/stjt/1994.087.html
+  37. file://1992037.html
+  38. file:///altext/stjt/1994.087.html
+  39. file://1976081.html#g3
+  40. file:///altext/stjt/1994.087.html
+  41. file://1992054.html
+  42. file:///altext/stjt/1995.083.html
+  43. file:///altext/stjt/1995.083.html
+  44. file:///altext/stjt/1995.083.html
+  45. file:///altext/stjt/1995.144.html

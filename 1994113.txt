@@ -193,8 +193,8 @@
    einstakt almanaksár ef stuðst er við skattframtal. Hafi iðgjöld, sem
    greidd hafa verið til lífeyrissjóðs eftir árslok 1969, ekki verið reiknuð
    með hliðsjón af atvinnutekjum og kauplagsbreytingum er umsjónarnefnd
-   eftirlauna heimilt, þrátt fyrir ákvæði 1. málsl. þessarar mgr., að leggja
-   atvinnutekjur til grundvallar við útreikning stiga.
+   eftirlauna heimilt, þrátt fyrir ákvæði 1. málsl. þessarar málsgreinar, að
+   leggja atvinnutekjur til grundvallar við útreikning stiga.
         Við útreikning stiga lengra aftur í tímann en upplýsingar
    lífeyrissjóðs og skattstjóra ná skal miða við meðaltal stiga þrjú bestu
    árin, sem upplýsingar eru um, þó aldrei meira en eitt stig, sbr. 2. mgr.
@@ -368,24 +368,28 @@
                                    IV. kafli.
                                 Fjárhagsákvæði.
                                     21. gr.
-        Kostnaður af eftirlaunum skv. I. kafla greiðist að ^3/[4] hlutum úr
-   Atvinnuleysistryggingasjóði og að ^1/[4] hluta úr ríkissjóði.
+        [Kostnaður af eftirlaunum skv. I. kafla greiðist úr ríkissjóði.]^1)
+
+   ^1)[11]L. 144/1995, 36. gr.
 
                                     22. gr.
-        Kostnaður af eftirlaunum skv. II. kafla greiðist að hálfu úr
-   ríkissjóði og að ^1/[4] hluta af Atvinnuleysistryggingasjóði og
-   Jöfnunarsjóði sveitarfélaga hvorum um sig.
+        [Kostnaður af eftirlaunum skv. II. kafla greiðist að ^3/[4] hlutum úr
+   ríkissjóði og að ^1/[4] hluta af Jöfnunarsjóði sveitarfélaga.]^1)
+
+   ^1)[12]L. 144/1995, 37. gr.
 
                                     23. gr.
         Þeim eftirlaunaþegum, sem njóta réttar skv. I. kafla laga þessara,
    skal greidd viðbót sem nemur þremur stigum umfram þann stigafjölda sem
-   önnur ákvæði þessara laga kveða á um. Viðbót þessi skal greidd úr
-   Atvinnuleysistryggingasjóði.
+   önnur ákvæði þessara laga kveða á um. [Viðbót þessi skal greidd úr
+   ríkissjóði.]^1)
         Viðbót samkvæmt þessari grein skerðir ekki þann rétt sem kveðið er á
    um í 6. mgr. 12. gr.
         Þegar um er að ræða rétt skv. 13. gr. laga þessara skal veita viðbót
    samkvæmt þessari grein í hlutfalli við þann rétt sem reiknaður er skv. I.
    kafla laganna.
+
+   ^1)[13]L. 144/1995, 38. gr.
 
                             Ákvæði til bráðabirgða.
         ...
@@ -403,3 +407,6 @@ References
    8. file://1984050.html#g18
    9. file://1984050.html
   10. file:///altext/stjtnr.html#1970018
+  11. file:///altext/stjt/1995.144.html
+  12. file:///altext/stjt/1995.144.html
+  13. file:///altext/stjt/1995.144.html

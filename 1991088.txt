@@ -202,50 +202,63 @@
                                     11. gr.
         Fyrir útgáfu eftirfarandi leyfa skal greiða sem hér segir:
 
-   1.         Heildsöluleyfi                                70.000 kr.
-   2.         Umboðssöluleyfi                               50.000 kr.
-   3.         Smásöluleyfi                                  50.000 kr.
-   4.         Lausaverslunarleyfi                           50.000 kr.
-   5.         Endurnýjun verslunarleyfis                    20.000 kr.
-   6.         Leyfisbréf fyrir verðbréfafyrirtæki           100.000 kr.
-   7.         Leyfi til verðbréfamiðlunar                   50.000 kr.
-   8.         Bráðabirgðaleyfi til verðbréfa-
-              miðlunar                                      10.000 kr.
-   9.         Leyfi til fasteignasölu                       100.000 kr.
-   10.        Leyfi starfrækslu uppboðsmarkaða
-              fyrir sjávarafla                              50.000 kr.
-   11.        Endurnýjun leyfis skv. 10. tölul.             5.000 kr.
-   12.        Leyfi til starfrækslu rækju- og
-              hörpudiskvinnslu                              50.000 kr.
-   13.        Hótelleyfi, veitingahúsaleyfi, leyfi
-              fyrir skemmtistað                             50.000 kr.
-   14.        Leyfi fyrir gistiheimili, veitinga-
-              stofuleyfi, greiðasöluleyfi                   20.000 kr.
-   15.        Leyfi til að selja gistingu á einka-
-              heimilum, gistiskálaleyfi, veislu-
-              þjónustuleyfi, veitingaverslunar-
-              leyfi                                         15.000 kr.
-   16.        Gjald fyrir endurnýjun leyfis skv.
-              13.15. tölul.                                3.000 kr.
-   17.        Leyfi til tækifærisveitinga                   3.000 kr.
-   18.        Leyfi fyrir áfengisveitingastað
-              a. til sex mánaða eða skemur                  20.000 kr.
-              b. til eins árs eða skemur                    30.000 kr.
-              c. til lengri tíma en árs og til og með
-              tveggja ára                                   50.000 kr.
-              d. til lengri tíma en tveggja ára             100.000 kr.
-   19.        Leyfi til áfengisveitinga (tækifæris-
-              veitinga)                                     5.000 kr.
-   20.        Leyfi til að framleiða áfenga drykki          100.000 kr.
-   21.        Almennt skemmtanaleyfi fyrir
-              veitingastað
-              a. til eins árs eða skemur                    100.000 kr.
-              b. til lengri tíma en eins árs                300.000 kr.
-   22.        Iðju- og iðnaðarleyfi                         25.000 kr.
-   23.        Önnur leyfi af svipuðum toga er
-              valdsmenn eða Stjórnarráð gefa út
-              nema gjald sé ákveðið í sérstökum
-              lögum eða stjórnvaldsfyrirmælum               5.000 kr.
+   1.           Heildsöluleyfi                              70.000 kr.
+   2.           Umboðssöluleyfi                             50.000 kr.
+   3.           Smásöluleyfi                                50.000 kr.
+   4.           Lausaverslunarleyfi                         50.000 kr.
+   5.           Endurnýjun verslunarleyfis                  20.000 kr.
+   6.           Leyfisbréf fyrir verðbréfafyrirtæki         100.000 kr.
+   7.           Leyfi til verðbréfamiðlunar                 50.000 kr.
+   8.           Bráðabirgðaleyfi til verðbréfa-
+                miðlunar                                    10.000 kr.
+   9.           [Leyfi til vátryggingarmiðlunar             50.000 kr.]^1)
+   [10.         Bráðabirgðaleyfi til vátryggingar-
+                miðlunar                                    10.000 kr.]^1)
+   [11.         Leyfi til fasteignasölu                     50.000 kr.]^1)
+   [12.]^1)     Leyfi starfrækslu uppboðsmarkaða
+                fyrir sjávarafla                            50.000 kr.
+   [13.]^1)     Endurnýjun leyfis skv. 10. tölul.           5.000 kr.
+   [14.]^1)     Leyfi til starfrækslu rækju- og
+                hörpudiskvinnslu                            50.000 kr.
+   [15.]^1)     Hótelleyfi, veitingahúsaleyfi, leyfi
+                fyrir skemmtistað                           50.000 kr.
+   [16.]^1)     Leyfi fyrir gistiheimili, veitinga-
+                stofuleyfi, greiðasöluleyfi                 20.000 kr.
+   [17.]^1)     Leyfi til að selja gistingu á einka-
+                heimilum, gistiskálaleyfi, veislu-
+                þjónustuleyfi, veitingaverslunar-
+                leyfi                                       15.000 kr.
+   [18.]^1)     Gjald fyrir endurnýjun leyfis skv.
+                13.15. tölul.                              3.000 kr.
+   [19.]^1)     Leyfi til tækifærisveitinga                 3.000 kr.
+   [20.]^1)     Leyfi fyrir áfengisveitingastað
+                a. til sex mánaða eða skemur                20.000 kr.
+                b. til eins árs eða skemur                  30.000 kr.
+                c. til lengri tíma en árs og til og með
+                tveggja ára                                 50.000 kr.
+                d. til lengri tíma en tveggja ára           100.000 kr.
+   [21.]^1)     Leyfi til áfengisveitinga (tækifæris-
+                veitinga)                                   5.000 kr.
+   [22.]^1)     Leyfi til að framleiða áfenga drykki        100.000 kr.
+   [23.         Áfengisinnflutningsleyfi                    15.000 kr.]^1)
+   [24.         Áfengisheildsöluleyfi                       30.000 kr.]^1)
+   [25.         Árlegt eftirlitsgjald þeirra sem hafa
+                leyfi til innflutnings og heildsölu
+                með áfengi og tóbak, sbr. lög nr.
+                63/1969, með síðari breytingum,             5.000 kr.]^1)
+   [26.         Árlegt eftirlitsgjald framleiðenda
+                áfengis                                     50.000 kr.]^1)
+   [27.]^1)     Almennt skemmtanaleyfi fyrir
+                veitingastað
+                a. til eins árs eða skemur                  100.000 kr.
+                b. til lengri tíma en eins árs              300.000 kr.
+   [28.]^1)     Iðju- og iðnaðarleyfi                       25.000 kr.
+   [29.]^1)     Önnur leyfi af svipuðum toga er
+                valdsmenn eða Stjórnarráð gefa út
+                nema gjald sé ákveðið í sérstökum
+                lögum eða stjórnvaldsfyrirmælum             5.000 kr.
+
+   ^1)[3]L. 140/1995, 1. gr.
 
                                    VI. kafli.
   Ýmis leyfi varðandi heimild til að selja, kaupa og fara með hættuleg efni og
@@ -280,23 +293,30 @@
                                     13. gr.
         Fyrir eftirfarandi skráningar skal greiða gjald sem hér segir:
 
-   1.         Skráning hlutafélags og samvinnu-
-              félags                                       100.000 kr.
-   2.         Skráning erlendra félaga                     50.000 kr.
-   3.         Skráning firma eins manns                    40.000 kr.
-   4.         Skráning firma tveggja manna eða
-              fleiri                                       50.000 kr.
-   5.         Aukatilkynningar og skráning breyt-
-              inga                                         1.000 kr.
-   6.         Skráning loftfars til atvinnuflugs           60.000 kr.
-   7.         Skráning loftfars til einkaflugs             30.000 kr.
-   8.         Skráning breytinga á eldri skráningu
-              loftfars (eigendaskipti, nafnbreyting
-              o.fl.)                                       5.000 kr.
-   9.         Skráning kaupmála                            4.000 kr.
-   10.        Lögskráning sjómanna                         500 kr.
-   11.        Aðrar skráningar sem framkvæmdar
-              eru af stjórnvöldum                          4.000 kr.
+   1.           [Skráning hlutafélags og samvinnu-
+                félags                                    150.000 kr.]^1)
+   [2.          Skráning einkahlutafélags                 75.000 kr.]^1)
+   [3.]^1)      Skráning erlendra félaga                  50.000 kr.
+   [4.]^1)      Skráning firma eins manns                 40.000 kr.
+   [5.]^1)      Skráning firma tveggja manna eða
+                fleiri                                    50.000 kr.
+   [6.          Umskráning hlutafélaga í einka-
+                hlutafélög                                5.000 kr.]^1)
+   [7.          Umskráning einkahlutafélaga í
+                hlutafélög                                75.000 kr.]^1)
+   [8.]^1)      Aukatilkynningar og skráning breyt-
+                inga                                      1.000 kr.
+   [9.]^1)      Skráning loftfars til atvinnuflugs        60.000 kr.
+   [10.]^1)     Skráning loftfars til einkaflugs          30.000 kr.
+   [11.]^1)     Skráning breytinga á eldri skráningu
+                loftfars (eigendaskipti, nafnbreyting
+                o.fl.)                                    5.000 kr.
+   [12.]^1)     Skráning kaupmála                         4.000 kr.
+   [13.]^1)     Lögskráning sjómanna                      500 kr.
+   [14.]^1)     Aðrar skráningar sem framkvæmdar
+                eru af stjórnvöldum                       4.000 kr.
+
+   ^1)[4]L. 140/1995, 2. gr.
 
                                   VIII. kafli.
                              Ýmis vottorð og leyfi.
@@ -320,44 +340,52 @@
    [12.     Vélrænar fyrirspurnir úr þinglýsinga-
             bókum                                      300 kr.       ]^1)
 
-   ^1)[3]L. 50/1994, 2. gr.
+   ^1)[5]L. 50/1994, 2. gr.
 
                                   [IX. kafli.
                             Afgreiðslugjald skipa. ]
    ^1)
 
-   ^1)[4]L. 1/1992, 34. gr.
+   ^1)[6]L. 1/1992, 34. gr.
 
                                     [15. gr.
-        Fyrir að afgreiða útlend fiskiskip sem koma hingað einvörðungu vegna
+        [Fyrir að afgreiða útlend fiskiskip sem koma hingað einvörðungu vegna
    fiskveiða og vöru- og flutningaskip sem koma frá útlöndum og fyrir að láta
-   af hendi þau skilríki er skipið á að fá hér á landi skal greiða 30 kr. af
-   hverri nettórúmlest skipsins. Hálf rúmlest eða þar yfir telst heil. Af
-   farþegaskipum skal greiða helmingi lægra gjald.
+   af hendi þau skilríki er skipið á að fá hér á landi skal greiða 20 kr. af
+   hverju nettótonni skipsins. Hálft nettótonn eða þar yfir telst heilt. Af
+   farþegaskipum skal greiða fjórðung gjalds.]^1)
         Gjald þetta skal greiða í fyrstu höfn er skipið tekur hér á landi, þó
    eigi oftar en sex sinnum á almanaksári.
         Undanþegin afgreiðslugjaldi eru herskip, spítalaskip og skip sem
-   leita hafnar í neyð.]^1)
+   leita hafnar í neyð.]^2)
 
-   ^1)[5]L. 1/1992, 34. gr.
+   ^1)[7]L. 140/1995, 3. gr.^2)[8]L. 1/1992, 34. gr.
 
                                  [X. kafli.]^1)
-                              Ljósrit og endurrit.
+                      [Ljósrit, endurrit og eftirgerð.]^2)
 
-   ^1)[6]L. 1/1992, 34. gr.
+   ^1)[9]L. 1/1992, 34. gr.^2)[10]L. 140/1995, 6. gr.
 
                                   [16. gr.]^1)
         Fyrir endurrit eða ljósrit skal greiða 100 kr. fyrir hverja vélritaða
    síðu. Fyrir staðfestingu dómsgerða skal greiða 1.000 kr.
         Í ritlaunum skv. 1. mgr. er innifalið staðfestingargjald, nema af
    dómsgerðum og lögbókandastaðfestingum.
+        [Fyrir eftirgerð af hljóðupptökum skal greiða eftirfarandi gjald:
 
-   ^1)[7]L. 1/1992, 34. gr.
+   1.
+           Fyrir eftirgerð af hljóðupptöku, 90 mín., 400 kr.
+   2.
+           Fyrir eftirgerð hljóðupptöku, 60 mín., 350 kr.
+   3.
+           Fyrir eftirgerð myndbandsupptöku 1.000 kr.]^2)
+
+   ^1)[11]L. 1/1992, 34. gr.^2)[12]L. 140/1995, 4. gr.
 
                                 [XI. kafli.]^1)
                     Um innheimtu gjaldanna, gildistöku o.fl.
 
-   ^1)[8]L. 1/1992, 34. gr.
+   ^1)[13]L. 1/1992, 34. gr.
 
                                   [17. gr.]^1)
         Gjöld samkvæmt lögum þessum skulu renna í ríkissjóð.
@@ -367,51 +395,50 @@
         Þegar innheimtumaður afgreiðir skjal sem gjaldið er tekið fyrir að
    gefa út eða rita á ber honum að rita hið greidda gjald á skjalið.
 
-   ^1)[9]L. 1/1992, 34. gr.
+   ^1)[14]L. 1/1992, 34. gr.
 
                                   [18. gr.]^1)
         Fjármálaráðuneytið ákveður hvort ríkissjóður eða innheimtuaðilar
    opinberra gjalda skuli greiða gjald samkvæmt lögum þessum af gerðum og
    skjölum er þessa aðila varða.
 
-   ^1)[10]L. 1/1992, 34. gr.
+   ^1)[15]L. 1/1992, 34. gr.
 
                                   [19. gr.]^1)
-        Gjöld samkvæmt lögum þessum eru grunngjöld og er heimilt að hækka þau
-   um hver áramót í samræmi við þær breytingar sem orðið hafa á árinu á
-   vísitölu vöru og þjónustu, í fyrsta sinn 1. janúar 1993. Grunnvísitalan er
-   161,1 stig.
-        Þegar gjald hefur verið reiknað út skv. 1. mgr. skal það hækkað eða
-   eftir atvikum lækkað í næsta hundrað.
-        Fjármálaráðherra skal með auglýsingu í Stjórnartíðindum tilkynna
-   breytingar skv. 1. mgr.
+        ...^2)
 
-   ^1)[11]L. 1/1992, 34. gr.
+   ^1)[16]L. 1/1992, 34. gr.^2)[17]L. 140/1995, 5. gr.
 
                                   [20. gr.]^1)
         Fjármálaráðherra er heimilt með reglugerð að kveða nánar á um
    framkvæmd laga þessara.
 
-   ^1)[12]L. 1/1992, 34. gr.
+   ^1)[18]L. 1/1992, 34. gr.
 
                                   [21. gr.]^1)
         Lög þessi öðlast gildi þann 1. janúar 1992. ...
 
-   ^1)[13]L. 1/1992, 34. gr.
+   ^1)[19]L. 1/1992, 34. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1991088
    2. file:///altext/stjt/1994.050.html
-   3. file:///altext/stjt/1994.050.html
-   4. file:///altext/stjt/1992.001.html
-   5. file:///altext/stjt/1992.001.html
+   3. file:///altext/stjt/1995.140.html
+   4. file:///altext/stjt/1995.140.html
+   5. file:///altext/stjt/1994.050.html
    6. file:///altext/stjt/1992.001.html
-   7. file:///altext/stjt/1992.001.html
+   7. file:///altext/stjt/1995.140.html
    8. file:///altext/stjt/1992.001.html
    9. file:///altext/stjt/1992.001.html
-  10. file:///altext/stjt/1992.001.html
+  10. file:///altext/stjt/1995.140.html
   11. file:///altext/stjt/1992.001.html
-  12. file:///altext/stjt/1992.001.html
+  12. file:///altext/stjt/1995.140.html
   13. file:///altext/stjt/1992.001.html
+  14. file:///altext/stjt/1992.001.html
+  15. file:///altext/stjt/1992.001.html
+  16. file:///altext/stjt/1992.001.html
+  17. file:///altext/stjt/1995.140.html
+  18. file:///altext/stjt/1992.001.html
+  19. file:///altext/stjt/1992.001.html
