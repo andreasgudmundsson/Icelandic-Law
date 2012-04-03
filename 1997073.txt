@@ -15,9 +15,10 @@ Tóku gildi 1. janúar 1998. Breytt með l. 135/1997 (tóku gildi 1. jan. 1998),
  170/2000 (tóku gildi 1. jan. 2001), l. 74/2001 (tóku gildi 13. júní 2001), l.
 74/2005 (tóku gildi 1. okt. 2005), l. 149/2006 (tóku gildi 30. des. 2006), [1]l.
 75/2007 (tóku gildi 1. ágúst 2007), l. 167/2007 (tóku gildi 1. jan. 2008), [2]l.
-76/2008 (tóku gildi 19. júní 2008), l. 83/2008 (taka gildi 1. jan. 2009 nema 22.
-gr. sem tók gildi 20. júní 2008) og [3]l. 88/2008 (taka gildi 1. jan. 2009 nema
-                   brbákv. VII sem tók gildi 21. júní 2008).
+76/2008 (tóku gildi 19. júní 2008), l. 83/2008 (tóku gildi 1. jan. 2009 nema 22.
+ gr. sem tók gildi 20. júní 2008), [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema
+  brbákv. VII sem tók gildi 21. júní 2008) og l. 173/2008 (tóku gildi 1. jan.
+             2009; komu til framkvæmda skv. fyrirmælum í 20. gr.).
 
                             I. kafli. Almenn ákvæði.
                                 1. gr. Markmið.
@@ -635,18 +636,21 @@ vegna skipulagsvinnu. Umráðamönnum lands og lóða er skylt að leyfa mæling
  að fara um lönd og lóðir eftir því sem þörf krefur vegna mælinga og leyfa þeim
 að setja föst merki þar sem slíkt er nauðsynlegt, enda sé það ekki til lýta eða
                                      tjóns.
+    [Skipulagssjóði er heimilt að standa fyrir gerð korta, svo sem gróður-,
+jarðfræði- og vistgerðarkorta. Sjóðurinn skal bera kostnað af slíkri kortagerð,
+                           sbr. 6. tölul. 34. gr.]^1)
+                              ^1)L. 173/2008, 18. gr.
                             29. gr. Landeignaskrár.
   Sveitarstjórnir skulu láta gera skrá yfir allar jarðir, lönd og lóðir innan
   sveitarfélagsins, landeignaskrá. Skrá þessi skal hafa tilvísun í afmörkun og
  eignarhald í samræmi við þinglýstar heimildir. Gefa skal öllum götum, vegum og
-           torgum í sveitarfélaginu nöfn og númer sem skal þinglýsa.
+                   torgum í sveitarfélaginu nöfn og númer ^1)
   Í reglugerð, sem ráðherra setur að fenginni tillögu Skipulagsstofnunar og að
- höfðu samráði við dómsmálaráðuneytið, Fasteignamat ríkisins, Samband íslenskra
-  sveitarfélaga og Hagstofu Íslands, skal kveðið nánar á um skráningu lóða og
-   fasteigna og gerð og frágang landeignaskrár, sbr. lög um skráningu og mat
-                                 fasteigna.^1)
-     ^1)Greininni var breytt með l. 83/2008, 24. gr. Breytingin tekur gildi 1.
-                          jan. 2009 skv. 23. gr. s.l.
+   höfðu samráði við dómsmálaráðuneytið, [Fasteignaskrá Íslands],^1) Samband
+ íslenskra sveitarfélaga og Hagstofu Íslands, skal kveðið nánar á um skráningu
+ lóða og fasteigna og gerð og frágang landeignaskrár, sbr. lög um skráningu og
+                                 mat fasteigna.
+                              ^1)L. 83/2008, 24. gr.
                         30. gr. Skipting landa og lóða.
    Óheimilt er að skipta jörðum, löndum eða lóðum eða breyta landamerkjum og
                lóðamörkum nema samþykki sveitarstjórnar komi til.
@@ -736,8 +740,10 @@ sveitarfélaginu, getur [fengið greiddan allt að helmingi kostnaðar við ger�
        6. [Kostnaður við gerð grunnkorta sem nauðsynleg eru vegna svæðis- og
  aðalskipulags skiptist til helminga milli [Skipulagssjóðs]^1) og hlutaðeigandi
   sveitarfélags nema í þeim sveitarfélögum sem árlega fá endurgreiddan helming
-          innheimtra skipulagsgjalda, sbr. 3. tölul. og 12. gr. a.]^2)
-                   ^1)L. 170/2000, 6. gr. ^2)L. 58/1999, 7. gr.
+       innheimtra skipulagsgjalda, sbr. 3. tölul. og 12. gr. a.]^2) [Nýti
+Skipulagssjóður heimild til gerðar korta, sbr. 2. mgr. 28. gr., ber sjóðurinn þó
+                           þann kostnað að fullu.]^3)
+       ^1)L. 170/2000, 6. gr. ^2)L. 58/1999, 7. gr. ^3)L. 173/2008, 19. gr.
                             35. gr. Skipulagsgjald.
   [Til að standa straum af kostnaði við gerð skipulagsáætlana skal innheimt í
        ríkissjóð sérstakt gjald af mannvirkjum er nefnist skipulagsgjald.
@@ -753,18 +759,17 @@ Skipulagsgjald af mannvirkjum sem ekki eru virt til brunabóta skal nema 0,3% af
  gr., er ekki greitt skipulagsgjald nema af stofnkerfum rafveitna, hitaveitna,
                    vatnsveitna og fjarskipta utan þéttbýlis.
    Skipulagsgjald fellur í gjalddaga þegar virðingargjörð hefur farið fram og
-  Fasteignamat ríkisins hefur tilkynnt hana til innheimtumanns ríkissjóðs. Því
- fylgir lögveð í eigninni og gengur það fyrir öllum öðrum veðkröfum er á henni
-      hvíla. Innheimta má gjaldið með fjárnámi. [Sýslumaður skal innheimta
+ [Fasteignaskrá Íslands]^2) hefur tilkynnt hana til innheimtumanns ríkissjóðs.
+  Því fylgir lögveð í eigninni og gengur það fyrir öllum öðrum veðkröfum er á
+   henni hvíla. Innheimta má gjaldið með fjárnámi. [Sýslumaður skal innheimta
  skipulagsgjald af húsbyggingum í lögsagnarumdæmi sínu og af öðrum gjaldskyldum
    mannvirkjum, sbr. 3. málsl. 2. mgr., í eigu lögaðila sem hafa lögheimili í
     umdæminu. Í Reykjavík skal tollstjóri annast innheimtuna. Skipulagsgjald
-       innheimtist samkvæmt fyrirmælum frá Fasteignamati ríkisins.]^1)^2)
+      innheimtist samkvæmt fyrirmælum frá [Fasteignaskrá Íslands].^2)]^1)
                                       ^1)
 Ráðherra setur í reglugerð^3) nánari ákvæði um álagningu, innheimtu og ráðstöfun
                                  gjalds þessa.
-    ^1)L. 170/2000, 7. gr. ^2)Málsgreininni var breytt með l. 83/2008, 24. gr.
-     Breytingin tekur gildi 1. jan. 2009 skv. 23. gr. s.l. ^3)Rg. 737/1997.
+          ^1)L. 170/2000, 7. gr. ^2)L. 83/2008, 24. gr. ^3)Rg. 737/1997.
 
                              IV. kafli. Mannvirki.
                               36. gr. Gildissvið.
@@ -818,8 +823,8 @@ sem byggingarreglugerð hefur að geyma. Þar skal m.a. fjalla um sérstakar kr�
                                    málsgrein.
  Staðbundnar byggingarsamþykktir skal senda til staðfestingar ráðuneytisins og
                         birta í B-deild Stjórnartíðinda.
-    ^1)Rg. 441/1998, sbr. 563/2000, 996/2001, 133/2002, 425/2002 og 1163/2006.
-                             ^2)L. 170/2000, 8. gr.
+    ^1)Rg. 441/1998, sbr. 563/2000, 996/2001, 133/2002, 425/2002, 1163/2006 og
+                        934/2008. ^2)L. 170/2000, 8. gr.
                        38. gr. Hlutverk byggingarnefnda.
   Byggingarnefndir, skipulags- og byggingarnefndir þar sem það á við, fara með
                  byggingarmál undir yfirstjórn sveitarstjórna.
@@ -1226,15 +1231,13 @@ viðurkenningu sinni um tiltekinn tíma eða fyrir fullt og allt. [Áður en rá
                               60. gr. Refsiábyrgð.
   Brot gegn lögum þessum og reglugerðum settum samkvæmt þeim varða sektum eða
 [fangelsi allt að 2 árum]^1) nema þyngri refsing liggi við samkvæmt öðrum lögum.
- Með mál samkvæmt þessari grein skal farið að hætti opinberra mála, sbr. [9]lög
-                                nr. 19/1991.^2)
-    ^1)L. 82/1998, 238. gr. ^2)Málsgreinin var felld brott með [10]l. 88/2008,
-      233. gr. Breytingin tekur gildi 1. jan. 2009 skv. [11]232. gr. s.l.
+                                      ^2)
+                ^1)L. 82/1998, 238. gr. ^2)[9]L. 88/2008, 233. gr.
 
       VII. kafli. Yfirstjórn skipulags- og byggingarmála á varnarsvæðum og
                                gildistökuákvæði.
                                   61. gr. ^1)
-                            ^1)[12]L. 76/2008, 13. gr.
+                            ^1)[10]L. 76/2008, 13. gr.
                               62. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 1998.
                             Ákvæði til bráðabirgða.
@@ -1293,7 +1296,7 @@ reglugerðum settum samkvæmt þeim. Þegar sótt er um byggingarleyfi í götur
        deiliskipulag skal endurskoðun á deiliskipulagi fara fram áður en
   byggingarleyfisumsókn er afgreidd, enda sé um verulega framkvæmd að ræða. Að
                    öðru leyti fer um málsmeðferð skv. 26. gr.
-    12. Samþykktir sem reynslusveitarfélög hafa sett sér með heimild í [13]16.
+    12. Samþykktir sem reynslusveitarfélög hafa sett sér með heimild í [11]16.
    gr. laga um reynslusveitarfélög, nr. 82/1994, halda gildi sínu til 1. mars
                                    2000.]^6)
          [13. Þar sem ekki er fyrir hendi aðalskipulag er heimilt að gera
@@ -1313,7 +1316,7 @@ liggja fyrir samþykktir frá framkvæmdastjórn Evrópusambandsins varðandi ei
       tilnefndur aðili vegna ákvæða þessarar greinar. Þessir aðilar annast
     staðfestingu á samræmi og gefa út vottorð eða umsögn þar að lútandi.]^2)
    ^1)L. 135/1997, 13. gr. ^2)L. 170/2000, 19. gr. ^3)L. 58/1999, 8. gr. ^4)Rg.
-168/2000, sbr. 188/2001. ^5)L. 74/2001, 1. gr. ^6)L. 117/1999, 2. gr. ^7)[14]L.
+168/2000, sbr. 188/2001. ^5)L. 74/2001, 1. gr. ^6)L. 117/1999, 2. gr. ^7)[12]L.
                                 75/2007, 17. gr.
 
 References
@@ -1327,9 +1330,7 @@ References
    6. file://1999044.html
    7. file://1932022.html
    8. file://1973011.html
-   9. file://1991019.html
-  10. file://2008088.html#g233
-  11. file://2008088.html
-  12. file://2008076.html#g13
-  13. file://1994082.html
-  14. file://2007075.html#g17
+   9. file://2008088.html#g233
+  10. file://2008076.html#g13
+  11. file://1994082.html
+  12. file://2007075.html#g17

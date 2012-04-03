@@ -12,7 +12,7 @@
 Tóku gildi 1. nóvember 2007. EES-samningurinn: IX. viðauki tilskipun 89/298/EBE,
   89/592/EBE, 2001/34/EB, 2003/6/EB, 2003/71/EBE, 2003/124/EB og 2003/125/EB,
       reglugerð 2273/2003, tilskipun 2004/25/EB, 2004/39/EB, 2004/72/EB og
-2004/109/EB. Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII
+2004/109/EB. Breytt með [1]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII
      sem tók gildi 21. júní 2008) og l. 96/2008 (tóku gildi 24. júní 2008).
 
                      I. kafli. Gildissvið og orðskýringar.
@@ -2152,10 +2152,9 @@ skyldu til þess að veita upplýsingar og aðgang að gögnum samkvæmt þessar
  fjarskiptatæki enda liggi fyrir samþykki umráðamanns og eiginlegs notanda. Ef
  samþykki umráðamanns og eiginlegs notanda síma eða fjarskiptatækis liggur ekki
  fyrir er Fjármálaeftirlitinu heimilt að krefjast fyrir dómi aðgangs að gögnum
-   skv. 1. málsl. þessarar málsgreinar hjá síma- eða fjarskiptafyrirtæki. Um
- skilyrði og meðferð slíkrar kröfu fer eftir 87. gr. laga um meðferð opinberra
-   mála, að undanskildum b-lið 2. mgr. greinarinnar sem á ekki við um aðgerð
-                         samkvæmt þessari málsgrein.^1)
+   skv. 1. málsl. þessarar málsgreinar hjá síma- eða fjarskiptafyrirtæki. [Um
+skilyrði slíkrar kröfu fer eftir 1. mgr. 83. gr. laga um meðferð sakamála og um
+               meðferð hennar fer eftir XV. kafla sömu laga.]^1)
   Telji Fjármálaeftirlitið að ekki hafi verið farið að reglum um almennt útboð
   verðbréfa getur það stöðvað útboð og veitt frest til úrbóta sé þess kostur.
   Fjármálaeftirlitið getur birt opinberlega yfirlýsingu um umrætt mál og lagt
@@ -2179,13 +2178,12 @@ fjármálagerninga verði hætt fyrir fullt og allt, hvort sem viðskiptin fara 
      hætti, leiði athugun þess í ljós að viðskiptin séu í andstöðu við lög.
  Fjármálaeftirlitið getur krafist kyrrsetningar eigna einstaklings eða lögaðila
 þegar fyrir liggur rökstuddur grunur um að háttsemi hans fari í bága við ákvæði
-  laga þessara. Um skilyrði og meðferð slíkrar kröfu fer eftir 85. gr. laga um
-            meðferð opinberra mála, eftir því sem við getur átt.^1)
+ laga þessara. Um skilyrði og meðferð slíkrar kröfu fer eftir [88. gr. laga um
+               meðferð sakamála],^1) eftir því sem við getur átt.
    Um eftirlit með framkvæmd laga þessara gilda að öðru leyti ákvæði laga um
  opinbert eftirlit með fjármálastarfsemi, þar á meðal þær eftirlitsheimildir og
                    úrræði sem fram koma í 9.11. gr. laganna.
-    ^1)Málsliðnum var breytt með [4]l. 88/2008, 234. gr. Breytingin tekur gildi
-                       1. jan. 2009 skv. [5]232. gr. s.l.
+                            ^1)[4]L. 88/2008, 234. gr.
                134. gr. Eftirlit með almennu útboði og lýsingum.
  Um eftirlit með almennu útboði og lýsingum og heimildir til framsals fer skv.
                                     133. gr.
@@ -2438,8 +2436,8 @@ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotis
         af broti gegn ákvæðum laga þessara er varða sektum eða fangelsi.
   Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð
                  eftir því sem segir í almennum hegningarlögum.
-148. gr. Brot gegn lögum þessum sæta aðeins opinberri rannsókn að undangenginni
-                   kæru Fjármálaeftirlitsins til lögreglu.^1)
+148. gr. [Brot gegn lögum þessum sæta aðeins rannsókn lögreglu að undangenginni
+                         kæru Fjármálaeftirlitsins.]^1)
     Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur
      Fjármálaeftirlitið hvort mál skuli kært til lögreglu eða því lokið með
        stjórnvaldsákvörðun hjá stofnuninni. Ef brot eru meiri háttar ber
@@ -2447,8 +2445,8 @@ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotis
 lýtur að verulegum fjárhæðum, ef verknaður er framinn með sérstaklega vítaverðum
     hætti eða við aðstæður sem auka mjög á saknæmi brotsins. Jafnframt getur
   Fjármálaeftirlitið á hvaða stigi rannsóknar sem er vísað máli vegna brota á
-     lögum þessum til opinberrar rannsóknar. Gæta skal samræmis við úrlausn
-                             sambærilegra mála.^1)
+   lögum þessum til [rannsóknar lögreglu].^1) Gæta skal samræmis við úrlausn
+                               sambærilegra mála.
 Með kæru Fjármálaeftirlitsins skulu fylgja afrit þeirra gagna sem grunur um brot
   er studdur við. Ákvæði IV.VII. kafla stjórnsýslulaga gilda ekki um ákvörðun
                Fjármálaeftirlitsins um að kæra mál til lögreglu.
@@ -2463,8 +2461,7 @@ og gögn sem hún hefur aflað og tengjast þeim brotum sem tilgreind eru í 2. 
   Telji ákærandi að ekki séu efni til málshöfðunar vegna meintrar refsiverðrar
     háttsemi sem jafnframt varðar stjórnsýsluviðurlögum getur hann sent eða
      endursent málið til Fjármálaeftirlitsins til meðferðar og ákvörðunar.
-     ^1)Málsgreininni var breytt með [6]l. 88/2008, 234. gr. Breytingin tekur
-                    gildi 1. jan. 2009 skv. [7]232. gr. s.l.
+                            ^1)[5]L. 88/2008, 234. gr.
 
                           XVI. kafli. Gildistaka o.fl.
                               149. gr. Innleiðing.
@@ -2498,7 +2495,7 @@ undanþágur fyrir endurkaupaáætlanir og verðjöfnun fjármálagerninga, tils
                     Lög þessi öðlast gildi 1. nóvember 2007.
 
                             Ákvæði til bráðabirgða.
- I. Þeir aðilar sem hafa leyfi til reksturs markaðstorgs skv. [8]34. gr. a laga
+ I. Þeir aðilar sem hafa leyfi til reksturs markaðstorgs skv. [6]34. gr. a laga
   nr. 34/1998, um starfsemi kauphalla og skipulegra tilboðsmarkaða, skulu við
   gildistöku laga þessara fá leyfi til reksturs markaðstorgs fjármálagerninga
                           (MTF) samkvæmt lögum þessum.
@@ -2517,7 +2514,7 @@ umfram næsta margfeldi af fimm. Sama gildir hafi aðili á grundvelli samnings 
   aðra hluthafa rétt til að ráða yfir sem nemur 40% atkvæða í félaginu 1. júlí
                                      2003.
  V. Nú fór aðili 1. júlí 2005 með yfirráð í félagi á grundvelli samstarfs skv.
-     [9]37. gr. laga nr. 33/2003, sbr. lög nr. 31/2005, og er hann þá ekki
+     [7]37. gr. laga nr. 33/2003, sbr. lög nr. 31/2005, og er hann þá ekki
   tilboðsskyldur við gildistöku laga þessara, enda auki hann ekki atkvæðisrétt
                 sinn í félaginu umfram næsta margfeldi af fimm.
 
@@ -2528,8 +2525,6 @@ References
    2. file://2006003.html#g2
    3. file://2002161.html#g4
    4. file://2008088.html#g234
-   5. file://2008088.html
-   6. file://2008088.html#g234
-   7. file://2008088.html
-   8. file://1998034.html
-   9. file://2003033.html
+   5. file://2008088.html#g234
+   6. file://1998034.html
+   7. file://2003033.html

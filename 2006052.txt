@@ -9,7 +9,7 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-Tóku gildi 1. júlí 2006. Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009 nema
+Tóku gildi 1. júlí 2006. Breytt með [1]l. 88/2008 (tóku gildi 1. jan. 2009 nema
                    brbákv. VII sem tók gildi 21. júní 2008).
 
        I. kafli. Stjórn Landhelgisgæslu Íslands, starfssvæði og verkefni.
@@ -77,9 +77,8 @@ annast eða aðstoða við löggæslu samkvæmt lögum þessum í efnahagslögs�
                              3. Sprengjusérfræðingar.
                   4. Yfirmenn í stjórnstöð og vaktstöð siglinga.
 Við löggæslustörf skulu starfsmenn fara eftir lögreglulögum og lögum um meðferð
-                     opinberra mála eftir því sem við á.^1)
-     ^1)Málsgreininni var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur
-                    gildi 1. jan. 2009 skv. [3]232. gr. s.l.
+                       [sakamála]^1) eftir því sem við á.
+                            ^1)[2]L. 88/2008, 234. gr.
          7. gr. Skylda til að hlýða fyrirmælum Landhelgisgæslu Íslands.
       Áhöfnum farartækja á sjó eða hafstöðva er skylt að hlýða fyrirmælum
                             Landhelgisgæslu Íslands.
@@ -127,13 +126,14 @@ flugslysum eða er saknað yfir sjó. Flugmálastjórn stjórnar leitarstarfi fr
 Landhelgisgæsla Íslands sér um að tilkynna, fjarlægja eða gera skaðlaus reköld,
  tundurdufl, sprengjur eða aðra hluti sem almenningi getur stafað hætta af bæði
                                til sjós og lands.
-Ráðherra setur reglugerð um starfsemi sprengjusérfræðinga. Í reglugerðinni skal
-    kveðið á um hæfisskilyrði, menntun og starfsreynslu sprengjusérfræðinga.
+ Ráðherra setur reglugerð^1) um starfsemi sprengjusérfræðinga. Í reglugerðinni
+ skal kveðið á um hæfisskilyrði, menntun og starfsreynslu sprengjusérfræðinga.
 Landhelgisgæsla Íslands gefur út starfsleyfi til starfsmanna sem uppfylla kröfur
    reglugerðarinnar og heimild þeirra til að halda réttindanámskeið í faginu.
   Landhelgisgæsla Íslands getur með samningum tekið að sér sprengjueyðingu og
        eyðingu hættulegra efna sem ekki teljast til lögbundinna verkefna
                                 stofnunarinnar.
+                                 ^1)Rg. 1171/2008.
            16. gr. Innflutningur og varsla sprengiefna og skotvopna.
      Landhelgisgæsla Íslands hefur heimild til að flytja inn, geyma og nota
     sprengiefni og skotvopn vegna starfa handhafa lögregluvalds. Fylgt skal
@@ -150,7 +150,7 @@ Landhelgisgæslu Íslands er heimilt að afla sér tekna með sölu á afnotum a
  Stjórnartíðinda. Gjaldskrá skal taka mið af kostnaði við þjónustu og framkvæmd
  einstakra verkefna, sbr. 1. og 2. mgr., þannig að mætt sé öllum þeim kostnaði
                                sem af því hlýst.
- Ráðherra setur reglugerð um sjómælingar, sjókorta- og hafnakortagerð og annað
+Ráðherra setur reglugerð^1) um sjómælingar, sjókorta- og hafnakortagerð og annað
  efni á sviði sjómælinga sem Landhelgisgæsla Íslands gefur út. Í reglugerðinni
  skal kveðið á um kröfur um hæfisskilyrði, menntun og starfsreynslu sjómælinga-
     og sjókortagerðarmanna. Landhelgisgæsla Íslands gefur út starfsleyfi til
@@ -158,6 +158,7 @@ starfsmanna sem uppfylla kröfur reglugerðarinnar og heimild þeirra til að ha
                            réttindanámskeið í faginu.
  Heimilt er að semja við innlend og erlend fyrirtæki og stofnanir um framkvæmd
        ákveðinna verkefna sjómælinga og stofna hlutafélag um starfsemina.
+                                 ^1)Rg. 1173/2008.
                      18. gr. Fjareftirlit með fiskiskipum.
     Landhelgisgæsla Íslands annast fjareftirlit með íslenskum fiskiskipum og
         móttekur og miðlar upplýsingum um íslensk og erlend fiskiskip úr
@@ -181,9 +182,10 @@ Landhelgisgæslu Íslands til björgunarstarfa, fiskveiðieftirlits, löggæslus
   þeirra í samræmi við þarfir stofnunarinnar, sérþekkingu þeirra og réttindi.
          21. gr. Einkennisfatnaður og skilríki handhafa lögregluvalds.
   Við störf sín skulu starfsmenn Landhelgisgæslu Íslands bera einkennisbúninga
-samkvæmt reglugerð sem ráðherra setur. Handhafar lögregluvalds skulu bera á sér
-  sérstök skilríki við framkvæmd starfa sinna. Ráðherra ákveður útlit, efni og
-                        notkun skilríkja með reglugerð.
+ samkvæmt reglugerð^1) sem ráðherra setur. Handhafar lögregluvalds skulu bera á
+sér sérstök skilríki við framkvæmd starfa sinna. Ráðherra ákveður útlit, efni og
+                       notkun skilríkja með reglugerð.^2)
+                        ^1)Rg. 1169/2008. ^2)Rg. 1170/2008.
                           22. gr. Bann við verkföllum.
  Þeir starfsmenn Landhelgisgæslu Íslands sem sinna löggæslustörfum mega hvorki
                  fara í verkfall né taka þátt í verkfallsboðun.
@@ -207,11 +209,12 @@ Bjóða má út eða stofna hlutafélag um flugrekstur, skiparekstur eða tækni
 Skip og loftför Landhelgisgæslu Íslands skulu auðkennd með skjaldarmerki Íslands
        á áberandi stað. Skip skulu einkennd nafni en loftför með nafni og
                             skrásetningareinkennum.
-Ráðherra ákveður með reglugerð lit og önnur einkenni farartækja Landhelgisgæslu
-                                    Íslands.
+       Ráðherra ákveður með reglugerð^1) lit og önnur einkenni farartækja
+                            Landhelgisgæslu Íslands.
   Landhelgisgæsla Íslands skal hafa tilskilin leyfi fyrir þeirri starfsemi sem
  stunduð er á hverjum tíma og lúta eftirliti Flugmálastjórnar eftir því sem við
                                        á.
+                                 ^1)Rg. 1172/2008.
       26. gr. Leynd yfir ferðum skipa og loftfara Landhelgisgæslu Íslands.
  Óheimilt er að greina opinberlega frá ferðum skipa og loftfara Landhelgisgæslu
 Íslands nema með samþykki stofnunarinnar. Einnig er óheimilt með öðrum hætti að
@@ -240,4 +243,3 @@ References
    Visible links
    1. file://2008088.html
    2. file://2008088.html#g234
-   3. file://2008088.html

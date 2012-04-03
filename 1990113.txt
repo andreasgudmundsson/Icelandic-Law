@@ -29,10 +29,10 @@ l. 65/2002 (tóku gildi 17. maí 2002), l. 134/2002 (tóku gildi 1. jan. 2003), 
 2005), l. 177/2006 (tóku gildi 1. jan. 2007; koma til framkvæmda skv. fyrirmælum
  í 5. gr.), l. 169/2007 (tóku gildi 29. des. 2007), l. 38/2008 (tóku gildi 29.
    maí 2008 nema 8. gr. sem tók gildi 1. jan. 2008; komu til framkvæmda skv.
- fyrirmælum í 9. gr.), [2]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII
-sem tók gildi 21. júní 2008) og [3]l. 112/2008 (tóku gildi 1. okt. 2008 nema 12.
+ fyrirmælum í 9. gr.), [2]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII
+ sem tók gildi 21. júní 2008), [3]l. 112/2008 (tóku gildi 1. okt. 2008 nema 12.
 tölul. 59. gr. sem tók gildi 25. sept. 2008; koma til framkvæmda skv. fyrirmælum
-                              í 2. mgr. 56. gr.).
+          í 2. mgr. 56. gr.) og l. 158/2008 (tóku gildi 1. jan. 2009).
 
                             I. kafli. Almenn ákvæði.
                                  Upphafsákvæði.
@@ -70,23 +70,22 @@ fyrir fyrirsjáanlegum útgjöldum á næsta fjárhagsári með hliðsjón af [h
                                       1. ^2)
    2. Staðlaráð fái í sinn hlut sem nemi allt að 0,007% af gjaldstofni skv. III.
                                      kafla.
-    3. Icepro fái í sinn hlut sem nemi allt að 0,001% af gjaldstofni skv. III.
-                                     kafla.
+                                      3. ^3)
      [4. 0,325% af gjaldstofni skv. III. kafla renni til jöfnunar og lækkunar
-                 örorkubyrði lífeyrissjóða, sbr. VI. kafla.]^3)
-   [5. ]^3) Fæðingarorlofssjóður fái í sinn hlut sem nemi allt að [1,08%]^2) af
+                 örorkubyrði lífeyrissjóða, sbr. VI. kafla.]^4)
+   [5. ]^4) Fæðingarorlofssjóður fái í sinn hlut sem nemi allt að [1,08%]^2) af
                           gjaldstofni skv. III. kafla.
-   [6. ]^3) Tekjur af almennu tryggingagjaldi umfram það sem ákveðið er í 1.4.
+   [6. ]^4) Tekjur af almennu tryggingagjaldi umfram það sem ákveðið er í 1.4.
    tölul. renni til Tryggingastofnunar ríkisins til að fjármagna lífeyris- og
   slysatryggingar almannatrygginga eftir reglum sem fjármálaráðherra setur með
-                                 reglugerð.]^4)
+                                 reglugerð.]^5)
    Um hlutdeild opinberra byggingarsjóða í almennu tryggingagjaldi fer eftir
     ákvæðum laga um Húsnæðisstofnun ríkisins, svo og ákvæðum lánsfjárlaga og
-                           fjárlaga hverju sinni.]^5)
-    ^1)L. 66/1997, 1. gr. ^2)L. 90/2004, 12. gr. ^3)L. 177/2006, 2. gr. Ákvæðið
-     kemur til framkvæmda 1. jan. 2010, sbr. 5. gr. s.l. Um ráðstöfun hluta
- tryggingagjalds til jöfnunar örorkubyrði lífeyrissjóða á árunum 20072009, sjá
-         brbákv. III. ^4)[7]L. 95/2000, 37. gr. ^5)L. 141/1995, 3. gr.
+                           fjárlaga hverju sinni.]^6)
+     ^1)L. 66/1997, 1. gr. ^2)L. 90/2004, 12. gr. ^3)L. 158/2008, 1. gr. ^4)L.
+177/2006, 2. gr. Ákvæðið kemur til framkvæmda 1. jan. 2010, sbr. 5. gr. s.l. Um
+ráðstöfun hluta tryggingagjalds til jöfnunar örorkubyrði lífeyrissjóða á árunum
+  20072009, sjá brbákv. III. ^5)[7]L. 95/2000, 37. gr. ^6)L. 141/1995, 3. gr.
 
                         II. kafli. Gjaldskyldir aðilar.
                                     Almennt.
@@ -197,9 +196,8 @@ tilkynningar skattstjóra á staðgreiðsluári, gilda að öðru leyti ákvæð
 málsmeðferð tryggingagjalds að því er varðar skil þess á staðgreiðsluári. Skulu
 ákvæði þeirra laga m.a. taka til dráttarvaxta, áætlunar gjaldstofns og innheimtu
 vanskilafjár, þar með talið lögtaksréttar, stöðvunar atvinnurekstrar, refsinga,
-               opinberrar rannsóknar og fyrningar gjaldkröfu.^1)
-   ^1)Málsliðnum var breytt með [19]l. 88/2008, 233. gr. Breytingin tekur gildi
-                      1. jan. 2009 skv. [20]232. gr. s.l.
+                    ^1) rannsóknar og fyrningar gjaldkröfu.
+                            ^1)[19]L. 88/2008, 233. gr.
 
                       V. kafli. Álagning tryggingagjalds.
   Árleg tryggingagjaldsframtöl, álagning, endurskoðun gjalds, kærur, innheimta
@@ -207,7 +205,7 @@ vanskilafjár, þar með talið lögtaksréttar, stöðvunar atvinnurekstrar, re
    12. gr. Allir, sem skyldir eru til að greiða tryggingagjald samkvæmt lögum
    þessum, skulu, að staðgreiðsluári liðnu, senda skattstjóra árlega sérstakt
  launaframtal, í því formi sem ríkisskattstjóri ákveður, innan þess frests sem
-   settur er um skil launaskýrslna þeirra er greinir í 92. gr. [[21]laga nr.
+   settur er um skil launaskýrslna þeirra er greinir í 92. gr. [[20]laga nr.
                           90/2003, um tekjuskatt].^1)
  Á launaframtal skal launagreiðandi færa launagreiðslur næstliðins árs og aðrar
 upplýsingar og sundurliðanir sem ríkisskattstjóra þykir við þurfa til ákvörðunar
@@ -221,13 +219,13 @@ upplýsingar og sundurliðanir sem ríkisskattstjóra þykir við þurfa til ák
      Við álagningu opinberra gjalda skal skattstjóri ákvarða tryggingagjald
    gjaldskylds aðila samkvæmt launaframtali hans að gerðum þeim breytingum og
                        leiðréttingum sem gera þarf á því.
- Tryggingagjald skal birt í álagningarskrá, sbr. 98. gr. [[22]laga nr. 90/2003,
+ Tryggingagjald skal birt í álagningarskrá, sbr. 98. gr. [[21]laga nr. 90/2003,
                                um tekjuskatt].^1)
 Gjalddagi ógreidds tryggingagjalds, sem skattstjóri ákvarðar vegna hlunninda, og
 tryggingagjalds, sem undanþegið er staðgreiðslu, er 1. ágúst ár hvert og eindagi
                                  mánuði síðar.
  [Álagning, eftirlit og önnur skattaumsýsla þeirra lögaðila sem falla undir 5.
-       mgr. [23]89. gr. laga nr. 90/2003, um tekjuskatt, skal heyra undir
+       mgr. [22]89. gr. laga nr. 90/2003, um tekjuskatt, skal heyra undir
                              Reykjavíkurumdæmi.]^3)
    [Launaframtal félaga sem fengið hafa heimild til að færa bókhald og semja
    ársreikning í erlendum gjaldmiðli skv. 11. gr. A laga um ársreikninga skal
@@ -246,8 +244,8 @@ byggjast á upprunalegum fjárhæðum í íslenskum krónum eða umreiknuðum fj
     tryggingagjaldið eða ekki skilað launaframtali, skal skattstjóri ákvarða
   tryggingagjald fyrir hvert einstakt greiðslutímabil. Skal ákvarða gjaldanda
  dráttarvexti af vangreiddu tryggingagjaldi frá og með gjalddaga þess í samræmi
-við [24]vaxtalög, nr. 25/1987. Á ofgreiðslu reiknast vextir í samræmi við ákvæði
-           [2. mgr. [25]114. gr. laga nr. 90/2003, um tekjuskatt].^1)
+við [23]vaxtalög, nr. 25/1987. Á ofgreiðslu reiknast vextir í samræmi við ákvæði
+           [2. mgr. [24]114. gr. laga nr. 90/2003, um tekjuskatt].^1)
 [Hafi innheimtumaður hafið aðför vegna vangoldinnar staðgreiðslu tryggingagjalds
  skulu þau aðfararúrræði sem innheimtumaður hefur gripið til halda lögformlegu
 gildi sínu eftir álagningu tryggingagjalds vegna þess hluta kröfunnar sem rekja
@@ -303,7 +301,7 @@ Stuðla skal að því að mismunandi örorkubyrði lífeyrissjóða verði jöf
                                   brbákv. III.
      [19. gr. Móttakendur framlags til jöfnunar örorkubyrði lífeyrissjóða.
  Lífeyrissjóðir, sem taka við framlagi til að jafna örorkubyrði lífeyrissjóða,
-skulu hafa starfsleyfi frá fjármálaráðherra, sbr. ákvæði [26]laga nr. 129/1997,
+skulu hafa starfsleyfi frá fjármálaráðherra, sbr. ákvæði [25]laga nr. 129/1997,
       um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða.]^1)
                               ^1)L. 177/2006, 3. gr.
                              [20. gr. Stjórnsýsla.
@@ -318,7 +316,7 @@ skulu hafa starfsleyfi frá fjármálaráðherra, sbr. ákvæði [26]laga nr. 12
    2. Fundin er hlutdeild hvers lífeyrissjóðs í skuldbindingum lífeyrissjóða til
      greiðslu örorkulífeyris umfram 10% af heildarskuldbindingum sjóðanna í
 framtíðinni miðað við tryggingafræðilega stöðu lífeyrissjóða við lok næstliðins
-árs. Nú hefur lífeyrissjóður nýtt heimild samkvæmt [27]lögum um skyldutryggingu
+árs. Nú hefur lífeyrissjóður nýtt heimild samkvæmt [26]lögum um skyldutryggingu
  lífeyrisréttinda og starfsemi lífeyrissjóða, nr. 129/1997, til þess að ákveða
    lágmark tryggingaverndar þannig að iðgjaldi sé varið að hluta til öflunar
 lífeyrisréttinda í séreign og skal þá verðmæti iðgjaldsgreiðslna vegna réttinda
@@ -330,13 +328,13 @@ lífeyrisréttinda í séreign og skal þá verðmæti iðgjaldsgreiðslna vegna
                           [22. gr. Reglugerðarheimild.
   Fjármálaráðherra skal setja reglugerð^1) með nánari ákvæðum um skiptingu og
        úthlutun fjárframlags til jöfnunar örorkubyrði lífeyrissjóða.]^2)
-                      ^1)Rg. 988/2007. ^2)L. 177/2006, 3. gr.
+                     ^1)Rg. 1007/2008. ^2)L. 177/2006, 3. gr.
 
                          [VII. kafli.]^1) Ýmis ákvæði.
                               ^1)L. 177/2006, 3. gr.
                         Frádráttarbærni tryggingagjalds.
    [23. gr.]^1) Tryggingagjald telst rekstrarkostnaður skv. 1. tölul. 31. gr.
- [[28]laga nr. 90/2003, um tekjuskatt],^2) að því leyti sem það er ákvarðað af
+ [[27]laga nr. 90/2003, um tekjuskatt],^2) að því leyti sem það er ákvarðað af
            launum sem teljast rekstrarkostnaður samkvæmt sömu grein.
                   ^1)L. 177/2006, 3. gr. ^2)L. 129/2004, 91. gr.
                               Setning reglugerðar.
@@ -344,7 +342,7 @@ lífeyrisréttinda í séreign og skal þá verðmæti iðgjaldsgreiðslna vegna
                                  laga þessara.
                ^1)L. 177/2006, 3. gr. ^2)Rg. 13/2003, sbr. 589/2008.
                            Brottfall lagaákvæða o.fl.
-[25. gr.]^1) Ákvæði laga þessara koma í stað þeirra ákvæða [29]laga nr. 46/1980,
+[25. gr.]^1) Ákvæði laga þessara koma í stað þeirra ákvæða [28]laga nr. 46/1980,
   um aðbúnað, hollustuhætti og öryggi á vinnustöðum, með síðari breytingum, er
  fela í sér ákvörðun gjaldstofns og gjaldtöku af launagreiðendum sem miðast við
                         launagreiðslur eða launatímabil.
@@ -388,13 +386,12 @@ References
   17. file://1987045.html
   18. file://1987045.html
   19. file://2008088.html#g233
-  20. file://2008088.html
+  20. file://2003090.html
   21. file://2003090.html
-  22. file://2003090.html
-  23. file://2003090.html#g89
-  24. file://1987025.html
-  25. file://2003090.html#g114
+  22. file://2003090.html#g89
+  23. file://1987025.html
+  24. file://2003090.html#g114
+  25. file://1997129.html
   26. file://1997129.html
-  27. file://1997129.html
-  28. file://2003090.html
-  29. file://1980046.html
+  27. file://2003090.html
+  28. file://1980046.html

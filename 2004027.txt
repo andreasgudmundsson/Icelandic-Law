@@ -10,7 +10,7 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
      Tóku gildi 8. október 2004. EES-samningurinn: XVIII. viðauki tilskipun
- 2001/86/EB. Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII
+ 2001/86/EB. Breytt með [1]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII
                          sem tók gildi 21. júní 2008).
 
                         I. kafli. Markmið og gildissvið.
@@ -454,9 +454,8 @@ fyrir því að breytingarnar séu til komnar af öðrum ástæðum en greinir �
    þessara varða lögaðila sektum, sbr. II. kafla A almennra hegningarlaga, ef
   brotið er framið af ásetningi og það er til þess fallið að svipta starfsmenn
             Evrópufélags rétti sem varinn er samkvæmt þessum lögum.
-          Með mál út af brotum skal farið að hætti opinberra mála.^1)
-    ^1)Málsgreinin var felld brott með [4]l. 88/2008, 233. gr. Breytingin tekur
-                    gildi 1. jan. 2009 skv. [5]232. gr. s.l.
+                                      ^1)
+                            ^1)[4]L. 88/2008, 233. gr.
                               23. gr. Ágreiningur.
   Unnt er að skjóta til dómstóla ágreiningi sem varðar framkvæmd þessara laga,
 þ.m.t. ágreiningi um rétt fulltrúa starfsmanna til að fá í hendur upplýsingar og
@@ -468,7 +467,7 @@ málshöfðunar hafa allir sem taldir eru upp í 18. gr., hlutaðeigandi stétta
                                      laga.
                     25. gr. Tengsl við ákvæði annarra laga.
  Þegar Evrópufélag er fyrirtæki sem starfar á Evrópska efnahagssvæðinu, eða er
- ráðandi fyrirtæki fyrirtækjahóps er þar starfar, í skilningi [6]5. gr. laga um
+ ráðandi fyrirtæki fyrirtækjahóps er þar starfar, í skilningi [5]5. gr. laga um
  evrópsk samstarfsráð í fyrirtækjum, nr. 61/1999, skulu ákvæði þeirra laga ekki
    gilda um Evrópufélagið eða dótturfélög þess nema sérstaka samninganefndin
        ákveði, í samræmi við 1. mgr. 10. gr. þessara laga, að hefja ekki
@@ -498,5 +497,4 @@ References
    2. file://1999061.html#g5
    3. file://1938080.html
    4. file://2008088.html#g233
-   5. file://2008088.html
-   6. file://1999061.html#g5
+   5. file://1999061.html#g5

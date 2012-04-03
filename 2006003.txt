@@ -26,9 +26,10 @@ komu til framkvæmda skv. fyrirmælum í 10. gr.), l. 56/2003 (tóku gildi 7. ap
    2006. EES-samningurinn: XXII. viðauki tilskipun 78/660/EBE, 83/349/EBE og
   reglugerð 2002/1606/EB. Breytt með l. 108/2006 (tóku gildi 1. nóv. 2006 skv.
 augl. C 1/2006), l. 160/2006 (tóku gildi 30. des. 2006), l. 171/2007 (tóku gildi
-  29. des. 2007), l. 80/2008 (taka gildi 1. jan. 2009; EES-samningurinn: XXII.
-  viðauki tilskipun 2006/43/EB) og [3]l. 88/2008 (taka gildi 1. jan. 2009 nema
-                   brbákv. VII sem tók gildi 21. júní 2008).
+  29. des. 2007), l. 80/2008 (tóku gildi 1. jan. 2009; EES-samningurinn: XXII.
+   viðauki tilskipun 2006/43/EB), [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema
+  brbákv. VII sem tók gildi 21. júní 2008) og l. 162/2008 (tóku gildi 31. des.
+                                     2008).
 
                             I. kafli. Almenn ákvæði.
                                   Gildissvið.
@@ -113,7 +114,7 @@ framkvæmdastjórn ESB hefur samþykkt skv. 3. gr. reglugerðar (EB) nr. 1606/20
         119. gr., og alþjóðlegir reikningsskilastaðlar, sbr. 12. tölul.,
      [14. eining tengd almannahagsmunum: eining samkvæmt skilgreiningu laga um
                               endurskoðendur].^1)
-    ^1)L. 80/2008, 1. gr. Breytingin tekur gildi 1. jan. 2009 skv. 4. gr. s.l.
+                               ^1)L. 80/2008, 1. gr.
                              Samning ársreiknings.
   3. gr. Stjórn og framkvæmdastjóri skulu bera ábyrgð á samningu ársreiknings
 fyrir hvert reikningsár og skal ársreikningurinn hafa að geyma rekstrarreikning,
@@ -1397,7 +1398,7 @@ efnahagssvæðisins, [í aðildarríki stofnsamnings Fríverslunarsamtaka Evróp
                                    félagsins.
 
                      [IX. kafli A. Endurskoðunarnefnd.]^1)
-    ^1)L. 80/2008, 2. gr. Breytingin tekur gildi 1. jan. 2009 skv. 4. gr. s.l.
+                               ^1)L. 80/2008, 2. gr.
 [108. gr. a. Við einingu tengda almannahagsmunum skal starfa endurskoðunarnefnd.
 Stjórn einingar ber ábyrgð á skipun endurskoðunarnefndar. Hún skal skipuð þremur
             mönnum hið minnsta eigi síðar en mánuði eftir aðalfund.
@@ -1407,7 +1408,7 @@ meiri hluti nefndarmanna skal jafnframt vera óháður einingunni. Framkvæmdast
  þekkingu og reynslu í samræmi við störf nefndarinnar og skal að minnsta kosti
  einn nefndarmanna hafa staðgóða þekkingu og reynslu á sviði reikningsskila eða
                                endurskoðunar.]^1)
-    ^1)L. 80/2008, 2. gr. Breytingin tekur gildi 1. jan. 2009 skv. 4. gr. s.l.
+                               ^1)L. 80/2008, 2. gr.
 [108. gr. b. Endurskoðunarnefnd skal meðal annars hafa eftirfarandi hlutverk án
       tillits til ábyrgðar stjórnar, stjórnenda eða annarra á þessu sviði:
                 1. Eftirlit með vinnuferli við gerð reikningsskila.
@@ -1418,17 +1419,17 @@ meiri hluti nefndarmanna skal jafnframt vera óháður einingunni. Framkvæmdast
             öðrum störfum endurskoðanda eða endurskoðunarfyrirtækis.
            5. Setja fram tillögu til stjórnar um val á endurskoðanda eða
                           endurskoðunarfyrirtæki.]^1)
-    ^1)L. 80/2008, 2. gr. Breytingin tekur gildi 1. jan. 2009 skv. 4. gr. s.l.
+                               ^1)L. 80/2008, 2. gr.
    [108. gr. c. Í einingum tengdum almannahagsmunum skal tillaga stjórnar um
  tilnefningu endurskoðanda eða endurskoðunarfyrirtækis byggjast á tilmælum frá
                           endurskoðunarnefndinni.]^1)
-    ^1)L. 80/2008, 2. gr. Breytingin tekur gildi 1. jan. 2009 skv. 4. gr. s.l.
+                               ^1)L. 80/2008, 2. gr.
      [108. gr. d. Endurskoðandi eða endurskoðunarfyrirtæki skal árlega gera
    endurskoðunarnefnd grein fyrir störfum sínum og óhæði og skila skriflegri
 skýrslu um mikilvæg atriði sem fram hafa komið við endurskoðunina. Í skýrslunni
    skal sérstaklega geta um veikleika í innra eftirliti í vinnuferli við gerð
                               reikningsskila.]^1)
-    ^1)L. 80/2008, 2. gr. Breytingin tekur gildi 1. jan. 2009 skv. 4. gr. s.l.
+                               ^1)L. 80/2008, 2. gr.
 
                         X. kafli. Birting ársreiknings.
 109. gr. Eigi síðar en mánuði eftir samþykkt ársreiknings, þó eigi síðar en átta
@@ -1622,17 +1623,17 @@ lýst er í 121. og 122. gr. laga þessara, er refsiverð eftir því sem segir 
 lögum þessum má auk þeirrar refsingar, sem hann sætir, gera lögaðilanum sekt og
 sviptingu starfsréttinda, enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða
                       hann hafi notið hagnaðar af brotinu.
- 126. gr. Ríkislögreglustjóri fer með frumrannsókn opinberra mála vegna brota á
+ 126. gr. Ríkislögreglustjóri fer með frumrannsókn [sakamála]^1) vegna brota á
 lögum þessum. Skattrannsóknarstjóri ríkisins getur á hvaða stigi rannsóknar sem
-    er vísað máli til opinberrar rannsóknar af sjálfsdáðum, svo og eftir ósk
+  er vísað máli til [rannsóknar lögreglu]^1) af sjálfsdáðum, svo og eftir ósk
 sökunautar ef hann vill ekki hlíta því að málið verði fengið yfirskattanefnd til
-                                 úrlausnar.^1)
+                                   úrlausnar.
  Yfirskattanefnd úrskurðar sektir vegna brota á lögum þessum nema máli sé vísað
- til opinberrar rannsóknar og dómsmeðferðar skv. 1. mgr., [sbr. þó 3. mgr.]^2)
+     til ^1) rannsóknar og dómsmeðferðar skv. 1. mgr., [sbr. þó 3. mgr.]^2)
 Skattrannsóknarstjóri ríkisins leggur mál fyrir yfirskattanefnd og kemur fram af
    hálfu hins opinbera fyrir nefndinni þegar hún úrskurðar sektir. Úrskurðir
        yfirskattanefndar eru fullnaðarúrskurðir. Vararefsing fylgir ekki
-                           sektarúrskurðum hennar.^1)
+                            sektarúrskurðum hennar.
  [Þrátt fyrir ákvæði 2. mgr. er ársreikningaskrá heimilt að leggja sektir á þau
  félög sem falla undir 3. tölul. eða 1. málsl. 4. tölul. 1. gr. og vanrækja að
  standa skil á ársreikningi eða samstæðureikningi til opinberrar birtingar. Við
@@ -1653,8 +1654,7 @@ opinberrar birtingar. Heimild ársreikningaskrár til að leggja á sektir samkv
  vegum skattrannsóknarstjóra ríkisins eða ríkislögreglustjóra eða hjá löglærðum
  fulltrúum þeirra, gegn manni sem sökunaut, enda verði ekki óeðlilegar tafir á
                      rannsókn máls eða ákvörðun refsingar.
-     ^1)Málsgreininni var breytt með [8]l. 88/2008, 234. gr. Breytingin tekur
-gildi 1. jan. 2009 skv. [9]232. gr. s.l. ^2)L. 160/2006, 3. gr. ^3)Rg. 664/2008.
+        ^1)[8]L. 88/2008, 234. gr. ^2)L. 160/2006, 3. gr. ^3)Rg. 664/2008.
 
                            XIII. kafli. Ýmis ákvæði.
 127. gr. Ráðherra getur sett reglugerð^1) um framkvæmd laga þessara, þar á meðal
@@ -1677,13 +1677,15 @@ mgr. 68. gr., svo og 1. og 2. tölul. 1. mgr. 98. gr. og 1. og 2. tölul. 1. mgr
 [2003/51/EB og 2004/109/EB],^1) og reglugerðar nr. 2002/1606/EB að því er varðar
    ársreikninga félaga með takmarkaða ábyrgð og samstæðureikningsskil þeirra.
                               ^1)L. 171/2007, 18. gr.
-         Ákvæði til bráðabirgða. Félögum, sem ber að beita alþjóðlegum
-     reikningsskilastöðlum við samningu samstæðureikninga sinna skv. 4. gr.
- reglugerðar (EB) nr. 1606/2002 og hafa eingöngu skuldabréf skráð á skipulegum
-    verðbréfamarkaði í ríki innan Evrópska efnahagssvæðisins, [í aðildarríki
- stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum],^1) er ekki skylt að
-   beita alþjóðlegum reikningsskilastöðlum við samningu samstæðureiknings eða
-ársreiknings fyrr en fyrir hvert reikningsár sem hefst 1. janúar 2007 eða síðar.
+
+                            Ákvæði til bráðabirgða.
+  I. Félögum, sem ber að beita alþjóðlegum reikningsskilastöðlum við samningu
+   samstæðureikninga sinna skv. 4. gr. reglugerðar (EB) nr. 1606/2002 og hafa
+ eingöngu skuldabréf skráð á skipulegum verðbréfamarkaði í ríki innan Evrópska
+efnahagssvæðisins, [í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í
+   Færeyjum],^1) er ekki skylt að beita alþjóðlegum reikningsskilastöðlum við
+samningu samstæðureiknings eða ársreiknings fyrr en fyrir hvert reikningsár sem
+                        hefst 1. janúar 2007 eða síðar.
    Félögum, sem skyld eru til að beita alþjóðlegum reikningsskilastöðlum við
  samningu ársreikninga sinna skv. 2. og 3. mgr. 90. gr., er ekki skylt að beita
     þeim fyrr en fyrir hvert reikningsár sem hefst 1. janúar 2007 eða síðar.
@@ -1692,6 +1694,12 @@ samningu samstæðureikninga eða ársreikninga, sbr. 1. mgr. 92. gr., er ekki s
 að beita þeim við samningu ársreikninga eða samstæðureikninga, sbr. 2. mgr. 92.
     gr., fyrr en fyrir hvert reikningsár sem hefst 1. janúar 2007 eða síðar.
                               ^1)L. 108/2006, 12. gr.
+       [II. Þrátt fyrir ákvæði 9. gr. laganna geta félög sótt um heimild
+   ársreikningaskrár fyrir 30. desember 2008 til færslu bókhalds og samningar
+ársreiknings í erlendum gjaldmiðli annars vegar vegna reikningsárs sem hefst 1.
+janúar 2008 eða síðar á því ári og hins vegar vegna reikningsársins sem hefst 1.
+                                janúar 2009.]^1)
+                              ^1)L. 162/2008, 1. gr.
 
                                   Fylgiskjal.
   Reglugerð Evrópuþingsins og ráðsins (EB) nr. 1606/2002 frá 19. júlí 2002 um
@@ -1932,7 +1940,6 @@ References
    3. file://2008088.html
    4. file://1999033.html
    5. file://1993002.html
-   6. file://1997018.html#g9
+   6. file://1997018.html
    7. file://1992030.html
    8. file://2008088.html#g234
-   9. file://2008088.html

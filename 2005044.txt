@@ -10,7 +10,7 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. júlí 2005, nema ákvæði til bráðabirgða sem tók gildi 20. maí 2005.
- Breytt með l. 52/2007 (tóku gildi 3. apríl 2007), [1]l. 88/2008 (taka gildi 1.
+ Breytt með l. 52/2007 (tóku gildi 3. apríl 2007), [1]l. 88/2008 (tóku gildi 1.
   jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 94/2008 (tóku
                              gildi 24. júní 2008).
 
@@ -428,15 +428,14 @@ Samkeppniseftirlitið getur einnig lagt skyldu á þá aðila sem um getur í 1.
  á starfsstað fyrirtækis og samtaka fyrirtækja og lagt hald á gögn þegar ríkar
  ástæður eru til að ætla að brotið hafi verið gegn lögum þessum eða ákvörðunum
                               samkeppnisyfirvalda.
-Við framkvæmd aðgerða skal fylgja ákvæðum laga um meðferð opinberra mála um leit
-                              og hald á munum.^1)
-     ^1)Málsgreininni var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur
-                    gildi 1. jan. 2009 skv. [3]232. gr. s.l.
+Við framkvæmd aðgerða skal fylgja ákvæðum laga um meðferð [sakamála]^1) um leit
+                                og hald á munum.
+                            ^1)[2]L. 88/2008, 234. gr.
 
   VII. kafli. Framkvæmd samkeppnisreglna o.fl. samkvæmt samningnum um Evrópska
                                 efnahagssvæðið.
     21. gr. Samkeppniseftirlitið, áfrýjunarnefnd samkeppnismála og íslenskir
-dómstólar skulu beita 53. og 54. gr. EES-samningsins, sbr. [4]lög nr. 2/1993, um
+dómstólar skulu beita 53. og 54. gr. EES-samningsins, sbr. [3]lög nr. 2/1993, um
 Evrópska efnahagssvæðið, eftir því sem kveðið er á um í lögum, m.a. 25.28. gr.
    í lögum þessum. Við beitingu Eftirlitsstofnunar EFTA og EFTA-dómstólsins á
     samkeppnisreglum EES-samningsins skal m.a. farið að ákvæðum þessa kafla.
@@ -641,7 +640,7 @@ frá sektarákvörðun hafi fyrirtæki verið fyrst til að láta Samkeppnisefti
                               samkeppnismála.]^3)
      ^1)L. 94/2008, 7. gr. ^2)Samkeppniseftirlitið leggur stjórnvaldssektir á
   fyrirtæki eða samtök fyrirtækja sem brjóta gegn fyrirmælum eða skilyrðum sem
-   gefin voru á grundvelli [5]laga nr. 8/1993, með síðari breytingum, skv. l.
+   gefin voru á grundvelli [4]laga nr. 8/1993, með síðari breytingum, skv. l.
                      52/2007, brbákv. ^3)L. 52/2007, 2. gr.
   [37. gr. a. Heimild Samkeppniseftirlitsins til að leggja á stjórnvaldssektir
  samkvæmt lögum þessum fellur niður þegar sjö ár eru liðin frá því að háttsemi
@@ -703,8 +702,8 @@ Hver sá sem við upplýsingagjöf skv. 19. gr. veitir Samkeppniseftirlitinu ran
 Gera má lögaðila sekt samkvæmt ákvæðum II. kafla A almennra hegningarlaga fyrir
                  brot skv. 1. og 2. mgr. þessarar greinar.]^1)
                                ^1)L. 52/2007, 4. gr.
-42. gr. [Brot gegn lögum þessum sæta aðeins opinberri rannsókn að undangenginni
-                  kæru Samkeppniseftirlitsins til lögreglu.^1)
+42. gr. [[Brot gegn lögum þessum sæta aðeins rannsókn lögreglu að undangenginni
+                        kæru Samkeppniseftirlitsins.]^1)
     Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur
  Samkeppniseftirlitið með tilliti til grófleika brots og réttarvörslusjónarmiða
   hvort sá hluti málsins sem varðar refsiábyrgð einstaklings skuli kærður til
@@ -729,18 +728,15 @@ Lögreglu og ákæruvaldi er heimilt að láta Samkeppniseftirlitinu í té uppl
                  rannsókn þeirra brota sem falla undir 2. mgr.
 Ákærandi getur sent mál sem varðar brot á samkeppnislögum og gögn því tengd til
             Samkeppniseftirlitsins til meðferðar og ákvörðunar.]^2)
-     ^1)Málsgreininni var breytt með [6]l. 88/2008, 234. gr. Breytingin tekur
-         gildi 1. jan. 2009 skv. [7]232. gr. s.l. ^2)L. 52/2007, 5. gr.
+                 ^1)[5]L. 88/2008, 234. gr. ^2)L. 52/2007, 5. gr.
   [42. gr. a. Samkeppniseftirlitinu er heimilt að takmarka aðgang málsaðila að
 gögnum er tengjast rannsókn á meintum refsiverðum brotum á lögum þessum ef hætta
-  er á að slíkur aðgangur torveldi opinbera rannsókn. Þeirri takmörkun skal þó
-ávallt aflétt tímanlega áður en Samkeppniseftirlitið tekur endanlega ákvörðun í
-                                   málinu.^1)
+ er á að slíkur aðgangur torveldi ^1) rannsókn. Þeirri takmörkun skal þó ávallt
+aflétt tímanlega áður en Samkeppniseftirlitið tekur endanlega ákvörðun í málinu.
  Ekki er heimilt að nota upplýsingar sem fyrirsvarsmaður fyrirtækis hefur veitt
-Samkeppniseftirlitinu sem sönnunargagn í opinberu máli sem höfðað er gegn honum
-               vegna brota sem tilgreind eru í 41. gr. a.^1)]^2)
-     ^1)Málsgreininni var breytt með [8]l. 88/2008, 234. gr. Breytingin tekur
-         gildi 1. jan. 2009 skv. [9]232. gr. s.l. ^2)L. 52/2007, 6. gr.
+Samkeppniseftirlitinu sem sönnunargagn í [sakamáli]^1) sem höfðað er gegn honum
+                 vegna brota sem tilgreind eru í 41. gr. a.]^2)
+                 ^1)[6]L. 88/2008, 234. gr. ^2)L. 52/2007, 6. gr.
   43. gr. Ákvarðanir Samkeppniseftirlitsins um að leggja stjórnvaldssektir eða
    dagsektir á fyrirtæki eða samtök fyrirtækja eða mæla fyrir um ógildingu á
        samruna fyrirtækja, sbr. [17. gr. c],^1) eru aðfararhæfar, svo og
@@ -757,7 +753,7 @@ Samkeppniseftirlitinu sem sönnunargagn í opinberu máli sem höfðað er gegn 
 Ákvæði til bráðabirgða. Starfsmönnum Samkeppnisstofnunar skal boðið annað starf
 hjá þeim stofnunum er taka við verkefnum Samkeppnisstofnunar 1. júlí 2005, þ.e.
  Samkeppniseftirliti og Neytendastofu. Við ráðstöfun þeirra starfa þarf ekki að
- gæta [10]7. gr. laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins.
+ gæta [7]7. gr. laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins.
   Viðskiptaráðherra er heimilt að skipa þegar stjórn Samkeppniseftirlitsins og
  skal stjórnin hafa heimild til að undirbúa gildistöku laganna, þ.m.t. að bjóða
 starfsmönnum Samkeppnisstofnunar annað starf hjá Samkeppniseftirlitinu, sbr. 1.
@@ -768,11 +764,8 @@ References
    Visible links
    1. file://2008088.html
    2. file://2008088.html#g234
-   3. file://2008088.html
-   4. file://1993002.html
-   5. file://1993008.html
+   3. file://1993002.html
+   4. file://1993008.html
+   5. file://2008088.html#g234
    6. file://2008088.html#g234
-   7. file://2008088.html
-   8. file://2008088.html#g234
-   9. file://2008088.html
-  10. file://1996070.html#g7
+   7. file://1996070.html#g7

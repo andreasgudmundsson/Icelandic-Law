@@ -1,38 +1,38 @@
 
    --------------------------------------------------------------------------
 
-                      Lög um skráningu og mat fasteigna^1)
+                       Lög um skráningu og mat fasteigna
 
                              2001 nr. 6 6. febrúar
 
    --------------------------------------------------------------------------
 
-     ^1)Lögunum var breytt með l. 83/2008. Breytingarnar taka gildi 1. janúar
-                                     2009.
  Upphaflega [1]l. 94/1976. Tóku gildi 23. júlí 1976. Endurútgefin, sbr. 17. gr.
 l. 47/2000, sem [2]l. 6/2001. Breytt með l. 61/2001 (tóku gildi 13. júní 2001),
 l. 139/2004 (tóku gildi 1. jan. 2005), l. 50/2006 (tóku gildi 1. júlí 2006), l.
  178/2006 (tóku gildi 1. jan. 2007), l. 165/2007 (tóku gildi 1. jan. 2008), l.
- 83/2008 (taka gildi 1. jan. 2009 nema 22. gr. sem tók gildi 20. júní 2008) og
- [3]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+ 83/2008 (tóku gildi 1. jan. 2009 nema 22. gr. sem tók gildi 20. júní 2008) og
+ [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
                                      2008).
 
          I. kafli. Markmið, skilgreiningar og söfnun skráningaratriða.
-1. gr. Fasteignamat ríkisins annast fasteignaskráningu samkvæmt lögum þessum og
-   rekstur gagna- og upplýsingakerfis er nefnist Landskrá fasteigna sem er á
+ 1. gr. [Fasteignaskrá Íslands fer með yfirstjórn fasteignaskráningar samkvæmt
+ lögum þessum og rekstur gagna- og upplýsingakerfis er nefnist fasteignaskrá á
                                 tölvutæku formi.
-Í Landskrá fasteigna skal skrá allar fasteignir í landinu og er hún grundvöllur
- skráningar fasteigna, þinglýsingabókar fasteigna, mats fasteigna og húsaskrár
-      [Þjóðskrár]^1) og þannig úr garði gerð að hún nýtist sem stoðgagn í
-                             landupplýsingakerfum.
-                              ^1)L. 50/2006, 24. gr.
+Í fasteignaskrá skal skrá allar fasteignir í landinu. Kjarni fasteignaskrár eru
+  upplýsingar um lönd og lóðir og hnitsett afmörkun þeirra, mannvirki við þau
+        skeytt og réttindi þeim viðkomandi. Fasteignaskrá er grundvöllur
+ þinglýsingabókar fasteigna, mats fasteigna og húsaskrár Þjóðskrár og þannig úr
+ garði gerð að hún nýtist sem stoðgagn í landupplýsingakerfum. Saga breytinga á
+            skráningu fasteignar skal varðveitt í fasteignaskrá.]^1)
+                               ^1)L. 83/2008, 1. gr.
  2. gr. Hverja fasteign skal meta til verðs eftir því sem næst verður komist á
               hverjum tíma og nánar er kveðið á um í lögum þessum.
 3. gr. Fasteign samkvæmt lögum þessum er afmarkaður hluti lands, ásamt lífrænum
    og ólífrænum hlutum þess, réttindum sem því fylgja og þeim mannvirkjum sem
                         varanlega eru við landið skeytt.
  Fasteignir, hluta þeirra og einstök mannvirki skal skrá sem sérstakar eindir í
-                     Landskrá fasteigna svo sem hér segir:
+                     [fasteignaskrá]^1) svo sem hér segir:
         a. land, þ.e. hver sá skiki lands sem vegna sérgreinds eignar- eða
 afnotaréttar, hagnýtingar, auðkenna eða landamerkja getur talist sjálfstæð eind,
      b. mannvirki sem gert hefur verið í landi eða á eða verið við það tengt,
@@ -43,6 +43,7 @@ afnotaréttar, hagnýtingar, auðkenna eða landamerkja getur talist sjálfstæ�
                         g. önnur réttindi tengd fasteignum.
 Ráðherra getur með reglugerð ákveðið nánari skráningu samkvæmt framansögðu og að
        skrá skuli fleiri eindir fasteigna en þær sem taldar eru í 2. mgr.
+                              ^1)L. 83/2008, 21. gr.
   4. gr. Skráning skv. 1. gr. á fasteignum skv. 3. gr. skal fela í sér nýjustu
      upplýsingar, sem á hverjum tíma eru tiltækar og fasteignina varða, auk
  nauðsynlegra greinitalna hverrar fasteignar. Setja skal í reglugerð ákvæði um
@@ -55,20 +56,22 @@ landsstærðir breytast, notkun lands breytist, svo sem við gerð lóðarsamnin
  Upplýsingar skulu einnig skráðar við eignaskipti eða breytingu á notkun eignar
    svo og umráðum eignar, sbr. 22. gr. Heimilt er að setja í reglugerð nánari
  ákvæði um framkvæmd þessarar greinar, þar á meðal um hve oft fasteignir skuli
-                      skoðaðar af Fasteignamati ríkisins.
+                    skoðaðar af [Fasteignaskrá Íslands].^1)
+                              ^1)L. 83/2008, 20. gr.
 6. gr. Skráningaraðila er heimilt að höfðu samráði við viðkomandi stjórnvöld að
  takmarka söfnun og skráningu upplýsinga um einstakar eignir eða tegundir eigna
    séu eignir þess eðlis að slík upplýsingasöfnun er erfið og/eða þjónar ekki
                               opinberum hagsmunum.
-      Fasteignamati ríkisins ber að annast gerð og samræmingu hvers konar
+    [Fasteignaskrá Íslands]^1) ber að annast gerð og samræmingu hvers konar
 greinitalnakerfa sem notuð eru um fasteignir við skráningu þeirra, þar með talin
  gerð staðgreinitölukerfis (matrikel) sem taki til landsins alls. Heimilt er að
      skylda fasteignaeigendur til að sjá um auðkenningu fasteigna samkvæmt
-                    greinitalnakerfi Fasteignamats ríkisins.
+                 greinitalnakerfi [Fasteignaskrár Íslands].^1)
+                              ^1)L. 83/2008, 20. gr.
 
                          II. kafli. Skipulag og stjórn.
  7. gr. Gerð og viðhald þeirrar skráningar, sem um ræðir í lögum þessum, annast
-  sérstök ríkisstofnun sem nefnist Fasteignamat ríkisins. Stofnunin starfar á
+sérstök ríkisstofnun sem nefnist [Fasteignaskrá Íslands].^1) Stofnunin starfar á
                ábyrgð fjármálaráðuneytisins og undir umsjón þess.
   Ráðherra hefur heimild til að fela öðrum opinberum aðilum, þ.m.t. einstökum
 sveitarfélögum eða samstarfsstofnunum þeirra, skráningu fasteigna samkvæmt lögum
@@ -77,160 +80,185 @@ sveitarfélögum eða samstarfsstofnunum þeirra, skráningu fasteigna samkvæmt
 eða samstarfsstofnunum þeirra að annast tiltekin störf til undirbúnings að mati
   fasteigna skv. V. kafla laga þessara. Í því tilviki skal gætt ákvæða 19. gr.
                    laga þessara, eftir því sem við getur átt.
-8. gr. Fasteignamat ríkisins starfar undir stjórn forstjóra sem ráðherra skipar
- til fimm ára í senn. Forstjóri ræður starfsfólk og kaupir sérfræðilega aðstoð
- eftir því sem nauðsyn ber til og heimildir fjárlaga hverju sinni segja til um.
-  9. gr. Ráðherra skipar þrjá menn í stjórn Fasteignamats ríkisins. Skal einn
-   tilnefndur af Sambandi íslenskra sveitarfélaga, einn af Sambandi íslenskra
-tryggingafélaga og einn án tilnefningar. Skal stjórnin skipuð til fjögurra ára.
- Stjórn Fasteignamats ríkisins mótar starf og innra skipulag stofnunarinnar og
-    hefur eftirlit með rekstri hennar. Stjórnin gerir tillögur að gjaldskrá
-              stofnunarinnar sem síðan skal staðfest af ráðherra.
+                              ^1)L. 83/2008, 20. gr.
+ 8. gr. [Fasteignaskrá Íslands]^1) starfar undir stjórn forstjóra sem ráðherra
+ skipar til fimm ára í senn. Forstjóri ræður starfsfólk og kaupir sérfræðilega
+ aðstoð eftir því sem nauðsyn ber til og heimildir fjárlaga hverju sinni segja
+                                    til um.
+                              ^1)L. 83/2008, 20. gr.
+  9. gr. [Ráðherra skipar þrjá menn í stjórn Fasteignaskrár Íslands. Skal einn
+        tilnefndur af Sambandi íslenskra sveitarfélaga, einn af Samtökum
+ fjármálafyrirtækja og einn skipaður án tilnefningar. Skal stjórnin skipuð til
+                                 fjögurra ára.
+ Stjórn Fasteignaskrár Íslands mótar starf og innra skipulag stofnunarinnar og
+   hefur eftirlit með starfsemi hennar. Stjórnin gerir tillögur að gjaldskrá
+stofnunarinnar sem síðan skal staðfest af ráðherra. Við ákvörðun gjaldskrár skal
+ taka mið af kostnaði einstakra rekstrarþátta sem skulu aðgreindir í bókhaldi.
+                     Gjaldskrá skal endurskoðuð árlega.]^1)
+                               ^1)L. 83/2008, 2. gr.
 
-                        III. kafli. Landskrá fasteigna.
-     10. gr. Landskrá fasteigna skal mynduð af stofnhluta, mannvirkjahluta,
-         fasteignamatshluta og þinglýsingarhluta er geyma eftirfarandi:
-            1. Í stofnhluta eru heiti, auðkenni og afmörkun fasteigna.
+                        III. kafli. [Fasteignaskrá.]^1)
+                              ^1)L. 83/2008, 11. gr.
+     10. gr. [Fasteignaskrá]^1) skal mynduð af stofnhluta, mannvirkjahluta,
+           [matshluta]^2) og þinglýsingarhluta er geyma eftirfarandi:
+   1. [Í stofnhluta eru heiti, auðkenni og hnitsett afmörkun fasteigna sem birt
+                   skal í fasteignaskrá á myndrænan hátt.]^2)
      2. Í mannvirkjahluta eru byggingarfræðileg atriði um fasteignir og notkun
              þeirra eða einstaka hluta þeirra eftir því sem við á.
-      3. Í fasteignamatshluta eru matsgögn ásamt fasteigna- og brunabótamati.
+        3. Í [matshluta]^2) eru matsgögn ásamt fasteigna- og brunabótamati.
    4. Í þinglýsingarhluta eru þinglýstir eigendur og eignarhlutur þeirra skráðir
       ásamt þinglýstum veðböndum, kvöðum og öðru er þinglýsingabók heldur.
-Um þinglýsingarhluta Landskrár fasteigna og upplýsingar er hann geymir fer eftir
+Um þinglýsingarhluta [fasteignaskrár]^1) og upplýsingar er hann geymir fer eftir
                             ákvæðum þinglýsingalaga.
  Fjármálaráðherra er heimilt með reglugerð að setja nánari fyrirmæli um gerð og
-                           efni Landskrár fasteigna.
-11. gr. Fasteignamat ríkisins forskráir grunnupplýsingar í stofnhluta Landskrár
- fasteigna. Með forskráningu er átt við skráningu upplýsinga í biðskrá. Þessar
-    upplýsingar færast í stofnhluta Landskrár fasteigna við þinglýsingu eða
-       staðfestingu þinglýsingarstjóra og telst það þá fullnaðarskráning.
-Fullnaðarskráning eða breyting grunnupplýsinga í stofnhluta Landskrár fasteigna
-      verður aðeins með þinglýsingu í samræmi við ákvæði þinglýsingalaga.
-    12. gr. [Allar fasteignir skulu bera fast auðkenni, fasteignanúmer, sem
-Fasteignamat ríkisins úthlutar við forskráningu. Númerið er hlaupandi raðtala og
-        felur ekki í sér aðrar upplýsingar. Undir fasteignanúmer fellur:
-                     1. Landnúmer, sem er auðkenni landskika.
-                  2. Heitinúmer, sem er auðkenni fasteignaheita.
-   3. Fastanúmer, sem er auðkenni eignarhluta í mannvirki eða mannvirkja í heild
-                          sinni, ásamt lóðarréttindum.
+                           efni [fasteignaskrár].^1)
+                   ^1)L. 83/2008, 21. gr. ^2)L. 83/2008, 3. gr.
+ 11. gr. [Þær upplýsingar sem sveitarfélög forskrá í stofnhluta fasteignaskrár
+  taka gildi þegar Fasteignaskrá Íslands hefur staðfest þær eða eftir atvikum
+                              þinglýsingarstjóri.
+Heimilt er Fasteignaskrá Íslands að fela sveitarfélögum að fullskrá upplýsingar
+                              í fasteignaskrá.]^1)
+                               ^1)L. 83/2008, 4. gr.
+    12. gr. [[Allar fasteignir skulu bera fast auðkenni, fasteignanúmer, sem
+Fasteignaskrá Íslands úthlutar. Númerið er hlaupandi raðtala og felur ekki í sér
+                             aðrar upplýsingar.]^1)
  Auk fasteignanúmers ber hver fasteign heiti samkvæmt ákvörðun sveitarstjórnar
                       eða samkvæmt lögum um bæjanöfn o.fl.
 Ráðherra er heimilt að setja nánari reglur um heiti fasteigna, annarra en þeirra
-                   sem falla undir lög um bæjanöfn o.fl.]^1)
-                              ^1)L. 139/2004, 1. gr.
+                   sem falla undir lög um bæjanöfn o.fl.]^2)
+                   ^1)L. 83/2008, 5. gr. ^2)L. 139/2004, 1. gr.
                                   13. gr. ^1)
                               ^1)L. 139/2004, 2. gr.
- 14. gr. Eigandi skal gefa út stofnskjal fyrir hverja lóð eða heildarsafn lóða
-      sem myndaðar eru í Landskrá fasteigna. Í stofnskjali skal koma fram:
-    a. heiti landeignar samkvæmt ákvörðun sveitarfélags eða lögum um bæjanöfn,
-                              eftir því sem við á,
-                       b. landnúmer lóðar, eitt eða fleiri,
-                   c. landnúmer þess lands sem lóð er tekin úr,
-            d. afmörkun lóðar á uppdrætti sem staðfestur hefur verið af
-                              skipulagsyfirvöldum,
-    e. fastanúmer hverrar lóðar eða jarðar sem hefur beina tilvísun í þá skika
-                              sem henni tilheyra,
-                        f. nafn og kennitala eiganda lands.
-   15. gr. Við myndun fasteignar í fjöleignarhúsi skal Fasteignamat ríkisins
- forskrá auðkenni hvers séreignarhluta í húsinu, fastanúmer og skilgreiningu og
-       auðkenni þess rýmis í húsinu sem tilheyrir hverjum séreignarhluta.
- Fasteignir í fjöleignarhúsum skulu afmarkaðar á grunnteikningum. Um skráningu
-        fasteigna í fjöleignarhúsum fer samkvæmt lögum um fjöleignarhús.
+    14. gr. [Umsókn um stofnun fasteignar í fasteignaskrá skal leggja fram í
+ viðkomandi sveitarfélagi. Stofnun fasteignar getur verið grundvölluð á samruna
+fasteigna eða skiptingu fasteignar, svo sem fjöleignar eða fjöleignarhúss, sbr.
+15. gr. Umsókn skal undirrituð af eiganda eða eigendum upprunafasteignar og þar
+                          skal eftirfarandi koma fram:
+      a. fasteignanúmer þeirra fasteigna sem ný fasteign er mynduð af, sé um
+                                samruna að ræða,
+    b. fasteignanúmer þeirrar fasteignar sem skipta skal, sé um slíkt að ræða,
+    c. afmörkun fasteignar á hnitsettum uppdrætti sem staðfestur hefur verið af
+        skipulagsyfirvöldum, sé um skiptingu eða samruna lands að ræða,
+                  d. auðkenni sameignarlands, sé um það að ræða.
+Ef óskað er eftir að breyta fyrirliggjandi upplýsingum um fasteign skal eigandi
+   sækja um breytingu á skráningarupplýsingum um fasteign í fasteignaskrá hjá
+                         viðkomandi sveitarfélagi.]^1)
+                               ^1)L. 83/2008, 6. gr.
+15. gr. [Við myndun fasteignar í fjöleignarhúsi eða fjöleign skal skrá auðkenni
+hverrar fasteignar á grundvelli umsóknar um stofnun fasteignar í fasteignaskrá,
+                                  sbr. 14. gr.
+    Fasteignir í fjöleign skulu skilgreindar með hlutfallstölu. Fasteignir í
+ fjöleignarhúsum skulu afmarkaðar á grunnteikningum og skráningartöflu húss. Um
+ skráningu fasteigna í fjöleignarhúsum fer samkvæmt lögum um fjöleignarhús.]^1)
        Ráðherra er heimilt að setja nánari reglur um skráningu fasteigna.
-16. gr. Sveitarstjórn skal tilkynna Fasteignamati ríkisins um breytingar á heiti
- fasteignar. Fasteignamat ríkisins skal framsenda viðkomandi þinglýsingarstjóra
-                           tilkynningu sveitarfélags.
-    Breyting skv. 1. mgr. tekur gildi í Landskrá fasteigna við staðfestingu
-       þinglýsingarstjóra og skal Fasteignamat ríkisins tilkynna hana til
-                    [Þjóðskrár]^1) að staðfestingu lokinni.
- Í Landskrá fasteigna skal halda ferilskrá yfir breytingar á fasteignum þar sem
+                               ^1)L. 83/2008, 7. gr.
+ 16. gr. Sveitarstjórn skal tilkynna [Fasteignaskrá Íslands]^1) um breytingar á
+                             heiti fasteignar. ^2)
+                                      ^2)
+ Í [fasteignaskrá]^3) skal halda ferilskrá yfir breytingar á fasteignum þar sem
   fyrri heiti og auðkenni og tengsl þeirra við gildandi heiti og auðkenni eru
                                    varðveitt.
-                              ^1)L. 50/2006, 24. gr.
- 17. gr. Landeiganda er skylt að þinglýsa stofnskjali er ný fasteign verður til
-                              við skiptingu lands.
+        ^1)L. 83/2008, 20. gr. ^2)L. 83/2008, 8. gr. ^3)L. 83/2008, 21. gr.
+                                  17. gr. ^1)
  Áður en heimild er veitt til veðsetningar eða mannvirkjagerðar á leigulóð eða
  landi í eigu sveitarfélags skal sveitarstjórn hlutast til um að fasteign verði
-                       skráð með þinglýsingu stofnskjals.
+                          skráð [í fasteignaskrá].^1)
   Áður en heimild er veitt til mannvirkjagerðar á eignarlóð skal sveitarstjórn
       hlutast til um að fasteign verði skráð með þinglýsingu stofnskjals.
-  18. gr. Að gerð Landskrár fasteigna skal starfa samráðsnefnd fimm manna sem
- ráðherra skipar. Einn nefndarmaður skal tilnefndur af fjármálaráðherra og skal
-  hann vera formaður nefndarinnar, einn af dómsmálaráðherra, einn af Hagstofu
-Íslands, einn af umhverfisráðherra og einn af Sambandi íslenskra sveitarfélaga.
-   Hlutverk nefndarinnar er að samræma skráningu fasteigna og vera viðkomandi
- aðilum til ráðgjafar um myndun og þróun Landskrár fasteigna og framkvæmd laga
-                                    þessara.
+                               ^1)L. 83/2008, 9. gr.
+   18. gr. [Um þróun fasteignaskráningar og fasteignaskrár skal Fasteignaskrá
+   Íslands hafa samráð við skráningarstjórnvöld og helstu hagsmunaaðila.]^1)
+                              ^1)L. 83/2008, 10. gr.
 
                    IV. kafli. Framkvæmd fasteignaskráningar.
-19. gr. Viðkomandi sveitarstjórn er ábyrg fyrir að Fasteignamati ríkisins berist
-upplýsingar um lönd og lóðir og breytingar á þeim, svo og um öll mannvirki, sem
-   gerð eru í umdæmum þeirra hvers um sig, og um breytingar á þeim og eyðingu
-                                    þeirra.
+ 19. gr. Viðkomandi sveitarstjórn er ábyrg fyrir að [Fasteignaskrá Íslands]^1)
+    berist upplýsingar um lönd og lóðir og breytingar á þeim, svo og um öll
+ mannvirki, sem gerð eru í umdæmum þeirra hvers um sig, og um breytingar á þeim
+                               og eyðingu þeirra.
  Sveitarstjórn skal að jafnaði fela byggingarfulltrúa viðkomandi sveitarfélags
     upplýsingagjöf um fyrrgreind atriði. Þar sem byggingarfulltrúar eru ekki
   starfandi skal sveitarstjórn fela upplýsingagjöfina öðrum aðila í hendur að
-fengnu samþykki Fasteignamats ríkisins. Eigendum fasteigna er skylt að veita þær
-                   upplýsingar um fasteignir sem um er beðið.
-     Fasteignamat ríkisins kveður á um form, efni og tímasetningu þessarar
+  fengnu samþykki [Fasteignaskrár Íslands].^1) Eigendum fasteigna er skylt að
+              veita þær upplýsingar um fasteignir sem um er beðið.
+   [Fasteignaskrá Íslands]^1) kveður á um form, efni og tímasetningu þessarar
  upplýsingagjafar. Byggingarfulltrúar eða aðrir, sem sveitarstjórn hefur falið
   upplýsingagjöf skv. 2. mgr., eru ábyrgir fyrir að upplýsingar séu efnislega
                                     réttar.
   Sveitarstjórn getur lagt fyrir þá aðila, sem leggja teikningar og önnur gögn
-fyrir byggingarnefnd, að skila þeim einnig í því formi sem Fasteignamat ríkisins
-                                    ákveður.
- Fasteignamat ríkisins getur leyst sveitarstjórnir undan ábyrgð skv. 1. mgr. á
-upplýsingasöfnun um einstakar tegundir fasteigna og lagt hana á aðra aðila, enda
-er opinberum stofnunum, sem slíkum upplýsingum safna á sínu verksviði, skylt að
-               leggja Fasteignamati ríkisins til þær upplýsingar.
-    Fasteignamat ríkisins sendir hverju sveitarfélagi árlega samkvæmt nánari
+   fyrir byggingarnefnd, að skila þeim einnig í því formi sem [Fasteignaskrá
+                              Íslands]^1) ákveður.
+[Fasteignaskrá Íslands]^1) getur leyst sveitarstjórnir undan ábyrgð skv. 1. mgr.
+ á upplýsingasöfnun um einstakar tegundir fasteigna og lagt hana á aðra aðila,
+  enda er opinberum stofnunum, sem slíkum upplýsingum safna á sínu verksviði,
+        skylt að leggja [Fasteignaskrá Íslands]^1) til þær upplýsingar.
+ [Fasteignaskrá Íslands]^1) sendir hverju sveitarfélagi árlega samkvæmt nánari
   ákvörðun í reglugerð skrá með nægum upplýsingum um fasteignir til að gengið
 verði úr skugga um að aðilar skv. 2. mgr. hafi fullnægt upplýsingaskyldu sinni.
-     Fasteignamat ríkisins skal hafa eftirlit með því að sveitarfélög sinni
+  [Fasteignaskrá Íslands]^1) skal hafa eftirlit með því að sveitarfélög sinni
    upplýsingaskyldu sinni. Í því skyni skal stofnunin halda skrár er sýni hve
      margar fasteiginir eru metnar í einstökum sveitarfélögum á ári hverju.
-    Fasteignamat ríkisins skal árlega senda skýrslu um matsstörf í einstökum
+ [Fasteignaskrá Íslands]^1) skal árlega senda skýrslu um matsstörf í einstökum
          sveitarfélögum til fjármálaráðuneytis og félagsmálaráðuneytis.
-20. gr. Fasteignamati ríkisins ber að hafa frumkvæði að samræmingu á gagnasöfnun
-  um atriði, sem snerta fasteignir, og koma í veg fyrir tvíverknað í því efni.
-    21. gr. Fasteignamat ríkisins getur, hvenær sem það telur þörf á, látið
+                              ^1)L. 83/2008, 20. gr.
+    20. gr. [Fasteignaskrá Íslands]^1) ber að hafa frumkvæði að samræmingu á
+ gagnasöfnun um atriði, sem snerta fasteignir, og koma í veg fyrir tvíverknað í
+                                   því efni.
+                              ^1)L. 83/2008, 20. gr.
+  21. gr. [Fasteignaskrá Íslands getur, hvenær sem hún]^1) telur þörf á, látið
    endurskoða upplýsingar sem fyrir liggja um einstakar fasteignir, einstakar
              tegundir fasteigna eða fasteignir á tilteknum svæðum.
-  Slík endurskoðun skal jafnan fara fram ef sýnt er að upplýsingar í Landskrá
-   fasteigna gefa ekki rétta lýsingu á fasteign eða fasteignum sem um ræðir.
+       Slík endurskoðun skal jafnan fara fram ef sýnt er að upplýsingar í
+  [fasteignaskrá]^2) gefa ekki rétta lýsingu á fasteign eða fasteignum sem um
+                                     ræðir.
    Eigandi fasteignar eða annar aðili, sem telur sig eiga hagsmuna að gæta í
 lýsingu fasteignar eða mati, getur krafist endurskoðunar skv. 1. mgr. Séu þessir
   hagsmunir að mati stofnunarinnar svo miklir að réttlæti endurskoðun skal sú
              endurskoðun fara fram svo fljótt sem við verður komið.
-Breyting á Landskrá fasteigna, hvernig sem til hennar er stofnað, skal tilkynnt
+Breyting á [fasteignaskrá],^2) hvernig sem til hennar er stofnað, skal tilkynnt
   skráðum eiganda fasteignar bréflega strax og slík breyting hefur verið gerð.
-   22. gr. Eigandi er ábyrgur fyrir tilkynningu til Fasteignamats ríkisins um
- breytingar á umráðum yfir skráðri eign sinni samkvæmt Landskrá fasteigna. Við
-eigendaskipti er fyrrverandi eigandi ábyrgur fyrir tilkynningu um þá breytingu.
-Fasteignamat ríkisins kveður á um form og efni slíkra tilkynninga og er eigendum
-             skylt að veita allar þær upplýsingar sem um er beðið.
-  Þinglýsingardómurum er við þinglýsingu afsala skylt að ganga úr skugga um að
- tilkynningarskyldu hafi verið fullnægt og hlutast til um gerð tilkynningar og
+                   ^1)L. 83/2008, 12. gr. ^2)L. 83/2008, 21. gr.
+  22. gr. [Skráður eigandi fasteignar er sá sem hefur þinglýsta eignarheimild
+   hverju sinni. Sé fasteign ekki skráð í þinglýsingarhluta fasteignaskrár er
+fyrrverandi eigandi ábyrgur fyrir tilkynningu til Fasteignaskrár um breytingar á
+                  eignaryfirráðum yfir skráðri eign sinni.]^1)
+  [Fasteignaskrá Íslands]^2) kveður á um form og efni slíkra tilkynninga og er
+         eigendum skylt að veita allar þær upplýsingar sem um er beðið.
+ [Þinglýsingarstjórum]^1) er við þinglýsingu afsala skylt að ganga úr skugga um
+að tilkynningarskyldu hafi verið fullnægt og hlutast til um gerð tilkynningar og
  sendingu ef þess gerist þörf. Fasteignasölum er einnig skylt í starfi sínu að
-stuðla að gerð slíkra tilkynninga og sendingu. Fasteignamati ríkisins er heimill
- aðgangur að skattframtölum til að sannreyna upplýsingar um fasteignir eða afla
-                                    þeirra.
-   Fasteignamati ríkisins er heimilt að undirbúa og gefa út staðlaðar gerðir
+  stuðla að gerð slíkra tilkynninga og sendingu. [Fasteignaskrá Íslands]^2) er
+ heimill aðgangur að skattframtölum til að sannreyna upplýsingar um fasteignir
+                                eða afla þeirra.
+ [Fasteignaskrá Íslands]^2) er heimilt að undirbúa og gefa út staðlaðar gerðir
 afsala, kaupsamninga og leigusamninga um fasteignir og fasteignaréttindi þar sem
        samrit viðkomandi skjals er sjálfkrafa fullnægjandi tilkynning til
-                               fasteignamatsins.
-23. gr. Fasteignamati ríkisins ber að safna gögnum eftir föngum og vinna úr þeim
-yfirlitsupplýsingar um gangverð fasteigna við kaup og sölu og breytingar á því.
-   Eftir því sem við verður komið skulu niðurstöður þessara rannsókna birtar
+                              [stofnunarinnar].^1)
+                   ^1)L. 83/2008, 13. gr. ^2)L. 83/2008, 20. gr.
+23. gr. [Fasteignaskrá Íslands]^1) ber að safna gögnum eftir föngum og vinna úr
+þeim yfirlitsupplýsingar um gangverð fasteigna við kaup og sölu og breytingar á
+ því. Eftir því sem við verður komið skulu niðurstöður þessara rannsókna birtar
                               almenningi jafnóðum.
-24. gr. [Fasteignamati ríkisins er heimilt að vinna úr og láta í té upplýsingar
-    úr Landskrá fasteigna gegn gjaldi sem rennur til stofnunarinnar samkvæmt
-               gjaldskrá^1) sem fjármálaráðherra staðfestir.]^2)
-                   ^1)Gjaldskrá 596/1996. ^2)L. 165/2007, 1. gr.
+                              ^1)L. 83/2008, 20. gr.
+    24. gr. [[Fasteignaskrá Íslands]^1) er heimilt að vinna úr og láta í té
+  upplýsingar úr [fasteignaskrá]^2) gegn gjaldi sem rennur til stofnunarinnar
+    samkvæmt gjaldskrá^3) sem fjármálaráðherra staðfestir, [sbr. 2. mgr. 9.
+                                  gr.]^4)]^5)
+                       [Í gjaldskrá skal m.a. kveða á um:
+    a. gjald sveitarfélaga fyrir afnot af fasteignamati og kerfi til álagningar
+  fasteignaskatta og fasteignagjalda; skal gjaldið nema tilteknu hlutfalli af
+          heildarfasteignamati í sveitarfélagi 31. desember ár hvert,
+       b. gjald vátryggingafélaga fyrir afnot af brunabótamati og kerfi því
+viðkomandi; skal gjaldið nema tilteknu hlutfalli af brunabótamati allra húseigna
+          sem eru tryggðar hjá vátryggingafélagi í lok hvers mánaðar,
+              c. gjald fyrir vélrænar fyrirspurnir úr þinglýsingabók,
+          d. gjald fyrir skráningu nýrrar fasteignar í fasteignaskrá.]^4)
+    ^1)L. 83/2008, 20. gr. ^2)L. 83/2008, 21. gr. ^3)Gjaldskrá 596/1996. ^4)L.
+                    83/2008, 14. gr. ^5)L. 165/2007, 1. gr.
 25. gr. Opinberir aðilar, ríkisstofnanir, ríkisfyrirtæki, sveitarfélög og allar
  stofnanir þeirra skulu í öllum viðskiptum og í hvers konar verðmætisviðmiðunum
-nota upplýsingar Landskrár fasteigna sem grundvöll viðskipta sinna eftir því sem
+nota upplýsingar [fasteignaskrár]^1) sem grundvöll viðskipta sinna eftir því sem
                                  við getur átt.
+                              ^1)L. 83/2008, 21. gr.
 
                    V. kafli. Fasteignamat og framkvæmd þess.
            26. gr. Eftirtaldar eignir eru undanþegnar fasteignamati:
@@ -261,17 +289,22 @@ nota upplýsingar Landskrár fasteigna sem grundvöll viðskipta sinna eftir þv
                                      9. Vitar.
     10. Ráðherra getur í reglugerð undanþegið ákveðnar fasteignir eða tegundir
                             fasteigna fasteignamati.
-27. gr. Skráð matsverð fasteignar skal vera gangverð umreiknað til staðgreiðslu,
-  sem ætla má að eignin hefði í kaupum og sölum í nóvembermánuði næst á undan
-matsgerð, miðað við heimila og mögulega nýtingu fasteignarinnar á hverjum tíma.
-  Sé slíkt gangverð sambærilegra eigna ekki þekkt skal skráð matsverð ákveðið
-eftir bestu fáanlegri vitneskju um sambærilegt gangverð með hliðsjón af kostnaði
-   við gerð mannvirkja, aldri þeirra, legu eignar með tilliti til samgangna,
-nýtingarmöguleikum, hlunnindum, jarðvegsgerð, gróðurfari, náttúrufegurð og öðrum
-          þeim atriðum sem kunna að hafa áhrif á gangverð eignarinnar.
+      27. gr. [Skráð matsverð fasteignar skal vera gangverð umreiknað til
+staðgreiðslu, miðað við heimila og mögulega nýtingu á hverjum tíma, sem ætla má
+ að eignin hefði í kaupum og sölum í febrúarmánuði næst á undan matsgerð, enda
+taki hún gildi á tímabilinu 31. desember til loka febrúarmánaðar. Taki matsgerð
+gildi á tímabilinu 1. mars til 30. desember skal miða við febrúarmánuð þar næst
+                       á undan matsgerð, sbr. 32. gr. a.
+ Sé gangverð fasteignar ekki þekkt skal matsverð ákveðið eftir bestu fáanlegri
+  vitneskju um gangverð sambærilegra fasteigna með hliðsjón af tekjum af þeim,
+    kostnaði við gerð mannvirkja, aldri þeirra, legu eignar með tilliti til
+      samgangna, nýtingarmöguleikum, hlunnindum, jarðvegsgerð, gróðurfari,
+     náttúrufegurð og öðrum þeim atriðum sem kunna að hafa áhrif á gangverð
+                                eignarinnar.]^1)
    Bújarðir skulu metnar miðað við notkun þeirra til búskapar á meðan þær eru
                                  nýttar þannig.
     Ráðherra er heimilt að setja í reglugerð nánari ákvæði um mat fasteigna.
+                              ^1)L. 83/2008, 15. gr.
 28. gr. Við ákvörðun matsverðs skv. 27. gr. skal eftir föngum finna tölfræðilega
  fylgni gangverðs við ýmsar staðreyndir um seldar eignir, svo sem stærð, gerð,
     búnað, stað o.s.frv., og sennilegt gangverð ákvarðað með útreikningum á
@@ -280,52 +313,63 @@ nýtingarmöguleikum, hlunnindum, jarðvegsgerð, gróðurfari, náttúrufegurð
                               ákvörðun matsverðs.
 Ákvæði skulu sett í reglugerð um aðferð við útreikning staðgreiðsluvirðis miðað
                  við mismunandi greiðslukjör við kaup og sölu.
-   29. gr. Fasteignamat ríkisins annast mat fasteigna samkvæmt lögum þessum.
- Fasteignamat ríkisins skal leitast við að tryggja samræmingu í matsstörfum og
- samræmingu upplýsinga sem máli skipta við framkvæmd mats. Þá er Fasteignamati
-ríkisins heimil útvegun sérfræðilegrar aðstoðar við mat eigna eftir því sem þörf
-                                    krefur.
-     Fasteignamati ríkisins er heimilt að fengnu samþykki ráðherra að ráða
+ 29. gr. [Fasteignaskrá Íslands]^1) annast mat fasteigna samkvæmt lögum þessum.
+[Fasteignaskrá Íslands]^1) skal leitast við að tryggja samræmingu í matsstörfum
+       og samræmingu upplýsinga sem máli skipta við framkvæmd mats. Þá er
+[Fasteignaskrá Íslands]^1) heimil útvegun sérfræðilegrar aðstoðar við mat eigna
+                           eftir því sem þörf krefur.
+   [Fasteignaskrá Íslands]^1) er heimilt að fengnu samþykki ráðherra að ráða
  trúnaðarmenn í einstökum kjördæmum, er annist mat og/eða skoðun fasteigna. Ef
     til kemur skal í reglugerð setja nánari ákvæði um ráðningu og starfssvið
                                  trúnaðarmanna.
- 30. gr. Fasteignamat ríkisins skal hlutast til um að allar nýjar eða breyttar
-  eignir, sem upplýsingar berast um skv. 19. gr., skuli metnar frummati innan
-tveggja mánaða frá því að upplýsingar um þær bárust Fasteignamati ríkisins nema
-                            sérstakar ástæður hamli.
-Fasteignamati ríkisins er heimilt að höfðu samráði við hlutaðeigandi stjórnvöld
-að meta ásláttarmati eignir sem eru þess eðlis að venjulegt mat er erfitt og/eða
-                        þjónar ekki opinberum hagsmunum.
-   [Nýtt matsverð skal þegar skrá í Landskrá fasteigna og gildir það með þeim
+                              ^1)L. 83/2008, 20. gr.
+   30. gr. [Fasteignaskrá Íslands]^1) skal hlutast til um að allar nýjar eða
+ breyttar eignir, sem upplýsingar berast um skv. 19. gr., skuli metnar frummati
+    innan tveggja mánaða frá því að upplýsingar um þær bárust [Fasteignaskrá
+                   Íslands]^1) nema sérstakar ástæður hamli.
+    [Fasteignaskrá Íslands]^1) er heimilt að höfðu samráði við hlutaðeigandi
+ stjórnvöld að meta ásláttarmati eignir sem eru þess eðlis að venjulegt mat er
+                 erfitt og/eða þjónar ekki opinberum hagsmunum.
+   [Nýtt matsverð skal þegar skrá í [fasteignaskrá]^2) og gildir það með þeim
   almennu breytingum sem á því geta orðið eða þar til því er hrundið með nýju
-                                   mati.]^1)
-                              ^1)L. 139/2004, 3. gr.
+                                   mati.]^3)
+       ^1)L. 83/2008, 20. gr. ^2)L. 83/2008, 21. gr. ^3)L. 139/2004, 3. gr.
 31. gr. Aðili, sem verulega hagsmuni getur átt í matsverði eignar og sættir sig
       ekki við skráð mat skv. 29. og 30. gr., getur krafist nýs úrskurðar
- Fasteignamats ríkisins um matið. Krafa um endurmat skal vera skrifleg og studd
-                         rökum og nauðsynlegum gögnum.
- [Fasteignamat ríkisins getur að eigin frumkvæði endurmetið einstakar eignir í
-               því skyni að tryggja samræmt mat hliðstæðra eigna.
-   Berist beiðni um endurmat fasteignar frá öðrum en eiganda og Fasteignamat
- ríkisins telur ástæðu til breytinga skal eiganda tilkynnt um þá breytingu sem
- fyrirhugað er að gera á fasteignamati. Vilji eigandi ekki una þeirri breytingu
-skal veita honum a.m.k. fjögurra vikna frest til að tilkynna það með sannanlegum
-hætti til Fasteignamats ríkisins. Að öðrum kosti tekur breytt fasteignamat gildi
-                             að liðnum fresti.]^1)
- Nýtt matsverð skal þegar skráð í Landskrá fasteigna og gildir með þeim almennu
+ [Fasteignaskrár Íslands]^1) um matið. Krafa um endurmat skal vera skrifleg og
+                      studd rökum og nauðsynlegum gögnum.
+[[Fasteignaskrá Íslands]^1) getur að eigin frumkvæði endurmetið einstakar eignir
+              í því skyni að tryggja samræmt mat hliðstæðra eigna.
+[Ákvæði 13., 14. og 18. gr. stjórnsýslulaga gilda ekki við meðferð mála samkvæmt
+þessari grein og 30. gr. laga þessara. Eiganda skal tilkynnt um nýtt eða breytt
+fasteignamat. Sætti eigandi sig ekki við ákvörðun fasteignamats getur hann gert
+  skriflega og rökstudda kröfu um endurupptöku málsins innan eins mánaðar frá
+                        tilkynningu ákvörðunar.]^2)]^3)
+ Nýtt matsverð skal þegar skráð í [fasteignaskrá]^4) og gildir með þeim almennu
  breytingum sem á því geta orðið, sbr. 32. gr., þar til því er hrundið með nýju
                                mati eða yfirmati.
 Ráðherra getur með reglugerð ákveðið að sá sem krefst endurmats beri kostnað af
                 því mati ef krafan er bersýnilega tilefnislaus.
-                               ^1)L. 61/2001, 1. gr.
-      32. gr. Fasteignamati ríkisins er heimilt, sé þess krafist af hálfu
+     ^1)L. 83/2008, 20. gr. ^2)L. 83/2008, 16. gr. ^3)L. 61/2001, 1. gr. ^4)L.
+                                83/2008, 21. gr.
+    32. gr. [Fasteignaskrá Íslands]^1) er heimilt, sé þess krafist af hálfu
     fjármálaráðuneytisins eða sveitarfélags, að taka til endurmats einstakar
  tegundir eigna eða eignir í tilteknum hverfum, sveitarfélögum eða landshlutum,
-  með gildistöku frá þeim tíma sem Fasteignamat ríkisins ákveður, ef það telur
-   matsverð ekki í samræmi við gangverð eins og til er ætlast samkvæmt lögum
-  þessum. [Málsmeðferð samkvæmt þessari grein og endurmat einstakra eigna skal
-                        fara eftir 31. gr. laganna.]^1)
-                               ^1)L. 61/2001, 2. gr.
+  með gildistöku frá þeim tíma sem [Fasteignaskrá Íslands]^1) ákveður, ef [hún
+ telur]^1) matsverð ekki í samræmi við gangverð eins og til er ætlast samkvæmt
+ lögum þessum. [Málsmeðferð samkvæmt þessari grein og endurmat einstakra eigna
+                      skal fara eftir 31. gr. laganna.]^2)
+                   ^1)L. 83/2008, 20. gr. ^2)L. 61/2001, 2. gr.
+[32. gr. a. Fasteignaskrá Íslands skal endurmeta skráð matsverð allra fasteigna
+31. maí ár hvert. Skal það verð talið fasteignamatsverð frá og með 31. desember
+   þess árs til jafnlengdar næsta árs nema sérstök matsgerð komi til. Frestur
+eiganda til athugasemda skal vera mánuður frá tilkynningu ákvörðunar. Matsgerðir
+framkvæmdar á tímabilinu júní til desember skulu taka bæði til skráðs matsverðs
+                           og fyrirhugaðs matsverðs.
+  Fasteignaskrá Íslands ber eigi síðar en í júnímánuði ár hvert að gera hverju
+sveitarfélagi og hverjum eiganda grein fyrir niðurstöðum endurmats skv. 1. mgr.
+       sem tekur gildi í viðkomandi sveitarfélagi næsta 31. desember.]^1)
+                              ^1)L. 83/2008, 17. gr.
    33. gr. Yfirmat fasteigna annast yfirfasteignamatsnefnd fyrir landið allt.
  Nefndina skipar fjármálaráðherra þremur mönnum og þremur til vara úr hópi tíu
  manna, sem Hæstiréttur tilnefnir. Skipunartími nefndarinnar skal vera frá 15.
@@ -333,38 +377,25 @@ Ráðherra getur með reglugerð ákveðið að sá sem krefst endurmats beri ko
  Kostnaður við yfirmat greiðist úr ríkissjóði. Yfirfasteignamatsnefnd getur þó
     gert eiganda fasteignar að greiða kostnað vegna tilefnislausrar kæru til
                                  nefndarinnar.
-  34. gr. Hagsmunaaðilar skv. 31. gr. geta kært niðurstöðu endurmats samkvæmt
-  þeirri grein til yfirfasteignamatsnefndar. Kæra skal vera skrifleg og studd
-  rökum og nauðsynlegum gögnum. Um meðferð máls fyrir nefndinni, framlagningu
-             gagna eða málflutning fer eftir ákvörðun nefndarinnar.
+       34. gr. Hagsmunaaðilar ^1) geta kært niðurstöðu endurmats ^1) til
+yfirfasteignamatsnefndar. Kæra skal vera skrifleg og studd rökum og nauðsynlegum
+gögnum. Um meðferð máls fyrir nefndinni, framlagningu gagna eða málflutning fer
+                          eftir ákvörðun nefndarinnar.
    Nefndin skal úrskurða slíkt mál innan þriggja mánaða frá kæru nema sérstök
 heimild fyrir frestun sé veitt af hálfu ráðuneytisins. Niðurstaða kærumáls skal
-  þegar tilkynnt aðila þess og nýtt matsverð þegar skráð í Landskrá fasteigna.
+  þegar tilkynnt aðila þess og nýtt matsverð þegar skráð í [fasteignaskrá].^2)
            Úrskurður yfirfasteignamatsnefndar er fullnaðarúrskurður.
-     35. gr. Yfirfasteignamatsnefnd ber í nóvembermánuði ár hvert að ákveða
-  framreikningsstuðla fyrir skráð matsverð fasteigna með hliðsjón af breytingu
-    verðlags fasteigna við kaup og sölu frá síðasta viðmiðunartíma matsins á
-  grundvelli gagna sem Fasteignamat ríkisins safnar og vinnur úr, sbr. 23. gr.
-Gerir Fasteignamat ríkisins tillögur um slíka framreikningsstuðla eftir því sem
-  yfirfasteignamatsnefnd óskar eftir. Stuðlar þessir geta verið misjafnir, til
-      hækkunar eða lækkunar fyrir mismunandi tegundir eigna, byggðahverfi,
-             sveitarfélög eða landshluta, eftir mati nefndarinnar.
-   Ef eignir í einstökum sveitarfélögum verða fyrir verulegum og óvenjulegum
-     verðbreytingum hefur hlutaðeigandi sveitarstjórn umsagnarrétt áður en
-               yfirfasteignamatsnefnd tekur ákvörðun skv. 1. mgr.
-   [Skráðu matsverði fasteigna skal breytt í Landskrá fasteigna í samræmi við
-  framangreinda stuðla og skal það verð talið fasteignamatsverð frá og með 31.
-     desember til jafnlengdar næsta ár nema sérstakt endurmat komi til.]^1)
-                               ^1)L. 61/2001, 3. gr.
+                   ^1)L. 83/2008, 18. gr. ^2)L. 83/2008, 21. gr.
+                                  35. gr. ^1)
+                              ^1)L. 83/2008, 19. gr.
   36. gr. Ráðherra getur með reglugerð^1) sett nánari ákvæði um framkvæmd laga
  þessara. Áður en slík reglugerð er sett skal um hana leitað umsagnar Sambands
                             íslenskra sveitarfélaga.
         ^1)Rg. 406/1978, sbr. 95/1986 og 458/1998 (um fasteignaskráningu og
                                  fasteignamat).
-37. gr. Um brot gegn ákvæðum laga þessara skal farið að hætti opinberra mála og
-    varða brot sektum nema þyngri refsing komi til samkvæmt öðrum lögum.^1)
-   ^1)Greininni var breytt með [5]l. 88/2008, 234. gr. Breytingin tekur gildi 1.
-                        jan. 2009 skv. [6]232. gr. s.l.
+ 37. gr. [Brot gegn ákvæðum laga þessara varða sektum nema þyngri refsing liggi
+                         við samkvæmt öðrum lögum.]^1)
+                            ^1)[5]L. 88/2008, 234. gr.
 
                             [Ákvæði til bráðabirgða.
 I. Til þess að standa straum af kostnaði Fasteignamats ríkisins við að halda og
@@ -401,4 +432,3 @@ References
    3. file://2008088.html
    4. file://1994023.html
    5. file://2008088.html#g234
-   6. file://2008088.html

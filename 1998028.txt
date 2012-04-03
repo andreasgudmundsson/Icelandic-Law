@@ -13,7 +13,7 @@
   76/2002 (tóku gildi 17. maí 2002), l. 94/2002 (tóku gildi 1. des. 2002), l.
   117/2005 (tóku gildi 1. jan. 2006; EES-samningurinn: XVII. viðauki tilskipun
    2001/84/EB), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l.
-  24/2007 (tóku gildi 29. mars 2007) og [1]l. 88/2008 (taka gildi 1. jan. 2009
+  24/2007 (tóku gildi 29. mars 2007) og [1]l. 88/2008 (tóku gildi 1. jan. 2009
                  nema brbákv. VII sem tók gildi 21. júní 2008).
 
                             I. kafli. Almenn ákvæði.
@@ -249,7 +249,7 @@ Menntamálaráðherra getur sett nánari reglur um fylgiréttargjald og kveðið
                               ^1)L. 117/2005, 2. gr.
 
                         VI. kafli. Viðurlög við brotum.
-    24. gr.^1) [Með brot á lögum þessum skal farið að hætti opinberra mála.
+                                 24. gr. [ ^1)
          Sá sem vanrækir tilkynningar til firmaskrár, hlutafélagaskrár,
  samvinnufélagaskrár eða skrár á grundvelli löggjafar um sjálfseignarstofnanir,
   eftir því sem við á, skal sæta sektum nema þyngri refsing liggi við samkvæmt
@@ -267,14 +267,13 @@ Brot á samþykktum sveitarstjórna, sem settar verða samkvæmt lögum þessum,
  brots í starfi sínu og ber lögaðilinn þá ábyrgð á greiðslu sektar ef innheimta
 hefur orðið árangurslaus hjá sökunaut sjálfum. Ef ekki er ákvæði í refsidómi um
 ábyrgð lögaðila verður sektin því aðeins innheimt með aðför hjá honum að dæmt sé
-                  um skyldu hans í sérstöku opinberu máli.]^2)
-   ^1)Greininni var breytt með [3]l. 88/2008, 234. gr. Breytingin tekur gildi 1.
-             jan. 2009 skv. [4]232. gr. s.l. ^2)L. 94/2002, 9. gr.
+                  um skyldu hans í sérstöku [sakamáli].^1)]^2)
+                 ^1)[3]L. 88/2008, 234. gr. ^2)L. 94/2002, 9. gr.
 
                           VII. kafli. Gildistaka o.fl.
  25. gr. Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt með
   reglugerð að setja nánari ákvæði um hana. Fyrir skráningu á verslun samkvæmt
-lögum þessum greiðist gjald til ríkissjóðs skv. [5]13. gr. laga nr. 88/1991, um
+lögum þessum greiðist gjald til ríkissjóðs skv. [4]13. gr. laga nr. 88/1991, um
                              aukatekjur ríkissjóðs.
                  26. gr. Lög þessi öðlast gildi 1. janúar 1999.
 Ákvæði til bráðabirgða. Þegar útgefin verslunarleyfi koma til endurnýjunar skal
@@ -289,5 +288,4 @@ References
    1. file://2008088.html
    2. file://1988050.html#g4
    3. file://2008088.html#g234
-   4. file://2008088.html
-   5. file://1991088.html#g13
+   4. file://1991088.html#g13

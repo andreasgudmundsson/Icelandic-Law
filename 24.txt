@@ -1,133 +1,87 @@
 
   24.a. Stofnanir á sviði heilbrigðismála o.fl.
 
-     * Lög um heilbrigðisþjónustu, [1]nr. 40 27. mars 2007
-     * Lög um landlækni, [2]nr. 41 27. mars 2007
-     * Lög um Þjónustu- og endurhæfingarstöð sjónskertra, [3]nr. 18 24. apríl
-       1984
-     * Lög um Samskiptamiðstöð heyrnarlausra og heyrnarskertra, [4]nr. 129
-       31. desember 1990
-     * Lög um gagnagrunn á heilbrigðissviði, [5]nr. 139 22. desember 1998
-     * Lög um lífsýnasöfn, [6]nr. 110 25. maí 2000
-     * Lög um lækningatæki, [7]nr. 16 30. apríl 2001
-     * Lög um Lýðheilsustöð, [8]nr. 18 26. mars 2003
-     * Lög um stofnun Matvælarannsókna hf., [9]nr. 68 14. júní 2006
-     * Lög um Heyrnar- og talmeinastöð, [10]nr. 42 27. mars 2007
+     * Lög um heilbrigðisþjónustu, nr. 40 27. mars 2007
+     * Lög um landlækni, nr. 41 27. mars 2007
+     * Lög um Samskiptamiðstöð heyrnarlausra og heyrnarskertra, nr. 129 31.
+       desember 1990
+     * Lög um gagnagrunn á heilbrigðissviði, nr. 139 22. desember 1998
+     * Lög um lífsýnasöfn, nr. 110 25. maí 2000
+     * Lög um lækningatæki, nr. 16 30. apríl 2001
+     * Lög um Lýðheilsustöð, nr. 18 26. mars 2003
+     * Lög um stofnun Matvælarannsókna hf., nr. 68 14. júní 2006
+     * Lög um Heyrnar- og talmeinastöð, nr. 42 27. mars 2007
+     * Lög um þjónustu- og þekkingarmiðstöð fyrir blinda, sjónskerta og
+       daufblinda einstaklinga, nr. 160 23. desember 2008
 
   24.b. Hollustuvernd
 
-     * Lög um hollustuhætti og mengunarvarnir, [11]nr. 7 12. mars 1998
-     * Lög um að tryggja manneldisgildi hveitis, [12]nr. 30 22. apríl 1947
-     * Lög um tóbaksvarnir, [13]nr. 6 31. janúar 2002
-     * Lög um meðhöndlun úrgangs, [14]nr. 55 20. mars 2003
-     * Lög um efni og efnablöndur, [15]nr. 45 3. júní 2008
+     * Lög um hollustuhætti og mengunarvarnir, nr. 7 12. mars 1998
+     * Lög um að tryggja manneldisgildi hveitis, nr. 30 22. apríl 1947
+     * Lög um tóbaksvarnir, nr. 6 31. janúar 2002
+     * Lög um meðhöndlun úrgangs, nr. 55 20. mars 2003
+     * Lög um efni og efnablöndur, nr. 45 3. júní 2008
 
   24.c. Starfsmenn í heilbrigðisþjónustu
 
-     * Lög um starfsheiti og starfsréttindi heilbrigðisstétta, [16]nr. 24 28.
-       maí 1985
-     * Hjúkrunarlög, [17]nr. 8 13. mars 1974
-     * Lög um sálfræðinga, [18]nr. 40 23. maí 1976
-     * Lög um sjúkraþjálfun, [19]nr. 58 31. maí 1976
-     * Lög um iðjuþjálfun, [20]nr. 75 31. desember 1977
-     * Lög um þroskaþjálfa, [21]nr. 18 28. apríl 1978
-     * Lög um lyfjafræðinga, [22]nr. 35 11. maí 1978
-     * Lög um lífeindafræðinga, [23]nr. 99 29. desember 1980
-     * Lög um sjóntækjafræðinga, [24]nr. 17 24. apríl 1984
-     * Lög um sjúkraliða, [25]nr. 58 28. maí 1984
-     * Ljósmæðralög, [26]nr. 67 28. maí 1984
-     * Lög um tannlækningar, [27]nr. 38 12. júní 1985
-     * Læknalög, [28]nr. 53 19. maí 1988
-     * Lög um félagsráðgjöf, [29]nr. 95 28. september 1990
-     * Lög um starfsréttindi tannsmiða, [30]nr. 109 25. maí 2000
+     * Lög um starfsheiti og starfsréttindi heilbrigðisstétta, nr. 24 28. maí
+       1985
+     * Hjúkrunarlög, nr. 8 13. mars 1974
+     * Lög um sálfræðinga, nr. 40 23. maí 1976
+     * Lög um sjúkraþjálfun, nr. 58 31. maí 1976
+     * Lög um iðjuþjálfun, nr. 75 31. desember 1977
+     * Lög um þroskaþjálfa, nr. 18 28. apríl 1978
+     * Lög um lyfjafræðinga, nr. 35 11. maí 1978
+     * Lög um lífeindafræðinga, nr. 99 29. desember 1980
+     * Lög um sjóntækjafræðinga, nr. 17 24. apríl 1984
+     * Lög um sjúkraliða, nr. 58 28. maí 1984
+     * Ljósmæðralög, nr. 67 28. maí 1984
+     * Lög um tannlækningar, nr. 38 12. júní 1985
+     * Læknalög, nr. 53 19. maí 1988
+     * Lög um félagsráðgjöf, nr. 95 28. september 1990
+     * Lög um starfsréttindi tannsmiða, nr. 109 25. maí 2000
 
   24.d. Réttarstaða sjúklinga
 
-     * Lög um réttindi sjúklinga, [31]nr. 74 28. maí 1997
-     * Lög um sjúklingatryggingu, [32]nr. 111 25. maí 2000
+     * Lög um réttindi sjúklinga, nr. 74 28. maí 1997
+     * Lög um sjúklingatryggingu, nr. 111 25. maí 2000
 
   24.e. Læknisaðgerðir og læknismeðferð
 
      * Lög um að heimila í viðeigandi tilfellum aðgerðir á fólki, er koma í
-       veg fyrir, að það auki kyn sitt, [33]nr. 16 13. janúar 1938
+       veg fyrir, að það auki kyn sitt, nr. 16 13. janúar 1938
      * Lög um ráðgjöf og fræðslu varðandi kynlíf og barneignir og um
-       fóstureyðingar og ófrjósemisaðgerðir, [34]nr. 25 22. maí 1975
-     * Lög um tæknifrjóvgun, [35]nr. 55 29. maí 1996
+       fóstureyðingar og ófrjósemisaðgerðir, nr. 25 22. maí 1975
+     * Lög um tæknifrjóvgun, nr. 55 29. maí 1996
 
   24.f. Lyfsala o.fl.
 
-     * Lyfjalög, [36]nr. 93 20. maí 1994
-     * Lyfsölulög, [37]nr. 30 29. apríl 1963
-     * Lög um ávana- og fíkniefni, [38]nr. 65 21. maí 1974
-     * Lög um eiturefni og hættuleg efni, [39]nr. 52 18. maí 1988
+     * Lyfjalög, nr. 93 20. maí 1994
+     * Lyfsölulög, nr. 30 29. apríl 1963
+     * Lög um ávana- og fíkniefni, nr. 65 21. maí 1974
+     * Lög um eiturefni og hættuleg efni, nr. 52 18. maí 1988
 
   24.g. Varnir gegn útbreiðslu sjúkdóma
 
      * Lög um heimild handa ríkisstjórninni til að banna flutning til
-       landsins á varningi, sem stjórnin telur stafa sýkingarhættu af,
-       [40]nr. 8 18. maí 1920
-     * Sóttvarnalög, [41]nr. 19 17. apríl 1997
+       landsins á varningi, sem stjórnin telur stafa sýkingarhættu af, nr. 8
+       18. maí 1920
+     * Sóttvarnalög, nr. 19 17. apríl 1997
 
   24.h. Andlát
 
-     * Lög um ákvörðun dauða, [42]nr. 15 6. mars 1991
-     * Lög um brottnám líffæra, [43]nr. 16 6. mars 1991
-     * Lög um kirkjugarða, greftrun og líkbrennslu, [44]nr. 36 4. maí 1993
-     * Lög um dánarvottorð, krufningar o.fl., [45]nr. 61 12. júní 1998
+     * Lög um ákvörðun dauða, nr. 15 6. mars 1991
+     * Lög um brottnám líffæra, nr. 16 6. mars 1991
+     * Lög um kirkjugarða, greftrun og líkbrennslu, nr. 36 4. maí 1993
+     * Lög um dánarvottorð, krufningar o.fl., nr. 61 12. júní 1998
 
   24.i. Heilsutengd þjónusta
 
-     * Lög um græðara, [46]nr. 34 11. maí 2005
+     * Lög um græðara, nr. 34 11. maí 2005
 
-    [47]Kaflar lagasafns
+    [1]Kaflar lagasafns
 
 References
 
    Visible links
-   1. file://2007040.html
-   2. file://2007041.html
-   3. file://1984018.html
-   4. file://1990129.html
-   5. file://1998139.html
-   6. file://2000110.html
-   7. file://2001016.html
-   8. file://2003018.html
-   9. file://2006068.html
-  10. file://2007042.html
-  11. file://1998007.html
-  12. file://1947030.html
-  13. file://2002006.html
-  14. file://2003055.html
-  15. file://2008045.html
-  16. file://1985024.html
-  17. file://1974008.html
-  18. file://1976040.html
-  19. file://1976058.html
-  20. file://1977075.html
-  21. file://1978018.html
-  22. file://1978035.html
-  23. file://1980099.html
-  24. file://1984017.html
-  25. file://1984058.html
-  26. file://1984067.html
-  27. file://1985038.html
-  28. file://1988053.html
-  29. file://1990095.html
-  30. file://2000109.html
-  31. file://1997074.html
-  32. file://2000111.html
-  33. file://1938016.html
-  34. file://1975025.html
-  35. file://1996055.html
-  36. file://1994093.html
-  37. file://1963030.html
-  38. file://1974065.html
-  39. file://1988052.html
-  40. file://1920008.html
-  41. file://1997019.html
-  42. file://1991015.html
-  43. file://1991016.html
-  44. file://1993036.html
-  45. file://1998061.html
-  46. file://2005034.html
-  47. file://kaflar.html
+   1. file://kaflar.html

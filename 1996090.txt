@@ -18,8 +18,9 @@
 gr. og ákvæði til bráðabirgða sem tóku gildi 16. júní 2006), [1]l. 85/2007 (tóku
   gildi 1. júlí 2007), [2]l. 34/2008 (tóku gildi 31. maí 2008 nema ákvæði til
 bráðabirgða sem tók gildi 8. maí 2008), [3]l. 82/2008 (tóku gildi 1. júní 2008,
-  birt í Stjtíð. 19. júní 2008) og [4]l. 88/2008 (taka gildi 1. jan. 2009 nema
-                   brbákv. VII sem tók gildi 21. júní 2008).
+   birt í Stjtíð. 19. júní 2008), [4]l. 88/2008 (tóku gildi 1. jan. 2009 nema
+  brbákv. VII sem tók gildi 21. júní 2008) og l. 147/2008 (tóku gildi 1. jan.
+                                     2009).
 
                        I. kafli. Hlutverk lögreglu o.fl.
                                 1. gr. Hlutverk.
@@ -31,8 +32,8 @@ tryggja réttaröryggi borgaranna og vernda eignarrétt, opinbera hagsmuni og hv
    b. að stemma stigu við afbrotum og koma í veg fyrir athafnir sem raska öryggi
                             borgaranna og ríkisins,
     c. að vinna að uppljóstran brota, stöðva ólögmæta háttsemi og fylgja málum
- eftir í samræmi við það sem mælt er fyrir um í lögum um meðferð opinberra mála
-                              eða öðrum lögum,^1)
+ eftir í samræmi við það sem mælt er fyrir um í lögum um meðferð [sakamála]^1)
+                                eða öðrum lögum,
     d. að greiða götu borgaranna eftir því sem við á og aðstoða þá þegar hætta
                                   steðjar að,
     e. að veita yfirvöldum vernd eða aðstoð við framkvæmd starfa sinna samkvæmt
@@ -40,8 +41,7 @@ tryggja réttaröryggi borgaranna og vernda eignarrétt, opinbera hagsmuni og hv
    f. að starfa í samvinnu við önnur stjórnvöld og stofnanir sem hafa með höndum
                   verkefni sem tengjast starfssviði lögreglu,
    g. að sinna öðrum verkefnum sem henni eru falin í lögum eða leiðir af venju.
-    ^1)Liðnum var breytt með [5]l. 88/2008, 234. gr. Breytingin tekur gildi 1.
-                        jan. 2009 skv. [6]232. gr. s.l.
+                            ^1)[5]L. 88/2008, 234. gr.
                           2. gr. Tengsl við þjóðarétt.
  Lögregla skal í störfum sínum hafa í heiðri þær þjóðréttarlegu skuldbindingar
                          sem Ísland hefur undirgengist.
@@ -109,9 +109,9 @@ tæknirannsókna, annist erlend samskipti vegna tæknirannsókna og samstarf, ha
 5. Þegar ríkislögreglustjóri er svo við málsefni eða aðila riðinn að hann mætti
 eigi gegna dómarastörfum í því skal hann víkja sæti og setur dómsmálaráðherra þá
                      löghæfan mann til meðferðar þess máls.
-   ^1)Rg. 322/2001, sbr. 362/2008. ^2)L. 15/2000, 10. gr. ^3)[7]L. 82/2008, 35.
-  gr. ^4)L. 46/2006, 1. gr. ^5)L. 56/2004, 1. gr. ^6)L. 78/1998, 1. gr. ^7)L.
-                       44/2003, 10. gr. ^8)Rg. 804/2007.
+   ^1)Rg. 322/2001, sbr. 362/2008 og 1137/2008. ^2)L. 15/2000, 10. gr. ^3)[6]L.
+ 82/2008, 35. gr. ^4)L. 46/2006, 1. gr. ^5)L. 56/2004, 1. gr. ^6)L. 78/1998, 1.
+                  gr. ^7)L. 44/2003, 10. gr. ^8)Rg. 804/2007.
                     6. gr. [Lögregluumdæmi og stjórn þeirra.
 1. Landið skiptist í 15 lögregluumdæmi. Með lögreglustjórn fara lögreglustjórar
                           og sýslumenn sem hér segir:
@@ -143,7 +143,7 @@ daglega stjórn og rekstur lögreglunnar í umdæmi sínu og bera ábyrgð á fr
  4. Lögreglustjórar fara með yfirstjórn leitar- og björgunaraðgerða í landi. Um
 björgun sem heyrir undir skipulag almannavarna gilda sérstök lög. Ráðherra setur
              reglur^3) um samstarf lögreglu og björgunarsveita.]^4)
-     ^1)[8]L. 34/2008, 30. gr. ^2)Rgl. 1053/2006. Rg. 66/2007, sbr. 506/2008.
+     ^1)[7]L. 34/2008, 30. gr. ^2)Rgl. 1053/2006. Rg. 66/2007, sbr. 506/2008.
                      ^3)Rg. 289/2003. ^4)L. 46/2006, 2. gr.
                           7. gr. Starfssvæði lögreglu.
             1. Lögreglumenn hafa lögregluvald hvar sem er á landinu.
@@ -172,7 +172,7 @@ lögreglumaður unnið lögregluverk utan umdæmis síns ef verkefnið krefst þ
     c-liðum 4. mgr. svo fljótt sem kostur er. Með sama hætti ber að tilkynna
         lögreglustjóra hlutaðeigandi umdæmis um aðgerðir lögreglumanns.
                ^1)Rg. 774/1998. Rg. 335/2005. ^2)L. 29/1998, 2. gr.
-                         8. gr. [Lögreglurannsóknir.^1)
+                          8. gr. [Lögreglurannsóknir.
            1. Lögregla annast rannsókn brota í samráði við ákærendur.
         2. Við embætti eftirtalinna lögreglustjóra skulu vera sérstakar
                                rannsóknardeildir:
@@ -190,7 +190,7 @@ lögreglumaður unnið lögregluverk utan umdæmis síns ef verkefnið krefst þ
  3. Ráðherra setur nánari reglur samkvæmt tillögu ríkissaksóknara um hvaða brot
   skuli rannsaka hjá sérstökum rannsóknardeildum skv. 2. mgr. Önnur brot skal
  rannsaka í því umdæmi þar sem þau eru framin, sbr. þó ákvæði a- og b-liðar 2.
-  mgr. 5. gr. Jafnframt setur ráðherra reglur^2) um hvernig stjórn rannsóknar
+  mgr. 5. gr. Jafnframt setur ráðherra reglur^1) um hvernig stjórn rannsóknar
 skuli háttað, hvenær brot skuli rannsakað undir stjórn ríkislögreglustjóra skv.
                   a-lið 2. mgr. 5. gr. og um rannsóknaraðstoð.
 4. Sá lögreglustjóri sem rannsóknardeild á undir fer með forræði á rannsókn máls
@@ -202,10 +202,14 @@ undir eftirliti ríkislögreglustjóra, greiningardeildir til að leggja mat á 
 sem sinni vettvangsrannsóknum, samanburðarrannsóknum og öðrum slíkum rannsóknum
     og varðveiti fingrafarasafn lögreglu og ljósmyndasafn og haldi því við.
         Tæknideildin skal þjóna öllum lögregluumdæmum landsins og setur
-          ríkislögreglustjóri nánari reglur um starfrækslu hennar.]^3)
-   ^1)Greininni var breytt með [9]l. 88/2008, 234. gr. Breytingin tekur gildi 1.
- jan. 2009 skv. [10]232. gr. s.l. ^2)Rg. 804/2007. Rg. 192/2008. ^3)L. 46/2006,
-                                     3. gr.
+          ríkislögreglustjóri nánari reglur um starfrækslu hennar.]^2)
+ [7. Lögreglustjórar og aðrir þeir sem fara með lögregluvald mega ekki rannsaka
+brot ef þeir eru vanhæfir til þess samkvæmt stjórnsýslulögum, sbr. þó 5. mgr. 5.
+gr. Starfsmenn þess lögreglustjóra, sem vanhæfur er, geta þó rannsakað mál undir
+  stjórn annars lögreglustjóra nema þeir séu sjálfir vanhæfir til að fara með
+                      málið samkvæmt stjórnsýslulögum.]^3)
+    ^1)Rg. 804/2007. Rg. 192/2008. ^2)L. 46/2006, 3. gr. ^3)[8]L. 88/2008, 234.
+                                      gr.
                         9. gr. Handhafar lögregluvalds.
   1. Ríkislögreglustjóri, [aðstoðarríkislögreglustjórar],^1) lögreglustjórar,
 [aðstoðarlögreglustjórar á höfuðborgarsvæðinu og á Suðurnesjum],^1) skólastjóri
@@ -215,15 +219,17 @@ Lögregluskóla ríkisins, löglærðir fulltrúar lögreglustjóra og lögreglu
 starfsmönnum lögreglu lögregluvald tímabundið til að sinna sérstökum verkefnum.
    3. [Áhafnir varðskipa og gæsluflugvéla]^2) fara með lögregluvald þegar þær
                         annast eða aðstoða við löggæslu.
-4. [Tollstjórar, löglærðir fulltrúar þeirra og tollverðir fara með lögregluvald
-     á sínu starfssviði og þegar þeir annast eða aðstoða við löggæslu.]^3)
+      4. [[Tollstjóri, löglærðir fulltrúar hans]^3) og tollverðir fara með
+      lögregluvald á sínu starfssviði og þegar þeir annast eða aðstoða við
+                                 löggæslu.]^4)
       5. Hreppstjórar fara með lögregluvald samkvæmt lögum um hreppstjóra.
      6. Héraðslögreglumenn fara með lögregluvald þegar þeir gegna starfinu.
      7. Þeir sem kvaddir eru lögreglu til aðstoðar lögum samkvæmt fara með
                    lögregluvald á meðan þeir gegna starfanum.
     8. Nemar í Lögregluskóla ríkisins fara með lögregluvald þegar þeir gegna
                                 lögreglustarfi.
-        ^1)L. 46/2006, 4. gr. ^2)L. 29/1998, 3. gr. ^3)L. 155/2000, 24. gr.
+     ^1)L. 46/2006, 4. gr. ^2)L. 29/1998, 3. gr. ^3)L. 147/2008, 44. gr. ^4)L.
+                               155/2000, 24. gr.
                           10. gr. Héraðslögreglumenn.
   1. Lögreglustjóra er heimilt að fengnu samþykki ríkislögreglustjóra að ráða
 héraðslögreglumenn til starfa í umdæmi sínu, enda fullnægi þeir skilyrðum í [a-,
@@ -235,7 +241,7 @@ héraðslögreglumenn til starfa í umdæmi sínu, enda fullnægi þeir skilyrð
                                     þeirra.
 4. Héraðslögreglumenn njóta sömu réttinda og bera sömu skyldur og lögreglumenn á
                        meðan þeir gegna lögreglustörfum.
-                      ^1)L. 56/2002, 6. gr. ^2)Rg. 283/1997.
+        ^1)L. 56/2002, 6. gr. ^2)Rg. 283/1997, sbr. 961/2008 og 1037/2008.
           11. gr. Samvinna lögreglu við önnur stjórnvöld og stofnanir.
              1. Lögreglan skal aðstoða ákæruvaldið við störf þess.
    2. Lögregla og önnur stjórnvöld og stofnanir skulu hafa gagnkvæmt samstarf
@@ -305,11 +311,15 @@ eða fyrirsjáanlegt er að þær muni hefjast of seint. Tilkynna skal hlutaðei
                   á annan stað þar sem lögregla hefur aðstöðu:
      a. í þeim tilgangi að halda uppi lögum og reglu, svo sem ef maður ærist á
            almannafæri eða veldur þar hneyksli eða hættu á óspektum,
-                   b. ef hann hefur hér ekki landvistarleyfi.^1)
+                    b. ef hann hefur hér ekki landvistarleyfi,
+                        [c. ef hann á að afplána refsingu,
+                  d. ef hann hefur leyfislaust vikið úr fangelsi,
+      e. ef rökstuddur grunur leikur á að hann hafi rofið í verulegum atriðum
+   skilyrði sem honum hafa verið sett í skilorðsbundnum dóm, reynslulausn eða
+                                   náðun.]^1)
     2. Lögregla skal gera manni grein fyrir ástæðum þess að hann er færður á
       starfsstöð lögreglu. Ekki má halda manni lengur en nauðsyn ber til.
-     ^1)Málsgreininni var breytt með [11]l. 88/2008, 234. gr. Breytingin tekur
-                   gildi 1. jan. 2009 skv. [12]232. gr. s.l.
+                            ^1)[9]L. 88/2008, 234. gr.
                              17. gr. Leit á mönnum.
 1. Lögreglu er heimilt ef ástæða er til að leita að vopnum eða öðrum hættulegum
        munum á hverjum þeim sem fjarlægður er eða handtekinn af lögreglu.
@@ -320,9 +330,8 @@ tilefni til er heimilt að taka af honum peninga og muni sem hann hefur á sér 
              hætta þykir á að geti skemmst, eyðilagst eða glatast.
 3. Verðmætum, sem lögregla tekur til varðveislu skv. 2. og 3. mgr., ber að skila
  aftur þegar maður er látinn laus, enda séu ekki skilyrði til að leggja hald á
-                þau samkvæmt lögum um meðferð opinberra mála.^1)
-     ^1)Málsgreininni var breytt með [13]l. 88/2008, 234. gr. Breytingin tekur
-                   gildi 1. jan. 2009 skv. [14]232. gr. s.l.
+                  þau samkvæmt lögum um meðferð [sakamála].^1)
+                            ^1)[10]L. 88/2008, 234. gr.
                           18. gr. Afskipti af börnum.
 Lögreglu ber að hafa afskipti af börnum yngri en 16 ára sem eru á stöðum þar sem
      heilsu þeirra eða velferð er alvarleg hætta búin og koma þeim í hendur
@@ -349,6 +358,12 @@ Lögreglu ber að hafa afskipti af börnum yngri en 16 ára sem eru á stöðum 
   og fyrirhugaðar lögregluaðgerðir og annarra upplýsinga sem leynt skulu fara
               samkvæmt lögum, starfsreglum lögreglu eða eðli máls.
                 2. Þagnarskyldan helst þótt látið sé af starfi.
+    [3. Ákvæði 1. mgr. skal ekki vera því til fyrirstöðu að lögreglan veiti
+tollstjóra aðgang að málaskrám sínum og öðrum upplýsingum sem lögregla býr yfir
+ og varða ætluð brot á tollalögum, lögum um ávana- og fíkniefni eða öðrum lögum
+ sem tollstjóra ber að framfylgja, enda séu upplýsingarnar nauðsynlegar í þágu
+                        greiningarstarfs tollstjóra.]^1)
+                              ^1)L. 147/2008, 45. gr.
            23. gr. Afskipti af eigin málum eða nákominna vandamanna.
   Starfsmanni lögreglu er í starfi sínu óheimilt að aðhafast í eigin málum eða
 nákominna vandamanna nema afskipti hans af máli séu nauðsynleg til verndar lífi
@@ -371,8 +386,9 @@ tilkynna það yfirmanni sínum. Hafi hann unnið slík verk utan starfsumdæmis
  Dómsmálaráðherra er heimilt að ákveða með samkomulagi við fjármálaráðherra að
 lögreglumenn skuli gegna tollgæslustörfum jafnframt öðrum löggæslustörfum eftir
  nánari fyrirmælum lögreglustjóra og eftir reglum sem settar eru í samráði við
-   tollgæslustjóra. Þar sem slík starfstilhögun er ákveðin skal þess getið í
+   [tollstjóra].^1) Þar sem slík starfstilhögun er ákveðin skal þess getið í
                        auglýsingu um starf lögreglumanns.
+                              ^1)L. 147/2008, 46. gr.
 
           IV. kafli. [Um veitingu starfa í lögreglu og starfslok.]^1)
                                ^1)L. 56/2002, 4. gr.
@@ -450,7 +466,7 @@ síðar leitt í ljós að hún megi ekki saman fara starfi hans í þjónustu r
     að]^1) kveða á um greiðslu kostnaðar af gæslustörfum vegna framkvæmda á
       almannafæri og flutnings á óvenjulegum eða hættulegum farmi þar sem
          lögreglustjóri telur nauðsynlegt að fyrirskipa slíka löggæslu.
-                    ^1)[15]L. 85/2007, 28. gr. ^2)Rg. 289/2004.
+                    ^1)[11]L. 85/2007, 28. gr. ^2)Rg. 289/2004.
 
                       VII. kafli. Kærur á hendur lögreglu.
  35. gr. [1. Kæru á hendur starfsmanni lögreglu fyrir ætlað refsivert brot við
@@ -510,7 +526,7 @@ a.m.k. fjóra mánuði. Að lokinni starfsþjálfunarönn tekur við launuð þr
                   39. gr. Reglugerð um Lögregluskóla ríkisins.
   Dómsmálaráðherra setur í reglugerð^1) nánari fyrirmæli um stjórn skólans og
             starfslið, inntökuskilyrði, námstilhögun og prófkröfur.
-                                 ^1)Rg. 490/1997.
+                         ^1)Rg. 490/1997, sbr. 1102/2008.
 
                             IX. kafli. Ýmis ákvæði.
                   40. gr. Nánari reglur um framkvæmd laganna.
@@ -548,13 +564,9 @@ References
    3. file://2008082.html
    4. file://2008088.html
    5. file://2008088.html#g234
-   6. file://2008088.html
-   7. file://2008082.html#g35
-   8. file://2008034.html#g30
+   6. file://2008082.html#g35
+   7. file://2008034.html#g30
+   8. file://2008088.html#g234
    9. file://2008088.html#g234
-  10. file://2008088.html
-  11. file://2008088.html#g234
-  12. file://2008088.html
-  13. file://2008088.html#g234
-  14. file://2008088.html
-  15. file://2007085.html#g28
+  10. file://2008088.html#g234
+  11. file://2007085.html#g28

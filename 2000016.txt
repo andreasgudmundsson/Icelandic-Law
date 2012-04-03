@@ -11,7 +11,7 @@
 
  Tóku gildi 28. apríl 2000. Breytt með [1]l. 77/2000 (tóku gildi 1. jan. 2001),
 [2]l. 96/2002 (tóku gildi 1. jan. 2003), l. 129/2005 (tóku gildi 30. des. 2005)
-  og [3]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21.
+  og [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21.
                                   júní 2008).
 
     1. gr. Lög þessi gilda um íslenska hluta Schengen-upplýsingakerfisins og
@@ -78,8 +78,8 @@ dvalarleyfi og ferðaskilríki, sem hefur verið stolið, hafa verið seld ólö
      c. vegna leitar að horfnum manni eða þegar taka á mann í gæslu tímabundið
                         vegna eigin öryggis eða annarra,
     d. vegna eftirgrennslanar um búsetu eða dvalarstað vitnis, sakbornings sem
-hefur verið ákærður og koma þarf fyrir dóm eða manns sem birta á dóm í opinberu
-              máli eða boða til afplánunar fangelsisrefsingar.^2)
+     hefur verið ákærður og koma þarf fyrir dóm eða manns sem birta á dóm í
+           [sakamáli]^2) eða boða til afplánunar fangelsisrefsingar.
    Þegar upplýsingar skv. a-lið 1. mgr. hafa verið skráðar skulu eftirfarandi
   upplýsingar sendar því ríki sem beiðni er beint til svo fljótt sem verða má:
                  a. hvaða yfirvald leggur fram beiðni um handtöku,
@@ -88,13 +88,12 @@ hefur verið ákærður og koma þarf fyrir dóm eða manns sem birta á dóm í
      d. málsatvik, þar með talið hvar og hvenær brot var framið og þáttur hins
                                eftirlýsta í því,
            e. eftir því sem mögulegt er, hverjar eru afleiðingar brots.
-    ^1)[4]L. 96/2002, 59. gr. ^2)Liðnum var breytt með [5]l. 88/2008, 234. gr.
-           Breytingin tekur gildi 1. jan. 2009 skv. [6]232. gr. s.l.
+               ^1)[4]L. 96/2002, 59. gr. ^2)[5]L. 88/2008, 234. gr.
   7. gr. [Heimilt er að skrá upplýsingar um einstaklinga, ökutæki, báta, skip,
  loftför og gáma í upplýsingakerfið til að fram fari eftirlit með leynd, leit,
            líkamsleit eða líkamsrannsókn í eftirfarandi tilvikum:]^1)
-         a. vegna rannsóknar og meðferðar opinbers máls og til að tryggja
-                            almannaöryggi þegar:^2)
+         a. vegna rannsóknar og meðferðar [sakamáls]^2) og til að tryggja
+                              almannaöryggi þegar:
      1. rökstuddur grunur leikur á að maður fremji eða muni fremja fjölda mjög
                                alvarlegra brota,
    2. heildarmat á viðkomandi manni, þar með talið á þeim brotum sem hann hefur
@@ -103,13 +102,10 @@ hefur verið ákærður og koma þarf fyrir dóm eða manns sem birta á dóm í
 ákvörðunarstað, fylgdarmenn eða farþega, hluti meðferðis eða við hvaða aðstæður
  maður eða ökutæki finnst séu nauðsynlegar til að koma í veg fyrir að alvarleg
  hætta stafi af viðkomandi manni eða alvarlegar ógnanir fyrir öryggi ríkisins.
-      ^1)L. 129/2005, 2. gr. ^2)Liðnum var breytt með [7]l. 88/2008, 234. gr.
-           Breytingin tekur gildi 1. jan. 2009 skv. [8]232. gr. s.l.
+                 ^1)L. 129/2005, 2. gr. ^2)[6]L. 88/2008, 234. gr.
 8. gr. Heimilt er að skrá í upplýsingakerfið upplýsingar um hluti sem leitað er
-    í þeim tilgangi að leggja á þá hald eða nota sem sönnunargagn í opinberu
-                                    máli.^1)
-   ^1)Greininni var breytt með [9]l. 88/2008, 234. gr. Breytingin tekur gildi 1.
-                        jan. 2009 skv. [10]232. gr. s.l.
+ í þeim tilgangi að leggja á þá hald eða nota sem sönnunargagn í [sakamáli].^1)
+                            ^1)[7]L. 88/2008, 234. gr.
 9. gr. Upplýsingar sem skráðar eru í upplýsingakerfið verða ekki nýttar á annan
               veg en leiðir af tilgangi skráningar skv. 6.8. gr.
  Með samþykki ríkis sem skráð hefur upplýsingar verður vikið frá 1. mgr. og þær
@@ -141,7 +137,7 @@ Til að starfa við upplýsingakerfið verður viðkomandi starfsmaður að fá 
 heimild ríkislögreglustjóra, enda fullnægi hann settum hæfis- og öryggiskröfum.
  Viðkomandi starfsmaður skal einungis hafa þann aðgang að kerfinu sem honum er
                      nauðsynlegur til að gegna starfi sínu.
-                 ^1)L. 129/2005, 4. gr. ^2)[11]L. 96/2002, 59. gr.
+                 ^1)L. 129/2005, 4. gr. ^2)[8]L. 96/2002, 59. gr.
  11. gr. Eftirtalin stjórnvöld skulu eftir beiðni hafa aðgang að upplýsingum úr
    upplýsingakerfinu að því marki sem þeim er nauðsynlegt til að sinna þessum
                                    verkefnum:
@@ -212,7 +208,7 @@ gilda um persónuvernd og friðhelgi einkalífs. [Persónuvernd]^1) skal einnig 
  Nú gerir [Persónuvernd]^1) athugasemdir við starfrækslu upplýsingakerfisins og
 skal hún þá koma þeim og tillögum um úrbætur á framfæri við ríkislögreglustjóra
                              og dómsmálaráðuneytið.
-                            ^1)[12]L. 77/2000, 46. gr.
+                             ^1)[9]L. 77/2000, 46. gr.
  19. gr. Ráðherra setur nánari ákvæði í reglugerð^1) um framkvæmd laganna, þar
                                  með talið um:
     a. öryggisþætti upplýsingakerfisins og innra eftirlit með því, sbr. 3. gr.,
@@ -220,7 +216,7 @@ skal hún þá koma þeim og tillögum um úrbætur á framfæri við ríkislög
 [Útlendingastofnunar]^2) verða að fullnægja til að starfa við upplýsingakerfið,
                              sbr. 2. mgr. 10. gr.,
         c. eftirlit [Persónuverndar]^3) með upplýsingakerfinu, sbr. 18. gr.
-   ^1)Rg. 112/2001, sbr. 640/2007. ^2)[13]L. 96/2002, 59. gr. ^3)[14]L. 77/2000,
+   ^1)Rg. 112/2001, sbr. 640/2007. ^2)[10]L. 96/2002, 59. gr. ^3)[11]L. 77/2000,
                                     46. gr.
                      20. gr. Lög þessi öðlast þegar gildi.
 
@@ -232,12 +228,9 @@ References
    3. file://2008088.html
    4. file://2002096.html#g59
    5. file://2008088.html#g234
-   6. file://2008088.html
+   6. file://2008088.html#g234
    7. file://2008088.html#g234
-   8. file://2008088.html
-   9. file://2008088.html#g234
-  10. file://2008088.html
-  11. file://2002096.html#g59
-  12. file://2000077.html#g46
-  13. file://2002096.html#g59
-  14. file://2000077.html#g46
+   8. file://2002096.html#g59
+   9. file://2000077.html#g46
+  10. file://2002096.html#g59
+  11. file://2000077.html#g46

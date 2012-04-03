@@ -7,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-                          Ferill málsins á Alþingi.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. janúar 1979. Breytt með l. 63/1988 (tóku gildi 1. jan. 1989), l.
   85/1989 (tóku gildi 1. júlí 1992), [1]l. 31/1990 (tóku gildi 1. júlí 1992),
@@ -15,7 +15,7 @@
  1992), [4]l. 91/1991 (tóku gildi 1. júlí 1992), l. 6/1992 (tóku gildi 1. júlí
  1992), [5]l. 37/1993 (tóku gildi 1. jan. 1994), l. 45/2000 (tóku gildi 1. jan.
 2001; komu til framkvæmda skv. fyrirmælum í 13. gr.), l. 69/2008 (tóku gildi 1.
-júní 2008, birt í Stjtíð. 13. júní 2008) og l. 83/2008 (taka gildi 1. jan. 2009
+júní 2008, birt í Stjtíð. 13. júní 2008) og l. 83/2008 (tóku gildi 1. jan. 2009
                    nema 22. gr. sem tók gildi 20. júní 2008).
 
                       I. kafli. [Þinglýsingarstjórar.]^1)
@@ -83,18 +83,17 @@ geti, eftir atvikum með nauðsynlegum athugasemdum, fullnægt ákvæðum laga �
   [Nú er afhent skjal til þinglýsingar og skal þá vísa því frá ef eitthvert af
                            eftirtöldum atriðum á við:
                         a. skjal er afhent í röngu umdæmi,
-     b. fasteign er ekki skráð í þinglýsingabók nema um stofnskjal sé að ræða,
-   c. stofnskjal landeignar er ekki forskráð í Landskrá fasteigna samkvæmt lögum
-                         um skráningu og mat fasteigna,
+                  b. fasteign er ekki skráð í þinglýsingabók ,^2)
+                                      c. ^2)
     d. skjal varðar bein eða óbein eignarréttindi að fasteign og ekki er getið
-                              fastanúmers hennar,
-        e. afmörkun lands eða lóðar er ekki í samræmi við 2. mgr. 20. gr.,
+                          [fasteignanúmers]^2) hennar,
+       e. afmörkun lands eða lóðar er ekki í samræmi við [fasteignaskrá],^2)
      f. ekki er ótvírætt við hvaða eign skjal á, hvaða aðila skjal varðar eða
                        hvert efni þess er að öðru leyti,
     g. skjalið skortir undirritun útgefanda og vitundarvotta eða annarra þeirra
               er skjal geta staðfest, sbr. 22. gr., sé þessa þörf,
      h. skjal er aðeins afhent í einu eintaki eða samrit eða endurrit er ekki
-                  ritað á löggiltan þinglýsingapappír.^2)]^1)
+                    ritað á löggiltan þinglýsingapappír.]^1)
  Að lokinni færslu skjals í dagbók, skal árita það og endurrit eða samrit þess.
      Áritun skal fela í sér viðurkenningu um viðtöku skjals og tilgreiningu
                                   viðtökudags.
@@ -102,8 +101,7 @@ geti, eftir atvikum með nauðsynlegum athugasemdum, fullnægt ákvæðum laga �
   mgr. koma ekki til framkvæmda að því er varðar tölvufærðar fasteignabækur í
 umdæmum sýslumannanna í Hafnarfirði, á Ísafirði og í Reykjavík fyrr en þær bækur
 hafa verið tölvufærðar í Landskrá fasteigna, þó ekki síðar en 31. desember 2004,
-sbr. 13. gr. s.l. ^2)Málsgreininni var breytt með l. 83/2008, 24. gr. Breytingin
-                   tekur gildi 1. jan. 2009 skv. 23. gr. s.l.
+                    sbr. 13. gr. s.l. ^2)L. 83/2008, 24. gr.
  7. gr. Eftir að skjal hefur verið fært í dagbók, skal [þinglýsingarstjóri]^1)
    sannreyna, hvort nokkuð sé því til fyrirstöðu að skjalinu verði þinglýst.
 Vísa skal skjali frá þinglýsingu, ef útgefanda þess brestur heimild til eignar á
@@ -137,15 +135,15 @@ en þessari rannsókn er lokið. Sé þinglýsingar synjað, skal þinglýsingar
    4. Lausafjárbók um öll skjöl, er varða lausafé almennt, þ. á m. skip, sem eru
   ekki skrásetningarskyld, en skjöl um slík skip má þó einnig færa í skipabók
        samkvæmt 2. tölul., ef [þinglýsingarstjóra]^1) þykir það hentara.
- [Bækur þær er lúta að fasteignum skulu tölvufærðar í Landskrá fasteigna eftir
+ [Bækur þær er lúta að fasteignum skulu tölvufærðar í [fasteignaskrá]^2) eftir
          nánari fyrirmælum ráðherra í reglugerð. Þar skal mælt fyrir um
  öryggisráðstafanir og vistun þinglýsingargagna. Þar til lokið hefur verið við
-  þinglýsingarhluta Landskrár fasteigna er þinglýsingarstjórum heimilt að nota
+  þinglýsingarhluta [fasteignaskrár]^2) er þinglýsingarstjórum heimilt að nota
 eldri þinglýsingabækur, lausblaðabækur, spjöld eða eldra tölvukerfi. Aðrar bækur
   skulu vera lausblaðabækur, en heimilt er þó að hafa þær í spjaldskrárformi.
  Dómsmálaráðherra ákveður nánari tilhögun þeirra, hvort tölvutækni skuli beitt
 við skráningu þeirra upplýsinga sem þær hafa að geyma og hvort það skuli gert í
-                sumum þinglýsingaumdæmum eða þeim öllum.^2)]^3)
+                  sumum þinglýsingaumdæmum eða þeim öllum.]^3)
 Með heitinu þinglýsingabækur er í lögum þessum átt við bækur þessar, ef ekki er
                                  annars getið.
  Í bókum þessum skal ætla [hverju]^3) skrásetningarskyldu skipi og bifreið eitt
@@ -156,12 +154,11 @@ getið á blaði hlutaðeigandi ^3) skips, bifreiðar og réttsala almenns lausa
     og þá þannig að yfirleitt sé hægt að gefa eignar- og veðbókarvottorð með
                         afhendingu ljósrits af blaðinu.
                                       ^3)
-     ^1)L. 85/1989, 7. gr. ^2)Málsgreininni var breytt með l. 83/2008, 24. gr.
-  Breytingin tekur gildi 1. jan. 2009 skv. 23. gr. s.l. ^3)L. 45/2000, 2. gr.
+        ^1)L. 85/1989, 7. gr. ^2)L. 83/2008, 24. gr. ^3)L. 45/2000, 2. gr.
   9. gr. Þinglýsing fer fram með þeim hætti, að meginatriði úr skjali því, sem
  þinglýsa á, eru færð í þinglýsingabók rétta, auk dagsetningar dagbókarfærslu.
-[Við þinglýsingu í Landskrá fasteigna er stöðu skjals breytt úr dagbókarfært í
-                               þinglýst.]^1)^2)
+[Við þinglýsingu í [fasteignaskrá]^1) er stöðu skjals breytt úr dagbókarfært í
+                                þinglýst.]^2)
   Þá er skjal hefur verið fært í þinglýsingabók, ritar [þinglýsingarstjóri]^3)
                   vottorð um þinglýsinguna á eintök skjalsins.
      Vikulega skal gera skrá um þinglýst skjöl, og skal hún liggja frammi á
@@ -169,8 +166,7 @@ getið á blaði hlutaðeigandi ^3) skips, bifreiðar og réttsala almenns lausa
   sé útgefandi skjals, eigandi þess, tegundar og annars, sem þarf til þess að
 skjalinu sé lýst nægilega. Dómsmálaráðherra getur ákveðið birtingu slíkra skráa
                                í opinberu blaði.
-     ^1)L. 45/2000, 3. gr. ^2)Málsgreininni var breytt með l. 83/2008, 24. gr.
-  Breytingin tekur gildi 1. jan. 2009 skv. 23. gr. s.l. ^3)L. 85/1989, 8. gr.
+        ^1)L. 83/2008, 24. gr. ^2)L. 45/2000, 3. gr. ^3)L. 85/1989, 8. gr.
 10. gr. Þau eintök þinglýstra skjala, sem [þinglýsingarstjóri]^1) heldur eftir,
    skulu geymd í sérstökum skjalahylkjum, og ákveður dómsmálaráðuneytið gerð
                                     þeirra.
@@ -210,13 +206,12 @@ lóðrétt strik og lokakvittun eða samþykki til aflýsingar rituð á skjali�
  skal rita vottorð um aflýsinguna á bæði eintök skjalsins og geta þess, hvenær
     hún fór fram og hvar hennar sé getið. Að svo vöxnu skal skila aðila sínu
                                     eintaki.
-[Aflýsing skjals í Landskrá fasteigna fer þannig fram að stöðu skjals er breytt
+[Aflýsing skjals í [fasteignaskrá]^2) fer þannig fram að stöðu skjals er breytt
  úr þinglýst í aflýst. Upplýsingar um aflýst skjöl og yfirlýsingu rétthafa
  skulu varðveittar í ferilskrá viðkomandi eignar í tölvukerfi. Síðan skal rita
  vottorð um aflýsinguna á frumrit skjalsins og geta þess hvenær hún fór fram og
-    hvar hennar sé getið. Að svo vöxnu skal skila aðila sínu eintaki.^2)]^3)
-    ^1)L. 85/1989, 12. gr. ^2)Málsgreininni var breytt með l. 83/2008, 24. gr.
-  Breytingin tekur gildi 1. jan. 2009 skv. 23. gr. s.l. ^3)L. 45/2000, 6. gr.
+     hvar hennar sé getið. Að svo vöxnu skal skila aðila sínu eintaki.]^3)
+        ^1)L. 85/1989, 12. gr. ^2)L. 83/2008, 24. gr. ^3)L. 45/2000, 6. gr.
 
             III. kafli. Um forgangsáhrif þinglýsingar og grandleysi.
  14. gr. Ekki telst skjal afhent til þinglýsingar, nema [þinglýsingarstjóra]^1)
@@ -284,22 +279,8 @@ er skjal þetta veitir, skuli víkja fyrir rétti, sem síðar er þinglýst og 
                   1. Skilyrði þess, að skjali verði þinglýst.
 20. gr. Skjali, sem snertir fasteign, skal þinglýsa í umdæmi því, sem eignin er
                                        í.
- [Binda skal þinglýsingu stofnskjals fasteignar því skilyrði að þar komi fram:
-               a. heiti landeignar samkvæmt ákvörðun sveitarfélags,
-                       b. landnúmer lóðar, eitt eða fleiri,
-                   c. landnúmer þess lands sem lóð er tekin úr,
-            d. afmörkun lóðar á uppdrætti sem staðfestur hefur verið af
-                              skipulagsyfirvöldum,
-     e. fastanúmer hverrar fasteignar sem hefur beina tilvísun í þá skika sem
-                              henni tilheyra.]^1)
- [Heimilt er að þinglýsa í einu stofnskjali myndun fleiri en einnar fasteignar.
- Ráðherra er heimilt að ákveða í reglugerð að binda skuli þinglýsingu skjals er
-varðar landamerki eða lóðamörk því skilyrði að tilgreina skuli hnit skurðpunkta
- og markalínur samkvæmt viðurkenndu hnitakerfi, svo og mælikvarða uppdrátta af
-landi. Nú eru ekki fyrir hendi nægilega nákvæm hnitakerfi, og getur þá ráðherra
-            í reglugerð mælt fyrir um form og efni uppdrátta.]^1)^2)
-   ^1)L. 45/2000, 9. gr. ^2)2., 3. og 4. mgr. voru felldar brott með l. 83/2008,
-         24. gr. Breytingin tekur gildi 1. jan. 2009 skv. 23. gr. s.l.
+                                      ^1)
+                              ^1)L. 83/2008, 24. gr.
    21. gr. Afsali verður ekki þinglýst sem eignarheimild, ef það er háð öðrum
   skilyrðum um yfirfærslu eignarréttar en uppgjöri og greiðslu kaupverðs innan
                                tiltekins frests.
@@ -326,15 +307,14 @@ landi. Nú eru ekki fyrir hendi nægilega nákvæm hnitakerfi, og getur þá rá
  veðréttur, er stofnaður var með löggerningi af þeim, sem ekki hafði eða hefur
   þinglýsta heimild eða eins var ástatt um þann, er aðför var gerð hjá. [Hafi
  veðandlag aðfarar- eða kyrrsetningargerðar ekki verið myndað í þinglýsingabók
-    skal þinglýsingarstjóra heimilt að mynda eign til bráðabirgða í Landskrá
-    fasteigna. Slík skráning til bráðabirgða kemur ekki í stað þinglýsingar
-                        stofnskjals skv. 20. gr.]^2)^3)
+        skal þinglýsingarstjóra heimilt að mynda eign til bráðabirgða í
+ [fasteignaskrá].^2) Slík skráning til bráðabirgða kemur ekki í stað [stofnunar
+      fasteignar í fasteignaskrá skv. [8]14. gr. laga nr. 6/2001].^2)]^3)
  Skiptaafsali fyrir eign verður ekki þinglýst, ef sá, er afsalið tjáir hafa átt
                  eignina, er ekki þinglýstur eigandi hennar ^1)
  Dómi um réttindi til fasteignar verður ekki þinglýst, nema hann bindi þann, er
       nýtur þinglýstrar heimildar að eign, enda mæli lög ekki öðrum orðum.
-   ^1)[8]L. 90/1991, 91. gr. ^2)L. 45/2000, 11. gr. ^3)Málsgreininni var breytt
- með l. 83/2008, 24. gr. Breytingin tekur gildi 1. jan. 2009 skv. 23. gr. s.l.
+      ^1)[9]L. 90/1991, 91. gr. ^2)L. 83/2008, 24. gr. ^3)L. 45/2000, 11. gr.
   25. gr. Þinglýsta eignarheimild hefur sá, er þinglýsingabók nefnir eiganda á
 hverjum tíma. Sama er um þann, er færir sönnur á, að eignarréttur hafi flust til
     sín vegna andláts eiganda. Um þinglýsta heimild að öðrum réttindum gilda
@@ -348,7 +328,7 @@ Nú [hafa erfingjar lokið einkaskiptum á dánarbúi]^1) og þinglýsa skiptagj
 hvílir á [skiptastjóra]^1) við upphaf gjaldþrotaskipta og opinberra skipta á búi
  og við upphaf nauðasamninga. Fyrir færslu slíkra tilkynninga skal ekki greiða
                                þinglýsingagjald.
-               ^1)[9]L. 20/1991, 136. gr. ^2)[10]L. 90/1991, 91. gr.
+              ^1)[10]L. 20/1991, 136. gr. ^2)[11]L. 90/1991, 91. gr.
   26. gr. Sá, sem hefur þinglýsta eignarheimild að eign, nýtur einnig slíkrar
 heimildar að einstökum hlutum hennar, þ. á m. byggingum, sem reistar hafa verið
      eða reistar verða á eigninni, nema fasteignabók nefni annan rétthafa.
@@ -380,7 +360,7 @@ viðurkenningu réttinda yfir fasteigninni. Skal þá strika út athugasemd um s
 í fasteignabókinni að beiðni varnaraðila eða annarra, er hagsmuna hafa að gæta,
 þá er mál hefur verið hafið, áfrýjunarfresti lýkur án áfrýjunar eða dómur æðsta
                         dómstigs hefur gengið um málið.
-                            ^1)[11]L. 91/1991, 161. gr.
+                            ^1)[12]L. 91/1991, 161. gr.
            3. Hvaða réttindi séu háð þinglýsingu og að hverju marki.
  29. gr. Réttindum yfir fasteign skal þinglýsa til þess að þau haldi gildi gegn
    þeim, er reisa rétt sinn á samningum um eignina, og gegn skuldheimtumönnum
@@ -412,7 +392,7 @@ með fyrirvara, sem eigi sé lengri en 3 mánuðir, miðað við almennan fardag
   ekki að sæta þeirri mótbáru, að heimildarbréf fyrirrennara hans sé ógilt, ef
         hann er grandlaus um ógildisatvikið, er hann öðlaðist réttindin.
   Mótbára, er lýtur að því að skjal samkvæmt 1. mgr. sé falsað eða fengið með
-beitingu slíkrar nauðungar, er í [12]28. gr. laga nr. 7/1936 greinir, glatast þó
+beitingu slíkrar nauðungar, er í [13]28. gr. laga nr. 7/1936 greinir, glatast þó
  ekki. Sama er um þá mótbáru, að skjal sé ógilt vegna lögræðisskorts útgefanda
                                   fyrir æsku.
   Nú er þinglýst skjali, sem ógilt er að lögum. Ef annmarkinn eyðist síðar, er
@@ -485,7 +465,7 @@ að ræða bréf sem gefin hafa verið út til ríkissjóðs, opinberra stofnana
                                   verið afmáð.
       Ef sönnur þær, sem aflýsingarbeiðandi ber fyrir sig, eru ekki metnar
                      fullnægjandi, skal synja um aflýsingu.
-     ^1)L. 45/2000, 12. gr. ^2)[13]L. 90/1991, 91. gr. ^3)L. 85/1989, 18. gr.
+     ^1)L. 45/2000, 12. gr. ^2)[14]L. 90/1991, 91. gr. ^3)L. 85/1989, 18. gr.
 
       V. kafli. [Þinglýsing um skrásett skip, 5 brúttótonn og stærri.]^1)
                                ^1)L. 69/2008, 4. gr.
@@ -499,7 +479,7 @@ að ræða bréf sem gefin hafa verið út til ríkissjóðs, opinberra stofnana
 41. gr. Þinglýsing skjala, er varða skip 5 [brúttótonn]^1) eða stærra, skal fara
 fram þar í umdæmi, sem skipið er skráð. Ákvæði 5. og 6. gr. laga nr. 66/1963^2)
                     halda þó gildi sínu eftir því sem við á.
-                    ^1)L. 69/2008, 2. gr. ^2)Nú [14]l. 34/1985.
+                    ^1)L. 69/2008, 2. gr. ^2)Nú [15]l. 34/1985.
  42. gr. Til nafnbreytingar á skrásettu skipi þarf samþykki þinglýstra eigenda
   þess. Nafnbreytingu og flutning skips skal [þinglýsingarstjóri]^1) tilkynna
 óbeinum rétthöfum í skipinu, ef þeir eru kunnir. Tilkynningu um flutning annast
@@ -627,7 +607,7 @@ Nú telur [þinglýsingarstjóri],^1) að skilyrðum þessum sé fullnægt, og g
                       um, að eignarheimild sé ekki áfátt.
  Nú brestur mann þinglýsta eignarheimild og jafnframt skilríki fyrir réttindum
  sínum, og skal þá [höfðað eignardómsmál eftir því sem skilyrði standa til].^2)
-                ^1)L. 85/1989, 24. gr. ^2)[15]L. 91/1991, 161. gr.
+                ^1)L. 85/1989, 24. gr. ^2)[16]L. 91/1991, 161. gr.
    51. gr. Nú er stofnað að fullu fyrir gildistöku laganna til réttinda yfir
 fasteign, skráðu skráningarskyldu skipi eða skrásettri bifreið og hefðu réttindi
  haldið gildi sínu gagnvart þriðja manni án þinglýsingar eftir eldra rétti, og
@@ -670,26 +650,25 @@ skal viðtöku skjala og áritun um hana hagað með sama hætti og verið hefur
                                     54. gr.
                  55. gr. Lög þessi öðlast gildi 1. janúar 1979.
     [Ákvæði til bráðabirgða. Dómsmálaráðuneytið hefur umsjón með yfirfærslu
-   þinglýsingabóka fasteigna í Landskrá fasteigna í samvinnu við Fasteignamat
- ríkisins í því skyni að mynda þinglýsingarhluta Landskrár fasteigna í samræmi
-   við lög um skráningu og mat fasteigna. Um gerð þinglýsingarhluta Landskrár
-                   fasteigna fer eftir ákvæðum laga þessara.
- Áður en upplýsingar úr þinglýsingabók eru yfirfærðar í Landskrá fasteigna skal
-   þinglýsingarstjóri bera saman lýsingu fasteignar eins og hún er í Landskrá
-fasteigna og þinglýsingabók. Komi fram misræmi þar skal þinglýsingarstjóri skrá
-                   um það athugasemdir í Landskrá fasteigna.
+  þinglýsingabóka fasteigna í [fasteignaskrá]^1) í samvinnu við [Fasteignaskrá
+Íslands]^1) í því skyni að mynda þinglýsingarhluta [fasteignaskrár]^1) í samræmi
+        við lög um skráningu og mat fasteigna. Um gerð þinglýsingarhluta
+              [fasteignaskrár]^1) fer eftir ákvæðum laga þessara.
+ Áður en upplýsingar úr þinglýsingabók eru yfirfærðar í [fasteignaskrá]^1) skal
+       þinglýsingarstjóri bera saman lýsingu fasteignar eins og hún er í
+        [fasteignaskrá]^1) og þinglýsingabók. Komi fram misræmi þar skal
+       þinglýsingarstjóri skrá um það athugasemdir í [fasteignaskrá].^1)
   Sé fasteign í þinglýsingabók ekki auðkennd með fastanúmeri eða landnúmeri er
-  þinglýsingarstjóra heimilt að nota auðkenni fasteignar í Landskrá fasteigna,
+  þinglýsingarstjóra heimilt að nota auðkenni fasteignar í [fasteignaskrá],^1)
                enda leiki ekki vafi á að um sömu eign sé að ræða.
-Við afmörkun landeignar í Landskrá fasteigna skal leggja til grundvallar lýsingu
+Við afmörkun landeignar í [fasteignaskrá]^1) skal leggja til grundvallar lýsingu
 eignamarka í þinglýsingabók séu þau fyrir hendi, en ella skal miða við lýsingu í
 landamerkjaskrá. Séu upplýsingar um afmörkun landeignar ekki fyrir hendi, hvorki
  í þinglýsingabók né landamerkjaskrá, skal þinglýsingarstjóra heimilt að leggja
              til grundvallar afmörkun samkvæmt skrám sveitarfélags.
 Dómsmálaráðherra setur að öðru leyti nánari reglur um hvernig skuli brugðist við
-    misræmi í skráningu milli þinglýsingabóka og Landskrár fasteigna.^1)]^2)
-   ^1)Ákvæðinu var breytt með l. 83/2008, 24. gr. Breytingin tekur gildi 1. jan.
-                 2009 skv. 23. gr. s.l. ^2)L. 45/2000, brbákv.
+     misræmi í skráningu milli þinglýsingabóka og [fasteignaskrár].^1)]^2)
+                   ^1)L. 83/2008, 24. gr. ^2)L. 45/2000, brbákv.
 
 References
 
@@ -701,11 +680,12 @@ References
    5. file://1993037.html
    6. file://1993037.html#g36
    7. file://1990031.html#g44
-   8. file://1991090.html#g91
-   9. file://1991020.html#g136
-  10. file://1991090.html#g91
-  11. file://1991091.html#g161
-  12. file://1936007.html#g28
-  13. file://1991090.html#g91
-  14. file://1985034.html
-  15. file://1991091.html#g161
+   8. file://2001006.html#g14
+   9. file://1991090.html#g91
+  10. file://1991020.html#g136
+  11. file://1991090.html#g91
+  12. file://1991091.html#g161
+  13. file://1936007.html#g28
+  14. file://1991090.html#g91
+  15. file://1985034.html
+  16. file://1991091.html#g161

@@ -10,7 +10,7 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. júlí 1998, sjá þó 34. gr. Breytt með [1]l. 47/2006 (tóku gildi 1.
- júlí 2006) og [2]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók
+ júlí 2006) og [2]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók
                              gildi 21. júní 2008).
 
                           I. kafli. Dómstólaskipanin.
@@ -489,10 +489,10 @@ dómsmálaráðherra fyrir hönd ríkisins til að fá hana fellda úr gildi, en
    áminningu en lagar sig ekki að henni innan hæfilegs tíma eða gerist innan
   þriggja ára á ný sekur um ávirðingar sem gefa tilefni til áminningar. Dómara
   verður einnig veitt lausn frá embætti um stundarsakir ef hann missir almenn
- hæfisskilyrði til að gegna því. Það sama gildir jafnframt ef opinber rannsókn
- beinist að dómara eða opinbert mál er höfðað á hendur honum og áfellisdómur um
-        sakirnar sem hann er borinn yrði til þess að hann missti almenn
-                               hæfisskilyrði.^1)
+     hæfisskilyrði til að gegna því. Það sama gildir jafnframt ef [rannsókn
+  lögreglu]^1) beinist að dómara eða [sakamál]^1) er höfðað á hendur honum og
+áfellisdómur um sakirnar sem hann er borinn yrði til þess að hann missti almenn
+                                 hæfisskilyrði.
  Forseti Íslands veitir dómara við Hæstarétt lausn frá embætti um stundarsakir
 samkvæmt tillögu dómsmálaráðherra, en ráðherra veitir héraðsdómara slíka lausn.
  Áður en lausn er veitt um stundarsakir skal ráðherra afla skriflegrar umsagnar
@@ -504,14 +504,12 @@ en þeim sem getur í lokamálslið 1. mgr., og skal þá innan tveggja mánaða
 niður fellur lausnin jafnframt sjálfkrafa niður ef nýtt mál er ekki höfðað innan
 tveggja vikna en þannig verður þó ekki farið að oftar en eitt skipti. Lausn sem
 veitt hefur verið um stundarsakir eftir ákvæði lokamálsliðar 1. mgr. stendur þar
-til opinberri rannsókn lýkur með ákvörðun um að hlutaðeigandi dómari verði ekki
- sóttur til sakar, sex mánuðir eru liðnir án þess að ákæra sé gefin út á hendur
- honum eða opinberu máli lýkur með endanlegum dómi um sýknu hans en annars þar
-     til tvær vikur eru liðnar frá því að endanlegur dómur hefur gengið um
-                              sakfellingu hans.^1)
+til ^1) rannsókn lýkur með ákvörðun um að hlutaðeigandi dómari verði ekki sóttur
+ til sakar, sex mánuðir eru liðnir án þess að ákæra sé gefin út á hendur honum
+eða [sakamáli]^1) lýkur með endanlegum dómi um sýknu hans en annars þar til tvær
+ vikur eru liðnar frá því að endanlegur dómur hefur gengið um sakfellingu hans.
    Dómari heldur fullum embættislaunum meðan á lausn um stundarsakir stendur.
-    ^1)Málsliðnum var breytt með [6]l. 88/2008, 234. gr. Breytingin tekur gildi
-                       1. jan. 2009 skv. [7]232. gr. s.l.
+                            ^1)[6]L. 88/2008, 234. gr.
 30. gr. Þegar dómara hefur verið veitt lausn frá embætti um stundarsakir höfðar
     dómsmálaráðherra fyrir hönd ríkisins mál á hendur honum fyrir héraðsdómi
  Reykjavíkur með kröfu um að honum verði vikið úr embætti með dómi. Um rekstur
@@ -567,7 +565,7 @@ en ríkinu er þó heimilt að gengnum áfellisdómi að beina að honum framkr�
  þannig koll af kolli þannig að fimmti aðalmaður ásamt varamanni verði skipaður
  til fimm ára. Skal skipunartími hvers ákveðinn af tilviljun þegar ráðið hefur
                      verið hverjir veljast þar til starfa.
- Við gildistöku þessarar greinar fellur niður skipun nefndar skv. 2. mgr. [8]5.
+ Við gildistöku þessarar greinar fellur niður skipun nefndar skv. 2. mgr. [7]5.
      gr. laga nr. 92/1989. Þegar skipað er í fyrsta sinn í nýja dómnefnd um
  héraðsdómaraembætti skal einn aðalmaður ásamt varamanni vera skipaður til eins
 árs, annar aðalmaður ásamt varamanni til tveggja ára, en þriðji aðalmaðurinn og
@@ -630,5 +628,4 @@ References
    4. file://2006047.html#g13
    5. file://2006047.html#g13
    6. file://2008088.html#g234
-   7. file://2008088.html
-   8. file://1989092.html#g5
+   7. file://1989092.html#g5

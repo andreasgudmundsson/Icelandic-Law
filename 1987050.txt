@@ -35,7 +35,7 @@ gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 24/2007 (tóku gildi 29. mars 2007)
 l. 69/2007 (tóku gildi 27. apríl 2007), l. 79/2007 (tóku gildi 14. apríl 2007),
  l. 83/2007 (tóku gildi 17. apríl 2007), l. 155/2007 (tóku gildi 29. des. 2007;
  EES-samningurinn: IX. viðauki tilskipun 2005/14/EB og 2000/26/EB), l. 65/2008
- (tóku gildi 1. okt. 2008), [5]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv.
+ (tóku gildi 1. okt. 2008), [5]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv.
 VII sem tók gildi 21. júní 2008) og [6]l. 112/2008 (tóku gildi 1. okt. 2008 nema
    12. tölul. 59. gr. sem tók gildi 25. sept. 2008; koma til framkvæmda skv.
                          fyrirmælum í 2. mgr. 56. gr.).
@@ -1072,10 +1072,10 @@ skilyrði reglna, sem settar eru samkvæmt 1. mgr., eða notkun þeirra mundi le
     Rg. 751/2003 (um skráningu ökutækja), sbr. 299/2004, 506/2005, 656/2005,
 158/2006, 307/2006, 691/2006, 756/2006, 1231/2007 og 669/2008. Rg. 822/2004 (um
 gerð og búnað ökutækja), sbr. 375/2005, 647/2005, 986/2005, 1071/2005, 156/2006,
-427/2006, 465/2006, 689/2006, 953/2006, 207/2007, 349/2007, 1116/2007, 1279/2007
-og 165/2008. Rg. 661/2006 (um ökurita og notkun hans). Rg. 662/2006 (um aksturs-
-og hvíldartíma ökumanna). Rg. 777/2006 (um eftirlit með aksturs- og hvíldartíma
-                        ökumanna, notkun ökurita o.fl.).
+     427/2006, 465/2006, 689/2006, 953/2006, 207/2007, 349/2007, 1116/2007,
+1279/2007, 165/2008 og 1028/2008. Rg. 661/2006 (um ökurita og notkun hans). Rg.
+ 662/2006 (um aksturs- og hvíldartíma ökumanna). Rg. 777/2006 (um eftirlit með
+            aksturs- og hvíldartíma ökumanna, notkun ökurita o.fl.).
  61. gr. Nú rís ágreiningur um það, til hvaða flokks skv. 2. gr. ökutæki skuli
                      teljast, og sker þá [ráðherra]^1) úr.
  [Ráðherra]^1) getur, ef sérstakar ástæður mæla með því, ákveðið, að ökutæki af
@@ -1296,7 +1296,7 @@ hvílir sú skylda á ökumanni við akstur undir brú, í göngum, undir rafmag
   sem eftir reglum, sem settar eru skv. 1. mgr., má aðeins fara fram að fengnu
      leyfi lögreglustjóra. Lögreglustjóri metur hverju sinni þörf á aðstoð.
    ^1)L. 132/2003, 1. gr. ^2)Rg. 528/1998, sbr. 834/2001, 858/2003 og 908/2004;
-                                 rg. 155/2007.
+                         rg. 155/2007, sbr. 1187/2008.
                              [Ásþungi]^1) og þyngd.
                               ^1)L. 44/1993, 23. gr.
  76. gr. [Ráðherra]^1) setur reglur^2) um hámark [ásþunga]^3) og heildarþyngdar
@@ -1311,7 +1311,7 @@ hvílir sú skylda á ökumanni við akstur undir brú, í göngum, undir rafmag
     greiðslu fyrir lögregluaðstoð, sem þörf er á að mati lögreglustjóra við
                        flutning, sem veghaldari heimilar.
    ^1)L. 132/2003, 1. gr. ^2)Rg. 528/1998, sbr. 834/2001, 858/2003 og 908/2004;
-                      rg. 155/2007. ^3)L. 44/1993, 23. gr.
+              rg. 155/2007, sbr. 1187/2008. ^3)L. 44/1993, 23. gr.
 
                               XI. Hindrun á vegi.
                              Óhreinkun vegar o.fl.
@@ -1562,13 +1562,12 @@ Kostnaður af störfum nefndarinnar greiðist úr ríkissjóði, en vátrygginga
 97. gr. Nú er höfðað einkamál til heimtu bóta gegn þeim, sem bótaskyldur er skv.
  90. gr., og skal þá höfða slíkt mál jafnframt gegn vátryggingafélagi því, sem
                          ábyrgðartryggt hefur ökutækið.
- Nú er bótakrafa samkvæmt ákvæðum 88. og 89. gr. höfð uppi í opinberu máli, og
+ Nú er bótakrafa samkvæmt ákvæðum 88. og 89. gr. höfð uppi í [sakamáli],^1) og
   skal þá tilkynna vátryggingafélagi því, er ábyrgðartryggt hefur ökutækið, um
-  kröfuna.^1) Hefur félagið þá sama rétt og sökunautur sjálfur til að koma að
-        vörnum í skaðabótamálinu, enda er þá áfellisdómur bindandi fyrir
-                vátryggingafélagið og aðfararhæfur gagnvart því.
-    ^1)Málsliðnum var breytt með [9]l. 88/2008, 234. gr. Breytingin tekur gildi
-                      1. jan. 2009 skv. [10]232. gr. s.l.
+kröfuna. Hefur félagið þá sama rétt og sökunautur sjálfur til að koma að vörnum
+í skaðabótamálinu, enda er þá áfellisdómur bindandi fyrir vátryggingafélagið og
+                           aðfararhæfur gagnvart því.
+                            ^1)[9]L. 88/2008, 234. gr.
         98. gr. Nú eru bætur vegna sama tjóns ákveðnar hærri samtals en
    vátryggingarfjárhæðinni nemur, og skal þá skipta henni að tiltölu á milli
     þeirra, sem kröfur eiga vegna tjónsins. Þetta ákvæði gildir einnig, þótt
@@ -1690,16 +1689,15 @@ að beiðni lögreglu í framhaldi af stöðvun ökutækis, að hann hafi verið
                         að stjórna ökutækinu örugglega.
   Tekið skal fram í vottorði læknis skv. a-lið að sjúklingurinn sé þrátt fyrir
      sjúkdóm sinn og lyfjainntöku fullkomlega fær um stjórnun ökutækis.]^2)
-                ^1)[11]L. 112/2008, 71. gr. ^2)L. 66/2006, 18. gr.
+                ^1)[10]L. 112/2008, 71. gr. ^2)L. 66/2006, 18. gr.
                               Bráðabirgðasvipting.
   103. gr. Nú telur lögreglustjóri skilyrði til sviptingar [ökuréttar]^1) vera
 fyrir hendi, og skal þá svipta ökumann [ökurétti]^1) til bráðabirgða svo fljótt
  sem unnt er. Ákvörðun þessa má bera undir dómstóla samkvæmt reglum um meðferð
- opinberra mála, og skal lögreglustjóri leiðbeina ökumanni um þann rétt, þegar
-      ákvörðun er birt.^2) Úrlausn héraðsdóms sætir kæru til Hæstaréttar.
+  [sakamála],^2) og skal lögreglustjóri leiðbeina ökumanni um þann rétt, þegar
+        ákvörðun er birt. Úrlausn héraðsdóms sætir kæru til Hæstaréttar.
     Sviptingartími skv. 1. mgr. skal dragast frá endanlegum sviptingartíma.
-   ^1)L. 44/1993, 27. gr. ^2)Málsliðnum var breytt með [12]l. 88/2008, 234. gr.
-           Breytingin tekur gildi 1. jan. 2009 skv. [13]232. gr. s.l.
+                ^1)L. 44/1993, 27. gr. ^2)[11]L. 88/2008, 234. gr.
                                 Áhrif áfrýjunar.
 104. gr. Áfrýjun dóms, þar sem kveðið er á um sviptingu [ökuréttar],^1) frestar
 ekki verkun hans að því leyti. Þó getur dómari ákveðið með úrskurði, að áfrýjun
@@ -1709,10 +1707,9 @@ ekki verkun hans að því leyti. Þó getur dómari ákveðið með úrskurði,
   105. gr. Nú hefur íslenskur ríkisborgari eða maður búsettur hér á landi sætt
 sviptingu [ökuréttar]^1) eða refsingu erlendis fyrir verknað, sem samkvæmt lögum
      þessum hefði varðað sviptingu [ökuréttar]^1) og má þá svipta hann þeim
-  [rétti]^1) í sérstöku opinberu máli, og koma þá að öðru leyti til framkvæmda
-                            ákvæði 101.104. gr.^2)
-    ^1)L. 44/1993, 29. gr. ^2)Greininni var breytt með [14]l. 88/2008, 234. gr.
-           Breytingin tekur gildi 1. jan. 2009 skv. [15]232. gr. s.l.
+  [rétti]^1) í sérstöku [sakamáli],^2) og koma þá að öðru leyti til framkvæmda
+                              ákvæði 101.104. gr.
+                ^1)L. 44/1993, 29. gr. ^2)[12]L. 88/2008, 234. gr.
                           [Endurveiting ökuréttar.]^1)
                               ^1)L. 44/1993, 30. gr.
   106. gr. [Nú hefur maður verið sviptur ökurétti um lengri tíma en þrjú ár og
@@ -1737,10 +1734,9 @@ Akstursbannið gildir þar til byrjandinn hefur sótt sérstakt námskeið og st
          ökupróf að nýju. Ráðherra setur reglur um tilhögun námskeiðs.
  Þegar skilyrði akstursbanns eru fyrir hendi skal svo fljótt sem unnt er banna
  byrjanda að aka. Ákvörðun um akstursbann má bera undir dómstóla samkvæmt lögum
-um meðferð opinberra mála og skal lögreglustjóri leiðbeina byrjanda um þann rétt
-                         þegar ákvörðun er birt.^1)]^2)
-   ^1)Málsliðnum var breytt með [16]l. 88/2008, 234. gr. Breytingin tekur gildi
-           1. jan. 2009 skv. [17]232. gr. s.l. ^2)L. 69/2007, 8. gr.
+um meðferð [sakamála]^1) og skal lögreglustjóri leiðbeina byrjanda um þann rétt
+                          þegar ákvörðun er birt.]^2)
+                 ^1)[13]L. 88/2008, 234. gr. ^2)L. 69/2007, 8. gr.
                             Haldsréttur í ökutækjum.
 107. gr. Nú er ökumaður vélknúins ökutækis búsettur erlendis og ökutæki það sem
 brotið var framið með skráð erlendis, og getur þá lögreglan lagt hald á ökutækið
@@ -1749,13 +1745,12 @@ brotið var framið með skráð erlendis, og getur þá lögreglan lagt hald á
    greiðslu sett. Ef greiðsla hefur eigi farið fram innan tveggja mánaða frá
            endanlegri niðurstöðu máls má leita fullnustu í ökutækinu.
   Þegar hald er lagt á ökutæki skv. 1. mgr. gilda, eftir því sem við á, ákvæði
- laga um meðferð opinberra mála um hald á munum.^1) Hald skal því aðeins lagt á
-   að þess sé þörf til að tryggja framangreinda greiðslu. Hafi ökumaður notað
-           ökutæki í algeru heimildarleysi má eigi leggja hald á það.
+ laga um meðferð [sakamála]^1) um hald á munum. Hald skal því aðeins lagt á að
+þess sé þörf til að tryggja framangreinda greiðslu. Hafi ökumaður notað ökutæki
+               í algeru heimildarleysi má eigi leggja hald á það.
 Ákvæði 1. mgr. verður ekki beitt gagnvart ökumönnum sem búsettir eru í Danmörku,
 Finnlandi, Noregi eða Svíþjóð nema að því er varðar gjald vegna stöðvunarbrota.
-   ^1)Málsliðnum var breytt með [18]l. 88/2008, 234. gr. Breytingin tekur gildi
-                      1. jan. 2009 skv. [19]232. gr. s.l.
+                            ^1)[14]L. 88/2008, 234. gr.
                              [Upptaka ökutækja.]^1)
                                ^1)L. 69/2007, 9. gr.
  [107. gr. a. Þegar um stórfelldan eða ítrekaðan ölvunarakstur er að ræða, sem
@@ -1839,7 +1834,7 @@ verði aðfarar eða nauðungarsölu að tilteknum tíma liðnum],^3) enda hafi 
  þeim sem ber ábyrgð á greiðslu gjaldsins skv. 1. mgr. án undangengins dóms eða
                                   sáttar.]^4)
                                       ^5)
-   ^1)L. 84/2004, 11. gr. ^2)L. 65/2008, 3. gr. ^3)L. 92/1991, 94. gr. ^4)[20]L.
+   ^1)L. 84/2004, 11. gr. ^2)L. 65/2008, 3. gr. ^3)L. 92/1991, 94. gr. ^4)[15]L.
                     90/1991, 91. gr. ^5)L. 92/1991, 94. gr.
                            Brottflutningur ökutækja.
    110. gr. Heimilt er lögreglu að flytja eða láta flytja brott ökutæki, sem
@@ -1875,7 +1870,7 @@ krafist greiðslu á söluandvirðinu, að frádregnum kostnaði við flutning, 
   ákvæða í grein þessari fari, eftir því sem við á, að öllu leyti eða að hluta
 fram á vegum sveitarfélagsins. Hann getur og sett nánari reglur um framkvæmdina,
                  þar á meðal um greiðslu geymslukostnaðar.]^3)
-      ^1)[21]L. 90/1991, 91. gr. ^2)L. 132/2003, 1. gr. ^3)L. 62/1988, 5. gr.
+      ^1)[16]L. 90/1991, 91. gr. ^2)L. 132/2003, 1. gr. ^3)L. 62/1988, 5. gr.
 
            XV. [Umferðarstofa, umferðarráð, umferðarfræðsla o.fl.]^1)
                               ^1)L. 83/2002, 14. gr.
@@ -1952,7 +1947,7 @@ og varaformanni og einum aðila samkvæmt tilnefningu umferðarráðs. Stjórnin
     ^1)L. 132/2003, 1. gr. ^2)Rg. 86/1997, sbr. 181/1997, 93/2000 og 374/2004.
                              ^3)L. 83/2002, 11. gr.
                               [115. gr. a. ^1)]^2)
-                 ^1)[22]L. 24/2005, 17. gr. ^2)L. 83/2002, 12. gr.
+                 ^1)[17]L. 24/2005, 17. gr. ^2)L. 83/2002, 12. gr.
  116. gr. Sveitarstjórnum ber að fræða almenning um umferðarmál, eftir því sem
     staðhættir gefa efni til, svo og þær sérreglur, er gilda á hverjum stað.
  Sveitarstjórn getur skipað umferðarnefnd til þess að stuðla að umferðarfræðslu
@@ -1996,16 +1991,11 @@ References
    7. file://2000064.html#g10
    8. file://1994060.html#g21
    9. file://2008088.html#g234
-  10. file://2008088.html
-  11. file://2008112.html
+  10. file://2008112.html
+  11. file://2008088.html#g234
   12. file://2008088.html#g234
-  13. file://2008088.html
+  13. file://2008088.html#g234
   14. file://2008088.html#g234
-  15. file://2008088.html
-  16. file://2008088.html#g234
-  17. file://2008088.html
-  18. file://2008088.html#g234
-  19. file://2008088.html
-  20. file://1991090.html#g91
-  21. file://1991090.html#g91
-  22. file://2005024.html#g17
+  15. file://1991090.html#g91
+  16. file://1991090.html#g91
+  17. file://2005024.html#g17

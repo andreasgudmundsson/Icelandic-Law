@@ -12,7 +12,7 @@
  Tóku gildi 1. janúar 1997. Breytt með l. 76/1997 (tóku gildi 1. júlí 1997), l.
 83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001), [1]l.
     23/2006 (tóku gildi 3. maí 2006; EES-samningurinn: XX. viðauki tilskipun
- 2003/4/EB), l. 161/2006 (tóku gildi 1. jan. 2007) og [2]l. 88/2008 (taka gildi
+ 2003/4/EB), l. 161/2006 (tóku gildi 1. jan. 2007) og [2]l. 88/2008 (tóku gildi
           1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                          I. kafli. Gildissvið laganna.
@@ -23,8 +23,8 @@ Lögin taka enn fremur til starfsemi einkaaðila að því leyti sem þeim hefur
          2. gr. Gildissvið gagnvart öðrum lögum og þjóðréttarsamningum.
  Lög þessi gilda ekki um þinglýsingu, aðfarargerðir, kyrrsetningu, löggeymslu,
 lögbann, nauðungarsölu, greiðslustöðvun, nauðasamninga, gjaldþrotaskipti, skipti
-   á dánarbúum eða önnur opinber skipti, né heldur um rannsókn eða saksókn í
-                               opinberu máli.^1)
+   á dánarbúum eða önnur opinber skipti, né heldur um rannsókn [sakamáls eða
+                                  saksókn].^1)
   [Lögin gilda ekki um aðgang að upplýsingum samkvæmt stjórnsýslulögum. Lögin
   gilda heldur ekki um aðgang að upplýsingum samkvæmt lögum um persónuvernd og
   meðferð persónuupplýsinga, nema óskað sé eftir aðgangi að skjölum eða öðrum
@@ -33,8 +33,7 @@ gögnum sem 2. mgr. 3. gr. laga þessara tekur til. Þá gilda lögin heldur ekk
  Ákvæði annarra laga, sem heimila víðtækari aðgang að upplýsingum, halda gildi
    sínu. Almenn ákvæði laga um þagnarskyldu takmarka ekki rétt til aðgangs að
                          gögnum samkvæmt lögum þessum.
-     ^1)Málsgreininni var breytt með [3]l. 88/2008, 234. gr. Breytingin tekur
-         gildi 1. jan. 2009 skv. [4]232. gr. s.l. ^2)L. 83/2000, 1. gr.
+                 ^1)[3]L. 88/2008, 234. gr. ^2)L. 83/2000, 1. gr.
 
                   II. kafli. Almennur aðgangur að upplýsingum.
                             3. gr. Upplýsingaréttur.
@@ -80,7 +79,7 @@ hlut á. Sömu takmarkanir gilda um aðgang að gögnum er varða mikilvæga fj�
     [5. umhverfismál, enda geti birting þeirra haft alvarleg áhrif á vernd þess
 hluta umhverfisins sem slíkar upplýsingar varða, t.d. heimkynni fágætra tegunda
               lífvera, steinda, steingervinga og bergmyndana.]^1)
-                             ^1)[5]L. 23/2006, 18. gr.
+                             ^1)[4]L. 23/2006, 18. gr.
                         7. gr. Aðgangur að hluta skjals.
 Ef ákvæði 4.6. gr. eiga aðeins við um hluta skjals skal veita almenningi aðgang
             að öðru efni skjalsins. Sama regla á við um önnur gögn.
@@ -95,7 +94,7 @@ Veita skal aðgang að öðrum gögnum sem 4.6. gr. taka til þegar liðin eru
   ár frá því að gögn urðu til, að frátöldum upplýsingum er varða einkamálefni
 einstaklinga, en aðgang að þeim skal fyrst veita að áttatíu árum liðnum frá því
                               að þau urðu til. ^2)
-                  ^1)[6]L. 23/2006, 18. gr. ^2)L. 76/1997, 4. gr.
+                  ^1)[5]L. 23/2006, 18. gr. ^2)L. 76/1997, 4. gr.
 
            III. kafli. Aðgangur aðila að upplýsingum um hann sjálfan.
                          9. gr. Upplýsingaréttur aðila.
@@ -339,9 +338,7 @@ Stjórnvöld mega ekki gera samninga um sérleyfi um endurnot opinberra upplýsi
  almannahagsmuna nema á grundvelli sérleyfis er heimilt að gera slíkan samning
     enda komi fram í honum rökstuðningur fyrir því. Endurmeta ber rök fyrir
  sérleyfissamningnum reglubundið og eigi sjaldnar en á þriggja ára fresti.]^1)
-    ^1)L. 161/2006, 5. gr. Sérleyfissamningar um endurnot opinberra upplýsinga
-  sem ekki uppfylla skilyrði 2. mgr. skulu renna út eigi síðar en 31. desember
-                               2008, sbr. brbákv.
+                              ^1)L. 161/2006, 5. gr.
 
                         [IX. kafli.]^1) Gildistaka o.fl.
                               ^1)L. 161/2006, 5. gr.
@@ -363,6 +360,5 @@ References
    1. file://2006023.html
    2. file://2008088.html
    3. file://2008088.html#g234
-   4. file://2008088.html
+   4. file://2006023.html#g18
    5. file://2006023.html#g18
-   6. file://2006023.html#g18

@@ -39,8 +39,8 @@ gildi 30. des. 2003; komu til framkvæmda skv. fyrirmælum í 5. gr.), l. 149/20
  Endurútgefin, sbr. 4. gr. l. 42/2006, sem [6]l. 116/2006. Tóku gildi 17. ágúst
 2006. Breytt með l. 163/2006 (tóku gildi 30. des. 2006), l. 21/2007 (tóku gildi
  29. mars 2007), l. 63/2007 (tóku gildi 1. jan. 2008), l. 151/2007 (tóku gildi
- 29. des. 2007) og [7]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem
-                           tók gildi 21. júní 2008).
+29. des. 2007), [7]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók
+        gildi 21. júní 2008) og l. 143/2008 (tóku gildi 20. des. 2008).
 
                             I. kafli. Almenn ákvæði.
   1. gr. Nytjastofnar á Íslandsmiðum eru sameign íslensku þjóðarinnar. Markmið
@@ -202,12 +202,12 @@ af heildarverðmæti botnfiskaflamarks en umframafli í hverri botnfisktegund m�
                                botnfiskaflamarks.
  Hafi aflamark verið flutt milli skipa skv. 15. gr. flyst heimild til breytinga
     skv. 1. mgr. frá skipi sem flutt er af til þess skips sem flutt er til.
-   Heimilt er að flytja allt að 20% af aflamarki hverrar botnfisktegundar og
+ Heimilt er að flytja allt að [33%]^1) af aflamarki hverrar botnfisktegundar og
  aflamarki úthafsrækju, humars og síldar, 10% af aflamarki hörpudisks og 5% af
        aflamarki innfjarðarrækju frá einu fiskveiðiári yfir á það næsta.
- Þá er heimilt að veiða 5% umfram aflamark hverrar botnfisktegundar, síldar og
-úthafsrækju og 3% umfram aflamark innfjarðarrækju og hörpudisks, enda dregst sá
-       umframafli frá við úthlutun aflamarks næsta fiskveiðiárs á eftir.
+  Þá er heimilt að veiða 5% umfram aflamark hverrar botnfisktegundar, síldar,
+[úthafsrækju og humars]^1) og 3% umfram aflamark innfjarðarrækju og hörpudisks,
+enda dregst sá umframafli frá við úthlutun aflamarks næsta fiskveiðiárs á eftir.
 Beita skal skerðingarákvæðum 1. mgr. áður en heimild 3. mgr. er nýtt. Heimild 4.
     mgr. rýmkar ekki heimildir til breytinga milli fisktegunda skv. 1. mgr.
  Ráðherra getur ákveðið með reglugerð að fiskur undir tiltekinni stærð teljist
@@ -231,7 +231,7 @@ hvers tímabils verði náð. Ráðuneytið tilkynnir síðan frá hvaða tíma 
  línu skuli reiknast að fullu til aflamarks. Þá getur ráðherra ákveðið hámark á
  heildarmagn ýsu og steinbíts til línuívilnunar og jafnframt ákveðið að ýsu- og
  steinbítsafli skuli reiknast að fullu til aflamarks þegar því er náð. Ráðherra
-               setur nánari reglur^1) um framkvæmd þessa ákvæðis.
+               setur nánari reglur^2) um framkvæmd þessa ákvæðis.
  Skipstjóra fiskiskips er heimilt að ákveða að hluti af afla skipsins reiknist
     ekki til aflamarks þess. Sá hluti sem þannig reiknast ekki til aflamarks
    skipsins skal þó aldrei nema meira en 0,5% af uppsjávarafla og 5% af öðrum
@@ -246,7 +246,7 @@ Sé heimild í 9. mgr. nýtt skulu forráðamenn uppboðsmarkaðarins þar sem a
   seldur standa skil á andvirði hins selda afla að frádregnum hafnargjöldum og
 kostnaði við uppboðið. Þá skal útgerð skipsins fá 20% af andvirði selds afla sem
          skiptist milli útgerðar og áhafnar samkvæmt samningum þar um.
-                                 ^1)Rg. 741/2008.
+                      ^1)L. 143/2008, 1. gr. ^2)Rg. 741/2008.
 12. gr. Farist skip skal útgerð þess halda aflamarki þess við úthlutun í upphafi
  næsta fiskveiðiárs eða veiðitímabils þar á eftir, enda hafi aflahlutdeild þess
                     ekki verið flutt til annars fiskiskips.
@@ -419,8 +419,8 @@ sem fiskiskipi er úthlutað. Í þessu sambandi skal aflamark metið í þorsk�
    rg. 54/2003, sbr. augl. 56/2003, 240/2006, 446/2006, 454/2006, 648/2006 og
    78/2007; rg. 234/2004, sbr. 408/2004, 464/2004, 804/2008 og 919/2008; rg.
     924/2005, sbr. 952/2005; rg. 224/2006, sbr. 684/2006, 70/2007, 651/2007,
- 893/2007 og 114/2008; rg. 160/2008, sbr. 780/2008; rg. 321/2008, rg. 573/2008,
-                                 rg. 692/2008.
+ 893/2007 og 114/2008; rg. 160/2008, sbr. 780/2008; rg. 573/2008, rg. 692/2008,
+                                 rg. 1221/2008.
  17. gr. Skipstjórnarmenn veiðiskipa, sem hljóta veiðileyfi í atvinnuskyni skv.
  5. gr., skulu halda sérstakar afladagbækur sem Fiskistofa leggur til. Skal með
 reglugerð^1) kveða nánar á um þær upplýsingar sem skrá skal í afladagbækur, form
@@ -546,9 +546,8 @@ Með sama skilorði má einnig gera lögaðila sekt ef fyrirsvarsmenn eða starf
  hans eða aðrir einstaklingar sem í þágu hans starfa hafa gerst sekir um brot.
 Tilraun og hlutdeild í brotum á lögum þessum er refsiverð eftir því sem segir í
                             almennum hegningarlögum.
-27. gr. Mál út af brotum gegn lögum þessum skulu sæta meðferð opinberra mála.^1)
-     ^1)Greinin var felld brott með [15]l. 88/2008, 233. gr. Breytingin tekur
-                   gildi 1. jan. 2009 skv. [16]232. gr. s.l.
+                                  27. gr. ^1)
+                            ^1)[15]L. 88/2008, 233. gr.
 
                             Ákvæði til bráðabirgða.
      I. Á fiskveiðiárunum 2001/2002 til og með 2009/2010 hefur ráðherra til
@@ -568,7 +567,7 @@ Tilraun og hlutdeild í brotum á lögum þessum er refsiverð eftir því sem s
            ofgreitt gjald koma til frádráttar á næsta gjalddaga.]^1)
                               ^1)L. 151/2007, 1. gr.
  III. Í upphafi fiskveiðiárs 2006/2007 skal úthluta aflahlutdeild í þorski þeim
-fiskiskipum sem réttur skv. [17]9. gr. a laga nr. 38 15. maí 1990 er bundinn við
+fiskiskipum sem réttur skv. [16]9. gr. a laga nr. 38 15. maí 1990 er bundinn við
      þegar lögin taka gildi. Reiknigrunnur hvers úthlutunarréttar samkvæmt
 bráðabirgðaákvæði þessu skal vera hvort sem hærra reynist: aflamark sem úthlutun
  á grundvelli viðkomandi réttar gefur án tillits til aflamarksstöðu fiskiskips
@@ -608,13 +607,13 @@ Fiskistofu tilkynningu í samræmi við 1. mgr. 14. gr. og gilda þá ákvæði 
   [VI. Á fiskveiðiárunum 2006/2007, 2007/2008 og 2008/2009 skal ráðstafa hluta
      þeirra aflaheimilda, sem tilgreindar eru í 1. mgr. 10. gr., til þeirra
   byggðarlaga sem fengið hafa úthlutað aflaheimildum á grundvelli ákvæðis til
-bráðabirgða XXVI í [18]lögum nr. 38/1990, sem hér segir: 750 þorskígildislestum
+bráðabirgða XXVI í [17]lögum nr. 38/1990, sem hér segir: 750 þorskígildislestum
 á fiskveiðiárinu 2006/2007, 500 þorskígildislestum á fiskveiðiárinu 2007/2008 og
  250 þorskígildislestum á fiskveiðiárinu 2008/2009 og skulu þær skiptast milli
 byggðarlaga í sömu hlutföllum og úthlutun samkvæmt bráðabirgðaákvæðinu skiptist
   á fiskveiðiárinu 2005/2006. Úthlutun aflaheimilda samkvæmt þessu ákvæði skal
   ekki hafa áhrif á ákvörðun um ráðstöfun aflaheimilda skv. 1. og 2. tölul. 1.
- mgr. 10. gr., sbr. 3. og 4. mgr. [19]sömu greinar. Um framkvæmd þessa ákvæðis
+ mgr. 10. gr., sbr. 3. og 4. mgr. [18]sömu greinar. Um framkvæmd þessa ákvæðis
    gilda að öðru leyti ákvæði 2. mgr. og 5.8. mgr. 10. gr. og reglur settar
                                samkvæmt þeim.]^1)
                                ^1)L. 21/2007, 2. gr.
@@ -637,7 +636,6 @@ References
   13. file://1997079.html#g10
   14. file://2001038.html
   15. file://2008088.html#g233
-  16. file://2008088.html
+  16. file://1990038.html
   17. file://1990038.html
   18. file://1990038.html
-  19. file://1990038.html

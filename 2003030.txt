@@ -11,7 +11,7 @@
 
   Tóku gildi 1. júlí 2003. EES-samningurinn: IX. viðauki tilskipun 85/611/EBE.
 Breytt með l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 55/2007
-(tóku gildi 3. apríl 2007), [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv.
+(tóku gildi 3. apríl 2007), [1]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv.
    VII sem tók gildi 21. júní 2008) og l. 96/2008 (tóku gildi 24. júní 2008).
 
                             I. kafli. Almenn ákvæði.
@@ -873,8 +873,8 @@ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotis
   Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð
                eftir því sem segir í almennum hegningarlögum.]^1)
                               ^1)L. 55/2007, 17. gr.
-      [70. gr. d. Brot gegn lögum þessum sæta aðeins opinberri rannsókn að
-            undangenginni kæru Fjármálaeftirlitsins til lögreglu.^1)
+      [70. gr. d. [Brot gegn lögum þessum sæta aðeins rannsókn lögreglu að
+                  undangenginni kæru Fjármálaeftirlitsins.]^1)
     Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur
      Fjármálaeftirlitið hvort mál skuli kært til lögreglu eða því lokið með
        stjórnvaldsákvörðun hjá stofnuninni. Ef brot eru meiri háttar ber
@@ -882,8 +882,8 @@ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotis
 lýtur að verulegum fjárhæðum, ef verknaður er framinn með sérstaklega vítaverðum
     hætti eða við aðstæður sem auka mjög á saknæmi brotsins. Jafnframt getur
   Fjármálaeftirlitið á hvaða stigi rannsóknar sem er vísað máli vegna brota á
-     lögum þessum til opinberrar rannsóknar. Gæta skal samræmis við úrlausn
-                             sambærilegra mála.^1)
+   lögum þessum til [rannsóknar lögreglu].^1) Gæta skal samræmis við úrlausn
+                               sambærilegra mála.
 Með kæru Fjármálaeftirlitsins skulu fylgja afrit þeirra gagna sem grunur um brot
   er studdur við. Ákvæði IV.VII. kafla stjórnsýslulaga gilda ekki um ákvörðun
                Fjármálaeftirlitsins um að kæra mál til lögreglu.
@@ -898,8 +898,7 @@ og gögn sem hún hefur aflað og tengjast þeim brotum sem tilgreind eru í 2. 
   Telji ákærandi að ekki séu efni til málshöfðunar vegna ætlaðrar refsiverðrar
     háttsemi sem jafnframt varðar stjórnsýsluviðurlögum getur hann sent eða
    endursent málið til Fjármálaeftirlitsins til meðferðar og ákvörðunar.]^2)
-     ^1)Málsgreininni var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur
-        gildi 1. jan. 2009 skv. [3]232. gr. s.l. ^2)L. 55/2007, 17. gr.
+                 ^1)[2]L. 88/2008, 234. gr. ^2)L. 55/2007, 17. gr.
 
                           VI. kafli. Gildistaka o.fl.
                   71. gr. Lög þessi öðlast gildi 1. júlí 2003.
@@ -912,7 +911,7 @@ I. Starfandi verðbréfasjóðir teljast hafa staðfestingu Fjármálaeftirlitsi
     gildistöku þessara laga. Verðbréfasjóði skal slitið innan sex mánaða frá
 gildistöku laganna. Rekstrarfélag verðbréfasjóðs skal senda Fjármálaeftirlitinu
                reglur sjóðsins skv. 12. gr. innan sama tímamarks.
- II. Verðbréfasjóðir sem hafa starfsleyfi skv. [4]27. gr. laga nr. 10/1993 við
+ II. Verðbréfasjóðir sem hafa starfsleyfi skv. [3]27. gr. laga nr. 10/1993 við
 gildistöku laga þessara skulu óska eftir staðfestingu samkvæmt lögum þessum eigi
                  síðar en þremur mánuðum frá gildistöku þeirra.
  III. Hlutabréfasjóðir og aðrir sjóðir sem veita viðtöku fé frá almenningi til
@@ -929,5 +928,4 @@ References
    Visible links
    1. file://2008088.html
    2. file://2008088.html#g234
-   3. file://2008088.html
-   4. file://1993010.html
+   3. file://1993010.html

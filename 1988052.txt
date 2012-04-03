@@ -17,7 +17,7 @@
  tilskipun 76/768/EBE), l. 68/2002 (tóku gildi 17. maí 2002; EES-samningurinn:
   XX. viðauki reglugerð 2037/2000), l. 164/2002 (tóku gildi 1. jan. 2003), l.
    96/2004 (tóku gildi 2. júlí 2004; EES-samningurinn: II. viðauki tilskipun
-  98/8/EB) og [3]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók
+  98/8/EB) og [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók
                              gildi 21. júní 2008).
 
                             I. kafli. Upphafsákvæði.
@@ -374,10 +374,8 @@ geyma, að nokkru eða öllu leyti ákvæðum þessara laga. Undanþágur má þ
                                      gildi.
                    ^1)L. 164/2002, 6. gr. ^2)L. 1/1992, 26. gr.
                                    Refsingar.
-  25. gr. Um mál er kunna að rísa út af brotum á lögum þessum eða reglugerðum
-              settum samkvæmt þeim fer að hætti opinberra mála.^1)
-   ^1)Greinin var felld brott með [7]l. 88/2008, 233. gr. Breytingin tekur gildi
-                       1. jan. 2009 skv. [8]232. gr. s.l.
+                                  25. gr. ^1)
+                            ^1)[7]L. 88/2008, 233. gr.
  26. gr. Fyrir brot gegn lögum þessum eða reglugerðum settum samkvæmt þeim skal
 refsa með sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Nú er brot
   ítrekað eða stórfellt og getur refsing þá orðið ^1) fangelsi allt að tveimur
@@ -443,8 +441,8 @@ mengun), sbr. 849/2000. Rg. 786/1999 (um mengunarvarnaeftirlit), sbr. 850/2000.
     (um efni sem eyða ósonlaginu), sbr. 659/2002, 586/2005 og 139/2006. Rg.
     1083/2004 (um gildistöku EES-reglugerða um inn- og útflutning tiltekinna
  hættulegra efna). Rg. 1101/2004 (um markaðssetningu sæfiefna), sbr. 243/2007,
-150/2008 og 520/2008. Rg. 1025/2005 (um rokgjörn lífræn efnasambönd í málningu,
-     lakki og efnum til lakkviðgerða ökutækja). Rg. 560/2007 (um fljótandi
+150/2008, 520/2008 og 1234/2008. Rg. 1025/2005 (um rokgjörn lífræn efnasambönd í
+málningu, lakki og efnum til lakkviðgerða ökutækja). Rg. 560/2007 (um fljótandi
             eldsneyti). ^4)L. 51/1993, 1. gr. ^5)L. 68/2002, 1. gr.
                                   Gildistaka.
    30. gr. Með lögum þessum, sem taka gildi 1. júlí 1988, falla úr gildi lög
@@ -462,4 +460,3 @@ References
    5. file://1994093.html
    6. file://1995093.html#g32
    7. file://2008088.html#g233
-   8. file://2008088.html

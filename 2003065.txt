@@ -15,7 +15,7 @@
   des. 2004), [1]l. 30/2008 (tóku gildi 19. apríl 2008; EES-samningurinn: IV.
  viðauki tilskipun 2001/77/EB), l. 58/2008 (tóku gildi 11. júní 2008; koma til
 framkvæmda skv. fyrirmælum í 12. gr.), l. 67/2008 (tóku gildi 12. júní 2008) og
- [2]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+ [2]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
                                      2008).
 
                         I. kafli. Markmið og gildissvið.
@@ -629,10 +629,9 @@ Orkustofnun getur í eftirlitsstörfum sínum krafist upplýsinga og gagna frá 
 eftirlitsskylds aðila og lagt hald á gögn þegar ríkar ástæður eru til að ætla að
  brotið hafi verið gegn ákvæðum laga þessara, reglugerðum settum samkvæmt þeim,
     skilyrðum leyfis, ákvæðum samnings skv. 8. gr. eða öðrum heimildum. Við
- framkvæmd slíkra aðgerða skal fylgja ákvæðum laga um meðferð opinberra mála um
-                            leit og hald á munum.^1)
-    ^1)Málsliðnum var breytt með [4]l. 88/2008, 234. gr. Breytingin tekur gildi
-                       1. jan. 2009 skv. [5]232. gr. s.l.
+ framkvæmd slíkra aðgerða skal fylgja ákvæðum laga um meðferð [sakamála]^1) um
+                             leit og hald á munum.
+                            ^1)[4]L. 88/2008, 234. gr.
                          26. gr. Úrræði Orkustofnunar.
   Telji Orkustofnun að eftirlitsskyld starfsemi samræmist ekki skilyrðum laga
     þessara, reglugerðum settum samkvæmt þeim, ákvæðum samnings skv. 8. gr.,
@@ -864,7 +863,7 @@ undir ákvæði þessarar greinar, og um skiptigrundvöll milli mismunandi starf
                                    reglugerð.
                          [43. gr. Aðfararheimild o.fl.
 Gjöld fyrir raforku, flutning og dreifingu, sem innheimt eru ^1) samkvæmt lögum
-  þessum, eru aðfararhæf án dóms eða sáttar skv. 10. tölul. 1. mgr. [6]1. gr.
+  þessum, eru aðfararhæf án dóms eða sáttar skv. 10. tölul. 1. mgr. [5]1. gr.
   aðfararlaga, nr. 90/1989. Heimilt er að stöðva afhendingu raforku ef ekki er
                 staðið í skilum með greiðslu þessara gjalda.]^2)
                    ^1)L. 149/2004, 4. gr. ^2)L. 89/2004, 13. gr.
@@ -1029,7 +1028,7 @@ greiðist úr ríkissjóði en eigendur skulu bera kostnað af störfum fulltrú
  einstakra mála skal fara eftir ákvæðum laga um meðferð einkamála eftir því sem
                                      við á.
  Við mat á verðmæti flutningsvirkja skal matsnefndin miða við endurstofnverð að
-teknu tilliti til afskrifta. [7]Lög nr. 11/1973, um framkvæmd eignarnáms, skulu
+teknu tilliti til afskrifta. [6]Lög nr. 11/1973, um framkvæmd eignarnáms, skulu
   gilda um störf matsnefndarinnar eftir því sem við á, að frátöldum 2. mgr. 2.
                         gr., 7. gr., 11. gr. og 15. gr.
     Matsnefndin getur leitað umsagnar Orkustofnunar um það sem þurfa þykir.
@@ -1134,6 +1133,5 @@ References
    2. file://2008088.html
    3. file://2008030.html#g12
    4. file://2008088.html#g234
-   5. file://2008088.html
-   6. file://1989090.html#g1
-   7. file://1973011.html
+   5. file://1989090.html#g1
+   6. file://1973011.html

@@ -11,7 +11,7 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 17. júlí 2001. EES-samningurinn: II. viðauki tilskipun 93/7/EBE.
-Breytt með [1]l. 40/2006 (tóku gildi 1. sept. 2006) og [2]l. 88/2008 (taka gildi
+Breytt með [1]l. 40/2006 (tóku gildi 1. sept. 2006) og [2]l. 88/2008 (tóku gildi
           1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
       1. gr. Tilgangur laga þessara er að varðveita menningarsögu íslensku
@@ -124,11 +124,11 @@ eftir atvikum í samvinnu við hlutaðeigandi stjórnvöld hér á landi, sbr. n
   vörslu manna hérlendis er eigi vilja láta þær af hendi þegar safnaráð krefst
   þess, sbr. 5. og 7. gr., geta hlutaðeigandi stjórnvöld í öðru ríki, sem bera
   fram lögformlega kröfu um skil menningarminja, krafist þess fyrir dómi hér á
- landi, hvort heldur sem er í einkamáli eða opinberu dómsmáli, að eigendum eða
+   landi, hvort heldur sem er í einkamáli eða [sakamáli],^1) að eigendum eða
 vörslumönnum minjanna verði gert að láta þær af hendi og að mælt verði fyrir um
- að þeim skuli skilað með lögmæltum hætti til þess ríkis er skila krefst.^1) Sé
- um einkamál að ræða skal það höfðað gegn eiganda minjanna, hvernig sem hann er
-   að minjunum kominn, og jafnframt gegn vörslumanni þeirra sé hann annar en
+ að þeim skuli skilað með lögmæltum hætti til þess ríkis er skila krefst. Sé um
+ einkamál að ræða skal það höfðað gegn eiganda minjanna, hvernig sem hann er að
+     minjunum kominn, og jafnframt gegn vörslumanni þeirra sé hann annar en
 eigandinn. Dómur um skil menningarverðmæta er grundvöllur innsetningargerðar, ef
 á reynir, en dómi má síðan jafnframt framfylgja með aðstoð sýslumanna, lögreglu
   og annarra þar til bærra yfirvalda, eftir því sem þörf krefur, fyrir atbeina
@@ -163,8 +163,7 @@ um þá samningsgerð eftir því sem þörf gerist. Hafi bótakrafa, sem hér u
  verið viðurkennd með dómi eða liggi fyrir formlegur samningur um bætur, þar á
 meðal dómsátt, getur safnaráð gert það að skilyrði fyrir afhendingu minjanna til
           hlutaðeigandi erlendra stjórnvalda að bætur verði greiddar.
-    ^1)Málsliðnum var breytt með [6]l. 88/2008, 234. gr. Breytingin tekur gildi
-                       1. jan. 2009 skv. [7]232. gr. s.l.
+                            ^1)[6]L. 88/2008, 234. gr.
     7. gr. Safnaráð annast framkvæmd ákvæða þessara laga fyrir hönd íslenska
 ríkisins. Það veitir formleg leyfi til útflutnings menningarminja skv. 2. gr. og
   jafnframt skv. 4. gr. að fengnu samþykki menntamálaráðuneytis. Um framkvæmd
@@ -173,7 +172,7 @@ menntamálaráðherra setur. Safnaráð leggur mat á verðgildi menningarminja 
 gr., sbr. og 5. gr., og annast um framkvæmd skila á menningarminjum til annarra
                                ríkja skv. 5. gr.
  Ágreiningi um leyfisveitingar eða synjanir útflutnings á þessu sviði má skjóta
-  til menntamálaráðuneytis, sbr. nánar ákvæði [8]stjórnsýslulaga, nr. 37/1993.
+  til menntamálaráðuneytis, sbr. nánar ákvæði [7]stjórnsýslulaga, nr. 37/1993.
   Verður þá ekki af útflutningi fyrr en ráðuneytið hefur heimilað hann og lagt
 fyrir safnaráð að gefa út leyfisbréf þar að lútandi. Til menntamálaráðuneytis má
  og skjóta ágreiningi um önnur atriði er lúta að framkvæmd ákvæða laga þessara.
@@ -216,7 +215,7 @@ stjórnvalda um skil menningarminja frá öðrum aðildarríkjum að nefndum sam
 10. gr. Ekki ber að greiða stimpilgjöld eða þinglýsingargjöld af skjölum sem út
                    eru gefin vegna framkvæmda á lögum þessum.
   11. gr. Brot gegn ákvæðum 2.5. gr. laga þessara varða sektum til ríkissjóðs
-nema þyngri refsing liggi við broti skv. [9]177. gr. almennra hegningarlaga, nr.
+nema þyngri refsing liggi við broti skv. [8]177. gr. almennra hegningarlaga, nr.
                               19 12. febrúar 1940.
     12. gr. Ráðherra setur með reglugerð nánari ákvæði um framkvæmd laganna.
                      13. gr. Lög þessi öðlast þegar gildi.
@@ -230,6 +229,5 @@ References
    4. file://2006040.html#g11
    5. file://1993002.html
    6. file://2008088.html#g234
-   7. file://2008088.html
-   8. file://1993037.html
-   9. file://1940019.html#g177
+   7. file://1993037.html
+   8. file://1940019.html#g177

@@ -10,7 +10,7 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. júlí 1992. Breytt með l. 65/2006 (tóku gildi 27. júní 2006) og
- [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+ [1]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
                                      2008).
 
                   1. þáttur. Almenn ákvæði um skipti dánarbúa.
@@ -44,8 +44,8 @@ slíkan dvalarstað átt þá í því umdæmi þar sem hann lést. Hafi maki l�
    Sá sem æskir skipta hér á landi eftir 2. mgr. 1. gr. skal leita ákvörðunar
         dómsmálaráðherra um það í hverju umdæmi skiptin geti farið fram.
 4. gr. Dómsmál verður ekki höfðað í héraði gegn dánarbúi nema svo sé fyrir mælt
-   í lögum eða um opinbert mál sé að ræða og krafist sé refsiviðurlaga sem má
-ákvarða á hendur dánarbúi.^1) Má þá höfða málið í þeirri þinghá þar sem skiptin
+   í lögum eða um [sakamál]^1) sé að ræða og krafist sé refsiviðurlaga sem má
+  ákvarða á hendur dánarbúi. Má þá höfða málið í þeirri þinghá þar sem skiptin
                                    fara fram.
 Halda má máli til dóms sem hefur verið höfðað á hendur þeim látna en dómur ekki
  gengið í fyrir lát hans ef þær skyldur, sem málið varðar, falla á dánarbúið og
@@ -54,8 +54,7 @@ Halda má máli til dóms sem hefur verið höfðað á hendur þeim látna en d
       Kröfu um aðför, kyrrsetningu, lögbann, löggeymslu, nauðungarsölu eða
   gjaldþrotaskipti verður ekki komið fram gegn dánarbúi nema að því leyti sem
                           heimilað er í lögum þessum.
-    ^1)Málsliðnum var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur gildi
-                       1. jan. 2009 skv. [3]232. gr. s.l.
+                            ^1)[2]L. 88/2008, 234. gr.
 
            II. kafli. Tilkynning um andlát og fyrstu aðgerðir skipta.
 5. gr. Þegar maður er látinn og skipti eftir hann fara fram hér á landi skal svo
@@ -2082,9 +2081,9 @@ laga þessara skal hann sjálfkrafa teljast skiptastjóri í búinu frá 1. júl
                                     150. gr.
  151. gr. Ákvæði 2. og 3. mgr. 81. gr. gilda um meðferð á erfðafé þótt það hafi
 verið tekið til varðveislu fyrir gildistöku laga þessara. Tekur þetta einnig til
-     erfðafjár sem hefur ekki verið vitjað eftir ákvæðum 1. mgr. [4]56. gr.
+     erfðafjár sem hefur ekki verið vitjað eftir ákvæðum 1. mgr. [3]56. gr.
    erfðalaga, nr. 8/1962, við gildistöku laga þessara en hafi fé verið afhent
-samkvæmt því ákvæði eftir 30. júní 1987 gilda reglur 2. mgr. [5]sömu greinar um
+samkvæmt því ákvæði eftir 30. júní 1987 gilda reglur 2. mgr. [4]sömu greinar um
   rétt til að endurheimta það þótt þess sé fyrst krafist eftir gildistöku laga
                                     þessara.
 152. gr. Ákvæði 98.100. gr. gilda um heimildir til að krefjast opinberra skipta
@@ -2124,6 +2123,5 @@ References
    Visible links
    1. file://2008088.html
    2. file://2008088.html#g234
-   3. file://2008088.html
+   3. file://1962008.html#g56
    4. file://1962008.html#g56
-   5. file://1962008.html#g56

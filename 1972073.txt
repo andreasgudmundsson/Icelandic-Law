@@ -7,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-                          Ferill málsins á Alþingi.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 29. nóvember 1972. Breytt með l. 78/1984 (tóku gildi 13. júní 1984),
 l. 11/1986 (tóku gildi 1. maí 1986), [1]l. 20/1991 (tóku gildi 1. júlí 1992), l.
@@ -19,7 +19,7 @@ l. 11/1986 (tóku gildi 1. maí 1986), [1]l. 20/1991 (tóku gildi 1. júlí 1992
 EES-samningurinn: XVII. viðauki tilskipun 2001/29/EB), [3]l. 23/2006 (tóku gildi
   3. maí 2006; EES-samningurinn: XX. viðauki tilskipun 2003/4/EB), l. 97/2006
 (tóku gildi 30. júní 2006; EES-samningurinn: XVII. viðauki tilskipun 2001/84/EB)
-  og [4]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21.
+  og [4]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21.
                                   júní 2008).
 
                         I. kafli. Réttindi höfunda o.fl.
@@ -925,19 +925,18 @@ skulu og eiga sæti í ráðinu, svo og þeir aðilar sem ráðherra skipar sér
 forsæti á fundum ráðsins. Ráðherra setur nánari reglur^2) um höfundaréttarnefnd
                             og höfundaréttarráð.]^3)
            ^1)L. 9/2006, 15. gr. ^2)Rg. 500/2008. ^3)L. 57/1992, 15. gr.
-  59. gr. [Brot á lögum þessum sæti opinberri ákæru, en jafnan skal málshöfðun
-                      heimil þeim sem misgert er við. ^1)
+ 59. gr. [Brot á lögum þessum sæti ^1) ákæru, en jafnan skal málshöfðun heimil
+                          þeim sem misgert er við. ^2)
  Nú er höfundur látinn og getur þá enn fremur tilsjónaraðili, sem nefndur hefur
    verið eftir 2. mgr. 31. gr., en ella eiginmaður eða eiginkona hins látna,
-foreldrar, börn og systkin, krafist opinberrar ákæru eða höfðað mál út af brotum
-gegn 1. og 2. mgr. 4. gr., 2. og. 3. mgr. 26. gr., 1. mgr. 28. gr. og fyrirmælum
-höfundar samkvæmt 2. mgr. 31. gr. eða listflytjanda samkvæmt sama ákvæði, [sbr.
-                            3. mgr. 45. gr.]^2)]^3)
-    Mál út af brotum gegn ákvæðum 53. gr. sæta opinberri saksókn eftir kröfu
-                             menntamálaráðherra.^4)
-        ^1)L. 57/1992, 16. gr. ^2)L. 60/2000, 13. gr. ^3)L. 78/1984, 8. gr.
- ^4)Greininni var breytt með [8]l. 88/2008, 234. gr. Breytingin tekur gildi 1.
-                        jan. 2009 skv. [9]232. gr. s.l.
+foreldrar, börn og systkin, krafist [þess að ákæra verði gefin út]^1) eða höfðað
+mál út af brotum gegn 1. og 2. mgr. 4. gr., 2. og. 3. mgr. 26. gr., 1. mgr. 28.
+ gr. og fyrirmælum höfundar samkvæmt 2. mgr. 31. gr. eða listflytjanda samkvæmt
+                   sama ákvæði, [sbr. 3. mgr. 45. gr.]^3)]^4)
+       Mál út af brotum gegn ákvæðum 53. gr. sæta ^1) saksókn eftir kröfu
+                              menntamálaráðherra.
+     ^1)[8]L. 88/2008, 234. gr. ^2)L. 57/1992, 16. gr. ^3)L. 60/2000, 13. gr.
+                             ^4)L. 78/1984, 8. gr.
 
                         VIII. kafli. Gildissvið laganna.
              60. gr. Ákvæði um höfundarétt í lögum þessum taka til:
@@ -1050,4 +1049,3 @@ References
    6. file://1996050.html#g25
    7. file://1991020.html#g136
    8. file://2008088.html#g234
-   9. file://2008088.html

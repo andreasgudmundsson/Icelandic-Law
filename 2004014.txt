@@ -11,9 +11,10 @@
 
 Tóku gildi 1. apríl 2004. Breytt með l. 15/2004 (tóku gildi 20. apríl 2004), l.
  129/2004 (tóku gildi 31. des. 2005), l. 65/2006 (tóku gildi 27. júní 2006), l.
- 172/2007 (tóku gildi 29. des. 2007), l. 83/2008 (taka gildi 1. jan. 2009 nema
- 22. gr. sem tók gildi 20. júní 2008) og [1]l. 88/2008 (taka gildi 1. jan. 2009
-                 nema brbákv. VII sem tók gildi 21. júní 2008).
+ 172/2007 (tóku gildi 29. des. 2007), l. 83/2008 (tóku gildi 1. jan. 2009 nema
+  22. gr. sem tók gildi 20. júní 2008), [1]l. 88/2008 (tóku gildi 1. jan. 2009
+nema brbákv. VII sem tók gildi 21. júní 2008) og l. 147/2008 (tóku gildi 1. jan.
+                                     2009).
 
 1. gr. Af öllum fjárverðmætum er við skipti á dánarbúi manns hverfa til erfingja
      hans skal greiða skatt í ríkissjóð eftir lögum þessum, sbr. þó 18. gr.
@@ -74,10 +75,10 @@ verðmæta og eigna sem liggja fyrir við andlát arfleifanda að frádregnum sk
    a. Þegar verðmæti annað en fasteign hefur verið selt nauðungarsölu skal miða
                            við uppboðsandvirði þess.
      b. Fasteignir skulu taldar á fasteignamatsverði eins og það er skráð hjá
-  Fasteignamati ríkisins á dánardegi arfleifanda. Af leigulóðarréttindum skal
+[Fasteignaskrá Íslands]^2) á dánardegi arfleifanda. Af leigulóðarréttindum skal
   einnig greiða erfðafjárskatt með sama hætti. Nú er eignarréttur að fasteign
 háður kvöð um innlausnarrétt tiltekins aðila og skal þá leggja erfðafjárskatt á
-             innlausnarverð sé það lægra en fasteignamatsverðið.^2)
+              innlausnarverð sé það lægra en fasteignamatsverðið.
       Sé almennt markaðsverðmæti fasteignar talið lægra en fasteignamatsverð
 eignarinnar er erfingjum heimilt að óska eftir mati skv. [2]17.[3]23. gr. laga
 nr. 20/1991, um skipti á dánarbúum o.fl. Er þá heimilt að leggja erfðafjárskatt
@@ -86,8 +87,7 @@ nr. 20/1991, um skipti á dánarbúum o.fl. Er þá heimilt að leggja erfðafj�
                     20/1991 um mat samkvæmt þessum staflið.
      c. Búpeningur skal talinn á því verði sem lagt er til grundvallar síðustu
              álagningu opinberra gjalda fyrir dánardag arfleifanda.
-        ^1)L. 172/2007, 3. gr. ^2)Liðnum var breytt með l. 83/2008, 24. gr.
-             Breytingin tekur gildi 1. jan. 2009 skv. 23. gr. s.l.
+                   ^1)L. 172/2007, 3. gr. ^2)L. 83/2008, 24. gr.
   5. gr. [Skuldir arfleifanda, þ.m.t. væntanleg opinber gjöld, skulu koma til
    frádráttar áður en erfðafjárskattur er reiknaður, svo og útfararkostnaður
 arfleifanda. Kostnaður sem fellur á búið vegna ráðstafana skv. [5]17.[6]21. gr.
@@ -178,17 +178,15 @@ skiptunum með því að greiða þá skattfjárhæð, sem sýslumaður hefur á
    Nú verður ágreiningur um skyldu erfingja skv. 1. mgr. og getur sýslumaður,
 ríkisskattstjóri eða skattrannsóknarstjóri ríkisins þá leitað um hann úrskurðar
      héraðsdóms. Gegni einhver ekki upplýsingaskyldu sinni má vísa máli til
-                           opinberrar rannsóknar.^1)
-    ^1)Málsliðnum var breytt með [8]l. 88/2008, 234. gr. Breytingin tekur gildi
-                       1. jan. 2009 skv. [9]232. gr. s.l.
+                           [rannsóknar lögreglu].^1)
+                            ^1)[8]L. 88/2008, 234. gr.
 13. gr. Séu verðmæti á erfðafjárskýrslu ranglega fram talin má skattstjóri bæta
                 25% álagi við áætlaða eða vantalda skattstofna.
   Fella skal niður álag samkvæmt þessari grein ef erfingi færir rök að því að
              honum verði eigi kennt um annmarka á erfðafjárskýrslu.
     14. gr. Skattar álagðir samkvæmt lögum þessum renna í ríkissjóð og hafa
- sýslumenn og eftir atvikum tollstjórinn í Reykjavík á hendi innheimtu þeirra.
- Skattur skal greiddur til innheimtumanns í því umdæmi sem skatturinn er lagður
-                                       á.
+  sýslumenn og eftir atvikum [tollstjóri]^1) á hendi innheimtu þeirra. Skattur
+   skal greiddur til innheimtumanns í því umdæmi sem skatturinn er lagður á.
     Áfrýjun skattákvörðunar eða deila um skattskyldu frestar ekki gjalddaga
 erfðafjárskatts eða leysir neinn undan viðurlögum sem lögð eru á við vangreiðslu
                                      hans.
@@ -203,7 +201,7 @@ erfðafjárskýrslu ef um fyrirframgreiddan arf er að ræða eða óskipt bú s
    Hafi erfðafjárskattur ekki verið greiddur innan mánaðar frá gjalddaga skal
     greiða ríkissjóði dráttarvexti af því sem gjaldfallið er frá gjalddaga.
  Dráttarvextir samkvæmt lögum þessum skulu vera þeir sömu og Seðlabanki Íslands
-    ákveður og birtir, sbr. 1. mgr. [10]6. gr. laga nr. 38/2001, um vexti og
+    ákveður og birtir, sbr. 1. mgr. [9]6. gr. laga nr. 38/2001, um vexti og
                                  verðtryggingu.
   Um endurgreiðslu oftekins erfðafjárskatts samkvæmt lögum þessum fer samkvæmt
                lögum um endurgreiðslu oftekinna skatta og gjalda.
@@ -213,6 +211,7 @@ yfirskattanefnd úrskurðar að skuli endurgreiða, eða dæmd er síðar, frá 
              er frestur nefndarinnar til að kveða upp úrskurð leið.
     Ætíð má krefjast dráttarvaxta frá þeim tíma er dómsmál telst höfðað til
                   endurgreiðslu skatta samkvæmt lögum þessum.
+                              ^1)L. 147/2008, 47. gr.
 15. gr. Ekki er heimilt að gefa erfingjum út yfirlýsingu um eignarheimild þeirra
  að tiltekinni eign dánarbús fyrr en erfðafjárskattur af viðkomandi eign hefur
                                 verið greiddur.
@@ -242,7 +241,7 @@ fésekt allt að fimmfaldri þeirri fjárhæð í viðbótarerfðafjárskatt sem
  Tilraun til brota og hlutdeild í brotum á lögum þessum er refsiverð eftir því
 sem segir í III. kafla almennra hegningarlaga og varðar fésektum allt að hámarki
               því sem ákveðið er í öðrum ákvæðum þessarar greinar.
- Um málsmeðferð samkvæmt þessari grein gilda meginreglur [11]110. gr. laga nr.
+ Um málsmeðferð samkvæmt þessari grein gilda meginreglur [10]110. gr. laga nr.
                            90/2003, um tekjuskatt ^1)
                              ^1)L. 129/2004, 148. gr.
     17. gr. Nú er eigi fyrir hendi samningur við annað ríki um að komast hjá
@@ -258,7 +257,7 @@ nema hærri fjárhæð en þeirri sem erfingja væri gert skylt að greiða hér
                               Íslandi og erlendis.
        Enn fremur er ríkisstjórninni heimilt að gera samninga um gagnkvæm
         upplýsingaskipti og um innheimtu erfðafjárskatts við önnur ríki.
- 19. gr. Ákvæði [12]laga nr. 90/2003, um tekjuskatt ,^1) og reglugerðir settar
+ 19. gr. Ákvæði [11]laga nr. 90/2003, um tekjuskatt ,^1) og reglugerðir settar
  samkvæmt þeim skulu gilda eftir því sem við á við beitingu laga þessara, þar á
            meðal ef vafi leikur á hvernig meta skuli verðmæti eigna.
                              ^1)L. 129/2004, 148. gr.
@@ -267,7 +266,7 @@ nema hærri fjárhæð en þeirri sem erfingja væri gert skylt að greiða hér
   21. gr. Lög þessi öðlast gildi 1. apríl 2004 og taka til skipta á dánarbúum
  þeirra sem andast þann dag eða síðar. Lögin taka einnig til búskipta þeirra er
   hafa heimild til setu í óskiptu búi fari þau fram eftir gildistöku laganna.
-  [Ákvæði til bráðabirgða. Ákvæði [13]laga nr. 83/1984, um erfðafjárskatt, með
+  [Ákvæði til bráðabirgða. Ákvæði [12]laga nr. 83/1984, um erfðafjárskatt, með
  síðari breytingum, skulu gilda um skipti á dánarbúum þeirra sem önduðust fyrir
       1. apríl 2004, sbr. þó ákvæði 3. málsl. 21. gr. laga þessara.]^1)^2)
                      ^1)L. 15/2004, 1. gr. ^2)Augl. 957/2004.
@@ -283,8 +282,7 @@ References
    6. file://1991020.html#g21
    7. file://1992030.html
    8. file://2008088.html#g234
-   9. file://2008088.html
-  10. file://2001038.html#g6
-  11. file://2003090.html#g110
-  12. file://2003090.html
-  13. file://1984083.html
+   9. file://2001038.html#g6
+  10. file://2003090.html#g110
+  11. file://2003090.html
+  12. file://1984083.html
