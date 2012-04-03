@@ -166,8 +166,8 @@ References
    3. file://1993123.html
    4. file://1995002.html
    5. file:///altext/stjt/1998.167.html
-   6. file://1996113.html#g6
-   7. file://1993123.html#g6
+   6. file://1996113.html
+   7. file://1993123.html
    8. file://1995002.html#g14
    9. file://1995002.html#g6
   10. file://1995002.html#g7

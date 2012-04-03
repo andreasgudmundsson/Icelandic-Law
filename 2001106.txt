@@ -7,6 +7,8 @@
 
    --------------------------------------------------------------------------
 
+             Breytt með [2]l. 144/2002 (tóku gildi 30. des. 2002).
+
                        I. kafli. Yfirstjórn og skipulag.
    1. gr. Í lögum þessum er kveðið á um skipulag lista- og minjasafna í þeim
 tilgangi að varðveita og kynna menningarsögu íslensku þjóðarinnar og náttúrusögu
@@ -19,8 +21,9 @@ sveitarfélaga tilnefnir einn fulltrúa auk varamanns og Félag íslenskra safnm
    höfuðsafna og skulu þeir tilnefna varamenn í sinn stað. Menntamálaráðherra
                 skipar formann og varaformann úr hópi ráðsmanna.
  3. gr. Safnaráð er samráðsvettvangur starfsemi lista- og minjasafna. Safnaráð
-  hefur eftirlit með söfnum í eigu ríkisins og söfnum sem hljóta ríkisstyrki.
-                 Safnaráð úthlutar úr safnasjóði, sbr. 10. gr.
+   hefur eftirlit með ^1) söfnum sem hljóta ríkisstyrki. Safnaráð úthlutar úr
+                            safnasjóði, sbr. 10. gr.
+                             ^1)[3]L. 144/2002, 1. gr.
 
                            II. kafli. Safnastarfsemi.
   4. gr. Safn er samkvæmt lögum þessum stofnun, opin almenningi, sem hefur það
@@ -39,14 +42,16 @@ hvert á sínu verksviði. Höfuðsöfn skal stofna með lögum þar sem nánar 
    Íslands annast söfnun, skrásetningu, varðveislu og rannsóknir á minjum um
        menningarsögu þjóðarinnar og kynningu þeirra, innan lands og utan.
   Listasafn Íslands er höfuðsafn á sviði myndlistar. Listasafn Íslands annast
-          heimildasöfnun, kynningu og rannsóknir á íslenskri myndlist.
+[söfnun, skrásetningu, varðveislu],^1) heimildasöfnun, kynningu og rannsóknir á
+                              íslenskri myndlist.
   Náttúruminjasafn Íslands er höfuðsafn á sviði náttúrufræða. Náttúruminjasafn
-        Íslands annast kynningu og sýningar á náttúru Íslands og nýtingu
-                                náttúruauðlinda.
+  Íslands annast [söfnun, skrásetningu, varðveislu],^1) kynningu og sýningar á
+                  náttúru Íslands og nýtingu náttúruauðlinda.
+                             ^1)[4]L. 144/2002, 2. gr.
    6. gr. Höfuðsöfn mega ekki taka við gjöfum sem kvaðir fylgja, en þó getur
 menntamálaráðherra veitt undanþágu frá þessu ákvæði ef sérstök rök mæla með því.
    Gjafir og fjárframlög til safna eru frádráttarbær til skatts, sbr. ákvæði
-   [2]laga um tekjuskatt og eignarskatt, nr. 75/1981, með áorðnum breytingum.
+   [5]laga um tekjuskatt og eignarskatt, nr. 75/1981, með áorðnum breytingum.
 7. gr. Heimilt er að lána gripi eða verk úr söfnum til sýningar, en þó eigi til
  útlanda nema með samþykki menntamálaráðherra að fenginni umsögn forstöðumanns
 viðkomandi höfuðsafns og safnaráðs ef um er að ræða gripi sem falla undir ákvæði
@@ -88,6 +93,8 @@ einstaka gripi eða verk til annarra safna eða opinberra stofnana, en tryggileg
          7. Safnið skal fylgja viðurkenndum alþjóðlegum siðareglum safna.
   Höfuðsöfn og önnur söfn, sem rekin eru af ríkinu, geta ekki notið styrkja úr
                                   safnasjóði.
+         [Kostnaður af starfsemi safnaráðs greiðist úr safnasjóði.]^1)
+                             ^1)[6]L. 144/2002, 3. gr.
    11. gr. Nú vilja stjórnendur safns sem uppfyllir skilyrði laga þessara um
  rekstrarstyrk, sbr. 10. gr., afla sér húsnæðis fyrir safnið, hvort heldur með
  kaupum eða nýsmíði, og eiga þeir þá kost á að fá styrk til þess úr ríkissjóði,
@@ -123,4 +130,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001106
-   2. file://1981075.html
+   2. file:///altext/stjt/2002.144.html
+   3. file:///altext/stjt/2002.144.html
+   4. file:///altext/stjt/2002.144.html
+   5. file://1981075.html
+   6. file:///altext/stjt/2002.144.html

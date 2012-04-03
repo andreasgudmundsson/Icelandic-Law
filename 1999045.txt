@@ -7,6 +7,8 @@
 
    --------------------------------------------------------------------------
 
+              Breytt með [2]l. 151/2002 (tóku gildi 1. jan. 2003).
+
              I. kafli. Heiti sjóðsins, hlutverk, aðild og iðgjald.
 1. gr. Sjóðurinn heitir Lífeyrissjóður sjómanna og starfar með því skipulagi og
        markmiði sem kveðið er á um í lögum þessum og samþykktum sjóðsins.
@@ -25,7 +27,7 @@ Hlutverk sjóðsins er að tryggja sjóðfélögum, eftirlifandi mökum þeirra 
  sjóði. Um heimildina að öðru leyti fer eftir lögum um Lífeyrissjóð starfsmanna
                                    ríkisins.
     Sjómönnum sem lögskráðir eru í tilteknum byggðarlögum eða landshlutum og
-ráðherra hafði veitt undanþágu frá aðild að þessum sjóði, sbr. 2. mgr. [2]3. gr.
+ráðherra hafði veitt undanþágu frá aðild að þessum sjóði, sbr. 2. mgr. [3]3. gr.
       laga nr. 78/1970, er heimilt að vera utan við sjóðinn fullnægi þeir
    tryggingarskyldu sinni með greiðslu iðgjalds til lífeyrissjóðs viðkomandi
                                   byggðarlags.
@@ -55,7 +57,7 @@ fulltrúar atvinnurekenda og verkalýðsfélaga hafa á hendi formennsku til ski
 meiri háttar ákvarðanir varðandi stefnumótun sjóðsins og starfsemi. Hún skal sjá
   um að nægjanlegt eftirlit sé haft með bókhaldi og meðferð fjármuna sjóðsins.
   Stjórnin setur honum samþykktir í samræmi við ákvæði laga þessara og ákvæði
-     [3]laga nr. 129/1997, um skyldutryggingu lífeyrisréttinda og starfsemi
+     [4]laga nr. 129/1997, um skyldutryggingu lífeyrisréttinda og starfsemi
                                  lífeyrissjóða.
  5. gr. Iðgjald til sjóðsins skal nema 10% af heildarlaunum og greiðir launþegi
                             4% og launagreiðandi 6%.
@@ -95,25 +97,41 @@ sjóðfélagann en að hálfu stig annarra ára. Þó skal aldrei miða við fæ
 Ekki skal reikna stig fyrir tíma eftir lok þess mánaðar er sjóðfélagi nær 70 ára
                                      aldri.
                    Stig skulu reiknuð með þremur aukastöfum.
-9. gr. Sjóðfélagi, sem orðinn er fullra 65 ára að aldri, á rétt á ellilífeyri úr
-                                    sjóðnum.
+ 9. gr. [Sjóðfélagi, sem orðinn er fullra 65 ára að aldri, á rétt á ellilífeyri
+                                  úr sjóðnum.
   Upphæð ellilífeyris er hundraðshluti af grundvallarlaunum sjóðsins og nemur
  hundraðshluti þessi samanlögðum stigafjölda sem sjóðfélaginn hefur áunnið sér,
                             margfölduðum með 1,496.
- Heimilt er sjóðfélaga sem stundað hefur sjómennsku í 25 ár eða lengur og verið
-  lögskráður á íslensk skip eða erlend í útgerð íslenskra aðila í 180 daga að
-meðaltali á ári, þó ekki skemur en 120 daga ár hvert, að hefja töku ellilífeyris
-  þegar hann er fullra 60 ára. Skal þá upphæð ellilífeyris lækka um 0,4% fyrir
-hvern mánuð eða brot úr mánuði sem vantar á 65 ára aldur er taka lífeyris hefst.
- Taki sjóðfélagi ellilífeyri á aldrinum 6065 ára og greiði á sama tíma iðgjöld
-  til sjóðsins ávinnur hann sér réttindi að hálfu vegna þeirra iðgjalda. Skulu
-                    réttindi reiknuð á ný við 65 ára aldur.
-  Heimilt er sjóðfélaga að fresta töku ellilífeyris allt til 70 ára aldurs og
-  hækkar þá upphæð ellilífeyris vegna réttinda sem áunnin voru fram til 65 ára
-           aldurs um 0,5% fyrir hvern mánuð sem töku hans er frestað.
- Haldi sjóðfélagi áfram að ávinna sér réttindi eftir 65 ára aldur og hann hefur
- hafið töku ellilífeyris skulu stig hans reiknuð á ný er hann hefur náð 70 ára
-                                     aldri.
+Heimilt er sjóðfélaga að hefja töku ellilífeyris áður en hann nær 65 ára aldri,
+en þó ekki fyrr en frá 60 ára aldri. Skal þá útreiknaður ellilífeyrir hans miðað
+ við 65 ára aldur lækkaður fyrir hvern mánuð sem nemur samanlagðri prósentutölu
+                          samkvæmt eftirfarandi töflu:
+
+Taka ellilífeyris          Lækkun fyrir                          Samtals
+hefst                      hvern mánuð           Aldur           lækkun
+6465 ára                  0,65%                 64 ára          7,8%
+6364 ára                  0,60%                 63 ára          15,0%
+6263 ára                  0,55%                 62 ára          21,6%
+6162 ára                  0,50%                 61 ára          27,6%
+6061 ára                  0,45%                 60 ára          33,0%
+
+Á sama hátt er sjóðfélaga heimilt að fresta töku ellilífeyris um allt að fimm ár
+ og skal þá útreiknaður ellilífeyrir hans miðað við 65 ára aldur hækkaður fyrir
+  hvern mánuð sem nemur samanlagðri prósentutölu samkvæmt eftirfarandi töflu:
+
+Taka ellilífeyris          Hækkun fyrir                          Samtals
+hefst                      hvern mánuð           Aldur           hækkun
+6566 ára                  0,70%                 66 ára          8,4%
+6667 ára                  0,75%                 67 ára          17,4%
+6768 ára                  0,80%                 68 ára          27,0%
+6869 ára                  0,85%                 69 ára          37,2%
+6970 ára                  0,90%                 70 ára          48,0%
+
+  Haldi sjóðfélagi áfram að ávinna sér réttindi eftir að hann hefur hafið töku
+     ellilífeyris skulu stig hans reiknuð á ný við 65 og 70 ára aldur.]^1)
+    ^1)[5]L. 151/2002, 1. gr. Þrátt fyrir breytinguna skerðist ekki réttur til
+  greiðslu lífeyris úr sjóðnum sem stofnast hefur fyrir gildistöku [6]laga nr.
+                      151/2002, sbr. brbákv. þeirra laga.
  10. gr. Sjóðfélagi sem verður fyrir orkutapi, sem telja verður að nemi 40% eða
            meira, á rétt á örorkulífeyri úr sjóðnum, enda hafi hann:
          a. greitt iðgjöld til sjóðsins a.m.k. þrjú af undanfarandi fjórum
@@ -175,23 +193,24 @@ Skylt er öryrkja sem sækir um örorkulífeyri úr sjóðnum eða nýtur slíks
 til 60 ára aldurs. Aldrei skal þó slík viðbót við áunnin stig vera meiri en svo
  að heildarstigafjöldi hvert almanaksár verði hærri en almennt tíðkast í stétt
                    eða starfsgrein hlutaðeigandi sjóðfélaga.
- 11. gr. Nú andast sjóðfélagi sem naut elli- eða örorkulífeyris úr sjóðnum eða
- greitt hafði iðgjald til hans í a.m.k. 24 mánuði á undanfarandi 36 mánuðum og
-lætur eftir sig maka, og á hinn eftirlifandi maki þá rétt á lífeyri úr sjóðnum,
-    enda hafi hann verið orðinn 35 ára að aldri við fráfall sjóðfélagans og
- hjónabandið staðið í a.m.k. fimm ár og verið stofnað áður en sjóðfélaginn náði
-                                 60 ára aldri.
-  Láti sjóðfélagi eftir sig eitt barn eða fleiri innan 19 ára aldurs sem hann
- hefur átt með eftirlifandi maka sínum skal makalífeyrir veittur án tillits til
-hjúskapartíma og aldurs sjóðfélaga og eftirlifandi maka. Kjörbarn þeirra veitir
-sama rétt, enda hafi ættleiðingin átt sér stað fyrir 60 ára aldur sjóðfélagans,
-   áður en hann missti starfsorku sína og a.m.k. einu ári áður en hann lést.
-         Nú andast sjóðfélagi sem uppfyllir skilyrði 1. mgr. 10. gr. um
-iðgjaldagreiðslutíma, en maki hans fær ekki úrskurðaðan makalífeyri skv. 1. eða
-2. mgr. þessarar greinar, eða greiðsla skv. 2. mgr. stendur skemur en 24 mánuði,
-    og skal makalífeyrir þá engu að síður greiddur í 24 mánuði eftir fráfall
-sjóðfélagans. Ef eftirlifandi maki er a.m.k. 50% öryrki og yngri en 67 ára skal
-                makalífeyrir greiddur á meðan það ástand varir.
+11. gr. [Nú andast sjóðfélagi, sem naut elli- eða örorkulífeyris úr sjóðnum eða
+greitt hafði iðgjald til hans í a.m.k. 24 mánuði á undanfarandi 36 mánuðum fyrir
+andlátið og lætur eftir sig maka, og á þá hinn eftirlifandi maki rétt á lífeyri
+                                  úr sjóðnum.
+ Óskertur makalífeyrir skv. 7. mgr. er ætíð greiddur eftirlifandi maka í minnst
+       36 mánuði, enda hafi fjárfélagi ekki verið slitið fyrir andlátið.
+Eftirlifandi maki fær þó ávallt greiddan makalífeyri þar til yngsta barn sem var
+    á framfæri sjóðfélagans nær 19 ára aldri, enda sé það á framfæri makans.
+Sé maki a.m.k. 50% öryrki skal greiddur makalífeyrir meðan sú örorka varir, enda
+                     sé eftirlifandi maki yngri en 65 ára.
+  Ef maki sjóðfélaga er fæddur fyrir 1965 á hann rétt á ævilöngum makalífeyri.
+Makalífeyrir reiknast skv. 7. mgr., en lækkar um 2% fyrir hvert ár sem makinn er
+  fæddur eftir 1. janúar 1945, 2% að auki fyrir hvert ár sem makinn er fæddur
+ eftir 1. janúar 1950, 2% að auki fyrir hvert ár sem makinn er fæddur eftir 1.
+ janúar 1955 og 2% að auki fyrir hvert ár sem makinn er fæddur eftir 1. janúar
+ 1960. Skerðing innan fæðingarárs reiknast hlutfallslega út frá dagafjölda fram
+ að fæðingardegi miðað við dagafjölda ársins. Önnur ákvæði um makalífeyri gilda
+                   þó meðan þau eru hagstæðari fyrir makann.
  Maki samkvæmt þessari grein telst sá eða sú sem við andlátið var í hjúskap með
   sjóðfélaga, staðfestri samvist eða óvígðri sambúð, enda hafi fjárfélagi ekki
   verið slitið fyrir andlát sjóðfélagans. Með óvígðri sambúð er átt við sambúð
@@ -212,7 +231,10 @@ almanaksár en þau sem sjóðfélaginn hefur greitt iðgjöld. Hafi sjóðféla
    örorkulífeyrir til 60 ára aldurs í samræmi við stig þau sem lögð voru til
  grundvallar örorkulífeyri. Veiti dauðsfallið hinum eftirlifandi maka jafnframt
 rétt til lífeyris úr öðrum sjóði skal hann því aðeins fá lífeyri úr þessum sjóði
-        vegna ókomins tíma að hann hafi síðast greitt iðgjöld til hans.
+      vegna ókomins tíma að hann hafi síðast greitt iðgjöld til hans.]^1)
+    ^1)[7]L. 151/2002, 2. gr. Þrátt fyrir breytinguna skerðist ekki réttur til
+  greiðslu lífeyris úr sjóðnum sem stofnast hefur fyrir gildistöku [8]laga nr.
+                      151/2002, sbr. brbákv. þeirra laga.
 12. gr. Nú andast sjóðfélagi sem greitt hefur iðgjöld til sjóðsins eða notið úr
 honum örorkulífeyris a.m.k. 24 mánuði á undanfarandi 36 mánuðum, og eiga þá börn
  hans og kjörbörn er hann lætur eftir sig og yngri eru en 18 ára rétt á lífeyri
@@ -255,5 +277,10 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999045
-   2. file:///altext/stjtnr.html#1970078?g3
-   3. file://1997129.html
+   2. file:///altext/stjt/2002.151.html
+   3. file:///altext/stjtnr.html#1970078?g3
+   4. file://1997129.html
+   5. file:///altext/stjt/2002.151.html
+   6. file:///altext/stjt/2002.151.html
+   7. file:///altext/stjt/2002.151.html
+   8. file:///altext/stjt/2002.151.html

@@ -7,25 +7,31 @@ Lög um löggildingu nokkurra starfsheita sérfræðinga í tækni- og hönnunar
 
    --------------------------------------------------------------------------
 
-Tóku gildi 29. mars 1996. Breytt með [2]l. 4/2000 (tóku gildi 7. apríl 2000) og
-                    [3]l. 69/2002 (tóku gildi 17. maí 2002).
+ Tóku gildi 29. mars 1996. Breytt með [2]l. 4/2000 (tóku gildi 7. apríl 2000),
+ [3]l. 69/2002 (tóku gildi 17. maí 2002) og [4]l. 147/2002 (tóku gildi 30. des.
+                                     2002).
 
               1. gr. Lög þessi taka til eftirtalinna starfsheita:
                                  1. verkfræðinga,
                                  2. tæknifræðinga,
                            3. arkitekta (húsameistara),
                                4. byggingafræðinga,
-                     5. [húsgagna- og innanhússarkitekta],^1)
+   5. [húsgagna- og innanhússarkitekta (húsgagna- og innanhússhönnuða) eða hluta
+                            þessa starfsheitis],^1)
                                   6. iðnfræðinga,
-                 7. [landslagsarkitekta (landslagshönnuða) og]^1)
+                7. [landslagsarkitekta (landslagshönnuða) ^1)],^2)
                                8. skipulagsfræðinga,
-                               [9. raffræðinga].^2)
-                 ^1)[4]L. 4/2000, 1. gr. ^2)[5]L. 69/2002, 1. gr.
+                               [9. raffræðinga],^3)
+                            [10. tölvunarfræðinga.]^1)
+    ^1)[5]L. 147/2002, 1. gr. ^2)[6]L. 4/2000, 1. gr. ^3)[7]L. 69/2002, 1. gr.
 2. gr. Rétt til að nota starfsheiti þau sem lög þessi taka til eða orð sem fela
  í sér þau heiti hafa þeir menn einir sem fengið hafa til þess leyfi ráðherra,
 sbr. 3. gr., eða þeir sem fengið hafa staðfestingu ráðherra á leyfi til að bera
 samsvarandi starfsheiti sem veitt hefur verið í ríki sem er aðili að samningi um
-                      Evrópska efnahagssvæðið, sbr. 4. gr.
+     Evrópska efnahagssvæðið, sbr. 4. gr. [Þeir sem lokið hafa BS-prófi eða
+  meistaraprófi í tölvunarfræði frá viðurkenndum íslenskum háskóla þurfa ekki
+                           slíkt leyfi ráðherra.]^1)
+                             ^1)[8]L. 147/2002, 2. gr.
    3. gr. Engum má veita leyfi það er um ræðir í 2. gr. nema hann hafi lokið
                     fullnaðarprófi í viðkomandi starfsgrein.
 Fagfélög þeirra starfsgreina sem lög þessi taka til skulu setja sér reglur^1) um
@@ -34,7 +40,7 @@ hvaða nám teljist leiða til fullnaðarprófs í viðkomandi starfsgrein. Þæ
     Stjórnartíðindum. Rétt til að öðlast leyfi hafa þeir sem lokið hafa námi
     samkvæmt greindum reglum að mati ráðherra að fenginni umsögn viðkomandi
                                    fagfélags.
-       ^1)[6]Rg. 112/1997 (skipulagsfræði), augl. 845/1999 (verkfræðingar).
+       ^1)[9]Rg. 112/1997 (skipulagsfræði), augl. 845/1999 (verkfræðingar).
 4. gr. Ráðherra skal staðfesta leyfi til að bera starfsheiti sem lög þessi taka
  til samkvæmt umsókn ríkisborgara frá ríki innan Evrópska efnahagssvæðisins ef
   viðkomandi leggur fram vottorð frá ríki innan Evrópska efnahagssvæðisins sem
@@ -46,17 +52,18 @@ hvaða nám teljist leiða til fullnaðarprófs í viðkomandi starfsgrein. Þæ
 [Við framkvæmd 1. tölul. 1. mgr. skal þess gætt að synjun um leyfi sé rökstudd.
   Bera má málið undir dómstóla, svo og ef ákvörðun er eigi tekin innan þriggja
   mánaða frá því að umsækjandi leggur inn umsókn sína ásamt fylgiskjölum.]^1)
-                             ^1)[7]L. 69/2002, 2. gr.
+                             ^1)[10]L. 69/2002, 2. gr.
     5. gr. Ráðherra sker úr ágreiningi sem rísa kann um notkun starfsheita.
     6. gr. Ráðherra skal halda skrá um þá sem fengið hafa leyfi til að bera
                        starfsheiti samkvæmt lögum þessum.
-7. gr. Ráðherra skal með reglugerð setja nánari ákvæði um rétt manna til að bera
-                       starfsheiti samkvæmt lögum þessum.
+ 7. gr. Ráðherra skal með reglugerð^1) setja nánari ákvæði um rétt manna til að
+                    bera starfsheiti samkvæmt lögum þessum.
+                ^1)[11]Rg. 660/2002 (um starfsheitið raffræðingur).
                   8. gr. Brot gegn lögum þessum varða sektum.
    9. gr. EES-gerðir, sem vísað er til í lögum þessum, eru birtar í sérritinu
  EES-gerðir, sbr. auglýsingu í C-deild Stjórnartíðinda nr. 31/1993, nr. S 34 á
   bls. 18 og bls. 125140, [svo og í EES-viðbæti við Stjórnartíðindi EB].^1)
-                             ^1)[8]L. 69/2002, 3. gr.
+                             ^1)[12]L. 69/2002, 3. gr.
                      10. gr. Lög þessi öðlast þegar gildi.
 Ákvæði til bráðabirgða. Ákvæði laga þessara breyta ekki rétti þeim sem menn hafa
 öðlast til að nota starfsheiti þau sem lög þessi taka til fyrir gildistöku laga
@@ -68,8 +75,12 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996008
    2. file:///altext/stjt/2000.004.html
    3. file:///altext/stjt/2002.069.html
-   4. file:///altext/stjt/2000.004.html
-   5. file:///altext/stjt/2002.069.html
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-1997
+   4. file:///altext/stjt/2002.147.html
+   5. file:///altext/stjt/2002.147.html
+   6. file:///altext/stjt/2000.004.html
    7. file:///altext/stjt/2002.069.html
-   8. file:///altext/stjt/2002.069.html
+   8. file:///altext/stjt/2002.147.html
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-1997
+  10. file:///altext/stjt/2002.069.html
+  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/660-2002
+  12. file:///altext/stjt/2002.069.html

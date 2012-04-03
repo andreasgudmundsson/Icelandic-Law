@@ -20,7 +20,7 @@ Ráðherra er heimilt, að fenginni umsögn stjórnar Atvinnuleysistryggingasjó
  ákveða að aðrir hópar en launamenn og sjálfstætt starfandi einstaklingar geti
   notið bóta úr sjóðnum gegn greiðslu iðgjalda. Um bótarétt þessara hópa skal
                             kveða á í reglugerð.^2)
-    ^1)[2]Rg. 304/1994, sbr. [3]viðmiðunarreglur 628/1994. ^2)[4]Rg. 329/2001.
+                      ^1)[2]Rg. 740/1997. ^2)[3]Rg. 329/2001.
  2. gr. Rétt til bóta samkvæmt lögum þessum hafa þeir sem fullnægja eftirtöldum
                            skilyrðum, sbr. þó 5. gr.:
                  1. Eru orðnir 16 ára að aldri en yngri en 70 ára.
@@ -30,7 +30,7 @@ Ráðherra er heimilt, að fenginni umsögn stjórnar Atvinnuleysistryggingasjó
      4. Hafa á síðustu tólf mánuðum unnið samtals í a.m.k. 10 vikur miðað við
  fullt starf í tryggingagjaldsskyldri vinnu en hlutfallslega lengri tíma ef um
      hlutastarf hefur verið að ræða, sbr. þó 17. gr. Norðurlandasamnings um
-almannatryggingar, sbr. [5]lög nr. 46/1993. Til að finna vinnuframlag sjálfstætt
+almannatryggingar, sbr. [4]lög nr. 46/1993. Til að finna vinnuframlag sjálfstætt
 starfandi skal miðað við skil á tryggingagjaldi af reiknuðu endurgjaldi síðustu
        tólf mánuði. Til að finna vinnuframlag sjómanna skal telja fjölda
     lögskráningardaga. Mánaðarvinna sjómanna telst 21,67 lögskráningardagar.
@@ -41,7 +41,7 @@ starfandi skal miðað við skil á tryggingagjaldi af reiknuðu endurgjaldi sí
              6. Eru reiðubúnir að ráða sig til allra almennra starfa.
  Við ákvörðun bóta samkvæmt framangreindu teljast ekki með þeir dagar er maður
                 hefur verið í verkfalli eða verkbann tekur til.
-                             ^1)[6]L. 47/1998, 1. gr.
+                             ^1)[5]L. 47/1998, 1. gr.
      3. gr. [Sá sem uppfyllir skilyrði um bótarétt en hverfur af innlendum
    vinnumarkaði af ástæðum sem valda því að ekki ber að skila af launum hans
 tryggingagjaldi heldur í allt að tuttugu og fjóra mánuði, frá því að hann hvarf
@@ -51,7 +51,7 @@ af vinnumarkaði, þeim bótarétti sem hann hafði áunnið sér. Að tuttugu o
 vinnumarkaði vegna töku fæðingarorlofs. Ákvæði þetta gildir ekki um þá sem fara
    í atvinnuleit til annars EES-ríkis í allt að þrjá mánuði og fá á þeim tíma
              greiddar atvinnuleysisbætur samkvæmt lögum þessum.]^1)
-                             ^1)[7]L. 47/1998, 2. gr.
+                             ^1)[6]L. 47/1998, 2. gr.
   4. gr. [Ef sá sem hefur áunnið sér rétt til bóta verður óvinnufær af völdum
   sjúkdóms eða slyss og verður að hverfa frá vinnu heldur hann þeim bótarétti
  þegar hann verður vinnufær á ný, enda sanni hann að hann hafi verið óvinnufær
@@ -63,7 +63,7 @@ vinnumarkaði vegna töku fæðingarorlofs. Ákvæði þetta gildir ekki um þá
                 vinnufærni sína sé um skerta vinnufærni að ræða.
            Svæðisvinnumiðlun er heimilt að leita álits trúnaðarlæknis
               Atvinnuleysistryggingasjóðs á vinnufærni umsækjanda.
-                             ^1)[8]L. 47/1998, 3. gr.
+                             ^1)[7]L. 47/1998, 3. gr.
  5. gr. Þrátt fyrir ákvæði 1.4. gr. eiga eftirtaldir einstaklingar ekki rétt á
                               atvinnuleysisbótum:
              1. Þeir sem taka þátt í verkfalli eða verkbann tekur til.
@@ -116,7 +116,7 @@ Heimilt er að greiða bætur á móti hlutastarfi í allt að tuttugu og fjóra
  Kjósi umsækjandi að segja starfi sínu lausu, innan tuttugu og fjögurra mánaða
 tímabilsins, fremur en að missa hinn skerta bótarétt sinn, eiga ákvæði 4. tölul.
                        5. gr. laga þessara ekki við.]^1)
-                             ^1)[9]L. 47/1998, 4. gr.
+                             ^1)[8]L. 47/1998, 4. gr.
   7. gr. Hámarksbætur atvinnuleysistrygginga skulu nema [2.752 kr.]^1) á dag.
    Lágmarksbætur eru ^1/4 hluti sömu fjárhæðar. Fjárhæð hámarksbóta kemur til
  endurskoðunar við afgreiðslu fjárlaga ár hvert með tilliti til þróunar launa,
@@ -135,7 +135,7 @@ barns og skal þá fjárhæðin renna beint til stofnunarinnar á móti kröfum 
 umfram er frítekjumark tekjutryggingar einstaklings vegna almennra tekna eins og
     það er ákveðið á hverjum tíma. Sama gildir um elli- og örorkulífeyri úr
                   lífeyrissjóðum og tekjur af hlutastarfi.]^1)
-                             ^1)[10]L. 47/1998, 5. gr.
+                             ^1)[9]L. 47/1998, 5. gr.
   8. gr. Hámarksbætur greiðast þeim sem hafa verið í fullu starfi síðustu tólf
     mánuði. Sé því skilyrði ekki fullnægt lækkar bótafjárhæð í hlutfalli við
 starfstímabil og starfshlutfall á síðustu tólf mánuðum þar til lágmarksbótarétti
@@ -208,7 +208,7 @@ fyrir þá daga sem liðnir eru frá síðustu skráningu þar til hann skráir 
           skráning skv. 2. mgr. fara fram með öðrum hætti en vikulega.
  13. gr. Það veldur missi bótaréttar að neita starfi sem býðst fyrir milligöngu
 svæðisvinnumiðlunar eða á annan sannanlegan hátt, enda sé vinnan heimil að lögum
-og laun fyrir hana og starfskjör öll í samræmi við [11]1. gr. laga um starfskjör
+og laun fyrir hana og starfskjör öll í samræmi við [10]1. gr. laga um starfskjör
         launafólks og skyldutryggingu lífeyrisréttinda, nr. 55/1980.^1)
   Bótaréttur fellur ekki niður þótt sá sem notið hefur bóta í skemmri tíma en
  fjórar vikur hafni vinnu í starfsgrein sem hann hefur ekki áður stundað, enda
@@ -221,7 +221,7 @@ og laun fyrir hana og starfskjör öll í samræmi við [11]1. gr. laga um starf
       eftir atvikum rétt eða skylt að taka því hlutastarfi sem í boði er.
 Um missi bótaréttar samkvæmt þessari grein gilda að öðru leyti ákvæði 4. tölul.
                                      5. gr.
-                              ^1)Nú [12]l. 129/1997.
+                              ^1)Nú [11]l. 129/1997.
  14. gr. Þeim sem sæta biðtíma eftir bótum er skylt að hlíta reglum um eftirlit
    með því að bótaskilyrðum sé fullnægt og skylt að taka starfi sem býðst að
           viðlögðum missi bóta samkvæmt almennum reglum þessara laga.
@@ -252,7 +252,7 @@ skulu skipaðir á sama hátt og aðalmenn. Nefndarmenn skulu vera búsettir í 
           nauðsynlegt með tilliti til fjölda atvinnulausra í umdæminu.
      [Úthlutunarnefnd ákveður fyrirkomulag á afgreiðslu bóta í samráði við
                                 sjóðstjórn.]^1)
-                             ^1)[13]L. 47/1998, 6. gr.
+                             ^1)[12]L. 47/1998, 6. gr.
 17. gr. Félagsmálaráðherra skipar þriggja manna úrskurðarnefnd atvinnuleysisbóta
          til fjögurra ára í senn. Varamenn skulu skipaðir á sama hátt.
 Nefndarmenn skulu hafa víðtæka þekkingu á vinnumarkaðinum. Formaður og varamaður
@@ -299,16 +299,16 @@ Vinnumálasambandið skulu tilnefna einn stjórnarmann hver aðili og einn til v
                              vegna atvinnutilboða.
 Stjórnin skal setja reglur^1) um styrki samkvæmt þessari grein sem hljóta skulu
                         staðfestingu félagsmálaráðherra.
-                               ^1)[14]Rg. 238/1999.
+                               ^1)[13]Rg. 238/1999.
  23. gr. Árlega skal verja ákveðinni fjárhæð úr Atvinnuleysistryggingasjóði til
    að styrkja starfsmenntun í atvinnulífinu, sbr. lög þar að lútandi, og til
  sérstakra þróunarverkefna til að fjölga atvinnutækifærum fyrir konur samkvæmt
   reglum sem ráðherra setur. Fjárhæð þessara framlaga ákvarðast við afgreiðslu
                                fjárlaga ár hvert.
  [23. gr. A. Atvinnuleysistryggingasjóður skal greiða hlutdeild í kostnaði við
-       rekstur svæðisvinnumiðlana, sbr. [15]22. gr. laga nr. 13/1997, um
+       rekstur svæðisvinnumiðlana, sbr. [14]22. gr. laga nr. 13/1997, um
    vinnumarkaðsaðgerðir, eins og kveðið er á um í fjárlögum hverju sinni.]^1)
-                            ^1)[16]L. 130/1997, 5. gr.
+                            ^1)[15]L. 130/1997, 5. gr.
      24. gr. Reikningar Atvinnuleysistryggingasjóðs skulu endurskoðaðir af
             Ríkisendurskoðun og birtir ár hvert í Lögbirtingablaði.
 
@@ -337,7 +337,8 @@ eða leyna upplýsingum um hagi sína og skal hann þá til viðbótar missi bó
                    fjárhæðir sem þannig eru inntar af hendi.
    29. gr. Heimilt er að birta sem reglugerðir^1) reglur Evrópusambandsins um
         atvinnuleysisbætur, enda eigi ákvæði þeirra stoð í lögum þessum.
-    ^1)[17]Rg. 591/2000, [18]rg. 592/2000, [19]rg. 831/2000, [20]rg. 862/2001.
+    ^1)[16]Rg. 591/2000, [17]rg. 592/2000, [18]rg. 831/2000, [19]rg. 862/2001,
+                               [20]rg. 526/2002.
  30. gr. Félagsmálaráðherra skal að tillögu sjóðstjórnar setja nánari ákvæði um
                            framkvæmd þessara laga.^1)
     ^1)[21]Rg. 221/1973. [22]Rg. 524/1996, sbr. [23]545/1997. [24]Rg. 705/1995.
@@ -375,25 +376,25 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997012
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/304-1994
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/628-1994
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/329-2001
-   5. file://1993046.html
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/740-1997
+   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/329-2001
+   4. file://1993046.html
+   5. file:///altext/stjt/1998.047.html
    6. file:///altext/stjt/1998.047.html
    7. file:///altext/stjt/1998.047.html
    8. file:///altext/stjt/1998.047.html
    9. file:///altext/stjt/1998.047.html
-  10. file:///altext/stjt/1998.047.html
-  11. file://1980055.html#g1
-  12. file://1997129.html
-  13. file:///altext/stjt/1998.047.html
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-1999
-  15. file://1997013.html#g22
-  16. file:///altext/stjt/1997.130.html
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/591-2000
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/592-2000
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/831-2000
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2001
+  10. file://1980055.html#g1
+  11. file://1997129.html
+  12. file:///altext/stjt/1998.047.html
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-1999
+  14. file://1997013.html#g22
+  15. file:///altext/stjt/1997.130.html
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/591-2000
+  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/592-2000
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/831-2000
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2001
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/526-2002
   21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/221-1973
   22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/524-1996
   23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/545-1997

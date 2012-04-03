@@ -17,11 +17,13 @@ Lögin gilda um allar girðingar. Sérlög sem fjalla um girðingar halda gildi 
  gaddavírsgirðing og rafgirðing. Einnig teljast til girðinga girðingar úr ýmsu
   efni, svo sem úr tré, steinsteypu, stáli, áli, plasti, grjóti og torfi og að
       auki aðrar girðingar sem teljast gripheldar að mati búnaðarsambands.
- 3. gr. Landbúnaðarráðherra setur almenna reglugerð sem kveður á um ýmsa staðla
-  og orðskýringar. Í reglugerðinni skal kveðið á um það hvaða skilyrði girðing
-þarf að uppfylla til að teljast fullnægjandi varsla fyrir hverja búfjártegund. Í
-henni skal einnig mælt fyrir um hvernig háttað skuli undirbúningi, uppsetningu,
-      gerð og tæknilegum frágangi girðinga, hliða o.fl. sem tengist þeim.
+   3. gr. Landbúnaðarráðherra setur almenna reglugerð^1) sem kveður á um ýmsa
+  staðla og orðskýringar. Í reglugerðinni skal kveðið á um það hvaða skilyrði
+    girðing þarf að uppfylla til að teljast fullnægjandi varsla fyrir hverja
+      búfjártegund. Í henni skal einnig mælt fyrir um hvernig háttað skuli
+undirbúningi, uppsetningu, gerð og tæknilegum frágangi girðinga, hliða o.fl. sem
+                                 tengist þeim.
+                                ^1)[2]Rg. 748/2002.
 4. gr. Nú er jörð ekki í ábúð og/eða umráðamaður lands hefur ekki hug á að nota
 girðingu og skal þá láta girðinguna standa ef nágrannajörð eða jarðir geta haft
   not af henni eða hluta úr henni. Viðhaldsskyldan á þeim hluta færist yfir á
@@ -52,7 +54,7 @@ viðkomandi búnaðarsambands um að tilnefna fagaðila til að skera úr um ág
         Um girðingarkostnað milli afréttarlanda gilda sömu reglur og um
   landamerkjagirðingar sé að ræða. Viðhaldskostnaður allra girðinga greiðist í
 sömu hlutföllum og stofnkostnaður, nema þeirra girðinga er Vegagerðin setur upp,
-                         sbr. [2]vegalög, nr. 45/1994.
+                         sbr. [3]vegalög, nr. 45/1994.
      Nú er landamerkjagirðing til staðar sem kostuð hefur verið eftir öðrum
 hlutföllum en um getur í 5. gr. og skal þá viðhald hennar falla undir fyrirmæli
   5. gr. eftir að lög þessi hafa öðlast gildi, enda brjóti það ekki í bága við
@@ -107,7 +109,7 @@ Valdi vanræksla í þessu efni skaða varðar það sektum og skaðabótum til 
     Nú er hætt að nota samgirðingu og jafnframt að halda henni við og er þá
      girðingareigendum skylt að taka hana upp svo að hún valdi ekki tjóni.
 12. gr. Þegar lögð er girðing af ábúanda fer um skyldur jarðeiganda við burtför
-  ábúandans eftir sömu reglum og um hús á jörðinni sé að ræða, sbr. [3]16. gr.
+  ábúandans eftir sömu reglum og um hús á jörðinni sé að ræða, sbr. [4]16. gr.
                             ábúðarlaga, nr. 64/1976.
    Öllum umráðamönnum lands er skylt að hreinsa burtu af landi sínu ónothæfar
  girðingar og girðingarflækjur. Nú vanrækir umráðamaður lands þessi fyrirmæli í
@@ -124,5 +126,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001135
-   2. file://1994045.html
-   3. file://1976064.html#g16
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/748-2002
+   3. file://1994045.html
+   4. file://1976064.html#g16

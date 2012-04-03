@@ -304,7 +304,7 @@ References
    2. file://1999099.html
    3. file:///altext/stjt/2000.011.html
    4. file://2002037.html
-   5. file://2002037.html#g19
+   5. file://2002037.html
    6. file:///altext/stjt/2000.011.html
    7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/704-2001
    8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001

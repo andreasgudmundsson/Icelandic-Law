@@ -7,8 +7,7 @@
 
    --------------------------------------------------------------------------
 
-    Taka gildi 1. janúar 2003. Þá falla jafnframt úr gildi [2]lög 45/1965 um
-  eftirlit með útlendingum, með síðari breytingum, sbr. 59. gr. laga þessara.
+                           Tóku gildi 1. janúar 2003.
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -248,7 +247,7 @@ sem benda til að ákvæði 1. mgr. 45. gr. eigi við, og skal þá leggja máli
                  Útlendingastofnun til meðferðar og ákvörðunar.
  Dómsmálaráðherra getur sett reglur um undanþágu frá ákvæðum 1. mgr. að því er
 varðar þann sem hefur vegabréfsáritun eða dvalarleyfi gefið út af ríki sem tekur
-                         þátt í Schengen- samstarfinu.
+                          þátt í Schengen-samstarfinu.
                    19. gr. Frávísun eftir komu til landsins.
  Heimilt er að vísa útlendingi frá landi eftir reglum 1. mgr. 18. gr. þótt sjö
    sólarhringa fresturinn sé liðinn. Þó verður meðferð máls að hefjast innan
@@ -473,7 +472,7 @@ réttaraðstoð skv. 1. og 2. mgr. Krefja skal útlending um endurgreiðslu kost
                                (EES-samninginn).
                               35. gr. Dvalarleyfi.
  Útlendingur, sem fellur undir reglur EES-samningsins um frjálsa fólksflutninga
- (EES- útlendingur), má koma til landsins án sérstaks leyfis og dveljast hér á
+  (EES-útlendingur), má koma til landsins án sérstaks leyfis og dveljast hér á
  landi í allt að þrjá mánuði frá komu hans til landsins, eða allt að sex mánuði
     ef hann er í atvinnuleit. Dvöl í öðru norrænu landi skal ekki draga frá
                                  dvalartímanum.
@@ -553,7 +552,7 @@ endurkomubann er enn í gildi og honum hefur ekki verið veitt heimild til að k
  Útlendingastofnun skv. c- og d-lið. Nægilegt er að meðferð máls hefjist innan
                            sjö sólarhringa frestsins.
   Ef meðferð máls skv. 1. mgr. hefur ekki hafist innan sjö sólarhringa má vísa
-      EES- útlendingi, sem ekki hefur dvalarleyfi, frá landi með ákvörðun
+       EES-útlendingi, sem ekki hefur dvalarleyfi, frá landi með ákvörðun
             Útlendingastofnunar samkvæmt ákvæðum b-, c- og d-liðar.
                               43. gr. Brottvísun.
 Heimilt er að vísa EES-útlendingi úr landi ef það er nauðsynlegt með skírskotun
@@ -794,7 +793,8 @@ Tilraun eða hlutdeild í brotum á lögum þessum er refsiverð eftir því sem
 
                       IX. kafli. Reglugerð og gildistaka.
                                58. gr. Reglugerð.
-        Dómsmálaráðherra getur sett nánari reglur um framkvæmd laganna.
+       Dómsmálaráðherra getur sett nánari reglur^1) um framkvæmd laganna.
+                                ^1)[2]Rg. 53/2003.
                               59. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 2003.
 
@@ -802,4 +802,4 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002096
-   2. file://1965045.html
+   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/053-2003

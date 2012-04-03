@@ -46,8 +46,8 @@ af starfi sjálfstætt starfandi tannsmiða, sem öðlast hafa meistararéttindi
   embættislæknir eða hafa aðra sérfræðimenntun ásamt víðtækri reynslu á sviði
  stjórnunar.]^2) Ráðherra [ræður]^2) aðstoðarlandlækni og skal gera sömu kröfur
           um menntun hans og starfsreynslu og gert er til landlæknis.
- 3.4. Ráðherra setur reglugerð um starf og stöðu landlæknis og embættis hans að
-   höfðu samráði við samtök heilbrigðisstétta, læknadeild Háskóla Íslands og
+ 3.4. Ráðherra setur reglugerð^3) um starf og stöðu landlæknis og embættis hans
+  að höfðu samráði við samtök heilbrigðisstétta, læknadeild Háskóla Íslands og
 Læknafélag Íslands. Í reglugerðinni skal kveða á um faglegt eftirlit landlæknis
          með heilbrigðisstofnunum, lyfjanotkun, heilbrigðiseftirliti og
   sóttvarnarráðstöfunum og einnig um sérhæft starfslið til þess að sinna þeim
@@ -61,7 +61,7 @@ sérstakrar nefndar, sem í eiga sæti 3 menn, tilnefndir af Hæstarétti og rá
   starfsreglur að fengnum tillögum hennar. Kostnaður vegna starfa nefndarinnar
  greiðist úr ríkissjóði. Landlæknir og nefndin gera ráðherra árlega grein fyrir
                 þeim kvörtunum sem borist hafa og afdrifum mála.
-               ^1)[18]L. 109/2000, 5. gr. ^2)[19]L. 83/1997, 58. gr.
+    ^1)[18]L. 109/2000, 5. gr. ^2)[19]L. 83/1997, 58. gr. ^3)[20]Rg. 411/1973.
                                      4. gr.
 4.1. Ráðuneytið annast framkvæmd mála fyrir hönd ráðherra og hefur eftirlit með
     því, að lögum og reglugerðum um framkvæmd heilbrigðismála sé framfylgt.
@@ -75,15 +75,15 @@ heilbrigðisþings skulu vera ráðgjafar- og umsagnastörf á sviði heilbrigð
 
                 II. kafli. Um læknishéruð og heilbrigðismálaráð.
                                    6. gr. ^1)
-                             ^1)[20]L. 93/2002, 1. gr.
-                                   7. gr. ^1)
                              ^1)[21]L. 93/2002, 1. gr.
-                                   8. gr. ^1)
+                                   7. gr. ^1)
                              ^1)[22]L. 93/2002, 1. gr.
-                                   9. gr. ^1)
+                                   8. gr. ^1)
                              ^1)[23]L. 93/2002, 1. gr.
+                                   9. gr. ^1)
+                             ^1)[24]L. 93/2002, 1. gr.
                                   10. gr. ^1)
-                             ^1)[24]L. 75/1990, 7. gr.
+                             ^1)[25]L. 75/1990, 7. gr.
 
                           III. kafli. Um heilsugæslu.
                                     11. gr.
@@ -102,7 +102,7 @@ skal byggja stöðina í starfstengslum við sjúkrahúsið, þannig að þjónu
     ekki er sjúkrahús á staðnum fyrir, skal kanna þörf [svæðisins]^2) fyrir
     sjúkrahús, sbr. 33. gr. og hvort þörf sé fullnægt, einkum hvað viðvíkur
   hjúkrunar- og endurhæfingarheimilum, og haga framkvæmdum í samræmi við það.
-               ^1)[25]L. 140/1996, 15. gr. ^2)[26]L. 93/2002, 2. gr.
+               ^1)[26]L. 140/1996, 15. gr. ^2)[27]L. 93/2002, 2. gr.
                                     13. gr.
               13.1. Heilsugæslustöðvar skulu vera með þrennu móti:
        Heilsugæslustöð 2 (H2) þar sem starfa tveir læknar hið minnsta ásamt
@@ -122,19 +122,19 @@ skal byggja stöðina í starfstengslum við sjúkrahúsið, þannig að þjónu
   lyfjabúð er ekki á staðnum. Ráðherra getur ákveðið að lyfjabúð skuli vera í
                                 heilsugæslustöð.
                                   14. gr. ^1)
-                             ^1)[27]L. 93/2002, 3. gr.
+                             ^1)[28]L. 93/2002, 3. gr.
                                     15. gr.
 15.1. [Kveðið skal á um skiptingu landsins í heilsugæsluumdæmi í reglugerð. Þar
    skal einnig kveðið á um fjölda og flokkun heilsugæslustöðva og starfssvæði
   þeirra, að höfðu samráði við hlutaðeigandi sveitarfélög og Samband íslenskra
                                sveitarfélaga.]^1)
-                             ^1)[28]L. 93/2002, 4. gr.
+                             ^1)[29]L. 93/2002, 4. gr.
                                     16. gr.
 16.1. Þrátt fyrir skiptingu landsins milli heilsugæslustöðva, [sbr. 15. gr.],^1)
  skulu íbúar einstakra sveitarfélaga og byggðarlaga jafnan eiga rétt á að leita
  læknishjálpar til þeirrar heilsugæslustöðvar eða læknismóttöku, sem þeir eiga
                      auðveldast með að ná til hverju sinni.
-                             ^1)[29]L. 93/2002, 5. gr.
+                             ^1)[30]L. 93/2002, 5. gr.
                                     17. gr.
 17.1. Ráða skal sjúkraþjálfara til starfa við heilsugæslustöðvar H2. Í Reykjavík
         skal vera a.m.k. einn sjúkraþjálfari í hverju heilsugæsluumdæmi.
@@ -178,7 +178,7 @@ skal byggja stöðina í starfstengslum við sjúkrahúsið, þannig að þjónu
                    5.12. Hópskoðanir og skipulögð sjúkdómaleit.
             5.13. Félagsráðgjöf, þ.m.t. fjölskyldu- og foreldraráðgjöf.
                             5.14. Umhverfisheilsuvernd.
-               5.15. Atvinnusjúkdómar, sbr. og [30]lög nr. 46/1980.
+               5.15. Atvinnusjúkdómar, sbr. og [31]lög nr. 46/1980.
                                 5.16. Slysavarnir.
       Sé aðsetur heilbrigðisfulltrúa ákveðið þar sem heilsugæslustöð er, skal
                   heilbrigðiseftirlit starfrækt frá stöðinni.
@@ -199,7 +199,8 @@ veitta þjónustu á heilsugæslustöð samkvæmt gjaldskrá sem ráðherra setu
       vitjanagjaldi skal óhjákvæmilegur ferðakostnaður læknis innifalinn.
     20.4. Heimilt er að setja reglugerð^1) um hámark greiðslna sjúkratryggðs
                                einstaklings.]^2)
-        ^1)[31]Rg. 218/2002, sbr. [32]246/2002. ^2)[33]L. 74/2002, 33. gr.
+   ^1)[32]Rg. 218/2002, sbr. [33]246/2002, [34]562/2002 og [35]2/2003. ^2)[36]L.
+                                74/2002, 33. gr.
                                     21. gr.
     21.1. Ráðherra skipar stjórnir heilsugæslustöðva, einn eftir tilnefningu
  starfsliðs stöðvarinnar, þrjá er skulu kosnir af hlutaðeigandi sveitarstjórnum
@@ -221,13 +222,13 @@ stjórn, kosningu fulltrúa sveitarfélaga og kostnaðarskiptingu. Skal samningu
  starfi til fimm ára í senn að fengnum tillögum stjórna stöðvanna og hafa þeir
  sömu skyldur og framkvæmdastjórar sjúkrahúsa skv. 29. gr., sbr. og 8. mgr. 30.
                  gr. Fer um mat á hæfni þeirra skv. 30. gr.]^4)
-    ^1)[34]L. 24/1998, 1. gr. ^2)[35]L. 93/2002, 6. gr. ^3)[36]L. 140/1996, 18.
-                         gr. ^4)[37]L. 83/1997, 60. gr.
+    ^1)[37]L. 24/1998, 1. gr. ^2)[38]L. 93/2002, 6. gr. ^3)[39]L. 140/1996, 18.
+                         gr. ^4)[40]L. 83/1997, 60. gr.
                                     22. gr.
   22.1. [Þar sem ekki er skipaður framkvæmdastjóri í fullt starf ráða stjórnir
       heilsugæslustöðva starfslið stöðvanna og fer um laun þeirra samkvæmt
                   kjarasamningum við opinbera starfsmenn.]^1)
-                            ^1)[38]L. 83/1997, 61. gr.
+                            ^1)[41]L. 83/1997, 61. gr.
 
                             IV. kafli. Um sjúkrahús.
                                     23. gr.
@@ -266,9 +267,9 @@ starfssvið og verkaskiptingu, að höfðu samráði við hlutaðeigandi sveitar
                                  [24.3. ^5)]^6)
 [24.4.]^6) Ráðherra skal með reglugerð kveða á um samvinnu sjúkrahúsa í landinu
                 að höfðu samráði við Samband ísl. sveitarfélaga.
-      ^1)[39]L. 148/2001, 9. gr. ^2)[40]Rg. 34/1993, sbr. [41]504/1993. Augl.
-  206/1994. ^3)[42]Rg. 875/1999, [43]rg. 127/2000. ^4)[44]L. 140/1996, 19. gr.
-              ^5)[45]L. 93/2002, 7. gr. ^6)[46]L. 128/1990, 1. gr.
+      ^1)[42]L. 148/2001, 9. gr. ^2)[43]Rg. 34/1993, sbr. [44]504/1993. Augl.
+  206/1994. ^3)[45]Rg. 875/1999, [46]rg. 127/2000. ^4)[47]L. 140/1996, 19. gr.
+              ^5)[48]L. 93/2002, 7. gr. ^6)[49]L. 128/1990, 1. gr.
                                     25. gr.
  25.1. Þegar bygging eða starfræksla nýs sjúkrahúss er ákveðin, skal starfssvið
                    þess ákveðið í samræmi við ákvæði 24. gr.
@@ -289,7 +290,7 @@ mörgum sjúklingum stofnun þessari er ætlað að sinna eða hve mörgum vistm
 27.2. Ráðherra veitir því aðeins leyfi, að ætla megi að hún geti leyst verkefni
     sitt á viðunandi hátt. Ætíð skal leita álits landlæknis ^1) á nauðsyn og
                               gagnsemi stofnunar.
-                             ^1)[47]L. 93/2002, 8. gr.
+                             ^1)[50]L. 93/2002, 8. gr.
                                     28. gr.
 28.1. Heilbrigðisyfirvöld skulu eiga greiðan aðgang til eftirlits að stofnunum,
                           sem um ræðir í þessum lögum.
@@ -318,7 +319,7 @@ Framkvæmdastjóri situr fundi stjórnar með málfrelsi og tillögurétt, undir
 29.6. Ráðherra setur ^1) framkvæmdastjórum erindisbréf og setur nánari ákvæði um
         starfslið sjúkrahúsa í reglugerð að fengnum umsögnum viðkomandi
                                sjúkrahússtjórna.
-                            ^1)[48]L. 83/1997, 62. gr.
+                            ^1)[51]L. 83/1997, 62. gr.
                                     30. gr.
   30.1. Sjúkrahús þau, sem ríkið á eða starfrækir (ríkisspítalar), skulu vera
 undir yfirstjórn heilbrigðis- og tryggingamálaráðuneytis, en stjórn þeirra allra
@@ -368,7 +369,7 @@ og ráðuneyti til staðfestingar. [Ráðherra staðfestir stjórnskipulag ríki
 30.8. [Forstjóri ríkisspítala skv. 1. mgr. og framkvæmdastjórar sjúkrahúsa skv.
 3. mgr. ráða annað starfslið sjúkrahúsa ríkisins. Um ákvörðun launa fer samkvæmt
              lögum um réttindi og skyldur starfsmanna ríkisins.]^1)
-      ^1)[49]L. 83/1997, 63. gr. ^2)Erbr. 527/1994. ^3)[50]L. 24/1998, 2. gr.
+      ^1)[52]L. 83/1997, 63. gr. ^2)Erbr. 527/1994. ^3)[53]L. 24/1998, 2. gr.
                                     31. gr.
    31.1. Ráðherra skipar 3 lækna í nefnd, er metur hæfni umsækjenda um stöðu
    landlæknis, stöður yfirlækna, sérfræðinga ^1) og lækna heilsugæslustöðva.
@@ -391,13 +392,13 @@ Nefndin skal þannig skipuð: 1 tilnefndur af Læknafélagi Íslands, 1 tilnefnd
            kjósi yfirlækna deilda úr sínum hópi til takmarkaðs tíma.
 31.4. Hjúkrunarforstjórar sjúkrahúsa ríkisins skulu [ráðnir af forstjóra skv. 1.
  mgr. 30. gr. eða framkvæmdastjóra skv. 5. mgr. 29. gr. eftir því sem við á]^2)
-   að fenginni umsögn hjúkrunarráðs samkvæmt [51]hjúkrunarlögum nr. 8/1974 og
+   að fenginni umsögn hjúkrunarráðs samkvæmt [54]hjúkrunarlögum nr. 8/1974 og
    viðkomandi sjúkrahússtjórnar. Hjúkrunarforstjórar annarra sjúkrahúsa skulu
      ráðnir af viðkomandi sjúkrahússtjórn að fenginni umsögn hjúkrunarráðs.
   Hjúkrunardeildarstjórar skulu ráðnir að fenginni umsögn hjúkrunarforstjóra.
  31.5. [Ráða]^2) má hvern þann lækni og hjúkrunarforstjóra til starfa samkvæmt
                   þessari grein, sem hæfur hefur verið talinn.
-               ^1)[52]L. 93/2002, 9. gr. ^2)[53]L. 83/1997, 64. gr.
+               ^1)[55]L. 93/2002, 9. gr. ^2)[56]L. 83/1997, 64. gr.
                                     32. gr.
  32.1. Við öll sjúkrahús, þar sem 3 læknar eða fleiri starfa og a.m.k. 2 eru í
      fullu starfi, skal starfa læknaráð. Læknaráð skal vera stjórnendum til
@@ -409,7 +410,7 @@ Nefndin skal þannig skipuð: 1 tilnefndur af Læknafélagi Íslands, 1 tilnefnd
                            starfshópar eiga fulltrúa.
   32.4. Með reglugerð^1) skal kveða á um reglur fulltrúakjörs og starfsreglur
                                 starfsmannaráða.
-                       ^1)[54]Rg. 413/1973, sbr. [55]2/2000.
+                       ^1)[57]Rg. 413/1973, sbr. [58]2/2000.
                                     33. gr.
    33.1. Ráðherra lætur gera áætlun um framkvæmdir við heilbrigðisstofnanir í
   samræmi við ^1) 24. gr. Áætlunin skal gerð í samvinnu við ^1) landlækni og í
@@ -417,7 +418,7 @@ samráði við fjárlaga- og hagsýslustofnun. Áætlunin skal gerð til fjögur
  endurskoðast annað hvert ár og staðfest af Alþingi. Þau umdæmi eða svæði, sem
    verst eru sett að því er varðar heilsugæslu og læknisþjónustu, skulu hafa
                      forgang um byggingu heilsugæslustöðva.
-                            ^1)[56]L. 93/2002, 10. gr.
+                            ^1)[59]L. 93/2002, 10. gr.
                                     34. gr.
    34.1. Ráðuneytið sér um framkvæmd áætlunar þeirrar, er um getur í 33. gr.
 34.2. Sveitarfélögum er skylt að taka þátt í framkvæmdum í samræmi við ákvörðun
@@ -440,7 +441,7 @@ fasteigna og tækja greiðist sem rekstrarkostnaður. Heilbrigðisráðherra set
  framkvæmd og skipulagningu sjúkraflutninga í hverju umdæmi, þar sem m.a. skal
 kveðið á um lágmarksmenntun sjúkraflutningsmanna, réttindi þeirra og skyldur og
                           búnað sjúkraflutningstækja.
-                            ^1)[57]L. 93/2002, 11. gr.
+                            ^1)[60]L. 93/2002, 11. gr.
                                     35. gr.
  35.1. Þau sjúkrahús í eigu sveitarfélaga eða einkaaðila, sem starfandi eru við
   gildistöku þessara laga, skulu í hvívetna fylgja þeim starfsreglum, er þeim
@@ -454,7 +455,7 @@ verða settar. Að öðru leyti verður rekstur þeirra óbreyttur, verði ekki 
  verið hlutfallsgjald og má tiltaka hámark þess í reglugerð. Einstaklingur sem
   ekki er sjúkratryggður hér á landi skal greiða gjald samkvæmt gjaldskrá sem
                               ráðherra setur.]^1)
-                            ^1)[58]L. 74/2002, 34. gr.
+                            ^1)[61]L. 74/2002, 34. gr.
 
                              V. kafli. Ýmis ákvæði.
                                     36. gr.
@@ -519,7 +520,7 @@ fyrir greiningu á máltruflun, komu vegna endurmats hjá talmeinafræðingi og 
                       talmeinastöð innheimtir gjöld þessi.
   37.a.10. Ráðherra er heimilt að setja reglugerð um nánari framkvæmd þessarar
                                   greinar.]^1)
-                            ^1)[59]L. 143/2001, 1. gr.
+                            ^1)[62]L. 143/2001, 1. gr.
                                   [37. gr. b.
 37.b.1. Ráðherra er heimilt að veita rekstrarleyfi til að annast þá þjónustu eða
  hluta þeirrar þjónustu sem greinir í 2. mgr. 37. gr. a. Beiðni til ráðherra um
@@ -534,7 +535,7 @@ fyrir greiningu á máltruflun, komu vegna endurmats hjá talmeinafræðingi og 
                               rekstrarleyfishafa.
   37.b.4. Ráðherra er heimilt að setja reglugerð um nánari framkvæmd þessarar
                                   greinar.]^1)
-                            ^1)[60]L. 143/2001, 1. gr.
+                            ^1)[63]L. 143/2001, 1. gr.
                                     38. gr.
   38.1. Ráðuneytið og landlæknir skulu hafa forgöngu um samvinnu þeirra aðila
                  innanlands, sem starfa að heilbrigðisþjónustu.
@@ -553,7 +554,7 @@ fyrir greiningu á máltruflun, komu vegna endurmats hjá talmeinafræðingi og 
  læknisþjónustu í strjálbýli að loknu námi. Nánari ákvæði um styrki þessa skal
                                setja í reglugerð.
                                   41. gr. ^1)
-                            ^1)[61]L. 93/2002, 12. gr.
+                            ^1)[64]L. 93/2002, 12. gr.
                                     42. gr.
         42.1. Ráðherra er heimilt að tengja við ákveðnar sérfræðings- og
 aðstoðarlæknisstöður við ríkisspítala kvöð um störf við heilsugæslustöðvar, allt
@@ -579,14 +580,14 @@ skulu gerðir í samræmi við skilgreind markmið, sbr. 3. mgr., og með tillit
    42.5. Ráðherra gerir verksamninga og samninga um rekstrarverkefni samkvæmt
 ákvæðum laga um fjárreiður ríkisins. Ríkisstofnunum í A-hluta er heimilt að gera
      samninga um afmörkuð rekstrarverkefni samkvæmt ákvæðum sömu laga.]^2)
-               ^1)[62]L. 1/1992, 25. gr. ^2)[63]L. 154/2001, 1. gr.
+               ^1)[65]L. 1/1992, 25. gr. ^2)[66]L. 154/2001, 1. gr.
                                     43. gr.
  43.1. Kostnaður við að gera byggingar heilbrigðisstofnana aðgengilegar fötluðu
   fólki greiðist af ríki og sveitarfélögum í sömu hlutföllum og stofnkostnaður
                              samkvæmt lögum þessum.
                           Ákvæði til bráðabirgða. ^1)
-   ^1)Ákvæðinu var breytt með [64]l. 86/1991, 1. gr., [65]l. 144/1995, 47. gr.,
-                          og [66]l. 140/1996, 20. gr.
+   ^1)Ákvæðinu var breytt með [67]l. 86/1991, 1. gr., [68]l. 144/1995, 47. gr.,
+                          og [69]l. 140/1996, 20. gr.
 
 References
 
@@ -610,50 +611,53 @@ References
   17. file:///altext/stjt/2002.093.html
   18. file://2000109.html#g5
   19. file:///altext/stjt/1997.083.html
-  20. file:///altext/stjt/2002.093.html
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/411-1973
   21. file:///altext/stjt/2002.093.html
   22. file:///altext/stjt/2002.093.html
   23. file:///altext/stjt/2002.093.html
-  24. file:///altext/stjt/1990.075.html
-  25. file:///altext/stjt/1996.140.html
-  26. file:///altext/stjt/2002.093.html
+  24. file:///altext/stjt/2002.093.html
+  25. file:///altext/stjt/1990.075.html
+  26. file:///altext/stjt/1996.140.html
   27. file:///altext/stjt/2002.093.html
   28. file:///altext/stjt/2002.093.html
   29. file:///altext/stjt/2002.093.html
-  30. file://1980046.html
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/218-2002
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/246-2002
-  33. file:///altext/stjt/2002.074.html
-  34. file:///altext/stjt/1998.024.html
-  35. file:///altext/stjt/2002.093.html
-  36. file:///altext/stjt/1996.140.html
-  37. file:///altext/stjt/1997.083.html
-  38. file:///altext/stjt/1997.083.html
-  39. file:///altext/stjt/2001.148.html
-  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/034-1993
-  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/504-1993
-  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/875-1999
-  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-2000
-  44. file:///altext/stjt/1996.140.html
-  45. file:///altext/stjt/2002.093.html
-  46. file:///altext/stjt/1990.128.html
-  47. file:///altext/stjt/2002.093.html
-  48. file:///altext/stjt/1997.083.html
-  49. file:///altext/stjt/1997.083.html
-  50. file:///altext/stjt/1998.024.html
-  51. file://1974008.html
-  52. file:///altext/stjt/2002.093.html
-  53. file:///altext/stjt/1997.083.html
-  54. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/413-1973
-  55. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/002-2000
-  56. file:///altext/stjt/2002.093.html
-  57. file:///altext/stjt/2002.093.html
-  58. file:///altext/stjt/2002.074.html
-  59. file:///altext/stjt/2001.143.html
-  60. file:///altext/stjt/2001.143.html
-  61. file:///altext/stjt/2002.093.html
-  62. file:///altext/stjt/1992.001.html
-  63. file:///altext/stjt/2001.154.html
-  64. file:///altext/stjt/1991.086.html
-  65. file:///altext/stjt/1995.144.html
-  66. file:///altext/stjt/1996.140.html
+  30. file:///altext/stjt/2002.093.html
+  31. file://1980046.html
+  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/218-2002
+  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/246-2002
+  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2002
+  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/002-2003
+  36. file:///altext/stjt/2002.074.html
+  37. file:///altext/stjt/1998.024.html
+  38. file:///altext/stjt/2002.093.html
+  39. file:///altext/stjt/1996.140.html
+  40. file:///altext/stjt/1997.083.html
+  41. file:///altext/stjt/1997.083.html
+  42. file:///altext/stjt/2001.148.html
+  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/034-1993
+  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/504-1993
+  45. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/875-1999
+  46. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/127-2000
+  47. file:///altext/stjt/1996.140.html
+  48. file:///altext/stjt/2002.093.html
+  49. file:///altext/stjt/1990.128.html
+  50. file:///altext/stjt/2002.093.html
+  51. file:///altext/stjt/1997.083.html
+  52. file:///altext/stjt/1997.083.html
+  53. file:///altext/stjt/1998.024.html
+  54. file://1974008.html
+  55. file:///altext/stjt/2002.093.html
+  56. file:///altext/stjt/1997.083.html
+  57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/413-1973
+  58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/002-2000
+  59. file:///altext/stjt/2002.093.html
+  60. file:///altext/stjt/2002.093.html
+  61. file:///altext/stjt/2002.074.html
+  62. file:///altext/stjt/2001.143.html
+  63. file:///altext/stjt/2001.143.html
+  64. file:///altext/stjt/2002.093.html
+  65. file:///altext/stjt/1992.001.html
+  66. file:///altext/stjt/2001.154.html
+  67. file:///altext/stjt/1991.086.html
+  68. file:///altext/stjt/1995.144.html
+  69. file:///altext/stjt/1996.140.html

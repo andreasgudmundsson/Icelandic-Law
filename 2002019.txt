@@ -7,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-                           Tóku gildi 3. apríl 2002.
+ Tóku gildi 3. apríl 2002. Breytt með [2]l. 136/2002 (tóku gildi 1. jan. 2003).
 
                     I. kafli. Gildissvið laganna og markmið.
                                1. gr. Gildissvið.
@@ -113,13 +113,13 @@ Póst- og fjarskiptastofnun skal tryggja að staðið verði við skyldur ríkis
 
                         V. kafli. Einkaréttur ríkisins.
                        7. gr. Einkaréttur á póstþjónustu.
- Íslenska ríkið hefur einkarétt á póstþjónustu vegna eftirfarandi póstsendinga:
-    1. Bréfa án tillits til innihalds allt að 250 g að þyngd svo framarlega sem
-burðargjaldið fyrir bréfið er minna en fimm sinnum lægsta burðargjald sem gildir
-  fyrir venjuleg bréf innan lands. Hið sama gildir um dreifingu innan lands á
-                   bréfum frá útlöndum innan sömu takmarkana.
-   2. Ábyrgðarbréfa sem notuð eru til að koma til viðtakenda birtingu á stefnum
-                   sem og opinberum tilkynningum stjórnvalda.
+    [Íslenska ríkið hefur frá 1. janúar 2003 til 1. janúar 2006 einkarétt á
+póstþjónustu vegna póstsendinga bréfa allt að 100 g að þyngd svo framarlega sem
+  burðargjaldið fyrir bréfið er minna en þrisvar sinnum lægsta burðargjald sem
+gildir fyrir venjuleg bréf innan lands. Hið sama gildir um dreifingu innan lands
+                á bréfum frá útlöndum innan sömu takmarkana.]^1)
+   ^1)[3]L. 136/2002, 1. gr. Frá 1. janúar 2006 skulu þyngdarmörk skv. greininni
+breytast í 50 g og verðmörk í 2,5 sinnum lægsta burðargjald, sbr. [4]7. gr. s.l.
                             8. gr. Útgáfa frímerkja.
    Íslenska ríkið hefur einkarétt á útgáfu frímerkja. Rekstrarleyfishafi, sem
     falinn er einkaréttur ríkisins á þessu sviði, skal gefa út frímerki með
@@ -248,12 +248,21 @@ Rekstrarleyfishafar skulu í skilmálum sínum setja ákvæði um eftirlit með 
  að rekstrarleyfishafar geri grein fyrir kostnaðargrundvelli gjaldskrár þeirra.
 Gjöld fyrir alþjónustu skulu vera almenningi viðráðanleg og tryggja aðgang hans
                                 að þjónustunni.
+[Rekstrarleyfishafa er heimilt að setja sérstaka gjaldskrá fyrir þá sem afhenda
+   mikið magn póstsendinga í einu eða fyrirtæki sem safna saman póstsendingum
+ mismunandi viðskiptavina og afhenda rekstrarleyfishafa. Slík sérgjaldskrá skal
+     taka mið af kostnaði sem ekki hefur þurft að leggja út í við venjulega
+                               póstþjónustu.]^1)
  Rekstrarleyfishafi, sem falinn er einkaréttur ríkisins, skal gefa út sérstaka
-  gjaldskrá fyrir þjónustu sem lýtur einkarétti. Gjaldskrána skal leggja fyrir
-  Póst- og fjarskiptastofnun til samþykkis eigi síðar en 15 virkum dögum fyrir
-                                  gildistöku.
+ gjaldskrá fyrir þjónustu sem lýtur einkarétti. [Óheimilt er að nota tekjur af
+ þjónustu í einkarétti til að greiða niður þjónustugjöld í alþjónustu sem ekki
+  fellur undir einkarétt nema ef sýnt hefur verið fram á að slíkt sé beinlínis
+      nauðsynlegt til að verða við sérstökum alþjónustukvöðum sem hvíla á
+rekstrarleyfishafa.]^1) Gjaldskrána skal leggja fyrir Póst- og fjarskiptastofnun
+         til samþykkis eigi síðar en 15 virkum dögum fyrir gildistöku.
  Póstsendingar sem ekki bera gjald samkvæmt alþjóðasamningum skulu einnig vera
                            gjaldfrjálsar innan lands.
+                             ^1)[5]L. 136/2002, 2. gr.
                   17. gr. Gjöld fyrir alþjónustu milli landa.
  Við gerð samninga um endastöðvagjöld fyrir póstsendingar milli landa sem falla
    undir alþjónustu skulu rekstrarleyfishafar hafa til viðmiðunar eftirtaldar
@@ -372,7 +381,7 @@ um fjárframlög úr jöfnunarsjóði og afgreiðslu þeirra í reglugerð um al
  fjárþörf vegna alþjónustu endurskoðuð árlega af Póst- og fjarskiptastofnun og
 niðurstaða þeirrar endurskoðunar ásamt tillögu um breytt gjaldhlutfall, ef þörf
                       þykir, lögð fyrir samgönguráðherra.
- Um álagningu og innheimtu jöfnunargjalds fer samkvæmt ákvæðum [2]VIII.[3]XIV.
+ Um álagningu og innheimtu jöfnunargjalds fer samkvæmt ákvæðum [6]VIII.[7]XIV.
   kafla laga nr. 75/1981, um tekjuskatt og eignarskatt, með síðari breytingum,
    eftir því sem við á og skulu innheimtuaðilar standa jöfnunarsjóði Póst- og
            fjarskiptastofnunar skil á innheimtum gjöldum mánaðarlega.
@@ -495,62 +504,79 @@ gjaldskrá hans. Póst- og fjarskiptastofnun eða löggiltum endurskoðanda í u
  gæði alþjónustu, sbr. 22. gr. Póst- og fjarskiptastofnun skal vera heimilt að
                     birta slíkar upplýsingar í úttekt sinni.
 
-                            XIV. kafli. Skaðabætur.
-                         37. gr. Bætur vegna seinkana.
+                XIV. kafli. [Meðferð kvartana og skaðabætur.]^1)
+                             ^1)[8]L. 136/2002, 5. gr.
+                           [37. gr. Meðferð kvartana.
+    Rekstrarleyfishafar skulu semja reglur um meðferð kvartana frá notendum.
+Póst- og fjarskiptastofnun skal sjá til þess að reglur skv. 1. mgr. gefi kost á
+  skjótri og sanngjarnri lausn deilumála með endurgreiðslum og/eða skaðabótum
+                         þegar þær eiga rétt á sér.]^1)
+                             ^1)[9]L. 136/2002, 3. gr.
+                       [38. gr.]^1) Bætur vegna seinkana.
   Póstrekendum er ekki skylt að greiða skaðabætur þó að póstsendingum seinki.
-                          38. gr. Almennar sendingar.
+                            ^1)[10]L. 136/2002, 3. gr.
+                        [39. gr.]^1) Almennar sendingar.
   Póstrekendum er ekki skylt að greiða skaðabætur fyrir almennar sendingar sem
           glatast, hvort sem þær glatast að öllu eða einhverju leyti.
-                     39. gr. Ábyrgðarsendingar og bögglar.
+                            ^1)[11]L. 136/2002, 3. gr.
+                   [40. gr.]^1) Ábyrgðarsendingar og bögglar.
   Sendandi ábyrgðarsendinga og böggla skal eiga rétt á skaðabótum fyrir slíkar
   sendingar sem glatast eða eyðileggjast að einhverju eða öllu leyti í vörslu
     póstrekenda. Skaðabætur skulu miðast við verðmæti sendinganna. Póst- og
  fjarskiptastofnun skal setja reglur um hámark ábyrgðar sem póstrekendum ber að
                           taka á sig í þessu sambandi.
-                          40. gr. Tryggðar sendingar.
+                            ^1)[12]L. 136/2002, 3. gr.
+                        [41. gr.]^1) Tryggðar sendingar.
   Sendandi tryggðrar sendingar sem glatast eða eyðileggst að einhverju leyti í
 vörslu póstrekenda skal eiga rétt á skaðabótum jafnháum þeirri tryggingarupphæð
             sem tilgreind hefur verið við afhendingu sendingarinnar.
-                           41. gr. Fjármunasendingar.
+                            ^1)[13]L. 136/2002, 3. gr.
+                        [42. gr.]^1) Fjármunasendingar.
        Póstrekandi ber fulla ábyrgð á því fé sem hann hefur tekið við sem
 fjármunasendingu og skal standa sendanda full skil á verðmæti slíkrar sendingar
                                   glatist hún.
-                              42. gr. Óbeint tjón.
-   Skaðabótaskylda skv. 39.41. gr. nær aðeins til verðmætis þess hlutar sem
+                            ^1)[14]L. 136/2002, 3. gr.
+                           [43. gr.]^1) Óbeint tjón.
+ Skaðabótaskylda skv. [40.42. gr.]^2) nær aðeins til verðmætis þess hlutar sem
 glatast hefur eða rýrnunar sem stafar af skemmdum á sendingunni hjá póstrekanda.
    Ekki er skylt að bæta fyrir ábata- eða afnotamissi, tjón vegna rýrnunar á
      verðgildi peninga eða verðbréfa eða aðrar óbeinar afleiðingar skaðans.
-                       43. gr. Póstsendingar milli landa.
+               ^1)[15]L. 136/2002, 3. gr. ^2)[16]L. 136/2002, 4. gr.
+                    [44. gr.]^1) Póstsendingar milli landa.
     Um skaðabætur fyrir póstsendingar milli landa skal farið eftir gildandi
    milliríkjasamningum. Glatist sending eða hún bíður tjón hjá póstrekanda á
   íslensku landsvæði greiðast þó skaðabætur eins og um innlenda sendingu sé að
                   ræða enda sé það hagstæðara fyrir tjónþola.
-                            44. gr. Sérstök tilvik.
+                            ^1)[17]L. 136/2002, 3. gr.
+                          [45. gr.]^1) Sérstök tilvik.
      Póst- og fjarskiptastofnun getur í sérstökum tilvikum mælt fyrir um að
    póstrekandi skuli þrátt fyrir ábyrgðartakmarkanir greiða skaðabætur fyrir
  póstsendingar ef tjónið stafar af ásetningi eða stórfelldu gáleysi póstrekanda
   eða starfsmanna hans eða ef tjónið er slíkt og aðstæður allar þess eðlis að
                     ákvæði þessa kafla þykja ekki eiga við.
-                        45. gr. Fyrning skaðabótakröfu.
+                            ^1)[18]L. 136/2002, 3. gr.
+                      [46. gr.]^1) Fyrning skaðabótakröfu.
   Skylda til greiðslu skaðabóta fellur niður sé þeirra ekki krafist innan sex
        mánaða frá því að viðkomandi póstsending var afhent til flutnings.
+                            ^1)[19]L. 136/2002, 3. gr.
 
                       XV. kafli. Póstleynd og undanþágur.
-                   46. gr. Póstleynd og íhlutun starfsmanna.
+                 [47. gr.]^1) Póstleynd og íhlutun starfsmanna.
     Einungis má veita upplýsingar um póstsendingar og notkun póstþjónustu að
          undangengnum dómsúrskurði eða samkvæmt heimild í öðrum lögum.
     Öllum sem starfa við póstþjónustu er óheimilt að gefa óviðkomandi aðilum
  upplýsingar um póstsendingar eða gefa öðrum tækifæri til þess að verða sér úti
 um slíka vitneskju. Enn fremur er þeim óheimilt að opna eða lesa það sem afhent
        er til póstsendingar. Þagnarskyldan helst þótt látið sé af starfi.
-                              47. gr. Undanþágur.
-Þrátt fyrir ákvæði 46. gr. er heimilt að opna án dómsúrskurðar þær póstsendingar
-  sem ekki er unnt að koma til skila til þess að freista þess að komast að því
-   hverjir sendendur eru svo að unnt sé að endursenda þær, enda sé það gert í
-  samræmi við reglur sem ráðherra setur, sbr. 32. gr. Enn fremur er heimilt að
-leyfa að sendingar séu opnaðar þegar það er óhjákvæmilegt vegna flutnings þeirra
-    eða til að kanna hugsanlegar skemmdir á innihaldi. Hið sama á við þegar
-     rökstuddur grunur leikur á um að ekki hafi verið forsvaranlega búið um
+                            ^1)[20]L. 136/2002, 3. gr.
+                            [48. gr.]^1) Undanþágur.
+    Þrátt fyrir ákvæði [47. gr.]^2) er heimilt að opna án dómsúrskurðar þær
+  póstsendingar sem ekki er unnt að koma til skila til þess að freista þess að
+ komast að því hverjir sendendur eru svo að unnt sé að endursenda þær, enda sé
+  það gert í samræmi við reglur sem ráðherra setur, sbr. 32. gr. Enn fremur er
+   heimilt að leyfa að sendingar séu opnaðar þegar það er óhjákvæmilegt vegna
+ flutnings þeirra eða til að kanna hugsanlegar skemmdir á innihaldi. Hið sama á
+við þegar rökstuddur grunur leikur á um að ekki hafi verið forsvaranlega búið um
  sendinguna vegna innihalds hennar eða að sending innihaldi hluti sem hættulegt
   getur verið að senda. Póstrekandi skal halda skrá yfir póstsendingar sem eru
  opnaðar án dómsúrskurðar í samræmi við reglur sem ráðherra setur, sbr. 32. gr.
@@ -564,36 +590,44 @@ skiptastjóra þegar um opinber skipti er að ræða. Þegar um einkaskipti er a
  skulu allar póstsendingar afhentar forráðamanni dánarbús nema þær beri með sér
 að vera einkabréf. Skal sending þá endursend með viðeigandi skýringu áritaðri á
                                sendinguna sjálfa.
-                           48. gr. Ólögmæt háttsemi.
+               ^1)[21]L. 136/2002, 3. gr. ^2)[22]L. 136/2002, 6. gr.
+                         [49. gr.]^1) Ólögmæt háttsemi.
  Starfsmönnum við póstþjónustu er óheimilt að rífa upp, ónýta eða skjóta undan
 póstsendingum, eða ónýta, aflaga eða skjóta undan skeytum sem veitt hefur verið
                              móttaka til útburðar.
-                     49. gr. Skylda að upplýsa starfsfólk.
+                            ^1)[23]L. 136/2002, 3. gr.
+                   [50. gr.]^1) Skylda að upplýsa starfsfólk.
       Póstrekendur skulu kynna starfsfólki sínu og verktökum sem vinna við
                         póstþjónustu ákvæði þessa kafla.
+                            ^1)[24]L. 136/2002, 3. gr.
 
                         XVI. kafli. Milliríkjasamningar.
-                      50. gr. Póstþjónusta við önnur lönd.
+                   [51. gr.]^1) Póstþjónusta við önnur lönd.
   Ákvæði laga þessara gilda einnig um póstþjónustu við önnur lönd að svo miklu
     leyti sem þau brjóta ekki í bága við milliríkjasamninga um póstþjónustu.
-          51. gr. Þátttaka rekstrarleyfishafa í alþjóðlegu samstarfi.
+                            ^1)[25]L. 136/2002, 3. gr.
+        [52. gr.]^1) Þátttaka rekstrarleyfishafa í alþjóðlegu samstarfi.
 Póst- og fjarskiptastofnun getur mælt fyrir um að rekstrarleyfishafar skuli taka
   þátt í samstarfi sem leiðir af alþjóðlegum skuldbindingum á sviði póstmála.
+                            ^1)[26]L. 136/2002, 3. gr.
 
                              XVII. kafli. Viðurlög.
-                          52. gr. Viðurlög við brotum.
+                       [53. gr.]^1) Viðurlög við brotum.
  Brot á lögum þessum varða sektum, en fangelsi allt að sex mánuðum ef sakir eru
                     miklar. Gáleysisbrot skulu varða sektum.
 Brot gegn XV. kafla laganna, um póstleynd og ólögmæta háttsemi, varða sektum eða
  fangelsi eins og mælt er fyrir um í 1. mgr. Sé brotið framið í ávinningsskyni,
   hvort sem er í eigin þágu eða annarra, má refsa með fangelsi allt að þremur
                                      árum.
+                            ^1)[27]L. 136/2002, 3. gr.
 
                            XVIII. kafli. Ýmis ákvæði.
-                              53. gr. Reglugerðir.
+                           [54. gr.]^1) Reglugerðir.
  Samgönguráðherra getur sett í reglugerð nánari fyrirmæli um framkvæmd laganna.
-                              54. gr. Gildistaka.
+                            ^1)[28]L. 136/2002, 3. gr.
+                            [55. gr.]^1) Gildistaka.
                          Lög þessi öðlast þegar gildi.
+                            ^1)[29]L. 136/2002, 3. gr.
 
        Viðauki. Gæðakröfur vegna póstsendinga milli landa innan Evrópska
                                efnahagssvæðisins.
@@ -613,5 +647,31 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002019
-   2. file:///altext/stjtnr.html#1981075?k8
-   3. file://1981075.html
+   2. file:///altext/stjt/2002.136.html
+   3. file:///altext/stjt/2002.136.html
+   4. file:///altext/stjt/2002.136.html
+   5. file:///altext/stjt/2002.136.html
+   6. file:///altext/stjtnr.html#1981075?k8
+   7. file://1981075.html
+   8. file:///altext/stjt/2002.136.html
+   9. file:///altext/stjt/2002.136.html
+  10. file:///altext/stjt/2002.136.html
+  11. file:///altext/stjt/2002.136.html
+  12. file:///altext/stjt/2002.136.html
+  13. file:///altext/stjt/2002.136.html
+  14. file:///altext/stjt/2002.136.html
+  15. file:///altext/stjt/2002.136.html
+  16. file:///altext/stjt/2002.136.html
+  17. file:///altext/stjt/2002.136.html
+  18. file:///altext/stjt/2002.136.html
+  19. file:///altext/stjt/2002.136.html
+  20. file:///altext/stjt/2002.136.html
+  21. file:///altext/stjt/2002.136.html
+  22. file:///altext/stjt/2002.136.html
+  23. file:///altext/stjt/2002.136.html
+  24. file:///altext/stjt/2002.136.html
+  25. file:///altext/stjt/2002.136.html
+  26. file:///altext/stjt/2002.136.html
+  27. file:///altext/stjt/2002.136.html
+  28. file:///altext/stjt/2002.136.html
+  29. file:///altext/stjt/2002.136.html

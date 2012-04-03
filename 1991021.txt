@@ -1658,7 +1658,7 @@ nægileg lýsing kröfu á hendur þrotabúinu ef hún fullnægir ákvæðum 2. 
 fresti lýkur skv. 2. mgr. 85. gr. og ekki er unnt að fylgja henni fram gagnvart
           því skv. 116. gr., þá fellur hún niður gagnvart búinu nema:
        1. kröfunni sé lýst áður en boðað er til skiptafundar um frumvarp til
-  úthlutunar úr búinu og samþykki fáist fyrir að krafan komist að hjá ¾ hlutum
+úthlutunar úr búinu og samþykki fáist fyrir að krafan komist að hjá ^3/4 hlutum
   þeirra kröfuhafa sem færu á mis við greiðslu af þeim sökum, talið bæði eftir
                höfðatölu kröfuhafanna og fjárhæðum krafna þeirra,
    2. kröfuhafinn sé búsettur erlendis og hafi hvorki verið kunnugt né mátt vera
