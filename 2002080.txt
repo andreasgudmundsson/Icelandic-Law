@@ -1,23 +1,21 @@
 
    --------------------------------------------------------------------------
 
-                               Barnaverndarlög^1)
+                                Barnaverndarlög
 
                               2002 nr. 80 10. maí
 
    --------------------------------------------------------------------------
 
-    ^1)Lögunum var breytt með [1]l. 138/2011, 134. gr. Breytingarnar taka gildi
-                                 1. jan. 2012.
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-Tóku gildi 1. júní 2002, sjá þó 101. gr. Breytt með [2]l. 62/2006 (tóku gildi 1.
-  júlí 2006), [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók
+Tóku gildi 1. júní 2002, sjá þó 101. gr. Breytt með [1]l. 62/2006 (tóku gildi 1.
+  júlí 2006), [2]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók
   gildi 21. júní 2008), l. 52/2009 (tóku gildi 1. maí 2009), l. 162/2010 (tóku
 gildi 1. jan. 2011), l. 80/2011 (tóku gildi 29. júní 2011 nema a-liður 45. gr.,
   50.52. gr., a-liður 53. gr. og 1., 3. og 4. málsl. b-liðar 53. gr. sem taka
-gildi 1. jan. 2013), [4]l. 85/2011 (tóku gildi 30. júní 2011), l. 126/2011 (tóku
-       gildi 30. sept. 2011) og [5]l. 138/2011 (taka gildi 1. jan. 2012).
+gildi 1. jan. 2013), [3]l. 85/2011 (tóku gildi 30. júní 2011), l. 126/2011 (tóku
+       gildi 30. sept. 2011) og [4]l. 138/2011 (tóku gildi 1. jan. 2012).
 
                     I. kafli. Markmið barnaverndarlaga o.fl.
                    1. gr. Réttindi barna og skyldur foreldra.
@@ -173,12 +171,13 @@ nefndina um að rækja skyldur sínar. Barnaverndarstofa skal gera sveitarstjór
       sveitarfélög skulu hafa samvinnu við önnur sveitarfélög um kosningu
     barnaverndarnefndar. Samanlagður íbúafjöldi sveitarfélaga að baki hverri
                  barnaverndarnefnd skal ekki vera undir 1.500.
- Heimilt er sveitarstjórn að fela héraðsnefnd eða stjórn byggðasamlags kosningu
+       Heimilt er sveitarstjórn að fela ^1) stjórn byggðasamlags kosningu
     barnaverndarnefndar er nær yfir fleiri en eitt sveitarfélag eða semja um
           svæðisbundið samstarf með öðrum hætti en að framan greinir.
 Heimilt er sveitarstjórn að fela félagsmálanefnd störf barnaverndarnefndar og í
  þeim tilvikum skal gæta þeirra reglna sem fram koma í 1. og 2. mgr. 11. gr. um
     kjör barnaverndarnefnda og um íbúafjölda, sbr. 2. mgr. þessarar greinar.
+                            ^1)[5]L. 138/2011, 134. gr.
                       11. gr. Skipan barnaverndarnefndar.
       Barnaverndarnefnd skal skipuð fimm mönnum og jafnmörgum varamönnum.
   Barnaverndarnefnd sem nær yfir fleiri en eitt sveitarfélag er þó heimilt að
@@ -1484,17 +1483,18 @@ hefur ekki verið skotið til barnaverndarráðs eða úrskurðinum hefur verið
                                      lögum.
                               101. gr. Gildistaka.
                       Lög þessi öðlast gildi 1. júní 2002.
+                                      ...
  Ákvæði 4. mgr. 65. gr. og 2. mgr. 88. gr. laga þessara taka ekki gildi fyrr en
                                 1. janúar 2003.
 
 References
 
    Visible links
-   1. file://2011138.html#g134
-   2. file://2006062.html
-   3. file://2008088.html
-   4. file://2011085.html
-   5. file://2011138.html
+   1. file://2006062.html
+   2. file://2008088.html
+   3. file://2011085.html
+   4. file://2011138.html
+   5. file://2011138.html#g134
    6. file://2008088.html#g234
    7. file://2011085.html#g20
    8. file://2006062.html#g7

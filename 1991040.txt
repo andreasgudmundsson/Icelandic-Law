@@ -1,14 +1,12 @@
 
    --------------------------------------------------------------------------
 
-                     Lög um félagsþjónustu sveitarfélaga^1)
+                      Lög um félagsþjónustu sveitarfélaga
 
                               1991 nr. 40 27. mars
 
    --------------------------------------------------------------------------
 
-    ^1)Lögunum var breytt með [1]l. 138/2011, 134. gr. Breytingarnar taka gildi
-                                 1. jan. 2012.
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 17. apríl 1990 (á að vera 17. apríl 1991). Breytt með l. 31/1994
@@ -16,7 +14,7 @@
   (tóku gildi 29. maí 1997), l. 65/2006 (tóku gildi 27. júní 2006), l. 65/2010
  (tóku gildi 27. júní 2010), l. 66/2010 (tóku gildi 1. júlí 2010), l. 152/2010
  (tóku gildi 1. jan. 2011), l. 162/2010 (tóku gildi 1. jan. 2011), l. 126/2011
-    (tóku gildi 30. sept. 2011) og [2]l. 138/2011 (taka gildi 1. jan. 2012).
+    (tóku gildi 30. sept. 2011) og [1]l. 138/2011 (tóku gildi 1. jan. 2012).
 
                            I. kafli. Markmið laganna.
  1. gr. Markmið félagsþjónustu á vegum sveitarfélaga er að tryggja fjárhagslegt
@@ -71,17 +69,9 @@ hluta sveitarfélags. Heimilt er að fela undirnefnd ákvörðunarvald og ábyrg
    ábyrgð félagsmálanefndar, svo og eftirlit með framkvæmd fjárhagsáætlunar.
                                ^1)L. 34/1997, 2. gr.
                             Samvinna sveitarfélaga.
-      7. gr. Sveitarstjórnir geta falið héraðsnefndum verkefni skv. 2. gr.
-   Sveitarstjórnir geta ákveðið að vinna saman að einstökum verkefnum á sviði
-  félagsþjónustu ^1) eftir því sem henta þykir á hverjum stað. Enn fremur geta
-     einstök sveitarfélög gert með sér sérstakt samkomulag um sameiginlega
-                   félagsþjónustu eða einstaka þætti hennar.
-  Hafi sveitarfélög falið héraðsnefnd öll verkefni félagsmálanefndar, sbr. 1.
-   mgr., eða ákveðið að vinna saman að öllum verkefnum nefndarinnar samkvæmt
-  sérstöku samkomulagi, sbr. 2. mgr., er viðkomandi sveitarfélögum heimilt að
-      skipa sameiginlega félagsmálanefnd. Tekur sú nefnd þá við hlutverki
-                   félagsmálanefnda einstakra sveitarfélaga.
-                               ^1)L. 34/1997, 3. gr.
+ 7. gr. [Um samvinnu sveitarfélaga að verkefnum samkvæmt lögum þessum fer eftir
+                        ákvæðum sveitarstjórnarlaga.]^1)
+                            ^1)[2]L. 138/2011, 134. gr.
               Félagsmálastofnanir og starfsmenn félagsmálanefnda.
    8. gr. Heimilt er að fela sérstakri félagsmálastofnun að sjá um framkvæmd
                  félagsþjónustu undir stjórn félagsmálanefndar.
@@ -136,14 +126,14 @@ hluta sveitarfélags. Heimilt er að fela undirnefnd ákvörðunarvald og ábyrg
    sérstökum tilvikum veitt fjárhagsaðstoð hér á landi. Aðstoð skal veitt af
  dvalarsveitarfélagi að höfðu samráði við [ráðuneytið],^1) enda hafi áður verið
   leitað eftir aðstoð frá heimalandi. [Ráðherra]^1) er heimilt að setja nánari
-                    reglur um aðstoð samkvæmt ákvæði þessu.
+                   reglur^2) um aðstoð samkvæmt ákvæði þessu.
     Ríkissjóður skal endurgreiða sveitarfélagi veitta aðstoð vegna erlendra
                      ríkisborgara í eftirfarandi tilvikum:
     a. Aðstoð við erlenda ríkisborgara sem ekki eiga lögheimili í landinu, sbr.
                                     1. mgr.
      b. Aðstoð við erlenda ríkisborgara skv. 12.13. gr. laganna sem átt hafa
-                   lögheimili í landinu skemur en tvö ár.]^2)
-                   ^1)L. 162/2010, 8. gr. ^2)L. 34/1997, 4. gr.
+                   lögheimili í landinu skemur en tvö ár.]^3)
+          ^1)L. 162/2010, 8. gr. ^2)Rgl. 1185/2011. ^3)L. 34/1997, 4. gr.
 
                           V. kafli. Félagsleg ráðgjöf.
   16. gr. Félagsmálanefndir skulu ^1) bjóða upp á félagslega ráðgjöf. Markmið
@@ -451,7 +441,7 @@ samandregnu formi þannig að einstakir aðilar séu ópersónugreinanlegir. Sk�
           heimilt að setja reglur um aðstoð samkvæmt ákvæði þessu.]^2)
                    ^1)L. 162/2010, 8. gr. ^2)L. 34/1997, 17. gr.
                                   Gildistaka.
-                   [67. gr.]^1) Lög þessi öðlast þegar gildi.
+                 [67. gr.]^1) Lög þessi öðlast þegar gildi. ...
                               ^1)L. 34/1997, 17. gr.
 Ákvæði til bráðabirgða. Lög þessi skal endurskoða innan fimm ára frá gildistöku
                                     þeirra.
@@ -459,8 +449,8 @@ samandregnu formi þannig að einstakir aðilar séu ópersónugreinanlegir. Sk�
 References
 
    Visible links
-   1. file://2011138.html#g134
-   2. file://2011138.html
+   1. file://2011138.html
+   2. file://2011138.html#g134
    3. file://1969082.html
    4. file://1998075.html
    5. file://1985018.html

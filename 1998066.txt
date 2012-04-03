@@ -7,8 +7,6 @@
 
    --------------------------------------------------------------------------
 
-   ^1)Lögunum var breytt með III. kafla l. 143/2009. Breytingarnar taka gildi 1.
-                                   nóv. 2011.
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. janúar 1999. Breytt með l. 72/2003 (tóku gildi 10. apríl 2003), l.
@@ -16,7 +14,7 @@ Tóku gildi 1. janúar 1999. Breytt með l. 72/2003 (tóku gildi 10. apríl 2003
 167/2007 (tóku gildi 1. jan. 2008), [1]l. 88/2008 (tóku gildi 1. jan. 2009 nema
 brbákv. VII sem tók gildi 21. júní 2008), l. 173/2008 (tóku gildi 1. jan. 2009;
 komu til framkvæmda skv. fyrirmælum í 20. gr.), l. 143/2009 (tóku gildi 1. mars
- 2010 nema II.IV. kafli sem taka gildi 1. nóv. 2011 (utan 43. gr. í IV. kafla
+ 2010 nema II.IV. kafli sem tóku gildi 1. nóv. 2011 (utan 43. gr. í IV. kafla
  sem tók gildi 1. mars 2010) og 54. og 55. gr. og 9. efnismgr. 63. gr. sem tóku
  gildi 1. mars 2011; EES-samningurinn: I. og II. viðauki reglugerð 178/2002) og
                     l. 126/2011 (tóku gildi 30. sept. 2011).
@@ -74,15 +72,22 @@ dýralæknisþjónustu til ráðsins. Við úrlausn þeirra ágreiningsmála ska
                    ^1)L. 167/2007, 63. gr. ^2)L. 76/2005, 2. gr.
 
                         III. kafli. Réttindi og skyldur.
-  6. gr. Þeir einir eru samkvæmt lögum þessum taldir dýralæknar er lokið hafa
-   prófi frá dýralæknaháskóla sem er viðurkenndur af íslenskum stjórnvöldum.
+6. gr. [Dýralæknar samkvæmt lögum þessum eru þeir dýralæknar er lokið hafa prófi
+ frá dýralæknaháskóla sem er viðurkenndur af íslenskum stjórnvöldum. Jafnframt
+    teljast þeir dýralæknar sem heimild hafa til að starfa hér á landi undir
+starfsheiti heimalands síns í samræmi við reglur Evrópska efnahagssvæðisins eða
+ stofnsamning Fríverslunarsamtaka Evrópu. Sjávarútvegs- og landbúnaðarráðherra
+     setur nánari reglur um leyfisveitingu, menntunarkröfur og viðurkenndar
+menntastofnanir. Ef um er að ræða próf frá dýralæknaháskóla sem er utan Evrópska
+ efnahagssvæðisins og Sviss skal leita umsagnar dýralæknaráðs áður en leyfi er
+                          veitt samkvæmt lögunum.]^1)
      Þeir einir mega stunda dýralækningar hér á landi sem hlotið hafa leyfi
-[ráðherra]^1) samkvæmt ákvæðum sem ráðherra setur í reglugerð að fenginni umsögn
-                             [Matvælastofnunar].^2)
-[Ráðherra]^1) gefur út leyfisbréf handa dýralækni til að stunda dýralækningar og
- dýralæknir undirritar eiðstaf þar að lútandi. [Matvælastofnun]^2) heldur skrá
+[ráðherra]^2) samkvæmt ákvæðum sem ráðherra setur í reglugerð að fenginni umsögn
+                             [Matvælastofnunar].^3)
+[Ráðherra]^2) gefur út leyfisbréf handa dýralækni til að stunda dýralækningar og
+ dýralæknir undirritar eiðstaf þar að lútandi. [Matvælastofnun]^3) heldur skrá
            yfir dýralækna sem hafa leyfi til að stunda dýralækningar.
-              Dýralækni er skylt að tilkynna [Matvælastofnun]:^2)
+              Dýralækni er skylt að tilkynna [Matvælastofnun]:^3)
       1. þegar hann hyggst hefja dýralæknisstörf og aðsetur starfsemi sinnar,
                                2. flutning aðseturs,
                            3. starfslok sem dýralæknir.
@@ -90,9 +95,9 @@ Dýralæknum, sem hefja störf á Íslandi, ber að kynna sér íslensk lög og 
     dýralækningar og þeir sem starfa í opinberri þjónustu skulu hafa vald á
                                 íslenskri tungu.
 Heimilt er að fela dýralæknanemum á síðari hluta námsferils að gegna tímabundið
-ákveðnum dýralæknisstörfum undir stjórn dýralæknis ef [Matvælastofnun]^2) mælir
+ákveðnum dýralæknisstörfum undir stjórn dýralæknis ef [Matvælastofnun]^3) mælir
                                     með því.
-                 ^1)L. 126/2011, 272. gr. ^2)L. 167/2007, 63. gr.
+     ^1)L. 143/2009, 36. gr. ^2)L. 126/2011, 272. gr. ^3)L. 167/2007, 63. gr.
 7. gr. Eingöngu þeir dýralæknar sem hafa leyfi til að stunda dýralækningar mega
  framkvæma læknisaðgerðir á dýrum. Undanþegnar eru þó minni háttar aðgerðir og
                      lyfjameðferð í samráði við dýralækni.
@@ -142,114 +147,110 @@ Umsóknir um sérfræðingsleyfi skulu lagðar fyrir dýralæknaráð til umsagn
 
                     IV. kafli. [Umdæmi héraðsdýralækna.]^1)
                                ^1)L. 76/2005, 5. gr.
-              11. gr. Umdæmi héraðsdýralækna eru sem hér greinir:
-       1. Gullbringu- og Kjósarumdæmi: Reykjavík, Seltjarnarnes, Kópavogur,
-       Garðabær, Hafnarfjörður, Mosfellsbær, Gullbringu- og Kjósarsýsla.
-     2. Borgarfjarðar- og Mýraumdæmi: Borgarfjarðarsýsla, Mýrasýsla, Akranes,
-                                  Borgarbyggð.
-           3. Snæfellsnesumdæmi: Stykkishólmur, Snæfellsbær, Eyrarsveit,
-   Helgafellssveit, Hnappadalssýsla, Flatey og býli í gamla Flateyjarhreppi,
-                             Skógarstrandarhreppur.
-     4. Dalaumdæmi: Dalabyggð, Saurbæjarhreppur, Austur-Barðastrandarsýsla, að
-          undanskilinni Flatey og býlum í Flateyjarhreppi hinum gamla.
-     5. Vestfjarðaumdæmi: Vestur-Barðastrandarsýsla, Ísafjörður, Bolungarvík,
-        Vestur- og Norður-Ísafjarðarsýsla, Strandasýsla að Bæjarhreppi.
-         6. Vestur-Húnaþingsumdæmi: Vestur-Húnavatnssýsla, Bæjarhreppur í
-                                 Strandasýslu.
-            7. Austur-Húnaþingsumdæmi: Blönduós, Austur-Húnavatnssýsla.
-      8. Skagafjarðar- og Eyjafjarðarumdæmi: Akureyri, Ólafsfjörður, Dalvík,
-        Siglufjörður, Sauðárkrókur, Skagafjarðar- og Eyjafjarðarsýslur,
-     Svalbarðsstrandar-, Grýtubakka- og Hálshreppar í Suður-Þingeyjarsýslu.
-        9. Þingeyjarumdæmi: Húsavík, Suður-Þingeyjarsýsla, að undanskildum
-     Svalbarðsstrandar-, Grýtubakka- og Hálshreppum, Norður-Þingeyjarsýsla.
-        10. Austurlandsumdæmi nyrðra: Egilsstaðir og nágrenni, Eskifjörður,
-  Mjóifjörður, Neskaupstaður, Reyðarfjörður, Seyðisfjörður, Norður-Múlasýsla.
-         11. Austurlandsumdæmi syðra: Fáskrúðsfjarðarhreppur, Búðahreppur,
-              Stöðvarhreppur, Breiðdalshreppur, Djúpavogshreppur.
-      12. Austur-Skaftafellsumdæmi: Hornafjarðarbær, Austur-Skaftafellssýsla.
-      13. Vestur-Skaftafellsumdæmi: Vestur-Skaftafellssýsla, að undanskildum
-                                 Mýrdalshreppi.
-        14. Suðurlandsumdæmi: Árnes- og Rangárvallasýslur, Mýrdalshreppur,
-                             [Vestmannaeyjabær].^1)
-[Ráða skal einn héraðsdýralækni í hvert umdæmi, að undanskildu Vestfjarðaumdæmi
-     ^2) og Austurlandsumdæmi nyrðra, en í [hvort]^2) þeirra skal ráða tvo
-                              héraðsdýralækna.]^3)
-    Héraðsdýralæknar skulu hver í sínu umdæmi hafa eftirlit með sláturdýrum,
- sláturafurðum og afurðastöðvum, eftirlit með heilbrigði, hirðingu, aðbúnaði og
-aðstöðu nautgripa á búum þar sem framleidd er mjólk til sölu og hafa með höndum
- framkvæmd sóttvarnaaðgerða. Einnig ber þeim að hafa eftirlit með búfé og öðrum
-       dýrum eftir því sem lög ákveða. Ávallt skal aðskilja sem kostur er
-            eftirlitsstörf dýralækna og almenna dýralæknisþjónustu.
-  Héraðsdýralæknar í Gullbringu- og Kjósar-, Skagafjarðar- og Eyjafjarðar- og
- Suðurlandsumdæmum sinna eingöngu eftirlitsstörfum, en héraðsdýralæknar í öðrum
-dýralæknisumdæmum annast jafnframt eftirlitsstörfum almenna dýralæknisþjónustu í
-                    umdæminu, þar með er talin vaktþjónusta.
-  Heimilt er að ráða dýralækna til aðstoðar ef þess er þörf vegna eftirlits og
-                       sjúkdómavarna í einstökum umdæmum.
-      [Forstjóri [Matvælastofnunar]^4) ræður héraðsdýralækna og setur þeim
-erindisbréf. Í erindisbréfinu skal kveðið á um starfsskyldur, eftirlitsstörf og
-  heimild til annarra dýralæknastarfa. Héraðsdýralæknar skulu ráðnir samkvæmt
- ákvæðum [2]laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins.]^3)
- Gjald, sem nemur kostnaði, skal innheimta fyrir eftirlit og skoðanir samkvæmt
-     reglum^5) sem ráðherra setur að fengum tillögum [Matvælastofnunar].^4)
-[Matvælastofnun]^4) skal sjá héraðsdýralæknum fyrir skrifstofuaðstöðu í samræmi
-                           við umfang starfseminnar.
-     ^1)L. 49/2004, 1. gr. ^2)L. 173/2008, 5. gr. ^3)L. 76/2005, 4. gr. ^4)L.
-                167/2007, 63. gr. ^5)Rg. 234/2010, sbr. 50/2011.
-                12. gr. Vaktsvæði dýralækna eru sem hér greinir:
-                          1. Gullbringu- og Kjósarumdæmi.
-                         2. Borgarfjarðar- og Mýraumdæmi.
-                               3. Snæfellsnesumdæmi.
-                                  4. Dalaumdæmi.
-                               5. Vestfjarðaumdæmi.
-                       6. Austur- og Vestur-Húnaþingsumdæmi.
-                         7. Skagafjörður og Siglufjörður.
-                      8. Eyjafjörður, Dalvík og Ólafsfjörður.
-                                9. Þingeyjarumdæmi.
-                           10. Austurlandsumdæmi nyrðra.
-                           11. Austurlandsumdæmi syðra.
-                           12. Austur-Skaftafellsumdæmi.
-                           13. Vestur-Skaftafellsumdæmi.
-                      14. Rangárvallasýsla og Mýrdalshreppur.
-                     15. Árnessýsla [og Vestmannaeyjabær].^1)
-  Héraðsdýralæknar skulu skipuleggja vaktir í samráði við starfandi dýralækna
-innan sinna vaktsvæða þannig að dýralæknir sé þar jafnan á vakt og auðvelt sé að
-afla vitneskju um hvaða dýralæknir er á vakt hverju sinni. Heimilt er að skipta
-          vakt innan sama vaktsvæðis milli fleiri dýralækna samtímis.
-Við skipulagningu vakta er ætlast til að tekið sé mið af vegalengdum og umfangi
-                      þjónustu innan viðkomandi vaktsvæða.
-  Komi upp ágreiningur um skiptingu vakta innan vaktsvæða skal leita úrskurðar
-                             [Matvælastofnunar].^2)
-   Fyrir vaktþjónustu greiðist samkvæmt samningi Dýralæknafélags Íslands við
-     [ráðuneytið og ráðuneyti er fer með málefni starfsmanna ríkisins].^3)
-      ^1)L. 49/2004, 2. gr. ^2)L. 167/2007, 63. gr. ^3)L. 126/2011, 272. gr.
-  13. gr. Í því skyni að tryggja byggðum fjarri aðsetri dýralæknis reglubundna
-  þjónustu og bráðaþjónustu skal [ráðherra]^1) setja reglur um greiðslu hluta
-  ferðakostnaðar dýralæknis í samráði við [Matvælastofnun],^2) Dýralæknafélag
-                        Íslands og Bændasamtök Íslands.
-                 ^1)L. 126/2011, 272. gr. ^2)L. 167/2007, 63. gr.
+ 11. gr. [Matvælastofnun skal hafa sex umdæmisskrifstofur og við hverja þeirra
+skal héraðsdýralæknir ráðinn til starfa, en einnig er heimilt að ráða dýralækna
+     og aðra eftirlitsmenn til aðstoðar ef þess er þörf vegna eftirlits og
+ sjúkdómavarna. Skrifstofur Matvælastofnunar skulu vera í eftirfarandi umdæmum:
+       1. Suðvesturumdæmi: Garðabær, Hafnarfjarðarkaupstaður, Kjósarhreppur,
+      Kópavogsbær, Mosfellsbær, Reykjavíkurborg, Seltjarnarneskaupstaður,
+     Sveitarfélagið Álftanes, Grindavíkurbær, Reykjanesbær, Sandgerðisbær,
+                 Sveitarfélagið Garður og Sveitarfélagið Vogar.
+    2. Vesturumdæmi: Akraneskaupstaður, Árneshreppur, Bolungarvíkurkaupstaður,
+    Borgarbyggð, Dalabyggð, Eyja- og Miklaholtshreppur, Kaldrananeshreppur,
+      Grundarfjarðarbær, Helgafellssveit, Hvalfjarðarsveit, Ísafjarðarbær,
+Reykhólahreppur, Skorradalshreppur, Snæfellsbær, Stykkishólmsbær, Strandabyggð,
+             Súðavíkurhreppur, Tálknafjarðarhreppur og Vesturbyggð.
+           3. Norðvesturumdæmi: Akrahreppur, Blönduósbær, Bæjarhreppur,
+ Húnavatnshreppur, Húnaþing vestra, Skagabyggð, Sveitarfélagið Skagafjörður og
+                          Sveitarfélagið Skagaströnd.
+     4. Norðausturumdæmi: Akureyrarkaupstaður, Arnarneshreppur, Dalvíkurbyggð,
+      Eyjafjarðarsveit, Fjallabyggð, Grímseyjarhreppur, Grýtubakkahreppur,
+  Hörgárbyggð, Langanesbyggð, Norðurþing, Skútustaðahreppur, Svalbarðshreppur,
+          Svalbarðsstrandarhreppur, Tjörneshreppur og Þingeyjarsveit.
+    5. Austurumdæmi: Borgarfjarðarhreppur, Breiðdalshreppur, Djúpavogshreppur,
+   Fjarðabyggð, Fljótsdalshérað, Fljótsdalshreppur, Seyðisfjarðarkaupstaður,
+              Sveitarfélagið Hornafjörður og Vopnafjarðarhreppur.
+       6. Suðurumdæmi: Ásahreppur, Bláskógabyggð, Flóahreppur, Grímsnes- og
+Grafningshreppur, Hrunamannahreppur, Hveragerðisbær, Mýrdalshreppur, Rangárþing
+     eystra, Rangárþing ytra, Skaftárhreppur, Skeiða- og Gnúpverjahreppur,
+        Sveitarfélagið Árborg, Sveitarfélagið Ölfus og Vestmannaeyjabær.
+ Héraðsdýralæknar skulu eingöngu sinna opinberum eftirlitsstörfum og hafa m.a.
+     eftirlit með sláturdýrum, sláturafurðum og afurðastöðvum, eftirlit með
+heilbrigði, hirðingu, aðbúnaði og aðstöðu nautgripa á búum þar sem framleidd er
+    mjólk til sölu og lyfjanotkun vegna búfjár, sbr. ákvæði 4. mgr. 11. gr.
+lyfjalaga. Einnig ber þeim að hafa með höndum framkvæmd sóttvarnaaðgerða í sínum
+  umdæmum. Þeir skulu annast eftirlit með velferð búfjár í samræmi við lög um
+ búfjárhald. Þá ber þeim að hafa eftirlit með búfé og öðrum dýrum eftir því sem
+  lög ákveða. Matvælastofnun getur falið héraðsdýralækni og öðrum starfsmönnum
+ umdæmisskrifstofu stofnunarinnar að annast verkefni í öðrum umdæmum þegar þörf
+       er á og einnig önnur eftirlitsverkefni sem stofnuninni eru falin.
+Að fengnum tillögum Matvælastofnunar setur ráðherra reglur^1) um gjald sem skal
+  innheimt fyrir eftirlit og skoðanir héraðsdýralækna og annarra dýralækna og
+      eftirlitsmanna sem starfa við umdæmisskrifstofur stofnunarinnar.]^2)
+              ^1)Rg. 234/2010, sbr. 50/2011. ^2)L. 143/2009, 37. gr.
+ 12. gr. [Til að tryggja velferð dýra og almenna þjónustu við dýraeigendur skal
+dýralæknir jafnan vera á bakvakt utan venjulegs dagvinnutíma á hverju vaktsvæði,
+   sbr. 3. mgr. Héraðsdýralæknar, hver í sínu umdæmi, skipuleggja bakvaktir í
+   samráði við sjálfstætt starfandi dýralækna sem þar starfa og er heimilt að
+   skipta bakvakt innan sama vaktsvæðis milli fleiri dýralækna samtímis. Við
+ skipulagningu bakvakta er ætlast til að tekið sé mið af vegalengdum og umfangi
+þjónustu innan viðkomandi vaktsvæða. Komi upp ágreiningur um skiptingu bakvakta
+             innan vaktsvæða skal leita úrskurðar Matvælastofnunar.
+ Fyrir bakvaktaþjónustu greiðist samkvæmt samningi Dýralæknafélags Íslands við
+          sjávarútvegs- og landbúnaðarráðuneyti og fjármálaráðuneyti.
+                    Vaktsvæði dýralækna eru sem hér greinir:
+         1. Garðabær, Hafnarfjarðarkaupstaður, Kjósarhreppur, Kópavogsbær,
+Mosfellsbær, Reykjavíkurborg, Seltjarnarneskaupstaður, Sveitarfélagið Álftanes,
+     Grindavíkurbær, Reykjanesbær, Sandgerðisbær, Sveitarfélagið Garður og
+                             Sveitarfélagið Vogar.
+     2. Akraneskaupstaður, Borgarbyggð, Hvalfjarðarsveit og Skorradalshreppur.
+        3. Eyja- og Miklaholtshreppur, Grundarfjarðarbær, Helgafellssveit,
+                        Snæfellsbær og Stykkishólmsbær.
+                         4. Dalabyggð og Reykhólahreppur.
+   5. Árneshreppur, Bolungarvíkurkaupstaður, Ísafjarðarbær, Kaldrananeshreppur,
+      Strandabyggð, Súðavíkurhreppur, Tálknafjarðarhreppur og Vesturbyggð.
+   6. Akrahreppur, Blönduósbær, Bæjarhreppur, Húnavatnshreppur, Húnaþing vestra,
+     Skagabyggð, Sveitarfélagið Skagafjörður og Sveitarfélagið Skagaströnd.
+     7. Akureyrarkaupstaður, Arnarneshreppur, Dalvíkurbyggð, Eyjafjarðarsveit,
+       Fjallabyggð, Grímseyjarhreppur, Grýtubakkahreppur, Hörgárbyggð og
+                           Svalbarðsstrandarhreppur.
+        8. Langanesbyggð, Norðurþing, Skútustaðahreppur, Svalbarðshreppur,
+                       Tjörneshreppur og Þingeyjarsveit.
+     9. Borgarfjarðarhreppur, Fjarðabyggð, Fljótsdalshérað, Fljótsdalshreppur,
+                Seyðisfjarðarkaupstaður og Vopnafjarðarhreppur.
+                     10. Breiðdalshreppur og Djúpavogshreppur.
+                         11. Sveitarfélagið Hornafjörður.
+                       12. Mýrdalshreppur og Skaftárhreppur.
+    13. Ásahreppur, Bláskógabyggð, Flóahreppur, Grímsnes- og Grafningshreppur,
+ Hrunamannahreppur, Hveragerðisbær, Rangárþing eystra, Rangárþing ytra, Skeiða-
+      og Gnúpverjahreppur, Sveitarfélagið Árborg, Sveitarfélagið Ölfus og
+                             Vestmannaeyjabær.]^1)
+                              ^1)L. 143/2009, 38. gr.
+  13. gr. [Í því skyni að tryggja velferð dýra og dreifðum byggðum reglubundna
+dýralæknaþjónustu svo og bráðaþjónustu skal sjávarútvegs- og landbúnaðarráðherra
+      setja reglugerð^1) um hvernig tryggja skal starfsaðstöðu og greiðslu
+staðaruppbótar og/eða ferðakostnaðar dýralæknis sem tekur að sér að veita slíka
+       þjónustu. Við ákvörðun um hvar þörf er á opinberum greiðslum fyrir
+    dýralæknaþjónustu skal ráðherra hafa samráð við Dýralæknafélag Íslands,
+  Bændasamtök Íslands, Samband íslenskra sveitarfélaga og Matvælastofnun.]^2)
+             ^1)Rg. 846/2011, sbr. 1032/2011. ^2)L. 143/2009, 39. gr.
 
                          V. kafli. Sérgreinadýralæknar.
- 14. gr. Ráða skal sérmenntaða dýralækna, einn á hverju eftirtalinna sérsviða:
-      Sviði alifuglasjúkdóma, fisksjúkdóma, hrossasjúkdóma, nautgripa- og
-sauðfjársjúkdóma, júgursjúkdóma, loðdýrasjúkdóma og svínasjúkdóma. Auk þess skal
-ráða dýralækni með sérþekkingu í heilbrigðiseftirliti sláturdýra og sláturafurða
-      og dýralækni sem hafi eftirlit með inn- og útflutningi búfjárafurða.
-  Sérgreinadýralæknar starfa undir stjórn [Matvælastofnunar]^1) sem setur þeim
-                                  erindisbréf.
- Sérgreinadýralæknar skulu vinna að bættu heilbrigði búfjár og sjúkdómavörnum,
-    hver á sínu sviði, í samráði við héraðsdýralækna, með sértækum aðgerðum,
-almennri fræðslu, leiðbeiningar- og forvarnastarfi. Sérgreinadýralæknum má fela
-   önnur verkefni, enda komi slíkt fram í erindisbréfi. Sérgreinadýralækni er
-           óheimilt að stunda almennar dýralækningar á sínu sérsviði.
-Sérgreinadýralæknar skulu hafa frumkvæði að framkvæmd nauðsynlegra rannsókna og
-sýnatöku í samvinnu við héraðsdýralækna, rannsóknastofnanir og afurðastöðvar og
-                 hafa eftirlit með framkvæmd sóttvarnaaðgerða.
-                              ^1)L. 167/2007, 63. gr.
+ 14. gr. [Matvælastofnun skal eftir þörfum ráða sérgreinadýralækna til að sinna
+ verkefnum m.a. á sviði sóttvarna, dýravelferðar, dýralyfja, dýraheilbrigðis og
+                            heilbrigðis dýraafurða.
+Sérgreinadýralæknar skulu vinna að bættu heilbrigði búfjár og sjúkdómavörnum með
+ sértækum aðgerðum, almennri fræðslu, forvarnastarfi og eftirliti með framkvæmd
+    sóttvarnaaðgerða. Sérgreinadýralæknar skulu hafa frumkvæði að sýnatökum,
+  rannsóknum og öðrum aðgerðum til að stuðla að heilbrigði og velferð dýra og
+                              öryggi búfjárafurða.
+   Ráðherra er heimilt að setja reglugerð þar sem nánar er kveðið á um störf
+                            sérgreinadýralækna.]^1)
+                              ^1)L. 143/2009, 40. gr.
   15. gr. [Matvælastofnun]^1) skal hafa aðgang að viðunandi aðstöðu, búnaði og
  sérþekkingu til greiningar dýrasjúkdóma vegna sjúkdómsvarna og forvarnastarfa.
                               ^1)L. 167/2007, 63. gr.
-   16. gr. ^1) Sérgreinadýralæknar skulu ráðnir samkvæmt ákvæðum [3]laga nr.
+   16. gr. ^1) Sérgreinadýralæknar skulu ráðnir samkvæmt ákvæðum [2]laga nr.
              70/1996, um réttindi og skyldur starfsmanna ríkisins.
                                ^1)L. 76/2005, 6. gr.
 
@@ -293,7 +294,7 @@ heilsu eða misnotkunar vímuefna, ber [Matvælastofnun]^1) að greina ráðherr
                    ^1)L. 167/2007, 63. gr. ^2)L. 76/2005, 7. gr.
  19. gr. Brot gegn lögum þessum, reglugerðum og fyrirmælum gefnum samkvæmt þeim
                varða sektum eða fangelsi ef sakir eru miklar. ^1)
-                            ^1)[4]L. 88/2008, 233. gr.
+                            ^1)[3]L. 88/2008, 233. gr.
                20. gr. Lög þessi öðlast gildi 1. janúar 1999. ^1)
                        ^1)Sbr. þó ákvæði l. 158/1998, 2. gr.
 
@@ -308,13 +309,24 @@ fargjaldskostnað til þess lands þar sem hann hyggst dveljast og heim til Ísl
                  ^1)L. 126/2011, 272. gr. ^2)L. 167/2007, 63. gr.
    II. Sé starf lagt niður á dýralæknir sem skipaður hefur verið eða ráðinn í
 þjónustu ríkisins fyrir gildistöku laga þessara rétt til biðlauna í samræmi við
-                     ákvæði í [5]34. gr. laga nr. 70/1996.
+                     ákvæði í [4]34. gr. laga nr. 70/1996.
+  [III. Störf héraðsdýralækna hjá Matvælastofnun eru lögð niður við gildistöku
+  þessara laga. Viðkomandi starfsmönnum skulu boðin störf hjá Matvælastofnun.
+Ákvæði [5]7. gr. laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins,
+           gildir ekki um störf sem ráðið er í samkvæmt þessu ákvæði.
+    Ráðherra er heimilt að fela héraðsdýralækni að sinna tímabundið almennri
+  þjónustu við dýraeigendur á tilteknu svæði ef heilbrigði eða velferð dýra er
+   stefnt í hættu enda fáist ekki dýralæknar til að sinna slíkri þjónustu við
+dýraeigendur á umræddu svæði. Heimild ráðherra samkvæmt þessari málsgrein fellur
+                            úr gildi 1. janúar 2015.
+   Ráðherra skal setja reglugerð skv. 13. gr. eigi síðar en 1. júlí 2010.]^1)
+                              ^1)L. 143/2009, 41. gr.
 
 References
 
    Visible links
    1. file://2008088.html
    2. file://1996070.html
-   3. file://1996070.html
-   4. file://2008088.html#g233
-   5. file://1996070.html#g34
+   3. file://2008088.html#g233
+   4. file://1996070.html#g34
+   5. file://1996070.html#g7

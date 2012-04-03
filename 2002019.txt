@@ -12,7 +12,7 @@
   Tóku gildi 3. apríl 2002. EES-samningurinn: XI. viðauki tilskipun 97/67/EB.
  Breytt með l. 136/2002 (tóku gildi 1. jan. 2003; EES-samningurinn: XI. viðauki
  tilskipun 97/39/EB), l. 129/2004 (tóku gildi 31. des. 2005), l. 162/2010 (tóku
-gildi 1. jan. 2011), [1]l. 120/2011 (taka gildi 1. des. 2011; EES-samningurinn:
+gildi 1. jan. 2011), [1]l. 120/2011 (tóku gildi 1. des. 2011; EES-samningurinn:
  IX. viðauki tilskipun 2007/64/EB) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
                     I. kafli. Gildissvið laganna og markmið.
@@ -550,11 +550,8 @@ vörslu póstrekenda skal eiga rétt á skaðabótum jafnháum þeirri trygginga
             sem tilgreind hefur verið við afhendingu sendingarinnar.
                               ^1)L. 136/2002, 3. gr.
                         [42. gr.]^1) Fjármunasendingar.
-       Póstrekandi ber fulla ábyrgð á því fé sem hann hefur tekið við sem
-fjármunasendingu og skal standa sendanda full skil á verðmæti slíkrar sendingar
-                                glatist hún.^2)
-    ^1)L. 136/2002, 3. gr. ^2)Greininni var breytt með [3]l. 120/2011, 81. gr.
-            Breytingin tekur gildi 1. des. 2011 skv. [4]80. gr. s.l.
+       [Um fjármunasendingar fer samkvæmt lögum um greiðsluþjónustu.]^2)
+                 ^1)L. 136/2002, 3. gr. ^2)[3]L. 120/2011, 81. gr.
                            [43. gr.]^1) Óbeint tjón.
  Skaðabótaskylda skv. [40.42. gr.]^2) nær aðeins til verðmætis þess hlutar sem
 glatast hefur eða rýrnunar sem stafar af skemmdum á sendingunni hjá póstrekanda.
@@ -646,6 +643,7 @@ Brot gegn XV. kafla laganna, um póstleynd og ólögmæta háttsemi, varða sekt
                   ^1)L. 136/2002, 3. gr. ^2)L. 162/2010, 233. gr.
                             [55. gr.]^1) Gildistaka.
                          Lög þessi öðlast þegar gildi.
+                                      ...
                               ^1)L. 136/2002, 3. gr.
 
        Viðauki. Gæðakröfur vegna póstsendinga milli landa innan Evrópska
@@ -668,4 +666,3 @@ References
    1. file://2011120.html
    2. file://2003090.html
    3. file://2011120.html#g81
-   4. file://2011120.html

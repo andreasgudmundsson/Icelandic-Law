@@ -28,11 +28,14 @@ gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 140/2006 (tóku gildi 21. des. 2006
   jan. 2011 nema 2., 6., 22. og 26. gr. sem tóku gildi 31. des. 2010; komu til
    framkvæmda skv. fyrirmælum í 29. gr.), l. 165/2010 (tóku gildi og komu til
 framkvæmda skv. fyrirmælum í 69. gr.), l. 73/2011 (tóku gildi 28. júní 2011 nema
-2. og 5. gr. sem taka gildi 1. jan. 2012; koma til framkvæmda skv. fyrirmælum í
+2. og 5. gr. sem tóku gildi 1. jan. 2012; komu til framkvæmda skv. fyrirmælum í
  13. gr.), l. 106/2011 (tóku gildi 13. sept. 2011), l. 122/2011 (tóku gildi 29.
  sept. 2011 nema 1. gr. sem tekur gildi 1. sept. 2013 og 4. og 5. gr. sem tóku
-  gildi 1. okt. 2011), l. 123/2011 (tóku gildi 29. sept. 2011) og l. 126/2011
-                          (tóku gildi 30. sept. 2011).
+gildi 1. okt. 2011), l. 123/2011 (tóku gildi 29. sept. 2011), l. 126/2011 (tóku
+gildi 30. sept. 2011), l. 156/2011 (tóku gildi 30. des. 2011 nema a-liður 3. gr.
+sem tók gildi 1. jan. 2012) og l. 164/2011 (tóku gildi 30. des. 2011 nema 1.2.,
+4.5., 7., 15.21., 24.27., 29.30. og 34.39. gr. sem tóku gildi 1. jan. 2012;
+                komu til framkvæmda skv. fyrirmælum í 40. gr.).
 
               I. kafli. Skyldutrygging, iðgjald og tryggingavernd.
 1. gr. Lög þessi gilda um alla lífeyrissjóði og samninga um tryggingavernd eins
@@ -547,15 +550,18 @@ lífeyrissjóðs skal einnig hafa með höndum almennt eftirlit með rekstri, b�
           stofnunar eða atvinnufyrirtækis, nema lög kveði á um annað,
      [7. ]^2) að láta tryggingafræðilega athugun fara fram á fjárhag sjóðsins,
                                  sbr. 24. gr.,
-   [8. að móta innra eftirlit lífeyrissjóðsins og skjalfesta eftirlitsferla].^3)
+   [8. að móta innra eftirlit lífeyrissjóðsins og skjalfesta eftirlitsferla],^3)
+   [9. að móta eftirlitskerfi sem gerir sjóðnum kleift að greina, vakta, meta og
+                     stýra áhættu í starfsemi sjóðsins].^4)
 [Stjórn lífeyrissjóðs skal vera skipuð þremur einstaklingum hið fæsta. Hvort kyn
    skal eiga fulltrúa í stjórn þegar stjórn er skipuð þremur mönnum og þegar
  stjórnarmenn eru fleiri en þrír í lífeyrissjóði skal tryggt að hlutfall hvors
   kynsins sé ekki lægra en 40%. Sama gildir um kynjahlutföll meðal varamanna í
  lífeyrissjóðum en hlutföllin í stjórn og varastjórn skulu þó í heild vera sem
-                                  jöfnust.]^4)
+                                  jöfnust.]^5)
      ^1)L. 56/2000, 4. gr. ^2)L. 11/2000, 18. gr. ^3)L. 171/2008, 6. gr. ^4)L.
-    122/2011, 1. gr. Málsgreinin tekur gildi 1. sept. 2013 skv. 6. gr. s.l.
+ 156/2011, 1. gr. ^5)L. 122/2011, 1. gr. Málsgreinin tekur gildi 1. sept. 2013
+                                skv. 6. gr. s.l.
   30. gr. Fyrir lok júní hvert ár skal stjórn lífeyrissjóðs boða til ársfundar
  sjóðsins. Allir sjóðfélagar eiga rétt til fundarsetu á ársfundinum með umræðu-
 og tillögurétti. Atkvæðisréttur skal vera í samræmi við samþykktir hlutaðeigandi
@@ -1073,7 +1079,7 @@ lögaðila er heimilt að beita stjórnendur lögaðilans framangreindum viðurl
      Rg. 468/2007. Rg. 791/2007. Rg. 473/2008. Rg. 900/2008. Rg. 916/2009.
  57. gr. Kostnaður við birtingu tilkynninga samkvæmt lögum þessum skal greiddur
                           af viðkomandi lífeyrissjóði.
-                  58. gr. Lög þessi öðlast gildi 1. júlí 1998.
+                58. gr. Lög þessi öðlast gildi 1. júlí 1998. ...
 
                             Ákvæði til bráðabirgða.
  I. Fram til þess tíma er starfsleyfi er veitt skv. XI. kafla skal um starfsemi
@@ -1109,30 +1115,32 @@ mgr. [18]36. gr. laga nr. 129/1997 er ekki skylt að selja óskráð bréf sem k
     hlutfallstöluna 10% í 2. málsl. 1. mgr. 2. gr. laga þessara þar til nýr
                         kjarasamningur öðlast gildi.]^1)
                               ^1)L. 167/2006, 3. gr.
-   [VI. Þrátt fyrir ákvæði 1. málsl. 2. mgr. 39. gr. skal lífeyrissjóði vera
+   [VI. [Þrátt fyrir ákvæði 1. málsl. 2. mgr. 39. gr. skal lífeyrissjóði vera
   heimilt að hafa allt að 15% mun á milli eignarliða og framtíðarskuldbindinga
-  vegna lífeyris miðað við tryggingafræðilega athugun fyrir árið [2010],^1) án
-þess að honum sé skylt að gera breytingar á samþykktum sjóðsins. Ákvæði 1. mgr.
-   39. gr. um að hrein eign lífeyrissjóðs til greiðslu lífeyris ásamt núvirði
-  framtíðariðgjalda skuli vera jafnhá núvirði væntanlegs lífeyris vegna þegar
-greiddra iðgjalda og framtíðariðgjalda á ekki við um tryggingafræðilega athugun
-                             fyrir árið [2010].^1)
+vegna lífeyris miðað við tryggingafræðilega athugun fyrir árið 2011, allt að 13%
+  mun fyrir árið 2012 og allt að 11% mun fyrir árið 2013, án þess að honum sé
+  skylt að gera breytingar á samþykktum sjóðsins. Ákvæði 1. mgr. 39. gr. um að
+ hrein eign lífeyrissjóðs til greiðslu lífeyris ásamt núvirði framtíðariðgjalda
+ skuli vera jafnhá núvirði væntanlegs lífeyris vegna þegar greiddra iðgjalda og
+framtíðariðgjalda á ekki við um tryggingafræðilega athugun fyrir árin 2011, 2012
+                                    og 2013.
  Þegar metið er hvort lífeyrissjóður falli undir 2. málsl. 2. mgr. 39. gr. skal
-miða við 10% mun á milli eignarliða og lífeyrisskuldbindinga árið [2010].^1)]^2)
-                  ^1)L. 165/2010, 41. gr. ^2)L. 171/2008, 13. gr.
+miða við 10% mun á milli eignarliða og lífeyrisskuldbindinga árin 2011, 2012 og
+                                 2013.]^1)]^2)
+                  ^1)L. 156/2011, 2. gr. ^2)L. 171/2008, 13. gr.
 [VII. [Þrátt fyrir ákvæði 4. málsl. 5. mgr. 36. gr. er lífeyrissjóði heimilt að
 eiga allt að 20% af hlutafé í samlagshlutafélögum. Nýjar fjárfestingar eða nýjar
 skuldbindingar í slíkum félögum, umfram mörk skv. 4. málsl. 5. mgr. 36. gr., eru
                  ekki heimilar eftir 31. desember 2013.]^1)]^2)
                   ^1)L. 130/2009, 40. gr. ^2)L. 171/2008, 13. gr.
 [VIII. [Þrátt fyrir ákvæði 11. og 12. gr. er rétthafa séreignarsparnaðar heimilt
-   á tímabilinu 1. október 2011 fram til 1. júlí 2012 að sækja um útgreiðslu
+  á tímabilinu [1. janúar 2012 til 1. október 2012]^1) að sækja um útgreiðslu
  séreignarsparnaðar, sem myndast hefur af viðbótariðgjaldi skv. II. kafla, til
 vörsluaðila skv. 3.5. mgr. 8. gr. og skal greiðslum háttað eftir því sem nánar
                         er mælt fyrir um í ákvæði þessu.
 Heimilt er á því tímabili sem tilgreint er í 1. mgr. að hefja útborgun innstæðu
- séreignarsparnaðar rétthafa, ásamt vöxtum, að fjárhæð sem hinn 1. október 2011
-     nemur samanlagt allt að 6.250.000 kr. óháð því hvort sú heildarfjárhæð
+   séreignarsparnaðar rétthafa, ásamt vöxtum, að fjárhæð sem hinn [1. janúar
+2012]^1) nemur samanlagt allt að 6.250.000 kr. óháð því hvort sú heildarfjárhæð
 séreignarsparnaðar er í vörslu hjá fleiri en einum vörsluaðila. Skal sú fjárhæð
    greiðast út með jöfnum mánaðarlegum greiðslum, að frádreginni staðgreiðslu
 samkvæmt lögum um staðgreiðslu opinberra gjalda, á 15 mánaða tímabili frá því að
@@ -1140,8 +1148,8 @@ samkvæmt lögum um staðgreiðslu opinberra gjalda, á 15 mánaða tímabili fr
          hlutfallslega ef um lægri fjárhæð en 6.250.000 kr. er að ræða.
  Við ákvörðun fjárhæðar rétthafa til útborgunar skal draga frá hámarksfjárhæð,
 þ.e. allt að 6.250.000 kr., samanlagða fjárhæð þess séreignarsparnaðar sem þegar
- hefur verið greiddur út á grundvelli ákvæðisins eins og það hljóðaði fyrir 1.
-  október 2011. Sé óskað eftir útgreiðslum samkvæmt ákvæði þessu fellur fyrra
+ hefur verið greiddur út á grundvelli ákvæðisins eins og það hljóðaði fyrir [1.
+ janúar 2012].^1) Sé óskað eftir útgreiðslum samkvæmt ákvæði þessu fellur fyrra
 greiðslufyrirkomulag niður, en samanlögð heimil heildarfjárhæð útborgunar, allt
  að 6.250.000 kr., greiðist út í samræmi við ákvæði 2. mgr., sbr. fyrri málslið
                              þessarar málsgreinar.
@@ -1155,7 +1163,7 @@ Vörsluaðilar séreignarsparnaðar taka ákvörðun um umsókn rétthafa skv. 2
         séreignarsparnað sinn samkvæmt þessu ákvæði, sbr. 2. mgr. 8. gr.
   Ríkisskattstjóri hefur eftirlit með útgreiðslum séreignarsparnaðar samkvæmt
                                  ákvæði þessu.
-Ráðherra er heimilt með reglugerð^1) að kveða nánar á um fyrirkomulag eftirlits
+Ráðherra er heimilt með reglugerð^2) að kveða nánar á um fyrirkomulag eftirlits
                        og útgreiðslu séreignarsparnaðar.
   Útgreiðsla séreignarsparnaðar samkvæmt ákvæði þessu hefur ekki áhrif á bætur
   samkvæmt lögum um almannatryggingar og lögum um félagslega aðstoð. Þá hefur
@@ -1166,9 +1174,10 @@ greiðslur til foreldra langveikra eða alvarlega fatlaðra barna, sbr. [21]22. 
                                laga nr. 22/2006.
 Um afgreiðslu umsókna, sem borist hafa í gildistíð eldra ákvæðis og óafgreiddar
 kunna að vera, skal fara eftir ákvæði þessu, svo breyttu, frá og með gildistöku
-                                 þess.]^2)]^3)
-           ^1)Rg. 290/2009. ^2)L. 122/2011, 4. gr. ^3)L. 13/2009, 3. gr.
-      [IX. Á tímabilinu 1. mars 2009 til [1. júlí 2012]^1) er vörsluaðila
+                                 þess.]^3)]^4)
+       ^1)L. 164/2011, 38. gr. ^2)Rg. 290/2009. ^3)L. 122/2011, 4. gr. ^4)L.
+                                13/2009, 3. gr.
+     [IX. Á tímabilinu 1. mars 2009 til [1. október 2012]^1) er vörsluaðila
      séreignarsparnaðar heimilt að fresta útgreiðslum séreignarsparnaðar að
           uppfylltum þeim skilyrðum sem kveðið er á um í þessu ákvæði.
  Frestun skv. 1. mgr. skal vera almenn og verður einungis beitt mæli sérstakar
@@ -1177,16 +1186,23 @@ kunna að vera, skal fara eftir ákvæði þessu, svo breyttu, frá og með gild
             sbr. 44. gr. Jafnframt skal frestun auglýst opinberlega.
  Fjármálaeftirlitið getur krafist þess að útgreiðslum séreignarsparnaðar verði
    frestað krefjist hagsmunir rétthafa sparnaðarins eða almennings þess.]^2)
-                   ^1)L. 122/2011, 5. gr. ^2)L. 13/2009, 3. gr.
-  [X. Þrátt fyrir ákvæði 1. og 2. málsl. 2. mgr. 20. gr. skulu lífeyrissjóðir,
+                   ^1)L. 164/2011, 39. gr. ^2)L. 13/2009, 3. gr.
+                                  [X. ^1)]^2)
+                   ^1)L. 73/2011, 13. gr. ^2)L. 73/2011, 12. gr.
+ [XI. Þrátt fyrir ákvæði 1. mgr. 15. gr. er óheimilt á tímabilinu frá 1. janúar
+   2011 til 31. desember 2013 að láta almennar hækkanir sem kunna að verða á
+ örorkulífeyrisgreiðslum samkvæmt [22]lögum nr. 100/2007, um almannatryggingar,
+      og [23]lögum nr. 99/2007, um félagslega aðstoð, leiða til lækkunar á
+                 örorkulífeyri sjóðfélaga úr lífeyrissjóði.]^1)
+                              ^1)L. 106/2011, 3. gr.
+ [XII. Þrátt fyrir ákvæði 1. og 2. málsl. 2. mgr. 20. gr. skulu lífeyrissjóðir,
 þ.m.t. lífeyrissjóðir sem starfa samkvæmt sérlögum og staðfestri reglugerð, sbr.
-54. gr., greiða sem samsvarar 0,13% af samanlögðum iðgjaldsstofni, sbr. 1. mgr.
-      3. gr., allra sjóðfélaga til starfsendurhæfingar sjóðfélaga til VIRK
-  Starfsendurhæfingarsjóðs sem starfar á vegum aðila vinnumarkaðarins. Fyrsta
- greiðsla er reiknuð af iðgjaldsstofni janúarmánaðar 2012. Gjalddagi skal vera
-     tíundi dagur næsta mánaðar eftir að launagreiðandi hefur staðið skil á
-   lífeyrisiðgjaldi skv. 2. mgr. 7. gr. Eindagi skal vera síðasti dagur sama
-                     mánaðar og gjaldið fellur í gjalddaga.
+54. gr., greiða gjald sem samsvarar 0,13% af samanlögðum iðgjaldsstofni, sbr. 1.
+ mgr. 3. gr., allra sjóðfélaga til VIRK Starfsendurhæfingarsjóðs, sem starfar á
+ vegum aðila vinnumarkaðarins. Fyrsta greiðslan skal reiknuð af iðgjaldsstofni
+   júlímánaðar 2012. Gjalddagi skal vera tíundi dagur næsta mánaðar eftir að
+launagreiðandi hefur staðið skil á lífeyrisiðgjaldi skv. 2. mgr. 7. gr. Eindagi
+      skal vera síðasti dagur sama mánaðar og gjaldið fellur í gjalddaga.
  Iðgjald launagreiðanda, þ.m.t. þeirra sem stunda atvinnurekstur eða sjálfstæða
  starfsemi, til VIRK Starfsendurhæfingarsjóðs skal vera 0,13% af iðgjaldsstofni
       skv. 1. mgr. 3. gr. og skal reiknast í fyrsta sinn af iðgjaldsstofni
@@ -1196,20 +1212,25 @@ Starfsendurhæfingarsjóðs. Launagreiðanda skv. 1. málsl. er skylt að standa
 lífeyrisiðgjald, sbr. 2. mgr. 7. gr. Lífeyrissjóðir ráðstafa iðgjaldinu til VIRK
   Starfsendurhæfingarsjóðs og skal fara eftir þeim ákvæðum sem almennt gilda í
            þeim innheimtusamningum sem gerðir hafa verið milli aðila.
- Ráðherra velferðarmála og ráðherra lífeyrismála skulu skipa samráðsnefnd aðila
-vinnumarkaðarins, stjórnvalda og Landssamtaka lífeyrissjóða til að koma fram með
-   nánari tillögur um skipulag og samhæfingu starfsendurhæfingarmála fyrir 1.
-nóvember 2011 þar sem miðað verði við jafna kostnaðarskiptingu í þrjá hluta. Þá
- skal nefndin fyrir sama tímamark leggja fram tillögur að skýrum lagaramma eða
-   umgjörð Starfsendurhæfingarsjóðs, m.a. varðandi greiðsluskyldu, ábyrgð og
-        eftirlit. Samráð skal haft við skattyfirvöld við útfærsluna.]^1)
-     ^1)L. 73/2011, 12. gr. Ákvæðið gildir til 1. jan. 2012 skv. 13. gr. s.l.
- [XI. Þrátt fyrir ákvæði 1. mgr. 15. gr. er óheimilt á tímabilinu frá 1. janúar
-   2011 til 31. desember 2013 að láta almennar hækkanir sem kunna að verða á
- örorkulífeyrisgreiðslum samkvæmt [22]lögum nr. 100/2007, um almannatryggingar,
-      og [23]lögum nr. 99/2007, um félagslega aðstoð, leiða til lækkunar á
-                 örorkulífeyri sjóðfélaga úr lífeyrissjóði.]^1)
-                              ^1)L. 106/2011, 3. gr.
+Skipunartími samráðsnefndar sem skipuð var af ráðherra velferðarmála og ráðherra
+ lífeyrismála samkvæmt ákvæði til bráðabirgða X skal framlengdur til 1. febrúar
+                                   2012.]^1)
+      ^1)L. 156/2011, 3. gr. Ákvæðið gildir til 1. júlí 2012 skv. 4. gr. s.l.
+    [XIII. Þrátt fyrir ákvæði 1. málsl. 2. mgr. 31. gr. er stjórnarmönnum í
+ lífeyrissjóðum heimilt að eiga sæti í stjórn annars lífeyrissjóðs til 1. júlí
+                                   2012.]^1)
+                              ^1)L. 156/2011, 3. gr.
+ [XIV. Við álagningu opinberra gjalda 2012 og 2013 skulu aðilar sem falla undir
+  6. tölul. [24]4. gr. laga nr. 90/2003, um tekjuskatt, og lífeyrissjóðir sem
+starfa samkvæmt sérlögum, greiða sérstakt gjald í ríkissjóð sem nemur 0,0814% af
+     hreinni eign til greiðslu lífeyris, sbr. 39. gr., eins og hún er í lok
+næstliðins árs. Gjalddagi er 1. nóvember 2012 og 1. nóvember 2013 og eindagi 15
+dögum síðar. Greiða skal fyrir fram upp í álagt gjald hinn 31. desember 2011 og
+  1. nóvember 2012 og miðast sú greiðsla við hreina eign til greiðslu lífeyris
+eins og hún var í árslok 2010 og 2011 og það skatthlutfall sem kveðið er á um í
+ákvæði þessu. Um álagningu og innheimtu fer samkvæmt ákvæðum X.[25]XIII. kafla
+           laga nr. 90/2003, um tekjuskatt, eftir því sem við á.]^1)
+                              ^1)L. 156/2011, 3. gr.
 
 References
 
@@ -1237,3 +1258,5 @@ References
   21. file://2006022.html#g22
   22. file://2007100.html
   23. file://2007099.html
+  24. file://2003090.html#g4
+  25. file://2003090.html

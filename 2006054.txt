@@ -17,7 +17,8 @@ Tóku gildi 1. júlí 2006. Breytt með [1]l. 88/2008 (tóku gildi 1. jan. 2009 
 gr. og a- og b-liður 9. gr. sem tóku gildi 1. maí 2010), l. 70/2010 (tóku gildi
 25. júní 2010), l. 153/2010 (tóku gildi 1. jan. 2011 nema 1. og 2. gr. sem tóku
  gildi 1. mars 2011), l. 162/2010 (tóku gildi 1. jan. 2011), l. 103/2011 (tóku
-        gildi 4. sept. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
+  gildi 4. sept. 2011), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 178/2011
+                           (tóku gildi 1. jan. 2012).
 
                  I. kafli. Gildissvið, markmið og orðskýringar.
                                1. gr. Gildissvið.
@@ -744,7 +745,8 @@ grunnatvinnuleysisbóta og hámarki tekjutengdra atvinnuleysisbóta til hækkuna
   hans í vinnumarkaðsúrræði stendur á hinn tryggði hvorki rétt á tekjutengdum
          atvinnuleysisbótum né grunnatvinnuleysisbótum á sama tíma.]^4)
        ^1)L. 134/2009, 9. gr. ^2)L. 162/2010, 32. gr. ^3)Rg. 548/2006, sbr.
-     1253/2007, 1219/2008 og 566/2011. Rg. 945/2010. ^4)L. 103/2011, 3. gr.
+1253/2007, 1219/2008, 566/2011 og 1224/2011. Rg. 945/2010. Rg. 1064/2011. ^4)L.
+                                103/2011, 3. gr.
        34. gr. Atvinnuleysisbætur vegna framfærsluskyldu gagnvart börnum.
 Sá sem telst tryggður skv. III. eða IV. kafla og hefur framfærsluskyldu gagnvart
  börnum yngri en 18 ára skal eiga rétt á 4% af óskertum grunnatvinnuleysisbótum
@@ -978,7 +980,16 @@ Vinnumálastofnun er heimilt að leita upplýsinga hjá þar til bærri stofnun 
      aðildarríki að samningnum um Evrópska efnahagssvæðið eða stofnsamningi
     Fríverslunarsamtaka Evrópu eða í Færeyjum á ávinnslutímabilinu við mat á
   atvinnuleysistryggingu hans enda hafi störf hans í því ríki veitt honum rétt
-                samkvæmt lögum þess um atvinnuleysistryggingar.
+      samkvæmt lögum þess um atvinnuleysistryggingar. [Hafi umsækjandi um
+atvinnuleysisbætur hins vegar starfað á innlendum vinnumarkaði skemur en a.m.k.
+ síðasta mánuðinn á ávinnslutímabili skv. 15. eða 19. gr. skal Vinnumálastofnun
+ meta hvort viðkomandi umsækjandi um atvinnuleysisbætur teljist hafa starfað á
+ innlendum vinnumarkaði í skilningi laganna þannig að taka skuli, að því marki
+sem nauðsynlegt er, tillit til starfstímabila hans sem launamanns eða sjálfstætt
+     starfandi einstaklings, sbr. a- og b-lið 3. gr., í öðru aðildarríki að
+  samningnum um Evrópska efnahagssvæðið eða stofnsamningi Fríverslunarsamtaka
+Evrópu eða í Færeyjum enda hafi störf hans veitt honum rétt samkvæmt lögum þess
+                     ríkis um atvinnuleysistryggingar.]^2)
        Umsækjandi skal láta tilskilin vottorð um áunnin starfstímabil og
 tryggingatímabil í öðru aðildarríki fylgja með umsókn um atvinnuleysisbætur skv.
                                      9. gr.
@@ -986,12 +997,12 @@ tryggingatímabil í öðru aðildarríki fylgja með umsókn um atvinnuleysisb�
 Finnlandi, Færeyjum, Grænlandi, Noregi eða Svíþjóð, hefur starfað hér á landi á
 síðastliðnum fimm árum frá móttökudegi umsóknar í þeim mæli að hann hefði talist
   tryggður samkvæmt lögum þessum þarf ekki að uppfylla það skilyrði 1. mgr. að
-      hafa starfað á innlendum vinnumarkaði [a.m.k. síðasta mánuðinn]^2) á
+      hafa starfað á innlendum vinnumarkaði [a.m.k. síðasta mánuðinn]^3) á
   ávinnslutímabili svo að heimilt sé að taka tillit til starfstímabila hans í
  þessum ríkjum. Hið sama á við um þá sem flytja til Íslands frá framangreindum
 ríkjum og hafa fengið greiddar atvinnuleysisbætur hér á landi á næstliðnum fimm
               árum frá móttökudegi umsóknar hjá Vinnumálastofnun.
-                   ^1)L. 134/2009, 14. gr. ^2)L. 70/2010, 2. gr.
+       ^1)L. 134/2009, 14. gr. ^2)L. 178/2011, 3. gr. ^3)L. 70/2010, 2. gr.
                             48. gr. Útgáfa vottorða.
 Vinnumálastofnun skal gefa út vottorð til staðfestingar á atvinnuleysistryggingu
 hins tryggða samkvæmt umsókn þar sem fram kemur starfstímabil hans hér á landi á
@@ -1239,13 +1250,17 @@ Endurtaki atvik sig sem lýst er í 3. mgr. á sama tímabili skv. 29. gr. skal 
 
                             XII. kafli. Ýmis ákvæði.
        62. gr. Styrkir úr Atvinnuleysistryggingasjóði vegna einstaklinga.
- Vinnumálastofnun er heimilt að veita styrki vegna þátttöku þeirra sem teljast
-       tryggðir samkvæmt lögum þessum í vinnumarkaðsaðgerðum, þar á meðal
-  starfsþjálfunarúrræðum. Enn fremur er heimilt að veita sérstaka styrki vegna
-         búferlaflutninga hins tryggða innan lands vegna starfstilboða.
-    [Ráðherra]^1) skal setja nánari reglur,^2) að fenginni tillögu stjórnar
+[Heimilt er að veita styrki úr Atvinnuleysistryggingasjóði vegna þátttöku þeirra
+ sem teljast tryggðir samkvæmt lögum þessum eða töldust tryggðir samkvæmt lögum
+    þessum þegar þátttaka í vinnumarkaðstengdum úrræðum hófst í starfs- eða
+  námstengdum vinnumarkaðsúrræðum. Enn fremur er heimilt að veita sömu aðilum
+sérstaka styrki vegna kostnaðar sem þeir verða fyrir í tengslum við að ráða sig
+     til starfa fjarri heimili, sem og í tengslum við starfs- eða námstengd
+                            vinnumarkaðsúrræði.]^1)
+    [Ráðherra]^2) skal setja nánari reglur,^3) að fenginni tillögu stjórnar
               Atvinnuleysistryggingasjóðs, um styrki skv. 1. mgr.
-              ^1)L. 162/2010, 32. gr. ^2)Rg. 12/2009, sbr. 781/2011.
+   ^1)L. 178/2011, 4. gr. ^2)L. 162/2010, 32. gr. ^3)Rg. 12/2009, sbr. 781/2011.
+                                 Rg. 1235/2011.
   63. gr. Styrkir úr Atvinnuleysistryggingasjóði til verkefna á vinnumarkaði.
              [Ráðherra]^1) er heimilt, að fenginni tillögu stjórnar
 Atvinnuleysistryggingasjóðs, að veita styrki úr Atvinnuleysistryggingasjóði til
@@ -1262,9 +1277,9 @@ Atvinnuleysistryggingasjóðs, að veita styrki úr Atvinnuleysistryggingasjóð
          Atvinnuleysistryggingasjóðs, um nánari framkvæmd laga þessara.
      ^1)L. 162/2010, 32. gr. ^2)Rg. 514/2007. Rg. 646/2008. Rg. 647/2008. Rg.
  12/2009, sbr. 781/2011. Rg. 29/2009. Rg. 420/2009. Rg. 524/2009. Rg. 833/2009.
-                   Rg. 994/2009. Rg. 945/2010. Rg. 757/2011.
+    Rg. 994/2009. Rg. 945/2010. Rg. 757/2011. Rg. 1064/2011. Rg. 1235/2011.
                               65. gr. Gildistaka.
-                      Lög þessi öðlast gildi 1. júlí 2006.
+                    Lög þessi öðlast gildi 1. júlí 2006. ...
 
                             Ákvæði til bráðabirgða.
 I. Þeim sem hefur í fyrsta skipti skráð sig atvinnulausan hjá svæðisvinnumiðlun
@@ -1398,8 +1413,8 @@ viðbótar frá þeim degi er tímabili skv. 1. mgr. 29. gr. lauk enda uppfylli 
  lauk og misst starf sitt af gildum ástæðum. Hefst þá nýtt tímabil skv. 29. gr.
           en að öðru leyti gilda ákvæði III. og IV. kafla um skilyrði
        atvinnuleysistryggingar hins tryggða eftir því sem við getur átt.
-                Ákvæði 1. mgr. gildir til 31. desember 2011.]^1)
-                              ^1)L. 153/2010, 6. gr.
+             Ákvæði 1. mgr. gildir til [31. desember 2012].^1)]^2)
+                   ^1)L. 178/2011, 5. gr. ^2)L. 153/2010, 6. gr.
 
 References
 

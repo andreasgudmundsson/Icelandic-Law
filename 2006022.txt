@@ -243,7 +243,7 @@ til hækkunar ef verulegar breytingar verða á launaþróun og þjóðhagsforse
  afgreiðslu fjárlaga. Þegar framangreind skilyrði leiða til hækkunar á fjárhæð
       greiðslna skal [ráðherra]^2) breyta fjárhæðinni í reglugerð.^3)]^4)
        ^1)L. 158/2007, 7. gr. ^2)L. 162/2010, 31. gr. ^3)Rg. 1197/2008. Rg.
-        1100/2009. Rg. 1008/2010, sbr. 574/2011. ^4)L. 158/2007, 8. gr.
+                1100/2009. Rg. 1228/2011. ^4)L. 158/2007, 8. gr.
            [12. gr.]^1) [Greiðslur samhliða minnkuðu starfshlutfalli.
 Foreldri, sbr. d- og e-lið 3. gr., sem þarf að leggja niður störf að hluta vegna
 bráðaaðstæðna sem koma upp þegar barn þess greinist með alvarlegan og langvinnan
@@ -355,7 +355,7 @@ frádráttar [greiðslum samkvæmt ákvæði þessu].^2) Umönnunargreiðslur se
 að mæta útlögðum kostnaði vegna veikinda eða fötlunar barns skulu ekki koma til
                   frádráttar greiðslum samkvæmt lögum þessum.
    ^1)L. 158/2007, 7. gr. ^2)L. 158/2007, 13. gr. ^3)L. 162/2010, 31. gr. ^4)Rg.
-            1197/2008. Rg. 1100/2009. Rg. 1008/2010, sbr. 574/2011.
+                    1197/2008. Rg. 1100/2009. Rg. 1228/2011.
                 [17. gr. Mat á lengd greiðslutímabils foreldra.
     Við mat á því í hversu langan tíma foreldrar eiga sameiginlegan rétt til
  greiðslna skv. 8. eða 14. gr. skal framkvæmdaraðili líta heildstætt á aðstæður
@@ -440,8 +440,8 @@ fjárlaga ár hvert með tilliti til þróunar launa, verðlags og efnahagsmála
 til hækkunar ef verulegar breytingar verða á launaþróun og þjóðhagsforsendum frá
  afgreiðslu fjárlaga. Þegar framangreind skilyrði leiða til hækkunar á fjárhæð
       greiðslna skal [ráðherra]^1) breyta fjárhæðinni í reglugerð.^2)]^3)
-   ^1)L. 162/2010, 31. gr. ^2)Rg. 1197/2008. Rg. 1100/2009. Rg. 1008/2010, sbr.
-                       574/2011. ^3)L. 158/2007, 17. gr.
+   ^1)L. 162/2010, 31. gr. ^2)Rg. 1197/2008. Rg. 1100/2009. Rg. 1228/2011. ^3)L.
+                               158/2007, 17. gr.
            [21. gr. Greiðslur vegna framfærsluskyldu gagnvart börnum.
   Foreldri sem á rétt á grunngreiðslum skv. 19. gr. og hefur framfærsluskyldu
  gagnvart börnum yngri en átján ára skal eiga rétt á barnagreiðslum að fjárhæð
@@ -459,8 +459,8 @@ fjárlaga ár hvert með tilliti til þróunar launa, verðlags og efnahagsmála
 til hækkunar ef verulegar breytingar verða á launaþróun og þjóðhagsforsendum frá
  afgreiðslu fjárlaga. Þegar framangreind skilyrði leiða til hækkunar á fjárhæð
       greiðslna skal [ráðherra]^1) breyta fjárhæðinni í reglugerð.^2)]^3)
-   ^1)L. 162/2010, 31. gr. ^2)Rg. 1197/2008. Rg. 1100/2009. Rg. 1008/2010, sbr.
-                       574/2011. ^3)L. 158/2007, 17. gr.
+   ^1)L. 162/2010, 31. gr. ^2)Rg. 1197/2008. Rg. 1100/2009. Rg. 1228/2011. ^3)L.
+                               158/2007, 17. gr.
              [22. gr. Frádráttur vegna tekna og annarra greiðslna.
 Þegar samanlagðar grunngreiðslur skv. 19. gr., sbr. 20. gr., og tekjur foreldris
       og aðrar greiðslur, þar á meðal örorkulífeyrisgreiðslur úr almennum
@@ -478,8 +478,8 @@ Frítekjumarkið skal vera 52.000 kr. á mánuði. Fjárhæð frítekjumarksins 
   breytingar verða á launaþróun og þjóðhagsforsendum frá afgreiðslu fjárlaga.
   Þegar áðurgreind skilyrði leiða til hækkunar á fjárhæð frítekjumarksins skal
              [ráðherra]^1) breyta fjárhæðinni með reglugerð.^2)]^3)
-   ^1)L. 162/2010, 31. gr. ^2)Rg. 1197/2008. Rg. 1100/2009. Rg. 1008/2010, sbr.
-                       574/2011. ^3)L. 158/2007, 17. gr.
+   ^1)L. 162/2010, 31. gr. ^2)Rg. 1197/2008. Rg. 1100/2009. Rg. 1228/2011. ^3)L.
+                               158/2007, 17. gr.
                 [23. gr. Mat á lengd greiðslutímabils foreldra.
     Við mat á því í hversu langan tíma foreldrar eiga sameiginlegan rétt til
   grunngreiðslna skv. 19. gr., sbr. einnig 20. gr., skal framkvæmdaraðili líta
@@ -614,7 +614,7 @@ Um innheimtu ofgreidds fjár samkvæmt lögum þessum fer skv. [2]111. gr. laga 
                         [31. gr.]^1) Reglugerðarheimild.
 [Ráðherra]^2) er heimilt að setja reglugerð^3) um nánari framkvæmd laga þessara.
        ^1)L. 158/2007, 18. gr. ^2)L. 162/2010, 31. gr. ^3)Rg. 1277/2007. Rg.
-            1197/2008. Rg. 1100/2009. Rg. 1008/2010, sbr. 574/2011.
+                    1197/2008. Rg. 1100/2009. Rg. 1228/2011.
                             [32. gr.]^1) Gildistaka.
   Lög þessi skulu öðlast gildi 1. júlí 2006, sbr. þó 2.4. mgr. Ákvæði laganna
 eiga við um börn sem greinast með alvarlega og langvinna sjúkdóma eða alvarlega
@@ -637,7 +637,7 @@ langvinna sjúkdóma eða alvarlega fötlun 1. janúar 2008 eða síðar. Sama �
   aðstæður skv. 1. mgr. 15. gr. enda þótt börnin hafi greinst í fyrsta skipti
                              fyrir 1. janúar 2008.
                               ^1)L. 158/2007, 18. gr.
-                                  [33. gr.]^1)
+                                [33. gr.]^1) ...
                               ^1)L. 158/2007, 18. gr.
 
 References

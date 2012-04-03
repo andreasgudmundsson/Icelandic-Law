@@ -371,7 +371,7 @@ Eftirfarandi skírteini til vélstjórnar skulu gefin út að uppfylltum skilyr�
 
                                                                Siglinga-
 Stjórnunarsvið               Takmarkanir         Aldur         tími
-Vélstjóri                    &leq;375 kW         18            A.
+Vélstjóri                    =<375 kW            18            A.
 Vélstjóri                    <750 kW             18            B.
 1. vélstjóri                 <3.000 kW           20            C.
 Yfirvélstjóri                <3.000 kW           20            D.
@@ -385,7 +385,7 @@ Aðstoðarmaður í vél          engar               16            F.
                                  Siglingatími:
 
                  A. 9 mánaða siglingatími sem aðstoðarmaður í vél.
-           B. 14 mánaða siglingatími sem vélstjóri á skipi &leq;375 kW.
+             B. 14 mánaða siglingatími sem vélstjóri á skipi =<375 kW.
     C. 18 mánaða siglingatími sem vélstjóri á skipum með aðalvél stærri en 750
                                       kW.
     D. 36 mánaða siglingatími sem vélstjóri á skipum með aðalvél stærri en 750
@@ -475,6 +475,7 @@ sviptinguna liggur fyrir. Bráðabirgðasvipting samkvæmt ákvæði þessu skal
                  ^3)L. 39/2008, 6. gr. ^4)L. 126/2011, 326. gr.
                             18. gr. Gildistaka o.fl.
                       Lög þessi öðlast gildi 1. júlí 2001.
+                                      ...
  Ákvæði til bráðabirgða. Allir þeir sem starfa á farþegaskipum skulu eigi síðar
    en 1. júní 2002 sækja námskeið um farþegaflutninga með skipum og stjórnun
      mannfjölda á neyðarstundu sem sjómannaskóli skipuleggur í samráði við

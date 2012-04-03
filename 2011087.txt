@@ -9,7 +9,10 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Taka gildi 1. janúar 2012.
+Tóku gildi 1. janúar 2012. Breytt með l. 164/2011 (tóku gildi 30. des. 2011 nema
+  1.2., 4.5., 7., 15.21., 24.27., 29.30. og 34.39. gr. sem tóku gildi 1.
+           jan. 2012; komu til framkvæmda skv. fyrirmælum í 40. gr.).
+
                                 1. gr. Markmið.
 Markmið laga þessara er að afla tekna til að stuðla að uppbyggingu, viðhaldi og
 verndun fjölsóttra ferðamannastaða, friðlýstra svæða og þjóðgarða. Jafnframt að
@@ -27,29 +30,31 @@ Greiða skal í ríkissjóð gistináttaskatt af hverri seldri gistináttaeining
   Tilgreina skal gistináttaskatt á sölureikningi eða greiðslukvittun og myndar
                         hann stofn til virðisaukaskatts.
                                3. gr. Undanþágur.
-       Atvinnustarfsemi sem er undanþegin virðisaukaskatti er undanþegin
-                               gistináttaskatti.
+[Ekki skal leggja gistináttaskatt á sölu gistingar sem ekki ber virðisaukaskatt
+             samkvæmt [1]lögum nr. 50/1988, um virðisaukaskatt.]^1)
+                              ^1)L. 164/2011, 34. gr.
                           4. gr. Skattskyldir aðilar.
  Öllum þeim sem selja gistináttaeiningar skv. 1. mgr. 2. gr. ber skylda til að
                   innheimta og standa skil á gistináttaskatti.
-Undanþegnir skattskyldu eru þeir sem uppfylla skilyrði 3. tölul. [1]4. gr. laga
-                        nr. 50/1988, um virðisaukaskatt.
+                                      ^1)
   Skattskyldir aðilar skulu ótilkvaddir senda ríkisskattstjóra tilkynningu um
                     skattskylda starfsemi áður en hún hefst.
    Ríkisskattstjóri heldur skrá yfir skattskylda aðila samkvæmt lögum þessum.
+                              ^1)L. 164/2011, 35. gr.
                        5. gr. Álagning gistináttaskatts.
   Ríkisskattstjóri annast álagningu gistináttaskatts skv. 2. gr. Skattskyldir
 aðilar skulu greiða gistináttaskatt fyrir hvert uppgjörstímabil miðað við fjölda
                            seldra gistináttaeininga.
-  Uppgjörstímabil gistináttaskatts skal vera tveir mánuðir, janúar og febrúar,
- mars og apríl, maí og júní, júlí og ágúst, september og október og nóvember og
- desember. Gjalddagi er fimmti dagur annars mánaðar eftir lok uppgjörstímabils.
-Beri gjalddaga upp á helgidag eða almennan frídag færist hann yfir á næsta virka
-  dag á eftir. Eigi síðar en á gjalddaga skulu skattskyldir aðilar ótilkvaddir
-  skila innheimtumanni ríkissjóðs skýrslu um fjölda seldra gistináttaeininga á
-            uppgjörstímabilinu og standa skil á greiðslu skattsins.
+    [Uppgjörstímabil gistináttaskatts skulu vera þau sömu og uppgjörstímabil
+virðisaukaskatts hjá skattaðila, sbr. [2]24. og [3]31. gr. laga nr. 50/1988, um
+    virðisaukaskatt.]^1) Gjalddagi er fimmti dagur annars mánaðar eftir lok
+uppgjörstímabils. Beri gjalddaga upp á helgidag eða almennan frídag færist hann
+  yfir á næsta virka dag á eftir. Eigi síðar en á gjalddaga skulu skattskyldir
+  aðilar ótilkvaddir skila innheimtumanni ríkissjóðs skýrslu um fjölda seldra
+  gistináttaeininga á uppgjörstímabilinu og standa skil á greiðslu skattsins.
   Skýrslur vegna gistináttaskatts skulu vera á því formi sem ríkisskattstjóri
                                     ákveður.
+                              ^1)L. 164/2011, 36. gr.
                                 6. gr. Viðurlög.
 Sé gistináttaskatti ekki skilað á réttum tíma skal skattskyldur aðili sæta álagi
  til viðbótar skatti samkvæmt skýrslu um fjölda seldra gistináttaeininga. Álag
@@ -63,7 +68,7 @@ Heimilt er innheimtumanni ríkissjóðs að láta lögreglu stöðva atvinnureks
                               7. gr. Ýmis ákvæði.
     Að því leyti sem eigi er ákveðið í lögum þessum um álagningu, innheimtu,
 tilhögun bókhalds, eftirlit, upplýsingaskyldu, viðurlög, kærur og aðra framkvæmd
-    skulu gilda, eftir því sem við geta átt, ákvæði [2]laga nr. 50/1988, um
+    skulu gilda, eftir því sem við geta átt, ákvæði [4]laga nr. 50/1988, um
                                 virðisaukaskatt.
                            8. gr. Reglugerðarheimild.
      Ráðherra er heimilt að setja nánari reglur um framkvæmd laga þessara í
@@ -75,5 +80,7 @@ tilhögun bókhalds, eftirlit, upplýsingaskyldu, viðurlög, kærur og aðra fr
 References
 
    Visible links
-   1. file://1988050.html#g4
-   2. file://1988050.html
+   1. file://1988050.html
+   2. file://1988050.html#g24
+   3. file://1988050.html#g31
+   4. file://1988050.html

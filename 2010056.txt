@@ -1292,7 +1292,7 @@ Jafnframt skulu stjórnarmenn og framkvæmdastjórar búa yfir nægilegri þekki
 þekkingu á þeirri starfsemi sem vátryggingafélagið stundar. Þeir mega ekki hafa
 sýnt af sér háttsemi í fyrri störfum sínum sem gefur tilefni til að draga í efa
   hæfni þeirra til að standa fyrir traustum og heilbrigðum rekstri eða að þeir
-   misnoti aðstöðu sína eða skaði félagið. Fjármálaeftirlitið setur reglur um
+ misnoti aðstöðu sína eða skaði félagið. Fjármálaeftirlitið setur reglur^1) um
  fjárhagslegt sjálfstæði stjórnarmanna og framkvæmdastjóra og um hvernig staðið
                               skuli að hæfismati.
 Stjórnarmenn í vátryggingafélagi eða öðrum eftirlitsskyldum aðila mega ekki eiga
@@ -1332,6 +1332,7 @@ Fái stjórnarmenn eða framkvæmdastjórar þóknun eða aðrar tekjur af vátr
 Stjórn og framkvæmdastjóri skulu án tafar gera Fjármálaeftirlitinu viðvart hafi
 þeir vitneskju um málefni sem hafa úrslitaþýðingu fyrir áframhaldandi starfsemi
                                    félagsins.
+                                ^1)Rgl. 1066/2011.
                   55. gr. Kaupaukakerfi. Starfslokasamningur.
      Að teknu tilliti til heildarafkomu vátryggingafélags yfir lengri tíma,
   undirliggjandi áhættu og fjármagnskostnaðar er vátryggingafélagi heimilt að
@@ -2432,6 +2433,7 @@ og gögn sem hún hefur aflað og tengjast þeim brotum sem tilgreind eru í 2. 
 92/49/EBE, 92/96/EBE, 98/78/EB, 2000/12/EB, 2000/26/EB, 2001/17/EB, 2001/24/EB,
     2002/13/EB, 2002/87/EB, 2002/92/EB, 2005/14/EB, 2005/68/EB, 2007/44/EB.
                      106. gr. Lög þessi öðlast þegar gildi.
+                                      ...
 
                             Ákvæði til bráðabirgða.
     I. Vátryggingafélög sem 10. desember 2007 höfðu hætt að taka að sér nýja

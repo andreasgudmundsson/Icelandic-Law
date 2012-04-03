@@ -19,8 +19,8 @@ gildi 29. des. 2007), [1]l. 82/2008 (tóku gildi 1. júní 2008, birt í Stjtí�
  gildi 21. júní 2008), l. 118/2008 (tóku gildi 1. okt. 2008), l. 145/2009 (tóku
 gildi 31. des. 2009), l. 146/2010 (tóku gildi 29. des. 2010), l. 162/2010 (tóku
 gildi 1. jan. 2011), l. 34/2011 (tóku gildi 19. apríl 2011), [3]l. 38/2011 (tóku
- gildi 21. apríl 2011; EES-samningurinn: X. viðauki tilskipun 89/552/EBE) og l.
-                     126/2011 (tóku gildi 30. sept. 2011).
+  gildi 21. apríl 2011; EES-samningurinn: X. viðauki tilskipun 89/552/EBE), l.
+126/2011 (tóku gildi 30. sept. 2011) og l. 163/2011 (tóku gildi 30. des. 2011).
 
             I. kafli. Markmið og gildissvið. Stjórn fjarskiptamála.
                          1. gr. Markmið og gildissvið.
@@ -425,9 +425,9 @@ uppfyllir þær skuldbindingar sem réttindin kveða á um. Dagsektir samkvæmt 
    halda útboð eða uppboð við úthlutun tíðna er einnig heimilt að framlengja
        málsmeðferðarfrest skv. 1. mgr., þó ekki lengur en um átta mánuði.
  Nánar skal kveðið á um málsmeðferð við veitingu réttinda til að nota tíðnir í
-    reglugerð sem ráðherra setur. Í reglugerðinni skal m.a. kveða nánar á um
-                  framkvæmd og skilmála útboða og uppboða.]^1)
-                               ^1)L. 34/2011, 4. gr.
+  reglugerð^1) sem ráðherra setur. Í reglugerðinni skal m.a. kveða nánar á um
+                  framkvæmd og skilmála útboða og uppboða.]^2)
+                      ^1)Rg. 1047/2011. ^2)L. 34/2011, 4. gr.
                 12. gr. [Breytingar og afturköllun á réttindum.
   Þegar sérstaklega stendur á, svo sem vegna breytinga á löggjöf, er Póst- og
 fjarskiptastofnun heimilt að breyta skilyrðum í almennum heimildum og skilyrðum
@@ -455,9 +455,9 @@ fjarskiptastofnun birta yfirlit yfir slíkar upplýsingar og hvar þær er að f
 ákveðið að ákvarðanir alþjóðastofnana, sem Ísland á aðild að, varðandi skipulag
 og nýtingu tíðnirófsins verði bindandi hér á landi og skal þá vísað til þeirra í
                    tíðniskipulaginu sem stofnunin birtir.]^1)
-[Ráðherra]^2) getur í reglugerð sett nánari reglur um skipulagningu og úthlutun
-               tíðna, jafnt til fjarskiptafyrirtækja sem notenda.
-                  ^1)L. 34/2011, 6. gr. ^2)L. 162/2010, 239. gr.
+   [Ráðherra]^2) getur í reglugerð^3) sett nánari reglur um skipulagningu og
+          úthlutun tíðna, jafnt til fjarskiptafyrirtækja sem notenda.
+         ^1)L. 34/2011, 6. gr. ^2)L. 162/2010, 239. gr. ^3)Rg. 1047/2011.
                      15. gr. Skipulag númera og vistfanga.
   Póst- og fjarskiptastofnun skal viðhalda skipulagi númera sem nota má fyrir
   hvers konar fjarskiptaþjónustu, þ.m.t. númerakóða fyrir net. Upplýsingar um
@@ -1508,10 +1508,11 @@ veitt tækifæri til þess að koma skoðunum sínum á framfæri og leggja til 
                        75. gr. Almenn reglugerðarheimild.
 [Ráðherra]^1) setur í reglugerð^2) nánari fyrirmæli um framkvæmd fjarskiptamála.
     ^1)L. 162/2010, 239. gr. ^2)Rg. 866/2000, sbr. 700/2005. Rg. 532/2001. Rg.
-        348/2004. Rg. 90/2007. Rg. 1046/2008. Rg. 741/2009. Rg. 564/2011
+348/2004. Rg. 90/2007. Rg. 1046/2008. Rg. 741/2009. Rg. 564/2011. Rg. 1047/2011.
                               76. gr. Gildistaka.
 Lög þessi öðlast gildi 25. júlí 2003. Ákvæði 22. gr. tekur gildi 1. janúar 2004
 og kemur fyrst til framkvæmda á árinu 2005 vegna bókfærðrar veltu á árinu 2004.
+                                      ...
 
                             Ákvæði til bráðabirgða.
    I. Breyta skal fjarskiptaleyfum og almennum heimildum sem í gildi eru við
@@ -1549,6 +1550,14 @@ fyrir hvert úthlutað MHz af tíðnisviði. Gjaldið miðast við að tíðnir�
 fimmtán árum, eða skemmri tíma, minnst til eins árs, skal greiða hlutfallslega í
                samræmi við það. Gjaldið greiðist í ríkissjóð.]^1)
                               ^1)L. 146/2010, 1. gr.
+   [IV. Við úthlutun á tíðniréttindum á 791821/832862 MHz skal fram til 31.
+  desember 2013 taka gjald sem nemur 3.000.000 kr. fyrir hvert úthlutað MHz af
+  tíðnisviði. Gjaldið miðast við að tíðniréttindin séu gefin út til 15 ára. Sé
+tíðniréttindum úthlutað til lengri eða skemmri tíma skal greiða hlutfallslega í
+samræmi við það. Verði réttindum á tíðnisviðinu úthlutað með uppboðsaðferð skal
+  gjald samkvæmt ákvæði þessu skoðast sem lágmarksboð. Gjaldið skal renna til
+                              fjarskiptasjóðs.]^1)
+                              ^1)L. 163/2011, 1. gr.
 
 References
 
