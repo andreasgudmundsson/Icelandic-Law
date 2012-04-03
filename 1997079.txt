@@ -30,54 +30,58 @@ eru í þessari grein, enda undanþiggi ráðherra ekki tiltekin svæði slíkum
 Þegar rætt er um viðmiðunarlínu er átt við línu sem dregin er umhverfis landið á
                            milli eftirtalinna staða:
 
-1.         Horn (grp. 1)                         66°27'4 N  22°24'3 V
-2.         Selsker (viti)                        66°07'5 N  21°30'0 V
-3.         Ásbúðarrif (grp. 2)                   66°08'1 N  20°11'0 V
-4.         [Siglunes (grp. 3)                    66°11'9 N  18°49'9 V]^1)
-5.         Flatey (Skjálfanda) (grp. 4)          66°10'3 N  17°50'3 V
-6.         Mánáreyjar (Lágey) (grp. 5)           66°17'8 N  17°06'8 V
-7.         Rauðinúpur (grp. 6)                   66°30'7 N  16°32'4 V
-8.         Rifstangi (grp. 7)                    66°32'3 N  16°11'8 V
-9.         Hraunhafnartangi (grp. 8)             66°32'2 N  16°01'5 V
-10.        Langanes (grp. 9)                     66°22'7 N  14°31'9 V
-11.        Skálatáarsker                         65°59'7 N  14°36'4 V
-12.        Almenningsfles                        65°33'1 N  13°40'5 V
-13.        Glettinganes (grp. 10)                65°30'5 N  13°36'3 V
-14.        Norðfjarðarhorn (grp. 11)             65°10'0 N  13°30'8 V
-15.        Gerpir (grp. 12)                      65°04'7 N  13°29'6 V
-16.        Hólmur (Seley) (grp. 13)              64°58'9 N  13°30'6 V
-17.        Skrúður (Þursi) (grp. 15)             64°54'1 N  13°36'8 V
-18.        Papey (viti)                          64°35'5 N  14°10'5 V
-19.        Hvítingar (grp. 18)                   64°23'9 N  14°28'0 V
-20.        Stokksnes (grp. 19)                   64°14'1 N  14°58'4 V
-21.        Hrollaugseyjar (grp. 20)              64°01'7 N  15°58'7 V
-22.        Ingólfshöfði (grp. 22)                63°47'8 N  16°38'5 V
-23.        Hvalsíki (grp. 23)                    63°44'1 N  17°33'5 V
-24.        Meðallandssandur I (grp. 24)          63°32'4 N  17°55'6 V
-25.        Meðallandssandur II (grp. 25)         63°30'6 N  17°59'9 V
-26.        Mýrnatangi (grp. 26)                  63°27'4 N  18°11'8 V
-27.        Kötlutangi (grp. 27)                  63°23'4 N  18°42'8 V
-28.        Lundadrangur (grp. 28)                63°23'5 N  19°07'5 V
-29.        Bakkafjara (skúr við sæstreng)        63°32'3 N  20°10'9 V
-30.        Knarrarós (viti)                      63°49'4 N  20°58'6 V
-31.        Hafnarnes                             63°50'6 N  21°23'5 V
-32.        Selvogur (viti)                       63°49'3 N  21°39'1 V
-33.        Krýsuvíkurberg (viti)                 63°49'8 N  22°04'2 V
-34.        Reykjanes (aukaviti)                  63°48'0 N  22°41'9 V
-35.        Önglabrjótsnef                        63°49'0 N  22°44'3 V
-36.        Stafnes (viti)                        63°58'3 N  22°45'5 V
-37.        1. sjm. r/v V af Garðskagavita        64°04'9 N  22°43'6 V
-38.        Malarrif (viti)                       64°43'7 N  23°48'2 V
-39.        Dritvíkurtangi                        64°45'0 N  23°55'3 V
-40.        Skálasnagi                            64°51'3 N  24°02'5 V
-41.        Öndverðarnes (viti)                   64°53'1 N  24°02'7 V
-42.        Skor (viti)                           65°24'9 N  23°57'2 V
-43.        Bjargtangar (grp. 33)                 65°30'2 N  24°32'1 V
-44.        Kópanes (grp. 34)                     65°48'4 N  24°06'0 V
-45.        Barði (grp. 35)                       66°03'7 N  23°47'4 V
-46.        Straumnes (grp. 36)                   66°25'7 N  23°08'4 V
-47.        Kögur (grp. 37)                       66°28'3 N  22°55'5 V
-48.        Horn (grp. 38)                        66°27'9 N  22°28'2 V
+1.        Horn (grp. 1)                     66°27'4 N  22°24'3 V
+2.        Selsker (viti)                    66°07'5 N  21°30'0 V
+3.        Ásbúðarrif (grp. 2)               66°08'1 N  20°11'0 V
+4.        [Siglunes (grp. 3)                66°11'9 N  18°49'9 V      ]^1)
+5.        Flatey (Skjálfanda) (grp. 4)      66°10'3 N  17°50'3 V
+6.        Mánáreyjar (Lágey) (grp. 5)       66°17'8 N  17°06'8 V
+7.        Rauðinúpur (grp. 6)               66°30'7 N  16°32'4 V
+8.        Rifstangi (grp. 7)                66°32'3 N  16°11'8 V
+9.        Hraunhafnartangi (grp. 8)         66°32'2 N  16°01'5 V
+10.       Langanes (grp. 9)                 66°22'7 N  14°31'9 V
+11.       Skálatáarsker                     65°59'7 N  14°36'4 V
+12.       Almenningsfles                    65°33'1 N  13°40'5 V
+13.       Glettinganes (grp. 10)            65°30'5 N  13°36'3 V
+14.       Norðfjarðarhorn (grp. 11)         65°10'0 N  13°30'8 V
+15.       Gerpir (grp. 12)                  65°04'7 N  13°29'6 V
+16.       Hólmur (Seley) (grp. 13)          64°58'9 N  13°30'6 V
+17.       Skrúður (Þursi) (grp. 15)         64°54'1 N  13°36'8 V
+18.       Papey (viti)                      64°35'5 N  14°10'5 V
+19.       Hvítingar (grp. 18)               64°23'9 N  14°28'0 V
+20.       Stokksnes (grp. 19)               64°14'1 N  14°58'4 V
+21.       Hrollaugseyjar (grp. 20)          64°01'7 N  15°58'7 V
+22.       Ingólfshöfði (grp. 22)            63°47'8 N  16°38'5 V
+23.       Hvalsíki (grp. 23)                63°44'1 N  17°33'5 V
+24.       Meðallandssandur I
+          (grp. 24)                         63°32'4 N  17°55'6 V
+25.       Meðallandssandur II
+          (grp. 25)                         63°30'6 N  17°59'9 V
+26.       Mýrnatangi (grp. 26)              63°27'4 N  18°11'8 V
+27.       Kötlutangi (grp. 27)              63°23'4 N  18°42'8 V
+28.       Lundadrangur (grp. 28)            63°23'5 N  19°07'5 V
+29.       Bakkafjara (skúr við sæ-
+          streng)                           63°32'3 N  20°10'9 V
+30.       Knarrarós (viti)                  63°49'4 N  20°58'6 V
+31.       Hafnarnes                         63°50'6 N  21°23'5 V
+32.       Selvogur (viti)                   63°49'3 N  21°39'1 V
+33.       Krýsuvíkurberg (viti)             63°49'8 N  22°04'2 V
+34.       Reykjanes (aukaviti)              63°48'0 N  22°41'9 V
+35.       Önglabrjótsnef                    63°49'0 N  22°44'3 V
+36.       Stafnes (viti)                    63°58'3 N  22°45'5 V
+37.       1. sjm. r/v V af Garðskaga-
+          vita                              64°04'9 N  22°43'6 V
+38.       Malarrif (viti)                   64°43'7 N  23°48'2 V
+39.       Dritvíkurtangi                    64°45'0 N  23°55'3 V
+40.       Skálasnagi                        64°51'3 N  24°02'5 V
+41.       Öndverðarnes (viti)               64°53'1 N  24°02'7 V
+42.       Skor (viti)                       65°24'9 N  23°57'2 V
+43.       Bjargtangar (grp. 33)             65°30'2 N  24°32'1 V
+44.       Kópanes (grp. 34)                 65°48'4 N  24°06'0 V
+45.       Barði (grp. 35)                   66°03'7 N  23°47'4 V
+46.       Straumnes (grp. 36)               66°25'7 N  23°08'4 V
+47.       Kögur (grp. 37)                   66°28'3 N  22°55'5 V
+48.       Horn (grp. 38)                    66°27'9 N  22°28'2 V
 
     Heimildir fiskiskipa til veiða með botnvörpu, flotvörpu og dragnót innan
 fiskveiðilandhelgi Íslands miðast við stærðir skipa og aflvísa þeirra. Er skipum
@@ -281,8 +285,9 @@ með því að banna notkun ákveðinna veiðarfæra á ákveðnum svæðum í t
  Heimilt er að banna tímabundið allar veiðar eða notkun tiltekinna veiðarfæra á
    ákveðnu svæði sé þess talin þörf vegna tilrauna eða vísindalegra rannsókna
                           Hafrannsóknastofnunarinnar.
-    ^1)Rg. 494/1998, sbr. 608/1999 og 770/1999; rg. 411/1999, sbr. 10/2000; rg.
-                     722/1999, rg. 753/1999, rg. 766/1999.
+   ^1)Rg. 262/1994, sbr. 210/2000; rg. 494/1998, sbr. 608/1999 og 770/1999; rg.
+411/1999, sbr. 10/2000; rg. 753/1999, rg. 766/1999, rg. 277/2000, rg. 310/2000,
+                                 sbr. 339/2000.
   10. gr. Veiðieftirlitsmönnum Fiskistofu er heimilt að fara í veiðiferðir með
 fiskiskipum og er skipstjórum þeirra skylt að veita þeim alla aðstoð og aðstöðu
    um borð í skipum sínum til þess að þeir geti sinnt eftirliti með veiðum. Í
@@ -363,11 +368,10 @@ veiða). Rg. 113/1988, sbr. 539/1989 (um veitingu veiðileyfa). Rg. 128/1988, sb
  Rg. 249/1996, sbr. 310/1996 (um humarveiðar). Rg. 253/1997, sbr. 413/1997 (um
  gerð og útbúnað smárækjuskilju). Rg. 334/1997 (um dragnótaveiðar). Rg. 24/1998
  (um möskvamæla og framkvæmd möskvamælinga). Rg. 64/1998 (um þorskfisknet). Rg.
-     75/1998 (um hrognkelsaveiðar). Rg. 77/1998, sbr. 382/1998 (um botn- og
-   flotvörpur). Rg. 150/1998, sbr. 445/1999 (um mælingar á fiskilestum). Rg.
-         486/1998 (um gerð og útbúnað smáfiskaskilju). Rg. 304/1999 (um
- úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar). Rg. 606/1999 (um
-                      lágmarksmöskvastærðir í loðnunótum).
+  75/1998, sbr. 176/2000 (um hrognkelsaveiðar). Rg. 77/1998, sbr. 382/1998 (um
+ botn- og flotvörpur). Rg. 150/1998, sbr. 445/1999 (um mælingar á fiskilestum).
+ Rg. 486/1998 (um gerð og útbúnað smáfiskaskilju). Rg. 304/1999, sbr. 276/2000
+       (um úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar).
   15. gr. Brot gegn ákvæðum laga þessara og reglum settum samkvæmt þeim varða
 viðurlögum skv. 16.17. gr. laga þessara, hvort sem þau eru framin af ásetningi
 eða gáleysi. Sé um stórfelld eða ítrekuð ásetningsbrot að ræða skulu þau þar að

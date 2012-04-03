@@ -18,12 +18,15 @@ Lögin taka enn fremur til starfsemi einkaaðila að því leyti sem þeim hefur
 lögbann, nauðungarsölu, greiðslustöðvun, nauðasamninga, gjaldþrotaskipti, skipti
    á dánarbúum eða önnur opinber skipti, né heldur um rannsókn eða saksókn í
                                  opinberu máli.
-Lögin gilda ekki um aðgang að upplýsingum samkvæmt stjórnsýslulögum og lögum um
- skráningu og meðferð persónuupplýsinga. Lögin gilda heldur ekki ef á annan veg
-              er mælt í þjóðréttarsamningum sem Ísland á aðild að.
+  [Lögin gilda ekki um aðgang að upplýsingum samkvæmt stjórnsýslulögum. Lögin
+  gilda heldur ekki um aðgang að upplýsingum samkvæmt lögum um persónuvernd og
+  meðferð persónuupplýsinga, nema óskað sé eftir aðgangi að skjölum eða öðrum
+gögnum sem 2. mgr. 3. gr. laga þessara tekur til. Þá gilda lögin heldur ekki ef
+      á annan veg er mælt í þjóðréttarsamningum sem Ísland á aðild að.]^1)
  Ákvæði annarra laga, sem heimila víðtækari aðgang að upplýsingum, halda gildi
    sínu. Almenn ákvæði laga um þagnarskyldu takmarka ekki rétt til aðgangs að
                          gögnum samkvæmt lögum þessum.
+         ^1)[2]L. 83/2000, 1. gr. Breytingin öðlast gildi 1. janúar 2001.
 
                   II. kafli. Almennur aðgangur að upplýsingum.
                             3. gr. Upplýsingaréttur.
@@ -74,7 +77,7 @@ Veita skal aðgang að öðrum gögnum sem 4.6. gr. taka til þegar liðin eru
   ár frá því að gögn urðu til, að frátöldum upplýsingum er varða einkamálefni
 einstaklinga, en aðgang að þeim skal fyrst veita að áttatíu árum liðnum frá því
                               að þau urðu til. ^1)
-                             ^1)[2]L. 76/1997, 4. gr.
+                             ^1)[3]L. 76/1997, 4. gr.
 
            III. kafli. Aðgangur aðila að upplýsingum um hann sjálfan.
                          9. gr. Upplýsingaréttur aðila.
@@ -93,7 +96,7 @@ upplýsingar um einkamálefni annarra, enda vegi þeir hagsmunir, sem mæla með
                             réttindi sjúklinga.]^1)
  Ákvæði 3., 7. og 8. gr. gilda, eftir því sem við getur átt, um aðgang aðila að
                                     gögnum.
-                             ^1)[3]L. 76/1997, 5. gr.
+                             ^1)[4]L. 76/1997, 5. gr.
 
                             IV. kafli. Málsmeðferð.
                     10. gr. Beiðni um aðgang að upplýsingum.
@@ -146,29 +149,41 @@ starfsgengisskilyrði héraðsdómara. Skal annar þeirra vera formaður nefndar
                              Stjórnarráði Íslands.
  Nefndinni er heimilt að kalla sér til ráðgjafar og aðstoðar sérfróða aðila ef
                                hún telur þörf á.
+  [Nefndarmenn eru bundnir þagnarskyldu um allt það sem fram kemur í gögnum er
+   nefndinni eru látin í té. Sama gildir um þá sem hún kann að kveðja sér til
+                                 aðstoðar.]^1)
+                             ^1)[5]L. 83/2000, 2. gr.
                               16. gr. Málsmeðferð.
      Mál skv. 1. mgr. 14. gr. skal borið skriflega undir úrskurðarnefnd um
 upplýsingamál innan 30 daga frá því að þeim sem fór fram á aðgang að gögnum var
                              tilkynnt um ákvörðun.
  Nefndin getur veitt hlutaðeigandi stjórnvaldi stuttan frest til þess að láta í
-           té rökstutt álit á málinu áður en því er ráðið til lykta.
+té rökstutt álit á málinu áður en því er ráðið til lykta. [Stjórnvaldi er skylt
+       að láta nefndinni í té afrit af þeim gögnum er kæra lýtur að.]^1)
 Þegar nefndarmenn eru ekki sammála ræður meiri hluti niðurstöðu máls. Ef atkvæði
                         eru jöfn ræður atkvæði formanns.
    Um meðferð mála hjá úrskurðarnefndinni fer að öðru leyti eftir VII. kafla
                                 stjórnsýslulaga.
-                           17. gr. Birting úrskurðar.
+                             ^1)[6]L. 83/2000, 3. gr.
+                 17. gr. [Birting og aðfararhæfi úrskurðar.]^1)
 Úrskurðarnefnd um upplýsingamál skal birta úrskurð þeim sem fór fram á aðgang að
         gögnum og því stjórnvaldi sem í hlut á svo fljótt sem verða má.
 Ef nefndin hefur tekið til greina beiðni um aðgang að gögnum ber stjórnvaldi að
  veita aðgang að þeim jafnskjótt og úrskurður hefur verið birtur, nema þess sé
             krafist að réttaráhrifum hans verði frestað skv. 18. gr.
+   [Úrskurður samkvæmt lögum þessum um aðgang að gögnum eða afrit af þeim er
+         aðfararhæfur, nema réttaráhrifum hans hafi verið frestað.]^1)
+                             ^1)[7]L. 83/2000, 4. gr.
                    18. gr. Frestun á réttaráhrifum úrskurðar.
   Að kröfu stjórnvalds getur úrskurðarnefnd um upplýsingamál ákveðið að fresta
   réttaráhrifum úrskurðar telji hún sérstaka ástæðu til þess. Krafa þess efnis
-  skal gerð ekki síðar en þremur dögum frá birtingu úrskurðar. Skal frestun á
-réttaráhrifum úrskurðar vera bundin því skilyrði að stjórnvald beri málið undir
-   dómstóla innan sjö daga frá birtingu úrskurðar og óski eftir að það hljóti
-                                 flýtimeðferð.
+        skal gerð ekki síðar en þremur dögum frá birtingu úrskurðar. ^1)
+[Skal frestun á réttaráhrifum bundin því skilyrði að stjórnvald beri málið undir
+    dómstóla innan sjö daga frá birtingu ákvörðunar um frestun réttaráhrifa
+úrskurðar og óski eftir að það hljóti flýtimeðferð. Nú er beiðni um flýtimeðferð
+    synjað og skal þá mál höfðað innan sjö daga frá því að beiðni um það er
+                                  synjað.]^1)
+                             ^1)[8]L. 83/2000, 5. gr.
                             19. gr. Útgáfa úrskurða.
  Úrskurðarnefnd um upplýsingamál skal árlega gefa út úrskurði sína eða útdrætti
                                     úr þeim.
@@ -210,5 +225,10 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996050
-   2. file:///altext/stjt/1997.076.html
+   2. file:///altext/stjt/2000.083.html
    3. file:///altext/stjt/1997.076.html
+   4. file:///altext/stjt/1997.076.html
+   5. file:///altext/stjt/2000.083.html
+   6. file:///altext/stjt/2000.083.html
+   7. file:///altext/stjt/2000.083.html
+   8. file:///altext/stjt/2000.083.html

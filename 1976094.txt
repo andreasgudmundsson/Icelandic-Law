@@ -2,11 +2,14 @@
 
    --------------------------------------------------------------------------
 
-                       Lög um skráningu og mat fasteigna
+                      Lög um skráningu og mat fasteigna^1)
 
                               1976 nr. 94 20. maí
 
    --------------------------------------------------------------------------
+
+     ^1)Lögunum hefur verið breytt með [2]l. 47/2000 sem taka gildi 1. janúar
+                                     2001.
 
          I. kafli. Markmið, skilgreiningar og söfnun skráningaratriða.
      1. gr. Halda skal skrá um allar fasteignir í landinu þar sem fram komi
@@ -59,19 +62,19 @@ sveitarfélögum eða samstarfsstofnunum þeirra, skráningu fasteigna samkvæmt
 eða samstarfsstofnunum þeirra að annast tiltekin störf til undirbúnings að mati
   fasteigna skv. IV. kafla laga þessara. Í því tilviki skal gætt ákvæða 9. gr.
                  laga þessara, eftir því sem við getur átt.]^2)
-                 ^1)[2]L. 51/1994, 1. gr. ^2)[3]L. 27/1980, 1. gr.
+                 ^1)[3]L. 51/1994, 1. gr. ^2)[4]L. 27/1980, 1. gr.
 7. gr. [Fasteignamat ríkisins starfar undir stjórn forstjóra sem ráðherra skipar
  til fimm ára í senn. Forstjóri ræður starfsfólk og kaupir sérfræðilega aðstoð
    eftir því sem nauðsyn ber til og heimildir fjárlaga hverju sinni segja til
                                     um.]^1)
-                             ^1)[4]L. 83/1997, 40. gr.
+                             ^1)[5]L. 83/1997, 40. gr.
   8. gr. [Ráðherra skipar þrjá menn í stjórn Fasteignamats ríkisins. Skal einn
    tilnefndur af Sambandi íslenskra sveitarfélaga, einn af Sambandi íslenskra
 tryggingafélaga og einn án tilnefningar. Skal stjórnin skipuð til fjögurra ára.
  Stjórn Fasteignamats ríkisins mótar starf og innra skipulag stofnunarinnar og
     hefur eftirlit með rekstri hennar. Stjórnin gerir tillögur að gjaldskrá
             stofnunarinnar sem síðan skal staðfest af ráðherra.]^1)
-                             ^1)[5]L. 51/1994, 3. gr.
+                             ^1)[6]L. 51/1994, 3. gr.
 
                    III. kafli. Framkvæmd fasteignaskráningar.
 9. gr. Viðkomandi sveitarstjórn er ábyrg fyrir að Fasteignamati ríkisins berist
@@ -102,7 +105,7 @@ verði úr skugga um að aðilar skv. 2. mgr. hafi fullnægt upplýsingaskyldu s
      margar fasteiginir eru metnar í einstökum sveitarfélögum á ári hverju.
     Fasteignamat ríkisins skal árlega senda skýrslu um matsstörf í einstökum
        sveitarfélögum til fjármálaráðuneytis og félagsmálaráðuneytis.]^1)
-                             ^1)[6]L. 51/1994, 4. gr.
+                             ^1)[7]L. 51/1994, 4. gr.
 10. gr. Fasteignamati ríkisins ber að hafa frumkvæði að samræmingu á gagnasöfnun
   um atriði, sem snerta fasteignir, og koma í veg fyrir tvíverknað í því efni.
     11. gr. Fasteignamat ríkisins getur, hvenær sem það telur þörf á, látið
@@ -140,7 +143,7 @@ yfirlitsupplýsingar um gangverð fasteigna við kaup og sölu og breytingar á 
  Gjaldskrá skv. 1. mgr. skal taka mið af því umfangi upplýsinga sem keyptar eru
      og þeim tekjum sem notendur hafa af þeim. Fjármálaráðherra staðfestir
                               gjaldskrána.^1)]^2)
-                  ^1)Gjaldskrá 596/1996. ^2)[7]L. 1/1992, 27. gr.
+                  ^1)Gjaldskrá 596/1996. ^2)[8]L. 1/1992, 27. gr.
 15. gr. Opinberir aðilar, ríkisstofnanir, ríkisfyrirtæki, sveitarfélög og allar
  stofnanir þeirra skulu í öllum viðskiptum og í hvers konar verðmætisviðmiðunum
 nota upplýsingar fasteignaskrárinnar sem grundvöll viðskipta sinna eftir því sem
@@ -160,7 +163,7 @@ nota upplýsingar fasteignaskrárinnar sem grundvöll viðskipta sinna eftir þv
    4. Vatnsveitur, þ. á m. brunnar, geymar og dælubúnaður. Skólpveitur, þ. á m.
                         skólpleiðslur og hreinsibrunnar.
    5. Uppfyllingar og dýpkanir til hafnarbóta ásamt bryggjum og hafnargörðum, ef
- höfn er eign hafnarsjóðs, samkvæmt [8]hafnalögum nr. 45/1973,^1) eða ríkis og
+ höfn er eign hafnarsjóðs, samkvæmt [9]hafnalögum nr. 45/1973,^1) eða ríkis og
       sveitarfélaga. Land á hafnarsvæði, sem ekki er í beinum tengslum við
  hafnargerðina, er ekki undanþegið mati né heldur dráttarbrautir, þurrkvíar eða
            önnur slík mannvirki, þótt í eign framangreindra aðila sé.
@@ -175,7 +178,7 @@ nota upplýsingar fasteignaskrárinnar sem grundvöll viðskipta sinna eftir þv
                                      9. Vitar.
     10. Ráðherra getur í reglugerð undanþegið ákveðnar fasteignir eða tegundir
                             fasteigna fasteignamati.
-                               ^1)Nú [9]l. 23/1994.
+                               ^1)Nú [10]l. 23/1994.
 17. gr. Skráð matsverð fasteignar skal vera gangverð umreiknað til staðgreiðslu,
   sem ætla má að eignin hefði í kaupum og sölum í nóvembermánuði næst á undan
 matsgerð, miðað við heimila og mögulega nýtingu fasteignarinnar á hverjum tíma.
@@ -233,7 +236,7 @@ Ráðherra getur með reglugerð ákveðið að sá sem krefst endurmats beri ko
  Kostnaður við yfirmat greiðist úr ríkissjóði. Yfirfasteignamatsnefnd getur þó
     gert eiganda fasteignar að greiða kostnað vegna tilefnislausrar kæru til
                                  nefndarinnar.
-                             ^1)[10]L. 28/1983, 1. gr.
+                             ^1)[11]L. 28/1983, 1. gr.
   24. gr. Hagsmunaaðilar skv. 21. gr. geta kært niðurstöðu endurmats samkvæmt
   þeirri grein til yfirfasteignamatsnefndar. Kæra skal vera skrifleg og studd
   rökum og nauðsynlegum gögnum. Um meðferð máls fyrir nefndinni, framlagningu
@@ -243,7 +246,7 @@ heimild fyrir frestun sé veitt af hálfu ráðuneytisins. Niðurstaða kærumá
     þegar tilkynnt aðila þess og nýtt matsverð þegar skráð í fasteignaskrá.
            Úrskurður yfirfasteignamatsnefndar er fullnaðarúrskurður.
                                   25. gr. ^1)
-                            ^1)[11]L. 37/1993, 36. gr.
+                            ^1)[12]L. 37/1993, 36. gr.
      26. gr. Yfirfasteignamatsnefnd ber í nóvembermánuði ár hvert að ákveða
   framreikningsstuðla fyrir skráð matsverð fasteigna með hliðsjón af breytingu
     verðlags fasteigna við kaup og sölu frá síðasta viðmiðunartíma matsins á
@@ -270,20 +273,21 @@ Skráðu matsverði fasteigna skal breytt í fasteignaskrá í samræmi við ofa
                             Ákvæði til bráðabirgða.
                                      I.--V.
                                    [VI. ]^1)
-                             ^1)[12]L. 28/1983, 2. gr.
+                             ^1)[13]L. 28/1983, 2. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1976094
-   2. file:///altext/stjt/1994.051.html
-   3. file:///altext/stjtnr.html#1980027?g1
-   4. file:///altext/stjt/1997.083.html
-   5. file:///altext/stjt/1994.051.html
+   2. file://2000047.html
+   3. file:///altext/stjt/1994.051.html
+   4. file:///altext/stjtnr.html#1980027?g1
+   5. file:///altext/stjt/1997.083.html
    6. file:///altext/stjt/1994.051.html
-   7. file:///altext/stjt/1992.001.html
-   8. file:///altext/stjtnr.html#1973045
-   9. file://1994023.html
-  10. file:///altext/stjtnr.html#1983028?g1
-  11. file://1993037.html#g36
-  12. file:///altext/stjtnr.html#1983028?g2
+   7. file:///altext/stjt/1994.051.html
+   8. file:///altext/stjt/1992.001.html
+   9. file:///altext/stjtnr.html#1973045
+  10. file://1994023.html
+  11. file:///altext/stjtnr.html#1983028?g1
+  12. file://1993037.html#g36
+  13. file:///altext/stjtnr.html#1983028?g2

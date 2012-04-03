@@ -155,13 +155,14 @@ Ráðherra setur nánari reglur um afhendingu og varðveislu sjúkraskráa, að 
    persónuupplýsingar og að upplýsingar í þeim eru trúnaðarmál, sbr. 12. gr.
      Sjúkraskrár skulu geymdar á tryggum stað og þess gætt að einungis þeir
              starfsmenn sem nauðsynlega þurfa hafi aðgang að þeim.
- Tölvunefnd er heimilt samkvæmt lögum um skráningu og meðferð persónuupplýsinga
- að veita aðgang að upplýsingum úr sjúkraskrám, þar með töldum lífsýnum, vegna
-  vísindarannsókna, enda uppfylli rannsókn skilyrði vísindarannsóknar, sbr. 4.
-mgr. 2. gr. laga þessara. Unnt er að binda slíkt leyfi þeim skilyrðum sem metin
-                          eru nauðsynleg hverju sinni.
+      [Persónuvernd]^1) er heimilt samkvæmt lögum um skráningu og meðferð
+persónuupplýsinga að veita aðgang að upplýsingum úr sjúkraskrám, þar með töldum
+       lífsýnum, vegna vísindarannsókna, enda uppfylli rannsókn skilyrði
+  vísindarannsóknar, sbr. 4. mgr. 2. gr. laga þessara. Unnt er að binda slíkt
+          leyfi þeim skilyrðum sem metin eru nauðsynleg hverju sinni.
  Í hvert sinn sem sjúkraskrá er skoðuð vegna vísindarannsóknar skal það skráð í
                        hana og ákvæða 1. og 2. mgr. gætt.
+         ^1)[2]L. 77/2000, 46. gr. Breytingin tekur gildi 1. janúar 2001.
                    Athugasemdir við upplýsingar í sjúkraskrá.
 16. gr. Nú telur sjúklingur eða umboðsmaður hans að upplýsingar í sjúkraskrá séu
        rangar eða villandi og skulu þá athugasemdir hans lagðar í skrána.
@@ -255,7 +256,7 @@ Sjúk börn á skólaskyldualdri skulu fá kennslu sem hæfir aldri þeirra og �
  28. gr. Athugasemdum sjúklings vegna þjónustu á heilbrigðisstofnun skal beint
                      til yfirstjórnar viðkomandi stofnunar.
     Vilji sjúklingur kvarta yfir meðferð getur hann beint kvörtun sinni til
-     landlæknis eða nefndar um ágreiningsmál skv. 5. mgr. [2]3. gr. laga um
+     landlæknis eða nefndar um ágreiningsmál skv. 5. mgr. [3]3. gr. laga um
                        heilbrigðisþjónustu, nr. 97/1990.
 Starfsmönnum heilbrigðisstofnunar er skylt að leiðbeina sjúklingi eða vandamanni
 sem vill koma á framfæri athugasemd eða bera fram kvörtun. Enn fremur er stjórn
@@ -270,7 +271,7 @@ Sjúklingur skal fá skrifleg svör við athugasemdum sínum og kvörtunum eins 
 heilbrigðissviði. Þar skulu m.a. vera ákvæði um vísindasiðanefnd og siðanefndir
 skv. 4. mgr. 2. gr. Þá er ráðherra heimilt að setja reglugerð um framkvæmd laga
                                     þessara.
-                                ^1)[3]Rg. 552/1999.
+                                ^1)[4]Rg. 552/1999.
                                   Gildistaka.
                   30. gr. Lög þessi öðlast gildi 1. júlí 1997.
 
@@ -278,5 +279,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997074
-   2. file://1990097.html#g3
-   3. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-5521999
+   2. file://2000077.html#g46
+   3. file://1990097.html#g3
+   4. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-5521999

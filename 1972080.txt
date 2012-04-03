@@ -498,6 +498,7 @@ sambandsþingsins og með hliðsjón af þeim kringumstæðum, sem fyrir hendi k
            framkvæmdastjórinn framfylgi framkvæmdaáætlun sambandsins;
        6. framkvæma önnur þau störf, sem nefndinni eru falin samkvæmt þessum
                                    sáttmála.
+
     b. Þegar um er að ræða málefni, sem einnig varða hagsmuni annarra sambanda,
 sem alþjóðasamtökin stjórna, skal framkvæmdanefndin taka ákvarðanir sínar, eftir
         að leitað hefur verið ráða samræmingarnefndar alþjóðasamtakanna.
@@ -568,13 +569,13 @@ einnig til eins eða fleiri sambanda, sem stjórnað er af alþjóðasamtökunum
       fjárlaganna, og skulu sambandslöndin greiða ársframlög á grundvelli
                       einingartölu, sem þannig er ákveðin:
 
-                                I.   flokkur 25
-                                II.  flokkur 20
-                                III. flokkur 15
-                                IV.  flokkur 10
-                                V.   flokkur 5
-                                VI.  flokkur 3
-                                VII. flokkur 1
+I.                         flokkur                       25
+II.                        flokkur                       20
+III.                       flokkur                       15
+IV.                        flokkur                       10
+V.                         flokkur                       5
+VI.                        flokkur                       3
+VII.                       flokkur                       1
 
    b. Ef sambandsland hefur ekki þegar tilkynnt um það, skal það um leið og það
 afhendir fullgildingar- eða aðildarskjöl tilkynna, hvar í flokki það vilji vera.

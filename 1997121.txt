@@ -72,14 +72,16 @@ af þeim skuldbindingum sínum sem ríkisábyrgð er á. Almennar viðskiptaskul
    gjaldskyldra erlendra skuldbindinga og 0,0375% á ársfjórðungi af höfuðstól
    gjaldskyldra innlendra skuldbindinga eins og hann er að meðaltali á hverju
              gjaldtímabili, sbr. 8. gr. Gjaldið rennur í ríkissjóð.
-7. gr. Lán sem áhættugjald skv. 4. gr. hefur verið greitt af, húsbréf útgefin af
-    húsbréfadeild Byggingarsjóðs ríkisins, skuldbindingar vegna innstæðna á
- innlánsreikningum í innlánsstofnunum og útflutningsábyrgða með ríkisábyrgð og
-     Seðlabanki Íslands eru undanþegin greiðslu ábyrgðargjalds skv. 6. gr.
+ 7. gr. [Lán sem áhættugjald skv. 4. gr. hefur verið greitt af, skuldbindingar
+  vegna innstæðna á innlánsreikningum í innlánsstofnunum, skuldbindingar vegna
+   útflutningsábyrgða með ríkisábyrgð, Seðlabanki Íslands, Íbúðalánasjóður og
+ Lánasjóður íslenskra námsmanna eru undanþegin greiðslu ábyrgðargjalds skv. 6.
+                                    gr.]^1)
      Ábyrgðargjald vegna skuldbindinga fyrirtækja, sem eru að hluta í eigu
    ríkissjóðs, skal reikna í sama hlutfalli og eignaraðild ríkissjóðs nemur.
      Eignaraðild ríkissjóðs í félögum og fyrirtækjum þar sem ábyrgð eigenda
   takmarkast við framlag þeirra, t.d. í hlutafélögum, veldur ekki gjaldskyldu.
+                             ^1)[3]L. 70/2000, 1. gr.
 8. gr. Ríkisábyrgðasjóður annast útreikning, álagningu og innheimtu áhættugjalds
        skv. 4. gr. og ábyrgðargjalds skv. 6. gr. Ábyrgðarþegi skal veita
    Ríkisábyrgðasjóði allar þær upplýsingar sem hann telur nauðsynlegar í því
@@ -92,7 +94,7 @@ af þeim skuldbindingum sínum sem ríkisábyrgð er á. Almennar viðskiptaskul
     Ábyrgðargjaldi skv. 6. og 7. gr. skal skila, ásamt skýrslu skv. 2. mgr.,
 ársfjórðungslega eftir á. Gjalddagi vegna hvers ársfjórðungs er 15. dagur næsta
  mánaðar eftir að gjaldtímabili lýkur. Sé ábyrgðargjald ekki greitt á gjalddaga
- skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er skv. [3]10. gr.
+ skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er skv. [4]10. gr.
                     laga nr. 25/1987, með síðari breytingum.
  9. gr. Fjármálaráðherra skal með reglugerð^1) setja nánari ákvæði um framkvæmd
                                  laga þessara.
@@ -109,4 +111,5 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997121
    2. file://1990043.html
-   3. file://1987025.html#g10
+   3. file:///altext/stjt/2000.070.html
+   4. file://1987025.html#g10

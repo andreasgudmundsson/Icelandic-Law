@@ -87,7 +87,7 @@ farþegaskip, er siglir með varning og/eða farþega til og frá landinu milli 
                hafa yfir að ráða eftirfarandi atvinnuskírteinum:
                      SKIP UNDIR 200 BRL. Í STRANDSIGLINGUM
 
-STÆRÐ              SKIPSTJÓRI                     STÝRIMAÐUR
+      STÆRÐ                  SKIPSTJÓRI                     STÝRIMAÐUR
 030 brl.          30 tonna réttindi              30 tonna réttindi
                    STCW regla II/3                STCW regla II/3
 0200 brl.         2. stig + siglingatími         2. stig + siglingatími
@@ -95,20 +95,24 @@ STÆRÐ              SKIPSTJÓRI                     STÝRIMAÐUR
 
                 SKIP AF ÓTAKMARKAÐRI STÆRÐ. FARSVIÐ ÓTAKMARKAÐ.
 
-STÆRÐ       SKIPSTJÓRI             YFIRSTÝRIMAÐUR         UNDIRSTÝRIMENN
-ótakmörkuð  3. stig + siglingatími 3. stig + siglingatími 2. stig + siglingatími
-            STCW regla II/2        STCW regla II/2        STCW regla II/4
+    STÆRÐ           SKIPSTJÓRI            YFIRSTÝRI-            UNDIRSTÝRI-
+                                             MAÐUR                 MENN
+              3. stig +              3. stig +             2. stig +
+ótak-         siglingatími           siglingatími          siglingatími
+mörkuð        STCW regla II/2        STCW regla II/2       STCW regla II/4
 
                            VÉLFRÆÐINGAR OG VÉLSTJÓRAR
 
-STÆRÐ AÐALVÉLAR YFIRVÉLSTJÓRI             1. VÉLSTJÓRI     AÐRIR UNDIRVÉLSTJÓRAR
-7502999 KW     vélfræðingur +            vélfræðingur+
-                siglingatími              siglingatími
-                STCW regla III/3          STCW regla III/3 3. stig +
-                                                           siglingatími
->3000 KW        vélfræðingur +            vélfræðingur +   STCW regla III/4
-                siglingatími              siglingatími
-                STCW regla III/2          STCW regla III/2 vaktstjóri í vél
+     STÆRÐ             YFIRVÉL-               1. VÉL-           AÐRIR UNDIR-
+   AÐALVÉLAR            STJÓRI                STJÓRI             VÉLSTJÓRAR
+750             vélfræðingur          vélfræðingur
+2999 KW          + siglingatími        + siglingatími        3. stig +
+                 STCW regla            STCW regla            siglingatími
+                 III/3                 III/3                 STCW regla
+>3000 KW         vélfræðingur          vélfræðingur          III/4
+                 + siglingatími        + siglingatími        vaktstjóri
+                 STCW regla            STCW regla            í vél
+                 III/2                 III/2
 
    7. gr. Kaupskip, önnur en farþegaskip, þar sem krafist er loftskeytamanna
 samkvæmt alþjóðareglum, mega sigla án loftskeytamanns enda séu þau búin samkvæmt

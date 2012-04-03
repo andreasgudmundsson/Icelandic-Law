@@ -322,12 +322,17 @@ Lífeyrissjóður skal samhliða greiðsluyfirliti eigi sjaldnar en einu sinni �
 senda upplýsingar um áunninn og væntanlegan lífeyrisrétt sjóðfélaga, rekstur og
  fjárhagsstöðu sjóðsins og breytingar á samþykktum. Sömu upplýsingar skal senda
                 þeim sjóðfélögum sem náð hafa ellilífeyrisaldri.
+[Lífeyrissjóðir skulu senda sjóðfélögum sínum yfirlit um iðgjaldagreiðslur eigi
+     sjaldnar en á hálfs árs fresti. Yfirliti þessu skal fylgja áskorun til
+sjóðfélaga um að gera án tafar athugasemdir ef sannanlega innheimt iðgjöld hafa
+                            ekki borist sjóðnum.]^1)
    Sjóðfélagi á rétt á að lífeyrissjóður rökstyðji skriflega ákvörðun er hann
    varðar. Í rökstuddri ákvörðun skal getið um rétt sjóðfélaga til að skjóta
                      ákvörðun til gerðardóms, sbr. 33. gr.
     Heimilt er að kveða á um kerfisbundna skráningu upplýsinga um iðgjöld og
   lífeyrisréttindi í reglugerð, svo og veitingu upplýsinga úr slíkri skrá til
                    skattyfirvalda og annarra eftirlitsaðila.
+                             ^1)[7]L. 56/2000, 1. gr.
    19. gr. Óheimilt er í samþykktum að kveða svo á að áunnin lífeyrisréttindi
       skerðist eða falli niður ef sjóðfélagi hættir iðgjaldagreiðslum til
                                  lífeyrissjóðs.
@@ -344,8 +349,9 @@ Heimilt er að endurgreiða iðgjöld til erlendra ríkisborgara þegar þeir fl
  úr landi enda sé slíkt ekki óheimilt samkvæmt milliríkjasamningi sem Ísland er
      aðili að. Óheimilt er að takmarka endurgreiðsluna við tiltekinn hluta
             iðgjaldsins nema á tryggingafræðilega réttum forsendum.
- Í reglugerð er heimilt að kveða á um útborgun lífeyris í einu lagi ef um lágar
-                              upphæðir er að ræða.
+ Í [samþykktum]^1) er heimilt að kveða á um útborgun lífeyris í einu lagi ef um
+                           lágar upphæðir er að ræða.
+                             ^1)[8]L. 56/2000, 2. gr.
 
                IV. kafli. Almenn skilyrði lífeyrissjóðsrekstrar.
   20. gr. Starfsemi lífeyrissjóðs skal lúta að móttöku, varðveislu og ávöxtun
@@ -392,7 +398,7 @@ hlotið hefur viðurkenningu [Fjármálaeftirlitsins]^1) til slíks starfs, sbr.
                             um vátryggingastarfsemi.
  Fyrir 1. júlí ár hvert skal senda [Fjármálaeftirlitinu]^1) tryggingafræðilega
                               athugun skv. 1. mgr.
-                             ^1)[7]L. 84/1998, 7. gr.
+                             ^1)[9]L. 84/1998, 7. gr.
 
                       V. kafli. Starfsleyfi lífeyrissjóða.
   25. gr. Fjármálaráðherra skal veita lífeyrissjóði starfsleyfi að uppfylltum
@@ -407,7 +413,7 @@ Umsókn um starfsleyfi skal vera skrifleg. Skulu fylgja henni samþykktir sjóð
  ásamt öðrum þeim upplýsingum og gögnum sem ráðherra ákveður. Áður en umsókn um
      starfsleyfi er afgreidd skal leita umsagnar [Fjármálaeftirlitsins].^1)
     Birta skal tilkynningar um starfsleyfi lífeyrissjóða í Lögbirtingablaði.
-                             ^1)[8]L. 84/1998, 7. gr.
+                             ^1)[10]L. 84/1998, 7. gr.
 26. gr. Ákvörðun um starfsleyfi skal rökstudd og send umsækjanda skriflega eigi
         síðar en þremur mánuðum eftir að fullbúin umsókn barst ráðherra.
   Uppfylli lífeyrissjóður sem sótt er um starfsleyfi fyrir ekki skilyrði laga
@@ -433,14 +439,15 @@ Umsókn um starfsleyfi skal vera skrifleg. Skulu fylgja henni samþykktir sjóð
            10. Hvernig staðið skuli að breytingu á samþykktum sjóðsins.
                    11. Upplýsingaskyldu sjóðsins við sjóðfélaga.
                         12. Hlutverk og skipan gerðardóms.
-       28. gr. Allar breytingar á samþykktum lífeyrissjóðs skal tilkynna
+       28. gr. [Allar breytingar á samþykktum lífeyrissjóðs skal tilkynna
 fjármálaráðherra og öðlast þær ekki gildi fyrr en ráðherra hefur staðfest að þær
-fullnægi ákvæðum laga þessara og starfsleyfi sjóðsins. Samtök lífeyrissjóða geta
-  tilkynnt breytingar á samþykktum í umboði aðildarsjóða sinna. Tilkynning um
-breytingar á samþykktum lífeyrissjóða skulu birtar í Lögbirtingablaði. Jafnframt
-skal tilkynna [Fjármálaeftirlitinu]^1) um breytingar á stjórn, framkvæmdastjóra,
-               endurskoðanda og tryggingafræðingi lífeyrissjóðs.
-                             ^1)[9]L. 84/1998, 7. gr.
+       fullnægi ákvæðum laga þessara og ákvæðum gildandi samþykkta fyrir
+      lífeyrissjóðinn að fenginni umsögn Fjármálaeftirlitsins.]^1) Samtök
+lífeyrissjóða geta tilkynnt breytingar á samþykktum í umboði aðildarsjóða sinna.
+       Tilkynning um breytingar á samþykktum lífeyrissjóða skulu birtar í
+Lögbirtingablaði. Jafnframt skal tilkynna [Fjármálaeftirlitinu]^2) um breytingar
+ á stjórn, framkvæmdastjóra, endurskoðanda og tryggingafræðingi lífeyrissjóðs.
+                ^1)[11]L. 56/2000, 3. gr. ^2)[12]L. 84/1998, 7. gr.
 
                      VI. kafli. Rekstur og innra eftirlit.
  29. gr. Stjórn lífeyrissjóðs ber ábyrgð á starfsemi sjóðsins í samræmi við lög
@@ -448,6 +455,10 @@ skal tilkynna [Fjármálaeftirlitinu]^1) um breytingar á stjórn, framkvæmdast
 lífeyrissjóðs skal einnig hafa með höndum almennt eftirlit með rekstri, bókhaldi
  og ráðstöfun eigna sjóðsins. Stjórnin setur sér starfsreglur og gerir tillögur
                 til breytinga á samþykktum sjóðsins á ársfundi.
+  [Stjórn lífeyrissjóðs er heimilt að gera breytingar á samþykktum sjóðsins án
+   þess að bera þær undir ársfund eins og mælt er fyrir um í 30. gr. og eftir
+ atvikum í samþykktum einstakra lífeyrissjóða, ef þær leiða af ófrávíkjanlegum
+                        ákvæðum laga eða reglugerða.]^1)
             Stjórn lífeyrissjóðs annast m.a. eftirfarandi verkefni:
      1. að ráða framkvæmdastjóra, ákveða laun og ráðningarkjör hans eða þeirra
                         samkvæmt sérstöku erindisbréfi,
@@ -456,10 +467,14 @@ lífeyrissjóðs skal einnig hafa með höndum almennt eftirlit með rekstri, b�
          3. að móta fjárfestingarstefnu lífeyrissjóðsins, sbr. VII. kafla,
        4. að setja reglur um upplýsingagjöf framkvæmdastjóra til stjórnar um
         rekstur, iðgjöld, réttindaávinning og ráðstöfun eigna sjóðsins,
-       5. að ákveða hver skuli vera fulltrúi af hálfu lífeyrissjóðs í stjórn
+   [5. að setja verklagsreglur um verðbréfaviðskipti lífeyrissjóðsins, stjórnar
+           hans og starfsmanna. Verklagsreglurnar skulu staðfestar af
+                            Fjármálaeftirlitinu],^2)
+    [6.] ^2) að ákveða hver skuli vera fulltrúi af hálfu lífeyrissjóðs í stjórn
           stofnunar eða atvinnufyrirtækis, nema lög kveði á um annað,
-   6. að láta tryggingafræðilega athugun fara fram á fjárhag sjóðsins, sbr. 24.
-                                      gr.
+     [7.] ^2) að láta tryggingafræðilega athugun fara fram á fjárhag sjóðsins,
+                                  sbr. 24. gr.
+               ^1)[13]L. 56/2000, 4. gr. ^2)[14]L. 11/2000, 18. gr.
   30. gr. Fyrir lok júní hvert ár skal stjórn lífeyrissjóðs boða til ársfundar
  sjóðsins. Allir sjóðfélagar eiga rétt til fundarsetu á ársfundinum með umræðu-
 og tillögurétti. Atkvæðisréttur skal vera í samræmi við samþykktir hlutaðeigandi
@@ -483,7 +498,10 @@ stefnu og fyrirmælum sem sjóðstjórn hefur gefið. Ráðstafanir sem eru óve
 Framkvæmdastjóra er óheimilt að taka þátt í atvinnurekstri nema að fengnu leyfi
 stjórnar. Eignarhlutur í fyrirtæki telst þátttaka í atvinnurekstri nema um sé að
          ræða óverulegan hlut sem ekki veitir bein áhrif á stjórn þess.
-                Um hæfi framkvæmdastjóra fer skv. 1. og 2. mgr.
+[Menntun, starfsreynsla og starfsferill framkvæmdastjóra lífeyrissjóðs skal vera
+  með þeim hætti að tryggt sé að hann geti gegnt stöðu sinni á forsvaranlegan
+    hátt. Að öðru leyti fer um hæfi framkvæmdastjóra skv. 1. og 2. mgr.]^1)
+                             ^1)[15]L. 56/2000, 5. gr.
        32. gr. Stjórnarmenn, framkvæmdastjóri og aðrir starfsmenn, svo og
  endurskoðendur lífeyrissjóðs, eru bundnir þagnarskyldu um allt það sem þeir fá
      vitneskju um í starfi og leynt á að fara samkvæmt lögum eða eðli máls.
@@ -499,16 +517,28 @@ gerðardóms er bindandi fyrir báða aðila. Málskostnaði skal skipt milli m�
    eftir mati dómsins, en þó skal sjóðfélagi ekki greiða meira en ^1/3 hluta
      málskostnaðar. Um málsmeðferð fyrir gerðardómnum fer samkvæmt lögum um
                            samningsbundna gerðardóma.
-                             ^1)[10]L. 84/1998, 7. gr.
+                             ^1)[16]L. 84/1998, 7. gr.
    34. gr. Við lífeyrissjóð skal endurskoðunardeild eða sjálfstætt starfandi
-   eftirlitsaðili annast innra eftirlit, sbr. 2. tölul. 2. mgr. 29. gr. Innra
+eftirlitsaðili annast innra eftirlit, [sbr. 2. tölul. 3. mgr. 29. gr.]^1) Innra
  eftirlit skal vera hluti af skipulagi lífeyrissjóðs og þáttur í eftirlitskerfi
-                                    hans.^1)
+                                    hans.^2)
  Sjálfstætt starfandi eftirlitsaðili getur verið löggiltur endurskoðandi eða sá
-           sem hlotið hefur viðurkenningu [Fjármálaeftirlitsins].^2)
-   Lífeyrissjóði er skylt að tilkynna [Fjármálaeftirlitinu]^2) ef skipt er um
+           sem hlotið hefur viðurkenningu [Fjármálaeftirlitsins].^3)
+   Lífeyrissjóði er skylt að tilkynna [Fjármálaeftirlitinu]^3) ef skipt er um
                           eftirlitsaðila skv. 1. mgr.
-                    ^1)Rg. 546/1998. ^2)[11]L. 84/1998, 7. gr.
+[Lífeyrissjóður skal hafa í þjónustu sinni starfsmann sem hæfur er til að sinna
+     eignastýringu verðbréfasafna sjóðsins á grundvelli menntunar sinnar og
+                                 starfsreynslu.
+  Lífeyrissjóður sem býður upp á tvo eða fleiri valmöguleika varðandi ávöxtun
+   lífeyrisiðgjalda eða ávinnslu lífeyrisréttinda skal hafa í þjónustu sinni
+  starfsfólk sem hæft er til að sinna ráðgjöf í þeim efnum. Gæta skal þess að
+ráðgjöf sé sett fram á hlutlægan og faglegan hátt og taki mið af hagsmunum hvers
+ sjóðfélaga. Lífeyrissjóður skal enn fremur láta útbúa skriflegt kynningarefni
+   þar sem gerð er grein fyrir kostum og göllum einstakra valkosta miðað við
+mismunandi forsendur. Í auglýsingum og annarri kynningarstarfsemi lífeyrissjóða
+   skal þess gætt að fram komi réttar og nákvæmar upplýsingar um starfsemi og
+                         þjónustu lífeyrissjóðanna.]^1)
+       ^1)[17]L. 56/2000, 6. gr. ^2)Rg. 546/1998. ^3)[18]L. 84/1998, 7. gr.
 35. gr. Endurskoðunardeild eða eftirlitsaðili lífeyrissjóðs skv. 1. mgr. 34. gr.
                     skal m.a. annast eftirfarandi verkefni:
      1. hafa eftirlit með að skráning iðgjalda og lífeyrisréttinda sé samkvæmt
@@ -525,7 +555,7 @@ gerðardóms er bindandi fyrir báða aðila. Málskostnaði skal skipt milli m�
               ráðstafað í samræmi við lög og samþykktir sjóðsins.
  [Fjármálaeftirlitið]^1) setur nánari reglur um verkefni endurskoðunardeilda og
                          eftirlitsaðila lífeyrissjóða.
-                             ^1)[12]L. 84/1998, 7. gr.
+                             ^1)[19]L. 84/1998, 7. gr.
 
                  VII. kafli. Fjárfestingarstefna lífeyrissjóða.
 36. gr. Stjórn lífeyrissjóðs skal móta fjárfestingarstefnu og ávaxta fé sjóðsins
@@ -541,63 +571,70 @@ gerðardóms er bindandi fyrir báða aðila. Málskostnaði skal skipt milli m�
                                 þetta vera 35%.
                      4. Með innlánum í bönkum og sparisjóðum.
      5. Í skuldabréfum og víxlum banka, sparisjóða og annarra lánastofnana sem
-                   lúta eftirliti [Fjármálaeftirlitsins].^1)
+                  lúta eftirliti [opinbers eftirlitsaðila].^1)
                            6. Í hlutabréfum fyrirtækja.
        7. Í hlutdeildarskírteinum verðbréfasjóða, en verðbréfasafni að baki
   skírteinunum skal skipt á aðra töluliði þessarar málsgreinar með tilliti til
                             takmarkana í 2.6. mgr.
                               8. Í öðrum verðbréfum.
-   9. Í innlendum hlutabréfum sem ekki eru skráð á skipulegum markaði, enda séu
- engar hömlur lagðar á viðskipti með hlutabréfin og ársreikningar hlutaðeigandi
-                        hlutafélaga öllum aðgengilegir.
-            10. Með gerð afleiðusamninga sem draga úr áhættu sjóðsins.
+          [9.] ^1) Með gerð afleiðusamninga sem draga úr áhættu sjóðsins.
 Verðbréf skv. 1., 2. og 5.8. tölul. 1. mgr. skulu hafa skráð kaup- og sölugengi
        á skipulegum markaði. Með skipulegum markaði er átt við skipulegan
  verðbréfamarkað innan aðildarríkja Efnahags- og framfarastofnunarinnar (OECD)
  sem starfar reglulega, er opinn almenningi og viðurkenndur með þeim hætti sem
-   [Fjármálaeftirlitið]^1) metur gildan. Sé markaðurinn utan ríkja OECD skal
-                 [Fjármálaeftirlitið]^1) hafa viðurkennt hann.
-Þrátt fyrir ákvæði 2. mgr. er heimilt að fjárfesta fyrir samtals allt að 10% af
- hreinni eign sjóðsins í verðbréfum sem falla undir 1., 2., 5. og 8. tölul. 1.
-  mgr. og ekki eru skráð á skipulegum markaði, enda séu verðbréfin gefin út af
-                               innlendum aðilum.
- Eign lífeyrissjóðs skv. 2., 5. og 8. tölul. 1. mgr. hverjum um sig og 6. og 9.
- tölul. 1. mgr. samanlagt skal ekki vera meiri en 35% af hreinni eign sjóðsins.
-  Þó skal eign skv. 9. tölul. ekki vera meiri en 10% af hreinni eign sjóðsins.
-Samanlögð eign sjóðsins í verðbréfum skv. 2.9. tölul. 1. mgr. útgefnum af sama
- aðila eða aðilum sem tilheyra sömu samstæðunni skal ekki vera meiri en 10% af
-   hreinni eign sjóðsins. Þessi takmörkun skal vera 5% fyrir verðbréf skv. 8.
+   [Fjármálaeftirlitið]^2) metur gildan. Sé markaðurinn utan ríkja OECD skal
+                 [Fjármálaeftirlitið]^2) hafa viðurkennt hann.
+[Þrátt fyrir ákvæði 2. mgr. er heimilt að fjárfesta fyrir allt að 10% af hreinni
+ eign sjóðsins í verðbréfum sem falla undir 1., 2., 5., 6. og 8. tölul. 1. mgr.
+ og ekki eru skráð á skipulegum markaði, enda séu verðbréfin gefin út af aðilum
+ innan aðildarríkja OECD. Fjárfestingar í óskráðum hlutabréfum eru þó eingöngu
+   heimilar ef engar hömlur eru á viðskiptum með hlutabréfin og ársreikningar
+                     hlutafélaganna öllum aðgengilegir.]^1)
+[Eign lífeyrissjóðs í einstökum tegundum verðbréfa skv. 2., 5., 6., og 8. tölul.
+       1. mgr. skal ekki vera meiri en 50% af hreinni eign sjóðsins.]^1)
+Samanlögð eign sjóðsins í verðbréfum skv. [2.8. tölul.]^1) 1. mgr. útgefnum af
+sama aðila eða aðilum sem tilheyra sömu samstæðunni skal ekki vera meiri en 10%
+ af hreinni eign sjóðsins. Þessi takmörkun skal vera 5% fyrir verðbréf skv. 8.
  tölul. Eigi er lífeyrissjóði heimilt að eiga meira en 15% af hlutafé í hverju
       fyrirtæki né meira en 25% af hlutdeildarskírteinum útgefnum af sama
    verðbréfasjóði. Þó er lífeyrissjóði heimilt að eiga stærri hluta en 15% í
  fyrirtæki sem eingöngu sinnir þjónustuverkefnum fyrir lífeyrissjóðina sjálfa.
- Lífeyrissjóður skal takmarka áhættu í erlendum gjaldmiðlum í heild við 40% af
-                             hreinni eign sjóðsins.
+Lífeyrissjóður skal takmarka áhættu í erlendum gjaldmiðlum í heild við [50%]^1)
+                           af hreinni eign sjóðsins.
 Með hreinni eign í 3.6. mgr. er átt við hreina eign lífeyrissjóðs til greiðslu
   lífeyris samkvæmt síðasta endurskoðaða ársuppgjöri. Takmarkanir í 3.6. mgr.
                           skulu halda á hverjum tíma.
-   Lífeyrissjóði er ekki skylt að selja eignir í því skyni að fullnægja þeim
-    takmörkunum sem kveðið er á um í þessari grein en skal þegar hann kaupir
-                 verðbréf gæta þess að þessi takmörk séu virt.
-                             ^1)[13]L. 84/1998, 7. gr.
- 37. gr. Lífeyrissjóður má ekki fjárfesta í fasteignum eða lausafé nema að því
+[Þrátt fyrir ákvæði 3. mgr. er þeim lífeyrissjóðum sem keyptu óskráð bréf tengd
+húsnæðislánum Byggingarsjóðs ríkisins og Byggingarsjóðs verkamanna á árunum 1972
+    til 1994 heimilt að flokka þau sem skráð bréf skv. 1. tölul. 1. mgr.]^1)
+                ^1)[20]L. 56/2000, 7. gr. ^2)[21]L. 84/1998, 7. gr.
+ 37. gr. [Fjárfestingarstefna lífeyrissjóðs skal byggð á tegundaflokkun innlána
+og verðbréfa, sbr. 1.9. tölul. 1. mgr. 36. gr. Hver tegund innlána og verðbréfa
+skal jafnframt sundurliðuð eftir því sem við á með tilliti til gjaldmiðlaáhættu
+ og stærðar einstakra innlánsaðila eða verðbréfaútgefenda. Lífeyrissjóðir skulu
+       senda upplýsingar um fjárfestingarstefnu sína fyrir komandi ár til
+            Fjármálaeftirlitsins eigi síðar en 1. desember ár hvert.
+    Fjármálaeftirlitið skal setja reglur um form og efni fjárfestingarstefnu
+       lífeyrissjóða og hvernig henni skuli skilað til eftirlitsins.]^1)
+                             ^1)[22]L. 56/2000, 8. gr.
+ 38. gr. [Lífeyrissjóður má ekki fjárfesta í fasteignum eða lausafé nema að því
                marki sem nauðsynlegt er vegna starfsemi sjóðsins.
  Þrátt fyrir ákvæði 1. mgr. er lífeyrissjóði heimilt án takmarkana að yfirtaka
   eignir til að tryggja fullnustu kröfu. Eignirnar skulu seldar eigi síðar en
 innan 18 mánaða frá yfirtöku eignanna. Heimilt er þó að draga sölu lengur sé það
  augljóslega í þágu hagsmuna sjóðsins. Slíkan drátt á sölu eigna skal tilkynna
-   [Fjármálaeftirlitinu]^1) sem getur þá krafist sölu þeirra innan viðeigandi
-                                    frests.
-                             ^1)[14]L. 84/1998, 7. gr.
-     38. gr. Lífeyrissjóði er óheimilt að taka lán nema til fjárfestingar í
- fasteignum sem eru nauðsynlegar vegna starfsemi sjóðsins. Lífeyrissjóði er þó
-    heimilt að nýta almenna greiðslufresti vegna kaupa á verðbréfum eða taka
-                  skammtímalán til þess að jafna fjárstreymi.
+     Fjármálaeftirlitinu sem getur þá krafist sölu þeirra innan viðeigandi
+                                  frests.]^1)
+ Lífeyrissjóði er óheimilt að taka lán nema til fjárfestingar í fasteignum sem
+ eru nauðsynlegar vegna starfsemi sjóðsins. Lífeyrissjóði er þó heimilt að nýta
+ almenna greiðslufresti vegna kaupa á verðbréfum eða taka skammtímalán til þess
+                             að jafna fjárstreymi.
   Lífeyrissjóði er óheimilt að veita lán til stjórnarmanna, varamanna þeirra,
     starfsmanna sjóðsins, endurskoðenda, eftirlitsaðila, þeirra er framkvæma
 tryggingafræðilega athugun á hag sjóðsins eða maka þessara aðila, nema þeir séu
     félagar í viðkomandi sjóði og þá eftir þeim reglum sem gilda um lán til
                               sjóðfélaga almennt.
+                             ^1)[23]L. 56/2000, 9. gr.
       39. gr. Hrein eign lífeyrissjóðs til greiðslu lífeyris ásamt núvirði
    framtíðariðgjalda skal vera jafnhá núvirði væntanlegs lífeyris vegna þegar
      greiddra iðgjalda og framtíðariðgjalda. Áætlun um framtíðariðgjöld og
@@ -618,7 +655,7 @@ frá því ef tryggingafræðileg úttekt leiðir í ljós að sjóðurinn stend
  Tryggingafræðingur lífeyrissjóðs má ekki sitja í stjórn hans, vera starfsmaður
 hans eða starfa í þágu hans að öðru en tryggingafræðilegum athugunum og tengdri
                                     ráðgjöf.
-                             ^1)[15]L. 84/1998, 7. gr.
+                             ^1)[24]L. 84/1998, 7. gr.
 
                    VIII. kafli. Ársreikningur og endurskoðun.
  40. gr. Stjórn lífeyrissjóðs og framkvæmdastjóri skulu semja ársreikning fyrir
@@ -635,11 +672,15 @@ hans eða starfa í þágu hans að öðru en tryggingafræðilegum athugunum og
  [Fjármálaeftirlitið]^1) skal sjá til þess í samráði við reikningsskilaráð að á
    hverjum tíma liggi fyrir skilgreining á góðri reikningsskilavenju við gerð
                           ársreiknings lífeyrissjóðs.
- [Fjármálaeftirlitið]^1) setur reglur að höfðu samráði við reikningsskilaráð um
-uppsetningu ársreiknings, innihald einstakra liða efnahagsreiknings, yfirlit um
-   breytingar á hreinni eign til greiðslu lífeyris og fjárstreymisyfirlit og
+ [Fjármálaeftirlitið]^1) setur reglur^2) að höfðu samráði við reikningsskilaráð
+um uppsetningu ársreiknings, innihald einstakra liða efnahagsreiknings, yfirlit
+  um breytingar á hreinni eign til greiðslu lífeyris og fjárstreymisyfirlit og
                       skýringar og mat á einstökum liðum.
-                             ^1)[16]L. 84/1998, 7. gr.
+[Með ársreikningum lífeyrissjóða skal fylgja sú fjárfestingarstefna sem starfað
+    er eftir. Jafnframt skal fylgja úttekt á ávöxtun eignasafna síðasta árs.
+      Fjármálaeftirlitið skal setja nánari reglur um form og efni þessara
+                                 skýrslna.]^3)
+       ^1)[25]L. 84/1998, 7. gr. ^2)Rgl. 55/2000. ^3)[26]L. 56/2000, 10. gr.
 41. gr. Í skýrslu stjórnar skal koma fram yfirlit um starfsemi sjóðsins á árinu,
    svo og upplýsingar um atriði er mikilvæg eru við mat á fjárhagslegri stöðu
    sjóðsins og afkomu hans á reikningsárinu er ekki koma fram annars staðar í
@@ -670,22 +711,21 @@ fjármuna eða önnur atriði sem veikt geta fjárhagsstöðu lífeyrissjóðsin
     endurskoðenda og aðra hlutaðeigandi aðila, að á hverjum tíma liggi fyrir
   skilgreining á góðri endurskoðunarvenju við endurskoðun hjá lífeyrissjóðum.
      [Fjármálaeftirlitið]^1) setur reglur^2) um endurskoðun lífeyrissjóða.
-                    ^1)[17]L. 84/1998, 7. gr. ^2)Rg. 541/1998.
+                    ^1)[27]L. 84/1998, 7. gr. ^2)Rg. 541/1998.
      43. gr. Senda skal [Fjármálaeftirlitinu]^1) endurskoðaðan ársreikning
  lífeyrissjóðs ásamt skýrslu stjórnar þegar eftir undirritun hans og eigi síðar
   en fjórum mánuðum eftir lok reikningsárs. Meginniðurstöður ársreiknings skal
    birta opinberlega og í samræmdu formi sem [Fjármálaeftirlitið]^1) ákveður.
       Slíkar meginniðurstöður skulu liggja frammi í starfsstöð viðkomandi
               lífeyrissjóðs og vera aðgengilegar fyrir sjóðfélaga.
-                             ^1)[18]L. 84/1998, 7. gr.
+                             ^1)[28]L. 84/1998, 7. gr.
 
                               IX. kafli. Eftirlit.
 44. gr. [Fjármálaeftirlitið]^1) hefur eftirlit með að starfsemi lífeyrissjóða sé
 í samræmi við ákvæði laga þessara, reglugerðir og reglur settar samkvæmt þeim og
 staðfestar samþykktir lífeyrissjóða. Skal [Fjármálaeftirlitið]^1) eiga aðgang að
    öllum gögnum og upplýsingum lífeyrissjóða sem það telur nauðsynlegt vegna
-eftirlitsins. Um eftirlitið gilda, eftir því sem við getur átt, lög um [opinbert
-                      eftirlit með fjármálastarfsemi].^1)
+                               eftirlitsins. ^2)
 [Fjármálaeftirlitið]^1) getur lagt fyrir stjórn lífeyrissjóðs að láta fara fram
     tryggingafræðilega athugun á hag sjóðs á öðrum forsendum en gefnar eru í
 reglubundnum athugunum sjóðsins telji eftirlitið að hagur sjóðsins gefi tilefni
@@ -699,16 +739,16 @@ af öðru tilefni ástæðu til að ætla að rekstri lífeyrissjóðs og fjárh
 laga þessara, reglugerðum og reglum settum samkvæmt þeim, staðfestum samþykktum
  lífeyrissjóða eða sé að öðru leyti óeðlileg, óheilbrigð eða ótraust getur það
    veitt viðkomandi sjóði hæfilegan frest til úrbóta, nema brot sé alvarlegt.
-                             ^1)[19]L. 84/1998, 7. gr.
-           45. gr. Heimilt er Seðlabanka Íslands, að fengnum tillögum
-[Fjármálaeftirlitsins],^1) að ákveða viðurlög í formi dagsekta, allt að 100 þús.
-kr. á dag, ef lífeyrissjóðir verða ekki við skyldu til afhendingar ársreikninga
- eða annarra gagna eða hlíta ekki kröfum [Fjármálaeftirlitsins]^1) um aðgerðir
-                             samkvæmt lögum þessum.
-Kröfur, athugasemdir og fyrirhugaðar aðgerðir [Fjármálaeftirlitsins]^1) samkvæmt
-      þessum kafla skulu þegar í stað tilkynntar fjármálaráðherra, stjórn
-                        lífeyrissjóðs og endurskoðanda.
-                             ^1)[20]L. 84/1998, 7. gr.
+     [Fjármálaeftirlitið getur krafist hvers konar gagna og upplýsinga frá
+     dótturfyrirtækjum eða hlutdeildarfyrirtækjum lífeyrissjóða, enda telji
+ Fjármálaeftirlitið upplýsingarnar nauðsynlegar í eftirliti sínu með viðkomandi
+                               lífeyrissjóði.]^2)
+               ^1)[29]L. 84/1998, 7. gr. ^2)[30]L. 11/2000, 19. gr.
+ 45. gr. [Um eftirlit Fjármálaeftirlitsins gilda, eftir því sem við getur átt,
+  lög um opinbert eftirlit með fjármálastarfsemi. Heimilt er að beita ákvæðum
+    þeirra laga um dagsektir, stjórnvaldssektir og leit og hald á gögnum við
+             upplýsingaöflun og eftirlit samkvæmt þessum lögum.]^1)
+                            ^1)[31]L. 11/2000, 20. gr.
 
                    X. kafli. Umsjónaraðili, slit og samruni.
  46. gr. Fullnægi lífeyrissjóður ekki lengur skilyrði laga þessara til þess að
@@ -722,7 +762,7 @@ ekki sinnt er ráðherra heimilt að skipa lífeyrissjóði umsjónaraðila um t
   umsjónaraðili starfar. Tekur umsjónaraðili við réttindum og skyldum þessara
 aðila eftir því sem nánar er kveðið á um í erindisbréfi hans sem ráðherra gefur
   út. Kostnaður við starf umsjónaraðila greiðist af viðkomandi lífeyrissjóði.
-                             ^1)[21]L. 84/1998, 7. gr.
+                             ^1)[32]L. 84/1998, 7. gr.
       47. gr. Skipun umsjónaraðila skal rökstudd og tilkynnt hlutaðeigandi
     lífeyrissjóði skriflega. Jafnframt skal birta tilkynningu um skipunina í
                  Lögbirtingablaði og auglýsa hana í fjölmiðlum.
@@ -752,7 +792,7 @@ flutning og ákvörðun lífeyrisréttinda skal þess gætt að hver og einn sj�
    beggja sjóðanna verði ekki fyrir réttindaskerðingu vegna sameiningarinnar.
  Ráðherra getur með reglugerð kveðið nánar á um hvernig lífeyrisréttindi skulu
                             metin í þessu sambandi.
-                             ^1)[22]L. 84/1998, 7. gr.
+                             ^1)[33]L. 84/1998, 7. gr.
 49. gr. Stjórn sjóðs eða sá aðili sem samkvæmt samþykktum sjóðs hefur ákveðið að
  honum skuli slitið skal þegar í stað tilnefna þriggja manna skilanefnd er taki
   við störfum stjórnar og framkvæmdastjóra sjóðsins, enda hafi skilanefnd ekki
@@ -774,8 +814,9 @@ heildarlífeyrisskuldbindinga sjóðsins metinna í samræmi við ákvæði laga
 gr., V. kafla og X. kafla. Jafnframt eru þeir undanþegnir ákvæðum 3. gr. og III.
  kafla enda sé kveðið á um iðgjaldsstofn og réttindi í viðkomandi lögum. Ákvæði
                 3. mgr. 14. gr. skal þó gilda fyrir þessa sjóði.
- 51. gr. Lífeyrissjóðir sem njóta bakábyrgðar ríkis, sveitarfélags og banka eru
-                     undanþegnir ákvæðum 23. gr. og 39. gr.
+51. gr. [Lífeyrissjóðir sem njóta bakábyrgðar ríkis, sveitarfélaga og banka eru
+                  undanþegnir ákvæðum 21., 23. og 39. gr.]^1)
+                            ^1)[34]L. 56/2000, 11. gr.
   52. gr. Lífeyrissjóðir, sem hyggjast halda áfram að taka við iðgjöldum eftir
      gildistöku laga þessara, skulu innan eins árs frá gildistökunni senda
    fjármálaráðuneytinu umsókn um starfsleyfi. Umsókn skulu fylgja samþykktir
@@ -792,16 +833,30 @@ ráðherra ákveður. Hafi sjóður ekki nægjanlega marga sjóðfélaga skv. 21
    hyggjast einvörðungu veita lífeyri vegna áunninna réttinda, skulu tilkynna
  fjármálaráðuneytinu um þá fyrirætlan innan eins árs frá gildistöku laganna og
           skal þeim veitt starfsleyfi í því skyni, að fenginni umsögn
-  [Fjármálaeftirlitsins].^1) Lög þessi skulu gilda um þá sjóði sem starfsleyfi
-            hafa samkvæmt þessari grein eftir því sem við getur átt.
-                             ^1)[23]L. 84/1998, 7. gr.
+  [Fjármálaeftirlitsins].^1) [Um réttindi sjóðfélaga til greiðslu lífeyris úr
+ sjóðum sem starfa samkvæmt greininni fer eftir reglugerðum hlutaðeigandi sjóða
+sem í gildi voru við gildistöku laga þessara. Þó skal heimilt að breyta ákvæðum
+   um réttindi sjóðfélaga til samræmis við samkomulag sem samtök launþega og
+vinnuveitenda gera með sér, enda fari slík breyting hvorki í bága við III. kafla
+ laganna né teljist ganga á ólögmætan hátt á áunninn rétt einstakra sjóðfélaga
+ innbyrðis eða annarra sem réttinda njóta, eða hafa teljandi fjárhagsleg áhrif
+  þegar litið er til eigna sjóðsins og lífeyrisskuldbindinga. Við það mat skal
+ m.a. litið til umsagnar tryggingafræðings viðkomandi sjóðs sem fylgja skal ósk
+    um breytingar. Breytingar á réttindaákvæðum skulu koma fram í staðfestum
+   samþykktum fyrir viðkomandi sjóði. Að öðru leyti skulu lög þessi gilda um
+              hlutaðeigandi sjóði eftir því sem við getur átt.]^2)
+               ^1)[35]L. 84/1998, 7. gr. ^2)[36]L. 56/2000, 12. gr.
  54. gr. Lífeyrissjóði, sem starfar í samræmi við staðfesta reglugerð samkvæmt
- [24]lögum nr. 55/1980 og nýtur bakábyrgðar ríkis, sveitarfélags eða [banka eða
+ [37]lögum nr. 55/1980 og nýtur bakábyrgðar ríkis, sveitarfélags eða [banka eða
 naut slíkrar ábyrgðar 31. desember 1997, er heimilt að starfa áfram á óbreyttum
    iðgjalda- og]^1) réttindagrundvelli fyrir þá sem eiga aðild að sjóðnum við
-gildistöku laga þessara. Lífeyrissjóðurinn skal tilkynna fjármálaráðuneytinu um
-    þá fyrirætlun innan eins árs frá gildistöku laganna og skal honum veitt
-                            starfsleyfi í því skyni.
+ gildistöku laga þessara. [Lífeyrissjóðum sem kjósa að starfa áfram á óbreyttum
+réttindagrundvelli er þó heimilt að breyta viðmiðum sínum vegna töku lífeyris á
+   grundvelli eftirmannsreglu, sbr. reglugerðir sjóðanna, þannig að lífeyrir
+breytist í samræmi við meðalbreytingar dagvinnulauna hjá opinberum starfsmönnum
+  samkvæmt launavísitölu Hagstofu Íslands.]^2) Lífeyrissjóðurinn skal tilkynna
+ fjármálaráðuneytinu um þá fyrirætlun innan eins árs frá gildistöku laganna og
+                   skal honum veitt starfsleyfi í því skyni.
   Kjósi sjóðurinn að taka við iðgjöldum frá nýjum sjóðfélögum skulu þeir eiga
 aðild að sérstakri deild í sjóðnum og skulu samþykktir hennar uppfylla skilyrði
 laga þessara. Um starfsleyfi fyrir slíka deild skal sótt innan sömu tímamarka og
@@ -810,7 +865,7 @@ laga þessara. Um starfsleyfi fyrir slíka deild skal sótt innan sömu tímamar
  aðild að lífeyrissjóði er þessi grein tekur til kost á aðild að réttindakerfi
  eða öðrum lífeyrissjóði sem uppfyllir skilyrði laga þessara, [enda hafi slíkt
                val ekki farið fram fyrir gildistöku laganna].^1)
-                            ^1)[25]L. 148/1998, 4. gr.
+               ^1)[38]L. 148/1998, 4. gr. ^2)[39]L. 56/2000, 13. gr.
 
                             XII. kafli. Ýmis ákvæði.
 55. gr. Brot gegn lögum þessum varða sektum eða fangelsi allt að einu ári, nema
@@ -837,6 +892,18 @@ valmöguleika í samsetningu lífeyrisréttinda sinna, sbr. 4. gr., enda er þa�
  lágmörkum skv. 4. gr. skal fjármálaráðherra láta, í samráði við hagsmunaaðila,
   undirbúa frumvarp um breytingu á lögum þessum þannig að þetta markmið þeirra
                                      náist.
+ [III. Þrátt fyrir ákvæði [40]36. gr. er lífeyrissjóðum sem starfandi voru við
+gildistöku laga nr. 129/1997 ekki skylt að selja eignir í því skyni að fullnægja
+                þeim takmörkunum sem kveðið er á um í greininni.
+ Lífeyrissjóðum sem keypt hafa óskráð bréf á grundvelli 9. tölul. 1. mgr. og 3.
+mgr. [41]36. gr. laga nr. 129/1997 er ekki skylt að selja óskráð bréf sem keypt
+                      voru fyrir gildistöku þessara laga.
+     Skuldabréf skv. 3. mgr. [42]33. gr. laga nr. 1/1997 sem Lífeyrissjóður
+   starfsmanna ríkisins hefur tekið við, svo og skuldabréf sem Lífeyrissjóður
+ starfsmanna Reykjavíkurborgar hefur tekið við, vegna uppgreiðslu skuldbindinga
+ fyrir gildistöku [43]laga nr. 129/1997 eru undanþegin takmörkunum 2. mgr. 36.
+                                    gr.]^1)
+                            ^1)[44]L. 56/2000, brbákv.
 
 References
 
@@ -847,22 +914,41 @@ References
    4. file://1981075.html#g7
    5. file://1981075.html#g59
    6. file:///altext/stjt/1998.148.html
-   7. file:///altext/stjt/1998.084.html
-   8. file:///altext/stjt/1998.084.html
+   7. file:///altext/stjt/2000.056.html
+   8. file:///altext/stjt/2000.056.html
    9. file:///altext/stjt/1998.084.html
   10. file:///altext/stjt/1998.084.html
-  11. file:///altext/stjt/1998.084.html
+  11. file:///altext/stjt/2000.056.html
   12. file:///altext/stjt/1998.084.html
-  13. file:///altext/stjt/1998.084.html
-  14. file:///altext/stjt/1998.084.html
-  15. file:///altext/stjt/1998.084.html
+  13. file:///altext/stjt/2000.056.html
+  14. file:///altext/stjt/2000.011.html
+  15. file:///altext/stjt/2000.056.html
   16. file:///altext/stjt/1998.084.html
-  17. file:///altext/stjt/1998.084.html
+  17. file:///altext/stjt/2000.056.html
   18. file:///altext/stjt/1998.084.html
   19. file:///altext/stjt/1998.084.html
-  20. file:///altext/stjt/1998.084.html
+  20. file:///altext/stjt/2000.056.html
   21. file:///altext/stjt/1998.084.html
-  22. file:///altext/stjt/1998.084.html
-  23. file:///altext/stjt/1998.084.html
-  24. file://1980055.html
-  25. file:///altext/stjt/1998.148.html
+  22. file:///altext/stjt/2000.056.html
+  23. file:///altext/stjt/2000.056.html
+  24. file:///altext/stjt/1998.084.html
+  25. file:///altext/stjt/1998.084.html
+  26. file:///altext/stjt/2000.056.html
+  27. file:///altext/stjt/1998.084.html
+  28. file:///altext/stjt/1998.084.html
+  29. file:///altext/stjt/1998.084.html
+  30. file:///altext/stjt/2000.011.html
+  31. file:///altext/stjt/2000.011.html
+  32. file:///altext/stjt/1998.084.html
+  33. file:///altext/stjt/1998.084.html
+  34. file:///altext/stjt/2000.056.html
+  35. file:///altext/stjt/1998.084.html
+  36. file:///altext/stjt/2000.056.html
+  37. file://1980055.html
+  38. file:///altext/stjt/1998.148.html
+  39. file:///altext/stjt/2000.056.html
+  40. file://1997129.html#g36
+  41. file://1997129.html#g36
+  42. file://1997001.html#g33
+  43. file://1997129.html
+  44. file:///altext/stjt/2000.056.html

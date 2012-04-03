@@ -37,9 +37,8 @@ símamálastofnunar samkvæmt endurskoðuðum efnahagsreikningi 31. desember 199
  jafnframt skal gilda sem stofnefnahagsreikningur félagsins, en 25% af eigin fé
 skal færa í varasjóð. Hlutafé skal þó taka breytingum til hækkunar eða lækkunar
                   samkvæmt niðurstöðu matsnefndar, sbr. 5. gr.
-   Eitt hlutabréf skal gefið út við skráningu félagsins. Hlutabréf, sem gefið
-     verður út í tengslum við stofnun félagsins eða skiptingu þess samkvæmt
-       niðurlagsákvæði í 2. mgr. 2. gr., skal undanþegið stimpilgjöldum.
+           Eitt hlutabréf skal gefið út við skráningu félagsins. ^1)
+                             ^1)[4]L. 19/2000, 1. gr.
  5. gr. Samgönguráðherra skipar nefnd þriggja óvilhallra manna til að endurmeta
 eignir stofnunarinnar, skuldbindingar og viðskiptavild, svo og til að leggja mat
 á aðra eigna- og skuldaliði efnahagsreiknings stofnunarinnar. Við endanlegt mat
@@ -74,13 +73,13 @@ Ef fastráðinn starfsmaður Póst- og símamálastofnunar, sem ráðinn hefur v
   starfsemi stofnunarinnar, sem lög þessi kveða á um, fellur sjálfkrafa niður
                        biðlaunaréttur hans hjá félaginu.
       Fastráðinn starfsmaður stofnunarinnar, sem hefur áunnið sér rétt til
-     lífeyrisgreiðslna samkvæmt ákvæðum [4]12. gr. laga nr. 29/1963,^1) um
+     lífeyrisgreiðslna samkvæmt ákvæðum [5]12. gr. laga nr. 29/1963,^1) um
  Lífeyrissjóð starfsmanna ríkisins, með síðari breytingum, og hefur ráðist til
   starfa hjá félaginu með óskertum launum skv. 1. og 2. mgr. þessarar greinar,
 heldur þeim réttindum gagnvart félaginu sem 12. gr. greinir, en á ekki jafnframt
  rétt til greiðslu lífeyris úr sjóðnum meðan hann heldur óskertum launum sínum
-hjá félaginu skv. 9. mgr. [5]12. gr. laga nr. 29/1963,^1) með síðari breytingum.
-                                ^1)Nú [6]l. 1/1997.
+hjá félaginu skv. 9. mgr. [6]12. gr. laga nr. 29/1963,^1) með síðari breytingum.
+                                ^1)Nú [7]l. 1/1997.
   9. gr. Samgönguráðherra veitir félaginu rekstrarleyfi á tilteknum sviðum til
   þeirrar starfsemi sem af verkefnum félagsins leiðir samkvæmt lögum og öðrum
  stjórnvaldsfyrirmælum. Við útgáfu rekstrarleyfa getur ráðherra bundið þau þeim
@@ -116,6 +115,13 @@ byggðasjónarmiða sem ljóst er að ekki skilar arði og skal þá gera um þa
                16. gr. Lög þessi öðlast gildi 1. september 1996.
                             Ákvæði til bráðabirgða.
                                     I.III.
+[IV. Greiða skal 0,5% stimpilgjald af fjárhæð hlutabréfa sem gefin hafa verið út
+ í Landssíma Íslands hf. og Íslandspósti hf. Um gjaldið fer að öðru leyti eftir
+  því sem mælt er fyrir um í [8]lögum nr. 36/1978, um stimpilgjald, með síðari
+breytingum. Ekki skal greiða stimpilgjaldsálag vegna þeirra hlutabréfa sem þegar
+  hafa verið gefin út í Landssíma Íslands hf. og Íslandspósti hf., enda verði
+      gjaldið greitt innan tveggja mánaða frá gildistöku laga þessara.]^1)
+                             ^1)[9]L. 19/2000, 2. gr.
 
 References
 
@@ -123,6 +129,9 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996103
    2. file://1995002.html#g133
    3. file://1995002.html#g14
-   4. file://1963029.html
+   4. file:///altext/stjt/2000.019.html
    5. file://1963029.html
-   6. file://1997001.html
+   6. file://1963029.html
+   7. file://1997001.html
+   8. file://1978036.html
+   9. file:///altext/stjt/2000.019.html

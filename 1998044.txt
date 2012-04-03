@@ -190,7 +190,7 @@ viðskiptabanka og aðrar fjármálastofnanir um að annast mat skv. 2. og 3. t�
       2. mgr. og hafa með höndum samskipti útgefanda fasteignaveðbréfa við
 húsbréfadeild. Jafnframt má ákveða í reglugerð^1) að mat skv. 1. tölul. 2. mgr.
                       megi fela sérstökum trúnaðarmönnum.
-                                  ^1)Rg. 7/1999.
+                     ^1)Rg. 7/1999, sbr. 942/1999 og 372/2000.
                            19. gr. Fasteignaveðbréf.
   Fasteignaveðbréf skal vera verðtryggt með vísitölu neysluverðs, sbr. lög um
  vísitölu neysluverðs, og hafa sömu lánskjör og þau húsbréf sem skipta á fyrir
@@ -201,7 +201,7 @@ annars allt að 65% af matsverði íbúðar. Taka ber tillit til áhvílandi ve�
     þannig að fasteignaveðbréfið sé innan þessara marka. Ráðherra getur með
  reglugerð^1) ákveðið hámarksfjárhæð fasteignaveðbréfa sem húsbréfadeild kaupir
                            vegna hverrar fasteignar.
-                           ^1)Rg. 7/1999, sbr. 942/1999.
+                     ^1)Rg. 7/1999, sbr. 942/1999 og 372/2000.
                                20. gr. Matsverð.
    Stjórn Íbúðalánasjóðs setur reglur, sem félagsmálaráðherra staðfestir, um
    eðlilegt matsverð fasteigna sem skulu byggjast á viðmiðun við markaðsverð,
@@ -214,14 +214,27 @@ brunabótamat, byggingarkostnað og samþykktan kostnað við meiri háttar endu
                        degi sem aðilar koma sér saman um.
    Vextir skulu vera óbreytanlegir allan lánstímann. Lánstími er hinn sami og
                                lánstími húsbréfa.
-                                  ^1)Rg. 7/1999.
-                               22. gr. Hlutkesti.
+                     ^1)Rg. 7/1999, sbr. 942/1999 og 372/2000.
+                              22. gr. [Hlutkesti.
 Íbúðalánasjóður innheimtir afborganir og vexti af keyptum fasteignaveðbréfum og
     ráðstafar því fé sem þannig innheimtist til endurgreiðslu húsbréfa eftir
-hlutkesti sem sýslumaður hefur umsjón með. Þegar hlutkesti hefur farið fram skal
- auglýsa með tveggja mánaða fyrirvara númerin á húsbréfunum sem upp hafa komið
-     til innlausnar. Skal kveða nánar á um framkvæmd þessa í reglugerð.^1)
-                     ^1)Rg. 2/1999, sbr. 607/1999; rg. 7/1999.
+                   hlutkesti sem sýslumaður hefur umsjón með.
+ Íbúðalánasjóður yfirfærir eldri flokka húsbréfa í áþreifanlegu formi í rafbréf
+    samkvæmt [3]lögum um rafræna eignarskráningu verðbréfa, nr. 131/1997. Í
+                          auglýsingu skal tekið fram:
+                1. Hvaða húsbréfaflokka yfirfæra eigi hverju sinni.
+      2. Dagsetning yfirfærslu, svo og dagsetning fyrsta útdráttar húsbréfa í
+         verðbréfamiðstöð og tilhögun á greiðslum síðari útdrátta þar.
+     3. Önnur atriði er varða yfirfærslu húsbréfa í verðbréfamiðstöð, svo sem
+        réttarstöðu eigenda áþreifanlegra bréfa gagnvart útdrætti o.fl.
+ Að liðnum auglýstum fresti fara útgreiðslur á hlutkesti samkvæmt þessari grein
+einungis fram fyrir milligöngu verðbréfamiðstöðvar. Rétthafi kröfu samkvæmt hinu
+áþreifanlega húsbréfi getur vitjað hennar hjá útgefanda eða reikningsstofnun sem
+    útgefandi vísar til hafi skírteini ekki verið yfirfært til skráningar í
+  verðbréfamiðstöð. Skal nánar kveðið á um framkvæmd hlutkestis og yfirfærslu
+   samkvæmt þessari grein í reglugerð^1) sem félagsmálaráðuneytið setur.]^2)
+   ^1)Rg. 2/1999, sbr. 607/1999; rg. 7/1999, sbr. 942/1999 og 372/2000. ^2)[4]L.
+                                32/2000, 8. gr.
                             23. gr. Aukaafborganir.
 Skuldurum fasteignaveðbréfa er heimilt að greiða aukaafborganir af skuldabréfum
     sínum eða að endurgreiða skuldina að fullu fyrir gjalddaga. Til að jafna
@@ -264,7 +277,7 @@ upplýsingar sem það telur nauðsynlegar. Í þeim mæli sem [Fjármálaeftirl
    Seðlabanki Íslands skal stuðla að því að jafnvægi ríki á húsbréfamarkaði.
   Seðlabankinn skal í þeim mæli sem hann telur nauðsynlegt hindra að verulegt
                    misvægi myndist á markaðnum fyrir húsbréf.
-                             ^1)[3]L. 84/1998, 23. gr.
+                             ^1)[5]L. 84/1998, 23. gr.
                                28. gr. Vaxtaálag.
        Húsbréfadeildinni er heimilt að áskilja sér vaxtaálag til að mæta
  rekstrarkostnaði og áætluðum útlánatöpum. Félagsmálaráðherra ákveður vaxtaálag
@@ -273,7 +286,8 @@ upplýsingar sem það telur nauðsynlegar. Í þeim mæli sem [Fjármálaeftirl
  Félagsmálaráðherra getur sett frekari fyrirmæli í reglugerð^1) um fyrirkomulag
 og tilhögun húsbréfaviðskipta, þar á meðal um skyldur fasteignasala til þess að
                       veita upplýsingar um gengi húsbréfa.
-             ^1)Rg. 2/1999, sbr. 607/1999, rg. 7/1999, sbr. 942/1999.
+      ^1)Rg. 2/1999, sbr. 607/1999 og 115/2000; rg. 7/1999, sbr. 942/1999 og
+                                   372/2000.
 
                             VII. kafli. Viðbótarlán.
                               30. gr. Lánveiting.
@@ -478,7 +492,7 @@ tjóna skulu sett í reglugerð^1) sem félagsmálaráðherra gefur út að höf
 
                             XI. kafli. Ýmis ákvæði.
                                   46. gr. ^1)
-                             ^1)[4]L. 157/1998, 2. gr.
+                             ^1)[6]L. 157/1998, 2. gr.
                               47. gr. Afskriftir.
 Stjórn Íbúðalánasjóðs er heimilt að afskrifa útistandandi veðkröfur sjóðsins sem
                glatað hafa veðtryggingu við nauðungarsölu íbúðar.
@@ -524,21 +538,21 @@ viðbótarlána og lána sem sjóðurinn hefur yfirtekið, sbr. 53. gr. Skilyrð
                       XII. kafli. Gildistaka og lagaskil.
                               52. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 1999.
-  Við gildistöku laganna falla úr gildi [5]lög nr. 97/1993, um Húsnæðisstofnun
-    ríkisins. Þau ákvæði [6]laga nr. 97/1993 sem vísað er til í ákvæði I til
+  Við gildistöku laganna falla úr gildi [7]lög nr. 97/1993, um Húsnæðisstofnun
+    ríkisins. Þau ákvæði [8]laga nr. 97/1993 sem vísað er til í ákvæði I til
   bráðabirgða skulu þó halda gildi sínu. Jafnframt skulu halda gildi sínu þau
-   ákvæði [7]laga nr. 97/1993 sem vísað er til í ákvæði II til bráðabirgða og
+   ákvæði [9]laga nr. 97/1993 sem vísað er til í ákvæði II til bráðabirgða og
   snerta innlausn félagslegra íbúða og útreikning innlausnarverðs. Enn fremur
   halda gildi sínu þau ákvæði sem vísað er til í ákvæði IV til bráðabirgða og
 varða réttarstöðu eigenda félagslegra íbúða, svo og þær greinar sem vísað er til
  í ákvæði V til bráðabirgða og snerta réttarstöðu þeirra sem gert hafa samninga
   um leigu á félagslegum leiguíbúðum og kaupleiguíbúðum. Loks skulu þau ákvæði
- [8]laga nr. 97/1993, sem vísað er til í ákvæði til bráðabirgða VII um meðferð
+ [10]laga nr. 97/1993, sem vísað er til í ákvæði til bráðabirgða VII um meðferð
              umsókna um félagslegar eignaríbúðir, halda gildi sínu.
- Við gildistöku laga þessara skal félagsmálaráðherra gefa út þau ákvæði [9]laga
+Við gildistöku laga þessara skal félagsmálaráðherra gefa út þau ákvæði [11]laga
               nr. 97/1993 sem halda skulu gildi sínu skv. 2. mgr.
 Þrátt fyrir ákvæði 1. mgr. skulu ákvæði 13. gr. um skipan húsnæðisnefnda öðlast
-gildi þegar í stað. Frá sama tíma fellur úr gildi [10]39. gr. laga nr. 97/1993.
+gildi þegar í stað. Frá sama tíma fellur úr gildi [12]39. gr. laga nr. 97/1993.
 Ákvæði 55. gr. um undirbúningsnefnd og 56. gr. um matsnefnd öðlast gildi þegar í
  stað. Félagsmálaráðherra skal skipa nefndir þessar eigi síðar en 1. júní 1998.
      Ákvæði 1. mgr. í ákvæði til bráðabirgða VII öðlast gildi þegar í stað.
@@ -563,7 +577,7 @@ skulu birta tvær auglýsingar þessa efnis í Lögbirtingablaðinu. Skulu þær
 út vegna lána úr Byggingarsjóði ríkisins og Byggingarsjóði verkamanna, skulu að
                           öðru leyti halda gildi sínu.
   Við gildistöku laga þessara skal Tryggingarsjóður vegna byggingargalla skv.
- [11]81. gr. laga nr. 97/1993 lagður niður. Stjórn Íbúðalánasjóðs skal frá sama
+ [13]81. gr. laga nr. 97/1993 lagður niður. Stjórn Íbúðalánasjóðs skal frá sama
    tíma taka við og varðveita sérstaklega framlög annarra framkvæmdaraðila en
     sveitarfélaga sem runnið hafa til Tryggingarsjóðs vegna byggingargalla.
   Jafnframt tekur Íbúðalánasjóður við því hlutverki að bæta meðan þörf gerist
@@ -602,8 +616,8 @@ Byggingarsjóðs verkamanna og annarra sjóða sem Húsnæðisstofnun ríkisins 
             Kostnaður við störf nefndarinnar greiðist úr ríkissjóði.
 
                             Ákvæði til bráðabirgða.
-                        I. Ákvæði [12]laga nr. 97/1993.
- Þrátt fyrir ákvæði laga þessara skulu eftirtalin ákvæði [13]laga nr. 97/1993,
+                        I. Ákvæði [14]laga nr. 97/1993.
+ Þrátt fyrir ákvæði laga þessara skulu eftirtalin ákvæði [15]laga nr. 97/1993,
 með síðari breytingum, ásamt fyrirsögnum einstakra greina, halda gildi sínu, að
      því er snertir lán sem veitt hafa verið úr Byggingarsjóði ríkisins og
  Byggingarsjóði verkamanna og eftir því sem við getur átt: 2.4. mgr. 16. gr.,
@@ -611,7 +625,7 @@ með síðari breytingum, ásamt fyrirsögnum einstakra greina, halda gildi sín
 gr., 2. mgr. 68. gr., 77. gr., 79. gr., 1., 3. og 4. mgr. 82. gr., 83.86. gr.,
 93. gr. a og ákvæði IV til bráðabirgða í þeim lögum, þó með þeim takmörkunum sem
                            fram koma í lögum þessum.
- Jafnframt skulu halda gildi sínu þau ákvæði [14]laga nr. 97/1993 sem vísað er
+ Jafnframt skulu halda gildi sínu þau ákvæði [16]laga nr. 97/1993 sem vísað er
          til í ákvæðum til bráðabirgða II, IV, V og VII í lögum þessum.
 Telji aðili sem borið getur réttindi og skyldur samkvæmt ákvæðum til bráðabirgða
 IIV og VII á rétt sinn hallað af hálfu húsnæðisnefndar eða sveitarstjórnar, þar
@@ -630,20 +644,20 @@ félagslegri íbúð eða kaupleiguíbúð, sem boðin er til sölu, fellur slí
 framkvæmdaraðili skal þá gefa út yfirlýsingu um að niður séu fallnar kvaðir sem
  verið hafa á íbúðinni um forkaupsrétt og takmarkanir á ráðstöfunarrétti. Skal
                             yfirlýsingunni þinglýst.
-  Kaupskylda sveitarfélags við nauðungarsölu íbúðar skv. [15]86. gr. laga nr.
+  Kaupskylda sveitarfélags við nauðungarsölu íbúðar skv. [17]86. gr. laga nr.
       97/1993 skal ekki vara lengur en í 15 ár frá útgáfu síðasta afsals.
  Á meðan kaupskylda og forkaupsréttur sveitarfélaga á félagslegu húsnæði varir
-   samkvæmt ákvæðum [16]laga nr. 97/1993, um Húsnæðisstofnun ríkisins, skulu
+   samkvæmt ákvæðum [18]laga nr. 97/1993, um Húsnæðisstofnun ríkisins, skulu
   húsnæðisnefndir, þar sem þær eru starfandi, annast meðferð mála vegna þeirra
                        íbúða sem ganga til sveitarfélaga.
  Um útreikning á innlausnarverði félagslegra íbúða, sem sveitarfélög leysa til
-   sín skv. 1. mgr., skal beita fyrirmælum 1. og 4. mgr. [17]87. gr. laga nr.
- 97/1993. Hafi íbúð verið byggð eftir gildistöku [18]laga nr. 51/1980 skal enn
- fremur gæta ákvæða 1. og 2. mgr. [19]88. gr. laga nr. 97/1993, en annars 1.3.
-     og 8. mgr. [20]89. gr. laga nr. 97/1993, hafi íbúðin verið byggð fyrir
+   sín skv. 1. mgr., skal beita fyrirmælum 1. og 4. mgr. [19]87. gr. laga nr.
+ 97/1993. Hafi íbúð verið byggð eftir gildistöku [20]laga nr. 51/1980 skal enn
+ fremur gæta ákvæða 1. og 2. mgr. [21]88. gr. laga nr. 97/1993, en annars 1.3.
+     og 8. mgr. [22]89. gr. laga nr. 97/1993, hafi íbúðin verið byggð fyrir
  gildistöku fyrrnefndra laga. Um íbúðir á vegum Byggingarfélags verkamanna fer
- eftir ákvæðum [21]90. gr. laga nr. 97/1993. Stjórn varasjóðs skv. 43. gr. laga
- þessara skal fjalla um heimildir húsnæðisnefnda skv. 4. mgr. [22]87. gr. laga
+ eftir ákvæðum [23]90. gr. laga nr. 97/1993. Stjórn varasjóðs skv. 43. gr. laga
+ þessara skal fjalla um heimildir húsnæðisnefnda skv. 4. mgr. [24]87. gr. laga
                                   nr. 97/1993.
                         III. Ráðstöfun innleystra íbúða.
 Íbúð sem sveitarstjórn hefur leyst til sín samkvæmt ákvæðum eldri laga getur hún
@@ -667,22 +681,22 @@ markaði, greiði hann upp skuld við framkvæmdaraðila og lán sem veitt hafa 
  lengri en 30 ár frá útgáfu síðasta afsals íbúðar. Sveitarstjórn er heimilt að
                         stytta þann tíma hvenær sem er.
  Um réttarstöðu eigenda félagslegra eignaríbúða fer að öðru leyti eftir því sem
-mælt er fyrir um í [23]70.[24]71. gr. laga nr. 97/1993 eftir því sem við getur
+mælt er fyrir um í [25]70.[26]71. gr. laga nr. 97/1993 eftir því sem við getur
             átt og með þeim takmörkunum sem í lögum þessum greinir.
                          V. Leigu- og kaupleiguíbúðir.
  Samningar, sem einstaklingar hafa gert um félagslegar leiguíbúðir, halda gildi
      sínu. Um samskipti leigutaka og framkvæmdaraðila gilda ákvæði laga um
-  húsaleigusamninga. Um leigugjald gilda ákvæði [25]73. gr. laga nr. 97/1993.
+  húsaleigusamninga. Um leigugjald gilda ákvæði [27]73. gr. laga nr. 97/1993.
 Samningar, sem einstaklingar hafa gert um kaupleiguíbúðir, halda gildi sínu. Um
 réttarstöðu slíkra aðila og um samskipti við framkvæmdaraðila fer eftir því sem
- segir í 72. gr., 2., 3., 5. og 6. mgr. 73. gr. og [26]76. gr. laga nr. 97/1993
+ segir í 72. gr., 2., 3., 5. og 6. mgr. 73. gr. og [28]76. gr. laga nr. 97/1993
               með þeim takmörkunum þó sem í lögum þessum greinir.
  Einstaklingur, sem hefur kauprétt vegna íbúðar sem hann hefur á leigu, sbr. 1.
-    mgr. [27]73. gr. laga nr. 97/1993, heldur þeim rétti. Um lánveitingar og
+    mgr. [29]73. gr. laga nr. 97/1993, heldur þeim rétti. Um lánveitingar og
           lánskjör vegna slíkra kaupa fer eftir ákvæðum laga þessara.
                              VI. Framkvæmdaíbúðir.
      Framkvæmdalánssamningar, sem Húsnæðisstofnun ríkisins hefur gert fyrir
-  gildistöku laga þessara skv. [28]58. gr. laga nr. 97/1993, skulu halda gildi
+  gildistöku laga þessara skv. [30]58. gr. laga nr. 97/1993, skulu halda gildi
                                      sínu.
  Stjórn Íbúðalánasjóðs skal staðfesta lok framkvæmda og byggingarkostnað íbúða,
       sem fullgerðar eru eftir gildistöku laga þessara, með úttekt sinni.
@@ -699,7 +713,7 @@ réttarstöðu slíkra aðila og um samskipti við framkvæmdaraðila fer eftir 
 sínu. Um meðferð slíkra íbúða, lánveitingar, réttarstöðu aðila og samskipti við
 framkvæmdaraðila fer eftir því sem segir í 42. gr., 43. gr., 51. gr., 1.8. mgr.
  52. gr., 2. mgr. 54. gr., 2. mgr. 56. gr., 57. gr., 58. gr., 1. og 2. mgr. 58.
- gr. a, 59.61. gr., 64. gr., 1. mgr. 68. gr., 69. gr. og [29]78. gr. laga nr.
+ gr. a, 59.61. gr., 64. gr., 1. mgr. 68. gr., 69. gr. og [31]78. gr. laga nr.
                                     97/1993.
 Með allar aðrar félagslegar eignaríbúðir sem eru á framkvæmdarstigi eða eru til
   endurúthlutunar við gildistöku laga þessara og ekki hefur verið úthlutað til
@@ -711,14 +725,14 @@ Um kaupskyldu, forkaupsrétt og ráðstöfun félagslegra eignaríbúða gilda f
                                VIII. Varasjóður.
  Í varasjóð skv. X. kafla laga þessara skulu auk framlaga sveitarfélaga renna:
       1. Framlög sveitarfélaga til Tryggingarsjóðs vegna byggingargalla skv.
-           [30]81. gr. laga nr. 97/1993, um Húsnæðisstofnun ríkisins.
+           [32]81. gr. laga nr. 97/1993, um Húsnæðisstofnun ríkisins.
     2. Söluhagnaður af íbúðum sem sveitarfélög hafa byggt og innleystar eru af
               hálfu sveitarfélaga og endurseldar með söluhagnaði.
     3. Framlög ríkissjóðs samkvæmt fjárlögum vegna afskrifta og niðurgreiðslna
                      eldri lána Byggingarsjóðs verkamanna.
  Varasjóðurinn skal meðan þörf gerist bæta byggingargalla en ekki það sem telst
  eðlilegt viðhald á íbúðum sem sveitarfélög hafa byggt og af hefur verið greitt
-         tryggingagjald samkvæmt ákvæðum [31]81. gr. laga nr. 97/1993.
+         tryggingagjald samkvæmt ákvæðum [33]81. gr. laga nr. 97/1993.
 Stjórn varasjóðsins skal nota söluhagnað af innleystum íbúðum, sbr. 2. tölul. 1.
 mgr., og framlög ríkissjóðs samkvæmt fjárlögum, sbr. 3. tölul. 1. mgr., til þess
  að greiða niður áhvílandi framreiknuð eldri veðlán Byggingarsjóðs verkamanna.
@@ -745,10 +759,10 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998044
    2. file:///altext/stjt/1999.121.html
-   3. file:///altext/stjt/1998.084.html
-   4. file:///altext/stjt/1998.157.html
-   5. file://1993097.html
-   6. file://1993097.html
+   3. file://1997131.html
+   4. file:///altext/stjt/2000.032.html
+   5. file:///altext/stjt/1998.084.html
+   6. file:///altext/stjt/1998.157.html
    7. file://1993097.html
    8. file://1993097.html
    9. file://1993097.html
@@ -760,17 +774,19 @@ References
   15. file://1993097.html
   16. file://1993097.html
   17. file://1993097.html
-  18. file:///altext/stjtnr.html#1980051
+  18. file://1993097.html
   19. file://1993097.html
-  20. file://1993097.html
+  20. file:///altext/stjtnr.html#1980051
   21. file://1993097.html
   22. file://1993097.html
-  23. file:///altext/stjtnr.html#1993097?g70
+  23. file://1993097.html
   24. file://1993097.html
-  25. file://1993097.html
+  25. file:///altext/stjtnr.html#1993097?g70
   26. file://1993097.html
   27. file://1993097.html
   28. file://1993097.html
   29. file://1993097.html
   30. file://1993097.html
   31. file://1993097.html
+  32. file://1993097.html
+  33. file://1993097.html

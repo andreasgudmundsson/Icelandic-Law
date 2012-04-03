@@ -1292,9 +1292,9 @@ upplýsingar eða gögn má skiptastjóri fara þess skriflega á leit við hér
     82. gr. Þeim sem hafa eignir þrotabús í umráðum sínum er skylt að veita
  skiptastjóra þær upplýsingar og láta honum í té þau gögn um málefni búsins sem
  hann krefst. Sama skylda hvílir á opinberum stofnunum og öðrum stjórnvöldum og
-   sýslunarmönnum, viðskiptabönkum og sparisjóðum, svo og öðrum sem geta haft
-vitneskju um eignir og skuldir þrotabús vegna viðskiptatengsla við þrotamanninn
-                       eða af öðrum sambærilegum ástæðum.
+sýslunarmönnum, [viðskiptabönkum, sparisjóðum og verðbréfamiðstöðvum],^1) svo og
+       öðrum sem geta haft vitneskju um eignir og skuldir þrotabús vegna
+      viðskiptatengsla við þrotamanninn eða af öðrum sambærilegum ástæðum.
    Neiti einhver sá, sem getur í 1. mgr., að verða við kröfu skiptastjóra um
   upplýsingar eða gögn má skiptastjóri fara svo að sem segir í 3. mgr. 81. gr.
    Nú neitar þrotamaðurinn eða forráðamaður félags eða stofnunar, sem er til
@@ -1308,6 +1308,7 @@ gjaldþrotaskipta, að afhenda skiptastjóra eignir þrotabúsins eða synjar ho
                 hana skal farið með hann eftir ákvæðum 170. gr.
  Úrskurði skv. 3. mgr. má ef þörf krefur fullnægja með aðför án aðfararfrests.
                     Málskot úrskurðarins frestar ekki aðför.
+                             ^1)[4]L. 32/2000, 7. gr.
   83. gr. Meðan á gjaldþrotaskiptum stendur má skiptastjóri krefjast úrskurðar
 héraðsdómara um að þrotamanninum verði bönnuð för úr landi um tiltekinn tíma ef
 nærvera hans verður talin nauðsynleg vegna athugunar á fjárreiðum þrotabúsins og
@@ -1331,7 +1332,7 @@ Banni eftir úrskurði héraðsdómara skv. 2. mgr. skal framfylgt með sama hæ
 gerst sekir um refsivert athæfi skal hann tilkynna það [ríkislögreglustjóra].^1)
 Skiptastjóra er óskylt að leita eftir slíkri vitneskju umfram það sem leiðir af
                     upplýsingaöflun hans starfa sinna vegna.
-                             ^1)[4]L. 26/1998, 1. gr.
+                             ^1)[5]L. 26/1998, 1. gr.
 
                XIV. kafli. Fyrstu aðgerðir við gjaldþrotaskipti.
     85. gr. Skiptastjóri skal án tafar eftir skipun sína gefa út og fá birta
@@ -2467,4 +2468,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1991021
    2. file:///altext/stjt/1991.092.html
    3. file:///altext/stjt/1991.092.html
-   4. file:///altext/stjt/1998.026.html
+   4. file:///altext/stjt/2000.032.html
+   5. file:///altext/stjt/1998.026.html

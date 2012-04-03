@@ -273,9 +273,10 @@ að tryggja yfirsýn og samfellda málsmeðferð í slíkum málum. Nú breytast
  þá ekki standa lengur á skránni. Foreldrum skal að jafnaði gerð grein fyrir að
  barn þeirra sé á skrá, sbr. 3. mgr. 43. gr., nema það komi í bága við hagsmuni
    barnsins að mati nefndarinnar. Ráðuneytið setur reglugerð um fyrirkomulag
- skráningar og meðferð upplýsinga í samræmi við lagaákvæði þetta og [25]lög um
-             skráningu og meðferð persónuupplýsinga, nr. 121/1989.
-                            ^1)[26]L. 160/1998, 13. gr.
+   skráningar og meðferð upplýsinga í samræmi við lagaákvæði þetta og [lög um
+                 persónuvernd og meðferð persónuupplýsinga].^2)
+   ^1)[25]L. 160/1998, 13. gr. ^2)[26]L. 77/2000, 46. gr. Breytingin tekur gildi
+                                1. janúar 2001.
                             21. gr. Stuðningsúrræði.
 Nú leiðir könnun máls í ljós að þörf er aðgerða barnaverndarnefndar og skal hún
  þá í samvinnu við foreldra, og eftir atvikum barn ,^1) veita aðstoð eftir því
@@ -625,8 +626,15 @@ að fara með forsjá barns og geta þeir þá farið fram á að barnaverndarne
 börn],^1) sumardvalarheimili, sumarbúðir eða önnur heimili sem taka börn ^1) til
 uppeldis, umönnunar eða aðhlynningar, um langan tíma eða skamman, enda falli þau
                              ekki undir önnur lög.
-                                      ^2)
-                                      ^2)
+Barnaverndarnefndir, ein eða fleiri saman, skulu hafa tiltæk úrræði með rekstri
+   vistheimila eða á annan hátt til að veita börnum viðtöku vegna aðstæðna á
+heimili þeirra, svo sem vegna forfalla foreldra, vanrækslu eða illrar meðferðar
+            á barni eða til könnunar á aðstæðum þeirra, sbr. 18. gr.
+    Heimilt er félagasamtökum eða öðrum aðilum að setja á stofn heimili eða
+   stofnanir til stuðnings börnum ^1) að fengnu leyfi [barnaverndarstofu].^2)
+   [Þeir aðilar, sem taka börn til dvalar á einkaheimili í atvinnuskyni, gegn
+gjaldi, sem ætlað er að vara í allt að sex mánuði, skulu sækja um leyfi til þess
+               til barnaverndarnefndar í heimilisumdæmi sínu.]^2)
  [Félagsmálaráðuneytið skal sjá um að sérhæfð heimili og stofnanir séu tiltækar
 fyrir börn ^1) þegar úrræði barnaverndarnefndar skv. 21. gr. og 1. mgr. 22. gr.
  hafa ekki komið að gagni. Hér er átt við heimili og stofnanir þar sem fram fer
@@ -635,11 +643,6 @@ afbrota og alvarlegra hegðunarerfiðleika. Slík heimili og stofnanir eru rekin
  ríkinu eða af einkaaðilum undir yfirumsjón og eftirliti barnaverndarstofu. Um
  starfsemi heimila og stofnana, sem rekin eru af ríkinu, skal nánar kveðið á í
                  reglugerð^3) er félagsmálaráðherra setur.]^2)
-    Heimilt er félagasamtökum eða öðrum aðilum að setja á stofn heimili eða
-   stofnanir til stuðnings börnum ^1) að fengnu leyfi [barnaverndarstofu].^2)
-   [Þeir aðilar, sem taka börn til dvalar á einkaheimili í atvinnuskyni, gegn
-gjaldi, sem ætlað er að vara í allt að sex mánuði, skulu sækja um leyfi til þess
-               til barnaverndarnefndar í heimilisumdæmi sínu.]^2)
     ^1)[45]L. 160/1998, 27. gr. ^2)[46]L. 22/1995, 13. gr. ^3)Rg. 264/1995. Rg.
                      271/1995, sbr. 474/1998. Rg. 401/1998.
                        52. gr. Leyfi til að reka heimili.
@@ -799,8 +802,8 @@ References
   22. file:///altext/stjt/1998.160.html
   23. file:///altext/stjt/1998.160.html
   24. file:///altext/stjt/1998.160.html
-  25. file://1989121.html
-  26. file:///altext/stjt/1998.160.html
+  25. file:///altext/stjt/1998.160.html
+  26. file://2000077.html#g46
   27. file:///altext/stjt/1998.160.html
   28. file:///altext/stjt/1998.160.html
   29. file:///altext/stjt/1995.022.html

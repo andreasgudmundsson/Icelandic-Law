@@ -305,6 +305,9 @@ eiganda merkis að bæta úr því innan frests sem Einkaleyfastofan ákveður. 
   er vitað um heimilisfang eiganda merkis skal birta tilkynningu um frestinn í
  ELS-tíðindum. Ef umboðsmaður samkvæmt framangreindu er ekki tilnefndur áður en
                   frestur er úti skal merkið afmáð úr skránni.
+     [Eigandi vörumerkis, sem hefur ekki lögheimili hér á landi, telst hafa
+    varnarþing í Reykjavík í málum sem rekin eru samkvæmt lögum þessum.]^1)
+                             ^1)[3]L. 13/2000, 1. gr.
 
                          V. kafli. Framsal, leyfi o.fl.
  36. gr. Rétt til vörumerkis má framselja ásamt atvinnustarfsemi þeirri sem það
@@ -355,9 +358,8 @@ Sá sem af ásetningi brýtur gegn vörumerkjarétti skal sæta sektum. Eftir at
 hagsbóta fyrir lögaðilann eða hann hefur hagnast á brotinu. Lögaðili ber ábyrgð
   á greiðslu sektar sem starfsmaður hans er dæmdur til að greiða vegna brota á
            lögum þessum, enda séu brot tengd starfi hjá lögaðilanum.
-Mál samkvæmt þessari grein skulu rekin í samræmi við reglur um meðferð opinberra
-                                     mála.
-                            ^1)[3]L. 82/1998, 234. gr.
+                                      ^2)
+                ^1)[4]L. 82/1998, 234. gr. ^2)[5]L. 13/2000, 2. gr.
  43. gr. Þeim sem af ásetningi eða gáleysi brýtur gegn vörumerkjarétti er skylt
  að greiða hæfilegt endurgjald fyrir hagnýtingu vörumerkis og skaðabætur fyrir
                   annað tjón sem af broti hans hefur hlotist.
@@ -503,11 +505,11 @@ mánaða frá þeim degi sem Einkaleyfastofan eða áfrýjunarnefnd tók ákvör
                      fá vitneskju um hvort merki er skráð.
 65. gr. Ráðherra setur nánari reglur^1) um frágang vörumerkjaumsókna og meðferð
  þeirra hjá Einkaleyfastofunni, um form vörumerkjaskrárinnar og færslu, útgáfu
-skráningarskírteina og efni þeirra og meðferð andmælamála, svo og um gjöld fyrir
-   umsóknir, endurnýjanir, afgreiðslur, endurrit o.fl. Þá skal ráðherra setja
-                 nánari ákvæði^2) um áfrýjun og áfrýjunarnefnd.
-    ^1)Rg. 310/1997. Rg. 313/1997. ^2)Rg. 673/1999, sbr. 313/1997, 603/1997 og
-                                   505/1999.
+  skráningarskírteina og efni þeirra og meðferð andmælamála, svo og um [gjöld
+fyrir umsóknir, endurnýjanir, afgreiðslur, endurrit, áfrýjanir o.fl.]^2) Þá skal
+         ráðherra setja nánari ákvæði^3) um áfrýjun og áfrýjunarnefnd.
+   ^1)Rg. 310/1997. Rg. 313/1997. ^2)[6]L. 13/2000, 3. gr. ^3)Rg. 673/1999, sbr.
+                  313/1997, 603/1997 og 505/1999; rg. 41/2000.
   66. gr. Lög þessi raska ekki gildi eldri vörumerkjaskráninga þótt vörumerkin
    fullnægi ekki skilyrðum laganna til þess að verða skráð sem ný vörumerki.
   Um vörumerki sem skráð eru samkvæmt eldri lögum kemur tilgreining á vöru eða
@@ -520,4 +522,7 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997045
    2. file:///altext/stjt/1998.067.html
-   3. file:///altext/stjt/1998.082.html
+   3. file:///altext/stjt/2000.013.html
+   4. file:///altext/stjt/1998.082.html
+   5. file:///altext/stjt/2000.013.html
+   6. file:///altext/stjt/2000.013.html

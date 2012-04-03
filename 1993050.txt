@@ -35,9 +35,10 @@ frá lífeyrissjóði, greiðslur frá sjúkrasjóði],^1) dagpeninga og aðrar 
  rúmfastur. Þegar sérstaklega stendur á er heimilt að greiða þjáningabætur þótt
  tjónþoli sé vinnufær.]^1) Nemi bætur meira en 200.000 kr. er heimilt að víkja
                    frá fjárhæðum þeim sem greinir í 1. málsl.
- Um greiðslur frá þriðja manni fer eftir ákvæðum 1., 3. og 4. málsl. 4. mgr. 5.
-                                      gr.
-                             ^1)[3]L. 37/1999, 2. gr.
+[Um greiðslur frá þriðja manni fer eftir ákvæðum 1., 3., 4. og 5. málsl. 4. mgr.
+                                   5. gr.]^2)
+   ^1)[3]L. 37/1999, 2. gr. ^2)[4]L. 111/2000, 24. gr. Breytingin tekur gildi 1.
+                                  janúar 2001.
                                Varanlegur miski.
 4. gr. [Þegar fjárhæð bóta fyrir varanlegan miska er ákveðin skal litið til þess
      hvers eðlis og hversu miklar afleiðingar tjóns eru frá læknisfræðilegu
@@ -66,7 +67,7 @@ Við lægra miskastig lækka fjárhæðir þessar í réttu hlutfalli. Þegar s�
    stendur á er heimilt að ákveða hærri bætur, allt að 50% hærri en samkvæmt
                                    töflunni.
            Um greiðslur frá þriðja manni fer eftir 4. mgr. 5. gr.]^1)
-                             ^1)[4]L. 37/1999, 3. gr.
+                             ^1)[5]L. 37/1999, 3. gr.
                                 Varanleg örorka.
 5. gr. [Valdi líkamstjón, þegar heilsufar tjónþola er orðið stöðugt, varanlegri
 skerðingu á getu til að afla vinnutekna á tjónþoli rétt á bótum fyrir varanlega
@@ -79,49 +80,52 @@ að afla sér tekna með vinnu sem sanngjarnt er að ætlast til að hann starfi
     bætur frá sams konar slysatryggingu manns er slasast sem farþegi í eigin
 ökutæki. Greiðslur frá samnings- eða lögbundinni atvinnuslysatryggingu launþega
 dragast frá skaðabótakröfu hans á hendur vinnuveitanda þeim sem slysatrygginguna
-        keypti. Jafnframt skal draga frá skaðabótakröfu 40% af reiknuðu
+   keypti. [Bætur samkvæmt lögum um sjúklingatryggingu skal einnig draga frá
+  skaðabótakröfu.]^2) Jafnframt skal draga frá skaðabótakröfu 40% af reiknuðu
  eingreiðsluverðmæti örorkulífeyris frá lífeyrissjóði og skal við útreikninginn
  miðað við 4,5% ársafvöxtun. Aðrar greiðslur sem tjónþoli fær frá þriðja manni
 vegna líkamstjóns, svo sem lífeyrissjóði eða vátryggingafélagi, dragast ekki frá
                               skaðabótakröfu.]^1)
-                             ^1)[5]L. 37/1999, 4. gr.
+   ^1)[6]L. 37/1999, 4. gr. ^2)[7]L. 111/2000, 24. gr. Breytingin tekur gildi 1.
+                                  janúar 2001.
    6. gr. [Bætur fyrir varanlega örorku skal meta til fjárhæðar á grundvelli
   örorkustigs tjónþola skv. 5. gr., árslauna hans skv. 7. gr. og eftirfarandi
 töflu, þannig að margfölduð séu saman örorkustig, árslaun og stuðull töflunnar í
 samræmi við aldur tjónþola á þeim tíma sem upphaf varanlegrar örorku miðast við:
 
 Aldur        Stuðull        Aldur        Stuðull       Aldur       Stuðull
-0            11,438         25           15,101        50          7,834
-1            11,746         26           14,567        51          7,626
-2            12,064         27           14,161        52          7,370
-3            12,389         28           13,750        53          7,139
-4            12,724         29           13,474        54          6,932
-5            13,067         30           12,813        55          6,678
-6            13,420         31           12,595        56          6,378
-7            13,782         32           12,367        57          6,037
-8            14,155         33           12,150        58          5,687
-9            14,537         34           11,915        59          5,329
-10           14,929         35           11,678        60          4,960
-11           15,332         36           11,433        61          4,581
-12           15,746         37           11,180        62          4,211
-13           16,171         38           10,988        63          3,841
-14           16,608         39           10,784        64          3,451
-15           17,057         40           10,577        65          3,038
-16           17,517         41           10,358        66          2,567
-17           17,990         42           10,083        67          2,067
-18           18,476         43           9,851         68          1,994
-19           18,031         44           9,565         69          1,902
-20           17,572         45           9,265         70          1,783
-21           17,106         46           9,014         71          1,626
-22           16,626         47           8,750         72          1,412
-23           16,130         48           8,440         73          1,109
-24           15,619         49           8,116         74          0,667
+
+0           11,438          25          15,101          50         7,834
+1           11,746          26          14,567          51         7,626
+2           12,064          27          14,161          52         7,370
+3           12,389          28          13,750          53         7,139
+4           12,724          29          13,474          54         6,932
+5           13,067          30          12,813          55         6,678
+6           13,420          31          12,595          56         6,378
+7           13,782          32          12,367          57         6,037
+8           14,155          33          12,150          58         5,687
+9           14,537          34          11,915          59         5,329
+10          14,929          35          11,678          60         4,960
+11          15,332          36          11,433          61         4,581
+12          15,746          37          11,180          62         4,211
+13          16,171          38          10,988          63         3,841
+14          16,608          39          10,784          64         3,451
+15          17,057          40          10,577          65         3,038
+16          17,517          41          10,358          66         2,567
+17          17,990          42          10,083          67         2,067
+18          18,476          43          9,851           68         1,994
+19          18,031          44          9,565           69         1,902
+20          17,572          45          9,265           70         1,783
+21          17,106          46          9,014           71         1,626
+22          16,626          47          8,750           72         1,412
+23          16,130          48          8,440           73         1,109
+24          15,619          49          8,116           74         0,667
 
 Sé tjónþoli orðinn 75 ára á þeim tíma sem upphaf varanlegrar örorku miðast við,
 en hafi stundað vinnu þegar tjón varð, skal ákvarða honum bætur skv. 1. mgr. og
                   skal þá notaður margfeldisstuðullinn 0,667.
                    Bótafjárhæðin skal greidd í einu lagi.]^1)
-                             ^1)[6]L. 37/1999, 5. gr.
+                             ^1)[8]L. 37/1999, 5. gr.
        7. gr. [Árslaun til ákvörðunar bóta skv. 6. gr. skulu teljast vera
 meðalatvinnutekjur tjónþola að meðtöldu framlagi vinnuveitanda til lífeyrissjóðs
     þrjú síðustu almanaksárin fyrir þann dag er tjón varð, leiðrétt samkvæmt
@@ -144,17 +148,17 @@ Aldur                                     Kr.
 74 ára                                      400.000
 
              Ekki skal miða við hærri árslaun en 4.500.000 kr.]^1)
-                             ^1)[7]L. 37/1999, 6. gr.
+                             ^1)[9]L. 37/1999, 6. gr.
  8. gr. [Bætur til barna og tjónþola, sem að verulegu leyti nýta vinnugetu sína
 þannig að þeir hafa engar eða takmarkaðar vinnutekjur, skal ákvarða á grundvelli
     örorkustigs skv. 5. gr. Bætur skulu ákveðnar eftir reglum 5.7. gr.]^1)
-                             ^1)[8]L. 37/1999, 7. gr.
+                             ^1)[10]L. 37/1999, 7. gr.
      9. gr. [Í 4. og 6. gr. eru töflugildin miðuð við upphaf aldursárs. Við
   útreikning bóta skal reiknað með að margfeldisstuðull breytist hlutfallslega
                           jafnt milli töflugilda.]^1)
-                             ^1)[9]L. 37/1999, 8. gr.
+                             ^1)[11]L. 37/1999, 8. gr.
                         [Mat á örorku. Örorkunefnd.]^1)
-                             ^1)[10]L. 37/1999, 9. gr.
+                             ^1)[12]L. 37/1999, 9. gr.
    10. gr. [Þegar fyrir liggur sérfræðilegt álit um örorku- og/eða miskastig
 tjónþola, eða þá læknisfræðilegu þætti skv. 2. og 3. gr. sem meta þarf til þess
    að uppgjör bóta samkvæmt lögum þessum geti farið fram, getur hvor um sig,
@@ -176,7 +180,7 @@ m.a. vera heimild fyrir nefndina til þess að kveðja lækna og aðra sérfró�
   til starfa í þágu nefndarinnar og jafnframt ákveðið hvernig staðið skuli að
  birtingu helstu álitsgerða hennar. Í reglugerð skal og kveða á um gjald fyrir
                          álitsgerðir nefndarinnar.]^2)
-       ^1)Rg. 335/1993, sbr. 19/1996 og 549/1996. ^2)[11]L. 37/1999, 9. gr.
+       ^1)Rg. 335/1993, sbr. 19/1996 og 549/1996. ^2)[13]L. 37/1999, 9. gr.
                                  Endurupptaka.
 11. gr. Að kröfu tjónþola er heimilt að taka upp að nýju ákvörðun um bætur fyrir
  varanlegan miska eða örorkubætur. Skilyrði endurupptöku er að ófyrirsjáanlegar
@@ -196,7 +200,7 @@ m.a. vera heimild fyrir nefndina til þess að kveðja lækna og aðra sérfró�
     (100%) örorku, sbr. 5.8. gr. Bætur skulu þó nema ekki minni fjárhæð en
                     3.000.000 kr. nema sérstaklega standi á.
                                       ^1)
-                            ^1)[12]L. 37/1999, 10. gr.
+                            ^1)[14]L. 37/1999, 10. gr.
                                 Bætur til barns.
  14. gr. Bætur fyrir missi framfæranda til eftirlifandi barns, sem hinum látna
       var lögskylt að framfæra, skulu vera jafnháar heildarfjárhæð þeirra
@@ -213,14 +217,14 @@ m.a. vera heimild fyrir nefndina til þess að kveðja lækna og aðra sérfró�
                 lækka svo að fjárhæð standi á heilum tug króna.
 Bætur skv. 1. mgr. skal ákveða á grundvelli fjárhæða sem gilda þegar bótafjárhæð
                                 er ákveðin. ^1)
-                            ^1)[13]L. 37/1999, 11. gr.
+                            ^1)[15]L. 37/1999, 11. gr.
                                     Vextir.
   16. gr. [Bætur fyrir þjáningar, varanlegan miska, tímabundið atvinnutjón og
 missi framfæranda bera vexti frá því að tjón varð. Bætur fyrir varanlega örorku
 bera vexti frá upphafsdegi metinnar örorku skv. 5. gr. Vextirnir skulu nema 4,5%
                                    á ári.]^1)
                   Um dráttarvexti fer eftir reglum vaxtalaga.
-                            ^1)[14]L. 37/1999, 12. gr.
+                            ^1)[16]L. 37/1999, 12. gr.
                                   Endurkrafa.
    17. gr. Endurkrafa vegna greiðslu bóta samkvæmt lögum um almannatryggingar
      verður ekki gerð á hendur þeim sem er skaðabótaskyldur. Sama á við um
@@ -308,7 +312,7 @@ eða 2. tölul. 2. mgr. 19. gr. eða 21. gr., má, þegar bótaábyrgð er deilt
                 greiða miskabætur til þess sem misgert var við.
  Þeim sem af ásetningi eða stórfelldu gáleysi veldur dauða annars manns má gera
               að greiða maka, börnum eða foreldrum miskabætur.]^1)
-                            ^1)[15]L. 37/1999, 13. gr.
+                            ^1)[17]L. 37/1999, 13. gr.
                 Bann gegn því að víkja frá lögunum með samningi.
 27. gr. Eigi má, áður en tjón verður, víkja með samningi frá reglum 1.16. gr.,
       2. mgr. 24. gr. eða 26. gr. laga þessara ef það er í óhag þeim sem á
@@ -324,13 +328,13 @@ gr. laga þessara ef það er í óhag hinum skaðabótaskylda. Þó má víkja 
                    tjóns sem verður eftir gildistöku laganna.
 [29. gr. Fjárhæðir samkvæmt lögum þessum eru miðaðar við lánskjaravísitölu eins
 og hún var 1. júlí 1993 (3282) og taka þær sömu breytingum og mælt er fyrir um í
-     15. gr., sbr. einnig [16]lög nr. 12/1995, um vísitölu neysluverðs.]^1)
-                            ^1)[17]L. 37/1999, 14. gr.
+     15. gr., sbr. einnig [18]lög nr. 12/1995, um vísitölu neysluverðs.]^1)
+                            ^1)[19]L. 37/1999, 14. gr.
                              Brottfall lagaákvæða.
                                   [30. gr.]^1)
-                            ^1)[18]L. 37/1999, 14. gr.
+                            ^1)[20]L. 37/1999, 14. gr.
                           Ákvæði til bráðabirgða. ^1)
-                            ^1)[19]L. 37/1999, 15. gr.
+                            ^1)[21]L. 37/1999, 15. gr.
 
 References
 
@@ -338,10 +342,10 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993050
    2. file:///altext/stjt/1999.037.html
    3. file:///altext/stjt/1999.037.html
-   4. file:///altext/stjt/1999.037.html
+   4. file://2000111.html#g24
    5. file:///altext/stjt/1999.037.html
    6. file:///altext/stjt/1999.037.html
-   7. file:///altext/stjt/1999.037.html
+   7. file://2000111.html#g24
    8. file:///altext/stjt/1999.037.html
    9. file:///altext/stjt/1999.037.html
   10. file:///altext/stjt/1999.037.html
@@ -350,7 +354,9 @@ References
   13. file:///altext/stjt/1999.037.html
   14. file:///altext/stjt/1999.037.html
   15. file:///altext/stjt/1999.037.html
-  16. file://1995012.html
+  16. file:///altext/stjt/1999.037.html
   17. file:///altext/stjt/1999.037.html
-  18. file:///altext/stjt/1999.037.html
+  18. file://1995012.html
   19. file:///altext/stjt/1999.037.html
+  20. file:///altext/stjt/1999.037.html
+  21. file:///altext/stjt/1999.037.html

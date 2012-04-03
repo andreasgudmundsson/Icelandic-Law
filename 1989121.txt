@@ -2,11 +2,13 @@
 
    --------------------------------------------------------------------------
 
-                 Lög um skráningu og meðferð persónuupplýsinga
+                Lög um skráningu og meðferð persónuupplýsinga^1)
 
                            1989 nr. 121 28. desember
 
    --------------------------------------------------------------------------
+
+           ^1)Falla úr gildi 1. janúar 2001, sbr. [2]l. 77/2000, 46. gr.
 
                          I. kafli. Gildissvið laganna.
   1. gr. Lög þessi taka til hvers konar kerfisbundinnar skráningar og annarrar
@@ -24,8 +26,8 @@ fjárhagsmálefni eða önnur málefni einstaklinga, stofnana, fyrirtækja eða 
 þótt hann sé ekki nafngreindur, ef hann er sérgreindur með nafnnúmeri, kennitölu
       eða öðru skráningarauðkenni sem unnt er að persónugreina með eða án
                                greiningarlykils.
-                             ^1)[2]L. 76/1997, 2. gr.
-        2. gr. Skráning samkvæmt [3]lögum nr. 30/1956 og skráning í þágu
+                             ^1)[3]L. 76/1997, 2. gr.
+        2. gr. Skráning samkvæmt [4]lögum nr. 30/1956 og skráning í þágu
        ættfræðirannsókna og æviskrárrita fellur utan marka laga þessara.
 
              II. kafli. Almennar reglur um heimild til skráningar.
@@ -108,11 +110,11 @@ fá upplýsingarnar vegi þyngra en tillitið til þess að upplýsingunum verð
    almannahagsmunum eða einkahagsmunum ^1) Ef svo er háttað um nokkurn hluta
   upplýsinga, en eigi aðra, skal beiðanda veitt vitneskja um þá hluta sem eigi
                         þykir varhugavert að skýra frá.
-                             ^1)[4]L. 50/1996, 25. gr.
+                             ^1)[5]L. 50/1996, 25. gr.
   10. gr. [Um skyldu læknis og annarra sem færa sjúkraskrá til þess að afhenda
 sjúklingi eða umboðsmanni hans afrit skrárinnar, í heild eða að hluta, fer eftir
                     ákvæðum laga um réttindi sjúklinga.]^1)
-                             ^1)[5]L. 76/1997, 3. gr.
+                             ^1)[6]L. 76/1997, 3. gr.
   11. gr. Ákvæði 9. gr. taka ekki til skrár eða skráningar sem einvörðungu er
  stofnað til í þágu tölfræðilegra útdrátta. Tölvunefnd getur einnig ákveðið að
  aðrar skrár séu undanþegnar ákvæðum þessum ef ætla má að ákvæði 2. mgr. 9. gr.
@@ -423,10 +425,10 @@ eða hann hefur notið hagnaðar af brotinu. Lögaðili ber ábyrgð á greiðsl
                   séu brot tengd starfi hans hjá lögðaðilanum.
 38. gr. Starfsleyfishafa skv. 15., 21., 24. og 25. gr. má auk refsingar skv. 37.
   gr. með dómi svipta starfsleyfi ef sök er mikil. Að öðru leyti eiga hér við
- ákvæði 1. og 2. mgr. [6]68. gr. almennra hegningarlaga nr. 19/1940, með síðari
+ ákvæði 1. og 2. mgr. [7]68. gr. almennra hegningarlaga nr. 19/1940, með síðari
                                   breytingum.
 Gera má upptæk með dómi tæki sem stórfelld brot á lögum þessum hafa verið framin
-með, svo og hagnað af broti, sbr. [7]69. gr. almennra hegningarlaga nr. 19/1940.
+með, svo og hagnað af broti, sbr. [8]69. gr. almennra hegningarlaga nr. 19/1940.
 39. gr. Tilraun og hlutdeild í brotum á lögum þessum er refsiverð eftir því sem
                    segir í III. kafla almennra hegningarlaga.
 
@@ -439,9 +441,10 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1989121
-   2. file:///altext/stjt/1997.076.html
-   3. file:///altext/stjtnr.html#1956030
-   4. file://1996050.html#g25
-   5. file:///altext/stjt/1997.076.html
-   6. file://1940019.html#g68
-   7. file://1940019.html#g69
+   2. file://2000077.html#g46
+   3. file:///altext/stjt/1997.076.html
+   4. file:///altext/stjtnr.html#1956030
+   5. file://1996050.html#g25
+   6. file:///altext/stjt/1997.076.html
+   7. file://1940019.html#g68
+   8. file://1940019.html#g69

@@ -31,7 +31,7 @@ brunabótamat. Er markmið matsins að finna vátryggingarverðmæti húseignari
   þeim tíma er virðing fer fram. Skal matið taka til þeirra efnislegu verðmæta
   húseignarinnar sem eyðilagst geta af eldi og miðast við byggingarkostnað að
 teknu tilliti til aldurs, slits, viðhalds og ástands eignar að öðru leyti. Matið
-      skal skrá í fasteignaskrá stofnunarinnar þar sem því skal viðhaldið.
+        skal skrá í [Landskrá fasteigna]^1) þar sem því skal viðhaldið.
 Fasteignamat ríkisins getur endurmetið skyldutryggðar húseignir þegar stofnunin
 sér ástæðu til. Skal húseiganda tilkynnt um fyrirhugaða breytingu á mati. Vilji
  húseigandi ekki una breyttu mati samkvæmt þessari málsgrein skal hann tilkynna
@@ -59,18 +59,17 @@ Séu húseignir á eyðijörðum nýttar sem sumarhús eða til annarrar dægrad
   Ef brunabótamat byggist á beinni skoðun á húseign skal gefa húseiganda, eða
                  fulltrúa hans, kost á því að vera viðstaddur.
    Fasteignamati ríkisins er heimilt að reikna brunabótamat án skoðunar. Skal
-      útreikningur þessi gerður á grundvelli upplýsinga sem fyrir liggja í
- fasteignaskrám stofnunarinnar og í öðrum þeim gögnum sem hún kann að hafa yfir
-  að ráða. Áður en mat samkvæmt þessari málsgrein tekur gildi skal húseiganda
-    gefinn kostur á því að gera athugasemdir við matið. Hafi hann eigi komið
-    athugasemdum sínum sannanlega á framfæri við Fasteignamat ríkisins innan
-fjögurra vikna frá dagsetningu tilkynningar um matið skal litið svo á að hann sé
-                                 því samþykkur.
+ útreikningur þessi gerður á grundvelli upplýsinga sem fyrir liggja í [Landskrá
+fasteigna]^1) og í öðrum þeim gögnum sem hún kann að hafa yfir að ráða. Áður en
+ mat samkvæmt þessari málsgrein tekur gildi skal húseiganda gefinn kostur á því
+    að gera athugasemdir við matið. Hafi hann eigi komið athugasemdum sínum
+    sannanlega á framfæri við Fasteignamat ríkisins innan fjögurra vikna frá
+  dagsetningu tilkynningar um matið skal litið svo á að hann sé því samþykkur.
       Vátryggingarfjárhæð breytist til samræmis við breytingar á vísitölu
                 byggingarkostnaðar hinna ýmsu tegunda húseigna.
    Í reglugerð skal kveða nánar á um tilhögun brunabótamats samkvæmt þessari
-                                   grein.]^1)
-                             ^1)[3]L. 34/1999, 2. gr.
+                                   grein.]^2)
+                 ^1)[3]L. 40/2000, 1. gr. ^2)[4]L. 34/1999, 2. gr.
 3. gr. Bætur fyrir tjón á húseign má aðeins greiða til þess að gera við húseign
 sem skemmst hefur við bruna eða til endurbyggingar. Vátryggjanda er skylt að sjá
         til þess áður en bætur eru greiddar að þeim sé réttilega varið.
@@ -91,7 +90,7 @@ Nú verður brunatjón meira en helmingur brunabótamatsverðs og sveitarstjórn
   [Ágreiningi um bótafjárhæð skv. 2. mgr. eða um endurmatsverð skv. 3. mgr. er
    heimilt að skjóta til gerðardóms sem ráðherra vátryggingamála setur nánari
   ákvæði um í reglugerð. Kostnað við úrskurð ber sá er gerð gengur á móti.]^1)
-                ^1)[4]L. 34/1999, 3. gr. ^2)[5]L. 150/1994, 2. gr.
+                ^1)[5]L. 34/1999, 3. gr. ^2)[6]L. 150/1994, 2. gr.
   [[4. gr.]^1) Hafi brunatrygging húss, sem tekin hefur verið, fallið niður af
        ástæðum sem húseiganda verður ekki um kennt ber Sambandi íslenskra
      tryggingafélaga að bæta honum tjón á húseign hans af völdum eldsvoða.
@@ -105,20 +104,14 @@ ljós verði leitt hver ber ábyrgð á að vátrygging féll niður og skal sam
 Skilyrði starfsleyfis lögboðinna brunatrygginga húseigna er að félag skuldbindi
    sig til að taka þátt í þessari tilhögun um greiðslu bóta vegna óvátryggðra
                                  húseigna.]^2)
-                ^1)[6]L. 34/1999, 5. gr. ^2)[7]L. 150/1994, 4. gr.
+                ^1)[7]L. 34/1999, 5. gr. ^2)[8]L. 150/1994, 4. gr.
            [5. gr. Ágreiningi um brunabótamat má skjóta til úrskurðar
   yfirfasteignamatsnefndar. Fyrir kostnað við úrskurð nefndarinnar skal greiða
  samkvæmt gjaldskrá sem ráðherra vátryggingamála setur. Kostnað við úrskurð ber
                          sá sem gerð gengur á móti.]^1)
-                             ^1)[8]L. 34/1999, 7. gr.
-  [6. gr. Til þess að standa straum af kostnaði Fasteignamats ríkisins við að
-   uppfæra og halda skrár yfir brunabótamat húseigna skulu húseigendur greiða
- sérstakt gjald til Fasteignamats ríkisins, umsýslugjald. Gjald þetta skal nema
- 0,025 (prómillum) af brunabótamati hverrar húseignar og skal vátryggingafélag
-     innheimta gjaldið samhliða innheimtu brunatryggingariðgjalda og skila
-     umsýslugjaldi til Fasteignamats ríkisins eigi síðar en 45 dögum eftir
-                                 gjalddaga.]^1)
-                             ^1)[9]L. 34/1999, 9. gr.
+                             ^1)[9]L. 34/1999, 7. gr.
+                                [6. gr. ^1)]^2)
+                ^1)[10]L. 40/2000, 2. gr. ^2)[11]L. 34/1999, 9. gr.
  [7. gr.]^1) [Öll iðgjöld og matskostnaður af húseignum í skyldutryggingu hvíla
 sem lögveð á eignunum sjálfum og ganga í tvö ár fyrir öllum öðrum skuldbindingum
                  sem á þeim hvíla nema sköttum til ríkissjóðs.
@@ -129,39 +122,51 @@ sem lögveð á eignunum sjálfum og ganga í tvö ár fyrir öllum öðrum skul
 fjárnáms. Önnur gjöld og skattar samkvæmt þessari málsgrein eru brunavarnagjald,
         umsýslugjald, forvarnagjald, viðlagatryggingariðgjald og álag á
                        viðlagatryggingariðgjald.]^2)]^3)
-    ^1)[10]L. 34/1999, 4. gr. ^2)[11]L. 131/1996, 2. gr. ^3)[12]L. 150/1994, 3.
+    ^1)[12]L. 34/1999, 4. gr. ^2)[13]L. 131/1996, 2. gr. ^3)[14]L. 150/1994, 3.
                                       gr.
  [8. gr.]^1) [Ráðherra]^2) skal setja reglugerð^3) um nánari framkvæmd þessara
  laga, þar á meðal verksvið vátryggjanda, skyldur vátryggingataka, bótauppgjör,
  undanskildar áhættur, réttarstöðu við eigendaskipti, rétt veðhafa og framkvæmd
              virðingar og yfirmats, þar á meðal kostnað virðingar.
-    ^1)[13]L. 34/1999, 6. gr. ^2)[14]L. 10/1995, 3. gr. ^3)Rg. 484/1994. Augl.
+    ^1)[15]L. 34/1999, 6. gr. ^2)[16]L. 10/1995, 3. gr. ^3)Rg. 484/1994. Augl.
                                    332/1996.
                    [9. gr.]^1) Lög þessi öðlast þegar gildi.
-                             ^1)[15]L. 34/1999, 8. gr.
+                             ^1)[17]L. 34/1999, 8. gr.
                             Ákvæði til bráðabirgða.
                                      I. ^1)
-                            ^1)[16]L. 34/1999, 10. gr.
+                            ^1)[18]L. 34/1999, 10. gr.
                                     II. ^1)
-                            ^1)[17]L. 34/1999, 10. gr.
+                            ^1)[19]L. 34/1999, 10. gr.
+   [III. Til þess að standa straum af kostnaði Fasteignamats ríkisins við að
+ uppfæra og halda Landskrá fasteigna skulu húseigendur greiða til þess sérstakt
+  umsýslugjald á árunum 20002004. Skal gjald þetta nema 0,025 (prómillum) af
+ brunabótamati hverrar húseignar árið 2000, en á árunum 20012004 skal gjaldið
+ nema 0,1 (prómilli) af brunabótamati hverrar húseignar. Skal vátryggingafélag
+     innheimta gjaldið samhliða innheimtu brunatryggingariðgjalda og skila
+     umsýslugjaldi til Fasteignamats ríkisins eigi síðar en 45 dögum eftir
+                                 gjalddaga.]^1)
+                             ^1)[20]L. 40/2000, 3. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1994048
    2. file:///altext/stjt/1999.034.html
-   3. file:///altext/stjt/1999.034.html
+   3. file:///altext/stjt/2000.040.html
    4. file:///altext/stjt/1999.034.html
-   5. file:///altext/stjt/1994.150.html
-   6. file:///altext/stjt/1999.034.html
-   7. file:///altext/stjt/1994.150.html
-   8. file:///altext/stjt/1999.034.html
+   5. file:///altext/stjt/1999.034.html
+   6. file:///altext/stjt/1994.150.html
+   7. file:///altext/stjt/1999.034.html
+   8. file:///altext/stjt/1994.150.html
    9. file:///altext/stjt/1999.034.html
-  10. file:///altext/stjt/1999.034.html
-  11. file:///altext/stjt/1996.131.html
-  12. file:///altext/stjt/1994.150.html
-  13. file:///altext/stjt/1999.034.html
-  14. file:///altext/stjt/1995.010.html
+  10. file:///altext/stjt/2000.040.html
+  11. file:///altext/stjt/1999.034.html
+  12. file:///altext/stjt/1999.034.html
+  13. file:///altext/stjt/1996.131.html
+  14. file:///altext/stjt/1994.150.html
   15. file:///altext/stjt/1999.034.html
-  16. file:///altext/stjt/1999.034.html
+  16. file:///altext/stjt/1995.010.html
   17. file:///altext/stjt/1999.034.html
+  18. file:///altext/stjt/1999.034.html
+  19. file:///altext/stjt/1999.034.html
+  20. file:///altext/stjt/2000.040.html

@@ -142,8 +142,8 @@ vandkvæðum bundið. Forsætisráðherra er heimilt að ákveða með sérstakr
                       17. gr. Takmörkun á upplýsingarétti.
 Þegar sérstaklega stendur á er stjórnvaldi heimilt að takmarka aðgang aðila máls
  að gögnum ef hagsmunir hans af því að notfæra sér vitneskju úr þeim þykja eiga
-  að víkja fyrir mun ríkari almanna- eða einkahagsmunum, þar á meðal ef lög um
-skráningu og meðferð persónuupplýsinga standa í vegi fyrir aðgangi að gögnunum.
+           að víkja fyrir mun ríkari almanna- eða einkahagsmunum ^1)
+                             ^1)[3]L. 83/2000, 6. gr.
                              18. gr. Frestun máls.
  Stjórnvaldi er heimilt að setja málsaðila ákveðinn frest til þess að kynna sér
                           gögn máls og tjá sig um það.
@@ -306,3 +306,4 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993037
    2. file:///altext/stjt/1999.036.html
+   3. file:///altext/stjt/2000.083.html

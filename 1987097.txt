@@ -39,8 +39,8 @@ Af vörum, sem flokkast undir tollskrárnúmer sem talin eru upp í [CE-liðum
                                     4. ^2)]^3)
     ^1)Viðauki I er ekki birtur hér, en um hann vísast til Stjtíð. 1996 A, bls.
   287291, sbr. augl. A 110/1996, 148/1996, 164/1996, 25/1997, 26/1997, [5]l.
-89/1998, 5. gr., og [6]l. 4/1999. ^2)[7]L. 148/1996, 1. gr. ^3)[8]L. 89/1996, 2.
-                                      gr.
+   89/1998, 5. gr., [6]l. 4/1999 og [7]l. 103/2000. ^2)[8]L. 148/1996, 1. gr.
+                            ^3)[9]L. 89/1996, 2. gr.
                               Gjaldskyldir aðilar.
          4. gr. Skylda til að greiða vörugjald hvílir á þessum aðilum:
     1. Öllum þeim sem flytja til landsins vörugjaldsskyldar vörur hvort sem er
@@ -54,7 +54,7 @@ Af vörum, sem flokkast undir tollskrárnúmer sem talin eru upp í [CE-liðum
  skráningar hjá skattstjóra þar sem aðilar eiga lögheimili.]^1) Breytingar, sem
  verða á starfsemi eftir að skráning hefur farið fram, skal tilkynna eigi síðar
                   en 15 dögum eftir að breyting átti sér stað.
-                             ^1)[9]L. 89/1996, 3. gr.
+                             ^1)[10]L. 89/1996, 3. gr.
   [5. gr. Aðilar, sem flytja inn eða kaupa innan lands gjaldskyldar vörur til
   heildsölu, geta fengið sérstaka skráningu hjá skattstjóra. Skilyrði slíkrar
                                 skráningar eru:
@@ -72,14 +72,14 @@ sala eða afhending á gjaldskyldum vörum án vörugjalds til aðila sem skrá�
  Þegar aðili, sem fengið hefur sérstaka skráningu, kaupir gjaldskyldar vörur án
   vörugjalds skal tilgreina á sölureikningum það magn eða það verð sem myndar
                            gjaldstofn vörugjalds.]^1)
-                             ^1)[10]L. 89/1996, 4. gr.
+                             ^1)[11]L. 89/1996, 4. gr.
                           [Gjaldstofn verðgjalds.]^1)
-                             ^1)[11]L. 89/1996, 5. gr.
+                             ^1)[12]L. 89/1996, 5. gr.
      [6. gr. Gjaldstofn vörugjalds af innfluttum vörum, sem flokkast undir
    tollskrárnúmer sem talin eru upp í [CE-liðum]^1) í viðauka I, er tollverð
  þeirra eins og það er ákveðið í 8.10. gr. tollalaga, að viðbættum tollum eins
                  og þeir eru ákveðnir samkvæmt þeim lögum.]^2)
-               ^1)[12]L. 148/1996, 2. gr. ^2)[13]L. 89/1996, 5. gr.
+               ^1)[13]L. 148/1996, 2. gr. ^2)[14]L. 89/1996, 5. gr.
 [7. gr. Gjaldstofn vörugjalds af innlendum framleiðsluvörum, sem flokkast undir
 tollskrárnúmer sem talin eru upp í [CE-liðum]^1) í viðauka I, er verksmiðjuverð
                                     þeirra.
@@ -99,7 +99,7 @@ vöru liggur ekki fyrir af öðrum ástæðum skal gjaldstofn vera almennt gangv
  tollalaga er skattyfirvöldum heimilt að ákvarða gjaldstofn samkvæmt ákvæðum 4.
   mgr. Ríkisskattstjóri skal gefa út reglur um mat til verðs samkvæmt þessari
                                  málsgrein.]^2)
-               ^1)[14]L. 148/1996, 3. gr. ^2)[15]L. 89/1996, 6. gr.
+               ^1)[15]L. 148/1996, 3. gr. ^2)[16]L. 89/1996, 6. gr.
                   Innheimta, uppgjörstímabil, gjalddagar o.fl.
   [8. gr. Tollstjórar skulu reikna vörugjald af gjaldskyldum vörum sem aðilar,
      aðrir en þeir sem skráðir hafa verið skv. 5. gr., flytja til landsins.
@@ -112,7 +112,7 @@ innflutnings aðila sem skráðir eru skv. 5. gr. Fjármálaráðherra getur ák
       framleiðandi geta skotið ákvörðun tollstjóra um tollflokkun vöru til
      ríkistollanefndar, sbr. 101. gr. tollalaga. Ákvörðun tollyfirvalda um
    tollflokkun vöru er bindandi fyrir framleiðanda og skattyfirvöld.]^1)]^2)
-                ^1)[16]L. 89/1998, 1. gr. ^2)[17]L. 89/1996, 7. gr.
+                ^1)[17]L. 89/1998, 1. gr. ^2)[18]L. 89/1996, 7. gr.
   [9. gr. [Hvert uppgjörstímabil aðila sem skráðir eru skv. 2. mgr. 4. gr. er
   tveir mánuðir, janúar og febrúar, mars og apríl, maí og júní, júlí og ágúst,
 september og október, nóvember og desember. Gjalddagi hvers uppgjörstímabils er
@@ -145,7 +145,7 @@ vörum án vörugjalds til aðila sem eru skráðir skv. 5. gr. [eða til framle
  þeirra aðila sem ekki skila skýrslu innan tilskilins tíma, senda enga skýrslu
      eða ef skýrslu eða fylgigögnum er ábótavant. Skattstjóri skal tilkynna
   innheimtumanni og gjaldskyldum aðila um áætlanir og leiðréttingar sem gerðar
-     hafa verið. [Um málsmeðferð fer eftir ákvæðum [18]laga nr. 50/1988, um
+     hafa verið. [Um málsmeðferð fer eftir ákvæðum [19]laga nr. 50/1988, um
                   virðisaukaskatt, með síðari breytingum.]^1)
  Sé vörugjald ekki greitt á tilskildum tíma skal aðili sæta álagi til viðbótar
 því vörugjaldi sem honum ber að standa skil á. Sama gildir ef vörugjaldsskýrslu
@@ -156,8 +156,8 @@ vörum án vörugjalds til aðila sem eru skráðir skv. 5. gr. [eða til framle
                         gjalddaga, þó ekki hærra en 10%.
   Sé vörugjald ekki greitt innan mánaðar frá gjalddaga skal greiða ríkissjóði
  dráttarvexti af því sem gjaldfallið er. Um ákvörðun og útreikning dráttarvaxta
-       fer eftir [19]vaxtalögum, nr. 25/1987, með síðari breytingum.]^2)
-                ^1)[20]L. 89/1998, 2. gr. ^2)[21]L. 89/1996, 9. gr.
+       fer eftir [20]vaxtalögum, nr. 25/1987, með síðari breytingum.]^2)
+                ^1)[21]L. 89/1998, 2. gr. ^2)[22]L. 89/1996, 9. gr.
 [10. gr. [Skattstjóri skal veita framleiðendum vöru, sem nota í framleiðslu sína
  hráefni eða efnivöru sem ber vörugjald, heimild til að kaupa af innflytjendum,
    innlendum framleiðendum og aðilum sem skráðir eru skv. 5. gr. hráefni eða
@@ -179,7 +179,7 @@ Heimild samkvæmt þessari grein nær einungis til hráefnis eða efnivöru sem 
   hluti af hinni endanlegu framleiðsluvöru. Heimildin nær hvorki til kaupa eða
 innflutnings á efnivörum til byggingar eða viðhalds á fasteignum né til nýsmíði
                        eða viðgerða á ökutækjum.]^1)]^2)
-                ^1)[22]L. 89/1998, 3. gr. ^2)[23]L. 89/1996, 9. gr.
+                ^1)[23]L. 89/1998, 3. gr. ^2)[24]L. 89/1996, 9. gr.
   [11. gr. Heimilt er að kæra álagningu vörugjalds innan 30 daga frá gjalddaga
 gjaldsins. Kæru skal beint til þess tollstjóra eða þess skattstjóra sem annaðist
     álagningu gjaldsins. Kæru skal fylgja skriflegur rökstuðningur. Innsend
@@ -189,39 +189,38 @@ rökstuddan úrskurð um kæruna og tilkynna hann í ábyrgðarbréfi innan 30 d
                                lokum kærufrests.
  Gjaldskyldur aðili og ríkistollstjóri geta skotið úrskurði tollstjóra skv. 1.
   mgr. til ríkistollanefndar sem kveður upp fullnaðarúrskurð. Um kærufresti og
-               málsmeðferð fer eftir ákvæðum 101. gr. tollalaga.
+málsmeðferð fer eftir ákvæðum 101. gr. tollalaga. [Þó sætir úrskurður tollstjóra
+ um niðurfellingu eða lækkun gjalda, á grundvelli 3. gr., 5. gr. eða [25]6. gr.
+ tollalaga, nr. 55/1987, kæru til ríkistollstjóra í samræmi við ákvæði 102. gr.
+                                 tollalaga.]^1)
 Gjaldskyldur aðili og ríkisskattstjóri geta skotið úrskurði skattstjóra skv. 1.
   mgr. til yfirskattanefndar sem kveður upp fullnaðarúrskurð. Um kærufresti og
-   málsmeðferð fer eftir ákvæðum 2.7. mgr. [24]29. gr. laga nr. 50/1988, um
-                  virðisaukaskatt, með síðari breytingum.]^1)
-                            ^1)[25]L. 89/1996, 10. gr.
+   málsmeðferð fer eftir ákvæðum 2.7. mgr. [26]29. gr. laga nr. 50/1988, um
+                  virðisaukaskatt, með síðari breytingum.]^2)
+              ^1)[27]L. 104/2000, 12. gr. ^2)[28]L. 89/1996, 10. gr.
     [12. gr. Að því leyti sem eigi er ákveðið í lögum þessum um gjaldskyldu,
   álagningu, tilhögun bókhalds, eftirlit, viðurlög og aðra framkvæmd varðandi
     vörugjald skulu gilda, eftir því sem við geta átt, ákvæði tollalaga [um
          innfluttar vörur]^1) og laga um virðisaukaskatt [um innlendar
                           framleiðsluvörur].^1)]^2)^3)
-     ^1)[26]L. 89/1998, 4. gr. ^2)[27]L. 89/1996, 11. gr. ^3)Augl. B 617/1989,
-                                 sbr. 444/1997.
+ [Ákvæði 3. gr., 5. gr. og 1.7. og 9.12. tölul. 1. mgr. [29]6. gr. tollalaga,
+  nr. 55/1987, skulu ná til vörugjalds samkvæmt lögum þessum eftir því sem við
+                                 getur átt.]^4)
+     ^1)[30]L. 89/1998, 4. gr. ^2)[31]L. 89/1996, 11. gr. ^3)Augl. B 617/1989,
+                   sbr. 444/1997. ^4)[32]L. 104/2000, 13. gr.
       [13. gr.]^1) Fjármálaráðherra setur í reglugerð^2) nánari ákvæði um
 tilkynningarskyldu, gjaldstofn, gjaldskyldu, uppgjörstímabil, gjalddaga og aðra
- framkvæmd laga þessara. Ráðherra er heimilt að undanþiggja einstaka vöruflokka
-   gjaldskyldu skv. [viðauka I]^1) eða bæta við upptalningu í [viðauka I]^1)
- einstökum vörum eða tollskrárnúmerum til þess að samræmis gæti í skattlagningu
-                        sams konar eða hliðstæðra vara.
-[Fjármálaráðherra er enn fremur heimilt að endurgreiða eða fella niður vörugjald
- af innlendu hráefni, efnivörum og hlutum til framleiðslu innlendra iðnaðarvara
-og garðyrkjuafurða. Ráðherra kveður nánar á um framkvæmd þessarar málsgreinar í
-                                 reglugerð.]^3)
-    ^1)[28]L. 89/1996, 12. gr. ^2)Augl. 336/1994. Rg. 358/1996, rg. 436/1998 og
-             rg. 390/1999, sbr. 898/1999. ^3)[29]L. 52/1994, 2. gr.
+                          framkvæmd laga þessara. ^3)
+     ^1)[33]L. 89/1996, 12. gr. ^2)Augl. 336/1994. Rg. 358/1996, rg. 436/1998,
+   sbr. 52/2000, og rg. 390/1999, sbr. 898/1999. ^3)[34]L. 104/2000, 14. gr.
               [14. gr.]^1) Lög þessi öðlast gildi 1. janúar 1988.
-                                ^1)[30]L. 89/1996.
+                                ^1)[35]L. 89/1996.
                             Ákvæði til bráðabirgða.
-                   [I.VI. ]^1)    ^1)[31]L. 95/1988, brbákv.
+                   [I.VI. ]^1)    ^1)[36]L. 95/1988, brbákv.
                                    [VII. ]^1)
-                            ^1)[32]L. 18/1993, brbákv.
+                            ^1)[37]L. 18/1993, brbákv.
                                   [VIII. ]^1)
-                            ^1)[33]L. 89/1996, brbákv.
+                            ^1)[38]L. 89/1996, brbákv.
 
 References
 
@@ -232,30 +231,35 @@ References
    4. file:///altext/stjt/1996.089.html
    5. file:///altext/stjt/1998.089.html
    6. file:///altext/stjt/1999.004.html
-   7. file:///altext/stjt/1996.148.html
-   8. file:///altext/stjt/1996.089.html
+   7. file:///altext/stjt/2000.103.html
+   8. file:///altext/stjt/1996.148.html
    9. file:///altext/stjt/1996.089.html
   10. file:///altext/stjt/1996.089.html
   11. file:///altext/stjt/1996.089.html
-  12. file:///altext/stjt/1996.148.html
-  13. file:///altext/stjt/1996.089.html
-  14. file:///altext/stjt/1996.148.html
-  15. file:///altext/stjt/1996.089.html
-  16. file:///altext/stjt/1998.089.html
-  17. file:///altext/stjt/1996.089.html
-  18. file://1988050.html
-  19. file://1987025.html
-  20. file:///altext/stjt/1998.089.html
-  21. file:///altext/stjt/1996.089.html
-  22. file:///altext/stjt/1998.089.html
-  23. file:///altext/stjt/1996.089.html
-  24. file://1988050.html#g29
-  25. file:///altext/stjt/1996.089.html
-  26. file:///altext/stjt/1998.089.html
-  27. file:///altext/stjt/1996.089.html
+  12. file:///altext/stjt/1996.089.html
+  13. file:///altext/stjt/1996.148.html
+  14. file:///altext/stjt/1996.089.html
+  15. file:///altext/stjt/1996.148.html
+  16. file:///altext/stjt/1996.089.html
+  17. file:///altext/stjt/1998.089.html
+  18. file:///altext/stjt/1996.089.html
+  19. file://1988050.html
+  20. file://1987025.html
+  21. file:///altext/stjt/1998.089.html
+  22. file:///altext/stjt/1996.089.html
+  23. file:///altext/stjt/1998.089.html
+  24. file:///altext/stjt/1996.089.html
+  25. file://1987055.html#g6
+  26. file://1988050.html#g29
+  27. file:///altext/stjt/2000.104.html
   28. file:///altext/stjt/1996.089.html
-  29. file:///altext/stjt/1994.052.html
-  30. file:///altext/stjt/1996.089.html
-  31. file:///altext/stjt/1988.095.html
-  32. file:///altext/stjt/1993.018.html
+  29. file://1987055.html#g6
+  30. file:///altext/stjt/1998.089.html
+  31. file:///altext/stjt/1996.089.html
+  32. file:///altext/stjt/2000.104.html
   33. file:///altext/stjt/1996.089.html
+  34. file:///altext/stjt/2000.104.html
+  35. file:///altext/stjt/1996.089.html
+  36. file:///altext/stjt/1988.095.html
+  37. file:///altext/stjt/1993.018.html
+  38. file:///altext/stjt/1996.089.html

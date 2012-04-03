@@ -17,14 +17,18 @@
                          2. gr. Í lögum þessum merkir:
                rafbréf: framseljanlegt rafrænt eignarskráð verðbréf,
          eignarskráning: útgáfa á rafbréfum í verðbréfamiðstöð og skráning
-                           eignarréttinda yfir þeim,
+                            [réttinda]^1) yfir þeim,
          verðbréfamiðstöð: hlutafélag sem annast eignarskráningu rafbréfa,
    reikningsstofnun: félag eða stofnun sem hefur milligöngu um eignarskráningu á
                          rafbréfum í verðbréfamiðstöð,
      lokafærsla: endanleg prófun og færsla eignarskráninga í verðbréfamiðstöð
                        samkvæmt tilkynningum til hennar,
           reikningur: skrá um lokafærslur reikningseiganda yfir rafbréf í
-                               verðbréfamiðstöð.
+                               verðbréfamiðstöð,
+   [efndalok: fullnaðaruppgjör viðskipta reikningsstofnana með rafbréf og fullar
+ efndir á þeim, svo sem með greiðslujöfnun eða peningagreiðslu, sem lagðar eru
+       til grundvallar við lokafærslu á reikning í verðbréfamiðstöð.]^1)
+                             ^1)[2]L. 32/2000, 1. gr.
 3. gr. Viðskiptaráðherra veitir verðbréfamiðstöð starfsleyfi að fenginni umsögn
 [Fjármálaeftirlitsins].^1) Umsókn um starfsleyfi skal vera skrifleg. Slík leyfi
  verða aðeins veitt skráðum hlutafélögum sem fullnægja eftirfarandi skilyrðum:
@@ -40,7 +44,7 @@ svo fljótt sem unnt er og eigi síðar en þremur mánuðum eftir að fullbúin
     óheimilt að hefja starfsemi fyrr en hlutafé hefur verið að fullu greitt.
 Verðbréfamiðstöð er óheimilt að stunda aðra starfsemi en þá sem kveðið er á um í
                lögum þessum eða er í eðlilegum tengslum við hana.
-                             ^1)[2]L. 84/1998, 20. gr.
+                             ^1)[3]L. 84/1998, 20. gr.
  4. gr. Stjórnarmenn í verðbréfamiðstöð skulu vera þrír hið fæsta og skulu þeir
  vera búsettir hér á landi, vera lögráða, hafa óflekkað mannorð, vera fjár síns
   ráðandi og mega ekki á síðustu fimm árum í tengslum við atvinnurekstur hafa
@@ -63,11 +67,11 @@ eða óbeina þátttöku í verðbréfamiðstöð sem nemur að minnsta kosti 10
   Hafi ráðherra ákveðið skv. 2. mgr. að hlutum fylgi ekki atkvæðisréttur skulu
  þeir hlutir ekki teknir með við útreikning á því hve mikinn hluta atkvæða mætt
                        hafi verið fyrir á hluthafafundum.
-                             ^1)[3]L. 84/1998, 20. gr.
+                             ^1)[4]L. 84/1998, 20. gr.
   6. gr. Verðbréfamiðstöð ber að tilkynna til [Fjármálaeftirlitsins]^1) ef hún
   verður þess áskynja eða grunar að lög þessi eða reglugerð sett samkvæmt þeim
                                hafi verið brotin.
-                             ^1)[4]L. 84/1998, 20. gr.
+                             ^1)[5]L. 84/1998, 20. gr.
  7. gr. Stjórn verðbréfamiðstöðvar skal setja sér starfsreglur. Í starfsreglum
 skal meðal annars kveðið á um að stjórnin taki afstöðu til skipulags félagsins,
         til dæmis hvað varðar reikningsskil, innra eftirlit, tölvukerfi,
@@ -76,7 +80,7 @@ stjórnar um þau atriði og með hvaða hætti slíkar ákvarðanir skuli endur
 Samruni verðbréfamiðstöðvar við annað félag er óheimill nema með fengnu samþykki
    ráðherra að fenginni umsögn [Fjármálaeftirlitsins].^1) Hið sama gildir um
                     skiptingu hennar í tvö eða fleiri félög.
-                             ^1)[5]L. 84/1998, 20. gr.
+                             ^1)[6]L. 84/1998, 20. gr.
 8. gr. Stjórn, framkvæmdastjóra og öðrum starfsmönnum verðbréfamiðstöðvarinnar,
 svo og endurskoðendum, er óheimilt að skýra frá nokkru því sem þeir fá vitneskju
       um í starfi sínu eða stöðu sinni samkvæmt um hagi reikningseiganda,
@@ -98,7 +102,7 @@ verðbréfamiðstöðvarinnar, ásamt ársskýrslu skal sendur [Fjármálaeftirl
  endurskoðandi verðbréfamiðstöðvar fær vitneskju um og varða fyrirtæki í nánum
  tengslum við hana. Ákvæði þessarar greinar brjóta ekki í bága við þagnarskyldu
             endurskoðenda samkvæmt ákvæðum þessara eða annarra laga.
-                             ^1)[6]L. 84/1998, 20. gr.
+                             ^1)[7]L. 84/1998, 20. gr.
 
                       II. kafli. Aðild að eignarskráningu.
 10. gr. Rétt til þess að hafa milligöngu um eignarskráningar í verðbréfamiðstöð
@@ -116,11 +120,12 @@ verðbréfamiðstöðvarinnar, ásamt ársskýrslu skal sendur [Fjármálaeftirl
  markaðsverðbréfa um heimild þeirra til að hafa milligöngu um eignarskráningu í
  verðbréfamiðstöð á útgáfu og fyrsta framsali rafbréfa útgefinna af viðkomandi
          aðila í samræmi við starfsheimildir þeirra á fjármagnsmarkaði.
-  Stjórn verðbréfamiðstöðvar er einnig heimilt að veita hlutafélögum aðgang að
-   upplýsingum í verðbréfamiðstöð um skráða eigendur hlutabréfa í viðkomandi
-hlutafélagi. Hið sama gildir um aðgang verðbréfasjóða að upplýsingum um eigendur
-               hlutdeildarskírteina í viðkomandi verðbréfasjóði.
-         12. gr. Í reglugerð, sem ráðherra setur, er heimilt að ákveða:
+  [Stjórn verðbréfamiðstöðvar skal veita hlutafélögum aðgang að upplýsingum í
+verðbréfamiðstöð um skráða eigendur hlutabréfa í viðkomandi hlutafélagi sem þar
+ er eignarskráð.]^1) Hið sama gildir um aðgang verðbréfasjóða að upplýsingum um
+           eigendur hlutdeildarskírteina í viðkomandi verðbréfasjóði.
+                             ^1)[8]L. 32/2000, 2. gr.
+       12. gr. Í reglugerð,^1) sem ráðherra setur, er heimilt að ákveða:
    1. nánari reglur um grundvöll og framkvæmd eignarskráningar, svo og með hvaða
         hætti einstaklingar, sem eru starfsmenn verðbréfamiðstöðvar eða
 reikningsstofnunar, skuli framkvæma þau verkefni sem tengjast skráningu réttinda
@@ -128,21 +133,21 @@ reikningsstofnunar, skuli framkvæma þau verkefni sem tengjast skráningu rétt
       2. nánari reglur um skráningu takmarkaðra eignarréttinda að rafbréfum,
    3. heimildir verðbréfamiðstöðvar til að ákvarða fyrirkomulag gjaldtöku fyrir
               umsýslu með rafbréf og skráningu í tengslum við þau.
- Í reglugerð, sem ráðherra setur að fengnum tillögum stjórna verðbréfamiðstöðva
-          sem starfa á grundvelli þessara laga, er heimilt að ákveða:
+         Í reglugerð,^1) sem ráðherra setur að fengnum tillögum stjórna
+ verðbréfamiðstöðva sem starfa á grundvelli þessara laga, er heimilt að ákveða:
    1. að erlendum verðbréfamiðstöðvum og erlendum viðskiptabönkum, sparisjóðum,
   fyrirtækjum í verðbréfaþjónustu og öðrum lánastofnunum en viðskiptabönkum og
   sparisjóðum með heimild til fjárvörslu, sem hafa heimild til að starfa hér á
     landi og eru undir opinberu eftirliti, sé heimilt að hafa milligöngu um
 eignarskráningar í verðbréfamiðstöð með þeim réttaráhrifum sem getið er um í IV.
-              kafla að fengnu samþykki [Fjármálaeftirlitsins],^1)
+              kafla að fengnu samþykki [Fjármálaeftirlitsins],^2)
                2. að verðbréfamiðstöð sé heimilt, að fengnu samþykki
-[Fjármálaeftirlitsins],^1) að annast milligöngu um eignarskráningu í erlendum og
+[Fjármálaeftirlitsins],^2) að annast milligöngu um eignarskráningu í erlendum og
                          innlendum verðbréfamiðstöðvum,
       3. að veita megi aðilum, öðrum en reikningsstofnunum, rétt til að sækja
  upplýsingar varðandi eigin reikning beint til verðbréfamiðstöðvar á grundvelli
      aðildarsamnings sem hlutaðeigandi aðilar gera við verðbréfamiðstöðina.
-                             ^1)[7]L. 84/1998, 20. gr.
+                    ^1)Rg. 397/2000. ^2)[9]L. 84/1998, 20. gr.
 
                         III. kafli. Skráningarstarfsemi.
 13. gr. Stjórn verðbréfamiðstöðvar ber ábyrgð á því að fyllsta öryggis sé gætt í
@@ -154,18 +159,28 @@ og skulu birtar opinberlega. Rafbréf í sama verðbréfaflokki verða aðeins s
   14. gr. Verðbréfamiðstöð er óheimilt að veita upplýsingar um skráð réttindi,
                           sbr. þó ákvæði laga þessara.
   Verðbréfamiðstöð er heimilt að veita upplýsingar í hagtöluskyni að fenginni
-                             heimild tölvunefndar.
+                          heimild [Persónuverndar].^1)
+              ^1)[10]L. 77/2000, 46. gr. Öðlast gildi 1. janúar 2001.
  15. gr. Seðlabanki Íslands tekur við innlánum frá reikningsstofnunum sem aðild
    eiga að verðbréfamiðstöð og annast efndalok viðskipta þeirra með rafbréf.
-   Seðlabankinn setur nánari reglur um viðskipti sín samkvæmt þessari grein.
+[Seðlabanka Íslands er samkvæmt samningi við reikningsstofnun heimil veðtrygging
+     í rafbréfum reikningsstofnunar til tryggingar á efndalokum er lúta að
+ greiðsluuppgjöri í greiðslukerfum, sem viðurkennd eru af ráðherra skv. [11]3.
+gr. laga um öryggi greiðslufyrirmæla í greiðslukerfum, nr. 90/1999, og skal skrá
+ veðréttindin skv. IV. kafla laga þessara. Hafi reikningsstofnun ekki uppfyllt
+ skyldur sínar innan þess frests sem ákveðinn er í gildandi reglum um viðskipti
+  samkvæmt þessari grein er Seðlabankanum heimilt að innleysa þegar í stað þau
+  rafbréf sem standa til tryggingar hlutaðeigandi efndalokum.]^1) Seðlabankinn
+          setur nánari reglur um viðskipti sín samkvæmt þessari grein.
 Skipa skal samráðsnefnd verðbréfamiðstöðva, Verðbréfaþings Íslands og Seðlabanka
 Íslands. Seðlabanki Íslands skipar einn fulltrúa í nefndina, verðbréfamiðstöðvar
 sem hlotið hafa starfsleyfi samkvæmt lögum þessum einn fulltrúa og Verðbréfaþing
    Íslands einn fulltrúa. Seðlabanki Íslands fer með formennsku í nefndinni.
      Hlutverk samráðsnefndar er að fjalla um samskipti verðbréfamiðstöðva,
     Verðbréfaþings Íslands og Seðlabankans í tengslum við frágang viðskipta.
-Seðlabankinn getur beitt reikningsstofnanir viðurlögum skv. [8]41. gr. laga nr.
+Seðlabankinn getur beitt reikningsstofnanir viðurlögum skv. [12]41. gr. laga nr.
 36/1986, um Seðlabanka Íslands, sé ákvörðunum bankans í þessum efnum ekki hlítt.
+                             ^1)[13]L. 32/2000, 3. gr.
 
                     IV. kafli. Réttaráhrif skráningar o.fl.
 16. gr. Réttindi að rafbréfum skal skrá í verðbréfamiðstöð ef þau eiga að njóta
@@ -173,7 +188,7 @@ Seðlabankinn getur beitt reikningsstofnanir viðurlögum skv. [8]41. gr. laga n
  gefa út viðskiptabréf fyrir skráðum réttindum samkvæmt rafbréfi eða framselja
                         þau og eru slík viðskipti ógild.
     Eignarskráning rafbréfs í verðbréfamiðstöð, að undangenginni lokafærslu
-  verðbréfamiðstöðvar, veitir skráðum eiganda hennar lögformlega heimild fyrir
+verðbréfamiðstöðvar, veitir skráðum eiganda [þess]^1) lögformlega heimild fyrir
     þeim réttindum sem hann er skáður eigandi að og skal gagnvart útgefanda
                 jafngilda skilríki um eignarrétt að rafbréfinu.
          Forgangsröð ósamrýmanlegra réttinda ræðst af því hvenær beiðni
@@ -183,6 +198,7 @@ Réttaráhrif eignarskráningarinnar teljast vera frá þeirri stundu sem lokaf�
  Reikningsstofnun er skylt án tafar að tilkynna verðbréfamiðstöð um beiðnir um
 eignarskráningar, enda framvísi viðkomandi aðili viðhlítandi gögnum um grundvöll
                                   beiðninnar.
+                             ^1)[14]L. 32/2000, 4. gr.
   17. gr. Telji reikningsstofnun að vafi leiki á um staðreyndir eða atriði sem
     áhrif hafa á lögvarinn rétt samkvæmt skráningunni, eða á rétt þeirra sem
   skráningin hefur þýðingu fyrir, og að skráning kunni að brjóta rétt á þriðja
@@ -190,8 +206,9 @@ eignarskráningar, enda framvísi viðkomandi aðili viðhlítandi gögnum um gr
                                 til bráðabirgða.
 Verðbréfamiðstöð tekur endanlega ákvörðun um hvort réttindi sem skráð hafa verið
              samkvæmt þessari grein skuli færð í eignarskrá hennar.
-           Heimilt er að setja í reglugerð nánari ákvæði um framkvæmd
+         Heimilt er að setja í reglugerð^1) nánari ákvæði um framkvæmd
               bráðabirgðaeignarskráningar samkvæmt þessari grein.
+                                 ^1)Rg. 397/2000.
    18. gr. Reikningsstofnun, ein eða fleiri eftir því sem við getur átt, skal
 tilkynna öllum hlutaðeigandi um sérhverja skráningu réttinda sem hún hefur haft
   milligöngu um. Einnig skal hún tilkynna ef vandkvæði eru á skráningu þeirra.
@@ -206,7 +223,7 @@ tilkynningar um breytingar á réttindum. Samkomulag um hvaða háttur skuli haf
 Reikningsstofnun og stjórn verðbréfamiðstöðvar er heimilt að gera samning um að
          verðbréfamiðstöð sendi þær tilkynningar sem um ræðir í 1. mgr.
   [Fjármálaeftirlitið]^1) skal staðfesta samninga samkvæmt þessari málsgrein.
-                             ^1)[9]L. 84/1998, 20. gr.
+                            ^1)[15]L. 84/1998, 20. gr.
     19. gr. Eftir að lokafærsla á sér stað í verðbréfamiðstöð verða réttindi
   grandlauss framsalshafa ekki vefengd. Við eignarskráningu í verðbréfamiðstöð
      glatast þó ekki mótbárur sem lúta að meiri háttar nauðung eða fölsun.
@@ -238,7 +255,8 @@ ekki lengur þýðingu eða um er að ræða réttindi sem eru 20 ára gömul e�
       til þeirra sem telja sig eiga rétt til hinna skráðu réttinda og skal
     innköllunarfrestur vera þrír mánuðir. Hafi enginn gefið sig fram áður en
       innköllunarfrestur er liðinn skal verðbréfamiðstöðin afmá réttindin.
-       Í reglugerð er heimilt að setja nánari reglur um framkvæmd 2. mgr.
+     Í reglugerð^1) er heimilt að setja nánari reglur um framkvæmd 2. mgr.
+                                 ^1)Rg. 397/2000.
 
                           V. kafli. Reikningsyfirlit.
 24. gr. Á reikning í verðbréfamiðstöð skal eignarskrá rafbréf reikningseiganda.
@@ -251,9 +269,10 @@ reikningseigandi er skráður eigandi að við dagsetningu yfirlitsins. Samsvara
   yfirlit skulu gefin út til eiganda takmarkaðra eignarréttinda yfir rafbréfi.
 Reikningsstofnun er heimilt að senda skráðum rétthafa aukareikningsyfirlit, enda
                            hafi hann óskað eftir því.
- Í reglugerð, sem ráðherra setur, skal setja nánari reglur um gerð reikninga og
-  útgáfu reikningsyfirlita skv. 1. mgr., svo og hvaða atriði skulu koma fram á
+ Í reglugerð,^1) sem ráðherra setur, skal setja nánari reglur um gerð reikninga
+og útgáfu reikningsyfirlita skv. 1. mgr., svo og hvaða atriði skulu koma fram á
                                   yfirlitinu.
+                                 ^1)Rg. 397/2000.
 
                    VI. kafli. Úrskurðarnefnd og kærumeðferð.
  25. gr. Kæra vegna ágreinings sem kann að rísa í tilefni af eignarskráningu í
@@ -321,29 +340,40 @@ Samanlagður ábyrgðarsjóður verðbréfamiðstöðvar skal aldrei nema lægri
   sem það telur nauðsyn á vegna eftirlits samkvæmt lögum þessum. Um eftirlitið
        gilda, eftir því sem við getur átt, lög um [opinbert eftirlit með
               fjármálastarfsemi]^1) og lög um verðbréfaviðskipti.
-                            ^1)[10]L. 84/1998, 20. gr.
+                            ^1)[16]L. 84/1998, 20. gr.
  32. gr. Telji [Fjármálaeftirlitið]^1) reikningsstofnun hafa brotið ítrekað eða
  með alvarlegum hætti gegn ákvæðum laga þessara, laga um verðbréfaviðskipti eða
 reglum og reglugerðum settum samkvæmt þeim, eða að háttsemi reikningsstofnana sé
     að öðru leyti óeðlileg, óheilbrigð eða ótraust, er því heimilt að svipta
        hlutaðeigandi aðila rétti til eignarskráningar í verðbréfamiðstöð.
-                            ^1)[11]L. 84/1998, 20. gr.
+                            ^1)[17]L. 84/1998, 20. gr.
+[33. gr. Verðbréfamiðstöð er heimilt í aðildarsamningi, svo og reglum sem stjórn
+ félagsins setur, að ákveða takmörkun eða lokun aðgangs að eignarskráningu þar
+vegna brota á aðildarsamningi eða reglum sem gilda um starfsemina. Telji stjórn
+verðbréfamiðstöðvar þess þörf getur hún í aðildarsamningi jafnframt kveðið á um
+ refsiviðurlög í formi févítis standi reikningsstofnun ekki við skuldbindingar
+      sínar samkvæmt aðildarsamningi, enda varði brot ekki við 34. gr.]^1)
+                             ^1)[18]L. 32/2000, 5. gr.
 
                               IX. kafli. Viðurlög.
-  33. gr. Brot á lögum þessum varða sektum eða fangelsi allt að einu ári nema
+[34. gr.]^1) Brot á lögum þessum varða sektum eða fangelsi allt að einu ári nema
 þyngri refsing liggi við samkvæmt öðrum lögum. Sé brot framið í þágu lögaðila er
  heimilt að beita stjórnendur lögaðilans framangreindum viðurlögum og einnig er
            heimilt að gera lögaðila að sæta sviptingu starfsréttinda.
    Tilraun til og hlutdeild í brotum á lögum þessum eru refsiverðar samkvæmt
                             almennum hegningarlögum.
+                             ^1)[19]L. 32/2000, 5. gr.
 
                   X. kafli. Ýmis réttaráhrif, gildistaka o.fl.
-   34. gr. Sé rafbréf gefið út og skráð samkvæmt lögum þessum sem víxill skal
+[35. gr.]^1) Sé rafbréf gefið út og skráð samkvæmt lögum þessum sem víxill skal
      fylgja þeim lagareglum sem um víxla gilda eftir því sem við getur átt.
-       35. gr. Hafi verðbréf verið tekin til rafrænnar eignarskráningar í
+                             ^1)[20]L. 32/2000, 5. gr.
+    [36. gr.]^1) Hafi verðbréf verið tekin til rafrænnar eignarskráningar í
  verðbréfamiðstöð ganga ákvæði laga þessara framar ákvæðum sérlaga um útgáfu og
                              form slíkra verðbréfa.
-              36. gr. Lög þessi öðlast gildi hinn 1. janúar 1998.
+                             ^1)[21]L. 32/2000, 5. gr.
+            [37. gr.]^1) Lög þessi öðlast gildi hinn 1. janúar 1998.
+                             ^1)[22]L. 32/2000, 5. gr.
 
                             Ákvæði til bráðabirgða.
 I. Þegar verðbréfamiðstöð samkvæmt lögum þessum hefur starfsemi sína skal stefna
@@ -361,21 +391,36 @@ að því að gefa útgefanda og eiganda kost á því að eignarskrá með rafr
          7. öðrum verðbréfum sem stjórn verðbréfamiðstöðvar samþykkir til
               eignarskráningar, sbr. ákvæði 13. gr. laga þessara.
   II. Ef eignarréttindi yfir verðbréfi eru eignarskráð í verðbréfamiðstöð skal
- ógilda hið áþreifanlega verðbréf. Í reglugerð, sem ráðherra setur, skal kveða
+ógilda hið áþreifanlega verðbréf. Í reglugerð,^1) sem ráðherra setur, skal kveða
   nánar á um tilhögun innköllunar og eignarskráningu samkvæmt ákvæði þessu og
-                           ákvæði I til bráðabirgða.
+    ákvæði I til bráðabirgða. [Að uppfylltum skilyrðum um innköllun samkvæmt
+reglugerð og að lokinni yfirfærslu og eignarskráningu í verðbréfamiðstöð eru hin
+                        áþreifanlegu verðbréf ógild.]^2)
+                    ^1)Rg. 397/2000. ^2)[23]L. 32/2000, 6. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997131
-   2. file:///altext/stjt/1998.084.html
+   2. file:///altext/stjt/2000.032.html
    3. file:///altext/stjt/1998.084.html
    4. file:///altext/stjt/1998.084.html
    5. file:///altext/stjt/1998.084.html
    6. file:///altext/stjt/1998.084.html
    7. file:///altext/stjt/1998.084.html
-   8. file://1986036.html
+   8. file:///altext/stjt/2000.032.html
    9. file:///altext/stjt/1998.084.html
-  10. file:///altext/stjt/1998.084.html
-  11. file:///altext/stjt/1998.084.html
+  10. file://2000077.html#g46
+  11. file://1999090.html#g3
+  12. file://1986036.html
+  13. file:///altext/stjt/2000.032.html
+  14. file:///altext/stjt/2000.032.html
+  15. file:///altext/stjt/1998.084.html
+  16. file:///altext/stjt/1998.084.html
+  17. file:///altext/stjt/1998.084.html
+  18. file:///altext/stjt/2000.032.html
+  19. file:///altext/stjt/2000.032.html
+  20. file:///altext/stjt/2000.032.html
+  21. file:///altext/stjt/2000.032.html
+  22. file:///altext/stjt/2000.032.html
+  23. file:///altext/stjt/2000.032.html

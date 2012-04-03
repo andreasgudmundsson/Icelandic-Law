@@ -12,44 +12,44 @@
  1. gr. Landhelgi Íslands skal afmörkuð af línu sem alls staðar er 12 sjómílur
              frá grunnlínu sem dregin er milli eftirtalinna staða:
 
-              1.  Horn                66°27'4 n.br., 22°24'3 v.lg.
-              2.  Ásbúðarrif          66°08'1       20°11'0 
-              3.  Siglunes            66°11'9       18°49'9 
-              4.  Flatey              66°10'3       17°50'3 
-              5.  Lágey               66°17'8       17°06'8 
-              6.  Rauðinúpur          66°30'7       16°32'4 
-              7.  Rifstangi           66°32'3       16°11'8 
-              8.  Hraunhafnartangi    66°32'2       16°01'5 
-              9.  Langanes            66°22'7       14°31'9 
-              10. Glettinganes        65°30'5       13°36'3 
-              11. Norðfjarðarhorn     65°10'0       13°30'8 
-              12. Gerpir              65°04'7       13°29'6 
-              13. Hólmur              64°58'9       13°30'6 
-              14. Setusker            64°57'7       13°31'5 
-              15. Þursasker           64°54'1       13°36'8 
-              16. Ystiboði            64°35'2       14°01'5 
-              17. Selsker             64°32'8       14°07'0 
-              18. Hvítingar           64°23'9       14°28'0 
-              19. Stokksnes           64°14'1       14°58'4 
-              20. Hrollaugseyjar      64°01'7       15°58'7 
-              21. Tvísker             63°55'7       16°11'3 
-              22. Ingólfshöfði        63°47'8       16°38'5 
-              23. Hvalsíki            63°44'1       17°33'5 
-              24. Meðallandssandur I  63°32'4       17°55'6 
-              25. Meðallandssandur II 63°30'6       17°59'9 
-              26. Mýrnatangi          63°27'4       18°11'8 
-              27. Kötlutangi          63°23'4       18°42'8 
-              28. Lundadrangur        63°23'5       19°07'5 
-              29. Surtsey             63°17'7       20°36'2 
-              30. Eldeyjardrangur     63°43'8       22°59'4 
-              31. Geirfugladrangur    63°40'7       23°17'1 
-              32. Skálasnagi          64°51'3       24°02'5 
-              33. Bjargtangar         65°30'2       24°32'1 
-              34. Kópanes             65°48'4       24°06'0 
-              35. Barði               66°03'7       23°47'4 
-              36. Straumnes           66°25'7       23°08'4 
-              37. Kögur               66°28'3       22°55'5 
-              38. Horn                66°27'9       22°28'2 
+1.       Horn                     66°27'4      n.br.,      22°24'3     v.lg.
+2.       Ásbúðarrif               66°08'1                 20°11'0     
+3.       Siglunes                 66°11'9                 18°49'9     
+4.       Flatey                   66°10'3                 17°50'3     
+5.       Lágey                    66°17'8                 17°06'8     
+6.       Rauðinúpur               66°30'7                 16°32'4     
+7.       Rifstangi                66°32'3                 16°11'8     
+8.       Hraunhafnartangi         66°32'2                 16°01'5     
+9.       Langanes                 66°22'7                 14°31'9     
+10.      Glettinganes             65°30'5                 13°36'3     
+11.      Norðfjarðarhorn          65°10'0                 13°30'8     
+12.      Gerpir                   65°04'7                 13°29'6     
+13.      Hólmur                   64°58'9                 13°30'6     
+14.      Setusker                 64°57'7                 13°31'5     
+15.      Þursasker                64°54'1                 13°36'8     
+16.      Ystiboði                 64°35'2                 14°01'5     
+17.      Selsker                  64°32'8                 14°07'0     
+18.      Hvítingar                64°23'9                 14°28'0     
+19.      Stokksnes                64°14'1                 14°58'4     
+20.      Hrollaugseyjar           64°01'7                 15°58'7     
+21.      Tvísker                  63°55'7                 16°11'3     
+22.      Ingólfshöfði             63°47'8                 16°38'5     
+23.      Hvalsíki                 63°44'1                 17°33'5     
+24.      Meðallandssandur I       63°32'4                 17°55'6     
+25.      Meðallandssandur II      63°30'6                 17°59'9     
+26.      Mýrnatangi               63°27'4                 18°11'8     
+27.      Kötlutangi               63°23'4                 18°42'8     
+28.      Lundadrangur             63°23'5                 19°07'5     
+29.      Surtsey                  63°17'7                 20°36'2     
+30.      Eldeyjardrangur          63°43'8                 22°59'4     
+31.      Geirfugladrangur         63°40'7                 23°17'1     
+32.      Skálasnagi               64°51'3                 24°02'5     
+33.      Bjargtangar              65°30'2                 24°32'1     
+34.      Kópanes                  65°48'4                 24°06'0     
+35.      Barði                    66°03'7                 23°47'4     
+36.      Straumnes                66°25'7                 23°08'4     
+37.      Kögur                    66°28'3                 22°55'5     
+38.      Horn                     66°27'9                 22°28'2     
 
   Landhelgin skal auk þess afmörkuð af línu sem alls staðar er 12 sjómílur frá
   stórstraumsfjöruborði Kolbeinseyjar (67°08'9 n.br., 18°41'3 v.lg.), Hvalbaks
