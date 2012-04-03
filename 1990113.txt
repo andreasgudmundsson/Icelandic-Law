@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -185,6 +184,13 @@ fæðingarorlof, svo og slysa- og sjúkradagpeningar úr sjúkrasjóðum stétta
            3. Bætur tryggingafélaga vegna atvinnutjóns af völdum slysa.
                               4. Atvinnuleysisbætur.
              5. Greiðslur úr ríkissjóði vegna ríkisábyrgðar á launum.
+    [6. Greiðslur úr Fæðingarorlofssjóði vegna fæðingarorlofs, svo og greiðslur
+  launagreiðanda vegna fæðingarorlofs, þó ekki hærri fjárhæð en sem nemur þeim
+        hluta slíkra greiðslna sem launagreiðandinn fær endurgreiddan úr
+                            Fæðingarorlofssjóði.]^1)
+   ^1)[25]L. 156/2000, 1. gr. Ákvæðið öðlaðist gildi 1. janúar 2001 og kemur til
+  framkvæmda við staðgreiðslu tryggingagjalds á því ári og álagningu gjalda á
+                        árinu 2002, sbr. [26]2. gr. s.l.
 
                     IV. kafli. Staðgreiðsla tryggingagjalds.
                              Greiðslutímabil o.fl.
@@ -192,16 +198,16 @@ fæðingarorlof, svo og slysa- og sjúkradagpeningar úr sjúkrasjóðum stétta
  fram í lögum þessum. Gjalddagi tryggingagjalds er 1. hvers mánaðar vegna launa
    næstliðins mánaðar og eindagi 14 dögum síðar. Hafi gjaldandi eigi greitt á
 eindaga skal hann greiða dráttarvexti frá og með gjalddaga. Álag skv. 1. tölul.
-2. mgr. [25]28. gr. laga nr. 45/1987, um staðgreiðslu opinberra gjalda, reiknast
+2. mgr. [27]28. gr. laga nr. 45/1987, um staðgreiðslu opinberra gjalda, reiknast
                                      ekki.
   Gjaldskyldur aðili skal ótilkvaddur greiða tryggingagjald til innheimtumanns
                       ríkissjóðs, í Reykjavík tollstjóra.
 Ríkisskattstjóri ákveður hvað skuli koma fram í skilagreinum og greiðsluskjölum
      og ákveður gerð þeirra. Um skilagreinar, svo og um yfirferð, áætlun og
-tilkynningar skattstjóra á staðgreiðsluári, gilda að öðru leyti ákvæði [26]laga
+tilkynningar skattstjóra á staðgreiðsluári, gilda að öðru leyti ákvæði [28]laga
      nr. 45/1987, um staðgreiðslu opinberra gjalda, með síðari breytingum.
                      Upplýsingar, eftirlit, viðurlög o.fl.
-   11. gr. Ákvæði [27]laga nr. 45/1987, um staðgreiðslu opinberra gjalda, með
+   11. gr. Ákvæði [29]laga nr. 45/1987, um staðgreiðslu opinberra gjalda, með
      síðari breytingum, skulu gilda um upplýsingar og eftirlit, viðurlög og
 málsmeðferð tryggingagjalds að því er varðar skil þess á staðgreiðsluári. Skulu
 ákvæði þeirra laga m.a. taka til dráttarvaxta, áætlunar gjaldstofns og innheimtu
@@ -214,7 +220,7 @@ vanskilafjár, þar með talið lögtaksréttar, stöðvunar atvinnurekstrar, re
    12. gr. Allir, sem skyldir eru til að greiða tryggingagjald samkvæmt lögum
    þessum, skulu, að staðgreiðsluári liðnu, senda skattstjóra árlega sérstakt
  launaframtal, í því formi sem ríkisskattstjóri ákveður, innan þess frests sem
-    settur er um skil launaskýrslna þeirra er greinir í [28]92. gr. laga nr.
+    settur er um skil launaskýrslna þeirra er greinir í [30]92. gr. laga nr.
                                     75/1981.
  Á launaframtal skal launagreiðandi færa launagreiðslur næstliðins árs og aðrar
 upplýsingar og sundurliðanir sem ríkisskattstjóra þykir við þurfa til ákvörðunar
@@ -228,12 +234,12 @@ upplýsingar og sundurliðanir sem ríkisskattstjóra þykir við þurfa til ák
      Við álagningu opinberra gjalda skal skattstjóri ákvarða tryggingagjald
    gjaldskylds aðila samkvæmt launaframtali hans að gerðum þeim breytingum og
                        leiðréttingum sem gera þarf á því.
-Tryggingagjald skal birt í álagningarskrá, sbr. [29]98. gr. laga nr. 75/1981, um
+Tryggingagjald skal birt í álagningarskrá, sbr. [31]98. gr. laga nr. 75/1981, um
                            tekjuskatt og eignarskatt.
 Gjalddagi ógreidds tryggingagjalds, sem skattstjóri ákvarðar vegna hlunninda, og
 tryggingagjalds, sem undanþegið er staðgreiðslu, er 1. ágúst ár hvert og eindagi
                                  mánuði síðar.
-                             ^1)[30]L. 32/1995, 2. gr.
+                             ^1)[32]L. 32/1995, 2. gr.
                            Vangreitt tryggingagjald.
   13. gr. Skattstjórar skulu kanna skil þeirra sem greiða áttu tryggingagjald,
      m.a. með samanburði við laun í staðgreiðslu, launaframtöl, launamiða,
@@ -245,13 +251,13 @@ tryggingagjalds, sem undanþegið er staðgreiðslu, er 1. ágúst ár hvert og 
     tryggingagjaldið eða ekki skilað launaframtali, skal skattstjóri ákvarða
   tryggingagjald fyrir hvert einstakt greiðslutímabil. Skal ákvarða gjaldanda
  dráttarvexti af vangreiddu tryggingagjaldi frá og með gjalddaga þess í samræmi
-við [31]vaxtalög, nr. 25/1987. Á ofgreiðslu reiknast vextir í samræmi við ákvæði
-2. mgr. [32]112. gr. laga nr. 75/1981, um tekjuskatt og eignarskatt, með síðari
+við [33]vaxtalög, nr. 25/1987. Á ofgreiðslu reiknast vextir í samræmi við ákvæði
+2. mgr. [34]112. gr. laga nr. 75/1981, um tekjuskatt og eignarskatt, með síðari
                                   breytingum.
                    Endurákvörðun tryggingagjalds, kærur o.fl.
    14. gr. Séu skil gjaldanda í einstökum atriðum eða í heild ófullnægjandi,
  tortryggileg eða sýnilega gerð til málamynda skal við álagningu, sbr. 3. mgr.
-12. gr., og við endurákvörðun beita ákvæðum [33]laga nr. 75/1981, um tekjuskatt
+12. gr., og við endurákvörðun beita ákvæðum [35]laga nr. 75/1981, um tekjuskatt
  og eignarskatt, eftir því sem við getur átt um slík tilvik. Ákvæði þeirra laga
     skulu og gilda, eftir því sem við á, um álagningu, rannsókn, kærur út af
  skattákvörðun, kærufresti, úrskurði, áfrýjun úrskurða og annað þar að lútandi.
@@ -270,7 +276,7 @@ samræmi við 10. gr., að senda skilagrein ásamt greiðslu á gjalddaga þess 
 samræmi við 10. gr., að senda skilagrein ásamt greiðslu einu sinni á ári eins og
                     um uppgjör fyrir desember væri að ræða.
      Fjárhæðir í 1. og 2. mgr. eru grunnfjárhæðir og breytast í samræmi við
-   verðbreytingarstuðul ríkisskattstjóra skv. [34]26. gr. laga nr. 75/1981, í
+   verðbreytingarstuðul ríkisskattstjóra skv. [36]26. gr. laga nr. 75/1981, í
   fyrsta sinn fyrir árið 1992. Reiknast þær í heilum þúsundum króna þannig að
                    lægri fjárhæð en þúsund krónum er sleppt.
                            Dráttarvaxtaútreikningur.
@@ -280,7 +286,7 @@ staðgreiðslu, reiknast dráttarvextir eftir almennum reglum frá og með gjald
 
                             VI. kafli. Ýmis ákvæði.
                         Frádráttarbærni tryggingagjalds.
- 17. gr. Tryggingagjald telst rekstrarkostnaður skv. 1. tölul. [35]31. gr. laga
+ 17. gr. Tryggingagjald telst rekstrarkostnaður skv. 1. tölul. [37]31. gr. laga
  nr. 75/1981, um tekjuskatt og eignarskatt, að því leyti sem það er ákvarðað af
            launum sem teljast rekstrarkostnaður samkvæmt sömu grein.
                               Setning reglugerðar.
@@ -288,7 +294,7 @@ staðgreiðslu, reiknast dráttarvextir eftir almennum reglum frá og með gjald
                                     þessara.
                                  ^1)Rg. 753/1997.
                            Brottfall lagaákvæða o.fl.
- 19. gr. Ákvæði laga þessara koma í stað þeirra ákvæða [36]laga nr. 46/1980, um
+ 19. gr. Ákvæði laga þessara koma í stað þeirra ákvæða [38]laga nr. 46/1980, um
 aðbúnað, hollustuhætti og öryggi á vinnustöðum, með síðari breytingum, er fela í
     sér ákvörðun gjaldstofns og gjaldtöku af launagreiðendum sem miðast við
                         launagreiðslur eða launatímabil.
@@ -325,15 +331,17 @@ References
   22. file://1987045.html
   23. file:///altext/stjt/1996.156.html
   24. file:///altext/stjt/1992.111.html
-  25. file://1987045.html#g28
-  26. file://1987045.html
-  27. file://1987045.html
-  28. file://1981075.html#g92
-  29. file://1981075.html#g98
-  30. file:///altext/stjt/1995.032.html
-  31. file://1987025.html
-  32. file://1981075.html#g112
-  33. file://1981075.html
-  34. file://1981075.html#g26
-  35. file://1981075.html#g31
-  36. file://1980046.html
+  25. file:///altext/stjt/2000.156.html
+  26. file:///altext/stjt/2000.156.html
+  27. file://1987045.html#g28
+  28. file://1987045.html
+  29. file://1987045.html
+  30. file://1981075.html#g92
+  31. file://1981075.html#g98
+  32. file:///altext/stjt/1995.032.html
+  33. file://1987025.html
+  34. file://1981075.html#g112
+  35. file://1981075.html
+  36. file://1981075.html#g26
+  37. file://1981075.html#g31
+  38. file://1980046.html

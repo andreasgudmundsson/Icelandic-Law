@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -43,28 +42,28 @@ hina eftirlitsskyldu starfsemi skal miða álagningu við lágmarksgjald skv. 5.
   Sé ársreikningur fyrir hendi fyrir fyrri starfsemi viðkomandi fyrirtækis er
  heimilt að nota hann sem álagningargrunn. Heimilt er að beita 2. mgr. þessarar
                                greinar ef við á.
-          5. gr. Gjaldskyldir aðilar, álagningarstofn og álagt gjald.
+          5. gr. [Gjaldskyldir aðilar, álagningarstofn og álagt gjald.
        Eftirtaldir eftirlitsskyldir aðilar skulu greiða eftirlitsgjald af
           álagningarstofni í þeim hlutföllum og stærðum sem hér segir:
    1. Viðskiptabankar, sparisjóðir og lánastofnanir aðrar en viðskiptabankar og
- sparisjóðir skulu greiða 0,01445% af eignum samtals, þó eigi lægri fjárhæð en
-                                  250.000 kr.
-   2. Vátryggingafélög skulu greiða 0,28524% af bókfærðum frumtryggingaiðgjöldum
-og 0,03573% af bókfærðum fengnum endurtryggingaiðgjöldum, þó eigi lægri fjárhæð
- en 250.000 kr. Vegna söfnunarlíftrygginga greiðist þó eftirlitsgjald sem nemur
- 0,00779% af nettómismun iðgjaldaskuldar að frádregnum hluta endurtryggjenda í
+ sparisjóðir skulu greiða 0,01156% af eignum samtals, þó eigi lægri fjárhæð en
+                                  350.000 kr.
+   2. Vátryggingafélög skulu greiða 0,26596% af bókfærðum frumtryggingaiðgjöldum
+og 0,04873% af bókfærðum fengnum endurtryggingaiðgjöldum, þó eigi lægri fjárhæð
+ en 350.000 kr. Vegna söfnunarlíftrygginga greiðist þó eftirlitsgjald sem nemur
+ 0,00615% af nettómismun iðgjaldaskuldar að frádregnum hluta endurtryggjenda í
                                iðgjaldaskuldinni.
    3. Félög eða einstaklingar sem stunda vátryggingamiðlun skulu greiða 0,04581%
   af því iðgjaldamagni sem miðlað er á næstliðnu ári, þó eigi lægri fjárhæð en
-                                  150.000 kr.
-   4. Fyrirtæki í verðbréfaþjónustu skulu greiða 0,08031% af eignum samtals, þó
-  aldrei lægri fjárhæð en 250.000 kr. Verðbréfasjóðir skulu greiða 0,01129% af
+                                  200.000 kr.
+   4. Fyrirtæki í verðbréfaþjónustu skulu greiða 0,07826% af eignum samtals, þó
+  aldrei lægri fjárhæð en 250.000 kr. Verðbréfasjóðir skulu greiða 0,01039% af
       eignum samtals, þó aldrei lægri fjárhæð en 250.000 kr. Rekstrarfélög
 verðbréfasjóða skulu greiða 0,08031% af eignum samtals, þó aldrei lægri fjárhæð
                                  en 150.000 kr.
-    5. Kauphallir og aðrir skipulegir tilboðsmarkaðir skulu greiða 0,92353% af
+    5. Kauphallir og aðrir skipulegir tilboðsmarkaðir skulu greiða 0,76297% af
              rekstrartekjum, þó aldrei lægri fjárhæð en 250.000 kr.
-   6. Lífeyrissjóðir skulu samtals greiða 0,00779% af hreinni eign til greiðslu
+   6. Lífeyrissjóðir skulu samtals greiða 0,00596% af hreinni eign til greiðslu
  lífeyris. Greiða skal eftirlitsgjaldið sem 150.000 kr. fastagjald vegna þeirra
  lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris undir einum milljarði
 króna, 300.000 kr. vegna þeirra lífeyrissjóða er höfðu hreina eign til greiðslu
@@ -72,20 +71,21 @@ króna, 300.000 kr. vegna þeirra lífeyrissjóða er höfðu hreina eign til gr
 lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris þar yfir. Það sem þá er
 ógreitt af eftirlitsgjaldi skv. 1. málsl. greiðist í hlutfalli við fjölda virkra
                                   sjóðfélaga.
-   7. Verðbréfamiðstöðvar skulu greiða 0,92353% af rekstrartekjum, þó eigi lægri
+   7. Verðbréfamiðstöðvar skulu greiða 0,76297% af rekstrartekjum, þó eigi lægri
                              fjárhæð en 250.000 kr.
-    8. Innlánsdeildir samvinnufélaga og Póstgíróstofa Íslandspósts skulu greiða
-                        fastagjald sem nemur 150.000 kr.
-   9. Nýsköpunarsjóður atvinnulífsins skal greiða 0,01445% af eignum samtals, þó
-   eigi lægri fjárhæð en 250.000 kr. Húsbréfadeild Íbúðalánasjóðs skal greiða
-0,00040% af eignum samtals, þó eigi lægri fjárhæð en 250.000 kr. Kvótaþing skal
+     8. Innlánsdeildir samvinnufélaga og Póstgíróstofa Íslandspósts hf. skulu
                     greiða fastagjald sem nemur 150.000 kr.
-   10. Tryggingasjóður viðskiptabanka og Tryggingasjóður sparisjóða skulu greiða
-                        fastagjald sem nemur 150.000 kr.
+   9. Nýsköpunarsjóður atvinnulífsins skal greiða 0,01156% af eignum samtals, þó
+   eigi lægri fjárhæð en 250.000 kr. Húsbréfadeild Íbúðalánasjóðs skal greiða
+0,00031% af eignum samtals, þó eigi lægri fjárhæð en 250.000 kr. Kvótaþing skal
+                    greiða fastagjald sem nemur 150.000 kr.
+   10. Tryggingarsjóður innstæðueigenda og fjárfesta skal greiða fastagjald sem
+                               nemur 150.000 kr.
  Útibú erlendra eftirlitsskyldra aðila sem fengið hafa starfsleyfi hér á landi
         skulu greiða eftirlitsgjald samkvæmt viðeigandi tölulið 1. mgr.
     Eftirlitsgjald skal reiknast í heilum þúsundum króna. Við álagningu skal
-               jafnframt færa álagningarstofna í þúsundir króna.
+               jafnframt færa álagningarstofna í þúsundir króna.]
+                             ^1)[2]L. 158/2000, 1. gr.
                    6. gr. Framkvæmd álagningar og innheimtu.
 Álagning eftirlitsgjalds samkvæmt lögum þessum skal fara fram eigi síðar en 15.
   janúar ár hvert. Fjármálaeftirlitið skal gera eftirlitsskyldum aðilum grein
@@ -186,3 +186,4 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999099
+   2. file:///altext/stjt/2000.158.html

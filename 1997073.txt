@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -42,8 +41,8 @@ kröfum um öryggi, endingu, útlit og hagkvæmni bygginga og annarra mannvirkja
                          verslun, útivist og landbúnað.
 Landnýting: Samheiti yfir mælikvarða á það hversu mikil nýting lands er, svo sem
                  nýtingarhlutfall, þéttleika byggðar og ítölu.
- Nýtingarhlutfall: Hlutfall milli brúttógólfflatar á lóð eða reit og flatarmáls
-                                lóðar eða reits.
+ Nýtingarhlutfall: [Hlutfall milli brúttóflatarmáls bygginga á lóð eða reit og
+                        flatarmáls lóðar eða reits.]^1)
  Skipulagsáætlun: Áætlun sem gerir grein fyrir markmiðum viðkomandi stjórnvalda
     og ákvörðunum um framtíðarnotkun lands og fyrirkomulag byggðar og lýsir
      forsendum þeirra ákvarðana. Skipulagsáætlanir skiptast í þrjá flokka:
@@ -61,6 +60,7 @@ Skipulagskvaðir: Kvaðir sem lagðar eru á einstakar lóðir í skipulagi, svo
  Þéttleiki byggðar: Landnýting innan þéttbýlis miðað við brúttóflatarmál lands
  sem m.a. er lýst með hlutfalli milli samanlagðs gólfflatar á tilteknu svæði og
    flatarmáls svæðisins eða reikningsstærðum eins og íbúar/ha eða íbúðir/ha.
+                             ^1)[2]L. 170/2000, 1. gr.
 
                II. kafli. Stjórnvöld skipulags- og byggingarmála.
                    3. gr. Stjórn skipulags- og byggingarmála.
@@ -85,6 +85,8 @@ Sveitarstjórnir annast gerð svæðis-, aðal- og deiliskipulagsáætlana. Þæ
                     stuðla að útgáfu upplýsinga um þau mál,
            h. að fylgjast með og veita upplýsingar um ferlimál fatlaðra,
              i. að framfylgja ákvæðum laga um mat á umhverfisáhrifum.
+     [Kostnaður við rekstur Skipulagsstofnunar greiðist úr ríkissjóði.]^1)
+                             ^1)[3]L. 170/2000, 2. gr.
                         5. gr. Skipulagsstjóri ríkisins.
  Skipulagsstjóri ríkisins fer með daglega stjórn Skipulagsstofnunar. Hann skal
     hafa háskólamenntun á sviði skipulags- og byggingarmála. Ráðherra skipar
@@ -140,7 +142,7 @@ mánuðum eftir að henni berst mál í hendur. Sé mál viðamikið og fyrirsj�
 Komi fram í ágreiningsmáli krafa um stöðvun framkvæmda skal úrskurðarnefnd þegar
 í stað kveða upp úrskurð um það atriði. Úrskurði um stöðvun ber sveitarstjórn að
            framfylgja þegar í stað, með aðstoð lögreglu ef með þarf.
-  Um málsmeðferð fer að öðru leyti samkvæmt [2]stjórnsýslulögum, nr. 37/1993.
+  Um málsmeðferð fer að öðru leyti samkvæmt [4]stjórnsýslulögum, nr. 37/1993.
             Kostnaður vegna úrskurðarnefndar greiðist úr ríkissjóði.
                                  ^1)Rg. 621/1997.
 
@@ -185,7 +187,10 @@ landnotkun, t.d. vegna náttúruvár eða mengunar. Þá skal sérstaklega kveð
      skipulagsfulltrúa og samvinnunefnda um svæðisskipulag og um menntun og
       starfsreynslu skipulagsfulltrúa og annarra þeirra sem falin er gerð
                                skipulagsáætlana.
-                    ^1)Rg. 400/1998. ^2)[3]L. 135/1997, 1. gr.
+         [Þegar sérstaklega stendur á getur ráðherra að fenginni umsögn
+    Skipulagsstofnunar og hlutaðeigandi sveitarstjórnar veitt undanþágu frá
+                  einstökum greinum skipulagsreglugerðar.]^3)
+       ^1)Rg. 400/1998. ^2)[5]L. 135/1997, 1. gr. ^3)[6]L. 170/2000, 3. gr.
                   11. gr. Áætlanir um landnotkun á landsvísu.
  Skipulagsstofnun skal afla gagna, hafa aðgang að og varðveita áætlanir annarra
    opinberra aðila um landnotkun er varða landið allt, svo sem um samgöngur,
@@ -224,11 +229,11 @@ setur ráðherra henni starfsreglur sem auglýstar skulu í B-deild Stjórnartí
     svæðisskipulagi fyrir ákveðið landsvæði ef nauðsyn þykir til að samræma
     skipulagsáætlanir aðliggjandi sveitarfélaga. Slík svæði skal auðkenna á
                                  uppdrætti.]^1)
-                ^1)[4]L. 135/1997, 2. gr. ^2)[5]L. 58/1999, 1. gr.
+                ^1)[7]L. 135/1997, 2. gr. ^2)[8]L. 58/1999, 1. gr.
                       [12. gr. a. Skipulag miðhálendisins.
        Miðhálendið markast af línu sem mótuð var við gerð svæðisskipulags
   miðhálendisins af sérstakri samvinnunefnd sem skipuð var samkvæmt heimild í
-bráðabirgðaákvæði skv. [6]1. gr. laga nr. 73/1993. Samvinnunefnd miðhálendis eða
+bráðabirgðaákvæði skv. [9]1. gr. laga nr. 73/1993. Samvinnunefnd miðhálendis eða
   hlutaðeigandi sveitarfélög geta, eftir að hafa haft samráð sín á milli, gert
  tillögur til ráðherra um breytingar á markalínu miðhálendisins. Tekur ráðherra
       afstöðu til slíkra tillagna og ákveður hvort gera skuli breytingar á
@@ -253,9 +258,9 @@ svæðinu og að samræmi sé milli þeirra og svæðisskipulags miðhálendisin
  svæðisskipulagi. Þegar ný samvinnunefnd miðhálendis tekur til starfa skal hún
      meta hvort nauðsynlegt sé að endurskoða svæðisskipulag miðhálendisins.
    Kostnaður við gerð svæðisskipulags miðhálendisins greiðist úr ríkissjóði.
-   Umhverfisráðherra setur samvinnunefnd miðhálendis starfsreglur að fenginni
-                    umsögn hennar og Skipulagsstofnunar.]^1)
-                             ^1)[7]L. 58/1999, 2. gr.
+ Umhverfisráðherra setur samvinnunefnd miðhálendis starfsreglur^1) að fenginni
+                    umsögn hennar og Skipulagsstofnunar.]^2)
+                   ^1)Augl. 847/2000. ^2)[10]L. 58/1999, 2. gr.
       13. gr. Kynning, auglýsing, samþykkt og staðfesting svæðisskipulags.
     Áður en tillaga að svæðisskipulagi er tekin til formlegrar afgreiðslu í
 samvinnunefnd skulu tillagan, markmið hennar og forsendur kynnt á almennum fundi
@@ -322,7 +327,7 @@ til að gera athugasemdir skv. 3. mgr. rann út. Jafnframt skal senda þeim aði
                frestun á staðfestingu að öllu leyti eða að hluta.
  Umhverfisráðherra staðfestir svæðisskipulag miðhálendis og skal það auglýst í
                           B-deild Stjórnartíðinda.]^1)
-                             ^1)[8]L. 58/1999, 3. gr.
+                             ^1)[11]L. 58/1999, 3. gr.
                       14. gr. Breyting á svæðisskipulagi.
 Nú telur sveitarstjórn sem er aðili að staðfestu svæðisskipulagi að breyta þurfi
                 því og fer þá um málsmeðferð skv. 12. og 13. gr.
@@ -340,13 +345,14 @@ tillöguna áfram til ráðherra ásamt umsögn sinni. Fallist ráðherra á bre
  og fer þá um málsmeðferð skv. 13. gr. a. Telji sveitarstjórn sveitarfélags sem
 telst til miðhálendis að breyta þurfi svæðisskipulaginu sendir hún samvinnunefnd
                miðhálendis rökstudda tillögu um breytinguna.]^1)
-                             ^1)[9]L. 58/1999, 4. gr.
+                             ^1)[12]L. 58/1999, 4. gr.
                     15. gr. Sérstök svæðisskipulagsmeðferð.
-    Sérstakri svæðisskipulagsmeðferð er heimilt að beita vegna fyrirhugaðra
-mannvirkja, svo sem þjóðvega, orkumannvirkja eða fjarskiptalína, eða áætlana um
-     slíka mannvirkjagerð. Sá aðili, sem ábyrgð ber á viðkomandi áætlun eða
-framkvæmd, getur óskað eftir því við Skipulagsstofnun að lega mannvirkisins eða
-                 áætlunin fái sérstaka svæðisskipulagsmeðferð.
+   [Heimilt er að beita sérstakri svæðisskipulagsmeðferð vegna mannvirkja og
+       áætlana sem ná til fleiri en eins sveitarfélags, svo sem þjóðvega,
+  orkumannvirkja, fjarskiptalína og áætlana um framkvæmdir eða aðra ráðstöfun
+lands til nýtingar eða verndar.]^1) Sá aðili, sem ábyrgð ber á viðkomandi áætlun
+eða framkvæmd, getur óskað eftir því við Skipulagsstofnun að lega mannvirkisins
+               eða áætlunin fái sérstaka svæðisskipulagsmeðferð.
 Skipulagsstofnun auglýsir tillögu að sérstöku svæðisskipulagi í Lögbirtingablaði
  og með áberandi hætti í viðkomandi sveitarfélögum og er tillagan höfð þar til
 sýnis ásamt fylgigögnum í a.m.k. fjórar vikur. Einnig skal tillagan auglýst utan
@@ -364,6 +370,7 @@ athugasemdir gerðu umsögn Skipulagsstofnunar um þær. Sveitarstjórnir skulu 
                                 svæðisskipulagi.
    Ráðherra staðfestir sérstakt svæðisskipulag og skal það auglýst í B-deild
                                 Stjórnartíðinda.
+                            ^1)[13]L. 170/2000, 4. gr.
                              16. gr. Aðalskipulag.
    Sveitarstjórn ber ábyrgð á að gert sé aðalskipulag fyrir sveitarfélagið. Í
        aðalskipulagi skal fjallað um allt land innan marka sveitarfélags.
@@ -378,7 +385,7 @@ tímabili. Við gerð þess skal byggt á markmiðum laga þessara og áætlunum
  [Þegar að loknum sveitarstjórnarkosningum metur sveitarstjórn hvort ástæða sé
 til að endurskoða aðalskipulagið. Um málsmeðferð á endurskoðaðri áætlun fer sem
                   um gerð nýs aðalskipulags væri að ræða.]^1)
-                            ^1)[10]L. 135/1997, 3. gr.
+                            ^1)[14]L. 135/1997, 3. gr.
                      17. gr. Kynning aðalskipulagstillögu.
   Áður en tillaga að aðalskipulagi eða verulegum breytingum á því er tekin til
 formlegrar afgreiðslu í sveitarstjórn skal tillagan, markmið hennar og forsendur
@@ -397,7 +404,7 @@ a.]^1) Hafi Skipulagsstofnun ekki gert athugasemdir innan fjögurra vikna frá �
      skal hún leita samkomulags við sveitarstjórn um breytingar. Náist ekki
  samkomulag er sveitarstjórn engu að síður heimilt að auglýsa tillöguna en sýna
                  skal athugasemdir Skipulagsstofnunar við hana.
-                             ^1)[11]L. 58/1999, 5. gr.
+                             ^1)[15]L. 58/1999, 5. gr.
               18. gr. Auglýsing og samþykkt aðalskipulagstillögu.
   Sveitarstjórn skal auglýsa tillögu að aðalskipulagi eða breytingu á því með
   áberandi hætti. [Tillagan skal einnig auglýst í Lögbirtingablaðinu og liggja
@@ -421,7 +428,7 @@ taka afstöðu til athugasemda sem borist hafa og þess hvort gera skuli breytin
       sveitarstjórnar um þær, innan átta vikna frá því frestur til að gera
      athugasemdir skv. 2. mgr. rann út. Jafnframt skal senda þeim aðilum er
                athugasemdir gerðu umsögn sveitarstjórnar um þær.
-                             ^1)[12]L. 58/1999, 6. gr.
+                             ^1)[16]L. 58/1999, 6. gr.
            19. gr. Staðfesting, birting og gildistaka aðalskipulags.
  Aðalskipulag, eða breyting á því, er háð staðfestingu ráðherra og tekur gildi
         þegar staðfestingin hefur verið birt í B-deild Stjórnartíðinda.
@@ -467,8 +474,13 @@ skoðast tillagan samþykkt. Komi fram athugasemdir við auglýsta tillögu skal
   að máli hver um sig auglýsa tillögu nefndarinnar sem aðalskipulagstillögu í
                        samræmi við ákvæði 17. og 18. gr.
                              23. gr. Deiliskipulag.
+   [Sveitarstjórn ber ábyrgð á og annast gerð deiliskipulags. Landeiganda eða
+     framkvæmdaraðila er þó heimilt að gera tillögu til sveitarstjórnar að
+       deiliskipulagi eða breytingu á deiliskipulagi á sinn kostnað.]^1)
 Deiliskipulag skal gera á grundvelli aðalskipulags fyrir einstök svæði eða reiti
-                     þar sem framkvæmdir eru fyrirhugaðar.
+þar sem framkvæmdir eru fyrirhugaðar. [Sveitarstjórn getur þó auglýst tillögu að
+     deiliskipulagi samhliða auglýsingu tillögu að samsvarandi breytingu á
+                               aðalskipulagi.]^1)
      Þar sem deiliskipulag liggur ekki fyrir í þegar byggðum hverfum getur
  sveitarstjórn veitt heimild til framkvæmda að undangenginni grenndarkynningu,
                               sbr. 7. mgr. 43. gr.
@@ -481,6 +493,7 @@ deiliskipulags er forsendum skipulagsins lýst og einstök atriði þess skýrð
           húsakönnun er höfð skal til hliðsjónar við gerð tillögunnar.
 Um gerð deiliskipulags gilda að öðru leyti ákvæði 9. gr. laga þessara og ákvæði
                              í skipulagsreglugerð.
+                            ^1)[17]L. 170/2000, 5. gr.
                    24. gr. Deiliskipulag á landi í einkaeign.
    Þegar land í einkaeign er gert að byggingarlóðum með deiliskipulagi að ósk
  landeiganda skal hann þegar framkvæmdir hefjast láta endurgjaldslaust af hendi
@@ -535,7 +548,7 @@ hið breytta skipulag, sbr. 3. mgr. 25. gr., ásamt yfirlýsingu um að hún tak
       [Ráðherra skal kveða nánar á um útgáfu framkvæmdaleyfa í reglugerð.
 Landgræðslu- og skógræktaráætlanir skulu vera í samræmi við skipulagsáætlanir og
             úrskurð um mat á umhverfisáhrifum þar sem það á við.]^1)
-                            ^1)[13]L. 135/1997, 4. gr.
+                            ^1)[18]L. 135/1997, 4. gr.
                          28. gr. Mælingar og kortagerð.
   Mæla skal og kortleggja byggð og nærliggjandi svæði eins og ástæða þykir til
 vegna skipulagsvinnu. Umráðamönnum lands og lóða er skylt að leyfa mælingamönnum
@@ -575,7 +588,7 @@ Eigendum fasteigna sem forkaupsréttur tekur til er skylt að bjóða sveitarstj
 vill neyta réttarins eða ekki. Svari sveitarstjórn eigi boði eiganda fasteignar
       innan tilskilins frests skal líta svo á að forkaupsrétti sé hafnað.
       Ákvæði þessarar greinar raska ekki ákvæðum annarra laga um víðtækari
-forkaupsrétt sveitarfélaga. Um meðferð forkaupsréttarmála fer samkvæmt [14]lögum
+forkaupsrétt sveitarfélaga. Um meðferð forkaupsréttarmála fer samkvæmt [19]lögum
                                   nr. 22/1932.
                        32. gr. Heimildir til eignarnáms.
 Ráðherra getur að fenginni umsögn Skipulagsstofnunar veitt sveitarstjórn heimild
@@ -599,7 +612,7 @@ enda sé liðinn frestur sem honum hefur verið settur til að byggja á lóðin
 Eignarnám er því aðeins heimilt að sveitarstjórn hafi áður með sannanlegum hætti
    leitast við að ná samningum við eigendur þeirra eigna eða réttinda sem hún
                             hyggst taka eignarnámi.
- Um framkvæmd eignarnáms og ákvörðun um bætur fer eftir [15]lögum nr. 11/1973.
+ Um framkvæmd eignarnáms og ákvörðun um bætur fer eftir [20]lögum nr. 11/1973.
                 Bætur vegna eignarnáms greiðast úr sveitarsjóði.
                 33. gr. Bætur vegna skipulags og yfirtaka eigna.
        Nú veldur gildistaka skipulags því að verðmæti fasteignar lækkar,
@@ -626,27 +639,29 @@ sveitarstjórn á kröfu um yfirtöku skal matsnefnd eignarnámsbóta falið að
     viðkomandi stofnunum eða fyrirtækjum. Skipulagsstofnun ber kostnað vegna
         nauðsynlegrar gagnaöflunar og gagnavinnslu, sbr. 1. mgr. 11. gr.
           2. [Kostnaður við gerð svæðisskipulags greiðist til helminga af
-   Skipulagsstofnun og hlutaðeigandi sveitarfélögum í samræmi við áðurgerðan
-                        samning, sbr. þó 12. gr. a.]^1)
-    3. Þar sem sveitarstjórn annast reglulega gerð aðalskipulags og endurskoðun
-    án sérstaks samnings við Skipulagsstofnun yfirfærir stofnunin árlega til
-       sveitarsjóðs helming innheimtra skipulagsgjalda í sveitarfélaginu.
+  [Skipulagssjóði]^1) og hlutaðeigandi sveitarfélögum í samræmi við áðurgerðan
+                        samning, sbr. þó 12. gr. a.]^2)
+   3. [Þar sem sveitarstjórn annast reglulega gerð aðalskipulags og endurskoðun
+     þess án sérstaks samnings skal helmingur innheimtra skipulagsgjalda í
+   sveitarfélaginu yfirfærður árlega til sveitarsjóðs úr Skipulagssjóði.]^1)
    4. Sveitarfélag, sem ekki fær yfirfærðan helming innheimtra skipulagsgjalda í
-sveitarfélaginu, getur gert sérstakan samning við Skipulagsstofnun og getur hún
- tekið þátt í kostnaði við gerð eða endurskoðun aðalskipulags sem nemur allt að
- helmingi kostnaðar. Þar sem sérstakar aðstæður ríkja, t.d. ef þörf er á óvenju
-umfangsmikilli skipulagsvinnu í fámennu sveitarfélagi, er unnt að semja um hærri
-                     kostnaðarþátttöku Skipulagsstofnunar.
-          5. Kostnaður við gerð deiliskipulags greiðist úr sveitarsjóði.
+sveitarfélaginu, getur [fengið greiddan allt að helmingi kostnaðar við gerð eða
+  endurskoðun aðalskipulags úr Skipulagssjóði].^1) Þar sem sérstakar aðstæður
+    ríkja, t.d. ef þörf er á óvenju umfangsmikilli skipulagsvinnu í fámennu
+         sveitarfélagi, er unnt að semja um hærri kostnaðarþátttöku ^1)
+    5. Kostnaður við gerð deiliskipulags greiðist úr sveitarsjóði, [sbr. þó 1.
+                                mgr. 23. gr.]^1)
        6. [Kostnaður við gerð grunnkorta sem nauðsynleg eru vegna svæðis- og
- aðalskipulags skiptist til helminga milli Skipulagsstofnunar og hlutaðeigandi
+ aðalskipulags skiptist til helminga milli [Skipulagssjóðs]^1) og hlutaðeigandi
   sveitarfélags nema í þeim sveitarfélögum sem árlega fá endurgreiddan helming
-          innheimtra skipulagsgjalda, sbr. 3. tölul. og 12. gr. a.]^1)
-                             ^1)[16]L. 58/1999, 7. gr.
+          innheimtra skipulagsgjalda, sbr. 3. tölul. og 12. gr. a.]^2)
+               ^1)[21]L. 170/2000, 6. gr. ^2)[22]L. 58/1999, 7. gr.
                             35. gr. Skipulagsgjald.
- Til þess að standa straum af kostnaði Skipulagsstofnunar og sveitarfélaga við
-framkvæmd skipulags- og byggingarmála skal innheimta í ríkissjóð sérstakt gjald
-                   af mannvirkjum er nefnist skipulagsgjald.
+  [Til að standa straum af kostnaði við gerð skipulagsáætlana skal innheimt í
+       ríkissjóð sérstakt gjald af mannvirkjum er nefnist skipulagsgjald.
+  Skipulagsgjald rennur í gegnumstreymissjóð, Skipulagssjóð. Skipulagsstofnun
+    annast vörslu sjóðsins og greiðslur úr honum. Sjóðurinn skal vera óháður
+                   fjárhagslegum rekstri stofnunarinnar.]^1)
 Af nýbyggingum, sem virtar eru til brunabóta, skal greiða skipulagsgjald í eitt
 skipti sem nemur 0,3% af brunabótamati hverrar húseignar. Nýbygging telst hvert
   nýreist hús sem virt er til brunabóta, svo og viðbyggingar við eldra hús ef
@@ -658,13 +673,15 @@ Skipulagsgjald af mannvirkjum sem ekki eru virt til brunabóta skal nema 0,3% af
    Skipulagsgjald fellur í gjalddaga þegar virðingargjörð hefur farið fram og
   Fasteignamat ríkisins hefur tilkynnt hana til innheimtumanns ríkissjóðs. Því
  fylgir lögveð í eigninni og gengur það fyrir öllum öðrum veðkröfum er á henni
-                   hvíla. Innheimta má gjaldið með fjárnámi.
-Auk skipulagsgjalds, sem um ræðir í 1.3. mgr., skal árlega greiða úr ríkissjóði
-til Skipulagsstofnunar eigi lægri fjárhæð en sem nemur helmingi skipulagsgjalda
-                                næstliðins árs.
-Ráðherra setur í reglugerð^1) nánari ákvæði um álagningu, innheimtu og ráðstöfun
+      hvíla. Innheimta má gjaldið með fjárnámi. [Sýslumaður skal innheimta
+ skipulagsgjald af húsbyggingum í lögsagnarumdæmi sínu og af öðrum gjaldskyldum
+   mannvirkjum, sbr. 3. málsl. 2. mgr., í eigu lögaðila sem hafa lögheimili í
+    umdæminu. Í Reykjavík skal tollstjóri annast innheimtuna. Skipulagsgjald
+        innheimtist samkvæmt fyrirmælum frá Fasteignamati ríkisins.]^1)
+                                      ^1)
+Ráðherra setur í reglugerð^2) nánari ákvæði um álagningu, innheimtu og ráðstöfun
                                  gjalds þessa.
-                                 ^1)Rg. 737/1997.
+                    ^1)[23]L. 170/2000, 7. gr. ^2)Rg. 737/1997.
 
                              IV. kafli. Mannvirki.
                               36. gr. Gildissvið.
@@ -679,7 +696,7 @@ við þessar framkvæmdir. Enn fremur þarf byggingarleyfi fyrir fjarskiptamöst
     Mannvirki, sem undanþegin eru byggingarleyfi, skulu byggð í samræmi við
  skipulagsákvæði skv. III. kafla laga þessara. Leiki vafi á því hvort mannvirki
    er háð byggingarleyfi skal leita niðurstöðu úrskurðarnefndar, sbr. 8. gr.
-                            ^1)[17]L. 135/1997, 5. gr.
+                            ^1)[24]L. 135/1997, 5. gr.
                          37. gr. Byggingarreglugerð.^1)
 Ráðherra setur í samráði við Skipulagsstofnun og Samband íslenskra sveitarfélaga
     byggingarreglugerð er nær til alls landsins þar sem nánar er kveðið á um
@@ -704,6 +721,9 @@ fyrir byggingarleyfi, mælingar, úttektir og vottorð sem byggingarfulltrúi l�
  skal vísa til annarra reglugerða sem áhrif hafa á framkvæmd hennar og gildandi
 staðla um tæknilega útfærslu eða annað sem snýr að mannvirkjum. Enn fremur skal
  vísa til ákvæða og skuldbindinga sem fylgja aðild Íslands að alþjóðasamningum.
+         [Þegar sérstaklega stendur á getur ráðherra að fenginni umsögn
+    Skipulagsstofnunar og hlutaðeigandi sveitarstjórnar veitt undanþágu frá
+                  einstökum greinum byggingarreglugerðar.]^2)
  Sveitarstjórn getur sett staðbundna samþykkt með viðbótarreglum við þær reglur
 sem byggingarreglugerð hefur að geyma. Þar skal m.a. fjalla um sérstakar kröfur
    til bygginga vegna flóða, ofanflóða- eða jarðskjálftahættu, friðunar eldri
@@ -715,7 +735,7 @@ sem byggingarreglugerð hefur að geyma. Þar skal m.a. fjalla um sérstakar kr�
                                    málsgrein.
  Staðbundnar byggingarsamþykktir skal senda til staðfestingar ráðuneytisins og
                         birta í B-deild Stjórnartíðinda.
-                                 ^1)Rg. 441/1998.
+            ^1)Rg. 441/1998, sbr. 563/2000. ^2)[25]L. 170/2000, 8. gr.
                        38. gr. Hlutverk byggingarnefnda.
   Byggingarnefndir, skipulags- og byggingarnefndir þar sem það á við, fara með
                  byggingarmál undir yfirstjórn sveitarstjórna.
@@ -742,7 +762,7 @@ framkvæmdum, enda sé ótvírætt að framkvæmd samræmist gildandi deiliskipu
     er honum heimilt innan mánaðar frá því að honum er kunnugt um afgreiðslu
        sveitarstjórnar að skjóta málinu til úrskurðarnefndar skv. 8. gr.
                                       ^1)
-                            ^1)[18]L. 135/1997, 6. gr.
+                            ^1)[26]L. 135/1997, 6. gr.
                           40. gr. Byggingarfulltrúar.
 Byggingarfulltrúi er framkvæmdastjóri byggingarnefndar. Hann gengur úr skugga um
    að aðaluppdrættir séu í samræmi við gildandi skipulag, lög og reglugerðir.
@@ -762,7 +782,7 @@ byggðar á séu tryggilega varðveitt. Hann skal einnig annast skráningu faste
  [Sveitarstjórn er heimilt að víkja frá ákvæðum þessara laga um meðferð umsókna
 um byggingarleyfi og verksvið byggingarfulltrúa í sérstakri samþykkt, sbr. 5. og
            6. mgr. 37. gr., og að fenginni staðfestingu ráðherra.]^1)
-                            ^1)[19]L. 117/1999, 1. gr.
+                            ^1)[27]L. 117/1999, 1. gr.
                            41. gr. Byggingareftirlit.
    Byggingarnefndarmönnum, byggingarfulltrúa og starfsmönnum hans skal frjáls
     aðgangur að lóðum og mannvirkjum til eftirlits með byggingarframkvæmdum.
@@ -781,21 +801,20 @@ gera eiganda eða umráðamanni þess aðvart og leggja fyrir hann að bæta úr
                    42. gr. Kröfur til hönnunar og efnisvals.
  Byggingarfulltrúa er heimilt þegar um vandasama hönnun er að ræða að krefjast
               umsagnar löggiltra prófhönnuða á kostnað byggjanda.
-Byggingarefni, raðframleiddar byggingareiningar og hús skulu hafa hlotið vottun
- faggiltrar prófunarstofu á byggingarsviði um að þau uppfylli ákvæði byggingar-
- og brunavarnareglugerða, standist staðla og falli að verklagi og séríslenskum
-        aðstæðum áður en heimilt er að nota þau til byggingarframkvæmda.
+        [Byggingarvörur á markaði, þ.m.t. byggingarefni, raðframleiddar
+   byggingareiningar og raðframleidd hús, skulu uppfylla ákvæði reglugerða um
+                       viðskipti með byggingarvörur.]^1)
   Byggingarfulltrúi getur krafið framleiðanda eða innflytjanda um vottorð eða
  prófunarskýrslu frá faggiltri prófunarstofu á viðkomandi byggingarsviði um að
 byggingarefni, sem er til sölu, standist kröfur staðla og byggingarreglugerðar.
     [Byggingarfulltrúa er heimilt á kostnað byggjanda að krefjast sérstakra
-eftirlitsmanna þegar um byggingu meiri háttar mannvirkja er að ræða.]^1) Einnig
+eftirlitsmanna þegar um byggingu meiri háttar mannvirkja er að ræða.]^2) Einnig
    getur hann krafist þess að óháðum löggiltum hönnuðum eða sérfræðingum með
    tilhlýðilega þekkingu sé falið eftirlit með byggingarframkvæmdum þegar um
                  óvenjulega eða nýja byggingartækni er að ræða.
   [Byggingarfulltrúa er heimilt á kostnað byggjanda að krefjast álagsprófunar
 mannvirkis til staðfestingar burðarþoli og virkniprófun lagnakerfa eftir að það
- hefur verið reist.]^1) Standist mannvirkið ekki prófun skal byggingarfulltrúi
+ hefur verið reist.]^2) Standist mannvirkið ekki prófun skal byggingarfulltrúi
  gefa byggjanda ákveðinn frest til að gera nauðsynlegar úrbætur. Að öðrum kosti
          getur hann látið bæta úr því sem áfátt er á kostnað byggjanda.
     Byggingarfulltrúa er heimilt að fengnu samþykki sveitarstjórnar að fela
@@ -803,7 +822,7 @@ prófhönnuði eða faggiltri skoðunarstofu yfirferð og samþykkt séruppdrát
  yfirferðar séruppdrátta skal greiða sérstakt gjald sem nemi þeim útgjöldum sem
      yfirferðin hefur í för með sér. Í byggingarreglugerð skal kveðið á um
                      starfsreglur og gjaldtöku vegna þessa.
-                            ^1)[20]L. 135/1997, 7. gr.
+               ^1)[28]L. 170/2000, 9. gr. ^2)[29]L. 135/1997, 7. gr.
                             43. gr. Byggingarleyfi.
  Óheimilt er að grafa grunn, reisa hús, rífa hús, breyta því, burðarkerfi þess,
 formi, svipmóti eða notkun þess eða gera önnur þau mannvirki sem falla undir IV.
@@ -834,7 +853,12 @@ grenndarkynningu áður en það hlýtur afgreiðslu byggingarnefndar. Grenndark
 kostur á að tjá sig innan ákveðins frests sem skal vera a.m.k. fjórar vikur. Að
    þeim fresti liðnum og þegar niðurstaða skipulagsnefndar liggur fyrir skal
    byggingarnefnd taka málið til afgreiðslu. Þeim sem tjáðu sig um málið skal
-          tilkynnt um niðurstöðu skipulagsnefndar og byggingarnefndar.
+    tilkynnt um niðurstöðu skipulagsnefndar og byggingarnefndar. [Heimilt er
+skipulagsnefnd að stytta tímabil grenndarkynningar ef þeir sem hagsmuna eiga að
+   gæta hafa lýst skriflega yfir því með áritun á uppdrátt að þeir geri ekki
+ athugasemdir við fyrirhugaða framkvæmd eða breytingu á deiliskipulagi, áður en
+                          fjórar vikur eru liðnar.]^1)
+                            ^1)[30]L. 170/2000, 10. gr.
                         44. gr. Útgáfa byggingarleyfis.
   Gefa má út byggingarleyfi þegar eftirtöldum skilyrðum hefur verið fullnægt:
        1. Sveitarstjórn hefur staðfest samþykkt byggingarnefndar um veitingu
@@ -858,14 +882,15 @@ Staðfesting sveitarstjórnar fellur úr gildi hafi byggingarleyfi ekki verið g
  Byggingarleyfi fellur úr gildi hafi byggingarframkvæmdir ekki hafist innan 12
   mánaða frá útgáfu þess. Í reglugerð skal kveða nánar á um hvenær talið er að
                         byggingarframkvæmdir séu hafnar.
-Nú stöðvast byggingarframkvæmdir í eitt ár eða lengur og getur byggingarnefnd þá
-                        fellt byggingarleyfið úr gildi.
+         Nú stöðvast byggingarframkvæmdir í eitt ár eða lengur og getur
+             [sveitarstjórn]^1) þá fellt byggingarleyfið úr gildi.
 Hafi byggingarframkvæmdir stöðvast í tvö ár hið skemmsta getur sveitarstjórn að
        tillögu byggingarnefndar með sex mánaða fyrirvara lagt dagsektir á
  byggingarleyfishafa, sbr. 57. gr., eða tekið ófullgerðar byggingarframkvæmdir
                eignarnámi samkvæmt lögum um framkvæmd eignarnáms.
      Sveitarstjórn er heimilt að setja ítarlegri reglur um byggingarhraða í
                                byggingarskilmála.
+                            ^1)[31]L. 170/2000, 11. gr.
                              46. gr. Hönnunargögn.
 Hönnunargögn bygginga og annarra mannvirkja sem heyra undir þessi lög greinast í
  uppdrætti og fylgiskjöl. Uppdrættir greinast í aðaluppdrætti, séruppdrætti og
@@ -894,8 +919,10 @@ löggildingu, sbr. 48. og 49. gr. Hönnuðir skulu árita teikningar sínar og �
    Sá sem áritar aðaluppdrátt er samræmingarhönnuður. Samræmingarhönnuður ber
 ábyrgð gagnvart byggingaryfirvöldum á að séruppdrættir, sem lagðir eru fram til
            samþykktar, séu í samræmi innbyrðis og við aðaluppdrætti.
-  Hönnuðir, sem leggja uppdrætti fyrir byggingarnefnd, skulu hafa fullnægjandi
-                              ábyrgðartryggingar.
+ [Hönnuður, einstaklingur eða fyrirtæki þar sem löggiltur hönnuður starfar sem
+     leggur uppdrætti fyrir byggingarnefnd eða byggingarfulltrúa skal hafa
+                      fullnægjandi ábyrgðartryggingu.]^1)
+                            ^1)[32]L. 170/2000, 12. gr.
                           48. gr. Löggilding hönnuða.
 [Rétt til að leggja fram uppdrætti vegna byggingarleyfis hafa þeir sem til þess
                      hafa hlotið löggildingu ráðherra.]^1)
@@ -904,15 +931,17 @@ Arkitektar, byggingarfræðingar, tæknifræðingar, verkfræðingar, rafiðnfr�
 um löggildingu samkvæmt lögum þessum, skulu hafa hlotið heimild iðnaðarráðherra
      til starfsheitisins samkvæmt lögum um löggildingu nokkurra starfsheita
               sérfræðinga í tækni- og hönnunargreinum, nr. 8/1996.
-Arkitektar og byggingarfræðingar er sækja um löggildingu skulu standast próf sem
-    þriggja manna prófnefnd sérfróðra aðila annast. Umhverfisráðherra skipar
-  nefndina til fjögurra ára í senn. Jafnmargir varamenn skulu skipaðir. Prófið
-  skal ná til þeirra greina sem helst reynir á í störfum hönnuða við íslenskar
-aðstæður. Prófnefnd skipuleggur námskeið til undirbúnings prófi sem umsækjendum
-er skylt að sækja. Ráðherra ákveður gjald sem umsækjendur greiða fyrir að þreyta
-  próf. Skal fjárhæðin taka mið af kostnaði af námskeiðum og annarri framkvæmd
- prófs. Ráðherra setur nánari ákvæði í reglugerð^3) um framkvæmd námskeiðahalds
-                og prófs og lágmarksárangur til að standast það.
+        [Arkitektar, byggingarfræðingar, verkfræðingar, tæknifræðingar,
+    innanhússarkitektar, landslagsarkitektar og rafiðnfræðingar er sækja um
+  löggildingu skulu standast próf sem þriggja manna prófnefnd sérfróðra aðila
+     annast.]^3) Umhverfisráðherra skipar nefndina til fjögurra ára í senn.
+ Jafnmargir varamenn skulu skipaðir. Prófið skal ná til þeirra greina sem helst
+    reynir á í störfum hönnuða við íslenskar aðstæður. Prófnefnd skipuleggur
+  námskeið til undirbúnings prófi sem umsækjendum er skylt að sækja. Ráðherra
+ ákveður gjald sem umsækjendur greiða fyrir að þreyta próf. Skal fjárhæðin taka
+mið af kostnaði af námskeiðum og annarri framkvæmd prófs. Ráðherra setur nánari
+ ákvæði í reglugerð^4) um framkvæmd námskeiðahalds og prófs og lágmarksárangur
+                              til að standast það.
 Byggingarfræðingar þurfa, auk þess að standast próf skv. 3. mgr., að hafa lokið
                           20 mánaða starfsreynslutíma.
 Umsækjendur, aðrir en arkitektar og byggingarfræðingar, skulu hafa sérhæft sig á
@@ -925,7 +954,8 @@ Umsækjendur, aðrir en arkitektar og byggingarfræðingar, skulu hafa sérhæft
            fagfélags og prófnefndar áður en löggilding er veitt.]^1)
   Ráðherra sendir árlega lista yfir löggilta hönnuði til Skipulagsstofnunar og
                                byggingarfulltrúa.
-       ^1)[21]L. 135/1997, 8. gr. ^2)[22]L. 4/2000, 2. gr. ^3)Rg. 747/1997.
+    ^1)[33]L. 135/1997, 8. gr. ^2)[34]L. 4/2000, 2. gr. ^3)[35]L. 170/2000, 13.
+                              gr. ^4)Rg. 747/1997.
                          49. gr. Löggilding á sérsviði.
  Arkitektar og byggingarfræðingar geta hlotið löggildingu ráðherra til að gera
     aðal- og byggingaruppdrætti, uppdrætti að skipulagi lóða og tilheyrandi
@@ -941,8 +971,8 @@ ráðherra til að gera aðal- og byggingaruppdrætti og tilheyrandi deiliuppdr�
 [Innanhússarkitektar og landslagsarkitektar (landslagshönnuðir)]^1) geta fengið
        löggildingu ráðherra sem hönnuðir séruppdrátta, hver á sínu sviði.
   Rafiðnfræðingar geta fengið löggildingu ráðherra sem hönnuðir séruppdrátta á
-       sínu sviði. Ráðherra setur stærðartakmarkanir veitna í reglugerð.
-                             ^1)[23]L. 4/2000, 3. gr.
+      sínu sviði. Ráðherra setur stærðartakmarkanir veitna í reglugerð.^2)
+                     ^1)[36]L. 4/2000, 3. gr. ^2)Rg. 730/2000.
                         50. gr. Löggilding prófhönnuða.
    Verkfræðingar með sérmenntun og löggildinu á viðkomandi hönnunarsviði geta
   hlotið sérstaka löggildingu ráðherra sem prófhönnuðir, sbr. 6. mgr. 42. gr.,
@@ -950,14 +980,21 @@ enda hafi þeir minnst sex ára starfsreynslu á þessu sviði, þar af minnst e
                          við eftirlit með framkvæmdum.
   Ráðherra setur nánari reglur um hæfnisskilyrði prófhönnuða, störf þeirra og
       starfshætti. Setja má það skilyrði að umsækjandi gangist undir próf.
+  [Ráðherra er heimilt að ákveða gjald sem umsækjendur greiða fyrir að þreyta
+    próf. Gjöld skulu aldrei vera hærri en sem nemur kostnaði við framkvæmd
+                                   prófs.]^1)
+                            ^1)[37]L. 170/2000, 14. gr.
                     51. gr. Umsjón með byggingarframkvæmdum.
        Við stjórn framkvæmda hvers mannvirkis skal vera byggingarstjóri.
                           Byggingarstjórar geta orðið:
           1. Húsasmíðameistarar, múrarameistarar, pípulagningarmeistarar,
 vélvirkjameistarar, rafvirkjameistarar og byggingariðnfræðingar sem hlotið hafa
               viðurkenningu skv. 52. gr. og tilskilið starfsleyfi.
-      2. Arkitektar, verkfræðingar, tæknifræðingar og byggingarfræðingar með
-    þriggja ára reynslu af verk- og byggingarstjórn eða byggingareftirliti.
+         [2. Arkitektar, byggingarverkfræðingar, byggingartæknifræðingar,
+   byggingarfræðingar og aðrir verkfræðingar og tæknifræðingar með hliðstæða
+                           menntun á byggingarsviði.
+   3. Fyrirtæki og stofnanir þar sem starfar aðili sem uppfyllir skilyrði 1. eða
+             2. tölul., enda annist hann störf byggingarstjóra.]^1)
 Byggingarstjóri er framkvæmdastjóri byggingarframkvæmda. Hann ræður iðnmeistara
 í upphafi verks með samþykki eiganda eða samþykkir ráðningu þeirra. Samsvarandi
  gildir um uppsögn iðnmeistara. Byggingarstjóri ber ábyrgð á því að byggt sé í
@@ -978,6 +1015,7 @@ nýr byggingarstjóri er ráðinn. Gera skal úttekt á þeim verkhluta sem loki
                         kostur, ásamt byggingarfulltrúa.
  Ábyrgð nýs byggingarstjóra gagnvart byggingarnefnd takmarkast við þá verkþætti
                    sem unnið er að eftir að hann hefur störf.
+                            ^1)[38]L. 170/2000, 15. gr.
                              52. gr. Iðnmeistarar.
 Iðnmeistari ber ábyrgð gagnvart byggingarstjóra og eiganda byggingarframkvæmda á
    að þeir verkþættir, sem hann tekur að sér að hafa umsjón með, séu unnir í
@@ -985,11 +1023,12 @@ Iðnmeistari ber ábyrgð gagnvart byggingarstjóra og eiganda byggingarframkvæ
      Skal hann áður en hann kemur til verksins staðfesta ábyrgð sína fyrir
                                byggingarfulltrúa.
       Þeir iðnmeistarar einir geta borið ábyrgð á einstökum verkþáttum við
-byggingarframkvæmdir sem hlotið hafa til þess leyfi ráðherra. Iðnmeistarar, sem
- hafa fullgilt meistarabréf og hafa lokið prófi frá meistaraskóla, geta hlotið
- slíka löggildingu, enda séu þeir starfandi sem meistarar í iðn sinni. Áður en
- leyfi er veitt skal leita umsagnar Samtaka iðnaðarins. Nánar skal kveðið á um
- menntun, starfsreynslu, réttindi og skyldur iðnmeistara í byggingarreglugerð.
+byggingarframkvæmdir sem hlotið hafa til þess leyfi ráðherra. [Iðnmeistarar, sem
+    hafa meistarabréf og hafa lokið prófi frá meistaraskóla eða hafa a.m.k.
+ sambærilega menntun á hlutaðeigandi sviði, geta hlotið slíka löggildingu, enda
+ séu þeir starfandi sem meistarar í iðn sinni.]^1) Áður en leyfi er veitt skal
+       leita umsagnar Samtaka iðnaðarins. Nánar skal kveðið á um menntun,
+      starfsreynslu, réttindi og skyldur iðnmeistara í byggingarreglugerð.
       Hætti iðnmeistari umsjón með framkvæmdum áður en verki er lokið skal
 byggingarstjóri sjá um að nýr iðnmeistari taki við störfum án tafar og tilkynna
                              það byggingarfulltrúa.
@@ -1000,25 +1039,30 @@ byggingarstjóri sjá um að nýr iðnmeistari taki við störfum án tafar og t
 iðnmeistara og hinum nýja, ef þess er kostur. Nýr iðnmeistari ber ábyrgð á þeim
              verkþáttum sem unnir eru eftir að hann tók við starfi.
  Ráðherra sendir árlega lista yfir löggilta iðnmeistara til byggingarfulltrúa.
+                            ^1)[39]L. 170/2000, 16. gr.
 
                              V. kafli. Leyfisgjöld.
                  53. gr. [Framkvæmda- og byggingarleyfisgjöld.
  Sveitarstjórnum er heimilt að innheimta gjöld fyrir leyfi til framkvæmda, sem
 áhrif hafa á umhverfið og breyta ásýnd þess, sbr. 27. gr., og fyrir leyfi til að
- reisa, stækka eða breyta byggingarmannvirkjum, sbr. 43. gr. Jafnframt er þeim
- heimilt að innheimta gjöld fyrir útmælingu, eftirlit, úttektir og vottorð sem
-  byggingarfulltrúi lætur í té. Gjöld þessi mega ekki nema hærri upphæð en sem
-      nemur kostnaði við útgáfu leyfa, útmælingu, eftirlit og vottorð sem
-                       byggingarfulltrúi lætur í té.]^1)
-                            ^1)[24]L. 135/1997, 9. gr.
+ reisa, stækka eða breyta byggingarmannvirkjum, sbr. 43. gr. [Jafnframt er þeim
+    heimilt að innheimta gjöld fyrir útmælingu, eftirlit, úttektir, yfirferð
+hönnunargagna og vottorð sem byggingarfulltrúi lætur í té. Gjöld þessi mega ekki
+ nema hærri upphæð en sem nemur kostnaði við útgáfu leyfa, útmælingu, eftirlit,
+úttektir, yfirferð hönnunargagna og vottorð sem byggingarfulltrúi lætur í té og
+ skulu vera í samræmi við gjaldskrá sem sveitarstjórn setur og birtir í B-deild
+                            Stjórnartíðinda.]^1)]^2)
+              ^1)[40]L. 170/2000, 17. gr. ^2)[41]L. 135/1997, 9. gr.
                             54. gr. Bílastæðagjald.
 Ef ekki er unnt að koma fyrir á lóð nýbyggingar þeim fjölda bílastæða sem kröfur
     eru gerðar um getur sveitarstjórn ákveðið að innheimta bílastæðagjald af
   hlutaðeigandi lóð. Gjaldið má nema allt að áætluðum kostnaði við gerð þeirra
-     bílastæða sem á vantar. Sveitarstjórn getur sett sérstaka gjaldskrá um
-           bílastæðagjöld í sveitarfélaginu sem ráðherra staðfestir.
+    bílastæða sem á vantar. [Sveitarstjórn getur sett sérstaka gjaldskrá um
+      bílastæðagjöld í sveitarfélaginu sem sveitarfélagið birtir í B-deild
+                              Stjórnartíðinda.]^1)
 Bílastæðagjöld skulu renna í sérstakan sjóð og skal honum varið til uppbyggingar
                 almenningsbílastæða í nágrenni viðkomandi lóðar.
+                            ^1)[42]L. 170/2000, 18. gr.
                             55. gr. Greiðsla gjalda.
     [Sveitarstjórnir ákveða gjalddaga framkvæmdaleyfis-, byggingarleyfis- og
        bílastæðagjalda og hvernig þau skuli innheimt.]^1) Eigi má gefa út
@@ -1028,7 +1072,7 @@ byggingarleyfi fyrr en gjöld þessi hafa verið greidd samkvæmt settum reglum 
                neita að gefa út vottorð um viðkomandi mannvirki.
  Gjöldum skv. 53. og 54. gr. fylgir lögveð í viðkomandi fasteign eða lóð og má
                    innheimta gjaldfallin gjöld með fjárnámi.
-                            ^1)[25]L. 135/1997, 10. gr.
+                            ^1)[43]L. 135/1997, 10. gr.
 
                     VI. kafli. Þvingunarúrræði og viðurlög.
      56. gr. Framkvæmdir sem brjóta í bága við skipulag eða eru án leyfis.
@@ -1062,7 +1106,7 @@ Ef þörf krefur er lögreglu skylt að aðstoða byggingarfulltrúa og bygginga
   Sveitarsjóður eða eftir atvikum ríkissjóður á endurkröfu á byggingaraðila á
 öllum kostnaði sem hann hefur haft af ólöglegri mannvirkjagerð og á lögveð fyrir
     kröfu sinni í öllu efni sem notað hefur verið við byggingarframkvæmdina.
-                            ^1)[26]L. 135/1997, 11. gr.
+                            ^1)[44]L. 135/1997, 11. gr.
                   57. gr. Aðgerðir til að knýja fram úrbætur.
  Sinni aðili ekki fyrirmælum byggingarfulltrúa eða byggingarnefndar innan þess
   frests sem sveitarstjórn setur getur hún ákveðið dagsektir þar til úr verður
@@ -1091,19 +1135,19 @@ viðurkenningu sinni um tiltekinn tíma eða fyrir fullt og allt. [Áður en rá
       tekur ákvörðun um sviptingu viðurkenningar skal hann leita umsagnar
     byggingarnefndar viðkomandi sveitarfélags og Samtaka iðnaðarins og gefa
                        iðnmeistara kost á að tjá sig.]^1)
-                            ^1)[27]L. 135/1997, 12. gr.
+                            ^1)[45]L. 135/1997, 12. gr.
                               60. gr. Refsiábyrgð.
   Brot gegn lögum þessum og reglugerðum settum samkvæmt þeim varða sektum eða
 [fangelsi allt að 2 árum]^1) nema þyngri refsing liggi við samkvæmt öðrum lögum.
-Með mál samkvæmt þessari grein skal farið að hætti opinberra mála, sbr. [28]lög
+Með mál samkvæmt þessari grein skal farið að hætti opinberra mála, sbr. [46]lög
                                   nr. 19/1991.
-                            ^1)[29]L. 82/1998, 238. gr.
+                            ^1)[47]L. 82/1998, 238. gr.
 
       VII. kafli. Yfirstjórn skipulags- og byggingarmála á varnarsvæðum og
                                gildistökuákvæði.
        61. gr. Um yfirstjórn skipulags- og byggingarmála á varnarsvæðum.
   Utanríkisráðherra fer með yfirstjórn skipulags- og byggingarmála á auglýstum
-  varnarsvæðum í samræmi við ákvæði [30]laga nr. 106/1954, sbr. og [31]lög nr.
+  varnarsvæðum í samræmi við ákvæði [48]laga nr. 106/1954, sbr. og [49]lög nr.
                                    110/1951.
  Ákvæði skipulags- og byggingarlaga og reglugerða settra samkvæmt þeim eiga við
 um skipulags- og byggingarmál á varnarsvæðum eftir því sem við getur átt, þar á
@@ -1124,11 +1168,14 @@ sem hlut geta átt að máli, svo sem á Suðurnesjum. Utanríkisráðherra setu
 undanþágu frá þessu ákvæði þar sem aðstæður knýja ekki á um gerð aðalskipulags.
  Ráðherra getur einnig að tillögu Skipulagsstofnunar sett sveitarstjórn styttri
            frest en tíu ár ef aðstæður knýja á um gerð aðalskipulags.
-      3. Sveitarstjórn getur án þess að fyrir liggi staðfest aðalskipulag eða
-samþykkt deiliskipulag og að fengnum meðmælum Skipulagsstofnunar leyft einstakar
-framkvæmdir sem um kann að verða sótt og er unnt að binda slíkt leyfi tilteknum
-   skilyrðum. Heimilt er að vísa niðurstöðu Skipulagsstofnunar varðandi slíkt
-                    erindi til úrskurðarnefndar, sbr. 8. gr.
+         3. [Sveitarstjórn getur án þess að fyrir liggi staðfest aðal- eða
+        svæðisskipulag eða samþykkt deiliskipulag og að fengnum meðmælum
+ Skipulagsstofnunar leyft einstakar framkvæmdir sem um kann að verða sótt og er
+  unnt að binda slíkt leyfi tilteknum skilyrðum. Sveitarstjórn getur einnig án
+    þess að fyrir liggi staðfest aðal- eða svæðisskipulag auglýst tillögu að
+   deiliskipulagi að fengnum meðmælum Skipulagsstofnunar. Heimilt er að vísa
+ niðurstöðu Skipulagsstofnunar varðandi slíkt erindi til úrskurðarnefndar, sbr.
+                                   8. gr.]^2)
    4. Ef verulegar framkvæmdir eru fyrirhugaðar án þess að fyrir liggi staðfest
  aðalskipulag getur Skipulagsstofnun sett sveitarstjórn frest til að ganga frá
   tillögu að aðalskipulagi. Gangi sveitarstjórn ekki frá aðalskipulagstillögu
@@ -1150,7 +1197,7 @@ núgildandi lögum til að öðlast löggildingu skulu þeir eiga kost á að lj
   laganna skulu starfa áfram en um málsmeðferð fer samkvæmt þessum lögum.]^1)
     [9. Í fyrsta skipti skal samvinnunefnd miðhálendis skipuð, sbr. 2. mgr. 12.
   gr. a laganna, þegar eftir gildistöku laga þessara fram til næstu reglulegu
-                          sveitarstjórnarkosninga.]^2)
+                          sveitarstjórnarkosninga.]^3)
       [10. Þeir einstaklingar sem fengu útgefið eða áttu rétt á að fá útgefið
  meistarabréf fyrir 1. janúar 1989 og ekki hafa lokið meistaraskóla eiga rétt á
  löggildingu til að bera ábyrgð á verkframkvæmdum fyrir byggingarnefnd skv. 2.
@@ -1158,8 +1205,9 @@ mgr. 52. gr., enda hafi þeir sótt námskeið sem umhverfisráðuneytið stendu
    í samvinnu við prófnefnd skipulags- og byggingarmála og Samtök iðnaðarins.
  Heimilt er að taka gjald vegna kostnaðar við námskeiðahald. Gjöld skulu aldrei
 vera hærri en sem nemur rökstuddum kostnaði við veitta þjónustu. Ráðherra setur
- reglugerð^3) um nánari framkvæmd þessa ákvæðis en heimild þessi gildir til 1.
-                                   júlí 2001.
+ reglugerð^4) um nánari framkvæmd þessa ákvæðis en heimild þessi gildir til [1.
+ júlí 2002, en sækja skal um að fara á námskeið samkvæmt þessu ákvæði fyrir 1.
+                              september 2001].^2)
       11. Deiliskipulagsáætlanir og breytingar á þeim sem gerðar hafa verið á
   grundvelli aðalskipulags og samþykktar af sveitarstjórn fyrir 1. janúar 1998
  gilda án tillits til þess hvort þær hafa verið auglýstar, hlotið staðfestingu
@@ -1169,47 +1217,82 @@ reglugerðum settum samkvæmt þeim. Þegar sótt er um byggingarleyfi í götur
        deiliskipulag skal endurskoðun á deiliskipulagi fara fram áður en
   byggingarleyfisumsókn er afgreidd, enda sé um verulega framkvæmd að ræða. Að
                    öðru leyti fer um málsmeðferð skv. 26. gr.
-    12. Samþykktir sem reynslusveitarfélög hafa sett sér með heimild í [32]16.
+    12. Samþykktir sem reynslusveitarfélög hafa sett sér með heimild í [50]16.
    gr. laga um reynslusveitarfélög, nr. 82/1994, halda gildi sínu til 1. mars
-                                   2000.]^4)
-      ^1)[33]L. 135/1997, 13. gr. ^2)[34]L. 58/1999, 8. gr. ^3)Rg. 168/2000.
-                           ^4)[35]L. 117/1999, 2. gr.
+                                   2000.]^5)
+         [13. Þar sem ekki er fyrir hendi aðalskipulag er heimilt að gera
+deiliskipulag á grundvelli svæðisskipulags fyrir einstök svæði eða reiti þar sem
+     framkvæmdir eru fyrirhugaðar, ef í svæðisskipulagi er mörkuð stefna um
+                             viðkomandi málaflokka.
+    14. Á meðan ekki eru til samhæfðir staðlar og/eða tæknisamþykki til þess að
+ákvæði 2. mgr. 42. gr. verði virk skulu byggingarvörur á markaði hafa vottun eða
+umsögn um að þær uppfylli kröfur byggingarreglugerðar, standist staðla og falli
+ að verklagi og séríslenskum aðstæðum. Hliðsjón skal höfð af kröfum sem settar
+  eru fram í ákvörðunum framkvæmdastjórnar Evrópusambandsins varðandi hlutverk
+ framleiðanda og tilnefnds aðila við staðfestingu á samræmi við kröfur. Ef ekki
+liggja fyrir samþykktir frá framkvæmdastjórn Evrópusambandsins varðandi einstaka
+        vöruflokka skal höfð hliðsjón af ákvörðunum um hliðstæðar vörur.
+ Rannsóknastofnun byggingariðnaðarins, Brunamálastofnun eða aðrir þar til bærir
+aðilar sem umhverfisráðuneytið viðurkennir skulu gegna samsvarandi hlutverki og
+      tilnefndur aðili vegna ákvæða þessarar greinar. Þessir aðilar annast
+    staðfestingu á samræmi og gefa út vottorð eða umsögn þar að lútandi.]^2)
+   ^1)[51]L. 135/1997, 13. gr. ^2)[52]L. 170/2000, 19. gr. ^3)[53]L. 58/1999, 8.
+                gr. ^4)Rg. 168/2000. ^5)[54]L. 117/1999, 2. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997073
-   2. file://1993037.html
-   3. file:///altext/stjt/1997.135.html
-   4. file:///altext/stjt/1997.135.html
-   5. file:///altext/stjt/1999.058.html
-   6. file:///altext/stjt/1993.073.html
-   7. file:///altext/stjt/1999.058.html
+   2. file:///altext/stjt/2000.170.html
+   3. file:///altext/stjt/2000.170.html
+   4. file://1993037.html
+   5. file:///altext/stjt/1997.135.html
+   6. file:///altext/stjt/2000.170.html
+   7. file:///altext/stjt/1997.135.html
    8. file:///altext/stjt/1999.058.html
-   9. file:///altext/stjt/1999.058.html
-  10. file:///altext/stjt/1997.135.html
+   9. file:///altext/stjt/1993.073.html
+  10. file:///altext/stjt/1999.058.html
   11. file:///altext/stjt/1999.058.html
   12. file:///altext/stjt/1999.058.html
-  13. file:///altext/stjt/1997.135.html
-  14. file://1932022.html
-  15. file://1973011.html
+  13. file:///altext/stjt/2000.170.html
+  14. file:///altext/stjt/1997.135.html
+  15. file:///altext/stjt/1999.058.html
   16. file:///altext/stjt/1999.058.html
-  17. file:///altext/stjt/1997.135.html
+  17. file:///altext/stjt/2000.170.html
   18. file:///altext/stjt/1997.135.html
-  19. file:///altext/stjt/1999.117.html
-  20. file:///altext/stjt/1997.135.html
-  21. file:///altext/stjt/1997.135.html
-  22. file:///altext/stjt/2000.004.html
-  23. file:///altext/stjt/2000.004.html
+  19. file://1932022.html
+  20. file://1973011.html
+  21. file:///altext/stjt/2000.170.html
+  22. file:///altext/stjt/1999.058.html
+  23. file:///altext/stjt/2000.170.html
   24. file:///altext/stjt/1997.135.html
-  25. file:///altext/stjt/1997.135.html
+  25. file:///altext/stjt/2000.170.html
   26. file:///altext/stjt/1997.135.html
-  27. file:///altext/stjt/1997.135.html
-  28. file://1991019.html
-  29. file:///altext/stjt/1998.082.html
-  30. file://1954106.html
-  31. file://1951110.html
-  32. file://1994082.html#g16
+  27. file:///altext/stjt/1999.117.html
+  28. file:///altext/stjt/2000.170.html
+  29. file:///altext/stjt/1997.135.html
+  30. file:///altext/stjt/2000.170.html
+  31. file:///altext/stjt/2000.170.html
+  32. file:///altext/stjt/2000.170.html
   33. file:///altext/stjt/1997.135.html
-  34. file:///altext/stjt/1999.058.html
-  35. file:///altext/stjt/1999.117.html
+  34. file:///altext/stjt/2000.004.html
+  35. file:///altext/stjt/2000.170.html
+  36. file:///altext/stjt/2000.004.html
+  37. file:///altext/stjt/2000.170.html
+  38. file:///altext/stjt/2000.170.html
+  39. file:///altext/stjt/2000.170.html
+  40. file:///altext/stjt/2000.170.html
+  41. file:///altext/stjt/1997.135.html
+  42. file:///altext/stjt/2000.170.html
+  43. file:///altext/stjt/1997.135.html
+  44. file:///altext/stjt/1997.135.html
+  45. file:///altext/stjt/1997.135.html
+  46. file://1991019.html
+  47. file:///altext/stjt/1998.082.html
+  48. file://1954106.html
+  49. file://1951110.html
+  50. file:///altext/stjt/1994.082.html
+  51. file:///altext/stjt/1997.135.html
+  52. file:///altext/stjt/2000.170.html
+  53. file:///altext/stjt/1999.058.html
+  54. file:///altext/stjt/1999.117.html

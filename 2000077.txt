@@ -1,14 +1,11 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
-              Lög um persónuvernd og meðferð persónuupplýsinga^1)
+                Lög um persónuvernd og meðferð persónuupplýsinga
 
                               2000 nr. 77 23. maí
 
    --------------------------------------------------------------------------
-
-                 ^1)Lögin taka gildi 1. janúar 2001, sbr. 46. gr.
 
                 I. kafli. Markmið, skilgreiningar og gildissvið.
                                 1. gr. Markmið.
@@ -606,11 +603,11 @@ villandi, 33. gr. um leyfisskylda vinnslu, 34. gr. um forsendur leyfisveitingar,
 35. gr. um skilmála, 38. gr. um aðgang Persónuverndar að upplýsingum o.fl., 40.
 gr. um stöðvun vinnslu o.fl., 41. gr. um dagsektir, 42. gr. um refsingar og 43.
                                  gr. um bætur.
-Að fenginni umsögn Persónuverndar skal ráðherra í reglugerð mæla nánar fyrir um
-eftirlit Persónuverndar með rafrænni vinnslu persónuupplýsinga hjá lögreglu. Þar
-skal m.a. mælt fyrir um skyldu lögreglu til að tilkynna Persónuvernd um rafrænt
- unnar skrár sem hún heldur og efni slíkra tilkynninga. Þá skal mælt fyrir um í
-      hvaða tilvikum og með hvaða hætti hinn skráði á rétt til aðgangs að
+Að fenginni umsögn Persónuverndar skal ráðherra í reglugerð^1) mæla nánar fyrir
+um eftirlit Persónuverndar með rafrænni vinnslu persónuupplýsinga hjá lögreglu.
+  Þar skal m.a. mælt fyrir um skyldu lögreglu til að tilkynna Persónuvernd um
+  rafrænt unnar skrár sem hún heldur og efni slíkra tilkynninga. Þá skal mælt
+ fyrir um í hvaða tilvikum og með hvaða hætti hinn skráði á rétt til aðgangs að
  persónuupplýsingum sem skráðar hafa verið um hann hjá lögreglu, svo og heimild
    lögreglu til miðlunar upplýsinga í öðrum tilvikum. Loks skal mælt fyrir um
      öryggi persónuupplýsinga og innra eftirlit lögreglu með því að vinnslu
@@ -619,6 +616,7 @@ skal m.a. mælt fyrir um skyldu lögreglu til að tilkynna Persónuvernd um rafr
 Þá skal í reglugerð kveða nánar á um starfsemi þeirra sem nota nafnalista, vinna
 nafnáritanir, þar á meðal við markaðssetningarstarfsemi, og við gerð markaðs- og
                                 skoðanakannana.
+                                 ^1)Rg. 794/2000.
                               46. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 2001.
  Ákvæði til bráðabirgða. Þegar er lög þessi hafa verið birt skal ráðherra skipa

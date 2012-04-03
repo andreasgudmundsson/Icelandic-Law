@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -160,7 +159,7 @@ og skulu birtar opinberlega. Rafbréf í sama verðbréfaflokki verða aðeins s
                           sbr. þó ákvæði laga þessara.
   Verðbréfamiðstöð er heimilt að veita upplýsingar í hagtöluskyni að fenginni
                           heimild [Persónuverndar].^1)
-              ^1)[10]L. 77/2000, 46. gr. Öðlast gildi 1. janúar 2001.
+                            ^1)[10]L. 77/2000, 46. gr.
  15. gr. Seðlabanki Íslands tekur við innlánum frá reikningsstofnunum sem aðild
    eiga að verðbréfamiðstöð og annast efndalok viðskipta þeirra með rafbréf.
 [Seðlabanka Íslands er samkvæmt samningi við reikningsstofnun heimil veðtrygging
@@ -259,20 +258,22 @@ ekki lengur þýðingu eða um er að ræða réttindi sem eru 20 ára gömul e�
                                  ^1)Rg. 397/2000.
 
                           V. kafli. Reikningsyfirlit.
-24. gr. Á reikning í verðbréfamiðstöð skal eignarskrá rafbréf reikningseiganda.
+24. gr. [Á reikning í verðbréfamiðstöð skal eignarskrá rafbréf reikningseiganda.
   Á hvern reikning skal skrá reikningsstofnun eða reikningsstofnanir sem hafa
-   heimild til eignarskráningar á reikninginn. Verðbréfamiðstöð skal gefa út
-              reikningsyfirlit um þau réttindi sem þar eru skráð.
+   heimild til eignarskráningar á reikninginn. Reikningsstofnun er heimilt að
+  annast safnskráningu á reikning í samræmi við lög um verðbréfaviðskipti. Ef
+ reikningur er safnreikningur skal hann auðkenndur sem slíkur. Verðbréfamiðstöð
+      skal gefa út reikningsyfirlit um þau réttindi sem þar eru skráð.]^1)
  Reikningsyfirlit skulu gefin út með jöfnu millibili handa eigendum rafbréfa. Á
     reikningsyfirliti skal koma fram yfirlit yfir þau rafbréf sem viðkomandi
 reikningseigandi er skráður eigandi að við dagsetningu yfirlitsins. Samsvarandi
   yfirlit skulu gefin út til eiganda takmarkaðra eignarréttinda yfir rafbréfi.
 Reikningsstofnun er heimilt að senda skráðum rétthafa aukareikningsyfirlit, enda
                            hafi hann óskað eftir því.
- Í reglugerð,^1) sem ráðherra setur, skal setja nánari reglur um gerð reikninga
+ Í reglugerð,^2) sem ráðherra setur, skal setja nánari reglur um gerð reikninga
 og útgáfu reikningsyfirlita skv. 1. mgr., svo og hvaða atriði skulu koma fram á
                                   yfirlitinu.
-                                 ^1)Rg. 397/2000.
+                    ^1)[16]L. 164/2000, 3. gr. ^2)Rg. 397/2000.
 
                    VI. kafli. Úrskurðarnefnd og kærumeðferð.
  25. gr. Kæra vegna ágreinings sem kann að rísa í tilefni af eignarskráningu í
@@ -340,20 +341,20 @@ Samanlagður ábyrgðarsjóður verðbréfamiðstöðvar skal aldrei nema lægri
   sem það telur nauðsyn á vegna eftirlits samkvæmt lögum þessum. Um eftirlitið
        gilda, eftir því sem við getur átt, lög um [opinbert eftirlit með
               fjármálastarfsemi]^1) og lög um verðbréfaviðskipti.
-                            ^1)[16]L. 84/1998, 20. gr.
+                            ^1)[17]L. 84/1998, 20. gr.
  32. gr. Telji [Fjármálaeftirlitið]^1) reikningsstofnun hafa brotið ítrekað eða
  með alvarlegum hætti gegn ákvæðum laga þessara, laga um verðbréfaviðskipti eða
 reglum og reglugerðum settum samkvæmt þeim, eða að háttsemi reikningsstofnana sé
     að öðru leyti óeðlileg, óheilbrigð eða ótraust, er því heimilt að svipta
        hlutaðeigandi aðila rétti til eignarskráningar í verðbréfamiðstöð.
-                            ^1)[17]L. 84/1998, 20. gr.
+                            ^1)[18]L. 84/1998, 20. gr.
 [33. gr. Verðbréfamiðstöð er heimilt í aðildarsamningi, svo og reglum sem stjórn
  félagsins setur, að ákveða takmörkun eða lokun aðgangs að eignarskráningu þar
 vegna brota á aðildarsamningi eða reglum sem gilda um starfsemina. Telji stjórn
 verðbréfamiðstöðvar þess þörf getur hún í aðildarsamningi jafnframt kveðið á um
  refsiviðurlög í formi févítis standi reikningsstofnun ekki við skuldbindingar
       sínar samkvæmt aðildarsamningi, enda varði brot ekki við 34. gr.]^1)
-                             ^1)[18]L. 32/2000, 5. gr.
+                             ^1)[19]L. 32/2000, 5. gr.
 
                               IX. kafli. Viðurlög.
 [34. gr.]^1) Brot á lögum þessum varða sektum eða fangelsi allt að einu ári nema
@@ -362,18 +363,18 @@ verðbréfamiðstöðvar þess þörf getur hún í aðildarsamningi jafnframt k
            heimilt að gera lögaðila að sæta sviptingu starfsréttinda.
    Tilraun til og hlutdeild í brotum á lögum þessum eru refsiverðar samkvæmt
                             almennum hegningarlögum.
-                             ^1)[19]L. 32/2000, 5. gr.
+                             ^1)[20]L. 32/2000, 5. gr.
 
                   X. kafli. Ýmis réttaráhrif, gildistaka o.fl.
 [35. gr.]^1) Sé rafbréf gefið út og skráð samkvæmt lögum þessum sem víxill skal
      fylgja þeim lagareglum sem um víxla gilda eftir því sem við getur átt.
-                             ^1)[20]L. 32/2000, 5. gr.
+                             ^1)[21]L. 32/2000, 5. gr.
     [36. gr.]^1) Hafi verðbréf verið tekin til rafrænnar eignarskráningar í
  verðbréfamiðstöð ganga ákvæði laga þessara framar ákvæðum sérlaga um útgáfu og
                              form slíkra verðbréfa.
-                             ^1)[21]L. 32/2000, 5. gr.
-            [37. gr.]^1) Lög þessi öðlast gildi hinn 1. janúar 1998.
                              ^1)[22]L. 32/2000, 5. gr.
+            [37. gr.]^1) Lög þessi öðlast gildi hinn 1. janúar 1998.
+                             ^1)[23]L. 32/2000, 5. gr.
 
                             Ákvæði til bráðabirgða.
 I. Þegar verðbréfamiðstöð samkvæmt lögum þessum hefur starfsemi sína skal stefna
@@ -396,7 +397,7 @@ að því að gefa útgefanda og eiganda kost á því að eignarskrá með rafr
     ákvæði I til bráðabirgða. [Að uppfylltum skilyrðum um innköllun samkvæmt
 reglugerð og að lokinni yfirfærslu og eignarskráningu í verðbréfamiðstöð eru hin
                         áþreifanlegu verðbréf ógild.]^2)
-                    ^1)Rg. 397/2000. ^2)[23]L. 32/2000, 6. gr.
+                    ^1)Rg. 397/2000. ^2)[24]L. 32/2000, 6. gr.
 
 References
 
@@ -416,11 +417,12 @@ References
   13. file:///altext/stjt/2000.032.html
   14. file:///altext/stjt/2000.032.html
   15. file:///altext/stjt/1998.084.html
-  16. file:///altext/stjt/1998.084.html
+  16. file:///altext/stjt/2000.164.html
   17. file:///altext/stjt/1998.084.html
-  18. file:///altext/stjt/2000.032.html
+  18. file:///altext/stjt/1998.084.html
   19. file:///altext/stjt/2000.032.html
   20. file:///altext/stjt/2000.032.html
   21. file:///altext/stjt/2000.032.html
   22. file:///altext/stjt/2000.032.html
   23. file:///altext/stjt/2000.032.html
+  24. file:///altext/stjt/2000.032.html

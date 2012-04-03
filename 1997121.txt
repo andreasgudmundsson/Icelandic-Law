@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -68,10 +67,10 @@ Eigi sjaldnar en árlega skal endurmeta áhættu og afskriftaþörf Ríkisábyrg
  tilkomin vegna eignaraðildar ríkissjóðs eða annars, skulu greiða ábyrgðargjald
 af þeim skuldbindingum sínum sem ríkisábyrgð er á. Almennar viðskiptaskuldir og
       eftirlauna- og lífeyrisskuldbindingar skulu þó undanþegnar gjaldinu.
-      Ábyrgðargjald skv. 1. mgr. nemur 0,0625% á ársfjórðungi af höfuðstól
-   gjaldskyldra erlendra skuldbindinga og 0,0375% á ársfjórðungi af höfuðstól
-   gjaldskyldra innlendra skuldbindinga eins og hann er að meðaltali á hverju
-             gjaldtímabili, sbr. 8. gr. Gjaldið rennur í ríkissjóð.
+     [Ábyrgðargjald skv. 1. mgr. nemur 0,0625% á ársfjórðungi af höfuðstól
+gjaldskyldra skuldbindinga eins og hann er að meðaltali á hverju gjaldtímabili,
+                  sbr. 8. gr. Gjaldið rennur í ríkissjóð.]^1)
+                             ^1)[3]L. 180/2000, 1. gr.
  7. gr. [Lán sem áhættugjald skv. 4. gr. hefur verið greitt af, skuldbindingar
   vegna innstæðna á innlánsreikningum í innlánsstofnunum, skuldbindingar vegna
    útflutningsábyrgða með ríkisábyrgð, Seðlabanki Íslands, Íbúðalánasjóður og
@@ -81,7 +80,7 @@ af þeim skuldbindingum sínum sem ríkisábyrgð er á. Almennar viðskiptaskul
    ríkissjóðs, skal reikna í sama hlutfalli og eignaraðild ríkissjóðs nemur.
      Eignaraðild ríkissjóðs í félögum og fyrirtækjum þar sem ábyrgð eigenda
   takmarkast við framlag þeirra, t.d. í hlutafélögum, veldur ekki gjaldskyldu.
-                             ^1)[3]L. 70/2000, 1. gr.
+                             ^1)[4]L. 70/2000, 1. gr.
 8. gr. Ríkisábyrgðasjóður annast útreikning, álagningu og innheimtu áhættugjalds
        skv. 4. gr. og ábyrgðargjalds skv. 6. gr. Ábyrgðarþegi skal veita
    Ríkisábyrgðasjóði allar þær upplýsingar sem hann telur nauðsynlegar í því
@@ -94,7 +93,7 @@ af þeim skuldbindingum sínum sem ríkisábyrgð er á. Almennar viðskiptaskul
     Ábyrgðargjaldi skv. 6. og 7. gr. skal skila, ásamt skýrslu skv. 2. mgr.,
 ársfjórðungslega eftir á. Gjalddagi vegna hvers ársfjórðungs er 15. dagur næsta
  mánaðar eftir að gjaldtímabili lýkur. Sé ábyrgðargjald ekki greitt á gjalddaga
- skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er skv. [4]10. gr.
+ skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er skv. [5]10. gr.
                     laga nr. 25/1987, með síðari breytingum.
  9. gr. Fjármálaráðherra skal með reglugerð^1) setja nánari ákvæði um framkvæmd
                                  laga þessara.
@@ -111,5 +110,6 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997121
    2. file://1990043.html
-   3. file:///altext/stjt/2000.070.html
-   4. file://1987025.html#g10
+   3. file:///altext/stjt/2000.180.html
+   4. file:///altext/stjt/2000.070.html
+   5. file://1987025.html#g10

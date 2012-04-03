@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -94,7 +93,7 @@ eldri borgara á svæðinu tilnefna einn fulltrúa úr sínum röðum og tveir f
                              opinberra framkvæmda.
 10. gr. Framkvæmdasjóður aldraðra fær tekjur af sérstöku gjaldi sem skattstjórar
 leggja á þá sem skattskyldir eru skv. [2]1. gr. laga nr. 75/1981, um tekjuskatt
-   og eignarskatt. Skal gjaldið nema 4.065 kr. á hvern gjaldanda og kemur til
+og eignarskatt. Skal gjaldið nema [4.578 kr.]^1) á hvern gjaldanda og kemur til
                 endurskoðunar við afgreiðslu fjárlaga ár hvert.
 Undanþegin gjaldinu eru börn innan 16 ára aldurs og þeir sem eru 70 ára og eldri
  í lok tekjuárs. Einnig eru þeir undanþegnir gjaldinu sem hafa tekjuskattsstofn
@@ -115,6 +114,7 @@ eftir því sem við á. Í stað tíu gjalddaga skal þó gjalddagi vera einn, 
                      er til kunna að falla og vaxtatekjur.
   Í miðmánuði hvers ársfjórðungs skal fjármálaráðuneytið skila Framkvæmdasjóði
                   aldraðra fjórðungi tekna sjóðsins á því ári.
+                             ^1)[6]L. 172/2000, 1. gr.
     11. gr. Framkvæmdasjóður aldraðra skal vera í vörslu Tryggingastofnunar
   ríkisins. Samstarfsnefnd um málefni aldraðra annast stjórn sjóðsins, sbr. 3.
   tölul. 5. gr. Þegar nefndin fjallar um málefni Framkvæmdasjóðs aldraðra skal
@@ -237,14 +237,16 @@ Umsókn um rekstrarleyfi skal fylgja greinargerð um eigendur stofnunar og fjár
    21. gr. Dvalarkostnaður á stofnunum fyrir aldraða skv. 14. gr. greiðist af
                    Tryggingastofnun ríkisins, sbr. þó 22. gr.
  Með dvalarkostnaði á stofnun fyrir aldraða er átt við daggjald eins og það er
-   ákveðið af heilbrigðis- og tryggingamálaráðherra, sbr. [6]39. gr. laga nr.
+   ákveðið af heilbrigðis- og tryggingamálaráðherra, sbr. [7]39. gr. laga nr.
                         117/1993, um almannatryggingar.
 22. gr. Vistmenn, sem hafa tekjur umfram 30.386 kr. á mánuði, skulu taka þátt í
         greiðslu dvalarkostnaðar á stofnunum fyrir aldraða, sbr. 14. gr.
   Með tekjum sínum, sem eru umfram 30.386 kr. á mánuði, skal vistmaður greiða
                   dvalarkostnað sinn að hluta eða öllu leyti.
-    Setja skal reglugerð með nánari ákvæðum um þátttöku vistmanna í greiðslu
+  Setja skal reglugerð^1) með nánari ákvæðum um þátttöku vistmanna í greiðslu
                 dvalarkostnaðar, m.a. um hækkun viðmiðunartekna.
+     ^1)Rg. 47/1990, sbr. 291/1990, 322/1991, 236/1993, 561/1997, 570/1998 og
+                                   631/2000.
  23. gr. Vistmaður á stofnun fyrir aldraða, sbr. 14. gr., sem ekki hefur aðrar
     tekjur en bætur almannatrygginga, fær ráðstöfunarfé frá Tryggingastofnun
                     ríkisins, sbr. lög um almannatryggingar.
@@ -258,10 +260,12 @@ Umsókn um rekstrarleyfi skal fylgja greinargerð um eigendur stofnunar og fjár
                             VI. kafli. Ýmis ákvæði.
  25. gr. Þær stofnanir fyrir aldraða, sem starfandi eru við gildistöku þessara
                   laga, skulu í hvívetna háðar ákvæðum þeirra.
-26. gr. Heilbrigðis- og tryggingamálaráðherra setur með reglugerð nánari ákvæði
-  um framkvæmd laga þessara, m.a. um húsnæði, búnað stofnana fyrir aldraða og
- aðbúnað og þjónustu fyrir vistmenn, svo og starfsfólk stofnana eftir starfsemi
-                                    þeirra.
+  26. gr. Heilbrigðis- og tryggingamálaráðherra setur með reglugerð^1) nánari
+ákvæði um framkvæmd laga þessara, m.a. um húsnæði, búnað stofnana fyrir aldraða
+    og aðbúnað og þjónustu fyrir vistmenn, svo og starfsfólk stofnana eftir
+                               starfsemi þeirra.
+   ^1)Rg. 47/1990 (um stofnanaþjónustu fyrir aldraða), sbr. 291/1990, 322/1991,
+                   236/1993, 561/1997, 570/1998 og 631/2000.
                      27. gr. Lög þessi öðlast þegar gildi.
 
 References
@@ -272,4 +276,5 @@ References
    3. file://1981075.html#g68
    4. file://1987045.html#g9
    5. file://1981075.html
-   6. file://1993117.html#g39
+   6. file:///altext/stjt/2000.172.html
+   7. file://1993117.html#g39

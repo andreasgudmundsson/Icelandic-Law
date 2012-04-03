@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -37,8 +36,7 @@ frá lífeyrissjóði, greiðslur frá sjúkrasjóði],^1) dagpeninga og aðrar 
                    frá fjárhæðum þeim sem greinir í 1. málsl.
 [Um greiðslur frá þriðja manni fer eftir ákvæðum 1., 3., 4. og 5. málsl. 4. mgr.
                                    5. gr.]^2)
-   ^1)[3]L. 37/1999, 2. gr. ^2)[4]L. 111/2000, 24. gr. Breytingin tekur gildi 1.
-                                  janúar 2001.
+                ^1)[3]L. 37/1999, 2. gr. ^2)[4]L. 111/2000, 24. gr.
                                Varanlegur miski.
 4. gr. [Þegar fjárhæð bóta fyrir varanlegan miska er ákveðin skal litið til þess
      hvers eðlis og hversu miklar afleiðingar tjóns eru frá læknisfræðilegu
@@ -86,8 +84,7 @@ dragast frá skaðabótakröfu hans á hendur vinnuveitanda þeim sem slysatrygg
  miðað við 4,5% ársafvöxtun. Aðrar greiðslur sem tjónþoli fær frá þriðja manni
 vegna líkamstjóns, svo sem lífeyrissjóði eða vátryggingafélagi, dragast ekki frá
                               skaðabótakröfu.]^1)
-   ^1)[6]L. 37/1999, 4. gr. ^2)[7]L. 111/2000, 24. gr. Breytingin tekur gildi 1.
-                                  janúar 2001.
+                ^1)[6]L. 37/1999, 4. gr. ^2)[7]L. 111/2000, 24. gr.
    6. gr. [Bætur fyrir varanlega örorku skal meta til fjárhæðar á grundvelli
   örorkustigs tjónþola skv. 5. gr., árslauna hans skv. 7. gr. og eftirfarandi
 töflu, þannig að margfölduð séu saman örorkustig, árslaun og stuðull töflunnar í
@@ -107,6 +104,7 @@ Aldur        Stuðull        Aldur        Stuðull       Aldur       Stuðull
 9           14,537          34          11,915          59         5,329
 10          14,929          35          11,678          60         4,960
 11          15,332          36          11,433          61         4,581
+
 12          15,746          37          11,180          62         4,211
 13          16,171          38          10,988          63         3,841
 14          16,608          39          10,784          64         3,451

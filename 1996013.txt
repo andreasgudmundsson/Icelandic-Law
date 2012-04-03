@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -12,8 +11,9 @@
  1. gr. Lög þessi taka til verðbréfaviðskipta, eins og þau eru skilgreind í 2.
     gr., sem stunduð eru af fyrirtækjum í verðbréfaþjónustu sem hlotið hafa
                          starfsleyfi viðskiptaráðherra.
- [Lög þessi, að undanskildum ákvæðum IV. kafla um meðferð trúnaðarupplýsinga og
-     V. kafla um samningsbundið uppgjör afleiðusamninga, taka ekki til]:^1)
+  [Lög þessi, að undanskildum ákvæðum V. kafla um meðferð trúnaðarupplýsinga,
+ viðskipti innherja og markaðsmisnotkun og VI. kafla um samningsbundið uppgjör
+                      afleiðusamninga, taka ekki til]:^1)
       1. Vátryggingafélaga eða fyrirtækja sem annast endurtryggingarstarfsemi
                                 samkvæmt lögum.
    2. Lögaðila sem veita aðeins þjónustu sem lög þessi taka til fyrir móðurfélög
@@ -61,7 +61,7 @@ mörkuðum og sem uppgjörsaðilar á sömu mörkuðum ábyrgjast. Uppgjörsaði
  mörkuðum verða að ábyrgjast að staðið sé við samninga sem slík fyrirtæki gera.
        10. Ráðgjafar um uppbyggingu eigin fjár, stefnumótun og skyld mál og
        ráðgjafar og þjónustu varðandi samruna fyrirtækja og kaup á þeim.
-                             ^1)[2]L. 99/2000, 1. gr.
+                             ^1)[2]L. 163/2000, 1. gr.
                          2. gr. Í lögum þessum merkir:
        1. Verðbréfaviðskipti: Starfsemi skv. 8. og 9. gr. sem stunduð er af
 fyrirtækjum í verðbréfaþjónustu sem til þess hafa starfsleyfi viðskiptaráðherra.
@@ -79,17 +79,49 @@ hennar, svo og framseljanleg skilríki fyrir eignarréttindum að öðru en fast
                          eða einstökum lausafjármunum.
    b. Skilyrt skilríki til peningagreiðslu á grundvelli tiltekins verðbréfs eða
                              verðbréfa skv. a-lið.
-   4. [Almennt útboð: Sala samkynja verðbréfa sem boðin eru almenningi til kaups
-í fyrsta sinn með almennri og opinberri auglýsingu eða kynningu með öðrum hætti
-                  sem jafna má til opinberrar auglýsingar.]^1)
-    5. Fastur rekstrarkostnaður: Rekstrargjöld að frátöldum fjármagnsgjöldum og
-                              óreglulegum gjöldum.
-    6. Fjárvarsla: Þjónusta, veitt samkvæmt sérstökum samningi gegn endurgjaldi
- sem felur í sér að taka við fjármunum til fjárfestingar í verðbréfum eða öðrum
-                 verðmætum fyrir eigin reikning viðskiptamanns.
-   7. Gistiríki: Ríki innan Evrópska efnahagssvæðisins þar sem innlent fyrirtæki
-           í verðbréfaþjónustu starfrækir útibú eða veitir þjónustu.
-                                   8. Heimaríki:
+   [4. Trúnaðarupplýsingar: Upplýsingar um útgefanda verðbréfa, verðbréfin sjálf
+  eða önnur atriði sem ekki hafa verið gerð opinber en eru líkleg til að hafa
+áhrif á markaðsverð verðbréfanna ef opinber væru. Upplýsingar teljast opinberar
+      þegar þeim hefur verið miðlað á verðbréfamarkaðinum með opinberum og
+  viðurkenndum hætti. Tilkynningar til kauphalla og skipulegra tilboðsmarkaða
+  teljast opinberar þegar þeim hefur verið miðlað þaðan, sbr. lög um starfsemi
+                    kauphalla og skipulegra tilboðsmarkaða.
+                                   5. Innherjar:
+                                 a. Fruminnherjar:
+    Aðilar sem búa yfir eða hafa að jafnaði aðgang að trúnaðarupplýsingum vegna
+eignaraðildar, aðildar að stjórn, rekstri eða eftirliti eða vegna annarra starfa
+á vegum útgefanda verðbréfa sem skráð hafa verið eða óskað hefur verið eftir að
+    verði skráð í kauphöll eða á skipulegum tilboðsmarkaði sem fengið hefur
+                            starfsleyfi hér á landi.
+       Einstaklingar eða lögaðilar sem eiga beinan eða óbeinan eignarhlut í
+útgefanda verðbréfa, sem skráð hafa verið eða óskað hefur verið eftir skráningu
+á í kauphöll eða á skipulegum tilboðsmarkaði sem fengið hefur starfsleyfi hér á
+       landi, og eiga fulltrúa í stjórn viðkomandi útgefanda á grundvelli
+                                eignarhlutarins.
+                                b. Aðrir innherjar:
+     Aðili sem ekki telst fruminnherji skv. a-lið en hefur vegna starfs síns,
+          stöðu eða skyldna tímabundinn aðgang að trúnaðarupplýsingum.
+     Aðili sem ekki telst fruminnherji skv. a-lið en hefur fengið vitneskju um
+   trúnaðarupplýsingar, enda hafi viðkomandi vitað eða mátt vita hvers eðlis
+                              upplýsingarnar voru.
+   6. Viðskiptalota: Fjöldi verðbréfa í sama flokki, eða lágmarksmarkaðsverðmæti
+sem þarf til þess að geta átt samfelld viðskipti í viðskiptakerfi kauphallar eða
+ skipulegs tilboðsmarkaðar, samkvæmt reglum sem stjórn kauphallar eða skipulegs
+                           tilboðsmarkaðar setur.]^1)
+   [7. Safnskráning: Þjónusta verðbréfafyrirtækis sem felur í sér að fyrirtækinu
+   er heimilt að halda utan um eignir viðskiptamanna sinna á eigin reikningi
+   (safnreikningi) og taka við greiðslum fyrir hönd viðskiptamanna sinna frá
+                      einstökum útgefendum verðbréfa.]^2)
+   [8.] ^2) [Almennt útboð: Sala verðbréfa í sama verðbréfaflokki sem boðin eru
+           almenningi til kaups með kynningu eða með öðrum hætti.]^1)
+           [9.] ^2) Fastur rekstrarkostnaður: Rekstrargjöld að frátöldum
+                    fjármagnsgjöldum og óreglulegum gjöldum.
+      [10.] ^2) Fjárvarsla: Þjónusta, veitt samkvæmt sérstökum samningi gegn
+endurgjaldi sem felur í sér að taka við fjármunum til fjárfestingar í verðbréfum
+            eða öðrum verðmætum fyrir eigin reikning viðskiptamanns.
+    [11.] ^2) Gistiríki: Ríki innan Evrópska efnahagssvæðisins þar sem innlent
+      fyrirtæki í verðbréfaþjónustu starfrækir útibú eða veitir þjónustu.
+                               [12.] ^2) Heimaríki:
    a. Ríki innan Evrópska efnahagssvæðisins þar sem lögaðili, sem hefur heimild
 til að stunda verðbréfaviðskipti hér á landi, hefur skráða skrifstofu eða, hafi
 hann enga skráða skrifstofu í samræmi við eigin landslög, það ríki þar sem hann
@@ -97,27 +129,27 @@ hann enga skráða skrifstofu í samræmi við eigin landslög, það ríki þar
    b. Ríki innan Evrópska efnahagssvæðisins þar sem skipulegur verðbréfamarkaður
  hefur skráða skrifstofu eða, hafi markaðurinn enga skráða skrifstofu í samræmi
         við eigin landslög, það ríki þar sem hann hefur aðalskrifstofu.
-    9. Náin tengsl: Innbyrðis tengsl tveggja eða fleiri lögaðila sem fela í sér
- beina eða óbeina hlutdeild þessara aðila sem nemur a.m.k. 20% af eigin fé eða
-   atkvæðisrétti fyrirtækis. Einnig er um náin tengsl að ræða ef fyrrgreindir
+   [13.] ^2) Náin tengsl: Innbyrðis tengsl tveggja eða fleiri lögaðila sem fela
+í sér beina eða óbeina hlutdeild þessara aðila sem nemur a.m.k. 20% af eigin fé
+ eða atkvæðisrétti fyrirtækis. Einnig er um náin tengsl að ræða ef fyrrgreindir
   aðilar, eða dótturfélög þeirra, hafa vegna samninga yfirráð í fyrirtæki eða
    sambærileg innbyrðis tengsl eins eða fleiri lögaðila eða einstaklinga við
                                    fyrirtæki.
-                         10. Skipulegur verðbréfamarkaður:
+                      [14.] ^2) Skipulegur verðbréfamarkaður:
         a. [Kauphöll sem hlotið hefur starfsleyfi hér á landi og hliðstæðar
-                kauphallir innan Evrópska efnahagssvæðisins.]^2)
+                kauphallir innan Evrópska efnahagssvæðisins.]^3)
    b. Aðrir verðbréfamarkaðir innan Evrópska efnahagssvæðisins þar sem verðbréf
    ganga kaupum og sölum og sem eru opnir almenningi, starfa reglulega og eru
-     viðurkenndir með þeim hætti sem [Fjármálaeftirlitið]^3) metur gildan.
+     viðurkenndir með þeim hætti sem [Fjármálaeftirlitið]^4) metur gildan.
       c. Markaðir skv. a- og b-lið sem staðsettir eru í ríkjum utan Evrópska
-efnahagssvæðisins og eru viðurkenndir með þeim hætti sem [Fjármálaeftirlitið]^3)
+efnahagssvæðisins og eru viðurkenndir með þeim hætti sem [Fjármálaeftirlitið]^4)
                                  metur gildan.
-   11. Sölutrygging: Samningur milli fyrirtækis í verðbréfaþjónustu skv. 8. gr.
- og útgefanda eða eiganda verðbréfa þar sem fyrirtækið skuldbindur sig til þess
-  að kaupa ákveðinn hluta eða öll verðbréf í tilteknu útboði innan fyrir fram
+    [15.] ^2) Sölutrygging: Samningur milli fyrirtækis í verðbréfaþjónustu skv.
+8. gr. og útgefanda eða eiganda verðbréfa þar sem fyrirtækið skuldbindur sig til
+þess að kaupa ákveðinn hluta eða öll verðbréf í tilteknu útboði innan fyrir fram
                ákveðinna tímamarka og á fyrir fram ákveðnu verði.
-    12. Veltubók: Verðbréf sem fyrirtæki í verðbréfaþjónustu hefur eignast eða
-       heldur eftir með endursölu í huga og/eða í því skyni að hagnast á
+   [16.] ^2) Veltubók: Verðbréf sem fyrirtæki í verðbréfaþjónustu hefur eignast
+     eða heldur eftir með endursölu í huga og/eða í því skyni að hagnast á
      skammtímabreytingum á markaðsvirði þessara skjala eða öðrum verð- eða
  vaxtabreytingum. Jafnframt teljast til veltubókar stöður í fjármálaskjölum sem
  verða til við samtímis skipti á höfuðstólsfjárhæðum, svo og fjármálasamningar
@@ -127,42 +159,45 @@ efnahagssvæðisins og eru viðurkenndir með þeim hætti sem [Fjármálaeftirl
 innan og utan verðbréfamarkaðar, svo og áhættuþættir er tengjast skuldbindingum
    fyrirtækis í verðbréfaþjónustu sem myndast vegna viðskipta með verðbréf í
                                    veltubók.
-    13. Verðbréfafyrirtæki: Fyrirtæki í verðbréfaþjónustu skv. a-lið 2. tölul.
-      14. Verðbréfamiðlun: Fyrirtæki í verðbréfaþjónustu skv. b-lið 2. tölul.
-   15. Viðskiptavaki: Fyrirtæki í verðbréfaþjónustu skv. 8. gr. eða annar aðili
-sem til þess hefur heimild samkvæmt lögum og hefur skuldbundið sig formlega til
-að kaupa og selja fyrir eigin reikning tiltekin verðbréf, í því skyni að greiða
- fyrir því að markaðsverð skapist á verðbréfunum, og tilkynnt það opinberlega.
-       16. Virkur eignarhluti: Bein eða óbein eignarhlutdeild í fyrirtæki í
+     [17.] ^2) Verðbréfafyrirtæki: Fyrirtæki í verðbréfaþjónustu skv. a-lið 2.
+                                     tölul.
+   [18.] ^2) Verðbréfamiðlun: Fyrirtæki í verðbréfaþjónustu skv. b-lið 2. tölul.
+   [19.] ^2) Viðskiptavaki: Fyrirtæki í verðbréfaþjónustu skv. 8. gr. eða annar
+    aðili sem til þess hefur heimild samkvæmt lögum og hefur skuldbundið sig
+  formlega til að kaupa og selja fyrir eigin reikning tiltekin verðbréf, í því
+skyni að greiða fyrir því að markaðsverð skapist á verðbréfunum, og tilkynnt það
+                                  opinberlega.
+    [20.] ^2) Virkur eignarhluti: Bein eða óbein eignarhlutdeild í fyrirtæki í
 verðbréfaþjónustu sem nemur 10% eða meira af eigin fé þess eða atkvæðisrétti eða
 önnur hlutdeild sem gerir það kleift að hafa veruleg áhrif á stjórnun fyrirtækis
                            sem eignarhlutdeild er í.
-    [17. Afleiðusamningur: Samningur þar sem uppgjörsákvæði byggist á breytingu
-       einhvers þáttar, svo sem vaxta, gengis gjaldmiðla, verðbréfaverðs,
+      [[21.] ^2) Afleiðusamningur: Samningur þar sem uppgjörsákvæði byggist á
+  breytingu einhvers þáttar, svo sem vaxta, gengis gjaldmiðla, verðbréfaverðs,
   verðbréfavísitölu eða hrávöruverðs. Andvirði slíks samnings er háð breytingu
                   þessara viðmiðunarþátta á tilteknu tímabili.
-   18. Framvirkur vaxtasamningur: Afleiðusamningur sem kveður á um vaxtaviðmiðun
- á ákveðnu tímabili og reiknast vextir af fyrir fram ákveðinni grunnfjárhæð sem
-   ekki kemur til greiðslu. Samningurinn er gerður upp á fyrir fram ákveðnum
-                                 uppgjörsdegi.
-     19. Valréttarsamningur: Afleiðusamningur sem veitir öðrum samningsaðila,
- kaupanda, rétt en ekki skyldu til að kaupa (kaupréttur) eða selja (söluréttur)
- tiltekna eign (andlag samnings) á fyrir fram ákveðnu verði (valréttargengi) á
- tilteknu tímamarki eða innan tiltekins tíma. Sem endurgjald fyrir þennan rétt
-     fær hinn samningsaðilinn, útgefandinn, ákveðið gjald sem segir til um
-              markaðsvirði valréttarins við upphaf samningstímans.
-         20. Framvirkur samningur: Afleiðusamningur sem kveður á um skyldu
+       [22.] ^2) Framvirkur vaxtasamningur: Afleiðusamningur sem kveður á um
+  vaxtaviðmiðun á ákveðnu tímabili og reiknast vextir af fyrir fram ákveðinni
+  grunnfjárhæð sem ekki kemur til greiðslu. Samningurinn er gerður upp á fyrir
+                          fram ákveðnum uppgjörsdegi.
+          [23.] ^2) Valréttarsamningur: Afleiðusamningur sem veitir öðrum
+samningsaðila, kaupanda, rétt en ekki skyldu til að kaupa (kaupréttur) eða selja
+    (söluréttur) tiltekna eign (andlag samnings) á fyrir fram ákveðnu verði
+ (valréttargengi) á tilteknu tímamarki eða innan tiltekins tíma. Sem endurgjald
+fyrir þennan rétt fær hinn samningsaðilinn, útgefandinn, ákveðið gjald sem segir
+          til um markaðsvirði valréttarins við upphaf samningstímans.
+      [24.] ^2) Framvirkur samningur: Afleiðusamningur sem kveður á um skyldu
  samningsaðila til að kaupa eða selja tiltekna eign fyrir ákveðið verð á fyrir
                               fram ákveðnum tíma.
-   21. Vaxta- og gjaldmiðlaskiptasamningur: Afleiðusamningur sem kveður á um að
- samningsaðilar greiði vexti hvor til annars af tiltekinni viðmiðunarfjárhæð í
-   sama gjaldmiðli eða greiði vexti og höfuðstól hvor til annars hvor í sínum
-                         gjaldmiðli á samningstímanum.
-     22. Samningsbundið uppgjör afleiðusamninga: Samningur á milli tveggja eða
- fleiri aðila sem eiga kröfu hver á annan um að í stað þess að gera upp hverja
- kröfu fyrir sig sérstaklega skuli láta kröfurnar jafnast hverja á móti annarri
-          og aðeins mismunurinn (jaðargreiðsla) komi til greiðslu.]^1)
-    ^1)[3]L. 99/2000, 2. gr. ^2)[4]L. 35/1998, 1. gr. ^3)[5]L. 84/1998, 1. gr.
+   [25.] ^2) Vaxta- og gjaldmiðlaskiptasamningur: Afleiðusamningur sem kveður á
+        um að samningsaðilar greiði vexti hvor til annars af tiltekinni
+   viðmiðunarfjárhæð í sama gjaldmiðli eða greiði vexti og höfuðstól hvor til
+               annars hvor í sínum gjaldmiðli á samningstímanum.
+    [26.] ^2) Samningsbundið uppgjör afleiðusamninga: Samningur á milli tveggja
+   eða fleiri aðila sem eiga kröfu hver á annan um að í stað þess að gera upp
+ hverja kröfu fyrir sig sérstaklega skuli láta kröfurnar jafnast hverja á móti
+      annarri og aðeins mismunurinn (jaðargreiðsla) komi til greiðslu.]^5)
+   ^1)[3]L. 163/2000, 2. gr. ^2)[4]L. 164/2000, 1. gr. ^3)[5]L. 35/1998, 1. gr.
+               ^4)[6]L. 84/1998, 1. gr. ^5)[7]L. 99/2000, 2. gr.
 
                     II. kafli. Leyfi til verðbréfaviðskipta.
 3. gr. Fyrirtækjum í verðbréfaþjónustu er óheimilt að hefja starfsemi, nema þau
@@ -197,16 +232,17 @@ eins og það er skráð hverju sinni. Fyrirtæki í verðbréfaþjónustu er ó
                      endurskoðanda eða endurskoðunarstofu.
     6. [Verðbréfamiðlun skv. 9. gr. setji tryggingu fyrir tjóni sem hún kann að
 baka viðskiptavinum sínum í starfsemi sinni. Nánari ákvæði um fjárhæð tryggingar
-        og lágmarksskilmála að öðru leyti skulu sett með reglugerð.]^2)
+       og lágmarksskilmála að öðru leyti skulu sett með reglugerð.^3)]^2)
  Jafnframt þeim skilyrðum sem fram koma í 1. mgr. er ráðherra heimilt að synja
   umsókn um starfsleyfi ef stjórnarmaður eða framkvæmdastjóri hafa sýnt af sér
    háttsemi sem gefur tilefni til að ætla að þeir misnoti aðstöðu sína eða ef
    eignarhlutur hluthafa í fyrirtæki í verðbréfaþjónustu, sbr. 12. gr., telst
          ósamrýmanlegur rekstri fyrirtækisins. Sama á við ef það er mat
-  [Fjármálaeftirlitsins]^3) að náin tengsl fyrirtækis í verðbréfaþjónustu við
+  [Fjármálaeftirlitsins]^4) að náin tengsl fyrirtækis í verðbréfaþjónustu við
 einstaklinga eða lögaðila geti hindrað það í eðlilegum eftirlitsaðgerðum, sem og
       ef lög eða reglur, sem um þá aðila gilda, hindra eðlilegt eftirlit.
-    ^1)[6]L. 94/1998, 1. gr. ^2)[7]L. 99/2000, 3. gr. ^3)[8]L. 84/1998, 1. gr.
+   ^1)[8]L. 94/1998, 1. gr. ^2)[9]L. 99/2000, 3. gr. ^3)Rg. 508/2000. ^4)[10]L.
+                                84/1998, 1. gr.
       4. gr. Umsókn um starfsleyfi skal vera skrifleg. Henni skulu fylgja:
                            1. Samþykktir fyrirtækisins.
      2. Starfsáætlun þar sem m.a. komi fram upplýsingar um eðli fyrirhugaðrar
@@ -224,7 +260,7 @@ dótturfyrirtæki annars slíks fyrirtækis eða lánastofnunar sem hefur leyfi 
                               hlutaðeigandi ríki.
 Óheimilt er að veita starfsleyfi sem eingöngu tekur til þjónustu skv. 2. tölul.
                                      8. gr.
-                             ^1)[9]L. 84/1998, 1. gr.
+                             ^1)[11]L. 84/1998, 1. gr.
    5. gr. Ákvörðun ráðherra um umsókn um starfsleyfi skal tilkynna umsækjanda
    skriflega svo fljótt sem unnt er og eigi síðar en þremur mánuðum eftir að
                         fullbúin umsókn barst ráðherra.
@@ -242,7 +278,8 @@ dótturfyrirtæki annars slíks fyrirtækis eða lánastofnunar sem hefur leyfi 
    7. gr. Fyrirtækjum í verðbréfaþjónustu er skylt og einum heimilt, nema lög
  ákveði annað, að nota í firma sínu eða til nánari skýringar á starfsemi sinni
   orðin verðbréfafyrirtæki eða verðbréfamiðlun ein sér eða samtengd öðrum
-                             orðum, sbr. þó 45. gr.
+                          orðum, sbr. þó [55. gr.]^1)
+                            ^1)[12]L. 163/2000, 3. gr.
 8. gr. Verðbréfafyrirtækjum er heimilt að hafa með höndum eftirfarandi starfsemi
                      í tengslum við viðskipti með verðbréf:
                                    1. Þjónusta:
@@ -277,14 +314,15 @@ starfsleyfi. Heildarmarkaðsvirði þeirra verðbréfa sem verðbréfamiðlun er
   starfsheimildir verðbréfamiðlunar samkvæmt þessari málsgrein, svo sem innan
 hvaða tímamarka slík viðskipti eru heimil, skal setja nánari ákvæði í reglugerð
                  að fenginni umsögn [Fjármálaeftirlitsins].^1)
-                             ^1)[10]L. 84/1998, 1. gr.
+                             ^1)[13]L. 84/1998, 1. gr.
 10. gr. Fyrirtækjum í verðbréfaþjónustu er óheimilt að annast aðra starfsemi en
   um getur í 8. eða 9. gr. Öðrum aðilum er óheimilt að annast starfsemi sem um
-   getur í 1. tölul. 8. gr. og 9. gr., nema lög ákveði annað, sbr. þó 43. gr.
+getur í 1. tölul. 8. gr. og 9. gr., nema lög ákveði annað, sbr. þó [53. gr.]^1)
  [Fyrirtækjum í verðbréfaþjónustu er heimilt að starfrækja útibú, enda uppfylli
     daglegur stjórnandi þess skilyrði 4. tölul. 1. mgr. 3. gr. Tilkynna skal
-           [Fjármálaeftirlitinu]^1) fyrir fram um stofnun útibús.]^2)
-                ^1)[11]L. 84/1998, 1. gr. ^2)[12]L. 99/2000, 4. gr.
+           [Fjármálaeftirlitinu]^2) fyrir fram um stofnun útibús.]^3)
+    ^1)[14]L. 163/2000, 3. gr. ^2)[15]L. 84/1998, 1. gr. ^3)[16]L. 99/2000, 4.
+                                      gr.
 [11. gr. Starfsmenn fyrirtækis í verðbréfaþjónustu, sem hafa umsjón með daglegri
  starfsemi í tengslum við viðskipti með verðbréf skv. 8. og 9. gr., skulu hafa
 staðist próf í verðbréfaviðskiptum. Í reglugerð^1) skal kveða á um prófkröfur og
@@ -294,9 +332,9 @@ staðist próf í verðbréfaviðskiptum. Í reglugerð^1) skal kveða á um pr�
  fyrirtækjum í verðbréfaþjónustu að tilkynna Fjármálaeftirlitinu um starfsmenn
 skv. 1. mgr. Fjármálaeftirlitinu er heimilt að setja nánari reglur um framkvæmd
                                þessa ákvæðis.]^2)
-     ^1)Rg. 301/1999. ^2)[13]L. 99/2000, 5. gr. Fyrirtæki í verðbréfaþjónustu
+     ^1)Rg. 506/2000. ^2)[17]L. 99/2000, 5. gr. Fyrirtæki í verðbréfaþjónustu
    skulu hafa lagað starfsemi sína að þessu ákvæði fyrir 1. janúar 2001, sbr.
-                                [14]13. gr. s.l.
+                                [18]13. gr. s.l.
 12. gr. Hluthafar í fyrirtæki í verðbréfaþjónustu sem eiga eða hyggjast eignast
  virkan eignarhlut í viðkomandi félagi skulu tilkynna [Fjármálaeftirlitinu]^1)
  það fyrir fram og greina frá hver eignarhlutur þeirra muni verða. Einnig skulu
@@ -325,7 +363,7 @@ hlutaðeigandi félagi sem veldur því að eignarhlutar fara yfir eða undir m�
 ástæðulauss dráttar. Einnig skal [Fjármálaeftirlitinu]^1) tilkynnt eigi sjaldnar
   en einu sinni á ári um þá hluthafa sem eiga virkan eignarhlut í fyrirtæki í
           verðbréfaþjónustu og hve stór eignarhlutur hvers um sig er.
-                             ^1)[15]L. 84/1998, 1. gr.
+                             ^1)[19]L. 84/1998, 1. gr.
 13. gr. Fari hluthafi, sem á svo stóran hlut í fyrirtæki í verðbréfaþjónustu sem
 segir í 1. mgr. 12. gr., þannig með hlut sinn að skaði heilbrigðan eða traustan
            rekstur fyrirtækisins getur ráðherra, að fenginni tillögu
@@ -341,7 +379,7 @@ fyrirtækis í verðbréfaþjónustu verði atkvæðisréttur eignarhluta virkur
  Hafi ráðherra ákveðið skv. 1. eða 2. mgr. að hlutum fylgi ekki atkvæðisréttur
  skulu þeir hlutir ekki teknir með við útreikning á því fyrir hve mikinn hluta
                    atkvæða mætt hafi verið á hluthafafundum.
-                             ^1)[16]L. 84/1998, 1. gr.
+                             ^1)[20]L. 84/1998, 1. gr.
   14. gr. Eignist fyrirtæki í verðbréfaþjónustu, eða móðurfyrirtæki þess, með
  starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins eða einstaklingur sem
 ræður yfir slíku fyrirtæki virkan eignarhlut í fyrirtæki í verðbréfaþjónustu hér
@@ -352,7 +390,7 @@ ræður yfir slíku fyrirtæki virkan eignarhlut í fyrirtæki í verðbréfaþj
  Ákvæði 1. mgr. eiga einnig við ef aðilar sem þar getur auka virkan eignarhlut
 sinn í fyrirtæki í verðbréfaþjónustu þannig að eignarhlutur þeirra nemi 20%, 33%
         eða 50% eða svo miklu að fyrirtækið yrði dótturfyrirtæki þeirra.
-                             ^1)[17]L. 84/1998, 1. gr.
+                             ^1)[21]L. 84/1998, 1. gr.
  15. gr. [Fyrirtæki í verðbréfaþjónustu skulu gæta fyllstu óhlutdrægni gagnvart
 viðskiptamönnum sínum í starfsemi sinni og ber þeim ávallt að haga störfum sínum
      þannig að viðskiptamenn njóti jafnræðis um upplýsingar, verð og önnur
@@ -368,7 +406,7 @@ Fyrirtæki í verðbréfaþjónustu skulu sýna fram á að 1. mgr. sé fylgt og
 Í auglýsingum og annarri kynningarstarfsemi fyrirtækja í verðbréfaþjónustu skal
  þess gætt að fram komi réttar og nákvæmar upplýsingar um starfsemi og þjónustu
                                fyrirtækjanna.]^1)
-                             ^1)[18]L. 99/2000, 6. gr.
+                             ^1)[22]L. 99/2000, 6. gr.
 16. gr. Fyrirtæki í verðbréfaþjónustu skulu kunngera viðskiptamönnum sínum fyrir
 fram hvaða þóknun þau muni áskilja sér fyrir þjónustu sína. Breytingar á þóknun
                skal tilkynna viðskiptavinum með nægum fyrirvara.
@@ -379,18 +417,13 @@ fram hvaða þóknun þau muni áskilja sér fyrir þjónustu sína. Breytingar 
   samkvæmt lögum þessum skal, eftir því sem við á, gerður sérstakur samningur
     milli fyrirtækisins og viðskiptamanns þess þar sem m.a. skal kveðið á um
                        réttindi og skyldur samningsaðila.
-  18. gr. Fyrirtækjum í verðbréfaþjónustu er óheimilt að annast milligöngu um
+  18. gr. [Fyrirtækjum í verðbréfaþjónustu er óheimilt að annast milligöngu um
 verðbréfaviðskipti hafi starfsmenn þeirra vitneskju um eða ástæðu til að ætla að
-viðskiptin grundvallist á upplýsingum skv. 2. mgr. 26. gr., sbr. þó 2. tölul. 1.
-mgr. og 2. mgr. 27. gr. [Sama gildir varðandi vitneskju eða grun um að viðskipti
-                            brjóti gegn 30. gr.]^1)
-    [Vakni grunur skv. 1. mgr. skal fyrirtækið þegar í stað tilkynna það til
-                           Fjármálaeftirlitsins.]^1)
-                             ^1)[19]L. 99/2000, 7. gr.
-   19. gr. Fyrirtæki í verðbréfaþjónustu skal halda fjármunum viðskiptamanna
- tryggilega aðgreindum frá eignum fyrirtækisins. Skulu fjármunir viðskiptamanns
-varðveittir á sérstökum nafnskráðum reikningi og verðbréf í hans eigu varðveitt
-                             með tryggilegum hætti.
+               viðskiptin brjóti í bága við ákvæði V. kafla.]^1)
+                            ^1)[23]L. 163/2000, 4. gr.
+   19. gr. [Fyrirtæki í verðbréfaþjónustu skal halda fjármunum og verðbréfum
+ viðskiptamanna tryggilega aðgreindum frá eignum fyrirtækisins. Skulu fjármunir
+       viðskiptamanns varðveittir á sérstökum nafnskráðum reikningi.]^1)
      Fyrirtæki í verðbréfaþjónustu er heimilt að framselja verðbréf í nafni
      viðskiptamanns síns hafi fyrirtækið fengið til þess skriflegt umboð. Í
   framsalsáritun ber að geta þess að verðbréf sé framselt samkvæmt varðveittu
@@ -401,132 +434,277 @@ umboði og ber fyrirtækinu að varðveita umboð svo lengi sem réttindi eru by
  framsalsáritanir í sérstakri skrá meðan verðbréfið er í vörslu þess, enda séu
 framsalsáritanir færðar inn á bréfið þegar það hverfur úr vörslu fyrirtækisins.
     Fyrirtæki, sem hyggst nýta sér þessa heimild, ber að afla sér samþykkis
-[Fjármálaeftirlitsins]^1) fyrir fyrirkomulagi vörslu og því upplýsingakerfi sem
+[Fjármálaeftirlitsins]^2) fyrir fyrirkomulagi vörslu og því upplýsingakerfi sem
                                    á að nota.
  Sá sem veitt hefur fyrirtæki í verðbréfaþjónustu umboð skv. 2. mgr. getur ekki
   beint kröfum að framsalshafa með stoð í heimildarskorti fyrirtækisins, nema
            umboð þess til framsals hafi sýnilega verið ófullnægjandi.
   Framsalsáritun fyrirtækis í verðbréfaþjónustu skv. 2. mgr. telst ekki slíta
         framsalsröð þótt umboð til fyrirtækisins fylgi ekki verðbréfinu.
-                             ^1)[20]L. 84/1998, 1. gr.
- 20. gr. Almennt útboð verðbréfa, annarra en ríkisskuldabréfa, skuldabréfa með
- ríkisábyrgð og ríkisvíxla, skal fara fram fyrir milligöngu verðbréfafyrirtækja
- skv. 8. gr. eða annarra aðila sem til þess hafa heimild í lögum. Almennt útboð
-  verðbréfa skal tilkynna til Verðbréfaþings Íslands eigi síðar en viku fyrir
-  upphaf sölu ásamt upplýsingum um öll helstu einkenni útboðsins í samræmi við
-  reglur sem stjórn Verðbréfaþingsins setur um gerð útboðsgagna og aðdraganda
-                                    útboðs.
-   Seðlabanki Íslands getur sett nánari reglur^1) um fyrsta söludag einstakra
- almennra útboða í því skyni að draga úr sveiflum í framboði nýrra verðbréfa á
-                              verðbréfamarkaðinum.
-Við lok sölu eða í lok hvers ársfjórðungs, sé hann fyrr, skal verðbréfafyrirtæki
-        eða annar aðili, sem hefur milligöngu um almennt útboð, tilkynna
-   Verðbréfaþinginu um heildarsölu verðbréfa í almennu útboði á nafnverði og
- markaðsverði samkvæmt bestu fáanlegum upplýsingum og í lok hvers árs skal enn
-  fremur tilkynna um útistandandi eftirstöðvar almenns útboðs. Verðbréfaþingið
-      skal birta reglulega upplýsingar um verðbréf samkvæmt þessari grein.
-                                 ^1)Rg. 253/1996.
- 21. gr. [Fyrirtæki í verðbréfaþjónustu skal vegna eigin viðskipta með verðbréf
-    og vegna viðskipta eigenda virkra eignarhluta skv. 12. gr., stjórnenda,
+[Verðbréfafyrirtæki er heimilt að varðveita verðbréf í eigu viðskiptamanna sinna
+ á safnreikningi (safnskráning), enda hafi fyrirtækið gert viðskiptamanni grein
+fyrir réttaráhrifum þess og hann veitt samþykki sitt. Verðbréfafyrirtæki ber að
+           halda skrá yfir eignarhlut hvers viðskiptamanns fyrir sig.
+Komi til þess að bú verðbréfafyrirtækis sé tekið til gjaldþrotaskipta eða farið
+sé fram á greiðslustöðvun, slit fyrirtækisins eða sambærilegar ráðstafanir getur
+  viðskiptamaður á grundvelli skrárinnar skv. 5. mgr. tekið verðbréf sín út af
+    safnreikningi, enda sé ekki ágreiningur um eignarhald viðskiptamannsins.
+Ráðherra getur sett reglugerð um safnskráningu, m.a. um sviptingu heimildar til
+að skrá verðbréf á safnreikning skv. 5. mgr. og auðkenningu safnreiknings, þar á
+            meðal upplýsingar um fjölda eigenda á safnreikningi.]^1)
+               ^1)[24]L. 164/2000, 2. gr. ^2)[25]L. 84/1998, 1. gr.
+   [20. gr.]^1) [Fyrirtæki í verðbréfaþjónustu skal vegna eigin viðskipta með
+verðbréf og vegna viðskipta eigenda virkra eignarhluta skv. 12. gr., stjórnenda,
 starfsmanna og maka framangreindra aðila meðal annars gæta eftirtalinna atriða:
                 1. að fyllsta trúverðugleika fyrirtækisins sé gætt,
               2. að ýtrustu hagsmuna ótengdra viðskiptavina sé gætt,
            3. að fullur trúnaður ríki gagnvart ótengdum viðskiptavinum,
-     4. að tryggt sé að viðskiptin stangist ekki á við IV. kafla þessara laga,
+   4. að tryggt sé að viðskiptin stangist ekki á við [V. kafla]^2) þessara laga,
                       5. að viðskiptin séu sérstaklega skráð,
      6. að stjórn fyrirtækisins fái kerfisbundnar upplýsingar um viðskiptin og
                             hafi eftirlit með þeim.
  Fyrirtæki í verðbréfaþjónustu skulu setja sér reglur um viðskipti skv. 1. mgr.
      og skulu þær staðfestar af Fjármálaeftirlitinu. Fyrirtæki ber að gera
  Fjármálaeftirlitinu grein fyrir frávikum frá ákvæðum reglnanna. Þær skulu vera
-                       aðgengilegar viðskiptamönnum.]^1)
-                             ^1)[21]L. 99/2000, 8. gr.
-22. gr. Fyrirtæki í verðbréfaþjónustu geta veitt viðskiptaaðila lán og gengið í
- ábyrgðir vegna verðbréfaviðskipta sem þeim er heimilt að annast samkvæmt lögum
-                                    þessum.
+                       aðgengilegar viðskiptamönnum.]^3)
+    ^1)[26]L. 163/2000, 5. gr. ^2)[27]L. 163/2000, 3. gr. ^3)[28]L. 99/2000, 8.
+                                      gr.
+  [21. gr.]^1) Fyrirtæki í verðbréfaþjónustu geta veitt viðskiptaaðila lán og
+    gengið í ábyrgðir vegna verðbréfaviðskipta sem þeim er heimilt að annast
+                             samkvæmt lögum þessum.
   Heildarskuldbindingar fyrirtækja í verðbréfaþjónustu skv. 1. mgr. skulu vera
-    innan þeirra marka sem um getur í reglum^1) er ráðherra setur að fengnum
-   tillögum [Fjármálaeftirlitsins]^2) um hámark lána og ábyrgða til einstakra
+    innan þeirra marka sem um getur í reglum^2) er ráðherra setur að fengnum
+   tillögum [Fjármálaeftirlitsins]^3) um hámark lána og ábyrgða til einstakra
                  viðskiptamanna eða fjárhagslega tengdra aðila.
-       ^1)Rg. 571/1996, sbr. 486/1997 og 694/1997. ^2)[22]L. 84/1998, 1. gr.
- 23. gr. Fyrirtæki í verðbréfaþjónustu er því aðeins heimilt að vera meðeigandi
-   eða þátttakandi í annarri atvinnustarfsemi að slík þátttaka sé í eðlilegum
-tengslum við starfsemi fyrirtækisins og hafi ekki áhrif á óhlutdrægni þess, sbr.
-                                1. mgr. 15. gr.
- 24. gr. Framkvæmdastjóra fyrirtækis í verðbréfaþjónustu er óheimilt að sitja í
- stjórn atvinnufyrirtækja eða taka þátt í atvinnurekstri að öðru leyti nema að
-fengnu leyfi stjórnar. Eignarhlutur í fyrirtæki telst þátttaka í atvinnurekstri,
- nema um sé að ræða óverulegan hlut sem ekki veitir bein áhrif á stjórnun þess.
+      ^1)[29]L. 163/2000, 5. gr. ^2)Rg. 571/1996, sbr. 486/1997 og 694/1997.
+                           ^3)[30]L. 84/1998, 1. gr.
+    [22. gr.]^1) Fyrirtæki í verðbréfaþjónustu er því aðeins heimilt að vera
+  meðeigandi eða þátttakandi í annarri atvinnustarfsemi að slík þátttaka sé í
+eðlilegum tengslum við starfsemi fyrirtækisins og hafi ekki áhrif á óhlutdrægni
+                           þess, sbr. 1. mgr. 15. gr.
+                            ^1)[31]L. 163/2000, 5. gr.
+  [23. gr.]^1) Framkvæmdastjóra fyrirtækis í verðbréfaþjónustu er óheimilt að
+ sitja í stjórn atvinnufyrirtækja eða taka þátt í atvinnurekstri að öðru leyti
+    nema að fengnu leyfi stjórnar. Eignarhlutur í fyrirtæki telst þátttaka í
+atvinnurekstri, nema um sé að ræða óverulegan hlut sem ekki veitir bein áhrif á
+                                 stjórnun þess.
 [Um heimildir framkvæmdastjóra og annarra starfsmanna fyrirtækisins varðandi þau
 atriði sem í 1. mgr. greinir fer eftir reglum sem stjórn fyrirtækisins setur og
-                       Fjármálaeftirlitið staðfestir.]^1)
-                             ^1)[23]L. 99/2000, 9. gr.
-25. gr. Verðbréfafyrirtæki skulu undanþegin stimpilgjöldum á lánum sem þau taka.
+                       Fjármálaeftirlitið staðfestir.]^2)
+               ^1)[32]L. 163/2000, 5. gr. ^2)[33]L. 99/2000, 9. gr.
+[24. gr.]^1) Verðbréfafyrirtæki skulu undanþegin stimpilgjöldum á lánum sem þau
+                                     taka.
+                            ^1)[34]L. 163/2000, 5. gr.
 
-                     IV. kafli. Meðferð trúnaðarupplýsinga.
-  26. gr. [Ákvæði þessa kafla taka til viðskipta með verðbréf í kauphöll og á
-tilboðsmarkaði sem hlotið hefur starfsleyfi hér á landi. Jafnframt taka þau til
-          viðskipta með verðbréf utan skipulegra verðbréfamarkaða.]^1)
-     Með trúnaðarupplýsingum er átt við upplýsingar um útgefanda verðbréfa,
-verðbréfin sjálf eða önnur atriði sem ekki hafa verið gerð opinber en eru líkleg
-   til að hafa áhrif á markaðsverð verðbréfanna ef opinber væru. Upplýsingar
-   teljast opinberar þegar þeim hefur verið miðlað á verðbréfamarkaðinum með
-   almennum og viðurkenndum hætti. [Tilkynningar til kauphalla og skipulegra
- tilboðsmarkaða teljast opinberar þegar þeim hefur verið miðlað þaðan, sbr. lög
-            um starfsemi kauphalla og skipulegra tilboðsmarkaða.]^2)
-               ^1)[24]L. 35/1998, 3. gr. ^2)[25]L. 99/2000, 10. gr.
-27. gr. Aðila, sem býr yfir eða hefur aðgang að trúnaðarupplýsingum skv. 2. mgr.
- 26. gr. vegna eignaraðildar, aðildar að stjórn, rekstri eða eftirliti á vegum
- útgefanda verðbréfa eða vegna starfs síns, stöðu eða skyldna, er óheimilt að:
-     1. nýta sér upplýsingarnar, beint eða óbeint, til öflunar eða ráðstöfunar
-                verðbréfanna sjálfum sér eða öðrum til hagsbóta,
-       2. láta þriðja aðila upplýsingarnar í té, nema það sé gert í eðlilegu
+                        [IV. kafli. Útboð verðbréfa.]^1)
+                            ^1)[35]L. 163/2000, 6. gr.
+  [25. gr. Almennt útboð verðbréfa, hvort heldur í upphaflegri sölu eða síðari
+ sölu, er háð því að útboðslýsing hafi verið gefin út í samræmi við ákvæði laga
+                          þessara, sbr. þó 29. gr.]^1)
+                            ^1)[36]L. 163/2000, 6. gr.
+ [26. gr. Hafi útboðslýsing verið birt í samræmi við 25. gr. er ekki þörf á að
+ birta nýja útboðslýsingu í tengslum við almennt útboð nema liðnir séu meira en
+12 mánuðir frá birtingu útboðslýsingar til fyrsta söludags í nýju útboði eða ef
+  orðið hafa breytingar á högum útgefanda sem ætla má að hafi veruleg áhrif á
+                         markaðsverð verðbréfanna.]^1)
+                            ^1)[37]L. 163/2000, 6. gr.
+  [27. gr. Sala eða milliganga fyrirtækis í verðbréfaþjónustu á verðbréfum til
+ annarra en fagfjárfesta, sem ekki fellur undir reglur um almennt útboð, er háð
+       því að lagt hafi verið mat á faglega þekkingu, fjárhag og reynslu
+viðskiptavinar. Fyrirtæki í verðbréfaþjónustu er heimilt að synja um milligöngu
+með verðbréf sem ekki falla undir almennt útboð ef það telur viðskiptavini ekki
+      búa yfir nægjanlegri þekkingu, reynslu eða fjárhagslegum styrk.]^1)
+                            ^1)[38]L. 163/2000, 6. gr.
+        [28. gr. Almennt útboð verðbréfa skal fara fram fyrir milligöngu
+ verðbréfafyrirtækja skv. 8. gr. eða annarra aðila sem til þess hafa heimild í
+                                     lögum.
+   Fjármálaeftirlitið skal hafa umsjón með athugun á útboðslýsingum. Þó skulu
+   kauphallir annast athugun á skráningarlýsingum samkvæmt lögum um starfsemi
+    kauphalla og skipulegra tilboðsmarkaða þegar óskað er eftir skráningu í
+viðkomandi kauphöll, enda sé hún tekin sem gild útboðslýsing. Fjármálaeftirlitið
+  getur falið skipulegum verðbréfamörkuðum að annast athugun á útboðslýsingum
+                  öðrum en þeim sem kveðið er á um í 2. málsl.
+Seðlabanki Íslands getur sett nánari reglur um fyrsta söludag einstakra almennra
+      útboða í því skyni að draga úr sveiflum í framboði nýrra verðbréfa á
+                              verðbréfamarkaðinum.
+  Þóknun fyrir athugun á útboðslýsingum er ákveðin af Fjármálaeftirlitinu eða
+                    skipulegum verðbréfamarkaði skv. 2. mgr.
+Ráðherra skal setja reglugerð um útboð verðbréfa þar sem m.a. verði kveðið á um
+  aðdraganda að útboðslýsingu og útboðstímabil, efni og tilhögun við dreifingu
+   útboðslýsingar, heimildir Fjármálaeftirlitsins til að veita undanþágur frá
+birtingu útboðslýsingar að hluta eða öllu leyti, viðvarandi upplýsingaskyldu og
+                       skilgreiningu á fagfjárfestum.]^1)
+                            ^1)[39]L. 163/2000, 6. gr.
+                    [29. gr. Undanþegin ákvæðum 25. gr. eru:
+          1. Útboð þar sem eitt eða fleiri eftirtalinna tilvika eiga við:
+    a. Hlutabréf eða samvinnuhlutabréf eru einungis boðin forgangsréttarhöfum í
+              félagi og hömlur eru lagðar á viðskipti með bréfin.
+   b. Hlutabréf eða samvinnuhlutabréf eru einungis boðin eigendum í félagi, enda
+ séu þeir færri en 50 og hlutafé eða stofnsjóður B-deildar samvinnufélags lægri
+                             en 50 milljónir króna.
+    c. Verðbréf eru boðin tilgreindum afmörkuðum hópi aðila án auglýsingar eða
+             kynningar, enda séu ekki fleiri en 25 aðilar í hópnum.
+     d. Áætlað heildarsöluverð verðbréfanna nemur ekki meira en fimm milljónum
+                             króna, sbr. þó 2. mgr.
+     e. Hver fjárfestir þarf að reiða af hendi a.m.k. fimm milljónir króna til
+                     kaupa á verðbréfunum, sbr. þó 2. mgr.
+                       f. Verðbréf eru boðin fagfjárfestum.
+                        2. Verðbréf af eftirfarandi gerðum:
+    a. Verðbréf sem gefin eru út að áætluðu markaðsverði a.m.k. fimm milljónir
+                          króna hvert, sbr. þó 2. mgr.
+         b. Hlutdeildarskírteini verðbréfasjóða með starfsleyfi á Evrópska
+                                efnahagssvæðinu.
+            c. Verðbréf sem gefin eru út í tengslum við yfirtökutilboð.
+          d. Verðbréf sem gefin eru út í tengslum við samruna fyrirtækja.
+        e. Jöfnunarhlutabréf og önnur hlutabréf sem hluthafar fá afhent án
+                                  endurgjalds.
+      f. Hlutabréf eða verðbréf sem eru ígildi hlutabréfa ef þau eru boðin í
+skiptum fyrir hlutabréf í sama félagi, hafi boðið á hinum nýju verðbréfum ekki í
+                    för með sér hækkun á hlutafé í félaginu.
+      g. Verðbréf sem vinnuveitandi eða fyrirtæki tengt honum býður eingöngu
+ núverandi eða fyrrverandi fastráðnum starfsmönnum sínum eða verðbréf sem boðin
+                            eru fram í þágu þeirra.
+   h. Verðbréf sem til eru komin vegna breytinga á breytanlegum skuldabréfum eða
+vegna þess að neytt er réttinda sem kaupréttur að hlut veitir, svo og hlutabréf
+ sem boðin eru í skiptum fyrir skiptanleg skuldabréf, enda hafi útboðslýsing á
+   hinum breytanlegu eða skiptanlegu skuldabréfum, eða þeim skuldabréfum sem
+              kaupréttur að hlut fylgir, verið gefin út á Íslandi.
+         i. Verðbréf sem gefin eru út af lögaðilum, sem ekki eru reknir í
+ hagnaðarskyni í þeim tilgangi að afla fjár til framdráttar markmiðum sínum, og
+                     lúta ekki að hag sjálfra lögaðilanna.
+          j. Framseljanleg verðbréf sem gefin eru út af ríkjum á Evrópska
+                    efnahagssvæðinu eða eru með ríkisábyrgð.
+    Fjárhæðir í 1. mgr. skulu aldrei vera lægri en 40 þúsund evrur miðað við
+   opinbert viðmiðunargengi Seðlabanka Íslands eins og það er skráð á hverjum
+                                   tíma.]^1)
+                            ^1)[40]L. 163/2000, 6. gr.
+
+          [V. kafli. Meðferð trúnaðarupplýsinga, viðskipti innherja og
+                             markaðsmisnotkun.]^1)
+                            ^1)[41]L. 163/2000, 7. gr.
+[30. gr. Ákvæði þessa kafla taka til viðskipta með verðbréf sem skráð hafa verið
+ eða óskað hefur verið eftir að verði skráð á skipulegum verðbréfamarkaði skv.
+                             13. tölul. 2. gr.]^1)
+                            ^1)[42]L. 163/2000, 7. gr.
+                       [31. gr. Innherjum er óheimilt að:
+    1. nýta trúnaðarupplýsingar, beint eða óbeint, til öflunar eða ráðstöfunar
+                                   verðbréfa,
+    2. láta þriðja aðila trúnaðarupplýsingar í té, nema það sé gert í eðlilegu
      sambandi við starf, stöðu eða skyldur þess sem upplýsingarnar veitir,
-    3. ráðleggja þriðja aðila á grundvelli upplýsinganna að afla verðbréfa eða
-      ráðstafa þeim eða hvetja að öðru leyti til viðskipta með verðbréfin.
-  Ákvæði 1. mgr. á ekki við um viðskipti fullvalda ríkis, seðlabanka þess eða
-aðila sem annast viðskipti fyrir þeirra hönd, enda séu viðskiptin liður í stefnu
-         hlutaðeigandi ríkis í peningamálum, gengismálum eða lánasýslu.
-28. gr. Öðrum aðilum en um getur í 1. mgr. 27. gr., sem hlotið hafa vitneskju um
-trúnaðarupplýsingar, er óheimilt að nýta þær með þeim hætti sem þar segir, enda
-         hafi þeir vitað eða mátt vita hvers eðlis upplýsingarnar voru.
-    29. gr. Ákvæði 27. og 28. gr. ná einnig til lögaðila og taka til þeirra
- einstaklinga sem taka þátt í ákvörðun um að fara með viðskipti fyrir reikning
-                                  lögaðilans.
- 30. gr. Óheimilt er einstaklingum eða lögaðilum að taka þátt í, stuðla að eða
+    3. ráðleggja þriðja aðila á grundvelli trúnaðarupplýsinga að afla verðbréfa
+    eða ráðstafa þeim eða hvetja að öðru leyti til viðskipta með verðbréfin.
+Ákvæði 1. mgr. nær einnig til lögaðila og einstaklinga sem taka þátt í ákvörðun
+              um viðskipti með verðbréf fyrir reikning lögaðilans.
+ Ákvæði 1. mgr. á ekki við um viðskipti ríkisins, Seðlabanka Íslands eða aðila
+   sem annast viðskipti fyrir þeirra hönd, enda séu viðskiptin liður í stefnu
+            ríkisins í peningamálum, gengismálum eða lánasýslu.]^1)
+                            ^1)[43]L. 163/2000, 7. gr.
+[32. gr. Fruminnherjar skulu ganga úr skugga um það áður en þeir eiga viðskipti
+     með verðbréf félags, sem þeir eru fruminnherjar í, að ekki liggi fyrir
+                    trúnaðarupplýsingar innan félagsins.]^1)
+                            ^1)[44]L. 163/2000, 7. gr.
+[33. gr. Fruminnherjar skulu tilkynna aðila sem útnefndur hefur verið í samræmi
+við reglur skv. 37. gr. fyrir fram um fyrirhuguð viðskipti sín eða aðila sem eru
+fjárhagslega tengdir honum með verðbréf félagsins og jafnóðum og viðskiptin hafa
+     farið fram. Viðkomandi félag skal samdægurs tilkynna um viðskiptin til
+ kauphallar eða skipulegs tilboðsmarkaðar þar sem viðkomandi verðbréf eru skráð
+               eða óskað hefur verið eftir skráningu á þeim.]^1)
+                            ^1)[45]L. 163/2000, 7. gr.
+  [34. gr. Kauphöll eða skipulegur tilboðsmarkaður skal birta opinberlega með
+        viðurkenndum hætti upplýsingar um viðskipti fruminnherja sem eru
+ tilkynningarskyld skv. 33. gr., enda uppfylli viðskiptin eftirtalin skilyrði:
+   1. Markaðsvirði viðskiptanna nemur a.m.k. einni viðskiptalotu, sbr. 6. tölul.
+                                     2. gr.
+     2. Markaðsvirði eignarhlutar eftir viðskipti samsvari tíu viðskiptalotum.
+         3. Markaðsvirði eignarhlutar eftir viðskipti fer niður fyrir tíu
+                                viðskiptalotur.
+                   Í tilkynningu skv. 1. mgr. skal tilgreina:
+                           1. nafn útgefanda verðbréfa,
+                           2. dagsetningu tilkynningar,
+                               3. nafn fruminnherja,
+                  4. tengsl fruminnherja við útgefanda verðbréfa,
+                        5. dagsetningu og stund viðskipta,
+                               6. tegund verðbréfa,
+                      7. hvort um var að ræða kaup eða sölu,
+                        8. nafnverð og gengi í viðskiptum,
+     9. nafnverð eignarhlutar fruminnherja og fjárhagslega tengdra aðila eftir
+                                   viðskipti,
+                  10. dagsetningu lokauppgjörs viðskiptanna.]^1)
+                            ^1)[46]L. 163/2000, 7. gr.
+[35. gr. Fjármálaeftirlitið skal halda skrá yfir innherja skv. a-lið og 1. mgr.
+  b-liðar 5. tölul. 2. gr. í félögum sem skráð eru eða hafa óskað skráningar í
+         kauphöll eða á skipulegum tilboðsmarkaði. Félögin skulu senda
+  Fjármálaeftirlitinu, á því formi sem það ákveður, eftirfarandi upplýsingar:
+                                 1. heiti félags,
+   2. kauphöll eða skipulegan tilboðsmarkað sem félag er skráð á eða hefur óskað
+                                 skráningar á,
+                   3. nafn, kennitölu og heimilisfang innherja,
+                           4. tengsl innherja við félag,
+                          5. ástæðu skráningar innherja,
+               6. nöfn aðila sem eru fjárhagslega tengdir innherja.
+Fjármálaeftirlitinu er heimilt að kveða nánar á um upplýsingar sem veittar skulu
+   skv. 1. mgr. Allar breytingar á upplýsingum skv. 1. mgr. skulu tilkynntar
+  Fjármálaeftirlitinu samdægurs. Endurskoðaðan lista yfir innherja skal senda
+           Fjármálaeftirlitinu eigi sjaldnar en á sex mánaða fresti.
+   Upplýsingar skv. 1. og 2. mgr. skulu einnig sendar kauphöll eða skipulegum
+  tilboðsmarkaði þar sem verðbréf félags eru skráð eða óskað hefur verið eftir
+                               skráningu þeirra.
+  Upplýsingar um fruminnherja í innherjaskrá Fjármálaeftirlitsins skulu gerðar
+          opinberar með þeim hætti sem Fjármálaeftirlitið ákveður.]^1)
+                            ^1)[47]L. 163/2000, 7. gr.
+[36. gr. Félög sem tilgreint hafa innherja til Fjármálaeftirlitsins skv. 35. gr.
+  skulu tilkynna viðkomandi innherja um það skriflega. Jafnframt skal tilkynna
+          innherja skriflega þegar hann hefur verið tekinn af skránni.
+  Félög skulu greina innherjum frá þeim réttarreglum sem gilda um innherja og
+                        meðferð trúnaðarupplýsinga.]^1)
+                            ^1)[48]L. 163/2000, 7. gr.
+[37. gr. Stjórn félags sem skráð er í kauphöll eða á skipulegum tilboðsmarkaði,
+     eða félags sem óskað hefur eftir skráningu í kauphöll eða á skipulegum
+  tilboðsmarkaði, skal setja reglur um meðferð trúnaðarupplýsinga og viðskipti
+  innherja. Í reglunum skal m.a. kveðið á um með hvaða hætti skuli komið í veg
+fyrir að trúnaðarupplýsingar berist til annarra en þarfnast þeirra vegna starfa
+  sinna, hvernig viðskiptum innherja skuli háttað, hver hafi eftirlit með því
+innan félagsins að reglunum sé framfylgt og skráningu samskipta sem fram fara á
+                             grundvelli reglnanna.
+    Stjórn viðkomandi félags skal setja sér reglur skv. 1. mgr. og senda þær
+ Fjármálaeftirlitinu og kauphöll eða skipulegum tilboðsmarkaði þar sem verðbréf
+  félagsins eru skráð eða óskað hefur verið skráningar þeirra. Reglurnar skulu
+                       staðfestar af Fjármálaeftirlitinu.
+  Stjórnvöld og aðrir aðilar sem fá reglulega trúnaðarupplýsingar í starfsemi
+            sinni skulu setja sér reglur samkvæmt þessari grein.]^1)
+                            ^1)[49]L. 163/2000, 7. gr.
+ [38. gr. Óheimilt er einstaklingum eða lögaðilum að taka þátt í, stuðla að eða
 hvetja til viðskipta með verðbréf eða annarra aðgerða í því skyni að gefa ranga
  mynd af umfangi viðskipta með tiltekin verðbréf eða hafa óeðlileg eða óhæfileg
-                   áhrif á verðmyndun í verðbréfaviðskiptum.
- 31. gr. Útgefendur verðbréfa skulu setja eigin reglur í því skyni að hindra að
-   trúnaðarupplýsingar berist til annarra en þeirra sem þarfnast þeirra vegna
-                                 starfa sinna.
-  Stjórnvöld og aðrir aðilar, sem fá reglulega trúnaðarupplýsingar í starfsemi
-                   sinni, skulu setja sér reglur skv. 1. mgr.
+                 áhrif á verðmyndun í verðbréfaviðskiptum.]^1)
+                            ^1)[50]L. 163/2000, 7. gr.
 
-             [V. kafli. Samningsbundið uppgjör afleiðusamninga.]^1)
-                            ^1)[26]L. 99/2000, 11. gr.
-    [32. gr. Ákvæði þessa kafla taka til framvirkra vaxtasamninga, vaxta- og
+          [[VI. kafli.]^1) Samningsbundið uppgjör afleiðusamninga.]^2)
+               ^1)[51]L. 163/2000, 7. gr. ^2)[52]L. 99/2000, 11. gr.
+ [[39. gr.]^1) Ákvæði þessa kafla taka til framvirkra vaxtasamninga, vaxta- og
 gjaldmiðlavalréttarsamninga, framvirkra vaxta- og gjaldmiðlasamninga, vaxta- og
   gjaldmiðlaskiptasamninga og annarra afleiðusamninga með gjaldmiðla og vexti.
  Ráðherra getur ákveðið með reglugerð að þessi kafli skuli einnig gilda um aðra
-                              afleiðusamninga.]^1)
-                            ^1)[27]L. 99/2000, 11. gr.
-   [33. gr. Skriflegur samningur, einn eða fleiri, milli tveggja aðila um að
- skyldur þeirra samkvæmt samningum þeim sem nefndir eru í 32. gr. skuli jafnast
-     hver á móti annarri, með skuldajöfnun, við endurnýjun eða við vanefnd,
+                              afleiðusamninga.]^2)
+               ^1)[53]L. 163/2000, 7. gr. ^2)[54]L. 99/2000, 11. gr.
+ [[40. gr.]^1) Skriflegur samningur, einn eða fleiri, milli tveggja aðila um að
+  skyldur þeirra samkvæmt samningum þeim sem nefndir eru í [39. gr.]^2) skuli
+ jafnast hver á móti annarri, með skuldajöfnun, við endurnýjun eða við vanefnd,
  greiðslustöðvun, nauðasamninga eða gjaldþrotaskipti, skal halda gildi sínu að
-     fullu þrátt fyrir ákvæði [28]91. og [29]100. gr. laga nr. 21/1991, um
-                           gjaldþrotaskipti o.fl.]^1)
-                            ^1)[30]L. 99/2000, 11. gr.
- [34. gr. Tryggingarréttindum vegna samninga sem nefndir eru í 32. gr. sem sett
- eru til tryggingar viðskiptum í greiðslujöfnunarstöð í samræmi við þær reglur
-  sem gilda í stöðinni verður ekki rift samkvæmt ákvæði [31]137. gr. laga nr.
-                     21/1991, um gjaldþrotaskipti o.fl.]^1)
-                            ^1)[32]L. 99/2000, 11. gr.
+     fullu þrátt fyrir ákvæði [55]91. og [56]100. gr. laga nr. 21/1991, um
+                           gjaldþrotaskipti o.fl.]^3)
+   ^1)[57]L. 163/2000, 7. gr. ^2)[58]L. 163/2000, 8. gr. ^3)[59]L. 99/2000, 11.
+                                      gr.
+[[41. gr.]^1) Tryggingarréttindum vegna samninga sem nefndir eru í [39. gr.]^2)
+sem sett eru til tryggingar viðskiptum í greiðslujöfnunarstöð í samræmi við þær
+ reglur sem gilda í stöðinni verður ekki rift samkvæmt ákvæði [60]137. gr. laga
+                   nr. 21/1991, um gjaldþrotaskipti o.fl.]^3)
+   ^1)[61]L. 163/2000, 7. gr. ^2)[62]L. 163/2000, 8. gr. ^3)[63]L. 99/2000, 11.
+                                      gr.
 
-            [VI. kafli.]^1) Eigið fé fyrirtækja í verðbréfaþjónustu.
-                            ^1)[33]L. 99/2000, 11. gr.
-[35. gr.]^1) Eigið fé fyrirtækis í verðbréfaþjónustu, eins og það er skilgreint
+           [VII. kafli.]^1) Eigið fé fyrirtækja í verðbréfaþjónustu.
+                            ^1)[64]L. 163/2000, 7. gr.
+[42. gr.]^1) Eigið fé fyrirtækis í verðbréfaþjónustu, eins og það er skilgreint
  skv. 2. mgr., skal á hverjum tíma eigi nema lægri fjárhæð en sem svarar til 8%
  af áhættugrunni. Áhættugrunnur skal metinn með tilliti til heildareigna, liða
  utan efnahagsreiknings, gengisáhættu og áhættu annarra liða með markaðsáhættu
@@ -536,10 +714,10 @@ eiginfjárhlutfalli fyrirtækja í verðbréfaþjónustu sem Seðlabanki Ísland
                [Fjármálaeftirlitið]^3) heimili undanþágu frá því.
 Við útreikning á eiginfjárhlutfalli skv. 1. mgr. skal eigið fé samsett af þremur
        þáttum, eiginfjárþætti A, eiginfjárþætti B og eiginfjárþætti C, og
-    frádráttarliðum skv. 33. gr. Eftirfarandi takmarkanir gilda um einstaka
+  frádráttarliðum skv. [43. gr.]^4) Eftirfarandi takmarkanir gilda um einstaka
                                 eiginfjárþætti:
    1. Eiginfjárþáttur A skal nema að lágmarki helmingi eigin fjár fyrir frádrátt
-                                  skv. 33. gr.
+                               skv. [43. gr.]^4)
             2. Eiginfjárþáttur B má hæst nema 50% af eiginfjárþætti A.
       3. Eiginfjárþáttur C má hæst nema 50% af eiginfjárþætti A. Jafnframt má
  eiginfjárþáttur C hæst nema 4,8% af reiknuðum áhættugrunni fyrirtækisins vegna
@@ -592,15 +770,16 @@ rekstraráætlun starfsársins. [Fjármálaeftirlitið]^3) getur krafist þess a
   eftirlitskerfi með áhættum, þar með talinni vaxtaáhættu, í tengslum við öll
     viðskipti sín. [Fjármálaeftirlitið]^3) getur sett leiðbeinandi reglur um
         eftirlitskerfi vegna áhættuþátta í starfsemi slíkra fyrirtækja.
- Ráðherra er heimilt að fengnum tillögum [Fjármálaeftirlitsins]^3) að ákveða í
- reglugerð^2) að aðrir liðir en greindir eru í 3.5. mgr. teljist með eigin fé
+ Ráðherra er heimilt að fengnum tillögum [Fjármálaeftirlitsins]^5) að ákveða í
+ reglugerð^5) að aðrir liðir en greindir eru í 3.5. mgr. teljist með eigin fé
                         fyrirtækis í verðbréfaþjónustu.
-       ^1)[34]L. 99/2000, 11. gr. ^2)Rg. 348/1996, sbr. 118/1997, 53/1999 og
-                      275/1999. ^3)[35]L. 84/1998, 1. gr.
-   [36. gr.]^1) Frá eigin fé skv. 2. mgr. 32. gr. skal draga bókfært virði á
+   ^1)[65]L. 163/2000, 7. gr. ^2)Rg. 348/1996, sbr. 118/1997, 53/1999, 275/1999
+    og 684/2000. ^3)[66]L. 84/1998, 1. gr. ^4)[67]L. 163/2000, 8. gr. ^5)Rg.
+                            852/2000, sbr. 964/2000.
+ [43. gr.]^1) Frá eigin fé skv. 2. mgr. [42. gr.]^2) skal draga bókfært virði á
   eignarhlutum fyrirtækis í verðbréfaþjónustu í félögum og fyrirtækjum sem það
-kann að eignast með heimild í 23. gr. Jafnframt skal draga frá víkjandi lán sem
-   fyrirtæki í verðbréfaþjónustu hefur veitt slíkum félögum eða fyrirtækjum.
+kann að eignast með heimild í [22. gr.]^2) Jafnframt skal draga frá víkjandi lán
+ sem fyrirtæki í verðbréfaþjónustu hefur veitt slíkum félögum eða fyrirtækjum.
      Frádráttur skal vera í samræmi við eftirfarandi ákvæði í 1.3. tölul.:
      1. Eignarhlutur í félögum þar sem eignarhlutir hlutaðeigandi fyrirtækis í
   verðbréfaþjónustu nema meira en 10% af hlutafé viðkomandi félaga. Enn fremur
@@ -610,13 +789,13 @@ kann að eignast með heimild í 23. gr. Jafnframt skal draga frá víkjandi lá
    3. Eignarhlutur í félögum þar sem eignarhlutur fyrirtækis í verðbréfaþjónustu
 nemur allt að 10% af hlutafé viðkomandi félaga. Frádrátturinn takmarkast við þá
    heildarfjárhæð eignarhluta og víkjandi lána sem er umfram 10% af eigin fé
-    fyrirtækisins eins og það er reiknað skv. 2. mgr. 32. gr. fyrir frádrátt
+ fyrirtækisins eins og það er reiknað skv. 2. mgr. [42. gr.]^2) fyrir frádrátt
                             samkvæmt þessari grein.
-                            ^1)[36]L. 99/2000, 11. gr.
+               ^1)[68]L. 163/2000, 7. gr. ^2)[69]L. 163/2000, 8. gr.
 
-                 [VII. kafli.]^1) Ársreikningar og endurskoðun.
-                            ^1)[37]L. 99/2000, 11. gr.
-  [37. gr.]^1) Stjórn og framkvæmdastjóri fyrirtækis í verðbréfaþjónustu skulu
+                [VIII. kafli.]^1) Ársreikningar og endurskoðun.
+                            ^1)[70]L. 163/2000, 7. gr.
+  [44. gr.]^1) Stjórn og framkvæmdastjóri fyrirtækis í verðbréfaþjónustu skulu
      semja ársreikning fyrir hvert reikningsár í samræmi við ákvæði laga og
 samþykkta. Ársreikningur skal hafa að geyma rekstrarreikning, efnahagsreikning,
    fjárstreymisyfirlit og skýringar. Enn fremur skal semja skýrslu stjórnar.
@@ -636,8 +815,8 @@ Framsetning ársreiknings skal vera með skýrum hætti og í samræmi við ákv
                                 ársreikningnum.
      [Fjármálaeftirlitinu]^2) er heimilt að setja nánari reglur^3) um gerð
               ársreiknings að höfðu samráði við reikningsskilaráð.
-       ^1)[38]L. 99/2000, 11. gr. ^2)[39]L. 84/1998, 1. gr. ^3)Rg. 19/1998.
-  [38. gr.]^1) Endurskoðandi skal árita ársreikning og greina frá niðurstöðum
+       ^1)[71]L. 163/2000, 7. gr. ^2)[72]L. 84/1998, 1. gr. ^3)Rg. 19/1998.
+   [45 gr.]^1) Endurskoðandi skal árita ársreikning og greina frá niðurstöðum
 endurskoðunarinnar. Hann skal gefa yfirlýsingu um að ársreikningurinn hafi verið
 endurskoðaður og að hann hafi verið saminn í samræmi við ákvæði laga, reglna og
  samþykkta. Endurskoðandi skal láta í ljós álit sitt á ársreikningnum og greina
@@ -657,9 +836,10 @@ til að ætla að lög og reglugerðir eða reglur sem gilda um fyrirtækið haf
 viðvart. Þetta á einnig við um sambærileg atriði sem endurskoðandi fyrirtækis í
 verðbréfaþjónustu fær vitneskju um og varða fyrirtæki í nánum tengslum við það.
  Ákvæði þessarar greinar brjóta ekki í bága við þagnarskyldu endurskoðenda skv.
-                 56. gr. laga þessara eða ákvæðum annarra laga.
-               ^1)[40]L. 99/2000, 11. gr. ^2)[41]L. 84/1998, 1. gr.
- [39. gr.]^1) Endurskoðaður ársreikningur fyrirtækis í verðbréfaþjónustu ásamt
+              [66. gr.]^3) laga þessara eða ákvæðum annarra laga.
+    ^1)[73]L. 163/2000, 7. gr. ^2)[74]L. 84/1998, 1. gr. ^3)[75]L. 163/2000, 8.
+                                      gr.
+ [46. gr.]^1) Endurskoðaður ársreikningur fyrirtækis í verðbréfaþjónustu ásamt
     skýrslu stjórnar skal sendur [Fjármálaeftirlitinu]^2) innan tíu daga frá
  undirritun stjórnar og framkvæmdastjóra en eigi síðar en þremur mánuðum eftir
    lok reikningsárs. Jafnframt er fyrirtæki í verðbréfaþjónustu skylt að láta
@@ -667,36 +847,39 @@ verðbréfaþjónustu fær vitneskju um og varða fyrirtæki í nánum tengslum 
   hagskýrslugerðar, sbr. ákvæði laga um Seðlabanka Íslands. Upplýsingar þessar
     skulu vera í aðgengilegu formi og taka mið af upplýsingakerfi viðkomandi
                          fyrirtækis eins og kostur er.
-               ^1)[42]L. 99/2000, 11. gr. ^2)[43]L. 84/1998, 1. gr.
-  [40. gr.]^1) Hafi stjórn eða framkvæmdastjóri fyrirtækis í verðbréfaþjónustu
+               ^1)[76]L. 163/2000, 7. gr. ^2)[77]L. 84/1998, 1. gr.
+  [47. gr.]^1) Hafi stjórn eða framkvæmdastjóri fyrirtækis í verðbréfaþjónustu
  ástæðu til að ætla að eigið fé þess sé undir því lágmarki sem kveðið er á um í
-  32. gr. ber þeim að tilkynna það [Fjármálaeftirlitinu].^2) Sambærileg skylda
-hvílir á endurskoðanda hlutaðeigandi fyrirtækis hafi hann ástæðu til að ætla að
-stjórnendur þess hafi ekki rækt skyldu sína skv. 1. málsl. þessarar málsgreinar.
-  Ef [Fjármálaeftirlitinu]^2) berst tilkynning skv. 1. mgr. eða telur af öðru
+   [42. gr.]^2) ber þeim að tilkynna það [Fjármálaeftirlitinu].^3) Sambærileg
+ skylda hvílir á endurskoðanda hlutaðeigandi fyrirtækis hafi hann ástæðu til að
+  ætla að stjórnendur þess hafi ekki rækt skyldu sína skv. 1. málsl. þessarar
+                                  málsgreinar.
+  Ef [Fjármálaeftirlitinu]^3) berst tilkynning skv. 1. mgr. eða telur af öðru
  tilefni ástæðu til að ætla að eigið fé fyrirtækis í verðbréfaþjónustu sé undir
- því lágmarki sem kveðið er á um í 32. gr. skal það krefja stjórn fyrirtækisins
-þegar í stað um reikningsuppgjör sem henni ber að afhenda innan hæfilegs frests.
+     því lágmarki sem kveðið er á um í [42. gr.]^2) skal það krefja stjórn
+ fyrirtækisins þegar í stað um reikningsuppgjör sem henni ber að afhenda innan
+                                hæfilegs frests.
     Komi fram í reikningsuppgjöri að hætti 2. mgr. að eigið fé fyrirtækisins
-fullnægi ekki ákvæðum 32. gr. skal stjórn þess án tafar boða til fundar hluthafa
-  til ákvörðunar og afhenda síðan [Fjármálaeftirlitinu]^2) greinargerð þar sem
-    fram kemur til hverra ráðstafana hún hyggst grípa af þessu tilefni. Skal
- [Fjármálaeftirlitið]^2) þegar afhenda ráðherra endurskoðað reikningsuppgjör og
+  fullnægi ekki ákvæðum [42. gr.]^2) skal stjórn þess án tafar boða til fundar
+ hluthafa til ákvörðunar og afhenda síðan [Fjármálaeftirlitinu]^3) greinargerð
+þar sem fram kemur til hverra ráðstafana hún hyggst grípa af þessu tilefni. Skal
+ [Fjármálaeftirlitið]^3) þegar afhenda ráðherra endurskoðað reikningsuppgjör og
              greinargerð stjórnar fyrirtækisins ásamt umsögn sinni.
      Þegar ráðherra hafa borist gögn skv. 3. mgr. er honum heimilt að veita
 hlutaðeigandi fyrirtæki frest í allt að sex mánuði til þess að auka eigið fé að
-   lágmarki skv. 32. gr. Séu til þess ríkar ástæður að mati ráðherra er honum
+lágmarki skv. [42. gr.]^2) Séu til þess ríkar ástæður að mati ráðherra er honum
      heimilt að framlengja þennan frest í allt að sex mánuði til viðbótar.
-               ^1)[44]L. 99/2000, 11. gr. ^2)[45]L. 84/1998, 1. gr.
-[41. gr.]^1) [Fjármálaeftirlitið]^2) getur látið framkvæma sérstaka endurskoðun
+    ^1)[78]L. 163/2000, 7. gr. ^2)[79]L. 163/2000, 8. gr. ^3)[80]L. 84/1998, 1.
+                                      gr.
+[48. gr.]^1) [Fjármálaeftirlitið]^2) getur látið framkvæma sérstaka endurskoðun
   hjá fyrirtæki í verðbréfaþjónustu og ráðið til þess löggiltan endurskoðanda.
     [Fjármálaeftirlitinu]^2) er heimilt að láta hlutaðeigandi fyrirtæki bera
                        kostnaðinn af slíkri endurskoðun.
-               ^1)[46]L. 99/2000, 11. gr. ^2)[47]L. 84/1998, 1. gr.
+               ^1)[81]L. 163/2000, 7. gr. ^2)[82]L. 84/1998, 1. gr.
 
- [VIII. kafli.]^1) Starfsemi innlendra fyrirtækja í verðbréfaþjónustu erlendis.
-                            ^1)[48]L. 99/2000, 11. gr.
-    [42. gr.]^1) Fyrirtæki í verðbréfaþjónustu, sem hlotið hafa starfsleyfi
+  [IX. kafli.]^1) Starfsemi innlendra fyrirtækja í verðbréfaþjónustu erlendis.
+                            ^1)[83]L. 163/2000, 7. gr.
+    [49. gr.]^1) Fyrirtæki í verðbréfaþjónustu, sem hlotið hafa starfsleyfi
   viðskiptaráðherra skv. 3. gr. og hyggjast starfrækja útibú í öðru ríki innan
     Evrópska efnahagssvæðisins, skulu tilkynna það [Fjármálaeftirlitinu].^2)
                Tilkynningu skulu fylgja eftirfarandi upplýsingar:
@@ -720,8 +903,8 @@ Fyrirtæki í verðbréfaþjónustu skal tilkynna [Fjármálaeftirlitinu]^2) og 
 yfirvöldum þess ríkis þar sem það starfrækir útibú um hverjar þær breytingar sem
  verða kunna á áður veittum upplýsingum skv. 1. mgr. eigi síðar en einum mánuði
               áður en fyrirhugaðar breytingar koma til framkvæmda.
-               ^1)[49]L. 99/2000, 11. gr. ^2)[50]L. 84/1998, 1. gr.
-[43. gr.]^1) Hyggist fyrirtæki í verðbréfaþjónustu veita þjónustu samkvæmt lögum
+               ^1)[84]L. 163/2000, 7. gr. ^2)[85]L. 84/1998, 1. gr.
+[50. gr.]^1) Hyggist fyrirtæki í verðbréfaþjónustu veita þjónustu samkvæmt lögum
 þessum í öðru ríki innan Evrópska efnahagssvæðisins án þess að stofna þar útibú
  skal tilkynna það [Fjármálaeftirlitinu].^2) Í tilkynningu skal koma fram hvaða
           ríki eigi í hlut og í hverju fyrirhuguð starfsemi sé fólgin.
@@ -732,23 +915,25 @@ yfirvöldum þess ríkis þar sem það starfrækir útibú um hverjar þær bre
   Breytingar á áður tilkynntum atriðum samkvæmt þessari grein skulu tilkynntar
  [Fjármálaeftirlitinu]^2) og lögbærum yfirvöldum viðkomandi ríkis eigi síðar en
                  einum mánuði áður en þær koma til framkvæmda.
-               ^1)[51]L. 99/2000, 11. gr. ^2)[52]L. 84/1998, 1. gr.
- [44. gr.]^1) Hyggist fyrirtæki í verðbréfaþjónustu hefja starfsemi í ríki utan
+               ^1)[86]L. 163/2000, 7. gr. ^2)[87]L. 84/1998, 1. gr.
+ [51. gr.]^1) Hyggist fyrirtæki í verðbréfaþjónustu hefja starfsemi í ríki utan
 Evrópska efnahagssvæðisins skal það tilkynnt [Fjármálaeftirlitinu].^2) Sé um að
  ræða stofnun útibús skulu fylgja tilkynningu upplýsingar skv. 1.4. tölul. 1.
-   mgr. 39. gr. Sé um að ræða fyrirhugaða starfsemi án stofnunar útibús skulu
-  upplýsingar skv. 1. mgr. 40. gr. fylgja tilkynningu. Um málsmeðferð að öðru
- leyti fer skv. 2.4. mgr. 39. gr. eða 2.3. mgr. 40. gr. eftir því sem við á.
+mgr. [49. gr.]^3) Sé um að ræða fyrirhugaða starfsemi án stofnunar útibús skulu
+upplýsingar skv. 1. mgr. [50. gr.]^3) fylgja tilkynningu. Um málsmeðferð að öðru
+leyti fer skv. 2.4. mgr. [49. gr.]^3) eða 2.3. mgr. [50. gr.]^3) eftir því sem
+                                     við á.
 [Fjármálaeftirlitinu]^2) er heimilt að óska frekari upplýsinga samkvæmt þessari
                                      grein.
-               ^1)[53]L. 99/2000, 11. gr. ^2)[54]L. 84/1998, 1. gr.
- [45. gr.]^1) Ráðherra er heimilt að setja nánari reglur um starfsemi innlendra
+    ^1)[88]L. 163/2000, 7. gr. ^2)[89]L. 84/1998, 1. gr. ^3)[90]L. 163/2000, 8.
+                                      gr.
+ [52. gr.]^1) Ráðherra er heimilt að setja nánari reglur um starfsemi innlendra
                     fyrirtækja í verðbréfaþjónustu erlendis.
-                            ^1)[55]L. 99/2000, 11. gr.
+                            ^1)[91]L. 163/2000, 7. gr.
 
- [IX. kafli.]^1) Starfsemi erlendra fyrirtækja í verbréfaþjónustu hér á landi.
-                            ^1)[56]L. 99/2000, 11. gr.
-    [46. gr.]^1) Erlend fyrirtæki í verðbréfaþjónustu, sem hafa staðfestu og
+  [X. kafli.]^1) Starfsemi erlendra fyrirtækja í verbréfaþjónustu hér á landi.
+                            ^1)[92]L. 163/2000, 7. gr.
+    [53. gr.]^1) Erlend fyrirtæki í verðbréfaþjónustu, sem hafa staðfestu og
  starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, geta stofnsett útibú
    hér á landi tveimur mánuðum eftir að [Fjármálaeftirlitið]^2) hefur fengið
     tilkynningu þess efnis frá lögbærum yfirvöldum í heimaríki hlutaðeigandi
@@ -767,8 +952,8 @@ Evrópska efnahagssvæðisins skal það tilkynnt [Fjármálaeftirlitinu].^2) S�
                        breytingarnar koma til framkvæmda.
  Ákvæði laga um hlutafélög varðandi útibú erlendra hlutafélaga eiga ekki við um
                                útibú skv. 1. mgr.
-               ^1)[57]L. 99/2000, 11. gr. ^2)[58]L. 84/1998, 1. gr.
-  [47. gr.]^1) Erlendum fyrirtækjum í verðbréfaþjónustu sem hafa staðfestu og
+               ^1)[93]L. 163/2000, 7. gr. ^2)[94]L. 84/1998, 1. gr.
+  [54. gr.]^1) Erlendum fyrirtækjum í verðbréfaþjónustu sem hafa staðfestu og
  starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, er heimilt að veita
       þjónustu samkvæmt lögum þessum hér á landi án stofnunar útibús þegar
   [Fjármálaeftirlitið]^2) hefur fengið tilkynningu þar að lútandi frá lögbærum
@@ -777,14 +962,14 @@ Evrópska efnahagssvæðisins skal það tilkynnt [Fjármálaeftirlitinu].^2) S�
                           fyrirtækis í heimaríki þess.
 Ráðherra er heimilt að setja nánari reglur um starfsemi fyrirtækja sem um getur
                                    í 1. mgr.
-               ^1)[59]L. 99/2000, 11. gr. ^2)[60]L. 84/1998, 1. gr.
-[48. gr.]^1) Erlend fyrirtæki í verðbréfaþjónustu geta notað sama heiti og notað
+               ^1)[95]L. 163/2000, 7. gr. ^2)[96]L. 84/1998, 1. gr.
+[55. gr.]^1) Erlend fyrirtæki í verðbréfaþjónustu geta notað sama heiti og notað
 er í heimaríki þeirra. Sé hætta á að villst verði á nöfnum innlendra og erlendra
           fyrirtækja í verðbréfaþjónustu sem starfa hér á landi getur
  [Fjármálaeftirlitið]^2) farið fram á að nöfn hinna síðarnefndu verði auðkennd
                                   sérstaklega.
-               ^1)[61]L. 99/2000, 11. gr. ^2)[62]L. 84/1998, 1. gr.
-  [49. gr.]^1) Ráðherra getur, að fenginni tillögu [Fjármálaeftirlitsins],^2)
+               ^1)[97]L. 163/2000, 7. gr. ^2)[98]L. 84/1998, 1. gr.
+  [56. gr.]^1) Ráðherra getur, að fenginni tillögu [Fjármálaeftirlitsins],^2)
    heimilað fyrirtæki í verðbréfaþjónustu með staðfestu í ríki utan Evrópska
  efnahagssvæðisins að opna útibú hér á landi eða veita þjónustu hér á landi án
   stofnunar útibús. Skilyrði fyrir veitingu slíks leyfis er að fyrirtækið hafi
@@ -793,35 +978,36 @@ stunda hér á landi, sbr. 8. og 9. gr., og að starfsemi þess í heimaríkinu 
                                    eftirliti.
 Ráðherra er heimilt að setja nánari reglur um starfsemi fyrirtækja sem um getur
                                    í 1. mgr.
-               ^1)[63]L. 99/2000, 11. gr. ^2)[64]L. 84/1998, 1. gr.
+               ^1)[99]L. 163/2000, 7. gr. ^2)[100]L. 84/1998, 1. gr.
 
-             [X. kafli.]^1) Samruni fyrirtækja í verðbréfaþjónustu.
-                            ^1)[65]L. 99/2000, 11. gr.
-[50. gr.]^1) Um samruna fyrirtækja í verðbréfaþjónustu fer samkvæmt ákvæðum laga
+            [XI. kafli.]^1) Samruni fyrirtækja í verðbréfaþjónustu.
+                            ^1)[101]L. 163/2000, 7. gr.
+[57. gr.]^1) Um samruna fyrirtækja í verðbréfaþjónustu fer samkvæmt ákvæðum laga
   um hlutafélög eða einkahlutafélög eftir því sem við á. Jafnframt skal liggja
      fyrir samþykki ráðherra að fenginni umsögn [Fjármálaeftirlitsins].^2)
 Starfi fyrirtæki í verðbréfaþjónustu erlendis skal tilkynna lögbærum yfirvöldum
                         hlutaðeigandi ríkis um samruna.
-               ^1)[66]L. 99/2000, 11. gr. ^2)[67]L. 84/1998, 1. gr.
-           [51. gr.]^1) Við sérstakar aðstæður og að fengnu samþykki
+              ^1)[102]L. 163/2000, 7. gr. ^2)[103]L. 84/1998, 1. gr.
+           [58. gr.]^1) Við sérstakar aðstæður og að fengnu samþykki
      [Fjármálaeftirlitsins]^2) er heimilt að við samruna tveggja eða fleiri
 fyrirtækja í verðbréfaþjónustu verði eigið fé hins sameinaða fyrirtækis lægra en
 kveðið er á um í 1. tölul. 1. mgr. 3. gr. Eigið fé má þó ekki lækka frá því sem
           það er við samruna. Fari eigið fé niður fyrir þá fjárhæð er
   [Fjármálaeftirlitinu]^2) heimilt að veita hlutaðeigandi fyrirtæki hæfilegan
  frest til úrbóta. Uppfylli fyrirtækið ekki skilyrði um eigið fé að þeim fresti
- liðnum skal starfsleyfi þess afturkallað skv. XI. kafla og því slitið skv. X.
-                                     kafla.
-               ^1)[68]L. 99/2000, 11. gr. ^2)[69]L. 84/1998, 1. gr.
+  liðnum skal starfsleyfi þess afturkallað skv. [XIII. kafla]^3) og því slitið
+                             skv. [XII. kafla].^3)
+    ^1)[104]L. 163/2000, 7. gr. ^2)[105]L. 84/1998, 1. gr. ^3)[106]L. 163/2000,
+                                     8. gr.
 
-              [XI. kafli.]^1) Slit fyrirtækja í verðbréfaþjónustu.
-                            ^1)[70]L. 99/2000, 11. gr.
-   [52. gr.]^1) Um slit fyrirtækja í verðbréfaþjónustu fer samkvæmt lögum um
+             [XII. kafli.]^1) Slit fyrirtækja í verðbréfaþjónustu.
+                            ^1)[107]L. 163/2000, 7. gr.
+   [59. gr.]^1) Um slit fyrirtækja í verðbréfaþjónustu fer samkvæmt lögum um
 gjaldþrot o.fl. og lögum um hlutafélög eða einkahlutafélög eftir því sem við á.
 Slíta ber fyrirtæki í verðbréfaþjónustu ef ráðherra synjar fyrirtækinu um frest
-   skv. 4. mgr. 37. gr. eða frestur samkvæmt því ákvæði er á enda án þess að
+ skv. 4. mgr. [47. gr.]^2) eða frestur samkvæmt því ákvæði er á enda án þess að
  fyrirtækinu hafi tekist að auka eigið fé fram yfir það lágmark sem kveðið er á
-                                  um í 32. gr.
+                               um í [42. gr.]^2)
 Þegar skylt er að slíta fyrirtæki í verðbréfaþjónustu skv. 1. mgr. skal ráðherra
  senda héraðsdómara á varnarþingi hlutaðeigandi fyrirtækis kröfu um að bú þess
    verði tekið til skipta. Þegar héraðsdómari hefur kannað hvort fullnægt sé
@@ -832,17 +1018,17 @@ Sé krafa skv. 3. mgr. tekin til greina skal farið með búið eftir fyrirmælu
  sig ábyrgð á skuldbindingum hins látna að öðru leyti en því að hluthafar njóta
  ekki þeirrar stöðu sem erfingjar njóta við slík skipti fyrr en leitt er í ljós
    eftir lok kröfulýsingarfrests að eignir búsins muni hrökkva fyrir skuldum.
-                            ^1)[71]L. 99/2000, 11. gr.
+              ^1)[108]L. 163/2000, 7. gr. ^2)[109]L. 163/2000, 8. gr.
 
-                   [XII. kafli.]^1) Afturköllun starfsleyfa.
-                            ^1)[72]L. 99/2000, 11. gr.
-[53. gr.]^1) Ráðherra skal afturkalla starfsleyfi fyrirtækis í verðbréfaþjónustu
+                   [XIII. kafli.]^1) Afturköllun starfsleyfa.
+                            ^1)[110]L. 163/2000, 7. gr.
+[60. gr.]^1) Ráðherra skal afturkalla starfsleyfi fyrirtækis í verðbréfaþjónustu
                  að fengnum tillögum [Fjármálaeftirlitsins]:^2)
    1. hafi leyfisveiting byggst á röngum skýrslum eða upplýsingum frá leyfishafa
                    eða verið aflað með öðrum ólögmætum hætti,
     2. uppfylli fyrirtækið ekki ákvæði 1. tölul. 1. mgr. 3. gr. um hlutafé eða
-  eigið fé eða skilyrði 1. mgr. 32. gr., enda hafi eigið fé ekki verið fært í
-   lögmælt horf innan þeirra tímamarka sem kveðið er á um í 4. mgr. 37. gr.,
+eigið fé eða skilyrði 1. mgr. [42. gr.],^3) enda hafi eigið fé ekki verið fært í
+ lögmælt horf innan þeirra tímamarka sem kveðið er á um í 4. mgr. [47. gr.],^3)
      3. brjóti fyrirtækið með alvarlegum hætti eða ítrekað gegn lögum þessum,
             reglum, samþykktum eða reglugerðum settum samkvæmt þeim,
    4. séu aðstæður með þeim hætti sem greinir í 2. mgr. 12. gr. um hæfi hluthafa
@@ -857,26 +1043,27 @@ Sé krafa skv. 3. mgr. tekin til greina skal farið með búið eftir fyrirmælu
          sparisjóð áður og gefið fyrirtækinu kost á að leysa úr málinu.
    Áður en til afturköllunar kemur skv. 1. mgr. skal hlutaðeigandi fyrirtæki
               veittur hæfilegur frestur til úrbóta sé þess kostur.
-               ^1)[73]L. 99/2000, 11. gr. ^2)[74]L. 84/1998, 1. gr.
-   [54. gr.]^1) Standi yfir opinber rannsókn vegna meints brots fyrirtækis í
+    ^1)[111]L. 163/2000, 7. gr. ^2)[112]L. 84/1998, 1. gr. ^3)[113]L. 163/2000,
+                                     8. gr.
+   [61. gr.]^1) Standi yfir opinber rannsókn vegna meints brots fyrirtækis í
 verðbréfaþjónustu á ákvæðum laga þessara, reglugerðum, reglum eða samþykktum er
    ráðherra heimilt, að fengnum tillögum [Fjármálaeftirlitsins],^2) að svipta
   hlutaðeigandi fyrirtæki starfsleyfi um stundarsakir. Skal þá ráðherra skipa
 fyrirtækinu umsjónaraðila til bráðabirgða sem gera skal ráðstafanir sem miða að
                      því að tryggja hag viðskiptavina þess.
-               ^1)[75]L. 99/2000, 11. gr. ^2)[76]L. 84/1998, 1. gr.
-   [55. gr.]^1) Afturköllun á starfsleyfi fyrirtækis í verðbréfaþjónustu skal
+              ^1)[114]L. 163/2000, 7. gr. ^2)[115]L. 84/1998, 1. gr.
+   [62. gr.]^1) Afturköllun á starfsleyfi fyrirtækis í verðbréfaþjónustu skal
    tilkynnt stjórn hlutaðeigandi fyrirtækis og rökstudd skriflega. Birta skal
 tilkynningu um afturköllun í Lögbirtingablaði og auglýsa hana í fjölmiðlum. Hafi
-  fyrirtæki í verðbréfaþjónustu starfað erlendis, sbr. ákvæði VII. kafla, skal
+fyrirtæki í verðbréfaþjónustu starfað erlendis, sbr. ákvæði [IX. kafla],^2) skal
        afturköllun einnig tilkynnt lögbærum yfirvöldum í viðkomandi ríki.
  Afturkalli ráðherra starfsleyfi fyrirtækis í verðbréfaþjónustu endanlega skal
                               fyrirtækinu slitið.
-                            ^1)[77]L. 99/2000, 11. gr.
+              ^1)[116]L. 163/2000, 7. gr. ^2)[117]L. 163/2000, 8. gr.
 
-                          [XIII. kafli.]^1) Eftirlit.
-                            ^1)[78]L. 99/2000, 11. gr.
-   [56. gr.]^1) [Fjármálaeftirlitið hefur eftirlit með starfsemi fyrirtækja í
+                           [XIV. kafli.]^1) Eftirlit.
+                            ^1)[118]L. 163/2000, 7. gr.
+   [63. gr.]^1) [Fjármálaeftirlitið hefur eftirlit með starfsemi fyrirtækja í
      verðbréfaþjónustu hér á landi, svo og starfsemi innlendra fyrirtækja í
  verðbréfaþjónustu erlendis, nema annað leiði af lögum eða alþjóðasamningum sem
    Ísland er aðili að. Skal Fjármálaeftirlitið hafa aðgang að öllum gögnum og
@@ -897,24 +1084,31 @@ nánum tengslum við fyrirtæki í verðbréfaþjónustu, enda telji Fjármálae
   sem nauðsynleg eru til að ganga úr skugga um hvort svo sé. Getur það krafist
 þess að slíkri starfsemi sé hætt þegar í stað. Jafnframt er því heimilt að birta
    opinberlega nöfn aðila sem taldir eru bjóða þjónustu án tilskilinna leyfa.
+  [Fjármálaeftirlitið getur aflað upplýsinga um framkvæmd útboðs hjá aðila sem
+býður fram verðbréf í útboði. Telji Fjármálaeftirlitið að ekki hafi verið farið
+ að reglum um almennt útboð verðbréfa getur það stöðvað útboðið og veitt frest
+     til úrbóta, sé þess kostur. Fjármálaeftirlitið getur birt opinberlega
+ yfirlýsingu um umrætt mál og lagt á aðila dagsektir samkvæmt lögum um opinbert
+                      eftirlit með fjármálastarfsemi.]^2)
  Hafi Fjármálaeftirlitið rökstudda ástæðu til að ætla að brotið hafi verið gegn
-   ákvæðum IV. kafla laga þessara skal því heimilt að krefja einstaklinga og
+ ákvæðum [V. kafla]^3) laga þessara skal því heimilt að krefja einstaklinga og
 lögaðila, þar á meðal opinberar stofnanir, um allar upplýsingar og gögn sem það
                     telur nauðsynleg til rannsóknar málsins.
 Um eftirlit með fyrirtækjum í verðbréfaþjónustu gilda að öðru leyti ákvæði laga
  um opinbert eftirlit með fjármálastarfsemi. Heimilt er að beita ákvæðum þeirra
        laga um dagsektir, stjórnvaldssektir og leit og hald á gögnum við
-            upplýsingaöflun og eftirlit samkvæmt þessari grein.]^2)
-               ^1)[79]L. 99/2000, 11. gr. ^2)[80]L. 11/2000, 14. gr.
-    [57. gr.]^1) Við framkvæmd eftirlits með starfsemi erlendra fyrirtækja í
+            upplýsingaöflun og eftirlit samkvæmt þessari grein.]^4)
+   ^1)[119]L. 163/2000, 7. gr. ^2)[120]L. 163/2000, 9. gr. ^3)[121]L. 163/2000,
+                       8. gr. ^4)[122]L. 11/2000, 14. gr.
+    [64. gr.]^1) Við framkvæmd eftirlits með starfsemi erlendra fyrirtækja í
    verðbréfaþjónustu hér á landi skal [Fjármálaeftirlitið]^2) hafa samráð við
      lögbær yfirvöld í heimaríki viðkomandi fyrirtækis í samræmi við lög og
                     alþjóðasamninga sem Ísland er aðili að.
-               ^1)[81]L. 99/2000, 11. gr. ^2)[82]L. 84/1998, 1. gr.
+              ^1)[123]L. 163/2000, 7. gr. ^2)[124]L. 84/1998, 1. gr.
 
-                         [XIV. kafli.]^1) Ýmis ákvæði.
-                            ^1)[83]L. 99/2000, 11. gr.
- [58. gr.]^1) [Fjármálaeftirlitið]^2) skal halda sérstaka skrá yfir fyrirtæki í
+                          [XV. kafli.]^1) Ýmis ákvæði.
+                            ^1)[125]L. 163/2000, 7. gr.
+ [65. gr.]^1) [Fjármálaeftirlitið]^2) skal halda sérstaka skrá yfir fyrirtæki í
     verðbréfaþjónustu sem hlotið hafa starfsleyfi hér á landi, svo og erlend
    fyrirtæki í verðbréfaþjónustu sem starfa eða veita þjónustu hér á landi. Í
  skránni skulu koma fram nöfn stjórnarmanna, framkvæmdastjóra og endurskoðenda
@@ -923,135 +1117,178 @@ fyrirtækisins. Jafnframt skulu koma fram upplýsingar um starfsemi hlutaðeigan
 [Fjármálaeftirlitinu]^2) er heimilt að kveða nánar á um upplýsingar sem veittar
     skulu samkvæmt 1. mgr. Breytingar á áður tilkynntum atriðum skulu þegar
                       tilkynntar [Fjármálaeftirlitinu].^2)
-               ^1)[84]L. 99/2000, 11. gr. ^2)[85]L. 84/1998, 1. gr.
- [59. gr.]^1) Eigendur, stjórnendur, framkvæmdastjórar, endurskoðendur og aðrir
+              ^1)[126]L. 163/2000, 7. gr. ^2)[127]L. 84/1998, 1. gr.
+ [66. gr.]^1) Eigendur, stjórnendur, framkvæmdastjórar, endurskoðendur og aðrir
    starfsmenn fyrirtækja í verðbréfaþjónustu eru bundnir þagnarskyldu um öll
    viðskipti sem fyrirtækin annast eða hafa milligöngu um, svo og allt það er
  varðar hagi viðskiptamanna fyrirtækjanna og þeir öðlast vitneskju um í starfi
  sínu og leynt skal fara samkvæmt lögum eða eðli máls, nema dómari úrskurði að
   skylt sé að veita upplýsingar fyrir dómi eða lögreglu eða skylda sé að veita
     upplýsingar lögum samkvæmt. Þagnarskyldan helst þótt látið sé af starfi.
-                            ^1)[86]L. 99/2000, 11. gr.
-   [60. gr.]^1) Kostnaður við birtingu tilkynninga samkvæmt lögum þessum skal
+                            ^1)[128]L. 163/2000, 7. gr.
+   [67. gr.]^1) Kostnaður við birtingu tilkynninga samkvæmt lögum þessum skal
                       greiddur af hlutaðeigandi fyrirtæki.
-                            ^1)[87]L. 99/2000, 11. gr.
-[61. gr.]^1) Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt
+                            ^1)[129]L. 163/2000, 7. gr.
+[68. gr.]^1) Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt
 að kveða nánar á um framkvæmd þeirra með reglugerð,^2) þar á meðal um viðurlög í
                                 formi dagsekta.
-                    ^1)[88]L. 99/2000, 11. gr. ^2)Rg. 301/1999.
+                   ^1)[130]L. 163/2000, 7. gr. ^2)Rg. 506/2000.
 
-                           [XV. kafli.]^1) Viðurlög.
-                            ^1)[89]L. 99/2000, 11. gr.
-[62. gr.]^1) Brot gegn lögum þessum varða sektum eða fangelsi allt að einu ári,
+                           [XVI. kafli.]^1) Viðurlög.
+                            ^1)[131]L. 163/2000, 7. gr.
+[69. gr.]^1) Brot gegn lögum þessum varða sektum eða fangelsi allt að einu ári,
 nema þyngri refsing liggi við samkvæmt almennum hegningarlögum. Sé brot framið í
     þágu lögaðila er heimilt að beita stjórnendur lögaðilans framangreindum
      viðurlögum og einnig er heimilt að gera lögaðilanum sekt og sviptingu
                                 starfsréttinda.
-  Brot gegn ákvæðum IV. kafla varða sektum eða fangelsi allt að tveimur árum.
+Brot gegn ákvæðum [V. kafla]^2) varða sektum eða fangelsi allt að tveimur árum.
   Jafnframt er heimilt að gera upptækan með dómi beinan eða óbeinan hagnað sem
-                hlotist hefur með broti gegn ákvæðum IV. kafla.
+              hlotist hefur með broti gegn ákvæðum [V. kafla].^2)
  Tilraun til og hlutdeild í brotum á lögum þessum eru refsiverðar eftir því sem
                         segir í almennum hegningarlögum.
-                            ^1)[90]L. 99/2000, 11. gr.
+              ^1)[132]L. 163/2000, 7. gr. ^2)[133]L. 163/2000, 8. gr.
 
-                [XVI. kafli.]^1) Gildistaka og brottfallin lög.
-                            ^1)[91]L. 99/2000, 11. gr.
-                   [63. gr.]^1) Lög þessi öðlast þegar gildi.
-                            ^1)[92]L. 99/2000, 11. gr.
+                [XVII. kafli.]^1) Gildistaka og brottfallin lög.
+                            ^1)[134]L. 163/2000, 7. gr.
+                   [70. gr.]^1) Lög þessi öðlast þegar gildi.
+                            ^1)[135]L. 163/2000, 7. gr.
                             Ákvæði til bráðabirgða.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996013
-   2. file:///altext/stjt/2000.099.html
-   3. file:///altext/stjt/2000.099.html
-   4. file:///altext/stjt/1998.035.html
-   5. file:///altext/stjt/1998.084.html
-   6. file:///altext/stjt/1998.094.html
+   2. file:///altext/stjt/2000.163.html
+   3. file:///altext/stjt/2000.163.html
+   4. file:///altext/stjt/2000.164.html
+   5. file:///altext/stjt/1998.035.html
+   6. file:///altext/stjt/1998.084.html
    7. file:///altext/stjt/2000.099.html
-   8. file:///altext/stjt/1998.084.html
-   9. file:///altext/stjt/1998.084.html
+   8. file:///altext/stjt/1998.094.html
+   9. file:///altext/stjt/2000.099.html
   10. file:///altext/stjt/1998.084.html
   11. file:///altext/stjt/1998.084.html
-  12. file:///altext/stjt/2000.099.html
-  13. file:///altext/stjt/2000.099.html
-  14. file:///altext/stjt/2000.099.html
+  12. file:///altext/stjt/2000.163.html
+  13. file:///altext/stjt/1998.084.html
+  14. file:///altext/stjt/2000.163.html
   15. file:///altext/stjt/1998.084.html
-  16. file:///altext/stjt/1998.084.html
-  17. file:///altext/stjt/1998.084.html
+  16. file:///altext/stjt/2000.099.html
+  17. file:///altext/stjt/2000.099.html
   18. file:///altext/stjt/2000.099.html
-  19. file:///altext/stjt/2000.099.html
+  19. file:///altext/stjt/1998.084.html
   20. file:///altext/stjt/1998.084.html
-  21. file:///altext/stjt/2000.099.html
-  22. file:///altext/stjt/1998.084.html
-  23. file:///altext/stjt/2000.099.html
-  24. file:///altext/stjt/1998.035.html
-  25. file:///altext/stjt/2000.099.html
-  26. file:///altext/stjt/2000.099.html
-  27. file:///altext/stjt/2000.099.html
-  28. file://1991021.html#g91
-  29. file://1991021.html#g100
-  30. file:///altext/stjt/2000.099.html
-  31. file://1991021.html#g137
-  32. file:///altext/stjt/2000.099.html
+  21. file:///altext/stjt/1998.084.html
+  22. file:///altext/stjt/2000.099.html
+  23. file:///altext/stjt/2000.163.html
+  24. file:///altext/stjt/2000.164.html
+  25. file:///altext/stjt/1998.084.html
+  26. file:///altext/stjt/2000.163.html
+  27. file:///altext/stjt/2000.163.html
+  28. file:///altext/stjt/2000.099.html
+  29. file:///altext/stjt/2000.163.html
+  30. file:///altext/stjt/1998.084.html
+  31. file:///altext/stjt/2000.163.html
+  32. file:///altext/stjt/2000.163.html
   33. file:///altext/stjt/2000.099.html
-  34. file:///altext/stjt/2000.099.html
-  35. file:///altext/stjt/1998.084.html
-  36. file:///altext/stjt/2000.099.html
-  37. file:///altext/stjt/2000.099.html
-  38. file:///altext/stjt/2000.099.html
-  39. file:///altext/stjt/1998.084.html
-  40. file:///altext/stjt/2000.099.html
-  41. file:///altext/stjt/1998.084.html
-  42. file:///altext/stjt/2000.099.html
-  43. file:///altext/stjt/1998.084.html
-  44. file:///altext/stjt/2000.099.html
-  45. file:///altext/stjt/1998.084.html
-  46. file:///altext/stjt/2000.099.html
-  47. file:///altext/stjt/1998.084.html
-  48. file:///altext/stjt/2000.099.html
-  49. file:///altext/stjt/2000.099.html
-  50. file:///altext/stjt/1998.084.html
-  51. file:///altext/stjt/2000.099.html
-  52. file:///altext/stjt/1998.084.html
-  53. file:///altext/stjt/2000.099.html
-  54. file:///altext/stjt/1998.084.html
-  55. file:///altext/stjt/2000.099.html
-  56. file:///altext/stjt/2000.099.html
-  57. file:///altext/stjt/2000.099.html
-  58. file:///altext/stjt/1998.084.html
+  34. file:///altext/stjt/2000.163.html
+  35. file:///altext/stjt/2000.163.html
+  36. file:///altext/stjt/2000.163.html
+  37. file:///altext/stjt/2000.163.html
+  38. file:///altext/stjt/2000.163.html
+  39. file:///altext/stjt/2000.163.html
+  40. file:///altext/stjt/2000.163.html
+  41. file:///altext/stjt/2000.163.html
+  42. file:///altext/stjt/2000.163.html
+  43. file:///altext/stjt/2000.163.html
+  44. file:///altext/stjt/2000.163.html
+  45. file:///altext/stjt/2000.163.html
+  46. file:///altext/stjt/2000.163.html
+  47. file:///altext/stjt/2000.163.html
+  48. file:///altext/stjt/2000.163.html
+  49. file:///altext/stjt/2000.163.html
+  50. file:///altext/stjt/2000.163.html
+  51. file:///altext/stjt/2000.163.html
+  52. file:///altext/stjt/2000.099.html
+  53. file:///altext/stjt/2000.163.html
+  54. file:///altext/stjt/2000.099.html
+  55. file://1991021.html#g91
+  56. file://1991021.html#g100
+  57. file:///altext/stjt/2000.163.html
+  58. file:///altext/stjt/2000.163.html
   59. file:///altext/stjt/2000.099.html
-  60. file:///altext/stjt/1998.084.html
-  61. file:///altext/stjt/2000.099.html
-  62. file:///altext/stjt/1998.084.html
+  60. file://1991021.html#g137
+  61. file:///altext/stjt/2000.163.html
+  62. file:///altext/stjt/2000.163.html
   63. file:///altext/stjt/2000.099.html
-  64. file:///altext/stjt/1998.084.html
-  65. file:///altext/stjt/2000.099.html
-  66. file:///altext/stjt/2000.099.html
-  67. file:///altext/stjt/1998.084.html
-  68. file:///altext/stjt/2000.099.html
-  69. file:///altext/stjt/1998.084.html
-  70. file:///altext/stjt/2000.099.html
-  71. file:///altext/stjt/2000.099.html
-  72. file:///altext/stjt/2000.099.html
-  73. file:///altext/stjt/2000.099.html
+  64. file:///altext/stjt/2000.163.html
+  65. file:///altext/stjt/2000.163.html
+  66. file:///altext/stjt/1998.084.html
+  67. file:///altext/stjt/2000.163.html
+  68. file:///altext/stjt/2000.163.html
+  69. file:///altext/stjt/2000.163.html
+  70. file:///altext/stjt/2000.163.html
+  71. file:///altext/stjt/2000.163.html
+  72. file:///altext/stjt/1998.084.html
+  73. file:///altext/stjt/2000.163.html
   74. file:///altext/stjt/1998.084.html
-  75. file:///altext/stjt/2000.099.html
-  76. file:///altext/stjt/1998.084.html
-  77. file:///altext/stjt/2000.099.html
-  78. file:///altext/stjt/2000.099.html
-  79. file:///altext/stjt/2000.099.html
-  80. file:///altext/stjt/2000.011.html
-  81. file:///altext/stjt/2000.099.html
+  75. file:///altext/stjt/2000.163.html
+  76. file:///altext/stjt/2000.163.html
+  77. file:///altext/stjt/1998.084.html
+  78. file:///altext/stjt/2000.163.html
+  79. file:///altext/stjt/2000.163.html
+  80. file:///altext/stjt/1998.084.html
+  81. file:///altext/stjt/2000.163.html
   82. file:///altext/stjt/1998.084.html
-  83. file:///altext/stjt/2000.099.html
-  84. file:///altext/stjt/2000.099.html
+  83. file:///altext/stjt/2000.163.html
+  84. file:///altext/stjt/2000.163.html
   85. file:///altext/stjt/1998.084.html
-  86. file:///altext/stjt/2000.099.html
-  87. file:///altext/stjt/2000.099.html
-  88. file:///altext/stjt/2000.099.html
-  89. file:///altext/stjt/2000.099.html
-  90. file:///altext/stjt/2000.099.html
-  91. file:///altext/stjt/2000.099.html
-  92. file:///altext/stjt/2000.099.html
+  86. file:///altext/stjt/2000.163.html
+  87. file:///altext/stjt/1998.084.html
+  88. file:///altext/stjt/2000.163.html
+  89. file:///altext/stjt/1998.084.html
+  90. file:///altext/stjt/2000.163.html
+  91. file:///altext/stjt/2000.163.html
+  92. file:///altext/stjt/2000.163.html
+  93. file:///altext/stjt/2000.163.html
+  94. file:///altext/stjt/1998.084.html
+  95. file:///altext/stjt/2000.163.html
+  96. file:///altext/stjt/1998.084.html
+  97. file:///altext/stjt/2000.163.html
+  98. file:///altext/stjt/1998.084.html
+  99. file:///altext/stjt/2000.163.html
+ 100. file:///altext/stjt/1998.084.html
+ 101. file:///altext/stjt/2000.163.html
+ 102. file:///altext/stjt/2000.163.html
+ 103. file:///altext/stjt/1998.084.html
+ 104. file:///altext/stjt/2000.163.html
+ 105. file:///altext/stjt/1998.084.html
+ 106. file:///altext/stjt/2000.163.html
+ 107. file:///altext/stjt/2000.163.html
+ 108. file:///altext/stjt/2000.163.html
+ 109. file:///altext/stjt/2000.163.html
+ 110. file:///altext/stjt/2000.163.html
+ 111. file:///altext/stjt/2000.163.html
+ 112. file:///altext/stjt/1998.084.html
+ 113. file:///altext/stjt/2000.163.html
+ 114. file:///altext/stjt/2000.163.html
+ 115. file:///altext/stjt/1998.084.html
+ 116. file:///altext/stjt/2000.163.html
+ 117. file:///altext/stjt/2000.163.html
+ 118. file:///altext/stjt/2000.163.html
+ 119. file:///altext/stjt/2000.163.html
+ 120. file:///altext/stjt/2000.163.html
+ 121. file:///altext/stjt/2000.163.html
+ 122. file:///altext/stjt/2000.011.html
+ 123. file:///altext/stjt/2000.163.html
+ 124. file:///altext/stjt/1998.084.html
+ 125. file:///altext/stjt/2000.163.html
+ 126. file:///altext/stjt/2000.163.html
+ 127. file:///altext/stjt/1998.084.html
+ 128. file:///altext/stjt/2000.163.html
+ 129. file:///altext/stjt/2000.163.html
+ 130. file:///altext/stjt/2000.163.html
+ 131. file:///altext/stjt/2000.163.html
+ 132. file:///altext/stjt/2000.163.html
+ 133. file:///altext/stjt/2000.163.html
+ 134. file:///altext/stjt/2000.163.html
+ 135. file:///altext/stjt/2000.163.html

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -165,15 +164,16 @@ fróunar eða varnar gegn sjúkdómum eða sjúkdómseinkennum í mönnum eða d
                                 Lyfjastofnun úr.
  Ráðherra setur reglugerð um nánari skilgreiningu á lyfjum og lyfjahugtakinu í
                  samræmi við reglur Evrópska efnahagssvæðisins.
- Ráðherra setur reglugerð um undanþágur frá lyfjahugtakinu og skal þar kveðið á
-um hvenær efni, sem eru upprunnin úr náttúrunni, teljist ekki náttúrulyf heldur
-     almenn vara (náttúruvara). Í reglugerð skal einnig kveðið á um í hvaða
+Ráðherra setur reglugerð^1) um undanþágur frá lyfjahugtakinu og skal þar kveðið
+   á um hvenær efni, sem eru upprunnin úr náttúrunni, teljist ekki náttúrulyf
+ heldur almenn vara (náttúruvara). Í reglugerð skal einnig kveðið á um í hvaða
  dagskömmtum vítamín og/eða steinefni, sem ætluð eru mönnum eða dýrum, teljist
                                    ekki lyf.
-Ráðherra setur reglugerð^1) með skilgreiningu og nánari ákvæðum um hjúkrunar- og
+Ráðherra setur reglugerð^2) með skilgreiningu og nánari ákvæðum um hjúkrunar- og
          lækningahluti (medical devices) í samræmi við reglur Evrópska
-                             efnahagssvæðisins.]^2)
-             ^1)Rg. 476/1994, sbr. 646/1994. ^2)[6]L. 108/2000, 5. gr.
+                             efnahagssvæðisins.]^3)
+      ^1)Rg. 735/2000, sbr. 808/2000 og augl. 918/2000. ^2)Rg. 476/1994, sbr.
+                      646/1994. ^3)[6]L. 108/2000, 5. gr.
 
                             III. kafli. Lyfjaskrár.
     6. gr. Ísland er aðili að evrópsku lyfjaskránni (European Pharmacopoeia;
@@ -225,13 +225,13 @@ slíkar undanþágur skal þess gætt að magn lyfjanna sé takmarkað við þar
   ónæmisvaka sem ætlað er dýrum (immunological veterinary medical product) ef
   skráning þess fer í bága við lög eða nota á það til varnar gegn sjúkdómi sem
                         óþekktur er í dýrum hér á landi.
- Ráðherra skal í reglugerð setja ákvæði um veitingu markaðsleyfa fyrir sérlyf,
+Ráðherra skal í reglugerð^1) setja ákvæði um veitingu markaðsleyfa fyrir sérlyf,
    smáskammtalyf og náttúrulyf, vítamín og steinefni. Einnig skal kveða á um
  meðferð umsókna, viðurkenningu á grundvelli markaðsleyfis frá öðru aðildarríki
       EES-samningsins, breytingu á skilmálum markaðsleyfis, afturköllun og
 niðurfellingu markaðsleyfis og undanþágur vegna lyfja sem ekki hafa markaðsleyfi
-                                hér á landi.]^1)
-                             ^1)[8]L. 108/2000, 6. gr.
+                                hér á landi.]^2)
+                    ^1)Rg. 462/2000. ^2)[8]L. 108/2000, 6. gr.
 8. gr. Heimilt er að binda [veitingu markaðsleyfis lyfs]^1) við notkun eingöngu
 á sjúkrahúsum, sérstökum sjúkradeildum og/eða við ávísun sérfræðinga í einstökum
                               greinum læknisfræði.
@@ -423,18 +423,18 @@ leyfi um eitt ár í senn eftir þann tíma að fenginni umsögn [Lyfjastofnunar
 Lyfsölum er skylt að veita heilbrigðis- og tryggingamálaráðuneytinu upplýsingar
 um starfsemi sína og halda bækur þar að lútandi, enda brjóti það ekki í bága við
   önnur lög. [Lyfsölum er jafnframt skylt að afhenda Tryggingastofnun ríkisins
-rafrænar upplýsingar um afgreiðslu lyfja, að fengnu samþykki tölvunefndar, sbr.
-               lög um skráningu og meðferð persónuupplýsinga.]^1)
+ rafrænar upplýsingar um afgreiðslu lyfja, að fengnu samþykki [Persónuverndar,
+         sbr. lög um persónuvernd og meðferð persónuupplýsinga].^1)]^2)
  Lyfsölum er skylt að veita neytendum og heilbrigðisstéttum upplýsingar um lyf,
   notkun þeirra og geymslu. Þá er þeim jafnframt skylt að kynna lyfjanotkun og
 lyfjafræðilega umsjá í samvinnu við aðrar heilbrigðisstéttir með það að markmiði
            að draga úr líkum á sjúkdómum og auka almennt heilbrigði.
 Lyfsalar skulu tölvuskrá allar upplýsingar af lyfseðlum á formi sem samþykkt er
        af landlækni og [Persónuvernd, sbr. lög um persónuvernd og meðferð
-persónuupplýsinga].^2) Landlæknir getur krafist þessara upplýsinga allt að einu
+persónuupplýsinga].^3) Landlæknir getur krafist þessara upplýsinga allt að einu
                               ári aftur í tímann.
-   ^1)[27]L. 108/2000, 22. gr. ^2)[28]L. 77/2000, 46. gr. Öðlast gildi 1. janúar
-                                     2001.
+   ^1)[27]L. 173/2000, 1. gr. ^2)[28]L. 108/2000, 22. gr. ^3)[29]L. 77/2000, 46.
+                                      gr.
 
 IX. kafli. Vistun lyfjafræði- og lyfjatækninema. Skyldur starfsmanna lyfjabúða.
     25. gr. Lyfjabúðir vista lyfjafræði- og lyfjatækninema til verklegs náms
@@ -463,7 +463,7 @@ lyfjafræðingur, enda sé umfang starfsemi lítið og lyfjatæknar eða annað 
  héraðslæknis og lyfsala. Ef lyfjatæknir er ekki fáanlegur til starfa í útibúi
 frá lyfjabúð er heimilt að veita þennan sama rétt öðrum ábyrgum umboðsmanni sem
          lyfsali ræður til þess að fengnu samþykki [Lyfjastofnunar].^1)
-                            ^1)[29]L. 108/2000, 23. gr.
+                            ^1)[30]L. 108/2000, 23. gr.
 
                   XI. kafli. Innflutningur og heildsala lyfja.
  29. gr. Leyfi til innflutnings fullgerðra lyfja og lyfjaefna til dreifingar í
@@ -507,7 +507,7 @@ eigin stofum eða í vitjunum og til sölu frá starfsstofu sinni. Ráðherra sk
 Lyfjaheildsölum er skylt að tölvuskrá söluupplýsingar á formi sem samþykkt er af
   Lyfjastofnun og jafnframt veita stofnuninni upplýsingar um starfsemi sína og
                         halda bækur þar að lútandi.]^1)
-                            ^1)[30]L. 108/2000, 24. gr.
+                            ^1)[31]L. 108/2000, 24. gr.
 
                          XII. kafli. Framleiðsla lyfja.
   31. gr. Leyfi til framleiðslu lyfja hafa þeir aðilar einir sem til þess hafa
@@ -527,7 +527,7 @@ Lyfjaheildsölum er skylt að tölvuskrá söluupplýsingar á formi sem samþyk
 þessara eða annarra laga má svipta hann leyfinu. Lyfjaframleiðendum er skylt að
   veita [Lyfjastofnun]^1) upplýsingar um starfsemi sína og halda bækur þar að
                                     lútandi.
-                            ^1)[31]L. 108/2000, 25. gr.
+                            ^1)[32]L. 108/2000, 25. gr.
    33. gr. Lyfjabúðir skulu framleiða forskriftarlyf lækna eða útvega þau svo
 fljótt sem unnt er. Heimilt er að framleiða stöðluð forskriftarlyf í lyfjabúðum
 ef settum skilyrðum er fullnægt. Heimilt er að takmarka framleiðsluleyfi þeirra
@@ -552,7 +552,7 @@ ef settum skilyrðum er fullnægt. Heimilt er að takmarka framleiðsluleyfi þe
 sjúkrahússapótek]^1) um lyfjafræðilega þjónustu, svo sem umsjón með öflun lyfja
          og eftirlit með notkun þeirra. Samningurinn er háður samþykki
                               [Lyfjastofnunar].^1)
-                            ^1)[32]L. 108/2000, 26. gr.
+                            ^1)[33]L. 108/2000, 26. gr.
      36. gr. Sjúkrahússapóteki er heimilt að afgreiða lyf til sjúklinga sem
    útskrifast af sjúkrahúsinu og göngudeildarsjúklinga. Sjúkrahússapóteki er
 einungis heimilt að afgreiða lyfseðla sem merktir eru sjúkrahúsinu og gefnir eru
@@ -567,13 +567,13 @@ einu jafngildu lyfi að velja til notkunar á sjúkrahúsi þau lyf sem ódýrar
        38. gr. Stjórn sjúkrahúss ber að sjá svo um að húsnæði og búnaður
    sjúkrahússapóteks eða lyfjageymslu sjúkrahússins sé við hæfi og skal hlíta
                   úrskurði [Lyfjastofnunar]^1) þar að lútandi.
-                            ^1)[33]L. 108/2000, 27. gr.
+                            ^1)[34]L. 108/2000, 27. gr.
 
                              XIV. kafli. Lyfjaverð.
         39. gr. Verðlagning lyfja, sem seld eru án lyfseðils, er frjáls.
 [Lyfjaverðsnefnd ákvarðar verðlagningu dýralyfja sem seld eru án lyfseðils, sbr.
                                   40. gr.]^1)
-                            ^1)[34]L. 131/1994, 4. gr.
+                            ^1)[35]L. 131/1994, 4. gr.
 40. gr. [Lyfjaverðsnefnd ákvarðar hámarksverð á lyfseðilsskyldum lyfjum og öllum
                      dýralyfjum í heildsölu og smásölu.]^1)
   Innflytjendur lyfja, lyfjaframleiðendur og umboðsmenn þeirra skulu sækja um
@@ -635,7 +635,7 @@ hafa borist nefndinni getur hún til viðbótar framlengt frestinn einu sinni um
 Lyfsölum, dýralæknum, lyfjaheildsölum og lyfjaframleiðendum er skylt að afhenda
 lyfjaverðsnefnd allar þær skýrslur og gögn sem varða verðlagningu lyfja og veita
     aðrar upplýsingar sem hún telur sig þurfa til að rækja starfa sinn.]^3)
-   ^1)[35]L. 131/1994, 5. gr. ^2)[36]L. 153/1996, 2. gr. ^3)[37]L. 108/2000, 28.
+   ^1)[36]L. 131/1994, 5. gr. ^2)[37]L. 153/1996, 2. gr. ^3)[38]L. 108/2000, 28.
                                       gr.
   41. gr. [Ráðherra skipar fimm manna nefnd til fjögurra ára í senn sem ákveða
  skal greiðsluþátttöku sjúkratrygginga skv. 36. gr. laga um almannatryggingar í
@@ -657,7 +657,7 @@ látið nauðsynlegar upplýsingar fylgja með umsókn skal láta umsækjanda vi
   umsækjanda eigi síðar en 90 dögum eftir að nauðsynlegar viðbótarupplýsingar
  bárust. Slík ákvörðun skal þó ekki tekin fyrr en ákvörðun um lyfjaverð liggur
                                    fyrir.]^1)
-                            ^1)[38]L. 108/2000, 29. gr.
+                            ^1)[39]L. 108/2000, 29. gr.
 
                   XV. kafli. Eftirlit, málarekstur og refsing.
  42. gr. [Eftirlit samkvæmt lögum þessum, reglugerðum eða öðrum fyrirmælum er í
@@ -674,7 +674,7 @@ Stöðvun starfsemi og förgun á vörum skal því aðeins beitt að Lyfjastofn
                   leyfi viðkomandi reksturs verði afturkallað.
  Þar sem innsigli er notað við stöðvun starfsemi skal nota sérstök innsigli með
                           auðkenni Lyfjastofnunar.]^1)
-                            ^1)[39]L. 108/2000, 30. gr.
+                            ^1)[40]L. 108/2000, 30. gr.
     43. gr. [Um mál sem rísa kunna út af brotum á lögum þessum fer að hætti
               opinberra mála nema öðruvísi sé mælt fyrir í lögum.
 Fyrir brot gegn lögum þessum eða reglugerðum settum samkvæmt þeim skal refsa með
@@ -687,7 +687,7 @@ Fyrir brot gegn lögum þessum eða reglugerðum settum samkvæmt þeim skal ref
   Lyf og lyfjaefni, sem eru framleidd, flutt inn eða seld ólöglega hér á landi
 skulu gerð upptæk með dómi og enn fremur ágóði af ólöglegri lyfjasölu. Andvirði
                       hins upptæka rennur í ríkissjóð.]^3)
-   ^1)[40]L. 82/1998, 215. gr. ^2)[41]L. 10/1997, 13. gr. ^3)[42]L. 55/1995, 2.
+   ^1)[41]L. 82/1998, 215. gr. ^2)[42]L. 10/1997, 13. gr. ^3)[43]L. 55/1995, 2.
                                       gr.
 
                           XVI. kafli. Niðurlagsákvæði.
@@ -699,22 +699,23 @@ Heimilt er að birta sem reglugerðir reglur Evrópusambandsins um Lyfjamálasto
                                     Evrópu.
         Ákvarðanir Lyfjastofnunar má kæra til ráðherra samkvæmt ákvæðum
                               stjórnsýslulaga.]^2)
-      ^1)Rg. 421/1998 með síðari breytingum (um gerð lyfseðla og ávísun lyfja
- o.fl.). Rg. 418/1994, sbr. 313/1995 og 340/1998 (um merkingu lyfja o.fl.). Rg.
- 633/1994 (um gildistöku EES-gerða um lyf). Rg. 328/1995 (um lyfjaauglýsingar).
-    Rg. 465/1995, sbr. 597/1995 og 548/1997 (um markaðsleyfi sérlyfja). Rg.
-   582/1995, sbr. 584/1995 og 622/1995 (um markaðsleyfi samhliða lyfja). Rg.
-  594/1995 (um litarefni í lyfjum). Rg. 501/1996 (um ákvörðun lyfjaverðs). Rg.
-     650/1996 (um leyfisgjöld vegna lyfja). Rg. 699/1996 (um innflutning og
- heildsöludreifingu lyfja). Rg. 700/1996 (um framleiðslu lyfja). Augl. 226/1997
-      (um gildistöku alþjóðasamþykkta á sviði lyfjamála). Rg. 426/1997 (um
- lyfsöluleyfi og lyfjabúðir). Rg. 684/1997 (um markaðsleyfi náttúrulyfja). Rg.
-212/1998 (um innflutning einstaklinga á lyfjum til eigin nota). Rg. 421/1998 (um
- vistun lyfjafræði- og lyfjatæknistúdenta til verklegs náms). Rg. 493/1999 (um
-              skömmtun í lyfjaöskjur). ^2)[43]L. 108/2000, 31. gr.
+     ^1)Rg. 421/1988 með síðari breytingum, sbr. 539/2000 (um gerð lyfseðla og
+ávísun lyfja o.fl.). Rg. 633/1994 (um gildistöku EES-gerða um lyf). Rg. 328/1995
+(um lyfjaauglýsingar). Rg. 582/1995, sbr. 584/1995 og 622/1995 (um markaðsleyfi
+samhliða lyfja). Rg. 594/1995 (um litarefni í lyfjum). Rg. 501/1996 (um ákvörðun
+    lyfjaverðs). Rg. 650/1996 (um leyfisgjöld vegna lyfja). Rg. 699/1996 (um
+ innflutning og heildsöludreifingu lyfja). Rg. 700/1996 (um framleiðslu lyfja).
+Augl. 226/1997 (um gildistöku alþjóðasamþykkta á sviði lyfjamála). Rg. 426/1997
+ (um lyfsöluleyfi og lyfjabúðir). Rg. 684/1997 (um markaðsleyfi náttúrulyfja).
+Rg. 212/1998 (um innflutning einstaklinga á lyfjum til eigin nota). Rg. 421/1998
+ (um vistun lyfjafræði- og lyfjatæknistúdenta til verklegs náms). Rg. 493/1999
+    (um skömmtun í lyfjaöskjur). Rg. 462/2000 (um markaðsleyfi fyrir sérlyf,
+  merkingar þeirra og fylgiseðla). Rg. 539/2000 (um heimildir dýralækna til að
+ ávísa lyfjum), sbr. 912/2000. Rg. 967/2000 (um innflutning, sölu og dreifingu
+                 smáskammtalyfja). ^2)[44]L. 108/2000, 31. gr.
                   45. gr. Lög þessi öðlast gildi 1. júlí 1994.
    Ákvæði til bráðabirgða. 1. Þær reglugerðir, sem settar hafa verið samkvæmt
- [44]lyfjalögum, nr. 108/1984, og [45]lögum um lyfjadreifingu, nr. 76/1982, með
+ [45]lyfjalögum, nr. 108/1984, og [46]lögum um lyfjadreifingu, nr. 76/1982, með
   síðari breytingum,^1) skulu halda gildi sínu þar til nýjar reglugerðir hafa
           öðlast gildi enda stangist efni þeirra ekki á við lög þessi.
    2. Núverandi lyfsalar halda lyfsöluleyfum sínum eftir gildistöku ákvæða VII.
@@ -722,14 +723,14 @@ Heimilt er að birta sem reglugerðir reglur Evrópusambandsins um Lyfjamálasto
 Háskóla Íslands hafa frest til [15. mars 1996]^2) til að uppfylla skilyrði laga
   þessara. Læknar og sveitarfélög halda leyfum sínum til lyfsölu fram til [15.
    mars 1996]^2) og eftir það þar til sá er uppfyllir skilyrði samkvæmt lögum
-  þessum sækir um lyfsöluleyfið. Þrátt fyrir ákvæði 2. mgr. [46]6. gr. laga um
+  þessum sækir um lyfsöluleyfið. Þrátt fyrir ákvæði 2. mgr. [47]6. gr. laga um
    lyfjadreifingu, nr. 76/1982, getur ráðherra framlengt lyfsöluleyfi þar til
                          ákvæði VII. kafla taka gildi.
     3. Ákvæði VII. og XIV. kafla koma þó eigi til framkvæmda fyrr en [15. mars
  1996].^2) Hið sama gildir um ákvörðun þóknunar fyrir lyfjaafhendingu dýralækna
                           sem kveðið er á um í 30. gr.
    ^1)Um rg. samkvæmt eldri lögum, sjá Lagasafn 1990, d. 10411050 og 10541062.
-                           ^2)[47]L. 118/1995, 4. gr.
+                           ^2)[48]L. 118/1995, 4. gr.
 
 References
 
@@ -760,24 +761,25 @@ References
   24. file://1978035.html
   25. file://1978035.html
   26. file:///altext/stjt/2000.108.html
-  27. file:///altext/stjt/2000.108.html
-  28. file://2000077.html#g46
-  29. file:///altext/stjt/2000.108.html
+  27. file:///altext/stjt/2000.173.html
+  28. file:///altext/stjt/2000.108.html
+  29. file://2000077.html#g46
   30. file:///altext/stjt/2000.108.html
   31. file:///altext/stjt/2000.108.html
   32. file:///altext/stjt/2000.108.html
   33. file:///altext/stjt/2000.108.html
-  34. file:///altext/stjt/1994.131.html
+  34. file:///altext/stjt/2000.108.html
   35. file:///altext/stjt/1994.131.html
-  36. file:///altext/stjt/1996.153.html
-  37. file:///altext/stjt/2000.108.html
+  36. file:///altext/stjt/1994.131.html
+  37. file:///altext/stjt/1996.153.html
   38. file:///altext/stjt/2000.108.html
   39. file:///altext/stjt/2000.108.html
-  40. file:///altext/stjt/1998.082.html
-  41. file:///altext/stjt/1997.010.html
-  42. file:///altext/stjt/1995.055.html
-  43. file:///altext/stjt/2000.108.html
-  44. file://1984108.html
-  45. file://1982076.html
+  40. file:///altext/stjt/2000.108.html
+  41. file:///altext/stjt/1998.082.html
+  42. file:///altext/stjt/1997.010.html
+  43. file:///altext/stjt/1995.055.html
+  44. file:///altext/stjt/2000.108.html
+  45. file://1984108.html
   46. file://1982076.html
-  47. file:///altext/stjt/1995.118.html
+  47. file://1982076.html
+  48. file:///altext/stjt/1995.118.html

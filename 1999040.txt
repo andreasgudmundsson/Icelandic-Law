@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -95,7 +94,7 @@ Háskólaráð staðfestir námskrár og kennsluskrár, en deildarráð ber áby
                                     þeirra.
 
                IV. kafli. Kennsla, framkvæmd prófa, agaviðurlög.
-   10. gr. Háskólaráð skal setja reglur um prófgráður, prófgreinar, próftíma,
+ 10. gr. Háskólaráð skal setja reglur^1) um prófgráður, prófgreinar, próftíma,
     prófdómara, endurtekningu prófa, viðurkenningu erlendra prófa, skiptingu
  fullnaðarprófs í fleiri en einn hluta, undirbúningspróf, einkunnir og annað er
 að prófum lýtur. Heimilt er í reglum háskólaráðs að kveða á um hámarkstímalengd
@@ -108,6 +107,7 @@ viðkomandi deildarforseta. Skal þá prófdómari skipaður í hverju tilviki. 
   getur kennari eða meiri hluti stúdenta, telji þeir til þess sérstaka ástæðu,
 óskað skipunar prófdómara í einstöku prófi. Háskólarektor skipar prófdómendur að
                         fengnum tillögum háskóladeildar.
+                                 ^1)Rgl. 459/2000.
     11. gr. Rektor getur veitt stúdent áminningu eða vikið honum úr skóla um
 tiltekinn tíma eða að fullu ef hann hefur gerst sekur um brot á lögum eða öðrum
   reglum háskólans eða framkoma hans gagnvart starfsmönnum háskólans eða öðrum
@@ -156,10 +156,9 @@ ráðningu kennara og annarra starfsmanna. Háskólaráð setur nánari reglur u
                      VI. kafli. Gildistaka, reglugerð o.fl.
    17. gr. Menntamálaráðherra setur í reglugerð^1) nánari ákvæði um framkvæmd
                                  þessara laga.
-           ^1)Rg. 292/1992, rg. 380/1994, rg. 366/1995, [2]rg. 393/1996.
-  18. gr. Allar reglur^1) sem háskólaráð setur á grundvelli þessara laga skulu
-                           birtar í Stjórnartíðindum.
-                                 ^1)Rg. 888/1999.
+          ^1)Rg. 292/1992, rg. 393/1996, rg. 888/1999, [2]rgl. 459/2000.
+18. gr. Allar reglur sem háskólaráð setur á grundvelli þessara laga skulu birtar
+                              í Stjórnartíðindum.
     19. gr. Lög þessi, sem sett eru með hliðsjón af [3]lögum um háskóla, nr.
                      136/1997, öðlast gildi 1. janúar 1999
     Ákvæði til bráðabirgða. Núverandi forstöðumenn deilda skulu gegna starfi
@@ -171,5 +170,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999040
-   2. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3931996
+   2. file:///altext/stjtnr.html#2000459
    3. file://1997136.html

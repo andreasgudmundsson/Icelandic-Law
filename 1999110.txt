@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -76,10 +75,9 @@ fjarskiptaneta og fylgjast með að lögum og reglum um samtengingu og opinn að
  fjarskiptafyrirtæki viðurkenningu á að þau uppfylli skilyrði stofnunarinnar um
       greiðsluhæfi og tryggingar, fyrirkomulag starfseminnar og annað sem
                      Alþjóðafjarskiptasambandið fer fram á.
-       22. Annað sem lýtur að framkvæmd fjarskipta- og póstmála hér á landi.
- Póst- og fjarskiptastofnun skal framfylgja lögum um fjarskipti og póstþjónustu
-  og tryggja að markmið laganna náist. Skal það gert m.a. með því að stuðla að
-       samkeppni og koma í veg fyrir óréttmæta viðskiptahætti í póst- og
+      &n Póst- og fjarskiptastofnun skal framfylgja lögum um fjarskipti og
+póstþjónustu og tryggja að markmið laganna náist. Skal það gert m.a. með því að
+  stuðla að samkeppni og koma í veg fyrir óréttmæta viðskiptahætti í póst- og
 fjarskiptaþjónustu og rekstri fjarskiptaneta. Stofnunin skal taka til meðferðar
      mál sem upp koma vegna starfsemi fjarskiptafyrirtækja, póstrekenda og
 rekstrarleyfishafa. Póst- og fjarskiptastofnun og Samkeppnisstofnun skulu setja
@@ -88,7 +86,7 @@ rekstrarleyfishafa. Póst- og fjarskiptastofnun og Samkeppnisstofnun skulu setja
                              reglur þessar birtar.
 Forstjóra Póst- og fjarskiptastofnunar er heimilt að fela öðrum hæfum aðilum að
  framkvæma einstaka þætti skoðunar sem framkvæmd er með heimild í lögum þessum.
-                                 ^1)Rgl. 158/2000.
+                         ^1)Rgl. 158/2000, sbr. 644/2000.
                         4. gr. Eftirlit með leyfishöfum.
   Póst- og fjarskiptastofnun hefur eftirlit með starfsemi leyfishafa, þar með
  talið fjárhagsstöðu, og skal fylgjast með því að starfsemi þeirra sé í samræmi
@@ -258,9 +256,14 @@ rekstrargjalds er Póst- og fjarskiptastofnun heimilt að afturkalla starfsheimi
       skýrslunni skal m.a. greint frá útgefnum leyfum og birtur listi yfir
             fjarskiptafyrirtæki, póstrekendur og rekstrarleyfishafa.
                               13. gr. Reglugerðir.
-   Samgönguráðherra setur í reglugerð nánari fyrirmæli um framkvæmd laganna.
+  Samgönguráðherra setur í reglugerð^1) nánari fyrirmæli um framkvæmd laganna.
+                                 ^1)Rg. 832/2000.
                               14. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 2000.
+     [Ákvæði til bráðabirgða. Vegna úthlutunar tíðni til starfrækslu þriðja
+rekstrarleyfishafans á GSM 900 MHz þjónustu skal heimilt að taka 16.600.000 kr.
+                                   gjald.]^1)
+                             ^1)[4]L. 152/2000, 1. gr.
 
 References
 
@@ -268,3 +271,4 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999110
    2. file://1989090.html#g1
    3. file://1991088.html
+   4. file:///altext/stjt/2000.152.html

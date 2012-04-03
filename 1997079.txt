@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -67,21 +66,22 @@ eru í þessari grein, enda undanþiggi ráðherra ekki tiltekin svæði slíkum
 32.       Selvogur (viti)                   63°49'3 N  21°39'1 V
 33.       Krýsuvíkurberg (viti)             63°49'8 N  22°04'2 V
 34.       Reykjanes (aukaviti)              63°48'0 N  22°41'9 V
-35.       Önglabrjótsnef                    63°49'0 N  22°44'3 V
-36.       Stafnes (viti)                    63°58'3 N  22°45'5 V
-37.       1. sjm. r/v V af Garðskaga-
-          vita                              64°04'9 N  22°43'6 V
-38.       Malarrif (viti)                   64°43'7 N  23°48'2 V
-39.       Dritvíkurtangi                    64°45'0 N  23°55'3 V
-40.       Skálasnagi                        64°51'3 N  24°02'5 V
-41.       Öndverðarnes (viti)               64°53'1 N  24°02'7 V
-42.       Skor (viti)                       65°24'9 N  23°57'2 V
-43.       Bjargtangar (grp. 33)             65°30'2 N  24°32'1 V
-44.       Kópanes (grp. 34)                 65°48'4 N  24°06'0 V
-45.       Barði (grp. 35)                   66°03'7 N  23°47'4 V
-46.       Straumnes (grp. 36)               66°25'7 N  23°08'4 V
-47.       Kögur (grp. 37)                   66°28'3 N  22°55'5 V
-48.       Horn (grp. 38)                    66°27'9 N  22°28'2 V
+
+35.          Önglabrjótsnef                       63°49'0 N  22°44'3 V
+36.          Stafnes (viti)                       63°58'3 N  22°45'5 V
+37.          1. sjm. r/v V af Garðskaga-
+             vita                                 64°04'9 N  22°43'6 V
+38.          Malarrif (viti)                      64°43'7 N  23°48'2 V
+39.          Dritvíkurtangi                       64°45'0 N  23°55'3 V
+40.          Skálasnagi                           64°51'3 N  24°02'5 V
+41.          Öndverðarnes (viti)                  64°53'1 N  24°02'7 V
+42.          Skor (viti)                          65°24'9 N  23°57'2 V
+43.          Bjargtangar (grp. 33)                65°30'2 N  24°32'1 V
+44.          Kópanes (grp. 34)                    65°48'4 N  24°06'0 V
+45.          Barði (grp. 35)                      66°03'7 N  23°47'4 V
+46.          Straumnes (grp. 36)                  66°25'7 N  23°08'4 V
+47.          Kögur (grp. 37)                      66°28'3 N  22°55'5 V
+48.          Horn (grp. 38)                       66°27'9 N  22°28'2 V
 
     Heimildir fiskiskipa til veiða með botnvörpu, flotvörpu og dragnót innan
 fiskveiðilandhelgi Íslands miðast við stærðir skipa og aflvísa þeirra. Er skipum
@@ -247,7 +247,8 @@ skaðsemi sem notkun þess kann að hafa í för með sér fyrir nýtingu annarr
  getur ráðherra með reglugerð^2) ákveðið að veiðar með því veiðarfæri séu háðar
 sérstöku leyfi Fiskistofu. Um skilyrði fyrir veitingu slíkra leyfa skal kveðið á
         í reglugerð og gilda ákvæði 1. mgr. um þau eftir því sem við á.
-   ^1)Rg. 687/1997. ^2)Rg. 307/1998, sbr. 632/1999, rg. 438/1999, sbr. 577/1999.
+     ^1)Rg. 687/1997, sbr. 620/2000 og 1/2001. ^2)Rg. 438/1999, sbr. 577/1999,
+               600/2000 og 770/2000; rg. 717/2000, rg. 718/2000.
 7. gr. Grásleppuveiðar skulu háðar sérstöku leyfi Fiskistofu og eiga þeir bátar
   einir kost á slíku leyfi sem rétt áttu til leyfis á grásleppuvertíðinni 1997
   samkvæmt reglum þar um. Ráðherra skal í reglugerð kveða nánar á um skipulag
@@ -285,9 +286,10 @@ með því að banna notkun ákveðinna veiðarfæra á ákveðnum svæðum í t
  Heimilt er að banna tímabundið allar veiðar eða notkun tiltekinna veiðarfæra á
    ákveðnu svæði sé þess talin þörf vegna tilrauna eða vísindalegra rannsókna
                           Hafrannsóknastofnunarinnar.
-   ^1)Rg. 262/1994, sbr. 210/2000; rg. 494/1998, sbr. 608/1999 og 770/1999; rg.
-411/1999, sbr. 10/2000; rg. 753/1999, rg. 766/1999, rg. 277/2000, rg. 310/2000,
-                                 sbr. 339/2000.
+     ^1)Rg. 262/1994, sbr. 210/2000; rg. 494/1998, sbr. 608/1999, 770/1999 og
+ 665/2000; rg. 411/1999, sbr. 10/2000 og 494/2000; rg. 753/1999, rg. 766/1999,
+   rg. 627/2000, rg. 716/2000, rg. 859/2000, sbr. 14/2001; rg. 880/2000, rg.
+                                   913/2000.
   10. gr. Veiðieftirlitsmönnum Fiskistofu er heimilt að fara í veiðiferðir með
 fiskiskipum og er skipstjórum þeirra skylt að veita þeim alla aðstoð og aðstöðu
    um borð í skipum sínum til þess að þeir geti sinnt eftirliti með veiðum. Í
@@ -365,13 +367,13 @@ veiða). Rg. 113/1988, sbr. 539/1989 (um veitingu veiðileyfa). Rg. 128/1988, sb
 482/1994 (ígulkeraveiðar). Rg. 198/1995 (um bann við rækjuveiðum á Skötufirði og
   innanverðu Ísafjarðardjúpi). Rg. 504/1995, sbr. 641/1995, 3/1996, 562/1996,
  578/1996 og 101/1997 (um friðunarsvæði við Ísland). Rg. 609/1995. Rg. 75/1996.
- Rg. 249/1996, sbr. 310/1996 (um humarveiðar). Rg. 253/1997, sbr. 413/1997 (um
- gerð og útbúnað smárækjuskilju). Rg. 334/1997 (um dragnótaveiðar). Rg. 24/1998
- (um möskvamæla og framkvæmd möskvamælinga). Rg. 64/1998 (um þorskfisknet). Rg.
-  75/1998, sbr. 176/2000 (um hrognkelsaveiðar). Rg. 77/1998, sbr. 382/1998 (um
- botn- og flotvörpur). Rg. 150/1998, sbr. 445/1999 (um mælingar á fiskilestum).
- Rg. 486/1998 (um gerð og útbúnað smáfiskaskilju). Rg. 304/1999, sbr. 276/2000
-       (um úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar).
+   Rg. 334/1997 (um dragnótaveiðar). Rg. 24/1998 (um möskvamæla og framkvæmd
+möskvamælinga). Rg. 64/1998, sbr. 664/2000 (um þorskfisknet). Rg. 75/1998, sbr.
+176/2000 (um hrognkelsaveiðar). Rg. 77/1998, sbr. 382/1998 og 737/2000 (um botn-
+  og flotvörpur). Rg. 150/1998, sbr. 445/1999 (um mælingar á fiskilestum). Rg.
+ 486/1998 (um gerð og útbúnað smáfiskaskilju). Rg. 304/1999, sbr. 276/2000 (um
+ úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar). Rg. 552/2000 (um
+        humarveiðar). Rg. 739/2000 (um gerð og útbúnað smárækjuskilju).
   15. gr. Brot gegn ákvæðum laga þessara og reglum settum samkvæmt þeim varða
 viðurlögum skv. 16.17. gr. laga þessara, hvort sem þau eru framin af ásetningi
 eða gáleysi. Sé um stórfelld eða ítrekuð ásetningsbrot að ræða skulu þau þar að

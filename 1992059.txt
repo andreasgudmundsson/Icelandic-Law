@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -369,12 +368,13 @@ Telji aðstandendur fatlaðra, hagsmunasamtök fatlaðra eða aðrir sem láta s
                                    nefndinni.
               Sjóðstjórn gerir tillögur til ráðherra um úthlutun.
                   39. gr. Tekjur Framkvæmdasjóðs fatlaðra eru:
-                        1. Óskertar tekjur Erfðafjársjóðs.
+                                      1. ^1)
       2. Framlag ríkissjóðs samkvæmt ákvörðun Alþingis í fjárlögum hvers árs.
     3. Sérstakt framlag ríkissjóðs samkvæmt ákvörðun Alþingis til uppbyggingar
      þjónustu í þágu geðfatlaðra næstu fimm ár frá gildistöku laga þessara.
              4. Frjáls framlög og aðrar tekjur er til kunna að falla.
                                   5. Vaxtatekjur.
+                             ^1)[9]L. 174/2000, 5. gr.
        40. gr. Framkvæmdasjóður fatlaðra hefur eftirfarandi hlutverk:^1)
     1. Sjóðurinn skal fjármagna stofnkostnað þjónustustofnana fatlaðra, sbr. 9.
   gr., og heimila fatlaðra skv. 3.6. tölul. 10. gr. sem eru á vegum ríkisins.
@@ -403,7 +403,7 @@ viðhaldsframkvæmda, sem ekki falla undir rekstrarviðhald í skilningi fjárla
 veita fé til annarra framkvæmda sem nauðsynlegar eru taldar í þágu fatlaðra, svo
   sem breytinga á almennum vinnustöðum þar sem fatlaðir starfa. Enn fremur er
     sjóðnum heimilt að veita fé til kannana og áætlana í málefnum fatlaðra.
-      ^1)Sjá einnig ákvæði [9]l. 116/1999, 1. gr. ^2)[10]L. 161/1996, 4. gr.
+      ^1)Sjá einnig ákvæði [10]l. 174/2000, 5. gr. ^2)[11]L. 161/1996, 4. gr.
 
                       XVII. kafli. Fjármögnun og rekstur.
                                 Stofnkostnaður.
@@ -437,9 +437,9 @@ umsagnar. Sama gildir um félagasamtök og sjálfseignarstofnanir sem hafa á he
  48. gr. Þjónusta og annar rekstrarkostnaður samkvæmt lögum þessum greiðist úr
 ríkissjóði. Þó skulu sveitarfélög greiða kostnað vegna liðveislu, sbr. 24. gr.,
     ferlimála, sbr. 34. gr., og ferðaþjónustu, sbr. 35. gr. Um kostnað vegna
-    leikskóladvalar fatlaðra barna, sbr. 19. gr., fer samkvæmt [11]lögum um
+    leikskóladvalar fatlaðra barna, sbr. 19. gr., fer samkvæmt [12]lögum um
                          leikskóla, nr. 48/1991.^1) ^2)
-                 ^1)Nú [12]l. 78/1994. ^2)[13]L. 130/1997, 4. gr.
+                 ^1)Nú [13]l. 78/1994. ^2)[14]L. 130/1997, 4. gr.
 49. gr. Tekjur, sem falla til vegna þeirrar atvinnustarfsemi stofnana sem nýtur
     framlaga á fjárlögum, skulu koma til frádráttar rekstrarkostnaði þeirra.
 50. gr. Ráðherra er heimilt í reglugerð að ákveða gjaldtöku vegna þjónustu skv.
@@ -476,7 +476,7 @@ greiðist á vegum sveitarfélaga. Ákvæði þetta á þó ekki við um akstur 
                             Ákvæði til bráðabirgða.
                                        I.
    II. Lög þessi skal endurskoða innan fjögurra ára frá gildistöku þeirra með
- hliðsjón af endurskoðun laga um félagsþjónustu [14]sveitarfélaga, nr. 40/1991,
+ hliðsjón af endurskoðun laga um félagsþjónustu [15]sveitarfélaga, nr. 40/1991,
     og að höfðu samráði við Samband íslenskra sveitarfélaga og heildarsamtök
 fatlaðra. Endurskoðun laganna skal m.a. miða að því að auka ábyrgð sveitarfélaga
                               í málefnum fatlaðra.
@@ -486,12 +486,12 @@ fatlaðra. Endurskoðun laganna skal m.a. miða að því að auka ábyrgð svei
                             réttindagæslu fatlaðra.
     [Áður en yfirfærsla málaflokksins kemur til framkvæmda hafi Alþingi m.a.
                                    samþykkt:
-    a. ný [15]lög um félagsþjónustu sveitarfélaga sem taka til þeirrar þjónustu
+    a. ný [16]lög um félagsþjónustu sveitarfélaga sem taka til þeirrar þjónustu
  sem veitt er samkvæmt gildandi lögum um málefni fatlaðra, nr. 59/1992, þó ekki
               starfsemi Greiningar- og ráðgjafarstöðvar ríkisins,
                 b. breytingu á lögum um tekjustofna sveitarfélaga,
          c. sérstök lög um Greiningar- og ráðgjafarstöð ríkisins.]^1)]^2)
-              ^1)[16]L. 156/1998, 3. gr. ^2)[17]L. 161/1996, brbákv.
+              ^1)[17]L. 156/1998, 3. gr. ^2)[18]L. 161/1996, brbákv.
   [IV. Meðan á tímabundnum samningi skv. 13. gr. stendur teljast hlutaðeigandi
  starfsmenn svæðisskrifstofu, sem eru í starfi þegar samningurinn tekur gildi,
   vera í þjónustu viðkomandi sveitarfélags, byggðasamlags eða héraðsnefndar. Í
@@ -508,7 +508,7 @@ fatlaðra. Endurskoðun laganna skal m.a. miða að því að auka ábyrgð svei
       Félagsmálaráðherra og fjármálaráðherra annars vegar og sveitarfélag,
     byggðasamlag eða héraðsnefnd hins vegar skulu semja um ábyrgðir sínar og
               greiðslur varðandi réttindi og kjör starfsmanna.]^1)
-                             ^1)[18]L. 52/1999, 1. gr.
+                             ^1)[19]L. 52/1999, 1. gr.
 
 References
 
@@ -521,13 +521,14 @@ References
    6. file:///altext/stjt/1991.048.html
    7. file://1994078.html
    8. file:///altext/stjtnr.html#1983041
-   9. file:///altext/stjt/1999.116.html
-  10. file:///altext/stjt/1996.161.html
-  11. file:///altext/stjt/1991.048.html
-  12. file://1994078.html
-  13. file:///altext/stjt/1997.130.html
-  14. file://1991040.html
-  15. file://1992059.html
-  16. file:///altext/stjt/1998.156.html
-  17. file:///altext/stjt/1996.161.html
-  18. file:///altext/stjt/1999.052.html
+   9. file:///altext/stjt/2000.174.html
+  10. file:///altext/stjt/2000.174.html
+  11. file:///altext/stjt/1996.161.html
+  12. file:///altext/stjt/1991.048.html
+  13. file://1994078.html
+  14. file:///altext/stjt/1997.130.html
+  15. file://1991040.html
+  16. file://1992059.html
+  17. file:///altext/stjt/1998.156.html
+  18. file:///altext/stjt/1996.161.html
+  19. file:///altext/stjt/1999.052.html

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -411,8 +410,10 @@ fram að hlutabréf verði aðeins látið í té gegn afhendingu skírteinisins
 30. gr. Þegar hlutafélag hefur verið stofnað skal stjórn þess þegar í stað gera
  hlutaskrá. Heimilt er að hafa skrána í tryggu lausblaða- eða spjaldaformi eða
                                 tölvuskrá hana.
-Í hlutaskrá skulu hlutir eða hlutabréf skráð í númeraröð og skal fyrir sérhvern
-   hlut eða hlutabréf tekið fram um nafn eiganda, kennitölu og heimilisfang.
+[Í hlutaskrá skulu hlutir eða hlutabréf skráð í númeraröð og skal fyrir sérhvern
+  hlut eða hlutabréf tekið fram um nafn eiganda, kennitölu og heimilisfang eða
+    þeirra sem heimild hafa til safnskráningar, ef við á, samkvæmt lögum um
+                            verðbréfaviðskipti.]^1)
   Taki hlutabréf til tveggja eða fleiri hluta skal hlutaskráin jafnframt geyma
            upplýsingar um númer slíks hlutabréfs og nafnverð þeirra.
  Í hlutaskrá skal enn fremur vera að finna skrá um hluthafa í stafrófsröð og sé
@@ -425,6 +426,7 @@ fram að hlutabréf verði aðeins látið í té gegn afhendingu skírteinisins
                                    færsluna.
 Hlutaskrá skal ætíð vera geymd á skrifstofu hlutafélags, og eiga allir hluthafar
           og stjórnvöld aðgang að henni og mega kynna sér efni hennar.
+                             ^1)[8]L. 164/2000, 4. gr.
 31. gr. Sá er eignast hefur hlut getur ekki beitt réttindum sínum sem hluthafi,
    nema nafn hans hafi verið skráð í hlutaskrá eða hann hafi tilkynnt og fært
 sönnur á eign sína á hlutnum. Þetta á þó ekki við um rétt til arðs eða annarrar
@@ -474,7 +476,7 @@ mismunað. Án samþykkis þeirra hluthafa, er sæta skerðingu áskriftarrétta
 getur hluthafafundur þó ekki ákveðið meira frávik frá áskriftarrétti hluthafa en
   greint er í fundarboði. [Birta skal á kostnað tilkynnanda í Lögbirtingablaði
  aðalefni ákvörðunar hluthafafundar um frávik frá áskriftarrétti hluthafa.]^1)
-                             ^1)[8]L. 35/1997, 4. gr.
+                             ^1)[9]L. 35/1997, 4. gr.
  35. gr. Hver hluthafi á rétt til að fá áskriftarvottorð fyrir hvert hlutabréf
   sem hann á þar sem greini hvers krafist sé til áskriftar að nýjum hlutum. Ef
 hækka á hlutafé með útgáfu jöfnunarhluta á hver hluthafi rétt á að fá vottorð um
@@ -722,7 +724,7 @@ lánardrottna félagsins séu því ekki til fyrirstöðu að hlutafjárlækkun 
  Ef tilkynning um framkvæmd lækkunar hlutafjár hefur ekki borist innan árs frá
 því að ákvörðunin var skráð missir hún gildi sitt og tilkynning sú, sem gerð var
               skv. 5. mgr. 51. gr., skal afmáð úr hlutafélagaskrá.
-                             ^1)[9]L. 41/1997, 3. gr.
+                             ^1)[10]L. 41/1997, 3. gr.
   54. gr. Í samþykktir félags má taka ákvæði um lækkun hlutafjár með innlausn
 hluta eftir ákveðnum reglum. Slíka lækkun getur félagsstjórn framkvæmt að því er
 snertir hluti sem áskrift hefur fengist að eftir að ákvæðin um lækkun voru tekin
@@ -740,7 +742,7 @@ um innlausn eigin hluta félagsins ef fullnægjandi heimild af hans hálfu er ek
                                    varasjóð.
 Ákvæði 5. mgr. 51. gr. og 3.4. mgr. 53. gr. gilda um þessa innlausn hluta eftir
                                  því sem við á.
-                             ^1)[10]L. 35/1997, 5. gr.
+                             ^1)[11]L. 35/1997, 5. gr.
 
                            VIII. kafli. Eigin hlutir.
  55. gr. Hlutafélag má ekki gegn endurgjaldi eignast eigin hluti með kaupum eða
@@ -760,7 +762,7 @@ Félagið getur aðeins eignast hluti svo framarlega sem eigið fé þess fer fr
              Aðeins má afla þeirra hluta sem eru að fullu greiddir.
 Ákvæði 1.5. mgr. gilda eftir því sem við á þegar dótturfélag eignast eða tekur
                  að veði hluti í móðurfélagi gegn endurgjaldi.
-                             ^1)[11]L. 35/1997, 6. gr.
+                             ^1)[12]L. 35/1997, 6. gr.
      56. gr. Hlutafélag getur eignast eigin hluti skv. 55. gr. án heimildar
      hluthafafundar ef slíkt reynist nauðsynlegt til að afstýra verulegu og
                         yfirvofandi tjóni hjá félaginu.
@@ -1059,7 +1061,7 @@ skylt að afhenda honum hlutaskrá, fundargerðabók og endurskoðunarbók féla
    greiðslu kostnaðar. Félagið ber kostnaðinn endanlega. Greiði félagið ekki
   reikning innan þriggja mánaða frá dagsetningu hans glatar fundarbeiðandi þó
               tryggingarfé sínu en á í þess stað kröfu á félagið.
-                             ^1)[12]L. 41/1997, 4. gr.
+                             ^1)[13]L. 41/1997, 4. gr.
 88. gr. Boða skal til hluthafafundar lengst fjórum vikum fyrir fund og, sé ekki
    mælt fyrir um lengri frest í félagssamþykktum, skemmst viku fyrir fund. Sé
     samþykkt að fresta hluthafafundi um meira en fjórar vikur skal boða til
@@ -1104,7 +1106,7 @@ skrá þar athugasemdir ef fram koma. Fundarstjóri og fundarritari skulu undirr
  Í síðasta lagi fjórtán dögum eftir hluthafafund skulu hluthafar eiga aðgang að
    fundargerðabók eða staðfestu endurriti fundargerða á skrifstofu félagsins.
               Fundargerðabók skal varðveitt með tryggilegum hætti.
-                             ^1)[13]L. 41/1997, 5. gr.
+                             ^1)[14]L. 41/1997, 5. gr.
  91. gr. Þegar hluthafi krefst þess og slíkt má verða án tjóns fyrir félagið að
     mati félagsstjórnar skulu félagsstjórn og framkvæmdastjóri leggja fram á
 hluthafafundi upplýsingar um þau málefni, sem skipta máli um mat á ársreikningi
@@ -1192,7 +1194,7 @@ Rannsóknarmennirnir skulu gefa skriflega skýrslu til hluthafafundar. Þeir sku
       fá greidda þóknun frá félaginu og skal hún ákveðin af [ráðherra].^1)
 Skýrsla rannsóknarmanna skal liggja frammi til sýnis fyrir hluthafa á skrifstofu
                félagsins í skemmsta lagi viku fyrir hluthafafund.
-                             ^1)[14]L. 41/1997, 6. gr.
+                             ^1)[15]L. 41/1997, 6. gr.
 
                    XII. kafli. Arðsúthlutun, varasjóðir o.fl.
 98. gr. Óheimilt er að úthluta af fjármunum félagsins til hluthafa nema það fari
@@ -1206,7 +1208,7 @@ sjóðum eftir að dregið hefur verið frá tap sem ekki hefur verið jafnað o
    Í móðurfélagi er óheimilt að úthluta það miklum arði að andstætt sé góðum
       rekstrarvenjum með tilliti til fjárhagsstöðu samstæðunnar, enda þótt
                          arðsúthlutun sé annars heimil.
-                             ^1)[15]L. 35/1997, 7. gr.
+                             ^1)[16]L. 35/1997, 7. gr.
 100. gr. Minnst tíu hundraðshluta þess hagnaðar, sem ekki fer til þess að jafna
  hugsanlegt tap fyrri ára og ekki er lagt í aðra lögbundna sjóði, skal leggja í
  varasjóð uns hann nemur tíu hundraðshlutum hlutafjárins. Þegar því marki hefur
@@ -1274,7 +1276,7 @@ tengds félags á hlutum eða kaup á hlutum fyrir þá. Gætt skal ákvæða 99
                                fjármálastofnanir.
    Í gerðabók félagsstjórnar skal getið sérhvers láns, framlags og tryggingar
                             samkvæmt þessari grein.
-                             ^1)[16]L. 35/1997, 8. gr.
+                             ^1)[17]L. 35/1997, 8. gr.
 
                             XIII. kafli. Félagsslit.
  105. gr. Félagsstjórn er skylt að afhenda bú félags til gjaldþrotaskipta eftir
@@ -1311,7 +1313,7 @@ félags kveði á um aðra skipan. Lögmætur hluthafafundur getur þó ákveði
 hluthafar, er ráða yfir minnst ^2/3 hlutum heildarhlutafjár félagsins, samþykkt
   að slíta félaginu á þennan hátt eða skilyrðum 2. mgr. 110. gr. fyrir skipun
                          skilanefndar er ekki fullnægt.
-                             ^1)[17]L. 41/1997, 7. gr.
+                             ^1)[18]L. 41/1997, 7. gr.
 108. gr. Ef hlutafélagaskrá telur að hlutafélag hafi hætt störfum, félagið er án
     starfandi stjórnar, endurskoðanda eða skoðunarmanns eða það sinnir ekki
 tilkynningarskyldu sinni til skrárinnar skal skráin senda þeim sem eru eða ætla
@@ -1499,7 +1501,7 @@ skuldaskila með þeim hætti að félagið er algerlega sameinað öðru hlutaf
         9. Einhver sérstök hlunnindi sem stjórnarmenn, framkvæmdastjórar og
 fulltrúanefndarmenn, matsmenn skv. 122. gr. og eftirlitsaðilar félaganna njóta.
             10. Drög að samþykktum ef mynda á nýtt félag við samrunann.
-                            ^1)[18]L. 117/1997, 2. gr.
+                            ^1)[19]L. 117/1997, 2. gr.
  121. gr. Félagsstjórn í hverju félaganna um sig skal semja greinargerð þar sem
     samrunaáætlunin er skýrð og rökstudd. [Í greinargerðinni skal fjalla um
   efnahagslegar og lagalegar ástæður til grundvallar samrunaáætluninni, svo og
@@ -1513,7 +1515,7 @@ rekstrarreikningur sem sýnir allar eignir og skuldir í hverju félaganna um si
    sameiginlega efnahags- og rekstrarreikningsins fyrir félögin skal miða við
        uppgjörsdag sem má ekki vera meira en sex mánuði fyrir undirritun
                              samrunaáætlunarinnar.
-                            ^1)[19]L. 117/1997, 3. gr.
+                            ^1)[20]L. 117/1997, 3. gr.
     122. gr. Í hverju samrunafélaganna um sig skulu einn eða fleiri óháðir,
    sérfróðir matsmenn, sbr. 1. mgr. 7. gr., gera skýrslu um samrunaáætlunina.
             Félögin geta haft einn eða fleiri sameiginlega matsmenn.
@@ -1529,7 +1531,7 @@ leiða hver um sig til, svo og hvaða innbyrðis þýðingu leggja skal í aðfe
                        grein fyrir þeim í yfirlýsingunni.
 Matsmennirnir skulu enn fremur gefa yfirlýsingu um að hve miklu leyti samruninn
    kunni að rýra möguleika lánardrottna á fullnustu í hinum einstöku félögum.
-                            ^1)[20]L. 117/1997, 4. gr.
+                            ^1)[21]L. 117/1997, 4. gr.
 123. gr. Í síðasta lagi einum mánuði eftir undirritun samrunaáætlunarinnar skal
   hvert samrunafélaganna senda hlutafélagaskrá endurrit af samrunaáætluninni,
     staðfest af félagsstjórn. Einnig skal þá eða síðar senda hlutafélagaskrá
@@ -1602,7 +1604,7 @@ yfirtökufélaginu eigi veitt minni réttindi en þeir höfðu í hinu yfirtekna
   samþykkt breytingar á réttindum, eigendur þeirra hafi samþykkt breytingarnar
 hver um sig eða eigendurnir eigi rétt til þess að yfirtökufélagið innleysi bréf
                                   þeirra.]^1)
-                            ^1)[21]L. 117/1997, 5. gr.
+                            ^1)[22]L. 117/1997, 5. gr.
   127. gr. Yfirteknu félagi telst slitið, og réttindi þess og skyldur teljast
                 runnar í heild sinni til yfirtökufélags, þegar:
            1. Samruninn hefur verið samþykktur í öllum samrunafélögunum.
@@ -1706,7 +1708,7 @@ Ef kröfuhafi í félaginu, sem tekið hefur þátt í skiptingunni, fær ekki f
    viðtökufélagi þegar áætlunin var birt en ábyrgð félagsins, sem skipt er og
    heldur áfram starfsemi, takmarkast við nettóverðmæti þess sem var eftir í
                            félaginu á sama tíma.]^1)
-                            ^1)[22]L. 117/1997, 6. gr.
+                            ^1)[23]L. 117/1997, 6. gr.
 
                           XV. kafli. Skaðabætur o.fl.
    134. gr. Stofnendur, stjórnarmenn, framkvæmdastjórar og endurskoðendur og
@@ -1779,19 +1781,19 @@ skráningarnúmeri félagsins í þeirri skrá, svo og forms félagsins. Í tilk
                     (kennitölu) útibúsins, sbr. 142. gr.]^1)
 Útibússtjóri undirritar tilkynningu og ber ábyrgð á efni hennar og fylgiskjala.
           Útibú má ekki hefja starfsemi fyrr en það hefur verið skráð.
-                            ^1)[23]L. 117/1997, 7. gr.
+                            ^1)[24]L. 117/1997, 7. gr.
  142. gr. [Útibússtjóra ber að tilkynna hlutafélagaskrá allar breytingar á því
                 sem skráð er, sbr. 1. mgr. 141. gr. og 149. gr.
 Útibússtjóri skal senda hlutafélagaskrá ársreikninga aðalfélags og útibús innan
           sex mánaða frá lokum reikningsárs, sbr. 1. mgr. 141. gr.]^1)
-                            ^1)[24]L. 117/1997, 8. gr.
+                            ^1)[25]L. 117/1997, 8. gr.
         143. gr. [Ef hið erlenda félag er tekið til gjaldþrotaskipta eða
 félagsslitameðferðar skal útibússtjóri tafarlaust tilkynna hlutafélagaskrá það,
  svo og hverjir sjái um gjaldþrotaskiptin eða félagsslitameðferðina, hver völd
  þeirra séu og hvenær skiptunum eða meðferðinni ljúki. Sambærilegar upplýsingar
   skal gefa um greiðslustöðvun, nauðasamninga og samsvarandi gerðir. Gæta skal
                            ákvæða 5. mgr. 1. gr.]^1)
-                            ^1)[25]L. 117/1997, 9. gr.
+                            ^1)[26]L. 117/1997, 9. gr.
                   144. gr. Útibú skal afmá úr hlutafélagaskrá:
            1. Ef hið erlenda hlutafélag ákveður að leggja útibúið niður.
      2. Ef þess er krafist af lánardrottni sem sannað hefur með árangurslausri
@@ -1825,7 +1827,7 @@ hlutafélagaskrár, aðgang að skránni og gjaldtöku, m.a. fyrir útgáfu vott
     því lögsagnarumdæmi þar sem tilkynnandi á heimili. Sé tilkynning afhent
 sýslumanni skal hann þegar framsenda hana til hlutafélagaskrárinnar, enda öðlast
                 tilkynning ekki gildi fyrr en við skráningu þar.
-                     ^1)Rg. 94/1998. ^2)[26]L. 41/1997, 9. gr.
+                     ^1)Rg. 94/1998. ^2)[27]L. 41/1997, 9. gr.
             148. gr. Tilkynning um stofnun hlutafélags skal greina:
     1. Ákvæði samþykkta félagsins um það efni er greinir í 1.3., 5. og 9.13.
                              tölul. 2. mgr. 9. gr.
@@ -1864,7 +1866,7 @@ verið farið eftir lögum og samþykktum félagsins. M.a. getur hún krafist þ
      stjórnarmanna, varastjórnarmanna, framkvæmdastjóra, endurskoðenda eða
  skoðunarmanna og prókúruhafa miðað við 1. júní, nema hlutafélagaskrá ákveði að
                   tilkynningarnar skuli miðast við annan dag.
-                             ^1)[27]L. 35/1997, 9. gr.
+                             ^1)[28]L. 35/1997, 9. gr.
  150. gr. Ef tilkynningar fullnægja ekki fyrirmælum laga þessara eða samþykkta
  hlutafélags eða ákvarðanir eru ekki teknar á þann hátt sem ákveðið er í lögum
                      eða samþykktum skal synja skráningar.
@@ -1901,7 +1903,7 @@ Nú hefur birting í Lögbirtingablaði eigi farið fram og hefur tilkynning þ�
  Lögbirtingablaði getur félagið ekki borið hinn birta texta fyrir sig gagnvart
  þriðja manni. Hann getur hins vegar borið hinn birta texta fyrir sig gagnvart
  félaginu nema sannað sé að hann hafi haft vitneskju um það sem skráð var.]^1)
-                            ^1)[28]L. 35/1997, 10. gr.
+                            ^1)[29]L. 35/1997, 10. gr.
 
                          XVIII. kafli. Refsingar o.fl.
  152. gr. Nú vanrækja stofnendur, stjórnendur, framkvæmdastjóri, endurskoðendur
@@ -1923,7 +1925,7 @@ gr.), skyldu formanns varðandi boðun til stjórnarfunda (2. mgr. 70. gr.), bo�
 helmingur af skráðu hlutafé þess (4. mgr. 84. gr.), tillög í varasjóð, úthlutun
 arðs, endurgreiðslu á hlutafjárframlögum, lán eða tryggingu til handa hluthöfum
 o.fl. (104. gr.) og tilkynningu um stofnun útibús og starfsemi þess (141. gr.).
-                            ^1)[29]L. 82/1998, 219. gr.
+                            ^1)[30]L. 82/1998, 219. gr.
      154. gr. Hver sá sem vísvitandi ber út rangar frásagnir eða með öðrum
  samsvarandi hætti skapar rangar hugmyndir um hag hlutafélags eða annað er það
   varðar, þannig að áhrif geti haft á sölu eða söluverð hluta í félaginu, skal
@@ -1933,7 +1935,7 @@ o.fl. (104. gr.) og tilkynningu um stofnun útibús og starfsemi þess (141. gr.
   bréfum til viðskiptamanna, umburðarbréfum eða tilkynningum eða skýrslum til
  opinberra aðila, þá varðar það sektum eða [fangelsi allt að einu ári],^1) enda
         taki ákvæði 153. gr. eða 1. mgr. þessarar greinar ekki þar til.
-                            ^1)[30]L. 82/1998, 219. gr.
+                            ^1)[31]L. 82/1998, 219. gr.
   155. gr. Sá maður skal sæta sektum ^1) eða fangelsi allt að tveimur árum sem
    gerist sekur um eftirgreindar athafnir að því er varðar atkvæðagreiðslu á
                                  hluthafafundi:
@@ -1950,10 +1952,10 @@ aðstöðu yfirboðara að fá hluthafa eða umboðsmann hans til þess að grei
                             atkvæði félaginu í óhag.
    5. Tekur við, fer fram á að fá eða lætur lofa sér eða öðrum hagnaði til þess
   að neyta ekki atkvæðisréttar síns eða til að greiða atkvæði félaginu í óhag.
-                            ^1)[31]L. 82/1998, 219. gr.
+                            ^1)[32]L. 82/1998, 219. gr.
 156. gr. Sá sem vanrækir tilkynningar til hlutafélagaskrár samkvæmt lögum þessum
               skal sæta sektum eða [fangelsi allt að einu ári].^1)
-                            ^1)[32]L. 82/1998, 219. gr.
+                            ^1)[33]L. 82/1998, 219. gr.
  157. gr. Nú hefur stjórnanda félags eða öðrum sem komið hefur fram fyrir hönd
 þess verið dæmd sekt vegna brots í starfi sínu fyrir félagið, og ber félagið þá
   ábyrgð á greiðslu sektar ef innheimta hefur orðið árangurslaus hjá sökunaut
@@ -1964,7 +1966,7 @@ aðeins innheimt með aðför hjá því að dæmt sé um skyldu þess í sérst
                                   XIX. kafli.
   158. gr. [Ráðherra getur með reglugerð sett nánari ákvæði um framkvæmd laga
                      þessara, sbr. þó 2. mgr. 147. gr.]^1)
-                            ^1)[33]L. 41/1997, 10. gr.
+                            ^1)[34]L. 41/1997, 10. gr.
 
                             Ákvæði til bráðabirgða.
                                        I.
@@ -1980,17 +1982,17 @@ References
    5. file:///altext/stjt/1997.035.html
    6. file:///altext/stjt/1997.041.html
    7. file:///altext/stjt/1997.117.html
-   8. file:///altext/stjt/1997.035.html
-   9. file:///altext/stjt/1997.041.html
-  10. file:///altext/stjt/1997.035.html
+   8. file:///altext/stjt/2000.164.html
+   9. file:///altext/stjt/1997.035.html
+  10. file:///altext/stjt/1997.041.html
   11. file:///altext/stjt/1997.035.html
-  12. file:///altext/stjt/1997.041.html
+  12. file:///altext/stjt/1997.035.html
   13. file:///altext/stjt/1997.041.html
   14. file:///altext/stjt/1997.041.html
-  15. file:///altext/stjt/1997.035.html
+  15. file:///altext/stjt/1997.041.html
   16. file:///altext/stjt/1997.035.html
-  17. file:///altext/stjt/1997.041.html
-  18. file:///altext/stjt/1997.117.html
+  17. file:///altext/stjt/1997.035.html
+  18. file:///altext/stjt/1997.041.html
   19. file:///altext/stjt/1997.117.html
   20. file:///altext/stjt/1997.117.html
   21. file:///altext/stjt/1997.117.html
@@ -1998,11 +2000,12 @@ References
   23. file:///altext/stjt/1997.117.html
   24. file:///altext/stjt/1997.117.html
   25. file:///altext/stjt/1997.117.html
-  26. file:///altext/stjt/1997.041.html
-  27. file:///altext/stjt/1997.035.html
+  26. file:///altext/stjt/1997.117.html
+  27. file:///altext/stjt/1997.041.html
   28. file:///altext/stjt/1997.035.html
-  29. file:///altext/stjt/1998.082.html
+  29. file:///altext/stjt/1997.035.html
   30. file:///altext/stjt/1998.082.html
   31. file:///altext/stjt/1998.082.html
   32. file:///altext/stjt/1998.082.html
-  33. file:///altext/stjt/1997.041.html
+  33. file:///altext/stjt/1998.082.html
+  34. file:///altext/stjt/1997.041.html

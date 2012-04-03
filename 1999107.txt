@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -110,8 +109,9 @@ almennar heimildir og rekstrarleyfi. Í öllum heimildum skal tilgreina til hva�
 þjónustu leyfið nær og til hvaða almennra fjarskiptaneta. Heimildir eru veittar
 einstaklingum eða lögaðilum sem staðfestu hafa innan Evrópska efnahagssvæðisins
 og í aðildarríkjum Alþjóðaviðskiptastofnunarinnar eftir því sem samgönguráðherra
-                             ákveður með reglugerð.
+                           ákveður með reglugerð.^1)
         Ekki þarf heimild til að veita virðisaukandi fjarskiptaþjónustu.
+                                 ^1)Rg. 734/2000.
                              5. gr. Almenn heimild.
 Einstaklingar og lögaðilar sem uppfylla skilyrði laga þessara skulu hafa almenna
 heimild til að veita fjarskiptaþjónustu. Fjarskiptafyrirtæki sem hyggst starfa í
@@ -250,7 +250,8 @@ Póst- og fjarskiptastofnun getur ákveðið hámarksverð og lágmarksgæði al
  Sjái rekstrarleyfishafi sér ekki fært að veita tilteknum aðila alþjónustu skv.
     1. mgr., svo sem vegna fjarlægðar, kostnaðar eða annars óhagræðis, skal
   ágreiningur um synjun borinn undir Póst- og fjarskiptastofnun til úrskurðar.
-                Samgönguráðherra setur reglugerð um alþjónustu.
+               Samgönguráðherra setur reglugerð^1) um alþjónustu.
+                          ^1)Rg. 641/2000, sbr. 813/2000.
               14. gr. Umsóknir um fjárframlög og greiðslur þeirra.
 Telji rekstrarleyfishafi að alþjónusta sem honum er gert skylt að veita samkvæmt
 rekstrarleyfi, sbr. 13. gr., sé rekin með tapi eða sé óarðbær getur hann krafist
@@ -294,9 +295,10 @@ Nú er hluti af starfsemi rekstrarleyfishafa háður fjárframlögum samkvæmt �
   kafla laga nr. 75/1981, um tekjuskatt og eignarskatt, með síðari breytingum,
  eftir því sem við á og skulu innheimtuaðilar standa Póst- og fjarskiptastofnun
                      skil á innheimtum gjöldum mánaðarlega.
-    Samgönguráðherra setur með reglugerð nánari fyrirmæli um fjárframlög og
+   Samgönguráðherra setur með reglugerð^1) nánari fyrirmæli um fjárframlög og
 jöfnunargjöld í fjarskiptaþjónustu, þar á meðal um útreikning á kostnaði við að
             veita fjarskiptaþjónustu, og um útreikning rekstrartaps.
+                          ^1)Rg. 641/2000, sbr. 813/2000.
     16. gr. Samningar og greiðslur fyrir sértæka fjarskiptaþjónustu, aðra en
                                   alþjónustu.
 Nú óskar samgönguráðherra eftir því að lagt sé í framkvæmdir eða rekstur sem er
@@ -563,13 +565,14 @@ Fjarskiptafyrirtækjum skulu heimiluð afnot af hæfilega löngum númeraröðum
     notendum afnot af stuttnúmerum, þ.e. númerum sem eru styttri en venjuleg
  símanúmer. Stofnunin úthlutar einnig öðrum númerum, svo sem talstöðvarnúmerum
                                   fyrir skip.
-Póst- og fjarskiptastofnun skal setja reglur um númer, númeraraðir og vistföng.
-     Samgönguráðherra er heimilt með reglugerð að setja reglur um hlutverk
+    Póst- og fjarskiptastofnun skal setja reglur^1) um númer, númeraraðir og
+vistföng. Samgönguráðherra er heimilt með reglugerð að setja reglur um hlutverk
                 stofnunarinnar í sambandi við útgáfu vistfanga.
    Stuttnúmerið 112 skal vera frátekið fyrir neyðar- og öryggisþjónustu og er
  óheimilt að nota það í öðrum tilgangi. Símtöl í 112 skulu vera endurgjaldslaus
  og eiga rekstrarleyfishafar ekki kröfu á yfirvöld um greiðslu kostnaðar vegna
                                 slíkra símtala.
+                                 ^1)Rgl. 832/2000.
                      33. gr. Númeraflutningur og forskeyti.
     Enda þótt fjarskiptafyrirtæki hafi heimilað notendum afnot af númerum í
 númeraröðum sínum er notendum frjálst að halda símanúmeri sínu þegar þeir flytja
@@ -577,7 +580,7 @@ viðskipti sín til annars fjarskiptafyrirtækis. Fjarskiptafyrirtæki er heimil
 innheimta hjá notanda, sem var skráður hjá því, eingreiðslu er nemi kostnaði af
 umskráningu. Notendum skal vera unnt að halda símanúmeri sínu þó að þeir flytji
  milli númerasvæða. Fjarskiptafyrirtæki er heimilt að innheimta hjá notandanum
-   kostnað við umskráningu. Póst- og fjarskiptastofnun setur nánari reglur um
+ kostnað við umskráningu. Póst- og fjarskiptastofnun setur nánari reglur^1) um
       númeraflutning, þ.m.t. hvenær númeraflutningur milli númerasvæða og
  númeraflutningur utan almenna fasta fjarskiptanetsins skuli innleiddur og sker
                         úr ágreiningi um framkvæmd hans.
@@ -588,8 +591,8 @@ umskráningu. Notendum skal vera unnt að halda símanúmeri sínu þó að þei
  það. Skal fjarskiptafyrirtæki gera ráðstafanir til að símtölin fari hina fyrir
  fram völdu leið án þess að nota þurfi forskeytið hverju sinni. Símnotandi skal
   þó ávallt geta breytt þessu í einstökum símtölum. Póst- og fjarskiptastofnun
-              skal ákveða hvenær forval skal að fullu innleitt.^1)
-                                 ^1)Rgl. 158/2000.
+              skal ákveða hvenær forval skal að fullu innleitt.^2)
+                        ^1)Rgl. 644/2000. ^2)Rgl. 158/2000.
                           34. gr. Skráning símanúmera.
     Áskrifendur í fjarskiptaþjónustu eiga rétt á að vera skráðir í opinberum
  númeraskrám og fá að skoða upplýsingar sem skráðar eru um þá og ef nauðsynlegt
@@ -945,7 +948,9 @@ skal vera hið sama alls staðar á landinu og skal innheimta sérstaks álags v
 
                          XVII. kafli. Gildistaka o.fl.
                        59. gr. Almenn reglugerðarheimild.
-Samgönguráðherra setur í reglugerð nánari fyrirmæli um framkvæmd fjarskiptamála.
+      Samgönguráðherra setur í reglugerð^1) nánari fyrirmæli um framkvæmd
+                                fjarskiptamála.
+                                 ^1)Rg. 866/2000.
                               60. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 2000.
 
