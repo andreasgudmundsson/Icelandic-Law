@@ -287,9 +287,10 @@ Prófnefnd er heimilt að fela óháðum aðilum að gefa einkunn fyrir prófúr
   þeirra. Slík trygging getur verið vátrygging tekin hjá vátryggingafélagi sem
        hefur starfsleyfi hér á landi eða önnur trygging jafngild að mati
   Fjármálaeftirlitsins. Nánari ákvæði um gildissvið vátryggingarinnar, þ.m.t.
-                 vátryggingarfjárhæðir, skal setja í reglugerð.
+               vátryggingarfjárhæðir, skal setja í reglugerð.^1)
   Vátryggingamiðlari skal senda Fjármálaeftirlitinu staðfestingu á endurnýjun
                            starfsábyrgðartryggingar.
+                                ^1)[5]Rg. 592/2005.
                            21. gr. Viðtaka fjármuna.
    Vátryggingamiðlari má ekki taka við iðgjöldum, vátryggingarbótum eða öðrum
     fjármunum fyrir hönd vátryggingafélags eða viðskiptamanns nema samkvæmt
@@ -301,7 +302,8 @@ Vátryggingamiðlara er skylt að halda fjármunum sem hann tekur við í þágu
 þess. Vátryggingamiðlari er ekki eigandi innstæðu á vörslufjárreikningi samkvæmt
 þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum og stendur
                     utan skuldaraðar við skipti á búi hans.
-         Viðskiptaráðherra setur nánari reglur um vörslufjárreikninga.
+        Viðskiptaráðherra setur nánari reglur^1) um vörslufjárreikninga.
+                                ^1)[6]Rg. 590/2005.
 
                    V. kafli. Starfshættir vátryggingamiðlara.
            23. gr. Yfirsýn yfir starfsemina og sérstakar ráðstafanir.
@@ -343,7 +345,7 @@ viðskiptamanna, nema skylt sé að veita upplýsingar samkvæmt lögum. Þagnar
 Sá sem veitir viðtöku upplýsingum af því tagi sem um getur í 1. mgr. er bundinn
  þagnarskyldu með sama hætti og þar greinir. Sá aðili sem veitir upplýsingarnar
                    skal áminna viðtakanda um þagnarskylduna.
-   Við miðlun vátrygginga skal fullnægja skilyrðum [5]laga um persónuvernd og
+   Við miðlun vátrygginga skal fullnægja skilyrðum [7]laga um persónuvernd og
                     meðferð persónuupplýsinga, nr. 77/2000.
                     28. gr. Góðir viðskiptahættir og venjur.
   Vátryggingamiðlari skal starfa í samræmi við góða viðskiptahætti og venjur á
@@ -515,7 +517,8 @@ annarra aðgreindum frá eigin fé. Skulu slíkir fjármunir varðveittir á sé
   þess. Vátryggingaumboðsmaður er ekki eigandi innstæðu á vörslufjárreikningi
  samkvæmt þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum
                og stendur utan skuldaraðar við skipti á búi hans.
-         Viðskiptaráðherra setur nánari reglur um vörslufjárreikninga.
+        Viðskiptaráðherra setur nánari reglur^1) um vörslufjárreikninga.
+                                ^1)[8]Rg. 590/2005.
 
                  X. kafli. Starfshættir vátryggingaumboðmanns.
            45. gr. Yfirsýn yfir starfsemina og sérstakar ráðstafanir.
@@ -550,7 +553,7 @@ viðskiptamanna, nema skylt sé að veita upplýsingar samkvæmt lögum. Þagnar
 Sá sem veitir viðtöku upplýsingum af því tagi sem um getur í 1. mgr. er bundinn
  þagnarskyldu með sama hætti og þar greinir. Sá aðili sem veitir upplýsingarnar
                    skal áminna viðtakanda um þagnarskylduna.
-   Við miðlun vátrygginga skal fullnægja skilyrðum [6]laga um persónuvernd og
+   Við miðlun vátrygginga skal fullnægja skilyrðum [9]laga um persónuvernd og
                     meðferð persónuupplýsinga, nr. 77/2000.
                     49. gr. Góðir viðskiptahættir og venjur.
 Vátryggingaumboðsmaður skal starfa í samræmi við góða viðskiptahætti og venjur á
@@ -710,5 +713,8 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=551
    3. http://www.althingi.is/altext/131/s/0832.html
    4. file://1994060.html#g7
-   5. file://2000077.html
-   6. file://2000077.html
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/592-2005
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2005
+   7. file://2000077.html
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2005
+   9. file://2000077.html

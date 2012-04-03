@@ -13,7 +13,7 @@
  Tóku gildi 1. janúar 2000. EES-samningurinn: IX. viðauki tilskipun 94/19/EB og
   97/9/EB. Breytt með [4]l. 76/2002 (tóku gildi 17. maí 2002), [5]l. 139/2002
  (tóku gildi 30. des. 2002; EES-samningurinn: IX. viðauki tilskipun 97/9/EB) og
-                   [6]l. 129/2004 (taka gildi 31. des. 2005).
+                   [6]l. 129/2004 (tóku gildi 31. des. 2005).
 
                          I. kafli. Markmið og skipulag.
                                 1. gr. Markmið.
@@ -269,17 +269,17 @@ Fjármálaeftirlitið hefur eftirlit með að starfsemi sjóðsins sé í samræ
  Auglýsingar aðildarfyrirtækja um aðild að sjóðnum skulu takmarkaðar við beina
                     tilvísun til hlutaðeigandi deildar hans.
                 17. gr. Undanþága frá skatti og gjaldþrotalögum.
-     Sjóðurinn er undanþeginn tekjuskatti og eignarskatti samkvæmt lögum um
-                           tekjuskatt og eignarskatt.
+   Sjóðurinn er undanþeginn tekjuskatti ^1) samkvæmt lögum um tekjuskatt ^1)
 Sjóðurinn verður hvorki tekinn til gjaldþrotaskipta né er heimilt að gera aðför
                                  í eignum hans.
+                           ^1)[11]L. 129/2004, 134. gr.
                                18. gr. Reglugerð.
    Ráðherra setur í reglugerð^1) nánari ákvæði um starfsemi sjóðsins, m.a. um
  tilhögun á greiðslum úr sjóðnum, tryggingu á innstæðu, verðbréfum eða reiðufé
       þegar um sameiginlegan reikning er að ræða eða þegar viðskiptavinur
 aðildarfyrirtækis á ekki ótvíræðan rétt til innstæðu, verðbréfa og reiðufjár og
                          um ávöxtun á eignum sjóðsins.
-                      ^1)[11]Rg. 120/2000, sbr. [12]864/2002.
+                      ^1)[12]Rg. 120/2000, sbr. [13]864/2002.
 
                            VI. kafli. Öryggissjóðir.
  19. gr. Viðskiptabönkum annars vegar og sparisjóðum hins vegar, með staðfestu
@@ -311,14 +311,14 @@ aðal- og aukafunda. Hún skal skipuð fimm mönnum og skulu fjórir stjórnarme
                                   samþykktum.
  Stjórnarmenn og starfsmenn öryggissjóða eru bundnir þagnarskyldu í samræmi við
                   ákvæði laga um viðskiptabanka og sparisjóði.
-   Öryggissjóður er undanþeginn tekjuskatti og eignarskatti samkvæmt lögum um
- tekjuskatt og eignarskatt. Sjóðurinn verður hvorki tekinn til gjaldþrotaskipta
-                   né er heimilt að gera aðför í eignum hans.
-    Aðalfundur setur öryggissjóði samþykktir^1) sem háðar skulu staðfestingu
+ Öryggissjóður er undanþeginn tekjuskatti ^1) samkvæmt lögum um tekjuskatt ^1)
+Sjóðurinn verður hvorki tekinn til gjaldþrotaskipta né er heimilt að gera aðför
+                                 í eignum hans.
+    Aðalfundur setur öryggissjóði samþykktir^2) sem háðar skulu staðfestingu
    ráðherra að fenginni umsögn Fjármálaeftirlitsins. Fjármálaeftirlitið hefur
  eftirlit með starfsemi öryggissjóða. Um eftirlitið gilda að öðru leyti lög um
                     opinbert eftirlit með fjármálastarfsemi.
-                         ^1)Augl. 16/2002, augl. 204/2005.
+          ^1)[14]L. 129/2004, 135. gr. ^2)Augl. 16/2002, augl. 204/2005.
 
                           VII. kafli. Gildistaka o.fl.
 20. gr. Lög þessi öðlast gildi 1. janúar 2000. Sjóðurinn yfirtekur þá eignir og
@@ -345,5 +345,7 @@ References
    8. file:///altext/stjt/2002.139.html
    9. file:///altext/stjt/2002.076.html
   10. file:///altext/stjt/2002.076.html
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/120-2000
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/864-2002
+  11. file:///altext/stjt/2004.129.html
+  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/120-2000
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/864-2002
+  14. file:///altext/stjt/2004.129.html

@@ -11,7 +11,7 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
 Tóku gildi 1. júlí 1998, sjá þó 32. gr. Breytt með [4]l. 8/1999 (tóku gildi 17.
-mars 1999), [5]l. 17/2003 (tóku gildi 1. júlí 2003), [6]l. 129/2004 (taka gildi
+mars 1999), [5]l. 17/2003 (tóku gildi 1. júlí 2003), [6]l. 129/2004 (tóku gildi
            31. des. 2005) og [7]l. 40/2005 (tóku gildi 25. maí 2005).
 
                             I. kafli. Almenn ákvæði.
@@ -59,12 +59,13 @@ veitt þeim sem tilkynnt hefur [ríkisskattstjóra]^1) um atvinnustarfsemi sína
 Framleiðslu-, innflutnings-, heildsölu- eða smásöluleyfishafa er skylt að halda,
 eftir því sem við á, framleiðslu-, birgða- og sölubókhald. Ráðherra setur nánari
              reglur um færslu bókhalds samkvæmt þessari málsgrein.
- [Dómsmálaráðherra getur með reglugerð kveðið nánar á um fyrirkomulag veitingar
- leyfa til innflutnings, heildsölu eða framleiðslu áfengis í atvinnuskyni.]^3)
-    ^1)[8]L. 17/2003, 12. gr. ^2)[9]L. 8/1999, 1. gr. ^3)[10]L. 40/2005, 1. gr.
+    [Dómsmálaráðherra getur með reglugerð^3) kveðið nánar á um fyrirkomulag
+     veitingar leyfa til innflutnings, heildsölu eða framleiðslu áfengis í
+                               atvinnuskyni.]^4)
+      ^1)[8]L. 17/2003, 12. gr. ^2)[9]L. 8/1999, 1. gr. ^3)[10]Rg. 828/2005.
+                           ^4)[11]L. 40/2005, 1. gr.
 
-                       II. kafli. Framleiðsla áfengis.^1)
-                               ^1)[11]Rg. 176/1999.
+                        II. kafli. Framleiðsla áfengis.
   6. gr. Sækja skal um leyfi til framleiðslu áfengis til ríkislögreglustjóra.
    Með framleiðslu áfengis er átt við hvers konar bruggun, gerjun eða eimingu
 áfengra drykkja, sem og blöndun eða átöppun eins eða fleiri áfengra drykkja. Til
@@ -79,8 +80,7 @@ Framleiðsluleyfi sem gefið er út til umsækjanda í fyrsta sinn gildir í eit
                             þess sérstakt leyfi. ^1)
                              ^1)[12]L. 40/2005, 2. gr.
 
-                     III. kafli. Innflutningur áfengis.^1)
-                               ^1)[13]Rg. 176/1999.
+                       III. kafli. Innflutningur áfengis.
      8. gr. Sækja skal um leyfi til innflutnings áfengis í atvinnuskyni til
                               ríkislögreglustjóra.
  Innflutningsleyfi veitir leyfishafa jafnframt heimild til að selja eða afhenda
@@ -94,10 +94,10 @@ verslanir. Innflutningsleyfi veitir leyfishafa ekki heimild til að selja áfeng
 Innflutningsleyfi sem í fyrsta sinn er gefið út til umsækjanda gildir í eitt ár.
   Ef leyfi er endurnýjað er gildistími þess ótímabundinn, sbr. þó afturköllun
                               leyfis skv. 24. gr.
-                             ^1)[14]L. 40/2005, 3. gr.
+                             ^1)[13]L. 40/2005, 3. gr.
 
                           IV. kafli. Sala áfengis.^1)
-                               ^1)[15]Rg. 177/1999.
+                               ^1)[14]Rg. 177/1999.
          9. gr. Sækja skal um leyfi til að selja áfengi í heildsölu til
                               ríkislögreglustjóra.
  Handhafa heildsöluleyfis er heimilt að selja eða afhenda áfengi til þeirra sem
@@ -110,7 +110,7 @@ tollfrjálsar forðageymslur eða verslanir. Heildsöluleyfi veitir leyfishafa e
 Heildsöluleyfi sem í fyrsta sinn er gefið út til umsækjanda gildir í eitt ár. Ef
 leyfi er endurnýjað er gildistími þess ótímabundinn, sbr. þó afturköllun leyfis
                                   skv. 24. gr.
-                             ^1)[16]L. 40/2005, 4. gr.
+                             ^1)[15]L. 40/2005, 4. gr.
 10. gr. Áfengis- og tóbaksverslun ríkisins hefur einkaleyfi til smásölu áfengis.
 Sækja skal um leyfi til rekstrar áfengisútsölu til sveitarstjórnar í viðkomandi
                                  sveitarfélagi.
@@ -168,8 +168,8 @@ Dómsmálaráðherra ákveður með reglugerð upphæð og skilmála tryggingari
 þessara skulda nemur hærri fjárhæð en 500.000 kr., eða ef hlutaðeigandi hefur á
    undanförnum fimm árum verið dæmdur til refsivistar vegna brots á almennum
     hegningarlögum, lögum þessum, lögum um ávana- og fíkniefni eða lögum um
-tekjuskatt og eignarskatt, um virðisaukaskatt, um staðgreiðslu opinberra gjalda,
-       um gjald af áfengi eða um tryggingagjald, og ástæðurnar eiga við:
+ tekjuskatt ,^1) um virðisaukaskatt, um staðgreiðslu opinberra gjalda, um gjald
+            af áfengi eða um tryggingagjald, og ástæðurnar eiga við:
     a. umsækjanda sem er lögaðili með ótakmarkaðri ábyrgð eða einhvern eiganda
                                      hans,
      b. umsækjanda sem er lögaðili með takmarkaðri ábyrgð, meiri hluta eigenda
@@ -182,13 +182,13 @@ veitir til áfengisveitinga á veitingastað og þau skilyrði sem leyfið er bu
                   a. leyfi til sex mánaða eða skemur 20.000 kr.,
                    b. leyfi til eins árs eða skemur 30.000 kr.,
        c. leyfi til lengri tíma en árs og til og með tveggja ára 50.000 kr.,
-              d. leyfi til lengri tíma en tveggja ára 100.000 kr.]^1)
+              d. leyfi til lengri tíma en tveggja ára 100.000 kr.]^2)
   Dómsmálaráðherra setur í reglugerð nánari reglur um áfengisveitingar, þar á
 meðal um veitingatíma, útgáfu leyfa, flokkun veitingastaða, húsnæði og búnað og
   eftirlit með starfsemi leyfishafa. Áður en slík reglugerð er sett skal leita
     umsagnar áfengis- og vímuvarnaráðs, Sambands íslenskra sveitarfélaga og
                               ríkislögreglustjóra.
-                             ^1)[17]L. 8/1999, 2. gr.
+               ^1)[16]L. 129/2004, 130. gr. ^2)[17]L. 8/1999, 2. gr.
 15. gr. Sækja skal um leyfi til áfengisveitinga um borð í skráningarskyldu skipi
  til sveitarstjórnar í því sveitarfélagi þar sem heimahöfn skipsins er samkvæmt
                            lögum um skráningu skipa.
@@ -401,13 +401,13 @@ References
    7. file:///altext/stjt/2005.040.html
    8. file://2003017.html#g12
    9. file:///altext/stjt/1999.008.html
-  10. file:///altext/stjt/2005.040.html
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/176-1999
+  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/828-2005
+  11. file:///altext/stjt/2005.040.html
   12. file:///altext/stjt/2005.040.html
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/176-1999
-  14. file:///altext/stjt/2005.040.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/177-1999
-  16. file:///altext/stjt/2005.040.html
+  13. file:///altext/stjt/2005.040.html
+  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/177-1999
+  15. file:///altext/stjt/2005.040.html
+  16. file:///altext/stjt/2004.129.html
   17. file:///altext/stjt/1999.008.html
   18. file:///altext/stjt/1999.008.html
   19. file:///altext/stjt/1999.008.html

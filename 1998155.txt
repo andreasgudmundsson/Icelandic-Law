@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Tóku gildi 1. janúar 1999. Breytt með [4]l. 129/2004 (taka gildi 31. des. 2005)
+Tóku gildi 1. janúar 1999. Breytt með [4]l. 129/2004 (tóku gildi 31. des. 2005)
                  og [5]l. 141/2004 (tóku gildi 30. des. 2004).
 
               I. kafli. Heiti, hlutverk, aðild, stjórn og iðgjald.
@@ -47,15 +47,16 @@ meiri háttar ákvarðanir varðandi stefnumótun sjóðsins og starfsemi. Hún 
      Iðgjald skv. 1. mgr. skal reiknað af heildarfjárhæð greiddra launa og
 endurgjalds fyrir hvers konar vinnu, starf og þjónustu. Stofn til iðgjalds skal
   vera allar tegundir launa eða þóknana fyrir störf sem skattskyld eru skv. 1.
-mgr. 1. tölul. A-liðar [9]7. gr. laga nr. 75/1981, um tekjuskatt og eignarskatt.
-  Til gjaldstofns skal þó ekki telja hlunnindi sem greidd eru í fríðu, svo sem
-   fatnað, fæði og húsnæði, eða greiðslur sem ætlaðar eru til endurgreiðslu á
- útlögðum kostnaði, t.d. ökutækjastyrki, dagpeninga og fæðispeninga. Enn fremur
-  skal ekki telja til gjaldstofns eftirlaun. Þá skal telja til iðgjaldsstofns
+   mgr. 1. tölul. A-liðar 7. gr. [[9]laga nr. 90/2003, um tekjuskatt].^1) Til
+gjaldstofns skal þó ekki telja hlunnindi sem greidd eru í fríðu, svo sem fatnað,
+  fæði og húsnæði, eða greiðslur sem ætlaðar eru til endurgreiðslu á útlögðum
+kostnaði, t.d. ökutækjastyrki, dagpeninga og fæðispeninga. Enn fremur skal ekki
+       telja til gjaldstofns eftirlaun. Þá skal telja til iðgjaldsstofns
   atvinnuleysisbætur samkvæmt lögum um atvinnuleysistryggingar. Iðgjaldsstofn
  manns vegna vinnu hans við eigin atvinnurekstur eða sjálfstæða starfsemi skal
-vera jafnhár fjárhæð skv. 2. mgr. 1. tölul. A-liðar [10]7. gr. laga nr. 75/1981,
-          um tekjuskatt og eignarskatt, sbr. [11]59. gr. þeirra laga.
+    vera jafnhár fjárhæð skv. 2. mgr. 1. tölul. A-liðar 7. gr. [[10]laga nr.
+           90/2003, um tekjuskatt, sbr. [11]58. gr. þeirra laga].^1)
+                           ^1)[12]L. 129/2004, 131. gr.
 6. gr. Heimilt er að setja ákvæði í samþykktir sjóðsins um að lífeyrissjóðurinn
  megi taka við viðbótariðgjaldi sem greitt er umfram iðgjald skv. 5. gr. og að
    viðbótariðgjaldi þessu verði varið til ávinnslu réttinda hjá sjóðnum eftir
@@ -72,9 +73,9 @@ og sjálfstæðum atvinnurekanda ber að tilkynna sjóðnum ef þeim ber ekki le
                             þeirra látið af störfum.
     8. gr. Stjórn sjóðsins er heimilt að innheimta þóknun allt að [4%]^1) af
   iðgjaldi vegna innheimtu iðgjalda sem sjóðnum ber að innheimta í samræmi við
-[12]6. gr. laga nr. 129/1997. Heimilt er að draga þóknunina frá iðgjaldi áður en
+[13]6. gr. laga nr. 129/1997. Heimilt er að draga þóknunina frá iðgjaldi áður en
                          það er fært í réttindabókhald.
-                            ^1)[13]L. 141/2004, 2. gr.
+                            ^1)[14]L. 141/2004, 2. gr.
 
                           II. kafli. Lífeyrisréttindi.
      9. gr. Sjóðurinn greiðir sjóðfélaga eftir því sem við á ellilífeyri og
@@ -180,8 +181,9 @@ References
    6. file://1997129.html
    7. file:///altext/stjt/2004.141.html
    8. file://1997129.html
-   9. file://1981075.html
-  10. file://1981075.html
-  11. file://1981075.html
-  12. file://1997129.html#g6
-  13. file:///altext/stjt/2004.141.html
+   9. file://2003090.html
+  10. file://2003090.html
+  11. file://2003090.html#g58
+  12. file:///altext/stjt/2004.129.html
+  13. file://1997129.html#g6
+  14. file:///altext/stjt/2004.141.html

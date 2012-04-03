@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-                           Taka gildi 1. janúar 2006.
+Tóku gildi 1. janúar 2006. Breytt með [4]l. 118/2005 (tóku gildi 1. jan. 2006).
 
                            I. hluti. Skaðatryggingar.
                               I. kafli. Inngangur.
@@ -59,14 +59,15 @@ til þess að fyrirbyggja eða takmarka tjón eða sjá til þess að þær ver�
    Óheimilt er, nema annað sé tekið fram, að víkja frá ákvæðum I. hluta laga
   þessara með samningi ef það leiðir til lakari stöðu þess sem öðlast kröfu á
                  hendur félaginu samkvæmt vátryggingarsamningi.
-Þrátt fyrir ákvæði 1. mgr. er í öðrum tegundum vátrygginga en ábyrgðartryggingum
-    heimilt að víkja frá ákvæðum þessa hluta þegar vátrygging er tekin vegna
-                              atvinnurekstrar ef:
+[Þrátt fyrir ákvæði 1. mgr. er heimilt að víkja frá ákvæðum þessa hluta, þó ekki
+ ákvæðum varðandi ábyrgðartryggingar í 46. gr., þegar vátrygging er tekin vegna
+        atvinnurekstrar og einhverju eftirfarandi skilyrða er fullnægt:
     a. umfang rekstraraðilans við gerð vátryggingarsamnings eða við endurnýjun
                     hans samsvarar fleiri en fimm ársverkum,
                   b. starfsemin fer að mestu leyti fram erlendis,
                    c. vátrygging er tekin vegna skráðs loftfars,
-                 d. vátryggðar eru vörur í flutningi milli landa.
+              d. vátryggðar eru vörur í flutningi á milli landa.]^1)
+                             ^1)[5]L. 118/2005, 1. gr.
 
                      II. kafli. Upplýsingaskylda félagsins.
                    4. gr. Upplýsingar við töku vátryggingar.
@@ -411,9 +412,9 @@ Vátrygging á fasteign er til hagsbóta fyrir vátryggingartakann og fyrir rét
  að þinglýstum eignarrétti, veðrétti eða öðrum þinglýstum tryggingarréttindum í
                                    eigninni.
    Um vátryggingu lausafjár, sem hægt er að skrá sérstaklega í lausafjárbók,
- skipabók og bifreiðabók, sbr. 2.4. tölul. 1. mgr. [4]8. gr. þinglýsingalaga,
-  nr. 39/1978, rekstrartækja, sbr. 2. mgr. [5]24. gr. laga um samningsveð, nr.
-75/1997, og vörubirgða, sbr. 2. mgr. [6]33. gr. sömu laga, gilda ákvæði 2. mgr.
+ skipabók og bifreiðabók, sbr. 2.4. tölul. 1. mgr. [6]8. gr. þinglýsingalaga,
+  nr. 39/1978, rekstrartækja, sbr. 2. mgr. [7]24. gr. laga um samningsveð, nr.
+75/1997, og vörubirgða, sbr. 2. mgr. [8]33. gr. sömu laga, gilda ákvæði 2. mgr.
         einnig ef réttindum er þinglýst eða þau skráð í viðkomandi skrá.
             Heimilt er að víkja frá ákvæði 1.3. mgr. með samningi.
                              40. gr. Eigendaskipti.
@@ -552,7 +553,7 @@ eru í 1. mgr. 47. gr. getur hann ekki krafist vaxta fyrir þann tíma sem líð
    stað og skal þá krafan bera vexti samkvæmt framansögðu sem miðast við það
                                    tímamark.
   Almennir vextir samkvæmt þessari grein skulu vera hinir sömu og greiða ber á
-    skaðabætur samkvæmt [7]lögum um vexti og verðtryggingu, nr. 38/2001. Um
+    skaðabætur samkvæmt [9]lögum um vexti og verðtryggingu, nr. 38/2001. Um
                dráttarvexti gilda reglur III. kafla þeirra laga.
     Vexti skal greiða þótt greiðsla félagsins í heild verði með því hærri en
  vátryggingarfjárhæðin. Í vátryggingarskilmálum skal vakin athygli á rétti til
@@ -576,7 +577,7 @@ tilkynningu sem greinir í 2. mgr. 51. gr. fyrnist krafan fyrst þegar sá frest
                          líður sem þar er tilgreindur.
  Í ábyrgðartryggingum fyrnist ábyrgð félagsins samkvæmt sömu reglum og gilda um
                           fyrningu skaðabótaábyrgðar.
-  Að öðru leyti gilda ákvæði [8]laga nr. 14/1905, um fyrning skulda og annarra
+ Að öðru leyti gilda ákvæði [10]laga nr. 14/1905, um fyrning skulda og annarra
  kröfuréttinda. Fresturinn skv. 3. málsl. 1. mgr. framlengist þó ekki í samræmi
                         við 15. gr. síðastgreindra laga.
 
@@ -675,7 +676,9 @@ hefur athafnaleysi hans sömu réttaráhrif gagnvart þeim og ef félagið hefð
           heilsutryggingu án uppsagnarréttar nema annað sé tekið fram.
    Ákvæði þessa hluta laganna gilda ekki um endurtryggingar og ekki heldur um
 tryggingar lífeyrissjóða, samkvæmt lögum sem um þá gilda, né tryggingar samkvæmt
-                          lögum um almannatryggingar.
+ lögum um almannatryggingar. [Þá gilda ákvæði um hópvátryggingar í þessum hluta
+    laganna ekki um persónutryggingar launþega samkvæmt kjarasamningum.]^1)
+                            ^1)[11]L. 118/2005, 2. gr.
                             62. gr. Skilgreiningar.
       Í þessum hluta laganna hafa eftirtalin hugtök eftirfarandi merkingu:
          a. félagið, sá sem með samningi skuldbindur sig til þess að veita
@@ -724,7 +727,7 @@ kvörtunar- eða ágreiningsmála er tengjast vátryggingarsamningum, svo og um 
                 hlutaðeigandi til að skjóta málum til dómstóla.
                        65. gr. Sérstök upplýsingaskylda.
  Áður en vátryggingarsamningur er gerður í greinaflokkum líftrygginga og öðrum
-   sem leyfi er veitt fyrir skv. [9]23. gr. laga um vátryggingastarfsemi, nr.
+  sem leyfi er veitt fyrir skv. [12]23. gr. laga um vátryggingastarfsemi, nr.
 60/1994, og á samningstímanum skal, þegar skuldbinding kemst á hér á landi, sbr.
       8. gr. síðastgreindra laga, vátryggingartaki upplýstur á íslensku um
                               eftirfarandi atriði:
@@ -1012,10 +1015,11 @@ lengur en þrjá mánuði frá uppsögn. Rétturinn til þess að viðhalda vát
 gera það ekki lengur. Ef háttsemi vátryggingartaka eða vátryggðs er sviksamleg á
    framangreind takmörkun í 1. málsl. því aðeins við að félagið hafi vitað að
            upplýsingarnar sem það fékk voru rangar eða ófullnægjandi.
- Í líftryggingum getur félagið aðeins borið fyrir sig að upplýsingaskyldu hafi
-ekki verið fullnægt ef vátryggingaratburður hefur orðið eða félagið hefur veitt
-  viðvörun skv. 94. gr. innan tveggja ára frá því að ábyrgð þess hófst. Þessi
-             takmörkun gildir þó ekki ef svikum hefur verið beitt.
+   Í [hreinum áhættulíftryggingum]^1) getur félagið aðeins borið fyrir sig að
+ upplýsingaskyldu hafi ekki verið fullnægt ef vátryggingaratburður hefur orðið
+   eða félagið hefur veitt viðvörun skv. 94. gr. innan tveggja ára frá því að
+ ábyrgð þess hófst. Þessi takmörkun gildir þó ekki ef svikum hefur verið beitt.
+                            ^1)[13]L. 118/2005, 3. gr.
              86. gr. Ábyrgðartakmörkun vegna heilsufars vátryggðs.
    Taki vátrygging til afleiðinga sjúkdóms eða meins getur félagið ekki gert
 fyrirvara um að það sé laust úr ábyrgð vegna þeirra tilvika að sjúkdómurinn eða
@@ -1031,12 +1035,14 @@ fyrirvara um að það sé laust úr ábyrgð vegna þeirra tilvika að sjúkdó
  töku vátryggingar; í slíkum tilvikum getur félagið gert fyrirvara um að það sé
 laust úr ábyrgð vegna sjúkdóms eða meins sem hinn vátryggði vissi eða mátti vita
                                       um.
-   Í sjúkratryggingum getur félagið í skilmálum gert fyrirvara um að það beri
-einungis ábyrgð á sjúkdómi hafi einkenni hans komið fram eftir ákveðið tímamark.
-      Hið sama á við um vátryggingu á örorku í tengslum við líftryggingu.
+   [Í öðrum persónutryggingum en hreinum áhættulíftryggingum getur félagið í
+  skilmálum gert fyrirvara um að það beri einungis ábyrgð á sjúkdómi eða öðru
+ tjónsatviki, að einkenni eða atvik hafi komið fram eftir ákveðið tímamark. Hið
+      sama á við um vátryggingu á örorku í tengslum við líftryggingu.]^1)
  Hafi tímabundin vátrygging verið endurnýjuð getur fyrirvarinn einungis átt við
    um sjúkdóm eða mein sem hinn vátryggði var með er vátryggingin var tekin í
                                     upphafi.
+                            ^1)[14]L. 118/2005, 4. gr.
              87. gr. Ábyrgðartakmörkun vegna hættulegrar starfsemi.
 Nú hefur félagið gert þann fyrirvara um ábyrgð sína að vátryggður taki ekki þátt
 í tiltekinni starfsemi eða athöfnum eða setji sig ekki í tilgreinda hættu og er
@@ -1164,14 +1170,15 @@ XV. kafli. Ráðstafanir tengdar vátryggingu. Rétturinn til greiðslu frá fé
                            ráðstafað vátryggingunni.
 Nú hefur vátryggingartaki ekki gert ráðstafanir í samræmi við ákvæði þessa kafla
                          og gilda þá reglur 2.6. mgr.
-Vátryggingarfjárhæð, sem fellur til við andlát vátryggingartaka, rennur til maka
-    hans. Þetta gildir þó ekki hafi fyrir andlát hans verið veitt leyfi til
- skilnaðar að borði og sæng eða lögskilnaðar, eða kveðinn upp dómur um það eða
-    hjúskapurinn ógiltur, þótt slík úrlausn sé ekki endanleg eða hafi öðlast
- réttaráhrif. Vátryggingarfjárhæð, eða hluti hennar, sem fellur til maka, telst
-  ekki til þeirra eigna sem skipta á að jöfnu eftir 93. gr., sbr. [10]103. gr.
+  [Vátryggingarfjárhæð, sem fellur til við andlát vátryggingartaka, rennur til
+maka hans, hvort sem viðkomandi var í hjúskap eða staðfestri samvist.]^1) Þetta
+ gildir þó ekki hafi fyrir andlát hans verið veitt leyfi til skilnaðar að borði
+og sæng eða lögskilnaðar, eða kveðinn upp dómur um það eða hjúskapurinn ógiltur,
+        þótt slík úrlausn sé ekki endanleg eða hafi öðlast réttaráhrif.
+   Vátryggingarfjárhæð, eða hluti hennar, sem fellur til maka, telst ekki til
+      þeirra eigna sem skipta á að jöfnu eftir 93. gr., sbr. [15]103. gr.
  hjúskaparlaga, nr. 31/1993, ef eftirlifandi maki yfirtekur ekki búið óskipt í
-                samræmi við II. kafla [11]erfðalaga, nr. 8/1962.
+                samræmi við II. kafla [16]erfðalaga, nr. 8/1962.
 Vátryggingarfjárhæð, eða hluti hennar, sem fellur ekki til maka samkvæmt ákvæði
        2. mgr., fellur til erfingja samkvæmt lögum eða erfðaskrá. Nú sat
         vátryggingartaki í óskiptu búi skv. II. kafla erfðalaga og telst
@@ -1185,6 +1192,7 @@ kemur til greiðslu þegar sá fyrsti þeirra deyr fellur vátryggingarfjárhæ�
         skiptist fjárhæðin jafnt á milli þeirra sé ekki um annað samið.
    Vátryggingarfjárhæð, sem kemur til greiðslu af öðru tilefni en við andlát
                       vátryggingartakans, fellur til hans.
+                            ^1)[17]L. 118/2005, 5. gr.
                          101. gr. Tilnefning rétthafa.
 Vátryggingartaki getur tilnefnt einn eða fleiri rétthafa að vátryggingarfjárhæð
  ásamt ágóðahlutdeild, sem kann að verða, eða hluta af vátryggingarfjárhæðinni,
@@ -1289,12 +1297,12 @@ skuldheimtumenn maka er maki vátryggðs öðlast rétt til fjárhæðarinnar þ
                               kemur til greiðslu.
     Við lífeyristryggingu geta skuldheimtumenn þess er lífeyris nýtur leitað
    fullnustu í lífeyrisgreiðslum til hans með þeim takmörkunum sem leiðir af
-                ákvæðum [12]47. gr. laga um aðför, nr. 90/1989.
+                ákvæðum [18]47. gr. laga um aðför, nr. 90/1989.
           111. gr. Riftun iðgjaldagreiðslu við gjaldþrotaskipti o.fl.
 Þrotabú vátryggingartaka, skuldari ef nauðasamningur kemst á og skuldafrágöngubú
   geta krafist endurgjalds af félaginu fyrir greiðslu iðgjalds sem innt er af
 hendi á síðustu þremur árum fyrir frestdag skv. 2. gr. laga um gjaldþrotaskipti
-o.[13]fl., nr. 21/1991, að því leyti sem iðgjaldsgreiðslan, þegar hún fór fram,
+o.[19]fl., nr. 21/1991, að því leyti sem iðgjaldsgreiðslan, þegar hún fór fram,
  var bersýnilega ósanngjörn miðað við fjárhagsstöðu vátryggingartakans og atvik
 að öðru leyti. Endurgjaldið á að nema aukningu á verðmæti vátryggingarinnar sem
  á rætur að rekja til hinnar bersýnilega ósanngjörnu iðgjaldagreiðslu. Greiðsla
@@ -1338,11 +1346,11 @@ beiðni þess sem samkvæmt líftryggingarskrá er tilgreindur sem vátryggingar
 Tilkynning vátryggingartaka skv. 1. mgr. 102. gr. telst beiðni um skráningu eða
                                 um að afmá hana.
    Sé bú vátryggingartaka tekið til opinberra skipta skal það skráð að kröfu
-skiptastjóra, sbr. 54. gr. laga um skipti á dánarbúum o.[14]fl., nr. 20/1991. Ef
+skiptastjóra, sbr. 54. gr. laga um skipti á dánarbúum o.[20]fl., nr. 20/1991. Ef
 heimild til að leita nauðasamnings hefur verið veitt, eða ef bú vátryggingartaka
  hefur verið tekið til gjaldþrotaskipta, skal skrá búið að kröfu tilsjónarmanns
 eða skiptastjóra, sbr. 43. og 87. gr. laga um gjaldþrotaskipti o.fl. Hið sama á
-    við ef vátryggingartaki er sviptur lögræði, sbr. [15]58. og [16]67. gr.
+    við ef vátryggingartaki er sviptur lögræði, sbr. [21]58. og [22]67. gr.
                            lögræðislaga, nr. 71/1997.
 Krafa um skráninguna skal færð í dagbók sama dag og hún kemur til félagsins og í
                         skrána eins fljótt og kostur er.
@@ -1403,11 +1411,12 @@ afhenda gögn sem hann á aðgang að og félagið þarf til þess að geta meti
 ekki rétt til glatar öllum rétti til krafna á hendur félaginu samkvæmt þessum og
  öðrum vátryggingarsamningum vegna sömu atvika. Sé háttsemin ekki alvarleg, hún
   varði einungis lítinn hluta kröfunnar eða ef sérstakar ástæður mæla með því
-  getur hann þó fengið bætur að hluta. Ákvæði 93. gr. gildir eftir því sem við
-                                   getur átt.
+ getur hann þó fengið bætur að hluta. Ákvæði [94. gr.]^1) gildir eftir því sem
+                                 við getur átt.
        Í þeim tilvikum sem greinir í 2. mgr. getur félagið sagt upp öllum
 vátryggingarsamningum við viðkomandi með viku fyrirvara. Ákvæði 3. mgr. 76. gr.
                        gilda eftir því sem við getur átt.
+                            ^1)[23]L. 118/2005, 6. gr.
                121. gr. Greiðsla bóta eða vátryggingarfjárhæðar.
   Krafa um bætur eða vátryggingarfjárhæð fellur í gjalddaga 14 dögum eftir að
   félagið átti þess kost að afla þeirra gagna sem þörf var á til þess að kanna
@@ -1440,7 +1449,7 @@ fyrir þann tíma sem líður vegna þess. Hið sama á við ef eigandi réttar 
   Nú er krafa um bætur miðuð við verðlag eftir að vátryggingaratburður varð og
   skal þá krafan bera vexti samkvæmt framansögðu sem miðast við það tímamark.
   Almennir vextir samkvæmt þessari grein skulu vera hinir sömu og greiða ber á
-    skaðabætur samkvæmt [17]lögum um vexti og verðtryggingu, nr. 38/2001. Um
+    skaðabætur samkvæmt [24]lögum um vexti og verðtryggingu, nr. 38/2001. Um
                dráttarvexti gilda reglur III. kafla þeirra laga.
     Vexti skal greiða þótt greiðsla félagsins í heild verði með því hærri en
   vátryggingarfjárhæð. Í vátryggingarskilmálum skal vekja athygli á rétti til
@@ -1456,7 +1465,7 @@ Hafni félagið kröfu um bætur í heild eða að hluta glatar sá sem rétt á
      úrskurðarnefnd skv. 141. gr. innan árs frá því að hann fékk skriflega
 tilkynningu um höfnunina. Í tilkynningu félagsins verður að koma fram hver lengd
 frestsins sé og hvernig honum verði slitið og lögfylgjur þess að það verði ekki
-  gert. [18]Lög um fyrning skulda og annarra kröfuréttinda, nr. 14/1905, gilda
+  gert. [25]Lög um fyrning skulda og annarra kröfuréttinda, nr. 14/1905, gilda
                  eftir því sem við getur átt um slit á frestum.
                                125. gr. Fyrning.
 Krafa um vátryggingarfjárhæð samkvæmt höfuðstólstryggingum fyrnist á tíu árum og
@@ -1472,9 +1481,9 @@ sem síðasta lífeyrisgreiðsla var innt af hendi. Hafi ekki verið inntar af h
  neinar greiðslur hefst fresturinn á þeim degi er rétthafinn gat krafist fyrstu
 greiðslu. Krafa um gjaldfallnar greiðslur fyrnist auk þess að liðnum fjórum árum
                                  frá gjalddaga.
-Að öðru leyti gilda reglur [19]laga um fyrning skulda og annarra kröfuréttinda,
+Að öðru leyti gilda reglur [26]laga um fyrning skulda og annarra kröfuréttinda,
  nr. 14/1905. Frestur sá sem tilgreindur er í 3. málsl. 1. mgr. framlengist þó
-                       ekki skv. [20]15. gr. þeirra laga.
+                       ekki skv. [27]15. gr. þeirra laga.
 
                 XIX. kafli. Sérstakar reglur um hópvátryggingar.
                    126. gr. Tengsl við önnur ákvæði laganna.
@@ -1622,7 +1631,7 @@ lífeyristryggingu ekki teljast ósanngjörn að því marki sem hún kom eða g
   og er með því átt við úrskurðarnefnd í vátryggingamálum sem starfar samkvæmt
    samningi milli viðskiptaráðherra, Neytendasamtakanna og Sambands íslenskra
    tryggingafélaga, svo og samþykktum fyrir hana. Formaður nefndarinnar skal
-  fullnægja skilyrðum til þess að vera dómari skv. 2. mgr. [21]12. gr. laga um
+  fullnægja skilyrðum til þess að vera dómari skv. 2. mgr. [28]12. gr. laga um
                              dómstóla, nr. 15/1998.
  Úrskurðarnefnd í vátryggingamálum skal kveða upp rökstudda úrskurði og verður
 þeim ekki skotið til stjórnvalda, en heimilt er aðilum máls að leggja ágreining
@@ -1720,21 +1729,28 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004030
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=204
    3. http://www.althingi.is/altext/130/s/0215.html
-   4. file://1978039.html#g8
-   5. file://1997075.html#g24
-   6. file://1997075.html#g33
-   7. file://2001038.html
-   8. file://1905014.html
-   9. file://1994060.html#g23
-  10. file://1993031.html#g103
-  11. file://1962008.html
-  12. file://1989090.html#g47
-  13. file://1991021.html
-  14. file://1991020.html
-  15. file://1997071.html#g58
-  16. file://1997071.html#g67
-  17. file://2001038.html
-  18. file://1905014.html
-  19. file://1905014.html
-  20. file://1905014.html#g15
-  21. file://1998015.html#g12
+   4. file:///altext/stjt/2005.118.html
+   5. file:///altext/stjt/2005.118.html
+   6. file://1978039.html#g8
+   7. file://1997075.html#g24
+   8. file://1997075.html#g33
+   9. file://2001038.html
+  10. file://1905014.html
+  11. file:///altext/stjt/2005.118.html
+  12. file://1994060.html#g23
+  13. file:///altext/stjt/2005.118.html
+  14. file:///altext/stjt/2005.118.html
+  15. file://1993031.html#g103
+  16. file://1962008.html
+  17. file:///altext/stjt/2005.118.html
+  18. file://1989090.html#g47
+  19. file://1991021.html
+  20. file://1991020.html
+  21. file://1997071.html#g58
+  22. file://1997071.html#g67
+  23. file:///altext/stjt/2005.118.html
+  24. file://2001038.html
+  25. file://1905014.html
+  26. file://1905014.html
+  27. file://1905014.html#g15
+  28. file://1998015.html#g12

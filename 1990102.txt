@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-  Tóku gildi 19. desember 1990. Breytt með [4]l. 129/2004 (taka gildi 31. des.
+  Tóku gildi 19. desember 1990. Breytt með [4]l. 129/2004 (tóku gildi 31. des.
                                      2005).
 
 1. gr. Stofna skal norrænt fjármögnunarfélag samkvæmt samningi milli Danmerkur,
@@ -22,9 +22,10 @@ Finnlands, Íslands, Noregs og Svíþjóðar um stofnun norræns fjármögnunarf
   slík ákvæði hindra eða torvelda starfsemi félagsins eða efndir skuldbindinga
                                      þess.
                                ^1)Nú [6]l. 87/1992.
-   3. gr. Félagið skal undanþegið aðstöðugjaldi, landsútsvari, tekjuskatti og
- eignarskatti, svo og öðrum gjöldum sem lögð kunna að vera á tekjur, eignir eða
-                       veltu til ríkis eða sveitarfélaga.
+3. gr. Félagið skal undanþegið aðstöðugjaldi, landsútsvari [og tekjuskatti],^1)
+svo og öðrum gjöldum sem lögð kunna að vera á tekjur, eignir eða veltu til ríkis
+                               eða sveitarfélaga.
+                            ^1)[7]L. 129/2004, 82. gr.
      4. gr. Lánssamningar, sem félagið er aðili að, skulu vera undanþegnir
                  stimpilgjöldum og öðrum gjöldum hins opinbera.
                   5. gr. Lög þessi öðlast gildi þegar í stað.
@@ -38,3 +39,4 @@ References
    4. file:///altext/stjt/2004.129.html
    5. file:///altext/stjtnr.html#1979063
    6. file://1992087.html
+   7. file:///altext/stjt/2004.129.html

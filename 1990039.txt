@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 1. júní 1990. Breytt með [4]l. 129/2004 (taka gildi 31. des. 2005).
+ Tóku gildi 1. júní 1990. Breytt með [4]l. 129/2004 (tóku gildi 31. des. 2005).
 
 1. gr. Stofna skal sjóð er nefnist Verðjöfnunarsjóður sjávarútvegsins. Hlutverk
 sjóðsins er að draga úr áhrifum verðsveiflna á sjávarafurðum á þjóðarbúskapinn.
@@ -47,19 +47,20 @@ deild hvar 35% verðbilið er hverju sinni. Greiðslur skulu þó aldrei vera 
   7. gr. Innstæður á verðjöfnunarreikningum sjóðsins teljast eign hans en eru
    bundnar við verðjöfnun á afurðum þess framleiðanda sem inneign myndaði. Sé
  félagi, sem á reikning í sjóðnum, slitið og það sameinað öðru félagi með þeim
-      hætti að ákvæðum [5]56. og [6]57. gr. laga nr. 75/1981, um tekju- og
- eignarskatt, með síðari breytingum, sé fullnægt skal það félag, er við tekur,
- taka við rétti til verðjöfnunar af sérreikningi þess félags sem slitið var. Sé
-rekstur einstaklings, sem greitt hefur í sjóðinn, seldur er heimilt að kveða svo
-á að innstæða á verðjöfnunarreikningi fylgi með í sölunni. Með sama hætti getur
-  innstæða á nafni einstaklings flust yfir á félag sem myndað kann að vera um
- rekstur hans. Látist einstaklingur, sem greitt hefur í sjóðinn, taka erfingjar
-   hans við öllum réttindum sem hinn látni hafði áunnið sér gagnvart sjóðnum
-    uppfylli þeir ákvæði laga þessara, nema um skuldafrágöngubú sé að ræða.
+ hætti að ákvæðum [[5]51. og [6]53. gr. laga nr. 90/2003, um tekjuskatt],^1) sé
+   fullnægt skal það félag, er við tekur, taka við rétti til verðjöfnunar af
+  sérreikningi þess félags sem slitið var. Sé rekstur einstaklings, sem greitt
+        hefur í sjóðinn, seldur er heimilt að kveða svo á að innstæða á
+verðjöfnunarreikningi fylgi með í sölunni. Með sama hætti getur innstæða á nafni
+einstaklings flust yfir á félag sem myndað kann að vera um rekstur hans. Látist
+    einstaklingur, sem greitt hefur í sjóðinn, taka erfingjar hans við öllum
+réttindum sem hinn látni hafði áunnið sér gagnvart sjóðnum uppfylli þeir ákvæði
+               laga þessara, nema um skuldafrágöngubú sé að ræða.
   Verði framleiðandi gjaldþrota eða sé félagi slitið án þess að ákvæði 1. mgr.
     eigi við skal innstæða á verðjöfnunarreikningi þess renna inn á óskiptan
    reikning Verðjöfnunarsjóðs. Sama á við ef framleiðandi hefur ekki í sex ár
                     framleitt sjávarafurðir til útflutnings.
+                            ^1)[7]L. 129/2004, 81. gr.
 8. gr. Greiðslur framleiðenda inn á verðjöfnunarreikninga hjá Verðjöfnunarsjóði
  skulu koma til lækkunar á tekjum þeirra á því ári sem framleiðsla á sér stað.
 Útgreiðslur af verðjöfnunarreikningum til framleiðenda skulu færðar til tekna á
@@ -86,7 +87,7 @@ sjóðsins skal honum skipt hlutfallslega niður á verðjöfnunarreikninga sjó
                       hagkvæman hátt í erlendum gjaldeyri.
     12. gr. Sjávarútvegsráðherra setur með reglugerð,^1) að fengnum tillögum
              sjóðstjórnar, nánari ákvæði um framkvæmd þessara laga.
-                                ^1)[7]Rg. 254/1990.
+                                ^1)[8]Rg. 254/1990.
  13. gr. Verðjöfnunarsjóður sjávarútvegsins er undanþeginn opinberum gjöldum og
                        sköttum hverju nafni sem nefnast.
                   14. gr. Lög þessi öðlast gildi 1. júní 1990.
@@ -99,6 +100,7 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=112&mnr=519
    3. http://www.althingi.is/altext/112/s/0905.html
    4. file:///altext/stjt/2004.129.html
-   5. file:///altext/stjtnr.html#1981075?g56
-   6. file://1981075.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/254-1990
+   5. file://2003090.html#g51
+   6. file://2003090.html#g53
+   7. file:///altext/stjt/2004.129.html
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/254-1990

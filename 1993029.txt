@@ -427,7 +427,7 @@ References
   38. file:///altext/stjt/2001.056.html
   39. file:///altext/stjt/2003.019.html
   40. file:///altext/stjt/1998.151.html
-  41. file://1987055.html#g6
+  41. file://1987055.html
   42. file:///altext/stjt/2000.104.html
   43. file://1987050.html
   44. file://1987050.html
@@ -438,10 +438,10 @@ References
   49. file:///altext/stjt/1998.159.html
   50. file:///altext/stjt/1999.086.html
   51. file:///altext/stjt/1999.086.html
-  52. file://1987055.html#g8
-  53. file://1987055.html#g12
+  52. file:///altext/stjtnr.html#1987055?g8
+  53. file://1987055.html
   54. file:///altext/stjt/1995.041.html
-  55. file://1987055.html#g1
+  55. file://1987055.html
   56. file://1987097.html
   57. file://1987050.html
   58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/255-1993

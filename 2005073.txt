@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-                           Taka gildi 1. janúar 2006.
+                           Tóku gildi 1. janúar 2006.
 
                        I. kafli. Tilgangur og yfirstjórn.
 1. gr. Tilgangur laga þessara er að stuðla að þróun ferðamála sem atvinnugreinar
@@ -18,7 +18,8 @@
  menning þjóðarinnar, umhverfisvernd, fagmennska og neytendavernd verði höfð að
                                   leiðarljósi.
   2. gr. Samgönguráðherra fer með yfirstjórn mála sem lög þessi taka til nema
-                           annað sé ákveðið í lögum.
+                          annað sé ákveðið í lögum.^1)
+                                ^1)Augl. A 90/2005.
 3. gr. Ferðamálastofa fer með framkvæmd ferðamála samkvæmt lögum þessum og eins
                        og henni er falið með öðrum lögum.
    Samgönguráðherra skipar ferðamálastjóra til fimm ára í senn og veitir hann
@@ -228,13 +229,14 @@ ferðaskrifstofu en ekkert tjón sem rekja má til hugsanlegra óþæginda eða 
               b. 35% af veltu fjögurra söluhæstu mánaðanna í röð eða
                            c. 15% af heildarveltu á ári.
            Trygging skal þó aldrei nema lægri fjárhæð en 1 millj. kr.
- Samgönguráðherra skal setja reglur um bókhald og reikningsskil ferðaskrifstofa
-   til að aðskilja sölu alferða frá annarri starfsemi og til að nauðsynlegar
-              upplýsingar við mat á tryggingarfjárhæð liggi fyrir.
+       Samgönguráðherra skal setja reglur^1) um bókhald og reikningsskil
+  ferðaskrifstofa til að aðskilja sölu alferða frá annarri starfsemi og til að
+       nauðsynlegar upplýsingar við mat á tryggingarfjárhæð liggi fyrir.
 Ferðamálastofu er heimilt að krefjast hærri tryggingar í þeim tilfellum þegar um
     sérstaklega áhættusaman rekstur er að ræða eða að öðru leyti er ljóst að
      trygging samkvæmt lögum þessum mun ekki nægja komi til gjaldþrots eða
                        rekstrarstöðvunar ferðaskrifstofu.
+                               ^1)[6]Rg. 1100/2005.
  18. gr. Til að unnt sé að meta upphæð tryggingar skal umsækjandi um leyfi til
   reksturs ferðaskrifstofu leggja fram með umsókn ítarlega áætlun um rekstur,
 greiðslustreymi og efnahag fyrir yfirstandandi og næsta ár. Áætluninni skal vera
@@ -304,11 +306,11 @@ Niðurfelling leyfis ferðaskrifstofu skv. 2. og 3. mgr. 21. gr. jafngildir þv�
  23. gr. Ráðherra er heimilt að setja reglugerð um skipulag ferðamála samkvæmt
                                  lögum þessum.
   24. gr. Öll þjónusta ferðaskrifstofu sem veitt er á rafrænan hátt skal fara
-   eftir [6]lögum nr. 30/2002, um rafræn viðskipti og aðra rafræna þjónustu.
+   eftir [7]lögum nr. 30/2002, um rafræn viðskipti og aðra rafræna þjónustu.
     25. gr. Stjórnsýsluákvörðunum Ferðamálastofu, svo sem um synjun á útgáfu
 ferðaskipuleggjanda- eða ferðaskrifstofuleyfis, ákvörðun um brottfall leyfis eða
  ákvörðun um til hvaða flokks þjónusta heyrir samkvæmt lögum þessum, má skjóta
-til ráðuneytisins. Um málsmeðferð fer samkvæmt [7]stjórnsýslulögum, nr. 37/1993.
+til ráðuneytisins. Um málsmeðferð fer samkvæmt [8]stjórnsýslulögum, nr. 37/1993.
  26. gr. Leyfis- og skráningarskyld starfsemi samkvæmt lögum þessum sem stunduð
  er án tilskilins leyfis eða skráningar varðar sektum nema þyngri refsing liggi
                            við samkvæmt öðrum lögum.
@@ -350,5 +352,6 @@ References
    3. http://www.althingi.is/altext/131/s/1097.html
    4. file://1994080.html
    5. file://2002030.html#g6
-   6. file://2002030.html
-   7. file://1993037.html
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1100-2005
+   7. file://2002030.html
+   8. file://1993037.html

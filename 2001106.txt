@@ -11,7 +11,7 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
  Tóku gildi 17. júlí 2001. Breytt með [4]l. 144/2002 (tóku gildi 30. des. 2002)
-                 og [5]l. 129/2004 (taka gildi 31. des. 2005).
+                 og [5]l. 129/2004 (tóku gildi 31. des. 2005).
 
                        I. kafli. Yfirstjórn og skipulag.
    1. gr. Í lögum þessum er kveðið á um skipulag lista- og minjasafna í þeim
@@ -54,8 +54,9 @@ hvert á sínu verksviði. Höfuðsöfn skal stofna með lögum þar sem nánar 
                              ^1)[7]L. 144/2002, 2. gr.
    6. gr. Höfuðsöfn mega ekki taka við gjöfum sem kvaðir fylgja, en þó getur
 menntamálaráðherra veitt undanþágu frá þessu ákvæði ef sérstök rök mæla með því.
-   Gjafir og fjárframlög til safna eru frádráttarbær til skatts, sbr. ákvæði
-   [8]laga um tekjuskatt og eignarskatt, nr. 75/1981, með áorðnum breytingum.
+ Gjafir og fjárframlög til safna eru frádráttarbær til skatts, sbr. ákvæði laga
+                               um tekjuskatt ^1)
+                            ^1)[8]L. 129/2004, 141. gr.
 7. gr. Heimilt er að lána gripi eða verk úr söfnum til sýningar, en þó eigi til
  útlanda nema með samþykki menntamálaráðherra að fenginni umsögn forstöðumanns
 viðkomandi höfuðsafns og safnaráðs ef um er að ræða gripi sem falla undir ákvæði
@@ -140,6 +141,6 @@ References
    5. file:///altext/stjt/2004.129.html
    6. file:///altext/stjt/2002.144.html
    7. file:///altext/stjt/2002.144.html
-   8. file://1981075.html
+   8. file:///altext/stjt/2004.129.html
    9. http://stjornartidindi.is/servlet/stjrtid/B/2003/537.pdf
   10. file:///altext/stjt/2002.144.html

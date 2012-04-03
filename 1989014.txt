@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-   Tóku gildi 30. janúar 1989. Breytt með [4]l. 129/2004 (taka gildi 31. des.
+   Tóku gildi 30. janúar 1989. Breytt með [4]l. 129/2004 (tóku gildi 31. des.
                                      2005).
 
    1. gr. Stofna skal norrænan þróunarsjóð samkvæmt samningi milli Danmerkur,
@@ -22,9 +22,10 @@
   slík ákvæði hindra eða torvelda starfsemi sjóðsins eða efndir skuldbindinga
                                      hans.
                                ^1)Nú [6]l. 87/1992.
-3. gr. Sjóðurinn skal vera undanþeginn aðstöðugjaldi, landsútsvari, tekjuskatti
- og eignarskatti, svo og öðrum gjöldum sem lögð kunna að vera á tekjur, eignir
+     3. gr. Sjóðurinn skal vera undanþeginn aðstöðugjaldi, landsútsvari [og
+ tekjuskatti],^1) svo og öðrum gjöldum sem lögð kunna að vera á tekjur, eignir
                      eða veltu til ríkis eða sveitarfélaga.
+                            ^1)[7]L. 129/2004, 80. gr.
     4. gr. Lánssamningar, sem sjóðurinn er aðili að, skulu vera undanþegnir
                  stimpilgjöldum og öðrum gjöldum hins opinbera.
   5. gr. Lög þessi öðlast gildi um leið og samningur um norrænan þróunarsjóð.
@@ -38,3 +39,4 @@ References
    4. file:///altext/stjt/2004.129.html
    5. file:///altext/stjtnr.html#1979063
    6. file://1992087.html
+   7. file:///altext/stjt/2004.129.html

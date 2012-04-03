@@ -11,7 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
    Tóku gildi 10. apríl 2003, sjá þó 28. gr. EES-samningurinn: XVIII. viðauki
-  tilskipun 80/987/EBE. Breytt með [4]l. 129/2004 (taka gildi 31. des. 2005).
+ tilskipun 80/987/EBE. Breytt með [4]l. 129/2004 (tóku gildi 31. des. 2005) og
+                   [5]l. 131/2005 (tóku gildi 1. jan. 2006).
 
                         I. kafli. Markmið og gildissvið.
                                 1. gr. Markmið.
@@ -27,7 +28,7 @@ lífeyrisiðgjöld í bú vinnuveitanda sem hefur staðfestu og rekur starfsemi 
 jafnaði inna af hendi starfsskyldur sínar hér á landi, enda njóti kröfur þeirra
                            ekki ábyrgðar í öðru ríki.
      Ábyrgð sjóðsins er háð því skilyrði að kröfur skv. 1. mgr. hafi verið
-viðurkenndar sem forgangskröfur skv. 112. gr. laga um gjaldþrotaskipti o.[5]fl.,
+viðurkenndar sem forgangskröfur skv. 112. gr. laga um gjaldþrotaskipti o.[6]fl.,
 nr. 21/1991, með fyrirvara um takmarkanir og frávik sem kveðið er á um í II.IV.
                               kafla laga þessara.
 Fari um skipti á búi vinnuveitanda samkvæmt lögum annars ríkis gilda ákvæði laga
@@ -64,7 +65,7 @@ ráðningarsamningi að því tilskildu að kröfuhafi sýni fram á með ótví
       d. Kröfu lífeyrissjóðs um lífeyrisiðgjöld sem fallið hafa í gjalddaga á
   ábyrgðartímabili, sbr. 4. gr. Ábyrgðin takmarkast við 10% lágmarksiðgjald og
  allt að 4% af iðgjaldsstofni samkvæmt samningi um viðbótartryggingavernd, sbr.
-    [6]2. og [7]9. gr. laga um skyldutryggingu lífeyrisréttinda og starfsemi
+    [7]2. og [8]9. gr. laga um skyldutryggingu lífeyrisréttinda og starfsemi
     lífeyrissjóða, nr. 129/1997, og ákvæði í kjarasamningum. Ráðherra skal í
   reglugerð kveða nánar á um skilyrði fyrir ábyrgð sjóðsins á iðgjöldum, þar á
                meðal um eftirlit með skilum og innheimtu þeirra.
@@ -95,7 +96,7 @@ Sjóðstjórn er heimilt, þegar sérstaklega stendur á, að ábyrgjast kröfur
 
                         III. kafli. Vextir og kostnaður.
                                  8. gr. Vextir.
- Kröfur skv. ad-liðum 5. gr. skulu bera vexti skv. [8]4. gr. laga um vexti og
+ Kröfur skv. ad-liðum 5. gr. skulu bera vexti skv. [9]4. gr. laga um vexti og
  verðtryggingu, nr. 38/2001, frá gjalddaga þeirra til þess dags er krafan fæst
                          greidd úr Ábyrgðasjóði launa.
   Um vexti á bótakröfur skv. e-lið 5. gr. fer samkvæmt þeim reglum sem almennt
@@ -108,7 +109,7 @@ Auk kostnaðar skv. 1. mgr. ber sjóðurinn ábyrgð á greiðslu skiptatrygging
 Stjórn Ábyrgðasjóðs launa skal setja reglur^1) sem ráðherra staðfestir um hámark
 á greiðslu kostnaðar og önnur skilyrði fyrir ábyrgð sjóðsins á kröfum skv. 1. og
                                     2. mgr.
-                               ^1)[9]Rgl. 644/2003.
+                               ^1)[10]Rgl. 644/2003.
 
                        IV. kafli. Undanþágur frá ábyrgð.
                               10. gr. Undanþágur.
@@ -178,16 +179,18 @@ skiptastjóra í búi vinnuveitandans niðurstöðu sína um greiðsluskyldu sj�
 staðreyna hvort greiðsla hafi fengist á henni að einhverju eða öllu leyti úr búi
 vinnuveitandans og skulu þær greiðslur dragast að fullu frá greiðslu úr sjóðnum
                  eftir þeim reglum sem kveðið er á um í 6. gr.
-                                16. gr. Málskot.
-Afgreiðslu Ábyrgðasjóðs launa má skjóta til stjórnar sjóðsins innan mánaðar frá
-                       móttöku tilkynningar skv. 15. gr.
-Stjórnin skal að jafnaði taka afstöðu til framkominnar kæru innan tveggja mánaða
- frá því að kæra berst. Skorti gögn eða nánari skýringar til að unnt sé að taka
- afstöðu til kröfu skal miða upphaf frests við þann dag sem þessar upplýsingar
-                                    berast.
-        Heimilt er að kæra ákvarðanir stjórnar samkvæmt lögum þessum til
- félagsmálaráðuneytis innan tveggja mánaða frá því að aðila barst tilkynning um
-ákvörðunina. Þetta skerðir þó ekki rétt aðila til að höfða mál fyrir dómstólum.
+                             16. gr. [Kæruheimild.
+  Heimilt er að kæra ákvarðanir Ábyrgðasjóðs launa sem teknar eru á grundvelli
+                   laga þessara til félagsmálaráðuneytisins.
+  Kæra skal berast ráðuneytinu skriflega innan tveggja mánaða frá því að aðila
+máls var tilkynnt um ákvörðun. Kæra telst nægilega snemma fram komin ef bréf sem
+  hefur hana að geyma hefur borist ráðuneytinu eða verið afhent pósti áður en
+                             fresturinn er liðinn.
+Félagsmálaráðuneytið skal leitast við að kveða upp úrskurð innan tveggja mánaða
+                frá því að ráðuneytinu berst mál til úrskurðar.
+       Að öðru leyti fer um málsmeðferð samkvæmt ákvæðum stjórnsýslulaga.
+   Ákvæði þetta skerðir ekki rétt aðila til að höfða mál fyrir dómstólum.]^1)
+                            ^1)[11]L. 131/2005, 1. gr.
                       17. gr. Innlausn kröfu og fyrirsvar.
   Frá því að skiptastjóra berst tilkynning Ábyrgðasjóðs launa skv. 15. gr. fer
  sjóðurinn með fyrirsvar fyrir kröfunni gagnvart búi vinnuveitanda að því leyti
@@ -206,8 +209,8 @@ fyrir lok kröfulýsingarfrests. Brjóti kröfuhafi eða umboðsmaður hans gegn
 
                   VII. kafli. Orlof vegna greiðsluerfiðleika.
                             19. gr. Almenn skilyrði.
-  Standi vinnuveitandi ekki í skilum með greiðslu orlofslauna skv. [10]7. eða
- [11]8. gr. laga um orlof, nr. 30/1987, án þess þó að bú hans hafi verið tekið
+  Standi vinnuveitandi ekki í skilum með greiðslu orlofslauna skv. [12]7. eða
+ [13]8. gr. laga um orlof, nr. 30/1987, án þess þó að bú hans hafi verið tekið
  til gjaldþrotaskipta, getur launamaður eða hlutaðeigandi stéttarfélag í umboði
  hans snúið sér til Ábyrgðasjóðs launa með orlofslaunakröfuna. Krafa skal studd
      fullnægjandi gögnum um fjárhæð hennar, svo sem launaseðlum og vottorði
@@ -248,15 +251,16 @@ Auk þeirra verkefna sem lúta að stjórnsýslulegri meðferð þeirra mála se
    vinnulaunum, þóknun og reiknuðu endurgjaldi, hvaða nafni sem nefnist, sem
       skattskylt er. Ákvæði laga um tryggingagjald eiga við um gjaldstofn,
       gjaldskyldu, greiðslutímabil, álagningu og innheimtu ábyrgðargjalds.
-                Ábyrgðargjaldið skal vera 0,04% af gjaldstofni.
+              Ábyrgðargjaldið skal vera [0,1%]^1) af gjaldstofni.
   Skorti sjóðinn reiðufé til að standa við skuldbindingar sínar samkvæmt lögum
   þessum skal stjórn sjóðsins þegar tilkynna það ráðherra. Ríkissjóður skal þá
     leggja sjóðnum til þá fjármuni sem til þarf og skoðast það sem lántaka.
-    Ábyrgðargjald telst rekstrarkostnaður skv. 1. tölul. [12]31. gr. laga um
-  tekjuskatt og eignarskatt, nr. 75/1981, að því leyti sem það er ákvarðað af
-           launum sem teljast rekstrarkostnaður samkvæmt sömu grein.
+   Ábyrgðargjald telst rekstrarkostnaður skv. 1. tölul. 31. gr. [[14]laga nr.
+   90/2003, um tekjuskatt],^2) að því leyti sem það er ákvarðað af launum sem
+                 teljast rekstrarkostnaður samkvæmt sömu grein.
         Kostnaður af rekstri Ábyrgðasjóðs launa greiðist af tekjum hans.
          Ársreikningur sjóðsins skal endurskoðaður af Ríkisendurskoðun.
+              ^1)[15]L. 131/2005, 2. gr. ^2)[16]L. 129/2004, 147. gr.
 
                             IX. kafli. Ýmis ákvæði.
                                 24. gr. Framsal.
@@ -286,13 +290,13 @@ Krafa um endurgreiðslu skv. 1. mgr. fellur úr gildi fyrir fyrningu þegar tvö
                           27. gr. Reglugerðarheimild.
 Félagsmálaráðherra skal að fengnum tillögum stjórnar Ábyrgðasjóðs launa setja í
             reglugerð^1) nánari fyrirmæli um framkvæmd laga þessara.
-                      ^1)[13]Rg. 339/1990, [14]rg. 462/2003.
+                      ^1)[17]Rg. 339/1990, [18]rg. 462/2003.
                         28. gr. Gildistaka og lagaskil.
  Lög þessi, sem sett eru með hliðsjón af tilskipun ráðsins frá 20. október 1980
     nr. 80/987/EBE um samræmingu á lögum aðildarríkjanna um vernd til handa
          launþegum verði vinnuveitandi gjaldþrota, öðlast þegar gildi.
 Kröfur í bú vinnuveitanda sem úrskurðuð eru gjaldþrota fyrir gildistöku þessara
- laga njóta ábyrgðar samkvæmt [15]lögum um ábyrgðasjóð launa vegna gjaldþrota,
+ laga njóta ábyrgðar samkvæmt [19]lögum um ábyrgðasjóð launa vegna gjaldþrota,
  nr. 53/1993. Ákvæði 10. gr. laga þessara taka þó strax gildi vegna krafna í bú
  vinnuveitanda sem úrskurðuð eru gjaldþrota fyrir gildistöku þessara laga leiði
                  þau til hagstæðari niðurstöðu fyrir kröfuhafa.
@@ -302,7 +306,7 @@ samkvæmt samningum um viðbótartryggingavernd og ákvæðum kjarasamninga sem 
          vinnuveitanda verið úrskurðað gjaldþrota eftir 1. janúar 2004.
  Ákvæði 1. mgr. 6. gr. um hámarksábyrgð á kröfum launamanna skv. a- og b-lið 5.
  gr. öðlast gildi 1. apríl 2003 vegna krafna sem gjaldfalla eftir það tímamark.
-         Fram til þess dags gildir 2. mgr. [16]5. gr. laga nr. 53/1993.
+         Fram til þess dags gildir 2. mgr. [20]5. gr. laga nr. 53/1993.
  Ákvæði 1. mgr. 6. gr. um hámark ábyrgðar vegna krafna skv. c-lið 5. gr. öðlast
 þegar gildi gagnvart kröfum sem stofnast hafa en hafa ekki náð hámarki ábyrgðar
 fyrir gildistöku laganna. Kröfur umfram hámarksábyrgð skulu ekki skerðast að því
@@ -315,15 +319,19 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=649
    3. http://www.althingi.is/altext/128/s/1055.html
    4. file:///altext/stjt/2004.129.html
-   5. file://1991021.html
-   6. file://1997129.html#g2
-   7. file://1997129.html#g9
-   8. file://2001038.html#g4
-   9. http://stjornartidindi.is/servlet/stjrtid/B/2003/644.pdf
-  10. file://1987030.html#g7
-  11. file://1987030.html#g8
-  12. file://1981075.html
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/339-1990
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/462-2003
-  15. file://1993053.html
-  16. file://1993053.html
+   5. file:///altext/stjt/2005.131.html
+   6. file://1991021.html
+   7. file://1997129.html#g2
+   8. file://1997129.html#g9
+   9. file://2001038.html#g4
+  10. http://stjornartidindi.is/servlet/stjrtid/B/2003/644.pdf
+  11. file:///altext/stjt/2005.131.html
+  12. file://1987030.html#g7
+  13. file://1987030.html#g8
+  14. file://2003090.html
+  15. file:///altext/stjt/2005.131.html
+  16. file:///altext/stjt/2004.129.html
+  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/339-1990
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/462-2003
+  19. file://1993053.html
+  20. file://1993053.html

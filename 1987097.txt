@@ -238,9 +238,9 @@ tilkynningarskyldu, gjaldstofn, gjaldskyldu, uppgjörstímabil, gjalddaga og að
                             ^1)[61]L. 89/1996, brbákv.
 [IX. Heimilt er að fella niður eða endurgreiða vörugjald af sérhæfðum varahlutum
  í vetnisbifreiðar sem fluttar eru inn í rannsóknarskyni. Heimildin gildir til
-      31. desember 2008. Fjármálaráðherra setur nánari reglur um framkvæmd
-                             eftirgjafarinnar.]^1)
-                             ^1)[62]L. 72/2005, 6. gr.
+    31. desember 2008. Fjármálaráðherra setur nánari reglur^1) um framkvæmd
+                             eftirgjafarinnar.]^2)
+                  ^1)[62]Rg. 676/2005. ^2)[63]L. 72/2005, 6. gr.
 
 References
 
@@ -283,12 +283,12 @@ References
   36. file:///altext/stjt/1996.089.html
   37. file:///altext/stjt/1998.089.html
   38. file:///altext/stjt/1996.089.html
-  39. file://1987055.html#g6
+  39. file://1987055.html
   40. file://1988050.html#g29
   41. file:///altext/stjt/2000.155.html
   42. file:///altext/stjt/2000.104.html
   43. file:///altext/stjt/1996.089.html
-  44. file://1987055.html#g6
+  44. file://1987055.html
   45. file:///altext/stjt/1998.089.html
   46. file:///altext/stjt/1996.089.html
   47. file:///altext/stjt/2000.104.html
@@ -306,4 +306,5 @@ References
   59. file:///altext/stjt/1988.095.html
   60. file:///altext/stjt/1993.018.html
   61. file:///altext/stjt/1996.089.html
-  62. file:///altext/stjt/2005.072.html
+  62. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/676-2005
+  63. file:///altext/stjt/2005.072.html

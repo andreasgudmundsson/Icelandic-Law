@@ -12,7 +12,7 @@
 
   Tóku gildi 27. maí 1977. Breytt með [3]l. 45/1982 (tóku gildi 24. maí 1982),
   [4]l. 95/1984 (tóku gildi 13. júní 1984), [5]l. 28/1989 (tóku gildi 23. maí
-1989), [6]l. 64/1997 (tóku gildi 30. maí 1997) og [7]l. 129/2004 (taka gildi 31.
+1989), [6]l. 64/1997 (tóku gildi 30. maí 1997) og [7]l. 129/2004 (tóku gildi 31.
                                   des. 2005).
 
 1. gr. Ríkisstjórnin skal beita sér fyrir stofnun hlutafélags, er reisi og reki
@@ -86,25 +86,25 @@ frá utanaðkomandi aðilum, er verði ekki lægri en jafnvirði 320 milljóna n
        lánum, sem félaginu eru útveguð, gegn sams konar aðgerðum af hálfu
     samstarfsaðilanna eftir réttu hlutfalli við hlutafjáreign hvers um sig.
                                ^1)Augl. B 452/1997.
-7. gr. Hlutafélagi skv. 1. gr. ber að greiða tekjuskatt og eignarskatt og önnur
-opinber gjöld, sem almennt eru á lögð hér á landi, eftir þeim reglum, sem um þau
-gilda samkvæmt lögum á hverjum tíma, nema að því leyti, sem mælt er á annan veg
-                                í lögum þessum.
-Verði lagareglum um tekjuskatt og eignarskatt eða önnur opinber gjöld breytt frá
-   því, sem nú er, skal hlutafélagið jafnan eiga sama rétt og aðrir íslenskir
- aðilar, sem hafa hliðstætt rekstrarform og stunda hliðstæða starfsemi, til að
-  njóta þeirra hlunninda, sem um er að ræða eftir hinum breyttu reglum, og því
-                   ekki íþyngt með álögum umfram þessa aðila.
+  7. gr. Hlutafélagi skv. 1. gr. ber að greiða tekjuskatt ^1) og önnur opinber
+ gjöld, sem almennt eru á lögð hér á landi, eftir þeim reglum, sem um þau gilda
+  samkvæmt lögum á hverjum tíma, nema að því leyti, sem mælt er á annan veg í
+                                 lögum þessum.
+ Verði lagareglum um tekjuskatt ^1) eða önnur opinber gjöld breytt frá því, sem
+ nú er, skal hlutafélagið jafnan eiga sama rétt og aðrir íslenskir aðilar, sem
+ hafa hliðstætt rekstrarform og stunda hliðstæða starfsemi, til að njóta þeirra
+hlunninda, sem um er að ræða eftir hinum breyttu reglum, og því ekki íþyngt með
+                           álögum umfram þessa aðila.
 Eftirfarandi reglur skulu gilda gagnvart hlutafélaginu að því er varðar skatta á
 nettótekjur og aðra skatta, sem að neðan greinir, án tillits til breytinga, sem
                    verða kunna á almennum lögum um þá skatta:
     1. Félaginu skal jafnan heimilt að halda varasjóð myndaðan af skattfrjálsum
     framlögum að því marki, sem um ræðir í 2. mgr. 17. gr. gildandi laga um
- tekjuskatt og eignarskatt^1) (nr. 68/1971, sbr. [16]lög nr. 7/1972), og eftir
-         þeim reglum, er gilda um slíkan varasjóð samkvæmt þeim lögum.
+tekjuskatt ^1) (nr. 68/1971, sbr. [16]lög nr. 7/1972), og eftir þeim reglum, er
+                 gilda um slíkan varasjóð samkvæmt þeim lögum.
       2. Félaginu skal jafnan heimilt að draga frá hreinum tekjum sínum á ári
  hverju sem svarar allt að 10% af nafnverði hlutafjár þess með sama hætti og um
-getur í 1. mgr. 17. gr. gildandi tekjuskattslaga.^1) Má sá frádráttur vera fyrir
+getur í 1. mgr. 17. gr. gildandi tekjuskattslaga.^2) Má sá frádráttur vera fyrir
 fjárhæðum, er félagið borgar út jafnóðum sem arð á því ári, og/eða fjárhæðum, er
 félagið leggur til hliðar á árinu í sjóð til fjárfestingar og rekstrarþarfa. Úr
   sjóði þeim, sem lagður er til hliðar samkvæmt ákvæði þessu, má síðar úthluta
@@ -119,9 +119,9 @@ rekstrarútgjöldum þess næstliðið almanaksár samkvæmt ákvæðum skattala
  taldar fyrningar og vöru- og efnisnotkun), þó ekki af hærri upphæð en sem nemi
    brúttótekjum félagsins á árinu. Verður landsútsvarið lagt á atvinnurekstur
   félagsins sem heild og kemur í stað aðstöðugjalds á þann rekstur skv. [17]V.
- kafla laga nr. 8/1972, um tekjustofna sveitarfélaga,^2) og annarra gjalda, er
+ kafla laga nr. 8/1972, um tekjustofna sveitarfélaga,^3) og annarra gjalda, er
                       leysa kynnu aðstöðugjaldið af hólmi.
-                    ^1)Nú [18]l. 75/1981. ^2)Nú [19]l. 4/1995.
+      ^1)[18]L. 129/2004, 41. gr. ^2)Nú [19]l. 90/2003. ^3)Nú [20]l. 4/1995.
  8. gr. Um skattskyldu erlendra aðila, sem kvaddir eru til samvinnu samkvæmt 2.
    gr. laganna og eiga hlut í félaginu eða láta því í té tæknilega aðstoð eða
          aðstoð við sölu á afurðum þess, skal fara eftir ákvæðum þeirra
@@ -166,7 +166,7 @@ skal vera í eigu sérstaks hafnarsjóðs, sem sveitarfélög í nágrenninu sto
    Ríkisstjórninni er heimilt að ákveða, að hafnarsjóðurinn verði eigandi að
  jarðnæði verksmiðjunnar við Grundartanga, sbr. 2. tölul. 3. gr., og leigi það
              hlutafélaginu með kjörum, sem ríkisstjórnin samþykkir.
-                               ^1)[20]Rg. 214/1980.
+                               ^1)[21]Rg. 214/1980.
    11. gr. Hlutafélaginu ber að gera varúðarráðstafanir til að varna tjóni á
    umhverfi verksmiðjunnar við Grundartanga af hennar völdum, og skulu hönnun
    verksmiðjunnar, bygging og rekstur í öllu vera í samræmi við núgildandi og
@@ -189,7 +189,7 @@ síðari lög og reglugerðir hér á landi varðandi mengunarvarnir og náttúr
       á því ári að selja eignarhlut ríkisins í félaginu, þó þannig að 12%
    heildarhlutafjár verði ekki seld fyrr en reynt hefur á kauprétt núverandi
                  samstarfsaðila ríkisins að verksmiðjunni.]^1)
-                             ^1)[21]L. 64/1997, 4. gr.
+                             ^1)[22]L. 64/1997, 4. gr.
 
                                   Fylgiskjal.
     Aðalsamningur milli ríkisstjórnar Íslands og Elkem-Spigerverket a/s.^1)
@@ -215,7 +215,8 @@ References
   15. file:///altext/stjt/1997.064.html
   16. file:///altext/stjtnr.html#1972007
   17. file:///altext/stjtnr.html#1972008?k5
-  18. file://1981075.html
-  19. file://1995004.html
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/214-1980
-  21. file:///altext/stjt/1997.064.html
+  18. file:///altext/stjt/2004.129.html
+  19. file://2003090.html
+  20. file://1995004.html
+  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/214-1980
+  22. file:///altext/stjt/1997.064.html
