@@ -11,7 +11,10 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
  Tóku gildi 16. apríl 2002. EES-samningurinn: XI. viðauki tilskipun 2000/31/EB.
-              Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005).
+Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005) og [5]l. 108/2006 (taka gildi
+ um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar
+ Danmerkur og heimastjórnar Færeyja hins vegar, sem undirritaður var í Hoyvík í
+                Færeyjum 31. ágúst 2005, hefur gengið í gildi).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -37,9 +40,13 @@ Rafræn þjónusta sem þjónustuveitendur með staðfestu á Íslandi veita ska
         samræmi við íslensk lög um stofnun og starfrækslu þjónustunnar.
     Engin höft skulu vera á frelsi þjónustuveitanda með staðfestu á Evrópska
   efnahagssvæðinu til að veita þjónustu hér á landi að því er varðar lagalegar
-                 kröfur um stofnun og starfrækslu þjónustunnar.
+               kröfur um stofnun og starfrækslu þjónustunnar.^1)
 Þjónustuveitandi telst hafa staðfestu í tilteknu ríki ef hann stundar þar virka
                atvinnustarfsemi ótímabundið í fastri starfsstöð.
+     ^1)Málsgreininni var breytt með [6]l. 108/2006, 90. gr. Breytingin tekur
+     gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og
+   ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í
+                                     gildi.
                  4. gr. Almennar undantekningar frá meginreglu.
                    Ákvæði 3. gr. gilda ekki um eftirfarandi:
          1. rétt aðila til að semja um hvaða lög gildi um samninga þeirra,
@@ -56,7 +63,7 @@ Rafræn þjónusta sem þjónustuveitendur með staðfestu á Íslandi veita ska
                                  85/611/EBE, og
     8. staðfesturétt og rétt til að veita tryggingaþjónustu samkvæmt tilskipun
  92/49/EBE, tilskipun 92/96/EBE, tilskipun 88/357/EBE og tilskipun 90/619/EBE.
-                5. gr. Einstakar undantekningar frá meginreglu.
+               5. gr.^1) Einstakar undantekningar frá meginreglu.
    Stjórnvöld geta í einstökum tilfellum vikið frá ákvæðum 2. mgr. 3. gr. og
    takmarkað frjálst flæði rafrænnar þjónustu ef takmörkun er nauðsynleg til
                                     verndar:
@@ -77,6 +84,9 @@ að hann muni brjóta gegn þeim. Takmarkanirnar skulu ekki ganga lengra en nau�
 tilkynna um aðgerðirnar svo skjótt sem kostur er til Eftirlitsstofnunar EFTA og
 til þess aðildarríkis þar sem þjónustuveitandi hefur staðfestu. Í tilkynningunni
            skal gefið til kynna hvers vegna málið er talið áríðandi.
+   ^1)Greininni var breytt með [7]l. 108/2006, 91. gr. Breytingin tekur gildi um
+  leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar
+      Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
 
                          III. kafli. Upplýsingaskylda.
                           6. gr. Almennar upplýsingar.
@@ -252,7 +262,7 @@ Sama gildir gagnvart þeim sem krafist hefur að aðgangur verði veittur að g�
  laga þessara. Ef brotið er gegn ákvæðum þessum gilda ákvæði [laga um eftirlit
       með óréttmætum viðskiptaháttum og gagnsæi markaðarins]^1) um úrræði
              [Neytendastofu],^1) stjórnvaldssektir og málsmeðferð.
-                             ^1)[5]L. 62/2005, 13. gr.
+                             ^1)[8]L. 62/2005, 13. gr.
                               20. gr. Tengiliður.
 Viðskiptaráðuneytið skal vera tengiliður vegna samstarfs við önnur aðildarríki á
  Evrópska efnahagssvæðinu um rafræn viðskipti. Þá skal viðskiptaráðuneytið vera
@@ -287,4 +297,7 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=489
    3. http://www.althingi.is/altext/127/s/0774.html
    4. file://2005062.html
-   5. file://2005062.html#g13
+   5. file:///altext/stjt/2006.108.html
+   6. file:///altext/stjt/2006.108.html
+   7. file:///altext/stjt/2006.108.html
+   8. file://2005062.html#g13

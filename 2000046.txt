@@ -11,7 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
 Tóku gildi 1. júní 2000. EES-samningurinn: XIX. viðauki tilskipun 85/577/EBE og
-          97/7/EB. Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005).
+  97/7/EB. Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005) og [5]l. 50/2006
+                           (tóku gildi 1. júlí 2006).
 
                     I. kafli. Gildissvið og skilgreiningar.
                                1. gr. Gildissvið.
@@ -183,16 +184,17 @@ daga. Seljanda er þó heimilt að láta neytanda í té vöru (þjónustu) sem 
   lög þessi taka til nema neytandi hafi sérstaklega veitt samþykki sitt fyrir
                         notkun slíkra fjarskiptaaðferða.
 Seljendum vöru og þjónustu sem lög þessi taka til ber, áður en bein markaðssókn
-  er skipulögð, að kanna skrá Hagstofu Íslands yfir þá sem vilja ekki að nöfn
+ er skipulögð, að kanna [bannskrá Þjóðskrár]^1) yfir þá sem vilja ekki að nöfn
    þeirra séu notuð við markaðssetningu, sbr. ákvæði laga um persónuvernd og
 meðferð persónuupplýsinga. Hafi neytandi óskað eftir því að vera færður í skrána
                      er bein markaðssókn til hans óheimil.
- Hafi neytandi ekki tilkynnt sig til skrár Hagstofu Íslands, sbr. 2. mgr., eða
+Hafi neytandi ekki tilkynnt sig til [bannskrár Þjóðskrár],^1) sbr. 2. mgr., eða
  áskrifandi fjarskiptaþjónustu óskað eftir sérmerkingu í símaskrá í samræmi við
  ákvæði fjarskiptalaga og seljandi sendir honum í beinni markaðssókn tölvupóst
 ber að gefa neytanda kost á að veita samþykki sitt fyrir áframhaldandi notkun á
    þeirri fjarskiptaaðferð. Samþykki neytandi ekki sérstaklega áframhaldandi
              sendingar með tölvupósti eru þær framvegis óheimilar.
+                             ^1)[6]L. 50/2006, 22. gr.
                          15. gr. Réttarvernd neytenda.
  Samtökum neytenda er heimilt að gæta hagsmuna neytenda innan sem utan dómstóla
                          samkvæmt ákvæðum laga þessara.
@@ -203,7 +205,7 @@ skuli gilda lög í ríki sem er utan Evrópska efnahagssvæðisins skal slíkum
                              verndar samkvæmt þeim.
                                17. gr. Eftirlit.
   [Neytendastofa]^1) hefur eftirlit með viðskiptaháttum samkvæmt lögum þessum.
-                             ^1)[5]L. 62/2005, 13. gr.
+                             ^1)[7]L. 62/2005, 13. gr.
  18. gr. Nýti neytandi sér rétt til að falla frá samningi er lög þessi taka til
  skal um réttaráhrif þess fara eftir lögum um lausafjárkaup, einkum með tilliti
   til endurgreiðslu vöru eða þjónustu sem látin var í té og skila á móttekinni
@@ -231,4 +233,6 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=421
    3. http://www.althingi.is/altext/125/s/0684.html
    4. file://2005062.html
-   5. file://2005062.html#g13
+   5. file:///altext/stjt/2006.050.html
+   6. file:///altext/stjt/2006.050.html
+   7. file://2005062.html#g13

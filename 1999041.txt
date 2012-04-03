@@ -11,8 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
  Tóku gildi 30. mars 1999, sjá þó 21. gr. Breytt með [4]l. 148/2001 (tóku gildi
- 1. jan. 2002), [5]l. 41/2004 (tóku gildi 26. maí 2004) og [6]l. 132/2004 (tóku
-                              gildi 1. jan. 2005).
+  1. jan. 2002), [5]l. 41/2004 (tóku gildi 26. maí 2004), [6]l. 132/2004 (tóku
+        gildi 1. jan. 2005) og [7]l. 63/2006 (tóku gildi 1. júlí 2006).
 
                       I. kafli. Hlutverk Háskóla Íslands.
                                 1. gr. Hlutverk.
@@ -45,9 +45,9 @@ eða við þau aukið skal háskólaráð leita umsagnar háskólafundar um brey
  Háskólaráð skal kveða nánar á um skipulag sameiginlegrar stjórnsýslu háskólans
 og stjórnsýslu deilda og stofnana.^2) Leita skal umsagnar háskólafundar áður en
                    slíkar reglur eru settar eða þeim breytt.
-    ^1)Heiti heimspekideildar hefur verið breytt í hugvísindadeild, sbr. [7]4.
-gr. rgl. 951/2004. ^2)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [8]rgl.
-                         718/2001 og [9]rgl. 951/2004.
+    ^1)Heiti heimspekideildar hefur verið breytt í hugvísindadeild, sbr. [8]4.
+gr. rgl. 951/2004. ^2)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [9]rgl.
+                         718/2001 og [10]rgl. 951/2004.
                           3. gr. Hlutverk háskólaráðs.
     Háskólaráð er æðsti ákvörðunaraðili innan háskólans. Háskólaráð fer með
    úrskurðarvald í málefnum skólans og stofnana sem honum tengjast og fer með
@@ -77,7 +77,7 @@ sem skipaðir eru eða ráðnir ótímabundið, og skal við kosningu þeirra g�
    undirbúning og framkvæmd kosninga kennara og stúdenta í ráðið. Leita skal
     umsagnar háskólafundar áður en slíkar reglur eru settar eða þeim breytt.
          Háskólaráðsfulltrúar kjósa úr sínum hópi varaforseta ráðsins.
-     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [10]rgl. 718/2001.
+     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [11]rgl. 718/2001.
                            5. gr. Fundir háskólaráðs.
   Háskólaráð heldur fundi eftir þörfum. Æski helmingur fulltrúa í háskólaráði
                     fundar er rektor skylt að boða til hans.
@@ -89,7 +89,7 @@ Ef kjörinn háskólaráðsfulltrúi getur ekki sótt fund skal boða varamann h
 Rektor boðar fundi háskólaráðs. Rita skal fundargerð. Háskólaráð setur reglur^1)
   um undirbúning funda, fundarboð, fundarsköp, birtingu ákvarðana og annað er
         lýtur að starfsháttum ráðsins og ekki er ákveðið í lögum þessum.
-     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [11]rgl. 718/2001.
+     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [12]rgl. 718/2001.
                                  6. gr. Rektor.
 Háskólarektor er yfirmaður stjórnsýslu háskólans og æðsti fulltrúi hans gagnvart
   mönnum og stofnunum innan háskólans og utan. Hann hefur almennt eftirlit með
@@ -104,8 +104,13 @@ Menntamálaráðherra skipar rektor til fimm ára samkvæmt tilnefningu háskól
    umsóknar. Háskólaráð setur reglur^1) um hvernig staðið skuli að kosningu,
 tilnefningu og embættisgengi rektors. Leita skal umsagnar háskólafundar áður en
                    slíkar reglur eru settar eða þeim breytt.
-     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [12]rgl. 718/2001 og
-                               [13]rgl. 132/2005.
+[Þann einan má skipa í stöðu rektors sem lokið hefur æðri prófgráðu við háskóla
+   og öðlast hefur stjórnunarreynslu. Óheimilt er að framlengja skipunartíma
+                            rektors án auglýsingar.
+Rektor verður ekki leystur frá störfum án þess að það sé borið undir háskólaráð
+                    og hljóti samþykki meiri hluta þess.]^2)
+     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [13]rgl. 718/2001 og
+                 [14]rgl. 132/2005. ^2)[15]L. 63/2006, 28. gr.
                          7. gr. Hlutverk háskólafundar.
       Háskólafundur er samráðsvettvangur háskóladeilda og háskólastofnana.
 Háskólafundur vinnur að þróun og eflingu Háskóla Íslands og mótar og setur fram
@@ -161,18 +166,18 @@ Hver deild semur kennsluskrá fyrir sig, og skal þar m.a. gerð grein fyrir ski
       prófkröfum, námskeiðum sem í boði eru og vægi þeirra, kennsluháttum,
     starfsþjálfun, missiraskiptingu, stjórn deildar og skiptingu í skorir og
 félagsmálum stúdenta. Árlega skal gefin út kennsluskrá fyrir háskólann í heild.
-     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [14]rgl. 718/2001.
- [15]Rgl. 731/2001 (Guðfræðistofnun). [16]Rgl. 734/2001 (Tannlækningastofnun).
-   [17]Rgl. 737/2001 (Siðfræðistofnun). [18]Rgl. 738/2001 (Hagfræðistofnun).
-          [19]Rgl. 824/2001 (Viðskiptafræðistofnun). [20]Rgl. 825/2001
-  (Hugvísindastofnun). [21]Rgl. 826/2001 (Rannsóknastofa í kvennafræðum), sbr.
-   [22]rgl. 516/2003. [23]Rgl. 828/2001 (Verkfræðistofnun). [24]Rgl. 978/2001
-  (Líffræðistofnun). [25]Rgl. 979/2001 (Lagastofnun), sbr. [26]rgl. 515/2003.
- [27]Rgl. 495/2002 (Stofnun stjórnsýslufræða og stjórnmála). [28]Rgl. 501/2002
- (Alþjóðamálastofnun). [29]Rgl. 750/2002 (Lyfjafræðistofnun). [30]Rgl. 842/2002
-  (Félagsvísindastofnun). [31]Rgl. 1047/2003 (Lífeðlisfræðistofnun). [32]Rgl.
-    398/2004 (Raunvísindastofnun), sbr. [33]rgl. 909/2004. [34]Rgl. 825/2004
-                      (Rannsóknastofnun í hjúkrunarfræði).
+     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [16]rgl. 718/2001.
+ [17]Rgl. 731/2001 (Guðfræðistofnun). [18]Rgl. 734/2001 (Tannlækningastofnun).
+   [19]Rgl. 737/2001 (Siðfræðistofnun). [20]Rgl. 738/2001 (Hagfræðistofnun).
+ [21]Rgl. 824/2001 (Viðskiptafræðistofnun). [22]Rgl. 826/2001 (Rannsóknastofa í
+  kvennafræðum), sbr. [23]rgl. 516/2003. [24]Rgl. 828/2001 (Verkfræðistofnun).
+   [25]Rgl. 978/2001 (Líffræðistofnun). [26]Rgl. 979/2001 (Lagastofnun), sbr.
+ [27]rgl. 515/2003. [28]Rgl. 495/2002 (Stofnun stjórnsýslufræða og stjórnmála).
+ [29]Rgl. 501/2002 (Alþjóðamálastofnun). [30]Rgl. 750/2002 (Lyfjafræðistofnun).
+          [31]Rgl. 842/2002 (Félagsvísindastofnun). [32]Rgl. 1047/2003
+ (Lífeðlisfræðistofnun). [33]Rgl. 398/2004 (Raunvísindastofnun), sbr. [34]rgl.
+   909/2004. [35]Rgl. 825/2004 (Rannsóknastofnun í hjúkrunarfræði). [36]Rgl.
+                         281/2006 (Hugvísindastofnun).
                              10. gr. Stjórn deilda.
      Deildarfundur fer með ákvörðunarvald í málefnum hverrar deildar og er
       deildarforseti framkvæmdastjóri hennar. Deildarfundir geta framselt
@@ -184,8 +189,8 @@ með starfi og stjórnsýslu deildar, ræður starfslið að stjórnsýslu henna
    deildarráð, skiptingu deilda í skorir, námsnefndir, kjör deildarforseta og
  hlutverk þeirra og deildar- og skorarfundi. Leita skal umsagnar háskólafundar
                áður en slíkar reglur eru settar eða þeim breytt.
-      ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [35]rgl. 718/2001,
-                    [36]rgl. 888/2001 og [37]rgl. 951/2004.
+      ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [37]rgl. 718/2001,
+ [38]rgl. 888/2001, [39]rgl. 951/2004, [40]rgl. 276/2006 og [41]rgl. 596/2006.
 
                     IV. kafli. Háskólakennarar og nemendur.
                     11. gr. Háskólakennarar og sérfræðingar.
@@ -209,8 +214,8 @@ vísindamanns. Háskóladeild ákveður hvernig starfsskyldur einstakra kennara 
  Háskólaráð setur almennar reglur^1) um leyfi kennara og þeirra sem ráðnir eru
   til vísinda- og fræðistarfa frá störfum, og skulu allar ákvarðanir deilda og
       stofnana um leyfi þeirra teknar á grundvelli slíkra almennra reglna.
-     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [38]rgl. 718/2001;
-                     [39]rgl. 839/2002; [40]rgl. 1236/2005.
+     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [42]rgl. 718/2001;
+           [43]rgl. 839/2002, [44]rgl. 1236/2005, [45]rgl. 605/2006.
                 12. gr. Ráðning í kennara- og sérfræðingsstörf.
 Rektor ræður prófessora, dósenta, lektora, sérfræðinga, vísinda- og fræðimenn og
    forstöðumenn háskólastofnana samkvæmt tillögu háskóladeildar eða stjórnar
@@ -259,10 +264,10 @@ tímabundnum styrkjum, störf sem tengjast sérstökum tímabundnum verkefnum, s
 Þegar sérstaklega stendur á getur háskólarektor, samkvæmt tillögu háskóladeildar
  og með samþykki háskólaráðs, boðið vísindamanni að taka við kennarastarfi við
             háskólann án þess að það sé auglýst laust til umsóknar.
-    ^1)[41]L. 41/2004, 1. gr. ^2)[42]Rgl. 830/2001, [43]rgl. 18/2002, [44]rgl.
-20/2002. ^3)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [45]rgl. 718/2001,
- [46]rgl. 758/2002 og [47]rgl. 821/2002; [48]rgl. 863/2001, [49]rgl. 498/2002,
-                              [50]rgl. 1046/2003.
+    ^1)[46]L. 41/2004, 1. gr. ^2)[47]Rgl. 830/2001, [48]rgl. 18/2002, [49]rgl.
+20/2002. ^3)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [50]rgl. 718/2001,
+ [51]rgl. 758/2002 og [52]rgl. 821/2002; [53]rgl. 863/2001, [54]rgl. 498/2002,
+                     [55]rgl. 1046/2003, [56]rgl. 478/2006.
                       13. gr. Nemendur í Háskóla Íslands.
  Nemendur, sem hefja nám í Háskóla Íslands, skulu hafa lokið stúdentsprófi eða
 öðru sambærilegu prófi frá erlendum skóla. Heimilt er að veita öðrum en þeim sem
@@ -283,27 +288,31 @@ Við skrásetningu til náms greiðir stúdent skrásetningargjald, [45.000 kr. 
                                    stúdenta.
 Háskóladeild er heimilt að meta nám sem stúdent hefur stundað utan deildarinnar,
  þ.m.t. við aðra innlenda eða erlenda háskóla, sem hluta af námi við deildina.
-      ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [51]rgl. 718/2001,
-  [52]rgl. 66/2002, [53]rgl. 106/2002, [54]rgl. 518/2003 og [55]rgl. 951/2004;
- [56]rgl. 573/2005, sbr. [57]rgl. 1153/2005 ^2)[58]Rgl. 19/2002 (doktorsnám við
- verkfræðideild); [59]rgl. 502/2002 (hjúkrunarfræði), sbr. [60]rgl. 1026/2003;
-    [61]rgl. 664/2002 (meistaranám í þjóðarétti og umhverfisrétti); [62]rgl.
- 952/2002 (framhaldsnám við hugvísindadeild), sbr. [63]rgl. 253/2004, [64]rgl.
-  600/2005 og [65]rgl. 892/2005; [66]rgl. 89/2003 (doktorsnám við læknadeild);
-  [67]rgl. 92/2003 (meistaranám við lyfjafræðideild), sbr. [68]rgl. 150/2004;
-    [69]rgl. 315/2003 (rannsóknanám við raunvísindadeild); [70]rgl 517/2003
-(meistaranám við læknadeild); [71]rgl. 1041/2003 (meistaranám í upplýsingatækni
- á heilbrigðissviði), sbr. [72]rgl. 255/2004; [73]rgl. 1042/2003 (læknadeild);
-   [74]rgl. 1043/2003 (rannsóknarnám í viðskipta- og hagfræðideild); [75]rgl.
- 140/2004 (doktorsnám við lyfjafræðideild); [76]rgl. 239/2004 (meistaranám við
-    hjúkrunarfræðideild); [77]rgl. 240/2004 (diplomanám á meistarastigi við
- hjúkrunarfræðideild); [78]rgl. 257/2004 (doktorsnám við hjúkrunarfræðideild);
-    [79]rgl. 258/2004 (doktorsnám við félagsvísindadeild); [80]rgl. 259/2004
-      (meistaranám við verkfræðideild); [81]rgl. 260/2004 (meistaranám við
-  félagsvísindadeild); [82]rgl. 134/2005 (doktorsnám og rannsóknanámsnefnd við
-lagadeild), sbr. [83]rgl. 1152/2005; [84]rgl. 296/2005 (meistaranám í umhverfis-
-  og auðlindafræðum); [85]rgl. 540/2005 (val nemenda til náms í geislafræði og
-           lífeindafræði við læknadeild). ^3)[86]L. 132/2004, 1. gr.
+      ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [57]rgl. 718/2001,
+  [58]rgl. 66/2002, [59]rgl. 106/2002, [60]rgl. 518/2003 og [61]rgl. 951/2004;
+[62]rgl. 573/2005, sbr. [63]rgl. 1153/2005. ^2)[64]Rgl. 19/2002 (doktorsnám við
+verkfræðideild), [65]rgl. 502/2002 (hjúkrunarfræði), sbr. [66]rgl. 1026/2003 og
+       [67]rgl. 279/2006; [68]rgl. 664/2002 (meistaranám í þjóðarétti og
+  umhverfisrétti), [69]rgl. 952/2002 (framhaldsnám við hugvísindadeild), sbr.
+  [70]rgl. 253/2004, [71]rgl. 600/2005 og [72]rgl. 892/2005; [73]rgl. 92/2003
+  (meistaranám við lyfjafræðideild), sbr. [74]rgl. 150/2004; [75]rgl. 315/2003
+     (rannsóknanám við raunvísindadeild), [76]rgl 517/2003 (meistaranám við
+        læknadeild), [77]rgl. 1041/2003 (meistaranám í upplýsingatækni á
+heilbrigðissviði), sbr. [78]rgl. 255/2004; [79]rgl. 1042/2003 (læknadeild), sbr.
+[80]rgl. 277/2006; [81]rgl. 140/2004 (doktorsnám við lyfjafræðideild), [82]rgl.
+239/2004 (meistaranám við hjúkrunarfræðideild), sbr. [83]rgl. 278/2006; [84]rgl.
+240/2004 (diplomanám á meistarastigi við hjúkrunarfræðideild), [85]rgl. 257/2004
+    (doktorsnám við hjúkrunarfræðideild), [86]rgl. 259/2004 (meistaranám við
+    verkfræðideild), [87]rgl. 260/2004 (meistaranám við félagsvísindadeild),
+    [88]rgl. 134/2005 (doktorsnám og rannsóknanámsnefnd við lagadeild), sbr.
+       [89]rgl. 1152/2005; [90]rgl. 296/2005 (meistaranám í umhverfis- og
+   auðlindafræðum), [91]rgl. 540/2005 (val nemenda til náms í geislafræði og
+lífeindafræði við læknadeild), [92]rgl. 280/2006 (M.Paed.-nám í kristnum fræðum
+ og almennum trúarbragðafræðum við guðfræðideild), [93]rgl. 594/2006 (meistara-
+og doktorsnám í lýðheilsufræðum), [94]rgl. 595/2006 (rannsóknarnám í viðskipta-
+   og hagfræðideild), [95]rgl. 797/2006 (doktorsnám við félagsvísindadeild),
+    [96]rgl. 798/2006 (doktorsnám og doktorspróf við læknadeild). ^3)[97]L.
+                                132/2004, 1. gr.
 
                          V. kafli. Kennsla, próf o.fl.
      14. gr. Háskólaár og missiri. Námseiningar, kennsla og kennsluhættir.
@@ -317,8 +326,8 @@ Fullt nám telst 30 einingar á námsári að jafnaði og endurspeglar alla nám
  nemenda og viðveru í kennslustundum og prófum. Háskólaráð skal setja almennar
    reglur^1) um mat námskeiða til eininga. Einstakar deildir skulu setja sér
                   almennar reglur um kennslu og kennsluhætti.
-      ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [87]rgl. 718/2001,
-                    [88]rgl. 599/2004 og [89]rgl. 951/2004.
+      ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [98]rgl. 718/2001,
+                    [99]rgl. 599/2004 og [100]rgl. 951/2004.
                     15. gr. Prófgráður, próf, námstími o.fl.
      Háskólaráð skal setja reglur^1) um prófgráður, prófgreinar, próftíma,
     prófdómara, endurtekningu prófa, viðurkenningu erlendra prófa, skiptingu
@@ -341,11 +350,12 @@ viðkomandi deildarforseta. Skal þá prófdómari skipaður í hverju tilviki. 
 skipa prófdómara sem lokið hafa viðurkenndu háskólaprófi í þeirri grein sem dæma
 skal og njóta viðurkenningar á starfssviði sínu. Prófdómarar skulu skipaðir til
                  þriggja ára í senn nema skipun sé skv. 3. mgr.
-      ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [90]rgl. 182/2001,
-  [91]rgl. 718/2001, [92]rgl. 138/2002, [93]rgl. 319/2002, [94]rgl. 505/2002,
-  [95]rgl. 638/2002, [96]rgl. 767/2002, [97]rgl. 323/2003, [98]rgl. 518/2003,
- [99]rgl. 799/2003, [100]rgl. 362/2004, [101]rgl. 599/2004, [102]rgl. 951/2004,
-         [103]rgl. 532/2005, [104]rgl. 611/2005 og [105]rgl. 1151/2005.
+     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [101]rgl. 182/2001,
+[102]rgl. 718/2001, [103]rgl. 138/2002, [104]rgl. 319/2002, [105]rgl. 505/2002,
+[106]rgl. 638/2002, [107]rgl. 767/2002, [108]rgl. 323/2003, [109]rgl. 518/2003,
+[110]rgl. 799/2003, [111]rgl. 362/2004, [112]rgl. 599/2004, [113]rgl. 951/2004,
+[114]rgl. 532/2005, [115]rgl. 611/2005, [116]rgl. 1151/2005, [117]rgl. 276/2006
+                             og [118]rgl. 596/2006.
                        16. gr. Veiting doktorsnafnbótar.
  Háskóladeildir hafa rétt til að veita doktorsnafnbót. Slíka nafnbót má veita í
    heiðursskyni, að undangengnu sérstöku doktorsnámi eða með vörn sérstakrar
@@ -374,8 +384,8 @@ Háskóla Íslands skal heimilt að taka gjald fyrir þjónustu sem telst utan �
 hollvinasamtök, einstaklinga, samtök þeirra og fyrirtæki eða opinberar stofnanir
 um að taka að sér þjónustu fyrir hönd Háskóla Íslands, enda sé farið að ákvæðum
                      í 30. gr. laga um fjárreiður ríkisins.
-    ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [106]rgl. 718/2001;
-                              [107]rgl. 829/2001.
+    ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [119]rgl. 718/2001;
+                              [120]rgl. 829/2001.
     19. gr. Ársfundur Háskóla Íslands, stofnanir, aðild að fyrirtækjum o.fl.
   Háskóli Íslands skal árlega halda opinn ársfund þar sem fjárhagur skólans og
  meginatriði starfsáætlunar hans eru kynnt. Háskólaráð skal setja reglur^1) um
@@ -390,13 +400,11 @@ Jafnframt er háskólanum heimilt að starfrækja stofnanir sem eru á verksvið
     Háskóla Íslands er heimilt að semja við aðrar stofnanir og fyrirtæki sem
    tengjast starfssviði skólans um kennslu, rannsóknir og ráðningu kennara og
                               annarra starfsmanna.
-    ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [108]rgl. 718/2001.
-      ^2)[109]Rgl. 708/2001 (Stofnun Sigurðar Nordals). [110]Rgl. 735/2001
-    (Reiknistofnun), sbr. [111]rgl. 906/2004. [112]Rgl. 736/2001 (Orðabók).
-           [113]Rgl. 832/2001 (Rannsóknaþjónusta). [114]Rgl. 844/2001
-      (Endurmenntunarstofnun), sbr. [115]rgl. 895/2005. [116]Rgl. 500/2002
- (Erfðafræðinefnd). [117]Rgl. 176/2003 (Stofnun fræðasetra). [118]Rgl. 526/2005
-                           (Stofnun Sæmundar fróða).
+    ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000 og [121]rgl. 718/2001.
+   ^2)[122]Rgl. 735/2001 (Reiknistofnun), sbr. [123]rgl. 906/2004. [124]Rgl.
+ 832/2001 (Rannsóknaþjónusta). [125]Rgl. 844/2001 (Endurmenntunarstofnun), sbr.
+  [126]rgl. 895/2005. [127]Rgl. 500/2002 (Erfðafræðinefnd). [128]Rgl. 176/2003
+       (Stofnun fræðasetra). [129]Rgl. 526/2005 (Stofnun Sæmundar fróða).
 
                   VII. kafli. Birting reglna, gildistaka o.fl.
                             20. gr. Birting reglna.
@@ -404,19 +412,20 @@ Jafnframt er háskólanum heimilt að starfrækja stofnanir sem eru á verksvið
                               Stjórnartíðinda.^1)
    Háskólaráð skal gefa út handbók sem hefur að geyma ákvæði gildandi laga og
           reglna sem á hverjum tíma eru í gildi fyrir Háskóla Íslands.
-     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [119]rgl. 182/2001,
- [120]rgl. 718/2001, [121]rgl. 888/2001, [122]rgl. 66/2002, [123]rgl. 106/2002,
-[124]rgl. 138/2002, [125]rgl. 319/2002, [126]rgl. 505/2002, [127]rgl. 638/2002,
-[128]rgl. 758/2002, [129]rgl. 767/2002, [130]rgl. 821/2002, [131]rgl. 323/2003,
-[132]rgl. 518/2003, [133]rgl. 799/2003, [134]rgl. 362/2004, [135]rgl. 599/2004,
-    [136]rgl. 132/2005, [137]rgl. 532/2005, [138]rgl. 611/2005 og [139]rgl.
-               1151/2005; [140]rgl. 497/2002, [141]rgl. 838/2002.
+     ^1)Rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [130]rgl. 182/2001,
+ [131]rgl. 718/2001, [132]rgl. 888/2001, [133]rgl. 66/2002, [134]rgl. 106/2002,
+[135]rgl. 138/2002, [136]rgl. 319/2002, [137]rgl. 505/2002, [138]rgl. 638/2002,
+[139]rgl. 758/2002, [140]rgl. 767/2002, [141]rgl. 821/2002, [142]rgl. 323/2003,
+[143]rgl. 518/2003, [144]rgl. 799/2003, [145]rgl. 362/2004, [146]rgl. 599/2004,
+[147]rgl. 132/2005, [148]rgl. 532/2005, [149]rgl. 611/2005, [150]rgl. 1151/2005,
+    [151]rgl. 276/2006 og [152]rgl. 596/2006; [153]rgl. 497/2002, [154]rgl.
+                                   838/2002.
                             21. gr. Gildistaka o.fl.
     Lög þessi öðlast þegar gildi og koma að fullu til framkvæmda 1. maí 1999
   Ákvæði til bráðabirgða. Innan tveggja ára frá gildistöku laga þessara skulu
   menntamálaráðherra og heilbrigðisráðherra hafa komið sér saman um reglur um
   starfstengsl prófessora læknadeildar við heilbrigðisstofnanir. Þar til slíkt
-   samkomulag hefur náðst skulu gilda um það efni ákvæði [142]38. gr. laga um
+   samkomulag hefur náðst skulu gilda um það efni ákvæði [155]38. gr. laga um
                          Háskóla Íslands, nr. 131/1990.
     Starfandi háskólaráð skal setja reglur til bráðabirgða um kosningarrétt,
 undirbúning og framkvæmd kosninga kennara og stúdenta í háskólaráð, sbr. 3. mgr.
@@ -439,16 +448,16 @@ fara ekki gegn þessum lögum, þar til háskólaráð hefur sett nýjar reglur 
    samkvæmt þessu ákvæði. Heimilt er þó að bjóða starf án þess að fyrir liggi
    hæfnismat dómnefndar skv. 12. gr., enda megi telja augljóst að viðkomandi
      uppfylli hæfniskröfur sem að lágmarki eru gerðar til háskólakennara og
-    sérfræðinga. Ákvæði [143]7. gr. laga um réttindi og skyldur starfsmanna
+    sérfræðinga. Ákvæði [156]7. gr. laga um réttindi og skyldur starfsmanna
 ríkisins, nr. 70/1996, með síðari breytingum, gilda ekki um störf sem ráðið er í
                            samkvæmt þessu ákvæði.]^2)
-       ^1)Sjá nú rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [144]rgl.
- 182/2001, [145]rgl. 718/2001, [146]rgl. 888/2001, [147]rgl. 66/2002, [148]rgl.
-106/2002, [149]rgl. 138/2002, [150]rgl. 319/2002, [151]rgl. 505/2002, [152]rgl.
-638/2002, [153]rgl. 758/2002, [154]rgl. 767/2002, [155]rgl. 821/2002, [156]rgl.
-323/2003, [157]rgl. 518/2003, [158]rgl. 799/2003, [159]rgl. 362/2004, [160]rgl.
-    599/2004, [161]rgl. 132/2005, [162]rgl. 532/2005, [163]rgl. 611/2005 og
-                [164]rgl. 1151/2005. ^2)[165]L. 41/2004, 2. gr.
+       ^1)Sjá nú rgl. 458/2000, sbr. rgl. 843/2000, rgl. 947/2000, [157]rgl.
+ 182/2001, [158]rgl. 718/2001, [159]rgl. 888/2001, [160]rgl. 66/2002, [161]rgl.
+106/2002, [162]rgl. 138/2002, [163]rgl. 319/2002, [164]rgl. 505/2002, [165]rgl.
+638/2002, [166]rgl. 758/2002, [167]rgl. 767/2002, [168]rgl. 821/2002, [169]rgl.
+323/2003, [170]rgl. 518/2003, [171]rgl. 799/2003, [172]rgl. 362/2004, [173]rgl.
+    599/2004, [174]rgl. 132/2005, [175]rgl. 532/2005, [176]rgl. 611/2005 og
+                [177]rgl. 1151/2005. ^2)[178]L. 41/2004, 2. gr.
 
 References
 
@@ -459,162 +468,175 @@ References
    4. file:///altext/stjt/2001.148.html
    5. file:///altext/stjt/2004.041.html
    6. file:///altext/stjt/2004.132.html
-   7. file:///altext/stjtnr.html#2004951?g4
-   8. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
-   9. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
-  10. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+   7. file://2006063.html
+   8. file:///altext/stjtnr.html#2004951?g4
+   9. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+  10. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
   11. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
   12. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
-  13. http://stjornartidindi.is/servlet/stjrtid/B/2005/132.pdf
-  14. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
-  15. http://stjornartidindi.is/servlet/stjrtid/B/2001/731.pdf
-  16. http://stjornartidindi.is/servlet/stjrtid/B/2001/734.pdf
-  17. http://stjornartidindi.is/servlet/stjrtid/B/2001/737.pdf
-  18. http://stjornartidindi.is/servlet/stjrtid/B/2001/738.pdf
-  19. http://stjornartidindi.is/servlet/stjrtid/B/2001/824.pdf
-  20. http://stjornartidindi.is/servlet/stjrtid/B/2001/825.pdf
-  21. http://stjornartidindi.is/servlet/stjrtid/B/2001/826.pdf
-  22. http://stjornartidindi.is/servlet/stjrtid/B/2003/516.pdf
-  23. http://stjornartidindi.is/servlet/stjrtid/B/2001/828.pdf
-  24. http://stjornartidindi.is/servlet/stjrtid/B/2001/978.pdf
-  25. http://stjornartidindi.is/servlet/stjrtid/B/2001/979.pdf
-  26. http://stjornartidindi.is/servlet/stjrtid/B/2003/515.pdf
-  27. http://stjornartidindi.is/servlet/stjrtid/B/2002/495.pdf
-  28. http://stjornartidindi.is/servlet/stjrtid/B/2002/501.pdf
-  29. http://stjornartidindi.is/servlet/stjrtid/B/2002/750.pdf
-  30. http://stjornartidindi.is/servlet/stjrtid/B/2002/842.pdf
-  31. http://stjornartidindi.is/servlet/stjrtid/B/2003/1047.pdf
-  32. http://stjornartidindi.is/servlet/stjrtid/B/2004/398.pdf
-  33. http://stjornartidindi.is/servlet/stjrtid/B/2004/909.pdf
-  34. http://stjornartidindi.is/servlet/stjrtid/B/2004/825.pdf
-  35. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
-  36. http://stjornartidindi.is/servlet/stjrtid/B/2001/888.pdf
-  37. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
-  38. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
-  39. http://stjornartidindi.is/servlet/stjrtid/B/2002/839.pdf
-  40. http://stjornartidindi.is/servlet/stjrtid/B/2005/1236.pdf
-  41. file:///altext/stjt/2004.041.html
-  42. http://stjornartidindi.is/servlet/stjrtid/B/2001/830.pdf
-  43. http://stjornartidindi.is/servlet/stjrtid/B/2002/18.pdf
-  44. http://stjornartidindi.is/servlet/stjrtid/B/2002/20.pdf
-  45. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
-  46. http://stjornartidindi.is/servlet/stjrtid/B/2002/758.pdf
-  47. http://stjornartidindi.is/servlet/stjrtid/B/2002/821.pdf
-  48. http://stjornartidindi.is/servlet/stjrtid/B/2001/863.pdf
-  49. http://stjornartidindi.is/servlet/stjrtid/B/2002/498.pdf
-  50. http://stjornartidindi.is/servlet/stjrtid/B/2003/1046.pdf
-  51. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
-  52. http://stjornartidindi.is/servlet/stjrtid/B/2002/66.pdf
-  53. http://stjornartidindi.is/servlet/stjrtid/B/2002/106.pdf
-  54. http://stjornartidindi.is/servlet/stjrtid/B/2003/518.pdf
-  55. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
-  56. http://stjornartidindi.is/servlet/stjrtid/B/2005/573.pdf
-  57. http://stjornartidindi.is/servlet/stjrtid/B/2005/1153.pdf
-  58. http://stjornartidindi.is/servlet/stjrtid/B/2002/19.pdf
-  59. http://stjornartidindi.is/servlet/stjrtid/B/2002/502.pdf
-  60. http://stjornartidindi.is/servlet/stjrtid/B/2003/1026.pdf
-  61. http://stjornartidindi.is/servlet/stjrtid/B/2002/664.pdf
-  62. http://stjornartidindi.is/servlet/stjrtid/B/2002/952.pdf
-  63. http://stjornartidindi.is/servlet/stjrtid/B/2004/253.pdf
-  64. http://stjornartidindi.is/servlet/stjrtid/B/2005/600.pdf
-  65. http://stjornartidindi.is/servlet/stjrtid/B/2005/892.pdf
-  66. http://stjornartidindi.is/servlet/stjrtid/B/2003/89.pdf
-  67. http://stjornartidindi.is/servlet/stjrtid/B/2003/92.pdf
-  68. http://stjornartidindi.is/servlet/stjrtid/B/2004/150.pdf
-  69. http://stjornartidindi.is/servlet/stjrtid/B/2003/315.pdf
-  70. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/517-2003
-  71. http://stjornartidindi.is/servlet/stjrtid/B/2003/1041.pdf
-  72. http://stjornartidindi.is/servlet/stjrtid/B/2004/255.pdf
-  73. http://stjornartidindi.is/servlet/stjrtid/B/2003/1042.pdf
-  74. http://stjornartidindi.is/servlet/stjrtid/B/2003/1043.pdf
-  75. http://stjornartidindi.is/servlet/stjrtid/B/2004/140.pdf
-  76. http://stjornartidindi.is/servlet/stjrtid/B/2004/239.pdf
-  77. http://stjornartidindi.is/servlet/stjrtid/B/2004/240.pdf
-  78. http://stjornartidindi.is/servlet/stjrtid/B/2004/257.pdf
-  79. http://stjornartidindi.is/servlet/stjrtid/B/2004/258.pdf
-  80. http://stjornartidindi.is/servlet/stjrtid/B/2004/259.pdf
-  81. http://stjornartidindi.is/servlet/stjrtid/B/2004/260.pdf
-  82. http://stjornartidindi.is/servlet/stjrtid/B/2005/134.pdf
-  83. http://stjornartidindi.is/servlet/stjrtid/B/2005/1152.pdf
-  84. http://stjornartidindi.is/servlet/stjrtid/B/2005/296.pdf
-  85. http://stjornartidindi.is/servlet/stjrtid/B/2005/540.pdf
-  86. file:///altext/stjt/2004.132.html
-  87. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
-  88. http://stjornartidindi.is/servlet/stjrtid/B/2004/599.pdf
-  89. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
-  90. http://stjornartidindi.is/servlet/stjrtid/B/2001/182.pdf
-  91. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
-  92. http://stjornartidindi.is/servlet/stjrtid/B/2002/138.pdf
-  93. http://stjornartidindi.is/servlet/stjrtid/B/2002/319.pdf
-  94. http://stjornartidindi.is/servlet/stjrtid/B/2002/505.pdf
-  95. http://stjornartidindi.is/servlet/stjrtid/B/2002/638.pdf
-  96. http://stjornartidindi.is/servlet/stjrtid/B/2002/767.pdf
-  97. http://stjornartidindi.is/servlet/stjrtid/B/2003/323.pdf
-  98. http://stjornartidindi.is/servlet/stjrtid/B/2003/518.pdf
-  99. http://stjornartidindi.is/servlet/stjrtid/B/2003/799.pdf
- 100. http://stjornartidindi.is/servlet/stjrtid/B/2004/362.pdf
- 101. http://stjornartidindi.is/servlet/stjrtid/B/2004/599.pdf
- 102. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
- 103. http://stjornartidindi.is/servlet/stjrtid/B/2005/532.pdf
- 104. http://stjornartidindi.is/servlet/stjrtid/B/2005/611.pdf
- 105. http://stjornartidindi.is/servlet/stjrtid/B/2005/1151.pdf
- 106. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
- 107. http://stjornartidindi.is/servlet/stjrtid/B/2001/829.pdf
- 108. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
- 109. http://stjornartidindi.is/servlet/stjrtid/B/2001/708.pdf
- 110. http://stjornartidindi.is/servlet/stjrtid/B/2001/735.pdf
- 111. http://stjornartidindi.is/servlet/stjrtid/B/2004/906.pdf
- 112. http://stjornartidindi.is/servlet/stjrtid/B/2001/736.pdf
- 113. http://stjornartidindi.is/servlet/stjrtid/B/2001/832.pdf
- 114. http://stjornartidindi.is/servlet/stjrtid/B/2001/844.pdf
- 115. http://stjornartidindi.is/servlet/stjrtid/B/2005/895.pdf
- 116. http://stjornartidindi.is/servlet/stjrtid/B/2002/500.pdf
- 117. http://stjornartidindi.is/servlet/stjrtid/B/2003/176.pdf
- 118. http://stjornartidindi.is/servlet/stjrtid/B/2005/526.pdf
- 119. http://stjornartidindi.is/servlet/stjrtid/B/2001/182.pdf
- 120. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
- 121. http://stjornartidindi.is/servlet/stjrtid/B/2001/888.pdf
- 122. http://stjornartidindi.is/servlet/stjrtid/B/2002/66.pdf
- 123. http://stjornartidindi.is/servlet/stjrtid/B/2002/106.pdf
- 124. http://stjornartidindi.is/servlet/stjrtid/B/2002/138.pdf
- 125. http://stjornartidindi.is/servlet/stjrtid/B/2002/319.pdf
- 126. http://stjornartidindi.is/servlet/stjrtid/B/2002/505.pdf
- 127. http://stjornartidindi.is/servlet/stjrtid/B/2002/638.pdf
- 128. http://stjornartidindi.is/servlet/stjrtid/B/2002/758.pdf
- 129. http://stjornartidindi.is/servlet/stjrtid/B/2002/767.pdf
- 130. http://stjornartidindi.is/servlet/stjrtid/B/2002/821.pdf
- 131. http://stjornartidindi.is/servlet/stjrtid/B/2003/323.pdf
- 132. http://stjornartidindi.is/servlet/stjrtid/B/2003/518.pdf
- 133. http://stjornartidindi.is/servlet/stjrtid/B/2003/799.pdf
- 134. http://stjornartidindi.is/servlet/stjrtid/B/2004/362.pdf
- 135. http://stjornartidindi.is/servlet/stjrtid/B/2004/599.pdf
- 136. http://stjornartidindi.is/servlet/stjrtid/B/2005/132.pdf
- 137. http://stjornartidindi.is/servlet/stjrtid/B/2005/532.pdf
- 138. http://stjornartidindi.is/servlet/stjrtid/B/2005/611.pdf
- 139. http://stjornartidindi.is/servlet/stjrtid/B/2005/1151.pdf
- 140. http://stjornartidindi.is/servlet/stjrtid/B/2002/497.pdf
- 141. http://stjornartidindi.is/servlet/stjrtid/B/2002/838.pdf
- 142. file://1990131.html
- 143. file://1996070.html#g7
- 144. http://stjornartidindi.is/servlet/stjrtid/B/2001/182.pdf
- 145. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
- 146. http://stjornartidindi.is/servlet/stjrtid/B/2001/888.pdf
- 147. http://stjornartidindi.is/servlet/stjrtid/B/2002/66.pdf
- 148. http://stjornartidindi.is/servlet/stjrtid/B/2002/106.pdf
- 149. http://stjornartidindi.is/servlet/stjrtid/B/2002/138.pdf
- 150. http://stjornartidindi.is/servlet/stjrtid/B/2002/319.pdf
- 151. http://stjornartidindi.is/servlet/stjrtid/B/2002/505.pdf
- 152. http://stjornartidindi.is/servlet/stjrtid/B/2002/638.pdf
- 153. http://stjornartidindi.is/servlet/stjrtid/B/2002/758.pdf
- 154. http://stjornartidindi.is/servlet/stjrtid/B/2002/767.pdf
- 155. http://stjornartidindi.is/servlet/stjrtid/B/2002/821.pdf
- 156. http://stjornartidindi.is/servlet/stjrtid/B/2003/323.pdf
- 157. http://stjornartidindi.is/servlet/stjrtid/B/2003/518.pdf
- 158. http://stjornartidindi.is/servlet/stjrtid/B/2003/799.pdf
- 159. http://stjornartidindi.is/servlet/stjrtid/B/2004/362.pdf
- 160. http://stjornartidindi.is/servlet/stjrtid/B/2004/599.pdf
- 161. http://stjornartidindi.is/servlet/stjrtid/B/2005/132.pdf
- 162. http://stjornartidindi.is/servlet/stjrtid/B/2005/532.pdf
- 163. http://stjornartidindi.is/servlet/stjrtid/B/2005/611.pdf
- 164. http://stjornartidindi.is/servlet/stjrtid/B/2005/1151.pdf
- 165. file:///altext/stjt/2004.041.html
+  13. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+  14. http://stjornartidindi.is/servlet/stjrtid/B/2005/132.pdf
+  15. file://2006063.html#g28
+  16. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+  17. http://stjornartidindi.is/servlet/stjrtid/B/2001/731.pdf
+  18. http://stjornartidindi.is/servlet/stjrtid/B/2001/734.pdf
+  19. http://stjornartidindi.is/servlet/stjrtid/B/2001/737.pdf
+  20. http://stjornartidindi.is/servlet/stjrtid/B/2001/738.pdf
+  21. http://stjornartidindi.is/servlet/stjrtid/B/2001/824.pdf
+  22. http://stjornartidindi.is/servlet/stjrtid/B/2001/826.pdf
+  23. http://stjornartidindi.is/servlet/stjrtid/B/2003/516.pdf
+  24. http://stjornartidindi.is/servlet/stjrtid/B/2001/828.pdf
+  25. http://stjornartidindi.is/servlet/stjrtid/B/2001/978.pdf
+  26. http://stjornartidindi.is/servlet/stjrtid/B/2001/979.pdf
+  27. http://stjornartidindi.is/servlet/stjrtid/B/2003/515.pdf
+  28. http://stjornartidindi.is/servlet/stjrtid/B/2002/495.pdf
+  29. http://stjornartidindi.is/servlet/stjrtid/B/2002/501.pdf
+  30. http://stjornartidindi.is/servlet/stjrtid/B/2002/750.pdf
+  31. http://stjornartidindi.is/servlet/stjrtid/B/2002/842.pdf
+  32. http://stjornartidindi.is/servlet/stjrtid/B/2003/1047.pdf
+  33. http://stjornartidindi.is/servlet/stjrtid/B/2004/398.pdf
+  34. http://stjornartidindi.is/servlet/stjrtid/B/2004/909.pdf
+  35. http://stjornartidindi.is/servlet/stjrtid/B/2004/825.pdf
+  36. http://stjornartidindi.is/servlet/stjrtid/B/2006/281.pdf
+  37. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+  38. http://stjornartidindi.is/servlet/stjrtid/B/2001/888.pdf
+  39. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
+  40. http://stjornartidindi.is/servlet/stjrtid/B/2006/276.pdf
+  41. http://stjornartidindi.is/servlet/stjrtid/B/2006/596.pdf
+  42. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+  43. http://stjornartidindi.is/servlet/stjrtid/B/2002/839.pdf
+  44. http://stjornartidindi.is/servlet/stjrtid/B/2005/1236.pdf
+  45. http://stjornartidindi.is/servlet/stjrtid/B/2006/605.pdf
+  46. file:///altext/stjt/2004.041.html
+  47. http://stjornartidindi.is/servlet/stjrtid/B/2001/830.pdf
+  48. http://stjornartidindi.is/servlet/stjrtid/B/2002/18.pdf
+  49. http://stjornartidindi.is/servlet/stjrtid/B/2002/20.pdf
+  50. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+  51. http://stjornartidindi.is/servlet/stjrtid/B/2002/758.pdf
+  52. http://stjornartidindi.is/servlet/stjrtid/B/2002/821.pdf
+  53. http://stjornartidindi.is/servlet/stjrtid/B/2001/863.pdf
+  54. http://stjornartidindi.is/servlet/stjrtid/B/2002/498.pdf
+  55. http://stjornartidindi.is/servlet/stjrtid/B/2003/1046.pdf
+  56. http://stjornartidindi.is/servlet/stjrtid/B/2006/478.pdf
+  57. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+  58. http://stjornartidindi.is/servlet/stjrtid/B/2002/66.pdf
+  59. http://stjornartidindi.is/servlet/stjrtid/B/2002/106.pdf
+  60. http://stjornartidindi.is/servlet/stjrtid/B/2003/518.pdf
+  61. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
+  62. http://stjornartidindi.is/servlet/stjrtid/B/2005/573.pdf
+  63. http://stjornartidindi.is/servlet/stjrtid/B/2005/1153.pdf
+  64. http://stjornartidindi.is/servlet/stjrtid/B/2002/19.pdf
+  65. http://stjornartidindi.is/servlet/stjrtid/B/2002/502.pdf
+  66. http://stjornartidindi.is/servlet/stjrtid/B/2003/1026.pdf
+  67. http://stjornartidindi.is/servlet/stjrtid/B/2006/279.pdf
+  68. http://stjornartidindi.is/servlet/stjrtid/B/2002/664.pdf
+  69. http://stjornartidindi.is/servlet/stjrtid/B/2002/952.pdf
+  70. http://stjornartidindi.is/servlet/stjrtid/B/2004/253.pdf
+  71. http://stjornartidindi.is/servlet/stjrtid/B/2005/600.pdf
+  72. http://stjornartidindi.is/servlet/stjrtid/B/2005/892.pdf
+  73. http://stjornartidindi.is/servlet/stjrtid/B/2003/92.pdf
+  74. http://stjornartidindi.is/servlet/stjrtid/B/2004/150.pdf
+  75. http://stjornartidindi.is/servlet/stjrtid/B/2003/315.pdf
+  76. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/517-2003
+  77. http://stjornartidindi.is/servlet/stjrtid/B/2003/1041.pdf
+  78. http://stjornartidindi.is/servlet/stjrtid/B/2004/255.pdf
+  79. http://stjornartidindi.is/servlet/stjrtid/B/2003/1042.pdf
+  80. http://stjornartidindi.is/servlet/stjrtid/B/2006/277.pdf
+  81. http://stjornartidindi.is/servlet/stjrtid/B/2004/140.pdf
+  82. http://stjornartidindi.is/servlet/stjrtid/B/2004/239.pdf
+  83. http://stjornartidindi.is/servlet/stjrtid/B/2006/278.pdf
+  84. http://stjornartidindi.is/servlet/stjrtid/B/2004/240.pdf
+  85. http://stjornartidindi.is/servlet/stjrtid/B/2004/257.pdf
+  86. http://stjornartidindi.is/servlet/stjrtid/B/2004/259.pdf
+  87. http://stjornartidindi.is/servlet/stjrtid/B/2004/260.pdf
+  88. http://stjornartidindi.is/servlet/stjrtid/B/2005/134.pdf
+  89. http://stjornartidindi.is/servlet/stjrtid/B/2005/1152.pdf
+  90. http://stjornartidindi.is/servlet/stjrtid/B/2005/296.pdf
+  91. http://stjornartidindi.is/servlet/stjrtid/B/2005/540.pdf
+  92. http://stjornartidindi.is/servlet/stjrtid/B/2006/280.pdf
+  93. http://stjornartidindi.is/servlet/stjrtid/B/2006/594.pdf
+  94. http://stjornartidindi.is/servlet/stjrtid/B/2006/595.pdf
+  95. http://stjornartidindi.is/servlet/stjrtid/B/2006/797.pdf
+  96. http://stjornartidindi.is/servlet/stjrtid/B/2006/798.pdf
+  97. file:///altext/stjt/2004.132.html
+  98. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+  99. http://stjornartidindi.is/servlet/stjrtid/B/2004/599.pdf
+ 100. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
+ 101. http://stjornartidindi.is/servlet/stjrtid/B/2001/182.pdf
+ 102. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+ 103. http://stjornartidindi.is/servlet/stjrtid/B/2002/138.pdf
+ 104. http://stjornartidindi.is/servlet/stjrtid/B/2002/319.pdf
+ 105. http://stjornartidindi.is/servlet/stjrtid/B/2002/505.pdf
+ 106. http://stjornartidindi.is/servlet/stjrtid/B/2002/638.pdf
+ 107. http://stjornartidindi.is/servlet/stjrtid/B/2002/767.pdf
+ 108. http://stjornartidindi.is/servlet/stjrtid/B/2003/323.pdf
+ 109. http://stjornartidindi.is/servlet/stjrtid/B/2003/518.pdf
+ 110. http://stjornartidindi.is/servlet/stjrtid/B/2003/799.pdf
+ 111. http://stjornartidindi.is/servlet/stjrtid/B/2004/362.pdf
+ 112. http://stjornartidindi.is/servlet/stjrtid/B/2004/599.pdf
+ 113. http://stjornartidindi.is/servlet/stjrtid/B/2004/951.pdf
+ 114. http://stjornartidindi.is/servlet/stjrtid/B/2005/532.pdf
+ 115. http://stjornartidindi.is/servlet/stjrtid/B/2005/611.pdf
+ 116. http://stjornartidindi.is/servlet/stjrtid/B/2005/1151.pdf
+ 117. http://stjornartidindi.is/servlet/stjrtid/B/2006/276.pdf
+ 118. http://stjornartidindi.is/servlet/stjrtid/B/2006/596.pdf
+ 119. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+ 120. http://stjornartidindi.is/servlet/stjrtid/B/2001/829.pdf
+ 121. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+ 122. http://stjornartidindi.is/servlet/stjrtid/B/2001/735.pdf
+ 123. http://stjornartidindi.is/servlet/stjrtid/B/2004/906.pdf
+ 124. http://stjornartidindi.is/servlet/stjrtid/B/2001/832.pdf
+ 125. http://stjornartidindi.is/servlet/stjrtid/B/2001/844.pdf
+ 126. http://stjornartidindi.is/servlet/stjrtid/B/2005/895.pdf
+ 127. http://stjornartidindi.is/servlet/stjrtid/B/2002/500.pdf
+ 128. http://stjornartidindi.is/servlet/stjrtid/B/2003/176.pdf
+ 129. http://stjornartidindi.is/servlet/stjrtid/B/2005/526.pdf
+ 130. http://stjornartidindi.is/servlet/stjrtid/B/2001/182.pdf
+ 131. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+ 132. http://stjornartidindi.is/servlet/stjrtid/B/2001/888.pdf
+ 133. http://stjornartidindi.is/servlet/stjrtid/B/2002/66.pdf
+ 134. http://stjornartidindi.is/servlet/stjrtid/B/2002/106.pdf
+ 135. http://stjornartidindi.is/servlet/stjrtid/B/2002/138.pdf
+ 136. http://stjornartidindi.is/servlet/stjrtid/B/2002/319.pdf
+ 137. http://stjornartidindi.is/servlet/stjrtid/B/2002/505.pdf
+ 138. http://stjornartidindi.is/servlet/stjrtid/B/2002/638.pdf
+ 139. http://stjornartidindi.is/servlet/stjrtid/B/2002/758.pdf
+ 140. http://stjornartidindi.is/servlet/stjrtid/B/2002/767.pdf
+ 141. http://stjornartidindi.is/servlet/stjrtid/B/2002/821.pdf
+ 142. http://stjornartidindi.is/servlet/stjrtid/B/2003/323.pdf
+ 143. http://stjornartidindi.is/servlet/stjrtid/B/2003/518.pdf
+ 144. http://stjornartidindi.is/servlet/stjrtid/B/2003/799.pdf
+ 145. http://stjornartidindi.is/servlet/stjrtid/B/2004/362.pdf
+ 146. http://stjornartidindi.is/servlet/stjrtid/B/2004/599.pdf
+ 147. http://stjornartidindi.is/servlet/stjrtid/B/2005/132.pdf
+ 148. http://stjornartidindi.is/servlet/stjrtid/B/2005/532.pdf
+ 149. http://stjornartidindi.is/servlet/stjrtid/B/2005/611.pdf
+ 150. http://stjornartidindi.is/servlet/stjrtid/B/2005/1151.pdf
+ 151. http://stjornartidindi.is/servlet/stjrtid/B/2006/276.pdf
+ 152. http://stjornartidindi.is/servlet/stjrtid/B/2006/596.pdf
+ 153. http://stjornartidindi.is/servlet/stjrtid/B/2002/497.pdf
+ 154. http://stjornartidindi.is/servlet/stjrtid/B/2002/838.pdf
+ 155. file://1990131.html
+ 156. file://1996070.html#g7
+ 157. http://stjornartidindi.is/servlet/stjrtid/B/2001/182.pdf
+ 158. http://stjornartidindi.is/servlet/stjrtid/B/2001/718.pdf
+ 159. http://stjornartidindi.is/servlet/stjrtid/B/2001/888.pdf
+ 160. http://stjornartidindi.is/servlet/stjrtid/B/2002/66.pdf
+ 161. http://stjornartidindi.is/servlet/stjrtid/B/2002/106.pdf
+ 162. http://stjornartidindi.is/servlet/stjrtid/B/2002/138.pdf
+ 163. http://stjornartidindi.is/servlet/stjrtid/B/2002/319.pdf
+ 164. http://stjornartidindi.is/servlet/stjrtid/B/2002/505.pdf
+ 165. http://stjornartidindi.is/servlet/stjrtid/B/2002/638.pdf
+ 166. http://stjornartidindi.is/servlet/stjrtid/B/2002/758.pdf
+ 167. http://stjornartidindi.is/servlet/stjrtid/B/2002/767.pdf
+ 168. http://stjornartidindi.is/servlet/stjrtid/B/2002/821.pdf
+ 169. http://stjornartidindi.is/servlet/stjrtid/B/2003/323.pdf
+ 170. http://stjornartidindi.is/servlet/stjrtid/B/2003/518.pdf
+ 171. http://stjornartidindi.is/servlet/stjrtid/B/2003/799.pdf
+ 172. http://stjornartidindi.is/servlet/stjrtid/B/2004/362.pdf
+ 173. http://stjornartidindi.is/servlet/stjrtid/B/2004/599.pdf
+ 174. http://stjornartidindi.is/servlet/stjrtid/B/2005/132.pdf
+ 175. http://stjornartidindi.is/servlet/stjrtid/B/2005/532.pdf
+ 176. http://stjornartidindi.is/servlet/stjrtid/B/2005/611.pdf
+ 177. http://stjornartidindi.is/servlet/stjrtid/B/2005/1151.pdf
+ 178. file:///altext/stjt/2004.041.html

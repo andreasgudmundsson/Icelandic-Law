@@ -11,8 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
   Tóku gildi 1. júlí 2005. Breytt með [4]l. 70/2005 (tóku gildi 1. júlí 2005),
-[5]l. 126/2005 (tóku gildi 30. des. 2005) og [6]l. 136/2005 (tóku gildi 30. des.
-                                     2005).
+ [5]l. 126/2005 (tóku gildi 30. des. 2005), [6]l. 136/2005 (tóku gildi 30. des.
+               2005) og [7]l. 81/2006 (tóku gildi 30. júní 2006).
 
           I. kafli. Vörugjald af olíu, gjaldskylda og fjárhæð gjalds.
   1. gr. Greiða skal í ríkissjóð vörugjald af gas- og dísilolíu sem flokkast í
@@ -64,21 +64,25 @@ olíugjaldi við tollafgreiðslu ef um innflutning er að ræða eða við afhen
 borkranabifreiðar, steypuhræribifreiðar, götuhreinsibifreiðar, holræsabifreiðar,
                 borholumælingabifreiðar og úðunarbifreiðar],^1)
    7. [til nota á beltabifreiðar og námuökutæki sem eingöngu eru notuð utan vega
-                         eða á lokuðum vinnusvæðum].^1)
+                         eða á lokuðum vinnusvæðum],^1)
+    [8. til nota á bifreiðir í eigu björgunarsveita. Með björgunarsveit er átt
+       við sjálfboðaliðasamtök sem hafa björgun mannslífa og verðmæta að
+                               aðalmarkmiði.]^2)
   Litaða olíu má ekki nota sem eldsneyti í öðrum tilvikum en lýst er í 1. mgr.
      Litar- og/eða merkiefni má hvorki fjarlægja að öllu leyti né að hluta.
-  [Óheimilt er að nota litaða olíu á skráningarskyld ökutæki, sbr. [7]63. gr.
+  [Óheimilt er að nota litaða olíu á skráningarskyld ökutæki, sbr. [8]63. gr.
    umferðarlaga, nr. 50/1987, önnur en dráttarvélar skv. 4. tölul. 1. mgr. og
-                    ökutæki skv. 6. og 7. tölul. 1. mgr.]^1)
+               ökutæki skv. 6., [7. og 8. tölul.]^2) 1. mgr.]^1)
 [Eigendum ökutækja skv. 6. tölul. 1. mgr. er heimilt að skrá umrædd ökutæki hjá
      Umferðarstofu sem ökutæki til sérstakra nota og öðlast þar með rétt á
  gjaldfrjálsri litaðri olíu samhliða því að þeir greiði sérstakt kílómetragjald
- skv. 6. mgr. 13. gr. Ökutæki skv. 7. tölul. 1. mgr. og ökutæki sem skráð hafa
- verið til sérstakra nota skal auðkenna með sérstökum hætti í ökutækjaskrá.]^1)
+ skv. 6. mgr. 13. gr. Ökutæki skv. [7. og 8. tölul.]^2) 1. mgr. og ökutæki sem
+    skráð hafa verið til sérstakra nota skal auðkenna með sérstökum hætti í
+                               ökutækjaskrá.]^1)
      [Fjármálaráðherra er heimilt að kveða á um skilyrði fyrir undanþágu í
-  reglugerð,^2) þ.m.t. hvaða ökutæki falla undir 6. og 7. tölul. 1. mgr. og um
-       fyrirkomulag skráningar ökutækja skv. 6. og 7. tölul. 1. mgr.]^1)
-         ^1)[8]L. 136/2005, 1. gr. ^2)[9]Rg. 602/2005, sbr. [10]763/2005.
+reglugerð,^3) þ.m.t. hvaða ökutæki falla undir 6., [7. og 8. tölul.]^2) 1. mgr.
+    og um fyrirkomulag skráningar ökutækja skv. 6. og 7. tölul. 1. mgr.]^1)
+     ^1)[9]L. 136/2005, 1. gr. ^2)[10]L. 81/2006, 1. gr. ^3)[11]Rg. 274/2006.
 5. gr. Þeir sem gjaldskyldir eru skv. 3. gr. og óska eftir að fá heimild til að
 bæta litar- og/eða merkiefnum í gas- og dísilolíu vegna sölu eða afhendingar án
 gjalds, sbr. 4. gr., skulu senda umsókn til ríkisskattstjóra. Einungis þeim sem
@@ -93,8 +97,8 @@ Aðeins má lita olíu í búnaði sem viðurkenndur hefur verið af Löggilding
                         eftirliti verður ekki komið við.
    Fjármálaráðherra skal í reglugerð^2) kveða á um gerð og samsetningu litar-
       og/eða merkiefnis, litunarbúnað og framkvæmd litunar að öðru leyti.
-                  ^1)[11]L. 136/2005, 2. gr. ^2)[12]Rg. 283/2005.
-6. gr. Þeim sem hafa einkaleyfi til fólksflutninga skv. 1. mgr. [13]7. gr. laga
+                  ^1)[12]L. 136/2005, 2. gr. ^2)[13]Rg. 283/2005.
+6. gr. Þeim sem hafa einkaleyfi til fólksflutninga skv. 1. mgr. [14]7. gr. laga
  nr. 73/2001, um fólksflutninga, vöruflutninga og efnisflutninga á landi, skulu
       endurgreidd 80% olíugjalds af olíu vegna rekstrar almenningsvagna í
   áætlunarferðum. Reglur^1) um endurgreiðslu samkvæmt þessari málsgrein skulu
@@ -105,7 +109,7 @@ Beiðnir um endurgreiðslu [skv. 1. mgr.]^3) skulu afgreiddar af ríkisskattstj�
      sem jafnframt tilkynningu til beiðanda skal tilkynna ákvörðun sína til
  innheimtumanns ríkissjóðs til útborgunar hjá honum. [Beiðnir um endurgreiðslu
            skv. 2. mgr. skulu afgreiddar af utanríkisráðuneytinu.]^3)
-       ^1)[14]Rg. 395/2005. ^2)[15]Rg. 398/2005. ^3)[16]L. 136/2005, 3. gr.
+       ^1)[15]Rg. 395/2005. ^2)[16]Rg. 398/2005. ^3)[17]L. 136/2005, 3. gr.
                                     Bókhald.
 7. gr. Gjaldskyldir aðilar sem stunda framleiðslu eða aðvinnslu, sbr. 1. tölul.
   1. mgr. 3. gr., skulu aðgreina í bókhaldi sínu kaup á olíu sem notuð er til
@@ -132,7 +136,7 @@ sölureikninga gilda ákvæði bókhaldslaga. Við afhendingu á litaðri olíu 
  sem greinir í 1. mgr. 4. gr. skal tilgreina á sölureikningi að um gjaldfrjálsa
                             litaða olíu sé að ræða.
  Við staðgreiðslusölu smásöluverslana og hliðstæðra aðila er ekki skylt að gefa
-út sölureikning, sbr. 1. mgr. [17]21. gr. laga nr. 50/1988, um virðisaukaskatt.
+út sölureikning, sbr. 1. mgr. [18]21. gr. laga nr. 50/1988, um virðisaukaskatt.
  8. gr. Þeir sem eiga rétt á endurgreiðslu olíugjalds skv. 1. mgr. 6. gr. skulu
  halda í bókhaldi sínu skrá yfir akstur ökutækja. Jafnframt skulu þeir halda í
  bókhaldi sínu reikninga og skrár yfir olíukaup og olíunotkun og annað sem máli
@@ -140,7 +144,7 @@ sölureikninga gilda ákvæði bókhaldslaga. Við afhendingu á litaðri olíu 
  Vanræki aðili að skrá akstur eða færa fullnægjandi bókhald skv. 1. mgr. fellur
  niður réttur til endurgreiðslu fyrir tímabilið þegar bókhald eða skráning var
                                ekki fullnægjandi.
-                               ^1)[18]Rg. 395/2005.
+                               ^1)[19]Rg. 395/2005.
                              Uppgjör og innheimta.
 9. gr. Gjaldskyldir aðilar, sem hlotið hafa skráningu skv. 3. gr., skulu greiða
  olíugjald af gjaldskyldri olíu fyrir hvert uppgjörstímabil miðað við sölu eða
@@ -175,7 +179,7 @@ ríkisskattstjóra heimilt að leiðrétta augljósar reikningsskekkjur án sér
   Sé olíugjaldsskýrsla ekki afhent innan tilskilins frests eða olíugjald ekki
  greitt er ríkisskattstjóra enn fremur heimilt að afturkalla skráningu skv. 3.
                         gr. þar til úr hefur verið bætt.
-                               ^1)[19]Rg. 597/2005.
+                               ^1)[20]Rg. 597/2005.
 12. gr. Komi í ljós annmarkar á olíugjaldsskýrslu, fyrir eða eftir ákvörðun skv.
   11. gr., eða telji ríkisskattstjóri frekari skýringa þörf á einhverju atriði
   skal hann skriflega skora á gjaldskyldan aðila að bæta úr því innan ákveðins
@@ -196,12 +200,12 @@ Ríkisskattstjóri skal að jafnaði innan tveggja mánaða frá lokum þess fre
     rökstuddan úrskurð um endurákvörðunina og tilkynna hann í ábyrgðarbréfi.
 
            II. kafli. Kílómetragjald [og sérstakt kílómetragjald].^1)
-                            ^1)[20]L. 136/2005, 9. gr.
+                            ^1)[21]L. 136/2005, 9. gr.
             13. gr. Kílómetragjald [og sérstakt kílómetragjald].^1)
               Greiða skal kílómetragjald af eftirtöldum ökutækjum:
       1. bifreiðum sem skráðar eru hér á landi sem eru 10.000 kg eða meira að
  leyfðri heildarþyngd, þó ekki af bifreiðum sem ætlaðar eru til fólksflutninga,
-              [eða af ökutækjum skv. 7. tölul. 1. mgr. 4. gr.],^1)
+        [eða af ökutækjum skv. [7. og 8. tölul.]^2) 1. mgr. 4. gr.],^1)
      2. eftirvögnum sem skráðir eru hér á landi og eru 10.000 kg eða meira að
                              leyfðri heildarþyngd,
    3. bifreiðum og eftirvögnum, sbr. 1. og 2. tölul., sem skráð eru erlendis og
@@ -214,7 +218,7 @@ Ríkisskattstjóri skal að jafnaði innan tveggja mánaða frá lokum þess fre
    2. eftirvögnum sem skráðir eru hér á landi, eru 5.000 kg eða meira að leyfðri
   heildarþyngd og dregnir eru af dráttarvélum. Skrá ber umrædda eftirvagna sem
    dregnir eru af dráttarvélum hjá Umferðarstofu. Undanþegnir gjaldskyldu eru
-eftirvagnar sem taldir eru upp í 3. málsl. 1. mgr. [21]63. gr. umferðarlaga, nr.
+eftirvagnar sem taldir eru upp í 3. málsl. 1. mgr. [22]63. gr. umferðarlaga, nr.
                       50/1987, með síðari breytingum.]^1)
      Gjaldskylda samkvæmt þessu ákvæði hvílir á skráðum eiganda ökutækis á
     álestrardegi eða afskráningardegi hafi ökutæki verið afskráð. Hafi orðið
@@ -274,7 +278,7 @@ tækis, kg              gjald, kr.        tækis, kg             gjald, kr.
    samtengdra ökutækja skal vera að hámarki 40.000 kg fyrir fimm ása samtengd
               ökutæki og 44.000 kg fyrir sex ása samtengd ökutæki.
       Ökumælar skulu settir í bifreiðar og eftirvagna á kostnað eigenda. Í
-   reglugerð^2) skal kveðið á um tegundir og útbúnað mæla, ísetningu þeirra,
+   reglugerð^3) skal kveðið á um tegundir og útbúnað mæla, ísetningu þeirra,
 álestur, viðgerðir og eftirlit. Ef skylt er að búa ökutæki ökurita til eftirlits
    með aksturs- og hvíldartíma ökumanna samkvæmt reglugerð nr. 136/1995 skal
     ökuritinn notaður sem ökumælir. Nú er ökuriti notaður sem ökumælir og er
@@ -284,7 +288,7 @@ tækis, kg              gjald, kr.        tækis, kg             gjald, kr.
 kílómetragjalds [og sérstaks kílómetragjalds]^1) fram á annan jafntryggan hátt.
    Kílómetragjald skv. 3. tölul. 1. mgr. [og sérstakt kílómetragjald skv. 6.
         mgr.]^1) skal greiða við brottför bifreiðar eða vagns úr landi.
-                  ^1)[22]L. 136/2005, 4. gr. ^2)[23]Rg. 599/2005.
+     ^1)[23]L. 136/2005, 4. gr. ^2)[24]L. 81/2006, 2. gr. ^3)[25]Rg. 599/2005.
   14. gr. Berist ríkisskattstjóra tilkynning eftirlitsmanna um að heildarþyngd
 ökutækis með farmi hafi mælst vera meiri en sem nemur gjaldþyngd þess skal hann
      tilkynna eiganda eða umráðamanni ökutækisins skriflega um fyrirhugaða
@@ -299,7 +303,7 @@ kílómetragjaldi gjaldþyngdar og þeirrar þyngdar er mælist við eftirlit. [
 Hafi gjaldþyngd ökutækis verið rangt skráð í álestrarskrá ökutækja er heimilt að
   endurákvarða [kílómetragjald og sérstakt kílómetragjald]^1) miðað við rétta
      gjaldþyngd vegna aksturs ökutækisins frá því er gjaldþyngd var skráð.
-                            ^1)[24]L. 136/2005, 5. gr.
+                            ^1)[26]L. 136/2005, 5. gr.
        15. gr. Ákvörðun kílómetragjalds [og sérstaks kílómetragjalds].^1)
 Álestrartímabil eru frá 1. desember til 15. desember og frá 1. júní til 15. júní
    ár hvert. Eigandi eða umráðamaður ökutækis sem kílómetragjald [og sérstakt
@@ -328,7 +332,7 @@ kílómetragjald].^1) Áætlun skal miðast við að ökutækinu hafi verið eki
  tímabilum, með ökutæki til álestrar á álestrartímabili tímabils sem ekki hefur
 verið áætlað fyrir skal álagning miðast við að allur aksturinn hafi átt sér stað
                                      á því.
-                            ^1)[25]L. 136/2005, 6. gr.
+                            ^1)[27]L. 136/2005, 6. gr.
 16. gr. Ökumaður ökutækis sem kílómetragjald [og sérstakt kílómetragjald]^1) er
    greitt af skv. 13. gr. skal við lok hvers dags, sem ökutæki er ekið, lesa
         kílómetrastöðu af ökumæli og skrá hana í sérstaka akstursbók sem
@@ -361,7 +365,7 @@ fyrir þann tíma sem ekið er án ökumælis og skal gjaldið miðast við a.m.
    akstur fyrir hvern dag sem ekið er án ökumælis. Heimilt skal við ákvörðun
     gjaldsins að miða við raunverulegan akstur verði því komið við samkvæmt
                              fyrirliggjandi gögnum.
-                            ^1)[26]L. 136/2005, 7. gr.
+                            ^1)[28]L. 136/2005, 7. gr.
         17. gr. Komi í ljós eftir ákvörðun kílómetragjalds [og sérstaks
  kílómetragjalds]^1) skv. 15. gr. að ökutæki hafi heimildarlaust verið í umferð
 án þess að vera búið ökumæli, akstur hafi verið ranglega færður eða ekki færður
@@ -382,7 +386,7 @@ talið að akstur á því tímabili sem endurákvörðun nær til hafi að einh
 þess frests sem hann hefur veitt aðila til að tjá sig um fyrirhugaðar breytingar
       kveða upp rökstuddan úrskurð um endurákvörðunina og tilkynna hann í
                                  ábyrgðarbréfi.
-                            ^1)[27]L. 136/2005, 8. gr.
+                            ^1)[29]L. 136/2005, 8. gr.
 
               III. kafli. Kæruheimildir, eftirlit og refsiábyrgð.
                              18. gr. Kæruheimildir.
@@ -414,14 +418,14 @@ nefndarinnar. Skattrannsóknarstjóri ríkisins getur eftir kröfu sökunauts e�
                                       ^1)
  Við endurákvörðun oftekinna gjalda samkvæmt lögum þessum skal greiða gjaldanda
    vexti, sem skulu vera jafnháir tveimur þriðju hlutum vaxta sem Seðlabanki
- Íslands ákveður og birtir skv. 1. málsl. [28]4. gr. laga nr. 38/2001, um vexti
+ Íslands ákveður og birtir skv. 1. málsl. [30]4. gr. laga nr. 38/2001, um vexti
      og verðtryggingu, frá þeim tíma sem greiðslan átti sér stað og þar til
                             endurgreiðslan fer fram.
 Ákvörðun tollstjóra skv. 3. tölul. 1. mgr. 13. gr. er kæranleg til hans innan 30
     daga frá gjalddaga. Að öðru leyti skulu ákvæði þessarar greinar gilda um
 ákvarðanir skv. 3. tölul. 1. mgr. 13. gr. eftir því sem við á, þ.m.t. kærur til
                                yfirskattanefndar.
-                            ^1)[29]L. 136/2005, 10. gr.
+                            ^1)[31]L. 136/2005, 10. gr.
                                19. gr. Eftirlit.
      Ríkisskattstjóri annast eftirlit með því að ekki sé notuð lituð olía á
    skráningarskyld ökutæki og að skráning þeirra og búnaður sé í samræmi við
@@ -472,10 +476,10 @@ akstursbók, skal hann greiða sekt sem nemur allt að tífaldri þeirri fjárh�
               refsiverðar skv. III. kafla almennra hegningarlaga.
 Gera má lögaðila sekt fyrir brot á lögum þessum óháð því hvort brotið megi rekja
        til saknæms verknaðar fyrirsvarsmanns eða starfsmanns lögaðilans.
- Ef skattrannsóknarstjóri ríkisins telur að brot skv. 3. mgr. varði ekki þyngri
-  refsingu en sekt er honum heimilt að ljúka máli með því að gefa eiganda eða
- umráðamanni ökutækis kost á að greiða sekt sem greiðist innan tveggja mánaða í
- stað sektarmeðferðar skv. 4. mgr. 18. gr. Sé sekt greidd innan þess tíma telst
+  Ef skattrannsóknarstjóri ríkisins telur að brot skv. [4. mgr.]^1) varði ekki
+ þyngri refsingu en sekt er honum heimilt að ljúka máli með því að gefa eiganda
+eða umráðamanni ökutækis kost á að greiða sekt sem greiðist innan tveggja mánaða
+í stað sektarmeðferðar skv. 4. mgr. 18. gr. Sé sekt greidd innan þess tíma telst
 máli vera lokið af hálfu skattyfirvalda. Greiðist sekt ekki fer um sektarmeðferð
  skv. 4. mgr. 18. gr. Hafi eigandi eða umráðamaður ökutækis framið brot skv. 4.
  mgr. án þess að talið verði að akstur hafi verið vantalinn er ríkisskattstjóra
@@ -483,6 +487,7 @@ máli vera lokið af hálfu skattyfirvalda. Greiðist sekt ekki fer um sektarme�
 Sektarákvörðun ríkisskattstjóra er kæranleg til yfirskattanefndar innan 30 daga
 frá póstlagningu ákvörðunar. Sektarfjárhæð sem ríkisskattstjóri ákvarðar dregst
                          frá sektarfjárhæð skv. 4. mgr.
+                             ^1)[32]L. 81/2006, 3. gr.
  21. gr. Við aðalskoðun bifreiðar ár hvert skal eigandi hennar eða umráðamaður
     færa sönnur á að greitt hafi verið af henni kílómetragjald [og sérstakt
  kílómetragjald]^1) sem fallið er í eindaga á skoðunardegi. Að öðrum kosti skal
@@ -511,7 +516,7 @@ kílómetragjald [og sérstakt kílómetragjald]^1) vegna þess aksturs sem sann
                 kílómetragjald [og sérstakt kílómetragjald].^1)
     Kílómetragjaldi [og sérstöku kílómetragjaldi]^1) fylgir lögveðsréttur í
                               viðkomandi ökutæki.
-                            ^1)[30]L. 136/2005, 11. gr.
+                            ^1)[33]L. 136/2005, 11. gr.
  22. gr. Séu gjöld samkvæmt lögum þessum ekki greidd á gjalddaga, sbr. 11. gr.,
  eða eftir atvikum á eindaga, sbr. 15. gr., skal greiða ríkissjóði dráttarvexti
   af því sem ógreitt er, talið frá og með gjalddaga. Um ákvörðun og útreikning
@@ -525,18 +530,19 @@ kílómetragjald [og sérstakt kílómetragjald]^1) vegna þess aksturs sem sann
    frádregnum 0,5% sem renna í ríkissjóð til að standa straum af kostnaði við
                             framkvæmd laga þessara.
 Ráðherra er heimilt að kveða nánar á um framkvæmd laga þessara með reglugerð.^2)
-    ^1)[31]L. 136/2005, 12. gr. ^2)[32]Rg. 283/2005, [33]rg. 398/2005, [34]rg.
-                 599/2005, [35]rg. 627/2005, [36]rg. 628/2005.
+    ^1)[34]L. 136/2005, 12. gr. ^2)[35]Rg. 283/2005, [36]rg. 398/2005, [37]rg.
+                 599/2005, [38]rg. 627/2005, [39]rg. 628/2005.
                   24. gr. Lög þessi öðlast gildi 1. júlí 2005.
                                     25. gr.
 
                             [Ákvæði til bráðabirgða.
 I. [Þrátt fyrir ákvæði 3. mgr. 1. gr. laga þessara skal fjárhæð olíugjalds vera
-      41 kr. á hvern lítra af olíu frá gildistöku laga þessara til 1. júlí
+   41 kr. á hvern lítra af olíu frá gildistöku laga þessara til 31. desember
                                  2006.]^1)]^2)
-               ^1)[37]L. 126/2005, 1. gr. ^2)[38]L. 70/2005, 1. gr.
+                ^1)[40]L. 81/2006, 4. gr. ^2)[41]L. 70/2005, 1. gr.
      [II. Þrátt fyrir ákvæði 6. mgr. 13. gr. laganna skal fjárhæð sérstaks
-kílómetragjalds vera sem hér segir frá gildistöku laga þessara til 1. júlí 2006:
+kílómetragjalds vera sem hér segir frá gildistöku laga þessara til 31. desember
+                                     2006:
 
 Leyfð heildar-         Sérstakt          Leyfð heildar-        Sérstakt
 þyngd öku-             kílómetra-        þyngd öku-            kílómetra-
@@ -557,7 +563,7 @@ tækis, kg              gjald, kr.        tækis, kg             gjald, kr.
 17.00118.000          21,30          30.00131.000           34,43
                                       31.001 og yfir          35,44]^1)
 
-                            ^1)[39]L. 136/2005, brbákv.
+                             ^1)[42]L. 81/2006, 5. gr.
 
 References
 
@@ -568,36 +574,39 @@ References
    4. file:///altext/stjt/2005.070.html
    5. file:///altext/stjt/2005.126.html
    6. file:///altext/stjt/2005.136.html
-   7. file://1987050.html#g63
-   8. file:///altext/stjt/2005.136.html
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/602-2005
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/763-2005
-  11. file:///altext/stjt/2005.136.html
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/283-2005
-  13. file://2001073.html#g7
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-2005
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/398-2005
-  16. file:///altext/stjt/2005.136.html
-  17. file://1988050.html#g21
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-2005
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/597-2005
-  20. file:///altext/stjt/2005.136.html
-  21. file://1987050.html#g63
-  22. file:///altext/stjt/2005.136.html
-  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/599-2005
-  24. file:///altext/stjt/2005.136.html
-  25. file:///altext/stjt/2005.136.html
+   7. file:///altext/stjt/2006.081.html
+   8. file://1987050.html#g63
+   9. file:///altext/stjt/2005.136.html
+  10. file:///altext/stjt/2006.081.html
+  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/274-2006
+  12. file:///altext/stjt/2005.136.html
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/283-2005
+  14. file://2001073.html#g7
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-2005
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/398-2005
+  17. file:///altext/stjt/2005.136.html
+  18. file://1988050.html#g21
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-2005
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/597-2005
+  21. file:///altext/stjt/2005.136.html
+  22. file://1987050.html#g63
+  23. file:///altext/stjt/2005.136.html
+  24. file:///altext/stjt/2006.081.html
+  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/599-2005
   26. file:///altext/stjt/2005.136.html
   27. file:///altext/stjt/2005.136.html
-  28. file://2001038.html#g4
+  28. file:///altext/stjt/2005.136.html
   29. file:///altext/stjt/2005.136.html
-  30. file:///altext/stjt/2005.136.html
+  30. file://2001038.html#g4
   31. file:///altext/stjt/2005.136.html
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/283-2005
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/398-2005
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/599-2005
-  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/627-2005
-  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/628-2005
-  37. file:///altext/stjt/2005.126.html
-  38. file:///altext/stjt/2005.070.html
-  39. file:///altext/stjt/2005.136.html
+  32. file:///altext/stjt/2006.081.html
+  33. file:///altext/stjt/2005.136.html
+  34. file:///altext/stjt/2005.136.html
+  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/283-2005
+  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/398-2005
+  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/599-2005
+  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/627-2005
+  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/628-2005
+  40. file:///altext/stjt/2006.081.html
+  41. file:///altext/stjt/2005.070.html
+  42. file:///altext/stjt/2006.081.html

@@ -10,8 +10,9 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 1. apríl 2004. Breytt með [4]l. 15/2004 (tóku gildi 20. apríl 2004)
-                 og [5]l. 129/2004 (tóku gildi 31. des. 2005).
+Tóku gildi 1. apríl 2004. Breytt með [4]l. 15/2004 (tóku gildi 20. apríl 2004),
+[5]l. 129/2004 (tóku gildi 31. des. 2005) og [6]l. 65/2006 (tóku gildi 27. júní
+                                     2006).
 
 1. gr. Af öllum fjárverðmætum er við skipti á dánarbúi manns hverfa til erfingja
      hans skal greiða skatt í ríkissjóð eftir lögum þessum, sbr. þó 18. gr.
@@ -22,20 +23,20 @@ tekjur af hinu gefna til dauðadags eða um tiltekinn tíma sem ekki er liðinn 
   Ekki skal greiða erfðafjárskatt af lífeyrissparnaði sem fellur til erfingja
  samkvæmt lögum um skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða,
           enda fari um skattlagningu samkvæmt lögum um tekjuskatt ^1)
-                            ^1)[6]L. 129/2004, 148. gr.
+                            ^1)[7]L. 129/2004, 148. gr.
                          2. gr. Erfðafjárskattur er 5%.
 Þrátt fyrir ákvæði 1. mgr. skal engan erfðafjárskatt greiða af fyrstu 1.000.000
     kr. í skattstofni dánarbús, sbr. 4. og 5. gr., og skulu erfingjar njóta
        skattfrelsis í hlutfalli við arf sinn. Ákvæði þetta gildir ekki um
                             fyrirframgreiðslu arfs.
-Þrátt fyrir ákvæði 1. og 2. mgr. greiða engan erfðafjárskatt maki, einstaklingur
-  í staðfestri samvist með arfleifanda samkvæmt lögum um staðfesta samvist og
-    sambýlismaður sem stofnað hefur til óvígðrar sambúðar við einstakling af
-gagnstæðu kyni og tekur arf eftir hann samkvæmt erfðaskrá þar sem stöðu hans sem
-                  sambýlismanns arfleifanda er ótvírætt getið.
+      [Þrátt fyrir ákvæði 1. og 2. mgr. greiða engan erfðafjárskatt maki,
+ einstaklingur í staðfestri samvist með arfleifanda og sambúðarmaki sem stofnað
+  hefur til óvígðrar sambúðar við arfleifanda og tekur arf eftir hann samkvæmt
+erfðaskrá þar sem stöðu hans sem sambúðarmaka arfleifanda er ótvírætt getið.]^1)
 Nú byrja búskipti eftir lát beggja hjóna og skal þá leggja erfðafjárskatt á arf
  erfingjanna eins og um eitt bú sé að ræða án tillits til þess hvort erfingjar
                     beggja hjónanna eru hinir sömu eða ekki.
+                             ^1)[8]L. 65/2006, 13. gr.
 3. gr. Nú deyr maður sem tæmst hefur arfur áður en skiptum á því búi er lokið og
   skal þá dánarbú hans taka þann arf er hinn látni ella hefði hlotið og greiða
               þann erfðafjárskatt er honum hefði borið að greiða.
@@ -64,10 +65,10 @@ bönkum, sparisjóðum eða öðrum innlánsdeildum og óskráð skuldabréf, se
 háður kvöð um innlausnarrétt tiltekins aðila og skal þá leggja erfðafjárskatt á
               innlausnarverð sé það lægra en fasteignamatsverðið.
       Sé almennt markaðsverðmæti fasteignar talið lægra en fasteignamatsverð
-eignarinnar er erfingjum heimilt að óska eftir mati skv. [7]17.[8]23. gr. laga
+eignarinnar er erfingjum heimilt að óska eftir mati skv. [9]17.[10]23. gr. laga
 nr. 20/1991, um skipti á dánarbúum o.fl. Er þá heimilt að leggja erfðafjárskatt
   á matsverð þannig fengið, enda fylgi matsgjörð, ekki eldri en fjögurra vikna
-   gömul, erfðafjárskýrslu. Að öðru leyti gilda ákvæði [9]II. kafla laga nr.
+   gömul, erfðafjárskýrslu. Að öðru leyti gilda ákvæði [11]II. kafla laga nr.
                     20/1991 um mat samkvæmt þessum staflið.
      c. Búpeningur skal talinn á því verði sem lagt er til grundvallar síðustu
              álagningu opinberra gjalda fyrir dánardag arfleifanda.
@@ -150,7 +151,7 @@ skiptunum með því að greiða þá skattfjárhæð, sem sýslumaður hefur á
  11. gr. Erfingi, sem telur erfðafjárskatt eða skattstofn samkvæmt ákvæðum laga
     þessara eigi rétt ákveðinn, getur sent skriflega rökstudda kæru, studda
   nauðsynlegum gögnum, til yfirskattanefndar og fer meðferð kærunnar þá eftir
-               ákvæðum [10]laga nr. 30/1992, um yfirskattanefnd.
+               ákvæðum [12]laga nr. 30/1992, um yfirskattanefnd.
        12. gr. Erfingjum er skylt að láta sýslumönnum og/eða skattstjóra,
  skattrannsóknarstjóra ríkisins og ríkisskattstjóra í té ókeypis og í því formi
  sem óskað er allar nauðsynlegar upplýsingar og gögn er þeir beiðast og unnt er
@@ -181,7 +182,7 @@ erfðafjárskýrslu ef um fyrirframgreiddan arf er að ræða eða óskipt bú s
    Hafi erfðafjárskattur ekki verið greiddur innan mánaðar frá gjalddaga skal
     greiða ríkissjóði dráttarvexti af því sem gjaldfallið er frá gjalddaga.
  Dráttarvextir samkvæmt lögum þessum skulu vera þeir sömu og Seðlabanki Íslands
-    ákveður og birtir, sbr. 1. mgr. [11]6. gr. laga nr. 38/2001, um vexti og
+    ákveður og birtir, sbr. 1. mgr. [13]6. gr. laga nr. 38/2001, um vexti og
                                  verðtryggingu.
   Um endurgreiðslu oftekins erfðafjárskatts samkvæmt lögum þessum fer samkvæmt
                lögum um endurgreiðslu oftekinna skatta og gjalda.
@@ -220,9 +221,9 @@ fésekt allt að fimmfaldri þeirri fjárhæð í viðbótarerfðafjárskatt sem
  Tilraun til brota og hlutdeild í brotum á lögum þessum er refsiverð eftir því
 sem segir í III. kafla almennra hegningarlaga og varðar fésektum allt að hámarki
               því sem ákveðið er í öðrum ákvæðum þessarar greinar.
- Um málsmeðferð samkvæmt þessari grein gilda meginreglur [12]110. gr. laga nr.
+ Um málsmeðferð samkvæmt þessari grein gilda meginreglur [14]110. gr. laga nr.
                            90/2003, um tekjuskatt ^1)
-                           ^1)[13]L. 129/2004, 148. gr.
+                           ^1)[15]L. 129/2004, 148. gr.
     17. gr. Nú er eigi fyrir hendi samningur við annað ríki um að komast hjá
     tvísköttun á fjárverðmæti sem lög þessi taka til og greiddur hefur verið
    erfðafjárskattur af þeim verðmætum til opinberra aðila í öðru ríki, þá er
@@ -236,19 +237,19 @@ nema hærri fjárhæð en þeirri sem erfingja væri gert skylt að greiða hér
                               Íslandi og erlendis.
        Enn fremur er ríkisstjórninni heimilt að gera samninga um gagnkvæm
         upplýsingaskipti og um innheimtu erfðafjárskatts við önnur ríki.
- 19. gr. Ákvæði [14]laga nr. 90/2003, um tekjuskatt ,^1) og reglugerðir settar
+ 19. gr. Ákvæði [16]laga nr. 90/2003, um tekjuskatt ,^1) og reglugerðir settar
  samkvæmt þeim skulu gilda eftir því sem við á við beitingu laga þessara, þar á
            meðal ef vafi leikur á hvernig meta skuli verðmæti eigna.
-                           ^1)[15]L. 129/2004, 148. gr.
+                           ^1)[17]L. 129/2004, 148. gr.
  20. gr. Fjármálaráðherra getur með reglugerð kveðið nánar á um framkvæmd laga
                                     þessara.
   21. gr. Lög þessi öðlast gildi 1. apríl 2004 og taka til skipta á dánarbúum
  þeirra sem andast þann dag eða síðar. Lögin taka einnig til búskipta þeirra er
   hafa heimild til setu í óskiptu búi fari þau fram eftir gildistöku laganna.
-  [Ákvæði til bráðabirgða. Ákvæði [16]laga nr. 83/1984, um erfðafjárskatt, með
+  [Ákvæði til bráðabirgða. Ákvæði [18]laga nr. 83/1984, um erfðafjárskatt, með
  síðari breytingum, skulu gilda um skipti á dánarbúum þeirra sem önduðust fyrir
       1. apríl 2004, sbr. þó ákvæði 3. málsl. 21. gr. laga þessara.]^1)^2)
-                   ^1)[17]L. 15/2004, 1. gr. ^2)Augl. 957/2004.
+                   ^1)[19]L. 15/2004, 1. gr. ^2)Augl. 957/2004.
 
 References
 
@@ -258,15 +259,17 @@ References
    3. http://www.althingi.is/altext/130/s/0605.html
    4. file:///altext/stjt/2004.015.html
    5. file:///altext/stjt/2004.129.html
-   6. file:///altext/stjt/2004.129.html
-   7. file://1991020.html#g17
-   8. file://1991020.html#g23
-   9. file://1991020.html
-  10. file://1992030.html
-  11. file://2001038.html#g6
-  12. file://2003090.html#g110
-  13. file:///altext/stjt/2004.129.html
-  14. file://2003090.html
+   6. file:///altext/stjt/2006.065.html
+   7. file:///altext/stjt/2004.129.html
+   8. file:///altext/stjt/2006.065.html
+   9. file://1991020.html#g17
+  10. file://1991020.html#g23
+  11. file://1991020.html
+  12. file://1992030.html
+  13. file://2001038.html#g6
+  14. file://2003090.html#g110
   15. file:///altext/stjt/2004.129.html
-  16. file://1984083.html
-  17. file:///altext/stjt/2004.015.html
+  16. file://2003090.html
+  17. file:///altext/stjt/2004.129.html
+  18. file://1984083.html
+  19. file:///altext/stjt/2004.015.html

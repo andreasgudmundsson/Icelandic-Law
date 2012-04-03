@@ -10,7 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-                            Tóku gildi 9. júní 2005.
+ Tóku gildi 9. júní 2005. Breytt með [4]l. 44/2006 (tóku gildi 15. júní 2006).
+
       1. gr. Lög þessi taka til starfsemi uppboðsmarkaða fyrir sjávarafla.
 Sjávarútvegsráðherra veitir leyfi til reksturs uppboðsmarkaðar fyrir sjávarafla.
   Við veitingu leyfa skal ráðherra m.a. meta hvort skilyrði séu til frjálsrar
@@ -38,7 +39,11 @@ uppboðs og hlotið hefur löggildingu ráðherra til þeirra starfa. Leyfishafi
                             eftirfarandi skilyrðum:
     a. Hafa íslenskan ríkisborgararétt og eiga lögheimili hér á landi. Erlendur
   ríkisborgari sem á lögheimili hér á landi og hefur átt það samfellt í a.m.k.
-        eitt ár skal þó vera undanþeginn skilyrði um íslenskt ríkisfang.
+ eitt ár skal þó vera undanþeginn skilyrði um íslenskt ríkisfang. [Skilyrði um
+ íslenskan ríkisborgararétt og lögheimili hér á landi ná ekki til einstaklinga
+sem hafa ríkisfang og búsettir eru í aðildarríki Evrópska efnahagssvæðisins eða
+    í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða til Færeyinga
+                     búsettra í Færeyjum eða á Íslandi.]^1)
                                  b. Eru fjárráða.
                             c. Hafa forræði á búi sínu.
   Enn fremur má veita hlutafélögum eða öðrum lögaðilum sem eiga heimili hér á
@@ -46,17 +51,18 @@ uppboðs og hlotið hefur löggildingu ráðherra til þeirra starfa. Leyfishafi
     lögaðila skilyrði b- og c-liðar 1. mgr. Sé um að ræða erlendan aðila eða
 íslenskan lögaðila sem erlendur aðili á hlut í skal auk þess fullnægt skilyrðum
              laga um fjárfestingu erlendra aðila í atvinnurekstri.
-  4. gr. Um húsnæði og búnað uppboðsmarkaðar og meðferð afla gilda [4]lög nr.
+                             ^1)[5]L. 44/2006, 1. gr.
+  4. gr. Um húsnæði og búnað uppboðsmarkaðar og meðferð afla gilda [6]lög nr.
    55/1998, um meðferð, vinnslu og dreifingu sjávarafurða, og reglur settar á
                   grundvelli þeirra laga eftir því sem við á.
-  Um vigtun afla gilda ákvæði [5]laga nr. 57/1996, um umgengni um nytjastofna
+  Um vigtun afla gilda ákvæði [7]laga nr. 57/1996, um umgengni um nytjastofna
    sjávar, og reglur sem settar eru á grundvelli þeirra eftir því sem við á.
  5. gr. Ráðherra skal í reglugerð kveða á um útgáfu rekstrarleyfa og starfsemi
 uppboðsmarkaða, þar á meðal um gagnsæi viðskipta, birtingu uppboðsskilmála og um
    uppboðslýsingar. Ráðherra setur jafnframt reglur um starfsemi reiknistofu
                                 uppboðsmarkaða.
    6. gr. Leyfishafar skulu standa skil á uppboðsandvirði hins selda afla til
-   seljenda og sjá um skil á greiðslum samkvæmt ákvæðum [6]II. kafla laga nr.
+   seljenda og sjá um skil á greiðslum samkvæmt ákvæðum [8]II. kafla laga nr.
       24/1986, um skiptaverðmæti og greiðslumiðlun innan sjávarútvegsins.
  Leyfishafi skal krefjast greiðslutrygginga af kaupanda sé ekki um staðgreiðslu
                                     að ræða.
@@ -65,7 +71,7 @@ Við skiptingu greiðslna samkvæmt þessari grein skal miða við uppboðsandvi
  Leyfishafa er heimilt að fela reiknistofu uppboðsmarkaða þann hluta starfsemi
                   sinnar sem mælt er fyrir um í þessari grein.
    7. gr. Um sjávarafla, sem seldur er á uppboðsmarkaði, gilda ekki ákvæði um
-  lágmarksverð samkvæmt [7]lögum nr. 43/1985, um Verðlagsráð sjávarútvegsins.
+  lágmarksverð samkvæmt [9]lögum nr. 43/1985, um Verðlagsráð sjávarútvegsins.
  8. gr. Leyfishafi skal hafa í þjónustu sinni a.m.k. einn starfsmann sem sér um
  framkvæmd uppboðs, uppboðsstjóra, og skal hann hafa löggildingu til starfans.
                     Sjávarútvegsráðherra veitir löggildingu.
@@ -83,7 +89,9 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2005079
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=677
    3. http://www.althingi.is/altext/131/s/1030.html
-   4. file://1998055.html
-   5. file://1996057.html
-   6. file://1986024.html
-   7. file://1985043.html
+   4. file:///altext/stjt/2006.044.html
+   5. file:///altext/stjt/2006.044.html
+   6. file://1998055.html
+   7. file://1996057.html
+   8. file://1986024.html
+   9. file://1985043.html

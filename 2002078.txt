@@ -10,7 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
- Tóku gildi 17. maí 2002. Breytt með [4]l. 58/2004 (tóku gildi 15. júní 2004).
+Tóku gildi 17. maí 2002. Breytt með [4]l. 58/2004 (tóku gildi 15. júní 2004) og
+                   [5]l. 86/2006 (tóku gildi 30. júní 2006).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -35,7 +36,7 @@ telst íbúðarhúsnæði samkvæmt lögum þessum. [Þurfi umsækjandi að hald
      Rafhitun telst bein hitun með raforku hvort sem um er að ræða þilofna,
   hitastrengi eða vatnshitakerfi þar sem rafmagn er notað til að hita vatnið.
         Raforkunotkun varmadælu er í þessum lögum flokkuð með rafhitun.
-                             ^1)[5]L. 58/2004, 1. gr.
+                             ^1)[6]L. 58/2004, 1. gr.
 
                   II. kafli. Niðurgreiðsla á orku til hitunar.
                         4. gr. Skilyrði niðurgreiðslna.
@@ -58,7 +59,7 @@ nær til þess að greiða niður orkumagn sem svarar til fjórðungs af því o
 Kostnaður við hitun kirkna, bænahúsa trúfélaga, safna, félagsheimila og húsnæðis
       björgunarsveita skal greiddur niður á sama hátt og hitun íbúða.]^1)
       Ekki skal greiða niður raforkukostnað vegna dælingar á heitu vatni.
-                             ^1)[6]L. 58/2004, 2. gr.
+                             ^1)[7]L. 58/2004, 2. gr.
                         5. gr. Umsókn um niðurgreiðslur.
       [Eigandi eða umráðamaður íbúðar]^1) getur sótt um niðurgreiðslu til
      Orkustofnunar sem ákveður á hvaða formi umsóknir skulu sendar og hvaða
@@ -72,7 +73,7 @@ niðurgreiðslum séu uppfyllt. Ekki þarf að sækja á ný um niðurgreiðslu 
     Standi húsnæði autt, sbr. 2. mgr. 4. gr., þarf eigandi þess að sækja um
  niðurgreiðslur til Orkustofnunar þegar föst búseta fellur niður. Sækja þarf um
                   slíkar niðurgreiðslur á tólf mánaða fresti.
-                             ^1)[7]L. 58/2004, 3. gr.
+                             ^1)[8]L. 58/2004, 3. gr.
                          6. gr. Upphæð niðurgreiðslna.
 Í samræmi við fjárhæð niðurgreiðslna sem samþykkt er í fjárlögum viðkomandi árs
 skal iðnaðarráðherra ár hvert ákveða upphæð niðurgreiðslna á raforku í kr./kWst,
@@ -124,25 +125,34 @@ Ef ákveðið er í fjárlögum að veita styrki til stofnunar nýrra hitaveitna
            1. Til nýrra hitaveitna sem hófu rekstur árið 1998 eða síðar.
    2. Til hitaveitna sem hafa aukið við dreifikerfi sitt á árinu 1998 eða síðar
    til að geta tengt íbúðarhúsnæði sem notið hefur niðurgreiðslna á rafhitun.
+   [3. Til starfandi hitaveitna sem hafa einkaleyfi til dreifingar á heitu vatni
+    og stækka veitusvæði sitt með yfirtöku á hitaveitum sem ekki hafa slíkt
+   einkaleyfi, dreifa heitu vatni um dreifikerfi sitt til a.m.k. 5 aðgreindra
+  húsveitna og standa frammi fyrir kostnaðarsömum aðgerðum vegna endurnýjunar
+  dreifikerfis. Ráðherra er heimilt að setja nánari skilyrði í reglugerð.]^1)
+                             ^1)[9]L. 86/2006, 1. gr.
                             12. gr. Fjárhæð styrkja.
       [Styrkur til hverrar hitaveitu getur numið allt að átta ára áætluðum
  niðurgreiðslum á rafmagni eða olíu til húshitunar á orkuveitusvæði viðkomandi
- hitaveitu miðað við meðalnotkun til húshitunar næstu fimm ár á undan. Greiðsla
- stofnstyrks til nýrrar hitaveitu eða vegna stækkunar hitaveitu skal miðuð við
- tímamarkið þegar hitaveitan tekur til starfa eða stækkun er tekin í notkun. Af
- fjárveitingu hvers árs til niðurgreiðslu á orku til húshitunar og stofnstyrkja
- hitaveitna skal styrkveiting til nýrra hitaveitna þó aldrei vera meiri en 20%
-  heildarfjárveitingar. Árlega getur hver einstök hitaveita að hámarki fengið
-      styrk er nemur 15% árlegrar heildarfjárveitingar til niðurgreiðslu á
- húshitunarkostnaði og nýrra hitaveitna.]^1) Frá styrkfjárhæðinni skal dreginn
-  annar beinn eða óbeinn fjárhagslegur stuðningur ríkisins, stofnana þess eða
-              sjóða til viðkomandi hitaveitu eða byggingar hennar.
+hitaveitu miðað við meðalnotkun til húshitunar næstu fimm ár á undan. [Þegar um
+  er að ræða styrki á grundvelli 3. tölul. 11. gr. skal miðað við 20.000 kWst
+ársnotkun á hverja íbúð sem tengd er veitunni. Við ákvörðun styrkfjárhæðar skal
+    miðað við fjárhæð niðurgreiðslu í dreifbýli á veitusvæði Rafmagnsveitna
+  ríkisins.]^1) Greiðsla stofnstyrks til nýrrar hitaveitu eða vegna stækkunar
+   hitaveitu skal miðuð við tímamarkið þegar hitaveitan tekur til starfa eða
+ stækkun er tekin í notkun. Af fjárveitingu hvers árs til niðurgreiðslu á orku
+til húshitunar og stofnstyrkja hitaveitna skal styrkveiting til nýrra hitaveitna
+  þó aldrei vera meiri en 20% heildarfjárveitingar. Árlega getur hver einstök
+hitaveita að hámarki fengið styrk er nemur 15% árlegrar heildarfjárveitingar til
+niðurgreiðslu á húshitunarkostnaði og nýrra hitaveitna.]^2) Frá styrkfjárhæðinni
+skal dreginn annar beinn eða óbeinn fjárhagslegur stuðningur ríkisins, stofnana
+         þess eða sjóða til viðkomandi hitaveitu eða byggingar hennar.
  [Fyrir 1. október ár hvert skal leggja fram skýrslu um ráðstöfun fjár samkvæmt
    lögum þessum á næstliðnu ári. Einnig skal leggja fram endurskoðaða áætlun
     greiðslna yfirstandandi árs og áætlun fyrir næstkomandi ár. Greina skal
      sundurliðað hve miklu fjármagni er varið til niðurgreiðslu húshitunar,
-              stofnstyrkja hitaveitna og orkusparnaðaraðgerða.]^1)
-                             ^1)[8]L. 58/2004, 4. gr.
+              stofnstyrkja hitaveitna og orkusparnaðaraðgerða.]^2)
+                ^1)[10]L. 86/2006, 2. gr. ^2)[11]L. 58/2004, 4. gr.
                                13. gr. Umsóknir.
 Hitaveitur geta sótt um styrk til iðnaðarráðuneytisins. Umsókn skulu m.a. fylgja
    upplýsingar um hitaveituna og hvernig fyrirhugað er að ráðstafa styrknum.
@@ -163,6 +173,9 @@ tengdur þegar hitaveita tekur til starfa er heimilt að ákveða að hluti styr
    við tengingu við starfandi eða nýjar veitur er umtalsverður, svo sem vegna
     kostnaðarsamra breytinga á hitakerfi. Stjórn hitaveitunnar skal ákvarða
  hlutföllin en hvor hluti styrksins má nema allt að 65% af heildarfjárhæðinni.
+ [Styrkir til hitaveitu á grundvelli 3. tölul. 11. gr. skulu renna óskertir til
+                               hitaveitunnar.]^1)
+                             ^1)[12]L. 86/2006, 3. gr.
                       15. gr. Niðurfelling niðurgreiðslna.
       Ef stofnuð er ný hitaveita eða eldri veita stækkuð skal fella niður
 niðurgreiðslu á kostnaði til hitunar íbúðarhúsnæðis á starfssvæði hitaveitunnar,
@@ -175,7 +188,7 @@ Ráðherra er heimilt að ákveða að sérstakt jarðhitaleitarátak á köldum
   allt að 5% af árlegri fjárveitingu til niðurgreiðslu á húshitunarkostnaði og
    nýrra hitaveitna. Beiðnir um styrki skulu sendar iðnaðarráðuneytinu ásamt
                   greinargerð um fyrirhugaða jarðhitaleit.]^1)
-                             ^1)[9]L. 58/2004, 5. gr.
+                             ^1)[13]L. 58/2004, 5. gr.
 
                               IV. kafli. Eftirlit.
                       [17. gr.]^1) Eftirlit Orkustofnunar.
@@ -189,19 +202,19 @@ Ráðherra er heimilt að ákveða að sérstakt jarðhitaleitarátak á köldum
   Orkustofnunar samkvæmt staðfestri áætlun greiðist af því fé sem ákveðið er í
   fjárlögum til niðurgreiðslna á kostnaði við húshitun og til að styrkja nýjar
                                   hitaveitur.
-                             ^1)[10]L. 58/2004, 5. gr.
+                             ^1)[14]L. 58/2004, 5. gr.
                      [18. gr.]^1) Heimildir Orkustofnunar.
   Dreifiveitum og kyntum hitaveitum ber að afhenda Orkustofnun upplýsingar um
 orkukaupendur sem fá niðurgreiðslur og um notkun þeirra þegar stofnunin fer fram
                                     á slíkt.
-                             ^1)[11]L. 58/2004, 5. gr.
+                             ^1)[15]L. 58/2004, 5. gr.
                        [19. gr.]^1) Úrræði Orkustofnunar.
  Ef Orkustofnun verður þess áskynja að orkukaupandi tilkynnir ekki um breyttar
  aðstæður, sem hefðu átt að leiða til brottfalls niðurgreiðslu, skal stofnunin
   fella niðurgreiðslurnar niður og hefur orkukaupandi 30 daga frá dagsetningu
    tilkynningar til að koma á framfæri andmælum áður en ákvörðun um brottfall
                       niðurgreiðslna kemur til framkvæmda.
-                             ^1)[12]L. 58/2004, 5. gr.
+                             ^1)[16]L. 58/2004, 5. gr.
 
                             V. kafli. Orkusparnaður.
                       [20. gr.]^1) Orkusparnaðaraðgerðir.
@@ -211,16 +224,16 @@ orkukaupendur sem fá niðurgreiðslur og um notkun þeirra þegar stofnunin fer
        Orkusparnaðaraðgerðir skulu stuðla að því að draga úr kostnaði við
   niðurgreiðslur á húshitunarkostnaði. Orkustofnun skal gera áætlun um hvernig
     fénu skuli varið og leggja hana fyrir iðnaðarráðherra til staðfestingar.
-                             ^1)[13]L. 58/2004, 5. gr.
+                             ^1)[17]L. 58/2004, 5. gr.
 
                             VI. kafli. Ýmis ákvæði.
                             [21. gr.]^1) Reglugerð.
    Iðnaðarráðherra skal setja reglugerð^2) um framkvæmd laga þessara, m.a. um
  útreikning niðurgreiðslna, íbúðarflokka, úthlutun styrkja til nýrra hitaveitna
                                   og eftirlit.
-                  ^1)[14]L. 58/2004, 5. gr. ^2)[15]Rg. 284/2005.
+                  ^1)[18]L. 58/2004, 5. gr. ^2)[19]Rg. 284/2005.
                    [22. gr.]^1) Lög þessi öðlast þegar gildi.
-                             ^1)[16]L. 58/2004, 5. gr.
+                             ^1)[20]L. 58/2004, 5. gr.
 
                             Ákvæði til bráðabirgða.
 I. Allir þeir aðilar sem við gildistöku laga þessara njóta niðurgreiðslna á orku
@@ -246,15 +259,19 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=640
    3. http://www.althingi.is/altext/127/s/1034.html
    4. file:///altext/stjt/2004.058.html
-   5. file:///altext/stjt/2004.058.html
+   5. file:///altext/stjt/2006.086.html
    6. file:///altext/stjt/2004.058.html
    7. file:///altext/stjt/2004.058.html
    8. file:///altext/stjt/2004.058.html
-   9. file:///altext/stjt/2004.058.html
-  10. file:///altext/stjt/2004.058.html
+   9. file:///altext/stjt/2006.086.html
+  10. file:///altext/stjt/2006.086.html
   11. file:///altext/stjt/2004.058.html
-  12. file:///altext/stjt/2004.058.html
+  12. file:///altext/stjt/2006.086.html
   13. file:///altext/stjt/2004.058.html
   14. file:///altext/stjt/2004.058.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/284-2005
+  15. file:///altext/stjt/2004.058.html
   16. file:///altext/stjt/2004.058.html
+  17. file:///altext/stjt/2004.058.html
+  18. file:///altext/stjt/2004.058.html
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/284-2005
+  20. file:///altext/stjt/2004.058.html

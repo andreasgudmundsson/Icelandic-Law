@@ -10,7 +10,7 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-                            Tóku gildi 1. júlí 1992.
+ Tóku gildi 1. júlí 1992. Breytt með [4]l. 65/2006 (tóku gildi 27. júní 2006).
 
                   1. þáttur. Almenn ákvæði um skipti dánarbúa.
                   I. kafli. Lögsaga við skipti dánarbúa o.fl.
@@ -134,7 +134,7 @@ eftir að andlátstilkynning hefur borist honum, nema skiptum hafi þá þegar v
  lokið skv. 25. gr. Skipar þá ráðherra annan löghæfan mann til að annast störf
   sýslumanns við skiptin en þóknun hans greiðist samkvæmt ákvörðun ráðherra úr
                                   ríkissjóði.
-                                ^1)[4]Rg. 136/1992.
+                                ^1)[5]Rg. 136/1992.
       10. gr. Hafi ónógar upplýsingar komið fram um eignir þess látna eða
  erfðaréttindi eftir hann skal sýslumaður ekki síðar en mánuði eftir að andlát
                    var tilkynnt leita vitneskju um þau efni.
@@ -1468,7 +1468,9 @@ hafa ekki tekist um skipti milli þeirra fyrir yfirvaldi, getur annað þeirra e
 100. gr. Ef karl og kona slíta óvígðri sambúð eftir að hafa búið saman samfleytt
 í að minnsta kosti tvö ár eða búið saman skemmri tíma og annaðhvort eignast barn
  eða konan er þunguð af völdum karlsins getur annað þeirra eða þau bæði krafist
-                  opinberra skipta til fjárslita milli þeirra.
+   opinberra skipta til fjárslita milli þeirra. [Sama gildir um sambúðarslit
+                         einstaklinga af sama kyni.]^1)
+                             ^1)[6]L. 65/2006, 3. gr.
   101. gr. Krafa um opinber skipti skal vera skrifleg og skal henni beint til
      héraðsdómstólsins í því umdæmi þar sem aðilarnir eiga eða áttu síðast
                sameiginlegt lögheimili, nema þeir semji um annað.
@@ -1973,7 +1975,7 @@ Að því leyti sem annað leiðir ekki af ákvæðum þessara laga gilda almenn
       um meðferð einkamála í héraði um meðferð mála samkvæmt þessum kafla.
      132. gr. Dómsmálaráðherra setur fyrirmæli í reglugerð^1) um skrár sem
      héraðsdómari heldur um mál samkvæmt lögum þessum og um opinber skipti.
-                                ^1)[5]Rg. 136/1992.
+                                ^1)[7]Rg. 136/1992.
 
                       XVIII. kafli. Málskot til æðra dóms.
 133. gr. Að því leyti sem ekki er mælt á annan veg í lögum þessum sæta úrskurðir
@@ -2077,9 +2079,9 @@ laga þessara skal hann sjálfkrafa teljast skiptastjóri í búinu frá 1. júl
                                     150. gr.
  151. gr. Ákvæði 2. og 3. mgr. 81. gr. gilda um meðferð á erfðafé þótt það hafi
 verið tekið til varðveislu fyrir gildistöku laga þessara. Tekur þetta einnig til
-     erfðafjár sem hefur ekki verið vitjað eftir ákvæðum 1. mgr. [6]56. gr.
+     erfðafjár sem hefur ekki verið vitjað eftir ákvæðum 1. mgr. [8]56. gr.
    erfðalaga, nr. 8/1962, við gildistöku laga þessara en hafi fé verið afhent
-samkvæmt því ákvæði eftir 30. júní 1987 gilda reglur 2. mgr. [7]sömu greinar um
+samkvæmt því ákvæði eftir 30. júní 1987 gilda reglur 2. mgr. [9]sömu greinar um
   rétt til að endurheimta það þótt þess sé fyrst krafist eftir gildistöku laga
                                     þessara.
 152. gr. Ákvæði 98.100. gr. gilda um heimildir til að krefjast opinberra skipta
@@ -2120,7 +2122,9 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1991020
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=113&mnr=104
    3. http://www.althingi.is/altext/113/s/0108.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1992
+   4. file:///altext/stjt/2006.065.html
    5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1992
-   6. file://1962008.html#g56
-   7. file://1962008.html#g56
+   6. file:///altext/stjt/2006.065.html
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1992
+   8. file://1962008.html#g56
+   9. file://1962008.html#g56

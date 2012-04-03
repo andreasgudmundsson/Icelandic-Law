@@ -3,18 +3,19 @@
    --------------------------------------------------------------------------
 
      Lög um ráðstafanir gegn umhverfismengun af völdum einnota umbúða fyrir
-                                 drykkjarvörur
+                                drykkjarvörur^1)
 
                               1989 nr. 52 29. maí
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+         ^1)Falla úr gildi 1. janúar 2008 skv. [2]l. 162/2002, brbákv. I.
+              [3]Ferill málsins á Alþingi.   [4]Frumvarp til laga.
 
-Tóku gildi 1. júní 1989. Breytt með [4]l. 47/1990 (tóku gildi 31. maí 1990 nema
- 14. og 15. gr. sem tóku gildi 1. jan. 1991), [5]l. 26/2000 (tóku gildi 1. júní
- 2000), [6]l. 138/2001 (tóku gildi 31. des. 2001), [7]l. 20/2003 (tóku gildi 1.
-             maí 2003) og [8]l. 82/2004 (tóku gildi 1. júlí 2004).
+Tóku gildi 1. júní 1989. Breytt með [5]l. 47/1990 (tóku gildi 31. maí 1990 nema
+ 14. og 15. gr. sem tóku gildi 1. jan. 1991), [6]l. 26/2000 (tóku gildi 1. júní
+ 2000), [7]l. 138/2001 (tóku gildi 31. des. 2001), [8]l. 20/2003 (tóku gildi 1.
+             maí 2003) og [9]l. 82/2004 (tóku gildi 1. júlí 2004).
 
   1. gr. [Á innfluttar drykkjarvörur í einnota umbúðum úr stáli, áli, gleri og
   plastefni skal leggja skilagjald sem innheimt skal við tollafgreiðslu. Skal
@@ -29,11 +30,11 @@ virðisaukaskatts vera [3,40 kr.]^1) á umbúðir úr stáli, [2,50 kr.]^1) á u
   úr gleri stærri en 500 ml, [1,80 kr.]^1) á umbúðir úr gleri 500 ml og minni,
    [1,80 kr.]^1) á umbúðir úr lituðu plastefni og [0,76 kr.]^2) á umbúðir úr
                              ólituðu plastefni.]^3)
- Að svo miklu leyti sem ekki er kveðið á um í lögum þessum skulu ákvæði [9]laga
+Að svo miklu leyti sem ekki er kveðið á um í lögum þessum skulu ákvæði [10]laga
     nr. 97/1987, um vörugjald, með síðari breytingum, eiga við um álagningu,
    innheimtu, viðurlög, kærur, eftirlit og aðra framkvæmd gjaldtöku samkvæmt
                                  þessari grein.
-   ^1)[10]L. 20/2003, 1. gr. ^2)[11]L. 82/2004, 1. gr. ^3)[12]L. 26/2000, 1. gr.
+   ^1)[11]L. 20/2003, 1. gr. ^2)[12]L. 82/2004, 1. gr. ^3)[13]L. 26/2000, 1. gr.
 2. gr. Iðnaðarráðherra skal beita sér fyrir stofnun hlutafélags sem taki að sér
  umsýslan skilagjaldsins svo og söfnun og endurvinnslu einnota umbúða er falla
    undir lög þessi. Til samvinnu um stofnun og starfsemi hlutafélagsins skal
@@ -56,7 +57,7 @@ skilagjaldsskyldum umbúðum. Sömuleiðis skal greiða samsvarandi til einstakl
  skilagjaldsskyldra umbúða. Enn fremur verði leitað samstarfs við þá aðila sem
                      aðstöðu hafa til úrvinnslu umbúðanna.
                                       ^1)
-                            ^1)[13]L. 138/2001, 1. gr.
+                            ^1)[14]L. 138/2001, 1. gr.
 4. gr. Í reglugerð,^1) sem [umhverfisráðherra]^2) setur, skal kveðið nánar á um
    framkvæmd laga þessara, m.a. varðandi fjárhæð, innheimtu og endurgreiðslu
  skilagjaldsins, gerð og efnisval skilagjaldsskyldra umbúða fyrir drykkjarvörur
@@ -66,8 +67,8 @@ félagið geti staðið undir kostnaði við starfsemina og skilað hluthöfum h
 [Umhverfisráðherra]^2) er heimilt að ákveða í reglugerð bann við notkun einnota
   drykkjarvöruumbúða sem torvelt er að eyða eða koma til endurvinnslu samkvæmt
                                  lögum þessum.
-       ^1)[14]Rg. 368/2000, sbr. [15]448/2002, [16]437/2003 og [17]49/2006.
-                           ^2)[18]L. 47/1990, 13. gr.
+       ^1)[15]Rg. 368/2000, sbr. [16]448/2002, [17]437/2003, [18]49/2006 og
+                    [19]524/2006. ^2)[20]L. 47/1990, 13. gr.
     5. gr. Brot gegn lögum þessum varða sektum nema þyngri refsing liggi við
                              samkvæmt öðrum lögum.
          Með mál vegna slíkra brota skal farið að hætti opinberra mála.
@@ -77,20 +78,22 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1989052
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=111&mnr=312
-   3. http://www.althingi.is/altext/111/s/0573.html
-   4. file:///altext/stjt/1990.047.html
-   5. file:///altext/stjt/2000.026.html
-   6. file:///altext/stjt/2001.138.html
-   7. file:///altext/stjt/2003.020.html
-   8. file:///altext/stjt/2004.082.html
-   9. file://1987097.html
-  10. file:///altext/stjt/2003.020.html
-  11. file:///altext/stjt/2004.082.html
-  12. file:///altext/stjt/2000.026.html
-  13. file:///altext/stjt/2001.138.html
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/368-2000
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/448-2002
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/437-2003
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/049-2006
-  18. file:///altext/stjt/1990.047.html
+   2. file://2002162.html#b0
+   3. http://www.althingi.is/dba-bin/ferill.pl?ltg=111&mnr=312
+   4. http://www.althingi.is/altext/111/s/0573.html
+   5. file:///altext/stjt/1990.047.html
+   6. file:///altext/stjt/2000.026.html
+   7. file:///altext/stjt/2001.138.html
+   8. file:///altext/stjt/2003.020.html
+   9. file:///altext/stjt/2004.082.html
+  10. file://1987097.html
+  11. file:///altext/stjt/2003.020.html
+  12. file:///altext/stjt/2004.082.html
+  13. file:///altext/stjt/2000.026.html
+  14. file:///altext/stjt/2001.138.html
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/368-2000
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/448-2002
+  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/437-2003
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/049-2006
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/524-2006
+  20. file:///altext/stjt/1990.047.html

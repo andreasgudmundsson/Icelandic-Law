@@ -11,6 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
 Tóku gildi 1. júlí 2005, nema ákvæði til bráðabirgða sem tók gildi 25. maí 2005.
+              Breytt með [4]l. 47/2006 (tóku gildi 1. júlí 2006).
+
  1. gr. Neytendastofa er ríkisstofnun sem starfa skal að stjórnsýsluverkefnum á
    sviði neytendamála, vöruöryggismála, opinberrar markaðsgæslu, mælifræði og
  rafmagnsöryggismála svo sem nánar er kveðið á um í lögum þessum. Neytendastofa
@@ -52,12 +54,13 @@ aðila máls var tilkynnt um ákvörðun skv. 2. mgr. Úrskurður áfrýjunarnef
                                  aðfararhæfir.
 5. gr. Viðskiptaráðherra skipar talsmann neytenda til fimm ára í senn. Skal hann
                  hafa þekkingu og reynslu af málefnum neytenda.
-Kjaranefnd ákveður laun og starfskjör talsmanns neytenda. Talsmanni neytenda er
-óheimilt að hafa með höndum önnur launuð störf eða takast á hendur verkefni sem
-                          eigi samrýmast starfi hans.
+[Kjararáð]^1) ákveður laun og starfskjör talsmanns neytenda. Talsmanni neytenda
+ er óheimilt að hafa með höndum önnur launuð störf eða takast á hendur verkefni
+                        sem eigi samrýmast starfi hans.
  Neytendastofa annast dagleg störf og undirbúning mála fyrir talsmann neytenda.
    Talsmanni neytenda er heimilt að gera þjónustusamning við Neytendastofu um
                         undirbúning mála fyrir embættið.
+                             ^1)[5]L. 47/2006, 13. gr.
 6. gr. Talsmanni neytenda ber að standa vörð um hagsmuni og réttindi neytenda og
                         stuðla að aukinni neytendavernd.
                 Hlutverk talsmanns neytenda felst m.a. í því að:
@@ -96,7 +99,7 @@ Ráðherra getur með reglugerð sett nánari reglur um starfsemi talsmanns neyt
                                     13. gr.
      Ákvæði til bráðabirgða. Við gildistöku laga þessara skal starfsmönnum
   Löggildingarstofu boðið annað starf hjá Neytendastofu. Við ráðstöfun þeirra
-  starfa þarf ekki að gæta [4]7. gr. laga nr. 70/1996, um réttindi og skyldur
+  starfa þarf ekki að gæta [6]7. gr. laga nr. 70/1996, um réttindi og skyldur
                              starfsmanna ríkisins.
         Við samþykkt laga þessara skipar viðskiptaráðherra tveggja manna
   undirbúningsnefnd sem hafa skal heimild til að undirbúa gildistöku laganna,
@@ -109,4 +112,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2005062
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=592
    3. http://www.althingi.is/altext/131/s/0885.html
-   4. file://1996070.html#g7
+   4. file://2006047.html
+   5. file://2006047.html#g13
+   6. file://1996070.html#g7

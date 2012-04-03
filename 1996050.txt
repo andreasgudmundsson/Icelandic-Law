@@ -10,8 +10,10 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-Tóku gildi 1. janúar 1997. Breytt með [4]l. 76/1997 (tóku gildi 1. júlí 1997) og
-[5]l. 83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001).
+ Tóku gildi 1. janúar 1997. Breytt með [4]l. 76/1997 (tóku gildi 1. júlí 1997),
+ [5]l. 83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001)
+    og [6]l. 23/2006 (tóku gildi 3. maí 2006; EES-samningurinn: XX. viðauki
+                             tilskipun 2003/4/EB).
 
                          I. kafli. Gildissvið laganna.
                                1. gr. Gildissvið.
@@ -31,7 +33,7 @@ gögnum sem 2. mgr. 3. gr. laga þessara tekur til. Þá gilda lögin heldur ekk
  Ákvæði annarra laga, sem heimila víðtækari aðgang að upplýsingum, halda gildi
    sínu. Almenn ákvæði laga um þagnarskyldu takmarka ekki rétt til aðgangs að
                          gögnum samkvæmt lögum þessum.
-                             ^1)[6]L. 83/2000, 1. gr.
+                             ^1)[7]L. 83/2000, 1. gr.
 
                   II. kafli. Almennur aðgangur að upplýsingum.
                             3. gr. Upplýsingaréttur.
@@ -71,6 +73,10 @@ hlut á. Sömu takmarkanir gilda um aðgang að gögnum er varða mikilvæga fj�
                     leyti sem þau eru í samkeppni við aðra;
     4. fyrirhugaðar ráðstafanir eða próf á vegum ríkis eða sveitarfélaga ef þau
  yrðu þýðingarlaus eða næðu ekki tilætluðum árangri væru þau á almannavitorði.
+    [5. umhverfismál, enda geti birting þeirra haft alvarleg áhrif á vernd þess
+hluta umhverfisins sem slíkar upplýsingar varða, t.d. heimkynni fágætra tegunda
+              lífvera, steinda, steingervinga og bergmyndana.]^1)
+                             ^1)[8]L. 23/2006, 18. gr.
                         7. gr. Aðgangur að hluta skjals.
 Ef ákvæði 4.6. gr. eiga aðeins við um hluta skjals skal veita almenningi aðgang
             að öðru efni skjalsins. Sama regla á við um önnur gögn.
@@ -78,11 +84,14 @@ Ef ákvæði 4.6. gr. eiga aðeins við um hluta skjals skal veita almenningi 
     Veita skal aðgang að gögnum sem 4. tölul. 6. gr. tekur til jafnskjótt og
 ráðstöfunum eða prófum er að fullu lokið, nema ákvæði 5. gr. eða 1.3. tölul. 6.
                                  gr. eigi við.
+ [Veita skal aðgang að upplýsingum sem 5. tölul. 6. gr. tekur til þegar ekki er
+  lengur ástæða til að ætla að miðlun upplýsinganna geti haft skaðleg áhrif á
+                                 umhverfið.]^1)
 Veita skal aðgang að öðrum gögnum sem 4.6. gr. taka til þegar liðin eru þrjátíu
   ár frá því að gögn urðu til, að frátöldum upplýsingum er varða einkamálefni
 einstaklinga, en aðgang að þeim skal fyrst veita að áttatíu árum liðnum frá því
-                              að þau urðu til. ^1)
-                             ^1)[7]L. 76/1997, 4. gr.
+                              að þau urðu til. ^2)
+                ^1)[9]L. 23/2006, 18. gr. ^2)[10]L. 76/1997, 4. gr.
 
            III. kafli. Aðgangur aðila að upplýsingum um hann sjálfan.
                          9. gr. Upplýsingaréttur aðila.
@@ -101,7 +110,7 @@ upplýsingar um einkamálefni annarra, enda vegi þeir hagsmunir, sem mæla með
                             réttindi sjúklinga.]^1)
  Ákvæði 3., 7. og 8. gr. gilda, eftir því sem við getur átt, um aðgang aðila að
                                     gögnum.
-                             ^1)[8]L. 76/1997, 5. gr.
+                             ^1)[11]L. 76/1997, 5. gr.
 
                             IV. kafli. Málsmeðferð.
                     10. gr. Beiðni um aðgang að upplýsingum.
@@ -114,7 +123,7 @@ Stjórnvald getur sett það skilyrði að beiðni um aðgang að gögnum sé sk
  verið ákvörðun um rétt eða skyldu manna skal beiðni beint til þess stjórnvalds
   sem tekið hefur eða taka mun ákvörðun í málinu. Annars skal beiðni beint til
                þess stjórnvalds sem hefur gögnin í sínum vörslum.
-                                ^1)[9]Rg. 674/1996.
+                               ^1)[12]Rg. 674/1996.
                        11. gr. Málshraði og málsmeðferð.
 Stjórnvald skal taka ákvörðun um hvort það verður við beiðni um aðgang að gögnum
   svo fljótt sem verða má. Hafi beiðni ekki verið afgreidd innan sjö daga frá
@@ -133,7 +142,7 @@ skjölin séu þess eðlis eða fjöldi þeirra svo mikill að það sé vandkv�
                   ljósrit sem veitt eru samkvæmt lögum þessum.
 Reglur 2.4. mgr. eiga einnig við um afrit af öðrum gögnum en skjölum eftir því
                                    sem við á.
-                            ^1)[10]Gjaldskrá 838/2004.
+                            ^1)[13]Gjaldskrá 838/2004.
                          13. gr. Tilkynning ákvörðunar.
  Ákvörðun stjórnvalds um að synja beiðni um aðgang að gögnum eða um ljósrit eða
      afrit af þeim skal tilkynnt skriflega ef beiðni hefur verið skrifleg.
@@ -157,7 +166,7 @@ starfsgengisskilyrði héraðsdómara. Skal annar þeirra vera formaður nefndar
   [Nefndarmenn eru bundnir þagnarskyldu um allt það sem fram kemur í gögnum er
    nefndinni eru látin í té. Sama gildir um þá sem hún kann að kveðja sér til
                                  aðstoðar.]^1)
-                             ^1)[11]L. 83/2000, 2. gr.
+                             ^1)[14]L. 83/2000, 2. gr.
                               16. gr. Málsmeðferð.
      Mál skv. 1. mgr. 14. gr. skal borið skriflega undir úrskurðarnefnd um
 upplýsingamál innan 30 daga frá því að þeim sem fór fram á aðgang að gögnum var
@@ -169,7 +178,7 @@ té rökstutt álit á málinu áður en því er ráðið til lykta. [Stjórnva
                         eru jöfn ræður atkvæði formanns.
    Um meðferð mála hjá úrskurðarnefndinni fer að öðru leyti eftir VII. kafla
                                 stjórnsýslulaga.
-                             ^1)[12]L. 83/2000, 3. gr.
+                             ^1)[15]L. 83/2000, 3. gr.
                  17. gr. [Birting og aðfararhæfi úrskurðar.]^1)
 Úrskurðarnefnd um upplýsingamál skal birta úrskurð þeim sem fór fram á aðgang að
         gögnum og því stjórnvaldi sem í hlut á svo fljótt sem verða má.
@@ -178,7 +187,7 @@ Ef nefndin hefur tekið til greina beiðni um aðgang að gögnum ber stjórnval
             krafist að réttaráhrifum hans verði frestað skv. 18. gr.
    [Úrskurður samkvæmt lögum þessum um aðgang að gögnum eða afrit af þeim er
          aðfararhæfur, nema réttaráhrifum hans hafi verið frestað.]^1)
-                             ^1)[13]L. 83/2000, 4. gr.
+                             ^1)[16]L. 83/2000, 4. gr.
                    18. gr. Frestun á réttaráhrifum úrskurðar.
   Að kröfu stjórnvalds getur úrskurðarnefnd um upplýsingamál ákveðið að fresta
   réttaráhrifum úrskurðar telji hún sérstaka ástæðu til þess. Krafa þess efnis
@@ -188,7 +197,7 @@ Ef nefndin hefur tekið til greina beiðni um aðgang að gögnum ber stjórnval
 úrskurðar og óski eftir að það hljóti flýtimeðferð. Nú er beiðni um flýtimeðferð
     synjað og skal þá mál höfðað innan sjö daga frá því að beiðni um það er
                                   synjað.]^1)
-                             ^1)[14]L. 83/2000, 5. gr.
+                             ^1)[17]L. 83/2000, 5. gr.
                             19. gr. Útgáfa úrskurða.
  Úrskurðarnefnd um upplýsingamál skal árlega gefa út úrskurði sína eða útdrætti
                                     úr þeim.
@@ -234,12 +243,15 @@ References
    3. http://www.althingi.is/altext/120/s/0630.html
    4. file:///altext/stjt/1997.076.html
    5. file:///altext/stjt/2000.083.html
-   6. file:///altext/stjt/2000.083.html
-   7. file:///altext/stjt/1997.076.html
-   8. file:///altext/stjt/1997.076.html
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/674-1996
-  10. http://stjornartidindi.is/servlet/stjrtid/B/2004/838.pdf
-  11. file:///altext/stjt/2000.083.html
-  12. file:///altext/stjt/2000.083.html
-  13. file:///altext/stjt/2000.083.html
+   6. file://2006023.html
+   7. file:///altext/stjt/2000.083.html
+   8. file://2006023.html#g18
+   9. file://2006023.html#g18
+  10. file:///altext/stjt/1997.076.html
+  11. file:///altext/stjt/1997.076.html
+  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/674-1996
+  13. http://stjornartidindi.is/servlet/stjrtid/B/2004/838.pdf
   14. file:///altext/stjt/2000.083.html
+  15. file:///altext/stjt/2000.083.html
+  16. file:///altext/stjt/2000.083.html
+  17. file:///altext/stjt/2000.083.html

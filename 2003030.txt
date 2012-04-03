@@ -11,6 +11,10 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
   Tóku gildi 1. júlí 2003. EES-samningurinn: IX. viðauki tilskipun 85/611/EBE.
+ Breytt með [4]l. 108/2006 (taka gildi um leið og samningur milli ríkisstjórnar
+ Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins
+ vegar, sem undirritaður var í Hoyvík í Færeyjum 31. ágúst 2005, hefur gengið í
+                                     gildi)
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -181,7 +185,7 @@ heimilt að útvista öll verkefni skv. 17. gr. Verkefni skv. 1. tölul. 17. gr.
         hefur það engin áhrif á ábyrgð rekstrarfélags gagnvart eigendum
                              hlutdeildarskírteina.
   Í reglugerð^1) skal setja nánari reglur um útvistun verkefna rekstrarfélaga.
-                                ^1)[4]Rg. 792/2003.
+                                ^1)[5]Rg. 792/2003.
                     19. gr. Góðir viðskiptahættir og venjur.
 Rekstrarfélag skal starfrækja verðbréfasjóð í samræmi við góða viðskiptahætti og
  venjur með trúverðugleika markaðarins og hagsmuni eigenda hlutdeildarskírteina
@@ -280,7 +284,7 @@ innlánsstofnanir, ógreiddum umsýslu- og stjórnunarkostnaði, innheimtukostna
                       og óinnleystra hlutdeildarskírteina.
 Ráðherra getur í reglugerð^1) sett nánari reglur um útreikning á innlausnarvirði
         hlutdeildarskírteina verðbréfasjóða og mat á markaðsvirði eigna.
-                                ^1)[5]Rg. 792/2003.
+                                ^1)[6]Rg. 792/2003.
                       29. gr. Auglýsing innlausnarvirðis.
   Innlausnarvirði hlutdeildarskírteina verðbréfasjóða skal reiknað daglega og
 auglýst opinberlega eigi sjaldnar en tvisvar í mánuði. Fjármálaeftirlitið getur
@@ -456,7 +460,7 @@ lagi náð innan sex mánaða. Fjármálaeftirlitið getur þó í einstökum ti
                     hlutdeildarskírteina verðbréfasjóðsins.
     6. Upplýsingar um fyrirhugaðar ráðstafanir verðbréfasjóðsins til að tryggja
 rétt eigenda skírteina til útgreiðslu hagnaðar, innlausnar hlutdeildarskírteina
-              og þeirra upplýsinga sem sjóðnum er skylt að miðla.
+             og þeirra upplýsinga sem sjóðnum er skylt að miðla.^1)
    Fjármálaeftirlitið getur hafnað því að verðbréfasjóður skv. 1. mgr. hefji
 markaðssetningu hér á landi ef hann uppfyllir ekki þau skilyrði sem gerð eru til
     verðbréfasjóða samkvæmt lögum þessum og reglum settum samkvæmt þeim eða
@@ -467,6 +471,10 @@ markaðssetningu hér á landi ef hann uppfyllir ekki þau skilyrði sem gerð e
                 heimaríkinu, starfsheimildir þess og starfsemi.
     Breytingar á áður tilkynntum atriðum samkvæmt þessari grein skulu þegar
                         tilkynntar Fjármálaeftirlitinu.
+     ^1)Málsgreininni var breytt með [7]l. 108/2006, 87. gr. Breytingin tekur
+     gildi um leið og samningur milli ríkisstjórnar Íslands annars vegar og
+   ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í
+                                     gildi.
         44. gr. Heimild til að banna starfsemi erlendra verðbréfasjóða.
 Fjármálaeftirlitinu er heimilt að banna erlendum verðbréfasjóði að markaðssetja
 skírteini sín hér á landi hafi hlutaðeigandi verðbréfasjóður brotið gróflega eða
@@ -485,7 +493,7 @@ Hyggist verðbréfasjóður markaðssetja hlutdeildarskírteini sín utan Íslan
       árshlutauppgjörum. Þá skulu rekstrarfélög senda Fjármálaeftirlitinu
         ársfjórðungslegt efnahagsyfirlit verðbréfasjóða í því formi sem
                           Fjármálaeftirlitið ákveður.
-                         ^1)Rg. 792/2003, [6]rgl. 97/2004.
+                         ^1)Rg. 792/2003, [8]rgl. 97/2004.
               47. gr. Útboðslýsing og útdráttur úr útboðslýsingu.
    Rekstrarfélag skal gefa út útboðslýsingu og útdrátt úr útboðslýsingu fyrir
                                  verðbréfasjóð.
@@ -497,7 +505,7 @@ Hyggist verðbréfasjóður markaðssetja hlutdeildarskírteini sín utan Íslan
    Nánar skal kveðið á um útboðslýsingar og útdrætti úr útboðslýsingum vegna
  verðbréfasjóða í reglugerð,^1) meðal annars um hvaða upplýsingar skuli birta í
                       útboðslýsingum og útdráttum úr þeim.
-                               ^1)[7]Rgl. 792/2003.
+                               ^1)[9]Rgl. 792/2003.
                   48. gr. Nánari upplýsingar í útboðslýsingu.
  Í útboðslýsingu verðbréfasjóðs skal á ítarlegan hátt lýsa fjárfestingarstefnu
      sjóðsins og, ef við á, einstakra deilda hans og tilgreina þær tegundir
@@ -728,7 +736,7 @@ markaðssetningu utan heimalands, heimildir til markaðssetningar annarra sjóð
    fjárfestingarsjóða. Í reglugerðinni er einnig heimilt að kveða á um notkun
   afleiðusamninga verðbréfasjóða og fjárfestingarsjóða og aðferðir til að meta
                    áhrif þeirra á áhættu eignasafns sjóðanna.
-                                ^1)[8]Rg. 792/2003.
+                               ^1)[10]Rg. 792/2003.
 
                               V. kafli. Viðurlög.
                                 68. gr. Sektir.
@@ -761,7 +769,7 @@ markaðssetningu utan heimalands, heimildir til markaðssetningar annarra sjóð
               4. starfsemi vörslufyrirtækis verðbréfasjóða (20. gr.),
               5. fjárfestingarheimildir verðbréfasjóða (II. kafli F),
    6. markaðssetningu verðbréfasjóða hér á landi með staðfestu í öðru ríki innan
-                 Evrópska efnahagssvæðisins (1. mgr. 43. gr.),
+                Evrópska efnahagssvæðisins (1. mgr. 43. gr.),^1)
     7. breytingu á fjárfestingarsjóðum í sjóði sem lögin taka ekki til (1. mgr.
                          52. gr., sbr. 2. mgr. 5. gr.),
      8. óhæði rekstrarfélaga og vörslufyrirtækja fjárfestingarsjóða í störfum
@@ -776,6 +784,9 @@ verðbréfasjóðs eða fjárfestingarsjóðs eða annað er þá varðar opinbe
 Fjármálaeftirlitsins, annarra opinberra aðila eða viðskiptamanna sinna skal sæta
    sektum eða fangelsi allt að einu ári, liggi þyngri refsing ekki við broti
                              samkvæmt öðrum lögum.
+    ^1)Liðnum var breytt með [11]l. 108/2006, 88. gr. Breytingin tekur gildi um
+  leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar
+      Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
        70. gr. Refsiábyrgð lögaðila. Tilraun og hlutdeild. Fyrning sakar.
 Nú er brot framið í starfsemi fjárfestingarsjóðs sem gefur út hlutabréf og er þá
   heimilt að gera fjárfestingarsjóðnum fésekt. Um refsiábyrgðina fer eftir II.
@@ -797,7 +808,7 @@ I. Starfandi verðbréfasjóðir teljast hafa staðfestingu Fjármálaeftirlitsi
     gildistöku þessara laga. Verðbréfasjóði skal slitið innan sex mánaða frá
 gildistöku laganna. Rekstrarfélag verðbréfasjóðs skal senda Fjármálaeftirlitinu
                reglur sjóðsins skv. 12. gr. innan sama tímamarks.
- II. Verðbréfasjóðir sem hafa starfsleyfi skv. [9]27. gr. laga nr. 10/1993 við
+ II. Verðbréfasjóðir sem hafa starfsleyfi skv. [12]27. gr. laga nr. 10/1993 við
 gildistöku laga þessara skulu óska eftir staðfestingu samkvæmt lögum þessum eigi
                  síðar en þremur mánuðum frá gildistöku þeirra.
  III. Hlutabréfasjóðir og aðrir sjóðir sem veita viðtöku fé frá almenningi til
@@ -815,9 +826,12 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003030
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=518
    3. http://www.althingi.is/altext/128/s/0859.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003
+   4. file:///altext/stjt/2006.108.html
    5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003
-   6. http://stjornartidindi.is/servlet/stjrtid/B/2004/97.pdf
-   7. http://stjornartidindi.is/servlet/stjrtid/B/2003/792.pdf
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003
-   9. file://1993010.html
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003
+   7. file:///altext/stjt/2006.108.html
+   8. http://stjornartidindi.is/servlet/stjrtid/B/2004/97.pdf
+   9. http://stjornartidindi.is/servlet/stjrtid/B/2003/792.pdf
+  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2003
+  11. file:///altext/stjt/2006.108.html
+  12. file://1993010.html

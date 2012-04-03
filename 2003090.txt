@@ -98,7 +98,14 @@ Endurútgefin, sbr. [83]17. gr. l. 22/2003, sem [84]l. 90/2003. Breytt með [85]
 gr.), [86]l. 77/2004 (tóku gildi 18. júní 2004), [87]l. 129/2004 (ákvæði laganna
  taka gildi og koma til framkvæmda skv. fyrirmælum í 149. gr.), [88]l. 77/2005
  (tóku gildi 9. júní 2005), [89]l. 116/2005 (tóku gildi og komu til framkvæmda
-    skv. fyrirmælum í 4. gr.) og [90]l. 134/2005 (tóku gildi 30. des. 2005).
+ skv. fyrirmælum í 4. gr.), [90]l. 134/2005 (tóku gildi 30. des. 2005), [91]l.
+ 48/2006 (tóku gildi 16. júní 2006), [92]l. 65/2006 (tóku gildi 27. júní 2006),
+ [93]l. 77/2006 (tóku gildi 30. júní 2006), [94]l. 79/2006 (tóku gildi 30. júní
+2006), [95]l. 80/2006 (taka gildi 1. jan. 2007 nema 1.4. gr. og 7.12. gr. sem
+ tóku gildi 30. júní 2006) og [96]l. 108/2006 (taka gildi um leið og samningur
+     milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og
+ heimastjórnar Færeyja hins vegar, sem undirritaður var í Hoyvík í Færeyjum 31.
+                       ágúst 2005, hefur gengið í gildi).
 
                          I. kafli. Skattskyldir aðilar.
                                Skattskylda manna.
@@ -121,12 +128,15 @@ Ríkisskattstjóri hefur úrskurðarvald um hverjir skuli teljast heimilisfastir
   á landi samkvæmt þessari grein. Við ákvörðun á heimilisfesti skal miðað við
   reglur laga um lögheimili, eftir því sem við á. Úrskurði ríkisskattstjóra má
     skjóta til dómstóla að stefndum ríkisskattstjóra vegna fjármálaráðherra.
-                            ^1)[91]L. 129/2004, 1. gr.
+                            ^1)[97]L. 129/2004, 1. gr.
                              Skattskylda lögaðila.
  2. gr. [Skylda til að greiða tekjuskatt af öllum tekjum sínum, hvar sem þeirra
    er aflað, ^1) hvílir á eftirtöldum lögaðilum sem heimilisfastir eru hér á
                                    landi:]^2)
-      1. [Skráðum hlutafélögum, einkahlutafélögum og samlagshlutafélögum.]^2)
+    1. [Skráðum hlutafélögum og einkahlutafélögum, svo og samlagshlutafélögum,
+     enda sé þess óskað við skráningu að samlagshlutafélagið sé sjálfstæður
+    skattaðili. Hjón ein sér eða með ófjárráða börnum sínum geta ekki myndað
+              samlagshlutafélag er sé sjálfstæður skattaðili.]^3)
         2. Gagnkvæmum vátryggingar- og ábyrgðarfélögum, kaupfélögum, öðrum
                  samvinnufélögum og samvinnufélagasamböndum ^2)
     3. Samlagsfélögum og sameignarfélögum með ótakmarkaðri ábyrgð félagsaðila,
@@ -146,20 +156,22 @@ sölu á framleiðsluvörum félagsaðila sinna, innkaup á rekstrarvörum eða 
   háttað. Senda skal skattstjóra vottorð um skráningu og staðfest eftirrit af
             félagssamningi með fyrsta skattframtali þessara félaga.
    5. Öðrum félögum, sjóðum og stofnunum, þar með töldum sjálfseignarstofnunum,
- sem hér eiga heimili, sbr. þó 5. tölul. 4. gr., svo og dánarbúum og þrotabúum.
+ sem hér eiga heimili, sbr. þó 5. [og 6.]^3) tölul. 4. gr., svo og dánarbúum og
+                                   þrotabúum.
                                         ^2)
  [Lögaðili skv. 1. mgr. telst eiga hér heimili ef hann er skráður hér á landi,
   telur heimili sitt hér á landi samkvæmt samþykktum sínum eða ef raunveruleg
                    framkvæmdastjórn hans er hér á landi.]^2)
-Sé þess ekki óskað við skráningu samlagsfélags eða sameignarfélags að félagið sé
-sjálfstæður skattaðili eða fullnægi lögaðili skv. 1.4. tölul. þessarar greinar
-ekki skilyrðum til að teljast sjálfstæður skattaðili skal tekjum hans og eignum
- skipt milli félagsaðila í samræmi við félagssamning þeirra og þær skattlagðar
-   með öðrum eignum og tekjum félagsaðilanna. Kveði félagssamningur eigi á um
-        skiptingu tekna og eigna skal þeim skipt milli félagsaðila eftir
-  eignarhlutföllum. Ef eignarhlutföll eru ekki fyrir hendi eða þau óljós skal
-                tekjum og eignum skipt jafnt milli félagsaðila.
-               ^1)[92]L. 129/2004, 2. gr. ^2)[93]L. 77/2005, 1. gr.
+  Sé þess ekki óskað við skráningu samlagsfélags, [samlagshlutafélags]^3) eða
+sameignarfélags að félagið sé sjálfstæður skattaðili eða fullnægi lögaðili skv.
+    1.4. tölul. þessarar greinar ekki skilyrðum til að teljast sjálfstæður
+  skattaðili skal tekjum hans og eignum skipt milli félagsaðila í samræmi við
+       félagssamning þeirra og þær skattlagðar með öðrum eignum og tekjum
+ félagsaðilanna. Kveði félagssamningur eigi á um skiptingu tekna og eigna skal
+þeim skipt milli félagsaðila eftir eignarhlutföllum. Ef eignarhlutföll eru ekki
+ fyrir hendi eða þau óljós skal tekjum og eignum skipt jafnt milli félagsaðila.
+    ^1)[98]L. 129/2004, 2. gr. ^2)[99]L. 77/2005, 1. gr. ^3)[100]L. 77/2006, 1.
+                                      gr.
                              Takmörkuð skattskylda.
   3. gr. Takmarkaða skattskyldu bera þessir aðilar, enda falli þeir ekki undir
        ákvæði 1. eða 2. gr. eða séu undanþegnir skattskyldu skv. 4. gr.:
@@ -191,7 +203,7 @@ hér á landi, eða um borð í loftfari eða skipi sem skráð er hér á landi
 tekjuskatt af tekjum sem þeir njóta frá innlendum aðilum og af tekjum sem um er
                               rætt í 4.7. tölul.
                                       9. ^1)
-                            ^1)[94]L. 129/2004, 3. gr.
+                            ^1)[101]L. 129/2004, 3. gr.
                         Aðilar undanþegnir skattskyldu.
                4. gr. [Þessir aðilar greiða ekki tekjuskatt:]^1)
       1. Ríkissjóður, ríkisstofnanir og ríkisfyrirtæki sem hann rekur og ber
@@ -204,12 +216,14 @@ tekjuskatt af tekjum sem þeir njóta frá innlendum aðilum og af tekjum sem um
   hagnaði sínum einungis til almenningsheilla og hafa það að einasta markmiði
                            samkvæmt samþykktum sínum.
    5. Félög, sjóðir og stofnanir, sbr. 5. tölul. 2. gr., sem ekki reka atvinnu.
-          6. Aðilar sem undanþegnir eru skattskyldu með sérstökum lögum.
-                            ^1)[95]L. 129/2004, 4. gr.
+       [6. Lífeyrissjóðir sem starfa skv. III. kafla laga um skyldutryggingu
+                lífeyrisréttinda og starfsemi lífeyrissjóða.]^2)
+       [7. ]^2) Aðilar sem undanþegnir eru skattskyldu með sérstökum lögum.
+              ^1)[102]L. 129/2004, 4. gr. ^2)[103]L. 77/2006, 2. gr.
                           Skattskylda hjóna og barna.
    5. gr. Hjón eru sjálfstæðir skattaðilar hvort um sig og skal þeim ákveðinn
                       tekjuskattur ^1) hvoru í sínu lagi.
-                            ^1)[96]L. 129/2004, 5. gr.
+                            ^1)[104]L. 129/2004, 5. gr.
    6. gr. Barn, sem er innan 16 ára aldurs á tekjuárinu, er ekki sjálfstæður
    skattaðili sé það á framfæri foreldra sinna (þar með taldir kjörforeldrar,
  stjúpforeldrar, fósturforeldrar). Þó skulu þær tekjur barns sem um ræðir í 1.
@@ -229,7 +243,7 @@ síðar greinir, hvers konar gæði, arður, laun og hagnaður sem skattaðila h
    flutningspeningar og aðrar hliðstæðar starfstengdar greiðslur, fríðindi og
  hlunnindi, svo og framlög og gjafir sem sýnilega eru gefnar sem kaupauki. Hafi
  verið gerður samningur um skiptingu ellilífeyrisgreiðslna á grundvelli 3. mgr.
-[97]14. gr. laga nr. 129/1997, um skyldutryggingu lífeyrisréttinda og starfsemi
+[105]14. gr. laga nr. 129/1997, um skyldutryggingu lífeyrisréttinda og starfsemi
   lífeyrissjóða, telst ellilífeyrir til tekna hjá þeim sem fær hann greiddan.
   Hvorki skiptir máli hver tekur við greiðslu né í hvaða gjaldmiðli goldið er,
       hvort sem það er í reiðufé, fríðu, hlunnindum eða vinnuskiptum. Reki
@@ -611,11 +625,12 @@ keypt innan tilskilins tíma telst söluhagnaðurinn til skattskyldra tekna á �
                          ári frá því að hann myndaðist.
   Hagnaður manns af sölu hlutabréfa, sem hann hefur keypt á árunum 19901996 í
  félögum sem ríkisskattstjóri hefur á söluári bréfanna veitt staðfestingu um að
-uppfylli skilyrði [98]III. kafla laga nr. 9/1984, telst þó ekki til skattskyldra
- tekna hafi hin seldu hlutabréf verið í eigu mannsins í full fjögur ár. Hámark
-skattfrjáls hagnaðar samkvæmt þessari málsgrein er 367.625 kr. Um hagnað umfram
-  skattfrjálst hámark og um hagnað af sölu hlutabréfa, sem maður hefur keypt á
-   árinu 1989 eða fyrr eða á árinu 1997 eða síðar, fer eftir ákvæðum 1. mgr.
+      uppfylli skilyrði [106]III. kafla laga nr. 9/1984, telst þó ekki til
+skattskyldra tekna hafi hin seldu hlutabréf verið í eigu mannsins í full fjögur
+  ár. Hámark skattfrjáls hagnaðar samkvæmt þessari málsgrein er 367.625 kr. Um
+  hagnað umfram skattfrjálst hámark og um hagnað af sölu hlutabréfa, sem maður
+hefur keypt á árinu 1989 eða fyrr eða á árinu 1997 eða síðar, fer eftir ákvæðum
+                                    1. mgr.
  Við sölu hlutabréfa í sparisjóði, sem breytt hefur verið í hlutafélag samkvæmt
    lögum um fjármálafyrirtæki skal skattskyldur söluhagnaður þeirra bréfa sem
  stofnfjáreigandi fékk í skiptum fyrir stofnbréf sín vera söluverð bréfanna að
@@ -646,7 +661,7 @@ hefur eignast fyrir árslok 2001 ákvarðast sem hlutur hans í eigin fé félag
  byrjun árs 2001 eða sem raunverulegt kaupverð að frádreginni eigin úttekt, sé
      það hærra, þegar kaupverð og eigin úttekt hefur verið hækkað samkvæmt
              verðbreytingarstuðli fyrir hvert ár til ársloka 2001.
-              ^1)[99]L. 129/2004, 6. gr. ^2)[100]L. 143/2003, 1. gr.
+              ^1)[107]L. 129/2004, 6. gr. ^2)[108]L. 143/2003, 1. gr.
                            Ýmis ákvæði um söluhagnað.
     20. gr. Söluverð eigna telst heildarandvirði þeirra að frádregnum beinum
                               kostnaði við söluna.
@@ -756,7 +771,7 @@ meðallaunum síðustu fimm ára og að greiðslurnar myndi lífeyrisréttindi s
                            í VI. kafla laga þessara.
     8. Matshækkun búfjár skv. 2. tölul. 73. gr., enda kemur matslækkun ekki til
                                frádráttar tekjum.
-                  9. Húsaleigubætur, sbr. [101]lög nr. 138/1997.
+                  9. Húsaleigubætur, sbr. [109]lög nr. 138/1997.
 
                        III. kafli. Frádráttur frá tekjum.
                                  Almenn ákvæði.
@@ -787,7 +802,7 @@ sérlögum eða vinninga í happdrættum sem fengið hafa leyfi dómsmálaráðu
      enda sé öllum ágóða af þeim varið til menningarmála, mannúðarmála eða
   kirkjulegrar starfsemi. Sama gildir um happdrætti sem starfa samkvæmt leyfi
     útgefnu af stjórnvöldum á hinu Evrópska efnahagssvæði, að sömu skilyrðum
-                                  fullnægðum.
+                                 fullnægðum.^1)
         4. Iðgjöld launþega til öflunar lífeyrisréttinda samkvæmt lögum um
   skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða að hámarki 4% af
      iðgjaldsstofni. Að auki allt að 4% af iðgjaldsstofni samkvæmt ákvörðun
@@ -813,10 +828,10 @@ skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða, enda sé iðgj
         hærri en 80.000 kr. hjá einstaklingi og 160.000 kr. hjá hjónum.
    Til keyptra hlutabréfa skv. 2. mgr. teljast einungis hlutabréf í félögum sem
   uppfylla skilyrði 5. mgr. og ríkisskattstjóri hefur staðfest eða hlutabréf í
-          félögum sem skráð eru í kauphöll á Evrópska efnahagssvæðinu.
+        félögum sem skráð eru í kauphöll á Evrópska efnahagssvæðinu.^2)
     Það er skilyrði frádráttar skv. 1. mgr. að maður eigi viðkomandi hlutabréf
     yfir fimm áramót og geri árlega grein fyrir eignarhaldi þeirra. Þó skal
-skilyrðið um þriggja ára eignarhaldstíma samkvæmt [102]lögum nr. 137/1996 halda
+skilyrðið um þriggja ára eignarhaldstíma samkvæmt [110]lögum nr. 137/1996 halda
 gildi sínu fyrir þá sem nutu frádráttar samkvæmt þeim lögum vegna fjárfestingar
 í atvinnurekstri. Selji hann bréfin innan þess tíma færist nýttur frádráttur til
 tekna á söluári viðkomandi hlutabréfa. Ekki skal þó beita ákvæði um tekjufærslu
@@ -824,7 +839,7 @@ tekna á söluári viðkomandi hlutabréfa. Ekki skal þó beita ákvæði um te
 önnur hlutabréf í hlutafélagi fyrir a.m.k. sömu fjárhæð og söluverð hinna seldu
   hlutabréfa var og félagið uppfyllir skilyrði þessa töluliðar. Sé kaupverðið
  lægra skal ákvæði 3. málsl. eiga við um mismuninn. Reglur þessarar málsgreinar
-  eiga jafnframt við um kaup og sölu hlutabréfa fyrir gildistöku [103]laga nr.
+  eiga jafnframt við um kaup og sölu hlutabréfa fyrir gildistöku [111]laga nr.
                                    154/1998.
     Frádráttur samkvæmt þessum tölulið er bundinn því skilyrði að um sé að ræða
 kaup á hlutabréfum í félagi með hlutafé a.m.k. að fjárhæð 22.000.000 kr., fjöldi
@@ -832,9 +847,9 @@ kaup á hlutabréfum í félagi með hlutafé a.m.k. að fjárhæð 22.000.000 k
   félagsins og ársreikningar þess öllum aðgengilegir. Hlutafélag, sem ekki er
  skráð í kauphöll á Evrópska efnahagssvæðinu, skal innan fimm mánaða frá lokum
    hvers reikningsárs senda ríkisskattstjóra ársreikning sinn fyrir næstliðið
-reikningsár sem endurskoðaður hefur verið í samræmi við ákvæði 1. mgr. [104]63.
+reikningsár sem endurskoðaður hefur verið í samræmi við ákvæði 1. mgr. [112]63.
 gr. laga nr. 144/1994, um ársreikninga. Ríkisskattstjóri skal árlega veita þeim
-     hlutafélögum staðfestingu um að skilyrðum þessa töluliðar sé fullnægt.
+   hlutafélögum staðfestingu um að skilyrðum þessa töluliðar sé fullnægt.^2)
     Ríkisskattstjóri getur heimilað frádrátt frá tekjum samkvæmt þessum tölulið
  þótt skilyrðum 5. mgr. hafi ekki verið fullnægt í árslok þegar um félag er að
 ræða sem stofnað var á árinu og fyrir liggur yfirlýsing þess um að stefnt sé að
@@ -853,7 +868,7 @@ stofnfjárbréf í sparisjóðum, enda sé útboð slíkra stofnfjárbréfa opi�
     Ekki er heimilt að flytja á milli ára og nýta sem frádrátt það sem fjárfest
 er umfram hámark á hverju ári skv. 2. mgr. þessa töluliðar. Þetta á þó ekki við
  um aukningu á fjárfestingu í atvinnurekstri sem heimilt var að flytja á milli
-     ára á árunum 1996 og fyrr, sbr. 5. mgr. [105]3. gr. laga nr. 137/1996.
+     ára á árunum 1996 og fyrr, sbr. 5. mgr. [113]3. gr. laga nr. 137/1996.
     Frádráttur samkvæmt þessum tölulið heimilast frá tekjum skv. A- og B-lið 7.
                                       gr.
        Fjármálaráðherra getur með reglugerð sett nánari ákvæði um framkvæmd
@@ -889,6 +904,12 @@ eða meira ef um einstakling er að ræða, en 54.000.000 kr. ef hjón, sbr. 62.
 tekjum húsaleigugjöld af íbúðarhúsnæði til eigin nota. Frádráttur þessi leyfist
 eingöngu til frádráttar leigutekjum af íbúðarhúsnæði sem ætlað er til eigin nota
                          en er tímabundið til útleigu.
+   ^1)Liðnum var breytt með [114]l. 108/2006, 22. gr. Breytingin tekur gildi um
+  leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar
+      Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
+^2)Málsgreininni var breytt með [115]l. 108/2006, 23. gr. Breytingin tekur gildi
+ um leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar
+      Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
                     Frádráttur frá tekjum af atvinnurekstri.
 31. gr. Frá tekjum lögaðila og þeim tekjum manna sem stafa af atvinnurekstri eða
          sjálfstæðri starfsemi eða eru tengdar slíkum rekstri má draga:
@@ -929,9 +950,9 @@ verið vegna sölu á vöru eða þjónustu. Má draga verð slíkra hlutabréfa
                á því tekjuári þegar hlutafé er sannanlega tapað.
    Sannanlega tapað hlutafé í félögum sem orðið hafa gjaldþrota. Sama gildir um
   hlutafé sem tapast hefur vegna þess að það hefur verið fært niður í kjölfar
-                 nauðasamninga samkvæmt [106]lögum nr. 21/1991.
+                 nauðasamninga samkvæmt [116]lögum nr. 21/1991.
    Sannanlega tapað hlutafé sem verðbréfasjóðir samkvæmt lögum um verðbréfasjóði
- og fjárfestingarsjóði og fjárfestingarfélög skv. [107]23. gr. laga nr. 9/1984
+ og fjárfestingarsjóði og fjárfestingarfélög skv. [117]23. gr. laga nr. 9/1984
                hafa fjárfest í á því tekjuári er hlutafé tapast.
                      6. Veittan afslátt af vörum eða þjónustu.
      7. Fé það er innlend vátryggingarfélög færa í árslok í iðgjaldasjóð vegna
@@ -970,8 +991,8 @@ félagsaðilum sínum í árslok eða færa þeim til séreignar í stofnsjóði
  félagsaðilum sínum í árslok í hlutfalli við viðskipti þeirra á árinu, þó eigi
    hærra hlutfall af hreinum tekjum félags en sem svarar hlutfalli viðskipta
                      félagsaðila af heildarviðskiptum þess.
-   ^1)Ákvæðinu var breytt með [108]l. 143/2003, 2. gr. Breytingin tekur gildi 1.
-            jan. 2008, sbr. [109]13. gr. s.l. ^2)[110]Rg. 297/2003.
+   ^1)Ákvæðinu var breytt með [118]l. 143/2003, 2. gr. Breytingin tekur gildi 1.
+            jan. 2008, sbr. [119]13. gr. s.l. ^2)[120]Rg. 297/2003.
                                Niðurfærsla eigna.
 32. gr. Stofnkostnað við kaup á framleiðslurétti í landbúnaði má færa niður með
                          jöfnum fjárhæðum á fimm árum.
@@ -1107,7 +1128,7 @@ halda skrá um fyrnanlegar eignir í því formi og með þeim hætti er hann á
    heimilt að fyrna. Til stofnkostnaðar samkvæmt þessari málsgrein telst m.a.
     keyptur réttur til nýtingar á náttúruauðæfum, svo sem kaup á varanlegri
                     aflahlutdeild og sambærilegum réttindum.
- Keypt leyfi til veiða í atvinnuskyni skv. [111]5. gr. laga nr. 38/1990 skal þó
+ Keypt leyfi til veiða í atvinnuskyni skv. [121]5. gr. laga nr. 38/1990 skal þó
 heimilt að telja til stofnkostnaðar með því skipi sem það er tengt og fer þá um
          fyrningar þess skv. 1. tölul. 33. gr., sbr. 1. tölul. 37. gr.
   Um hagnað vegna sölu á ófyrnanlegum réttindum skv. 1. mgr. fer skv. 5. og 6.
@@ -1161,7 +1182,7 @@ atvinnurekstrar í té til eigin afnota, nema að því marki sem hlunnindi af n
    viðkomandi fólksbifreiðar hafa verið talin til tekna, samkvæmt matsreglum
 ríkisskattstjóra, hjá þeim aðila sem heimilt er að hafa hana til umráða í eigin
                                      þágu.
-    6. Kostnað vegna greiðslna, gjafa eða annars sem ólögmætt er skv. [112]109.
+    6. Kostnað vegna greiðslna, gjafa eða annars sem ólögmætt er skv. [122]109.
  gr. almennra hegningarlaga, nr. 19/1940, til manna sem ráðnir eru eða kjörnir
  til opinberra starfa á sviði löggjafarvalds, dómsvalds eða stjórnsýslu, hvort
 heldur er á Íslandi eða í öðrum ríkjum eða hjá alþjóðasamtökum og stofnunum sem
@@ -1176,8 +1197,8 @@ var, þá skulu skiptin sem slík ekki hafa í för með sér skattskyldar tekju
    þann sem hlutabréfin lét af hendi. Við slíkan samruna hlutafélaga skal það
 félag, er við tekur, taka við öllum skattaréttarlegum skyldum og réttindum þess
                              félags sem slitið var.
-     Þegar samvinnufélög sameinast, sbr. [113]56. gr. laga nr. 22/1991, um
- samvinnufélög, eða hlutafélag sameinast samvinnufélagi, sbr. [114]59. gr. sömu
+     Þegar samvinnufélög sameinast, sbr. [123]56. gr. laga nr. 22/1991, um
+ samvinnufélög, eða hlutafélag sameinast samvinnufélagi, sbr. [124]59. gr. sömu
    laga, skal hið sameinaða félag taka við öllum skattaréttarlegum skyldum og
                          réttindum hinna fyrri félaga.
      Sé samvinnufélagi slitið á þann hátt að því sé breytt í hlutafélag og
@@ -1264,13 +1285,13 @@ móðurfélag er heimilisfast eigi síðar en þrjátíu dögum fyrir lok framta
    ávallt gert upp áður en tekið er tillit til yfirfæranlegs taps fyrri ára.
 Yfirfæranlegt tap hlutafélags sem stafar af rekstri frá því fyrir samsköttun má
  aðeins nýta í því félagi. Þó er heimilt að nýta yfirfæranlegt tap sem varð til
-fyrir samsköttun ef skilyrði 1. mgr. eru til staðar við gildistöku [115]laga nr.
+fyrir samsköttun ef skilyrði 1. mgr. eru til staðar við gildistöku [125]laga nr.
     154/1998 og ef uppfyllt eru öll skilyrði 54. gr., um sameiningu félaga.
  Nú er dótturfélag í eigu samvinnufélags [eða sparisjóðs]^2) og gilda þá ákvæði
               þessarar greinar, enda sé skilyrðum hennar fullnægt.
   Fjármálaráðherra er heimilt að setja í reglugerð nánari reglur um samsköttun
         móður- og dótturfélaga, svo sem um nýtingu taps á milli félaga.
-              ^1)[116]L. 129/2004, 7. gr. ^2)[117]L. 77/2004, 1. gr.
+              ^1)[126]L. 129/2004, 7. gr. ^2)[127]L. 77/2004, 1. gr.
                Yfirfærsla einstaklingsrekstrar í einkahlutafélag.
   56. gr. Stofni einstaklingur í atvinnurekstri einkahlutafélag sem tekur við
    öllum eignum og skuldum atvinnurekstrarins og hefur með höndum sams konar
@@ -1414,11 +1435,14 @@ til tekna hjá hvoru hjóna. Geri hjón ekki fullnægjandi og rökstudda grein f
 Nemi heildarfrádráttur, er um ræðir í 1. og 2. tölul. 1. mgr., hærri fjárhæð hjá
  öðru hjóna en tekjur þær, er um ræðir í 1., 2. og 3. tölul. 1. mgr., skal það,
            sem umfram er, dregið frá tekjum hins hjóna við álagningu.
- Karl og kona, sem búa saman í óvígðri sambúð og eiga sameiginlegt lögheimili,
-eiga rétt á að telja fram og vera skattlögð sem hjón, sem samvistum eru, ef þau
-  hafa átt barn saman eða konan er þunguð eða sambúðin hefur varað samfleytt í
-      a.m.k. eitt ár, enda óski þau þess bæði skriflega við skattyfirvöld.
+ [Karl og kona í óvígðri sambúð eiga rétt á að telja fram og vera skattlögð sem
+ hjón, sem samvistum eru, enda óski þau þess bæði skriflega við skattyfirvöld.
+Með óvígðri sambúð er átt við sambúð karls og konu sem skráð er í þjóðskrá enda
+   eigi þau barn saman eða von á barni saman eða sambúðin hefur verið skráð í
+   samfellt eitt ár hið skemmsta. Sama gildir um sambúð einstaklinga af sama
+                                   kyni.]^1)
 Einstaklingar í staðfestri samvist skulu telja fram og skattlagðir eins og hjón.
+                            ^1)[128]L. 65/2006, 11. gr.
 63. gr. Þeir skattaðilar sem uppfylla skilyrði 62. gr. aðeins hluta úr ári, t.d.
 vegna stofnunar eða slita hjúskapar á árinu, slita á samvistum eða andláts maka,
  skulu telja fram tekjur sínar á þeim tíma sem umrædd skilyrði voru uppfyllt í
@@ -1512,16 +1536,16 @@ greiðslna samkvæmt lögum um almannatryggingar, lögum um húsaleigubætur eð
  vaxtatekjum og arði samkvæmt þessari málsgrein skulu á tekjuárinu gilda lög um
   staðgreiðslu skatts af slíkum tekjum samkvæmt því sem nánar er kveðið á um í
                                   þeim lögum.
-      ^1)Hlutfallstölunni var breytt með [118]l. 129/2004, 8. gr., í 21,75%.
+      ^1)Hlutfallstölunni var breytt með [129]l. 129/2004, 8. gr., í 21,75%.
     Breytingin tók gildi 1. jan. 2005 og kemur til framkvæmda við álagningu
  tekjuskatts á árinu 2008 vegna tekna ársins 2007 og við staðgreiðslu opinberra
-gjalda á því ári, sbr. [119]149. gr. s.l. Sjá enn fremur brbákv. XII. ^2)[120]L.
-   143/2003, 3. gr. ^3)Fjárhæðinni var breytt með [121]l. 129/2004, 8. gr., í
+gjalda á því ári, sbr. [130]149. gr. s.l. Sjá enn fremur brbákv. XII. ^2)[131]L.
+   143/2003, 3. gr. ^3)Fjárhæðinni var breytt með [132]l. 129/2004, 8. gr., í
 100.745. Breytingin tók gildi 1. jan. 2005 og kemur til framkvæmda við álagningu
  tekjuskatts á árinu 2008 vegna tekna ársins 2007 og við staðgreiðslu opinberra
-  gjalda á því ári, sbr. [122]149. gr. s.l. Sjá enn fremur brbákv. XII. ^4)3.
- málsl. 3. mgr. var fellur brott með [123]3. gr. l. 143/2003. Breytingin tekur
-                   gildi 1. jan. 2008, sbr. [124]13. gr. s.l.
+  gjalda á því ári, sbr. [133]149. gr. s.l. Sjá enn fremur brbákv. XII. ^4)3.
+ málsl. 3. mgr. var fellur brott með [134]3. gr. l. 143/2003. Breytingin tekur
+                   gildi 1. jan. 2008, sbr. [135]13. gr. s.l.
                                     67. gr.
                                         A.
        Persónuafsláttur manna, sem um ræðir í 1. mgr. 66. gr., skal vera
@@ -1562,7 +1586,7 @@ af tekjuskattsstofni hans skv. 1. tölul. 1. mgr. 66. gr. skal ríkissjóður le
             förum milli landa eða er í strandsiglingum innan lands.
  Sjómannaafsláttur skal vera [787]^5) kr. á hvern dag. Við ákvörðun dagafjölda,
   sem veitir rétt til sjómannaafsláttar, skal miða við þá daga sem skylt er að
- lögskrá sjómenn skv. [125]4. og [126]5. gr. laga nr. 43/1987, um lögskráningu
+ lögskrá sjómenn skv. [136]4. og [137]5. gr. laga nr. 43/1987, um lögskráningu
  sjómanna. Séu dagar þessir 245 á ári eða fleiri skal sjómaður njóta afsláttar
 alla daga ársins og hlutfallslega séu lögskráningardagar færri en 245, þó aldrei
 fleiri daga en hann er ráðinn hjá útgerð. Hlutaráðnir beitningarmenn skulu eiga
@@ -1584,13 +1608,13 @@ brúttótonnum, sem ekki er skylt að lögskrá á samkvæmt framangreindum lög
  Setja skal í reglugerð ákvæði um framkvæmd þessa stafliðar. Í henni skal m.a.
     kveða á um með hvaða hætti skuli ákvarða dagafjölda sem veitir rétt til
 afsláttar, skráningu, sbr. 6. mgr., og hvaða gagna megi krefjast í því sambandi.
-    ^1)[127]L. 143/2003, 4. gr. ^2)Fjárhæðinni var breytt með [128]l. 129/2004,
+    ^1)[138]L. 143/2003, 4. gr. ^2)Fjárhæðinni var breytt með [139]l. 129/2004,
 9. gr., í 356.180. Breytingin tók gildi 1. jan. 2005 og kemur til framkvæmda við
  álagningu tekjuskatts á árinu 2008 vegna tekna ársins 2007 og við staðgreiðslu
-opinberra gjalda á því ári, sbr. [129]149. gr. s.l. Sjá enn fremur brbákv. XIII.
-^3)[130]L. 129/2004, 9. gr. ^4)[131]Rg. 10/1992, sbr. [132]499/2001. ^5)[133]L.
+opinberra gjalda á því ári, sbr. [140]149. gr. s.l. Sjá enn fremur brbákv. XIII.
+^3)[141]L. 129/2004, 9. gr. ^4)[142]Rg. 10/1992, sbr. [143]499/2001. ^5)[144]L.
  116/2005, 1. gr. Breytingin kemur til framkvæmda við staðgreiðslu á árinu 2006
-          og álagningu tekjuskatts á árinu 2007, sbr. [134]4. gr. s.l.
+          og álagningu tekjuskatts á árinu 2007, sbr. [145]4. gr. s.l.
                                     68. gr.
                                   A. Barnabætur.
   Með hverju barni innan 16 ára aldurs á tekjuárinu, sem heimilisfast er hér á
@@ -1634,18 +1658,18 @@ verði eigi kennt um þá annmarka á framtali er leiddu til ákvörðunar skatt
 [Þrátt fyrir ákvæði 1. mgr. þessa stafliðar má ákvarða barnabætur með börnum sem
  ekki eru heimilisföst hér á landi en eru á framfæri ríkisborgara hins Evrópska
 efnahagssvæðis, enda séu framfærandi og barnið tryggð á grundvelli 9. gr. b eða
-      [135]9. gr. c laga nr. 117/1993, um almannatryggingar, ásamt síðari
+      [146]9. gr. c laga nr. 117/1993, um almannatryggingar, ásamt síðari
 breytingum.]^1) Skilyrði fyrir ákvörðun barnabóta samkvæmt þessari málsgrein eru
 þau að börnin séu heimilisföst í einhverju ríkja hins Evrópska efnahagssvæðis og
   að fram séu lögð fullnægjandi gögn frá bæru stjórnvaldi í því landi þar sem
 börnin eru heimilisföst. Heimilt er að setja nánari reglur um framkvæmd þessarar
-                            málsgreinar í reglugerð.
+                          málsgreinar í reglugerð.^5)
  Barnabætur skulu ákveðnar við álagningu, sbr. X. kafla. Nánari reglur, m.a. um
 fyrirframgreiðslu og útborgun barnabóta, innheimtu ofgreiddra barnabóta, þar með
     taldar ofgreiddar barnabætur erlendis, og skuldajöfnun barnabóta á móti
     opinberum gjöldum til ríkissjóðs, opinberum gjöldum til sveitarfélaga og
    vangreiddum meðlögum til Innheimtustofnunar sveitarfélaga, þar á meðal um
-       forgangsröð, skulu settar í reglugerð.^5) Ákvörðun skattstjóra um
+       forgangsröð, skulu settar í reglugerð.^6) Ákvörðun skattstjóra um
  fyrirframgreiðslu barnabóta er kæranleg til ríkisskattstjóra innan 30 daga frá
  dagsetningu ákvörðunar. Ríkisskattstjóri skal kveða upp úrskurð sinn innan 15
  daga frá því að kæra berst honum og skal úrskurður hans vera endanleg úrlausn
@@ -1653,7 +1677,7 @@ fyrirframgreiðslu og útborgun barnabóta, innheimtu ofgreiddra barnabóta, þa
                                   B. Vaxtabætur.
 Maður sem skattskyldur er skv. 1. gr. og ber vaxtagjöld af lánum, sem tekin hafa
  verið vegna kaupa eða byggingar á íbúðarhúsnæði til eigin nota, þar með talin
-kaup á eignarhlut í almennri kaupleiguíbúð skv. [136]76. gr. laga nr. 97/1993, á
+kaup á eignarhlut í almennri kaupleiguíbúð skv. [147]76. gr. laga nr. 97/1993, á
     rétt á sérstökum bótum, vaxtabótum, enda geri hann grein fyrir lánum og
  vaxtagjöldum af þeim í sérstakri greinargerð með skattframtali í því formi sem
                            ríkisskattstjóri ákveður.
@@ -1680,12 +1704,12 @@ framteljandi hefur gefið út sjálfur og selt þriðja aðila og notað andvir�
  lán skuldara sem hann greiðir á lánstíma umfram ákvæði viðkomandi skuldabréfs.
       Vaxtagjöld til útreiknings vaxtabóta skv. 4. mgr. miðast við fjárhæð
 vaxtagjalda, sbr. 2. mgr., hjá hverjum framteljanda en geta þó ekki orðið hærri
- en sem nemur [5,5%]^1)^6) af skuldum sem stofnað hefur verið til vegna öflunar
+ en sem nemur [5,5%]^1)^7) af skuldum sem stofnað hefur verið til vegna öflunar
       íbúðarhúsnæðis til eigin nota eins og þær eru í árslok. Hjá þeim sem
  skattskyldir eru hluta úr ári vegna brottflutnings á tekjuárinu skal miða við
   skuldastöðu eins og hún var fyrir brottflutning. Vaxtagjöld samkvæmt þessari
-    málsgrein geta þó ekki verið hærri en [494.782]^7) kr. hjá einstaklingi,
-   [649.544]^7) kr. hjá einstæðu foreldri og [804.304]^7) kr. hjá hjónum eða
+    málsgrein geta þó ekki verið hærri en [494.782]^8) kr. hjá einstaklingi,
+   [649.544]^8) kr. hjá einstæðu foreldri og [804.304]^8) kr. hjá hjónum eða
  sambýlisfólki. Hámark vaxtagjalda hjá mönnum, sem skattskyldir eru skv. 1. gr.
           hluta úr ári, ákvarðast í hlutfalli við dvalartíma á árinu.
 Vaxtabætur skal ákvarða þannig að frá vaxtagjöldum, eins og þau eru skilgreind í
@@ -1700,7 +1724,7 @@ hjónum eða sambýlisfólki, sem uppfyllir skilyrði 3. mgr. 62. gr. í lok tek
   skal við útreikning miðað við samanlagðar tekjur beggja að teknu tilliti til
      frádráttar samkvæmt framansögðu. Þannig ákvarðaðar vaxtabætur skerðast
  hlutfallslega fari eignir skv. 72. gr., að frádregnum skuldum skv. 1. mgr. 75.
-   gr., fram úr [3.721.542]^7) kr. hjá einstaklingi og [6.169.097]^7) kr. hjá
+   gr., fram úr [3.721.542]^8) kr. hjá einstaklingi og [6.169.097]^8) kr. hjá
  hjónum eða sambýlisfólki uns þær falla niður við 60% hærri fjárhæð. Vaxtabætur
    greiðast út að lokinni álagningu opinberra gjalda og miðast við vaxtagjöld
 viðkomandi tekjuárs og eignir í lok þess sama árs. Við ákvörðun vaxtabóta á því
@@ -1708,12 +1732,12 @@ viðkomandi tekjuárs og eignir í lok þess sama árs. Við ákvörðun vaxtab�
  áður, skal þrátt fyrir ákvæði 1. málsl. þessarar málsgreinar reikna vaxtabætur
 frá og með þeim ársfjórðungi sem fyrsta fasteignaveðlán vegna kaupanna er tekið.
     Skal hámark vaxtagjalda, tekjuskattsstofn og hámark vaxtabóta þá ákveðið
-hlutfallslega miðað við það. Vaxtabætur geta aldrei verið hærri en [169.541]^7)
- kr. fyrir hvern mann, [218.042]^7) kr. fyrir einstætt foreldri og [280.372]^7)
+hlutfallslega miðað við það. Vaxtabætur geta aldrei verið hærri en [169.541]^8)
+ kr. fyrir hvern mann, [218.042]^8) kr. fyrir einstætt foreldri og [280.372]^8)
 kr. fyrir hjón eða sambýlisfólk sem uppfyllir skilyrði fyrir samsköttun, sbr. 3.
   mgr. 62. gr., í lok tekjuárs. Hámark vaxtabóta hjá þeim sem skattskyldir eru
   skv. 1. gr. hluta úr ári ákvarðast í hlutfalli við dvalartíma á tekjuárinu.
-         Vaxtabætur, sem eru lægri en [618]^7) kr. á mann, falla niður.
+         Vaxtabætur, sem eru lægri en [618]^8) kr. á mann, falla niður.
  Réttur til vaxtabóta er bundinn við eignarhald á íbúðarhúsnæði til eigin nota.
 Rétturinn stofnast þegar íbúðarhúsnæði til eigin nota er keypt eða bygging þess
       hefst. Jafnframt getur stofnast réttur til vaxtabóta vegna lána frá
@@ -1746,7 +1770,7 @@ viðbættum þeim tekjum utan staðgreiðslu sem fram koma á skattframtali fyrr
    leggja fram tilskildar upplýsingar. Lánastofnanir, lífeyrissjóðir og aðrir
      aðilar sem veita lán til íbúðarkaupa gegn veði í fasteign skulu veita
    skattyfirvöldum nauðsynlegar upplýsingar til að ákvarða fyrirframgreiðslu
-  vaxtabóta. Ráðherra skal með reglugerð^8) setja nánari reglur um ákvörðun og
+  vaxtabóta. Ráðherra skal með reglugerð^9) setja nánari reglur um ákvörðun og
 fyrirframgreiðslu vaxtabóta. Ákvörðun skattstjóra um fyrirframgreiðslu vaxtabóta
    er kæranleg til ríkisskattstjóra innan 30 daga frá dagsetningu ákvörðunar.
 Ríkisskattstjóri skal kveða upp úrskurð sinn innan 15 daga frá því að kæra berst
@@ -1759,22 +1783,25 @@ Ríkisskattstjóri skal kveða upp úrskurð sinn innan 15 daga frá því að k
         opinberum gjöldum til sveitarfélaga og vangreiddum meðlögum til
  Innheimtustofnunar sveitarfélaga, svo og gjaldföllnum afborgunum og vöxtum af
   lánum Íbúðalánasjóðs, þar á meðal um forgangsröð, skulu settar í reglugerð.
-    ^1)[137]L. 143/2003, 5. gr. ^2)Fjárhæðinni var breytt með [138]l. 129/2004,
+    ^1)[148]L. 143/2003, 5. gr. ^2)Fjárhæðinni var breytt með [149]l. 129/2004,
 10. gr., í 56.096. Breytingin tók gildi 1. jan. 2005 og kemur til framkvæmda við
-  ákvörðun barnabóta á árinu 2007 vegna tekna á árinu 2006, sbr. [139]149. gr.
+  ákvörðun barnabóta á árinu 2007 vegna tekna á árinu 2006, sbr. [150]149. gr.
  s.l. Sjá enn fremur brbákv. XIV. ^3)Fjárhæðum málsgreinarinnar var breytt með
- [140]l. 129/2004, 10. gr., í: 139.647, 166.226, 232.591, 238.592, 2.231.195 og
+ [151]l. 129/2004, 10. gr., í: 139.647, 166.226, 232.591, 238.592, 2.231.195 og
     1.115.598. Breytingin tók gildi 1. jan. 2005 og kemur til framkvæmda við
-  ákvörðun barnabóta á árinu 2007 vegna tekna á árinu 2006, sbr. [141]149. gr.
+  ákvörðun barnabóta á árinu 2007 vegna tekna á árinu 2006, sbr. [152]149. gr.
 s.l. Sjá enn fremur brbákv. XIV. ^4)Hlutfallstölum 5. málsl. 4. mgr. var breytt
- með [142]l. 129/2004, 10. gr. Breytingin tekur gildi 1. jan. 2007 og kemur til
+ með [153]l. 129/2004, 10. gr. Breytingin tekur gildi 1. jan. 2007 og kemur til
    framkvæmda við ákvörðun barnabóta á því ári vegna tekna á árinu 2006, sbr.
- [143]149. gr. s.l. ^5)[144]Rg. 555/2004, sbr. [145]7/2005. ^6)Hlutfallstölunni
-  var breytt með [146]l. 129/2004, 10. gr., í 5%. Breytingin tók gildi 1. jan.
-     2005 og kemur til framkvæmda við ákvörðun vaxtabóta á árinu 2006 vegna
-   vaxtagjalda og tekna á árinu 2005 og eigna og skulda í lok þess árs, sbr.
-   [147]149. gr. s.l. ^7)[148]L. 129/2004, 10. gr. ^8)[149]Rg. 990/2001, sbr.
-          [150]300/2003, [151]559/2004, [152]642/2004 og [153]33/2005.
+  [154]149. gr. s.l. ^5)Málsgreininni var breytt með [155]l. 108/2006, 24. gr.
+ Breytingin tekur gildi um leið og samningur milli ríkisstjórnar Íslands annars
+   vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar hefur
+    gengið í gildi. ^6)[156]Rg. 555/2004, sbr. [157]7/2005 og [158]346/2006.
+ ^7)Hlutfallstölunni var breytt með [159]l. 129/2004, 10. gr., í 5%. Breytingin
+ tók gildi 1. jan. 2005 og kemur til framkvæmda við ákvörðun vaxtabóta á árinu
+2006 vegna vaxtagjalda og tekna á árinu 2005 og eigna og skulda í lok þess árs,
+sbr. [160]149. gr. s.l. ^8)[161]L. 129/2004, 10. gr. ^9)[162]Rg. 990/2001, sbr.
+  [163]300/2003, [164]559/2004, [165]642/2004, [166]33/2005 og [167]347/2006.
    Tekjuskattur manna sem heimilisfastir eru á Íslandi hluta úr ári, menn sem
                dveljast erlendis við nám eða vegna veikinda o.fl.
 69. gr. Hjá manni sem hefur tekjur sem um ræðir í 2. tölul. A-liðar 1. mgr. 30.
@@ -1794,7 +1821,7 @@ margfalda þá útkomu með fjölda dvalardaga þeirra hér á landi á árinu. 
   samkvæmt lögum þessum og öðrum lögum um opinber gjöld. Fjármálaráðherra skal
 setja nánari reglur um framkvæmd þessarar málsgreinar með reglugerð,^1) m.a. um
             hvaða nám falli hér undir, rétt maka, framtalsskil o.fl.
-                               ^1)[154]Rg. 648/1995.
+                               ^1)[168]Rg. 648/1995.
                  Tekjuskattur aðila með takmarkaða skattskyldu.
 70. gr. Tekjuskatt aðila, sem skattskyldir eru skv. 3. gr., skal ákvarða sem hér
                                      segir:
@@ -1842,12 +1869,12 @@ hluti heildarágóðans sem svarar til hlutfallsins milli iðgjaldatekna hér á
 Þrátt fyrir ákvæði 1. og 2. mgr. skal tekjuskattur þeirra lögaðila er greinir í
   3. og 5. tölul. 1. mgr. 2. gr. af fengnum arði skv. 4. tölul. C-liðar 7. gr.
                            vera 10% af þessum tekjum.
-Lögaðilar þeir, er undanþegnir eru skattskyldu skv. 1., 2., 4., 5. og 6. tölul.
-4. gr., skulu þrátt fyrir það greiða tekjuskatt af fjármagnstekjum, sbr. 3., 4.
-og 5. tölul. C-liðar 7. gr., svo og skv. 8. tölul. sama stafliðar 7. gr., að því
-    er varðar söluhagnað af hlutabréfum. Skal hann vera 10% af þeim stofni.
-   Afdráttur skatts og innborgun hans samkvæmt lögum um staðgreiðslu skatts á
- fjármagnstekjur skal vera fullnaðargreiðsla og koma í stað álagningar samkvæmt
+ Lögaðilar þeir, er undanþegnir eru skattskyldu skv. 1., 2., 4., 5., [6. og 7.
+ tölul.]^3) 4. gr., skulu þrátt fyrir það greiða tekjuskatt af fjármagnstekjum,
+sbr. 3., 4. og 5. tölul. C-liðar 7. gr., svo og skv. 8. tölul. sama stafliðar 7.
+  gr., að því er varðar söluhagnað af hlutabréfum. Skal hann vera 10% af þeim
+stofni. Afdráttur skatts og innborgun hans samkvæmt lögum um staðgreiðslu skatts
+á fjármagnstekjur skal vera fullnaðargreiðsla og koma í stað álagningar samkvæmt
   lögum þessum. Þó skulu þeir aðilar, sem þessi málsgrein tekur til og sjálfir
   annast um innheimtu vaxta í eigin lánaumsýslu eða fá vaxtatekjur sem ekki er
  dregin af staðgreiðsla, skila greinargerð um vaxtatekjur til skattyfirvalda og
@@ -1865,21 +1892,21 @@ standa skil á 10% tekjuskatti af slíkum tekjum að tekjuári loknu. Við ákv�
        Seðlabanki Íslands, Nýsköpunarsjóður atvinnulífsins, Þróunarsjóður
 sjávarútvegsins og lífeyrissjóðir, sbr. lög um skyldutryggingu lífeyrisréttinda
                           og starfsemi lífeyrissjóða.
-     2. Lánastofnanir sem skattskyldar eru samkvæmt [155]lögum nr. 65/1982, um
+     2. Lánastofnanir sem skattskyldar eru samkvæmt [169]lögum nr. 65/1982, um
 skattskyldu lánastofnana, með síðari breytingum, en fjármagnstekjur þeirra falla
                  undir almenna skattskyldu samkvæmt þeim lögum.
-      ^1)[156]L. 143/2003, 6. gr. ^2)2. málsl. 1. mgr. var felldur brott með
-[157]6. gr. l. 143/2003. Breytingin tekur gildi 1. jan. 2008, sbr. [158]13. gr.
-                                      s.l.
+      ^1)[170]L. 143/2003, 6. gr. ^2)2. málsl. 1. mgr. var felldur brott með
+[171]6. gr. l. 143/2003. Breytingin tekur gildi 1. jan. 2008, sbr. [172]13. gr.
+                        s.l. ^3)[173]L. 77/2006, 3. gr.
 
                       VII. kafli. [Eignir og skuldir.]^1)
-                           ^1)[159]L. 129/2004, 21. gr.
+                           ^1)[174]L. 129/2004, 21. gr.
                           [Framtalsskyldar eignir.]^1)
-                           ^1)[160]L. 129/2004, 11. gr.
+                           ^1)[175]L. 129/2004, 11. gr.
 72. gr. [Framtalsskyldar eignir eru]^1) allar fasteignir, lausafé og hvers konar
  önnur verðmæt eignarréttindi, með þeim takmörkunum sem um ræðir í 74. gr., og
           skiptir ekki máli hvort eignirnar gefa af sér arð eða ekki.
-                           ^1)[161]L. 129/2004, 11. gr.
+                           ^1)[176]L. 129/2004, 11. gr.
      73. gr. Við mat [framtalsskyldra]^1) eigna gilda eftirfarandi reglur:
       1. Allar fasteignir, hverju nafni sem nefnast, skal telja til eignar á
  gildandi fasteignamatsverði. Sé fasteignamatsverð ekki fyrir hendi skal eignin
@@ -1932,7 +1959,7 @@ samhliða veita kröfuhafa íbúðarrétt, má telja til eignar samkvæmt fastei
    8. Ófyrnanleg réttindi skv. 48. gr. skal telja til eignar á stofnverði, sbr.
  2. mgr. 12. gr., að frádregnum fengnum fyrningum og að frádreginni niðurfærslu
                               skv. 6. mgr. 15. gr.
-                           ^1)[162]L. 129/2004, 12. gr.
+                           ^1)[177]L. 129/2004, 12. gr.
                           Hvað ekki telst til eignar.
                  74. gr. Til eignar, sbr. 72. gr., telst ekki:
      1. Skilyrt fjárréttindi, svo sem réttur til líftryggingarfjár sem ekki er
@@ -1945,7 +1972,7 @@ samhliða veita kröfuhafa íbúðarrétt, má telja til eignar samkvæmt fastei
               húsmunir, bækur og munir sem hafa persónulegt gildi.
            5. Eigin hlutabréf hlutafélags, sbr. 1. tölul. 1. mgr. 2. gr.
                                  [Skuldir.]^1)
-                           ^1)[163]L. 129/2004, 13. gr.
+                           ^1)[178]L. 129/2004, 13. gr.
 75. gr. [Á framtali skal gera grein fyrir skuldum skattaðila.]^1) Með skuldum í
   þessu sambandi teljast áfallnar verðbætur á höfuðstól þeirra sem miðast við
     vísitölu í janúar á næsta ári eftir lok reikningsárs. Skuldir í erlendum
@@ -1956,36 +1983,37 @@ samhliða veita kröfuhafa íbúðarrétt, má telja til eignar samkvæmt fastei
               beint eru tengdar starfsemi þeirra hér á landi.]^1)
  [Til skulda aðila sem um ræðir í 5.8. tölul. 3. gr. má einungis telja skuldir
                          sem á eignum þessum hvíla.]^1)
-                           ^1)[164]L. 129/2004, 13. gr.
+                           ^1)[179]L. 129/2004, 13. gr.
                                   76. gr. ^1)
-                           ^1)[165]L. 129/2004, 14. gr.
+                           ^1)[180]L. 129/2004, 14. gr.
                                   77. gr. ^1)
-                           ^1)[166]L. 129/2004, 15. gr.
+                           ^1)[181]L. 129/2004, 15. gr.
                        [Tímaviðmiðun framtalsskyldu.]^1)
-                           ^1)[167]L. 129/2004, 16. gr.
+                           ^1)[182]L. 129/2004, 16. gr.
    78. gr. [Framtalsskyldar eignir og skuldir skal miða við eignir og skuldir
    skattaðila í árslok.]^1) Þó mega þeir, er með leyfi skattstjóra nota annað
 reikningsár en almanaksár, telja fram eignir sínar í lok þess reikningsárs síns
                       sem er næst á undan skattálagningu.
-                           ^1)[168]L. 129/2004, 16. gr.
+                           ^1)[183]L. 129/2004, 16. gr.
                                   79. gr. ^1)
-                           ^1)[169]L. 129/2004, 17. gr.
+                           ^1)[184]L. 129/2004, 17. gr.
 80. gr. [Hjón sem samvistum eru, sbr. 5. gr., svo og karl og kona sem óskað hafa
  samsköttunar skv. 3. mgr. 62. gr. og einstaklingar í staðfestri samvist, skulu
   telja saman allar eignir sínar og skuldir og skiptir ekki máli þótt um sé að
-                  ræða séreign eða skuldir tengdar henni.]^1)
+ræða séreign eða skuldir tengdar henni.]^1) [Sama gildir um framtal einstaklinga
+             af sama kyni í sambúð sem óskað hafa samsköttunar.]^2)
                                       ^1)
-                           ^1)[170]L. 129/2004, 18. gr.
+             ^1)[185]L. 129/2004, 18. gr. ^2)[186]L. 65/2006, 12. gr.
   81. gr. Eignir barns, sem er innan 16 ára aldurs á tekjuárinu, sbr. 6. gr.,
     teljast með eignum foreldra eða hjá þeim manni sem nýtur barnabóta vegna
                         barnsins, sbr. A-lið 68. gr. ^1)
                                       ^1)
-                           ^1)[171]L. 129/2004, 19. gr.
+                           ^1)[187]L. 129/2004, 19. gr.
                            Eignarskattsútreikningur.
                                   82. gr. ^1)
-                  ^1)[172]L. 129/2004, 32. gr., sbr. brbákv. XVI.
+                  ^1)[188]L. 129/2004, 32. gr., sbr. brbákv. XVI.
                                   83. gr. ^1)
-                  ^1)[173]L. 129/2004, 32. gr., sbr. brbákv. XVI.
+                  ^1)[189]L. 129/2004, 32. gr., sbr. brbákv. XVI.
 
 VIII. kafli. Skattumdæmi, skattstjórar, ríkisskattstjóri, skattrannsóknarstjóri,
                              yfirskattanefnd o.fl.
@@ -2024,7 +2052,7 @@ en þeir eru einn í hverju skattumdæmi. Ráðherra skipar skattstjóra til fim
  endurskoðandi. Víkja má þó frá ákvæði þessa töluliðar ef maður hefur aflað sér
 víðtækrar sérmenntunar eða sérþekkingar um skattalöggjöf og framkvæmd hennar eða
                      hefur áður verið skipaður skattstjóri.
-                           ^1)[174]L. 129/2004, 22. gr.
+                           ^1)[190]L. 129/2004, 22. gr.
                             Umboðsmenn skattstjóra.
 86. gr. Fjármálaráðherra er heimilt að ráða umboðsmann skattstjóra utan aðseturs
   skattstjóra. Hreppstjóra, sveitarstjóra, bæjarstjóra og oddvita er skylt að
@@ -2070,9 +2098,9 @@ Aðilar sem hér eru skattskyldir skv. 3. gr. skulu telja fram og vera skattlag�
 Megi samkvæmt framangreindu skattleggja skattaðila á fleiri stöðum en einum eða
  sé annars vafi á hvar skattaðili skuli skattlagður skal ríkisskattstjóri skera
                                       úr.
-   ^1)[175]L. 116/2005, 2. gr. ^2)[176]L. 143/2003, 10. gr. Breytingin tók gildi
+   ^1)[191]L. 116/2005, 2. gr. ^2)[192]L. 143/2003, 10. gr. Breytingin tók gildi
    30. des. 2003 og kemur til framkvæmda við endurákvörðun og álagningu eftir
-                 gildistöku ákvæðisins, sbr. [177]13. gr. s.l.
+                 gildistöku ákvæðisins, sbr. [193]13. gr. s.l.
                                  Skattframtöl.
 90. gr. Allir, sem skattskyldir eru skv. I. kafla laga þessara, svo og þeir sem
      telja sig undanþegna skattskyldu skv. 4. tölul. 4. gr., skulu afhenda
@@ -2141,7 +2169,7 @@ frádráttar rekstrarhagnaði ársins óbreytt í krónum talið frá því sem 
  Heimilt er lögaðila, sem færir bókhald sitt í íslenskum krónum auk bókhalds í
   starfrækslugjaldmiðli, að byggja greinargerð sína skv. 1. mgr. á bókhaldi í
 íslenskum krónum, en þá skal viðhalda þeirri aðferð í að minnsta kosti fimm ár.
-                           ^1)[178]L. 129/2004, 23. gr.
+                           ^1)[194]L. 129/2004, 23. gr.
                               Launaskýrslur o.fl.
  92. gr. Allir, sem hafa menn í þjónustu sinni og greiða þeim endurgjald fyrir
  starfa, þar með talin ágóðaþóknun, ökutækjastyrkur, húsaleigustyrkur og hvers
@@ -2219,7 +2247,7 @@ einstaka liði framtals ef telja má að óyggjandi upplýsingar séu fyrir hend
     skattstjóri áætla tekjur hans og eign svo ríflega að eigi sé hætt við að
 fjárhæðir séu áætlaðar lægri en þær eru í raun og veru og ákvarða skatta hans í
                       samræmi við þá áætlun, sbr. 108. gr.
-                           ^1)[179]L. 129/2004, 24. gr.
+                           ^1)[195]L. 129/2004, 24. gr.
   96. gr. Komi í ljós fyrir eða eftir álagningu að framtal eða einstakir liðir
   þess eða fylgigögn séu ófullnægjandi, óglögg eða tortryggileg, eigi skráð á
    lögmæltan hátt eða ófullnægjandi undirrituð eða skattstjóri telur frekari
@@ -2274,7 +2302,7 @@ endurákvarða honum skatt nema vegna síðustu tveggja ára sem næst eru á un
      [Fari fram rannsókn við embætti skattrannsóknarstjóra ríkisins eða hjá
 ríkislögreglustjóra á skattskilum aðila reiknast heimild til endurákvörðunar frá
                    byrjun þess árs þegar rannsókn hófst.]^1)
-                           ^1)[180]L. 129/2004, 25. gr.
+                           ^1)[196]L. 129/2004, 25. gr.
 98. gr. Þegar skattstjórar hafa lokið álagningu á skattaðila skulu þeir semja og
  leggja fram til sýnis eigi síðar en 15 dögum fyrir lok kærufrests skv. 99. gr.
 álagningarskrá fyrir hvert sveitarfélag í umdæminu, en í henni skal tilgreina þá
@@ -2295,7 +2323,7 @@ hentugum stað í hverju sveitarfélagi. Skattstjóri eða umboðsmaður hans au
    í tæka tíð hvar skattskrá liggur frammi. Heimil er opinber birting á þeim
  upplýsingum um álagða skatta, sem fram koma í skattskrá, svo og útgáfa þeirra
                         upplýsinga í heild eða að hluta.
-                           ^1)[181]L. 129/2004, 26. gr.
+                           ^1)[197]L. 129/2004, 26. gr.
                              Kærur til skattstjóra.
       99. gr. Nú telur skattaðili skatt sinn eða skattstofn, þar með talin
 rekstrartöp, eigi rétt ákveðinn og getur hann þá sent rökstudda kæru, skriflega
@@ -2314,7 +2342,7 @@ innheimtumanni ríkissjóðs og samrit til ríkisskattstjóra og ríkisendursko�
      Úrskurðir skulu uppkveðnir og undirritaðir af skattstjóra eða af þeim
   starfsmönnum hans sem fengið hafa sérstaka heimild ríkisskattstjóra til þess
                                     starfs.
-                           ^1)[182]L. 143/2003, 11. gr.
+                           ^1)[198]L. 143/2003, 11. gr.
                           Kærur til yfirskattanefndar.
     100. gr. Úrskurðum skattstjóra um endurákvörðun skv. 5. mgr. 96. gr. og
 kæruúrskurðum skv. 99. gr. má skjóta til yfirskattanefndar eftir ákvæðum laga um
@@ -2339,7 +2367,7 @@ eða skattálagningu samkvæmt lögum þessum og öðrum lögum um skatta og gj�
   skattstjórar leggja á, getur hann ákvarðað skattaðila skattstofn og skatt að
 nýju eða falið það skattstjóra, enda séu uppfyllt skilyrði 96. og 97. gr., ef um
         hækkun er að ræða. Heimilt er skattaðila að kæra breytingar til
-                 yfirskattanefndar, sbr. [183]lög nr. 30/1992.
+                 yfirskattanefndar, sbr. [199]lög nr. 30/1992.
 Ríkisskattstjóri getur að eigin frumkvæði eða samkvæmt beiðni leiðrétt álagningu
  á skattaðila eða falið það skattstjóra ef yfirskattanefnd eða dómstólar hafa í
 hliðstæðu máli hnekkt skattframkvæmd sem skattskil eða ákvörðun skattstjóra var
@@ -2348,7 +2376,7 @@ með því tekjuári sem um var fjallað í máli því sem hliðstætt er tali�
  sex ár aftur í tímann, talið frá því ári þegar úrskurður eða dómur var kveðinn
 upp. Beiðni um endurupptöku skal borin fram innan eins árs frá því að skattaðila
   var eða mátti vera kunnugt um tilefni hennar. Skattaðila er heimilt að kæra
-  breytingar til yfirskattanefndar, sbr. [184]lög nr. 30/1992, svo og má bera
+  breytingar til yfirskattanefndar, sbr. [200]lög nr. 30/1992, svo og má bera
       synjun um breytingu á skattákvörðun samkvæmt þessari málsgrein undir
                                 yfirskattanefnd.
 Hafi ríkisskattstjóri grun um að skattsvik eða refsiverð brot á lögum um bókhald
@@ -2397,7 +2425,7 @@ skylt að færa aðila til skýrslugjafar hjá skattrannsóknarstjóra ríkisins
  Við rannsóknaraðgerðir skattrannsóknarstjóra ríkisins skal gætt ákvæða laga um
 meðferð opinberra mála eftir því sem við getur átt, einkum varðandi réttarstöðu
                        grunaðra manna á rannsóknarstigi.
-                            ^1)[185]L. 77/2004, 2. gr.
+                            ^1)[201]L. 77/2004, 2. gr.
                             Vanhæfi skattyfirvalda.
   104. gr. Eigi má maður taka þátt í rannsókn eða annarri meðferð máls, hvorki
   skattákvörðun né kæru, ef honum hefði borið að víkja sæti sem héraðsdómara í
@@ -2437,7 +2465,7 @@ skattaðili úr annmörkum eða leiðrétti einstaka liði á framtali áður en
 honum verði eigi kennt um annmarka á framtali eða vanskil þess, að óviðráðanleg
 atvik hafi hamlað því að hann skilaði framtali á réttum tíma, bætti úr annmörkum
                   á framtali eða leiðrétti einstaka liði þess.
-  Um kæru til skattstjóra og yfirskattanefndar fer eftir ákvæðum [186]99. gr.
+  Um kæru til skattstjóra og yfirskattanefndar fer eftir ákvæðum [202]99. gr.
             laganna og ákvæðum laga nr. 30/1992, um yfirskattanefnd.
                                    Refsingar.
 109. gr. Skýri skattskyldur maður af ásetningi eða stórkostlegu hirðuleysi rangt
@@ -2476,11 +2504,11 @@ sem segir í III. kafla almennra hegningarlaga og varðar fésektum allt að há
  refsingar, sem hann sætir, gera lögaðilanum sekt og sviptingu starfsréttinda,
 enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða hann hafi notið hagnaðar
                                   af brotinu.
-                           ^1)[187]L. 129/2004, 27. gr.
+                           ^1)[203]L. 129/2004, 27. gr.
                Málsmeðferð og opinber rannsókn. Fyrningarreglur.
  110. gr. Yfirskattanefnd úrskurðar sektir skv. 109. gr. nema máli sé vísað til
   opinberrar rannsóknar og dómsmeðferðar skv. [4. mgr.]^1) Um meðferð mála hjá
-        nefndinni fer eftir [188]lögum nr. 30/1992, um yfirskattanefnd.
+        nefndinni fer eftir [204]lögum nr. 30/1992, um yfirskattanefnd.
 Skattrannsóknarstjóri ríkisins kemur fram af hálfu hins opinbera fyrir nefndinni
    þegar hún úrskurðar sektir. Úrskurðir nefndarinnar eru fullnaðarúrskurðir.
   [Þrátt fyrir ákvæði 1. mgr. er skattrannsóknarstjóra ríkisins eða löglærðum
@@ -2511,17 +2539,17 @@ sjálfsdáðum svo og eftir ósk sökunauts, ef hann vill eigi hlíta því að 
     Sök skv. 109. gr. fyrnist á sex árum miðað við upphaf rannsóknar á vegum
 skattrannsóknarstjóra ríkisins, enda verði ekki óeðlilegar tafir á rannsókn máls
                             eða ákvörðun refsingar.
-                            ^1)[189]L. 134/2005, 5. gr.
+                            ^1)[205]L. 134/2005, 5. gr.
 
                        XIII. kafli. Innheimta og ábyrgð.
                                 Innheimtuaðilar.
     111. gr. Skattar álagðir samkvæmt lögum þessum renna í ríkissjóð og hafa
   tollstjórar á hendi innheimtu þeirra, sbr. þó 2.4. mgr. þessarar greinar og
-                 ákvæði laga um staðgreiðslu opinberra gjalda.
+                ákvæði laga um staðgreiðslu opinberra gjalda.^1)
  Fjármálaráðherra getur ákveðið með reglugerð að fela öðrum aðila en tollstjóra
   innheimtu skatta samkvæmt lögum þessum í tilteknu umdæmi eða umdæmum. Á sama
 hátt getur ráðherra ákveðið að sami innheimtumaður annist innheimtu í fleiri en
-                                  einu umdæmi.
+                                einu umdæmi.^1)
    Þá er fjármálaráðherra, sveitarstjórnum og forráðamönnum annarra opinberra
  stofnana heimilt að semja svo um að innheimta skuli í einu lagi öll gjöld sem
    greiða ber þessum aðilum. Má fela gjaldheimtuna innheimtumanni ríkissjóðs,
@@ -2534,6 +2562,8 @@ gjalda sem innheimt verða með þessum hætti, um samræmingu dráttarvaxtaregl
                            um skyldur launagreiðenda.
   Innheimtuaðilum samkvæmt þessari grein skal heimill aðgangur að fasteigna-,
 skipa- og ökutækjaskrá í því skyni að sannreyna eignastöðu einstakra gjaldenda.
+     ^1)Málsgreininni var breytt með [206]l. 80/2006, 13. gr. Breytingin tekur
+                   gildi 1. jan. 2007, sbr. [207]14. gr. s.l.
                                   Gjalddagar.
  112. gr. [Tekjuskattur af öðrum tekjum en launatekjum hvers gjaldanda, sbr. þó
 4. mgr.],^1) skal greiddur á tíu gjalddögum á ári hverju. Eru gjalddagar fyrsti
@@ -2579,7 +2609,7 @@ Hafi innheimtumaður hafið aðför að skattaðila vegna skuldar sem myndast he
 staðgreiðslu á reiknuðu endurgjaldi skulu þau aðfararúrræði, sem innheimtumaður
   hefur gripið til, halda lögformlegu gildi sínu við þann hluta kröfunnar sem
         rekja má til vangreiddrar staðgreiðslu af reiknuðu endurgjaldi.
-                           ^1)[190]L. 129/2004, 28. gr.
+                           ^1)[208]L. 129/2004, 28. gr.
  113. gr. Áfrýjun skattákvörðunar eða deila um skattskyldu frestar ekki eindaga
 [tekjuskatts]^1) né leysir undan neinum viðurlögum sem lögð eru við vangreiðslu
      hans. Víkja má frá þessu, ef sérstaklega stendur á, samkvæmt ákvörðun
@@ -2603,25 +2633,25 @@ skýrslu um málavöxtu. Fjármálaráðherra er heimilt að samþykkja nauðasa
      3. Ljóst sé að hagsmunum ríkissjóðs verði betur borgið með nauðasamningi.
 Að loknu hverju innheimtuári skal Ríkisendurskoðun gefa Alþingi skýrslu um alla
               samninga skv. 3. mgr. og nauðasamninga skv. 4. mgr.
-                           ^1)[191]L. 129/2004, 29. gr.
+                           ^1)[209]L. 129/2004, 29. gr.
                                     Vextir.
    114. gr. Sé skattur ekki greiddur innan mánaðar frá gjalddaga skal greiða
     ríkissjóði dráttarvexti af því sem gjaldfallið er. Með gjalddaga í þessu
  sambandi er átt við reglulega gjalddaga skv. 1.4. og 6.8. mgr. 112. gr., en
 gjaldfelling vegna vangreiðslu á hluta skv. 5. mgr. 112. gr. hefur ekki áhrif á
 dráttarvaxtaútreikning. Dráttarvextir skulu vera þeir sömu og Seðlabanki Íslands
-     ákveður skv. [192]6. gr. laga nr. 38/2001, um vexti og verðtryggingu.
+     ákveður skv. [210]6. gr. laga nr. 38/2001, um vexti og verðtryggingu.
 Nú verður ljóst þegar álagningu skatta, annarra en tekjuskatts manna, lýkur eða
     við endurákvörðun þessara sömu skatta að gjaldandi hefur greitt meira en
   endanlega álögðum sköttum nemur og skal þá endurgreiða það sem ofgreitt var
   ásamt vöxtum fyrir það tímabil sem féð var í vörslu ríkissjóðs. Skulu vextir
  þessir vera jafnháir vöxtum sem Seðlabanki Íslands ákveður og birtir á hverjum
-tíma skv. 1. mgr. [193]8. gr. laga nr. 38/2001, um vexti og verðtryggingu. Sama
+tíma skv. 1. mgr. [211]8. gr. laga nr. 38/2001, um vexti og verðtryggingu. Sama
 gildir þegar í ljós kemur við endurákvörðun á tekjuskatti manna að um ofgreiðslu
 hafi verið að ræða að öðru leyti en því að vextir reiknast aldrei fyrr en frá 1.
                              júlí á álagningarári.
 Sé kæra til meðferðar hjá yfirskattanefnd og nefndin leggur ekki úrskurð á kæru
-  innan lögboðins frests skv. 1. og 2. mgr. [194]8. gr. laga nr. 30/1992 skal
+  innan lögboðins frests skv. 1. og 2. mgr. [212]8. gr. laga nr. 30/1992 skal
 greiða skattaðila dráttarvexti af fjárhæð sem yfirskattanefnd úrskurðar að skuli
 endurgreiða, eða dæmd er síðar, frá þeim tíma þegar frestur nefndarinnar til að
                             kveða upp úrskurð leið.
@@ -2643,7 +2673,7 @@ Hafi launagreiðandi vanrækt að halda eftir af launum ber hann sjálfskuldará
   Launagreiðandi, sem eigi hefur skilað á réttum degi fé er hann hefur haldið
  eftir eða bar að halda eftir af launum, skal greiða dráttarvexti skv. 1. mgr.
          114. gr. frá þeim degi sem skila átti fénu til innheimtumanns.
-                               ^1)[195]Rg. 124/2001.
+                               ^1)[213]Rg. 124/2001.
                             Ábyrgð á skattgreiðslum.
 116. gr. Hjón, sbr. 62. og 80. gr., bera óskipta ábyrgð á greiðslum skatta sem á
  þau eru lagðir og getur innheimtumaður ríkissjóðs gengið að hvoru hjóna um sig
@@ -2722,14 +2752,14 @@ lögð fram skal greiða grunngjald að fjárhæð 50.000 kr. Viðbótargjald se
  sem skattskyldar eru hér á landi og er þá skattstjóra heimilt, samkvæmt umsókn
   skattaðila, að lækka tekjuskatt ^1) hans hér á landi með hliðsjón af þessum
                             skattgreiðslum hans.^2)
-     ^1)[196]L. 129/2004, 30. gr. ^2)Tvísköttunarsamningar: Augl. C 11/1962 og
+     ^1)[214]L. 129/2004, 30. gr. ^2)Tvísköttunarsamningar: Augl. C 11/1962 og
    22/1975 (Bandaríki N-Ameríku); 1/2003 (Belgía); 32/1991 (Bretland); 4/1995
  (Eistland); 8/1992 (Frakkland); 4/2002 (Grænland); 32/1998 (Holland); 70/2004
 (Írland); 24/1997 (Kanada); 6/1997 (Kína); 5/1995 (Lettland); 12/1999 (Litháen);
    19/2001 (Lúxemborg); 11/1997, sbr. 36/1997 (Norðurlandasamningur); 2/2002
   (Portúgal); 13/1999 (Pólland); 3/2003 (Rússland); 2/2003 (Slóvakía); 3/2002
   (Spánn); 3/1989 (Sviss); 34/2000 (Tékkland); 5/2002 (Víetnam); 13/1971, sbr.
- 21/1973 (Þýskaland). ^3)Sjá [197]l. 46/1990 (Norðurlandasamningur um aðstoð í
+ 21/1973 (Þýskaland). ^3)Sjá [215]l. 46/1990 (Norðurlandasamningur um aðstoð í
                                  skattamálum).
  120. gr. Ríkisskattstjóra er heimilt að breyta tímaákvörðunum og frestum skv.
                            99. gr. ef nauðsyn krefur.
@@ -2740,12 +2770,13 @@ lögð fram skal greiða grunngjald að fjárhæð 50.000 kr. Viðbótargjald se
  Ráðherra getur kveðið á í reglugerð um sérstakt bókhald framtalsskyldra aðila,
 þar á meðal birgðabókhald. Einnig getur hann kveðið á um form reikningsskila og
             geymslu bókhalds og annarra gagna er varða skattframtöl.
-       ^1)[198]Rg. 245/1963, sbr. [199]79/1966, [200]307/1968, [201]74/1969,
- [202]167/1970, [203]383/1974, [204]9/1976, [205]434/1978 og [206]213/2001 (um
- tekjuskatt og eignarskatt). [207]Rg. 37/1989, sbr. [208]37/1993, [209]109/1996
-   og [210]757/1997; [211]rg. 483/1994, sbr. [212]498/2001 og [213]439/2003;
-  [214]rg. 589/2000, [215]rg. 590/2000, [216]rg. 830/2000, [217]rg. 213/2001,
-   [218]rg. 373/2001, [219]rg. 223/2003, [220]rg. 555/2004, sbr. [221]7/2005.
+       ^1)[216]Rg. 245/1963, sbr. [217]79/1966, [218]307/1968, [219]74/1969,
+ [220]167/1970, [221]383/1974, [222]9/1976, [223]434/1978 og [224]213/2001 (um
+ tekjuskatt og eignarskatt). [225]Rg. 37/1989, sbr. [226]37/1993, [227]109/1996
+   og [228]757/1997; [229]rg. 483/1994, sbr. [230]498/2001 og [231]439/2003;
+  [232]rg. 589/2000, [233]rg. 590/2000, [234]rg. 830/2000, [235]rg. 213/2001,
+  [236]rg. 373/2001, sbr. [237]334/2006; [238]rg. 223/2003, [239]rg. 555/2004,
+                       sbr. [240]7/2005 og [241]346/2006.
       122. gr. Við mismun, sem í ljós kemur á álögðum tekjuskatti manna og
    staðgreiðslu samkvæmt lögum um staðgreiðslu opinberra gjalda, sbr. 34. gr.
  þeirra laga, eða lögum um staðgreiðslu skatts á fjármagnstekjur, og við mismun
@@ -2823,7 +2854,7 @@ Skattstjóri skal að jafnaði ekki taka til greina umsókn gjaldanda nema hann 
 Um sérstakan tekjuskatt samkvæmt ákvæði til bráðabirgða skulu ákvæði VIII.XIII.
                     kafla laganna gilda eftir því sem við á.
  V. Við framtalsgerð á árinu 2003 skal leysa upp endurmatsreikning sem myndaður
-   var skv. [222]37. gr. laga nr. 75/1981 fyrir breytingu með [223]lögum nr.
+   var skv. [242]37. gr. laga nr. 75/1981 fyrir breytingu með [243]lögum nr.
                       133/2001 og færa með öðru eigin fé.
     VI. Á tekjuskattsstofn manna vegna tekna árið 2003 skal árið 2004 leggja
            sérstakan tekjuskatt eins og nánar greinir í ákvæði þessu.
@@ -2917,19 +2948,19 @@ Skattstjóri skal að jafnaði ekki taka til greina umsókn gjaldanda nema hann 
                                    mismuninn.
 Um sérstakan tekjuskatt samkvæmt ákvæði til bráðabirgða skulu ákvæði VIII.XIII.
                   kafla laganna gilda eftir því sem við á.]^1)
-                           ^1)[224]L. 143/2003, 12. gr.
+                           ^1)[244]L. 143/2003, 12. gr.
    [X. Vaxtabætur vegna vaxtagjalda á árinu 2003 skulu vera 90% af vaxtabótum
                   útreiknuðum skv. B-lið 68. gr. laganna.]^1)
-                           ^1)[225]L. 143/2003, 12. gr.
+                           ^1)[245]L. 143/2003, 12. gr.
   [XI. Fjárhæðir í ákvæðum A- og B-liðar 68. gr., 77. gr., 82. gr. og 83. gr.
- laganna, sem breytt var með [226]lögum nr. 143/2003, um breyting á [227]lögum
+ laganna, sem breytt var með [246]lögum nr. 143/2003, um breyting á [247]lögum
   nr. 90/2003, um tekjuskatt og eignarskatt, koma til framkvæmda við álagningu
  tekjuskatts og eignarskatts á árinu 2004 vegna tekna og eigna á árinu 2003 og
-við ákvörðun bóta á árinu 2004. Enn fremur kemur ákvæði c-liðar [228]5. gr. laga
-      nr. 143/2003, um breyting á [229]lögum nr. 90/2003, um tekjuskatt og
+við ákvörðun bóta á árinu 2004. Enn fremur kemur ákvæði c-liðar [248]5. gr. laga
+      nr. 143/2003, um breyting á [249]lögum nr. 90/2003, um tekjuskatt og
  eignarskatt, til framkvæmda við álagningu tekjuskatts og eignarskatts á árinu
                   2004 vegna tekna og eigna á árinu 2003.]^1)
-                            ^1)[230]L. 77/2004, 3. gr.
+                            ^1)[250]L. 77/2004, 3. gr.
   [XII. Þrátt fyrir ákvæði 1. tölul. 1. mgr. 66. gr. laganna skal tekjuskattur
 reiknast með eftirfarandi hætti við staðgreiðslu á árunum 2004, 2005 og 2006 og
 álagningu tekjuskatts á árunum 2005, 2006 og 2007 vegna tekna áranna 2004, 2005
@@ -2955,7 +2986,7 @@ vegna tekna ársins 2005 skal tekjuskattur af þeim tekjum barna sem um ræðir 
 vegna tekna ársins 2006 skal tekjuskattur af þeim tekjum barna sem um ræðir í 2.
     mgr. 64. gr. vera 4% af tekjum umfram 98.528 kr. og skal barn ekki njóta
                              persónuafsláttar.]^1)
-                           ^1)[231]L. 129/2004, 32. gr.
+                           ^1)[251]L. 129/2004, 32. gr.
 [XIII. Þrátt fyrir ákvæði 1. mgr. A-liðar 67. gr. laganna skal persónuafsláttur
      manna, sem um ræðir í 1. mgr. 66. gr., vera með eftirfarandi hætti við
 staðgreiðslu á árunum 2004, 2005 og 2006 og álagningu tekjuskatts á árunum 2005,
@@ -2966,7 +2997,7 @@ staðgreiðslu á árunum 2004, 2005 og 2006 og álagningu tekjuskatts á árunu
       vegna tekna ársins 2005 skal persónuafsláttur manna vera 339.846 kr.
     3. Við staðgreiðslu á árinu 2006 og við álagningu tekjuskatts á árinu 2007
     vegna tekna ársins 2006 skal persónuafsláttur manna vera 348.343 kr.]^1)
-                           ^1)[232]L. 129/2004, 32. gr.
+                           ^1)[252]L. 129/2004, 32. gr.
                                      [XIV.
    1. Þrátt fyrir ákvæði 3. mgr. A-liðar 68. gr. laganna skal viðmiðunarfjárhæð,
 sem þar er tilgreind, vera 37.397 við ákvörðun barnabóta á árinu 2005 og 46.747
@@ -2976,23 +3007,58 @@ sem þar er tilgreind, vera 37.397 við ákvörðun barnabóta á árinu 2005 og
  216.902, 1.487.463 og 743.732 við ákvörðun barnabóta á árinu 2005 og 139.647,
  166.226, 232.591, 238.592, 1.859.329 og 929.665 við ákvörðun barnabóta á árinu
                                    2006.]^1)
-                           ^1)[233]L. 129/2004, 32. gr.
+                           ^1)[253]L. 129/2004, 32. gr.
 [XV. Vaxtabætur við álagningu á árinu 2005 vegna vaxtagjalda á árinu 2004 skulu
        vera 95% af vaxtabótum útreiknuðum skv. B-lið 68. gr. laganna.]^1)
-                           ^1)[234]L. 129/2004, 32. gr.
+                           ^1)[254]L. 129/2004, 32. gr.
      [XVI. Ákvæði 82. og 83. gr. laganna falla brott 31. desember 2005.]^1)
-                           ^1)[235]L. 129/2004, 32. gr.
+                           ^1)[255]L. 129/2004, 32. gr.
  [XVII. Vegna félaga sem hafa annað reikningsár en almanaksárið skal álagningu
  hagað samkvæmt eftirfarandi reglum vegna reikningsárs sem lýkur á árinu 2005.
     Álagningu skal haga samkvæmt þeim eignarskattsstofni sem ákvarðast í lok
-    reikningsárs á grundvelli ákvæða [236]laga nr. 90/2003, um tekjuskatt og
+    reikningsárs á grundvelli ákvæða [256]laga nr. 90/2003, um tekjuskatt og
 eignarskatt, eins og þau lög voru 30. desember 2005. Hafi félag fengið samþykki
   skattstjóra fyrir öðru reikningsári en almanaksári og við þá breytingu haft
   skert reikningsár fyrir tímabilið frá lokum fyrra tímabils til upphafs næsta
         reikningsárs og jafnframt greitt eignarskatt við lok hins skerta
      reikningstímabils skal félagið undanþegið álagningu eignarskatts vegna
                     reikningsárs sem lýkur á árinu 2005.]^1)
-                            ^1)[237]L. 116/2005, 3. gr.
+                            ^1)[257]L. 116/2005, 3. gr.
+ [XVIII. Frá tekjuskattsstofni skv. 2. tölul. og b-lið 3. tölul. 61. gr. vegna
+rekstrarársins 2005 er heimilt að draga fjárhæð gengishagnaðar umfram gengistap
+af hvers konar eignum og skuldum í erlendum verðmæli, sbr. 5. tölul. 1. mgr. 8.
+     gr. og 4. tölul. 1. mgr. 49. gr., sem nemur allt að þeirri fjárhæð sem
+tekjuskattur hefði reiknast af á árinu 2006 vegna rekstrarársins 2005 og dreifa
+   þeirri fjárhæð jafnt til skattlagningar á rekstrarárin 2006, 2007 og 2008.
+ Frestun tekjufærslu skv. 1. mgr. kemur því aðeins til greina að yfirfæranlegt
+tap hafi verið jafnað að fullu og að eigi hafi verið nýttar hlutfallslega lægri
+     fyrningar skv. 37. gr. og niðurfærslur skv. 3. og 4. tölul. 31. gr. á
+                    rekstrarárinu 2005 en rekstrarárið 2004.
+    Félag sem tekur þátt í samsköttun skv. 55. gr. getur því aðeins frestað
+tekjufærslu skv. 1. mgr. að samnýtanlegt rekstrartap samsköttunarfélaganna hafi
+                                 verið jafnað.
+Heimild til frestunar tekjufærslu skv. 1. mgr. tekur ekki til fjármálafyrirtækja
+sem stunda starfsemi sem fellur undir [258]2. gr. laga nr. 87/1998, um opinbert
+                      eftirlit með fjármálastarfsemi.]^1)
+      ^1)[259]L. 48/2006, 1. gr. Ákvæðið kemur til framkvæmda við álagningu á
+  árunum 2006, 2007, 2008 og 2009 á tekjur rekstraráranna 2005, 2006, 2007 og
+                                     2008.
+[XIX. Þar sem í 31., 66., 71. og 83. gr. er kveðið á um alþjóðleg viðskiptafélög
+   skulu þau ákvæði ekki eiga við að því marki sem mismunur á skattgreiðslum
+alþjóðlegs viðskiptafélags, annars vegar eftir þeim sérákvæðum sem um slík félög
+ gilda samkvæmt [260]lögum nr. 29/1999, um breyting á lögum um álagningu skatta
+  og gjalda vegna alþjóðlegra viðskiptafélaga, og hins vegar samkvæmt almennum
+ skattalögum, fer yfir fjárhæð sem samsvarar 100.000 evrum á hverju þriggja ára
+tímabili að teknu tilliti til hvers konar annarrar ríkisaðstoðar. Fari mismunur
+   á heildarskattgreiðslum yfir þau mörk gilda ákvæði almennra skattalaga um
+        skattskyldu viðkomandi félags, frá því að farið er yfir mörkin.
+Ákvæði 1. mgr. á ekki við þegar starfsemi alþjóðlegs viðskiptafélags er alfarið
+    utan gildissviðs EES-samningsins eins og það er skilgreint í bókun 3 við
+                                EES-samninginn.
+       Skattstjóri skal hafa umsjón með því að ákvæði þessu sé framfylgt.
+ Fjármálaráðherra er heimilt að setja reglugerð sem kveður nánar á um framkvæmd
+                               þessa ákvæðis.]^1)
+                            ^1)[261]L. 79/2006, 1. gr.
 
 References
 
@@ -3087,150 +3153,174 @@ References
   88. file:///altext/stjt/2005.077.html
   89. file:///altext/stjt/2005.116.html
   90. file:///altext/stjt/2005.134.html
-  91. file:///altext/stjt/2004.129.html
-  92. file:///altext/stjt/2004.129.html
-  93. file:///altext/stjt/2005.077.html
-  94. file:///altext/stjt/2004.129.html
-  95. file:///altext/stjt/2004.129.html
-  96. file:///altext/stjt/2004.129.html
-  97. file://1997129.html#g14
-  98. file://1984009.html
-  99. file:///altext/stjt/2004.129.html
- 100. file:///altext/stjt/2003.143.html
- 101. file://1997138.html
- 102. file:///altext/stjt/1996.137.html
- 103. file:///altext/stjt/1998.154.html
- 104. file://1994144.html
- 105. file:///altext/stjt/1996.137.html
- 106. file://1991021.html
- 107. file://1984009.html
+  91. file:///altext/stjt/2006.048.html
+  92. file:///altext/stjt/2006.065.html
+  93. file:///altext/stjt/2006.077.html
+  94. file:///altext/stjt/2006.079.html
+  95. file:///altext/stjt/2006.080.html
+  96. file:///altext/stjt/2006.108.html
+  97. file:///altext/stjt/2004.129.html
+  98. file:///altext/stjt/2004.129.html
+  99. file:///altext/stjt/2005.077.html
+ 100. file:///altext/stjt/2006.077.html
+ 101. file:///altext/stjt/2004.129.html
+ 102. file:///altext/stjt/2004.129.html
+ 103. file:///altext/stjt/2006.077.html
+ 104. file:///altext/stjt/2004.129.html
+ 105. file://1997129.html#g14
+ 106. file://1984009.html
+ 107. file:///altext/stjt/2004.129.html
  108. file:///altext/stjt/2003.143.html
- 109. file:///altext/stjt/2003.143.html
- 110. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/297-2003
- 111. file://1990038.html#g5
- 112. file://1940019.html#g109
- 113. file://1991022.html#g56
- 114. file://1991022.html#g59
- 115. file:///altext/stjt/1998.154.html
- 116. file:///altext/stjt/2004.129.html
- 117. file:///altext/stjt/2004.077.html
- 118. file:///altext/stjt/2004.129.html
- 119. file:///altext/stjt/2004.129.html
- 120. file:///altext/stjt/2003.143.html
- 121. file:///altext/stjt/2004.129.html
- 122. file:///altext/stjt/2004.129.html
- 123. file:///altext/stjt/2003.143.html
- 124. file:///altext/stjt/2003.143.html
- 125. file://1987043.html#g4
- 126. file://1987043.html#g5
- 127. file:///altext/stjt/2003.143.html
- 128. file:///altext/stjt/2004.129.html
+ 109. file://1997138.html
+ 110. file:///altext/stjt/1996.137.html
+ 111. file:///altext/stjt/1998.154.html
+ 112. file://1994144.html
+ 113. file:///altext/stjt/1996.137.html
+ 114. file:///altext/stjt/2006.108.html
+ 115. file:///altext/stjt/2006.108.html
+ 116. file://1991021.html
+ 117. file://1984009.html
+ 118. file:///altext/stjt/2003.143.html
+ 119. file:///altext/stjt/2003.143.html
+ 120. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/297-2003
+ 121. file://1990038.html
+ 122. file://1940019.html#g109
+ 123. file://1991022.html#g56
+ 124. file://1991022.html#g59
+ 125. file:///altext/stjt/1998.154.html
+ 126. file:///altext/stjt/2004.129.html
+ 127. file:///altext/stjt/2004.077.html
+ 128. file:///altext/stjt/2006.065.html
  129. file:///altext/stjt/2004.129.html
  130. file:///altext/stjt/2004.129.html
- 131. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/010-1992
- 132. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/499-2001
- 133. file:///altext/stjt/2005.116.html
- 134. file:///altext/stjt/2005.116.html
- 135. file://1993117.html#g9c
- 136. file://1993097.html#g76
- 137. file:///altext/stjt/2003.143.html
- 138. file:///altext/stjt/2004.129.html
+ 131. file:///altext/stjt/2003.143.html
+ 132. file:///altext/stjt/2004.129.html
+ 133. file:///altext/stjt/2004.129.html
+ 134. file:///altext/stjt/2003.143.html
+ 135. file:///altext/stjt/2003.143.html
+ 136. file://1987043.html#g4
+ 137. file://1987043.html#g5
+ 138. file:///altext/stjt/2003.143.html
  139. file:///altext/stjt/2004.129.html
  140. file:///altext/stjt/2004.129.html
  141. file:///altext/stjt/2004.129.html
- 142. file:///altext/stjt/2004.129.html
- 143. file:///altext/stjt/2004.129.html
- 144. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/555-2004
- 145. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/007-2005
- 146. file:///altext/stjt/2004.129.html
- 147. file:///altext/stjt/2004.129.html
- 148. file:///altext/stjt/2004.129.html
- 149. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/990-2001
- 150. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/300-2003
- 151. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/559-2004
- 152. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/642-2004
- 153. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/033-2005
- 154. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/648-1995
- 155. file://1982065.html
- 156. file:///altext/stjt/2003.143.html
- 157. file:///altext/stjt/2003.143.html
- 158. file:///altext/stjt/2003.143.html
+ 142. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/010-1992
+ 143. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/499-2001
+ 144. file:///altext/stjt/2005.116.html
+ 145. file:///altext/stjt/2005.116.html
+ 146. file://1993117.html#g9c
+ 147. file://1993097.html#g76
+ 148. file:///altext/stjt/2003.143.html
+ 149. file:///altext/stjt/2004.129.html
+ 150. file:///altext/stjt/2004.129.html
+ 151. file:///altext/stjt/2004.129.html
+ 152. file:///altext/stjt/2004.129.html
+ 153. file:///altext/stjt/2004.129.html
+ 154. file:///altext/stjt/2004.129.html
+ 155. file:///altext/stjt/2006.108.html
+ 156. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/555-2004
+ 157. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/007-2005
+ 158. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/346-2006
  159. file:///altext/stjt/2004.129.html
  160. file:///altext/stjt/2004.129.html
  161. file:///altext/stjt/2004.129.html
- 162. file:///altext/stjt/2004.129.html
- 163. file:///altext/stjt/2004.129.html
- 164. file:///altext/stjt/2004.129.html
- 165. file:///altext/stjt/2004.129.html
- 166. file:///altext/stjt/2004.129.html
- 167. file:///altext/stjt/2004.129.html
- 168. file:///altext/stjt/2004.129.html
- 169. file:///altext/stjt/2004.129.html
- 170. file:///altext/stjt/2004.129.html
- 171. file:///altext/stjt/2004.129.html
- 172. file:///altext/stjt/2004.129.html
- 173. file:///altext/stjt/2004.129.html
+ 162. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/990-2001
+ 163. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/300-2003
+ 164. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/559-2004
+ 165. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/642-2004
+ 166. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/033-2005
+ 167. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/347-2006
+ 168. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/648-1995
+ 169. file://1982065.html
+ 170. file:///altext/stjt/2003.143.html
+ 171. file:///altext/stjt/2003.143.html
+ 172. file:///altext/stjt/2003.143.html
+ 173. file:///altext/stjt/2006.077.html
  174. file:///altext/stjt/2004.129.html
- 175. file:///altext/stjt/2005.116.html
- 176. file:///altext/stjt/2003.143.html
- 177. file:///altext/stjt/2003.143.html
+ 175. file:///altext/stjt/2004.129.html
+ 176. file:///altext/stjt/2004.129.html
+ 177. file:///altext/stjt/2004.129.html
  178. file:///altext/stjt/2004.129.html
  179. file:///altext/stjt/2004.129.html
  180. file:///altext/stjt/2004.129.html
  181. file:///altext/stjt/2004.129.html
- 182. file:///altext/stjt/2003.143.html
- 183. file://1992030.html
- 184. file://1992030.html
- 185. file:///altext/stjt/2004.077.html
- 186. file://1992030.html
+ 182. file:///altext/stjt/2004.129.html
+ 183. file:///altext/stjt/2004.129.html
+ 184. file:///altext/stjt/2004.129.html
+ 185. file:///altext/stjt/2004.129.html
+ 186. file:///altext/stjt/2006.065.html
  187. file:///altext/stjt/2004.129.html
- 188. file://1992030.html
- 189. file:///altext/stjt/2005.134.html
+ 188. file:///altext/stjt/2004.129.html
+ 189. file:///altext/stjt/2004.129.html
  190. file:///altext/stjt/2004.129.html
- 191. file:///altext/stjt/2004.129.html
- 192. file://2001038.html#g6
- 193. file://2001038.html#g8
- 194. file://1992030.html#g8
- 195. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/124-2001
+ 191. file:///altext/stjt/2005.116.html
+ 192. file:///altext/stjt/2003.143.html
+ 193. file:///altext/stjt/2003.143.html
+ 194. file:///altext/stjt/2004.129.html
+ 195. file:///altext/stjt/2004.129.html
  196. file:///altext/stjt/2004.129.html
- 197. file://1990046.html
- 198. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/245-1963
- 199. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/079-1966
- 200. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/307-1968
- 201. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/074-1969
- 202. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/167-1970
- 203. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/383-1974
- 204. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/009-1976
- 205. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/434-1978
- 206. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/213-2001
- 207. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/037-1989
- 208. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/037-1993
- 209. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/109-1996
- 210. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/757-1997
- 211. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/483-1994
- 212. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/498-2001
- 213. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/439-2003
- 214. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/589-2000
- 215. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2000
- 216. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/830-2000
- 217. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/213-2001
- 218. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/373-2001
- 219. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/223-2003
- 220. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/555-2004
- 221. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/007-2005
- 222. file://1981075.html
- 223. file:///altext/stjt/2001.133.html
- 224. file:///altext/stjt/2003.143.html
- 225. file:///altext/stjt/2003.143.html
- 226. file:///altext/stjt/2003.143.html
- 227. file://2003090.html
- 228. file:///altext/stjt/2003.143.html
- 229. file://2003090.html
- 230. file:///altext/stjt/2004.077.html
- 231. file:///altext/stjt/2004.129.html
- 232. file:///altext/stjt/2004.129.html
- 233. file:///altext/stjt/2004.129.html
- 234. file:///altext/stjt/2004.129.html
- 235. file:///altext/stjt/2004.129.html
- 236. file://2003090.html
- 237. file:///altext/stjt/2005.116.html
+ 197. file:///altext/stjt/2004.129.html
+ 198. file:///altext/stjt/2003.143.html
+ 199. file://1992030.html
+ 200. file://1992030.html
+ 201. file:///altext/stjt/2004.077.html
+ 202. file://1992030.html
+ 203. file:///altext/stjt/2004.129.html
+ 204. file://1992030.html
+ 205. file:///altext/stjt/2005.134.html
+ 206. file:///altext/stjt/2006.080.html
+ 207. file:///altext/stjt/2006.080.html
+ 208. file:///altext/stjt/2004.129.html
+ 209. file:///altext/stjt/2004.129.html
+ 210. file://2001038.html#g6
+ 211. file://2001038.html#g8
+ 212. file://1992030.html#g8
+ 213. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/124-2001
+ 214. file:///altext/stjt/2004.129.html
+ 215. file://1990046.html
+ 216. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/245-1963
+ 217. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/079-1966
+ 218. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/307-1968
+ 219. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/074-1969
+ 220. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/167-1970
+ 221. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/383-1974
+ 222. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/009-1976
+ 223. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/434-1978
+ 224. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/213-2001
+ 225. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/037-1989
+ 226. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/037-1993
+ 227. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/109-1996
+ 228. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/757-1997
+ 229. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/483-1994
+ 230. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/498-2001
+ 231. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/439-2003
+ 232. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/589-2000
+ 233. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2000
+ 234. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/830-2000
+ 235. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/213-2001
+ 236. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/373-2001
+ 237. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/334-2006
+ 238. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/223-2003
+ 239. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/555-2004
+ 240. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/007-2005
+ 241. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/346-2006
+ 242. file://1981075.html
+ 243. file:///altext/stjt/2001.133.html
+ 244. file:///altext/stjt/2003.143.html
+ 245. file:///altext/stjt/2003.143.html
+ 246. file:///altext/stjt/2003.143.html
+ 247. file://2003090.html
+ 248. file:///altext/stjt/2003.143.html
+ 249. file://2003090.html
+ 250. file:///altext/stjt/2004.077.html
+ 251. file:///altext/stjt/2004.129.html
+ 252. file:///altext/stjt/2004.129.html
+ 253. file:///altext/stjt/2004.129.html
+ 254. file:///altext/stjt/2004.129.html
+ 255. file:///altext/stjt/2004.129.html
+ 256. file://2003090.html
+ 257. file:///altext/stjt/2005.116.html
+ 258. file://1998087.html#g2
+ 259. file:///altext/stjt/2006.048.html
+ 260. file:///altext/stjt/1999.029.html
+ 261. file:///altext/stjt/2006.079.html

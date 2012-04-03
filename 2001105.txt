@@ -12,6 +12,7 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
   Tóku gildi 17. júlí 2001. EES-samningurinn: II. viðauki tilskipun 93/7/EBE.
+              Breytt með [4]l. 40/2006 (tóku gildi 1. sept. 2006).
 
       1. gr. Tilgangur laga þessara er að varðveita menningarsögu íslensku
  þjóðarinnar, standa vörð um menningarsögulegar minjar hennar og tryggja skil á
@@ -55,10 +56,11 @@ tilheyrandi plötum og frumgerð veggspjalda, séu verkin eldri en 50 ára og ek
   Safnaráð samkvæmt safnalögum veitir formlegt leyfi til útflutnings muna eða
          gripa sem taldir eru upp í 1.14. tölul. 1. mgr., þó þannig að
    Náttúrufræðistofnun Íslands veitir slíkt leyfi ef um er að ræða útflutning
-náttúrugripa skv. 4. mgr. [4]15. gr. laga nr. 60/1992. Ef um er að ræða muni eða
+náttúrugripa skv. 4. mgr. [5]15. gr. laga nr. 60/1992. Ef um er að ræða muni eða
  gripi sem taldir eru upp í 8.11. tölul. 1. mgr. skal safnaráð hafa samráð við
- Þjóðskjalasafn Íslands og Stofnun Árna Magnússonar á Íslandi eftir því sem við
-                                       á.
+Þjóðskjalasafn Íslands og [Stofnun Árna Magnússonar í íslenskum fræðum]^1) eftir
+                                 því sem við á.
+                             ^1)[6]L. 40/2006, 11. gr.
  3. gr. Ákvæði 2. gr. taka til menningarminja er falla undir 1., 2., 8. og 11.
             tölul. þeirrar greinar án tillits til verðgildis þeirra.
  Ákvæði 2. gr. taka til menningarminja er falla undir 4., 5., 7. og 10. tölul.
@@ -100,7 +102,7 @@ Evrópska efnahagssvæðisins skal skilað í samræmi við reglur sem gilda á 
 Ákvæði 5. og 6. mgr. þessarar greinar og ákvæði 6. gr., svo og ákvæði 7. gr. að
   því er varðar skil menningarverðmæta til annarra ríkja, gilda einvörðungu um
    kröfur um skil frá hlutaðeigandi stjórnvöldum í aðildarríkjum samnings um
-  Evrópska efnahagssvæðið, sbr. [5]lög nr. 2/1993. Íslensk stjórnvöld skulu þó
+  Evrópska efnahagssvæðið, sbr. [7]lög nr. 2/1993. Íslensk stjórnvöld skulu þó
  jafnframt leitast við eftir föngum að aðstoða við réttmæt skil menningarminja
  til ríkja er ekki eiga aðild að nefndum samningi hafi minjarnar verið fluttar
  þaðan í andstöðu við þarlend lög. Skil á menningarminjum samkvæmt ákvæði þessu
@@ -169,7 +171,7 @@ menntamálaráðherra setur. Safnaráð leggur mat á verðgildi menningarminja 
 gr., sbr. og 5. gr., og annast um framkvæmd skila á menningarminjum til annarra
                                ríkja skv. 5. gr.
  Ágreiningi um leyfisveitingar eða synjanir útflutnings á þessu sviði má skjóta
-  til menntamálaráðuneytis, sbr. nánar ákvæði [6]stjórnsýslulaga, nr. 37/1993.
+  til menntamálaráðuneytis, sbr. nánar ákvæði [8]stjórnsýslulaga, nr. 37/1993.
   Verður þá ekki af útflutningi fyrr en ráðuneytið hefur heimilað hann og lagt
 fyrir safnaráð að gefa út leyfisbréf þar að lútandi. Til menntamálaráðuneytis má
  og skjóta ágreiningi um önnur atriði er lúta að framkvæmd ákvæða laga þessara.
@@ -212,7 +214,7 @@ stjórnvalda um skil menningarminja frá öðrum aðildarríkjum að nefndum sam
 10. gr. Ekki ber að greiða stimpilgjöld eða þinglýsingargjöld af skjölum sem út
                    eru gefin vegna framkvæmda á lögum þessum.
   11. gr. Brot gegn ákvæðum 2.5. gr. laga þessara varða sektum til ríkissjóðs
-nema þyngri refsing liggi við broti skv. [7]177. gr. almennra hegningarlaga, nr.
+nema þyngri refsing liggi við broti skv. [9]177. gr. almennra hegningarlaga, nr.
                               19 12. febrúar 1940.
     12. gr. Ráðherra setur með reglugerð nánari ákvæði um framkvæmd laganna.
                      13. gr. Lög þessi öðlast þegar gildi.
@@ -223,7 +225,9 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001105
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=226
    3. http://www.althingi.is/altext/126/s/0240.html
-   4. file://1992060.html#g15
-   5. file://1993002.html
-   6. file://1993037.html
-   7. file://1940019.html#g177
+   4. file://2006040.html
+   5. file://1992060.html#g15
+   6. file://2006040.html#g11
+   7. file://1993002.html
+   8. file://1993037.html
+   9. file://1940019.html#g177

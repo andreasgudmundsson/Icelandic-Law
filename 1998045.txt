@@ -739,8 +739,8 @@ Vanræki sveitarstjórn að afgreiða eða skila ársreikningum sínum innan til
                       sveitarfélagsins og fyrirtækja þess.
 Sveitarfélag getur veitt Lánasjóði sveitarfélaga tryggingar í tekjum sínum vegna
 lána sem það tekur hjá sjóðnum [og vegna ábyrgða sem það veitir skv. 6. mgr.]^1)
-Félagsmálaráðherra getur sett í reglugerð nánari ákvæði um tryggingar Lánasjóðs
-                     sveitarfélaga í tekjum sveitarfélaga.
+    Félagsmálaráðherra getur sett í reglugerð^2) nánari ákvæði um tryggingar
+                Lánasjóðs sveitarfélaga í tekjum sveitarfélaga.
   Eigi má framkvæma aðför í þeim eignum sveitarfélaga sem nauðsynlegar eru til
  framkvæmda á lögskyldum verkefnum þeirra og sveitarfélög verða eigi tekin til
                                gjaldþrotaskipta.
@@ -754,14 +754,14 @@ opinbera aðila til að veita lögákveðna þjónustu en innbyrðis skal ábyrg
   skiptast í hlutfalli við eignarhluti. Skilyrði fyrir ábyrgðarveitingu er að
   viðkomandi lögaðili sé að fullu í eigu opinberra aðila og að allir eigendur
    ábyrgist lánið í samræmi við eignarhlut sinn. Ábyrgðin fellur úr gildi ef
-          lögaðilinn færist að einhverju leyti í eigu einkaaðila.]^2)
+          lögaðilinn færist að einhverju leyti í eigu einkaaðila.]^3)
  [Prókúruhafa sveitarsjóðs er heimilt fyrir hönd sveitarfélags að ábyrgjast með
    framsalsáritun greiðslu viðskiptaskjala sem sveitarfélagið hefur eignast á
-            eðlilegan hátt í tengslum við daglegan rekstur þess.]^2)
-               ^1)[25]L. 136/2004, 11. gr. ^2)[26]L. 69/2004, 5. gr.
+            eðlilegan hátt í tengslum við daglegan rekstur þess.]^3)
+    ^1)[25]L. 136/2004, 11. gr. ^2)[26]Rg. 123/2006. ^3)[27]L. 69/2004, 5. gr.
 
              [VII. kafli. Eftirlit með fjármálum sveitarfélaga.]^1)
-                             ^1)[27]L. 74/2003, 8. gr.
+                             ^1)[28]L. 74/2003, 8. gr.
                             74. gr. Eftirlitsnefnd.
 Ráðherra skipar þriggja manna eftirlitsnefnd sem hefur það hlutverk að fylgjast
   með fjármálum sveitarfélaga. Einn fulltrúi í nefndina skal skipaður samkvæmt
@@ -783,8 +783,8 @@ eftirlitsnefndinni innan tveggja mánaða grein fyrir hvernig hún hyggst bregð
 störf og málsmeðferð eftirlitsnefndar og viðmiðanir varðandi fjárhagsleg málefni
   sveitarfélaga. Fjárhagsviðmiðanir skulu taka til þeirra atriða sem meginmáli
                skipta við mat á rekstri og efnahag sveitarfélaga.
-        ^1)[28]L. 74/2003, 9. gr. ^2)[29]Rg. 374/2001, sbr. [30]829/2003 og
-                                 [31]352/2005.
+        ^1)[29]L. 74/2003, 9. gr. ^2)[30]Rg. 374/2001, sbr. [31]829/2003 og
+                                 [32]352/2005.
                                75. gr. Fjárþröng.
  Komist sveitarfélag í fjárþröng þannig að sveitarstjórn telur sér eigi unnt að
 standa í skilum skal hún tilkynna það til eftirlitsnefndar skv. 74. gr. Ákvörðun
@@ -857,7 +857,7 @@ Nú duga eigi framangreindar ráðstafanir til þess að koma fjárhag sveitarsj
                                  fjárforræðis.
 
                    [VIII. kafli.]^1) Samvinna sveitarfélaga.
-                             ^1)[32]L. 74/2003, 8. gr.
+                             ^1)[33]L. 74/2003, 8. gr.
                                 81. gr. Almennt.
   Sveitarfélög geta haft samvinnu sín á milli um framkvæmd einstakra verkefna.
      Getur slík samvinna meðal annars farið fram á vettvangi héraðsnefnda,
@@ -922,7 +922,7 @@ Sveitarstjórnir kjósa fulltrúa á ársfund landshlutasamtaka eftir þeim regl
                                     landinu.
 
                      [IX. kafli.]^1) Stækkun sveitarfélaga.
-                             ^1)[33]L. 74/2003, 8. gr.
+                             ^1)[34]L. 74/2003, 8. gr.
                                 88. gr. Almennt.
       Ráðuneytið skal vinna að stækkun sveitarfélaga með samruna fámennra
   sveitarfélaga í stærri og öflugri heildir. Skal ráðuneytið vinna að þessu í
@@ -979,7 +979,7 @@ Sveitarstjórn lætur gera atkvæðaseðil til afnota við atkvæðagreiðsluna 
  samstarfsnefndar hljóti ekki samþykki íbúa allra hlutaðeigandi sveitarfélaga.
 Skilyrði er að tillaga hafi verið samþykkt í a.m.k. ^2/3 sveitarfélaganna og að
            í þeim sveitarfélögum búi a.m.k. ^2/3 íbúa á svæðinu.]^1)
-                             ^1)[34]L. 69/2004, 6. gr.
+                             ^1)[35]L. 69/2004, 6. gr.
       92. gr. Fjárhagslegar ráðstafanir eftir samþykkt sameiningartillögu.
    Hafi tillaga um sameiningu hlotið samþykki skv. 91. gr. er sveitarstjórnum
    viðkomandi sveitarfélaga óheimilt að skuldbinda sveitarsjóði eða samþykkja
@@ -1018,7 +1018,7 @@ Sveitarstjórn hins sameinaða sveitarfélags skal hlutast til um að samþykkti
 almennar reglur^1) þess efnis að Jöfnunarsjóður sveitarfélaga veiti fjárhagslega
 aðstoð til þess að greiða fyrir sameiningu sveitarfélaga. Slíka aðstoð má veita
                       í allt að fimm ár eftir sameiningu.
-                   ^1)[35]Rgl. 295/2003, sbr. [36]rgl. 644/2005.
+                   ^1)[36]Rgl. 295/2003, sbr. [37]rgl. 644/2005.
                      99. gr. Afsláttur af fasteignaskatti.
      Þegar sveitarfélag í dreifbýli og sveitarfélag í þéttbýli sameinast er
   sveitarstjórn hins sameinaða sveitarfélags heimilt að ákveða að um tiltekinn
@@ -1027,7 +1027,7 @@ aðstoð til þess að greiða fyrir sameiningu sveitarfélaga. Slíka aðstoð 
                    fasteignaeigendur í dreifbýli og þéttbýli.
 
                 [X. kafli.]^1) Samskipti ríkis og sveitarfélaga.
-                             ^1)[37]L. 74/2003, 8. gr.
+                             ^1)[38]L. 74/2003, 8. gr.
                           100. gr. Samstarfssáttmáli.
  Ríkisstjórninni er rétt að koma á formlegu samstarfi við samtök sveitarfélaga
      með gerð samstarfssáttmála ríkis og sveitarfélaga og með öðrum hætti.
@@ -1059,7 +1059,7 @@ Ráðuneytið skal leitast við að kveða upp úrskurð innan tveggja mánaða 
     Ráðuneytið skal árlega gefa út úrskurði sína í sveitarstjórnarmálefnum.
 
                          [XI. kafli.]^1) Önnur ákvæði.
-                             ^1)[38]L. 74/2003, 8. gr.
+                             ^1)[39]L. 74/2003, 8. gr.
               104. gr. Almennar atkvæðagreiðslur og borgarafundir.
 Heimilt er sveitarstjórn að efna til almennrar atkvæðagreiðslu um einstök mál og
          að boða til almennra borgarafunda um málefni sveitarfélagsins.
@@ -1077,12 +1077,12 @@ Við framkvæmd atkvæðagreiðslu skv. 5. mgr. skal farið eftir meginreglum la
            kosningar til sveitarstjórna eftir því sem við getur átt.
                               105. gr. Gildistaka.
                        [Lög þessi öðlast þegar gildi.]^1)
-                            ^1)[39]L. 123/1998, 1. gr.
+                            ^1)[40]L. 123/1998, 1. gr.
 
                             Ákvæði til bráðabirgða.
 I. Vegna ákvæðis 1. mgr. 1. gr. laganna skal þeim hlutum landsins, þar með talið
   jöklum, sem ekki hefur þegar verið skipað innan staðarmarka sveitarfélaga á
- grundvelli [40]1. eða [41]3. gr. sveitarstjórnarlaga, nr. 8/1986, skipað innan
+ grundvelli [41]1. eða [42]3. gr. sveitarstjórnarlaga, nr. 8/1986, skipað innan
                staðarmarka sveitarfélaga með eftirfarandi hætti:
 Eignarlandi skal skipað innan staðarmarka sama sveitarfélags og sú jörð sem það
        hefur áður tilheyrt nema fyrir liggi sérstakar heimildir um annað.
@@ -1132,14 +1132,14 @@ fulltrúa í samstarfsnefnd sem annast undirbúning atkvæðagreiðslu um tillö
    gerð kynningarefnis um áhrif hugsanlegrar sameiningar. Sameiningarnefnd og
    félagsmálaráðuneytið skulu veita samstarfsnefndinni nauðsynlega ráðgjöf um
                             meðferð tillagnanna.]^1)
-   ^1)[42]L. 69/2004, 7. gr. Ákvæði greinarinnar skulu ekki standa því í vegi að
+   ^1)[43]L. 69/2004, 7. gr. Ákvæði greinarinnar skulu ekki standa því í vegi að
   sveitarfélög sem ákveðið hafa að skipa samstarfsnefnd, sbr. 90. gr. laganna,
-  fyrir gildistöku [43]laga nr. 69/2004 haldi þeim viðræðum áfram og efni til
+  fyrir gildistöku [44]laga nr. 69/2004 haldi þeim viðræðum áfram og efni til
  atkvæðagreiðslu um sameiningu 23. apríl 2005 eða fyrr. Um framkvæmd og úrslit
  slíkra atkvæðagreiðslna sem fram fara eftir 31. desember 2004 fer skv. brbákv.
  IIIV og getur sameiningarnefnd, að höfðu samráði við viðkomandi sveitarfélög,
      lagt fram bindandi tillögu um að fleiri sveitarfélög skipi fulltrúa í
-samstarfsnefnd og taki þátt í atkvæðagreiðslu um sameiningartillögu, sbr. [44]8.
+samstarfsnefnd og taki þátt í atkvæðagreiðslu um sameiningartillögu, sbr. [45]8.
                                 gr. l. 69/2004.
 [III. Atkvæðagreiðsla um tillögur sameiningarnefndar skal fara fram [8. október
    2005]^1) í öllum sveitarfélögum sem tillögur varða. [Þrátt fyrir ákvæði 1.
@@ -1151,7 +1151,7 @@ sveitarfélaga fái næga kynningu meðal íbúa fyrir kjördag. Samstarfsnefndi
  koma saman eins fljótt og unnt er til að taka ákvörðun um kjördag og tilkynna
           ráðuneytinu niðurstöðu sína eigi síðar en 20. maí 2005.]^1)
    Um framkvæmd atkvæðagreiðslu, kosningarrétt og gerð kjörskrár gilda ákvæði
-  [45]laga um kosningar til sveitarstjórna, nr. 5/1998, með síðari breytingum,
+  [46]laga um kosningar til sveitarstjórna, nr. 5/1998, með síðari breytingum,
                               eftir því sem við á.
    Yfirkjörstjórn í hverju sveitarfélagi annast framkvæmd atkvæðagreiðslu og
   talningu atkvæða en samstarfsnefnd hefur eftirlit með talningu og tilkynnir
@@ -1159,7 +1159,7 @@ sveitarfélaga fái næga kynningu meðal íbúa fyrir kjördag. Samstarfsnefndi
  Ekki er heimilt að hefja talningu atkvæða fyrr en öllum kjörstöðum hefur verið
          lokað í þeim sveitarfélögum sem taka þátt í atkvæðagreiðslu um
                             sameiningartillögu.]^2)
-                ^1)[46]L. 23/2005, 1. gr. ^2)[47]L. 69/2004, 7. gr.
+                ^1)[47]L. 23/2005, 1. gr. ^2)[48]L. 69/2004, 7. gr.
   [IV. Sveitarfélag verður eigi sameinað öðrum sveitarfélögum samkvæmt tillögu
    sameiningarnefndar nema fleiri íbúar þess lýsi sig fylgjandi tillögunni í
                           atkvæðagreiðslu en andvíga.
@@ -1179,7 +1179,7 @@ Að lokinni atkvæðagreiðslu skv. 3. mgr. er sveitarstjórnum sveitarfélaga �
                                     svæðinu.
 Sameining sveitarfélaga samkvæmt þessu ákvæði skal taka gildi 9. júní 2006 nema
      sveitarstjórnir ákveði aðra dagsetningu í samráði við ráðuneytið.]^1)
-                             ^1)[48]L. 69/2004, 7. gr.
+                             ^1)[49]L. 69/2004, 7. gr.
   [V. Sameiningarnefnd getur ákveðið að leggja fram nýja tillögu um sameiningu
        sveitarfélaga ef tillaga nefndarinnar er felld í atkvæðagreiðslu.
    Atkvæðagreiðsla um þá tillögu skal fara fram á tímabilinu október 2005 til
@@ -1187,7 +1187,7 @@ Sameining sveitarfélaga samkvæmt þessu ákvæði skal taka gildi 9. júní 20
  meira en sex mánuðir frá atkvæðagreiðslu um tillögu sameiningarnefndar].^1) Að
    öðru leyti fer um framkvæmd atkvæðagreiðslu og úrslit samkvæmt ákvæðum til
                            bráðabirgða II og III.]^2)
-     ^1)[49]L. 23/2005, 2. gr. ^2)[50]L. 69/2004, 7. gr. Tilvitnuð ákvæði til
+     ^1)[50]L. 23/2005, 2. gr. ^2)[51]L. 69/2004, 7. gr. Tilvitnuð ákvæði til
                       bráðabirgða hafa númerin III og IV.
 
 References
@@ -1218,28 +1218,29 @@ References
   23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/721-2001
   24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/561-2004
   25. file://2004136.html#g11
-  26. file:///altext/stjt/2004.069.html
-  27. file:///altext/stjt/2003.074.html
+  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/123-2006
+  27. file:///altext/stjt/2004.069.html
   28. file:///altext/stjt/2003.074.html
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-2001
-  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/829-2003
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/352-2005
-  32. file:///altext/stjt/2003.074.html
+  29. file:///altext/stjt/2003.074.html
+  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-2001
+  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/829-2003
+  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/352-2005
   33. file:///altext/stjt/2003.074.html
-  34. file:///altext/stjt/2004.069.html
-  35. http://stjornartidindi.is/servlet/stjrtid/B/2003/295.pdf
-  36. http://stjornartidindi.is/servlet/stjrtid/B/2005/644.pdf
-  37. file:///altext/stjt/2003.074.html
+  34. file:///altext/stjt/2003.074.html
+  35. file:///altext/stjt/2004.069.html
+  36. http://stjornartidindi.is/servlet/stjrtid/B/2003/295.pdf
+  37. http://stjornartidindi.is/servlet/stjrtid/B/2005/644.pdf
   38. file:///altext/stjt/2003.074.html
-  39. file:///altext/stjt/1998.123.html
-  40. file:///altext/stjtnr.html#1986008?g1
-  41. file://1986008.html
-  42. file:///altext/stjt/2004.069.html
+  39. file:///altext/stjt/2003.074.html
+  40. file:///altext/stjt/1998.123.html
+  41. file:///altext/stjtnr.html#1986008?g1
+  42. file://1986008.html
   43. file:///altext/stjt/2004.069.html
   44. file:///altext/stjt/2004.069.html
-  45. file://1998005.html
-  46. file:///altext/stjt/2005.023.html
-  47. file:///altext/stjt/2004.069.html
+  45. file:///altext/stjt/2004.069.html
+  46. file://1998005.html
+  47. file:///altext/stjt/2005.023.html
   48. file:///altext/stjt/2004.069.html
-  49. file:///altext/stjt/2005.023.html
-  50. file:///altext/stjt/2004.069.html
+  49. file:///altext/stjt/2004.069.html
+  50. file:///altext/stjt/2005.023.html
+  51. file:///altext/stjt/2004.069.html

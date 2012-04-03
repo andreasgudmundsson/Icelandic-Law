@@ -30,7 +30,12 @@ gildi 29. apríl 1998), [20]l. 32/1998 (tóku gildi 1. júlí 1998), [21]l. 82/1
 72/2003 (tóku gildi 10. apríl 2003), [28]l. 132/2003 (tóku gildi 1. jan. 2004),
   [29]l. 84/2004 (tóku gildi 18. júní 2004 nema 9. gr. sem tók gildi 1. sept.
     2004; EES-samningurinn: II. viðauki tilskipun 2002/24/EB, XIII. viðauki
-      tilskipun 2003/20/EB) og [30]l. 24/2005 (tóku gildi 1. sept. 2005).
+tilskipun 2003/20/EB), [30]l. 24/2005 (tóku gildi 1. sept. 2005), [31]l. 66/2006
+(tóku gildi 23. júní 2006; EES-samningurinn: XIII. viðauki reglugerð 3820/85/EBE
+   og 3821/85/EBE, tilskipun 88/599/EBE, 2002/15/EB og 91/671/EBE) og [32]l.
+  108/2006 (taka gildi um leið og samningur milli ríkisstjórnar Íslands annars
+   vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar, sem
+  undirritaður var í Hoyvík í Færeyjum 31. ágúst 2005, hefur gengið í gildi).
 
                               I. Gildissvið o.fl.
                                   Gildissvið.
@@ -48,10 +53,14 @@ Hver og ein af samhliða reinum, sem akbraut er skipt í að endilöngu með mer
             eða er nægilega breið fyrir umferð bifreiða í einni röð.
                                    [Ásþungi:
             Þungi sem flyst á veg af hjólum á einum ás ökutækis.]^1)
-                                    Bifhjól:
-Vélknúið ökutæki sem ekki telst torfærutæki og aðallega er ætlað til fólks- eða
-   vöruflutninga og er á tveimur hjólum, með eða án hliðarvagns, eða á þremur
-                   hjólum og innan við 400 kg að eigin þyngd.
+                                   [Bifhjól:
+     a. Vélknúið ökutæki sem hvorki telst bifreið né torfærutæki, er aðallega
+     ætlað til fólks- eða vöruflutninga og er á tveimur hjólum, með eða án
+hliðarvagns, eða á þremur, fjórum eða fleiri hjólum og innan við 400 kg að eigin
+                                     þyngd.
+     b. Vélknúið ökutæki sem aðallega er ætlað til vöruflutninga, er a.m.k. á
+      fjórum hjólum og innan við 550 kg að eigin þyngd án rafgeyma, sé það
+                                 rafknúið.]^2)
                                     Bifreið:
       a. Vélknúið ökutæki sem ekki telst torfærutæki og aðallega er ætlað til
 fólks- eða vöruflutninga og er á fjórum hjólum eða fleiri eða á þremur hjólum og
@@ -71,6 +80,14 @@ fólks- eða vöruflutninga og er á fjórum hjólum eða fleiri eða á þremur
                                   Eigin þyngd:
 Þyngd ökutækis, sem tilbúið er til notkunar, að meðtöldum búnaði, sem því fylgir
     að jafnaði, eldsneyti, smurolíu, kælivatni, varahjóli, verkfærum o.þ.h.
+                                [Farstarfsmaður:
+ Starfsmaður flytjanda, það er ökumaður og aðrir í áhöfn hóp- eða vörubifreiðar
+sem aðstoða ökumann við önnur störf en akstur og einnig sá sem er í bifreið til
+              þess að leysa ökumanninn af þegar hann tekur hvíld.
+                                   Flytjandi:
+ Skráður eigandi eða umráðamaður ökutækis eða sá sem hefur það að láni og notar
+það til fólks- eða vöruflutninga á vegum í atvinnuskyni og ekur því sjálfur eða
+                         ökumaður í hans þjónustu.]^2)
                                    Gangbraut:
   Sérstaklega merktur hluti vegar, sem ætlaður er gangandi vegfarendum til að
                               komast yfir akbraut.
@@ -92,7 +109,7 @@ fólks- eða vöruflutninga og er á fjórum hjólum eða fleiri eða á þremur
                                  Létt bifhjól:
     [Bifhjól sem búið er brunahreyfli sem ekki er yfir 50 rúmsentimetrar að
 slagrúmmáli eða búið rafhreyfli og er eigi hannað til hraðari aksturs en 45 km á
-                                   klst.]^2)
+                                   klst.]^3)
                                    Reiðhjól:
       [a. Ökutæki, sem knúið er áfram með stig- eða sveifarbúnaði og eigi er
                            eingöngu ætlað til leiks.
@@ -101,7 +118,7 @@ slagrúmmáli eða búið rafhreyfli og er eigi hannað til hraðari aksturs en 
    c. Lítil vél- eða rafknúin ökutæki, sem hönnuð eru til aksturs á hraða frá 8
     km og upp í 15 km á klst. Undir þessa skilgreiningu fellur m.a. vélknúið
  hlaupahjól sem búið er stigbretti, er á hjólum og með stöng að framan sem á er
-              stýri. Slíkum farartækjum má ekki aka á akbraut.]^3)
+              stýri. Slíkum farartækjum má ekki aka á akbraut.]^4)
                                    Tengitæki:
 Ökutæki, sem hannað er til að vera dregið af öðru ökutæki og er ekki eftirvagn.
                        Enn fremur hjólhýsi og tjaldvagn.
@@ -113,7 +130,7 @@ slagrúmmáli eða búið rafhreyfli og er eigi hannað til hraðari aksturs en 
             vega og er á hjólum og innan við 400 kg að eigin þyngd.
     [c. Vélknúið ökutæki sem aðallega er ætlað til vöruflutninga utan vega, er
   a.m.k. á fjórum hjólum og innan við 550 kg að eigin þyngd án rafgeyma sé það
-                                 rafknúið.]^3)
+                                 rafknúið.]^4)
                                     Vegamót:
               Þar sem vegir mætast eða skerast eða vegur greinist.
                                   Vegfarandi:
@@ -136,15 +153,15 @@ til að draga annað ökutæki og er á hjólum og eigi er hannað til hraðari 
 Tæki á hjólum, beltum, völtum, meiðum eða öðru, sem ætlað er til aksturs á landi
                             og eigi rennur á spori.
                                         ^1)
-    ^1)[31]L. 44/1993, 1. gr. ^2)[32]L. 138/1996, 1. gr. ^3)[33]L. 84/2004, 1.
-                                      gr.
+    ^1)[33]L. 44/1993, 1. gr. ^2)[34]L. 66/2006, 1. gr. ^3)[35]L. 138/1996, 1.
+                         gr. ^4)[36]L. 84/2004, 1. gr.
 3. gr. Ákvæði um umferð ökutækja gilda, eftir því sem við á, einnig um reiðmenn
                       [og þá sem teyma eða reka búfé].^1)
       Ákvæði um gangandi vegfarendur gilda einnig um þann sem er á skíðum,
  hjólaskíðum, skautum eða svipuðum tækjum; enn fremur um þann sem rennir sér á
 sleða eða dregur með sér eða leiðir tæki eða hjól. Þau gilda og um fatlaðan mann
                           sem sjálfur ekur hjólastól.
-                             ^1)[34]L. 44/1993, 2. gr.
+                             ^1)[37]L. 44/1993, 2. gr.
 
                          II. Reglur fyrir alla umferð.
                                   Meginreglur.
@@ -157,7 +174,7 @@ fatlaðra eða eru sýnilega sjón- eða heyrnarskertir, fatlaðir eða sjúkir,
  Lögreglustjóri og veghaldari skulu í samráði við viðkomandi skólayfirvöld gera
 ráðstafanir til að vernda börn gegn hættu í umferðinni á leið þeirra til og frá
                                      skóla.
-                  ^1)[35]L. 132/2003, 1. gr. ^2)[36]Rg. 260/1970.
+                  ^1)[38]L. 132/2003, 1. gr. ^2)[39]Rg. 260/1970.
                           Leiðbeiningar fyrir umferð.
  5. gr. Vegfarandi skal fara eftir leiðbeiningum um umferð, sem gefnar eru með
   umferðarmerkjum, umferðarljósum eða hljóðmerkjum eða öðrum merkjum á eða við
@@ -167,14 +184,16 @@ Leiðbeiningar gefnar með umferðarljósum gilda framar leiðbeiningum um biðs
   Vegfarandi skal fara eftir leiðbeiningum um umferð, sem lögreglumaður eða sá
      annar, sem [ráðherra]^1) hefur heimilað að stjórna umferð, gefur. Þær
      leiðbeiningar gilda framar leiðbeiningum, sem gefnar eru á annan hátt.
-                            ^1)[37]L. 132/2003, 1. gr.
+                            ^1)[40]L. 132/2003, 1. gr.
                              [Akstur utan vega.]^1)
-                             ^1)[38]L. 44/1993, 3. gr.
+                             ^1)[41]L. 44/1993, 3. gr.
  [5. gr. a. Í þéttbýli má ekki í heimildarleysi aka, stöðva eða leggja vélknúnu
  ökutæki utan vega á svæði sem ekki er ætlað fyrir umferð vélknúinna ökutækja.
-      Ákvæði 1. mgr. gildir ekki um akstur vegna óhjákvæmilegrar þjónustu,
- sjúkraflutninga eða annarrar ámóta óhjákvæmilegrar umferðar sem upp kemur.]^1)
-                             ^1)[39]L. 44/1993, 3. gr.
+   [Að öðru leyti gilda ákvæði laga um náttúruvernd um akstur utan vega.]^1)
+[Ákvæði 1. málsl. 1. mgr. gildir ekki um akstur vegna óhjákvæmilegrar þjónustu,
+      sjúkraflutninga eða annarrar ámóta óhjákvæmilegrar umferðar sem upp
+                                 kemur.]^1)]^2)
+                ^1)[42]L. 66/2006, 2. gr. ^2)[43]L. 44/1993, 3. gr.
                                   Leikir o.fl.
   6. gr. Eigi má stökkva af eða upp í ökutæki á ferð eða vera utan á ökutæki á
                                      ferð.
@@ -210,8 +229,8 @@ skal tilkynna lögreglunni um aksturinn svo fljótt sem auðið er að akstri lo
               slökkvistarfi, þar á meðal akstri að og frá staðnum.
   Vegfarandi má eigi rjúfa eða á annan hátt hindra för líkfylgdar, hóps barna
            undir leiðsögn stjórnanda eða annarrar lögmætrar hópgöngu.
-    ^1)[40]L. 132/2003, 1. gr. ^2)[41]Rgl. 643/2004. ^3)[42]Rg. 822/2004, sbr.
-                         [43]375/2005 og [44]647/2005.
+    ^1)[44]L. 132/2003, 1. gr. ^2)[45]Rgl. 643/2004. ^3)[46]Rg. 822/2004, sbr.
+                  [47]375/2005, [48]647/2005 og [49]465/2006.
                           Skemmdir á umferðarmerkjum.
          9. gr. Án leyfis má eigi nema brott eða breyta umferðarmerki.
 Sá, sem á hlut að því að skemma umferðarmerki, skal strax lagfæra það, ef kostur
@@ -314,7 +333,7 @@ hann ætlar inn á, og fara af aðreininni strax og það er unnt án hættu eð
   óþæginda. Ökumaður á akrein, sem umferð af aðrein ætlar inn á, skal auðvelda
                      þeirri umferð akstur inn á akreinina.
                   [Frárein]^1) skal nota strax og hún byrjar.
-                             ^1)[45]L. 44/1993, 4. gr.
+                             ^1)[50]L. 44/1993, 4. gr.
                       Akstur við biðstöð hópbifreiða o.fl.
 18. gr. Ökumaður, sem í þéttbýli nálgast biðstöð þar sem hópbifreið hefur numið
   staðar, skal, ef ökumaður hennar hefur gefið merki um að hann ætli að aka af
@@ -376,9 +395,9 @@ eftir. Ef það getur auðveldað framúrakstur skal hann aka til hliðar eins f
   beygju á vegi, nema unnt sé að aka fram úr á akrein þar sem umferð á móti er
                                     óheimil.
  Ákvæði greinarinnar á ekki við um akstur fram úr reiðhjóli eða léttu bifhjóli.
-                             ^1)[46]L. 44/1993, 5. gr.
+                             ^1)[51]L. 44/1993, 5. gr.
               Framúrakstur og akreinaskipti í [þéttri umferð].^1)
-                             ^1)[47]L. 62/1988, 1. gr.
+                             ^1)[52]L. 62/1988, 1. gr.
      23. gr. Í þéttri umferð ökutækja á tveimur eða fleiri akreinum í sömu
   akstursstefnu þar sem hraðinn ræðst af þeim, sem á undan fara, má aka hægra
 megin fram úr ökutæki á annarri akrein. Þegar þannig stendur á má ekki skipta um
@@ -416,7 +435,7 @@ muni veita forgang með því að draga úr hraða í tæka tíð eða nema sta�
 umferðarljósum, má ökumaður eigi aka inn á vegamótin á grænu ljósi, ef honum má
  vera ljóst af aðstæðum í umferðinni, að hann muni eigi komast yfir vegamótin,
            áður en grænt ljós kviknar fyrir umferð úr þverstæðri átt.
-                             ^1)[48]L. 44/1993, 6. gr.
+                             ^1)[53]L. 44/1993, 6. gr.
                 Sérstakar skyldur gagnvart gangandi vegfarendum.
   26. gr. Ökumaður, sem mætir eða ekur fram hjá gangandi vegfaranda, skal gefa
    honum tíma til að víkja til hliðar og veita honum nægilegt rými á veginum.
@@ -487,8 +506,8 @@ Opna skal dyr ökutækis þannig, að ekki valdi hættu eða óþarfa óþægind
  óþægindi stafi af fyrir umferðina, skal ökumaður gera ráðstafanir til að vara
            aðra vegfarendur við þar til það hefur verið flutt brott.
         [Ráðherra]^1) setur reglur^2) um viðvörunarbúnað og notkun hans.
-       ^1)[49]L. 132/2003, 1. gr. ^2)[50]Rg. 822/2004, sbr. [51]375/2005 og
-                                 [52]647/2005.
+        ^1)[54]L. 132/2003, 1. gr. ^2)[55]Rg. 822/2004, sbr. [56]375/2005,
+                         [57]647/2005 og [58]465/2006.
                               Merki og merkjagjöf.
   31. gr. Þegar nauðsynlegt er til að koma í veg fyrir eða afstýra hættu skal
    ökumaður gefa hljóð- eða ljósmerki eða á annan hátt vekja athygli annarra
@@ -534,8 +553,8 @@ lögboðin ljós vera tendruð. Ökutæki, sem eigi skal búið ljósum, skal þ
   Eigi má nota annan ljósabúnað eða glitmerki en boðið er eða heimilað í lögum
                     þessum eða reglum settum samkvæmt þeim.
     [Ráðherra]^3) getur sett reglur um varúðarmerki fyrir reiðmenn og hesta.
-        ^1)[53]L. 44/1993, 7. gr. ^2)[54]Rg. 822/2004, sbr. [55]375/2005 og
-                    [56]647/2005. ^3)[57]L. 132/2003, 1. gr.
+         ^1)[59]L. 44/1993, 7. gr. ^2)[60]Rg. 822/2004, sbr. [61]375/2005,
+            [62]647/2005 og [63]465/2006. ^3)[64]L. 132/2003, 1. gr.
  33. gr. Stöðuljós skulu vera tendruð, ef ökutæki er stöðvað eða því er lagt á
 vegi í myrkri eða dimmviðri. Þetta á þó ekki við, ef vegur er svo vel lýstur, að
 ökutækið sést greinilega úr nægilegri fjarlægð, eða það hefur verið stöðvað eða
@@ -549,10 +568,10 @@ samhliða brún vegar í þéttbýli, þarf einungis að nota stöðuljós það
             er miðju vegar, nema ökutækið sé tengt öðru ökutæki. ^3)
 Ljós þurfa eigi að vera tendruð á reiðhjóli eða bifhjóli án hliðarvagns, ef þeim
                        er lagt samhliða ystu brún vegar.
-    ^1)[58]Rg. 822/2004, sbr. [59]375/2005 og [60]647/2005. ^2)[61]L. 132/2003,
-                        1. gr. ^3)[62]L. 44/1993, 8. gr.
+       ^1)[65]Rg. 822/2004, sbr. [66]375/2005, [67]647/2005 og [68]465/2006.
+              ^2)[69]L. 132/2003, 1. gr. ^3)[70]L. 44/1993, 8. gr.
                      [Akstursíþróttir og aksturskeppni.]^1)
-                             ^1)[63]L. 44/1993, 9. gr.
+                             ^1)[71]L. 44/1993, 9. gr.
    34. gr. [[Ráðherra]^1) getur sett reglur^2) um akstursíþróttir á sérstökum
    afmörkuðum svæðum utan vega. Í þeim reglum er heimilt að víkja frá ákvæðum
            laganna um ökuskírteini og um lágmarksaldur ökumanns.]^3)
@@ -563,8 +582,8 @@ Ljós þurfa eigi að vera tendruð á reiðhjóli eða bifhjóli án hliðarvag
  greiðslu kostnaðar o.fl. Í þeim reglum er heimilt að víkja frá ákvæðum laganna
 um fébótaábyrgð og vátryggingu, svo og ákvæðum um hámarkshraða, enda sé vegur þá
     lokaður annarri umferð eða keppni fari fram á afmörkuðu svæði utan vega.
-   ^1)[64]L. 132/2003, 1. gr. ^2)[65]Rg. 257/2000, sbr. [66]252/2005. ^3)[67]L.
-                   44/1993, 9. gr. ^4)[68]L. 138/1996, 2. gr.
+       ^1)[72]L. 132/2003, 1. gr. ^2)[73]Rg. 257/2000, sbr. [74]252/2005 og
+       [75]673/2006. ^3)[76]L. 44/1993, 9. gr. ^4)[77]L. 138/1996, 2. gr.
                               Óþarfa hávaði o.fl.
 35. gr. Ökumaður vélknúins ökutækis skal haga meðferð þess og akstri þannig, að
               frá því stafi eigi hávaði eða loftmengun að óþörfu.
@@ -622,7 +641,7 @@ Utan þéttbýlis má ökuhraði ekki vera meiri en 80 km á klst., þó 90 km �
 [[Ráðherra]^3) getur sett reglur um að ákveða megi sérstakan lægri hámarkshraða
 vélknúins ökutækis en segir í 37. gr. og 1.4. mgr. þessarar greinar ef þess er
                       þörf vegna hönnunar ökutækisins.]^1)
-   ^1)[69]L. 44/1993, 10. gr. ^2)[70]L. 138/1996, 3. gr. ^3)[71]L. 132/2003, 1.
+   ^1)[78]L. 44/1993, 10. gr. ^2)[79]L. 138/1996, 3. gr. ^3)[80]L. 132/2003, 1.
                                       gr.
 
              VI. Sérreglur fyrir reiðhjól, bifhjól og torfærutæki.
@@ -697,19 +716,56 @@ deyfandi efna eða annarra orsaka er þannig á sig kominn, að hann er ekki fæ
     Tóbaksreykingar eru bannaðar við stjórn bifreiðar til farþegaflutninga í
                                  atvinnuskyni.
                                       ^1)
-                             ^1)[72]L. 84/2004, 2. gr.
-[44. gr. a. Ráðherra setur reglur^1) um aksturs- og hvíldartíma ökumanna, þar á
-                                   meðal um:
-     a. notkun ökurita, sem er búnaður ökutækis þar sem skráðar eru og geymdar
-   upplýsingar um aksturs- og hvíldartíma ökumanns, hraða ökutækis og fleira,
-   b. skyldu til þess að varðveita í ökurita, á ökuritakorti eða með öðrum hætti
- upplýsingar um aksturs- og hvíldartíma ökumanns og veita eftirlitsmanni aðgang
-                    að þeim upplýsingum þegar þess er óskað,
-    c. útgáfu, efni og form ökuritakorts, sem er lykill að rafrænum ökurita og
-   geymir jafnframt rafrænar upplýsingar um aksturs- og hvíldartíma ökumanns,
-                          d. gjald fyrir ökuritakort.]^2)
-       ^1)[73]Rg. 136/1995, sbr. [74]502/1997, [75]768/2000, [76]851/2000 og
-                    [77]853/2004. ^2)[78]L. 84/2004, 3. gr.
+                             ^1)[81]L. 84/2004, 2. gr.
+ [44. gr. a. [Ráðherra setur reglur^1) um aksturs- og hvíldartíma ökumanna sem
+ annast fólks- og vöruflutninga á vegum í atvinnuskyni, ökurita o.fl., þar sem
+                             m.a. skal kveðið á um:
+                a. ökutæki og þá flutninga sem reglurnar taka til,
+     b. lágmarksaldur ökumanna sem sjá um þá flutninga sem reglurnar taka til,
+    c. aksturstíma ökumanns hvern dag, hverja viku og hálfsmánaðarlega, skyldu
+ ökumanns til að gera hlé á akstri og til að taka daglega og vikulega hvíld frá
+                                    akstri,
+      d. skyldu til notkunar ökurita sem er búnaður ökutækis þar sem m.a. eru
+  skráðar og geymdar upplýsingar um aksturs- og hvíldartíma ökumanns auk hraða
+                                   ökutækis,
+     e. skyldu til að varðveita í ökurita, á ökuritakorti eða með öðrum hætti
+                    upplýsingar um aksturs- og hvíldartíma,
+        f. skyldu til afhendingar gagna með upplýsingum sem skráðar eru og
+                         varðveittar, sbr. d- og e-lið,
+    g. útgáfu, efni og form ökuritakorts sem er lykill að rafrænum ökurita og í
+   eru varðveittar rafrænar upplýsingar um aksturs- og hvíldartíma ökumanns,
+       h. skyldu flytjanda til að leita til viðurkenndra viðgerðarmanna eða
+                      verkstæða til uppsetningar ökurita,
+                            i. gjald fyrir ökuritakort,
+      j. skyldu ökumanns og flytjanda til að fylgja reglum sem ráðherra setur
+                            samkvæmt þessari grein.
+   Ökumaður og flytjandi skulu sjá til þess að ökuriti sé notaður og fylgt sé
+reglum um notkun hans og um varðveislu gagna sem varða aksturs- og hvíldartíma.
+Óheimilt er að miða laun ökumanns, sem annast fólks- og vöruflutninga á vegum í
+atvinnuskyni samkvæmt þessari grein, við ekna vegalengd eða flutt magn af farmi
+ séu greiðslur þess eðlis að þær geti stofnað umferðaröryggi í hættu. Jafnframt
+    er óheimilt að veita ökumanni kaupauka eða launauppbót í framangreindum
+                                   tilvikum.
+      Ráðherra setur reglur um viðurkennda viðgerðarmenn eða verkstæði til
+                         uppsetningar ökurita.]^2)]^3)
+    ^1)[82]Rg. 661/2006, [83]rg. 662/2006, [84]rg. 777/2006. ^2)[85]L. 66/2006,
+                        3. gr. ^3)[86]L. 84/2004, 3. gr.
+ [44. gr. b. Ráðherra setur reglur^1) um skipulag vinnutíma farstarfsmanna sem
+annast fólks- og vöruflutninga á vegum í atvinnuskyni, sbr. 1. mgr. 44. gr. a. Í
+                        reglunum skal m.a. kveðið á um:
+                a. ökutæki og þá flutninga sem reglurnar taka til,
+              b. skilgreiningu vinnustaðar, vinnutíma og hvíldartíma,
+    c. heimilaðan hámarksfjölda vinnustunda á viku og skyldu til að vinna ekki
+                                  umfram hann,
+      d. skyldu til að gera hlé á vinnu og til að taka daglegan og vikulegan
+                                  hvíldartíma,
+                       e. skyldu til skráningar vinnutíma og
+   f. skyldu til varðveislu gagna í a.m.k. tvö ár frá því að viðkomandi tímabili
+                                     lýkur.
+Farstarfsmönnum er skylt að haga vinnutíma og vinnutilhögun í samræmi við reglur
+ sem ráðherra setur samkvæmt þessari grein. Flytjandi skal bera ábyrgð á því að
+                       skrá vinnutíma farstarfsmanna.]^2)
+                  ^1)[87]Rg. 690/2006. ^2)[88]L. 66/2006, 4. gr.
   45. gr. Enginn má stjórna eða reyna að stjórna vélknúnu ökutæki, ef hann er
                              undir áhrifum áfengis.
     [Ef vínandamagn í blóði ökumanns nemur 0,50, en er minna en 1,20, eða
@@ -729,7 +785,18 @@ Nú hefur ökumaður neytt áfengis við akstur eða fyrir hann þannig að vín
 hann er undir svo miklum áhrifum áfengis eða annarra örvandi eða deyfandi efna,
            að hann geti eigi stjórnað hjólinu eða hestinum örugglega.
    Eigi má fela manni í því ástandi, sem að framan greinir, stjórn ökutækis.
-                             ^1)[79]L. 48/1997, 1. gr.
+                             ^1)[89]L. 48/1997, 1. gr.
+ [45. gr. a. Enginn má stjórna eða reyna að stjórna vélknúnu ökutæki ef hann er
+   undir áhrifum ávana- og fíkniefna sem bönnuð eru á íslensku yfirráðasvæði
+   samkvæmt lögum um ávana- og fíkniefni og reglugerðum settum samkvæmt þeim.
+ Mælist ávana- og fíkniefni skv. 1. mgr. í blóði eða þvagi ökumanns telst hann
+    vera undir áhrifum ávana- og fíkniefna og óhæfur til að stjórna ökutæki
+                                   örugglega.
+  Enginn má hjóla eða reyna að hjóla eða stjórna eða reyna að stjórna hesti ef
+             hann er undir áhrifum ávana- og fíkniefna skv. 1. mgr.
+Eigi má fela manni sem er undir áhrifum ávana- og fíkniefna skv. 1. mgr. stjórn
+                                 ökutækis.]^1)
+                             ^1)[90]L. 66/2006, 5. gr.
   46. gr. Þegar maður hefur neytt áfengis á veitingastað og veitingamaður eða
 þjónar hans vita eða hafa ástæðu til að ætla, að hann sé stjórnandi ökutækis og
  að hann sé vegna áfengisneyslu ekki fær um að stjórna ökutækinu örugglega, ber
@@ -741,37 +808,41 @@ hann er undir svo miklum áhrifum áfengis eða annarra örvandi eða deyfandi e
 ætli að aka ökutækinu, að reyna að koma í veg fyrir brotið, með því meðal annars
                           að gera lögreglunni viðvart.
                  [Öndunarpróf, öndunarsýni, blóðsýni o.fl.]^1)
-                             ^1)[80]L. 48/1997, 2. gr.
-47. gr. [Lögreglumaður getur framkvæmt öndunarpróf á ökumanni vélknúins ökutækis
-                                     ef]^1)
-        a. ástæða er til að ætla, að hann hafi brotið gegn ákvæðum 45. gr.,
-   b. ástæða er til að ætla, að hann hafi brotið gegn öðrum ákvæðum þessara laga
-[eða reglna sem settar eru samkvæmt þeim],^2) enda hafi [ráðherra]^3) ákveðið að
-                     öndunarsýni megi taka í þeim tilvikum,
+                             ^1)[91]L. 48/1997, 2. gr.
+47. gr. [Ökumanni vélknúins ökutækis er skylt að kröfu lögreglu að gangast undir
+  öndunarpróf og láta í té svita- og munnvatnssýni með þeim hætti sem lögregla
+                                  ákveður ef:
+   a. ástæða er til að ætla að hann hafi brotið gegn ákvæðum 2. eða 4. mgr. 44.
+                        gr., sbr. 45. gr. og 45. gr. a,
+   b. ástæða er til að ætla að hann hafi brotið gegn öðrum ákvæðum þessara laga
+  eða reglna sem settar eru samkvæmt þeim, enda sé þar kveðið á um heimild til
+                    töku öndunar-, svita- eða munnvatnssýna,
     c. hann hefur átt hlut að umferðarslysi eða óhappi, hvort sem hann á sök á
                                  eða ekki, eða
-             d. [hann hefur verið stöðvaður við umferðareftirlit.]^2)
-[Lögreglumaður getur fært ökumann til rannsóknar á öndunarsýni eða til blóð- og
-þvagrannsóknar ef ástæða er til að ætla að hann hafi brotið gegn ákvæðum 2. mgr.
-44. gr. eða 45. gr. eða hann neitar að láta framkvæma öndunarpróf eða er ófær um
-     það. Ef grunur er um önnur brot en akstur undir áhrifum áfengis getur
-lögreglumaður auk þess fært ökumann til læknisskoðunar. Sama á við þegar grunur
-   er um akstur undir áhrifum áfengis og sérstakar ástæður mæla með því.]^1)
- [Lögregla annast töku öndunarsýnis. Læknir, hjúkrunarfræðingur eða meinatæknir
- annast töku blóðsýnis. Ökumanni er skylt að hlíta þeirri meðferð sem talin er
-                    nauðsynleg við rannsókn skv. 2. mgr.]^1)
- [Ráðherra]^3) setur nánari reglur um töku sýna og rannsókn skv. 1. og 2. mgr.
- [Vegna töku og rannsóknar öndunarsýnis skal sá sem sakfelldur er greiða 6.500
-                    kr., sem teljast til sakarkostnaðar.]^4)
-    ^1)[81]L. 48/1997, 2. gr. ^2)[82]L. 44/1993, 11. gr. ^3)[83]L. 132/2003, 1.
-                         gr. ^4)[84]L. 23/1998, 1. gr.
+                d. hann hefur verið stöðvaður við umferðareftirlit.
+Lögreglan getur fært ökumann til rannsóknar á öndunar-, svita- og munnvatnssýni
+  eða til blóð- og þvagrannsóknar ef ástæða er til að ætla að hann hafi brotið
+   gegn ákvæðum 2. eða 4. mgr. 44. gr., 45. gr. eða 45. gr. a eða hann neitar
+      lögreglunni um að gangast undir öndunarpróf eða láta í té svita- eða
+  munnvatnssýni eða er ófær um það. Liggi fyrir grunur um önnur brot en akstur
+undir áhrifum áfengis getur lögreglan auk þess fært ökumann til læknisskoðunar.
+Sama á við þegar grunur er um akstur undir áhrifum áfengis og sérstakar ástæður
+                                 mæla með því.
+        Lögregla annast töku öndunar-, svita- og munnvatnssýnis. Læknir,
+hjúkrunarfræðingur eða lífeindafræðingur annast töku blóðsýnis og eftir atvikum
+ munnvatns-, svita- og þvagsýnis. Ökumanni er skylt að hlíta þeirri meðferð sem
+                 talin er nauðsynleg við rannsókn skv. 2. mgr.
+  Ráðherra setur nánari reglur um töku sýna og rannsókn skv. 1., 2. og 3. mgr.
+ Vegna töku og rannsóknar öndunarsýnis skal sá sem sakfelldur er greiða 15.000
+                  kr. gjald sem telst til sakarkostnaðar.]^1)
+                             ^1)[92]L. 66/2006, 6. gr.
                  [Notkun farsíma og annars fjarskiptabúnaðar.]
-                             ^1)[85]L. 91/2001, 1. gr.
+                             ^1)[93]L. 91/2001, 1. gr.
  [47. gr. a. Ökumanni vélknúins ökutækis er við akstur óheimilt að nota farsíma
                              án handfrjáls búnaðar.
   [Ráðherra]^1) getur sett nánari reglur um notkun annars fjarskiptabúnaðar og
                         svipaðs búnaðar við akstur.]^2)
-               ^1)[86]L. 132/2003, 1. gr. ^2)[87]L. 91/2001, 1. gr.
+               ^1)[94]L. 132/2003, 1. gr. ^2)[95]L. 91/2001, 1. gr.
                             Ökupróf og ökuskírteini.
   48. gr. Enginn má stjórna bifreið eða bifhjóli, nema hann hafi til þess gilt
     ökuskírteini, sem lögreglustjóri gefur út. Ökumaður skal hafa skírteinið
@@ -789,7 +860,7 @@ lögreglumaður auk þess fært ökumann til læknisskoðunar. Sama á við þeg
  49. gr. [Ráðherra]^1) getur leyft að gefin séu út til fatlaðra manna, sem eru
   fullra 15 ára, ökuskírteini til að mega stjórna hægfara vélknúnum ökutækjum
                                  fyrir fatlaða.
-                            ^1)[88]L. 132/2003, 1. gr.
+                            ^1)[96]L. 132/2003, 1. gr.
 50. gr. [[Ráðherra]^1) getur sett reglur^2) um frekari skilyrði, þar á meðal um
                   aldur, kennslu og próf, til að mega stjórna:
      a. [bifreið, þó ekki hópbifreið],^3) sem er meira en 3.500 kg að leyfðri
@@ -802,17 +873,18 @@ lögreglumaður auk þess fært ökumann til læknisskoðunar. Sama á við þeg
                               d. tilteknum bifhjólum.
  Með sama hætti getur [ráðherra]^1) sett reglur um frekari skilyrði til að mega
                                     stjórna:
-                a. bifreið til farþegaflutninga í atvinnuskyni,^2)
-                    b. bifreið sem flytur hættulegan farm^4) og
+         a. [bifreið til farþega- eða vöruflutninga í atvinnuskyni^2)],^4)
+                    b. bifreið sem flytur hættulegan farm^5) og
          c. bifreið til fólks- eða vöruflutninga í alþjóðlegri umferð.^2)
  Í reglum þessum má ákveða að við tilteknar aðstæður þurfi eigi aukin réttindi
             til að stjórna ökutæki sem fellur undir ac-liði 1. mgr.
      Heimilt er að synja manni um réttindi til að mega stjórna bifreið til
 farþegaflutninga í atvinnuskyni ef ákvæði 2. mgr. 68. gr. almennra hegningarlaga
-                           eiga við um hagi hans.]^5)
-       ^1)[89]L. 132/2003, 1. gr. ^2)[90]Rg. 501/1997, sbr. [91]773/2001 og
-[92]862/2003. ^3)[93]L. 138/1996, 4. gr. ^4)[94]Rg. 984/2000, sbr. [95]773/2001,
-    [96]684/2002, [97]750/2003 og [98]1070/2005. ^5)[99]L. 44/1993, 12. gr.
+                           eiga við um hagi hans.]^6)
+        ^1)[97]L. 132/2003, 1. gr. ^2)[98]Rg. 501/1997, sbr. [99]773/2001,
+   [100]862/2003, [101]692/2006 og [102]760/2006. ^3)[103]L. 138/1996, 4. gr.
+      ^4)[104]L. 66/2006, 7. gr. ^5)[105]Rg. 984/2000, sbr. [106]773/2001,
+  [107]684/2002, [108]750/2003 og [109]1070/2005. ^6)[110]L. 44/1993, 12. gr.
          51. gr. Ökuskírteini eru tvenns konar: Bráðabirgðaskírteini og
                               fullnaðarskírteini.
        Bráðabirgðaskírteini er gefið út til byrjanda og gildir í tvö ár.
@@ -836,21 +908,23 @@ Endurnýja má ökuskírteini að loknum gildistíma, enda fullnægi hlutaðeiga
   skilyrðum til að fá ökuskírteini útgefið. Lögreglustjóri ákveður, hvort taka
  skuli próf að nýju. [Ráðherra]^1) getur sett reglur um að próf skuli tekið að
                                     nýju.^2)
-       ^1)[100]L. 132/2003, 1. gr. ^2)[101]Rg. 501/1997, sbr. [102]799/1998,
-   [103]376/2000, [104]754/2001, [105]249/2002, [106]747/2002, [107]4/2003 og
-                   [108]862/2003. ^3)[109]L. 83/2002, 1. gr.
+       ^1)[111]L. 132/2003, 1. gr. ^2)[112]Rg. 501/1997, sbr. [113]799/1998,
+   [114]376/2000, [115]754/2001, [116]249/2002, [117]747/2002, [118]4/2003 og
+                   [119]862/2003. ^3)[120]L. 83/2002, 1. gr.
                    52. gr. [Ráðherra]^1) setur reglur^2) um:
                            a. [ökunám og ökukennslu],^3)
-   b. skilyrði fyrir útgáfu ökuskírteinis og endurnýjun, þar á meðal um ökupróf
-                              [og akstursmat],^4)
+       b. [skilyrði fyrir útgáfu ökuskírteinis og endurnýjun, þar á meðal um
+   ökupróf, akstursmat og um endurmenntun ökumanna sem stjórna hópbifreið til
+ farþegaflutninga og vörubifreið til vöruflutninga á vegum í atvinnuskyni],^4)
                          c. efni og form ökuskírteinis, og
-               d. gjald fyrir próf, [akstursmat]^4) og ökuskírteini.
-Lögreglustjórar halda skrár um ökuskírteini og ökuferil samkvæmt reglum,^5) sem
+               d. gjald fyrir próf, [akstursmat]^5) og ökuskírteini.
+Lögreglustjórar halda skrár um ökuskírteini og ökuferil samkvæmt reglum,^6) sem
                               [ráðherra]^1) setur.
-       ^1)[110]L. 132/2003, 1. gr. ^2)[111]Rg. 501/1997, sbr. [112]799/1998,
-    [113]376/2000, [114]754/2001, [115]249/2002, [116]747/2002, [117]4/2003,
-  [118]862/2003, [119]1054/2004 og [120]781/2005. ^3)[121]L. 138/1996, 5. gr.
-                ^4)[122]L. 83/2002, 2. gr. ^5)[123]Rg. 431/1998.
+       ^1)[121]L. 132/2003, 1. gr. ^2)[122]Rg. 501/1997, sbr. [123]799/1998,
+    [124]376/2000, [125]754/2001, [126]249/2002, [127]747/2002, [128]4/2003,
+ [129]862/2003, [130]1054/2004, [131]781/2005, [132]159/2006, [133]692/2006 og
+[134]760/2006. ^3)[135]L. 138/1996, 5. gr. ^4)[136]L. 66/2006, 8. gr. ^5)[137]L.
+                     83/2002, 2. gr. ^6)[138]Rg. 431/1998.
                             Afturköllun ökuréttinda.
 53. gr. Lögreglustjóri getur afturkallað ökuréttindi, ef hlutaðeigandi fullnægir
   ekki lengur skilyrðum til að öðlast ökuskírteini. Nú neitar hlutaðeigandi að
@@ -873,32 +947,36 @@ hér á landi og hafa eigi íslenskt ökuskírteini, mega stjórna vélknúnum �
   [[Ráðherra]^1) getur ákveðið að ökuskírteini útgefin í Danmörku, Finnlandi,
   Noregi eða Svíþjóð, eða í öðru ríki sem er aðili að Evrópska efnahagssvæðinu
  [eða stofnsamningi Fríverslunarsamtaka Evrópu],^3) gildi hér á landi, samkvæmt
-    nánari reglum,^2) einnig eftir að skírteinishafi hefur sest hér að.]^4)
-       ^1)[124]L. 132/2003, 1. gr. ^2)[125]Rg. 501/1997, sbr. [126]862/2003.
-             ^3)[127]L. 72/2003, 2. gr. ^4)[128]L. 138/1996, 6. gr.
+   nánari reglum,^2) einnig eftir að skírteinishafi hefur sest hér að.^4)]^5)
+      ^1)[139]L. 132/2003, 1. gr. ^2)[140]Rg. 501/1997, sbr. [141]862/2003 og
+   [142]692/2006. ^3)[143]L. 72/2003, 2. gr. ^4)Málsgreininni var breytt með
+  [144]l. 108/2006, 48. gr. Breytingin tekur gildi um leið og samningur milli
+ ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og heimastjórnar
+      Færeyja hins vegar hefur gengið í gildi. ^5)[145]L. 138/1996, 6. gr.
       Stjórnendur dráttarvéla, vinnuvéla, léttra bifhjóla og torfærutækja.
 55. gr. Enginn má stjórna dráttarvél, nema hann hafi gilt ökuskírteini til þess
 eða til að mega stjórna bifreið. Ökuskírteini til að mega stjórna dráttarvél má
  ekki veita þeim, sem er yngri en 16 ára. Eigi þarf ökuskírteini til að stjórna
-  dráttarvél við landbúnaðarstörf utan alfaravegar, enda sé ökumaður fullra 13
-                                      ára.
+ dráttarvél við landbúnaðarstörf utan alfaravegar, enda sé ökumaður [fullra 15
+                                    ára].^1)
 Enginn má stjórna vinnuvél, nema hann hafi gilt ökuskírteini til að mega stjórna
   bifreið. Eigi þarf ökuskírteini til að stjórna vinnuvél utan vegar, enda sé
                             ökumaður fullra 17 ára.
 Enginn má stjórna léttu bifhjóli, nema hann hafi gilt ökuskírteini til þess [eða
- til að mega stjórna bifreið eða bifhjóli].^1) Ökuskírteini til að mega stjórna
+ til að mega stjórna bifreið eða bifhjóli].^2) Ökuskírteini til að mega stjórna
  léttu bifhjóli má eigi veita þeim, sem er yngri en 15 ára, enda hafi hann áður
                           fengið tilskilda ökukennslu.
   [Enginn má stjórna torfærutæki nema hann hafi gilt ökuskírteini til að mega
-                       stjórna bifreið eða bifhjóli.]^1)
-  Ákvæði 48. gr., [3.7. mgr. 51. gr.],^2) 52. og 53. gr. gilda að öðru leyti,
-eftir því sem við á, um ökuskírteini samkvæmt grein þessari. [Ráðherra]^3) getur
-        sett reglur um æfingaakstur sem skilyrði fyrir útgáfu þeirra.^4)
-    ^1)[129]L. 138/1996, 7. gr. ^2)[130]L. 83/2002, 3. gr. ^3)[131]L. 132/2003,
- 1. gr. ^4)[132]Rg. 501/1997, sbr. [133]799/1998, [134]376/2000, [135]754/2001,
-          [136]249/2002, [137]747/2002, [138]4/2003 og [139]862/2003.
+                       stjórna bifreið eða bifhjóli.]^2)
+  Ákvæði 48. gr., [3.7. mgr. 51. gr.],^3) 52. og 53. gr. gilda að öðru leyti,
+eftir því sem við á, um ökuskírteini samkvæmt grein þessari. [Ráðherra]^4) getur
+        sett reglur um æfingaakstur sem skilyrði fyrir útgáfu þeirra.^5)
+   ^1)[146]L. 66/2006, 9. gr. ^2)[147]L. 138/1996, 7. gr. ^3)[148]L. 83/2002, 3.
+   gr. ^4)[149]L. 132/2003, 1. gr. ^5)[150]Rg. 501/1997, sbr. [151]799/1998,
+   [152]376/2000, [153]754/2001, [154]249/2002, [155]747/2002, [156]4/2003 og
+                                 [157]862/2003.
                          [Ökukennarar og ökuskólar.]^1)
-                            ^1)[140]L. 138/1996, 8. gr.
+                            ^1)[158]L. 138/1996, 8. gr.
     56. gr. Rétt til að hafa á hendi kennslu í akstri og meðferð bifreiða og
             bifhjóla hefur sá, sem hlotið hefur til þess löggildingu
                            [ríkislögreglustjóra].^1)
@@ -920,8 +998,8 @@ skilyrðum og hafi að jafnaði stundað ökukennslu á liðnu löggildingartím
 [Ríkislögreglustjóri]^1) getur hvenær sem er svipt mann ökukennararéttindum, ef
                                ástæða þykir til.
    [[Ráðherra]^2) getur sett reglur^3) um stofnun og starfsemi ökuskóla.]^4)
-   ^1)[141]L. 83/2002, 4. gr. ^2)[142]L. 132/2003, 1. gr. ^3)[143]Rg. 327/1999,
-                sbr. [144]746/2002. ^4)[145]L. 138/1996, 8. gr.
+   ^1)[159]L. 83/2002, 4. gr. ^2)[160]L. 132/2003, 1. gr. ^3)[161]Rg. 327/1999,
+                sbr. [162]746/2002. ^4)[163]L. 138/1996, 8. gr.
                                  Æfingaakstur.
   57. gr. Æfingaakstur á bifreið má því aðeins fara fram, að við hlið nemanda
   sitji löggiltur ökukennari, sem þá telst stjórnandi bifreiðarinnar. Nemandi
@@ -946,8 +1024,8 @@ aldur til að fá ökuskírteini útgefið. Sá, sem sviptur hefur verið [ökur
  hafi gild réttindi til að stjórna þeim flokki ökutækja og hafi a.m.k. fimm ára
  reynslu af að aka þannig ökutæki. Ákvæði 1.5. mgr. eiga við um akstur þennan
                             eftir því sem við á.]^2)
-   ^1)[146]L. 138/1996, 9. gr. ^2)[147]L. 44/1993, 13. gr. ^3)[148]L. 132/2003,
-                          1. gr. ^4)[149]Rg. 501/1997.
+   ^1)[164]L. 138/1996, 9. gr. ^2)[165]L. 44/1993, 13. gr. ^3)[166]L. 132/2003,
+                1. gr. ^4)[167]Rg. 501/1997, sbr. [168]692/2006.
                              Upplýsingaskylda o.fl.
 58. gr. Eiganda (umráðamanni) ökutækis er skylt, þegar lögreglan krefst þess, að
         gera grein fyrir, hver hafi stjórnað ökutækinu á tilteknum tíma.
@@ -962,8 +1040,11 @@ aldur til að fá ökuskírteini útgefið. Sá, sem sviptur hefur verið [ökur
   Ökumaður skal gæta þess, að ökutæki sé í góðu [ástandi].^1) Sérstaklega skal
  þess gætt, að stýrisbúnaður, hemlar, merkjatæki og ljósabúnaður séu í lögmæltu
     ástandi og virki örugglega. Sama á við um eftirvagn og tengitæki, svo og
-                         tengingu þeirra og tengibúnað.
-                            ^1)[150]L. 44/1993, 14. gr.
+    tengingu þeirra og tengibúnað. [Verði starfsmaður verkstæðis þess var að
+öryggisbúnaði vélknúins ökutækis sem þar er til viðgerðar eða breytinga sé áfátt
+skal hann skýra yfirmanni verkstæðisins frá því. Skal yfirmaður verkstæðis gera
+ eiganda ökutækisins viðvart og tilkynna til lögreglu, verði eigi úr bætt.]^2)
+              ^1)[169]L. 44/1993, 14. gr. ^2)[170]L. 66/2006, 10. gr.
    60. gr. [Ráðherra]^1) setur reglur^2) um gerð ökutækja og búnað þeirra og
   öryggis- og verndarbúnað fyrir ökumann og farþega, svo og hvaða áletranir og
           merki skuli setja á ökutæki vegna skráningar eða eftirlits.
@@ -971,39 +1052,42 @@ aldur til að fá ökuskírteini útgefið. Sá, sem sviptur hefur verið [ökur
   búnað í ökutæki eða til verndar ökumanni eða farþegum, ef þeir uppfylla ekki
 skilyrði reglna, sem settar eru samkvæmt 1. mgr., eða notkun þeirra mundi leiða
       til hættu eða verulegra óþæginda fyrir ökumann eða aðra vegfarendur.
-   ^1)[151]L. 132/2003, 1. gr. ^2)[152]Rg. 279/1989 (um merki á skólabifreiðum),
-  sbr. [153]550/1991. [154]Rg. 57/1994 (um gerð og búnað reiðhjóla). [155]Rg.
-   136/1995 (um aksturs- og hvíldartíma ökumanna o.fl.), sbr. [156]502/1997,
-[157]658/1998, [158]768/2000, [159]851/2000 og [160]853/2004. [161]Rg. 572/1995
-(um prófun á ökuritum). [162]Rg. 501/1997 (um ökuskírteini), sbr. [163]799/1998,
-[164]376/2000, 754/2001, 747//2002, 4/2003 og 862/2003. Rg. 71/1998 (um frágang
- á hraðatakmarkara í bifreið), sbr. [165]113/2000. [166]Rg. 378/1998 (um skoðun
-  ökutækja), sbr. [167]779/1998, [168]917/1999, [169]695/2000, [170]240/2001,
- [171]722/2001, [172]35/2002 og [173]680/2002. [174]Rg. 984/2000 (um flutning á
-     hættulegum farmi), sbr. [175]773/2001, [176]684/2002, [177]750/2003 og
- [178]1070/2005. [179]Rg. 751/2003 (um skráningu ökutækja), sbr. [180]299/2004,
- [181]506/2005 og [182]656/2005. [183]Rg. 822/2004 (um gerð og búnað ökutækja),
-      sbr. [184]375/2005, [185]647/2005, [186]986/2005 og [187]1071/2005.
+   ^1)[171]L. 132/2003, 1. gr. ^2)[172]Rg. 279/1989 (um merki á skólabifreiðum),
+  sbr. [173]550/1991. [174]Rg. 57/1994 (um gerð og búnað reiðhjóla). [175]Rg.
+   572/1995 (um prófun á ökuritum). [176]Rg. 501/1997 (um ökuskírteini), sbr.
+[177]799/1998, [178]376/2000, 754/2001, 747//2002, 4/2003, 862/2003 og 692/2006.
+   Rg. 71/1998 (um frágang á hraðatakmarkara í bifreið), sbr. [179]113/2000.
+   [180]Rg. 378/1998 (um skoðun ökutækja), sbr. [181]779/1998, [182]917/1999,
+  [183]695/2000, [184]240/2001, [185]722/2001, [186]35/2002 og [187]680/2002.
+    [188]Rg. 984/2000 (um flutning á hættulegum farmi), sbr. [189]773/2001,
+[190]684/2002, [191]750/2003 og [192]1070/2005. [193]Rg. 751/2003 (um skráningu
+  ökutækja), sbr. [194]299/2004, [195]506/2005, [196]656/2005, [197]158/2006,
+  [198]307/2006, [199]691/2006 og [200]756/2006. [201]Rg. 822/2004 (um gerð og
+       búnað ökutækja), sbr. [202]375/2005, [203]647/2005, [204]986/2005,
+ [205]1071/2005, [206]156/2006, [207]427/2006, [208]465/2006 og [209]689/2006.
+[210]Rg. 661/2006 (um ökurita og notkun hans). [211]Rg. 662/2006 (um aksturs- og
+     hvíldartíma ökumanna). [212]Rg. 777/2006 (um eftirlit með aksturs- og
+                  hvíldartíma ökumanna, notkun ökurita o.fl.).
  61. gr. Nú rís ágreiningur um það, til hvaða flokks skv. 2. gr. ökutæki skuli
                      teljast, og sker þá [ráðherra]^1) úr.
  [Ráðherra]^1) getur, ef sérstakar ástæður mæla með því, ákveðið, að ökutæki af
       tiltekinni gerð skuli falla undir annan flokk ökutækja en leiðir af
                               skilgreiningu 2. gr.
-                            ^1)[188]L. 132/2003, 1. gr.
+                            ^1)[213]L. 132/2003, 1. gr.
                           Tenging og dráttur ökutækja.
-   62. gr. Við bifreið, torfærutæki og reiðhjól má tengja einn eftirvagn eða
-                                   tengitæki.
+   62. gr. Við bifreið, [bifhjól],^1) torfærutæki og reiðhjól má tengja einn
+                            eftirvagn eða tengitæki.
  Við dráttarvél og vinnuvél má tengja tvo eftirvagna eða einn eftirvagn og eitt
                                    tengitæki.
-      Við bifhjól og létt bifhjól má eigi tengja eftirvagn eða tengitæki.
+          Við ^1) létt bifhjól má eigi tengja eftirvagn eða tengitæki.
  Við bifhjól og reiðhjól má tengja hliðarvagn, sem skal þá vera hægra megin við
              ökutækið. Eigi má tengja hliðarvagn við létt bifhjól.
-[Ráðherra]^1) setur reglur^2) um tengingu eftirvagna, tengitækja og hliðarvagna.
-  [Ráðherra]^1) getur enn fremur sett reglur um hvað flytja megi með ökutækjum
+[Ráðherra]^2) setur reglur^3) um tengingu eftirvagna, tengitækja og hliðarvagna.
+  [Ráðherra]^2) getur enn fremur sett reglur um hvað flytja megi með ökutækjum
    þessum, svo og veitt undanþágu frá ákvæðum 2. mgr. við akstur á tilteknum
                                     svæðum.
-                [Ráðherra]^1) setur reglur^2) um drátt ökutækja.
-                 ^1)[189]L. 132/2003, 1. gr. ^2)[190]Rg. 394/1992.
+                [Ráðherra]^2) setur reglur^3) um drátt ökutækja.
+   ^1)[214]L. 66/2006, 11. gr. ^2)[215]L. 132/2003, 1. gr. ^3)[216]Rg. 394/1992.
                                    Skráning.
  63. gr. Áður en bifreið, bifhjól, torfærutæki eða dráttarvél er tekin í notkun
    skal ökutækið skráð og skráningarmerki sett á það. Sama á við um eftirvagn
@@ -1016,7 +1100,7 @@ heildarþyngd],^2) svo og hjólhýsi og tjaldvagn. [Eigi þarf þó að skrá ef
  ökutæki sem nær eingöngu eru notuð utan opinberra vega.]^2) Skal þá kveða á um
  það svæði þar sem nota má ökutækið. Einnig má kveða nánar á um gerð, búnað og
                               notkun ökutækisins.
-   ^1)[191]L. 138/1996, 10. gr. ^2)[192]L. 44/1993, 15. gr. ^3)[193]L. 132/2003,
+   ^1)[217]L. 138/1996, 10. gr. ^2)[218]L. 44/1993, 15. gr. ^3)[219]L. 132/2003,
                                      1. gr.
                    64. gr. [Ráðherra]^1) setur reglur^2) um:
                     a. skráningu ökutækja og eigenda þeirra,^3)
@@ -1027,8 +1111,8 @@ heildarþyngd],^2) svo og hjólhýsi og tjaldvagn. [Eigi þarf þó að skrá ef
       [f. gjald fyrir viðurkenningu á gerð ökutækja og búnaði þeirra, og]^4)
                 [g. ]^4) gjald fyrir skráningu og skráningarmerki.
                                       ^5)
-     ^1)[194]L. 132/2003, 1. gr. ^2)[195]Rg. 269/1993. [196]Rg. 79/1997, sbr.
-[197]542/1998. ^3)Augl. 77/1997. ^4)[198]L. 48/1997, 3. gr. ^5)[199]L. 62/1988,
+     ^1)[220]L. 132/2003, 1. gr. ^2)[221]Rg. 269/1993. [222]Rg. 79/1997, sbr.
+[223]542/1998. ^3)Augl. 77/1997. ^4)[224]L. 48/1997, 3. gr. ^5)[225]L. 62/1988,
                                      2. gr.
  [64. gr. a. [Ráðherra]^1) getur sett reglur^2) um heimild eiganda ökutækis til
      að velja tiltekna bókstafi og tölustafi á skráningarmerki ökutækisins
@@ -1037,55 +1121,77 @@ Fyrir rétt til einkamerkis skal greiða 25.000 kr., auk gjalds fyrir skráningu
 skráningarmerki. Fyrir skráningu á flutningi einkamerkis af einu ökutæki á annað
 í samræmi við reglur sem settar eru skv. 1. mgr. skal greiða sama gjald og fyrir
                   skráningu eigendaskipta að ökutæki. ^3)]^4)
-       ^1)[200]L. 132/2003, 1. gr. ^2)[201]Rg. 751/2003, sbr. [202]299/2004,
- [203]506/2005 og [204]656/2005. ^3)[205]L. 83/2002, 5. gr. ^4)[206]L. 37/1996,
-                                     1. gr.
+       ^1)[226]L. 132/2003, 1. gr. ^2)[227]Rg. 751/2003, sbr. [228]299/2004,
+  [229]506/2005, [230]656/2005, [231]158/2006, [232]307/2006, [233]691/2006 og
+      [234]756/2006. ^3)[235]L. 83/2002, 5. gr. ^4)[236]L. 37/1996, 1. gr.
                                   65. gr. ^1)
-                            ^1)[207]L. 83/2002, 6. gr.
+                            ^1)[237]L. 83/2002, 6. gr.
                                 Erlend ökutæki.
  66. gr. [Ráðherra]^1) setur reglur^2) um notkun erlendra ökutækja hér á landi,
                     þar á meðal hvenær beri að skrá þau hér.
-       ^1)[208]L. 132/2003, 1. gr. ^2)[209]Rg. 267/1993 (um notkun erlendra
-   ökutækja), sbr. [210]555/1993, [211]96/1996, [212]313/1999, [213]700/1999,
-                        [214]391/2003 og [215]269/2005.
+       ^1)[238]L. 132/2003, 1. gr. ^2)[239]Rg. 267/1993 (um notkun erlendra
+   ökutækja), sbr. [240]555/1993, [241]96/1996, [242]313/1999, [243]700/1999,
+                 [244]391/2003, [245]269/2005 og [246]488/2006.
                           Skoðun ökutækja og eftirlit.
 67. gr. [[Ráðherra]^1) setur reglur^2) um skoðun skráningarskyldra ökutækja, þar
   á meðal um það hverjir annist skoðun þeirra, hve oft, hvar og hvenær almenn
           skoðun skuli fara fram og að öðru leyti um framkvæmd hennar.
                                     ^3)]^4)
-   ^1)[216]L. 132/2003, 1. gr. ^2)[217]Rg. 136/1995 (um aksturs- og hvíldartíma
-ökumanna o.fl.), sbr. [218]502/1997, [219]658/1998, [220]768/2000, [221]851/2000
- og [222]853/2004. Augl. 77/1997 (um skráningu ökutækja). [223]Rg. 71/1998 (um
-frágang á hraðatakmarkara í bifreið), sbr. [224]113/2000. [225]Rg. 378/1998 (um
-      skoðun ökutækja), sbr. [226]779/1998, [227]917/1999, [228]695/2000,
- [229]240/2001, [230]722/2001, [231]35/2002 og [232]680/2002. [233]Rg. 751/2003
-  (um skráningu ökutækja), sbr. [234]299/2004, [235]506/2005 og [236]656/2005.
-   ^3)[237]L. 48/1997, 5. gr. ^4)[238]L. 44/1993, 18. gr. [239]Rg. 572/1995.
-   68. gr. Löggæslumönnum er heimilt hvenær sem er að stöðva ökutæki og skoða
-    ástand þess og hleðslu. [Þeim er einnig heimilt að skoða upplýsingar sem
-  varðveittar eru í ökurita ökutækis, á ökuritakorti eða með öðrum hætti.]^1)
-Reynist ökutæki ekki vera í lögmæltu ástandi má krefjast þess að það skuli fært
-                            til sérstakrar skoðunar.
-Verði starfsmaður verkstæðis þess var, að öryggisbúnaði vélknúins ökutækis, sem
-    þar er til viðgerðar eða breytinga, sé áfátt, skal hann skýra yfirmanni
-verkstæðisins frá því, en honum ber að gera eiganda ökutækisins viðvart og síðan
-        tilkynna það hlutaðeigandi lögreglu, ^2) ef eigi verður úr bætt.
-  [Vegagerðin annast eftirlit með reglum um aksturs- og hvíldartíma ökumanna.
-Sérstökum eftirlitsmönnum hennar er heimilt að stöðva ökutæki til þess að skoða
- upplýsingar sem varðveittar eru í ökurita ökutækisins, á ökuritakorti eða með
-   öðrum hætti. Ráðherra setur reglur um hæfi og starfsþjálfun eftirlitsmanna
-                Vegagerðarinnar og setur þeim starfsreglur.]^1)
-              ^1)[240]L. 84/2004, 4. gr. ^2)[241]L. 44/1993, 19. gr.
+       ^1)[247]L. 132/2003, 1. gr. ^2)Augl. 77/1997 (um skráningu ökutækja).
+ [248]Rg. 71/1998 (um frágang á hraðatakmarkara í bifreið), sbr. [249]113/2000.
+   [250]Rg. 378/1998 (um skoðun ökutækja), sbr. [251]779/1998, [252]917/1999,
+  [253]695/2000, [254]240/2001, [255]722/2001, [256]35/2002 og [257]680/2002.
+ [258]Rg. 751/2003 (um skráningu ökutækja), sbr. [259]299/2004, [260]506/2005,
+  [261]656/2005, [262]158/2006, [263]307/2006, [264]691/2006 og [265]756/2006.
+[266]Rg. 661/2006 (um ökurita og notkun hans). [267]Rg. 662/2006 (um aksturs- og
+     hvíldartíma ökumanna). [268]Rg. 777/2006 (um eftirlit með aksturs- og
+    hvíldartíma ökumanna, notkun ökurita o.fl.). ^3)[269]L. 48/1997, 5. gr.
+                 ^4)[270]L. 44/1993, 18. gr. [271]Rg. 572/1995.
+  68. gr. [Lögreglu er heimilt hvenær sem er að stöðva ökutæki og skoða ástand
+ þess og hleðslu. Henni er einnig heimilt að skoða upplýsingar sem varðveittar
+eru í ökurita ökutækis, á ökuritakorti eða með öðrum hætti. Reynist ökutæki ekki
+   vera í lögmæltu ástandi má krefjast þess að það skuli fært til sérstakrar
+                                   skoðunar.
+  Eftirlitsmönnum Vegagerðarinnar er heimilt að stöðva akstur ökutækja sem eru
+   meira en 3,5 tonn að leyfðri heildarþyngd hvenær sem er til þess að sinna
+                                 eftirliti með:
+              a. aksturs- og hvíldartíma ökumanna og notkun ökurita,
+                    b. stærð, heildarþyngd og ásþunga ökutækja,
+                      c. hleðslu, frágangi og merkingu farms.
+Ökumaður og flytjandi skulu hlíta þeim reglum sem ráðherra setur um aksturs- og
+hvíldartíma ökumanns og notkun ökurita, stærð, heildarþyngd og ásþunga ökutækja,
+            hleðslu, frágang og merkingu farms, sbr. 1. mgr. 76. gr.
+   Ökumanni vöruflutninga- eða hópbifreiðar er skylt að stöðva ökutæki þegar
+ eftirlitsmaður Vegagerðarinnar gefur stöðvunarmerki, sbr. 2. mgr. Ökumanni er
+   skylt að hlíta því að eftirlitsmaður skoði stærð, heildarþyngd og ásþunga
+ ökutækis, sem og hleðslu þess, frágang og merkingu farms, og skal veita honum
+ aðgang að upplýsingum sem varðveittar eru í ökurita ökutækis, á ökuritakorti,
+eða með öðrum hætti. Ef við eftirlit vaknar grunur um brot á reglum um aksturs-
+   og hvíldartíma ökumanns og notkun ökurita, stærð, heildarþyngd og ásþunga
+       ökutækja, eða hleðslu, frágang og merkingu farms, sbr. 2. mgr., er
+  eftirlitsmönnum Vegagerðarinnar heimilt að banna frekari för ökutækis til að
+hindra áframhaldandi brot þar til lögregla kemur á vettvang. Ökumaður skal hlíta
+ banni eftirlitsmanns um frekari för þar til því hefur verið aflétt. Óhlýðnist
+      ökumaður banni eftirlitsmanns skal það þegar tilkynnt til lögreglu.
+   Ökumaður eða flytjandi skal, að kröfu lögreglu eða eftirlitsmanns, afhenda
+ eftirlitsaðila gögn með upplýsingum sem skráðar eru og varðveittar, sbr. d- og
+e-lið 1. mgr. 44. gr. a. Þetta gildir jafnt um eftirlit á vegum og í starfsstöð
+flytjanda, hvort sem gögnin eru afhent á staðnum eða send eftirlitsaðila. Neiti
+     flytjandi eða ökumaður að afhenda gögn skal það tilkynnt til lögreglu.
+  Ráðherra setur reglur^1) um hæfi og þjálfun eftirlitsmanna, einkennisbúnað,
+                    skilríki og um framkvæmd eftirlits.]^2)
+                 ^1)[272]Rg. 661/2006. ^2)[273]L. 66/2006, 12. gr.
                            Bann við notkun ökutækis.
      69. gr. Nú kemur í ljós, að skráningarskylt ökutæki er til hættu fyrir
    umferðaröryggi eða er eigi fært til skoðunar þegar krafist er, og getur þá
                   löggæslumaður tekið af því skráningarmerki.
                                 Leiga ökutækja.
                                   70. gr. ^1)
-                            ^1)[242]L. 64/2000, 10. gr.
+                            ^1)[274]L. 64/2000, 10. gr.
 
                    IX. Um notkun öryggis- og verndarbúnaðar.
-                                 Öryggisbelti.
+        [Öryggisbelti og annar öryggis- og verndarbúnaður í ökutæki.]^1)
+                            ^1)[275]L. 66/2006, 13. gr.
  71. gr. [Hver sá sem situr í sæti bifreiðar sem búið er öryggisbelti skal nota
                        beltið þegar bifreiðin er á ferð.
  Ökumaður skal sjá um að í stað öryggisbeltis eða ásamt öryggisbelti noti barn
@@ -1102,10 +1208,15 @@ Barn yngra en þriggja ára má ekki vera farþegi í fólks-, sendi- eða vöru
                                    aðstæður.
  Ökumaður skal sjá um að farþegi yngri en 15 ára noti öryggis- og verndarbúnað
                                 skv. 1.4. mgr.
-Ráðherra er heimilt að setja reglur^1) um notkun öryggis- eða verndarbúnaðar og
-um undanþágu frá skyldu til að nota slíkan búnað, m.a. við sérstakan akstur.]^2)
-        ^1)[243]Rg. 105/1988, [244]rg. 204/1993. ^2)[245]L. 84/2004, 5. gr.
-                                Hlífðarhjálmar.
+  [Ráðherra setur frekari reglur^1) um gerð og notkun viðurkennds öryggis- og
+ verndarbúnaðar fyrir ökumann og farþega ökutækis þar sem m.a. skal kveðið á um
+ skyldu til að tilkynna farþegum um skyldubundna notkun öryggisbelta. Ráðherra
+ setur jafnframt reglur um undanþágu frá skyldu til að nota slíkan búnað, m.a.
+                         við sérstakan akstur.]^2)]^3)
+       ^1)[276]Rg. 105/1988, [277]rg. 204/1993. ^2)[278]L. 66/2006, 13. gr.
+                           ^3)[279]L. 84/2004, 5. gr.
+   [Öryggisbelti og annar öryggis- og verndarbúnaður við akstur bifhjóla.]^1)
+                            ^1)[280]L. 66/2006, 14. gr.
    72. gr. [Hver sá sem er á bifhjóli eða torfærutæki sem er á ferð skal nota
 viðurkenndan hlífðarhjálm ætlaðan til slíkra nota.]^1) Sama er um þann sem er á
                hliðarvagni bifhjóls eða eftirvagni torfærutækis.
@@ -1113,11 +1224,13 @@ viðurkenndan hlífðarhjálm ætlaðan til slíkra nota.]^1) Sama er um þann s
  Eigi er skylt að nota hlífðarhjálm við akstur á bifreiðastæði, við bensínstöð,
                    viðgerðarverkstæði eða svipaðar aðstæður.
  [Ráðherra]^2) getur sett reglur^3) um undanþágu frá notkun hlífðarhjálms.]^4)
-    ^1)[246]L. 84/2004, 6. gr. ^2)[247]L. 132/2003, 1. gr. ^3)[248]Rg. 598/1981
-                 og [249]205/1993. ^4)[250]L. 44/1993, 21. gr.
+  [Hver sá sem situr í sæti bifhjóls sem búið er öryggisbelti skal nota beltið
+                         þegar bifhjólið er á ferð.]^5)
+    ^1)[281]L. 84/2004, 6. gr. ^2)[282]L. 132/2003, 1. gr. ^3)[283]Rg. 598/1981
+   og [284]205/1993. ^4)[285]L. 44/1993, 21. gr. ^5)[286]L. 66/2006, 14. gr.
    [72. gr. a. [Ráðherra]^1) getur sett reglur^2) um notkun hlífðarhjálms við
                                 hjólreiðar.]^3)
-   ^1)[251]L. 132/2003, 1. gr. ^2)[252]Rg. 631/1999. ^3)[253]L. 44/1993, 22. gr.
+   ^1)[287]L. 132/2003, 1. gr. ^2)[288]Rg. 631/1999. ^3)[289]L. 44/1993, 22. gr.
 
                 X. Flutningur, hleðsla, þyngd og stærð ökutækja.
                                Hleðsla ökutækja.
@@ -1129,17 +1242,18 @@ Farþega má eigi flytja svo marga eða á þann hátt, að valdi þeim eða ö�
 munatjóni. Þess skal enn fremur gætt, að eigi sé hætta á að farmur dragist eftir
 akbraut eða falli á hana, valdi rykmekki eða svipuðum óþægindum, umferðartruflun
                                eða óþarfa hávaða.
- [Ráðherra]^1) getur sett reglur^2) um hleðslu og frágang farms, svo og hvernig
-               auðkenna skuli sérstaklega fyrirferðarmikinn farm.
-[Ráðherra]^1) getur sett reglur^3) um flutning hættulegra efna eða tækja, þar á
+ [Ráðherra getur sett frekari reglur^1) um hleðslu og frágang farms, skyldu til
+að breiða yfir farm, svo og hvernig auðkenna skuli sérstaklega fyrirferðarmikinn
+                                   farm.]^2)
+[Ráðherra]^3) getur sett reglur^4) um flutning hættulegra efna eða tækja, þar á
  meðal um skyldu til að kaupa vátryggingu, er bæti tjón vegna flutnings þeirra.
-   ^1)[254]L. 132/2003, 1. gr. ^2)[255]Rg. 554/2003. ^3)[256]Rg. 984/2000, sbr.
-    [257]773/2001, [258]684/2002, [259]750/2003 og [260]1070/2005; [261]rg.
-                                   607/2001.
+   ^1)[290]Rg. 554/2003. ^2)[291]L. 66/2006, 15. gr. ^3)[292]L. 132/2003, 1. gr.
+   ^4)[293]Rg. 984/2000, sbr. [294]773/2001, [295]684/2002, [296]750/2003 og
+                       [297]1070/2005; [298]rg. 607/2001.
                              Flutningur á farþegum.
   74. gr. [Ráðherra]^1) getur sett reglur um öryggisráðstafanir við flutning á
                                    farþegum.
-                            ^1)[262]L. 132/2003, 1. gr.
+                            ^1)[299]L. 132/2003, 1. gr.
                          Breidd, lengd og hæð ökutækja.
    75. gr. [Ráðherra]^1) setur reglur^2) um hámark breiddar, lengdar og hæðar
 ökutækja, með og án farms, þar á meðal um akstur sérstaklega breiðra, langra eða
@@ -1151,10 +1265,10 @@ hvílir sú skylda á ökumanni við akstur undir brú, í göngum, undir rafmag
  [Ráðherra]^1) getur sett reglur um greiðslu fyrir lögregluaðstoð við flutning,
   sem eftir reglum, sem settar eru skv. 1. mgr., má aðeins fara fram að fengnu
      leyfi lögreglustjóra. Lögreglustjóri metur hverju sinni þörf á aðstoð.
-       ^1)[263]L. 132/2003, 1. gr. ^2)[264]Rg. 528/1998, sbr. [265]834/2001,
-               [266]858/2003 og [267]908/2004; [268]rg. 688/2005
+       ^1)[300]L. 132/2003, 1. gr. ^2)[301]Rg. 528/1998, sbr. [302]834/2001,
+     [303]858/2003 og [304]908/2004; [305]rg. 688/2005, sbr. [306]466/2006.
                              [Ásþungi]^1) og þyngd.
-                            ^1)[269]L. 44/1993, 23. gr.
+                            ^1)[307]L. 44/1993, 23. gr.
  76. gr. [Ráðherra]^1) setur reglur^2) um hámark [ásþunga]^3) og heildarþyngdar
                            ökutækja, með og án farms.
 Þrátt fyrir ákvæði í reglum, sem settar eru skv. 1. mgr., getur veghaldari leyft
@@ -1166,8 +1280,9 @@ hvílir sú skylda á ökumanni við akstur undir brú, í göngum, undir rafmag
    skal fylgja ökutækinu við flutninginn. [Ráðherra]^1) getur sett reglur um
     greiðslu fyrir lögregluaðstoð, sem þörf er á að mati lögreglustjóra við
                        flutning, sem veghaldari heimilar.
-       ^1)[270]L. 132/2003, 1. gr. ^2)[271]Rg. 528/1998, sbr. [272]834/2001,
- [273]858/2003 og [274]908/2004; [275]rg. 688/2005. ^3)[276]L. 44/1993, 23. gr.
+       ^1)[308]L. 132/2003, 1. gr. ^2)[309]Rg. 528/1998, sbr. [310]834/2001,
+     [311]858/2003 og [312]908/2004; [313]rg. 688/2005, sbr. [314]466/2006.
+                          ^3)[315]L. 44/1993, 23. gr.
 
                               XI. Hindrun á vegi.
                              Óhreinkun vegar o.fl.
@@ -1183,7 +1298,7 @@ til bráðabirgða nauðsynlega. Ef eigi er unnt að setja slíka muni, tæki e�
   út fyrir akbraut, skal þeim komið fyrir eins utarlega á henni og unnt er og
    staðurinn auðkenndur viðvörunarmerkjum. [Ráðherra]^1) getur sett reglur um
                       hvernig auðkenna skuli slíka staði.
-                            ^1)[277]L. 132/2003, 1. gr.
+                            ^1)[316]L. 132/2003, 1. gr.
                                 Rekstur búfjár.
      78. gr. Eigi má án leyfis lögreglustjóra reka búfé á vegi í þéttbýli.
  Utan þéttbýlis má reka búfé á vegi, en fylgja skulu rekstrinum nægilega margir
@@ -1193,47 +1308,47 @@ til bráðabirgða nauðsynlega. Ef eigi er unnt að setja slíka muni, tæki e�
                                annarrar umferðar.
 
                     [XI. a. Séraðstæður hreyfihamlaðra.]^1)
-                            ^1)[278]L. 48/1997, 6. gr.
+                            ^1)[317]L. 48/1997, 6. gr.
 [78. gr. a. [Ráðherra]^1) getur sett reglur^2) um undanþágu fyrir hreyfihamlaða
     frá reglum um stöðvun og lagningu ökutækja, þar á meðal reglum um notkun
                       stöðureita og gjald fyrir hana.]^3)
-       ^1)[279]L. 132/2003, 1. gr. ^2)[280]Rg. 369/2000, sbr. [281]592/2002.
-                           ^3)[282]L. 48/1997, 6. gr.
+       ^1)[318]L. 132/2003, 1. gr. ^2)[319]Rg. 369/2000, sbr. [320]592/2002.
+                           ^3)[321]L. 48/1997, 6. gr.
 
                     XII. Umferðarstjórn, umferðarmerki o.fl.
                               Umferðarstjórn o.fl.
       79. gr. Lögreglan getur stjórnað umferð þar sem hún telur þess þörf.
    [Ráðherra]^1) getur sett reglur um heimild annarra til að stjórna umferð.
       [Ráðherra]^1) getur sett reglur^2) um merkjagjöf við umferðarstjórn.
-       ^1)[283]L. 132/2003, 1. gr. ^2)[284]Rg. 289/1995, sbr. [285]348/1998,
-  [286]427/2000, [287]458/2001, [288]999/2001, [289]230/2005 og [290]617/2005.
+       ^1)[322]L. 132/2003, 1. gr. ^2)[323]Rg. 289/1995, sbr. [324]348/1998,
+  [325]427/2000, [326]458/2001, [327]999/2001, [328]230/2005, [329]617/2005 og
+                                 [330]361/2006.
   80. gr. Við vegavinnu og þar sem skemmd hefur orðið á vegi, þannig að hætta
 stafi af fyrir umferð, getur veghaldari eða sá, sem hefur með höndum vegavinnu,
 stjórnað umferð, eftir því sem nauðsynlegt er, þar á meðal beint henni fram hjá
                                   vinnusvæði.
          [Ráðherra]^1) getur sett reglur um umferðarstjórn skv. 1. mgr.
-                            ^1)[291]L. 132/2003, 1. gr.
-81. gr. [Ráðherra]^1) ákveður að fengnum tillögum vegamálastjóra hvaða þjóðvegir
-utan [þéttbýlis]^2) skuli teljast aðalbrautir þar sem umferð hefur forgang, sbr.
-                               2. mgr. 25. gr.^3)
+                            ^1)[331]L. 132/2003, 1. gr.
+  81. gr. [Vegamálastjóri ákveður hvaða þjóðvegir utan þéttbýlis skuli teljast
+     aðalbrautir þar sem umferð hefur forgang, sbr. 2. mgr. 25. gr.^1)]^2)
        Lögreglustjóri getur, að fengnum tillögum sveitarstjórnar, svo og
-    vegamálastjóra, ef um þjóðveg ^2) er að ræða, kveðið á um önnur varanleg
-              sérákvæði um notkun vegar til umferðar,^3) svo sem:
+    vegamálastjóra, ef um þjóðveg ^3) er að ræða, kveðið á um önnur varanleg
+              sérákvæði um notkun vegar til umferðar,^1) svo sem:
                          a. stöðvun og lagningu ökutækja,
              b. hvar umferð skuli hafa forgang, sbr. 2. mgr. 25. gr.,
                                 c. einstefnuakstur,
                                   d. gangbrautir,
                          e. bann við tiltekinni umferð og
                        f. aðrar takmarkanir á umferð um veg.
-[Ráðherra]^1) ákveður hraðamörk skv. 3. og 4. mgr. 37. gr., að fengnum tillögum
-  vegamálastjóra, ef um þjóðveg utan [þéttbýlis]^2) er að ræða. Á öðrum vegum
-  ákveður lögreglustjóri hraðamörkin, að fengnum tillögum sveitarstjórnar.^3)
+[Vegamálastjóri ákveður hraðamörk skv. 3. og 4. mgr. 37. gr. ef um þjóðveg utan
+   þéttbýlis er að ræða. Á öðrum vegum ákveður lögreglustjóri hraðamörkin, að
+                    fengnum tillögum sveitarstjórnar.^1)]^2)
 Ákvarðanir samkvæmt grein þessari skal gefa til kynna með umferðarmerkjum, nema
  lögreglan stjórni umferðinni. Ákvörðun varðandi stöðvun eða lagningu ökutækja,
     sem ekki er bundin við ákveðinn vegarkafla, má þó í stað þess birta með
                              opinberri auglýsingu.
-       ^1)[292]L. 132/2003, 1. gr. ^2)[293]L. 138/1996, 11. gr. ^3)Sjá augl.
-                                115/1988, 2. gr.
+       ^1)Sjá augl. 115/1988, 2. gr. ^2)[332]L. 66/2006, 16. gr. ^3)[333]L.
+                               138/1996, 11. gr.
 82. gr. Veghaldari getur takmarkað eða bannað umferð um stundarsakir, ef það er
     nauðsynlegt til hlífðar vegi; í kaupstað eða kauptúni að fengnu samþykki
                                 lögreglustjóra.
@@ -1243,14 +1358,15 @@ er tímabundin, megi því aðeins leggja ökutæki að notuð skuli sérstök s
               Ráðherra setur reglur um stöðukort og notkun þeirra.
       Í kaupstað eða kauptúni er sveitarstjórn heimilt, að fengnu samþykki
    lögreglustjóra, að setja reglur um notkun stöðureita og gjald fyrir hana.
-                            ^1)[294]L. 132/2003, 1. gr.
+                            ^1)[334]L. 132/2003, 1. gr.
                               Umferðarmerki o.fl.
     84. gr. [Ráðherra]^1) setur reglur^2) um gerð og notkun umferðarmerkja,
  umferðarljósa og hljóðmerkja og annarra merkja á eða við veg til stjórnunar á
              eða leiðbeiningar fyrir umferð, svo og hvað þau tákna.
          Víkja má frá almennum umferðarreglum með merkjum skv. 1. mgr.
-       ^1)[295]L. 132/2003, 1. gr. ^2)[296]Rg. 289/1995, sbr. [297]348/1998,
-  [298]427/2000, [299]458/2001, [300]999/2001, [301]230/2005 og [302]617/2005.
+       ^1)[335]L. 132/2003, 1. gr. ^2)[336]Rg. 289/1995, sbr. [337]348/1998,
+  [338]427/2000, [339]458/2001, [340]999/2001, [341]230/2005, [342]617/2005 og
+                                 [343]361/2006.
  85. gr. Lögreglustjóri skal sjá um, að merki skv. 1. mgr. 84. gr. verði sett á
 eða við veg, þar sem sérreglur gilda um umferð eða þörf er á til stjórnunar eða
 leiðbeiningar. Vegamálastjóri skal þó sjá um, að slík merki verði sett á eða við
@@ -1258,7 +1374,7 @@ leiðbeiningar. Vegamálastjóri skal þó sjá um, að slík merki verði sett 
  Eigi má án leyfis lögreglustjóra (vegamálastjóra) setja merki skv. 1. mgr. 84.
                                gr. á eða við veg.
        Kostnað vegna merkja skv. 1. mgr. 84. gr. skal veghaldari greiða.
-                           ^1)[303]L. 138/1996, 12. gr.
+                           ^1)[344]L. 138/1996, 12. gr.
  86. gr. Þar sem vegavinna fer fram eða vegi er raskað af öðrum ástæðum, þannig
  að hætta stafi af, er þeim, sem stjórnar verki, skylt að sjá um, að staðurinn
                        verði merktur á fullnægjandi hátt.
@@ -1287,7 +1403,7 @@ tjónið á þau að tiltölu við sök þeirra sem hlut eiga að máli og með 
 Fébótaskyldan færist þó yfir á þann sem ökutækið notar í algeru heimildarleysi.
         Auk ábyrgðar skv. 1. og 2. mgr. fer um bótaábyrgð eftir almennum
                                 skaðabótareglum.
-                            ^1)[304]L. 44/1993, 24. gr.
+                            ^1)[345]L. 44/1993, 24. gr.
                               Vátryggingarskylda.
 91. gr. [Greiðsla á bótakröfu vegna tjóns, sem hlýst af notkun skráningarskylds
         vélknúins ökutækis, skal vera tryggð með ábyrgðartryggingu hjá:
@@ -1296,23 +1412,26 @@ Fébótaskyldan færist þó yfir á þann sem ökutækið notar í algeru heimi
    b. erlendu vátryggingafélagi sem hefur starfsleyfi í öðru ríki innan Evrópska
       efnahagssvæðisins (EES) eða Fríverslunarsamtaka Evrópu (EFTA) og sem
   Fjármálaeftirlitinu hefur verið tilkynnt á lögformlegan hátt að taki að sér
-               ábyrgðartryggingu vélknúinna ökutækja hér á landi.
+             ábyrgðartryggingu vélknúinna ökutækja hér á landi.^1)
     Öll vátryggingafélög sem taka að sér ábyrgðartryggingu skráningarskyldra
           vélknúinna ökutækja hér á landi skulu taka þátt í starfsemi
  tjónsuppgjörsmiðstöðvar skv. 94. gr. a og upplýsingamiðstöðvar skv. 94. gr. b.
-       [Ráðherra]^1) getur kveðið nánar á um slíka þátttöku í reglugerð.
+       [Ráðherra]^2) getur kveðið nánar á um slíka þátttöku í reglugerð.
         Öll vátryggingafélög sem hyggjast taka að sér ábyrgðartryggingu
  skráningarskyldra vélknúinna ökutækja hér á landi skulu auk þessa tilkynna það
-                               Umferðarstofu.]^2)
+                               Umferðarstofu.]^3)
  Vátryggingin skal tryggja bætur vegna líkamstjóns eða vegna missis framfæranda
-allt að [1.000 millj. kr.]^3) og vegna tjóns á munum allt að [175 millj. kr.]^3)
+allt að [1.000 millj. kr.]^4) og vegna tjóns á munum allt að [175 millj. kr.]^4)
                   sem hlýst af hverjum einstökum tjónsatburði.
-[Ráðherra]^1) skal árlega, að fengnum tillögum [Fjármálaeftirlitsins],^4) breyta
+[Ráðherra]^2) skal árlega, að fengnum tillögum [Fjármálaeftirlitsins],^5) breyta
          vátryggingarfjárhæðum þessum í samræmi við verðlagsbreytingar.
-[Ráðherra]^1) getur sett reglur^5) um að hve miklu leyti vátryggingin skuli bæta
+[Ráðherra]^2) getur sett reglur^6) um að hve miklu leyti vátryggingin skuli bæta
                            tjón, sem hlýst erlendis.
-   ^1)[305]L. 132/2003, 1. gr. ^2)[306]L. 26/2003, 1. gr. ^3)[307]L. 32/1998, 1.
-             gr. ^4)[308]L. 84/1998, 16. gr. ^5)[309]Rg. 392/2003.
+   ^1)Liðnum var breytt með [346]l. 108/2006, 111. gr. Breytingin tekur gildi um
+  leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar
+ Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi. ^2)[347]L.
+     132/2003, 1. gr. ^3)[348]L. 26/2003, 1. gr. ^4)[349]L. 32/1998, 1. gr.
+               ^5)[350]L. 84/1998, 16. gr. ^6)[351]Rg. 392/2003.
  92. gr. [Auk ábyrgðartryggingar skv. 91. gr. skal hver ökumaður sem ökutækinu
 stjórnar tryggður sérstakri slysatryggingu, enda hafi hann ekki notað ökutækið í
                   algeru heimildarleysi, sbr. 2. mgr. 90. gr.
@@ -1328,7 +1447,7 @@ hvers einstaks tjónsatburðar. Vátryggingarfjárhæðin skal breytast í samr�
                            ábyrgðartryggir ökutækið.
   Ef tjónþoli á rétt á skaðabótum vegna slyssins eftir lögum þessum eða öðrum
      skaðabótareglum lækka bætur úr þessari vátryggingu sem því nemur.]^2)
-               ^1)[310]L. 26/2003, 2. gr. ^2)[311]L. 32/1998, 2. gr.
+               ^1)[352]L. 26/2003, 2. gr. ^2)[353]L. 32/1998, 2. gr.
 93. gr. Vátryggingarskylda skv. 91. og 92. gr. hvílir á eiganda ökutækisins eða
                       þeim sem hefur varanlega umráð þess.
       Eigi er skylt að kaupa vátryggingu vegna ökutækis í eigu ríkissjóðs.
@@ -1339,17 +1458,17 @@ hvers einstaks tjónsatburðar. Vátryggingarfjárhæðin skal breytast í samr�
                                     92. gr.
   [Ráðherra]^1) getur sett reglur um greiðslu bóta vegna tjóna er ökutæki, sem
    undanþegin eru vátryggingarskyldu skv. 2. og 3. mgr., valda erlendis.]^2)
-              ^1)[312]L. 132/2003, 1. gr. ^2)[313]L. 26/2003, 3. gr.
+              ^1)[354]L. 132/2003, 1. gr. ^2)[355]L. 26/2003, 3. gr.
 94. gr. [[Ráðherra]^1) setur reglur^2) um framkvæmd vátryggingarskyldunnar, þar
  á meðal um skyldu vátryggingafélaga til að taka þátt í gagnkvæmu ábyrgðarkerfi
           vegna tjóna af völdum óvátryggðra og óþekktra ökutækja.]^3)
   Vátryggingariðgjald nýtur lögtaksréttar, einnig þótt vátryggt sé fyrir hærri
                             fjárhæð en lögboðið er.
-       ^1)[314]L. 132/2003, 1. gr. ^2)[315]Rg. 267/1993, sbr. [316]555/1993,
-  [317]96/1996, [318]313/1999, [319]700/1999, [320]391/2003 og [321]269/2005.
-                 [322]Rg. 392/2003. ^3)[323]L. 26/2003, 4. gr.
+       ^1)[356]L. 132/2003, 1. gr. ^2)[357]Rg. 267/1993, sbr. [358]555/1993,
+  [359]96/1996, [360]313/1999, [361]700/1999, [362]391/2003 og [363]269/2005.
+                 [364]Rg. 392/2003. ^3)[365]L. 26/2003, 4. gr.
                            [Tjónsuppgjörsmiðstöð.]^1)
-                            ^1)[324]L. 26/2003, 5. gr.
+                            ^1)[366]L. 26/2003, 5. gr.
 [94. gr. a. [Ráðherra]^1) skal viðurkenna tjónsuppgjörsmiðstöð sem greitt getur
                bætur vegna tjóns af völdum vélknúins ökutækis, ef
                        a. tjónþoli er búsettur hér á landi,
@@ -1368,11 +1487,14 @@ hvers einstaks tjónsatburðar. Vátryggingarfjárhæðin skal breytast í samr�
          [Ráðherra]^1) getur sett nánari reglur^2) um greiðslu bóta frá
  tjónsuppgjörsmiðstöð og um starfsemi hennar. Hann getur enn fremur sett nánari
  reglur um meðferð bótakrafna hjá vátryggingafélögum og tjónsuppgjörsfulltrúum
-         vátryggingafélaga skv. 11. tölul. 2. mgr. [325]21. gr. laga um
-                     vátryggingastarfsemi, nr. 60/1994.]^3)
-   ^1)[326]L. 132/2003, 1. gr. ^2)[327]Rg. 392/2003. ^3)[328]L. 26/2003, 5. gr.
+         vátryggingafélaga skv. 11. tölul. 2. mgr. [367]21. gr. laga um
+                   vátryggingastarfsemi, nr. 60/1994.]^3)^4)
+   ^1)[368]L. 132/2003, 1. gr. ^2)[369]Rg. 392/2003. ^3)[370]L. 26/2003, 5. gr.
+^4)Greininni var breytt með [371]l. 108/2006, 112. gr. Breytingin tekur gildi um
+  leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar
+      Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
                              [Upplýsingamiðstöð.^1)
-                            ^1)[329]L. 26/2003, 5. gr.
+                            ^1)[372]L. 26/2003, 5. gr.
  [94. gr. b. [Ráðherra]^1) skal viðurkenna upplýsingamiðstöð til að aðstoða við
 öflun upplýsinga um vélknúið ökutæki sem valdið hefur tjóni og vátryggingu þess
    ef tjónþoli er búsettur hérlendis, ökutækið er vátryggt eða að öllu jöfnu
@@ -1384,8 +1506,11 @@ hvers einstaks tjónsatburðar. Vátryggingarfjárhæðin skal breytast í samr�
 [Ráðherra]^1) getur sett nánari reglur^2) um starfsemi upplýsingamiðstöðvarinnar
  og um skyldu vátryggingafélaga og tjónsuppgjörsfulltrúa skv. 3. mgr. 94. gr. a
 til að láta upplýsingamiðstöð skv. 1. mgr. og upplýsingaskrifstofum í öðrum EES-
-                     eða EFTA-ríkjum í té upplýsingar.]^3)
-   ^1)[330]L. 132/2003, 1. gr. ^2)[331]Rg. 392/2003. ^3)[332]L. 26/2003, 5. gr.
+                    eða EFTA-ríkjum í té upplýsingar.]^3)^4)
+   ^1)[373]L. 132/2003, 1. gr. ^2)[374]Rg. 392/2003. ^3)[375]L. 26/2003, 5. gr.
+^4)Greininni var breytt með [376]l. 108/2006, 113. gr. Breytingin tekur gildi um
+  leið og samningur milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar
+      Danmerkur og heimastjórnar Færeyja hins vegar hefur gengið í gildi.
              Greiðsluskylda og endurkröfuréttur vátryggingafélags.
   95. gr. Vátryggingafélag er greiðsluskylt gagnvart tjónþola vegna bótakrafna
                               skv. 1. mgr. 91. gr.
@@ -1407,7 +1532,7 @@ skipaður eftir tilnefningu vátryggingafélaga þeirra sem viðurkenningu hafa 
                               bótakröfur sínar á.
 Kostnaður af störfum nefndarinnar greiðist úr ríkissjóði, en vátryggingafélögin
       skulu endurgreiða þann kostnað eftir reglum sem [ráðherra]^1) setur.
-                 ^1)[333]L. 132/2003, 1. gr. ^2)[334]Rg. 392/2003.
+                 ^1)[377]L. 132/2003, 1. gr. ^2)[378]Rg. 392/2003.
                              Meðferð skaðabótamála.
 97. gr. Nú er höfðað einkamál til heimtu bóta gegn þeim, sem bótaskyldur er skv.
  90. gr., og skal þá höfða slíkt mál jafnframt gegn vátryggingafélagi því, sem
@@ -1438,11 +1563,14 @@ sína og átti þess fyrst kost að leita fullnustu hennar. Kröfur þessar fyrn
    Eigi skal þó refsa fyrir brot, sem tilgreind eru í 1. mgr. 108. gr., nema
   stöðvun eða lagning ökutækis hafi haft í för með sér hættu fyrir aðra eða að
                     óþörfu valdið óþægindum fyrir umferðina.
- Ef brot gegn lögum þessum eða reglum, sem settar eru samkvæmt þeim, er framið
+  [Ef brot gegn lögum þessum eða reglum sem settar eru samkvæmt þeim er framið
    eftir fyrirmælum eða með vitund og vilja eiganda ökutækis eða stjórnanda í
-                 starfi, skal honum einnig refsað fyrir brotið.
-  [Sektir allt að [300.000 kr.]^2) fyrir brot á lögum þessum og reglum settum
- samkvæmt þeim skulu ákveðnar í reglugerð^3) sem [ráðherra]^4) setur að fengnum
+  starfi skal honum einnig refsað fyrir brotið. Gera má lögaðila sekt samkvæmt
+reglum II. kafla A almennra hegningarlaga fyrir brot gegn 2. mgr. 44. gr. a, 2.
+  mgr. 44. gr. b, auk 3. og 5. mgr. 68. gr., enda hafi brotið orðið eða getað
+                    orðið til hagsbóta fyrir lögaðilann.]^2)
+  [Sektir allt að [300.000 kr.]^3) fyrir brot á lögum þessum og reglum settum
+ samkvæmt þeim skulu ákveðnar í reglugerð^4) sem [ráðherra]^5) setur að fengnum
 tillögum ríkissaksóknara. Í reglugerðinni skal tilgreint hvaða tegunda brota hún
 tekur til og hvaða sekt og önnur viðurlög skuli koma fyrir hverja tegund brots.
 Heimilt er að víkja frá ákvæðum reglugerðarinnar ef veigamikil rök mæla með því.
@@ -1453,12 +1581,12 @@ Heimilt er að víkja frá ákvæðum reglugerðarinnar ef veigamikil rök mæla
   Veita má sakborningi allt að 25% afslátt af sektarfjárhæð sem lögreglustjóri
   hefur ákvarðað ef sakborningur greiðir sektina ásamt sakarkostnaði að fullu
     innan 30 daga frá dagsetningu sektarboðs eða undirritun sektargerðar sem
-                sakborningur hefur gengist skriflega undir.]^5)
-   ^1)[335]L. 82/1998, 186. gr. ^2)[336]L. 84/2004, 7. gr. ^3)[337]Rg. 575/2001,
-  sbr. [338]742/2002 og [339]966/2004. ^4)[340]L. 132/2003, 1. gr. ^5)[341]L.
-                                57/1997, 3. gr.
+                sakborningur hefur gengist skriflega undir.]^6)
+   ^1)[379]L. 82/1998, 186. gr. ^2)[380]L. 66/2006, 17. gr. ^3)[381]L. 84/2004,
+  7. gr. ^4)[382]Rg. 575/2001, sbr. [383]742/2002 og [384]966/2004. ^5)[385]L.
+                  132/2003, 1. gr. ^6)[386]L. 57/1997, 3. gr.
                             [Svipting ökuréttar.]^1)
-                            ^1)[342]L. 44/1993, 25. gr.
+                            ^1)[387]L. 44/1993, 25. gr.
       101. gr. [Svipta skal mann rétti til að stjórna vélknúnu ökutæki sem
 ökuskírteini þarf til ef hann hefur orðið sekur um mjög vítaverðan akstur slíks
      ökutækis eða ef telja verður, með hliðsjón af eðli brotsins eða annars
@@ -1476,27 +1604,46 @@ Heimilt er að víkja frá ákvæðum reglugerðarinnar ef veigamikil rök mæla
           ævilangt ef sakir eru miklar eða brot er ítrekað öðru sinni.
 Svipting ökuréttar felur í sér sviptingu réttar samkvæmt ökuskírteini og réttar
                         til að öðlast ökuskírteini.]^4)
-       ^1)[343]L. 132/2003, 1. gr. ^2)[344]Rg. 431/1998, sbr. [345]971/2004.
-             ^3)[346]L. 57/1997, 4. gr. ^4)[347]L. 44/1993, 25. gr.
+       ^1)[388]L. 132/2003, 1. gr. ^2)[389]Rg. 431/1998, sbr. [390]971/2004.
+             ^3)[391]L. 57/1997, 4. gr. ^4)[392]L. 44/1993, 25. gr.
 102. gr. [Nú hefur stjórnandi vélknúins ökutækis brotið gegn ákvæðum 1. mgr. 45.
- gr. eða neitað að veita atbeina sinn við rannsókn máls skv. 3. mgr. 47. gr. og
-skal hann þá sviptur ökurétti. Ef sérstakar málsbætur eru og ökumaður hefur ekki
- áður gerst sekur um sams konar brot eða annað verulegt brot gegn skyldum sínum
- sem ökumaður má sleppa sviptingu ökuréttar vegna brota á ákvæðum 1., sbr. 2.,
-                                  mgr. 45. gr.
- Nú hefur stjórnandi ökutækis brotið gegn ákvæðum 1., sbr. 3., mgr. 45. gr. eða
-  neitað að veita atbeina sinn við rannsókn máls skv. 3. mgr. 47. gr. og skal
-               svipting ökuréttar þá eigi vera skemur en eitt ár.
-[Nú hefur stjórnandi ökutækis brotið gegn 45. gr. og vínandamagn í blóði hans er
- yfir 2 og vínandamagn í lofti fer yfir 1,00 milligramm í lítra lofts og skal
-              hann þá sviptur ökurétti eigi skemur en tvö ár.]^1)
-  [Nú hefur stjórnandi ökutækis áður brotið gegn ákvæðum 45. gr. eða neitað að
- veita atbeina sinn við rannsókn máls skv. 3. mgr. 47. gr. og hann gerist sekur
- um eitthvert þessara brota eða bæði brotin varða við ákvæði 2. mgr. 45. gr. og
-skal svipting ökuréttar þá eigi vara skemur en tvö ár. Ef einungis síðara brotið
-  varðar við 3. mgr. 45. gr. skal svipting ökuréttar eigi vara skemur en þrjú
-                                  ár.]^1)]^2)
-               ^1)[348]L. 84/2004, 8. gr. ^2)[349]L. 23/1998, 2. gr.
+  gr. eða 45. gr. a eða neitað að veita atbeina sinn við rannsókn máls skv. 3.
+  mgr. 47. gr. og skal hann þá sviptur ökurétti. Ef sérstakar málsbætur eru og
+ökumaður hefur ekki áður gerst sekur um sams konar brot eða annað verulegt brot
+  gegn skyldum sínum sem ökumaður má sleppa sviptingu ökuréttar vegna brota á
+     ákvæðum 1. mgr. 45. gr., sbr. 2. mgr. þeirrar greinar, eða 45. gr. a.
+Neiti stjórnandi vélknúins ökutækis að veita atbeina sinn við rannsókn máls skv.
+      3. mgr. 47. gr. skal svipting ökuréttar eigi vara skemur en eitt ár.
+Hafi stjórnandi vélknúins ökutækis brotið gegn ákvæðum 1. mgr. 45. gr., sbr. 3.
+  mgr. þeirrar greinar, skal svipting ökuréttar eigi vara skemur en eitt ár og
+allt að tveimur árum eftir alvarleika brots og vínandamagni í blóði ökumanns eða
+                  vínandamagni í lofti sem hann andar frá sér.
+ Hafi stjórnandi vélknúins ökutækis brotið gegn ákvæðum 45. gr. a skal svipting
+    ökuréttar eigi vara skemur en þrjá mánuði og allt að tveimur árum eftir
+   alvarleika brots og magni ávana- og fíkniefna í blóði eða þvagi ökumanns.
+  Nú hefur stjórnandi vélknúins ökutækis brotið gegn 45. gr. og vínandamagn í
+ blóði hans er yfir 2 eða vínandamagn í lofti sem hann andar frá sér fer yfir
+ 1,00 milligramm í lítra lofts og skal hann þá sviptur ökurétti eigi skemur en
+                                    tvö ár.
+Nú hefur stjórnandi vélknúins ökutækis áður brotið gegn ákvæðum 45. gr. eða 45.
+gr. a eða neitað að veita atbeina sinn við rannsókn máls skv. 3. mgr. 47. gr. og
+hann gerist sekur um eitthvert þessara brota og skal svipting ökuréttar þá eigi
+   vara skemur en tvö ár og allt að fimm árum eftir alvarleika brots og magni
+   vínanda eða ávana- og fíkniefna í ökumanni við síðara brotið. Varði síðara
+brotið við 3. mgr. 45. gr. skal svipting ökuréttar eigi vara skemur en þrjú ár.
+     Ökumaður skal ekki beittur viðurlögum skv. 1. mgr., sbr. 4. mgr., ef:
+   a. hann hefur meðferðis við stjórnun ökutækis vottorð læknis er sýnir fram á
+ að hann sé haldinn tilteknum sjúkdómi eða ástandi og þurfi af þeim orsökum að
+             neyta þeirra efna sem í blóði eða þvagi hans mælast og
+          b. hann sýnir fram á að hann hafi fengið útgefið lyfjakort frá
+ Tryggingastofnun ríkisins vegna neyslu þeirra efna sem í blóði eða þvagi hans
+                                   mælast og
+   c. sýnt er fram á, með mati læknis að undangenginni læknisskoðun sem fram fer
+að beiðni lögreglu í framhaldi af stöðvun ökutækis, að hann hafi verið hæfur til
+                        að stjórna ökutækinu örugglega.
+  Tekið skal fram í vottorði læknis skv. a-lið að sjúklingurinn sé þrátt fyrir
+     sjúkdóm sinn og lyfjainntöku fullkomlega fær um stjórnun ökutækis.]^1)
+                            ^1)[393]L. 66/2006, 18. gr.
                               Bráðabirgðasvipting.
   103. gr. Nú telur lögreglustjóri skilyrði til sviptingar [ökuréttar]^1) vera
 fyrir hendi, og skal þá svipta ökumann [ökurétti]^1) til bráðabirgða svo fljótt
@@ -1504,21 +1651,21 @@ fyrir hendi, og skal þá svipta ökumann [ökurétti]^1) til bráðabirgða svo
  opinberra mála, og skal lögreglustjóri leiðbeina ökumanni um þann rétt, þegar
         ákvörðun er birt. Úrlausn héraðsdóms sætir kæru til Hæstaréttar.
     Sviptingartími skv. 1. mgr. skal dragast frá endanlegum sviptingartíma.
-                            ^1)[350]L. 44/1993, 27. gr.
+                            ^1)[394]L. 44/1993, 27. gr.
                                 Áhrif áfrýjunar.
 104. gr. Áfrýjun dóms, þar sem kveðið er á um sviptingu [ökuréttar],^1) frestar
 ekki verkun hans að því leyti. Þó getur dómari ákveðið með úrskurði, að áfrýjun
              fresti framkvæmd sviptingar, ef sérstaklega stendur á.
-                            ^1)[351]L. 44/1993, 28. gr.
+                            ^1)[395]L. 44/1993, 28. gr.
                                  Brot erlendis.
   105. gr. Nú hefur íslenskur ríkisborgari eða maður búsettur hér á landi sætt
 sviptingu [ökuréttar]^1) eða refsingu erlendis fyrir verknað, sem samkvæmt lögum
      þessum hefði varðað sviptingu [ökuréttar]^1) og má þá svipta hann þeim
   [rétti]^1) í sérstöku opinberu máli, og koma þá að öðru leyti til framkvæmda
                               ákvæði 101.104. gr.
-                            ^1)[352]L. 44/1993, 29. gr.
+                            ^1)[396]L. 44/1993, 29. gr.
                           [Endurveiting ökuréttar.]^1)
-                            ^1)[353]L. 44/1993, 30. gr.
+                            ^1)[397]L. 44/1993, 30. gr.
   106. gr. [Nú hefur maður verið sviptur ökurétti um lengri tíma en þrjú ár og
    getur þá [ríkislögreglustjóri],^1) þegar svipting hefur staðið í þrjú ár,
   heimilað að honum skuli veittur ökuréttur að nýju. Hafi maður verið sviptur
@@ -1528,7 +1675,7 @@ sviptingu [ökuréttar]^1) eða refsingu erlendis fyrir verknað, sem samkvæmt 
  [Heimilt er að skjóta synjun ríkislögreglustjóra á endurveitingu ökuréttar til
   ráðherra með kæru. Um málsmeðferðina fer samkvæmt stjórnsýslulögum. Ráðherra
     getur í reglugerð^3) sett nánari reglur um endurveitingu ökuréttar.]^1)
-   ^1)[354]L. 84/2004, 9. gr. ^2)[355]L. 44/1993, 30. gr. ^3)[356]Rg. 706/2004.
+   ^1)[398]L. 84/2004, 9. gr. ^2)[399]L. 44/1993, 30. gr. ^3)[400]Rg. 706/2004.
                             Haldsréttur í ökutækjum.
 107. gr. Nú er ökumaður vélknúins ökutækis búsettur erlendis og ökutæki það sem
 brotið var framið með skráð erlendis, og getur þá lögreglan lagt hald á ökutækið
@@ -1543,7 +1690,7 @@ brotið var framið með skráð erlendis, og getur þá lögreglan lagt hald á
 Ákvæði 1. mgr. verður ekki beitt gagnvart ökumönnum sem búsettir eru í Danmörku,
 Finnlandi, Noregi eða Svíþjóð nema að því er varðar gjald vegna stöðvunarbrota.
                      [Gjald vegna stöðvunarbrota o.fl.]^1)
-                            ^1)[357]L. 84/2004, 10. gr.
+                            ^1)[401]L. 84/2004, 10. gr.
                    108. gr. Leggja má gjald á vegna brota á:
                   a. [ákvæðum 4. mgr. 7. gr. og 3. mgr. 27. gr.,
                b. ákvæðum a-, b-, h- og i-liða 1. mgr. 28. gr.],^1)
@@ -1573,10 +1720,10 @@ staðfestir.^6) Verði á lagt gjald ekki greitt innan tilskilins frests hækkar
     [Ráðherra]^3) setur nánari reglur^7) um hvernig gjaldið skuli lagt á og
 innheimt, þar á meðal um greiðslu- og kærufrest. Má þar ákveða að á lagt gjald,
       sem eigi er greitt innan nánar tiltekins frests, hækki um 100%.]^1)
-    ^1)[358]L. 62/1988, 4. gr. ^2)[359]L. 84/2004, 10. gr. ^3)[360]L. 132/2003,
+    ^1)[402]L. 62/1988, 4. gr. ^2)[403]L. 84/2004, 10. gr. ^3)[404]L. 132/2003,
    1. gr. ^4)Augl. 100/1988, augl. 316/1993. ^5)Augl. 317/1993, sbr. 13/1994.
-    ^6)Augl. 13/1994, sbr. 381/2000; gjaldskrá 381/2000, sbr. [361]84/2004.
-                   ^7)[362]Rg. 104/1988, sbr. [363]226/2004.
+    ^6)Augl. 13/1994, sbr. 381/2000; gjaldskrá 381/2000, sbr. [405]84/2004.
+                   ^7)[406]Rg. 104/1988, sbr. [407]226/2004.
    109. gr. Gjald, sem lagt hefur verið á [skv. af-lið 1. mgr. 108. gr.],^1)
 hvílir á þeim, sem ábyrgð ber á stöðvun ökutækis eða lagningu. Eigandi ökutækis
   eða umráðamaður ber einnig ábyrgð á greiðslu gjaldsins, ef það greiðist ekki
@@ -1599,8 +1746,8 @@ verði aðfarar eða nauðungarsölu að tilteknum tíma liðnum],^2) enda hafi 
  þeim sem ber ábyrgð á greiðslu gjaldsins skv. 1. mgr. án undangengins dóms eða
                                   sáttar.]^3)
                                       ^4)
-    ^1)[364]L. 84/2004, 11. gr. ^2)[365]L. 92/1991, 94. gr. ^3)[366]L. 90/1991,
-                      91. gr. ^4)[367]L. 92/1991, 94. gr.
+    ^1)[408]L. 84/2004, 11. gr. ^2)[409]L. 92/1991, 94. gr. ^3)[410]L. 90/1991,
+                      91. gr. ^4)[411]L. 92/1991, 94. gr.
                            Brottflutningur ökutækja.
    110. gr. Heimilt er lögreglu að flytja eða láta flytja brott ökutæki, sem
 stendur þannig að brjóti í bága við reglur um stöðvun eða lagningu ökutækja, eða
@@ -1635,17 +1782,17 @@ krafist greiðslu á söluandvirðinu, að frádregnum kostnaði við flutning, 
   ákvæða í grein þessari fari, eftir því sem við á, að öllu leyti eða að hluta
 fram á vegum sveitarfélagsins. Hann getur og sett nánari reglur um framkvæmdina,
                  þar á meðal um greiðslu geymslukostnaðar.]^3)
-    ^1)[368]L. 90/1991, 91. gr. ^2)[369]L. 132/2003, 1. gr. ^3)[370]L. 62/1988,
+    ^1)[412]L. 90/1991, 91. gr. ^2)[413]L. 132/2003, 1. gr. ^3)[414]L. 62/1988,
                                      5. gr.
 
            XV. [Umferðarstofa, umferðarráð, umferðarfræðsla o.fl.]^1)
-                            ^1)[371]L. 83/2002, 14. gr.
+                            ^1)[415]L. 83/2002, 14. gr.
  111. gr. [Umferðarstofa annast stjórnsýslu á sviði umferðarmála, sbr. 112. gr.
 Umferðarstofa skal veita almenningi fræðslu um umferðarlöggjöf og annað það sem
           stuðlað getur að umferðaröryggi og bættri umferðarmenningu.
  Umferðarstofa skal hafa samvinnu við þá aðila, félög, samtök og stofnanir sem
                          tengjast starfsemi hennar.]^1)
-                            ^1)[372]L. 83/2002, 7. gr.
+                            ^1)[416]L. 83/2002, 7. gr.
                     112. gr. [Hlutverk Umferðarstofu er að:
      a. annast skráningu ökutækja og aðra umsýslu varðandi skráningu ökutækja,
                              gerð þeirra og búnað,
@@ -1657,20 +1804,21 @@ Umferðarstofa skal veita almenningi fræðslu um umferðarlöggjöf og annað �
            e. styðja aðgerðir sem stuðlað geta að bættu umferðaröryggi,
            f. vera stjórnvöldum og öðrum til ráðuneytis um umferðarmál,
                 g. annast mótun reglna er varða ökutæki og umferð,
-     h. annast skráningu umferðarslysa og rannsóknir á orsökum umferðarslysa,
+                      h. annast skráningu umferðarslysa ,^1)
                    i. sinna þróunarverkefnum á starfssviði sínu,
                  j. annast rekstur á tölvu- og upplýsingakerfum og
-             k. annast önnur verkefni samkvæmt ákvörðun [ráðherra].^1)
+             k. annast önnur verkefni samkvæmt ákvörðun [ráðherra].^2)
  Umferðarstofu er heimilt að fela öðrum framkvæmd verkefna sem henni tilheyra,
-                    samkvæmt reglum sem [ráðherra]^1) setur.
-    [Ráðherra]^1) setur nánari reglur um starf og hlutverk Umferðarstofu og
-          staðfestir skipurit hennar og skiptingu í starfsdeildir.]^2)
-              ^1)[373]L. 132/2003, 1. gr. ^2)[374]L. 83/2002, 8. gr.
+                    samkvæmt reglum sem [ráðherra]^2) setur.
+    [Ráðherra]^2) setur nánari reglur um starf og hlutverk Umferðarstofu og
+          staðfestir skipurit hennar og skiptingu í starfsdeildir.]^3)
+    ^1)[417]L. 66/2006, 19. gr. ^2)[418]L. 132/2003, 1. gr. ^3)[419]L. 83/2002,
+                                     8. gr.
   113. gr. [[Ráðherra]^1) skipar framkvæmdastjóra Umferðarstofu til fimm ára í
 senn. Framkvæmdastjóri stjórnar rekstri Umferðarstofu og gætir þess að stofnunin
  starfi í samræmi við lög og reglugerðir á hverjum tíma. Framkvæmdastjóri ræður
                       annað starfsfólk stofnunarinnar.]^2)
-              ^1)[375]L. 132/2003, 1. gr. ^2)[376]L. 83/2002, 9. gr.
+              ^1)[420]L. 132/2003, 1. gr. ^2)[421]L. 83/2002, 9. gr.
                  114. gr. [Til Umferðarstofu renna þessi gjöld:
                  a. gjöld fyrir skráningu ökutækja, sbr. 64. gr.,
                    b. gjöld fyrir skráningarmerki, sbr. 64. gr.,
@@ -1680,12 +1828,13 @@ senn. Framkvæmdastjóri stjórnar rekstri Umferðarstofu og gætir þess að st
     f. önnur gjöld sem Umferðarstofa innheimtir samkvæmt gjaldskrá sem staðfest
                               er af [ráðherra].^1)
    Leggja skal á sérstakt umferðaröryggisgjald er renni til Umferðarstofu, að
-fjárhæð 200 kr., og greiðist það við almenna skoðun ökutækis, skráningu ökutækis
-  og skráningu eigendaskipta að ökutæki. Ráðherra setur reglur^2) um innheimtu
-                     gjaldsins og um skil þess í ríkissjóð.
+  fjárhæð [400 kr.],^2) og greiðist það við almenna skoðun ökutækis, skráningu
+  ökutækis og skráningu eigendaskipta að ökutæki. Ráðherra setur reglur^3) um
+                innheimtu gjaldsins og um skil þess í ríkissjóð.
         Sértekjur Umferðarstofu af þjónustu- og verksamningum, svo og af
-     rannsóknastarfsemi og þróunarverkefnum, renna óskiptar til hennar.]^3)
-   ^1)[377]L. 132/2003, 1. gr. ^2)[378]Rg. 681/1995. ^3)[379]L. 83/2002, 10. gr.
+     rannsóknastarfsemi og þróunarverkefnum, renna óskiptar til hennar.]^4)
+   ^1)[422]L. 132/2003, 1. gr. ^2)[423]L. 66/2006, 20. gr. ^3)[424]Rg. 681/1995.
+                          ^4)[425]L. 83/2002, 10. gr.
 115. gr. [[Ráðherra]^1) skipar umferðarráð til þriggja ára í senn. Meginhlutverk
 þess skal vera að beita sér fyrir auknu umferðaröryggi og bættum umferðarháttum.
 Umferðarráð skal vera ráðherra til ráðgjafar um gerð umferðaröryggisáætlunar og
@@ -1703,10 +1852,10 @@ og varaformanni og einum aðila samkvæmt tilnefningu umferðarráðs. Stjórnin
                         fulltrúa í umferðarráði ólaunuð.
     Umferðarstofa leggur umferðarráði til framkvæmdastjóra og starfsaðstöðu.
  [Ráðherra]^1) getur í reglugerð sett nánari ákvæði um störf umferðarráðs.]^3)
-       ^1)[380]L. 132/2003, 1. gr. ^2)[381]Rg. 86/1997, sbr. [382]181/1997,
-           [383]93/2000 og [384]374/2004. ^3)[385]L. 83/2002, 11. gr.
+       ^1)[426]L. 132/2003, 1. gr. ^2)[427]Rg. 86/1997, sbr. [428]181/1997,
+           [429]93/2000 og [430]374/2004. ^3)[431]L. 83/2002, 11. gr.
                               [115. gr. a. ^1)]^2)
-              ^1)[386]L. 24/2005, 17. gr. ^2)[387]L. 83/2002, 12. gr.
+              ^1)[432]L. 24/2005, 17. gr. ^2)[433]L. 83/2002, 12. gr.
  116. gr. Sveitarstjórnum ber að fræða almenning um umferðarmál, eftir því sem
     staðhættir gefa efni til, svo og þær sérreglur, er gilda á hverjum stað.
  Sveitarstjórn getur skipað umferðarnefnd til þess að stuðla að umferðarfræðslu
@@ -1719,7 +1868,7 @@ og varaformanni og einum aðila samkvæmt tilnefningu umferðarráðs. Stjórnin
  Menntamálaráðherra setur, að fenginni umsögn [Umferðarstofu],^1) reglugerð um
   tilhögun kennslunnar og prófkröfur.^2) Ráðherra getur og með sama hætti sett
                     reglur um slíka kennslu í öðrum skólum.
-                 ^1)[388]L. 83/2002, 13. gr. ^2)[389]Rg. 534/1989.
+                 ^1)[434]L. 83/2002, 13. gr. ^2)[435]Rg. 534/1989.
 
                                XVI. Ýmis ákvæði.
                                   Gildistaka.
@@ -1729,14 +1878,14 @@ og varaformanni og einum aðila samkvæmt tilnefningu umferðarráðs. Stjórnin
 I. Fullnaðarskírteini, sem gefin hafa verið út fyrir gildistöku laga þessara án
 sérstakrar tímatakmörkunar, skulu gilda áfram án áritunar þar til hlutaðeigandi
  er fullra 70 ára. Ákvæði þetta gildir ekki um ökuskírteini til að mega stjórna
-    ökutækjum skv. 3. mgr. [390]27. gr. umferðarlaga, nr. 40 23. apríl 1968.
+    ökutækjum skv. 3. mgr. [436]27. gr. umferðarlaga, nr. 40 23. apríl 1968.
 Hafi maður verið sviptur ökuréttindum ævilangt fyrir gildistöku laga þessara má
  veita ökuréttindi að nýju þegar svipting hefur staðið í þrjú ár enda hafi hann
                          eigi áður fengið slíkt leyfi.
                                       ^1)
-                            ^1)[391]L. 44/1993, 32. gr.
+                            ^1)[437]L. 44/1993, 32. gr.
                                   [II. ^1)]^2)
-              ^1)[392]L. 32/1998, 3. gr. ^2)[393]L. 48/1997, brbákv.
+              ^1)[438]L. 32/1998, 3. gr. ^2)[439]L. 48/1997, brbákv.
 
 References
 
@@ -1771,366 +1920,412 @@ References
   28. file:///altext/stjt/2003.132.html
   29. file:///altext/stjt/2004.084.html
   30. file://2005024.html
-  31. file:///altext/stjt/1993.044.html
-  32. file:///altext/stjt/1996.138.html
-  33. file:///altext/stjt/2004.084.html
-  34. file:///altext/stjt/1993.044.html
-  35. file:///altext/stjt/2003.132.html
-  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/260-1970
-  37. file:///altext/stjt/2003.132.html
-  38. file:///altext/stjt/1993.044.html
-  39. file:///altext/stjt/1993.044.html
+  31. file:///altext/stjt/2006.066.html
+  32. file:///altext/stjt/2006.108.html
+  33. file:///altext/stjt/1993.044.html
+  34. file:///altext/stjt/2006.066.html
+  35. file:///altext/stjt/1996.138.html
+  36. file:///altext/stjt/2004.084.html
+  37. file:///altext/stjt/1993.044.html
+  38. file:///altext/stjt/2003.132.html
+  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/260-1970
   40. file:///altext/stjt/2003.132.html
-  41. http://stjornartidindi.is/servlet/stjrtid/B/2004/643.pdf
-  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
-  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
-  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
-  45. file:///altext/stjt/1993.044.html
-  46. file:///altext/stjt/1993.044.html
-  47. file:///altext/stjtnr.html#1988062?g1
-  48. file:///altext/stjt/1993.044.html
-  49. file:///altext/stjt/2003.132.html
-  50. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
-  51. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
-  52. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
+  41. file:///altext/stjt/1993.044.html
+  42. file:///altext/stjt/2006.066.html
+  43. file:///altext/stjt/1993.044.html
+  44. file:///altext/stjt/2003.132.html
+  45. http://stjornartidindi.is/servlet/stjrtid/B/2004/643.pdf
+  46. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
+  47. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
+  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
+  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/465-2006
+  50. file:///altext/stjt/1993.044.html
+  51. file:///altext/stjt/1993.044.html
+  52. file:///altext/stjtnr.html#1988062?g1
   53. file:///altext/stjt/1993.044.html
-  54. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
-  55. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
-  56. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
-  57. file:///altext/stjt/2003.132.html
-  58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
-  59. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
-  60. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
-  61. file:///altext/stjt/2003.132.html
-  62. file:///altext/stjt/1993.044.html
-  63. file:///altext/stjt/1993.044.html
+  54. file:///altext/stjt/2003.132.html
+  55. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
+  56. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
+  57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
+  58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/465-2006
+  59. file:///altext/stjt/1993.044.html
+  60. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
+  61. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
+  62. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
+  63. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/465-2006
   64. file:///altext/stjt/2003.132.html
-  65. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/257-2000
-  66. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/252-2005
-  67. file:///altext/stjt/1993.044.html
-  68. file:///altext/stjt/1996.138.html
-  69. file:///altext/stjt/1993.044.html
-  70. file:///altext/stjt/1996.138.html
-  71. file:///altext/stjt/2003.132.html
-  72. file:///altext/stjt/2004.084.html
-  73. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1995
-  74. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/502-1997
-  75. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/768-2000
-  76. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/851-2000
-  77. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/853-2004
-  78. file:///altext/stjt/2004.084.html
-  79. file:///altext/stjt/1997.048.html
-  80. file:///altext/stjt/1997.048.html
-  81. file:///altext/stjt/1997.048.html
-  82. file:///altext/stjt/1993.044.html
-  83. file:///altext/stjt/2003.132.html
-  84. file:///altext/stjt/1998.023.html
-  85. file:///altext/stjt/2001.091.html
-  86. file:///altext/stjt/2003.132.html
-  87. file:///altext/stjt/2001.091.html
-  88. file:///altext/stjt/2003.132.html
-  89. file:///altext/stjt/2003.132.html
-  90. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
-  91. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/773-2001
-  92. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
-  93. file:///altext/stjt/1996.138.html
-  94. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2000
-  95. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/773-2001
-  96. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/684-2002
-  97. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/750-2003
-  98. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1070-2005
-  99. file:///altext/stjt/1993.044.html
- 100. file:///altext/stjt/2003.132.html
- 101. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
- 102. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/799-1998
- 103. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-2000
- 104. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/754-2001
- 105. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/249-2002
- 106. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/747-2002
- 107. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/004-2003
- 108. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
- 109. file:///altext/stjt/2002.083.html
- 110. file:///altext/stjt/2003.132.html
- 111. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
- 112. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/799-1998
- 113. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-2000
- 114. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/754-2001
- 115. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/249-2002
- 116. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/747-2002
- 117. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/004-2003
- 118. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
- 119. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1054-2004
- 120. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/781-2005
- 121. file:///altext/stjt/1996.138.html
- 122. file:///altext/stjt/2002.083.html
- 123. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/431-1998
- 124. file:///altext/stjt/2003.132.html
- 125. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
- 126. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
- 127. file:///altext/stjt/2003.072.html
- 128. file:///altext/stjt/1996.138.html
- 129. file:///altext/stjt/1996.138.html
- 130. file:///altext/stjt/2002.083.html
- 131. file:///altext/stjt/2003.132.html
- 132. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
- 133. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/799-1998
- 134. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-2000
- 135. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/754-2001
- 136. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/249-2002
- 137. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/747-2002
- 138. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/004-2003
- 139. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
- 140. file:///altext/stjt/1996.138.html
- 141. file:///altext/stjt/2002.083.html
- 142. file:///altext/stjt/2003.132.html
- 143. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/327-1999
- 144. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/746-2002
+  65. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
+  66. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
+  67. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
+  68. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/465-2006
+  69. file:///altext/stjt/2003.132.html
+  70. file:///altext/stjt/1993.044.html
+  71. file:///altext/stjt/1993.044.html
+  72. file:///altext/stjt/2003.132.html
+  73. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/257-2000
+  74. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/252-2005
+  75. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/673-2006
+  76. file:///altext/stjt/1993.044.html
+  77. file:///altext/stjt/1996.138.html
+  78. file:///altext/stjt/1993.044.html
+  79. file:///altext/stjt/1996.138.html
+  80. file:///altext/stjt/2003.132.html
+  81. file:///altext/stjt/2004.084.html
+  82. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/661-2006
+  83. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/662-2006
+  84. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/777-2006
+  85. file:///altext/stjt/2006.066.html
+  86. file:///altext/stjt/2004.084.html
+  87. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/690-2006
+  88. file:///altext/stjt/2006.066.html
+  89. file:///altext/stjt/1997.048.html
+  90. file:///altext/stjt/2006.066.html
+  91. file:///altext/stjt/1997.048.html
+  92. file:///altext/stjt/2006.066.html
+  93. file:///altext/stjt/2001.091.html
+  94. file:///altext/stjt/2003.132.html
+  95. file:///altext/stjt/2001.091.html
+  96. file:///altext/stjt/2003.132.html
+  97. file:///altext/stjt/2003.132.html
+  98. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
+  99. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/773-2001
+ 100. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
+ 101. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/692-2006
+ 102. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/760-2006
+ 103. file:///altext/stjt/1996.138.html
+ 104. file:///altext/stjt/2006.066.html
+ 105. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2000
+ 106. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/773-2001
+ 107. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/684-2002
+ 108. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/750-2003
+ 109. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1070-2005
+ 110. file:///altext/stjt/1993.044.html
+ 111. file:///altext/stjt/2003.132.html
+ 112. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
+ 113. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/799-1998
+ 114. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-2000
+ 115. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/754-2001
+ 116. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/249-2002
+ 117. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/747-2002
+ 118. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/004-2003
+ 119. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
+ 120. file:///altext/stjt/2002.083.html
+ 121. file:///altext/stjt/2003.132.html
+ 122. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
+ 123. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/799-1998
+ 124. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-2000
+ 125. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/754-2001
+ 126. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/249-2002
+ 127. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/747-2002
+ 128. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/004-2003
+ 129. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
+ 130. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1054-2004
+ 131. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/781-2005
+ 132. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/159-2006
+ 133. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/692-2006
+ 134. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/760-2006
+ 135. file:///altext/stjt/1996.138.html
+ 136. file:///altext/stjt/2006.066.html
+ 137. file:///altext/stjt/2002.083.html
+ 138. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/431-1998
+ 139. file:///altext/stjt/2003.132.html
+ 140. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
+ 141. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
+ 142. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/692-2006
+ 143. file:///altext/stjt/2003.072.html
+ 144. file:///altext/stjt/2006.108.html
  145. file:///altext/stjt/1996.138.html
- 146. file:///altext/stjt/1996.138.html
- 147. file:///altext/stjt/1993.044.html
- 148. file:///altext/stjt/2003.132.html
- 149. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
- 150. file:///altext/stjt/1993.044.html
- 151. file:///altext/stjt/2003.132.html
- 152. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/279-1989
- 153. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/550-1991
- 154. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/057-1994
- 155. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1995
- 156. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/502-1997
- 157. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/658-1998
- 158. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/768-2000
- 159. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/851-2000
- 160. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/853-2004
- 161. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/572-1995
- 162. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
- 163. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/799-1998
- 164. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-2000
- 165. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/113-2000
- 166. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/378-1998
- 167. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/779-1998
- 168. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/917-1999
- 169. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/695-2000
- 170. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/240-2001
- 171. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/722-2001
- 172. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/035-2002
- 173. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/680-2002
- 174. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2000
- 175. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/773-2001
- 176. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/684-2002
- 177. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/750-2003
- 178. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1070-2005
- 179. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/751-2003
- 180. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/299-2004
- 181. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2005
- 182. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2005
- 183. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
- 184. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
- 185. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
- 186. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/986-2005
- 187. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1071-2005
- 188. file:///altext/stjt/2003.132.html
- 189. file:///altext/stjt/2003.132.html
- 190. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/394-1992
- 191. file:///altext/stjt/1996.138.html
- 192. file:///altext/stjt/1993.044.html
- 193. file:///altext/stjt/2003.132.html
- 194. file:///altext/stjt/2003.132.html
- 195. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/269-1993
- 196. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/079-1997
- 197. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/542-1998
- 198. file:///altext/stjt/1997.048.html
- 199. file:///altext/stjtnr.html#1988062?g2
- 200. file:///altext/stjt/2003.132.html
- 201. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/751-2003
- 202. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/299-2004
- 203. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2005
- 204. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2005
- 205. file:///altext/stjt/2002.083.html
- 206. file:///altext/stjt/1996.037.html
- 207. file:///altext/stjt/2002.083.html
- 208. file:///altext/stjt/2003.132.html
- 209. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/267-1993
- 210. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/555-1993
- 211. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/096-1996
- 212. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/313-1999
- 213. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/700-1999
- 214. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-2003
- 215. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/269-2005
- 216. file:///altext/stjt/2003.132.html
- 217. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1995
- 218. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/502-1997
- 219. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/658-1998
- 220. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/768-2000
- 221. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/851-2000
- 222. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/853-2004
- 223. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/071-1998
- 224. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/113-2000
- 225. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/378-1998
- 226. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/779-1998
- 227. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/917-1999
- 228. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/695-2000
- 229. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/240-2001
- 230. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/722-2001
- 231. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/035-2002
- 232. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/680-2002
- 233. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/751-2003
- 234. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/299-2004
- 235. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2005
- 236. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2005
- 237. file:///altext/stjt/1997.048.html
- 238. file:///altext/stjt/1993.044.html
- 239. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/572-1995
- 240. file:///altext/stjt/2004.084.html
- 241. file:///altext/stjt/1993.044.html
- 242. file://2000064.html#g10
- 243. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/105-1988
- 244. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/204-1993
- 245. file:///altext/stjt/2004.084.html
- 246. file:///altext/stjt/2004.084.html
+ 146. file:///altext/stjt/2006.066.html
+ 147. file:///altext/stjt/1996.138.html
+ 148. file:///altext/stjt/2002.083.html
+ 149. file:///altext/stjt/2003.132.html
+ 150. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
+ 151. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/799-1998
+ 152. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-2000
+ 153. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/754-2001
+ 154. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/249-2002
+ 155. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/747-2002
+ 156. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/004-2003
+ 157. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/862-2003
+ 158. file:///altext/stjt/1996.138.html
+ 159. file:///altext/stjt/2002.083.html
+ 160. file:///altext/stjt/2003.132.html
+ 161. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/327-1999
+ 162. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/746-2002
+ 163. file:///altext/stjt/1996.138.html
+ 164. file:///altext/stjt/1996.138.html
+ 165. file:///altext/stjt/1993.044.html
+ 166. file:///altext/stjt/2003.132.html
+ 167. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
+ 168. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/692-2006
+ 169. file:///altext/stjt/1993.044.html
+ 170. file:///altext/stjt/2006.066.html
+ 171. file:///altext/stjt/2003.132.html
+ 172. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/279-1989
+ 173. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/550-1991
+ 174. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/057-1994
+ 175. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/572-1995
+ 176. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/501-1997
+ 177. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/799-1998
+ 178. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-2000
+ 179. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/113-2000
+ 180. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/378-1998
+ 181. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/779-1998
+ 182. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/917-1999
+ 183. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/695-2000
+ 184. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/240-2001
+ 185. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/722-2001
+ 186. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/035-2002
+ 187. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/680-2002
+ 188. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2000
+ 189. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/773-2001
+ 190. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/684-2002
+ 191. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/750-2003
+ 192. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1070-2005
+ 193. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/751-2003
+ 194. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/299-2004
+ 195. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2005
+ 196. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2005
+ 197. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/158-2006
+ 198. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/307-2006
+ 199. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/691-2006
+ 200. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/756-2006
+ 201. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/822-2004
+ 202. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/375-2005
+ 203. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/647-2005
+ 204. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/986-2005
+ 205. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1071-2005
+ 206. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/156-2006
+ 207. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/427-2006
+ 208. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/465-2006
+ 209. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/689-2006
+ 210. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/661-2006
+ 211. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/662-2006
+ 212. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/777-2006
+ 213. file:///altext/stjt/2003.132.html
+ 214. file:///altext/stjt/2006.066.html
+ 215. file:///altext/stjt/2003.132.html
+ 216. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/394-1992
+ 217. file:///altext/stjt/1996.138.html
+ 218. file:///altext/stjt/1993.044.html
+ 219. file:///altext/stjt/2003.132.html
+ 220. file:///altext/stjt/2003.132.html
+ 221. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/269-1993
+ 222. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/079-1997
+ 223. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/542-1998
+ 224. file:///altext/stjt/1997.048.html
+ 225. file:///altext/stjtnr.html#1988062?g2
+ 226. file:///altext/stjt/2003.132.html
+ 227. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/751-2003
+ 228. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/299-2004
+ 229. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2005
+ 230. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2005
+ 231. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/158-2006
+ 232. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/307-2006
+ 233. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/691-2006
+ 234. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/756-2006
+ 235. file:///altext/stjt/2002.083.html
+ 236. file:///altext/stjt/1996.037.html
+ 237. file:///altext/stjt/2002.083.html
+ 238. file:///altext/stjt/2003.132.html
+ 239. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/267-1993
+ 240. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/555-1993
+ 241. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/096-1996
+ 242. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/313-1999
+ 243. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/700-1999
+ 244. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-2003
+ 245. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/269-2005
+ 246. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/488-2006
  247. file:///altext/stjt/2003.132.html
- 248. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/598-1981
- 249. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/205-1993
- 250. file:///altext/stjt/1993.044.html
- 251. file:///altext/stjt/2003.132.html
- 252. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/631-1999
- 253. file:///altext/stjt/1993.044.html
- 254. file:///altext/stjt/2003.132.html
- 255. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/554-2003
- 256. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2000
- 257. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/773-2001
- 258. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/684-2002
- 259. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/750-2003
- 260. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1070-2005
- 261. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/607-2001
- 262. file:///altext/stjt/2003.132.html
- 263. file:///altext/stjt/2003.132.html
- 264. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/528-1998
- 265. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/834-2001
- 266. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/858-2003
- 267. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/908-2004
- 268. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2005
- 269. file:///altext/stjt/1993.044.html
- 270. file:///altext/stjt/2003.132.html
- 271. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/528-1998
- 272. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/834-2001
- 273. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/858-2003
- 274. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/908-2004
- 275. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2005
- 276. file:///altext/stjt/1993.044.html
- 277. file:///altext/stjt/2003.132.html
- 278. file:///altext/stjt/1997.048.html
- 279. file:///altext/stjt/2003.132.html
- 280. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-2000
- 281. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/592-2002
- 282. file:///altext/stjt/1997.048.html
- 283. file:///altext/stjt/2003.132.html
- 284. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/289-1995
- 285. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-1998
- 286. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/427-2000
- 287. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/458-2001
- 288. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/999-2001
- 289. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/230-2005
- 290. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/617-2005
- 291. file:///altext/stjt/2003.132.html
+ 248. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/071-1998
+ 249. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/113-2000
+ 250. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/378-1998
+ 251. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/779-1998
+ 252. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/917-1999
+ 253. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/695-2000
+ 254. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/240-2001
+ 255. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/722-2001
+ 256. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/035-2002
+ 257. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/680-2002
+ 258. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/751-2003
+ 259. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/299-2004
+ 260. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2005
+ 261. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2005
+ 262. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/158-2006
+ 263. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/307-2006
+ 264. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/691-2006
+ 265. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/756-2006
+ 266. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/661-2006
+ 267. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/662-2006
+ 268. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/777-2006
+ 269. file:///altext/stjt/1997.048.html
+ 270. file:///altext/stjt/1993.044.html
+ 271. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/572-1995
+ 272. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/661-2006
+ 273. file:///altext/stjt/2006.066.html
+ 274. file://2000064.html#g10
+ 275. file:///altext/stjt/2006.066.html
+ 276. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/105-1988
+ 277. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/204-1993
+ 278. file:///altext/stjt/2006.066.html
+ 279. file:///altext/stjt/2004.084.html
+ 280. file:///altext/stjt/2006.066.html
+ 281. file:///altext/stjt/2004.084.html
+ 282. file:///altext/stjt/2003.132.html
+ 283. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/598-1981
+ 284. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/205-1993
+ 285. file:///altext/stjt/1993.044.html
+ 286. file:///altext/stjt/2006.066.html
+ 287. file:///altext/stjt/2003.132.html
+ 288. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/631-1999
+ 289. file:///altext/stjt/1993.044.html
+ 290. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/554-2003
+ 291. file:///altext/stjt/2006.066.html
  292. file:///altext/stjt/2003.132.html
- 293. file:///altext/stjt/1996.138.html
- 294. file:///altext/stjt/2003.132.html
- 295. file:///altext/stjt/2003.132.html
- 296. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/289-1995
- 297. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-1998
- 298. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/427-2000
- 299. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/458-2001
- 300. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/999-2001
- 301. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/230-2005
- 302. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/617-2005
- 303. file:///altext/stjt/1996.138.html
- 304. file:///altext/stjt/1993.044.html
- 305. file:///altext/stjt/2003.132.html
- 306. file:///altext/stjt/2003.026.html
- 307. file:///altext/stjt/1998.032.html
- 308. file:///altext/stjt/1998.084.html
- 309. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
- 310. file:///altext/stjt/2003.026.html
- 311. file:///altext/stjt/1998.032.html
- 312. file:///altext/stjt/2003.132.html
- 313. file:///altext/stjt/2003.026.html
- 314. file:///altext/stjt/2003.132.html
- 315. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/267-1993
- 316. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/555-1993
- 317. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/096-1996
- 318. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/313-1999
- 319. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/700-1999
- 320. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-2003
- 321. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/269-2005
- 322. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
- 323. file:///altext/stjt/2003.026.html
- 324. file:///altext/stjt/2003.026.html
- 325. file://1994060.html#g21
- 326. file:///altext/stjt/2003.132.html
- 327. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
- 328. file:///altext/stjt/2003.026.html
- 329. file:///altext/stjt/2003.026.html
- 330. file:///altext/stjt/2003.132.html
- 331. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
- 332. file:///altext/stjt/2003.026.html
- 333. file:///altext/stjt/2003.132.html
- 334. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
- 335. file:///altext/stjt/1998.082.html
- 336. file:///altext/stjt/2004.084.html
- 337. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/575-2001
- 338. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/742-2002
- 339. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/966-2004
- 340. file:///altext/stjt/2003.132.html
- 341. file:///altext/stjt/1997.057.html
- 342. file:///altext/stjt/1993.044.html
- 343. file:///altext/stjt/2003.132.html
- 344. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/431-1998
- 345. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/971-2004
- 346. file:///altext/stjt/1997.057.html
- 347. file:///altext/stjt/1993.044.html
- 348. file:///altext/stjt/2004.084.html
- 349. file:///altext/stjt/1998.023.html
- 350. file:///altext/stjt/1993.044.html
- 351. file:///altext/stjt/1993.044.html
- 352. file:///altext/stjt/1993.044.html
- 353. file:///altext/stjt/1993.044.html
- 354. file:///altext/stjt/2004.084.html
- 355. file:///altext/stjt/1993.044.html
- 356. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/706-2004
- 357. file:///altext/stjt/2004.084.html
- 358. file:///altext/stjtnr.html#1988062?g4
- 359. file:///altext/stjt/2004.084.html
- 360. file:///altext/stjt/2003.132.html
- 361. http://stjornartidindi.is/servlet/stjrtid/B/2004/84.pdf
- 362. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/104-1988
- 363. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/226-2004
- 364. file:///altext/stjt/2004.084.html
- 365. file:///altext/stjt/1991.092.html
- 366. file://1991090.html#g91
- 367. file:///altext/stjt/1991.092.html
- 368. file://1991090.html#g91
- 369. file:///altext/stjt/2003.132.html
- 370. file:///altext/stjtnr.html#1988062?g5
- 371. file:///altext/stjt/2002.083.html
- 372. file:///altext/stjt/2002.083.html
+ 293. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/984-2000
+ 294. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/773-2001
+ 295. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/684-2002
+ 296. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/750-2003
+ 297. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1070-2005
+ 298. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/607-2001
+ 299. file:///altext/stjt/2003.132.html
+ 300. file:///altext/stjt/2003.132.html
+ 301. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/528-1998
+ 302. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/834-2001
+ 303. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/858-2003
+ 304. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/908-2004
+ 305. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2005
+ 306. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/466-2006
+ 307. file:///altext/stjt/1993.044.html
+ 308. file:///altext/stjt/2003.132.html
+ 309. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/528-1998
+ 310. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/834-2001
+ 311. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/858-2003
+ 312. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/908-2004
+ 313. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2005
+ 314. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/466-2006
+ 315. file:///altext/stjt/1993.044.html
+ 316. file:///altext/stjt/2003.132.html
+ 317. file:///altext/stjt/1997.048.html
+ 318. file:///altext/stjt/2003.132.html
+ 319. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-2000
+ 320. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/592-2002
+ 321. file:///altext/stjt/1997.048.html
+ 322. file:///altext/stjt/2003.132.html
+ 323. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/289-1995
+ 324. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-1998
+ 325. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/427-2000
+ 326. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/458-2001
+ 327. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/999-2001
+ 328. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/230-2005
+ 329. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/617-2005
+ 330. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/361-2006
+ 331. file:///altext/stjt/2003.132.html
+ 332. file:///altext/stjt/2006.066.html
+ 333. file:///altext/stjt/1996.138.html
+ 334. file:///altext/stjt/2003.132.html
+ 335. file:///altext/stjt/2003.132.html
+ 336. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/289-1995
+ 337. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/348-1998
+ 338. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/427-2000
+ 339. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/458-2001
+ 340. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/999-2001
+ 341. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/230-2005
+ 342. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/617-2005
+ 343. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/361-2006
+ 344. file:///altext/stjt/1996.138.html
+ 345. file:///altext/stjt/1993.044.html
+ 346. file:///altext/stjt/2006.108.html
+ 347. file:///altext/stjt/2003.132.html
+ 348. file:///altext/stjt/2003.026.html
+ 349. file:///altext/stjt/1998.032.html
+ 350. file:///altext/stjt/1998.084.html
+ 351. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
+ 352. file:///altext/stjt/2003.026.html
+ 353. file:///altext/stjt/1998.032.html
+ 354. file:///altext/stjt/2003.132.html
+ 355. file:///altext/stjt/2003.026.html
+ 356. file:///altext/stjt/2003.132.html
+ 357. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/267-1993
+ 358. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/555-1993
+ 359. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/096-1996
+ 360. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/313-1999
+ 361. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/700-1999
+ 362. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-2003
+ 363. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/269-2005
+ 364. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
+ 365. file:///altext/stjt/2003.026.html
+ 366. file:///altext/stjt/2003.026.html
+ 367. file://1994060.html#g21
+ 368. file:///altext/stjt/2003.132.html
+ 369. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
+ 370. file:///altext/stjt/2003.026.html
+ 371. file:///altext/stjt/2006.108.html
+ 372. file:///altext/stjt/2003.026.html
  373. file:///altext/stjt/2003.132.html
- 374. file:///altext/stjt/2002.083.html
- 375. file:///altext/stjt/2003.132.html
- 376. file:///altext/stjt/2002.083.html
+ 374. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
+ 375. file:///altext/stjt/2003.026.html
+ 376. file:///altext/stjt/2006.108.html
  377. file:///altext/stjt/2003.132.html
- 378. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/681-1995
- 379. file:///altext/stjt/2002.083.html
- 380. file:///altext/stjt/2003.132.html
- 381. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/086-1997
- 382. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/181-1997
- 383. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/093-2000
- 384. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-2004
- 385. file:///altext/stjt/2002.083.html
- 386. file://2005024.html#g17
- 387. file:///altext/stjt/2002.083.html
- 388. file:///altext/stjt/2002.083.html
- 389. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/534-1989
- 390. file:///altext/stjtnr.html#1968040?g27
- 391. file:///altext/stjt/1993.044.html
- 392. file:///altext/stjt/1998.032.html
- 393. file:///altext/stjt/1997.048.html
+ 378. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/392-2003
+ 379. file:///altext/stjt/1998.082.html
+ 380. file:///altext/stjt/2006.066.html
+ 381. file:///altext/stjt/2004.084.html
+ 382. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/575-2001
+ 383. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/742-2002
+ 384. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/966-2004
+ 385. file:///altext/stjt/2003.132.html
+ 386. file:///altext/stjt/1997.057.html
+ 387. file:///altext/stjt/1993.044.html
+ 388. file:///altext/stjt/2003.132.html
+ 389. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/431-1998
+ 390. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/971-2004
+ 391. file:///altext/stjt/1997.057.html
+ 392. file:///altext/stjt/1993.044.html
+ 393. file:///altext/stjt/2006.066.html
+ 394. file:///altext/stjt/1993.044.html
+ 395. file:///altext/stjt/1993.044.html
+ 396. file:///altext/stjt/1993.044.html
+ 397. file:///altext/stjt/1993.044.html
+ 398. file:///altext/stjt/2004.084.html
+ 399. file:///altext/stjt/1993.044.html
+ 400. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/706-2004
+ 401. file:///altext/stjt/2004.084.html
+ 402. file:///altext/stjtnr.html#1988062?g4
+ 403. file:///altext/stjt/2004.084.html
+ 404. file:///altext/stjt/2003.132.html
+ 405. http://stjornartidindi.is/servlet/stjrtid/B/2004/84.pdf
+ 406. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/104-1988
+ 407. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/226-2004
+ 408. file:///altext/stjt/2004.084.html
+ 409. file:///altext/stjt/1991.092.html
+ 410. file://1991090.html#g91
+ 411. file:///altext/stjt/1991.092.html
+ 412. file://1991090.html#g91
+ 413. file:///altext/stjt/2003.132.html
+ 414. file:///altext/stjtnr.html#1988062?g5
+ 415. file:///altext/stjt/2002.083.html
+ 416. file:///altext/stjt/2002.083.html
+ 417. file:///altext/stjt/2006.066.html
+ 418. file:///altext/stjt/2003.132.html
+ 419. file:///altext/stjt/2002.083.html
+ 420. file:///altext/stjt/2003.132.html
+ 421. file:///altext/stjt/2002.083.html
+ 422. file:///altext/stjt/2003.132.html
+ 423. file:///altext/stjt/2006.066.html
+ 424. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/681-1995
+ 425. file:///altext/stjt/2002.083.html
+ 426. file:///altext/stjt/2003.132.html
+ 427. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/086-1997
+ 428. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/181-1997
+ 429. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/093-2000
+ 430. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/374-2004
+ 431. file:///altext/stjt/2002.083.html
+ 432. file://2005024.html#g17
+ 433. file:///altext/stjt/2002.083.html
+ 434. file:///altext/stjt/2002.083.html
+ 435. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/534-1989
+ 436. file:///altext/stjtnr.html#1968040?g27
+ 437. file:///altext/stjt/1993.044.html
+ 438. file:///altext/stjt/1998.032.html
+ 439. file:///altext/stjt/1997.048.html

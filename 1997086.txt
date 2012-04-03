@@ -10,19 +10,21 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-                           Tóku gildi 1. janúar 1997.
+ Tóku gildi 1. janúar 1997. Breytt með [4]l. 47/2006 (tóku gildi 1. júlí 2006).
+
      1. gr. Ríkisendurskoðun starfar á vegum Alþingis. Hún skal endurskoða
      ríkisreikning og reikninga þeirra aðila sem hafa með höndum rekstur og
-fjárvörslu á vegum ríkisins, sbr. [4]43. gr. stjórnarskipunarlaga, nr. 33/1944.
+fjárvörslu á vegum ríkisins, sbr. [5]43. gr. stjórnarskipunarlaga, nr. 33/1944.
   Þá getur hún framkvæmt stjórnsýsluendurskoðun skv. 9. gr. þessara laga. Enn
  fremur skal hún annast eftirlit með framkvæmd fjárlaga og vera þingnefndum til
              aðstoðar við störf er varða fjárhagsmálefni ríkisins.
  2. gr. Forsætisnefnd Alþingis ræður forstöðumann stofnunarinnar til sex ára í
      senn og nefnist hann ríkisendurskoðandi. Ríkisendurskoðandi skal hafa
- löggildingu sem endurskoðandi. Launakjör hans skulu ákveðin af Kjaradómi. Hann
-ræður aðra starfsmenn stofnunarinnar. Ríkisendurskoðandi er starfsmaður Alþingis
-  og ber ábyrgð gagnvart því. Forsætisnefnd Alþingis getur, að fengnu samþykki
-                 Alþingis, vikið ríkisendurskoðanda úr starfi.
+ löggildingu sem endurskoðandi. Launakjör hans skulu ákveðin af [kjararáði].^1)
+  Hann ræður aðra starfsmenn stofnunarinnar. Ríkisendurskoðandi er starfsmaður
+  Alþingis og ber ábyrgð gagnvart því. Forsætisnefnd Alþingis getur, að fengnu
+             samþykki Alþingis, vikið ríkisendurskoðanda úr starfi.
+                             ^1)[6]L. 47/2006, 13. gr.
   3. gr. Ríkisendurskoðun er engum háð í störfum sínum. Forsætisnefnd getur þó
    ýmist að eigin frumkvæði eða samkvæmt óskum þingmanna krafist skýrslna um
             einstök mál er falla undir starfsemi Ríkisendurskoðunar.
@@ -117,4 +119,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997086
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=262
    3. http://www.althingi.is/altext/121/s/0497.html
-   4. file://1944033.html#g43
+   4. file://2006047.html
+   5. file://1944033.html#g43
+   6. file://2006047.html#g13
