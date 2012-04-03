@@ -19,8 +19,8 @@
  (tóku gildi 1. nóv. 2007; EES-samningurinn: IX. viðauki tilskipun 2004/39/EB),
  l. 144/2007 (tóku gildi 29. des. 2007), [1]l. 88/2008 (tóku gildi 1. jan. 2009
  nema brbákv. VII sem tók gildi 21. júní 2008), l. 96/2008 (tóku gildi 24. júní
- 2008), [2]l. 125/2008 (tóku gildi 7. okt. 2008) og l. 129/2008 (tóku gildi 15.
-                                  nóv. 2008).
+  2008), [2]l. 125/2008 (tóku gildi 7. okt. 2008), l. 129/2008 (tóku gildi 15.
+             nóv. 2008) og l. 44/2009 (tóku gildi 22. apríl 2009).
 
                              I. kafli. Gildissvið.
   1. gr. Lög þessi gilda um innlend fjármálafyrirtæki og um starfsemi erlendra
@@ -196,15 +196,16 @@ Fjármálaeftirlitið getur afturkallað starfsleyfi fjármálafyrirtækis í he
             reglum, samþykktum eða reglugerðum settum samkvæmt þeim.
 Áður en til afturköllunar kemur skv. 1. mgr. skal fyrirtækinu veittur hæfilegur
   frestur til úrbóta sé unnt að koma úrbótum við að mati Fjármálaeftirlitsins.
-[Þrátt fyrir afturköllun starfsleyfis skv. 6. tölul. 1. mgr. er þeim sem annast
-    skiptastjórn þrotabús fjármálafyrirtækis heimilt, með samþykki og undir
+        [Þrátt fyrir afturköllun starfsleyfis skv. 6. tölul. 1. mgr. er
+    [bráðabirgðastjórn, slitastjórn við slitameðferð fjármálafyrirtækis eða
+skiptastjóra við gjaldþrotaskipti á búi þess]^2) heimilt, með samþykki og undir
 eftirliti Fjármálaeftirlitsins, að annast áfram tiltekna leyfisbundna starfsemi
     að svo miklu leyti sem hún er nauðsynleg vegna bústjórnar og ráðstöfunar
-                             hagsmuna þrotabús.]^2)
+                             hagsmuna þrotabús.]^3)
   Fjármálaeftirlitinu er heimilt að banna fjármálafyrirtæki að stunda tiltekna
 starfsemi sem því er heimil skv. IV. kafla. Um slíkt bann gilda ákvæði 1. og 2.
                                       mgr.
-                 ^1)[3]L. 125/2008, 3. gr. ^2)L. 129/2008, 1. gr.
+      ^1)[3]L. 125/2008, 3. gr. ^2)L. 44/2009, 1. gr. ^3)L. 129/2008, 1. gr.
          10. gr. Tilkynning um afturköllun og slit fjármálafyrirtækis.
    Afturköllun á starfsleyfi fjármálafyrirtækis skal tilkynnt stjórn þess og
        rökstudd skriflega. Fjármálaeftirlitið skal birta tilkynninguna í
@@ -992,8 +993,8 @@ Færð skal skrá yfir stofnfjáreigendur og skulu þeir allir eiga aðgang að 
                 umfram það sem mælt er fyrir um í lögum þessum.
     Stofnfjáreigendur skulu einungis njóta arðs af innborguðu stofnfé sínu.
  Stofnfé verður ekki endurgreitt til stofnfjáreigenda nema samkvæmt ákvæðum 65.
-                                og [103. gr.]^1)
-                              ^1)L. 130/2004, 5. gr.
+                              og [103. gr. a].^1)
+                               ^1)L. 44/2009, 2. gr.
                    64. gr. Sala og veðsetning stofnfjárhluta.
     Sala eða annað framsal stofnfjárhlutar í sparisjóði er óheimilt nema með
   samþykki sparisjóðsstjórnar. Telji sparisjóðsstjórn að væntanlegur kaupandi
@@ -1600,7 +1601,7 @@ um gerð samstæðureikningsskila fyrir samstæðu fyrirtækja þar sem móðurf
 
 XII. kafli. [Endurskipulagning fjárhags, slit og samruni fjármálafyrirtækja.]^1)
                               ^1)L. 130/2004, 12. gr.
-                 [A. Endurskipulagning fjárhags lánastofnana.]
+                [A. Endurskipulagning fjárhags lánastofnana.]^1)
                               ^1)L. 130/2004, 9. gr.
                       [98. gr. Endurskipulagning fjárhags.
 Með endurskipulagningu fjárhags lánastofnana er átt við ráðstafanir sem ætlað er
@@ -1613,33 +1614,16 @@ gætu haft áhrif á áður fengin réttindi þriðja aðila, þ.m.t. ráðstafa
  Lög um gjaldþrotaskipti o.[14]fl., nr. 21/1991, gilda um heimild lánastofnunar
  til að leita greiðslustöðvunar og nauðasamnings og framkvæmd slíkra ráðstafana
                  enda sé ekki á annan veg mælt í lögum þessum.
-[Veiti héraðsdómari fjármálafyrirtæki heimild til greiðslustöðvunar skv. 12. gr.
-laga um gjaldþrotaskipti o.fl. skal heimildin veitt til ákveðins dags og stundar
-     innan tólf vikna frá uppkvaðningu úrskurðarins. Fallist héraðsdómari á
- framlengingu greiðslustöðvunar skv. 17. gr. sömu laga skal þing haldið til að
-taka málefnið fyrir á ný innan níu mánaða frá því að beiðni um framlengingu var
- lögð fram á dómþingi. Héraðsdómari getur þó aldrei heimilað greiðslustöðvun í
- lengri tíma en alls 24 mánuði talið frá því þinghaldi þegar heimild var veitt
-skv. 1. málsl. Fundarboð skv. 2. mgr. 13. gr. og tilkynning skv. 5. mgr. 17. gr.
- laga um gjaldþrotaskipti o.fl. telst fullnægjandi ef hún er birt í að minnsta
-kosti tveimur dagblöðum hér á landi og í hverju þeirra ríkja þar sem útibú hafa
-                                  verið rekin.
-Lögmaður eða löggiltur endurskoðandi sem ráðinn hefur verið af fjármálafyrirtæki
-  til að aðstoða við að koma nýrri skipan á fjármál þess, sbr. 10. gr. laga um
- gjaldþrotaskipti o.[15]fl., nr. 21/1991, skal ekki vera skaðabótaskyldur vegna
-    ákvarðana og aðgerða sinna sem aðstoðarmaður nema um sé að ræða brot af
-                      ásetningi eða stórkostlegu gáleysi.
- Dómsmál verður ekki höfðað gegn fjármálafyrirtæki meðan á greiðslustöðvun þess
-   stendur nema mælt sé sérstaklega fyrir um heimild til þess í lögum eða um
-  opinbert mál sé að ræða og krafist sé refsiviðurlaga sem ákveða má á hendur
-   fjármálafyrirtæki. Má þá höfða mál í umdæmi héraðsdómstóls þess sem veitti
-                         heimild til greiðslustöðvunar.
-Hafi dómsmál verið höfðað gegn fjármálafyrirtæki sem síðar er veitt heimild til
-    greiðslustöðvunar, þá verður meðferð þess máls ekki fram haldið meðan á
-  greiðslustöðvun stendur nema mælt sé sérstaklega fyrir um heimild til þess í
-lögum eða um opinbert mál sé að ræða og krafist sé refsiviðurlaga sem ákveða má
-                      á hendur fjármálafyrirtæki.]^1)]^2)
-                   ^1)L. 129/2008, 2. gr. ^2)L. 130/2004, 9. gr.
+[Hafi fjármálafyrirtæki verið veitt heimild til greiðslustöðvunar er nægilegt að
+birta fundarboð skv. 2. mgr. 13. gr. og 5. mgr. 17. gr. laga um gjaldþrotaskipti
+  o.fl. með auglýsingu sem birt er í að minnsta kosti tveimur dagblöðum hér á
+       landi og í hverju þeirra ríkja þar sem útibú hafa verið rekin.]^1)
+                                    ^1)]^2)
+   ^1)L. 44/2009, 3. gr. Þrátt fyrir ákvæði a-liðar þeirrar greinar skal 3. mgr.
+  [15]98. gr. laga nr. 161/2002, sbr. 2. gr. laga nr. 129/2008, gilda áfram í
+     upphaflegri mynd gagnvart fjármálafyrirtækjum sem njóta heimildar til
+    greiðslustöðvunar við gildistöku l. 44/2009, þar á meðal um framlengingu
+heimildar til greiðslustöðvunar, sbr. l. 44/2009, 10. gr. ^2)L. 130/2004, 9. gr.
 [99. gr. Fjárhagsleg endurskipulagning lánastofnunar með höfuðstöðvar á Íslandi
                            og útibú í öðru EES-ríki.
  [Nú veitir dómstóll hér á landi lánastofnun heimild til greiðslustöðvunar eða
@@ -1714,139 +1698,203 @@ nauðasamnings. Fjármálaeftirlitið skal koma upplýsingum um beiðnina og ák
 eftirlitsstjórnvöldum í þeim ríkjum um beiðnina. Dómstólar skulu leitast við að
             samræma aðgerðir með yfirvöldum annarra gistiríkja.]^2)
                   ^1)L. 108/2006, 81. gr. ^2)L. 130/2004, 9. gr.
-                      [100. gr. a. Sérstakar ráðstafanir.
- Fjármálaeftirlitið getur gripið til sérstakra ráðstafana í samræmi við ákvæði
-  þessarar greinar telji það þörf á vegna sérstakra aðstæðna eða atvika, í því
-   skyni að takmarka tjón eða hættu á tjóni á fjármálamarkaði. Með sérstökum
-aðstæðum eða atvikum er átt við sérstaka fjárhags- og/eða rekstrarerfiðleika hjá
-fjármálafyrirtæki, m.a. líkur á að það geti ekki staðið við skuldbindingar sínar
-gagnvart viðskiptavinum eða kröfuhöfum, forsendur afturköllunar starfsleyfis séu
-  líklega fyrir hendi eða líkur standi til að það geti ekki uppfyllt kröfur um
- lágmarks eigið fé og að önnur úrræði Fjármálaeftirlitsins séu ekki líkleg til
-       þess að bera árangur. Þá er með sérstökum aðstæðum m.a. átt við ef
-fjármálafyrirtæki hefur óskað eftir eða fengið heimild til greiðslustöðvunar eða
-nauðasamninga eða óskað eftir gjaldþrotaskiptum eða verið úrskurðað gjaldþrota.
-  Við aðstæður eða atvik sem tilgreind eru í 1. mgr. getur Fjármálaeftirlitið
-         boðað til hluthafafundar eða fundar stofnfjáreigenda. Fulltrúi
- Fjármálaeftirlitsins skal stýra fundi og hefur hann málfrelsi og tillögurétt.
-Fjármálaeftirlitið er við þessar aðstæður ekki bundið af ákvæðum hlutafélagalaga
- eða samþykkta fjármálafyrirtækis um fundarboðun, fresti til fundarboðunar eða
-                   tillögugerðar til breytinga á samþykktum.
-      Séu aðstæður mjög knýjandi getur Fjármálaeftirlitið tekið yfir vald
-  hluthafafundar eða fundar stofnfjáreigenda í því skyni að taka ákvarðanir um
-nauðsynlegar aðgerðir, m.a. takmarkað ákvörðunarvald stjórnar, vikið stjórn frá
-     að hluta til eða í heild sinni, tekið yfir eignir, réttindi og skyldur
- fjármálafyrirtækis í heild eða að hluta eða ráðstafað slíku fyrirtæki í heild
-  eða að hluta m.a. með samruna þess við annað fyrirtæki. Við slíka ráðstöfun
- gilda hvorki ákvæði laga um verðbréfaviðskipti um tilboðsskyldu né ákvæði laga
-        um fjármálafyrirtæki um auglýsingu samruna fjármálafyrirtækja í
- Lögbirtingablaði. Fjármálaeftirlitinu er heimilt að framselja öll réttindi að
-     því marki sem nauðsynlegt er í slíkum tilfellum. Verði það niðurstaða
- Fjármálaeftirlitsins að samruni viðkomandi fjármálafyrirtækis við annað tryggi
-  best þá hagsmuni sem í húfi eru gilda ákvæði samkeppnislaga og samrunaákvæði
- laga um fjármálafyrirtæki ekki um samrunann. Ákvörðun Fjármálaeftirlitsins um
-  yfirtöku á rekstri fjármálafyrirtækis skal tilkynnt stjórn þess og rökstudd
- skriflega. Fjármálaeftirlitið skal birta tilkynninguna opinberlega. Starfræki
-   fyrirtækið útibú eða þjónustustarfsemi í öðru ríki skal tilkynningin send
-                      lögbærum eftirlitsaðilum í því ríki.
- Fjármálaeftirlitinu er heimilt, samhliða því sem ákvörðun er tekin um að víkja
- stjórn fjármálafyrirtækisins frá, að skipa því fimm manna skilanefnd sem fari
- með allar heimildir stjórnar samkvæmt ákvæðum hlutafélagalaga. Skilanefnd skal
-fara með öll málefni fjármálafyrirtækisins, þar á meðal að hafa umsjón með allri
- meðferð eigna þess, svo og að annast annan rekstur þess. Skilanefnd skal fara
-    eftir og framkvæma þær ákvarðanir Fjármálaeftirlitsins sem teknar eru á
- grundvelli ákvæðis þessa. Ákvæði 64. og 65. gr. laga um gjaldþrotaskipti o.fl.
-      eiga ekki við meðan skilanefnd samkvæmt ákvæði þessu fer með málefni
-       fjármálafyrirtækisins. Á sama tíma verður ekki komið fram gagnvart
- fjármálafyrirtækinu aðfarargerð á grundvelli laga um aðför eða kyrrsetningu á
-                 grundvelli laga um kyrrsetningu, lögbann o.fl.
-   Ef nauðsyn krefur getur Fjármálaeftirlitið takmarkað eða bannað ráðstöfun
- fjármuna og eigna fjármálafyrirtækis. Fjármálaeftirlitinu er heimilt að taka í
-sínar vörslur þær eignir sem mæta eiga skuldbindingum fjármálafyrirtækis og láta
-meta verðmæti eigna og ráðstafa þeim til greiðslu áfallinna krafna eftir því sem
-þörf krefur. Þá er Fjármálaeftirlitinu heimilt að rifta sölu eigna sem átt hefur
-     sér stað allt að mánuði áður en Fjármálaeftirlitið greip til sérstakra
-                       ráðstafana samkvæmt þessari grein.
-       Fjármálaeftirlitið getur krafist þess að fjármálafyrirtæki sæki um
-greiðslustöðvun eða leiti heimildar til nauðasamninga í samræmi við ákvæði laga
-um gjaldþrotaskipti o.fl., sbr. kafla XII A, ef það er talið nauðsynlegur liður
-   í að leysa úr fjárhags- eða rekstrarvanda fyrirtækisins. Val fyrirtækis á
-    aðstoðarmanni við greiðslustöðvun skal staðfest af Fjármálaeftirlitinu.
-Fjármálaeftirlitið getur jafnframt krafist þess að fjármálafyrirtæki verði tekið
-    til gjaldþrotaskipta í samræmi við ákvæði laga um gjaldþrotaskipti o.fl.
-Grein þessi gildir óháð því hvort fjármálafyrirtæki hafi óskað eftir eða fengið
- heimild til greiðslustöðvunar, nauðasamninga eða óskað eftir gjaldþrotaskiptum
-    eða verið úrskurðað gjaldþrota. Í þeim tilvikum hefur Fjármálaeftirlitið
-       óskertar heimildir til ráðstöfunar réttindum og skyldum viðkomandi
-                        fjármálafyrirtækis eða þrotabús.
-Ákvæði IV.VII. kafla stjórnsýslulaga gilda ekki um málsmeðferð og ákvarðanatöku
-                  Fjármálaeftirlitsins samkvæmt þessari grein.
-      Forstjóri, starfsmenn og stjórnarmenn Fjármálaeftirlitsins eru ekki
-    skaðabótaskyldir vegna ákvarðana og framkvæmdar samkvæmt þessari grein.
- Ríkissjóður ber ábyrgð á kostnaði af framkvæmd aðgerða Fjármálaeftirlitsins á
-grundvelli greinar þessarar, þar með talið skiptakostnaði ef til slíks kostnaðar
-                                 stofnast.]^1)
-                            ^1)[16]L. 125/2008, 5. gr.
+      [100. gr. a. [Afhending fjármálafyrirtækis til bráðabirgðastjórnar.
+Eigi fjármálafyrirtæki í þeim fjárhags- eða rekstrarerfiðleikum að líkur séu til
+að það geti ekki staðið við skuldbindingar sínar eða uppfyllt kröfur um lágmark
+      eigin fjár getur stjórn þess upp á sitt eindæmi leitað eftir því við
+ Fjármálaeftirlitið að það taki við ráðum yfir fyrirtækinu. Fjármálaeftirlitið
+skal án tafar taka afstöðu til slíkrar beiðni. Taki Fjármálaeftirlitið beiðnina
+   til greina fellur úr gildi umboð stjórnar fjármálafyrirtækisins og verður
+jafnframt óvirkur réttur hluthafa eða stofnfjáreigenda til að taka ákvarðanir um
+  málefni þess á grundvelli eignarhluta sinna. Um leið skal Fjármálaeftirlitið
+ skipa fjármálafyrirtækinu bráðabirgðastjórn þriggja eða fimm manna sem fer ein
+með sömu heimildir að lögum og eftir samþykktum þess og stjórn og hluthafafundur
+ eða fundur stofnfjáreigenda hefði ella haft á hendi, sbr. þó 4. tölul. 2. mgr.
+                                    101. gr.
+Bráðabirgðastjórn skal svo fljótt sem verða má gera nauðsynlegar ráðstafanir til
+    að fá yfirsýn yfir fjárhag fjármálafyrirtækisins. Á meðan hún ræður yfir
+ fyrirtækinu gilda sömu takmarkanir á heimildum til að beita fullnustugerðum og
+     öðrum þvingunarúrræðum gagnvart því og ef það hefði fengið heimild til
+ greiðslustöðvunar. Skal bráðabirgðastjórn því aðeins gera ráðstafanir um meiri
+            háttar hagsmuni fyrirtækisins að brýna nauðsyn beri til.
+  Yfirráðum bráðabirgðastjórnar yfir fjármálafyrirtæki lýkur sjálfkrafa þegar
+                liðnir eru þrír mánuðir frá skipun hennar nema:
+    1. bráðabirgðastjórn hafi þegar lagt fyrir héraðsdóm kröfu um að fyrirtækið
+ verði tekið til slita skv. 3. tölul. 2. mgr. 101. gr., en hafi það verið gert
+stendur umboð hennar þar til afstaða hefur endanlega verið tekin til kröfunnar,
+     2. fyrirtækinu hafi verið veitt heimild til greiðslustöðvunar eða til að
+   leita nauðasamnings, en umboð bráðabirgðastjórnar stendur þá þar til einn
+             mánuður er liðinn frá því að þeirri heimild lýkur, eða
+      3. bráðabirgðastjórn hafi áður með samþykki Fjármálaeftirlitsins haldið
+hluthafafund eða fund stofnfjáreigenda og fyrirtækinu þar verið kjörin ný stjórn
+                          til að leysa hana af hólmi.
+Ljúki yfirráðum bráðabirgðastjórnar yfir fjármálafyrirtæki sjálfkrafa með því að
+   starfstími hennar er á enda án þess að það hafi verið tekið til slita skal
+starfsleyfi þess afturkallað þá þegar hafi því ekki áður verið kjörin ný stjórn
+                         skv. 3. tölul. 3. mgr.]^1)]^2)
+     ^1)L. 44/2009, 4. gr. Hafi Fjármálaeftirlitið fyrir gildistöku l. 44/2009
+skipað fjármálafyrirtæki skilanefnd á grundvelli [16]5. gr. laga nr. 125/2008 og
+     [17]hún er enn að störfum, en fyrirtækið hefur ekki fengið heimild til
+       greiðslustöðvunar, skal skilanefndin upp frá því sjálfkrafa verða
+bráðabirgðastjórn fyrirtækisins í skilningi 100. gr. a, sbr. l. 44/2009, brbákv.
+                         I. ^2)[18]L. 125/2008, 5. gr.
                                  [B.]^1) Slit.
                               ^1)L. 130/2004, 9. gr.
-                        [101. gr.]^1) Ákvörðun um slit.
+               [101. gr.]^1) [Skilyrði og upphaf slitameðferðar.
   Bú fjármálafyrirtækis verður ekki tekið til gjaldþrotaskipta eftir almennum
                                     reglum.
-              Slíta ber fjármálafyrirtæki í eftirtöldum tilvikum:
-   1. ef Fjármálaeftirlitið afturkallar starfsleyfi fjármálafyrirtækis, sbr. 9.
- gr., synjar fyrirtækinu um frest að hætti 4. mgr. 86. gr. eða frestur samkvæmt
-  því ákvæði er á enda án þess að fyrirtækið hafi aukið eigið fé fram yfir það
-                     lágmark sem kveðið er á um í 84. gr.,
-    2. ef skylt er að slíta fjármálafyrirtæki samkvæmt samþykktum hlutaðeigandi
-                                  fyrirtækis,
-         3. ef hluthafafundur eða fundur stofnfjáreigenda ákveður að slíta
-                               fjármálafyrirtæki.
-         Í þeim tilvikum, sem getið er í 2. eða 3. tölul. 2. mgr., skal
-        Fjármálaeftirlitið afla reikningsuppgjörs stjórnar hlutaðeigandi
-             fjármálafyrirtækis á sama hátt og skv. 2. mgr. 86. gr.
-   Ákvörðun skv. 3. tölul. 2. mgr. er því aðeins gild að [Fjármálaeftirlitið
-samþykki hana og]^2) hún hljóti samþykki minnst ^2/3 hluta greiddra atkvæða, svo
-og samþykki hluthafa eða stofnfjáreigenda sem ráða yfir minnst ^2/3 hlutum þess
-hlutafjár eða stofnfjár sem farið er með atkvæði fyrir á fundi stofnfjáreigenda.
-                  ^1)L. 130/2004, 9. gr. ^2)L. 130/2004, 10. gr.
-                  [102. gr.]^1) Úrskurður héraðsdóms um slit.
- Þegar skylt er að slíta fjármálafyrirtæki skv. 1. tölul. 2. mgr. [101. gr.]^2)
- eða þegar Fjármálaeftirlitið telur, í tilvikum sem eiga undir 2. eða 3. tölul.
- sama ákvæðis, að óvíst sé að eignir fyrirtækisins hrökkvi til greiðslu skulda
-  þess skal Fjármálaeftirlitið senda héraðsdómara á varnarþingi hlutaðeigandi
-        fyrirtækis kröfu um að bú þess verði tekið til gjaldþrotaskipta.
- Þegar skylt er að slíta fjármálafyrirtæki skv. 2. eða 3. tölul. 2. mgr. [101.
- gr.]^2) og Fjármálaeftirlitið telur sýnt að eignir þess hrökkvi fyrir skuldum
-  skal það senda héraðsdómara á varnarþingi fyrirtækisins kröfu um að bú þess
-            verði tekið til skipta til slita á fjármálafyrirtækinu.
-Þegar héraðsdómari hefur kannað hvort fullnægt sé skilyrðum [101. gr.]^2) fyrir
-      kröfunni skal hann kveða upp úrskurð um hvort orðið skuli við henni.
- Í innköllun í bú fjármálafyrirtækis skal tekið fram hvort það hafi verið tekið
-                       til skipta að hætti 1. eða 2. mgr.
-                   ^1)L. 130/2004, 9. gr. ^2)L. 130/2004, 5. gr.
-            [103. gr.]^1) Framkvæmd skipta á búi fjármálafyrirtækis.
-  [Við skipti á búi fjármálafyrirtækis njóta kröfur vegna innstæðna, samkvæmt
-lögum um innstæðutryggingar og tryggingakerfi fyrir fjárfesta, rétthæðar skv. 1.
-                mgr. 112. gr. laga um gjaldþrotaskipti o.fl.]^2)
-         Leiði ekki annað af ákvæðum þessara laga skulu um skipti á búi
- fjármálafyrirtækis gilda almennar reglur laga um gjaldþrotaskipti o.fl. eftir
- því sem átt getur við að því undanteknu að ákvæði þeirra um riftun ráðstafana
-       gilda ekki um skipti sem komin eru til skv. 2. mgr. [102. gr.]^3)
-[Þegar ákvæði laga um gjaldþrotaskipti o.fl. miða réttaráhrif við frestdag skal
-   við skipti á búi fjármálafyrirtækis frestdagur miðast við það tímamark er
-   Fjármálaeftirlitið veitti því frest að hætti 4. mgr. 86. gr., skipaði því
-  skilanefnd á grundvelli 100. gr. a, heimild er veitt til greiðslustöðvunar á
-grundvelli 3. mgr. 98. gr. eða heimild er veitt til þess að leita nauðasamninga,
-sbr. 27. gr. laga um gjaldþrotaskipti o.[17]fl., nr. 21/1991. Ef ekkert af þessu
-    er undanfari skipta skal miðað við þann dag sem héraðsdómara berst krafa
-             Fjármálaeftirlitsins skv. 1. eða 2. mgr. 102. gr.]^4)
-Þegar allar skuldir sparisjóðs hafa verið greiddar skal greiða stofnfjáreigendum
- eignarhlut þeirra af eftirstöðvum eigna sjóðsins. Þeim eignum, sem þá kunna að
- vera eftir, skal ráðstafað í samræmi við ákvæði samþykkta sparisjóðsins. Þó er
- ekki heimilt að ráðstafa eftirstöðvum eigna til stofnfjáreigenda, sbr. 4. mgr.
-                                    63. gr.
-     ^1)L. 130/2004, 9. gr. ^2)[18]L. 125/2008, 6. gr. ^3)L. 130/2004, 5. gr.
-                             ^4)L. 129/2008, 3. gr.
+                    Fjármálafyrirtæki skal tekið til slita:
+       1. eftir kröfu Fjármálaeftirlitsins hafi það afturkallað starfsleyfi
+fyrirtækisins eða synjað því um frest skv. 4. mgr. 86. gr. eða frestur samkvæmt
+ því ákvæði er á enda án þess að fyrirtækið hafi aukið eigið fé sitt fram yfir
+                  það lágmark sem mælt er fyrir um í 84. gr.,
+          2. eftir kröfu Fjármálaeftirlitsins, stjórnar fyrirtækisins eða
+     bráðabirgðastjórnar ef skylt er að slíta því samkvæmt samþykktum þess,
+    3. eftir kröfu stjórnar fyrirtækisins eða bráðabirgðastjórnar ef það getur
+ ekki staðið í fullum skilum við lánardrottna sína þegar kröfur þeirra falla í
+ gjalddaga og ekki verður talið sennilegt að greiðsluörðugleikar þess muni líða
+                             hjá innan skamms tíma,
+            4. eftir kröfu stjórnar fyrirtækisins og að fengnu samþykki
+  Fjármálaeftirlitsins ef ákveðið hefur verið að slíta því á hluthafafundi eða
+fundi stofnfjáreigenda, enda hafi tillaga um slit verið samþykkt þar með minnst
+^2/3 hlutum greiddra atkvæða og af hluthöfum eða stofnfjáreigendum sem ráða yfir
+minnst ^2/3 hlutum þess hlutafjár eða stofnfjár sem farið var með atkvæði fyrir
+                                    á fundi.
+Kröfu um slit fjármálafyrirtækis skal beint til héraðsdóms í því umdæmi þar sem
+það yrði sótt í einkamáli á heimilisvarnarþingi sínu. Krafan skal gerð úr garði
+        og með hana farið fyrir dómi eins og kröfu um gjaldþrotaskipti.
+Þegar dómsúrlausn hefur gengið um að fjármálafyrirtæki sé tekið til slita skipar
+  héraðsdómari því slitastjórn sem í skulu sitja allt að fimm menn. Við skipun
+   hennar tekur hún við þeim réttindum og skyldum sem stjórn fyrirtækisins og
+ hluthafafundur eða fundur stofnfjáreigenda höfðu á hendi, sbr. þó 3. mgr. 103.
+gr. Að því leyti sem ekki er mælt fyrir á annan veg í lögum þessum gilda reglur
+um skiptastjóra við gjaldþrotaskipti um slitastjórn, störf hennar og þá menn sem
+                               eiga sæti í henni.
+Við slit fjármálafyrirtækis skal frestdagur ákveðinn eftir sömu reglum og gilda
+ við gjaldþrotaskipti, en þó þannig að hann getur jafnframt ráðist af þeim degi
+ sem Fjármálaeftirlitið hefur veitt fyrirtækinu frest skv. 4. mgr. 86. gr. eða
+skipað því bráðabirgðastjórn skv. 100. gr. a eða ella af því að héraðsdómi berst
+krafa um slit skv. 2. mgr. ef ekkert hefur áður gerst til að marka frestdag.]^2)
+    ^1)L. 130/2004, 9. gr. ^2)L. 44/2009, 5. gr. Þrátt fyrir 5. mgr. ákvæðisins
+ skal frestdagur við slitameðferð á fjármálafyrirtæki ráðast af 2. mgr. ákvæðis
+ til bráðabirgða í lögum nr. 129/2008 þegar það getur átt við, sbr. l. 44/2009,
+                                  brbákv. III.
+                      [102. gr.]^1) [Meðferð krafna o.fl.
+    Við slit fjármálafyrirtækis gilda sömu reglur og við gjaldþrotaskipti um
+     gagnkvæma samninga þess og kröfur á hendur því að öðru leyti en því að
+ dómsúrskurður um að það sé tekið til slita leiðir ekki sjálfkrafa til þess að
+                     kröfur á hendur því falli í gjalddaga.
+Þegar fjármálafyrirtæki hefur verið skipuð slitastjórn skal hún tafarlaust gefa
+út og fá birta í Lögbirtingablaði innköllun vegna slitanna. Um efni innköllunar,
+kröfulýsingarfrest og tilkynningar eða auglýsingar vegna erlendra kröfuhafa skal
+                   beitt sömu reglum og við gjaldþrotaskipti.
+  Við slit fjármálafyrirtækis gilda sömu reglur og um rétthæð krafna á hendur
+ þrotabúi, en þó skulu kröfur um innstæður samkvæmt lögum um innstæðutryggingar
+    og tryggingakerfi fyrir fjárfesta jafnframt teljast til krafna sem njóta
+  rétthæðar skv. 1. og 2. mgr. 112. gr. laga um gjaldþrotaskipti o.fl. Að því
+   leyti sem rétthæð krafna getur ráðist samkvæmt þeim lögum af þeim tíma sem
+úrskurður er kveðinn upp um að bú sé tekið til gjaldþrotaskipta skal miða á sama
+          hátt við úrskurð um að fjármálafyrirtæki sé tekið til slita.
+Ákvæði XVIII. kafla og 5. þáttar laga um gjaldþrotaskipti o.fl. gilda um meðferð
+ krafna á hendur fjármálafyrirtæki við slit þess, þar á meðal um áhrif þess að
+   kröfu sé ekki lýst, en fundir slitastjórnar til að fjalla um viðurkenningu
+        lýstra krafna nefnast kröfuhafafundir. Telji slitastjórn við lok
+kröfulýsingarfrests að líkur séu til að eignir fyrirtækisins nægi að fullu fyrir
+  skuldum þess er henni að svo stöddu ekki skylt að taka afstöðu til þess hvar
+                einstakar kröfur kunni að standa í réttindaröð.
+Þegar kröfulýsingarfrestur er á enda skal slitastjórn leggja mat á hvort horfur
+ séu á að eignir fjármálafyrirtækis nægi til að standa við skuldbindingar þess.
+ Skýrsla um þetta mat skal lögð fram og kynnt á fyrsta kröfuhafafundi eftir lok
+                              kröfulýsingarfrests.
+  Að loknum fyrsta kröfuhafafundi eftir lok kröfulýsingarfrests er slitastjórn
+  heimilt í einu lagi eða mörgu að greiða viðurkenndar kröfur að hluta eða að
+fullu að því marki sem tryggt er að eignir fjármálafyrirtækisins hrökkvi til að
+    minnsta kosti jafnhárrar greiðslu allra annarra krafna sem standa eins í
+ réttindaröð og ekki hefur endanlega verið hafnað við slitin. Þess skal þá gætt
+að allir kröfuhafar sem fara með viðurkenndar kröfur í sömu stöðu í réttindaröð
+fái greiðslu á sama tíma, en frá því má þó víkja með samþykki þeirra sem ekki fá
+greitt eða samkvæmt ákvörðun slitastjórnar ef kröfuhafi býðst til að gefa eftir
+   kröfu sína gegn greiðslu hennar að hluta, sem víst má telja að sé lægri að
+ tiltölu en aðrir jafnstæðir kröfuhafar munu fá á síðari stigum, þar á meðal að
+  teknu tilliti til þess hvort kröfur þeirra beri vexti fram að greiðslu.]^2)
+                   ^1)L. 130/2004, 9. gr. ^2)L. 44/2009, 6. gr.
+           [103. gr.]^1) [Ráðstöfun hagsmuna fjármálafyrirtækis o.fl.
+  Við slit fjármálafyrirtækis ráðstafar slitastjórn hagsmunum þess eftir sömu
+reglum og gilda um bústjórn skiptastjóra við gjaldþrotaskipti með þeim frávikum
+ sem leiðir af ákvæðum þessarar greinar. Rísi ágreiningur um slíkar ráðstafanir
+      skal leyst úr honum eftir fyrirmælum laga um gjaldþrotaskipti o.fl.
+         Slitastjórn skal hafa að markmiði að fá sem mest fyrir eignir
+    fjármálafyrirtækis, þar á meðal með því að bíða eftir þörfum efndatíma á
+  útistandandi kröfum þess fremur en að koma þeim fyrr í verð, nema sýnt megi
+telja að hagsmunir kröfuhafa og eftir atvikum hluthafa eða stofnfjáreigenda séu
+   meiri af því að ráðstafa slíkum réttindum á fyrri stigum til að ljúka megi
+   slitameðferð. Í þessum tilgangi er slitastjórn heimilt að virða að vettugi
+         ályktun kröfuhafafundar sem hún telur andstæða þessu markmiði.
+ Slitastjórn skal boða til kröfuhafafundar í sama skyni og skiptastjóri heldur
+skiptafundi um bústjórn við gjaldþrotaskipti. Hafi slitastjórn komist að þeirri
+      niðurstöðu í skýrslu skv. 5. mgr. 102. gr. að horfur séu á að eignir
+    fjármálafyrirtækis muni nægja fyrir skuldbindingum þess skal slitastjórn
+samhliða kröfuhafafundum efna til funda með hluthöfum eða stofnfjáreigendum til
+                að kanna hug þeirra um ráðstöfun hagsmuna þess.
+      Ef ekki er sýnt að eignir fjármálafyrirtækis muni nægja til að efna
+skuldbindingar þess að fullu má krefjast riftunar á ráðstöfunum þess eftir sömu
+   reglum og gilda um riftun ráðstafana þrotamanns við gjaldþrotaskipti.]^2)
+                   ^1)L. 130/2004, 9. gr. ^2)L. 44/2009, 7. gr.
+                        [103. gr. a. Lok slitameðferðar.
+       Hafi slitastjórn lokið greiðslu allra viðurkenndra krafna á hendur
+    fjármálafyrirtæki og eftir atvikum tekið frá fé til greiðslu krafna sem
+   ágreiningur stendur um og komið eignum þess eftir þörfum í verð lýkur hún
+                        slitameðferð með því annaðhvort:
+   1. að láta fyrirtækið aftur í hendur hluthafa eða stofnfjáreigenda ef fundur
+ þeirra sem slitastjórn hefur boðað til hefur samþykkt með atkvæðum þeirra sem
+  ráða yfir að minnsta kosti ^2/3 hlutum hlutafjár eða stofnfjár að fyrirtækið
+ taki upp starfsemi á ný og kjörin hefur verið ný stjórn til að taka við því úr
+höndum slitastjórnar, enda hafi Fjármálaeftirlitið veitt samþykki sitt til þess
+ og fyrirtækið fullnægir öðrum skilyrðum laga til að hefja aftur starfsemi, eða
+       2. að greiða hluthöfum eða stofnfjáreigendum út eignarhlut þeirra af
+eftirstöðvum eigna samkvæmt frumvarpi til úthlutunar sem gert skal eftir ákvæðum
+ XXII. kafla og 5. þáttar laga um gjaldþrotaskipti o.fl., en sé um sparisjóð að
+ræða skal þó eignum, sem standa eftir að lokinni greiðslu stofnfjárhluta, varið
+eftir samþykktum hans og er óheimilt að ráðstafa þeim til stofnfjáreigenda, sbr.
+                                4. mgr. 63. gr.
+ Ljúka má slitameðferð samkvæmt því sem segir í 1. tölul. 1. mgr. þótt ekki sé
+ lokið greiðslu allra viðurkenndra krafna ef þeir kröfuhafar sem hafa ekki enn
+                        fengið fullnustu samþykkja það.
+ Nægi eignir fjármálafyrirtækis ekki til fullrar greiðslu krafna sem ekki hefur
+   endanlega verið hafnað við slitameðferð getur slitastjórn þegar hún telur
+   tímabært leitað nauðasamnings til að ljúka henni. Skal slitastjórn þá gera
+frumvarp að nauðasamningi eftir reglum 36. gr. laga um gjaldþrotaskipti o.fl. og
+boða til kröfuhafafundar til að bera það undir atkvæði. Eftir því sem átt getur
+við fara nauðasamningsumleitanir að öðru leyti eftir ákvæðum 2. mgr. 149. gr. og
+151.153. gr. sömu laga, en slitastjórn gegnir þá því hlutverki sem skiptastjóri
+ hefði annars á hendi og heldur hún kröfuhafafundi við þessar umleitanir. Fáist
+  frumvarp að nauðasamningi samþykkt skal slitastjórn leita staðfestingar hans
+    eftir reglum IX. kafla sömu laga. Ef nauðasamningur er staðfestur efnir
+ slitastjórn eftir þörfum skuldbindingar við kröfuhafa samkvæmt honum og lýkur
+              svo slitameðferð eftir því sem segir í 1. og 2. mgr.
+ Nú liggur fyrir að eignir fjármálafyrirtækis nægi ekki til að standa að fullu
+við skuldbindingar þess og slitastjórn telur sýnt að ekki verði forsendur til að
+   leita nauðasamnings skv. 3. mgr. eða frumvarp að honum hefur ekki fengist
+     samþykkt eða hafnað hefur verið kröfu um staðfestingu hans og skal þá
+ slitastjórn krefjast þess fyrir héraðsdómi, þar sem hún var skipuð til starfa,
+ að bú fyrirtækisins verði tekið til gjaldþrotaskipta. Það sama getur kröfuhafi
+ gert ef krafa hans hefur verið viðurkennd við slitameðferð og annaðhvort hafa
+ nauðasamningsumleitanir slitastjórnar ekki borið árangur eða hann sýnir fram á
+ að ekki séu lagaskilyrði til að leita nauðasamnings eða sá fjöldi kröfuhafa sé
+   andvígur honum að útilokað sé að tekist geti að koma honum fram miðað við
+  fyrirliggjandi upplýsingar um fjárhag fyrirtækisins. Til að hafa slíka kröfu
+uppi verður þó kröfuhafi að sýna fram á að hann hafi lögvarða hagsmuni af því að
+ koma fram gjaldþrotaskiptum fremur en að fyrirtæki verði áfram í slitameðferð.
+Sé bú fjármálafyrirtækis tekið til gjaldþrotaskipta skal það standa óraskað sem
+ gert hefur verið við slitameðferð varðandi kröfur á hendur fyrirtækinu, þar á
+meðal innköllun til kröfuhafa og meðferð lýstra krafna, en skiptastjóri skal fá
+      birta auglýsingu í Lögbirtingablaði um að búið hafi verið tekið til
+gjaldþrotaskipta. Um gjaldþrotaskiptin fer annars eftir almennum reglum að öðru
+leyti en því að ákvæði 2. mgr. 103. gr. gilda þar að breyttu breytanda, auk þess
+sem sá dagur sem dómsúrlausn gekk um að fjármálafyrirtækið væri tekið til slita
+skal við gjaldþrotaskiptin svara að því er varðar réttaráhrif til þess dags sem
+                           úrskurður gekk um þau.]^1)
+                               ^1)L. 44/2009, 8. gr.
     [104. gr. Slit á lánastofnun með höfuðstöðvar á Íslandi og útibú í öðru
                                    EES-ríki.
     [Nú tekur dómstóll hér á landi ákvörðun um slit lánastofnunar sem hefur
@@ -2271,11 +2319,93 @@ lánastofnanir aðrar en viðskiptabanka og sparisjóði, skulu hafa starfsleyfi
                  innan tólf mánaða frá gildistöku laga þessara.
  III. Verðbréfamiðlanir sem starfa sem einkahlutafélög skulu hafa komið rekstri
      sínum í hlutafélagsform innan tólf mánaða frá gildistöku laga þessara.
-      [IV. Leiti fjármálafyrirtæki eftir heimild til greiðslustöðvunar eða
-framlengingar greiðslustöðvunar samkvæmt kröfu Fjármálaeftirlitsins á grundvelli
-100. gr. a skal slík heimild veitt án tillits til ákvæða 4. og 6. tölul. 2. mgr.
-                   12. gr. laga um gjaldþrotaskipti o.fl.]^1)
-                              ^1)L. 129/2008, 4. gr.
+                                  [IV. ^1)]^2)
+   ^1)L. 44/2009, 9. gr. [25]Þrátt fyrir ákvæði þeirrar greinar skal ákvæði til
+bráðabirgða IV í lögum nr. 161/2002, sbr. 4. gr. laga nr. 129/2008, gilda áfram
+    í upphaflegri mynd gagnvart fjármálafyrirtækjum sem njóta heimildar til
+    greiðslustöðvunar við gildistöku l. 44/2009, þar á meðal um framlengingu
+heimildar til greiðslustöðvunar, sbr. l. 44/2009, 10. gr. ^2)L. 129/2008, 4. gr.
+     [V. Um fjármálafyrirtæki sem njóta heimildar til greiðslustöðvunar við
+          gildistöku þessara laga skulu eftirfarandi sérreglur gilda:
+     1. Heimild til greiðslustöðvunar skal haldast þrátt fyrir gildistöku laga
+ þessara og má framlengja hana samkvæmt þeim reglum sem um ræðir í 2. mgr. 10.
+                                      gr.
+   2. Við greiðslustöðvunina skal beitt ákvæðum 1. mgr. 101. gr., 102. gr., 103.
+ gr. og 103. gr. a laganna, sbr. 1. efnismgr. 5. gr., 6. gr., 7. gr. og 8. gr.
+laga þessara, eins og fyrirtækið hefði verið tekið til slita með dómsúrskurði á
+  þeim degi sem lög þessi öðlast gildi, en slitameðferðin skal þó allt að einu
+ kennd við heimild til greiðslustöðvunar svo lengi sem sú heimild stendur, sbr.
+1. tölul. Þegar sú heimild rennur sitt skeið á enda skal fyrirtækið án sérstaks
+dómsúrskurðar sjálfkrafa teljast vera til slitameðferðar eftir almennum reglum,
+ sbr. þó 3. og 4. tölul. Ákvæði IV. kafla laga um gjaldþrotaskipti o.fl. gilda
+ ekki um slíka greiðslustöðvun sem hér um ræðir, en þó skal aðstoðarmaður hafa
+ eftirlit með ráðstöfunum skilanefndar skv. 103. gr. laganna, sbr. 7. gr. laga
+                                    þessara.
+    3. Skilanefnd fjármálafyrirtækis, sem Fjármálaeftirlitið hefur skipað fyrir
+  gildistöku laga þessara á grundvelli [26]5. gr. laga nr. 125/2008, skal með
+  óbreyttu heiti halda áfram störfum og gegna því hlutverki sem slitastjórn er
+ ætlað í 3. mgr. 9. gr., 2. málsl. 4. mgr. 101. gr., 1. málsl. 5. mgr. 102. gr.
+ og 1.3. mgr. 103. gr. laganna, sbr. 1., 5., 6. og 7. gr. laga þessara. Verði
+ sæti í skilanefnd laust eftir gildistöku laga þessara skal Fjármálaeftirlitið,
+ef þörf þykir á með tilliti til þeirra verkefna sem nefndin á enn ólokið, skipa
+                           mann til að taka við því.
+   4. Til annarra verka slitastjórnar en um ræðir í 3. tölul. skal héraðsdómari
+  eftir skriflegri beiðni skilanefndar skipa fyrirtækinu slíka stjórn samkvæmt
+ fyrirmælum 1. og 3. málsl. 4. mgr. 101. gr. laganna, sbr. 5. gr. laga þessara.
+   Þar skal jafnframt sjálfkrafa taka sæti sá sem gegnir starfi aðstoðarmanns
+    fyrirtækisins við greiðslustöðvun og skal hann halda því sæti þótt henni
+                                   ljúki.]^1)
+                            ^1)L. 44/2009, brbákv. II.
+  [VI. Í því skyni að takmarka tjón eða hættu á tjóni á fjármálamarkaði getur
+Fjármálaeftirlitið gripið til sérstakra ráðstafana í samræmi við fyrirmæli þessa
+  ákvæðis telji það þörf á vegna sérstakra aðstæðna eða atvika. Með sérstökum
+       aðstæðum eða atvikum er átt við sérstaka fjárhagserfiðleika og/eða
+rekstrarerfiðleika hjá fjármálafyrirtæki, þar á meðal ef líkur eru á að það geti
+  ekki staðið við skuldbindingar sínar gagnvart viðskiptavinum eða kröfuhöfum,
+ forsendur afturköllunar starfsleyfis eru líklega fyrir hendi eða líkur standa
+   til að það geti ekki uppfyllt kröfur um lágmark eigin fjár og önnur úrræði
+ Fjármálaeftirlitsins eru ekki líkleg til að bera árangur. Þá er með sérstökum
+aðstæðum einnig átt við að fjármálafyrirtæki hafi óskað eftir eða fengið heimild
+             til greiðslustöðvunar eða til að leita nauðasamnings.
+Við aðstæður eða atvik sem um ræðir í 1. mgr. getur Fjármálaeftirlitið boðað til
+ hluthafafundar eða fundar stofnfjáreigenda. Fulltrúi Fjármálaeftirlitsins skal
+ stýra fundi og hefur hann málfrelsi og tillögurétt. Fjármálaeftirlitið er við
+      þessar aðstæður ekki bundið af ákvæðum hlutafélagalaga eða samþykkta
+fjármálafyrirtækis um fundarboðun eða fresti til fundarboðunar eða tillögugerðar
+                          til breytinga á samþykktum.
+      Séu aðstæður mjög knýjandi getur Fjármálaeftirlitið tekið yfir vald
+  hluthafafundar eða fundar stofnfjáreigenda í því skyni að taka ákvarðanir um
+ nauðsynlegar aðgerðir, þar á meðal að takmarka ákvörðunarvald stjórnar, víkja
+stjórn frá að hluta til eða í heild sinni, taka yfir eignir, réttindi og skyldur
+fjármálafyrirtækis í heild eða að hluta eða ráðstafa slíku fyrirtæki í heild eða
+að hluta, meðal annars með samruna þess við annað fyrirtæki. Við slíka ráðstöfun
+ gilda hvorki ákvæði laga um verðbréfaviðskipti um tilboðsskyldu né ákvæði laga
+      þessara um auglýsingu samruna fjármálafyrirtækja í Lögbirtingablaði.
+   Fjármálaeftirlitinu er heimilt að framselja öll réttindi að því marki sem
+nauðsynlegt er í slíkum tilfellum. Verði það niðurstaða Fjármálaeftirlitsins að
+ samruni viðkomandi fjármálafyrirtækis við annað tryggi best þá hagsmuni sem í
+ húfi eru gilda ákvæði samkeppnislaga og samrunaákvæði laga þessara ekki um þá
+         ráðstöfun. Ákvörðun Fjármálaeftirlitsins um yfirtöku á rekstri
+      fjármálafyrirtækis skal tilkynnt stjórn þess og rökstudd skriflega.
+ Fjármálaeftirlitið skal birta tilkynninguna opinberlega. Starfræki fyrirtækið
+    útibú eða þjónustustarfsemi í öðru ríki skal tilkynningin send lögbærum
+                          eftirlitsaðilum í því ríki.
+ Víki Fjármálaeftirlitið stjórn fjármálafyrirtækis í heild frá störfum skal því
+þegar í stað skipuð bráðabirgðastjórn. Ákvæði 100. gr. a gilda að öðru leyti um
+                         slíka stjórn og störf hennar.
+   Ef nauðsyn krefur getur Fjármálaeftirlitið takmarkað eða bannað ráðstöfun
+ fjármuna og eigna fjármálafyrirtækis. Fjármálaeftirlitinu er heimilt að taka í
+sínar vörslur þær eignir sem mæta eiga skuldbindingum fjármálafyrirtækis og láta
+meta verðmæti eigna og ráðstafa þeim til greiðslu áfallinna krafna eftir því sem
+þörf krefur. Þá er Fjármálaeftirlitinu heimilt að rifta sölu eigna sem átt hefur
+  sér stað allt að mánuði áður en það greip til sérstakra ráðstafana samkvæmt
+                                 þessu ákvæði.
+Ákvæði IV.VII. kafla stjórnsýslulaga gilda ekki um framangreinda málsmeðferð og
+                      ákvarðanatöku Fjármálaeftirlitsins.
+ Ríkissjóður ber ábyrgð á kostnaði af framkvæmd aðgerða Fjármálaeftirlitsins á
+                           grundvelli þessa ákvæðis.
+                 Ákvæði þetta fellur úr gildi 1. júlí 2010.]^1)
+                            ^1)L. 44/2009, brbákv. IV.
 
 References
 
@@ -2294,9 +2424,9 @@ References
   12. file://1994144.html
   13. file://1991021.html
   14. file://1991021.html
-  15. file://1991021.html
+  15. file://2002161.html#g98
   16. file://2008125.html
-  17. file://1991021.html
+  17. file://2008125.html
   18. file://2008125.html
   19. file://2008088.html#g234
   20. file://1994023.html
@@ -2304,3 +2434,5 @@ References
   22. file://1994117.html
   23. file://1996013.html
   24. file://1993123.html
+  25. file://2002161.html
+  26. file://2008125.html

@@ -20,9 +20,9 @@ júní 2004; EES-samningurinn: VI. viðauki tilskipun 98/49/EB), l. 129/2004 (t�
 gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 140/2006 (tóku gildi 21. des. 2006),
  l. 167/2006 (tóku gildi 1. jan. 2007), l. 169/2007 (tóku gildi 29. des. 2007),
  [1]l. 112/2008 (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi
-  25. sept. 2008; koma til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.) og l.
+   25. sept. 2008; koma til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), l.
  171/2008 (tóku gildi 1. jan. 2009 nema 8. gr. sem tekur gildi 1. jan. 2011 og
-                     11. gr. sem tekur gildi 1. jan. 2010).
+11. gr. sem tekur gildi 1. jan. 2010) og l. 13/2009 (tóku gildi 14. mars 2009).
 
               I. kafli. Skyldutrygging, iðgjald og tryggingavernd.
 1. gr. Lög þessi gilda um alla lífeyrissjóði og samninga um tryggingavernd eins
@@ -689,10 +689,10 @@ og 8. tölul. 1. mgr. ekki vera meiri en [60%]^2) af hreinni eign sjóðsins. Ei
 meira en 25% af hlutdeildarskírteinum eða hlutum útgefnum af sama verðbréfasjóði
   eða fjárfestingarsjóði eða einstakri deild hans. [Eigi er lífeyrissjóði eða
    einstakri deild hans heimilt að hafa meira en 25% af hreinni eign sinni í
- verðbréfasjóðum innan sama rekstrarfélags.]^1) Þó er lífeyrissjóði heimilt að
-eiga stærri hluta en 15% í fyrirtæki sem eingöngu sinnir þjónustuverkefnum fyrir
-   lífeyrissjóðina sjálfa. Lífeyrissjóði er óheimilt að binda meira en 25% af
-             hreinni eign í innlánum sama banka eða sparisjóðs.]^4)
+verðbréfasjóðum [og fjárfestingarsjóðum]^9) innan sama rekstrarfélags.]^1) Þó er
+   lífeyrissjóði heimilt að eiga stærri hluta en 15% í fyrirtæki sem eingöngu
+sinnir þjónustuverkefnum fyrir lífeyrissjóðina sjálfa. Lífeyrissjóði er óheimilt
+að binda meira en 25% af hreinni eign í innlánum sama banka eða sparisjóðs.]^4)
 Lífeyrissjóður skal takmarka áhættu í erlendum gjaldmiðlum í heild við [50%]^3)
                            af hreinni eign sjóðsins.
 [Með hreinni eign í 3.6. mgr. er átt við hreina eign lífeyrissjóðs til greiðslu
@@ -703,11 +703,11 @@ húsnæðislánum Byggingarsjóðs ríkisins og Byggingarsjóðs verkamanna á �
     til 1994 heimilt að flokka þau sem skráð bréf skv. 1. tölul. 1. mgr.]^3)
 [Lífeyrissjóðum er ekki heimilt að fjárfesta eða eiga í fjárfestingarsjóðum skv.
        7. tölul. 1. mgr. sem fjármagna sig með lántöku eða skortsölu.]^4)
-       [Ákvæði þessarar greinar eiga einungis við um samtryggingardeildir
-                               lífeyrissjóða.]^1)
+[Ákvæði þessarar greinar eiga einungis við um samtryggingardeildir lífeyrissjóða
+                      [frá og með 1. janúar 2010].^9)]^1)
      ^1)L. 171/2008, 10. gr. ^2)L. 28/2006, 2. gr. ^3)L. 56/2000, 7. gr. ^4)L.
  70/2004, 4. gr. ^5)L. 148/2004, 1. gr. ^6)L. 65/2002, 5. gr. ^7)L. 84/1998, 7.
-                           gr. ^8)L. 140/2006, 1. gr.
+                gr. ^8)L. 140/2006, 1. gr. ^9)L. 13/2009, 1. gr.
     [36. gr. a. Vörsluaðilar séreignarsparnaðar, skv. II. kafla, skulu móta
 fjárfestingarstefnu fyrir hverja fjárfestingarleið þar sem fjárfestingar, aðrar
     en innlánsreikningar, eru sundurliðaðar með hliðsjón af 1. mgr. 36. gr.
@@ -721,8 +721,8 @@ tilheyra sömu samstæðunni skal ekki vera meira en 20% af hreinni eign sjóðs
      Verðbréf skv. 1. tölul. 1. mgr. 36. gr. falla ekki undir ákvæði þetta.
     c. Samanlögð eign hverrar fjárfestingarleiðar má ekki vera meira en 30% af
       hlutdeildarskírteinum eða hlutum útgefnum af sama verðbréfasjóði eða
-  fjárfestingarsjóði eða einstakri deild hans eða í verðbréfasjóðum innan sama
-                                rekstrarfélags.
+     fjárfestingarsjóði eða einstakri deild hans eða í verðbréfasjóðum [og
+fjárfestingarsjóðum sem hlutfall af hreinni eign]^1) innan sama rekstrarfélags.
     d. Vörsluaðilum séreignarsparnaðar er ekki heimilt að fjárfesta eða eiga í
 fjárfestingarsjóðum skv. 7. tölul. 1. mgr. 36. gr. sem fjármagna sig með lántöku
                                  eða skortsölu.
@@ -732,8 +732,9 @@ fjárfestingarsjóðum skv. 7. tölul. 1. mgr. 36. gr. sem fjármagna sig með l
                               fjárfestingarleiðar.
  Vörsluaðilar séreignarsparnaðar skulu senda upplýsingar um fjárfestingarstefnu
   sína fyrir komandi ár til Fjármálaeftirlitsins eigi síðar en 1. desember ár
-                                   hvert.]^1)
-    ^1)L. 171/2008, 11. gr. Ákvæðið tekur gildi 1. jan. 2010 skv. 14. gr. s.l.
+                                   hvert.]^2)
+     ^1)L. 13/2009, 2. gr. ^2)L. 171/2008, 11. gr. Ákvæðið tekur gildi 1. jan.
+                             2010 skv. 14. gr. s.l.
  37. gr. [Fjárfestingarstefna lífeyrissjóðs skal byggð á tegundaflokkun innlána
   og verðbréfa, [sbr. 1.10. tölul. 1. mgr. 36. gr.]^1) Hver tegund innlána og
     verðbréfa skal jafnframt sundurliðuð eftir því sem við á með tilliti til
@@ -1065,6 +1066,46 @@ greiddra iðgjalda og framtíðariðgjalda á ekki við um tryggingafræðilega 
  [VII. Þrátt fyrir ákvæði 4. málsl. 5. mgr. 36. gr. er lífeyrissjóði heimilt að
   eiga allt að 20% af hlutafé í samlagshlutafélögum til 31. desember 2013.]^1)
                               ^1)L. 171/2008, 13. gr.
+[VIII. Þrátt fyrir ákvæði 11. og 12. gr. er vörsluaðila séreignarsparnaðar skv.
+  3.5. mgr. 8. gr. heimilt, á tímabilinu 1. mars 2009 til 1. október 2010, að
+greiða út séreignarsparnað sem myndast hefur af viðbótariðgjaldi skv. II. kafla,
+              eftir því sem nánar er mælt fyrir um í ákvæði þessu.
+Heimilt er á því tímabili sem tilgreint er í 1. mgr. að hefja útborgun innstæðu
+ séreignarsparnaðar rétthafa, ásamt vöxtum, að fjárhæð sem við gildistöku laga
+    þessara nemur samanlagt allt að 1.000.000 kr. óháð því hvort samanlagður
+séreignarsparnaður er í vörslu hjá fleiri en einum vörsluaðila. Skal sú fjárhæð
+   greiðast út með jöfnum mánaðarlegum greiðslum, að frádreginni staðgreiðslu
+samkvæmt lögum um staðgreiðslu opinberra gjalda, í níu mánuði frá því að beiðni
+      um útgreiðslu er lögð fram hjá vörsluaðila. Útgreiðslutími styttist
+         hlutfallslega ef um lægri fjárhæð en 1.000.000 kr. er að ræða.
+Óski rétthafi eftir útgreiðslu séreignarsparnaðar skv. 2. mgr. skal hann leggja
+        fram umsókn þess efnis hjá viðkomandi vörsluaðila. Ef rétthafi á
+séreignarsparnað hjá fleiri en einum vörsluaðila skal hann gera grein fyrir því.
+ Vörsluaðili séreignarsparnaðar fer yfir umsókn rétthafa skv. 2. mgr. og hefur
+                umsjón með útgreiðslu á séreignarsparnaði hans.
+      Skuldheimtumönnum er óheimilt að krefjast þess að skuldarar taki út
+        séreignarsparnað sinn samkvæmt þessu ákvæði, sbr. 2. mgr. 8. gr.
+  Ríkisskattstjóri hefur eftirlit með útgreiðslum séreignarsparnaðar samkvæmt
+                                 ákvæði þessu.
+Ráðherra er heimilt með reglugerð^1) að kveða nánar á um fyrirkomulag eftirlits
+  og útgreiðslu og jafnframt heimild vörsluaðila til innheimtu sérstaks gjalds
+                vegna umsýslu við útgreiðslu séreignarsparnaðar.
+    Útgreiðsla séreignarsparnaðar hefur ekki áhrif á bætur samkvæmt lögum um
+almannatryggingar og lögum um félagslega aðstoð. Þá hefur útgreiðslan ekki áhrif
+á greiðslu húsaleigubóta skv. 9. gr. laga um húsaleigubætur, greiðslu barnabóta
+eða vaxtabóta skv. 68. gr. laga um tekjuskatt og atvinnuleysisbóta skv. 36. gr.
+                      laga um atvinnuleysistryggingar.]^2)
+                      ^1)Rg. 290/2009. ^2)L. 13/2009, 3. gr.
+       [IX. Á tímabilinu 1. mars 2009 til 1. október 2010 er vörsluaðila
+     séreignarsparnaðar heimilt að fresta útgreiðslum séreignarsparnaðar að
+          uppfylltum þeim skilyrðum sem kveðið er á um í þessu ákvæði.
+ Frestun skv. 1. mgr. skal vera almenn og verður einungis beitt mæli sérstakar
+ástæður með því og hagsmunir rétthafa séreignarsparnaðar krefjist þess. Frestun
+ á útgreiðslum skal þegar tilkynnt Fjármálaeftirlitinu og er háð samþykki þess,
+            sbr. 44. gr. Jafnframt skal frestun auglýst opinberlega.
+ Fjármálaeftirlitið getur krafist þess að útgreiðslum séreignarsparnaðar verði
+   frestað krefjist hagsmunir rétthafa sparnaðarins eða almennings þess.]^1)
+                               ^1)L. 13/2009, 3. gr.
 
 References
 

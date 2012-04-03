@@ -9,7 +9,8 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                            Tóku gildi 1. júlí 2008.
+Tóku gildi 1. júlí 2008. Breytt með l. 34/2009 (tóku gildi 8. apríl 2009), [1]l.
+  35/2009 (tóku gildi 8. apríl 2009) og l. 38/2009 (tóku gildi 8. apríl 2009).
 
            I. kafli. Gildissvið, hlutverk grunnskóla og skólaskylda.
                                1. gr. Gildissvið.
@@ -156,12 +157,13 @@ Við grunnskóla skal starfa nemendafélag og er skólastjóri ábyrgur fyrir st
       Um ráðningu skólastjóra og starfsfólks grunnskóla fer eftir ákvæðum
   sveitarstjórnarlaga og nánari fyrirmælum í samþykkt um stjórn sveitarfélags
                               eftir því sem við á.
-Um skilyrði þess að hljóta ráðningu sem skólastjóri eða kennari í grunnskóla fer
-                        samkvæmt gildandi lögum þar um.
+   [Um skilyrði þess að hljóta ráðningu sem skólastjóri, kennari eða náms- og
+      starfsráðgjafi í grunnskóla fer samkvæmt gildandi lögum þar um.]^1)
    Óheimilt er að ráða einstakling til starfa við grunnskóla sem hlotið hefur
  refsidóm fyrir brot á ákvæðum XXII. kafla almennra hegningarlaga. Við ráðningu
 skal liggja fyrir sakavottorð eða heimild skólastjóra til að afla upplýsinga úr
                                    sakaskrá.
+                             ^1)[2]L. 35/2009, 9. gr.
                               12. gr. Starfsfólk.
 Starfsfólk grunnskóla skal rækja starf sitt af fagmennsku, alúð og samviskusemi.
  Það skal gæta kurteisi, nærgætni og lipurðar í framkomu sinni gagnvart börnum,
@@ -196,8 +198,9 @@ framfæri varðandi námsumhverfi, námstilhögun, fyrirkomulag skólastarfs og 
  nemenda sinna og þroska, líðan og almennri velferð, leiðbeinir þeim í námi og
  starfi, aðstoðar og ráðleggur þeim um persónuleg mál og stuðlar að því að efla
                            samstarf skóla og heimila.
-Nemendur eiga rétt á að njóta náms- og starfsráðgjafar í grunnskóla af til þess
-                              bærum sérfræðingum.
+ [Nemendur eiga rétt á að njóta náms- og starfsráðgjafar í grunnskóla af aðilum
+           sem uppfylla skilyrði laga um náms- og starfsráðgjafa.]^1)
+                             ^1)[3]L. 35/2009, 9. gr.
                             14. gr. Ábyrgð nemenda.
 Nemendur bera ábyrgð á eigin námi og á framkomu sinni og samskiptum með hliðsjón
                               af aldri og þroska.
@@ -297,7 +300,9 @@ eru fyrir skólastarfið og velferð barnsins. Um persónuupplýsingar sem þann
     upplýsinga skal vera á hendi skólastjóra eða annarra sérfræðinga á vegum
   sveitarfélagsins samkvæmt nánari ákvörðun þess. Ráðherra setur reglugerð um
     meðferð, eyðingu og miðlun upplýsinga og um rétt foreldra til aðgangs að
-                            upplýsingum um börn sín.
+ upplýsingum um börn sín. [Um rétt foreldris sem ekki fer með forsjá barns til
+upplýsinga um barn sitt samkvæmt þessum lögum fer samkvæmt fyrirmælum [4]52. gr.
+                          barnalaga, nr. 76/2003.]^1)
 Foreldrar skulu hafa samráð við skólann um skólagöngu barna sinna, fylgjast með
 og styðja við skólagöngu þeirra og námsframvindu og stuðla að því að börnin mæti
 úthvíld í skólann og fylgi skólareglum. Þeir skulu fá tækifæri til að taka þátt
@@ -305,6 +310,7 @@ og styðja við skólagöngu þeirra og námsframvindu og stuðla að því að 
 Eigi í hlut foreldrar sem ekki tala íslensku eða nota táknmál skal skóli leitast
     við að tryggja túlkun á upplýsingum sem nauðsynlegar eru vegna samskipta
                    foreldra og skóla samkvæmt þessari grein.
+                               ^1)L. 38/2009, 2. gr.
                             19. gr. Ábyrgð foreldra.
       Foreldrar bera ábyrgð á námi barna sinna og ber þeim að fylgjast með
 námsframvindu þeirra í samvinnu við þau og kennara þeirra. Foreldrar skólaskylds
@@ -528,10 +534,11 @@ félagsstarfi. Tómstunda- og félagsstarf getur bæði verið liður í daglegu
    Sprotasjóður skal styðja við þróun og nýjungar í skólastarfi í samræmi við
 stefnu stjórnvalda og aðalnámskrá. Til sjóðsins renna fjármunir sem veittir eru
 á fjárlögum hverju sinni. Menntamálaráðuneyti hefur umsjón með sjóðnum og setur
-    reglugerð um styrkveitingar. Sjóðurinn er sameiginlegur fyrir leikskóla,
+  reglugerð^1) um styrkveitingar. Sjóðurinn er sameiginlegur fyrir leikskóla,
                          grunnskóla og framhaldsskóla.
  Í reglugerð er heimilt að fela stofnun á vegum ráðuneytisins eða öðrum þar til
         bærum aðila umsjón með sjóðnum og að annast úthlutanir úr honum.
+                                 ^1)Rg. 242/2009.
 
             VIII. kafli. Mat og eftirlit með gæðum grunnskólastarfs.
                                 35. gr. Markmið.
@@ -578,9 +585,10 @@ Ráðherra setur reglugerð um innra og ytra mat og upplýsingaskyldu sveitarfé
                   einstökum prófgreinum 4., 7. og 10. bekkjar.
 Námsmatsstofnun eða annar til þess bær aðili, sem ráðherra ákveður, hefur umsjón
     með gerð og framkvæmd samræmds námsmats og prófa samkvæmt grein þessari.
- Ráðherra setur í reglugerð nánari ákvæði um fyrirkomulag og framkvæmd samræmds
- námsmats, prófa og rannsókna í grunnskólum og undanþágur nemenda frá samræmdu
-                       námsmati, samkvæmt þessari grein.
+    Ráðherra setur í reglugerð^1) nánari ákvæði um fyrirkomulag og framkvæmd
+ samræmds námsmats, prófa og rannsókna í grunnskólum og undanþágur nemenda frá
+                   samræmdu námsmati, samkvæmt þessari grein.
+                                 ^1)Rg. 435/2009.
 
               IX. kafli. Sérfræðiþjónusta og stoðkerfi grunnskóla.
                 40. gr. Skipulag og framkvæmd sérfræðiþjónustu.
@@ -730,7 +738,7 @@ heimild þessari beitt skal sveitarstjórn ákveða hvort þessi kæruréttur ei
                   48. gr. Lög þessi öðlast gildi 1. júlí 2008.
 
                             Ákvæði til bráðabirgða.
-I. Grunnskólar sem þegar eru starfandi á grundvelli [1]56. gr. laga nr. 66/1995,
+I. Grunnskólar sem þegar eru starfandi á grundvelli [5]56. gr. laga nr. 66/1995,
      um grunnskóla, sbr. 22. gr. laga nr. 98/2006, eiga rétt á framlagi úr
    sveitarsjóði samkvæmt lögum þessum án sérstakrar viðurkenningar ráðherra.
       Sveitarfélagi er þó heimilt að takmarka framlag úr sveitarsjóði við
@@ -756,22 +764,26 @@ sveitarfélaga annast rekstur á og varðveitir. Úr sjóði þessum skulu greid
 Nú hafa sveitarfélög og viðsemjendur þeirra komið á fót sjóði, sbr. 2. mgr., og
  skal ráðherra þá birta auglýsingu í B-deild Stjórnartíðinda um að hann komi í
                             stað sjóðs skv. 1. mgr.
-  III. Reglugerðir, auglýsingar og önnur fyrirmæli sett samkvæmt [2]lögum nr.
+  III. Reglugerðir, auglýsingar og önnur fyrirmæli sett samkvæmt [6]lögum nr.
  66/1995, með síðari breytingum, skulu halda gildi sínu að svo miklu leyti sem
   þau stangast ekki á við lög þessi þar til nýjar reglugerðir, auglýsingar eða
                      önnur fyrirmæli hafa öðlast gildi.^1)
       ^1)Sjá nú rg. 349/1995, rg. 384/1996, rg. 386/1996, sbr. 905/2003; rg.
     387/1996, rg. 388/1996, rg. 389/1996, rg. 391/1996, augl. 437/1996, rg.
-    519/1996, rg. 657/1996, rg. 709/1996, rg. 710/1996, augl. 163/1999, rg.
- 220/1999, rg. 270/2000, rg. 414/2000, sbr. 333/2005 og 783/2006, sjá og augl.
-    793/2000; rg. 415/2000, sbr. 934/2006; augl. 1111/2006 og rg. 320/2007.
-    IV. Skólanefndir sem kosnar hafa verið samkvæmt [3]lögum nr. 66/1995, um
+    519/1996, rg. 709/1996, rg. 710/1996, augl. 163/1999, rg. 220/1999, rg.
+       270/2000, sjá og augl. 793/2000; augl. 1111/2006 og rg. 320/2007.
+    IV. Skólanefndir sem kosnar hafa verið samkvæmt [7]lögum nr. 66/1995, um
                          grunnskóla, halda umboði sínu.
- V. Samræmd könnunarpróf skv. 39. gr. skulu í fyrsta sinn fara fram vorið 2009.
+                                     V. ^1)
+                               ^1)L. 34/2009, 1. gr.
 
 References
 
    Visible links
-   1. file://1995066.html
-   2. file://1995066.html
-   3. file://1995066.html
+   1. file://2009035.html
+   2. file://2009035.html#g9
+   3. file://2009035.html#g9
+   4. file://2003076.html#g52
+   5. file://1995066.html
+   6. file://1995066.html
+   7. file://1995066.html

@@ -11,8 +11,8 @@
 
 Tóku gildi 1. janúar 2001. Breytt með l. 164/2002 (tóku gildi 1. jan. 2003), l.
 67/2007 (tóku gildi 4. apríl 2007), [1]l. 88/2008 (tóku gildi 1. jan. 2009 nema
-  brbákv. VII sem tók gildi 21. júní 2008) og l. 166/2008 (tóku gildi 1. jan.
-                                     2009).
+brbákv. VII sem tók gildi 21. júní 2008), l. 166/2008 (tóku gildi 1. jan. 2009)
+                   og l. 29/2009 (tóku gildi 2. apríl 2009).
 
                 I. kafli. Markmið, gildissvið og skilgreiningar.
                                 1. gr. Markmið.
@@ -66,15 +66,17 @@ Markmið laga þessara er að vernda líf, heilsu fólks, umhverfi og eignir me�
    h. eiga samstarf við hliðstæðar stofnanir í nágrannalöndunum og fylgjast með
                    framförum og nýjungum á sviði brunavarna,
    i. gera tillögur til ráðuneytis um breytingar á reglum um brunamál eftir því
-                             sem tilefni gefst til.
+                             sem tilefni gefst til,
+          [j. hafa eftirlit með framkvæmd [2]laga nr. 146/1996, um öryggi
+                  raforkuvirkja, neysluveitna og raffanga.]^1)
  [Um eldvarnaeftirlit varðandi mannvirki vegna rannsókna og vinnslu kolvetnis í
 íslenskri efnahagslögsögu og innan landgrunnsmarka fer samkvæmt ákvæðum þessarar
      greinar eftir því sem við getur átt. Brunamálastofnun annast framkvæmd
      eldvarnaeftirlits og setur um það reglur sem hljóta skulu staðfestingu
-                                 ráðherra.]^1)
+                                 ráðherra.]^2)
       Ráðherra getur með reglugerð kveðið nánar á um verkefni og starfsemi
                               Brunamálastofnunar.
-                              ^1)L. 166/2008, 24. gr.
+                   ^1)L. 29/2009, 1. gr. ^2)L. 166/2008, 24. gr.
                           6. gr. Samræming brunavarna.
     Brunamálastofnun vinnur að samræmingu brunavarna í landinu og stuðlar að
    samvinnu þeirra sem starfa að brunavörnum. Stofnunin skal með sjálfstæðum
@@ -340,7 +342,7 @@ hjá Brunamálastofnun áður en varan er sett á markað hér á landi. Kostna�
         Brunamálastofnun sker úr um ágreining vegna notkunarsviðs vöru.
 Telji Brunamálastofnun að vara fullnægi ekki kröfum skv. 1. mgr. er stofnuninni
        heimilt að banna sölu hennar. Um málsmeðferð Brunamálastofnunar og
- réttarfarsúrræði vegna sölubanns fer eftir ákvæðum IV. og [2]V. kafla laga nr.
+ réttarfarsúrræði vegna sölubanns fer eftir ákvæðum IV. og [3]V. kafla laga nr.
     134/1995, um öryggi vöru og opinbera markaðsgæslu, eftir því sem við á.
 
               VII. kafli. Tilkynningar um eldsvoða og rannsóknir.
@@ -355,7 +357,7 @@ Telji Brunamálastofnun að vara fullnægi ekki kröfum skv. 1. mgr. er stofnuni
        Að lokinni rannsókn sendir lögreglan afrit af rannsóknargögnum til
  Brunamálastofnunar, hlutaðeigandi slökkviliðsstjóra og vátryggingafélags nema
                        öðruvísi sé mælt fyrir um í lögum.
-                            ^1)[3]L. 88/2008, 234. gr.
+                            ^1)[4]L. 88/2008, 234. gr.
                       28. gr. Rannsókn Brunamálastofnunar.
    Verði manntjón eða mikið eignatjón í eldsvoða skal Brunamálastofnun, óháð
  lögreglurannsókn, rannsaka eldsvoðann, kröfur eldvarnaeftirlits og hvernig að
@@ -519,5 +521,6 @@ References
 
    Visible links
    1. file://2008088.html
-   2. file://1995134.html
-   3. file://2008088.html#g234
+   2. file://1996146.html
+   3. file://1995134.html
+   4. file://2008088.html#g234

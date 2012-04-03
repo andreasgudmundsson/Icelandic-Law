@@ -10,8 +10,9 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 16. maí 2001. EES-samningurinn: XVI. viðauki tilskipun 93/38/EBE og
-IV. viðauki tilskipun 94/22/EB. Breytt með l. 49/2007 (tóku gildi 3. apríl 2007)
-                   og l. 166/2008 (tóku gildi 1. jan. 2009).
+   IV. viðauki tilskipun 94/22/EB. Breytt með l. 49/2007 (tóku gildi 3. apríl
+ 2007), l. 166/2008 (tóku gildi 1. jan. 2009) og l. 8/2009 (tóku gildi 7. mars
+                                     2009).
 
                     I. kafli. Gildissvið og skilgreiningar.
                                1. gr. Gildissvið.
@@ -75,9 +76,9 @@ kolvetnis ásamt byggingu, uppsetningu, starfrækslu og lokun hafstöðvar ætla
   kolvetni, vinnslu kolvetnis eða forgangsrétt til að fá slíkt leyfi síðar. Þó
    getur slíkt leyfi falið í sér heimild til borunar í þeim tilgangi að afla
       upplýsinga um almenn skilyrði til myndunar og varðveislu kolvetnis.
-   [Iðnaðarráðherra er heimilt að setja í reglugerð^1) nánari skilyrði fyrir
-                  veitingu leyfis til leitar að kolvetni.]^2)
-                     ^1)Rgl. 553/2001. ^2)L. 166/2008, 4. gr.
+[Iðnaðarráðherra er heimilt að setja í reglugerð nánari skilyrði fyrir veitingu
+                       leyfis til leitar að kolvetni.]^1)
+                              ^1)L. 166/2008, 4. gr.
 
                        IV. kafli. Rannsóknir og vinnsla.
                       7. gr. Rannsóknar- og vinnsluleyfi.
@@ -96,7 +97,9 @@ kolvetnis aðilum sem hafa nægilega sérþekkingu, reynslu og fjárhagslegt bol
                                       ^1)
 Áður en veitt er rannsóknar- og vinnsluleyfi, samþykki eða leyfi fyrir einstökum
        framkvæmdum skv. 14.18. gr. skal [Orkustofnun]^3) leita umsagnar
-                 sjávarútvegsráðuneytis og umhverfisráðuneytis.
+   sjávarútvegsráðuneytis og umhverfisráðuneytis. [Þá skal Orkustofnun leita
+  umsagnar viðeigandi sveitarfélaga ef sótt er um leyfi á svæði sem er innan 1
+                           sjómílu frá netlögum.]^4)
 [Rannsóknarleyfi samkvæmt lögum þessum felur í sér heimild til þess að rannsaka
     kolvetnisauðlind á tilteknu svæði á leyfistímanum með þeim skilmálum sem
  tilgreindir eru í lögum þessum, í leyfinu sjálfu og samkvæmt nánari fyrirmælum
@@ -112,7 +115,8 @@ með þeim skilmálum öðrum sem tilgreindir eru í lögum þessum, í leyfinu 
  árlega 10.000 kr. fyrir hvern ferkílómetra sem leyfið tekur til en þar á eftir
  hækkar gjaldið árlega um 10.000 kr. fyrir hvern ferkílómetra. Gjaldið skal þó
    aldrei vera hærra en 150.000 kr. árlega fyrir hvern ferkílómetra.]^1)]^2)
-        ^1)L. 166/2008, 5. gr. ^2)L. 49/2007, 4. gr. ^3)L. 49/2007, 3. gr.
+     ^1)L. 166/2008, 5. gr. ^2)L. 49/2007, 4. gr. ^3)L. 49/2007, 3. gr. ^4)L.
+                                 8/2009, 1. gr.
                            8. gr. [Leyfisveiting.]^1)
 Að jafnaði skal auglýsa eftir umsækjendum áður en leyfi til rannsókna og vinnslu
                               á kolvetni er veitt.
@@ -201,12 +205,10 @@ framlengt og skal tillaga leyfishafa um slíka eftirgjöf berast Orkustofnun eig
  [Stöðvi leyfishafi vinnslu samfellt í þrjú ár fellur leyfið niður að þeim tíma
                                     liðnum.
  Heimilt er að afturkalla leyfi ef bú leyfishafa er tekið til gjaldþrotaskipta
- eða hann leitar nauðasamninga. [Þá skal Orkustofnun leita umsagnar viðeigandi
-      sveitarfélaga ef sótt er um leyfi á svæði sem er innan 1 sjómílu frá
-                               netlögum.]^2)]^1)
+                     eða hann leitar nauðasamninga. ^2)]^1)
 Leyfi til vinnslu skv. 2. mgr. skal a.m.k. taka til þess hluta svæðisins þar sem
  leyfishafi hyggst hefja vinnslu kolvetnis og hagkvæmur er til vinnslu að mati
-                              [Orkustofnunar].^2)
+                              [Orkustofnunar].^3)
  [Skilyrði leyfisveitingar er að stofnað sé sérstakt félag hér á landi um þessa
    starfsemi umsækjanda. Leyfishafi skal hafa skipulag sem tryggir sjálfstæða
         stjórnun og umsjón framkvæmda frá Íslandi á öllum þáttum tengdum
@@ -221,13 +223,14 @@ Kolvetnisstarfsemi og tengd starfsemi skal rekin frá stöð á Íslandi. Ráðh
       framlag til sérstaks menntunar- og rannsóknarsjóðs. Í rannsóknar- og
      vinnsluleyfi skal nánar kveðið á um stofnframlag sem og árlegt gjald í
  framangreindan sjóð. Nánar skal kveðið á um markmið og hlutverk menntunar- og
-  rannsóknarsjóðs í reglugerð sem iðnaðarráðherra setur. Stjórn sjóðsins skal
+ rannsóknarsjóðs í reglugerð^4) sem iðnaðarráðherra setur. Stjórn sjóðsins skal
 skipuð fulltrúum leyfishafa auk fulltrúa ríkisins sem iðnaðarráðherra skipar og
  hefur neitunarvald séu ákvarðanir stjórnarinnar ekki í samræmi við hlutverk og
 markmið sjóðsins eins og þau eru skilgreind í reglugerð. Orkusjóður undir umsjón
                  Orkustofnunar annast daglega umsýslu sjóðsins.
- Hver umsækjandi getur eingöngu fengið úthlutað einu leyfi skv. IV. kafla.]^2)
-                   ^1)L. 49/2007, 7. gr. ^2)L. 166/2008, 8. gr.
+ Hver umsækjandi getur eingöngu fengið úthlutað einu leyfi skv. IV. kafla.]^3)
+     ^1)L. 49/2007, 7. gr. ^2)L. 8/2009, 2. gr. ^3)L. 166/2008, 8. gr. ^4)Rg.
+                                    39/2009.
                    11. gr. Efni rannsóknar- og vinnsluleyfis.
               [Í rannsóknar- og vinnsluleyfi skal m.a. tilgreina:
     1. Tímalengd leyfis. Skal kveðið á um hvenær starfsemi skuli í síðasta lagi
@@ -501,8 +504,9 @@ Handhafi rannsóknar- og vinnsluleyfis skal greiða gjald að fjárhæð 1.000.0
                            samkvæmt lögum þessum.]^2)
                   ^1)L. 166/2008, 12. gr. ^2)L. 49/2007, 16. gr.
                                31. gr. Reglugerð.
-  Iðnaðarráðherra er heimilt að setja með reglugerð nánari ákvæði um framkvæmd
+Iðnaðarráðherra er heimilt að setja með reglugerð^1) nánari ákvæði um framkvæmd
                                  laga þessara.
+                                  ^1)Rg. 38/2009.
                                32. gr. Refsingar.
  Brot gegn lögum þessum varða sektum, nema þyngri refsingu varði samkvæmt öðrum
  lögum. Dæma má jafnt lögaðila sem einstakling til greiðslu sekta vegna brota á

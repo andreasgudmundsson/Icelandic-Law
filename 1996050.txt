@@ -12,8 +12,9 @@
  Tóku gildi 1. janúar 1997. Breytt með l. 76/1997 (tóku gildi 1. júlí 1997), l.
 83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001), [1]l.
     23/2006 (tóku gildi 3. maí 2006; EES-samningurinn: XX. viðauki tilskipun
- 2003/4/EB), l. 161/2006 (tóku gildi 1. jan. 2007) og [2]l. 88/2008 (tóku gildi
-          1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+2003/4/EB), l. 161/2006 (tóku gildi 1. jan. 2007), [2]l. 88/2008 (tóku gildi 1.
+ jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og [3]l. 55/2009 (tóku
+                              gildi 1. maí 2009).
 
                          I. kafli. Gildissvið laganna.
                                1. gr. Gildissvið.
@@ -33,7 +34,7 @@ gögnum sem 2. mgr. 3. gr. laga þessara tekur til. Þá gilda lögin heldur ekk
  Ákvæði annarra laga, sem heimila víðtækari aðgang að upplýsingum, halda gildi
    sínu. Almenn ákvæði laga um þagnarskyldu takmarka ekki rétt til aðgangs að
                          gögnum samkvæmt lögum þessum.
-                 ^1)[3]L. 88/2008, 234. gr. ^2)L. 83/2000, 1. gr.
+                 ^1)[4]L. 88/2008, 234. gr. ^2)L. 83/2000, 1. gr.
 
                   II. kafli. Almennur aðgangur að upplýsingum.
                             3. gr. Upplýsingaréttur.
@@ -79,7 +80,7 @@ hlut á. Sömu takmarkanir gilda um aðgang að gögnum er varða mikilvæga fj�
     [5. umhverfismál, enda geti birting þeirra haft alvarleg áhrif á vernd þess
 hluta umhverfisins sem slíkar upplýsingar varða, t.d. heimkynni fágætra tegunda
               lífvera, steinda, steingervinga og bergmyndana.]^1)
-                             ^1)[4]L. 23/2006, 18. gr.
+                             ^1)[5]L. 23/2006, 18. gr.
                         7. gr. Aðgangur að hluta skjals.
 Ef ákvæði 4.6. gr. eiga aðeins við um hluta skjals skal veita almenningi aðgang
             að öðru efni skjalsins. Sama regla á við um önnur gögn.
@@ -94,7 +95,7 @@ Veita skal aðgang að öðrum gögnum sem 4.6. gr. taka til þegar liðin eru
   ár frá því að gögn urðu til, að frátöldum upplýsingum er varða einkamálefni
 einstaklinga, en aðgang að þeim skal fyrst veita að áttatíu árum liðnum frá því
                               að þau urðu til. ^2)
-                  ^1)[5]L. 23/2006, 18. gr. ^2)L. 76/1997, 4. gr.
+                  ^1)[6]L. 23/2006, 18. gr. ^2)L. 76/1997, 4. gr.
 
            III. kafli. Aðgangur aðila að upplýsingum um hann sjálfan.
                          9. gr. Upplýsingaréttur aðila.
@@ -110,10 +111,10 @@ upplýsingar um einkamálefni annarra, enda vegi þeir hagsmunir, sem mæla með
   að upplýsingunum sé haldið leyndum, þyngra en hagsmunir þess sem fer fram á
                               aðgang að gögnunum.
   [Um aðgang sjúklings að upplýsingum úr sjúkraskrá fer eftir ákvæðum laga um
-                            réttindi sjúklinga.]^1)
+                             [sjúkraskrár].^1)]^2)
  Ákvæði 3., 7. og 8. gr. gilda, eftir því sem við getur átt, um aðgang aðila að
                                     gögnum.
-                               ^1)L. 76/1997, 5. gr.
+                  ^1)[7]L. 55/2009, 26. gr. ^2)L. 76/1997, 5. gr.
 
                             IV. kafli. Málsmeðferð.
                     10. gr. Beiðni um aðgang að upplýsingum.
@@ -359,6 +360,8 @@ References
    Visible links
    1. file://2006023.html
    2. file://2008088.html
-   3. file://2008088.html#g234
-   4. file://2006023.html#g18
+   3. file://2009055.html
+   4. file://2008088.html#g234
    5. file://2006023.html#g18
+   6. file://2006023.html#g18
+   7. file://2009055.html#g26

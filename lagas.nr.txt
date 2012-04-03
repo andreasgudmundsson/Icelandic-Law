@@ -1,7 +1,7 @@
 
    --------------------------------------------------------------------------
 
-   Útgáfa 136a. Íslensk lög 1. janúar 2009.
+   Útgáfa 136b. Íslensk lög 15. maí 2009.
 
      [1]2007 [2]2006 [3]2005 [4]2004 [5]2003 [6]2002 [7]2001 [8]2000 [9]1999
      [10]1998 [11]1997 [12]1996 [13]1995 [14]1994 [15]1993 [16]1992 [17]1991
@@ -9,6 +9,22 @@
      [26]1982 [27]1981 [28]1980 [29]1975 [30]1970 [31]1965 [32]1960 [33]1955
      [34]1950 [35]1945 [36]1940 [37]1935 [38]1930 [39]1920 [40]1910 [41]1900
 
+     * 2009 nr. 57 27. apríl Lög um listamannalaun
+     * 2009 nr. 55 27. apríl Lög um sjúkraskrár
+     * 2009 nr. 51 27. apríl Lög um heimild til samninga um álver í Helguvík
+     * 2009 nr. 50 21. apríl Lög um tímabundna greiðsluaðlögun
+       fasteignaveðkrafna á íbúðarhúsnæði
+     * 2009 nr. 49 21. apríl Lög um Bjargráðasjóð
+     * 2009 nr. 42 8. apríl Lög um visthönnun vöru sem notar orku
+     * 2009 nr. 40 6. apríl Lög um réttindi lifandi líffæragjafa til
+       tímabundinnar fjárhagsaðstoðar
+     * 2009 nr. 35 3. apríl Lög um náms- og starfsráðgjafa
+     * 2009 nr. 32 2. apríl Lög um ábyrgðarmenn
+     * 2009 nr. 12 11. mars Lög um afnám laga nr. 141/2003, um eftirlaun
+       forseta Íslands, ráðherra, alþingismanna og hæstaréttardómara, með
+       síðari breytingum, og breyting á lögum nr. 1/1997, um Lífeyrissjóð
+       starfsmanna ríkisins, með síðari breytingum
+     * 2009 nr. 9 9. mars Lög um uppbyggingu og rekstur fráveitna
      * 2008 nr. 172 29. desember Lög um heimild til fjárhagslegrar
        fyrirgreiðslu úr ríkissjóði í tengslum við málshöfðun fyrir erlendum
        dómstólum vegna íþyngjandi stjórnvaldsákvarðana erlendra stjórnvalda á
@@ -346,7 +362,6 @@
      * 2000 nr. 57 19. maí Lög um skipti á upplýsingum um tæknilegar reglur
        um vörur og fjarþjónustu
      * 2000 nr. 53 17. maí Útvarpslög
-     * 2000 nr. 51 17. maí Lög um orkunýtnikröfur
      * 2000 nr. 50 16. maí Lög um lausafjárkaup
      * 2000 nr. 46 16. maí Lög um húsgöngu- og fjarsölusamninga
      * 2000 nr. 43 16. maí Lög um lagaskil á sviði samningaréttar
@@ -509,7 +524,6 @@
      * 1995 nr. 155 29. desember Lög um lagagildi viðaukasamnings milli
        ríkisstjórnar Íslands og Alusuisse-Lonza Holding Ltd. um álbræðslu við
        Straumsvík
-     * 1995 nr. 146 28. desember Lög um Bjargráðasjóð
      * 1995 nr. 134 22. desember Lög um öryggi vöru og opinbera markaðsgæslu
      * 1995 nr. 96 28. júní Lög um gjald af áfengi og tóbaki
      * 1995 nr. 93 28. júní Lög um matvæli
@@ -1346,7 +1360,7 @@
        nóvember 1917, um áveitu á Flóann
      * 1926 nr. 4 15. júní Lög um heimild fyrir ríkisstjórnina til að ganga
        inn í viðbótarsamning við myntsamning Norðurlanda
-     * [80]1925 nr. 31 27. júní Lög um einkenning fiskiskipa
+     * 1925 nr. 31 27. júní Lög um einkenning fiskiskipa
      * 1925 nr. 30 27. júní Lög um selaskot á Breiðafirði og uppidráp
      * 1924 nr. 51 4. júní Lög um ríkisskuldabréf
      * 1924 nr. 4 11. apríl Lög um að miða við gullkrónur sektir fyrir
@@ -1358,7 +1372,7 @@
      * 1921 nr. 51 27. júní Lög um lífeyrissjóð embættismanna og ekkna þeirra
      * 1921 nr. 20 27. júní Lög um eignarnám á vatnsréttindum í Andakílsá
        o.fl.
-     * [81]1920 nr. 17 18. maí Lög um að leggja jarðirnar Kjarna og Hamra í
+     * [80]1920 nr. 17 18. maí Lög um að leggja jarðirnar Kjarna og Hamra í
        Hrafnagilshreppi undir lögsagnarumdæmi og bæjarfélag Akureyrar
      * 1920 nr. 8 18. maí Lög um heimild handa ríkisstjórninni til að banna
        flutning til landsins á varningi, sem stjórnin telur stafa
@@ -1383,7 +1397,7 @@
        og embætta
      * 1911 nr. 36 11. júlí Lög um forgangsrétt kandídata frá háskóla Íslands
        til embætta
-     * [82]1909 nr. 31 9. júlí Lög um eignarnámsheimild fyrir bæjarstjórn
+     * [81]1909 nr. 31 9. júlí Lög um eignarnámsheimild fyrir bæjarstjórn
        Ísafjarðarkaupstaðar á lóð undir skólabygging
      * 1909 nr. 28 9. júlí Lög um að leggja jörðina Naust í Hrafnagilshreppi
        í Eyjafjarðarsýslu undir lögsagnarumdæmi og bæjarfélag
@@ -1394,7 +1408,7 @@
      * 1903 nr. 42 13. nóvember Lög um verslanaskrár, firmu og prókúruumboð
      * 1901 nr. 53 20. desember Lög um viðauka við tilskipun fyrir Ísland 12.
        febrúar 1872 um síldar- og upsaveiði með nót
-     * [83]1895 nr. 34 13. desember Lög um stækkun lögsagnarumdæmis og
+     * [82]1895 nr. 34 13. desember Lög um stækkun lögsagnarumdæmis og
        bæjarfélags Akureyrarkaupstaðar
      * 1894 nr. 5 23. febrúar Lög um að leggja jarðirnar Laugarnes og Klepp í
        Seltjarnarneshreppi undir lögsagnarumdæmi og bæjarfélag Reykjavíkur
@@ -1498,45 +1512,44 @@ References
   39. file://lagas.nr.html#1920
   40. file://lagas.nr.html#1910
   41. file://lagas.nr.html#1900
-  42. http://www.althingi.is/lagas/136a/2007177.html
-  43. http://www.althingi.is/lagas/136a/2006176.html
-  44. http://www.althingi.is/lagas/136a/2005145.html
-  45. http://www.althingi.is/lagas/136a/2004146.html
-  46. http://www.althingi.is/lagas/136a/2003141.html
-  47. http://www.althingi.is/lagas/136a/2002162.html
-  48. http://www.althingi.is/lagas/136a/2001141.html
-  49. http://www.althingi.is/lagas/136a/2000168.html
-  50. http://www.althingi.is/lagas/136a/1999132.html
-  51. http://www.althingi.is/lagas/136a/1998164.html
-  52. http://www.althingi.is/lagas/136a/1997138.html
-  53. http://www.althingi.is/lagas/136a/1996162.html
-  54. http://www.althingi.is/lagas/136a/1995160.html
-  55. http://www.althingi.is/lagas/136a/1994162.html
-  56. http://www.althingi.is/lagas/136a/1993138.html
-  57. http://www.althingi.is/lagas/136a/1992103.html
-  58. http://www.althingi.is/lagas/136a/1991091.html
-  59. http://www.althingi.is/lagas/136a/1990129.html
-  60. http://www.althingi.is/lagas/136a/1989112.html
-  61. http://www.althingi.is/lagas/136a/1988058.html
-  62. http://www.althingi.is/lagas/136a/1987097.html
-  63. http://www.althingi.is/lagas/136a/1986094.html
-  64. http://www.althingi.is/lagas/136a/1985119.html
-  65. http://www.althingi.is/lagas/136a/1984125.html
-  66. http://www.althingi.is/lagas/136a/1983081.html
-  67. http://www.althingi.is/lagas/136a/1982077.html
-  68. http://www.althingi.is/lagas/136a/1981068.html
-  69. http://www.althingi.is/lagas/136a/1980102.html
-  70. http://www.althingi.is/lagas/136a/1975086.html
-  71. http://www.althingi.is/lagas/136a/1970107.html
-  72. http://www.althingi.is/lagas/136a/1965064.html
-  73. http://www.althingi.is/lagas/136a/1960052.html
-  74. http://www.althingi.is/lagas/136a/1955074.html
-  75. http://www.althingi.is/lagas/136a/1949109.html
-  76. http://www.althingi.is/lagas/136a/1945113.html
-  77. http://www.althingi.is/lagas/136a/1940104.html
-  78. http://www.althingi.is/lagas/136a/1935123.html
-  79. http://www.althingi.is/lagas/136a/1930028.html
-  80. http://www.althingi.is/lagas/136a/1925031.html
-  81. http://www.althingi.is/lagas/136a/1920017.html
-  82. http://www.althingi.is/lagas/136a/1909031.html
-  83. http://www.althingi.is/lagas/136a/1895034.html
+  42. http://www.althingi.is/lagas/136b/2007177.html
+  43. http://www.althingi.is/lagas/136b/2006176.html
+  44. http://www.althingi.is/lagas/136b/2005145.html
+  45. http://www.althingi.is/lagas/136b/2004146.html
+  46. http://www.althingi.is/lagas/136b/2003141.html
+  47. http://www.althingi.is/lagas/136b/2002162.html
+  48. http://www.althingi.is/lagas/136b/2001141.html
+  49. http://www.althingi.is/lagas/136b/2000168.html
+  50. http://www.althingi.is/lagas/136b/1999132.html
+  51. http://www.althingi.is/lagas/136b/1998164.html
+  52. http://www.althingi.is/lagas/136b/1997138.html
+  53. http://www.althingi.is/lagas/136b/1996162.html
+  54. http://www.althingi.is/lagas/136b/1995160.html
+  55. http://www.althingi.is/lagas/136b/1994162.html
+  56. http://www.althingi.is/lagas/136b/1993138.html
+  57. http://www.althingi.is/lagas/136b/1992103.html
+  58. http://www.althingi.is/lagas/136b/1991091.html
+  59. http://www.althingi.is/lagas/136b/1990129.html
+  60. http://www.althingi.is/lagas/136b/1989112.html
+  61. http://www.althingi.is/lagas/136b/1988058.html
+  62. http://www.althingi.is/lagas/136b/1987097.html
+  63. http://www.althingi.is/lagas/136b/1986094.html
+  64. http://www.althingi.is/lagas/136b/1985119.html
+  65. http://www.althingi.is/lagas/136b/1984125.html
+  66. http://www.althingi.is/lagas/136b/1983081.html
+  67. http://www.althingi.is/lagas/136b/1982077.html
+  68. http://www.althingi.is/lagas/136b/1981068.html
+  69. http://www.althingi.is/lagas/136b/1980102.html
+  70. http://www.althingi.is/lagas/136b/1975086.html
+  71. http://www.althingi.is/lagas/136b/1970107.html
+  72. http://www.althingi.is/lagas/136b/1965064.html
+  73. http://www.althingi.is/lagas/136b/1960052.html
+  74. http://www.althingi.is/lagas/136b/1955074.html
+  75. http://www.althingi.is/lagas/136b/1949109.html
+  76. http://www.althingi.is/lagas/136b/1945113.html
+  77. http://www.althingi.is/lagas/136b/1940104.html
+  78. http://www.althingi.is/lagas/136b/1935123.html
+  79. http://www.althingi.is/lagas/136b/1930028.html
+  80. http://www.althingi.is/lagas/136b/1920017.html
+  81. http://www.althingi.is/lagas/136b/1909031.html
+  82. http://www.althingi.is/lagas/136b/1895034.html

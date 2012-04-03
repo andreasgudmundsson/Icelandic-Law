@@ -928,7 +928,8 @@ Lögreglustjórar halda skrár um ökuskírteini og ökuferil samkvæmt reglum,^
     ^1)L. 132/2003, 1. gr. ^2)Rg. 501/1997, sbr. 799/1998, 376/2000, 754/2001,
  249/2002, 747/2002, 4/2003, 862/2003, 1054/2004, 781/2005, 159/2006, 692/2006,
  760/2006, 245/2007, 612/2007, 1280/2007, 369/2008 og 612/2008. ^3)L. 138/1996,
-      5. gr. ^4)L. 66/2006, 8. gr. ^5)L. 83/2002, 2. gr. ^6)Rg. 929/2006.
+    5. gr. ^4)L. 66/2006, 8. gr. ^5)L. 83/2002, 2. gr. ^6)Rg. 929/2006, sbr.
+                                    90/2009.
                             Afturköllun ökuréttinda.
       53. gr. [Útgefandi ökuréttinda]^1) getur afturkallað ökuréttindi, ef
   hlutaðeigandi fullnægir ekki lengur skilyrðum til að öðlast ökuskírteini. Nú
@@ -1066,16 +1067,15 @@ skilyrði reglna, sem settar eru samkvæmt 1. mgr., eða notkun þeirra mundi le
  ökuritum). Rg. 501/1997 (um ökuskírteini), sbr. 799/1998, 376/2000, 754/2001,
  747//2002, 4/2003, 862/2003, 692/2006, 245/2007, 612/2007, 1280/2007, 369/2008
     og 612/2008. Rg. 71/1998 (um frágang á hraðatakmarkara í bifreið), sbr.
-113/2000. Rg. 378/1998 (um skoðun ökutækja), sbr. 779/1998, 917/1999, 695/2000,
- 240/2001, 722/2001, 35/2002, 680/2002 og 197/2007. Rg. 984/2000 (um flutning á
- hættulegum farmi), sbr. 773/2001, 684/2002, 750/2003, 1070/2005 og 1033/2007.
-    Rg. 751/2003 (um skráningu ökutækja), sbr. 299/2004, 506/2005, 656/2005,
-158/2006, 307/2006, 691/2006, 756/2006, 1231/2007 og 669/2008. Rg. 822/2004 (um
-gerð og búnað ökutækja), sbr. 375/2005, 647/2005, 986/2005, 1071/2005, 156/2006,
-     427/2006, 465/2006, 689/2006, 953/2006, 207/2007, 349/2007, 1116/2007,
-1279/2007, 165/2008 og 1028/2008. Rg. 661/2006 (um ökurita og notkun hans). Rg.
- 662/2006 (um aksturs- og hvíldartíma ökumanna). Rg. 777/2006 (um eftirlit með
-            aksturs- og hvíldartíma ökumanna, notkun ökurita o.fl.).
+    113/2000. Rg. 984/2000 (um flutning á hættulegum farmi), sbr. 773/2001,
+     684/2002, 750/2003, 1070/2005 og 1033/2007. Rg. 751/2003 (um skráningu
+  ökutækja), sbr. 299/2004, 506/2005, 656/2005, 158/2006, 307/2006, 691/2006,
+   756/2006, 1231/2007, 669/2008 og 408/2009. Rg. 822/2004 (um gerð og búnað
+  ökutækja), sbr. 375/2005, 647/2005, 986/2005, 1071/2005, 156/2006, 427/2006,
+465/2006, 689/2006, 953/2006, 207/2007, 349/2007, 1116/2007, 1279/2007, 165/2008
+    og 1028/2008. Rg. 661/2006 (um ökurita og notkun hans). Rg. 662/2006 (um
+  aksturs- og hvíldartíma ökumanna). Rg. 777/2006 (um eftirlit með aksturs- og
+ hvíldartíma ökumanna, notkun ökurita o.fl.). Rg. 8/2009 (um skoðun ökutækja).
  61. gr. Nú rís ágreiningur um það, til hvaða flokks skv. 2. gr. ökutæki skuli
                      teljast, og sker þá [ráðherra]^1) úr.
  [Ráðherra]^1) getur, ef sérstakar ástæður mæla með því, ákveðið, að ökutæki af
@@ -1119,8 +1119,8 @@ heildarþyngd],^2) svo og hjólhýsi og tjaldvagn. [Eigi þarf þó að skrá ef
                 [g. ]^4) gjald fyrir skráningu og skráningarmerki.
                                       ^5)
       ^1)L. 132/2003, 1. gr. ^2)Rg. 269/1993. Rg. 79/1997, sbr. 542/1998. Rg.
-751/2003, sbr. 669/2008. ^3)Augl. 77/1997. ^4)L. 48/1997, 3. gr. ^5)L. 62/1988,
-                                     2. gr.
+  751/2003, sbr. 669/2008 og 408/2009. ^3)Augl. 77/1997. ^4)L. 48/1997, 3. gr.
+                             ^5)L. 62/1988, 2. gr.
  [64. gr. a. [Ráðherra]^1) getur sett reglur^2) um heimild eiganda ökutækis til
      að velja tiltekna bókstafi og tölustafi á skráningarmerki ökutækisins
                                  (einkamerki).
@@ -1162,12 +1162,11 @@ eigendaskipti. Um fullnustuaðgerðir vegna innheimtu gjaldsins fer eftir 3. og 
                stjórnvaldi innheimtu gjalds í vanskilum.]^3)]^4)
    ^1)L. 132/2003, 1. gr. ^2)Rg. 572/1995 (um prófun á ökuritum). Augl. 77/1997
  (um skráningu ökutækja). Rg. 71/1998 (um frágang á hraðatakmarkara í bifreið),
-   sbr. 113/2000. Rg. 378/1998 (um skoðun ökutækja), sbr. 779/1998, 917/1999,
- 695/2000, 240/2001, 722/2001, 35/2002, 680/2002 og 197/2007. Rg. 751/2003 (um
-  skráningu ökutækja), sbr. 299/2004, 506/2005, 656/2005, 158/2006, 307/2006,
- 691/2006, 756/2006 og 1231/2007. Rg. 661/2006 (um ökurita og notkun hans). Rg.
- 662/2006 (um aksturs- og hvíldartíma ökumanna). Rg. 777/2006 (um eftirlit með
- aksturs- og hvíldartíma ökumanna, notkun ökurita o.fl.). ^3)L. 65/2008, 1. gr.
+ sbr. 113/2000. Rg. 751/2003 (um skráningu ökutækja), sbr. 299/2004, 506/2005,
+  656/2005, 158/2006, 307/2006, 691/2006, 756/2006, 1231/2007 og 408/2009. Rg.
+ 661/2006 (um ökurita og notkun hans). Rg. 662/2006 (um aksturs- og hvíldartíma
+   ökumanna). Rg. 777/2006 (um eftirlit með aksturs- og hvíldartíma ökumanna,
+ notkun ökurita o.fl.). Rg. 8/2009 (um skoðun ökutækja). ^3)L. 65/2008, 1. gr.
   Ákvæði 2.5. mgr. gilda ekki um ökutæki sem færa skal til skoðunar fyrir 1.
            október 2008 skv. brbákv. við s.l. ^4)L. 44/1993, 18. gr.
   68. gr. [Lögreglu er heimilt hvenær sem er að stöðva ökutæki og skoða ástand
@@ -1627,8 +1626,8 @@ má vera 80 km á klst. eða meiri skal sekt ákveðin hærri en ella. Sama gild
     innan 30 daga frá dagsetningu sektarboðs eða undirritun sektargerðar sem
                 sakborningur hefur gengist skriflega undir.]^8)
     ^1)L. 82/1998, 186. gr. ^2)L. 79/2007, 2. gr. ^3)L. 66/2006, 17. gr. ^4)L.
-  84/2004, 7. gr. ^5)Rg. 930/2006, sbr. 492/2007. ^6)L. 132/2003, 1. gr. ^7)L.
-                     69/2007, 6. gr. ^8)L. 57/1997, 3. gr.
+   84/2004, 7. gr. ^5)Rg. 930/2006, sbr. 492/2007, 91/2009 og 328/2009. ^6)L.
+          132/2003, 1. gr. ^7)L. 69/2007, 6. gr. ^8)L. 57/1997, 3. gr.
                             [Svipting ökuréttar.]^1)
                               ^1)L. 44/1993, 25. gr.
       101. gr. [Svipta skal mann rétti til að stjórna vélknúnu ökutæki sem
@@ -1650,8 +1649,8 @@ má vera 80 km á klst. eða meiri skal sekt ákveðin hærri en ella. Sama gild
                    eigi ákvörðuð skemur en í þrjá mánuði.]^4)
 Svipting ökuréttar felur í sér sviptingu réttar samkvæmt ökuskírteini og réttar
                         til að öðlast ökuskírteini.]^5)
-   ^1)L. 132/2003, 1. gr. ^2)Rg. 929/2006. ^3)L. 57/1997, 4. gr. ^4)L. 69/2007,
-                         7. gr. ^5)L. 44/1993, 25. gr.
+    ^1)L. 132/2003, 1. gr. ^2)Rg. 929/2006, sbr. 90/2009. ^3)L. 57/1997, 4. gr.
+                  ^4)L. 69/2007, 7. gr. ^5)L. 44/1993, 25. gr.
 102. gr. [Nú hefur stjórnandi vélknúins ökutækis brotið gegn ákvæðum 1. mgr. 45.
   gr. eða 45. gr. a eða neitað að veita atbeina sinn við rannsókn máls skv. 3.
   mgr. 47. gr. og skal hann þá sviptur ökurétti. Ef sérstakar málsbætur eru og
