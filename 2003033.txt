@@ -1380,7 +1380,7 @@ fram eða gerir hana opinbera og hagsmunum og hagsmunaárekstrum og skilgreining
    8. tilkynningar um viðskipti fruminnherja, stjórnenda og fjárhagslega tengdra
                                    aðila.]^1)
    ^1)[109]L. 31/2005, 23. gr. ^2)[110]Rg. 506/2002, [111]rg. 242/2006, [112]rg.
-  244/2006. ^3)[113]Rg. 243/2006. ^4)[114]Rg. 630/2005. ^5)[115]Rgl. 670/2005.
+  244/2006. ^3)[113]Rg. 243/2006. ^4)[114]Rg. 630/2005. ^5)[115]Rgl. 987/2006.
 
                               XI. kafli. Viðurlög.
                         [74. gr.]^1) Stjórnvaldssektir.
@@ -1578,7 +1578,7 @@ References
   95. file:///altext/stjt/2005.031.html
   96. file:///altext/stjt/2005.082.html
   97. file:///altext/stjt/2005.031.html
-  98. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/831-2002
+  98. file://ekkitil/ekkitil.html?REGL/2002831
   99. file:///altext/stjt/2005.031.html
  100. file:///altext/stjt/2005.031.html
  101. file://1998087.html
@@ -1590,12 +1590,12 @@ References
  107. file:///altext/stjt/2005.031.html
  108. file:///altext/stjt/2005.031.html
  109. file:///altext/stjt/2005.031.html
- 110. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2002
- 111. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2006
- 112. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/244-2006
- 113. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/243-2006
- 114. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/630-2005
- 115. http://stjornartidindi.is/servlet/stjrtid/B/2005/670.pdf
+ 110. file://ekkitil/ekkitil.html?REGL/2002506
+ 111. file://ekkitil/ekkitil.html?REGL/2006242
+ 112. file://ekkitil/ekkitil.html?REGL/2006244
+ 113. file://ekkitil/ekkitil.html?REGL/2006243
+ 114. file://ekkitil/ekkitil.html?REGL/2005630
+ 115. file://ekkitil/ekkitil.html?REGL/2006987
  116. file:///altext/stjt/2005.031.html
  117. file:///altext/stjt/2005.031.html
  118. file:///altext/stjt/2006.067.html

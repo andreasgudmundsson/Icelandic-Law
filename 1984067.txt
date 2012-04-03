@@ -80,6 +80,6 @@ References
   13. file:///altext/stjt/2002.093.html
   14. file:///altext/stjtnr.html#1969080
   15. file://1988053.html
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/103-1933
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/225-1974
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/169-1986
+  16. file://ekkitil/ekkitil.html?REGL/1933103
+  17. file://ekkitil/ekkitil.html?REGL/1974225
+  18. file://ekkitil/ekkitil.html?REGL/1986169

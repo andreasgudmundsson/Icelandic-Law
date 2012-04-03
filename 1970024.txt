@@ -101,5 +101,5 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=90&mnr=16
    3. file:///altext/stjt/1997.083.html
    4. file:///altext/stjt/1997.083.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/011-1989
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/943-2002
+   5. file://ekkitil/ekkitil.html?REGL/1989011
+   6. file://ekkitil/ekkitil.html?REGL/2002943

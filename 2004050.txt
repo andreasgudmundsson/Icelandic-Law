@@ -221,5 +221,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004050
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=569
    3. http://www.althingi.is/altext/130/s/0859.html
-   4. http://stjornartidindi.is/servlet/stjrtid/B/2004/529.pdf
-   5. http://stjornartidindi.is/servlet/stjrtid/B/2004/550.pdf
+   4. file://ekkitil/ekkitil.html?REGL/2004529
+   5. file://ekkitil/ekkitil.html?REGL/2004550

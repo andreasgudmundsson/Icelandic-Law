@@ -887,10 +887,10 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2005049
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=336
    3. http://www.althingi.is/altext/131/s/0379.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/208-2006
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/961-2005
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/316-1977
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-1978
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-1981
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/829-1999
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/304-2000
+   4. file://ekkitil/ekkitil.html?REGL/2006208
+   5. file://ekkitil/ekkitil.html?REGL/2005961
+   6. file://ekkitil/ekkitil.html?REGL/1977316
+   7. file://ekkitil/ekkitil.html?REGL/1978112
+   8. file://ekkitil/ekkitil.html?REGL/1981584
+   9. file://ekkitil/ekkitil.html?REGL/1999829
+  10. file://ekkitil/ekkitil.html?REGL/2000304

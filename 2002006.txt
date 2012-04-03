@@ -291,9 +291,9 @@ References
   14. file:///altext/stjt/2006.083.html
   15. file://2003018.html#g10
   16. file:///altext/stjt/2003.024.html
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2003
+  17. file://ekkitil/ekkitil.html?REGL/2003236
   18. file:///altext/stjt/2006.083.html
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2003
+  19. file://ekkitil/ekkitil.html?REGL/2003236
   20. file:///altext/stjt/2003.024.html
   21. file:///altext/stjt/2006.083.html
   22. file:///altext/stjt/2006.083.html

@@ -1030,11 +1030,11 @@ References
   11. file://1991019.html
   12. file://1991091.html#g161
   13. file://1998015.html
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/017-1992
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/017-1992
+  14. file://ekkitil/ekkitil.html?REGL/1992017
+  15. file://ekkitil/ekkitil.html?REGL/1992017
   16. file://1996090.html#g43
   17. file://1996090.html#g43
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/017-1992
+  18. file://ekkitil/ekkitil.html?REGL/1992017
   19. file://1991090.html#g91
   20. file:///altext/stjt/1991.092.html
   21. file:///altext/stjt/1991.092.html

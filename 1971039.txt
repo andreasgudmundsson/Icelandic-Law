@@ -132,6 +132,6 @@ References
    9. file:///altext/stjt/1997.083.html
   10. file:///altext/stjt/1997.083.html
   11. file://1989086.html#g16
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/353-1999
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/625-1999
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/055-2004
+  12. file://ekkitil/ekkitil.html?REGL/1999353
+  13. file://ekkitil/ekkitil.html?REGL/1999625
+  14. file://ekkitil/ekkitil.html?REGL/2004055

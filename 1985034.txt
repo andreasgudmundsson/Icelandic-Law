@@ -2029,13 +2029,13 @@ viðkomandi dómstóll heimild til að ákvarða réttindasviptingu til bráðab
  af samningi um Evrópskt efnahagssvæði milli Efnahagsbandalags Evrópu, Kola- og
      stálbandalags Evrópu og aðildarríkja þess annars vegar og aðildarríkja
 Fríverslunarsamtaka Evrópu hins vegar, sbr. lög um Evrópska efnahagssvæðið.]^2)
-    ^1)[85]Rg. 204/2004. ^2)[86]L. 62/1993, 3. gr. Augl. 572/1993, 442/1994 og
-                                   120/1996.
+        ^1)[85]Rg. 204/2004. ^2)[86]L. 62/1993, 3. gr. [87]Augl. 572/1993,
+                         [88]442/1994 og [89]120/1996.
 
                 [XVII. kafli.]^1) Gildistaka og brottfallin lög.
-                             ^1)[87]L. 62/1993, 3. gr.
+                             ^1)[90]L. 62/1993, 3. gr.
                   [244. gr.]^1) Lög þessi öðlast þegar gildi.
-                             ^1)[88]L. 62/1993, 3. gr.
+                             ^1)[91]L. 62/1993, 3. gr.
 
 References
 
@@ -2059,16 +2059,16 @@ References
   17. file:///altext/stjt/2006.101.html
   18. file://1978039.html
   19. file:///altext/stjt/1991.092.html
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/680-2004
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/138-1986
-  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/183-1987
+  20. file://ekkitil/ekkitil.html?REGL/2004680
+  21. file://ekkitil/ekkitil.html?REGL/1986138
+  22. file://ekkitil/ekkitil.html?REGL/1987183
   23. file:///altext/stjt/1991.092.html
   24. file://1993050.html#g29
   25. file://1991090.html#g91
   26. file:///altext/stjt/1991.092.html
   27. file://1991090.html#g91
   28. file://1991091.html#g160
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-1998
+  29. file://ekkitil/ekkitil.html?REGL/1998463
   30. file://1991090.html#g91
   31. file:///altext/stjt/1998.074.html
   32. file:///altext/stjt/1998.133.html
@@ -2124,7 +2124,10 @@ References
   82. file:///altext/stjt/1998.082.html
   83. file:///altext/stjt/1998.082.html
   84. file:///altext/stjt/1993.062.html
-  85. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/204-2004
+  85. file://ekkitil/ekkitil.html?REGL/2004204
   86. file:///altext/stjt/1993.062.html
-  87. file:///altext/stjt/1993.062.html
-  88. file:///altext/stjt/1993.062.html
+  87. file://ekkitil/ekkitil.html?AUGL/1993572
+  88. file://ekkitil/ekkitil.html?AUGL/1994442
+  89. file://ekkitil/ekkitil.html?AUGL/1996120
+  90. file:///altext/stjt/1993.062.html
+  91. file:///altext/stjt/1993.062.html

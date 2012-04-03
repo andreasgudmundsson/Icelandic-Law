@@ -75,14 +75,14 @@ References
    9. file:///altext/stjt/2003.072.html
   10. file:///altext/stjt/2003.072.html
   11. file:///altext/stjt/1994.076.html
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/094-1994
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/244-1994
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/369-1994
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/342-2001
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/910-2002
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/629-2004
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/101-1998
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/327-1999
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/900-2004
+  12. file://ekkitil/ekkitil.html?REGL/1994094
+  13. file://ekkitil/ekkitil.html?REGL/1994244
+  14. file://ekkitil/ekkitil.html?REGL/1994369
+  15. file://ekkitil/ekkitil.html?REGL/2001342
+  16. file://ekkitil/ekkitil.html?REGL/2002910
+  17. file://ekkitil/ekkitil.html?REGL/2004629
+  18. file://ekkitil/ekkitil.html?REGL/1998101
+  19. file://ekkitil/ekkitil.html?REGL/1999327
+  20. file://ekkitil/ekkitil.html?REGL/2004900
   21. file:///altext/stjt/1994.076.html
-  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/249-1999
+  22. file://ekkitil/ekkitil.html?REGL/1999249

@@ -11,7 +11,8 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
   Tóku gildi 25. júlí 2003. EES-samningurinn: XI. viðauki tilskipun 90/388/EB,
-               2002/19/EB, 2002/20/EB, 2002/21/EB og 2002/22/EB.
+  2002/19/EB, 2002/20/EB, 2002/21/EB og 2002/22/EB. Breytt með [4]l. 172/2006
+                           (tóku gildi 1. jan. 2007).
 
                             1. gr. Yfirstjórn o.fl.
  Póst- og fjarskiptastofnun hefur umsjón með framkvæmd fjarskipta- og póstmála
@@ -78,7 +79,7 @@ og póstmála. Skal stofnunin beina tilmælum um breytingar á lögum og regluge
                                     birtar.
 Forstjóra Póst- og fjarskiptastofnunar er heimilt að fela öðrum hæfum aðilum að
  framkvæma einstaka þætti skoðunar sem framkvæmd er með heimild í lögum þessum.
-                                ^1)[4]Rg. 265/2001.
+                                ^1)[5]Rg. 265/2001.
            4. gr. Eftirlit með fjarskiptafyrirtækjum og póstrekendum.
 Póst- og fjarskiptastofnun hefur eftirlit með starfsemi fjarskiptafyrirtækja og
   póstrekenda, þar með talið fjárhagsstöðu þeirra, og skal fylgjast með því að
@@ -226,13 +227,16 @@ Telji Póst- og fjarskiptastofnun nauðsynlegt að taka ákvörðun í einstöku
  innan sjö daga frá því að bráðabirgðaákvörðunin var tekin, ella fellur hún úr
                                      gildi.
                         12. gr. Dagsektir og innheimta.
-  Póst- og fjarskiptastofnun er heimilt að leggja á og innheimta dagsektir af
-fjarskiptafyrirtækjum og póstrekendum, uppfylli þeir ekki skilyrði sem þeim hafa
-    verið sett eða aðrar kvaðir sem á þá hafa verið lagðar samkvæmt lögum um
-  fjarskipti og lögum um póstþjónustu. Dagsektir nemi 50.000 til 500.000 kr. á
- dag. Eru slíkar sektir aðfararhæfar skv. 5. tölul. 1. mgr. [5]1. gr. laga nr.
-90/1989, um aðför. Málskot til úrskurðarnefndar fjarskipta- og póstmála frestar
-               aðför en úrskurðir nefndarinnar eru aðfararhæfir.
+  [Þegar fjarskiptafyrirtæki eða póstrekandi fer ekki að ákvæðum laga þessara,
+  laga um fjarskipti eða laga um póstþjónustu, skilyrðum almennrar heimildar,
+         skilyrðum sérstakra réttinda eða einstökum ákvörðunum Póst- og
+   fjarskiptastofnunar eða veitir ekki þær upplýsingar sem honum er skylt að
+afhenda stofnuninni er henni heimilt að leggja á og innheimta dagsektir sem nemi
+ 50.000500.000 kr. á dag til að tryggja að eftir fyrirmælum stofnunarinnar sé
+farið.]^1) Eru slíkar sektir aðfararhæfar skv. 5. tölul. 1. mgr. [6]1. gr. laga
+  nr. 90/1989, um aðför. Málskot til úrskurðarnefndar fjarskipta- og póstmála
+           frestar aðför en úrskurðir nefndarinnar eru aðfararhæfir.
+                             ^1)[7]L. 172/2006, 1. gr.
                 13. gr. Úrskurðarnefnd fjarskipta- og póstmála.
    Ákvarðanir Póst- og fjarskiptastofnunar sæta kæru til sérstakrar nefndar,
 úrskurðarnefndar fjarskipta- og póstmála. Skal kæran berast úrskurðarnefnd innan
@@ -253,7 +257,7 @@ en slíkt mál skal höfða innan sex mánaða frá því að viðkomandi fékk 
   Um starfshætti nefndarinnar, málsmeðferð o.fl. skal mælt fyrir í reglugerð.
                             14. gr. Gjaldtaka o.fl.
   Fyrir útgáfu rekstrarleyfa fyrir póstþjónustu greiðist gjald til ríkissjóðs
-            samkvæmt [6]lögum nr. 88/1991, um aukatekjur ríkissjóðs.
+            samkvæmt [8]lögum nr. 88/1991, um aukatekjur ríkissjóðs.
 Við veitingu réttinda fyrir notkun tíðna þar sem takmarka þarf fjölda rétthafa,
 t.d. vegna takmarkaðs tíðnisviðs fyrir viðkomandi þjónustu og úthlutun tíðna fer
   fram eftir birtingu auglýsingar um fyrirhugaða úthlutun eða útboð, eða þegar
@@ -266,8 +270,8 @@ skal innheimta sérstakt gjald fyrir tíðnirnar. Gjaldið ákvarðast af kostna
  forskeyti og alþjóðlegir netkóðar, óháð fjölda tölustafa í kóðanum. Innheimta
            skal 1.000.000 kr. árlegt gjald fyrir þriggja stafa númer.
 Fjarskiptafyrirtæki skulu árlega greiða Póst- og fjarskiptastofnun rekstrargjald
-sem nemur 0,20% af bókfærðri veltu og sömuleiðis skulu póstrekendur greiða 0,25%
-      af árlegri veltu til stofnunarinnar. Með bókfærðri veltu er átt við
+sem nemur [0,30%]^1) af bókfærðri veltu og sömuleiðis skulu póstrekendur greiða
+   0,25% af árlegri veltu til stofnunarinnar. Með bókfærðri veltu er átt við
 rekstrartekjur sem þessir aðilar hafa af fjarskipta- og póststarfsemi sinni hér
      á landi. Rekstrargjald skal miða við næsta almanaksár á undan ákvörðun
  gjaldsins. Tekjur skal telja til bókfærðrar veltu á því ári sem þær verða til.
@@ -294,14 +298,92 @@ Vanræki fjarskiptafyrirtæki eða póstrekandi greiðslu rekstrargjalds er Pós
     sérstakar kannanir sem stofnunin telur nauðsynlegar vegna eftirlits með
 starfsemi á þeirra vegum og rekja má sérstakan kostnaðarauka til atvika er varða
                                   fyrirtækið.
-       Samgönguráðherra setur gjaldskrá fyrir aðra þjónustu sem Póst- og
+       [Samgönguráðherra setur gjaldskrá fyrir aðra þjónustu sem Póst- og
  fjarskiptastofnun er falið að veita samkvæmt lögum þessum, lögum um fjarskipti
   og lögum um póstþjónustu. Heimilt er að taka gjald, sem miðast við kostnað,
 fyrir eftirfarandi þætti: skráningu fyrirtækja, útgáfu leyfisbréfa og skírteina,
-     mælingar, innsiglanir, skoðanir og umsýslu með þráðlausum sendibúnaði.
+    mælingar, innsiglanir og skoðun fjarskiptabúnaðar. Auk þess er Póst- og
+  fjarskiptastofnun heimilt að taka gjald fyrir aðra þjónustu sem aðilar óska
+ eftir. Við ákvörðun gjalda samkvæmt þessari grein skal leggja til grundvallar
+       kostnað vegna launa og launatengdra gjalda, aksturs, þjálfunar og
+     endurmenntunar, aðkeyptrar sérfræðiþjónustu, húsnæðis, starfsaðstöðu,
+    fjarskipta, búnaðar og tækja, stjórnunar og stoðþjónustu og alþjóðlegrar
+            samvinnu, auk ferða og uppihalds sem af því leiðir.]^1)
  Allar tekjur samkvæmt þessari grein, að undanteknu leyfisgjaldi skv. 1. mgr.,
    skulu renna óskiptar til Póst- og fjarskiptastofnunar sem annast innheimtu
                          gjalda samkvæmt þessari grein.
+                             ^1)[9]L. 172/2006, 2. gr.
+                      [14. gr. a. Gjald fyrir tíðninotkun.
+Þeir aðilar sem fengið hafa heimild til að nota tíðnir til þráðlausra fjarskipta
+skulu greiða árlegt gjald til Póst- og fjarskiptastofnunar samkvæmt því sem hér
+                                     segir:
+                  1. Radíóstöðvar með skipa- og flugtíðnum.
+
+                a. Með milli- og stuttbylgju (MF/HF)     6.400 kr.
+              b. Án milli- og stuttbylgju (aðeins VHF)     4.100 kr.
+                              2. Farstöðvarásir.
+
+                a. Fyrir hver 25 kHz á gjaldsvæði 1     63.000 kr.
+             b. Fyrir hver 25 kHz á gjaldsvæði 2 eða 3     12.600 kr.
+    c. Fyrir samnýttar rásir greiðist 25% af gjaldi skv. a- og b-lið eftir því
+                                sem við á.
+    d. Aðilar að landssamtökum björgunarsveita greiða 25% af gjaldi skv. a- og
+                                  b-lið.
+                               3. Jarðstöðvar.
+
+            a. Jarðstöðvar með sendiafl meira en 50 dBW     25.100 kr.
+             b. Jarðstöðvar fyrir almenn fjarskiptanet     25.100 kr.
+                               4. Fastasambönd.
+
+               a. Grunngjald fyrir hvert fastasamband     10.000 kr.
+                      b. Að auki fyrir hvert MHz     830 kr.
+     5. Almenn farsímanet (t.d. NMT, GSM, 3G). Fyrir hvert MHz     256.500 kr.
+          6. TETRA neyðar- og öryggisnet. Fyrir hvert MHz     64.100 kr.
+                           7. Þráðlaus aðgangsnet.
+
+                 a. Fyrir hvert MHz á gjaldsvæði 1     33.800 kr.
+                 b. Fyrir hvert MHz á gjaldsvæði 2     22.500 kr.
+                  c. Fyrir hvert MHz á gjaldsvæði 3     2.300 kr.
+                    8. Fyrir hverja rás í sjónvarpssendi.
+
+              a. Gjaldsvæði 2, sendiafl 1 kW og meira     119.000 kr.
+                b. Gjaldsvæði 2, sendiafl 100999 W     89.000 kr.
+              c. Gjaldsvæði 2, sendiafl minna en 100 W     59.300 kr.
+              d. Gjaldsvæði 3, sendiafl 1 kW og meira     29.700 kr.
+                e. Gjaldsvæði 3, sendiafl 100999 W     22.200 kr.
+              f. Gjaldsvæði 3, sendiafl minna en 100 W     14.800 kr.
+       Ef sama rás er notuð í fleiri en einum sendi á sama gjaldsvæði ræður
+ samanlagt sendiafl. Ekki skal taka gjald fyrir starfrækslu sjónvarpssenda með
+            afl minna en 2W sem þjóna svæðum með færri en 100 íbúa.
+                    9. Fyrir hverja rás í hljóðvarpssendi.
+
+              a. Gjaldsvæði 2, sendiafl 1 kW og meira     29.600 kr.
+                b. Gjaldsvæði 2, sendiafl 100999 W     22.200 kr.
+              c. Gjaldsvæði 2, sendiafl minna en 100 W     14.800 kr.
+               d. Gjaldsvæði 3, sendiafl 1 kW og meira     7.400 kr.
+                 e. Gjaldsvæði 3, sendiafl 100999 W     5.600 kr.
+              f. Gjaldsvæði 3, sendiafl minna en 100 W     3.700 kr.
+       Ef sama rás er notuð í fleiri en einum sendi á sama gjaldsvæði ræður
+ samanlagt sendiafl. Ekki skal taka gjald fyrir starfrækslu hljóðvarpssenda með
+            afl minna en 2W sem þjóna svæðum með færri en 100 íbúa.
+      Gjaldsvæði sem tilgreind eru í 1. mgr. skulu afmörkuð sem hér segir:
+                           a. Gjaldsvæði 1: Allt landið.
+           b. Gjaldsvæði 2: Suðvesturland frá Suðurnesjum til Akraness.
+                c. Gjaldsvæði 3: Einstök svæði utan gjaldsvæðis 2.
+Gjalddagi gjalda samkvæmt þessari grein er 1. mars ár hvert fyrir notkun tíðna á
+því sama ári. Handhafi heimildar til tíðninotkunar á gjalddaga er ábyrgur fyrir
+                                  greiðslunni.
+     Miða skal greiðslu árlegra tíðnigjalda við þann dag þegar heimild til
+ tíðninotkunar tekur gildi, óháð því hvenær viðkomandi tíðni er tekin í notkun.
+  Ef heimild til tíðninotkunar er gefin út eftir 1. mars ber að greiða árlegt
+ tíðnigjald við útgáfu heimildarinnar og skal þá greiða í hlutfalli við það sem
+ eftir er af árinu og telst útgáfumánuður heimildarinnar með sem heill mánuður.
+ Fyrir heimild sem gildir skemur en sex mánuði skal taka hálft árlegt gjald og
+fyrir heimild til að nota tíðnir til tilrauna greiðast 50.000 kr. Gjöld samkvæmt
+                þessari málsgrein greiðast við útgáfu heimildar.
+     Allar tekjur samkvæmt þessari grein skulu renna óskiptar til Póst- og
+  fjarskiptastofnunar sem annast innheimtu gjalda samkvæmt þessari grein.]^1)
+                            ^1)[10]L. 172/2006, 3. gr.
                                 15. gr. Skýrsla.
    Póst- og fjarskiptastofnun skal árlega birta skýrslu um starfsemi sína. Í
  skýrslunni skal m.a. birtur listi yfir fjarskiptafyrirtæki og póstrekendur og
@@ -310,7 +392,7 @@ fyrir eftirfarandi þætti: skráningu fyrirtækja, útgáfu leyfisbréfa og sk�
                              fjarskiptamarkaðinum.
                               16. gr. Reglugerðir.
   Samgönguráðherra setur í reglugerð^1) nánari fyrirmæli um framkvæmd laganna.
-                                ^1)[7]Rg. 832/2000.
+                               ^1)[11]Rg. 832/2000.
                               17. gr. Gildistaka.
                      Lög þessi öðlast gildi 25. júlí 2003.
 
@@ -320,7 +402,11 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003069
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=600
    3. http://www.althingi.is/altext/128/s/0961.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/265-2001
-   5. file://1989090.html#g1
-   6. file://1991088.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/832-2000
+   4. file:///altext/stjt/2006.172.html
+   5. file://ekkitil/ekkitil.html?REGL/2001265
+   6. file://1989090.html#g1
+   7. file:///altext/stjt/2006.172.html
+   8. file://1991088.html
+   9. file:///altext/stjt/2006.172.html
+  10. file:///altext/stjt/2006.172.html
+  11. file://ekkitil/ekkitil.html?REGL/2000832

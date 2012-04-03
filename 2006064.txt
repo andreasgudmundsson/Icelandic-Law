@@ -432,5 +432,5 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=651
    3. http://www.althingi.is/altext/132/s/958.html
    4. file://1994060.html#g23
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/626-2006
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/550-2006
+   5. file://ekkitil/ekkitil.html?REGL/2006626
+   6. file://ekkitil/ekkitil.html?REGL/2006550

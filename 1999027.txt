@@ -86,9 +86,9 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999027
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=123&mnr=199
    3. http://www.althingi.is/altext/123/s/0217.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/812-1999
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/033-2001
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/812-1999
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/033-2001
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/812-1999
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/033-2001
+   4. file://ekkitil/ekkitil.html?REGL/1999812
+   5. file://ekkitil/ekkitil.html?REGL/2001033
+   6. file://ekkitil/ekkitil.html?REGL/1999812
+   7. file://ekkitil/ekkitil.html?REGL/2001033
+   8. file://ekkitil/ekkitil.html?REGL/1999812
+   9. file://ekkitil/ekkitil.html?REGL/2001033

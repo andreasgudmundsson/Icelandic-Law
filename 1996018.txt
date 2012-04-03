@@ -357,15 +357,15 @@ References
    4. file://1999044.html
    5. file:///altext/stjt/2002.164.html
    6. file:///altext/stjt/2002.164.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/493-1997
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/068-1998
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/785-1999
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/849-2000
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/786-1999
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/850-2000
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/275-2002
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/276-2002
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/828-2003
+   7. file://ekkitil/ekkitil.html?REGL/1997493
+   8. file://ekkitil/ekkitil.html?REGL/1998068
+   9. file://ekkitil/ekkitil.html?REGL/1999785
+  10. file://ekkitil/ekkitil.html?REGL/2000849
+  11. file://ekkitil/ekkitil.html?REGL/1999786
+  12. file://ekkitil/ekkitil.html?REGL/2000850
+  13. file://ekkitil/ekkitil.html?REGL/2002275
+  14. file://ekkitil/ekkitil.html?REGL/2002276
+  15. file://ekkitil/ekkitil.html?REGL/2003828
   16. file:///altext/stjt/2002.164.html
   17. file:///altext/stjt/2002.164.html
   18. file:///altext/stjt/2002.164.html

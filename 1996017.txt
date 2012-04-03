@@ -2,13 +2,14 @@
 
    --------------------------------------------------------------------------
 
-                            Lög um gatnagerðargjald
+                           Lög um gatnagerðargjald^1)
 
                               1996 nr. 17 21. mars
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+            ^1)Falla úr gildi 1. júlí 2007 skv. [2]l. 153/2006, 13. gr.
+              [3]Ferill málsins á Alþingi.   [4]Frumvarp til laga.
 
                            Tóku gildi 1. janúar 1997.
  1. gr. Sveitarstjórn er heimilt að innheimta gatnagerðargjald af öllum lóðum í
@@ -34,7 +35,7 @@ Heimilt er að innheimta gatnagerðargjald ef reist er nýtt hús á áður bygg
  Gatnagerðargjald, sem miðað er við stærð byggingar, getur af hverjum rúmmetra
 eða fermetra numið allt að 15% af heildarbyggingarkostnaði samsvarandi einingar
   í vísitöluhúsi fjölbýlis eins og hann er hverju sinni samkvæmt útreikningum
- Hagstofu Íslands á grundvelli [4]laga nr. 42/1987. Fjárhæð gjaldsins má ákveða
+ Hagstofu Íslands á grundvelli [5]laga nr. 42/1987. Fjárhæð gjaldsins má ákveða
 með tilliti til leyfilegrar stærðar byggingar samkvæmt því skipulagi sem gildir
 fyrir viðkomandi lóð. Gatnagerðargjald, sem miðað er við stærð lóðar, skal ekki
 vera hærra en ef það væri miðað við stærð byggingar samkvæmt gildandi aðal- eða
@@ -55,12 +56,12 @@ kveðið er nánar á um álagningu gjaldsins, innheimtu þess og hvað er innif
  gjaldinu samkvæmt lögum þessum og reglugerð um gatnagerðargjald. Sveitarstjórn
 skal auglýsa gjaldskrána og efnislegar breytingar á henni á þann hátt sem venja
               er að birta opinberar auglýsingar í sveitarfélaginu.
-                                ^1)[5]Rg. 543/1996.
+                                ^1)[6]Rg. 543/1996.
                  7. gr. Lög þessi öðlast gildi 1. janúar 1997.
                             Ákvæði til bráðabirgða.
-   1. [6]Lög um gatnagerðargjöld, nr. 51/1974, sbr. [7]lög nr. 31/1975, gilda um
-innheimtu og álagningu gatnagerðargjalda vegna framkvæmda á grundvelli [8]3. og
- [9]4. gr. laga nr. 51/1974 sem lokið er við innan tíu ára frá gildistöku laga
+   1. [7]Lög um gatnagerðargjöld, nr. 51/1974, sbr. [8]lög nr. 31/1975, gilda um
+innheimtu og álagningu gatnagerðargjalda vegna framkvæmda á grundvelli [9]3. og
+ [10]4. gr. laga nr. 51/1974 sem lokið er við innan tíu ára frá gildistöku laga
   þessara. Ákvæði eldri laga um álagningu gjalda vegna slíkra framkvæmda gilda
 einungis um lóðir sem úthlutað hefur verið eða veitt hefur verið byggingarleyfi
                         á fyrir gildistöku laga þessara.
@@ -74,11 +75,12 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996017
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=120&mnr=106
-   3. http://www.althingi.is/altext/120/s/0111.html
-   4. file://1987042.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/543-1996
-   6. file://1974051.html
-   7. file:///altext/stjtnr.html#1975031
-   8. file:///altext/stjtnr.html#1974051?g3
-   9. file://1974051.html
+   2. file://2006153.html#g13
+   3. http://www.althingi.is/dba-bin/ferill.pl?ltg=120&mnr=106
+   4. http://www.althingi.is/altext/120/s/0111.html
+   5. file://1987042.html
+   6. file://ekkitil/ekkitil.html?REGL/1996543
+   7. file://1974051.html
+   8. file:///altext/stjtnr.html#1975031
+   9. file:///altext/stjtnr.html#1974051?g3
+  10. file://1974051.html

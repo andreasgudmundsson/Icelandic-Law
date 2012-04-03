@@ -19,7 +19,7 @@
                                   leiðarljósi.
   2. gr. Samgönguráðherra fer með yfirstjórn mála sem lög þessi taka til nema
                           annað sé ákveðið í lögum.^1)
-                                ^1)Augl. A 90/2005.
+                              ^1)[4]Augl. A 90/2005.
 3. gr. Ferðamálastofa fer með framkvæmd ferðamála samkvæmt lögum þessum og eins
                        og henni er falið með öðrum lögum.
    Samgönguráðherra skipar ferðamálastjóra til fimm ára í senn og veitir hann
@@ -77,7 +77,7 @@ hvort sem er að eigin frumkvæði eða eftir beiðni viðskiptavinar, innan lan
  þjónustu sem ferðaskipuleggjandi gerir, hvort sem hún er veitt í formi alferða
                                    eða ekki.
    Hugtakið ferðaskrifstofa nær bæði til ferðaheildsala og ferðasmásala samkvæmt
-                       [4]lögum nr. 80/1994, um alferðir.
+                       [5]lögum nr. 80/1994, um alferðir.
           3. Bókunarþjónusta merkir í lögum þessum starfræksla hvers kyns
 bókunarþjónustu til almennings, fyrir ferðaskipuleggjendur og ferðaskrifstofur,
   hvort sem er innan lands eða erlendis, þar með talin rafræn bókunarþjónusta.
@@ -113,7 +113,7 @@ bókunarþjónustu og upplýsingamiðstöðva, hvort sem starfsemin er innt af h
 Starfsemi ferðaskipuleggjanda og ferðaskrifstofu skal rekin á fastri starfsstöð
  sem opin skal almenningi á tilgreindum tíma. Heimilt er þó að víkja frá þessu
    skilyrði ef þjónusta er einungis rekin á rafrænan hátt og skal leyfishafi
-   uppfylla skilyrði [5]6. gr. laga nr. 30/2002, um rafræn viðskipti og aðra
+   uppfylla skilyrði [6]6. gr. laga nr. 30/2002, um rafræn viðskipti og aðra
             rafræna þjónustu, um það sem koma skal fram á heimasíðu.
      Heimilt er að reka útibú frá ferðaskipuleggjanda eða ferðaskrifstofu á
 grundvelli leyfisins og skal forsvarsmaður útibús einnig fullnægja skilyrðum 9.
@@ -236,7 +236,7 @@ Ferðamálastofu er heimilt að krefjast hærri tryggingar í þeim tilfellum þ
     sérstaklega áhættusaman rekstur er að ræða eða að öðru leyti er ljóst að
      trygging samkvæmt lögum þessum mun ekki nægja komi til gjaldþrots eða
                        rekstrarstöðvunar ferðaskrifstofu.
-                               ^1)[6]Rg. 1100/2005.
+                               ^1)[7]Rg. 1100/2005.
  18. gr. Til að unnt sé að meta upphæð tryggingar skal umsækjandi um leyfi til
   reksturs ferðaskrifstofu leggja fram með umsókn ítarlega áætlun um rekstur,
 greiðslustreymi og efnahag fyrir yfirstandandi og næsta ár. Áætluninni skal vera
@@ -306,11 +306,11 @@ Niðurfelling leyfis ferðaskrifstofu skv. 2. og 3. mgr. 21. gr. jafngildir þv�
  23. gr. Ráðherra er heimilt að setja reglugerð um skipulag ferðamála samkvæmt
                                  lögum þessum.
   24. gr. Öll þjónusta ferðaskrifstofu sem veitt er á rafrænan hátt skal fara
-   eftir [7]lögum nr. 30/2002, um rafræn viðskipti og aðra rafræna þjónustu.
+   eftir [8]lögum nr. 30/2002, um rafræn viðskipti og aðra rafræna þjónustu.
     25. gr. Stjórnsýsluákvörðunum Ferðamálastofu, svo sem um synjun á útgáfu
 ferðaskipuleggjanda- eða ferðaskrifstofuleyfis, ákvörðun um brottfall leyfis eða
  ákvörðun um til hvaða flokks þjónusta heyrir samkvæmt lögum þessum, má skjóta
-til ráðuneytisins. Um málsmeðferð fer samkvæmt [8]stjórnsýslulögum, nr. 37/1993.
+til ráðuneytisins. Um málsmeðferð fer samkvæmt [9]stjórnsýslulögum, nr. 37/1993.
  26. gr. Leyfis- og skráningarskyld starfsemi samkvæmt lögum þessum sem stunduð
  er án tilskilins leyfis eða skráningar varðar sektum nema þyngri refsing liggi
                            við samkvæmt öðrum lögum.
@@ -350,8 +350,9 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2005073
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=735
    3. http://www.althingi.is/altext/131/s/1097.html
-   4. file://1994080.html
-   5. file://2002030.html#g6
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1100-2005
-   7. file://2002030.html
-   8. file://1993037.html
+   4. file://ekkitil/ekkitil.html?AUGL/A/2005090
+   5. file://1994080.html
+   6. file://2002030.html#g6
+   7. file://ekkitil/ekkitil.html?REGL/20051100
+   8. file://2002030.html
+   9. file://1993037.html

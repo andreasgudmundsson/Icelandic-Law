@@ -90,11 +90,11 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998064
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=447
    3. http://www.althingi.is/altext/122/s/0774.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/188-1999
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/267-1999
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/388-2001
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/204-1964
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-1986
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/204-1964
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-1986
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/609-1989
+   4. file://ekkitil/ekkitil.html?REGL/1999188
+   5. file://ekkitil/ekkitil.html?REGL/1999267
+   6. file://ekkitil/ekkitil.html?REGL/2001388
+   7. file://ekkitil/ekkitil.html?REGL/1964204
+   8. file://ekkitil/ekkitil.html?REGL/1986395
+   9. file://ekkitil/ekkitil.html?REGL/1964204
+  10. file://ekkitil/ekkitil.html?REGL/1986395
+  11. file://ekkitil/ekkitil.html?REGL/1989609

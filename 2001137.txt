@@ -136,5 +136,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001137
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=227
    3. http://www.althingi.is/altext/127/s/0253.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/229-2003
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1066-2004
+   4. file://ekkitil/ekkitil.html?REGL/2003229
+   5. file://ekkitil/ekkitil.html?REGL/20041066

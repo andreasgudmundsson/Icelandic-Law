@@ -165,6 +165,6 @@ References
   12. file://2006023.html#g18
   13. file://1996050.html#g25
   14. file:///altext/stjt/1988.108.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/283-1994
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/005-1916
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/283-1994
+  15. file://ekkitil/ekkitil.html?REGL/1994283
+  16. file://ekkitil/ekkitil.html?REGL/1916005
+  17. file://ekkitil/ekkitil.html?REGL/1994283

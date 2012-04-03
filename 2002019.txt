@@ -662,16 +662,16 @@ References
    3. http://www.althingi.is/altext/127/s/0169.html
    4. file:///altext/stjt/2002.136.html
    5. file:///altext/stjt/2004.129.html
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/364-2003
+   6. file://ekkitil/ekkitil.html?REGL/2003364
    7. file:///altext/stjt/2002.136.html
    8. file:///altext/stjt/2002.136.html
-   9. http://stjornartidindi.is/servlet/stjrtid/B/2003/504.pdf
+   9. file://ekkitil/ekkitil.html?REGL/2003504
   10. file:///altext/stjt/2002.136.html
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/313-2005
-  12. http://stjornartidindi.is/servlet/stjrtid/B/2003/504.pdf
+  11. file://ekkitil/ekkitil.html?REGL/2005313
+  12. file://ekkitil/ekkitil.html?REGL/2003504
   13. file://2003090.html
   14. file:///altext/stjt/2004.129.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/364-2003
+  15. file://ekkitil/ekkitil.html?REGL/2003364
   16. file:///altext/stjt/2002.136.html
   17. file:///altext/stjt/2002.136.html
   18. file:///altext/stjt/2002.136.html

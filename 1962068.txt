@@ -44,9 +44,9 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1962068
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=82&mnr=164
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/320-1974
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/095-1962
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/100-1965
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/333-1979
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/129-1981
+   3. file://ekkitil/ekkitil.html?REGL/1974320
+   4. file://ekkitil/ekkitil.html?REGL/1962095
+   5. file://ekkitil/ekkitil.html?REGL/1965100
+   6. file://ekkitil/ekkitil.html?REGL/1979333
+   7. file://ekkitil/ekkitil.html?REGL/1981129
    8. file://1993117.html

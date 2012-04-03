@@ -95,10 +95,10 @@ References
    5. file:///altext/stjt/1996.073.html
    6. file:///altext/stjt/1996.140.html
    7. file:///altext/stjt/2002.048.html
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/405-1986
+   8. file://ekkitil/ekkitil.html?REGL/1986405
    9. file:///altext/stjt/1996.073.html
   10. file:///altext/stjt/2002.048.html
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/856-2003
+  11. file://ekkitil/ekkitil.html?REGL/2003856
   12. file://1966030.html
   13. file:///altext/stjt/2002.048.html
   14. file://1997096.html

@@ -264,12 +264,12 @@ References
    3. http://www.althingi.is/altext/116/s/0005.html
    4. file:///altext/stjt/1998.082.html
    5. file:///altext/stjt/1999.128.html
-   6. http://stjornartidindi.is/servlet/stjrtid/B/2002/387.pdf
-   7. http://stjornartidindi.is/servlet/stjrtid/B/2002/913.pdf
-   8. http://stjornartidindi.is/servlet/stjrtid/B/2004/68.pdf
+   6. file:///altext/stjtnr.html#2002387
+   7. file:///altext/stjtnr.html#2002913
+   8. file://ekkitil/ekkitil.html?REGL/2004068
    9. file:///altext/stjt/1999.128.html
   10. file:///altext/stjt/1999.128.html
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/056-2000
+  11. file://ekkitil/ekkitil.html?REGL/2000056
   12. file:///altext/stjt/1999.128.html
   13. file:///altext/stjt/1999.128.html
   14. file:///altext/stjt/1999.128.html
@@ -277,8 +277,8 @@ References
   16. file:///altext/stjt/1999.128.html
   17. file:///altext/stjt/1998.082.html
   18. file:///altext/stjt/1999.128.html
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/679-1994
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/013-1995
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/056-2000
+  19. file://ekkitil/ekkitil.html?REGL/1994679
+  20. file://ekkitil/ekkitil.html?REGL/1995013
+  21. file://ekkitil/ekkitil.html?REGL/2000056
   22. file:///altext/stjt/1999.128.html
   23. file:///altext/stjt/1999.128.html

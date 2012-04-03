@@ -436,7 +436,7 @@ hann eða rift þeim og haldið uppboð á ný á eigninni eða tekið öðru bo
  Auglýsing um almenna uppboðsskilmála skal birt í Stjórnartíðindum.^1) Teljast
      þeir alltaf gilda ef annað er ekki ákveðið sérstaklega vegna uppboðs á
                                 tiltekinni eign.
-                                 ^1)Augl. 41/1992.
+                               ^1)[6]Augl. 41/1992.
 29. gr. Eftir kröfu aðila að nauðungarsölunni getur sýslumaður ákveðið með bókun
 í gerðabók að víkja í tilteknum atriðum frá almennum uppboðsskilmálum. Krafa um
  slíka breytingu skal að jafnaði koma fram við fyrirtöku skv. 21. gr. Breytingu
@@ -561,7 +561,7 @@ boðum án þess að þau komi fram lætur hann hamar falla til marks um að upp
  Ef nauðungarsölunnar var krafist á grundvelli 6. gr. og ekki er boðið meira í
     eignina en svo að enginn gerðarbeiðenda geti fengið neitt í sinn hlut af
         söluverðinu skal telja beiðnir um nauðungarsöluna fallnar niður.
-                             ^1)[6]L. 90/1996, 43. gr.
+                             ^1)[7]L. 90/1996, 43. gr.
 37. gr. Nú hefur verið leitað boða í eignina skv. 4. mgr. 36. gr. og sýslumaður
     telur þau sem koma til álita svo lág að fari fjarri líklegu markaðsverði
  eignarinnar þótt tekið yrði tillit til ákvæða 57. gr. Ef sýslumaður telur mega
@@ -944,7 +944,7 @@ tilmælum sýslumanns um að framfylgja ákvörðun hans í þessum efnum. Bóka
  Gerðarbeiðandi ber áhættu af eigninni frá því hann fær vörslur hennar þar til
   henni er ráðstafað. Gerðarbeiðandi skal sjá til þess að eigninni verði komið
    tímanlega á þann stað sem sýslumaður hefur ákveðið til að ráðstafa henni.
-                             ^1)[7]L. 90/1996, 43. gr.
+                             ^1)[8]L. 90/1996, 43. gr.
 
                    XI. kafli. Nauðungarsala á lausafjármunum.
  61. gr. Nauðungarsala á lausafjármunum fer fram á uppboði nema annar háttur sé
@@ -1017,7 +1017,7 @@ samþykki gerðarbeiðanda, að gjaldfrestur verði veittur við sölu tiltekinn
    Sýslumaður getur ákveðið að víkja frá almennum uppboðsskilmálum við sölu á
  tilteknum munum eða uppboðið í heild sinni eftir ákvæðum 29. gr., en að öðrum
                     kosti teljast almennir skilmálar gilda.
-                                 ^1)Augl. 42/1992.
+                               ^1)[9]Augl. 42/1992.
    66. gr. Ef gerðarbeiðendur æskja þess og gerðarþoli mótmælir því ekki skal
  frestað að selja munina á uppboði. Verður þá ekki af fyrirtöku á uppboði nema
    tilefni sé til hennar vegna ákvæða 62. eða 63. gr. Það sama á við ef ekki
@@ -1343,6 +1343,8 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=115&mnr=62
    3. http://www.althingi.is/altext/115/s/0063.html
    4. file://1996090.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/227-1992
-   6. file://1996090.html#g43
+   5. file://ekkitil/ekkitil.html?REGL/1992227
+   6. file://ekkitil/ekkitil.html?AUGL/1992041
    7. file://1996090.html#g43
+   8. file://1996090.html#g43
+   9. file://ekkitil/ekkitil.html?AUGL/1992042

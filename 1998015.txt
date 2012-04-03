@@ -625,11 +625,11 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=176
    3. http://www.althingi.is/altext/122/s/0176.html
    4. file://2006047.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-1998
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/693-1999
+   5. file://ekkitil/ekkitil.html?REGL/1998395
+   6. file://ekkitil/ekkitil.html?REGL/1999693
    7. file://2006047.html#g13
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-1998
+   8. file://ekkitil/ekkitil.html?REGL/1998395
    9. file://2006047.html#g13
   10. file://2006047.html#g13
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/463-2000
+  11. file://ekkitil/ekkitil.html?REGL/2000463
   12. file://1989092.html#g5

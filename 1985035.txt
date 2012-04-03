@@ -843,18 +843,18 @@ References
    7. file:///altext/stjt/1996.007.html
    8. file:///altext/stjt/1998.082.html
    9. file:///altext/stjt/2003.059.html
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/162-1987
+  10. file://ekkitil/ekkitil.html?REGL/1987162
   11. file:///altext/stjt/2003.031.html
   12. file:///altext/stjt/2003.059.html
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/163-1987
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/163-1987
+  13. file://ekkitil/ekkitil.html?REGL/1987163
+  14. file://ekkitil/ekkitil.html?REGL/1987163
   15. file://1993050.html#g29
   16. file:///altext/stjt/1996.007.html
   17. file:///altext/stjt/2003.031.html
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/975-2004
+  18. file://ekkitil/ekkitil.html?REGL/2004975
   19. file:///altext/stjt/2003.031.html
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/224-1999
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/384-1991
+  20. file://ekkitil/ekkitil.html?REGL/1999224
+  21. file://ekkitil/ekkitil.html?REGL/1991384
   22. file:///altext/stjt/1991.092.html
   23. file://1940019.html#g4
   24. file:///altext/stjt/1990.053.html

@@ -68,10 +68,10 @@ References
    9. file://1989087.html
   10. file://1989087.html
   11. file://1989087.html
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/219-1973
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/301-1976
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/439-1985
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/440-1985
+  12. file://ekkitil/ekkitil.html?REGL/1973219
+  13. file://ekkitil/ekkitil.html?REGL/1976301
+  14. file://ekkitil/ekkitil.html?REGL/1985439
+  15. file://ekkitil/ekkitil.html?REGL/1985440
   16. file://1989087.html
   17. file://1989087.html
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/296-1990
+  18. file://ekkitil/ekkitil.html?REGL/1990296

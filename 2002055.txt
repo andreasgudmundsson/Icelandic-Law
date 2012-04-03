@@ -77,5 +77,5 @@ References
   11. file://1998070.html#g4
   12. file://1998070.html#g15
   13. file:///altext/stjt/2005.076.html
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/449-2002
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/677-2002
+  14. file://ekkitil/ekkitil.html?REGL/2002449
+  15. file://ekkitil/ekkitil.html?REGL/2002677

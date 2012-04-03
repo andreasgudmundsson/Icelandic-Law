@@ -11,12 +11,12 @@
 
                         [2]Ferill málsins á Alþingi.
 
- Tóku gildi 6. júní 1978. Breytt með [3]l. 10/1983 (tóku gildi 25. mars 1983).
+Tóku gildi 6. júní 1978. Breytt með [3]l. 10/1983 (tóku gildi 25. mars 1983) og
+                   [4]l. 162/2006 (tóku gildi 1. jan. 2007).
 
-  1. gr. Íslenskum stjórnmálaflokkum er óheimilt að taka við gjafafé eða öðrum
- fjárhagslegum stuðningi til starfsemi sinnar hérlendis frá erlendum aðilum. Þá
-  er erlendum sendiráðum á Íslandi óheimilt að kosta eða styrkja blaðaútgáfu í
-                                    landinu.
+  1. gr. ^1) Þá er erlendum sendiráðum á Íslandi óheimilt að kosta eða styrkja
+                             blaðaútgáfu í landinu.
+                            ^1)[5]L. 162/2006, 13. gr.
  2. gr. Lög þessi taka til stjórnmálaflokka og félagasamtaka þeirra, svo og til
    hvers konar stofnana, sem starfa á þeirra vegum, beint eða óbeint, þ. á m.
  blaða, og einnig til blaða og tímarita, sem út eru gefin á vegum einstaklinga
@@ -30,7 +30,7 @@
                  5. gr. Brot gegn lögum þessum varða sektum ^1)
   Fjármagn, sem af hendi er látið í trássi við lög þessi, skal gert upptækt og
                              rennur til ríkissjóðs.
-                             ^1)[4]L. 10/1983, 74. gr.
+                             ^1)[6]L. 10/1983, 74. gr.
 
 References
 
@@ -38,4 +38,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1978062
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=99&mnr=181
    3. file:///altext/stjtnr.html#1983010
-   4. file:///altext/stjtnr.html#1983010?g74
+   4. file://2006162.html
+   5. file://2006162.html#g13
+   6. file:///altext/stjtnr.html#1983010?g74

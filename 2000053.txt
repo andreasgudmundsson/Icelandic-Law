@@ -536,13 +536,13 @@ References
    6. file:///altext/stjt/2004.107.html
    7. file://1993002.html
    8. file:///altext/stjt/2004.107.html
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/911-2000
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/050-2002
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/050-2002
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/050-2002
+   9. file://ekkitil/ekkitil.html?REGL/2000911
+  10. file://ekkitil/ekkitil.html?REGL/2002050
+  11. file://ekkitil/ekkitil.html?REGL/2002050
+  12. file://ekkitil/ekkitil.html?REGL/2002050
   13. file://1951110.html
   14. file://1954106.html
   15. file://1985068.html
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/069-1986
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/166-1991
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/041-1991
+  16. file://ekkitil/ekkitil.html?REGL/1986069
+  17. file://ekkitil/ekkitil.html?REGL/1991166
+  18. file://ekkitil/ekkitil.html?REGL/1991041

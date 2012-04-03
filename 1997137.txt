@@ -284,18 +284,18 @@ References
    6. file:///altext/stjt/2004.042.html
    7. file:///altext/stjt/2004.133.html
    8. file://2006063.html
-   9. http://stjornartidindi.is/servlet/stjrtid/B/2001/843.pdf
+   9. file://ekkitil/ekkitil.html?REGL/2001843
   10. file:///altext/stjt/1999.042.html
   11. file:///altext/stjt/2004.042.html
-  12. http://stjornartidindi.is/servlet/stjrtid/B/2001/843.pdf
+  12. file://ekkitil/ekkitil.html?REGL/2001843
   13. file:///altext/stjt/2004.133.html
   14. file:///altext/stjt/1999.042.html
-  15. http://stjornartidindi.is/servlet/stjrtid/B/2001/843.pdf
+  15. file://ekkitil/ekkitil.html?REGL/2001843
   16. file://2006063.html#g28
-  17. http://stjornartidindi.is/servlet/stjrtid/B/2001/843.pdf
-  18. http://stjornartidindi.is/servlet/stjrtid/B/2003/70.pdf
+  17. file://ekkitil/ekkitil.html?REGL/2001843
+  18. file://ekkitil/ekkitil.html?REGL/2003070
   19. file:///altext/stjt/1999.042.html
-  20. http://stjornartidindi.is/servlet/stjrtid/B/2001/843.pdf
+  20. file://ekkitil/ekkitil.html?REGL/2001843
   21. file:///altext/stjt/1999.042.html
   22. file:///altext/stjt/1999.042.html
   23. file:///altext/stjt/1999.042.html

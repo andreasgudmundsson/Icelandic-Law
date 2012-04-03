@@ -232,5 +232,5 @@ References
   14. file:///altext/stjt/2003.057.html
   15. file:///altext/stjt/2003.057.html
   16. file://1993002.html
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/133-2001
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/672-2006
+  17. file://ekkitil/ekkitil.html?REGL/2001133
+  18. file://ekkitil/ekkitil.html?REGL/2006672

@@ -207,8 +207,8 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=167
    3. http://www.althingi.is/altext/127/s/0168.html
    4. file://1993037.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/397-2003
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/259-2005
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/752-2005
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-2006
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2006
+   5. file://ekkitil/ekkitil.html?REGL/2003397
+   6. file://ekkitil/ekkitil.html?REGL/2005259
+   7. file://ekkitil/ekkitil.html?REGL/2005752
+   8. file://ekkitil/ekkitil.html?REGL/2006112
+   9. file://ekkitil/ekkitil.html?REGL/2006157

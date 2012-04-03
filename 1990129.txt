@@ -57,6 +57,6 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=113&mnr=99
    3. http://www.althingi.is/altext/113/s/0102.html
    4. file:///altext/stjt/1997.083.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1058-2003
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/884-2004
+   5. file://ekkitil/ekkitil.html?REGL/20031058
+   6. file://ekkitil/ekkitil.html?REGL/2004884
    7. file:///altext/stjt/1997.083.html

@@ -261,7 +261,7 @@ References
    7. file:///altext/stjt/2002.168.html
    8. file:///altext/stjt/2002.168.html
    9. file:///altext/stjt/2001.052.html
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/118-2003
+  10. file://ekkitil/ekkitil.html?REGL/2003118
   11. file:///altext/stjt/2001.052.html
   12. file:///altext/stjt/2001.052.html
   13. file:///altext/stjt/2002.168.html
@@ -269,15 +269,15 @@ References
   15. file://2003090.html#g72
   16. file://2003090.html#g75
   17. file:///altext/stjt/2004.129.html
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/118-2003
+  18. file://ekkitil/ekkitil.html?REGL/2003118
   19. file://1991040.html
   20. file://1991040.html
   21. file:///altext/stjt/2002.168.html
   22. file:///altext/stjt/2001.052.html
-  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/118-2003
+  23. file://ekkitil/ekkitil.html?REGL/2003118
   24. file://1991040.html
   25. file://2003090.html
   26. file://1987045.html
   27. file:///altext/stjt/2004.129.html
   28. file://1991040.html
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/118-2003
+  29. file://ekkitil/ekkitil.html?REGL/2003118

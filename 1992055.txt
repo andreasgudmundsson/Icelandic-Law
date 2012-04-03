@@ -241,7 +241,7 @@ References
   22. file:///altext/stjt/1995.035.html
   23. file:///altext/stjt/2004.129.html
   24. file:///altext/stjt/1995.010.html
-  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/083-1993
+  25. file://ekkitil/ekkitil.html?REGL/1993083
   26. file:///altext/stjt/1995.035.html
   27. file://1985028.html
   28. file:///altext/stjt/1995.036.html

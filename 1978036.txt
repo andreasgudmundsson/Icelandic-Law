@@ -373,7 +373,7 @@ References
   18. file://1991090.html#g91
   19. file:///altext/stjtnr.html#1980082?g3
   20. file://1991020.html#g136
-  21. http://stjornartidindi.is/servlet/stjrtid/B/2004/622.pdf
+  21. file://ekkitil/ekkitil.html?REGL/2004622
   22. file:///altext/stjtnr.html#1980082?g4
   23. file:///altext/stjt/1989.131.html
   24. file:///altext/stjt/2004.129.html
@@ -383,8 +383,8 @@ References
   28. file:///altext/stjtnr.html#1982005?g15
   29. file:///altext/stjtnr.html#1980082?g8
   30. file:///altext/stjtnr.html#1980082?g9
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/219-1978
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/412-1984
+  31. file://ekkitil/ekkitil.html?REGL/1978219
+  32. file://ekkitil/ekkitil.html?REGL/1984412
   33. file:///altext/stjtnr.html#1980082?g10
   34. file://1991020.html#g136
   35. file:///altext/stjtnr.html#1980082?g11

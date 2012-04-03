@@ -472,8 +472,8 @@ References
   27. file:///altext/stjt/1997.034.html
   28. file:///altext/stjt/1997.034.html
   29. file:///altext/stjt/1997.034.html
-  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/198-1992
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/907-2005
+  30. file://ekkitil/ekkitil.html?REGL/1992198
+  31. file://ekkitil/ekkitil.html?REGL/2005907
   32. file:///altext/stjt/1997.034.html
   33. file:///altext/stjt/1997.034.html
   34. file:///altext/stjt/1997.034.html

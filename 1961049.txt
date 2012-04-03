@@ -50,5 +50,5 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1961049
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=81&mnr=9
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/178-1962
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/184-1963
+   3. file://ekkitil/ekkitil.html?REGL/1962178
+   4. file://ekkitil/ekkitil.html?REGL/1963184

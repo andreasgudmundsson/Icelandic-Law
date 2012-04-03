@@ -508,14 +508,19 @@ Dæma má sviptingu réttinda skv. 68. gr. almennra hegningarlaga og upptöku ei
 tilskipunum sem af henni eru leiddar. Í reglugerð sem ráðherra setur skal kveðið
    nánar á um mælitæki og innleiðingu á viðaukum framantalinna tilskipana að
                          fenginni umsögn Neytendastofu.
-44. gr. Ráðherra er heimilt í reglugerð að setja nánari ákvæði um framkvæmd laga
-                                    þessara.
+ 44. gr. Ráðherra er heimilt í reglugerð^1) að setja nánari ákvæði um framkvæmd
+                                 laga þessara.
  Í reglugerð sem ráðherra setur skal innleiða nánari reglur um mælitækjaflokka
    sem taldir eru upp í tilskipun 2004/22/EB, um mælitæki, sbr. 13. gr. laga
  þessara. Taki ráðherra ákvörðun við setningu reglugerðar skv. 1. málsl. um að
   setja ekki reglur um alla mælitækjaflokka sem taldir eru upp í tilskipuninni
 skal ákvörðunin rökstudd og send til Eftirlitsstofnunar EFTA. Hið sama gildir um
           mælitæki sem falla undir gildissvið tilskipunar 71/316/EBE.
+     ^1)[8]Rg. 793/2002 (um löggildingu ósjálfvirkra voga), sbr. [9]958/2006.
+ [10]Rg. 954/2006 (um löggildingarskyldu mælitækja í notkun). [11]Rg. 955/2006
+(um löggildingartákn og merkingar eftirlitsskyldra mælitækja). [12]Rg. 956/2006
+       (um starfshætti þeirra sem annast löggildingar mælitækja í umboði
+                                Neytendastofu).
                      45. gr. Lög þessi öðlast þegar gildi.
 Ákvæði til bráðabirgða. Þrátt fyrir ákvæði 10. gr. er heimilt að setja á markað
   og taka í fyrstu notkun hér á landi mælitæki sem uppfyllir kröfur fyrir 30.
@@ -532,3 +537,8 @@ References
    5. file://2005062.html
    6. file:///altext/stjt/1995.134.html
    7. file://1995134.html
+   8. file://ekkitil/ekkitil.html?REGL/2002793
+   9. file://ekkitil/ekkitil.html?REGL/2006958
+  10. file://ekkitil/ekkitil.html?REGL/2006954
+  11. file://ekkitil/ekkitil.html?REGL/2006955
+  12. file://ekkitil/ekkitil.html?REGL/2006956

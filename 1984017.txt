@@ -65,8 +65,8 @@ References
    8. file:///altext/stjt/2002.076.html
    9. file:///altext/stjt/1993.116.html
   10. file:///altext/stjt/2002.076.html
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1043-2004
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/626-2005
+  11. file://ekkitil/ekkitil.html?REGL/20041043
+  12. file://ekkitil/ekkitil.html?REGL/2005626
   13. file:///altext/stjt/2004.011.html
   14. file:///altext/stjtnr.html#1969080
   15. file://1988053.html

@@ -76,5 +76,5 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1981043
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=103&mnr=292
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/086-1998
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/891-2005
+   3. file://ekkitil/ekkitil.html?REGL/1998086
+   4. file://ekkitil/ekkitil.html?REGL/2005891

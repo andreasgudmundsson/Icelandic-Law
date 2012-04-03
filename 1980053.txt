@@ -104,6 +104,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1980053
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=102&mnr=160
    3. file:///altext/stjtnr.html#1985057
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/323-1980
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/510-1980
+   4. file://ekkitil/ekkitil.html?REGL/1980323
+   5. file://ekkitil/ekkitil.html?REGL/1980510
    6. file:///altext/stjtnr.html#1985057?g1

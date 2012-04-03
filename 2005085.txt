@@ -87,8 +87,8 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=295
    3. http://www.althingi.is/altext/131/s/0322.html
    4. file://2006058.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/650-2006
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/650-2006
+   5. file://ekkitil/ekkitil.html?REGL/2006650
+   6. file://ekkitil/ekkitil.html?REGL/2006650
    7. file://2006058.html#g15
    8. file://1999044.html#g64
    9. file://1999044.html#g69

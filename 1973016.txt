@@ -52,11 +52,11 @@ References
    8. file:///altext/stjt/1997.021.html
    9. file:///altext/stjtnr.html#1987024?g1
   10. file:///altext/stjt/2004.129.html
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/148-2000
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2000
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/268-2001
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/837-2001
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/210-2003
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/311-2004
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/306-2006
+  11. file://ekkitil/ekkitil.html?REGL/2000148
+  12. file://ekkitil/ekkitil.html?REGL/2000238
+  13. file://ekkitil/ekkitil.html?REGL/2001268
+  14. file://ekkitil/ekkitil.html?REGL/2001837
+  15. file://ekkitil/ekkitil.html?REGL/2003210
+  16. file://ekkitil/ekkitil.html?REGL/2004311
+  17. file://ekkitil/ekkitil.html?REGL/2006306
   18. file:///altext/stjtnr.html#1987024?g2

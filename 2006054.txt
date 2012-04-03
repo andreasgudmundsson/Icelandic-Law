@@ -597,7 +597,7 @@ ríkisstjórnar, að breyta fjárhæð grunnatvinnuleysisbóta og hámarki tekju
   atvinnuleysisbóta til hækkunar ef verulegar breytingar verða á launaþróun og
  þjóðhagsforsendum frá afgreiðslu fjárlaga. Þegar áðurgreind skilyrði leiða til
    hækkunar á fjárhæðum skal félagsmálaráðherra breyta þeim með reglugerð.^1)
-                                ^1)[5]Rg. 548/2006.
+                      ^1)[5]Rg. 548/2006, sbr. [6]1103/2006.
        34. gr. Atvinnuleysisbætur vegna framfærsluskyldu gagnvart börnum.
 Sá sem telst tryggður skv. III. eða IV. kafla og hefur framfærsluskyldu gagnvart
  börnum yngri en 18 ára skal eiga rétt á 4% af óskertum grunnatvinnuleysisbótum
@@ -661,10 +661,10 @@ mið af nýja starfstímabilinu og þess hluta eldra ávinnslutímabils sem næg
 atvinnuleysisbótum sama einstaklings en þó aldrei hærri fjárhæð en sem nemur 25%
  af síðarnefndu atvinnuleysisbótunum í hverjum mánuði. Enn fremur er heimilt að
   skuldajafna ofgreiddum atvinnuleysisbótum á móti inneign hins tryggða vegna
-  ofgreiddra skatta, barnabóta og vaxtabóta samkvæmt [6]lögum nr. 90/2003, um
+  ofgreiddra skatta, barnabóta og vaxtabóta samkvæmt [7]lögum nr. 90/2003, um
 tekjuskatt. Fjármálaráðherra setur í reglugerð nánari reglur um skuldajöfnun og
                                   forgangsröð.
-Um innheimtu ofgreidds fjár úr Atvinnuleysistryggingasjóði fer skv. [7]111. gr.
+Um innheimtu ofgreidds fjár úr Atvinnuleysistryggingasjóði fer skv. [8]111. gr.
   laga nr. 90/2003, um tekjuskatt. Félagsmálaráðherra getur þó falið sérstökum
                       innheimtuaðila að annast innheimtu.
     Hafi hinn tryggði fengið lægri atvinnuleysisbætur en honum bar samkvæmt
@@ -672,7 +672,7 @@ Um innheimtu ofgreidds fjár úr Atvinnuleysistryggingasjóði fer skv. [7]111. 
  fjárhæð sem vangreidd var til hins tryggða ásamt vöxtum fyrir það tímabil sem
 féð var í vörslu Atvinnuleysistryggingasjóðs. Skulu vextir þessir vera jafnháir
   vöxtum sem Seðlabanki Íslands ákveður og birtir á hverjum tíma skv. 1. mgr.
-    [8]8. gr. laga nr. 38/2001, um vexti og verðtryggingu. Sama á við þegar
+    [9]8. gr. laga nr. 38/2001, um vexti og verðtryggingu. Sama á við þegar
 niðurstaða úrskurðarnefndar atvinnuleysistrygginga og vinnumarkaðsaðgerða leiðir
    til þess að hinn tryggði hafi átt rétt á atvinnuleysisbótum samkvæmt lögum
 þessum en hafði áður verið synjað um þær eða reiknaðar lægri atvinnuleysisbætur.
@@ -682,8 +682,8 @@ niðurstaða úrskurðarnefndar atvinnuleysistrygginga og vinnumarkaðsaðgerða
        Vinnumálastofnun er heimilt að greiða launamanni gjaldþrota félags
    atvinnuleysisbætur skv. 32. og 33. gr. þann tíma sem hann er án atvinnu á
  uppsagnarfresti meðan hann bíður eftir endanlegu uppgjöri á launakröfum sínum
-samkvæmt [9]lögum nr. 88/2003, um Ábyrgðasjóð launa, enda uppfylli hann skilyrði
-          laga þessara. Skilyrði er jafnframt að launamaður framselji
+    samkvæmt [10]lögum nr. 88/2003, um Ábyrgðasjóð launa, enda uppfylli hann
+      skilyrði laga þessara. Skilyrði er jafnframt að launamaður framselji
  Atvinnuleysistryggingasjóði þann hluta launakröfu sinnar á hendur Ábyrgðasjóði
  launa er nemur fjárhæð þeirra atvinnuleysisbóta sem hann fær greiddar á þessum
                                      tíma.
@@ -1041,7 +1041,7 @@ frá skráningu hjá svæðisvinnumiðlun að teknu tilliti til starfstímabila 
  atvinnulaus fyrir 1. júlí 2006 en hefur starfað samfellt í a.m.k. sex mánuði á
  innlendum vinnumarkaði áður en hann sækir aftur um atvinnuleysisbætur í fyrsta
    skiptið eftir þann tíma. Er þá ekki litið til fyrra bótatímabils hans skv.
-            [10]9. gr. laga nr. 12/1997, um atvinnuleysistryggingar.
+            [11]9. gr. laga nr. 12/1997, um atvinnuleysistryggingar.
             IV. Þrátt fyrir ákvæði 1. mgr. 37. gr. um 8% mótframlag
 Atvinnuleysistryggingasjóðs í lífeyrissjóð verður mótframlag sjóðsins 7% til 31.
                                  desember 2006.
@@ -1053,9 +1053,10 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=742
    3. http://www.althingi.is/altext/132/s/1078.html
    4. file://1980055.html#g1
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/548-2006
-   6. file://2003090.html
-   7. file://2003090.html#g111
-   8. file://2001038.html#g8
-   9. file://2003088.html
-  10. file://1997012.html
+   5. file://ekkitil/ekkitil.html?REGL/2006548
+   6. file://ekkitil/ekkitil.html?REGL/20061103
+   7. file://2003090.html
+   8. file://2003090.html#g111
+   9. file://2001038.html#g8
+  10. file://2003088.html
+  11. file://1997012.html

@@ -491,8 +491,8 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=338
    3. http://www.althingi.is/altext/128/s/0368.html
    4. file:///altext/stjt/2004.150.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/737-2003
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/738-2003
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/739-2003
+   5. file://ekkitil/ekkitil.html?REGL/2003737
+   6. file://ekkitil/ekkitil.html?REGL/2003738
+   7. file://ekkitil/ekkitil.html?REGL/2003739
    8. file://1997088.html#g30
    9. file:///altext/stjt/2004.150.html

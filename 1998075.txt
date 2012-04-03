@@ -401,11 +401,11 @@ References
    7. file:///altext/stjt/2005.040.html
    8. file://2003017.html#g12
    9. file:///altext/stjt/1999.008.html
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/828-2005
+  10. file://ekkitil/ekkitil.html?REGL/2005828
   11. file:///altext/stjt/2005.040.html
   12. file:///altext/stjt/2005.040.html
   13. file:///altext/stjt/2005.040.html
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/177-1999
+  14. file://ekkitil/ekkitil.html?REGL/1999177
   15. file:///altext/stjt/2005.040.html
   16. file:///altext/stjt/2004.129.html
   17. file:///altext/stjt/1999.008.html

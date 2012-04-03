@@ -22,6 +22,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1954106
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/284-1999
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/471-1999
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/828-2003
+   2. file://ekkitil/ekkitil.html?REGL/1999284
+   3. file://ekkitil/ekkitil.html?REGL/1999471
+   4. file://ekkitil/ekkitil.html?REGL/2003828

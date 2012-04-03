@@ -138,8 +138,8 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004097
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=564
    3. http://www.althingi.is/altext/130/s/0843.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1978
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/522-2000
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1978
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/522-2000
+   4. file://ekkitil/ekkitil.html?REGL/1978136
+   5. file://ekkitil/ekkitil.html?REGL/2000522
+   6. file://ekkitil/ekkitil.html?REGL/1978136
+   7. file://ekkitil/ekkitil.html?REGL/2000522
    8. file://1999044.html

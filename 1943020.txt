@@ -102,8 +102,8 @@ References
   15. file:///altext/stjt/1993.116.html
   16. file:///altext/stjt/1993.116.html
   17. file:///altext/stjt/1993.116.html
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/079-1953
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/115-1954
+  18. file://ekkitil/ekkitil.html?REGL/1953079
+  19. file://ekkitil/ekkitil.html?REGL/1954115
   20. file:///altext/stjt/1998.084.html
   21. file:///altext/stjt/1993.116.html
   22. file:///altext/stjtnr.html#1983010?g26

@@ -287,16 +287,16 @@ References
    6. file://2005062.html
    7. file:///altext/stjt/2000.179.html
    8. file:///altext/stjt/2000.179.html
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/377-1993
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1993
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2000
+   9. file://ekkitil/ekkitil.html?REGL/1993377
+  10. file://ekkitil/ekkitil.html?REGL/1993491
+  11. file://ekkitil/ekkitil.html?REGL/2000236
   12. file:///altext/stjt/2000.179.html
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/377-1993
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1993
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2000
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/377-1993
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/491-1993
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/236-2000
+  13. file://ekkitil/ekkitil.html?REGL/1993377
+  14. file://ekkitil/ekkitil.html?REGL/1993491
+  15. file://ekkitil/ekkitil.html?REGL/2000236
+  16. file://ekkitil/ekkitil.html?REGL/1993377
+  17. file://ekkitil/ekkitil.html?REGL/1993491
+  18. file://ekkitil/ekkitil.html?REGL/2000236
   19. file://2005062.html#g13
   20. file://2005062.html#g13
   21. file:///altext/stjt/2000.179.html

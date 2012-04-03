@@ -17,11 +17,11 @@ Markmið laga þessara er að stuðla að jöfnun kostnaðar við dreifingu rafo
                               2. gr. Stjórnsýsla.
   Orkustofnun fer með framkvæmd laga þessara undir yfirstjórn iðnaðarráðherra.
        Ráðherra setur í reglugerð^1) nánari ákvæði um framkvæmd laganna.
-                                ^1)[4]Rg. 773/2005.
+                       ^1)[4]Rg. 773/2005, sbr. [5]864/2006.
                3. gr. Skilyrði fyrir lækkun dreifingarkostnaðar.
    Greiða skal niður kostnað almennra notenda vegna dreifingar raforku á þeim
    svæðum þar sem Orkustofnun hefur heimilað sérstakar dreifbýlisgjaldskrár í
-        samræmi við ákvæði 5. mgr. [5]17. gr. raforkulaga, nr. 65/2003.
+        samræmi við ákvæði 5. mgr. [6]17. gr. raforkulaga, nr. 65/2003.
  Skilyrði niðurgreiðslu er að meðaldreifingarkostnaður notenda á orkueiningu sé
    umfram viðmiðunarmörk sem iðnaðarráðherra setur í reglugerð. Við ákvörðun
         viðmiðunarmarka skal taka mið af hæstu gjaldskrá dreifiveitu að
@@ -71,5 +71,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004098
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=747
    3. http://www.althingi.is/altext/130/s/1117.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/773-2005
-   5. file://2003065.html#g17
+   4. file://ekkitil/ekkitil.html?REGL/2005773
+   5. file://ekkitil/ekkitil.html?REGL/2006864
+   6. file://2003065.html#g17

@@ -364,14 +364,14 @@ References
    9. file://2002037.html
   10. file:///altext/stjt/2000.011.html
   11. file:///altext/stjt/2006.067.html
-  12. http://stjornartidindi.is/servlet/stjrtid/B/2001/704.pdf
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001
+  12. file://ekkitil/ekkitil.html?REGL/2001704
+  13. file://ekkitil/ekkitil.html?REGL/2001562
   14. file:///altext/stjt/2006.067.html
   15. file:///altext/stjt/2000.011.html
   16. file:///altext/stjt/2006.067.html
   17. file:///altext/stjt/2000.011.html
   18. file:///altext/stjt/2006.067.html
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/560-2001
+  19. file://ekkitil/ekkitil.html?REGL/2001560
   20. file:///altext/stjt/2006.067.html
   21. file:///altext/stjt/2000.011.html
   22. file:///altext/stjt/2006.067.html
@@ -391,8 +391,8 @@ References
   36. file:///altext/stjt/2000.011.html
   37. file:///altext/stjt/2006.067.html
   38. file:///altext/stjt/2000.011.html
-  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/560-2001
-  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/244-2004
+  39. file://ekkitil/ekkitil.html?REGL/2001560
+  40. file://ekkitil/ekkitil.html?REGL/2004244
   41. file:///altext/stjt/2000.011.html
   42. file:///altext/stjt/2000.011.html
   43. file:///altext/stjt/2006.067.html

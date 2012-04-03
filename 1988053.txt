@@ -322,25 +322,25 @@ References
   13. file:///altext/stjt/2003.089.html
   14. file:///altext/stjt/2003.072.html
   15. file:///altext/stjt/1993.116.html
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/305-1997
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/340-1999
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/435-2005
+  16. file://ekkitil/ekkitil.html?REGL/1997305
+  17. file://ekkitil/ekkitil.html?REGL/1999340
+  18. file://ekkitil/ekkitil.html?REGL/2005435
   19. file:///altext/stjt/1993.116.html
   20. file:///altext/stjt/2002.076.html
   21. file:///altext/stjt/1993.116.html
   22. file:///altext/stjt/2003.072.html
-  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/305-1997
-  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/340-1999
-  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/435-2005
+  23. file://ekkitil/ekkitil.html?REGL/1997305
+  24. file://ekkitil/ekkitil.html?REGL/1999340
+  25. file://ekkitil/ekkitil.html?REGL/2005435
   26. file:///altext/stjt/1993.116.html
   27. file:///altext/stjt/1993.116.html
-  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/586-1991
+  28. file://ekkitil/ekkitil.html?REGL/1991586
   29. file:///altext/stjt/1990.050.html
   30. file:///altext/stjt/1990.050.html
   31. file:///altext/stjt/1997.076.html
   32. file://2002030.html#g24
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/227-1991
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/545-1995
+  33. file://ekkitil/ekkitil.html?REGL/1991227
+  34. file://ekkitil/ekkitil.html?REGL/1995545
   35. file:///altext/stjt/1998.068.html
   36. file:///altext/stjt/1998.068.html
   37. file:///altext/stjt/2003.089.html

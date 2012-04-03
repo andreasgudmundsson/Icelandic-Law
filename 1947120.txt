@@ -25,6 +25,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1947120
    2. file://1988036.html#g9
    3. file:///altext/stjtnr.html#1982075
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/587-1987
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/178-1999
+   4. file://ekkitil/ekkitil.html?REGL/1987587
+   5. file://ekkitil/ekkitil.html?REGL/1999178
    6. file:///altext/stjtnr.html#1982075?g20

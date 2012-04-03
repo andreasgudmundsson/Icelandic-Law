@@ -129,6 +129,6 @@ References
   14. file://1998138.html#g20
   15. file:///altext/stjt/1996.144.html
   16. file:///altext/stjt/1996.144.html
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/679-1997
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/789-2004
+  17. file://ekkitil/ekkitil.html?REGL/1997679
+  18. file://ekkitil/ekkitil.html?REGL/2004789
   19. file:///altext/stjt/1996.144.html

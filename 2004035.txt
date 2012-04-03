@@ -12,7 +12,7 @@
 
     Tóku gildi 1. september 2004. EES-samningurinn: XIII. viðauki tilskipun
  94/56/EB. Breytt með [4]l. 102/2006 (tóku gildi 30. júní 2006 nema 14. gr. sem
-                           tekur gildi 1. jan. 2007)
+                            tók gildi 1. jan. 2007)
 
                             I. kafli. Almenn ákvæði.
       1. gr. Ákvæði laga þessara taka til flugslysa og flugatvika, þ.m.t.
@@ -76,15 +76,15 @@ rannsóknaraðilum, ákæruvaldi og dómstólum. Hún ákveður sjálf hvenær e
   Flugmálastjórn Íslands skal veita nefndinni aðgang að hvers konar gögnum sem
    nauðsynleg eru við rannsókn máls, svo sem gögnum sem útgáfa leyfisbréfa og
            skírteina er byggð á, þar á meðal læknisfræðilegum gögnum.
-  Flugmálastjórn Íslands og lögreglu er skylt að veita nefndinni nauðsynlegar
-              upplýsingar og aðstoð vegna rannsóknar flugslyss.^1)
+        [Flugmálastjórn Íslands og lögreglu, svo og þeim sem starfrækja
+  flugleiðsöguþjónustu og flugvelli, er skylt að veita nefndinni nauðsynlegar
+             upplýsingar og aðstoð vegna rannsóknar flugslyss.]^1)
       Þegar það á við skal rannsóknarnefnd flugslysa láta rannsókn ná til
  fyrirkomulags tilkynninga um flugslys, til leitar, björgunaraðgerða og annarra
         tengdra aðgerða sem ætlað er að draga úr afleiðingum flugslysa.
 Samgönguráðherra er heimilt að fela rannsóknarnefnd flugslysa að rannsaka atriði
         sem varða almennt flugöryggi, án þess að þau tengist flugslysi.
-     ^1)Málsgreininni var breytt með [7]l. 102/2006, 14. gr. Breytingin tekur
-                    gildi 1. jan. 2007, sbr. [8]14. gr. s.l.
+                            ^1)[7]L. 102/2006, 14. gr.
  9. gr. Rannsóknarnefnd flugslysa, starfslið hennar og aðrir sem starfa í þágu
   nefndarinnar skulu virða þagnarskyldu um þau atvik sem þeim verða kunn vegna
 starfa fyrir nefndina. Tekur þetta til hvers konar upplýsinga um einkahagi manna
@@ -104,13 +104,13 @@ sem rannsókn á flugslysum gefur tilefni til. Tillögurnar skal birta opinberle
            III. kafli. Tilkynning um flugslys. Framkvæmd rannsóknar.
  11. gr. Nú verður flugslys, sbr. 1. og 7. gr., og ber þá sérhverjum sem um það
 veit að tilkynna það rannsóknarnefnd flugslysa án ástæðulausrar tafar. Sérstaka
-skyldu í þessu efni hafa Flugmálastjórn Íslands, stjórnendur loftfara, handhafar
-   flugrekstrarleyfis og vaktstöð samkvæmt [9]lögum nr. 25/1995, um samræmda
-                              neyðarsímsvörun.^1)
+     skyldu í þessu efni hafa Flugmálastjórn Íslands, [þeir sem starfrækja
+     flugleiðsöguþjónustu og flugvelli],^1) stjórnendur loftfara, handhafar
+   flugrekstrarleyfis og vaktstöð samkvæmt [8]lögum nr. 25/1995, um samræmda
+                                neyðarsímsvörun.
   Sama gildir um hvern þann sem finnur loftfar eða aðra hluti við aðstæður er
                      benda til þess að flugslys hafi orðið.
-   ^1)Málsliðnum var breytt með [10]l. 102/2006, 14. gr. Breytingin tekur gildi
-                      1. jan. 2007, sbr. [11]14. gr. s.l.
+                            ^1)[9]L. 102/2006, 14. gr.
       12. gr. Yfirstjórn vettvangsrannsóknar er í höndum rannsóknarstjóra.
   Rannsóknarstjóri getur ef þörf krefur tilnefnt annan mann í sinn stað til að
                   fara með yfirstjórn rannsóknar á vettvangi.
@@ -253,10 +253,10 @@ loftfars og Flugmálastjórn Íslands, svo og öðrum aðilum sem átt hafa hags
 annarra starfsmanna og heimildir þeirra í störfum, nauðsynlegan útbúnað, tæki og
 þjálfun nefndarinnar til vettvangsrannsókna, um fyrirkomulag á birtingu skýrslna
             nefndarinnar og aðra þætti málsmeðferðar hjá nefndinni.
-                       ^1)[12]Rg. 53/2006, [13]rg. 80/2006.
+                       ^1)[10]Rg. 53/2006, [11]rg. 80/2006.
                 25. gr. Lög þessi taka gildi 1. september 2004.
    Ákvæði til bráðabirgða. Skipunartíma rannsóknarnefndar flugslysa samkvæmt
-            [14]lögum nr. 59/1996 lýkur við gildistöku laga þessara.
+            [12]lögum nr. 59/1996 lýkur við gildistöku laga þessara.
 
 References
 
@@ -268,10 +268,8 @@ References
    5. file://1991019.html
    6. file://1993037.html
    7. file://2006102.html#g14
-   8. file://2006102.html
-   9. file://1995025.html
-  10. file://2006102.html#g14
-  11. file://2006102.html
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/053-2006
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/080-2006
-  14. file://1996059.html
+   8. file://1995025.html
+   9. file://2006102.html#g14
+  10. file://ekkitil/ekkitil.html?REGL/2006053
+  11. file://ekkitil/ekkitil.html?REGL/2006080
+  12. file://1996059.html

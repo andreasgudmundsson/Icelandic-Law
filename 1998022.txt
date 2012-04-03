@@ -170,5 +170,5 @@ References
    9. file://1996057.html#g13
   10. file:///altext/stjt/1990.038.html
   11. file://1990038.html
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/175-1999
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/151-2001
+  12. file://ekkitil/ekkitil.html?REGL/1999175
+  13. file://ekkitil/ekkitil.html?REGL/2001151

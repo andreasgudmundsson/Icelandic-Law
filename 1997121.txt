@@ -123,5 +123,5 @@ References
    7. file:///altext/stjt/2000.180.html
    8. file:///altext/stjt/2000.070.html
    9. file://1987025.html
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/237-1998
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/557-2001
+  10. file://ekkitil/ekkitil.html?REGL/1998237
+  11. file://ekkitil/ekkitil.html?REGL/2001557

@@ -262,9 +262,10 @@ einu sinni á ári. Viðskiptaráðherra skipar þriggja manna prófnefnd til fj
                                stjórnsýslustigi.
 Prófnefnd er heimilt að fela óháðum aðilum að gefa einkunn fyrir prófúrlausn. Þá
     getur prófnefnd skipað prófdómara til að endurskoða úrlausn próftaka. Í
-   reglugerð skal kveða nánar á um framkvæmd prófs, þar á meðal prófkröfur og
+ reglugerð^1) skal kveða nánar á um framkvæmd prófs, þar á meðal prófkröfur og
   prófsefnislýsingu, og heimildir til að veita undanþágur frá einstökum hlutum
                          slíks prófs eða prófi í heild.
+                                ^1)[5]Rg. 972/2006.
 
               IV. kafli. Fjárhagslegar kröfur vátryggingamiðlara.
                        19. gr. Fjárhagsleg staða. Áætlun.
@@ -290,7 +291,7 @@ Prófnefnd er heimilt að fela óháðum aðilum að gefa einkunn fyrir prófúr
                vátryggingarfjárhæðir, skal setja í reglugerð.^1)
   Vátryggingamiðlari skal senda Fjármálaeftirlitinu staðfestingu á endurnýjun
                            starfsábyrgðartryggingar.
-                                ^1)[5]Rg. 592/2005.
+                                ^1)[6]Rg. 592/2005.
                            21. gr. Viðtaka fjármuna.
    Vátryggingamiðlari má ekki taka við iðgjöldum, vátryggingarbótum eða öðrum
     fjármunum fyrir hönd vátryggingafélags eða viðskiptamanns nema samkvæmt
@@ -303,7 +304,7 @@ Vátryggingamiðlara er skylt að halda fjármunum sem hann tekur við í þágu
 þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum og stendur
                     utan skuldaraðar við skipti á búi hans.
         Viðskiptaráðherra setur nánari reglur^1) um vörslufjárreikninga.
-                                ^1)[6]Rg. 590/2005.
+                                ^1)[7]Rg. 590/2005.
 
                    V. kafli. Starfshættir vátryggingamiðlara.
            23. gr. Yfirsýn yfir starfsemina og sérstakar ráðstafanir.
@@ -345,7 +346,7 @@ viðskiptamanna, nema skylt sé að veita upplýsingar samkvæmt lögum. Þagnar
 Sá sem veitir viðtöku upplýsingum af því tagi sem um getur í 1. mgr. er bundinn
  þagnarskyldu með sama hætti og þar greinir. Sá aðili sem veitir upplýsingarnar
                    skal áminna viðtakanda um þagnarskylduna.
-   Við miðlun vátrygginga skal fullnægja skilyrðum [7]laga um persónuvernd og
+   Við miðlun vátrygginga skal fullnægja skilyrðum [8]laga um persónuvernd og
                     meðferð persónuupplýsinga, nr. 77/2000.
                     28. gr. Góðir viðskiptahættir og venjur.
   Vátryggingamiðlari skal starfa í samræmi við góða viðskiptahætti og venjur á
@@ -518,7 +519,7 @@ annarra aðgreindum frá eigin fé. Skulu slíkir fjármunir varðveittir á sé
  samkvæmt þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum
                og stendur utan skuldaraðar við skipti á búi hans.
         Viðskiptaráðherra setur nánari reglur^1) um vörslufjárreikninga.
-                                ^1)[8]Rg. 590/2005.
+                                ^1)[9]Rg. 590/2005.
 
                  X. kafli. Starfshættir vátryggingaumboðmanns.
            45. gr. Yfirsýn yfir starfsemina og sérstakar ráðstafanir.
@@ -553,7 +554,7 @@ viðskiptamanna, nema skylt sé að veita upplýsingar samkvæmt lögum. Þagnar
 Sá sem veitir viðtöku upplýsingum af því tagi sem um getur í 1. mgr. er bundinn
  þagnarskyldu með sama hætti og þar greinir. Sá aðili sem veitir upplýsingarnar
                    skal áminna viðtakanda um þagnarskylduna.
-   Við miðlun vátrygginga skal fullnægja skilyrðum [9]laga um persónuvernd og
+  Við miðlun vátrygginga skal fullnægja skilyrðum [10]laga um persónuvernd og
                     meðferð persónuupplýsinga, nr. 77/2000.
                     49. gr. Góðir viðskiptahættir og venjur.
 Vátryggingaumboðsmaður skal starfa í samræmi við góða viðskiptahætti og venjur á
@@ -713,8 +714,9 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=551
    3. http://www.althingi.is/altext/131/s/0832.html
    4. file://1994060.html#g7
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/592-2005
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2005
-   7. file://2000077.html
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/590-2005
-   9. file://2000077.html
+   5. file://ekkitil/ekkitil.html?REGL/2006972
+   6. file://ekkitil/ekkitil.html?REGL/2005592
+   7. file://ekkitil/ekkitil.html?REGL/2005590
+   8. file://2000077.html
+   9. file://ekkitil/ekkitil.html?REGL/2005590
+  10. file://2000077.html

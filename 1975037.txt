@@ -51,8 +51,8 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1975037
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=96&mnr=222
    3. file:///altext/stjt/1997.083.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/190-1978
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/333-1986
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/158-1991
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/054-1992
+   4. file://ekkitil/ekkitil.html?REGL/1978190
+   5. file://ekkitil/ekkitil.html?REGL/1986333
+   6. file://ekkitil/ekkitil.html?REGL/1991158
+   7. file://ekkitil/ekkitil.html?REGL/1992054
    8. file:///altext/stjt/1997.083.html

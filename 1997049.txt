@@ -222,13 +222,13 @@ References
    3. http://www.althingi.is/altext/121/s/0487.html
    4. file:///altext/stjt/2000.071.html
    5. file:///altext/stjt/2003.044.html
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-1995
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/533-1995
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/008-1998
+   6. file://ekkitil/ekkitil.html?REGL/1995376
+   7. file://ekkitil/ekkitil.html?REGL/1995533
+   8. file://ekkitil/ekkitil.html?REGL/1998008
    9. file:///altext/stjt/2000.071.html
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/505-2000
+  10. file://ekkitil/ekkitil.html?REGL/2000505
   11. file:///altext/stjt/2003.044.html
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/533-1995
+  12. file://ekkitil/ekkitil.html?REGL/1995533
   13. file:///altext/stjt/2003.044.html
   14. file:///altext/stjt/2000.071.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-1997
+  15. file://ekkitil/ekkitil.html?REGL/1997637

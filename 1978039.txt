@@ -753,6 +753,6 @@ References
   62. file:///altext/stjt/1989.085.html
   63. file:///altext/stjt/1989.085.html
   64. file://1991091.html#g161
-  65. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/284-1996
-  66. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/319-1997
+  65. file://ekkitil/ekkitil.html?REGL/1996284
+  66. file://ekkitil/ekkitil.html?REGL/1997319
   67. file:///altext/stjt/2000.045.html

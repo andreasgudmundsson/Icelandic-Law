@@ -91,8 +91,8 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=346
    3. http://www.althingi.is/altext/128/s/0382.html
    4. file://1997045.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/041-2000
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/110-2003
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/916-2001
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/015-2003
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/898-2003
+   5. file://ekkitil/ekkitil.html?REGL/2000041
+   6. file://ekkitil/ekkitil.html?REGL/2003110
+   7. file://ekkitil/ekkitil.html?REGL/2001916
+   8. file://ekkitil/ekkitil.html?REGL/2003015
+   9. file://ekkitil/ekkitil.html?REGL/2003898

@@ -337,6 +337,6 @@ References
   65. file:///altext/stjtnr.html#1974107?g1
   66. file:///altext/stjtnr.html#1974107?g1
   67. file:///altext/stjtnr.html#1974107?g1
-  68. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/125-1966
-  69. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/007-1976
-  70. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/138-1985
+  68. file://ekkitil/ekkitil.html?REGL/1966125
+  69. file://ekkitil/ekkitil.html?REGL/1976007
+  70. file://ekkitil/ekkitil.html?REGL/1985138

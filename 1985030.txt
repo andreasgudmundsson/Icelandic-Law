@@ -62,7 +62,7 @@ References
    6. file://2004142.html
    7. file:///altext/stjt/1990.047.html
    8. file:///altext/stjt/1997.083.html
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/367-1996
+   9. file://ekkitil/ekkitil.html?REGL/1996367
   10. file://2004142.html#g14
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/057-1929
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/367-1996
+  11. file://ekkitil/ekkitil.html?REGL/1929057
+  12. file://ekkitil/ekkitil.html?REGL/1996367

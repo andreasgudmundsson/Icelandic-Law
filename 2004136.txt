@@ -2,13 +2,15 @@
 
    --------------------------------------------------------------------------
 
-                         Lög um Lánasjóð sveitarfélaga
+                        Lög um Lánasjóð sveitarfélaga^1)
 
                            2004 nr. 136 20. desember
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+    ^1)Falla úr gildi þegar Lánasjóður sveitarfélaga ohf. tekur til starfa skv.
+                             [2]l. 150/2006, 4. gr.
+              [3]Ferill málsins á Alþingi.   [4]Frumvarp til laga.
 
                            Tóku gildi 1. janúar 2005.
       1. gr. Lánasjóður sveitarfélaga er sjálfstæð stofnun, sameign allra
@@ -58,11 +60,11 @@ lánasjóðsins skal fullgerður, endurskoðaður og undirritaður af stjórn ha
     ráðherra þá greitt vanskilin af framlagi hlutaðeigandi sveitarfélags úr
  Jöfnunarsjóði sveitarfélaga eftir því sem til vinnst. Sama gildir um greiðslur
  sem Lánasjóður sveitarfélaga kann að hafa innt af hendi vegna ábyrgða sem hann
-            hefur tekist á hendur skv. [4]10. gr. laga nr. 35/1966.
+            hefur tekist á hendur skv. [5]10. gr. laga nr. 35/1966.
 Lánasjóður sveitarfélaga skal innan mánaðar frá gildistöku laga þessara sækja um
-     starfsleyfi sem lánafyrirtæki skv. 3. tölul. 1. mgr. [5]4. gr. laga um
+     starfsleyfi sem lánafyrirtæki skv. 3. tölul. 1. mgr. [6]4. gr. laga um
 fjármálafyrirtæki, nr. 161/2002, með síðari breytingum, sbr. einnig 2. tölul. 1.
-  mgr. [6]3. gr. sömu laga. Sjóðnum er heimilt að starfa samkvæmt ákvæðum laga
+  mgr. [7]3. gr. sömu laga. Sjóðnum er heimilt að starfa samkvæmt ákvæðum laga
    þessara og samþykktum um sjóðinn þar til ákvörðun um veitingu starfsleyfis
                                  liggur fyrir.
            Lög þessi skulu endurskoðuð eigi síðar en við árslok 2008.
@@ -71,8 +73,9 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004136
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=269
-   3. http://www.althingi.is/altext/131/s/0290.html
-   4. file://1966035.html
-   5. file://2002161.html#g4
-   6. file://2002161.html#g3
+   2. file://2006150.html#g4
+   3. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=269
+   4. http://www.althingi.is/altext/131/s/0290.html
+   5. file://1966035.html
+   6. file://2002161.html#g4
+   7. file://2002161.html#g3

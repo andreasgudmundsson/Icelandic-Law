@@ -46,7 +46,7 @@ References
    4. file:///altext/stjt/1995.017.html
    5. file:///altext/stjt/2001.015.html
    6. file:///altext/stjt/2001.015.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/476-2001
-   8. http://stjornartidindi.is/servlet/stjrtid/B/2001/850.pdf
+   7. file://ekkitil/ekkitil.html?REGL/2001476
+   8. file://ekkitil/ekkitil.html?REGL/2001850
    9. file:///altext/stjt/2001.015.html
   10. file:///altext/stjt/1995.017.html

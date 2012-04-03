@@ -2684,7 +2684,7 @@ References
  402. file:///altext/stjt/2003.125.html
  403. file://1962008.html#g62
  404. file:///altext/stjtnr.html#1951100?g4
- 405. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/179-1992
- 406. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/259-1995
+ 405. file://ekkitil/ekkitil.html?REGL/1992179
+ 406. file://ekkitil/ekkitil.html?REGL/1995259
  407. file:///altext/stjt/1998.082.html
  408. file:///altext/stjt/1998.082.html

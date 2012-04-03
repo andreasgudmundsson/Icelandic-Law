@@ -53,7 +53,7 @@ References
    4. file:///altext/stjt/1996.073.html
    5. file://1999044.html
    6. file:///altext/stjt/2002.164.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-1993
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/273-1994
+   7. file://ekkitil/ekkitil.html?REGL/1993157
+   8. file://ekkitil/ekkitil.html?REGL/1994273
    9. file:///altext/stjt/1996.073.html
   10. file:///altext/stjt/2002.164.html

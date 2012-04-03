@@ -80,7 +80,7 @@ References
    6. file:///altext/stjt/2004.021.html
    7. file:///altext/stjt/1997.083.html
    8. file:///altext/stjt/2004.021.html
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/059-1987
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1155-2005
+   9. file://ekkitil/ekkitil.html?REGL/1987059
+  10. file://ekkitil/ekkitil.html?REGL/20051155
   11. file:///altext/stjt/2004.021.html
   12. file:///altext/stjt/2004.021.html

@@ -140,13 +140,13 @@ References
   12. file:///altext/stjt/2002.076.html
   13. file:///altext/stjt/1993.116.html
   14. file:///altext/stjt/2003.072.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/402-1986
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/358-1988
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/184-2001
+  15. file://ekkitil/ekkitil.html?REGL/1986402
+  16. file://ekkitil/ekkitil.html?REGL/1988358
+  17. file://ekkitil/ekkitil.html?REGL/2001184
   18. file:///altext/stjt/1993.116.html
   19. file://1984108.html
   20. file://1994093.html
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/258-1990
+  21. file://ekkitil/ekkitil.html?REGL/1990258
   22. file://2002030.html#g25
   23. file:///altext/stjt/1993.116.html
   24. file:///altext/stjtnr.html#1969080?g18

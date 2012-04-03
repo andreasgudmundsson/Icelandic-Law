@@ -10,7 +10,8 @@
 
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
-                           Tóku gildi 22. mars 2005.
+ Tóku gildi 22. mars 2005. Breytt með [4]l. 143/2006 (tóku gildi 1. jan. 2007).
+
                    1. gr. Stjórnartíðindi og Lögbirtingablað.
   Í Stjórnartíðindum skal birta öll lög, stjórnvaldsfyrirmæli og samninga við
              önnur ríki, svo og auglýsingar varðandi gildi þeirra.
@@ -53,12 +54,15 @@ gerða, sem þar er vísað til, í EES-viðbæti við Stjórnartíðindi Evróp
              erindi skuli birt eða eigi, ákveður dómsmálaráðherra.
                6. gr. Útgáfa Stjórnartíðinda og Lögbirtingablaðs.
         Dómsmálaráðuneytið gefur Stjórnartíðindi og Lögbirtingablað út.
+        [Dómsmálaráðherra er heimilt að fela sýslumanni að annast útgáfu
+                             Lögbirtingablaðs.]^1)
  Skylt er stjórnvöldum að fá útgefanda handrit af hverju því sem afgreitt hefur
           verið og birta ber í Stjórnartíðindum eða Lögbirtingablaði.
  Dómsmálaráðherra kveður á um gjöld fyrir auglýsingar er aðilar eiga að greiða.
-     Einnig getur dómsmálaráðherra sett fyrirmæli^1) um annað er að útgáfu
+     Einnig getur dómsmálaráðherra sett fyrirmæli^2) um annað er að útgáfu
                    Stjórnartíðinda og Lögbirtingablaðs lýtur.
-                       ^1)[4]Rg. 623/2005, [5]rg. 958/2005.
+      ^1)[5]L. 143/2006, 24. gr. ^2)[6]Rg. 623/2005, [7]rg. 958/2005, [8]rg.
+                                   1121/2006.
     7. gr. Heimild til rafrænnar útgáfu Stjórnartíðinda og Lögbirtingablaðs.
  Dómsmálaráðherra getur ákveðið að Stjórnartíðindi og Lögbirtingablað skuli, að
 hluta eða í heild, eingöngu gefin út og þeim dreift á rafrænan hátt. Við rafræna
@@ -94,5 +98,8 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2005015
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=191
    3. http://www.althingi.is/altext/131/s/0191.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/623-2005
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/958-2005
+   4. file:///altext/stjt/2006.143.html
+   5. file:///altext/stjt/2006.143.html
+   6. file://ekkitil/ekkitil.html?REGL/2005623
+   7. file://ekkitil/ekkitil.html?REGL/2005958
+   8. file://ekkitil/ekkitil.html?REGL/20061121

@@ -189,7 +189,7 @@ References
   29. file://1987025.html
   30. file:///altext/stjt/2000.037.html
   31. file:///altext/stjt/2000.037.html
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/359-1998
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/811-1998
+  32. file://ekkitil/ekkitil.html?REGL/1998359
+  33. file://ekkitil/ekkitil.html?REGL/1998811
   34. file:///altext/stjt/2000.037.html
   35. file:///altext/stjt/2000.037.html

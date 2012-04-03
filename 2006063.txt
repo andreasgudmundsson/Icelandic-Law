@@ -37,7 +37,7 @@ ríkisstofnun sem heyrir undir menntamálaráðherra nema yfirstjórn hennar sé
                             öðrum ráðherra að lögum.
  Menntamálaráðherra veitir háskólum viðurkenningu að uppfylltum skilyrðum laga
                                     þessara.
-   Menntamálaráðherra gefur út reglur um viðurkenningu háskóla sem byggjast á
+ Menntamálaráðherra gefur út reglur^1) um viðurkenningu háskóla sem byggjast á
  alþjóðlegum viðmiðum um háskólastarfsemi. Í þeim skulu tilgreind skilyrði sem
     háskólar skulu fullnægja til að öðlast viðurkenningu. Skilyrðin lúta að
                               eftirtöldum þáttum:
@@ -67,6 +67,7 @@ Viðurkenning felur ekki í sér að stjórnvöld séu skuldbundin til að veita
                               viðkomandi háskóla.
    Menntamálaráðherra skal setja reglur um erlendar þýðingar á heitum þeirra
                      háskóla sem hann veitir viðurkenningu.
+                               ^1)[4]Rgl. 1067/2006.
    4. gr. Uppfylli háskóli, sem fengið hefur viðurkenningu, ekki ákvæði laga
  þessara og reglur og skilyrði sem sett eru á grundvelli þeirra eða þær kröfur
   sem gerðar eru til kennslu og rannsókna getur menntamálaráðherra afturkallað
@@ -215,7 +216,9 @@ samræmi við lög og góða stjórnsýsluhætti, og skal nefndin þá veita ál
                            dómnefnda eða prófdómara.
 Úrskurðir áfrýjunarnefndar eru endanlegir á stjórnsýslustigi og verður þeim ekki
                               skotið til ráðherra.
-Menntamálaráðherra er heimilt að setja nánari reglur um störf áfrýjunarnefndar.
+        Menntamálaráðherra er heimilt að setja nánari reglur^1) um störf
+                               áfrýjunarnefndar.
+                               ^1)[5]Rgl. 1152/2006.
 
                          VIII. kafli. Fjárhagsmálefni.
   21. gr. Menntamálaráðherra er heimilt að gera samninga til 35 ára í senn um
@@ -262,12 +265,12 @@ Nefndin skal veita umsögn í málum sem menntamálaráðherra eða einstakir h�
                   27. gr. Lög þessi öðlast gildi 1. júlí 2006.
                                     28. gr.
        Ákvæði til bráðabirgða. Háskólar, sem starfa samkvæmt starfsleyfi
-   menntamálaráðherra samkvæmt [4]lögum nr. 136/1997, um háskóla, og Háskóli
+   menntamálaráðherra samkvæmt [6]lögum nr. 136/1997, um háskóla, og Háskóli
   Íslands, Háskólinn á Akureyri og Kennaraháskóli Íslands, sem starfa samkvæmt
    sérlögum, skulu innan tveggja ára frá gildistöku laga þessara hafa öðlast
  viðurkenningu, sbr. 3. gr., er nái til þeirra fræðasviða sem starfsemi þeirra
                                    tekur til.
-  Endurskoða skal [5]lög um búnaðarfræðslu, nr. 57/1999, innan tveggja ára frá
+  Endurskoða skal [7]lög um búnaðarfræðslu, nr. 57/1999, innan tveggja ára frá
   gildistöku laga þessara til að samræma og auka samvinnu við gæðaeftirlit og
                           námsframboð á háskólastigi.
 
@@ -277,5 +280,7 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006063
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=433
    3. http://www.althingi.is/altext/132/s/654.html
-   4. file://1997136.html
-   5. file://1999057.html
+   4. file://ekkitil/ekkitil.html?REGL/20061067
+   5. file://ekkitil/ekkitil.html?REGL/20061152
+   6. file://1997136.html
+   7. file://1999057.html

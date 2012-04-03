@@ -119,5 +119,5 @@ References
   19. file:///altext/stjtnr.html#1978049?g59
   20. file:///altext/stjt/1990.116.html
   21. file:///altext/stjt/1998.082.html
-  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/244-1974
-  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/354-1992
+  22. file://ekkitil/ekkitil.html?REGL/1974244
+  23. file://ekkitil/ekkitil.html?REGL/1992354

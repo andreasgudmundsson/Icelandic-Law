@@ -91,9 +91,9 @@ References
   12. file:///altext/stjt/2004.082.html
   13. file:///altext/stjt/2000.026.html
   14. file:///altext/stjt/2001.138.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/368-2000
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/448-2002
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/437-2003
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/049-2006
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/524-2006
+  15. file://ekkitil/ekkitil.html?REGL/2000368
+  16. file://ekkitil/ekkitil.html?REGL/2002448
+  17. file://ekkitil/ekkitil.html?REGL/2003437
+  18. file://ekkitil/ekkitil.html?REGL/2006049
+  19. file://ekkitil/ekkitil.html?REGL/2006524
   20. file:///altext/stjt/1990.047.html

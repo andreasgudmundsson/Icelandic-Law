@@ -235,7 +235,7 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003041
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=392
    3. http://www.althingi.is/altext/128/s/0453.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/320-1998
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/220-2001
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/672-2006
+   4. file://ekkitil/ekkitil.html?REGL/1998320
+   5. file://ekkitil/ekkitil.html?REGL/2001220
+   6. file://ekkitil/ekkitil.html?REGL/2006672
    7. file://1985034.html#g238

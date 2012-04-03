@@ -495,13 +495,13 @@ References
   28. file://1992030.html
   29. file:///altext/stjt/2006.106.html
   30. file:///altext/stjt/2006.106.html
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1124-2005
+  31. file://ekkitil/ekkitil.html?REGL/20051124
   32. file:///altext/stjt/2005.114.html
   33. file:///altext/stjt/2005.037.html
   34. file://2005088.html
   35. file://1988050.html
   36. file:///altext/stjt/2006.106.html
-  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1124-2005
+  37. file://ekkitil/ekkitil.html?REGL/20051124
   38. file:///altext/stjt/2006.106.html
   39. file://1989052.html
   40. file:///altext/stjt/2004.128.html

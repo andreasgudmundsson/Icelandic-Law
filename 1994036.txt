@@ -814,9 +814,9 @@ References
    4. file:///altext/stjt/2006.065.html
    5. file:///altext/stjt/2006.065.html
    6. file://1936007.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/675-1994
+   7. file://ekkitil/ekkitil.html?REGL/1994675
    8. file://1993097.html
    9. file://1998044.html
   10. file://1989092.html#g5
   11. file://1998015.html
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/878-2001
+  12. file://ekkitil/ekkitil.html?REGL/2001878

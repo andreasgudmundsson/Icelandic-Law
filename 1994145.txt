@@ -588,14 +588,14 @@ References
   41. file:///altext/stjt/1995.037.html
   42. file:///altext/stjt/1995.037.html
   43. file:///altext/stjt/1995.037.html
-  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/598-1999
-  45. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/015-2001
-  46. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/600-1999
+  44. file://ekkitil/ekkitil.html?REGL/1999598
+  45. file://ekkitil/ekkitil.html?REGL/2001015
+  46. file://ekkitil/ekkitil.html?REGL/1999600
   47. file:///altext/stjt/1995.037.html
   48. file:///altext/stjt/1995.037.html
-  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/473-2001
-  50. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/296-2003
-  51. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/447-2004
+  49. file://ekkitil/ekkitil.html?REGL/2001473
+  50. file://ekkitil/ekkitil.html?REGL/2003296
+  51. file://ekkitil/ekkitil.html?REGL/2004447
   52. file:///altext/stjt/1997.029.html
   53. file:///altext/stjt/1995.037.html
   54. file:///altext/stjt/2001.133.html

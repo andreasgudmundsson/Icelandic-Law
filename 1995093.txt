@@ -195,11 +195,11 @@ sem gætu orðið til þess að neytendur villtust á vörunni og öðrum vörum
  framleiðslu og dreifingu matvæla, efnainnihald, viðmiðunarmörk fyrir örverur,
                  umbúðir, matvælaeftirlit og matvælarannsóknir.
     ^1)Rg. 121/2004 (um varnarefnaleifar í matvælum), sbr. 385/2004, 922/2004,
-  505/2005, 998/2005, 434/2006, 436/2006, 437/2006, 438/2006 og 552/2006. Rg.
-405/2004 (um náttúrulegt ölkelduvatn og átappað lindarvatn), sbr. 1097/2004. Rg.
-   411/2004 (um ýmis aðskotaefni í matvælum), sbr. 56/2005. Rg. 425/2004 (um
-   gildistöku tiltekinnar gerðar Evrópusambandsins um fyrirkomulag vöktunar á
-     hámarksgildum varnarefnaleifa í tilteknum matvælum). Rg. 624/2004 (um
+ 505/2005, 998/2005, 434/2006, 436/2006, 437/2006, 438/2006, 552/2006, 908/2006
+ og 918/2006. Rg. 405/2004 (um náttúrulegt ölkelduvatn og átappað lindarvatn),
+sbr. 1097/2004. Rg. 411/2004 (um ýmis aðskotaefni í matvælum), sbr. 56/2005. Rg.
+  425/2004 (um gildistöku tiltekinnar gerðar Evrópusambandsins um fyrirkomulag
+vöktunar á hámarksgildum varnarefnaleifa í tilteknum matvælum). Rg. 624/2004 (um
 fæðubótarefni), sbr. 684/2005. Rg. 921/2004 (um efni og hluti úr sellulósafilmu
    sem er ætlað að snerta matvæli). Rg. 331/2005 (um kjöt og kjötvörur). Rg.
   439/2005 (um gildistöku tiltekinna gerða Evrópusambandsins um aðskotaefni í
@@ -363,40 +363,40 @@ References
   12. file:///altext/stjt/2005.076.html
   13. file://2003017.html#g12
   14. file:///altext/stjt/2000.169.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/588-1993
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/142-1995
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/726-1997
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/054-2000
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/439-2000
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/863-2000
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/352-2003
-  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/503-2005
-  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/787-2006
-  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/503-2005
-  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/553-2006
-  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/735-1997
-  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/465-2000
-  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/198-2002
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/388-2004
-  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/674-1998
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/542-2000
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/667-2002
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/605-2000
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/587-1993
-  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/305-2001
-  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/848-2003
-  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/289-1994
-  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-1995
-  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/493-1998
-  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/526-2006
+  15. file://ekkitil/ekkitil.html?REGL/1993588
+  16. file://ekkitil/ekkitil.html?REGL/1995142
+  17. file://ekkitil/ekkitil.html?REGL/1997726
+  18. file://ekkitil/ekkitil.html?REGL/2000054
+  19. file://ekkitil/ekkitil.html?REGL/2000439
+  20. file://ekkitil/ekkitil.html?REGL/2000863
+  21. file://ekkitil/ekkitil.html?REGL/2003352
+  22. file://ekkitil/ekkitil.html?REGL/2005503
+  23. file://ekkitil/ekkitil.html?REGL/2006787
+  24. file://ekkitil/ekkitil.html?REGL/2005503
+  25. file://ekkitil/ekkitil.html?REGL/2006553
+  26. file://ekkitil/ekkitil.html?REGL/1997735
+  27. file://ekkitil/ekkitil.html?REGL/2000465
+  28. file://ekkitil/ekkitil.html?REGL/2002198
+  29. file://ekkitil/ekkitil.html?REGL/2004388
+  30. file://ekkitil/ekkitil.html?REGL/1998674
+  31. file://ekkitil/ekkitil.html?REGL/2000542
+  32. file://ekkitil/ekkitil.html?REGL/2002667
+  33. file://ekkitil/ekkitil.html?REGL/2000605
+  34. file://ekkitil/ekkitil.html?REGL/1993587
+  35. file://ekkitil/ekkitil.html?REGL/2001305
+  36. file://ekkitil/ekkitil.html?REGL/2003848
+  37. file://ekkitil/ekkitil.html?REGL/1994289
+  38. file://ekkitil/ekkitil.html?REGL/1995562
+  39. file://ekkitil/ekkitil.html?REGL/1998493
+  40. file://ekkitil/ekkitil.html?REGL/2006526
   41. file:///altext/stjt/2002.164.html
   42. file:///altext/stjt/2005.076.html
   43. file:///altext/stjt/2005.076.html
   44. file:///altext/stjt/2002.164.html
   45. file://2006068.html#g10
   46. file:///altext/stjt/2005.076.html
-  47. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/040-1999
-  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/730-2003
+  47. file://ekkitil/ekkitil.html?REGL/1999040
+  48. file://ekkitil/ekkitil.html?REGL/2003730
   49. file://1997019.html
   50. file:///altext/stjt/2000.169.html
   51. file:///altext/stjt/2002.164.html

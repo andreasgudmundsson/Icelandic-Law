@@ -354,20 +354,20 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=675
    3. http://www.althingi.is/altext/126/s/1054.html
    4. file:///altext/stjt/2004.129.html
-   5. http://stjornartidindi.is/servlet/stjrtid/B/2004/997.pdf
-   6. http://stjornartidindi.is/servlet/stjrtid/B/2004/997.pdf
-   7. http://stjornartidindi.is/servlet/stjrtid/B/2005/879.pdf
-   8. http://stjornartidindi.is/servlet/stjrtid/B/2006/317.pdf
-   9. http://stjornartidindi.is/servlet/stjrtid/B/2006/318.pdf
-  10. http://stjornartidindi.is/servlet/stjrtid/B/2002/187.pdf
-  11. http://stjornartidindi.is/servlet/stjrtid/B/2002/913.pdf
-  12. http://stjornartidindi.is/servlet/stjrtid/B/2004/68.pdf
-  13. http://stjornartidindi.is/servlet/stjrtid/B/2005/1088.pdf
+   5. file://ekkitil/ekkitil.html?REGL/2004997
+   6. file://ekkitil/ekkitil.html?REGL/2004997
+   7. file://ekkitil/ekkitil.html?REGL/2005879
+   8. file://ekkitil/ekkitil.html?REGL/2006317
+   9. file://ekkitil/ekkitil.html?REGL/2006318
+  10. file:///altext/stjtnr.html#2002187
+  11. file:///altext/stjtnr.html#2002913
+  12. file://ekkitil/ekkitil.html?REGL/2004068
+  13. file://ekkitil/ekkitil.html?REGL/20051088
   14. file:///altext/stjt/2004.129.html
-  15. http://stjornartidindi.is/servlet/stjrtid/B/2002/389.pdf
-  16. http://stjornartidindi.is/servlet/stjrtid/B/2003/788.pdf
-  17. http://stjornartidindi.is/servlet/stjrtid/B/2003/789.pdf
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/470-1986
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/136-1989
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/111-1995
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/640-1999
+  15. file://ekkitil/ekkitil.html?REGL/2002389
+  16. file:///altext/stjtnr.html#2003788
+  17. file:///altext/stjtnr.html#2003789
+  18. file://ekkitil/ekkitil.html?REGL/1986470
+  19. file://ekkitil/ekkitil.html?REGL/1989136
+  20. file://ekkitil/ekkitil.html?REGL/1995111
+  21. file://ekkitil/ekkitil.html?REGL/1999640

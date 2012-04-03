@@ -11,9 +11,9 @@
               [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
 
  Tóku gildi 1. janúar 1997. Breytt með [4]l. 76/1997 (tóku gildi 1. júlí 1997),
- [5]l. 83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001)
-    og [6]l. 23/2006 (tóku gildi 3. maí 2006; EES-samningurinn: XX. viðauki
-                             tilskipun 2003/4/EB).
+[5]l. 83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001),
+ [6]l. 23/2006 (tóku gildi 3. maí 2006; EES-samningurinn: XX. viðauki tilskipun
+            2003/4/EB) og [7]l. 161/2006 (tóku gildi 1. jan. 2007).
 
                          I. kafli. Gildissvið laganna.
                                1. gr. Gildissvið.
@@ -33,12 +33,14 @@ gögnum sem 2. mgr. 3. gr. laga þessara tekur til. Þá gilda lögin heldur ekk
  Ákvæði annarra laga, sem heimila víðtækari aðgang að upplýsingum, halda gildi
    sínu. Almenn ákvæði laga um þagnarskyldu takmarka ekki rétt til aðgangs að
                          gögnum samkvæmt lögum þessum.
-                             ^1)[7]L. 83/2000, 1. gr.
+                             ^1)[8]L. 83/2000, 1. gr.
 
                   II. kafli. Almennur aðgangur að upplýsingum.
                             3. gr. Upplýsingaréttur.
- Stjórnvöldum er skylt, sé þess óskað, að veita almenningi aðgang að gögnum sem
-        varða tiltekið mál með þeim takmörkunum sem greinir í 4.6. gr.
+      [Stjórnvöldum er skylt, sé þess óskað, að veita almenningi aðgang að
+fyrirliggjandi gögnum sem varða tiltekið mál með þeim takmörkunum sem greinir í
+   4.6. gr. Stjórnvöldum er þó ekki skylt að útbúa ný skjöl eða önnur gögn í
+                      ríkari mæli en leiðir af 7. gr.]^1)
                      Réttur til aðgangs að gögnum nær til:
       1. allra skjala sem mál varða, þar með talinna endurrita af bréfum sem
       stjórnvald hefur sent, enda megi ætla að það hafi borist viðtakanda;
@@ -47,6 +49,7 @@ gögnum sem 2. mgr. 3. gr. laga þessara tekur til. Þá gilda lögin heldur ekk
        3. dagbókarfærslna sem lúta að gögnum málsins og lista yfir málsgögn.
  Stjórnvöldum er heimilt að veita aðgang að gögnum í ríkari mæli en kveðið er á
    um í þessum kafla, nema fyrirmæli laga um þagnarskyldu standi því í vegi.
+                             ^1)[9]L. 161/2006, 1. gr.
                     4. gr. Gögn undanþegin upplýsingarétti.
             Réttur almennings til aðgangs að gögnum tekur ekki til:
     1. fundargerða ríkisráðs og ríkisstjórnar, minnisgreina á ráðherrafundum og
@@ -76,7 +79,7 @@ hlut á. Sömu takmarkanir gilda um aðgang að gögnum er varða mikilvæga fj�
     [5. umhverfismál, enda geti birting þeirra haft alvarleg áhrif á vernd þess
 hluta umhverfisins sem slíkar upplýsingar varða, t.d. heimkynni fágætra tegunda
               lífvera, steinda, steingervinga og bergmyndana.]^1)
-                             ^1)[8]L. 23/2006, 18. gr.
+                            ^1)[10]L. 23/2006, 18. gr.
                         7. gr. Aðgangur að hluta skjals.
 Ef ákvæði 4.6. gr. eiga aðeins við um hluta skjals skal veita almenningi aðgang
             að öðru efni skjalsins. Sama regla á við um önnur gögn.
@@ -91,7 +94,7 @@ Veita skal aðgang að öðrum gögnum sem 4.6. gr. taka til þegar liðin eru
   ár frá því að gögn urðu til, að frátöldum upplýsingum er varða einkamálefni
 einstaklinga, en aðgang að þeim skal fyrst veita að áttatíu árum liðnum frá því
                               að þau urðu til. ^2)
-                ^1)[9]L. 23/2006, 18. gr. ^2)[10]L. 76/1997, 4. gr.
+               ^1)[11]L. 23/2006, 18. gr. ^2)[12]L. 76/1997, 4. gr.
 
            III. kafli. Aðgangur aðila að upplýsingum um hann sjálfan.
                          9. gr. Upplýsingaréttur aðila.
@@ -110,39 +113,46 @@ upplýsingar um einkamálefni annarra, enda vegi þeir hagsmunir, sem mæla með
                             réttindi sjúklinga.]^1)
  Ákvæði 3., 7. og 8. gr. gilda, eftir því sem við getur átt, um aðgang aðila að
                                     gögnum.
-                             ^1)[11]L. 76/1997, 5. gr.
+                             ^1)[13]L. 76/1997, 5. gr.
 
                             IV. kafli. Málsmeðferð.
                     10. gr. Beiðni um aðgang að upplýsingum.
-  Sá sem fer fram á aðgang að gögnum skal tilgreina þau gögn sem hann óskar að
-kynna sér. Þá getur hann óskað eftir að fá að kynna sér upplýsingar um tiltekið
-             mál án þess að tilgreina einstök gögn sem málið varða.
+[Sá sem fer fram á aðgang að gögnum skal tilgreina þau gögn máls sem hann óskar
+að kynna sér. Þá getur hann óskað eftir að fá að kynna sér öll gögn um tiltekið
+           mál án þess að tilgreina einstök gögn sem málið varða.]^1)
 Stjórnvald getur sett það skilyrði að beiðni um aðgang að gögnum sé skrifleg og
-             komi jafnframt fram á eyðublaði sem það leggur til.^1)
+             komi jafnframt fram á eyðublaði sem það leggur til.^2)
   Þegar farið er fram á aðgang að gögnum um mál þar sem taka á eða tekin hefur
  verið ákvörðun um rétt eða skyldu manna skal beiðni beint til þess stjórnvalds
   sem tekið hefur eða taka mun ákvörðun í málinu. Annars skal beiðni beint til
                þess stjórnvalds sem hefur gögnin í sínum vörslum.
-                               ^1)[12]Rg. 674/1996.
+                  ^1)[14]L. 161/2006, 2. gr. ^2)[15]Rg. 674/1996.
                        11. gr. Málshraði og málsmeðferð.
 Stjórnvald skal taka ákvörðun um hvort það verður við beiðni um aðgang að gögnum
   svo fljótt sem verða má. Hafi beiðni ekki verið afgreidd innan sjö daga frá
  móttöku hennar skal skýra aðila frá ástæðum tafanna og hvenær ákvörðunar sé að
                                      vænta.
+[Þegar veittur er aðgangur að gögnum, sem þriðji maður á lögvarin réttindi yfir
+   samkvæmt höfundalögum, skal veita upplýsingar um nafn rétthafa, liggi þær
+                                   fyrir.]^1)
             Um málsmeðferð fer að öðru leyti eftir stjórnsýslulögum.
-                      12. gr. Ljósrit eða afrit af gögnum.
-  Stjórnvald tekur ákvörðun um hvort umbeðin gögn skuli sýnd eða hvort ljósrit
-        skuli veitt af skjölum eða afrit af öðrum gögnum sé þess kostur.
-  Sé farið fram á að fá ljósrit af skjölum skal orðið við þeirri beiðni, nema
-skjölin séu þess eðlis eða fjöldi þeirra svo mikill að það sé vandkvæðum bundið.
+                            ^1)[16]L. 161/2006, 3. gr.
+                     12. gr. [Ljósrit eða afrit af gögnum.
+Stjórnvöld taka ákvörðun um hvort gögn, sem heimilt er að veita aðgang að, skuli
+                   sýnd eða veitt af þeim ljósrit eða afrit.
+Eftir því sem við verður komið er stjórnvöldum þó skylt, sé þess óskað, að láta
+í té ljósrit eða afrit af gögnum á því formi eða sniði og á þeim tungumálum, sem
+ þau eru varðveitt á, nema þau séu þegar aðgengileg almenningi á rafrænu formi.
+ Þegar skjöl eru eingöngu varðveitt á rafrænu formi getur aðili krafist þess að
+                fá þau prentuð á pappír, nema 3. mgr. eigi við.
  Þegar fjöldi skjala er mikill getur stjórnvald ákveðið að fela öðrum að sjá um
  ljósritun þeirra. Hið sama á við hafi stjórnvald ekki aðstöðu til að ljósrita
-   skjöl. Þá skal aðili greiða þann kostnað sem hlýst af ljósritun skjalanna.
- Forsætisráðherra er heimilt að ákveða með gjaldskrá^1) hvað greiða skuli fyrir
-                  ljósrit sem veitt eru samkvæmt lögum þessum.
-Reglur 2.4. mgr. eiga einnig við um afrit af öðrum gögnum en skjölum eftir því
-                                   sem við á.
-                            ^1)[13]Gjaldskrá 838/2004.
+ skjöl. Aðili skal þá greiða þann kostnað sem hlýst af ljósritun skjalanna. Hið
+      sama gildir um afrit af öðrum gögnum en skjölum eftir því sem við á.
+  Forsætisráðherra ákveður með gjaldskrá^1) hvað greiða skuli fyrir ljósrit og
+ afrit gagna sem veitt eru samkvæmt lögum þessum. Heimilt er að mæta öllum þeim
+                         kostnaði sem af því hlýst.]^2)
+               ^1)[17]Gjaldskrá 838/2004. ^2)[18]L. 161/2006, 4. gr.
                          13. gr. Tilkynning ákvörðunar.
  Ákvörðun stjórnvalds um að synja beiðni um aðgang að gögnum eða um ljósrit eða
      afrit af þeim skal tilkynnt skriflega ef beiðni hefur verið skrifleg.
@@ -166,7 +176,7 @@ starfsgengisskilyrði héraðsdómara. Skal annar þeirra vera formaður nefndar
   [Nefndarmenn eru bundnir þagnarskyldu um allt það sem fram kemur í gögnum er
    nefndinni eru látin í té. Sama gildir um þá sem hún kann að kveðja sér til
                                  aðstoðar.]^1)
-                             ^1)[14]L. 83/2000, 2. gr.
+                             ^1)[19]L. 83/2000, 2. gr.
                               16. gr. Málsmeðferð.
      Mál skv. 1. mgr. 14. gr. skal borið skriflega undir úrskurðarnefnd um
 upplýsingamál innan 30 daga frá því að þeim sem fór fram á aðgang að gögnum var
@@ -178,7 +188,7 @@ té rökstutt álit á málinu áður en því er ráðið til lykta. [Stjórnva
                         eru jöfn ræður atkvæði formanns.
    Um meðferð mála hjá úrskurðarnefndinni fer að öðru leyti eftir VII. kafla
                                 stjórnsýslulaga.
-                             ^1)[15]L. 83/2000, 3. gr.
+                             ^1)[20]L. 83/2000, 3. gr.
                  17. gr. [Birting og aðfararhæfi úrskurðar.]^1)
 Úrskurðarnefnd um upplýsingamál skal birta úrskurð þeim sem fór fram á aðgang að
         gögnum og því stjórnvaldi sem í hlut á svo fljótt sem verða má.
@@ -187,7 +197,7 @@ Ef nefndin hefur tekið til greina beiðni um aðgang að gögnum ber stjórnval
             krafist að réttaráhrifum hans verði frestað skv. 18. gr.
    [Úrskurður samkvæmt lögum þessum um aðgang að gögnum eða afrit af þeim er
          aðfararhæfur, nema réttaráhrifum hans hafi verið frestað.]^1)
-                             ^1)[16]L. 83/2000, 4. gr.
+                             ^1)[21]L. 83/2000, 4. gr.
                    18. gr. Frestun á réttaráhrifum úrskurðar.
   Að kröfu stjórnvalds getur úrskurðarnefnd um upplýsingamál ákveðið að fresta
   réttaráhrifum úrskurðar telji hún sérstaka ástæðu til þess. Krafa þess efnis
@@ -197,7 +207,7 @@ Ef nefndin hefur tekið til greina beiðni um aðgang að gögnum ber stjórnval
 úrskurðar og óski eftir að það hljóti flýtimeðferð. Nú er beiðni um flýtimeðferð
     synjað og skal þá mál höfðað innan sjö daga frá því að beiðni um það er
                                   synjað.]^1)
-                             ^1)[17]L. 83/2000, 5. gr.
+                             ^1)[22]L. 83/2000, 5. gr.
                             19. gr. Útgáfa úrskurða.
  Úrskurðarnefnd um upplýsingamál skal árlega gefa út úrskurði sína eða útdrætti
                                     úr þeim.
@@ -228,12 +238,123 @@ Við meðferð mála, þar sem taka á ákvörðun um rétt eða skyldu manna sk
  eru veittar munnlega ef þær hafa verulega þýðingu fyrir úrlausn málsins og þær
                      er ekki að finna í öðrum gögnum þess.
 
-                         VIII. kafli. Gildistaka o.fl.
-                          24. gr. Gildistaka laganna.
+              [VIII. kafli. Um endurnot opinberra upplýsinga.]^1)
+                            ^1)[23]L. 161/2006, 5. gr.
+                        [24. gr. Markmið og gildissvið.
+Markmið þessa kafla er að auka endurnot opinberra upplýsinga til hagsbóta fyrir
+    samfélagið í heild. Jafnframt eru lögleiddar samræmdar lágmarksreglur um
+ endurnot opinberra upplýsinga, sbr. ákvörðun sameiginlegu EES-nefndarinnar nr.
+      105/2005 um að fella inn í IX. viðauka við EES-samninginn tilskipun
+   Evrópuþingsins og ráðsins 2003/98/EB frá 17. nóvember 2003 um endurnotkun
+                         upplýsinga frá hinu opinbera.
+     Endurnot opinberra upplýsinga vísar til þess að einkaaðili noti slíkar
+  upplýsingar í öðrum tilgangi en ætlunin var þegar þeirra var aflað af hálfu
+ stjórnvalda. Miðlun upplýsinga á milli stjórnvalda í þágu starfa þeirra telst
+              ekki til endurnota á upplýsingum í þessum skilningi.
+ Ákvæði kaflans gilda einvörðungu um endurnot á fyrirliggjandi upplýsingum sem
+ eru í vörslum stjórnvalda og almenningur á rétt til aðgangs að á grundvelli 3.
+   gr. laga þessara eða annarra ákvæða laga sem veita almenningi slíkan rétt.
+                       Ákvæði þessa kafla gilda ekki um:
+       1. Upplýsingar sem teknar eru saman af stjórnvöldum í viðskiptalegum
+                                   tilgangi.
+     2. Gögn, skrár og upplýsingar úr gagnagrunnum sem þriðji maður á lögvarin
+réttindi yfir samkvæmt höfundalögum. Ákvæði kaflans gilda hins vegar eigi ríki,
+sveitarfélög eða stofnanir þeirra í skilningi 1. málsl. 1. mgr. 25. gr. ein slík
+   réttindi yfir upplýsingum, enda falli það stjórnvald sem fer með fyrirsvar
+                   réttindanna ekki undir 3. mgr. 25. gr.]^1)
+                            ^1)[24]L. 161/2006, 5. gr.
+  [25. gr. Skilgreining á opinberum aðilum sem falla undir ákvæði þessa kafla.
+  Ákvæði þessa kafla taka til ríkis, sveitarfélaga, stofnana þeirra og annarra
+ opinberra aðila, sbr. 2. mgr. Lögin taka einnig til samtaka sem þessir aðilar,
+                    einn eða fleiri, kunna að hafa með sér.
+    Aðili telst opinber ef hann getur borið réttindi og skyldur að lögum og
+sérstaklega hefur verið stofnað til hans í því skyni að þjóna almannahagsmunum,
+ enda reki hann ekki starfsemi sem jafnað verður til starfsemi einkaaðila, svo
+ sem á sviði viðskipta eða iðnaðar. Auk þess skal eitthvert eftirfarandi atriða
+                               eiga við um hann:
+   a. Starfsemi hans er að mestu leyti rekin á kostnað ríkis eða sveitarfélaga,
+stofnana þeirra eða annarra opinberra aðila. Miðað skal við að aðili sé að mestu
+  leyti rekinn á kostnað ríkis eða sveitarfélaga, stofnana þeirra eða annarra
+ opinberra aðila ef opinber fjármögnun nemur meira en 50% af rekstrarkostnaði.
+   Tekjur aðila á grundvelli gagnkvæms viðskiptasamnings við opinberan aðila
+                        teljast ekki opinber fjármögnun.
+   b. Hann lýtur yfirstjórn ríkis eða sveitarfélaga, stofnana þeirra eða annarra
+                                opinberra aðila.
+    c. Hann lýtur sérstakri stjórn sem ríki eða sveitarfélög, stofnanir þeirra
+                eða aðrir opinberir aðilar skipa að meiri hluta.
+     Þrátt fyrir ákvæði 1. og 2. mgr. gilda ákvæði þessa kafla þó ekki um:
+                                 a. Ríkisútvarpið.
+               b. Skóla, bóka- og skjalasöfn eða rannsóknastofnanir.
+                              c. Menningarstofnanir.
+    Þrátt fyrir ákvæði 3. mgr. getur hlutaðeigandi ráðherra mælt svo fyrir í
+reglugerð að starfsemi stjórnvalds, sem undir hann heyrir og ákvæðið tekur til,
+     falli engu að síður undir ákvæði þessa kafla í heild eða að hluta.]^1)
+                            ^1)[25]L. 161/2006, 5. gr.
+       [26. gr. Almennir skilmálar fyrir endurnotum opinberra upplýsinga.
+ Heimilt er að endurnota opinberar upplýsingar sem eru almenningi aðgengilegar
+        lögum samkvæmt, enda séu eftirfarandi skilyrði ávallt uppfyllt:
+     a. Endurnot upplýsinganna mega ekki brjóta í bága við lög, þ.m.t. ákvæði
+     almennra hegningarlaga, höfundalaga og laga um persónuvernd og meðferð
+                 persónuupplýsinga, eða réttindi þriðja manns.
+                        b. Geta skal uppruna upplýsinganna.
+   c. Skýrt skal koma fram hver ber ábyrgð á vinnslu upplýsinganna þegar þær eru
+                         gerðar öðrum aðgengilegar.]^1)
+                            ^1)[26]L. 161/2006, 5. gr.
+                [27. gr. Endurnot upplýsinga úr opinberum skrám.
+Þegar veittur er aðgangur að upplýsingum úr opinberum skrám skv. 3. mgr. 3. gr.
+eða ákvæðum sérlaga er stjórnvaldi heimilt að áskilja að endurnot upplýsinganna
+   séu leyfisskyld og uppfylli sérstök skilyrði, svo sem um gæði upplýsinga,
+  uppfærslu þeirra o.fl. Gæta skal samræmis og jafnréttis við útfærslu slíkra
+  skilyrða og mega þau ekki takmarka möguleika á endurnotum upplýsinganna eða
+                              samkeppni óhóflega.
+Stjórnvöld skulu birta á heimasíðu sinni lista yfir þær skrár sem hafa að geyma
+ upplýsingar í þeirra vörslum sem heimilt er að endurnota, svo og þau skilyrði
+                         sem slík endurnot eru bundin.
+Umsókn um leyfi fyrir endurnotum á upplýsingum úr opinberum skrám skal beint til
+þess stjórnvalds sem lögum samkvæmt ber ábyrgð á færslu og vinnslu upplýsinganna
+                             í hlutaðeigandi skrá.
+    Stjórnvald skal afgreiða umsókn um leyfi til endurnota á upplýsingum úr
+ opinberum skrám svo fljótt sem verða má. Hafi beiðni ekki verið afgreidd innan
+20 daga frá því umsókn barst skal skýra frá ástæðum tafanna og hvenær ákvörðunar
+                                  sé að vænta.
+ Synji stjórnvald að veita leyfi fyrir endurnotum á upplýsingum á grundvelli 2.
+   tölul. 4. mgr. 24. gr. skal tilgreina nafn rétthafa eða umboðsmanns hans.
+Heimilt er að taka gjald fyrir að veita aðgang að upplýsingum úr opinberum skrám
+   á grundvelli 3. og 4. mgr. 12. gr. Skal hlutaðeigandi stjórnvald setja sér
+      gjaldskrá sem ráðherra staðfestir. Gjaldskrána skal birta í B-deild
+       Stjórnartíðinda auk þess sem hún skal vera aðgengileg á heimasíðu
+                                stjórnvaldsins.
+ Ekki þarf að greiða fyrir endurnot á upplýsingum, sem falla undir ákvæði þessa
+ kafla og eru háðar höfundarétti ríkis og sveitarfélaga, umfram það sem segir í
+                 6. mgr., nema lög mæli sérstaklega svo fyrir.
+   Tilgreina skal nafn rétthafa þegar stjórnvöld gera upplýsingar almenningi
+   aðgengilegar á netinu á grundvelli samnings við þriðja mann sem á lögvarin
+                 réttindi yfir þeim samkvæmt höfundalögum.]^1)
+                            ^1)[27]L. 161/2006, 5. gr.
+                    [28. gr. Bann við samningum um sérleyfi.
+Stjórnvöld mega ekki gera samninga um sérleyfi um endurnot opinberra upplýsinga
+                sem ákvæði þessa kafla taka til, sbr. þó 2. mgr.
+       Ef ætla má að opinberar upplýsingar verði ekki endurnotaðar í þágu
+ almannahagsmuna nema á grundvelli sérleyfis er heimilt að gera slíkan samning
+    enda komi fram í honum rökstuðningur fyrir því. Endurmeta ber rök fyrir
+ sérleyfissamningnum reglubundið og eigi sjaldnar en á þriggja ára fresti.]^1)
+        ^1)[28]L. 161/2006, 5. gr. Sérleyfissamningar um endurnot opinberra
+ upplýsinga sem ekki uppfylla skilyrði 2. mgr. skulu renna út eigi síðar en 31.
+                          desember 2008, sbr. brbákv.
+
+                        [IX. kafli.]^1) Gildistaka o.fl.
+                            ^1)[29]L. 161/2006, 5. gr.
+                        [29. gr.]^1) Gildistaka laganna.
                      Lög þessi öðlast gildi 1. janúar 1997.
   Ákvæði laganna gilda um öll gögn án tillits til þess hvenær þau urðu til eða
                       hvenær þau hafa borist stjórnvöldum.
-                       25. gr. Breytingar á öðrum lögum.
+                            ^1)[30]L. 161/2006, 5. gr.
+                                  [30. gr.]^1)
+                            ^1)[31]L. 161/2006, 5. gr.
+[Ákvæði til bráðabirgða. Sérleyfissamningar um endurnot opinberra upplýsinga sem
+ekki uppfylla skilyrði 2. mgr. 28. gr. skulu renna út eigi síðar en 31. desember
+                                   2008.]^1)
+                            ^1)[32]L. 161/2006, 6. gr.
 
 References
 
@@ -244,14 +365,29 @@ References
    4. file:///altext/stjt/1997.076.html
    5. file:///altext/stjt/2000.083.html
    6. file://2006023.html
-   7. file:///altext/stjt/2000.083.html
-   8. file://2006023.html#g18
-   9. file://2006023.html#g18
-  10. file:///altext/stjt/1997.076.html
-  11. file:///altext/stjt/1997.076.html
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/674-1996
-  13. http://stjornartidindi.is/servlet/stjrtid/B/2004/838.pdf
-  14. file:///altext/stjt/2000.083.html
-  15. file:///altext/stjt/2000.083.html
-  16. file:///altext/stjt/2000.083.html
-  17. file:///altext/stjt/2000.083.html
+   7. file:///altext/stjt/2006.161.html
+   8. file:///altext/stjt/2000.083.html
+   9. file:///altext/stjt/2006.161.html
+  10. file://2006023.html#g18
+  11. file://2006023.html#g18
+  12. file:///altext/stjt/1997.076.html
+  13. file:///altext/stjt/1997.076.html
+  14. file:///altext/stjt/2006.161.html
+  15. file://ekkitil/ekkitil.html?REGL/1996674
+  16. file:///altext/stjt/2006.161.html
+  17. file://ekkitil/ekkitil.html?GJAL/2004838
+  18. file:///altext/stjt/2006.161.html
+  19. file:///altext/stjt/2000.083.html
+  20. file:///altext/stjt/2000.083.html
+  21. file:///altext/stjt/2000.083.html
+  22. file:///altext/stjt/2000.083.html
+  23. file:///altext/stjt/2006.161.html
+  24. file:///altext/stjt/2006.161.html
+  25. file:///altext/stjt/2006.161.html
+  26. file:///altext/stjt/2006.161.html
+  27. file:///altext/stjt/2006.161.html
+  28. file:///altext/stjt/2006.161.html
+  29. file:///altext/stjt/2006.161.html
+  30. file:///altext/stjt/2006.161.html
+  31. file:///altext/stjt/2006.161.html
+  32. file:///altext/stjt/2006.161.html

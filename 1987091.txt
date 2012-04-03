@@ -126,10 +126,10 @@ References
   14. file://1975018.html
   15. file://1975018.html
   16. file:///altext/stjt/2002.095.html
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/206-1991
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/081-1999
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1130-2005
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/865-2001
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1129-2005
+  17. file://ekkitil/ekkitil.html?REGL/1991206
+  18. file://ekkitil/ekkitil.html?REGL/1999081
+  19. file://ekkitil/ekkitil.html?REGL/20051130
+  20. file://ekkitil/ekkitil.html?REGL/2001865
+  21. file://ekkitil/ekkitil.html?REGL/20051129
   22. file:///altext/stjt/1997.124.html
   23. file:///altext/stjt/2001.148.html

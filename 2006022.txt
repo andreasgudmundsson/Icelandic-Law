@@ -141,7 +141,7 @@ mánuði, 15. virka dag hvers mánaðar, enda hafi foreldri skilað inn nauðsyn
      fjárhæðinni til hækkunar ef verulegar breytingar verða á launaþróun og
 þjóðhagsforsendum frá afgreiðslu fjárlaga. Þegar framangreind skilyrði leiða til
    hækkunar á fjárhæð greiðslna skal félagsmálaráðherra breyta fjárhæðinni í
-                                   reglugerð.
+                                 reglugerð.^1)
  Greiðslur frá vinnuveitanda eða öðrum aðilum til foreldris fyrir sama tímabil
  sem eru hærri en nemur mismun greiðslna skv. 1. mgr. og meðaltals heildarlauna
     foreldris fyrir tekjuárið á undan því er barn greinist með alvarlegan og
@@ -151,6 +151,7 @@ mánuði, 15. virka dag hvers mánaðar, enda hafi foreldri skilað inn nauðsyn
  rekja má til breytinga á störfum foreldris. Umönnunargreiðslur sem ætlað er að
   mæta útlögðum kostnaði vegna veikinda eða fötlunar barns skulu ekki koma til
                   frádráttar greiðslum samkvæmt lögum þessum.
+                      ^1)[6]Rg. 543/2006, sbr. [7]1101/2006.
               10. gr. Greiðslur samhliða minnkuðu starfshlutfalli.
  Foreldri, sbr. b- og c-lið 3. gr., sem leggur niður störf að hluta þegar barn
  þess greinist með alvarlegan og langvinnan sjúkdóm eða alvarlega fötlun getur
@@ -209,7 +210,7 @@ langveikra eða alvarlega fatlaðra barna til greiðslna samkvæmt ákvæði þe
  sem til hvaða atriða framkvæmdaraðili skuli líta við mat á því í hversu langan
     tíma foreldrar eigi rétt á greiðslum og við hvaða aðstæður framlenging á
     greiðslum geti komið til, þar á meðal alvarleika sjúkdóms eða fötlunar.
-                                ^1)[6]Rg. 543/2006.
+                                ^1)[8]Rg. 543/2006.
        13. gr. Undanþágur frá skilyrðum fyrir réttindum foreldra í námi.
    Heimilt er að veita undanþágu frá lögheimilisskilyrði 2. mgr. 12. gr. hafi
 foreldri flutt lögheimili sitt tímabundið vegna náms erlendis eftir að hafa átt
@@ -271,16 +272,16 @@ meðan foreldrar þess eru í fæðingarorlofi eða fá greiddan fæðingarstyrk
                             17. gr. Skuldajöfnuður.
 Hafi foreldri fengið hærri greiðslur en því bar samkvæmt lögum þessum er heimilt
  að skuldajafna ofgreiddum greiðslum á móti inneign foreldris vegna ofgreiddra
-  skatta, barnabóta og vaxtabóta samkvæmt [7]lögum nr. 90/2003, um tekjuskatt.
+  skatta, barnabóta og vaxtabóta samkvæmt [9]lögum nr. 90/2003, um tekjuskatt.
     Fjármálaráðherra skal setja í reglugerð nánari reglur um skuldajöfnun og
                                   forgangsröð.
-Um innheimtu ofgreidds fjár samkvæmt lögum þessum fer skv. [8]111. gr. laga nr.
+Um innheimtu ofgreidds fjár samkvæmt lögum þessum fer skv. [10]111. gr. laga nr.
       90/2003, um tekjuskatt. Félagsmálaráðherra getur þó falið sérstökum
                       innheimtuaðila að annast innheimtu.
                           18. gr. Reglugerðarheimild.
   Félagsmálaráðherra er heimilt að setja reglugerð^1) um nánari framkvæmd laga
                                     þessara.
-                                ^1)[9]Rg. 543/2006.
+                               ^1)[11]Rg. 543/2006.
                               19. gr. Gildistaka.
   Lög þessi skulu öðlast gildi 1. júlí 2006, sbr. þó 2.4. mgr. Ákvæði laganna
 eiga við um börn sem greinast með alvarlega og langvinna sjúkdóma eða alvarlega
@@ -310,9 +311,11 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006022
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=389
    3. http://www.althingi.is/altext/132/s/471.html
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/543-2006
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/543-2006
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/543-2006
-   7. file://2003090.html
-   8. file://2003090.html#g111
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/543-2006
+   4. file://ekkitil/ekkitil.html?REGL/2006543
+   5. file://ekkitil/ekkitil.html?REGL/2006543
+   6. file://ekkitil/ekkitil.html?REGL/2006543
+   7. file://ekkitil/ekkitil.html?REGL/20061101
+   8. file://ekkitil/ekkitil.html?REGL/2006543
+   9. file://2003090.html
+  10. file://2003090.html#g111
+  11. file://ekkitil/ekkitil.html?REGL/2006543

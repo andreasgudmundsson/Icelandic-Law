@@ -392,11 +392,11 @@ References
   11. file:///altext/stjt/2004.040.html
   12. file://1990038.html
   13. file://1990038.html
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/238-2003
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/485-2003
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/515-2004
+  14. file://ekkitil/ekkitil.html?REGL/2003238
+  15. file://ekkitil/ekkitil.html?REGL/2003485
+  16. file://ekkitil/ekkitil.html?REGL/2004515
   17. file:///altext/stjt/2004.040.html
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/588-1997
+  18. file://ekkitil/ekkitil.html?REGL/1997588
   19. file:///altext/stjt/1998.134.html
   20. file:///altext/stjt/2000.091.html
   21. file:///altext/stjt/1999.115.html
@@ -405,33 +405,33 @@ References
   24. file:///altext/stjt/1999.115.html
   25. file:///altext/stjt/1999.115.html
   26. file:///altext/stjt/1998.134.html
-  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/450-1997
-  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/233-1999
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/387-2000
-  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/367-2001
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/537-2005
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/260-1999
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-2000
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/372-2001
-  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/849-1999
-  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/203-2000
-  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/771-2000
-  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/042-2001
-  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/391-2002
-  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/1000-2003
-  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/910-2001
-  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/510-2005
-  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/620-2006
-  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/511-2005
-  45. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/619-2006
-  46. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/512-2005
-  47. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/618-2006
-  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/513-2005
-  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/651-2006
-  50. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/835-2005
-  51. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/607-2006
-  52. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/608-2006
-  53. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/694-2006
-  54. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/695-2006
+  27. file://ekkitil/ekkitil.html?REGL/1997450
+  28. file://ekkitil/ekkitil.html?REGL/1999233
+  29. file://ekkitil/ekkitil.html?REGL/2000387
+  30. file://ekkitil/ekkitil.html?REGL/2001367
+  31. file://ekkitil/ekkitil.html?REGL/2005537
+  32. file://ekkitil/ekkitil.html?REGL/1999260
+  33. file://ekkitil/ekkitil.html?REGL/2000391
+  34. file://ekkitil/ekkitil.html?REGL/2001372
+  35. file://ekkitil/ekkitil.html?REGL/1999849
+  36. file://ekkitil/ekkitil.html?REGL/2000203
+  37. file://ekkitil/ekkitil.html?REGL/2000771
+  38. file://ekkitil/ekkitil.html?REGL/2001042
+  39. file://ekkitil/ekkitil.html?REGL/2002391
+  40. file://ekkitil/ekkitil.html?REGL/20031000
+  41. file://ekkitil/ekkitil.html?REGL/2001910
+  42. file://ekkitil/ekkitil.html?REGL/2005510
+  43. file://ekkitil/ekkitil.html?REGL/2006620
+  44. file://ekkitil/ekkitil.html?REGL/2005511
+  45. file://ekkitil/ekkitil.html?REGL/2006619
+  46. file://ekkitil/ekkitil.html?REGL/2005512
+  47. file://ekkitil/ekkitil.html?REGL/2006618
+  48. file://ekkitil/ekkitil.html?REGL/2005513
+  49. file://ekkitil/ekkitil.html?REGL/2006651
+  50. file://ekkitil/ekkitil.html?REGL/2005835
+  51. file://ekkitil/ekkitil.html?REGL/2006607
+  52. file://ekkitil/ekkitil.html?REGL/2006608
+  53. file://ekkitil/ekkitil.html?REGL/2006694
+  54. file://ekkitil/ekkitil.html?REGL/2006695
   55. file:///altext/stjt/1998.121.html
   56. file:///altext/stjt/2001.079.html

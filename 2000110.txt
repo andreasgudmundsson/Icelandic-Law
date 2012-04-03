@@ -233,6 +233,6 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000110
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=534
    3. http://www.althingi.is/altext/125/s/0835.html
-   4. http://stjornartidindi.is/servlet/stjrtid/B/2001/918.pdf
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-2001
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-2001
+   4. file://ekkitil/ekkitil.html?REGL/2001918
+   5. file://ekkitil/ekkitil.html?REGL/2001134
+   6. file://ekkitil/ekkitil.html?REGL/2001134

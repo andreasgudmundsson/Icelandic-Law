@@ -238,8 +238,8 @@ References
    5. file://1951110.html
    6. file://1954106.html
    7. file://1993008.html
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/493-2003
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/493-2003
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/293-2002
+   8. file://ekkitil/ekkitil.html?REGL/2003493
+   9. file://ekkitil/ekkitil.html?REGL/2003493
+  10. file://ekkitil/ekkitil.html?REGL/2002293
   11. file://1988050.html#g48
   12. file:///altext/stjt/2004.129.html

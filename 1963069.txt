@@ -220,8 +220,8 @@ References
   25. file:///altext/stjt/1998.082.html
   26. file:///altext/stjt/1998.082.html
   27. file:///altext/stjt/1998.082.html
-  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/664-2006
+  28. file://ekkitil/ekkitil.html?REGL/2006664
   29. file:///altext/stjt/2006.070.html
   30. file:///altext/stjt/1998.082.html
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/664-2006
+  31. file://ekkitil/ekkitil.html?REGL/2006664
   32. file:///altext/stjt/2006.070.html

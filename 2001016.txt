@@ -158,5 +158,5 @@ References
    5. file:///altext/stjt/2002.076.html
    6. file:///altext/stjt/1995.134.html
    7. file://1995134.html
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/892-2004
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/435-2006
+   8. file://ekkitil/ekkitil.html?REGL/2004892
+   9. file://ekkitil/ekkitil.html?REGL/2006435

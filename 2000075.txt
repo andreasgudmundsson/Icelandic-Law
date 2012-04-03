@@ -460,16 +460,16 @@ References
    2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=485
    3. http://www.althingi.is/altext/125/s/0765.html
    4. file:///altext/stjt/2002.164.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2001
+   5. file://ekkitil/ekkitil.html?REGL/2001792
    6. file:///altext/stjt/2002.164.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/792-2001
+   7. file://ekkitil/ekkitil.html?REGL/2001792
    8. file:///altext/stjt/1995.134.html
    9. file://1995134.html
-  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/266-2001
-  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/614-2004
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/196-1994
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/198-1994
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/200-1994
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/245-1994
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/441-1998
-  17. http://stjornartidindi.is/servlet/stjrtid/B/2001/739.pdf
+  10. file://ekkitil/ekkitil.html?REGL/2001266
+  11. file://ekkitil/ekkitil.html?REGL/2004614
+  12. file://ekkitil/ekkitil.html?REGL/1994196
+  13. file://ekkitil/ekkitil.html?REGL/1994198
+  14. file://ekkitil/ekkitil.html?REGL/1994200
+  15. file://ekkitil/ekkitil.html?REGL/1994245
+  16. file://ekkitil/ekkitil.html?REGL/1998441
+  17. file://ekkitil/ekkitil.html?REGL/2001739
