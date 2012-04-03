@@ -397,7 +397,7 @@ References
    6. file:///altext/stjt/1993.116.html
    7. file:///altext/stjt/1990.050.html
    8. file:///altext/stjt/1990.050.html
-   9. file:///altext/stjt/1996.050.html
+   9. file://1996050.html#g25
   10. file:///altext/stjt/1990.050.html
   11. file:///altext/stjt/1990.050.html
   12. file://1984108.html

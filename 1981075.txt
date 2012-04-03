@@ -41,7 +41,8 @@
               á. Úrskurði ríkisskattstjóra má skjóta til dómstóla að stefndum
                                      ríkisskattstjóra vegna fjármálaráðherra.
 
-   ^1)[2]L. 145/1995, 1. gr.
+   ^1)[2]L. 145/1995, 1. gr. Ákvæðið komi til framkvæmda við álagningu
+   tekjuskatts og eignarskatts á árinu 1997, sbr. [3]l. 33/1996, 1. gr.
 
                              Skattskylda lögaðila.
                                      2. gr.
@@ -97,7 +98,7 @@
    [Samlagsfélög með ótakmarkaðri ábyrgð minnst eins félagsaðila geta ekki
    verið sjálfstæðir skattaðilar.]^2)
 
-   ^1)[3]L. 20/1991, 136. gr.^2)[4]L. 122/1993, 1. gr.
+   ^1)[4]L. 20/1991, 136. gr.^2)[5]L. 122/1993, 1. gr.
 
                              Takmörkuð skattskylda.
                                      3. gr.
@@ -145,8 +146,8 @@
            [Allir aðilar sem eiga eignir hér á landi skv. 4.8. tölul. skulu
            greiða eignarskatt af þeim eignum.]^1)
 
-   ^1)[5]L. 145/1995, 2. gr. Ákvæðið komi til framkvæmda við álagningu
-   tekjuskatts og eignarskatts á árinu 1997, sbr. [6]24. gr. s.l.
+   ^1)[6]L. 145/1995, 2. gr. Ákvæðið komi til framkvæmda við álagningu
+   tekjuskatts og eignarskatts á árinu 1997, sbr. [7]24. gr. s.l.
 
                         Aðilar undanþegnir skattskyldu.
                                      4. gr.
@@ -156,8 +157,7 @@
            Forseti Íslands og maki hans.
    2.
            Ríkissjóður, ríkisstofnanir og ríkisfyrirtæki sem hann rekur og
-           ber ótakmarkaða ábyrgð á svo og Fiskifélag Íslands og Búnaðarfélag
-           Íslands.
+           ber ótakmarkaða ábyrgð á svo og Fiskifélag Íslands ...^1)
    3.
            Sýslu- og sveitarfélög, fyrirtæki og stofnanir sem þau reka og
            bera ótakmarkaða ábyrgð á.
@@ -174,6 +174,8 @@
    7.
            Aðilar sem undanþegnir eru skattskyldu með sérstökum lögum.
 
+   ^1)[8]L. 73/1996, 18. gr.
+
                           Skattskylda hjóna og barna.
                                      5. gr.
         Hjón eru sjálfstæðir skattaðilar hvort um sig og skal þeim ákveðinn
@@ -188,7 +190,7 @@
                                    II. kafli.
                             Skattskyldar tekjur.^1)
 
-   ^1)Sjá hér brbákv. I með [7]l. 30/1995, 6. gr.
+   ^1)Sjá hér brbákv. I með [9]l. 30/1995, 6. gr.
 
                                  Almenn ákvæði.
                                      7. gr.
@@ -226,11 +228,11 @@
                         launamissis og hvers konar aðrar skaðabætur og
                         vátryggingabætur, sbr. þó 2. tölul. 28. gr. Þó skal
                         hvorki teljast til tekna barnalífeyrir, sem greiddur
-                        er skv. 14. gr. og [8]35. gr. laga nr. 67/1971^4) um
+                        er skv. 14. gr. og [10]35. gr. laga nr. 67/1971^4) um
                         almannatryggingar, með síðari breytingum, vegna barns
                         ef annað hvort foreldra er látið eða barn er ófeðrað,
                         né heldur barnsmeðlag að því leyti sem það takmarkast
-                        af fjárhæð barnalífeyris skv. [9]14. gr. sömu laga.
+                        af fjárhæð barnalífeyris skv. [11]14. gr. sömu laga.
                         Meðlög eða framfærslulífeyrir til maka eða
                         fyrrverandi maka telst ekki til tekna hjá móttakanda
                         hafi hjónin slitið samvistum eða eftir lögskilnað, að
@@ -308,8 +310,8 @@
                         Sérhverjar aðrar tekjur eða ígildi tekna sem eigi eru
                         sérstaklega undanskildar í lögum þessum eða sérlögum.
 
-   ^1)[10]L. 30/1995, 1. gr.^2)[11]L. 49/1987, 1. gr.^3)Sjá hér brbákv. II
-   með [12]l. 30/1995, 6. gr.^4)Nú [13]l. 117/1993.^5)[14]L. 147/1994, 1. gr.
+   ^1)[12]L. 30/1995, 1. gr.^2)[13]L. 49/1987, 1. gr.^3)Sjá hér brbákv. II
+   með [14]l. 30/1995, 6. gr.^4)Nú [15]l. 117/1993.^5)[16]L. 147/1994, 1. gr.
 
                  Skattskyldir vextir, afföll og gengishagnaður.
                                      8. gr.
@@ -348,40 +350,62 @@
            Frá gengishagnaði ársins skal draga gengistap, sbr. 4. tölul. 1.
            mgr. 51. gr., og færa mismuninn til tekna sem gengishagnað.
 
-        Til tekna sem verðbætur og gengishagnaður af kröfum eða inneignum
-   manna, sem ekki eru tengdar atvinnurekstri eða sjálfstæðri starfsemi,
-   teljast þó aðeins gjaldfallnar verðbætur og gengishagnaður á afborganir og
-   vexti.
+        [Til tekna sem vextir, sbr. 1. mgr., af kröfum eða inneignum, sem
+   ekki eru tengdar atvinnurekstri eða sjálfstæðri starfsemi, teljast vextir
+   sem greiddir eru eða eru greiðslukræfir og greiddar verðbætur á afborganir
+   og vexti, svo og gengishækkun hlutdeildarskírteina. Til tekna í þessu
+   sambandi teljast enn fremur hvers kyns gengishagnaður og afföll af keyptum
+   verðbréfum, víxlum og sérhverjum öðrum kröfum og hvers kyns aðrar tekjur
+   af peningalegum eignum. Ákvörðun tekna skal vera þannig:
 
-   ^1)[15]L. 8/1984, 1. gr.
+   1.
+           Vextir af reikningum í innlánsstofnunum skulu teljast til tekna
+           þegar þeir eru færðir eiganda til eignar á reikningi.
+   2.
+           Vextir af kröfu skulu teljast til tekna þegar þeir eru greiddir
+           eða greiðslukræfir.
+   3.
+           Afföll, þ.e. mismunur á uppreiknuðu nafnverði kröfu á kaupdegi að
+           frádregnu kaupverði hennar, skal færa til tekna í hlutfalli við
+           afborganir nafnverðs þegar þær greiðast.
 
-                     Skattskyldur arður, jöfnunarhlutabréf.
+           Við vexti af verðbréfum sem ekki eru með árlegri greiðslu skal,
+           þegar skattur er reiknaður af vöxtunum, bætast sérstakt álag sem
+           miðast við að ársávöxtun eftir skatt yfir reikningstímabilið sé
+           sem næst því sem verið hefði við árlega staðgreiðslu. Seðlabanki
+           Íslands skal reikna út stuðul í þessu sambandi fyrir hvert tekjuár
+           í upphafi næsta árs á eftir tekjuárinu. Nánar skal kveðið á um
+           útreikning þennan í reglugerð.
+
+   4.
+           Áfallinn gengishagnað á hverja úttekt af reikningi eða afborgun af
+           kröfu í erlendri mynt skal færa til tekna. Heimilt skal þó að miða
+           við meðaltal stöðu reiknings í upphafi og í lok árs eða á
+           innborgunar- og úttektardegi innan ársins nema um veruleg
+           viðskipti sé að ræða. Nánari reglur hér að lútandi skulu settar í
+           reglugerð í samráði við Seðlabanka Íslands.
+   5.
+           Vextir, arður og önnur ávöxtun af lífeyristryggingum,
+           söfnunartryggingum, einstaklinga hjá líftryggingafélögum skulu
+           teljast til tekna þegar slíkar tekjur koma til greiðslu, nema að
+           því leyti sem lífeyristryggingar, söfnunartryggingar, verða
+           skattlagðar sem tekjur samkvæmt öðrum ákvæðum laga þessara.]^2)
+
+   ^1)[17]L. 8/1984, 1. gr.^2)[18]L. 97/1996, 1. gr.
+
+                            [Skattskyldur arður.]^1)
+
+   ^1)[19]L. 97/1996, 2. gr.
+
                                      9. gr.
-        Til arðs af hlutum og hlutabréfum í félögum sem um ræðir í 1. tölul.
-   1. mgr. 2. gr., telst auk venjulegrar arðgreiðslu sérhver afhending
+        [Til arðs af hlutum og hlutabréfum í félögum, sem um ræðir í 1.
+   tölul. 1. mgr. 2. gr., telst auk venjulegrar arðgreiðslu sérhver afhending
    verðmæta til hlutareiganda eða hluthafa er telja verður sem tekjur af
-   hlutareign þeirra í félaginu. Til arðs telst þó ekki úthlutun
-   jöfnunarhlutabréfa sem hefur ekki í för með sér breytta eignarhlutdeild
-   hlutareiganda eða hluthafa í hlutafélagi og telst því ekki heldur til
-   skattskyldra tekna hlutareigandans. Útgáfa bréfanna skal byggð á
-   raunverulegu verðmæti hreinnar eignar félagsins í lok þess árs sem næst er
-   á undan útgáfuári, að teknu tilliti til opinberra gjalda sem tengd eru því
-   ári. [Til hreinnar eignar félagsins í þessu sambandi telst þó ekki
-   fjárfestingarsjóður, sbr. 11. tölul. 31. gr.]^1) Samanlagt nafnverð
-   jöfnunarhlutabréfanna má ekki vera hærra en svarar til hækkunar á hlutafé
-   félagsins í samræmi við almennar verðhækkanir frá 1. janúar 1979 eða frá
-   stofnun hlutafélags eða innborgun hlutafjár eftir þann tíma.
-   Ríkisskattstjóri ákveður hvernig reikna skal hina almennu verðhækkun.
-   Arður af eigin hlutum eða hlutabréfum hlutafélags telst hvorki til tekna
-   né gjalda hjá því.
-        Nú er félagi slitið án þess að um samruna félaga sé að ræða, sbr. 56.
-   gr., og skal þá teljast til arðs úthlutun við félagsslit umfram hlutafé
-   félagsins, þ.e. nafnverð bréfanna, þar með talið nafnverð útgefinna
-   jöfnunarhlutabréfa eða samsvarandi fjárhæð er heimilt hefði verið að
-   úthluta sem jöfnunarhlutabréfum. Skiptir ekki máli í því sambandi hvenær
-   eða fyrir hvaða verð hlutirnir eða hlutabréfin hafa verið keypt.
+   hlutareign þeirra í félaginu.
+        Arður af eigin hlutum eða hlutabréfum telst hvorki til tekna né
+   gjalda hjá hlutafélagi.]^1)
 
-   ^1)[16]L. 8/1984, 2. gr.
+   ^1)[20]L. 97/1996, 2. gr.
 
                     Sameiginleg ákvæði um söluhagnað eigna.
                                     10. gr.
@@ -471,7 +495,7 @@
    er undir stærðarmörkum þeim er greinir í 16. gr. og er í eigu manna, sbr.
    5. mgr. þeirrar greinar.
 
-   ^1)[17]L. 111/1992, 1. gr.^2)3. mgr. 44. gr. var felld niður með [18]8.
+   ^1)[21]L. 111/1992, 1. gr.^2)3. mgr. 44. gr. var felld niður með [22]8.
    gr. l. 8/1984.
 
                                     15. gr.
@@ -490,8 +514,8 @@
                          Söluhagnaður af íbúðarhúsnæði.
                                     16. gr.
         Hagnaður af sölu íbúðarhúsnæðis telst að fullu til skattskyldra tekna
-   á söluári hafi maður átt hið selda húsnæði skemur en fimm ár, en hafi hann
-   átt hið selda í fimm ár eða lengur telst söluhagnaðurinn ekki til
+   á söluári hafi maður átt hið selda húsnæði skemur en [tvö]^1) ár, en hafi
+   hann átt hið selda í [tvö]^1) ár eða lengur telst söluhagnaðurinn ekki til
    skattskyldra tekna. Ákvæði þessarar greinar gilda aðeins um sölu
    íbúðarhúsnæðis sem er í eigu manna og aðeins að því marki sem
    heildarrúmmál íbúðarhúsnæðis seljanda fer ekki fram úr 600 m^3 á söludegi
@@ -521,13 +545,13 @@
    tengslum við kaup, byggingu eða endurbætur íbúðarhúsnæðisins, sbr. 2. mgr.
    3. gr. laga um húsnæðissparnaðarreikninga, hins vegar þegar stofnverðið,
    söluhagnaðurinn og 25% innstæðuinnlausnar hefur verið hækkað eða lækkað
-   samkvæmt verðbreytingarstuðli eftir ákvæðum 26. gr.]^1)
+   samkvæmt verðbreytingarstuðli eftir ákvæðum 26. gr.]^2)
         Þegar maður selur íbúðarhúsnæði sem hann hefur byggt eða endurbætt og
-   salan fer fram innan fimm ára frá því síðast var lagt í byggingarkostnað,
-   skal einungis sá hluti söluhagnaðarins teljast skattskyldur sem svarar til
-   þess hlutfalls af heildarbyggingarkostnaði sem í var lagt innan fimm ára
-   frá söludegi. Áður en þetta hlutfall byggingarkostnaðar er reiknað skal
-   umreikna hann samkvæmt ákvæðum 26. gr.
+   salan fer fram innan [tveggja]^1) ára frá því síðast var lagt í
+   byggingarkostnað, skal einungis sá hluti söluhagnaðarins teljast
+   skattskyldur sem svarar til þess hlutfalls af heildarbyggingarkostnaði sem
+   í var lagt innan [tveggja]^1) ára frá söludegi. Áður en þetta hlutfall
+   byggingarkostnaðar er reiknað skal umreikna hann samkvæmt ákvæðum 26. gr.
         Falli sala íbúðarhúsnæðis bæði undir ákvæði þessarar greinar og 14.
    gr. skal söluhagnaði skipt til skattlagningar í sama hlutfalli og er milli
    þess rúmmáls íbúðarhúsnæðis sem seljandi átti umfram 600 m³ á söludegi eða
@@ -544,34 +568,47 @@
    íbúðarhúsalóðir. Um söluhagnað lóðar umfram þessi mörk gilda ákvæði 14.
    gr.
 
-   ^1)[19]L. 47/1985, 1. gr.
+   ^1)[23]L. 97/1996, 3. gr.^2)[24]L. 47/1985, 1. gr.
 
                     Söluhagnaður af eignarhlutum í félögum.
                                     17. gr.
         Hagnaður af sölu hlutabréfa telst að fullu til skattskyldra tekna á
    söluári og skiptir ekki máli hve lengi skattaðili hefur átt hin seldu
    hlutabréf.
-        Hagnaður af sölu hlutabréfa telst mismunur á söluverði þeirra annars
-   vegar og kaupverði þeirra hins vegar. Kaupverð hlutabréfa í hendi seljanda
-   ákvarðast annaðhvort sem samanlagt nafnverð hlutabréfanna og þeirra
-   jöfnunarhlutabréfa sem hann hefur fengið úthlutað eða heimilt hefði verið
-   að úthluta honum, eða sem upphaflegt kaupverð þeirra þegar það hefur verið
-   hækkað eða lækkað samkvæmt verðbreytingarstuðli eftir ákvæðum 26. gr., sé
-   það hærra. Kaupverð hlutabréfa sem skattaðili hefur eignast við samruna
-   hlutafélaga skv. 56. gr. skal ákvarðast jafnt framreiknuðu kaupverði
-   þeirra hlutabréfa er hann lét af hendi. Þegar ákveða skal hagnað af sölu
-   hlutabréfa skal kaupverð hvers hlutabréfs teljast jafnt framreiknuðu
-   meðalkaupverði allra hlutabréfa sömu tegundar í hendi sama eiganda.
-        [Hagnaður manns af sölu hlutabréfa, sem hann hefur keypt á árinu 1990
-   og síðar í félögum sem ríkisskattstjóri hefur á söluári bréfanna veitt
-   staðfestingu um að uppfylli skilyrði [20]III. kafla laga nr. 9/1984, telst
-   þó ekki til skattskyldra tekna hafi hin seldu hlutabréf verið í eigu
+        [Hagnaður af sölu hlutabréfa telst mismunur á söluverði þeirra annars
+   vegar og kaupverði þeirra hins vegar. Kaupverð hlutabréfa, sem skattaðili
+   hefur eignast við samruna hlutafélaga skv. 56. gr., skal ákvarðast jafnt
+   kaupverði þeirra hlutabréfa er hann lét af hendi. Þegar ákveða skal hagnað
+   af sölu hlutabréfa skal kaupverð hvers hlutabréfs teljast jafnt
+   meðalkaupverði allra hlutabréfa sömu tegundar á hendi sama eiganda.
+        Nú er félagi slitið án þess að um samruna félaga sé að ræða, sbr. 56.
+   gr., og skal þá litið á það sem sölu hlutafjár á hendi eiganda og
+   úthlutunina sem söluverð. Sé hlutafé í hlutafélagi lækkað og það greitt út
+   til hluthafa skal líta svo á að um sé að ræða sölu hlutafjár á hendi
+   eiganda til hlutafélagsins.]^1)
+        [Hagnaður manns af sölu hlutabréfa, sem hann hefur keypt [á árunum
+   19901996]^1) í félögum sem ríkisskattstjóri hefur á söluári bréfanna
+   veitt staðfestingu um að uppfylli skilyrði [25]III. kafla laga nr. 9/1984,
+   telst þó ekki til skattskyldra tekna hafi hin seldu hlutabréf verið í eigu
    mannsins í full fjögur ár. Hámark skattfrjáls hagnaðar samkvæmt þessari
-   málsgrein er [341.377]^1) kr. Um hagnað umfram skattfrjálst hámark og um
-   hagnað af sölu hlutabréfa, sem maður hefur keypt á árinu 1989 eða fyrr,
-   fer eftir ákvæðum 1. mgr.]^2)
+   málsgrein er [341.377]^2) kr. Um hagnað umfram skattfrjálst hámark og um
+   hagnað af sölu hlutabréfa, sem maður hefur keypt á árinu 1989 eða fyrr
+   [eða á árinu 1997 eða síðar],^1) fer eftir ákvæðum 1. mgr.]^3)
+        [Unnt er að fara fram á frestun á tekjufærslu söluhagnaðar manns af
+   sölu hlutabréfa um tvenn áramót frá söludegi að svo miklu leyti sem
+   fjárhæð hans er umfram 3.000.000 kr. hjá einstaklingum og 6.000.000 kr.
+   hjá hjónum. Kaupi hann önnur hlutabréf í stað hinna seldu innan þess tíma
+   færist söluhagnaðurinn til lækkunar á því kaupverði hinna nýju bréfa sem
+   ákvörðun söluhagnaðar samkvæmt þessari grein miðast við. Nemi kaupverð
+   hinna keyptu hlutabréfa lægri fjárhæð en söluhagnaðurinn telst mismunurinn
+   til skattskyldra tekna á kaupári hinna keyptu bréfa. Ef hlutabréf eru ekki
+   keypt innan tilskilins tíma telst hagnaðurinn með skattskyldum tekjum á
+   því ári þegar hann myndast. Ákvæði þessarar málsgreinar taka ekki til
+   söluhagnaðar sem myndaðist í atvinnurekstri eða sjálfstæðri starfsemi.]^1)
 
-   ^1)[21]L. 145/1995, 3. gr.^2)[22]L. 63/1990, 1. gr.
+   ^1)[26]L. 97/1996, 4. gr. Um gildistöku breyttra reglna um skattlagningu
+   söluhagnaðar af hlutabréfum sjá 2. mgr. 13. gr. þeirra laga.^2)[27]L.
+   145/1995, 3. gr.^3)[28]L. 63/1990, 1. gr.
 
                                     18. gr.
         Hagnaður af sölu eignarhluta í samlögum og sameignarfélögum telst að
@@ -586,7 +623,7 @@
    þessu sambandi telst skattskyld hrein eign félagsins að meðtöldu stofnfé
    en að undanskildum 65% af fjárfestingarsjóði, sbr. 11. tölul. 31. gr.]^1)
 
-   ^1)[23]L. 8/1984, 3. gr.
+   ^1)[29]L. 8/1984, 3. gr.
 
                            Ýmis ákvæði um söluhagnað.
                                     19. gr.
@@ -656,14 +693,14 @@
    söluhagnaði og fyrningum eftir því sem nánar er ákveðið í lögum þessum
    skal reiknaður árlega, í fyrsta sinn fyrir árið 1980. [Stuðullinn skal
    miðast við breytingu á byggingarvísitölu frá upphafi til loka 12 mánaða
-   tímabils, sbr. [24]lög nr. 42/1987, um vísitölu byggingarkostnaðar, og
+   tímabils, sbr. [30]lög nr. 42/1987, um vísitölu byggingarkostnaðar, og
    skal miða breytingu við þann mun sem verður á byggingarvísitölu sem gildir
    fyrir janúarmánuð á tekjuári og byggingarvísitölu sem gildir fyrir
    janúarmánuð á álagningarári.]^1)
         Ríkisskattstjóri skal birta verðbreytingarstuðul í lok hvers tekjuárs
    og gildir hann fyrir það ár.
 
-   ^1)[25]L. 36/1991, 1. gr.
+   ^1)[31]L. 36/1991, 1. gr.
 
                                     27. gr.
         Nú selur skattaðili eign með skattskyldum söluhagnaði og hluti
@@ -688,7 +725,7 @@
    samkvæmt þessari grein kemur því aðeins til greina að yfirfæranleg
    rekstrartöp hafi verið jöfnuð.
 
-   ^1)[26]L. 85/1991, 2. gr.
+   ^1)[32]L. 85/1991, 2. gr.
 
                            Hvað ekki telst til tekna.
                                     28. gr.
@@ -729,7 +766,7 @@
            matshækkun búfjár samkvæmt 2. tölul. 74. gr., enda kemur
            matslækkun ekki til frádráttar tekjum.
 
-   ^1)[27]L. 92/1987, 1. gr.^2)[28]L. 122/1993, 2. gr.^3)[29]L. 49/1987, 2.
+   ^1)[33]L. 92/1987, 1. gr.^2)[34]L. 122/1993, 2. gr.^3)[35]L. 49/1987, 2.
    gr.
 
                                   III. kafli.
@@ -771,42 +808,21 @@
    [5.
            Iðgjöld launþega sem greidd hafa verið til lífeyrissjóða sem
            starfa samkvæmt lögum eða hlotið hafa staðfestingu
-           fjármálaráðuneytisins skv. [30]2. gr. laga nr. 55/1980, að hámarki
+           fjármálaráðuneytisins skv. [36]2. gr. laga nr. 55/1980, að hámarki
            4% af heildarlaunum.]^5)
    [6.
            Iðgjöld manna sem vinna við eigin atvinnurekstur eða sjálfstæða
            starfsemi sem greidd hafa verið til lífeyrissjóða sem starfa
            samkvæmt lögum eða hlotið hafa staðfestingu fjármálaráðuneytisins
-           skv. [31]2. gr. laga nr. 55/1980, að hámarki 4% af fjárhæð skv. 2.
+           skv. [37]2. gr. laga nr. 55/1980, að hámarki 4% af fjárhæð skv. 2.
            mgr. 1. tölul. A-liðar 7. gr., sbr. 59. gr.]^6)
 
-   B.1. Vaxtatekjur, afföll og gengishagnað skv. 8. gr. enda séu tekjur
-   þessar ekki tengdar atvinnurekstri eða sjálfstæðri starfsemi.
-
-   2.
-           [Fenginn arð, sbr. 9. gr., að hámarki [10%]^7) af nafnverði hvers
-           einstaks hlutabréfs eða hlutar, þó að hámarki [130.939]^4) kr. hjá
-           einstaklingi og [261.878]^4) kr. hjá hjónum. Til arðs í þessu
-           sambandi teljast þó ekki fengin jöfnunarhlutabréf umfram þau mörk
-           sem greinir í 1. mgr. 9. gr.]^8) Arður barns innan 16 ára aldurs
-           sem er á framfæri foreldra sinna (þ.m.t. kjörforeldrar,
-           stjúpforeldrar, fósturforeldrar) telst með arði foreldris, sbr. 1.
-           mgr. 65. gr., og gilda framangreindar hámarksfjárhæðir um
-           samanlagðan arð foreldris og barns.
-   3.
-           Fé það sem fært hefur verið félagsmanni í félagi skv. 2. tölul. 1.
-           mgr. 2. gr. til séreignar í stofnsjóði hans á árinu, að hámarki
-           [7%]^8) af viðskiptum hans utan atvinnurekstrar eða sjálfstæðrar
-           starfsemi.
-   [4.
-           ...^7)]^8)
-   [5.
-           Fé það sem varið er til aukningar á fjárfestingu á árinu í
-           innlendum atvinnurekstri samkvæmt [32]lögum nr. 9/1984, um
-           frádrátt frá skattskyldum tekjum vegna fjárfestingar manna í
-           atvinnurekstri, með síðari breytingum. Frádráttur þessi skal þó
-           aldrei vera hærri en sem nemur 80% fjárhæðarinnar, þó að hámarki
-           [103.920]^4) kr. hjá einstaklingi og [207.840]^4) kr. hjá hjónum.
+   B.[[1.]^7) Fé það sem varið er til aukningar á fjárfestingu á árinu í
+   innlendum atvinnurekstri samkvæmt [38]lögum nr. 9/1984, um frádrátt frá
+   skattskyldum tekjum vegna fjárfestingar manna í atvinnurekstri, með síðari
+   breytingum. Frádráttur þessi skal þó aldrei vera hærri en sem nemur 80%
+   fjárhæðarinnar, þó að hámarki [103.920]^4) kr. hjá einstaklingi og
+   [207.840]^4) kr. hjá hjónum.
 
    Fjárhæð umfram frádráttarmörk, sbr. 1. mgr. þessa töluliðar, er heimilt að
    flytja milli ára og nýta á næstu fimm árum. Ónýtt frádráttarheimild tekur
@@ -827,7 +843,7 @@
    Ákvæði þessa töluliðar skulu einnig eiga við um samvinnuhlutabréf.
 
    Enn fremur má draga frá tekjum samkvæmt þessum tölulið kaup á
-   stofnfjárbréfum í sparisjóðum, sbr. [33]lög nr. 43/1993, um viðskiptabanka
+   stofnfjárbréfum í sparisjóðum, sbr. [39]lög nr. 43/1993, um viðskiptabanka
    og sparisjóði. Skilyrði fyrir frádrætti samkvæmt þessari málsgrein er að
    útboð slíkra stofnfjárbréfa sé opið fyrir alla einstaklinga sem eiga
    lögheimili á starfssvæði viðkomandi sparisjóðs og að eigi sé heimilt að
@@ -836,16 +852,38 @@
    Fjármálaráðherra getur með reglugerð sett nánari ákvæði um framkvæmd
    frádráttar samkvæmt þessum tölulið, þar með talið um millifærslu fjárhæðar
    umfram frádráttarmörk milli ára og meðferð hans þegar breyting verður á
-   hjúskaparstöðu.]^9)
+   hjúskaparstöðu. [Frádráttur samkvæmt þessum lið heimilast frá þeim tekjum
+   manna er greinir í A- og B-lið 7. gr.]^7)]^8)
+
+   2.
+           [Nú verður greiðslufall á kröfu sem vextir, sbr. 2. mgr. 8. gr.,
+           hafa verið reiknaðir af og frestast þá greiðsla skatts af slíkum
+           vöxtum.
+
+   Heimilt er að mótreikna tapaða vexti við fjármagnstekjur hafi skattur
+   þegar verið greiddur af vöxtunum. Skal það gert á því ári þegar sýnt er að
+   krafa sem vextir voru reiknaðir af fæst ekki greidd og skal gera grein
+   fyrir henni í skattframtali viðkomandi tekjuárs. Með sama hætti fer um
+   aðrar fjármagnstekjur, sbr. 3. mgr. 67. gr. Heimildin nær til fimm ára
+   aftur í tímann frá og með tekjuári. Sé ekki um fjármagnstekjur að ræða á
+   því tekjuári þegar mótreikningur á sér stað yfirfærist
+   mótreikningsheimildin til næsta skattframtals í allt að fimm ár. Heimild
+   samkvæmt þessari málsgrein tekur einungis til fjármagnstekna utan rekstrar
+   hjá einstaklingum og þeirra lögaðila sem ekki hafa með höndum
+   atvinnurekstur.
+
+   Ákvæði 2. mgr. þessarar greinar um heimild til að draga frá beinan kostnað
+   við öflun tekna gilda ekki um leigutekjur, vexti eða aðrar
+   fjármagnstekjur.]^7)
 
    C.
-           ...^10)
+           ...^9)
    D.
-           ...^10)
+           ...^9)
    E.
-           ...^10)
+           ...^9)
 
-        ...^10)
+        ...^9)
         Hafi maður beinan kostnað við öflun annarra tekna en tekna skv. 1.
    tölul. A-liðs 1. mgr. 7. gr., án þess að hún verði talin falla undir
    atvinnurekstur eða sjálfstæða starfsemi, skulu ákvæði 1. mgr. 1. tölul.
@@ -857,26 +895,21 @@
    íbúðarhúsnæði telst ekki til atvinnurekstrar eða sjálfstæðrar starfsemi í
    þessu sambandi nema því aðeins að heildarfyrningargrunnur slíks húsnæðis í
    eigu hans í árslok nemi [21.823.200]^4) kr. eða meira ef um einstakling er
-   að ræða, en [43.646.400]^4) kr. ef hjón, sbr. 63. gr., eiga í hlut.]^8)
+   að ræða, en [43.646.400]^4) kr. ef hjón, sbr. 63. gr., eiga í hlut.]^10)
         [Hafi maður leigutekjur af íbúðarhúsnæði, án þess að það teljist vera
-   atvinnurekstur eða sjálfstæð starfsemi, er honum heimilt í stað beins
-   kostnaðar skv. 2. mgr. að draga frá þeim tekjum húsaleigugjöld af
-   íbúðarhúsnæði til eigin nota. Frádráttur þessi leyfist eingöngu til
-   frádráttar leigutekjum af íbúðarhúsnæði sem ætlað er til eigin nota en er
-   tímabundið til útleigu.]^11)
-        [Hafi maður leigutekjur af íbúðarhúsnæði án þess að það teljist vera
-   atvinnurekstur eða sjálfstæð starfsemi er honum heimilt í stað frádráttar
-   skv. 2. eða 3. mgr. að draga allt að 80% frá þeim tekjum, þó eigi hærri
-   fjárhæð en [25.980]^4) kr. fyrir hvern mánuð sem húsnæði er í leigu.]^12)
+   atvinnurekstur eða sjálfstæð starfsemi, er honum heimilt ...^7) að draga
+   frá þeim tekjum húsaleigugjöld af íbúðarhúsnæði til eigin nota. Frádráttur
+   þessi leyfist eingöngu til frádráttar leigutekjum af íbúðarhúsnæði sem
+   ætlað er til eigin nota en er tímabundið til útleigu.]^11)
+        ...^7)
 
-   ^1)[34]L. 92/1987, 2. gr.^2)[35]L. 122/1993, 3. gr.^3)[36]L. 49/1987, 3.
-   gr.^4)[37]L. 145/1995, 4. gr.^5)[38]L. 30/1995, 2. gr. Komi til framkvæmda
+   ^1)[40]L. 92/1987, 2. gr.^2)[41]L. 122/1993, 3. gr.^3)[42]L. 49/1987, 3.
+   gr.^4)[43]L. 145/1995, 4. gr.^5)[44]L. 30/1995, 2. gr. Komi til framkvæmda
    frá og með 1. júlí 1997 og taki til iðgjalda sem greidd hafa verið vegna
-   launatímabila frá og með þeim tíma, sbr. [39]5. gr. s.l.^6)[40]L.
-   145/1995, 5. gr.^7)[41]L. 111/1992, 2. gr.^8)[42]L. 8/1984, 4.
-   gr.^9)[43]L. 147/1994, 2. gr. Komi til framkvæmda við álagningu 1996 vegna
-   tekna á árinu 1995 og staðgreiðslu á því ári, sbr. [44]17. gr.
-   s.l.^10)[45]L. 49/1987, 4. gr.^11)[46]L. 57/1994, 1. gr.^12)
+   launatímabila frá og með þeim tíma, sbr. [45]5. gr. s.l.^6)[46]L.
+   145/1995, 5. gr.^7)[47]L. 97/1996, 5. gr.^8)[48]L. 147/1994, 2.
+   gr.^9)[49]L. 49/1987, 4. gr.^10)[50]L. 8/1984, 4. gr.^11)[51]L. 57/1994,
+   1. gr.
 
                     Frádráttur frá tekjum af atvinnurekstri.
                                     31. gr.
@@ -930,11 +963,11 @@
 
            [Sannanlega tapað hlutafé í félögum sem orðið hafa gjaldþrota.
            Sama gildir um hlutafé sem tapast hefur vegna þess að það hefur
-           verið fært niður í kjölfar nauðasamninga samkvæmt [47]lögum nr.
+           verið fært niður í kjölfar nauðasamninga samkvæmt [52]lögum nr.
            21/1991.]^5)
 
-   [Sannanlega tapað hlutafé sem verðbréfasjóðir, skv. [48]lögum nr. 10/1993,
-   um verðbréfasjóði, og fjárfestingarfélög skv. [49]23. gr. laga nr. 9/1984
+   [Sannanlega tapað hlutafé sem verðbréfasjóðir, skv. [53]lögum nr. 10/1993,
+   um verðbréfasjóði, og fjárfestingarfélög skv. [54]23. gr. laga nr. 9/1984
    hafa fjárfest í á því tekjuári er hlutafé tapast.]^3)
 
    5.
@@ -955,9 +988,20 @@
            umræddar breytingar hafi verið gerðar í eðlilegum og venjulegum
            rekstrartilgangi.]^7)
    8.
-           ...^6)
+           Fjárhæð þá er félög, sem um ræðir í 1. tölul. 1. mgr. 2. gr.,
+           greiða eða úthluta í arð. [Frádráttur þessi skal þó aldrei vera
+           hærri en nemur 7% af nafnverði hlutafjár. Sé í eigu hlutafélags
+           íbúðarhús, sumarhús, fólksbifreiðar, skemmtibátar eða aðrar eignir
+           sem ekki tengjast rekstrarþörf félagsins og ætlaðar eru til
+           einkaþarfa hluthafa, stjórnarmanna eða framkvæmdastjóra félagsins
+           eða skylduliðs þeirra manna skal verðmæti þeirra eigna dregið frá
+           nafnverði áður en arður samkvæmt þessum tölulið er ákvarðaður. Nú
+           nýtir hlutafélag ekki að fullu frádráttarheimild samkvæmt þessum
+           tölulið og er þá heimilt að flytja ónýtta frádráttarheimild til
+           næstu ára. Arður samkvæmt þessum tölulið er frádráttarbær frá
+           tekjum þess árs sem hann er reiknaður af.]^8)
 
-           [9.]^8) Fjárhæð þá er félög, sem um ræðir í 2. tölul. 1. mgr. 2.
+           [9.]^9) Fjárhæð þá er félög, sem um ræðir í 2. tölul. 1. mgr. 2.
            gr., greiða félagsaðilum sínum í árslok eða færa þeim til
            séreignar í stofnsjóði í hlutfalli við viðskipti þeirra á árinu
            samkvæmt lögum um samvinnufélög.
@@ -970,31 +1014,28 @@
            nemi allt að ^2/[3] hlutum hreinna tekna enda sé sú fjárhæð greidd
            félagsaðilum eða færð þeim til séreignar í stofnsjóði í hlutfalli
            við viðskipti þeirra á árinu. Slíkur arður skal þó aldrei nema
-           meiru en [7%]^8) af viðskiptum félagsaðila.
+           meiru en [7%]^9) af viðskiptum félagsaðila.
 
-           [10.]^8) Fjárhæð þá er félög, sem um ræðir í 4. tölul. 1. mgr. 2.
+           [10.]^9) Fjárhæð þá er félög, sem um ræðir í 4. tölul. 1. mgr. 2.
            gr., greiða félagsaðilum sínum í árslok í hlutfalli við viðskipti
            þeirra á árinu, þó eigi hærra hlutfall af hreinum tekjum félags en
            sem svarar hlutfalli viðskipta félagsaðila af heildarviðskiptum
            þess.
 
-           [11. ...^1)]^8)
+           [11. ...^1)]^9)
 
-           [12. ...^9)]^10)
+           [12. ...^10)]^11)
 
-        ...^8)
+        ...^9)
 
-   ^1)[50]L. 111/1992, 3. gr.^2)[51]L. 147/1994, 3. gr.^3)[52]L. 122/1993, 4.
-   gr.^4)[53]L. 63/1990, 3. gr.^5)[54]L. 30/1995, 3. gr. Komi til framkvæmda
-   við álagningu á árinu 1996 vegna tekna og gjalda á árinu 1995 og eigna í
-   lok þess árs, sbr. [55]5. gr. s.l.^6)[56]L. 85/1991, 4. gr.^7)[57]L.
-   147/1994, 3. gr. Komi til framkvæmda við álagningu 1996 vegna tekna á
-   árinu 1995 og staðgreiðslu á því ári, sbr. [58]17. gr. s.l.^8)[59]L.
-   8/1984, 5. gr.^9)[60]L. 145/1995, 5. gr.^10)[61]L. 30/1995, 3. gr.
+   ^1)[55]L. 111/1992, 3. gr.^2)[56]L. 147/1994, 3. gr.^3)[57]L. 122/1993, 4.
+   gr.^4)[58]L. 63/1990, 3. gr.^5)[59]L. 30/1995, 3. gr.^6)[60]L. 85/1991, 4.
+   gr.^7)[61]L. 147/1994, 3. gr.^8)[62]L. 97/1996, 6. gr.^9)[63]L. 8/1984, 5.
+   gr.^10)[64]L. 145/1995, 5. gr.^11)[65]L. 30/1995, 3. gr.
 
                              [Niðurfærsla eigna]^1)
 
-   ^1)[62]L. 60/1993, 1. gr.
+   ^1)[66]L. 60/1993, 1. gr.
 
                                   [31. gr. A.
         Stofnkostnað við kaup á framleiðslurétti í landbúnaði má færa niður
@@ -1016,7 +1057,7 @@
    færður niður. Um söluhagnað framleiðsluréttar í landbúnaði, sbr. 1. mgr.,
    fer eftir 14. gr.]^2)
 
-   ^1)[63]L. 147/1994, 4. gr.^2)[64]L. 60/1993, 1. gr.
+   ^1)[67]L. 147/1994, 4. gr.^2)[68]L. 60/1993, 1. gr.
 
                               Fyrnanlegar eignir.
                                     32. gr.
@@ -1038,7 +1079,7 @@
    5.
            ...^2)
 
-   ^1)[65]L. 8/1984, 6. gr.^2)[66]L. 111/1992, 5. gr.
+   ^1)[69]L. 8/1984, 6. gr.^2)[70]L. 111/1992, 5. gr.
 
                                     33. gr.
         Fyrningartími eigna hefst við byrjun þess rekstrarárs þegar þær eru
@@ -1133,8 +1174,8 @@
 
            ...^6)
 
-   ^1)[67]L. 97/1988, 2. gr.^2)[68]L. 85/1991, 5. gr.^3)[69]L. 2/1988, 2.
-   gr.^4)[70]L. 8/1984, 7. gr.^5)Rg. 171/1984 og 12/1993.^6)[71]L. 111/1992,
+   ^1)[71]L. 97/1988, 2. gr.^2)[72]L. 85/1991, 5. gr.^3)[73]L. 2/1988, 2.
+   gr.^4)[74]L. 8/1984, 7. gr.^5)Rg. 171/1984 og 12/1993.^6)[75]L. 111/1992,
    6. gr.
 
                                     39. gr.
@@ -1151,14 +1192,14 @@
                                     40. gr.
         ...^1)
 
-   ^1)[72]L. 97/1988, 3. gr.
+   ^1)[76]L. 97/1988, 3. gr.
 
                                     41. gr.
         Þegar kostnaðarverð einstakra eigna eða eignasamstæðna er undir
    [119.508]^1) kr. er heimilt að færa það að fullu til gjalda á því ári
    þegar þeirra er aflað þótt endingartími sé lengri en þrjú ár.
 
-   ^1)[73]L. 145/1995, 6. gr.
+   ^1)[77]L. 145/1995, 6. gr.
 
                                     42. gr.
         Við sölu eigna, sem færðar hafa verið til frádráttar tekjum samkvæmt
@@ -1197,7 +1238,7 @@
         Eigi má mynda rekstrartap vegna fyrninga samkvæmt þessari grein, og
    ekki má nota þær til að fresta yfirfærslu rekstrartapa frá fyrri árum.
 
-   ^1)[74]L. 8/1984, 8. gr.
+   ^1)[78]L. 8/1984, 8. gr.
 
                                     45. gr.
         Eignir skv. 1. og 2. tölul. 32. gr. má aldrei fyrna meira en svo að
@@ -1265,7 +1306,7 @@
         Gjöld samkvæmt þessari grein eru aðeins frádráttarbær að fullu séu
    þau tengd atvinnurekstri eða sjálfstæðri starfsemi. ...^2)
 
-   ^1)[75]L. 118/1985, 2. gr.^2)[76]L. 49/1987, 5. gr.
+   ^1)[79]L. 118/1985, 2. gr.^2)[80]L. 49/1987, 5. gr.
 
                        Hvað ekki telst rekstrarkostnaður.
                                     52. gr.
@@ -1302,7 +1343,7 @@
            tekna, samkvæmt matsreglum ríkisskattstjóra, hjá þeim aðila sem
            heimilt er að hafa hana til umráða í eigin þágu.]^3)
 
-   ^1)[77]L. 101/1995, 1. gr.^2)[78]L. 2/1988, 3. gr.^3)[79]L. 97/1988, 4.
+   ^1)[81]L. 101/1995, 1. gr.^2)[82]L. 2/1988, 3. gr.^3)[83]L. 97/1988, 4.
    gr.
 
                       Tekjur og gjöld vegna verðbreytinga.
@@ -1370,7 +1411,7 @@
    reikningsárs og skal miða við stöðu eigna og skulda í lok næst liðins
    reikningsárs.
 
-   ^1)[80]L. 8/1984, 9. gr. ^2)[81]L. 97/1988, 5. gr.
+   ^1)[84]L. 8/1984, 9. gr. ^2)[85]L. 97/1988, 5. gr.
 
                                    IV. kafli.
                              Ýmis ákvæði um tekjur.
@@ -1378,22 +1419,22 @@
                                     54. gr.
         ...^1)
 
-   ^1)[82]L. 111/1992, 7. gr.
+   ^1)[86]L. 111/1992, 7. gr.
 
                                     55. gr.
         ...^1)
 
-   ^1)[83]L. 111/1992, 7. gr.
+   ^1)[87]L. 111/1992, 7. gr.
 
                                   [55. gr. A.
         ...^1)]^2)
 
-   ^1)[84]L. 111/1992, 7. gr.^2)[85]L. 8/1984, 12. gr.
+   ^1)[88]L. 111/1992, 7. gr.^2)[89]L. 8/1984, 12. gr.
 
                                   [55. gr. B.
         ...^1)]^2)
 
-   ^1)[86]L. 111/1992, 7. gr.^2)[87]L. 8/1984, 12. gr.
+   ^1)[90]L. 111/1992, 7. gr.^2)[91]L. 8/1984, 12. gr.
 
                                Sameining félaga.
                                     56. gr.
@@ -1404,12 +1445,12 @@
    tekjur fyrir þann sem hlutabréfin lét af hendi. Við slíkan samruna
    hlutafélaga skal það félag, er við tekur, taka við öllum skattaréttarlegum
    skyldum og réttindum þess félags sem slitið var.
-        [Þegar samvinnufélög sameinast, sbr. [88]78. gr. laga nr. 22/1991, um
-   samvinnufélög, eða hlutafélag sameinast samvinnufélagi, sbr. [89]81. gr.
+        [Þegar samvinnufélög sameinast, sbr. [92]78. gr. laga nr. 22/1991, um
+   samvinnufélög, eða hlutafélag sameinast samvinnufélagi, sbr. [93]81. gr.
    sömu laga, skal hið sameinaða félag taka við öllum skattaréttarlegum
    skyldum og réttindum hinna fyrri félaga.]^1)
 
-   ^1)[90]L. 85/1991, 7. gr.
+   ^1)[94]L. 85/1991, 7. gr.
 
                                     57. gr.
         Sé sameignarfélagi ...^1) slitið, þannig að það sé algjörlega
@@ -1432,7 +1473,7 @@
    slitið er eða breytt er í hlutafélag, ótakmarkaða ábyrgð á greiðslu þeirra
    opinberu gjalda sem varða reikningsár fyrir slit eða breytingu.
 
-   ^1)[91]L. 147/1994, 6. gr.
+   ^1)[95]L. 147/1994, 6. gr.
 
                                   [57. gr. A.
         [Þrátt fyrir ákvæði 56. og 57. gr. skal rekstrartap, þar með taldar
@@ -1446,7 +1487,7 @@
    rekstrartilgangi. Hið yfirfærða tap verður að hafa myndast í sams konar
    rekstri og það félag sem við tekur hafði með höndum.]^1)]^2)
 
-   ^1)[92]L. 85/1991, 8. gr.^2)[93]L. 97/1988, 7. gr.
+   ^1)[96]L. 85/1991, 8. gr.^2)[97]L. 97/1988, 7. gr.
 
                          Óvenjuleg skipti í fjármálum.
                                     58. gr.
@@ -1484,7 +1525,7 @@
    gr., sé hærra en makinn eða barnið hefði aflað hjá óskyldum eða ótengdum
    aðila skulu þau ákvarða tekjur makans eða barnsins af starfinu.
 
-   ^1)[94]L. 49/1987, 6. gr.
+   ^1)[98]L. 49/1987, 6. gr.
 
                                  Tekjutímabil.
                                     60. gr.
@@ -1600,7 +1641,7 @@
    hefur varað samfleytt í a.m.k. [eitt]^2) ár, enda óski þau þess bæði
    skriflega við skattyfirvöld.
 
-   ^1)[95]L. 49/1987, 7. gr.^2)[96]L. 122/1993, 5. gr.
+   ^1)[99]L. 49/1987, 7. gr.^2)[100]L. 122/1993, 5. gr.
 
                                     64. gr.
         Þeir skattaðilar sem uppfylla skilyrði 63. gr. aðeins hluta úr ári,
@@ -1638,7 +1679,7 @@
    njóta helmings barnabóta skv. 1. mgr. [69. gr. A.],^2) eftir því sem við
    á.
 
-   ^1)[97]L. 68/1990, 1. gr.^2)[98]L. 92/1987, 4. gr.
+   ^1)[101]L. 68/1990, 1. gr.^2)[102]L. 92/1987, 4. gr.
 
                                     65. gr.
         Tekjur barns, sem er innan 16 ára aldurs á tekjuárinu, sbr. 6. gr.,
@@ -1654,8 +1695,8 @@
    ættleitt, skuli skattlagðar hjá barninu sjálfu í samræmi við ákvæði 2.
    mgr. 67. gr. Sama á við ef barn hefur misst annað foreldri sitt.]^3)
 
-   ^1)[99]L. 92/1987, 5. gr.^2)[100]L. 49/1987, 8. gr.^3)[101]L. 117/1989, 3.
-   gr.
+   ^1)[103]L. 92/1987, 5. gr.^2)[104]L. 49/1987, 8. gr.^3)[105]L. 117/1989,
+   3. gr.
 
                    Heimild til lækkunar á tekjuskattsstofni.
                                     66. gr.
@@ -1692,7 +1733,7 @@
    veita samkvæmt þessari grein, og sjá til þess að samræmis sé gætt og
    réttum reglum fylgt.
 
-   ^1)[102]L. 21/1983, 3. gr.
+   ^1)[106]L. 21/1983, 3. gr.
 
                                    VI. kafli.
                Tekjuskattsútreikningur, afslættir og barnabætur.
@@ -1717,10 +1758,29 @@
         [Tekjuskattur af þeim tekjum barna, sem um ræðir í 2. mgr. 65. gr.,
    skal vera 4% af tekjum umfram [77.940]^3) kr. og skal barn ekki njóta
    persónuafsláttar.]^4)]^5)
+        [Tekjuskattur af fjármagnstekjum einstaklinga utan rekstrar skal vera
+   10% af þeim tekjum. Til fjármagnstekna teljast í þessu sambandi tekjur
+   skv. 1.8. tölul. C-liðar 7. gr., þ.e. vextir, arður, leigutekjur,
+   söluhagnaður og aðrar eignatekjur. Ákvæði þessarar málsgreinar taka þó
+   ekki til hagnaðar af sölu hlutabréfa, þar með talið við innlausn þeirra,
+   t.d. við slit félags og lækkun hlutafjár, ef hagnaðurinn fer fram úr
+   3.000.000 kr. hjá einstaklingi og 6.000.000 kr. hjá hjónum. Fer um
+   skatthlutfall og álagningu á slíkan söluhagnað eftir ákvæðum 1. mgr.
+   þessarar greinar og skulu reglur 4. mgr. um tekjuviðmiðun ekki eiga við um
+   umframfjárhæðina.
+        Sú fjárhæð, sem reiknast skv. 3. mgr., skal vera endanleg álagning á
+   fjármagnstekjur. Skulu engin önnur opinber gjöld, sem reiknuð eru á
+   tekjuskattsstofn, leggjast á þessar tekjur. Sömuleiðis skulu tekjurnar
+   ekki taldar til tekjuskattsstofns til viðmiðunar við útreikning bóta eða
+   annarra greiðslna samkvæmt lögum um almannatryggingar, lögum um
+   húsaleigubætur eða öðrum lögum nema sérstaklega sé kveðið á um það í þeim
+   lögum. Um afdrátt skatts af vaxtatekjum og arði samkvæmt þessari málsgrein
+   skulu á tekjuárinu gilda lög um staðgreiðslu skatts af slíkum tekjum
+   samkvæmt því sem nánar er kveðið á um í þeim lögum.]^6)
 
-   ^1)[103]L. 122/1993, 6. gr.^2)[104]L. 117/1989, 4. gr.^3)[105]L. 145/1995,
-   7. gr.^4)[106]L. 151/1994, 1. gr. Komi til framkvæmda við álagningu á
-   árinu 1996 á tekjur ársins 1995.^5)[107]L. 49/1987, 9. gr.
+   ^1)[107]L. 122/1993, 6. gr.^2)[108]L. 117/1989, 4. gr.^3)[109]L. 145/1995,
+   7. gr.^4)[110]L. 151/1994, 1. gr.^5)[111]L. 49/1987, 9. gr.^6)[112]L.
+   97/1996, 7. gr.
 
                                     68. gr.
         [A. [Persónuafsláttur manna, sem um ræðir í 1. mgr. 67. gr., skal
@@ -1738,9 +1798,11 @@
    fjárhæð en reiknaður skattur af tekjuskattsstofni hans skv. 1. tölul. 1.
    mgr. 67. gr. skal ríkissjóður leggja fram fé sem nemur allt að þeim mun
    til að greiða útsvar hans á álagningarárinu og því, sem þá kann að vera
-   óráðstafað, til greiðslu eignarskatts hans á álagningarárinu. Sá hluti
-   persónuafsláttar, sem þá verður enn óráðstafað, fellur niður.]^3)
-        Ráðherra skal í reglugerð^4) setja ákvæði um ráðstöfun
+   óráðstafað, til greiðslu eignarskatts hans á álagningarárinu. [Þeim hluta
+   persónuafsláttar, sem þá er óráðstafað, skal ráðstafað til að greiða
+   tekjuskatt sem lagður er á fjármagnstekjur, sbr. 3. mgr. 67. gr.]^3) Sá
+   hluti persónuafsláttar, sem þá verður enn óráðstafað, fellur niður.]^4)
+        Ráðherra skal í reglugerð^5) setja ákvæði um ráðstöfun
    persónuafsláttar launamanna á móti staðgreiðslu á tekjuári samkvæmt lögum
    um staðgreiðslu opinberra gjalda. Í reglugerðinni skal og kveðið á um
    hlutfallslega skiptingu persónuafsláttar sem draga skal frá staðgreiðslu á
@@ -1749,7 +1811,7 @@
    safnast hefur upp á meðan launagreiðandi hefur haft skattkort launamanns
    undir höndum, nýtist við síðari launagreiðslur enda séu uppfyllt þau
    skilyrði um launabókhald og skilagreinar sem nánar verði ákveðin í
-   henni.]^5)
+   henni.]^6)
    B. [Maður, sem stundar sjómennsku á íslensku skipi eða skipi sem gert er
    út af íslensku skipafélagi, skal njóta sérstaks afsláttar,
    sjómannaafsláttar, sem koma skal til frádráttar reiknuðum tekjuskatti af
@@ -1764,7 +1826,7 @@
    lands.
         Sjómannaafsláttur skal vera [689]^1) kr. á hvern dag. Við ákvörðun
    dagafjölda, sem veitir rétt til sjómannaafsláttar, skal miða við þá daga
-   sem skylt er að lögskrá sjómenn skv. [108]4. og [109]5. gr. laga nr.
+   sem skylt er að lögskrá sjómenn skv. [113]4. og [114]5. gr. laga nr.
    43/1987, um lögskráningu sjómanna. Séu dagar þessir 245 á ári eða fleiri
    skal sjómaður njóta afsláttar alla daga ársins og hlutfallslega séu
    lögskráningardagar færri en 245, þó aldrei fleiri daga en hann er ráðinn
@@ -1788,11 +1850,13 @@
         Setja skal í reglugerð ákvæði um framkvæmd þessa stafliðar. Í henni
    skal m.a. kveða á um með hvaða hætti skuli ákvarða dagafjölda sem veitir
    rétt til afsláttar, skráningu, sbr. 6. mgr., og hvaða gagna megi krefjast
-   í því sambandi.]^6)]^7)
+   í því sambandi.]^7)]^8)
 
-   ^1)[110]L. 145/1995, 8. gr.^2)[111]L 92/1987, 6. gr.^3)[112]L. 97/1988, 8.
-   gr.^4)Rg. 10/1992. ^5)[113]L. 92/1987, 7. gr.^6)[114]L. 85/1991, 10.
-   gr.^7)[115]L. 49/1987, 10. gr.
+   ^1)[115]L. 145/1995, 8. gr. Ákvæðið komi til framkvæmda við álagningu
+   tekjuskatts og eignarskatts á árinu 1997, sbr. [116]l. 33/1996, 1.
+   gr.^2)[117]L. 92/1987, 6. gr.^3)[118]L. 97/1996, 8. gr.^4)[119]L. 97/1988,
+   8. gr.^5)Rg. 10/1992. ^6)[120]L. 92/1987, 7. gr.^7)[121]L. 85/1991, 10.
+   gr.^8)[122]L. 49/1987, 10. gr.
 
                                     69. gr.
 
@@ -1857,10 +1921,12 @@
    stafliðar.]^6)
         [Barnabótaauki skv. 2. mgr. skerðist í jöfnu hlutfalli við
    tekjuskattsstofn umfram 1.141.042 kr. hjá hjónum og umfram 570.521 kr. hjá
-   einstæðu foreldri. Frá tekjuskattsstofni í þessu sambandi er eigi heimilt
-   að draga tekjur skv. 2. tölul. A-liðar og 2., 3. og 4. tölul. B-liðar 1.
-   mgr. 30. gr. Skerðingarhlutfallið skal vera 6% með einu barni, 11% með
-   tveimur börnum og 15% með þremur börnum eða fleiri.]^1)
+   einstæðu foreldri. [Með tekjuskattsstofni í þessu sambandi er átt við
+   tekjur skv. II. kafla laganna, þó ekki tekjur skv. 3. tölul. C-liðar 7.
+   gr., að teknu tilliti til frádráttar skv. 1., 3. og 5. tölul. A-liðar 1.
+   mgr. og 2. mgr. 30. gr. og frádráttar skv. 31. gr.]^7)
+   Skerðingarhlutfallið skal vera 6% með einu barni, 11% með tveimur börnum
+   og 15% með þremur börnum eða fleiri.]^1)
         Barnabótaauki vegna hvers barns á framfæri hjóna skerðist um 1,5% af
    því sem eignarskattsstofn hvors hjóna fer fram úr [4.174.466]^1) kr. uns
    hann er fallinn niður. Á sama hátt skerðist barnabótaauki vegna hvers
@@ -1871,30 +1937,30 @@
    með barni telst ekki framfærandi í þessu sambandi.
         Hjón, sem skattlögð eru skv. 63. gr., teljast bæði framfærendur og
    skiptist barnabótaauki milli þeirra til helminga. Hið sama gildir um
-   sambýlisfólk sem uppfyllir [í lok tekjuársins]^7) skilyrði 3. mgr. 63. gr.
+   sambýlisfólk sem uppfyllir [í lok tekjuársins]^8) skilyrði 3. mgr. 63. gr.
    enda þótt það óski ekki að vera skattlagt samkvæmt þeirri grein.
         Fyrir barn sem öðlast heimilisfesti hér á landi á tekjuárinu skal
    einungis greiða barnabótaauka í hlutfalli við dvalartíma þess hér á landi
    á því ári. [Þannig skal fjárhæð barnabótaauka skv. 2. mgr. og
    skerðingarmörk vegna tekna, sbr. 3. mgr., ákvarðast í hlutfalli við
-   dvalartímann.]^7)
+   dvalartímann.]^8)
         [Fjárhæð barnabótaauka hjá þeim sem fá barnabætur eða aðrar
    sambærilegar bætur erlendis frá skal skert sem nemur þeim bótum að því
-   marki sem þær eru umfram barnabætur skv. A-lið þessarar greinar.]^7)
+   marki sem þær eru umfram barnabætur skv. A-lið þessarar greinar.]^8)
         [Barnabótaauki skal ákveðinn við álagningu, sbr. X. kafla. Nánari
    reglur, m.a. um útborgun barnabótaauka, innheimtu ofgreidds barnabótaauka
    og skuldajöfnun barnabótaauka á móti opinberum gjöldum til ríkissjóðs,
    opinberum gjöldum til sveitarfélaga og vangreiddum meðlögum til
    Innheimtustofnunar sveitarfélaga, þar á meðal um forgangsröð, skulu settar
-   í reglugerð.^8)]^4)
+   í reglugerð.^9)]^4)
                                 C. [Vaxtabætur.
         [Maður sem skattskyldur er skv. 1. gr. og ber vaxtagjöld af lánum,
    sem tekin hafa verið vegna kaupa eða byggingar á íbúðarhúsnæði til eigin
    nota, þar með talin kaup á eignarhlut í almennri kaupleiguíbúð skv.
-   [116]76. gr. laga nr. 97/1993, á rétt á sérstökum bótum, vaxtabótum, enda
+   [123]76. gr. laga nr. 97/1993, á rétt á sérstökum bótum, vaxtabótum, enda
    geri hann grein fyrir lánum og vaxtagjöldum af þeim í sérstakri
    greinargerð með skattframtali í því formi sem ríkisskattstjóri
-   ákveður.]^9)
+   ákveður.]^10)
         Vaxtagjöld, sem mynda rétt til vaxtabóta, eru vaxtagjöld vegna
    fasteignaveðlána til a.m.k. tveggja ára eða lána við lánastofnanir með
    sjálfskuldarábyrgð til a.m.k. tveggja ára, enda séu lánin sannanlega til
@@ -1924,14 +1990,13 @@
    Til vaxtagjalda teljast ekki uppsafnaðar áfallnar verðbætur af lánum sem
    kaupandi yfirtekur við sölu íbúðar né heldur uppsafnaðar áfallnar
    verðbætur á lán skuldara sem hann greiðir á lánstíma umfram ákvæði
-   viðkomandi skuldabréfs. ...^10)
+   viðkomandi skuldabréfs. ...^11)
         [Vaxtagjöld til útreiknings vaxtabóta skv. 4. mgr. miðast við fjárhæð
    vaxtagjalda, sbr. 2. mgr., hjá hverjum framteljanda en geta þó ekki orðið
    hærri en sem nemur 7% af skuldum sem stofnað hefur verið til vegna öflunar
    íbúðarhúsnæðis til eigin nota eins og þær eru í árslok. Hjá þeim sem
    skattskyldir eru hluta úr ári vegna brottflutnings á tekjuárinu skal miða
-   við skuldastöðu eins og hún var fyrir brottflutning. Þannig ákveðin
-   vaxtagjöld skulu skerðast um vaxtatekjur skv. 8. gr.]^4) Vaxtagjöld
+   við skuldastöðu eins og hún var fyrir brottflutning. ...^7)]^4) Vaxtagjöld
    samkvæmt þessari [málsgrein]^4) geta þó ekki verið hærri en [411.209]^1)
    kr. hjá einstaklingi, [539.830]^1) kr. hjá einstæðu foreldri og
    [668.450]^1) kr. hjá hjónum eða sambýlisfólki. Hámark vaxtagjalda hjá
@@ -1939,11 +2004,12 @@
    hlutfalli við dvalartíma á árinu.
         [Vaxtabætur skal ákvarða þannig að frá vaxtagjöldum, eins og þau eru
    skilgreind í 3. mgr., skal draga fjárhæð sem svarar til 6% af
-   tekjuskattsstofni. Frá tekjuskattsstofni í þessu sambandi er eigi heimilt
-   að draga tekjur skv. 2. tölul. A-liðar og 2., 3. og 4. tölul. B-liðar 1.
-   mgr. 30. gr.]^1) Hjá hjónum eða sambýlisfólki, sem uppfyllir skilyrði 3.
-   mgr. 63. gr. í lok tekjuárs, skal við útreikning miðað við samanlagðar
-   tekjur beggja að teknu tilliti til frádráttar samkvæmt framansögðu. Þannig
+   tekjuskattsstofni. [Með tekjuskattsstofni í þessu sambandi er átt við
+   tekjur skv. II. kafla laganna, að teknu tilliti til frádráttar skv. 1., 3.
+   og 5. tölul. A-liðar 1. mgr. og 2. mgr. 30. gr. og frádráttar skv. 31.
+   gr.]^7)]^1) Hjá hjónum eða sambýlisfólki, sem uppfyllir skilyrði 3. mgr.
+   63. gr. í lok tekjuárs, skal við útreikning miðað við samanlagðar tekjur
+   beggja að teknu tilliti til frádráttar samkvæmt framansögðu. Þannig
    ákvarðaðar vaxtabætur skerðast hlutfallslega fari eignir skv. 73. gr., að
    frádregnum skuldum skv. [1. mgr. 76. gr.],^4) fram úr [3.092.937]^1) kr.
    hjá einstaklingi og [5.127.077]^1) kr. hjá hjónum eða sambýlisfólki uns
@@ -1981,20 +2047,21 @@
         [Reglur um skuldajöfnun vaxtabóta á móti opinberum gjöldum til
    ríkissjóðs, opinberum gjöldum til sveitarfélaga og vangreiddum meðlögum
    til Innheimtustofnunar sveitarfélaga, þar á meðal um forgangsröð, skulu
-   settar í reglugerð.]^4)]^11)]^12)
+   settar í reglugerð.]^4)]^12)]^13)
 
-   ^1)[117]L. 145/1995, 9. gr.^2)[118]L. 85/1991, 11. gr.^3)Rg.
-   618/1989.^4)[119]L. 147/1994, 7. gr.^5)[120]L. 58/1993, 2. gr.^6)[121]L.
-   111/1992, 10. gr.^7)[122]L. 122/1993, 7. gr.^8)Rg. 633/1989.^9)[123]L.
-   30/1995, 4. gr. Komi til framkvæmda við álagningu á árinu 1995, sbr.
-   [124]5. gr. s.l.^10)[125]L. 147/1994, 7. gr. Komi til framkvæmda við
-   álagningu 1996 vegna tekna á árinu 1995 og staðgreiðslu á því ári, sbr.
-   [126]17. gr. s.l.^11)[127]L. 122/1993, 9. gr.^12)[128]L. 49/1987, 10. gr.
+   ^1)[124]L. 145/1995, 9. gr.^2)[125]L. 85/1991, 11. gr.^3)Rg.
+   618/1989.^4)[126]L. 147/1994, 7. gr.^5)[127]L. 58/1993, 2. gr.^6)[128]L.
+   111/1992, 10. gr.^7)[129]L. 97/1996, 9. gr.^8)[130]L. 122/1993, 7.
+   gr.^9)Rg. 633/1989.^10)[131]L. 30/1995, 4. gr. Komi til framkvæmda við
+   álagningu á árinu 1995, sbr. [132]5. gr. s.l.^11)[133]L. 147/1994, 7. gr.
+   Komi til framkvæmda við álagningu 1996 vegna tekna á árinu 1995 og
+   staðgreiðslu á því ári, sbr. [134]17. gr. s.l.^12)[135]L. 122/1993, 9.
+   gr.^13)[136]L. 49/1987, 10. gr.
 
   [Tekjuskattur manna sem heimilisfastir eru á Íslandi hluta úr ári, menn sem
              dveljast erlendis við nám eða vegna veikinda o.fl.]^1)
 
-   ^1)[129]L. 112/1990, 4. gr.
+   ^1)[137]L. 112/1990, 4. gr.
 
                                     70. gr.
         Hjá manni sem hefur tekjur sem um ræðir í [2. tölul.]^1) A-liðs 1.
@@ -2018,8 +2085,8 @@
    málsgreinar með reglugerð,^3) m.a. um hvaða nám falli hér undir, rétt
    maka, framtalsskil o.fl.]^4)
 
-   ^1)[130]L. 49/1987, 13. gr.^2)[131]L. 97/1988, 13. gr.^3)Rg.
-   532/1990.^4)[132]L. 112/1990, 5. gr.
+   ^1)[138]L. 49/1987, 13. gr.^2)[139]L. 97/1988, 13. gr.^3)Rg.
+   532/1990.^4)[140]L. 112/1990, 5. gr.
 
                  Tekjuskattur aðila með takmarkaða skattskyldu.
                                     71. gr.
@@ -2070,7 +2137,7 @@
            milli iðgjaldatekna hér á landi og iðgjaldatekna af allri
            starfsemi þeirra.]^1)
 
-   ^1)[133]L. 92/1987, 10. gr.
+   ^1)[141]L. 92/1987, 10. gr.
 
                              Tekjuskattur lögaðila.
                                     72. gr.
@@ -2079,8 +2146,39 @@
    mgr. þessarar greinar.
         Tekjuskattur sameignarfélaga, sbr. 3. tölul. 1. mgr. 2. gr., skal
    vera 41% af tekjuskattsstofni, sbr. 2. tölul. 62. gr.]^1)
+        [Lögaðilar þeir, er undanþegnir eru skattskyldu skv. 2., 3., 5., 6.
+   og 7. tölul. 4. gr., skulu þrátt fyrir það greiða tekjuskatt af
+   fjármagnstekjum, sbr. 3., 4. og 5. tölul. C-liðar 7. gr., svo og skv. 8.
+   tölul. sama stafliðar 7. gr., að því er varðar söluhagnað af hlutabréfum.
+   Skal hann vera 10% af þeim stofni. Afdráttur skatts og innborgun hans
+   samkvæmt lögum um staðgreiðslu skatts á fjármagnstekjur skal vera
+   fullnaðargreiðsla og koma í stað álagningar samkvæmt lögum þessum. Þó
+   skulu þeir aðilar, sem þessi málsgrein tekur til og sjálfir annast um
+   innheimtu vaxta í eigin lánaumsýslu eða fá vaxtatekjur sem ekki er dregin
+   af staðgreiðsla, skila greinargerð um vaxtatekjur til skattyfirvalda og
+   standa skil á 10% tekjuskatti af slíkum vöxtum að tekjuári loknu. Þeir
+   aðilar, sem þessi málsgrein tekur til og hafa aðrar fjármagnstekjur, skulu
+   sömuleiðis standa skil á 10% tekjuskatti af slíkum tekjum að tekjuári
+   loknu. Við ákvörðun á stofnverði eigna sem félög, sbr. 5. tölul. 4. gr.,
+   eignast við gjöf skal við sölu miðað við að stofnverðið sé markaðsverð á
+   yfirtökudegi félagsins á eigninni. Ríkisskattstjóri setur nánari reglur um
+   skilagreinar og skil vegna þessarar málsgreinar.
+        Eftirtaldir aðilar eru undanþegnir ákvæðum 3. mgr.:
 
-   ^1)[134]L. 122/1993, 10. gr.
+   1.
+           Lánasjóður íslenskra námsmanna, Byggðastofnun, Byggingarsjóður
+           ríkisins, Byggingarsjóður verkamanna, Framkvæmdasjóður fatlaðra,
+           Framkvæmdasjóður aldraðra, Framleiðnisjóður landbúnaðarins,
+           Lánasjóður sveitarfélaga, Lánasjóður Vestur-Norðurlanda,
+           Seðlabanki Íslands og lífeyrissjóðir, sbr. [142]lög nr. 55/1980,
+           um starfskjör launafólks og skyldutryggingu lífeyrisréttinda.
+   2.
+           Lánastofnanir sem skattskyldar eru samkvæmt [143]lögum nr.
+           65/1982, um skattskyldu lánastofnana, með síðari breytingum, en
+           fjármagnstekjur þeirra falla undir almenna skattskyldu samkvæmt
+           þeim lögum.]^2)
+
+   ^1)[144]L. 122/1993, 10. gr.^2)[145]L. 97/1996, 10. gr.
 
                                   VII. kafli.
                                  Eignarskattur.
@@ -2163,8 +2261,8 @@
            endurgjaldi sem hæfilegt væri fyrir þau í lok hvers árs.
            Skattstjóri getur metið verð þessara réttinda.
 
-   ^1)Um þetta brbákv. vísast til Lagasafns 1983.^2)[135]L. 145/1995, 10.
-   gr.^3)[136]L. 2/1988, 6. gr.^4)[137]L. 63/1990, 5. gr.^5)[138]L. 122/1993,
+   ^1)Um þetta brbákv. vísast til Lagasafns 1983.^2)[146]L. 145/1995, 10.
+   gr.^3)[147]L. 2/1988, 6. gr.^4)[148]L. 63/1990, 5. gr.^5)[149]L. 122/1993,
    11. gr.
 
                           Hvað ekki telst til eignar.
@@ -2199,7 +2297,7 @@
         Frá eignum aðila, sem um ræðir í 5.8. tölul. 3. gr., má einungis
    draga skuldir sem á eignum þessum hvíla.
 
-   ^1)[139]L. 2/1988, 7. gr.
+   ^1)[150]L. 2/1988, 7. gr.
 
                                     77. gr.
         Lögaðilum skv. 2. gr. er heimilt að draga frá eignum sínum, sbr. 73.
@@ -2220,12 +2318,12 @@
    sbr. 73. gr., markaðsverðbréf sem gefin eru út af ríkissjóði, ríkisvíxla,
    [ríkisbréf],^3) happdrættisskuldabréf ríkissjóðs, húsbréf gefin út af
    Byggingarsjóði ríkisins svo og hlutdeildarskírteini verðbréfasjóða, sbr.
-   [140]lög nr. 20/1989,^4) þar sem verðbréfasjóðurinn er eingöngu myndaður
+   [151]lög nr. 20/1989,^4) þar sem verðbréfasjóðurinn er eingöngu myndaður
    af framangreindum skuldaviðurkenningum, enda séu eignir þessar ekki
    tengdar atvinnurekstri eða sjálfstæðri starfsemi.]^5)
 
-   ^1)[141]L. 145/1995, 11. gr.^2)[142]L. 8/1984, 14. gr.^3)[143]L. 112/1990,
-   6. gr.^4)Nú [144]l. 10/1993.^5)[145]L. 117/1989, 10. gr.
+   ^1)[152]L. 145/1995, 11. gr.^2)[153]L. 8/1984, 14. gr.^3)[154]L. 112/1990,
+   6. gr.^4)Nú [155]l. 10/1993.^5)[156]L. 117/1989, 10. gr.
 
                         Tímaviðmiðun eignarskattsstofns.
                                     79. gr.
@@ -2246,7 +2344,7 @@
         Eignarskattsstofn skal ákvarða í heilum tugum króna og sleppa því sem
    umfram er.
 
-   ^1)[146]L. 92/1987, 11. gr.^2)[147]L. 21/1983, 4. gr.
+   ^1)[157]L. 92/1987, 11. gr.^2)[158]L. 21/1983, 4. gr.
 
                                     81. gr.
         Hjón sem samvistum eru, sbr. 5. gr., skulu telja saman allar eignir
@@ -2265,7 +2363,7 @@
    málsl. 1. mgr., skal á dánarári maka eða sambúðaraðila hagað á sama hátt
    og um hjón væri að ræða.]^3)
 
-   ^1)[148]L. 122/1993, 12. gr.^2)[149]L. 51/1989, 9. gr.^3)[150]L. 68/1990,
+   ^1)[159]L. 122/1993, 12. gr.^2)[160]L. 51/1989, 9. gr.^3)[161]L. 68/1990,
    2. gr.
 
                                     82. gr.
@@ -2278,7 +2376,7 @@
    skuli skattlagðar hjá barninu sjálfu í samræmi við ákvæði 83. gr. Sama á
    við ef barn hefur misst annað foreldri sitt.]^2)
 
-   ^1)[151]L. 92/1987, 12. gr.^2)[152]L. 117/1989, 11. gr.
+   ^1)[162]L. 92/1987, 12. gr.^2)[163]L. 117/1989, 11. gr.
 
                            Eignarskattsútreikningur.
                                     83. gr.
@@ -2286,7 +2384,7 @@
    eignarskattsstofni greiðist enginn skattur. Af eignarskattsstofni yfir
    [3.651.749]^1) kr. greiðist 1,2%. ...^2)]^3)
 
-   ^1)[153]L. 145/1995, 12. gr.^2)[154]L. 147/1994, 8. gr.^3)[155]L.
+   ^1)[164]L. 145/1995, 12. gr.^2)[165]L. 147/1994, 8. gr.^3)[166]L.
    112/1990, 7. gr.
 
                                     84. gr.
@@ -2302,16 +2400,16 @@
    greiðist enginn skattur. Af eignarskattsstofni yfir 3.651.749 kr. greiðist
    1,2%.]^5)
 
-   ^1)[156]L. 97/1988, 17. gr.^2)[157]L. 7/1984, 7. gr.^3)[158]L. 145/1995,
-   13. gr.^4)[159]L. 147/1994, 9. gr.^5)[160]L. 145/1995, 13. gr. Ákvæðið
+   ^1)[167]L. 97/1988, 17. gr.^2)[168]L. 7/1984, 7. gr.^3)[169]L. 145/1995,
+   13. gr.^4)[170]L. 147/1994, 9. gr.^5)[171]L. 145/1995, 13. gr. Ákvæðið
    komi til framkvæmda við álagningu tekjuskatts og eignarskatts á árinu
-   1997, sbr. [161]24. gr. s.l.
+   1997, sbr. [172]24. gr. s.l.
 
                                   VIII. kafli.
       Skattumdæmi, skattstjórar, ríkisskattstjóri, skattrannsóknarstjóri,
                            [yfirskattanefnd]^1) o.fl.
 
-   ^1)[162]L. 30/1992, 23. gr.
+   ^1)[173]L. 30/1992, 23. gr.
 
                                   Skattumdæmi.
                                     85. gr.
@@ -2387,18 +2485,18 @@
         [Þá skipar fjármálaráðherra vararíkisskattstjóra sem skal fullnægja
    sömu skilyrðum um embættisgengi og ríkisskattstjóri.]^1)
 
-   ^1)[163]L. 111/1992, 13. gr.
+   ^1)[174]L. 111/1992, 13. gr.
 
                       [Skattrannsóknarstjóri ríkisins.]^1)
 
-   ^1)[164]L. 111/1992, 14. gr.
+   ^1)[175]L. 111/1992, 14. gr.
 
                                     89. gr.
         [Fjármálaráðherra skipar skattrannsóknarstjóra ríkisins. Skal hann
    fullnægja þeim skilyrðum sem sett eru í 86. gr. um embættisgengi
    skattstjóra.]^1)
 
-   ^1)[165]L. 111/1992, 14. gr.
+   ^1)[176]L. 111/1992, 14. gr.
 
                                    IX. kafli.
                            Framtöl og skýrslugjafir.
@@ -2421,7 +2519,7 @@
    einum eða sé annars vafi á hvar skattaðili skuli skattlagður skal
    ríkisskattstjóri skera úr.
 
-   ^1)[166]L. 20/1991, 136. gr.
+   ^1)[177]L. 20/1991, 136. gr.
 
                                  Skattframtöl.
                                     91. gr.
@@ -2457,7 +2555,7 @@
    aðstoð veitir skal rita á skattframtalið yfirlýsingu um að hann hafi
    aðstoðað við gerð þess.
 
-   ^1)[167]L. 145/1995, 14. gr.^2)[168]L. 147/1994, 10. gr.^3)[169]L.
+   ^1)[178]L. 145/1995, 14. gr.^2)[179]L. 147/1994, 10. gr.^3)[180]L.
    20/1991, 136. gr.
 
                               Launaskýrslur o.fl.
@@ -2491,7 +2589,7 @@
    hlutafé og arð, stofnfé og stofnfjárvexti og vinninga í happdrætti og
    keppni.
 
-   ^1)[170]L. 147/1994, 11. gr.^2)[171]L. 36/1991, 5. gr.^3)[172]L. 145/1995,
+   ^1)[181]L. 147/1994, 11. gr.^2)[182]L. 36/1991, 5. gr.^3)[183]L. 145/1995,
    15. gr.
 
                                 Framtalsfrestur.
@@ -2540,7 +2638,7 @@
    úrskurðar [héraðsdóms].^2) Gegni einhver ekki upplýsingaskyldu sinni má
    vísa máli til opinberrar rannsóknar.
 
-   ^1)[173]L. 111/1992, 15. gr.^2)[174]L. 19/1991, 195. gr.
+   ^1)[184]L. 111/1992, 15. gr.^2)[185]L. 19/1991, 195. gr.
 
                                    X. kafli.
                              Álagning, kærur o.fl.
@@ -2605,14 +2703,14 @@
    uppkvaðningu úrskurðar. Samrit úrskurðar skal samtímis sent
    ríkisskattstjóra.
         Úrskurði skattstjóra um endurákvörðun skv. 5. mgr. má skjóta til
-   yfirskattanefndar, eftir ákvæðum [175]laga nr. 30/1992, um
+   yfirskattanefndar, eftir ákvæðum [186]laga nr. 30/1992, um
    yfirskattanefnd.]^1)
         [Hafi skattstjóri grun um að skattsvik [eða refsiverð brot á lögum um
    bókhald og ársreikninga]^2) hafi verið framin skal hann tilkynna það
    skattrannsóknarstjóra ríkisins sem ákveður um framhald málsins.]^3)
 
-   ^1)[176]L. 145/1995, 16. gr. Ákvæðið komi til framkvæmda frá og með 1.
-   janúar 1997, sbr. [177]24. gr. s.l.^2)[178]L. 37/1995, 5. gr.^3)[179]L.
+   ^1)[187]L. 145/1995, 16. gr. Ákvæðið komi til framkvæmda frá og með 1.
+   janúar 1997, sbr. [188]24. gr. s.l.^2)[189]L. 37/1995, 5. gr.^3)[190]L.
    111/1992, 16. gr.
 
                                     97. gr.
@@ -2648,7 +2746,7 @@
    álagða skatta, sem fram koma í skattskrá, svo og útgáfa þeirra upplýsinga
    í heild eða að hluta.]^1)
 
-   ^1)[180]L. 7/1984, 8. gr.
+   ^1)[191]L. 7/1984, 8. gr.
 
                              Kærur til skattstjóra.
                                     99. gr.
@@ -2668,12 +2766,12 @@
    starfsmönnum hans sem fengið hafa sérstaka heimild ríkisskattstjóra til
    þess starfs.
 
-   ^1)[181]L. 145/1995, 17. gr. Þessi breyting kemur til framkvæmda frá og
-   með 1. janúar 1997.^2)[182]L. 147/1994, 12. gr.
+   ^1)[192]L. 145/1995, 17. gr. Þessi breyting kemur til framkvæmda frá og
+   með 1. janúar 1997.^2)[193]L. 147/1994, 12. gr.
 
                        Kærur til [yfirskattanefndar].^1)
 
-   ^1)[183]L. 30/1992, 23. gr.
+   ^1)[194]L. 30/1992, 23. gr.
 
                                     100. gr.
         Úrskurði skattstjóra, sbr. 99. gr., má skjóta til
@@ -2729,7 +2827,7 @@
    framan eru rakin, um slíkar kærur, eftir því sem við á. Ríkisskattstjóri
    skal koma fram gagnvart [yfirskattanefnd]^1) fyrir hönd gjaldkrefjenda.
 
-   ^1)[184]L. 30/1992, 23. gr.
+   ^1)[195]L. 30/1992, 23. gr.
 
                                    XI. kafli.
                          Ýmis ákvæði um skattyfirvöld.
@@ -2757,11 +2855,11 @@
    lögum um bókhald og ársreikninga]^1) hafi verið framin skal hann tilkynna
    það skattrannsóknarstjóra ríkisins sem ákveður um framhald málsins.]^2)
 
-   ^1)[185]L. 37/1995, 6. gr.^2)[186]L. 111/1992, 17. gr.
+   ^1)[196]L. 37/1995, 6. gr.^2)[197]L. 111/1992, 17. gr.
 
                               [Skatteftirlit.]^1)
 
-   ^1)[187]L. 111/1992, 18. gr.
+   ^1)[198]L. 111/1992, 18. gr.
 
                                     102. gr.
         [Skattstjórar annast skatteftirlit, hver í sínu umdæmi. Þá hefur
@@ -2779,11 +2877,11 @@
    endurákvörðunina, sbr. 3. mgr. 101. gr., nema hann feli hana
    skattstjóra.]^1)
 
-   ^1)[188]L. 111/1992, 18. gr.
+   ^1)[199]L. 111/1992, 18. gr.
 
              [Skattrannsóknarstjóri ríkisins, skattrannsóknir.]^1)
 
-   ^1)[189]L. 111/1992, 19. gr.
+   ^1)[200]L. 111/1992, 19. gr.
 
                                   [102. gr. A.
         Skattrannsóknarstjóri ríkisins skal hafa með höndum rannsóknir
@@ -2810,7 +2908,7 @@
    ákvæða laga um meðferð opinberra mála eftir því sem við getur átt, einkum
    varðandi réttarstöðu grunaðra manna á rannsóknarstigi.]^2)
 
-   ^1)[190]L. 111/1992, 19. gr.^2)[191]L. 122/1993, 13. gr.
+   ^1)[201]L. 111/1992, 19. gr.^2)[202]L. 122/1993, 13. gr.
 
                             Vanhæfi skattyfirvalda.
                                     103. gr.
@@ -2824,7 +2922,7 @@
    og [yfirskattanefnd]^2) skulu halda gerðabækur um þau atriði og í því
    formi, er fjármálaráðherra gefur fyrirmæli um.
 
-   ^1)[192]L. 111/1992, 20. gr.^2)[193]L. 30/1992, 23. gr.
+   ^1)[203]L. 111/1992, 20. gr.^2)[204]L. 30/1992, 23. gr.
 
                            Eftirlit fjármálaráðherra.
                                     105. gr.
@@ -2837,7 +2935,7 @@
    ræki skyldur sínar og skal nefndin senda ráðherra árlega skýrslu um störf
    sín.
 
-   ^1)[194]L. 111/1992, 20. gr.^2)[195]L. 30/1992, 23. gr.
+   ^1)[205]L. 111/1992, 20. gr.^2)[206]L. 30/1992, 23. gr.
 
                                   XII. kafli.
                             Viðurlög og málsmeðferð.
@@ -2861,9 +2959,9 @@
    að óviðráðanleg atvik hafi hamlað því að hann skilaði framtali á réttum
    tíma, bætti úr annmörkum á framtali eða leiðrétti einstaka liði þess.
         Um kæru til skattstjóra og [yfirskattanefndar]^2) fer eftir ákvæðum
-   99. [gr. laganna og ákvæðum [196]laga nr. 30/1992, um yfirskattanefnd].^3)
+   99. [gr. laganna og ákvæðum [207]laga nr. 30/1992, um yfirskattanefnd].^3)
 
-   ^1)[197]L. 36/1991, 6. gr.^2)[198]L. 30/1992, 23. gr.^3)[199]L. 147/1994,
+   ^1)[208]L. 36/1991, 6. gr.^2)[209]L. 30/1992, 23. gr.^3)[210]L. 147/1994,
    13. gr.
 
                                    Refsingar.
@@ -2909,23 +3007,22 @@
    sviptingu starfsréttinda, enda sé brotið drýgt til hagsbóta fyrir
    lögaðilann eða hann hafi notið hagnaðar af brotinu.]^1)
 
-   ^1)[200]L. 42/1995, 1. gr.
+   ^1)[211]L. 42/1995, 1. gr.
 
                Málsmeðferð og opinber rannsókn. Fyrningarreglur.
                                     108. gr.
         [Yfirskattanefnd]^1) úrskurðar sektir skv. 107. gr. nema máli sé
    vísað til opinberrar rannsóknar og dómsmeðferðar skv. 2. mgr. [Um meðferð
-   mála hjá nefndinni fer eftir [201]lögum nr. 30/1992, um
+   mála hjá nefndinni fer eftir [212]lögum nr. 30/1992, um
    yfirskattanefnd.]^2) [Skattrannsóknarstjóri ríkisins]^3) kemur fram af
    hálfu hins opinbera fyrir nefndinni þegar hún úrskurðar sektir. Úrskurðir
    nefndarinnar eru fullnaðarúrskurðir.
-        Rannsóknarlögregla ríkisins fer með frumrannsókn opinberra mála út af
-   brotum á lögum þessum. [Skattrannsóknarstjóri ríkisins]^3) getur vísað
-   máli til opinberrar rannsóknar af sjálfsdáðum svo og eftir ósk sökunauts,
-   ef hann vill eigi hlíta því að mál verði afgreidd af [yfirskattanefnd]^1)
-   skv. 1. mgr.
+        ...^4) [Skattrannsóknarstjóri ríkisins]^3) getur vísað máli til
+   opinberrar rannsóknar af sjálfsdáðum svo og eftir ósk sökunauts, ef hann
+   vill eigi hlíta því að mál verði afgreidd af [yfirskattanefnd]^1) skv. 1.
+   mgr.
         [Mál út af brotum gegn skattalöggjöf skulu sæta meðferð opinberra
-   mála. Skattkröfu má hafa uppi og dæma í slíkum málum.]^4)
+   mála. Skattkröfu má hafa uppi og dæma í slíkum málum.]^5)
         Sektir fyrir brot gegn lögum þessum renna í ríkissjóð.
         Vararefsing fylgir ekki sektarúrskurðum [yfirskattanefndar].^1) Um
    innheimtu sekta, er [yfirskattanefnd]^1) úrskurðar, gilda sömu reglur og
@@ -2933,8 +3030,9 @@
         Sök samkvæmt 107. gr. fyrnist á sex árum miðað við upphaf rannsóknar,
    enda verði ekki óeðlilegar tafir á rannsókn máls eða ákvörðun refsingar.
 
-   ^1)[202]L. 30/1992, 23. gr.^2)[203]L. 147/1994, 14. gr.^3)[204]L.
-   111/1992, 20. gr.^4)[205]L. 19/1991, 195. gr.
+   ^1)[213]L. 30/1992, 23. gr.^2)[214]L. 147/1994, 14. gr.^3)[215]L.
+   111/1992, 20. gr.^4)[216]L. 90/1996, 43. gr., sem tekur gildi 1. júlí
+   1997.^5)[217]L. 19/1991, 195. gr.
 
                                   XIII. kafli.
                               Innheimta og ábyrgð.
@@ -2959,7 +3057,7 @@
    einstakra opinberra gjalda sem innheimt verða með þessum hætti, um
    samræmingu dráttarvaxtareglna og um skyldur launagreiðenda.
 
-   ^1)[206]L. 92/1991, 76. gr.^2)[207]L. 49/1987, 15. gr.^3)Rg. 95/1962, sbr.
+   ^1)[218]L. 92/1991, 76. gr.^2)[219]L. 49/1987, 15. gr.^3)Rg. 95/1962, sbr.
    100/1965, 333/1979 og 129/1981 (Reykjavík). Rg. 320/1974 (Seltjarnarnes).
 
                                   Gjalddagar.
@@ -2983,12 +3081,13 @@
    tilteknu lágmarki, skuli ekki innheimt. Jafnframt er heimilt að takmarka
    fyrirframgreiðsluskyldu við þá sem ekki ber að inna af hendi staðgreiðslu
    samkvæmt lögum um staðgreiðslu opinberra gjalda.
-        Álagða skatta, að frádregnu því sem greiða ber fyrir álagningu skv.
+        [Álagða skatta, að frádregnu því sem greiða ber fyrir álagningu skv.
    2. mgr. þessarar greinar auk mismunar sem fram kemur á álagningu
    tekjuskatts og staðgreiðslu launamanns, sbr. 35. gr. laga um staðgreiðslu
-   opinberra gjalda, [að frádregnum bótum skv. 69. gr.],^1) skal greiða með
-   sem næst jöfnum greiðslum á þeim gjalddögum sem eftir eru á árinu þegar
-   álagning fer fram.]^2)
+   opinberra gjalda, að frádreginni staðgreiðslu samkvæmt lögum um
+   staðgreiðslu skatts á fjármagnstekjur og að frádregnum bótum skv. 69. gr.,
+   skal greiða með sem næst jöfnum greiðslum á þeim gjalddögum sem eftir eru
+   á árinu þegar álagning fer fram.]^1)]^2)
         Vangreiðsla að hluta veldur því að skattar gjaldandans falla í
    eindaga 15 dögum eftir gjalddagann, þó ekki fyrr en 15. næsta mánaðar
    eftir að álagningu er lokið.
@@ -3011,8 +3110,8 @@
    gildi sínu við þann hluta kröfunnar sem rekja má til vangreiddrar
    staðgreiðslu af reiknuðu endurgjaldi.]^3)
 
-   ^1)[208]L. 145/1995, 18. gr.^2)[209]L. 49/1987, 16. gr.^3)[210]L.
-   112/1990, 8. gr.
+   ^1)[220]L. 97/1996, 11. gr.^2)[221]L. 49/1987, 16. gr.^3)[222]L. 112/1990,
+   8. gr.
 
                                     111. gr.
         Áfrýjun skattákvörðunar eða deila um skattskyldu frestar ekki eindaga
@@ -3023,14 +3122,30 @@
         [Það skal vera stefna við innheimtu á tekjuskatti og eignarskatti
    samkvæmt lögum þessum að allir gjaldendur, sem eins stendur á um við
    innheimtu, vanskil og nauðungaraðgerðir, skuli hljóta sams konar meðferð.
-   Telji innheimtumaður tök á að tryggja greiðslu á kröfu, sem ella mundi
-   tapast, með samningi um greiðslu skal hann gefa fjármálaráðherra ítarlega
-   skýrslu um málavöxtu. Fjármálaráðherra er heimilt að samþykkja slíkan
-   samning, að fenginni umsögn Ríkisendurskoðunar. Að loknu hverju
-   innheimtuári skal Ríkisendurskoðun gefa Alþingi skýrslu um alla samninga
-   af þessu tagi.]^1)
+        Telji innheimtumaður tök á að tryggja greiðslu kröfu, sem ella mundi
+   tapast, með samningi um greiðslu skal hann gefa fjármálaráðherra skýrslu
+   um málavöxtu. Fjármálaráðherra er heimilt að samþykkja slíkan samning, að
+   fenginni umsögn Ríkisendurskoðunar.
+        Telji innheimtumaður að hagsmunum ríkissjóðs verði betur borgið með
+   nauðasamningi gjaldanda við skuldheimtumenn skal hann gefa
+   fjármálaráðherra skýrslu um málavöxtu. Fjármálaráðherra er heimilt að
+   samþykkja nauðasamning, að fenginni umsögn Ríkisendurskoðunar, enda sé
+   eftirfarandi skilyrðum fullnægt:
 
-   ^1)[211]L. 62/1989, 1. gr.
+   1.
+           Gjaldandi sé skuldlaus í virðisaukaskatti, staðgreiðslu opinberra
+           gjalda, tryggingagjaldi og vörugjaldi.
+   2.
+           Skattkröfur séu ekki tilkomnar vegna endurákvörðunar
+           skattyfirvalda á gjöldum vegna skattsvika.
+   3.
+           Ljóst sé að hagsmunum ríkissjóðs verði betur borgið með
+           nauðasamningi.
+
+        Að loknu hverju innheimtuári skal Ríkisendurskoðun gefa Alþingi
+   skýrslu um alla samninga skv. 3. mgr. og nauðasamninga skv. 4. mgr.]^1)
+
+   ^1)[223]L. 64/1996, 1. gr.
 
                                     Vextir.
                                     112. gr.
@@ -3039,7 +3154,7 @@
    sambandi er átt við reglulega gjalddaga skv. 1.4. og 6.8. mgr. 110. gr.,
    en gjaldfelling vegna vangreiðslu á hluta skv. 5. mgr. 110. gr. hefur ekki
    áhrif á dráttarvaxtaútreikning. Dráttarvextir eru þeir sömu og hjá
-   innlánsstofnunum, sbr. [212]13. gr. laga nr. 10/1961 og ákvörðun
+   innlánsstofnunum, sbr. [224]13. gr. laga nr. 10/1961 og ákvörðun
    Seðlabanka Íslands á hverjum tíma.^1)
         [Nú verður ljóst þegar álagningu skatta, annarra en tekjuskatts
    manna, lýkur eða við endurákvörðun þessara sömu skatta að gjaldandi hefur
@@ -3051,14 +3166,14 @@
    öðru leyti en því að [vextir]^2) reiknast aldrei fyrr en frá 1. júlí á
    álagningarári.]^3)
         [Sé kæra til meðferðar hjá yfirskattanefnd og nefndin leggur ekki
-   úrskurð á kæru innan lögboðins frests skv. 1. og 2. mgr. [213]8. gr. laga
+   úrskurð á kæru innan lögboðins frests skv. 1. og 2. mgr. [225]8. gr. laga
    nr. 30/1992 skal greiða skattaðila dráttarvexti af fjárhæð sem
    yfirskattanefnd úrskurðar að skuli endurgreiða, eða dæmd er síðar, frá
    þeim tíma þegar frestur nefndarinnar til að kveða upp úrskurð leið.
         Ætíð má krefjast dráttarvaxta frá þeim tíma er dómsmál telst höfðað
    til endurgreiðslu skatta samkvæmt lögum þessum.]^2)
 
-   ^1)Nú [214]l. 25/1987.^2)[215]L. 31/1995, 2. gr.^3)[216]L. 49/1987, 17.
+   ^1)Nú [226]l. 25/1987.^2)[227]L. 31/1995, 2. gr.^3)[228]L. 49/1987, 17.
    gr.
 
                             Skyldur launagreiðanda.
@@ -3069,7 +3184,7 @@
    bera sjálfskuldarábyrgð á og innheimta ber samkvæmt ákvæðum 110. gr.
    Aldrei skulu launagreiðendur þó halda eftir meira en nemur 75% af
    heildarlaunagreiðslu hverju sinni til greiðslu á gjöldum samkvæmt lögum
-   þessum og gjöldum samkvæmt [217]IV. kafla laga nr. 73/1980.^1) Í reglugerð
+   þessum og gjöldum samkvæmt [229]IV. kafla laga nr. 73/1980.^1) Í reglugerð
    skulu sett nánari ákvæði um framkvæmd þessarar greinar.]^2)
         Hafi launagreiðandi vanrækt að halda eftir af launum ber hann
    sjálfskuldarábyrgð á greiðslu þess fjár.
@@ -3081,7 +3196,7 @@
    skv. 1. mgr. 112. gr. frá þeim degi sem skila átti fénu til
    innheimtumanns.
 
-   ^1)Nú [218]l. 4/1995.^2)[219]L. 49/1987, 18. gr.
+   ^1)Nú [230]l. 4/1995.^2)[231]L. 49/1987, 18. gr.
 
                             Ábyrgð á skattgreiðslum.
                                     114. gr.
@@ -3116,7 +3231,7 @@
    í 3. gr., setji tryggingu fyrir væntanlegum sköttum sínum og gjöldum svo
    og fyrir skattgreiðslum annarra aðila sem þeir eru ábyrgir fyrir.
 
-   ^1)[220]L. 20/1991, 136. gr.
+   ^1)[232]L. 20/1991, 136. gr.
 
                                   XIV. kafli.
                                   Ýmis ákvæði.
@@ -3136,7 +3251,7 @@
    eftirlits með gjaldeyrismálum, enda standi ákvæði milliríkjasamninga ekki
    í vegi fyrir því.
 
-   ^1)[221]L. 111/1992, 20. gr.^2)[222]L. 30/1992, 23. gr.
+   ^1)[233]L. 111/1992, 20. gr.^2)[234]L. 30/1992, 23. gr.
 
                                     116. gr.
         Ríkisskattstjóri skal árlega gefa út reglur um mat á hlunnindum, sbr.
@@ -3161,7 +3276,7 @@
    ^1)Tvísköttunarsamningar: Augl. C 8/1987, sbr. 26/1987
    (Norðurlandasamningur), 11/1962 og 22/1975 (Bandaríki N-Ameríku), 21/1970
    og 79/1931 (Belgía), 4/1930 (Bretland), 18/1976 (Lúxemborg) og 13/1971,
-   sbr. 21/1973 (V-Þýskaland).^2)Sjá [223]l. 46/1990 (Norðurlandasamningur um
+   sbr. 21/1973 (V-Þýskaland).^2)Sjá [235]l. 46/1990 (Norðurlandasamningur um
    aðstoð í skattamálum).
 
                                     118. gr.
@@ -3180,7 +3295,7 @@
 
    ^1)Rg. 245/1963, sbr. 79/1966, 307/1968, 74/1969, 167/1970, 383/1974,
    9/1976 og 434/1978 (um tekju- og eignarskatt). Rg. 37/1989, sbr. 37/1993.
-   Rg. 225/1991, 483/1994, 240/1995 og 361/1995.^2)[224]L. 111/1992, 21. gr.
+   Rg. 225/1991, 483/1994, 240/1995 og 361/1995.^2)[236]L. 111/1992, 21. gr.
 
                                     120. gr.
         [Fjármálaráðherra er heimilt að ákveða fyrir eitt ár í senn að
@@ -3188,43 +3303,46 @@
    [3. tölul.]^1) A-liðar 30. gr., enda sé öllum ágóða af happdrættunum varið
    til menningarmála, mannúðarmála eða kirkjulegrar starfsemi.]^2)
 
-   ^1)[225]L. 145/1995, 19. gr.^2)[226]L. 147/1994, 15. gr.
+   ^1)[237]L. 145/1995, 19. gr.^2)[238]L. 147/1994, 15. gr.
 
                                     121. gr.
         [...^1)
         ...^1)
         [Við mismun, sem í ljós kemur á álögðum tekjuskatti manna og
    staðgreiðslu samkvæmt lögum um staðgreiðslu opinberra gjalda, sbr. 34. gr.
-   þeirra laga, og stafar af of lágri staðgreiðslu, skal bæta 2,5% álagi. Við
-   mismun, sem rætur á að rekja til of hárrar staðgreiðslu, skal með sama
-   hætti bæta 2,5% álagi.]^1)
+   þeirra laga [eða laga um staðgreiðslu skatts á fjármagnstekjur],^2) og
+   stafar af of lágri staðgreiðslu, skal bæta 2,5% álagi. Við mismun, sem
+   rætur á að rekja til of hárrar staðgreiðslu, skal með sama hætti bæta 2,5%
+   álagi.]^1)
         Um innheimtu, dráttarvexti, innheimtuúrræði og lögvernd verðbóta, sem
    greiða ber skv. 2. mgr., skulu gilda ákvæði XIII. kafla laga þessara eins
-   og um tekjuskatt sé að ræða.]^2)
+   og um tekjuskatt sé að ræða.]^3)
 
-   ^1)[227]L. 145/1995, 20. gr.^2)[228]L. 49/1987, 19. gr.
+   ^1)[239]L. 145/1995, 20. gr.^2)[240]L. 97/1996, 12. gr. (Ath. að í Stjtíð.
+   er þessi breyting gerð á 1. mgr. 121. gr., en átt er við 3.
+   mgr.)^3)[241]L. 49/1987, 19. gr.
 
                                    [122. gr.
         ...^1)]^2)
 
-   ^1)[229]L. 145/1995, 21. gr.^2)[230]L. 49/1987, 20. gr.
+   ^1)[242]L. 145/1995, 21. gr.^2)[243]L. 49/1987, 20. gr.
 
                                  [123. gr.]^1)
         Nú hafa undirskattanefndum eða yfirskattanefndum verið falin sérstök
    störf samkvæmt öðrum lögum eða reglugerðum og skulu þá skattstjórar leysa
    þau störf af hendi uns öðruvísi verður ákveðið.
 
-   ^1)[231]L. 49/1987, 20. gr.
+   ^1)[244]L. 49/1987, 20. gr.
 
                                    [124. gr.
         Ákvæði laga þessara um hlutabréf og jöfnunarhlutabréf skulu gilda með
-   sama hætti um samvinnuhlutabréf, sbr. [232]lög nr. 22/1991, um
-   samvinnufélög, eftir því sem við á. Jafnframt skulu ákvæði [233]laga nr.
+   sama hætti um samvinnuhlutabréf, sbr. [245]lög nr. 22/1991, um
+   samvinnufélög, eftir því sem við á. Jafnframt skulu ákvæði [246]laga nr.
    9/1984, um frádrátt frá skattskyldum tekjum vegna fjárfestingar manna í
    atvinnurekstri, um hlutabréf gilda með sama hætti um
    samvinnuhlutabréf.]^1)
 
-   ^1)[234]L. 85/1991, 17. gr.
+   ^1)[247]L. 85/1991, 17. gr.
 
                             Ákvæði til bráðabirgða.
                                        I.
@@ -3240,8 +3358,8 @@
    eignar eftir árslok 1978, fer eftir ákvæðum 9. gr.
 
                                       II.
-        Þrátt fyrir ákvæði [235]III. kafla laga nr. 51/1968 um bókhald,^1)
-   [236]XII. kafla laga nr. 32/1978 um hlutafélög^2) og [237]laga nr. 46/1937
+        Þrátt fyrir ákvæði [248]III. kafla laga nr. 51/1968 um bókhald,^1)
+   [249]XII. kafla laga nr. 32/1978 um hlutafélög^2) og [250]laga nr. 46/1937
    um samvinnufélög,^3) sbr. 2. málsl. 1. mgr. 91. gr. þessara laga, er öllum
    bókhaldsskyldum aðilum heimilt að miða gerð ársreikninga sinna við ákvæði
    þessara laga að því er varðar endurmat, fyrningar og færslu vegna
@@ -3249,7 +3367,7 @@
    ársreikningi skuli ekki tilfæra með hærra verði en raunverulega svarar til
    verðmætis þeirra.
 
-   ^1)L. Nú [238]l. 145/1994.^2)L. Nú [239]l. 2/1995.^3)L. Nú [240]l.
+   ^1)L. Nú [251]l. 145/1994.^2)L. Nú [252]l. 2/1995.^3)L. Nú [253]l.
    22/1991.
 
                                       III.
@@ -3258,11 +3376,11 @@
    tillög í varasjóð í stað tillaga til fjárfestingarsjóðs samkvæmt 11.
    tölul. 31. gr. Hámark varasjóðstillags þessara aðila skal vera 25% af
    þeirri fjárhæð sem eftir stendur þegar frá tekjum samkvæmt II. kafla hafa
-   verið dregnar þær fjárhæðir sem um ræðir í 1.10. tölul. [241]31. gr. Öll
+   verið dregnar þær fjárhæðir sem um ræðir í 1.10. tölul. [254]31. gr. Öll
    ákvæði laga nr. 75/1981 varðandi varasjóð skulu gilda varðandi þessi
    varasjóðstillög uns varasjóði hefur verið ráðstafað að fullu.]^1)
 
-   ^1)[242]L. 8/1984, brbákv.
+   ^1)[255]L. 8/1984, brbákv.
 
                                       IV.
         [Sá sem keypt hefur eða hafið byggingu íbúðarhúsnæðis í fyrsta sinn á
@@ -3272,17 +3390,17 @@
    og með álagningarárinu 1988 í stað vaxtaafsláttar samkvæmt ákvæði til
    bráðabirgða I.]^1)
 
-   ^1)[243]L. 92/1987, brbákv. II.
+   ^1)[256]L. 92/1987, brbákv. II.
 
                                        V.
         [Um innheimtu ógoldinna þinggjalda, sem á hafa verið lögð fyrir
-   gildistöku laga þessara, skulu gilda ákvæði [244]laga nr. 75/1981, með
+   gildistöku laga þessara, skulu gilda ákvæði [257]laga nr. 75/1981, með
    síðari breytingum, eins og þau voru fyrir gildistöku laga þessara. Sama á
    við um innheimtu tekjuskatts og eignarskatts sem á verður lagður á árinu
    1988 vegna tekna á árinu 1987 og eigna í lok þess árs, sbr. ákvæði laga um
    gildistöku laga um staðgreiðslu opinberra gjalda.]^1)
 
-   ^1)[245]L. 92/1987, brbákv. III.
+   ^1)[258]L. 92/1987, brbákv. III.
 
                                       VI.
         [Þeir menn, sem dvalið hafa erlendis við störf en flytjast til
@@ -3301,19 +3419,19 @@
    af launatekjum ársins 1987 hjá þeim er fluttust til landsins á því
    ári.]^1)
 
-   ^1)[246]L. 92/1987, brbákv. IV.
+   ^1)[259]L. 92/1987, brbákv. IV.
 
                                       VII.
         [Þrátt fyrir ákvæði a-liðar 4. gr. er heimilt að draga eftirstöðvar
    rekstrartapa, eins og þær voru 31. desember 1990, frá skattskyldum tekjum
    næstu fimm ára talið frá gildistöku laga þessara.]^1)
 
-   ^1)[247]L. 85/1991, brbákv. II.
+   ^1)[260]L. 85/1991, brbákv. II.
 
                                      VIII.
         [...^1)]^2)
 
-   ^1)[248]L. 147/1994, 17. gr.^2)[249]L. 111/1992, brbákv. I.
+   ^1)[261]L. 147/1994, 17. gr.^2)[262]L. 111/1992, brbákv. I.
 
                                       IX.
         [
@@ -3322,13 +3440,13 @@
    m.a. um bindingu, ráðstöfun og viðurlög uns fjárfestingarsjóður hefur að
    fullu verið nýttur.]^1)
 
-   ^1)[250]L. 111/1992, brbákv. II.
+   ^1)[263]L. 111/1992, brbákv. II.
 
                                        X.
         [
                          Sérstakur tekjuskattur manna.
         Á tekjuskattsstofn manna, eins og hann er ákvarðaður samkvæmt
-   [251]lögum nr. 75/1981, með síðari breytingum, skal á árinu 1994 og 1995
+   [264]lögum nr. 75/1981, með síðari breytingum, skal á árinu 1994 og 1995
    leggja sérstakan tekjuskatt eins og nánar greinir í ákvæði þessu.
         Á tekjuskattsstofn einstaklinga umfram 2.400.000 kr., eða
    tekjuskattsstofn hjóna umfram 4.800.000 kr., skal reikna sérstakan 5%
@@ -3346,7 +3464,7 @@
         Sérstakur tekjuskattur samkvæmt ákvæði þessu skal ekki innheimtur með
    staðgreiðslu opinberra gjalda.]^1)
 
-   ^1)[252]L. 111/1992, brbákv. IV.
+   ^1)[265]L. 111/1992, brbákv. IV.
 
                                       XI.
         [
@@ -3380,27 +3498,27 @@
    lánskjaravísitölu sem í gildi er við upphaf fyrirframgreiðsluskyldu og 1.
    júlí á álagningarári.]^1)
 
-   ^1)[253]L. 111/1992, brbákv. V.
+   ^1)[266]L. 111/1992, brbákv. V.
 
                                       XII.
         [Um sérstakan tekjuskatt, sem fjallað er um í bráðabirgðaákvæði [X]
-   og [XI], skulu ákvæði [254]VIII.[255]XIV. kafla laga 75/1981, um
+   og [XI], skulu ákvæði [267]VIII.[268]XIV. kafla laga 75/1981, um
    tekjuskatt og eignarskatt, með síðari breytingum, gilda eftir því sem við
    getur átt.]^1)
 
-   ^1)[256]L. 111/1992, brbákv. VI.
+   ^1)[269]L. 111/1992, brbákv. VI.
 
                                      XIII.
         [Skattaðila, sem fengið hefur að niðurfæra skuldir sem færðar hafa
-   verið niður hjá Stofnlánadeild landbúnaðarins samkvæmt [257]lögum nr.
-   108/1992 eða hefur fengið eftirgefnar skuldir á grundvelli [258]33. gr.
+   verið niður hjá Stofnlánadeild landbúnaðarins samkvæmt [270]lögum nr.
+   108/1992 eða hefur fengið eftirgefnar skuldir á grundvelli [271]33. gr.
    laga nr. 3/1992, er heimilt að fyrna eignir, sem fyrnanlegar eru skv. 32.
    gr. og tengjast loðdýrabúskap, um fjárhæð sem nemur niðurfærslunni eða
    eftirgjöfinni. Ekki má mynda rekstrartap vegna fyrninga samkvæmt þessu
    ákvæði og ekki má nota þær til að fresta yfirfærslu rekstrartapa frá fyrri
    árum.]^1)
 
-   ^1)[259]L. 122/1993, 15. gr.
+   ^1)[272]L. 122/1993, 15. gr.
 
                                      [XIV.
 
@@ -3442,7 +3560,7 @@
            ekki má nota þær til þess að fresta yfirfærslu rekstrartapa frá
            fyrri árum.]^1)
 
-   ^1)[260]L. 147/1994, 18. gr. brbákv. I.
+   ^1)[273]L. 147/1994, 18. gr. brbákv. I.
 
                                       [XV.
 
@@ -3457,7 +3575,7 @@
    atvinnurekstri, sbr. 32. gr., en hafa ekki verið teknir í notkun í lok
    viðkomandi reikningsárs.]^1)
 
-   ^1)[261]L. 147/1994, 18. gr., brbákv. II.
+   ^1)[274]L. 147/1994, 18. gr., brbákv. II.
 
                                      [XVI.
 
@@ -3478,7 +3596,7 @@
         Sérstakur tekjuskattur samkvæmt ákvæði þessu skal ekki innheimtur með
    staðgreiðslu opinberra gjalda.]^1)
 
-   ^1)[262]L. 147/1994, 18. gr., brbákv. III.
+   ^1)[275]L. 147/1994, 18. gr., brbákv. III.
 
                                      [XVII.
 
@@ -3506,14 +3624,14 @@
    lánskjaravísitölu sem í gildi er við upphaf fyrirframgreiðsluskyldu og 1.
    júlí á álagningarári.]^1)
 
-   ^1)[263]L. 147/1994, 18. gr., brbákv. IV.
+   ^1)[276]L. 147/1994, 18. gr., brbákv. IV.
 
                                     [XVIII.
         a. Vegna launatímabila frá 1. apríl 1995 til og með 31. desember 1995
    er heimilt að draga frá tekjum manna skv. II. kafla laganna, sem ekki eru
    tengdar atvinnurekstri eða sjálfstæðri starfsemi, 50% iðgjalda launþega
    sem greidd hafa verið til lífeyrissjóða sem starfa samkvæmt lögum eða
-   hlotið hafa staðfestingu fjármálaráðuneytisins skv. [264]2. gr. laga nr.
+   hlotið hafa staðfestingu fjármálaráðuneytisins skv. [277]2. gr. laga nr.
    55/1980, að hámarki 2% af heildarlaunum. Frádráttur samkvæmt þessum
    staflið kemur til framkvæmda við álagningu á árinu 1996.
 
@@ -3525,14 +3643,14 @@
    c.
            ...^1)]^2)
 
-   ^1)[265]L. 145/1995, 22. gr.^2)[266]L. 30/1995, 6. gr.
+   ^1)[278]L. 145/1995, 22. gr.^2)[279]L. 30/1995, 6. gr.
 
                                      [XIX.
         a. Vegna launatímabila frá 1. apríl 1995 til og með 31. desember 1995
    er heimilt að draga frá tekjum manna sem vinna við eigin atvinnurekstur
    eða sjálfstæða starfsemi greidd iðgjöld til lífeyrissjóða sem starfa
    samkvæmt lögum eða hlotið hafa staðfestingu fjármálaráðuneytisins skv.
-   [267]2. gr. laga nr. 55/1980, að hámarki 2% af fjárhæð skv. 2. mgr. 1.
+   [280]2. gr. laga nr. 55/1980, að hámarki 2% af fjárhæð skv. 2. mgr. 1.
    tölul. A-liðar 7. gr., sbr. 59. gr. Frádráttur samkvæmt þessum staflið
    kemur til framkvæmda við álagningu á árinu 1996.
 
@@ -3544,7 +3662,7 @@
    c.
            ...^1)]^2)
 
-   ^1)[268]L. 145/1995, 23. gr.^2)[269]L. 30/1995, 6. gr.
+   ^1)[281]L. 145/1995, 23. gr.^2)[282]L. 30/1995, 6. gr.
 
                                       [XX.
 
@@ -3561,7 +3679,7 @@
         Sérstakur tekjuskattur samkvæmt ákvæði þessu skal ekki innheimtur með
    staðgreiðslu opinberra gjalda.]^1)
 
-   ^1)[270]L. 145/1995, 25. gr.
+   ^1)[283]L. 145/1995, 25. gr.
 
                                      [XXI.
 
@@ -3585,13 +3703,13 @@
    fyrirframgreiðsla samkvæmt ákvæði þessu hefur verið of há, og skal við
    mismuninn bæta 2,5% álagi.]^1)
 
-   ^1)[271]L. 145/1995, 25. gr.
+   ^1)[284]L. 145/1995, 25. gr.
 
                                      [XXII.
         Um sérstakan tekjuskatt, samkvæmt bráðabirgðaákvæði I og II, skulu
    ákvæði VIII.XIII. kafla laganna gilda eftir því sem við getur átt.]^1)
 
-   ^1)[272]L. 145/1995, 25. gr.
+   ^1)[285]L. 145/1995, 25. gr.
 
                                     [XXIII.
 
@@ -3606,281 +3724,369 @@
    b.
            Bifreiðar keyptar 1992 eða fyrr um 10% af kaupverði.]^1)
 
-   ^1)[273]L. 145/1995, 25. gr.
+   ^1)[286]L. 145/1995, 25. gr.
+
+                                     [XXIV.
+
+Vextir af bréfum og kröfum hjá aðilum utan rekstrar sem stofnað var til fyrir 1.
+                                  janúar 1997.
+        Vextir eins og þeir eru skilgreindir í 2. mgr. 8. gr. af bréfum og
+   kröfum sem gefin voru út eða til var stofnað fyrir 1. janúar 1997 teljast
+   eigi til skattskyldra vaxtatekna að því leyti sem þeir voru áfallnir 1.
+   janúar 1997.]^1)
+
+   ^1)[287]L. 97/1996, 14. gr., brbákv. I.
+
+                                     [XXV.
+
+                            Jöfnunarverð hlutabréfa.
+        Á árunum 1997 og 1998 reiknast jöfnunarverðmæti hlutabréfa í samræmi
+   við þetta ákvæði hjá þeim félögum sem skráð voru, sbr. 1. tölul. [288]2.
+   gr. laga nr. 75/1981, í árslok 1996.
+        Jöfnunarverðmæti hlutabréfa í félagi skal vera nafnverð hlutabréfa í
+   árslok 1996 að viðbættri þeirri fjárhæð sem heimilt væri að gefa út af
+   jöfnunarhlutabréfum samkvæmt þeim reglum sem um það giltu í árslok 1996.
+   Gera skal grein fyrir útreikningi jöfnunarverðmætis með framtalsskilum á
+   árunum 1997, 1998 eða 1999. Skattstjóri skal staðfesta útreikninginn.
+        Jöfnunarverðmæti samkvæmt þessu ákvæði skal árlega tilgreina á
+   skattframtali hlutafélagsins og á hlutafjármiðum. Ríkisskattstjóri skal
+   gefa út reglur og útbúa eyðublöð til notkunar við framkvæmd þessa ákvæðis.
+        Hafi seljandi hlutabréfa eignast hin seldu hlutabréf fyrir 1. janúar
+   1997 skal jöfnunarverðmætið skv. 2. mgr. þessa ákvæðis lagt til
+   grundvallar sem kaupverð án framreiknings skv. [289]26. gr. laga nr.
+   75/1981 við útreikning á söluhagnaði hlutabréfa. Í stað jöfnunarverðmætis
+   er heimilt að miða við upphaflegt kaupverð, að viðbættum breytingum
+   samkvæmt verðbreytingarstuðli skv. 26. gr. til ársloka 1996, sé það hærra.
+   Um söluhagnað þeirra sem eignast hin seldu hlutabréf eftir gildistöku laga
+   þessara fer eftir ákvæðum 2. mgr. 17. gr.
+        Hafi hlutafélag ekki gefið út jöfnunarhlutabréf eða, ef um
+   einkahlutafélag er að ræða, tilkynnt nýtt nafnverð formlega til
+   hlutafélagaskrár eða tilgreint jöfnunarverðmæti með þeim hætti sem áskilið
+   er í 2. og 3. mgr. ákvæðis þessa í síðasta lagi með skattframtali 1999,
+   vegna tekna á árinu 1998 og eigna í lok þess árs, skal jöfnunarverðmæti
+   við sölu bréfanna vera nafnverð hlutabréfanna í árslok 1996.
+        Hlutafélögum er heimilt að gefa út jöfnunarhlutabréf eða, ef um
+   einkahlutafélög er að ræða, tilkynna nýtt nafnverð formlega til
+   hlutafélagaskrár, allt að því að heildarnafnverð hlutafjár nái
+   jöfnunarverðmæti eins og það reiknast skv. 2. mgr. þessa ákvæðis.
+   Jöfnunarverðmætið, ásamt heimild til útgáfu jöfnunarhlutabréfa, skal síðan
+   hækka eða lækka eftir verðbreytingarstuðli skv. [290]26. gr. laga nr.
+   75/1981, í fyrsta sinn við útreikning á árinu 1998 samkvæmt
+   verðbreytingarstuðli sem birtur er í árslok 1997. Hlutafélögum er, þannig
+   að skattfrjálst sé hjá hluthöfum, jafnframt heimilt að gefa út
+   jöfnunarhlutabréf eða, ef um einkahlutafélag er að ræða, tilkynna nýtt
+   nafnverð formlega til hlutafélagaskrár, vegna innborgaðs hlutafjár eftir
+   1. janúar 1997, og takmarkast heimildin við innborgað hlutafé eftir að það
+   hefur verið hækkað eða lækkað eftir verðbreytingarstuðli skv. [291]26. gr.
+   laga nr. 75/1981 frá innborgunarári til ársins á undan útgáfuári, að
+   frádregnu nafnverði.]^1)
+
+   ^1)[292]L. 97/1996, 14. gr., brbákv. II.
+
+                                     [XXVI.
+
+                             Vextir af örorkubótum.
+        Nú hefur einstaklingur fengið greiddar bætur fyrir varanlega örorku á
+   árunum 19921996 og þær verið ákveðnar í einu lagi til greiðslu og er
+   honum þá heimilt á árunum 19972001 að færa til frádráttar á móti
+   fjármagnstekjum sínum fjárhæð sem svarar til lækkunar útborgaðra bóta
+   vegna eingreiðsluhagræðis og nemi 5% af fjárhæð bótanna.]^1)
+
+   ^1)[293]L. 97/1996, 14. gr., brbákv. III.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1981075
    2. file:///altext/stjt/1995.145.html
-   3. file://1991020.html#g136
-   4. file:///altext/stjt/1993.122.html
-   5. file:///altext/stjt/1995.145.html
+   3. file:///altext/stjt/1996.033.html
+   4. file://1991020.html#g136
+   5. file:///altext/stjt/1993.122.html
    6. file:///altext/stjt/1995.145.html
-   7. file:///altext/stjt/1995.030.html
-   8. file:///altext/stjtnr.html#1971067?g35
-   9. file:///altext/stjtnr.html#1971067?g14
-  10. file:///altext/stjt/1995.030.html
-  11. file:///altext/stjtnr.html#1987049?g1
+   7. file:///altext/stjt/1995.145.html
+   8. file:///altext/stjt/1996.073.html
+   9. file:///altext/stjt/1995.030.html
+  10. file:///altext/stjtnr.html#1971067?g35
+  11. file:///altext/stjtnr.html#1971067?g14
   12. file:///altext/stjt/1995.030.html
-  13. file://1993117.html
-  14. file:///altext/stjt/1994.147.html
-  15. file:///altext/stjtnr.html#1984008?g1
-  16. file:///altext/stjtnr.html#1984008?g2
-  17. file:///altext/stjt/1992.111.html
-  18. file:///altext/stjtnr.html#1984008?g8
-  19. file:///altext/stjtnr.html#1985047?g1
-  20. file://1984009.html
-  21. file:///altext/stjt/1995.145.html
-  22. file:///altext/stjt/1990.063.html
-  23. file:///altext/stjtnr.html#1984008?g3
-  24. file://1987042.html
-  25. file:///altext/stjt/1991.036.html
-  26. file:///altext/stjt/1991.085.html
-  27. file:///altext/stjtnr.html#1987092?g1
-  28. file:///altext/stjt/1993.122.html
-  29. file:///altext/stjtnr.html#1987049?g2
-  30. file://1980055.html#g2
-  31. file://1980055.html#g2
-  32. file://1984009.html
-  33. file://1993043.html
-  34. file:///altext/stjtnr.html#1987092?g2
-  35. file:///altext/stjt/1993.122.html
-  36. file:///altext/stjtnr.html#1987049?g3
-  37. file:///altext/stjt/1995.145.html
-  38. file:///altext/stjt/1995.030.html
-  39. file:///altext/stjt/1995.030.html
-  40. file:///altext/stjt/1995.145.html
-  41. file:///altext/stjt/1992.111.html
-  42. file:///altext/stjtnr.html#1984008?g4
-  43. file:///altext/stjt/1994.147.html
-  44. file:///altext/stjt/1994.147.html
-  45. file:///altext/stjtnr.html#1987049?g4
-  46. file:///altext/stjt/1994.057.html
-  47. file://1991021.html
-  48. file://1993010.html
-  49. file://1984009.html#g23
-  50. file:///altext/stjt/1992.111.html
-  51. file:///altext/stjt/1994.147.html
-  52. file:///altext/stjt/1993.122.html
-  53. file:///altext/stjt/1990.063.html
-  54. file:///altext/stjt/1995.030.html
-  55. file:///altext/stjt/1995.030.html
-  56. file:///altext/stjt/1991.085.html
-  57. file:///altext/stjt/1994.147.html
-  58. file:///altext/stjt/1994.147.html
-  59. file:///altext/stjtnr.html#1984008?g5
-  60. file:///altext/stjt/1995.145.html
-  61. file:///altext/stjt/1995.030.html
-  62. file:///altext/stjt/1993.060.html
-  63. file:///altext/stjt/1994.147.html
-  64. file:///altext/stjt/1993.060.html
-  65. file:///altext/stjtnr.html#1984008?g6
-  66. file:///altext/stjt/1992.111.html
-  67. file:///altext/stjt/1988.097.html
-  68. file:///altext/stjt/1991.085.html
-  69. file:///altext/stjtnr.html#1988002?g2
-  70. file:///altext/stjtnr.html#1984008?g7
-  71. file:///altext/stjt/1992.111.html
-  72. file:///altext/stjt/1988.097.html
-  73. file:///altext/stjt/1995.145.html
-  74. file:///altext/stjtnr.html#1984008?g8
-  75. file:///altext/stjtnr.html#1985118?g2
-  76. file:///altext/stjtnr.html#1987049?g5
-  77. file:///altext/stjt/1995.101.html
-  78. file:///altext/stjtnr.html#1988002?g3
-  79. file:///altext/stjt/1988.097.html
-  80. file:///altext/stjtnr.html#1984008?g9
-  81. file:///altext/stjt/1988.097.html
-  82. file:///altext/stjt/1992.111.html
-  83. file:///altext/stjt/1992.111.html
-  84. file:///altext/stjt/1992.111.html
-  85. file:///altext/stjtnr.html#1984008?g12
+  13. file:///altext/stjtnr.html#1987049?g1
+  14. file:///altext/stjt/1995.030.html
+  15. file://1993117.html
+  16. file:///altext/stjt/1994.147.html
+  17. file:///altext/stjtnr.html#1984008?g1
+  18. file:///altext/stjt/1996.097.html
+  19. file:///altext/stjt/1996.097.html
+  20. file:///altext/stjt/1996.097.html
+  21. file:///altext/stjt/1992.111.html
+  22. file:///altext/stjtnr.html#1984008?g8
+  23. file:///altext/stjt/1996.097.html
+  24. file:///altext/stjtnr.html#1985047?g1
+  25. file://1984009.html
+  26. file:///altext/stjt/1996.097.html
+  27. file:///altext/stjt/1995.145.html
+  28. file:///altext/stjt/1990.063.html
+  29. file:///altext/stjtnr.html#1984008?g3
+  30. file://1987042.html
+  31. file:///altext/stjt/1991.036.html
+  32. file:///altext/stjt/1991.085.html
+  33. file:///altext/stjtnr.html#1987092?g1
+  34. file:///altext/stjt/1993.122.html
+  35. file:///altext/stjtnr.html#1987049?g2
+  36. file://1980055.html#g2
+  37. file://1980055.html#g2
+  38. file://1984009.html
+  39. file://1993043.html
+  40. file:///altext/stjtnr.html#1987092?g2
+  41. file:///altext/stjt/1993.122.html
+  42. file:///altext/stjtnr.html#1987049?g3
+  43. file:///altext/stjt/1995.145.html
+  44. file:///altext/stjt/1995.030.html
+  45. file:///altext/stjt/1995.030.html
+  46. file:///altext/stjt/1995.145.html
+  47. file:///altext/stjt/1996.097.html
+  48. file:///altext/stjt/1994.147.html
+  49. file:///altext/stjtnr.html#1987049?g4
+  50. file:///altext/stjtnr.html#1984008?g4
+  51. file:///altext/stjt/1994.057.html
+  52. file://1991021.html
+  53. file://1993010.html
+  54. file://1984009.html#g23
+  55. file:///altext/stjt/1992.111.html
+  56. file:///altext/stjt/1994.147.html
+  57. file:///altext/stjt/1993.122.html
+  58. file:///altext/stjt/1990.063.html
+  59. file:///altext/stjt/1995.030.html
+  60. file:///altext/stjt/1991.085.html
+  61. file:///altext/stjt/1994.147.html
+  62. file:///altext/stjt/1996.097.html
+  63. file:///altext/stjtnr.html#1984008?g5
+  64. file:///altext/stjt/1995.145.html
+  65. file:///altext/stjt/1995.030.html
+  66. file:///altext/stjt/1993.060.html
+  67. file:///altext/stjt/1994.147.html
+  68. file:///altext/stjt/1993.060.html
+  69. file:///altext/stjtnr.html#1984008?g6
+  70. file:///altext/stjt/1992.111.html
+  71. file:///altext/stjt/1988.097.html
+  72. file:///altext/stjt/1991.085.html
+  73. file:///altext/stjtnr.html#1988002?g2
+  74. file:///altext/stjtnr.html#1984008?g7
+  75. file:///altext/stjt/1992.111.html
+  76. file:///altext/stjt/1988.097.html
+  77. file:///altext/stjt/1995.145.html
+  78. file:///altext/stjtnr.html#1984008?g8
+  79. file:///altext/stjtnr.html#1985118?g2
+  80. file:///altext/stjtnr.html#1987049?g5
+  81. file:///altext/stjt/1995.101.html
+  82. file:///altext/stjtnr.html#1988002?g3
+  83. file:///altext/stjt/1988.097.html
+  84. file:///altext/stjtnr.html#1984008?g9
+  85. file:///altext/stjt/1988.097.html
   86. file:///altext/stjt/1992.111.html
-  87. file:///altext/stjtnr.html#1984008?g12
-  88. file://1991022.html#g78
-  89. file://1991022.html#g81
-  90. file:///altext/stjt/1991.085.html
-  91. file:///altext/stjt/1994.147.html
-  92. file:///altext/stjt/1991.085.html
-  93. file:///altext/stjt/1988.097.html
-  94. file:///altext/stjtnr.html#1987049?g6
-  95. file:///altext/stjtnr.html#1987049?g7
-  96. file:///altext/stjt/1993.122.html
-  97. file:///altext/stjt/1990.068.html
-  98. file:///altext/stjtnr.html#1987092?g4
-  99. file:///altext/stjtnr.html#1987092?g5
- 100. file:///altext/stjtnr.html#1987049?g8
- 101. file:///altext/stjt/1989.117.html
- 102. file:///altext/stjtnr.html#1983021?g3
- 103. file:///altext/stjt/1993.122.html
- 104. file:///altext/stjt/1989.117.html
- 105. file:///altext/stjt/1995.145.html
- 106. file:///altext/stjt/1994.151.html
- 107. file:///altext/stjtnr.html#1987049?g9
- 108. file://1987043.html#g4
- 109. file://1987043.html#g5
- 110. file:///altext/stjt/1995.145.html
- 111. file:///altext/stjtnr.html#1987092?g6
- 112. file:///altext/stjt/1988.097.html
- 113. file:///altext/stjtnr.html#1987092?g7
- 114. file:///altext/stjt/1991.085.html
- 115. file:///altext/stjtnr.html#1987049?g10
- 116. file://1993097.html#g76
- 117. file:///altext/stjt/1995.145.html
- 118. file:///altext/stjt/1991.085.html
- 119. file:///altext/stjt/1994.147.html
- 120. file:///altext/stjt/1993.058.html
- 121. file:///altext/stjt/1992.111.html
- 122. file:///altext/stjt/1993.122.html
- 123. file:///altext/stjt/1995.030.html
- 124. file:///altext/stjt/1995.030.html
- 125. file:///altext/stjt/1994.147.html
+  87. file:///altext/stjt/1992.111.html
+  88. file:///altext/stjt/1992.111.html
+  89. file:///altext/stjtnr.html#1984008?g12
+  90. file:///altext/stjt/1992.111.html
+  91. file:///altext/stjtnr.html#1984008?g12
+  92. file://1991022.html#g78
+  93. file://1991022.html#g81
+  94. file:///altext/stjt/1991.085.html
+  95. file:///altext/stjt/1994.147.html
+  96. file:///altext/stjt/1991.085.html
+  97. file:///altext/stjt/1988.097.html
+  98. file:///altext/stjtnr.html#1987049?g6
+  99. file:///altext/stjtnr.html#1987049?g7
+ 100. file:///altext/stjt/1993.122.html
+ 101. file:///altext/stjt/1990.068.html
+ 102. file:///altext/stjtnr.html#1987092?g4
+ 103. file:///altext/stjtnr.html#1987092?g5
+ 104. file:///altext/stjtnr.html#1987049?g8
+ 105. file:///altext/stjt/1989.117.html
+ 106. file:///altext/stjtnr.html#1983021?g3
+ 107. file:///altext/stjt/1993.122.html
+ 108. file:///altext/stjt/1989.117.html
+ 109. file:///altext/stjt/1995.145.html
+ 110. file:///altext/stjt/1994.151.html
+ 111. file:///altext/stjtnr.html#1987049?g9
+ 112. file:///altext/stjt/1996.097.html
+ 113. file://1987043.html#g4
+ 114. file://1987043.html#g5
+ 115. file:///altext/stjt/1995.145.html
+ 116. file:///altext/stjt/1996.033.html
+ 117. file:///altext/stjtnr.html#1987092?g6
+ 118. file:///altext/stjt/1996.097.html
+ 119. file:///altext/stjt/1988.097.html
+ 120. file:///altext/stjtnr.html#1987092?g7
+ 121. file:///altext/stjt/1991.085.html
+ 122. file:///altext/stjtnr.html#1987049?g10
+ 123. file://1993097.html#g76
+ 124. file:///altext/stjt/1995.145.html
+ 125. file:///altext/stjt/1991.085.html
  126. file:///altext/stjt/1994.147.html
- 127. file:///altext/stjt/1993.122.html
- 128. file:///altext/stjtnr.html#1987049?g10
- 129. file:///altext/stjt/1990.112.html
- 130. file:///altext/stjtnr.html#1987049?g13
- 131. file:///altext/stjt/1988.097.html
- 132. file:///altext/stjt/1990.112.html
- 133. file:///altext/stjtnr.html#1987092?g10
- 134. file:///altext/stjt/1993.122.html
- 135. file:///altext/stjt/1995.145.html
- 136. file:///altext/stjtnr.html#1988002?g6
- 137. file:///altext/stjt/1990.063.html
- 138. file:///altext/stjt/1993.122.html
- 139. file:///altext/stjtnr.html#1988002?g7
- 140. file:///altext/stjt/1989.020.html
- 141. file:///altext/stjt/1995.145.html
- 142. file:///altext/stjtnr.html#1984008?g14
- 143. file:///altext/stjt/1990.112.html
- 144. file://1993010.html
- 145. file:///altext/stjt/1989.117.html
- 146. file:///altext/stjtnr.html#1987092?g11
- 147. file:///altext/stjtnr.html#1983021?g4
- 148. file:///altext/stjt/1993.122.html
- 149. file:///altext/stjt/1989.051.html
- 150. file:///altext/stjt/1990.068.html
- 151. file:///altext/stjtnr.html#1987092?g12
- 152. file:///altext/stjt/1989.117.html
- 153. file:///altext/stjt/1995.145.html
- 154. file:///altext/stjt/1994.147.html
- 155. file:///altext/stjt/1990.112.html
- 156. file:///altext/stjt/1988.097.html
- 157. file:///altext/stjtnr.html#1984007?g7
- 158. file:///altext/stjt/1995.145.html
- 159. file:///altext/stjt/1994.147.html
- 160. file:///altext/stjt/1995.145.html
- 161. file:///altext/stjt/1995.145.html
- 162. file://1992030.html#g23
- 163. file:///altext/stjt/1992.111.html
- 164. file:///altext/stjt/1992.111.html
- 165. file:///altext/stjt/1992.111.html
- 166. file://1991020.html#g136
- 167. file:///altext/stjt/1995.145.html
- 168. file:///altext/stjt/1994.147.html
- 169. file://1991020.html#g136
+ 127. file:///altext/stjt/1993.058.html
+ 128. file:///altext/stjt/1992.111.html
+ 129. file:///altext/stjt/1996.097.html
+ 130. file:///altext/stjt/1993.122.html
+ 131. file:///altext/stjt/1995.030.html
+ 132. file:///altext/stjt/1995.030.html
+ 133. file:///altext/stjt/1994.147.html
+ 134. file:///altext/stjt/1994.147.html
+ 135. file:///altext/stjt/1993.122.html
+ 136. file:///altext/stjtnr.html#1987049?g10
+ 137. file:///altext/stjt/1990.112.html
+ 138. file:///altext/stjtnr.html#1987049?g13
+ 139. file:///altext/stjt/1988.097.html
+ 140. file:///altext/stjt/1990.112.html
+ 141. file:///altext/stjtnr.html#1987092?g10
+ 142. file://1980055.html
+ 143. file://1982065.html
+ 144. file:///altext/stjt/1993.122.html
+ 145. file:///altext/stjt/1996.097.html
+ 146. file:///altext/stjt/1995.145.html
+ 147. file:///altext/stjtnr.html#1988002?g6
+ 148. file:///altext/stjt/1990.063.html
+ 149. file:///altext/stjt/1993.122.html
+ 150. file:///altext/stjtnr.html#1988002?g7
+ 151. file:///altext/stjt/1989.020.html
+ 152. file:///altext/stjt/1995.145.html
+ 153. file:///altext/stjtnr.html#1984008?g14
+ 154. file:///altext/stjt/1990.112.html
+ 155. file://1993010.html
+ 156. file:///altext/stjt/1989.117.html
+ 157. file:///altext/stjtnr.html#1987092?g11
+ 158. file:///altext/stjtnr.html#1983021?g4
+ 159. file:///altext/stjt/1993.122.html
+ 160. file:///altext/stjt/1989.051.html
+ 161. file:///altext/stjt/1990.068.html
+ 162. file:///altext/stjtnr.html#1987092?g12
+ 163. file:///altext/stjt/1989.117.html
+ 164. file:///altext/stjt/1995.145.html
+ 165. file:///altext/stjt/1994.147.html
+ 166. file:///altext/stjt/1990.112.html
+ 167. file:///altext/stjt/1988.097.html
+ 168. file:///altext/stjtnr.html#1984007?g7
+ 169. file:///altext/stjt/1995.145.html
  170. file:///altext/stjt/1994.147.html
- 171. file:///altext/stjt/1991.036.html
+ 171. file:///altext/stjt/1995.145.html
  172. file:///altext/stjt/1995.145.html
- 173. file:///altext/stjt/1992.111.html
- 174. file://1991019.html
- 175. file://1992030.html
- 176. file:///altext/stjt/1995.145.html
- 177. file:///altext/stjt/1995.145.html
- 178. file:///altext/stjt/1995.037.html
- 179. file:///altext/stjt/1992.111.html
- 180. file:///altext/stjtnr.html#1984007?g8
- 181. file:///altext/stjt/1995.145.html
- 182. file:///altext/stjt/1994.147.html
- 183. file://1992030.html#g23
- 184. file://1992030.html#g23
- 185. file:///altext/stjt/1995.037.html
- 186. file:///altext/stjt/1992.111.html
- 187. file:///altext/stjt/1992.111.html
- 188. file:///altext/stjt/1992.111.html
- 189. file:///altext/stjt/1992.111.html
+ 173. file://1992030.html#g23
+ 174. file:///altext/stjt/1992.111.html
+ 175. file:///altext/stjt/1992.111.html
+ 176. file:///altext/stjt/1992.111.html
+ 177. file://1991020.html#g136
+ 178. file:///altext/stjt/1995.145.html
+ 179. file:///altext/stjt/1994.147.html
+ 180. file://1991020.html#g136
+ 181. file:///altext/stjt/1994.147.html
+ 182. file:///altext/stjt/1991.036.html
+ 183. file:///altext/stjt/1995.145.html
+ 184. file:///altext/stjt/1992.111.html
+ 185. file://1991019.html
+ 186. file://1992030.html
+ 187. file:///altext/stjt/1995.145.html
+ 188. file:///altext/stjt/1995.145.html
+ 189. file:///altext/stjt/1995.037.html
  190. file:///altext/stjt/1992.111.html
- 191. file:///altext/stjt/1993.122.html
- 192. file:///altext/stjt/1992.111.html
- 193. file://1992030.html#g23
- 194. file:///altext/stjt/1992.111.html
+ 191. file:///altext/stjtnr.html#1984007?g8
+ 192. file:///altext/stjt/1995.145.html
+ 193. file:///altext/stjt/1994.147.html
+ 194. file://1992030.html#g23
  195. file://1992030.html#g23
- 196. file://1992030.html
- 197. file:///altext/stjt/1991.036.html
- 198. file://1992030.html#g23
- 199. file:///altext/stjt/1994.147.html
- 200. file:///altext/stjt/1995.042.html
- 201. file://1992030.html
- 202. file://1992030.html#g23
- 203. file:///altext/stjt/1994.147.html
- 204. file:///altext/stjt/1992.111.html
- 205. file://1991019.html
- 206. file:///altext/stjt/1991.092.html
- 207. file:///altext/stjtnr.html#1987049?g15
- 208. file:///altext/stjt/1995.145.html
- 209. file:///altext/stjtnr.html#1987049?g16
- 210. file:///altext/stjt/1990.112.html
- 211. file:///altext/stjt/1989.062.html
- 212. file:///altext/stjtnr.html#1961010?g13
- 213. file://1992030.html#g8
- 214. file://1987025.html
- 215. file:///altext/stjt/1995.031.html
- 216. file:///altext/stjtnr.html#1987049?g17
- 217. file:///altext/stjtnr.html#1980073?k4
- 218. file://1995004.html
- 219. file:///altext/stjtnr.html#1987049?g18
- 220. file://1991020.html#g136
- 221. file:///altext/stjt/1992.111.html
- 222. file://1992030.html#g23
- 223. file://1990046.html
- 224. file:///altext/stjt/1992.111.html
- 225. file:///altext/stjt/1995.145.html
- 226. file:///altext/stjt/1994.147.html
- 227. file:///altext/stjt/1995.145.html
- 228. file:///altext/stjtnr.html#1987049?g19
- 229. file:///altext/stjt/1995.145.html
- 230. file:///altext/stjtnr.html#1987049?g20
- 231. file:///altext/stjtnr.html#1987049?g20
- 232. file://1991022.html
- 233. file://1984009.html
- 234. file:///altext/stjt/1991.085.html
- 235. file:///altext/stjtnr.html#1968051?k3
- 236. file:///altext/stjtnr.html#1978032?k12
- 237. file:///altext/stjtnr.html#1937046
- 238. file://1994145.html
- 239. file://1995002.html
- 240. file://1991022.html
- 241. file://1981075.html#g31
- 242. file:///altext/stjtnr.html#1984008?b0
- 243. file:///altext/stjtnr.html#1987092?b0
- 244. file://1981075.html
- 245. file:///altext/stjtnr.html#1987092?b0
- 246. file:///altext/stjtnr.html#1987092?b0
+ 196. file:///altext/stjt/1995.037.html
+ 197. file:///altext/stjt/1992.111.html
+ 198. file:///altext/stjt/1992.111.html
+ 199. file:///altext/stjt/1992.111.html
+ 200. file:///altext/stjt/1992.111.html
+ 201. file:///altext/stjt/1992.111.html
+ 202. file:///altext/stjt/1993.122.html
+ 203. file:///altext/stjt/1992.111.html
+ 204. file://1992030.html#g23
+ 205. file:///altext/stjt/1992.111.html
+ 206. file://1992030.html#g23
+ 207. file://1992030.html
+ 208. file:///altext/stjt/1991.036.html
+ 209. file://1992030.html#g23
+ 210. file:///altext/stjt/1994.147.html
+ 211. file:///altext/stjt/1995.042.html
+ 212. file://1992030.html
+ 213. file://1992030.html#g23
+ 214. file:///altext/stjt/1994.147.html
+ 215. file:///altext/stjt/1992.111.html
+ 216. file://1996090.html#g43
+ 217. file://1991019.html
+ 218. file:///altext/stjt/1991.092.html
+ 219. file:///altext/stjtnr.html#1987049?g15
+ 220. file:///altext/stjt/1996.097.html
+ 221. file:///altext/stjtnr.html#1987049?g16
+ 222. file:///altext/stjt/1990.112.html
+ 223. file:///altext/stjt/1996.064.html
+ 224. file:///altext/stjtnr.html#1961010?g13
+ 225. file://1992030.html#g8
+ 226. file://1987025.html
+ 227. file:///altext/stjt/1995.031.html
+ 228. file:///altext/stjtnr.html#1987049?g17
+ 229. file:///altext/stjtnr.html#1980073?k4
+ 230. file://1995004.html
+ 231. file:///altext/stjtnr.html#1987049?g18
+ 232. file://1991020.html#g136
+ 233. file:///altext/stjt/1992.111.html
+ 234. file://1992030.html#g23
+ 235. file://1990046.html
+ 236. file:///altext/stjt/1992.111.html
+ 237. file:///altext/stjt/1995.145.html
+ 238. file:///altext/stjt/1994.147.html
+ 239. file:///altext/stjt/1995.145.html
+ 240. file:///altext/stjt/1996.097.html
+ 241. file:///altext/stjtnr.html#1987049?g19
+ 242. file:///altext/stjt/1995.145.html
+ 243. file:///altext/stjtnr.html#1987049?g20
+ 244. file:///altext/stjtnr.html#1987049?g20
+ 245. file://1991022.html
+ 246. file://1984009.html
  247. file:///altext/stjt/1991.085.html
- 248. file:///altext/stjt/1994.147.html
- 249. file:///altext/stjt/1992.111.html
- 250. file:///altext/stjt/1992.111.html
- 251. file://1981075.html
- 252. file:///altext/stjt/1992.111.html
- 253. file:///altext/stjt/1992.111.html
- 254. file:///altext/stjtnr.html#1981075?k8
- 255. file://1981075.html
- 256. file:///altext/stjt/1992.111.html
- 257. file:///altext/stjt/1992.108.html
- 258. file://1992003.html
- 259. file:///altext/stjt/1993.122.html
- 260. file:///altext/stjt/1994.147.html
+ 248. file:///altext/stjtnr.html#1968051?k3
+ 249. file:///altext/stjtnr.html#1978032?k12
+ 250. file:///altext/stjtnr.html#1937046
+ 251. file://1994145.html
+ 252. file://1995002.html
+ 253. file://1991022.html
+ 254. file://1981075.html#g31
+ 255. file:///altext/stjtnr.html#1984008?b0
+ 256. file:///altext/stjtnr.html#1987092?b0
+ 257. file://1981075.html
+ 258. file:///altext/stjtnr.html#1987092?b0
+ 259. file:///altext/stjtnr.html#1987092?b0
+ 260. file:///altext/stjt/1991.085.html
  261. file:///altext/stjt/1994.147.html
- 262. file:///altext/stjt/1994.147.html
- 263. file:///altext/stjt/1994.147.html
- 264. file://1980055.html#g2
- 265. file:///altext/stjt/1995.145.html
- 266. file:///altext/stjt/1995.030.html
- 267. file://1980055.html#g2
- 268. file:///altext/stjt/1995.145.html
- 269. file:///altext/stjt/1995.030.html
- 270. file:///altext/stjt/1995.145.html
- 271. file:///altext/stjt/1995.145.html
- 272. file:///altext/stjt/1995.145.html
- 273. file:///altext/stjt/1995.145.html
+ 262. file:///altext/stjt/1992.111.html
+ 263. file:///altext/stjt/1992.111.html
+ 264. file://1981075.html
+ 265. file:///altext/stjt/1992.111.html
+ 266. file:///altext/stjt/1992.111.html
+ 267. file:///altext/stjtnr.html#1981075?k8
+ 268. file://1981075.html
+ 269. file:///altext/stjt/1992.111.html
+ 270. file:///altext/stjt/1992.108.html
+ 271. file://1992003.html
+ 272. file:///altext/stjt/1993.122.html
+ 273. file:///altext/stjt/1994.147.html
+ 274. file:///altext/stjt/1994.147.html
+ 275. file:///altext/stjt/1994.147.html
+ 276. file:///altext/stjt/1994.147.html
+ 277. file://1980055.html#g2
+ 278. file:///altext/stjt/1995.145.html
+ 279. file:///altext/stjt/1995.030.html
+ 280. file://1980055.html#g2
+ 281. file:///altext/stjt/1995.145.html
+ 282. file:///altext/stjt/1995.030.html
+ 283. file:///altext/stjt/1995.145.html
+ 284. file:///altext/stjt/1995.145.html
+ 285. file:///altext/stjt/1995.145.html
+ 286. file:///altext/stjt/1995.145.html
+ 287. file:///altext/stjt/1996.097.html
+ 288. file://1981075.html#g2
+ 289. file://1981075.html#g26
+ 290. file://1981075.html#g26
+ 291. file://1981075.html#g26
+ 292. file:///altext/stjt/1996.097.html
+ 293. file:///altext/stjt/1996.097.html

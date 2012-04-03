@@ -128,11 +128,20 @@
            beinum og óbeinum sköttum sem innheimtir eru í ríkissjóð. Skal
            framlagið greiðast Jöfnunarsjóði mánaðarlega eftir á.
    b.
-           Árlegt framlag úr ríkissjóði sem verði 0,227% af álagningarstofni
-           útsvars næstliðins tekjuárs og skal greiðast Jöfnunarsjóði með
-           jöfnum mánaðarlegum greiðslum.
-   c.
-           Vaxtatekjur.
+           Árlegt framlag úr ríkissjóði sem verði [0,264%]^1) af
+           álagningarstofni útsvars næstliðins tekjuárs og skal greiðast
+           Jöfnunarsjóði með jöfnum mánaðarlegum greiðslum.
+   [c.
+           Hlutdeild í útsvarstekjum sveitarfélaga er nemi 0,74% af
+           álagningarstofni útsvars ár hvert. Við skil á staðgreiðslu útsvars
+           til sveitarfélaga samkvæmt [3]lögum nr. 45/1987, um staðgreiðslu
+           opinberra gjalda, skal jafnframt gera Jöfnunarsjóði sveitarfélaga
+           skil á hlutdeild sjóðsins í staðgreiðslu útsvars.]^1)
+   [d.]
+           ^1) Vaxtatekjur.
+
+   ^1)[4]L. 79/1996, 1. gr. Ákvæðið öðlast gildi 1. janúar 1997 og kemur til
+   framkvæmda við skiptingu staðgreiðslu 1997.
 
                                      9. gr.
         Tekjum Jöfnunarsjóðs skal ráðstafað sem hér segir:
@@ -145,19 +154,22 @@
            Til greiðslu jöfnunarframlaga skv. 12. gr.
 
                                     10. gr.
-        Bundnum framlögum skal úthlutað sem hér segir:
+        [Bundnum framlögum skal úthlutað sem hér segir:
 
    a.
-           Til Sambands íslenskra sveitarfélaga, 1,75% af vergum tekjum
-           sjóðsins.
+           Til Sambands íslenskra sveitarfélaga, 1,58% af tekjum sjóðsins
+           skv. a-, b- og c-lið 8. gr.
    b.
-           Til landshlutasamtaka sveitarfélaga, 2% af vergum tekjum sjóðsins
-           sem skiptist jafnt á milli þeirra allra.
+           Til landshlutasamtaka sveitarfélaga, 2% af tekjum sjóðsins skv. a-
+           og b-lið 8. gr. sem skiptist jafnt á milli þeirra allra.
    c.
-           Til Lánasjóðs sveitarfélaga, 6,1% af vergum tekjum sjóðsins.
+           Til Lánasjóðs sveitarfélaga, 6,1% af tekjum sjóðsins skv. a- og
+           b-lið 8. gr.
    d.
            Til greiðslu útgjalda skv. 4. gr. laga um Innheimtustofnun
-           sveitarfélaga.
+           sveitarfélaga.]^1)
+
+   ^1)[5]L. 79/1996, 2. gr. Ákvæðið öðlast gildi 1. janúar 1997.
 
                                     11. gr.
         Sérstökum framlögum skal úthlutað sem hér segir:
@@ -169,19 +181,21 @@
            Til að greiða úr sérstökum fjárhagserfiðleikum sveitarfélaga, sbr.
            90. gr. sveitarstjórnarlaga.
    c.
-           Til kostnaðarsamra stofnframkvæmda hjá fámennum sveitarfélögum,
-           allt að [10,5%]^1) af vergum tekjum sjóðsins, sbr. 13. gr.
+           [Til kostnaðarsamra stofnframkvæmda hjá sveitarfélögum með innan
+           við 2.000 íbúa, allt að 10,5% af tekjum sjóðsins skv. a- og b-lið
+           8. gr., sbr. 13. gr.]^1)
    d.
-           Til að aðstoða dreifbýlissveitarfélög til að standa undir auknum
-           rekstrarkostnaði við grunnskóla vegna breyttrar verkaskiptingar
-           ríkis og sveitarfélaga, allt að [18,5%]^1) af vergum tekjum
-           sjóðsins, sbr. 14. gr.
+           [Til að aðstoða dreifbýlissveitarfélög við að standa undir rekstri
+           grunnskóla, þ.e. vegna aksturs og launakostnaðar af rekstri
+           mötuneyta og heimavista og gæslu nemenda, allt að 18,5% af tekjum
+           sjóðsins skv. a- og b-lið 8. gr., sbr. 14. gr.]^1)
    e.
-           ...^1)
+           ...^2)
 
-        [Heimilt er að færa fjármagn milli c- og d-liða.]^1)
+        [Heimilt er að færa fjármagn milli c- og d-liða.]^2)
 
-   ^1)[3]L. 148/1995, 2. gr.
+   ^1)[6]L. 79/1996, 3. gr. Ákvæðið öðlast gildi 1. janúar 1997.^2)[7]L.
+   148/1995, 2. gr.
 
                                     12. gr.
         [Jöfnunarframlög skiptast í tvennt, tekjujöfnunarframlög og
@@ -192,18 +206,34 @@
            sveitarfélaga. Jöfnunin skal miðuð við sambærileg sveitarfélög og
            fullnýtingu tekjustofna þeirra.
    b.
-           Þjónustuframlögum skal úthlutað til að jafna mismunandi
-           útgjaldaþörf sveitarfélaga með sérstöku tilliti til
-           stærðarhagkvæmni þeirra.
+           Þjónustuframlögum skal varið til að jafna mismunandi útgjaldaþörf
+           sveitarfélaga með sérstöku tilliti til stærðarhagkvæmni þeirra,
+           þar með talið til að jafna launakostnað sveitarfélaga af kennslu í
+           grunnskólum, svo og til að jafna annan kostnað sem hlýst af
+           flutningi grunnskólakostnaðar frá ríki til sveitarfélaga.
 
-        Til jöfnunarframlaga skal verja þeim tekjum sjóðsins sem eru umfram
-   ráðstöfun skv. 10. og 11. gr.
+        Tekjum Jöfnunarsjóðs skv. c-lið 8. gr., að frádregnu framlagi til
+   Sambands íslenskra sveitarfélaga skv. a-lið 10. gr., skal varið til þess
+   að jafna launakostnað sveitarfélaga af kennslu í grunnskólum, svo og annan
+   kostnað af flutningi grunnskólans frá ríki til sveitarfélaga, sbr. b-lið
+   1. mgr. Til jöfnunarframlaga skal að öðru leyti verja þeim tekjum sjóðsins
+   sem eru umfram ráðstöfun skv. 10. og 11. gr.
+        Jöfnunarsjóður sveitarfélaga skal vera í bakábyrgð fyrir greiðslum
+   til Lífeyrissjóðs starfsmanna ríkisins vegna þeirra lífeyrisskuldbindinga
+   sem stofnast vegna kennara og skólastjórnenda við grunnskóla. Til
+   ábyrgðargreiðslu af hálfu sjóðsins skal þó ekki koma fyrr en vanskil
+   sveitarfélags hafa varað í a.m.k. sex mánuði. Jöfnunarsjóður sveitarfélaga
+   skal halda eftir af sjóðsframlögum til einstakra sveitarfélaga þeim
+   greiðslum ásamt vöxtum og áföllnum kostnaði sem sjóðurinn hefur greitt
+   Lífeyrissjóði starfsmanna ríkisins vegna starfsmanna grunnskóla eða
+   innheimta slíkar kröfur með öðrum hætti.
         Í reglugerð skal meðal annars setja nánari ákvæði um útreikning
-   jöfnunarframlaga, viðmiðanir um útgjaldaþörf sveitarfélaga, sbr. b-lið 1.
-   mgr., með tilliti til íbúafjölda og verkefna og hvaða skilyrðum
-   sveitarfélög þurfi að fullnægja til að hljóta þau.]^1)
+   jöfnunarframlaga, viðmiðanir við útgjaldaþörf sveitarfélaga, sbr. b-lið 1.
+   mgr., með tilliti til íbúafjölda og verkefna, svo og launakostnaðar og
+   annarra útgjalda vegna flutnings grunnskólans frá ríki til sveitarfélaga,
+   og hvaða skilyrðum sveitarfélög þurfi að fullnægja til að hljóta þau.]^1)
 
-   ^1)[4]L. 148/1995, 3. gr.
+   ^1)[8]L. 79/1996, 4. gr. Ákvæðið öðlast gildi 1. janúar 1997.
 
                                     13. gr.
         Framlögum skv. c-lið 11. gr. skal varið til að greiða hluta af
@@ -222,8 +252,12 @@
         Í reglugerð skal meðal annars setja nánari ákvæði um útreikning
    þessara framlaga og hvaða skilyrðum sveitarfélög þurfa að fullnægja til að
    hljóta þau.
+        [Skólamálaskrifstofum sveitarfélaga og öðrum opinberum aðilum er
+   skylt að láta Jöfnunarsjóði sveitarfélaga í té allar upplýsingar sem
+   nauðsynlegar eru til ákvörðunar og úthlutunar framlaga vegna
+   stofnkostnaðar og reksturs grunnskóla.]^2)
 
-   ^1)[5]L. 148/1995, 4. gr.
+   ^1)[9]L. 148/1995, 4. gr.^2)[10]L. 79/1996, 5. gr.
 
                                     15. gr.
         Að afloknum sveitarstjórnarkosningum skipar félagsmálaráðherra fimm
@@ -233,7 +267,7 @@
    sveitarfélaga en einn án tilnefningar og skal hann vera formaður
    nefndarinnar. Varamenn skulu tilnefndir með sama hætti.
 
-   ^1)[6]L. 148/1995, 5. gr.
+   ^1)[11]L. 148/1995, 5. gr.
 
                                     16. gr.
         Félagsmálaráðherra hefur á hendi yfirstjórn Jöfnunarsjóðs. Sjóðurinn
@@ -282,15 +316,17 @@
 
                                     23. gr.
         Útsvar skal vera ákveðinn hundraðshluti af tekjum hvers almanaksárs,
-   en má þó eigi vera hærra en 9,2% og eigi lægra en 8,4% af útsvarsstofni og
-   skal sami hundraðshluti lagður á tekjur allra manna í hverju
-   sveitarfélagi.
+   en má þó eigi vera hærra en [11,95%]^1) og eigi lægra en [11,15%]^1) af
+   útsvarsstofni og skal sami hundraðshluti lagður á tekjur allra manna í
+   hverju sveitarfélagi.
         Útsvar af þeim tekjum barna, sem um ræðir í 2. og 3. mgr. 65. gr.
    laga um tekjuskatt og eignarskatt, skal vera 2% af tekjum umfram það
-   lágmark sem tilgreint er í 2. mgr. 67. gr. sömu laga.^1)
+   lágmark sem tilgreint er í 2. mgr. 67. gr. sömu laga.^2)
 
-   ^1)Ákvæði 2. mgr. komi til framkvæmda við álagningu 1996 vegna tekna á
-   árinu 1995, sbr. [7]2. gr. l. 152/1994.
+   ^1)[12]L. 79/1996, 6. gr. Ákvæðið öðlast gildi 1998 og kemur til
+   framkvæmda við skiptingu staðgreiðslu 1998 og álagningu 1999 vegna tekna á
+   árinu 1998.^2)Ákvæði 2. mgr. komi til framkvæmda við álagningu 1996 vegna
+   tekna á árinu 1995, sbr. [13]2. gr. l. 152/1994.
 
                                     24. gr.
         Sveitarstjórn skal ákveða fyrir 1. desember ár hvert hvaða
@@ -423,7 +459,7 @@
    mgr. 4. gr. og 3. og 5. mgr. 27. gr., en gjaldfelling vegna vangreiðslu á
    hluta skv. 5. mgr. 4. gr. og 4. mgr. 27. gr. hefur ekki áhrif á
    dráttarvaxtaútreikning. Um dráttarvexti gilda ákvæði III. kafla
-   [8]vaxtalaga, nr. 25/1987.
+   [14]vaxtalaga, nr. 25/1987.
         Nú verður ljóst þegar álagningu sveitarsjóðsgjalda lýkur eða við
    endurákvörðun þeirra að gjaldandi hefur greitt meira en endanlegu álögðu
    gjaldi nemur og skal þá endurgreiða það sem ofgreitt var ásamt vöxtum
@@ -431,7 +467,7 @@
    þessir vera jafnháir hæstu vöxtum óbundinna sparireikninga á hverjum
    tíma.]^1)
 
-   ^1)[9]L. 148/1995, 6. gr.
+   ^1)[15]L. 148/1995, 6. gr.
 
                                     33. gr.
         Gjöld samkvæmt lögum þessum, svo og dráttarvexti, má taka lögtaki.
@@ -455,13 +491,15 @@
 
    ^1)Rg. 542/1989, sbr. 395/1990.
 
-                            Ákvæði til bráðabirgða.
+   Ákvæði til bráðabirgða.
+
+                                       I.
         Sérstakan fasteignaskatt, sem nema skal 1,25% að hámarki af
    álagningarstofni, er heimilt að leggja á fasteignir sem nýttar eru við
    verslunarrekstur eða til skrifstofuhalds, ásamt tilheyrandi lóð, enda þótt
    um leigulóð sé að ræða. Skattskylda samkvæmt þessu ákvæði hvílir á aðilum
-   sem skattskyldir eru samkvæmt ákvæðum [10]I. kafla laga nr. 75/1981, um
-   tekjuskatt og eignarskatt, eða [11]lögum nr. 65/1982, um skattskyldu
+   sem skattskyldir eru samkvæmt ákvæðum [16]I. kafla laga nr. 75/1981, um
+   tekjuskatt og eignarskatt, eða [17]lögum nr. 65/1982, um skattskyldu
    innlánsstofnana, með síðari breytingum. Skattskyldan nær til sömu aðila og
    samkvæmt fyrri lögum um sama efni. Álagningarstofn skal vera
    fasteignamatsverð í árslok áður en álagning fer fram. Ef fasteignamat er
@@ -486,7 +524,7 @@
    úr. Skattyfirvöld skulu veita sveitarstjórnum þær upplýsingar sem þörf er
    á í sambandi við framkvæmd ákvæðis þessa, þar á meðal skal heimila
    sveitarstjórnum aðgang að skrám yfir aðila sem skattlagðir voru á
-   grundvelli [12]V. kafla laga nr. 111/1992, um breytingar í skattamálum.
+   grundvelli [18]V. kafla laga nr. 111/1992, um breytingar í skattamálum.
         [Sérstakur fasteignaskattur skv. 1. mgr. leggst á álagningarstofn í
    stiglækkandi þrepum sem hér segir:
 
@@ -518,22 +556,88 @@
         [Bráðabirgðaákvæði þetta gildir þar til álagningu árið 1999 á
    grundvelli ákvæðisins er lokið.]^2)
 
-   ^1)[13]L. 148/1995, 7. gr.^2)[14]L. 148/1995, 8. gr.
+   ^1)[19]L. 148/1995, 7. gr.^2)[20]L. 148/1995, 8. gr.
+
+                                      [II.
+        Til þess að standa straum af rekstri grunnskóla tímabilið ágúst 1996
+   til og með desember 1996 skal ríkissjóður greiða 2.734.000.000 kr. sem
+   framlag til sveitarfélaga og Jöfnunarsjóðs sveitarfélaga. Fjárhæðin
+   greiðist með jöfnum greiðslum mánaðarlega.
+        Af framlagi hvers mánaðar skulu 27% greidd sem framlag til
+   Jöfnunarsjóðs sveitarfélaga.]^1)
+
+   ^1)[21]L. 79/1996, 7. gr.
+
+                                     [III.
+        Ríkissjóður skal auk greiðslu samkvæmt ákvæði til bráðabirgða I
+   greiða til sveitarfélaga og Jöfnunarsjóðs sveitarfélaga sem hér segir:
+
+   a.
+           Í janúar 1997 fjárhæð er nemur 2,65% af staðgreiðslustofni í
+           desember 1996, sbr. [22]lög nr. 45/1987.
+   b.
+           Mánuðina ágúst 1997 til og með desember 1997 með jöfnum greiðslum
+           fjárhæð er nemur 2,65% af þeim útsvarsstofni sem skattlagður er
+           eftir á við álagningu útsvars árið 1997 vegna tekjuársins 1996 og
+           ekki var innheimt staðgreiðsla af.
+
+        Af framlagi hvers mánaðar skv. 1. mgr. skulu 27% greidd sem framlag
+   til Jöfnunarsjóðs sveitarfélaga.
+        Um greiðslufyrirkomulag, skiptingu og ráðstöfun framlags skv. 1. og
+   2. mgr. skal setja nánari ákvæði í reglugerð að fengnum tillögum og í
+   samráði við Samband íslenskra sveitarfélaga.
+        Þrátt fyrir ákvæði 1. mgr. 23. gr. laganna skal hámarksútsvar árið
+   1997 nema 11,9% og lágmarksútsvar 11,1%.
+        Þrátt fyrir ákvæði c-liðar 8. gr. laganna skal hlutdeild
+   Jöfnunarsjóðs sveitarfélaga nema 0,73% af álagningarstofni útsvars árið
+   1997.]^1)
+
+   ^1)[23]L. 79/1996, 7. gr.
+
+                                      [IV.
+        Til að tryggja einsetningu grunnskólans skal ríkissjóður verja allt
+   að 265 milljónum króna á ári af tekjuskatti áranna 19972001 til að
+   styrkja framkvæmdir við grunnskólabyggingar. Féð skal renna í Jöfnunarsjóð
+   sveitarfélaga. Til viðbótar framlagi ríkisins til stofnframkvæmda í
+   grunnskólum renni árlegt lögbundið framlag Jöfnunarsjóðs sveitarfélaga til
+   Lánasjóðs sveitarfélaga á árunum 19972002, 135 milljónir króna á ári.
+        Ráðstöfunarfé skv. 1. mgr. skal varið til að greiða allt að 20% af
+   normkostnaði við grunnskólabyggingar í sveitarfélögum með 2.000 íbúa og
+   yfir á árunum 19972002 í samræmi við norm og reglur Jöfnunarsjóðs
+   sveitarfélaga eins og þær eru hverju sinni. Sá hluti fjárhæðarinnar sem
+   sveitarfélögin nýta ekki á viðkomandi ári skal færður á milli ára innan
+   tímabilsins. Framlag ríkisins samkvæmt þessu ákvæði skal að hámarki vera
+   1.325 milljónir króna á tímabilinu.
+        Endurskoða skal núgildandi norm og reglur Jöfnunarsjóðs sveitarfélaga
+   um stofnframlög og setja nánari ákvæði og sérstakar reglur um úthlutun
+   þessa fjár í samráði við Samband íslenskra sveitarfélaga.]^1)
+
+   ^1)[24]L. 79/1996, 7. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995004
    2. file:///altext/stjt/1995.148.html
-   3. file:///altext/stjt/1995.148.html
-   4. file:///altext/stjt/1995.148.html
-   5. file:///altext/stjt/1995.148.html
-   6. file:///altext/stjt/1995.148.html
-   7. file:///altext/stjt/1994.152.html
-   8. file://1987025.html
+   3. file://1987045.html
+   4. file:///altext/stjt/1996.079.html
+   5. file:///altext/stjt/1996.079.html
+   6. file:///altext/stjt/1996.079.html
+   7. file:///altext/stjt/1995.148.html
+   8. file:///altext/stjt/1996.079.html
    9. file:///altext/stjt/1995.148.html
-  10. file://1981075.html
-  11. file://1982065.html
-  12. file:///altext/stjt/1992.111.html
-  13. file:///altext/stjt/1995.148.html
-  14. file:///altext/stjt/1995.148.html
+  10. file:///altext/stjt/1996.079.html
+  11. file:///altext/stjt/1995.148.html
+  12. file:///altext/stjt/1996.079.html
+  13. file:///altext/stjt/1994.152.html
+  14. file://1987025.html
+  15. file:///altext/stjt/1995.148.html
+  16. file://1981075.html
+  17. file://1982065.html
+  18. file:///altext/stjt/1992.111.html
+  19. file:///altext/stjt/1995.148.html
+  20. file:///altext/stjt/1995.148.html
+  21. file:///altext/stjt/1996.079.html
+  22. file://1987045.html
+  23. file:///altext/stjt/1996.079.html
+  24. file:///altext/stjt/1996.079.html

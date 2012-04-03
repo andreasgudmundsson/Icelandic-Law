@@ -1120,9 +1120,9 @@ References
    2. file:///altext/stjt/1991.018.html
    3. file://1993137.html#g10
    4. file://1987044.html
-   5. file://1954038.html#g3
+   5. file://1954038.html
    6. file://1954038.html
-   7. file://1954038.html#g26
+   7. file://1954038.html
    8. file://1985025.html
    9. file://1985025.html
   10. file://1980096.html

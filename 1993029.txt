@@ -29,30 +29,17 @@
                           Vörugjald af ökutækjum o.fl.
                              Gjaldflokkar ökutækja.
                                      3. gr.
-         Á fólksbifreiðar og önnur vélknúin ökutæki, sem ekki eru sérstaklega
-   tilgreind í 4. gr., skal lagt vörugjald í eftirfarandi fjórum gjaldflokkum
-                        miðað við sprengirými aflvélar mælt í rúmsentimetrum:
+        [Á fólksbifreiðar og önnur vélknúin ökutæki, sem ekki eru sérstaklega
+   tilgreind í 4. gr., skal lagt vörugjald í eftirfarandi þremur gjaldflokkum
+                       miðað við sprengirými aflvélar, mælt í rúmsentimetrum:
 
-                            Sprengirými                 Gjald
-   Flokkur                  aflvélar                    í %
+                                                         Sprengirými aflvélar
+       Flokkur          Bensínvélar         Dísilvélar          Gjald í %
+   I                01.600             02.100             30
+   II               1.6012.500         2.1013.000         40
+   III              yfir 2.500          yfir 3.000          65]^1)
 
-   [hline]\vspace*{-2em}
-
-   I                     01400                      30
-   II                    14012000                   [40]^1)
-   III                   20012500                   60
-   IV                    yfir 2500                   75
-
-   [hline]\vspace*{-2em}
-
-          [Þrátt fyrir ákvæði 1. mgr. skulu ökutæki, sem knúin eru dísilolíu,
-   raðast í gjaldflokka með eftirfarandi hætti: Í gjaldflokk I ef sprengirými
-   aflvélar er á bilinu 01900 rúmsentimetrar, í gjaldflokk II ef sprengirými
-           aflvélar er á bilinu 19012500 rúmsentimetrar, í gjaldflokk III ef
-    sprengirými aflvélar er á bilinu 25013000 rúmsentimetrar og í gjaldflokk
-                  IV ef sprengirými aflvélar er yfir 3000 rúmsentimetrar.]^1)
-
-   ^1)[6]L. 41/1995, 1. gr.
+   ^1)[6]L. 48/1996, 1. gr.
 
                                      4. gr.
         Vörugjald af eftirtöldum vörum skal vera sem hér segir:
@@ -400,7 +387,7 @@ References
    3. file://1987055.html
    4. file://1987055.html
    5. file://1987055.html
-   6. file:///altext/stjt/1995.041.html
+   6. file:///altext/stjt/1996.048.html
    7. file:///altext/stjt/1995.041.html
    8. file:///altext/stjt/1995.041.html
    9. file://1987055.html#g6
