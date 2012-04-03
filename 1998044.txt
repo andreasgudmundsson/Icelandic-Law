@@ -7,11 +7,11 @@
 
    --------------------------------------------------------------------------
 
- Tóku gildi 1. janúar 1999. Breytt með [2]l. 84/1998 (tóku gildi 1. jan. 1999),
- [3]l. 157/1998 (tóku gildi 1. jan. 1999), [4]l. 121/1999 (tóku gildi 30. des.
-  1999), 32/2000 (tóku gildi 26. maí 2000), [5]l. 77/2001 (tóku gildi 15. júní
-2001), [6]l. 155/2001 (tóku gildi 31. des. 2001), [7]l. 86/2002 (tóku gildi 23.
-            maí 2002) og [8]l. 163/2002 (tóku gildi 30. des. 2002).
+ Tóku gildi 1. janúar 1999, sjá þó 52. gr. Breytt með [2]l. 84/1998 (tóku gildi
+ 1. jan. 1999), [3]l. 157/1998 (tóku gildi 1. jan. 1999), [4]l. 121/1999 (tóku
+  gildi 30. des. 1999), 32/2000 (tóku gildi 26. maí 2000), [5]l. 77/2001 (tóku
+ gildi 15. júní 2001), [6]l. 155/2001 (tóku gildi 31. des. 2001), [7]l. 86/2002
+    (tóku gildi 23. maí 2002) og [8]l. 163/2002 (tóku gildi 30. des. 2002).
 
                            1. þáttur. Almenn ákvæði.
                       I. kafli. Tilgangur og orðskýringar.
@@ -164,7 +164,7 @@ Jafnframt sér húsnæðisnefnd um önnur þau verkefni sem sveitarstjórn felur
 Um nánari skilyrði lánveitinga samkvæmt þessari grein fer eftir því sem ákveðið
    er í lögum þessum og reglugerð^1) sem félagsmálaráðherra setur að fenginni
                         umsögn stjórnar Íbúðalánasjóðs.
-            ^1)[10]Rg. 458/1999, sbr. [11]1000/2001, [12]rg. 584/2001.
+    ^1)[10]Rg. 458/1999, sbr. [11]1000/2001 og [12]333/2003; [13]rg. 584/2001.
                              17. gr. Húsbréfadeild.
      Til þess að annast almenn húsnæðislán skal Íbúðalánasjóður starfrækja
    húsbréfadeild. Fjárhagur húsbréfadeildar skal aðskilinn frá öðrum þáttum í
@@ -195,7 +195,7 @@ viðskiptabanka og aðrar fjármálastofnanir um að annast mat skv. 2. og 3. t�
       2. mgr. og hafa með höndum samskipti útgefanda fasteignaveðbréfa við
 húsbréfadeild. Jafnframt má ákveða í reglugerð^1) að mat skv. 1. tölul. 2. mgr.
                       megi fela sérstökum trúnaðarmönnum.
-              ^1)[13]Rg. 157/2001, sbr. [14]408/2001 og [15]637/2001.
+       ^1)[14]Rg. 157/2001, sbr. [15]408/2001, [16]637/2001 og [17]332/2003.
                            19. gr. Fasteignaveðbréf.
   Fasteignaveðbréf skal vera verðtryggt með vísitölu neysluverðs, sbr. lög um
  vísitölu neysluverðs, og hafa sömu lánskjör og þau húsbréf sem skipta á fyrir
@@ -206,7 +206,7 @@ annars allt að 65% af matsverði íbúðar. Taka ber tillit til áhvílandi ve�
     þannig að fasteignaveðbréfið sé innan þessara marka. Ráðherra getur með
  reglugerð^1) ákveðið hámarksfjárhæð fasteignaveðbréfa sem húsbréfadeild kaupir
                            vegna hverrar fasteignar.
-              ^1)[16]Rg. 157/2001, sbr. [17]408/2001 og [18]637/2001.
+       ^1)[18]Rg. 157/2001, sbr. [19]408/2001, [20]637/2001 og [21]332/2003.
                                20. gr. Matsverð.
    Stjórn Íbúðalánasjóðs setur reglur, sem félagsmálaráðherra staðfestir, um
    eðlilegt matsverð fasteigna sem skulu byggjast á viðmiðun við markaðsverð,
@@ -219,13 +219,14 @@ brunabótamat, byggingarkostnað og samþykktan kostnað við meiri háttar endu
                        degi sem aðilar koma sér saman um.
    Vextir skulu vera óbreytanlegir allan lánstímann. Lánstími er hinn sami og
                                lánstími húsbréfa.
-     ^1)[19]Rg. 157/2001, sbr. [20]408/2001 og [21]637/2001; [22]rg. 688/2001.
+   ^1)[22]Rg. 157/2001, sbr. [23]408/2001, [24]637/2001 og [25]332/2003; [26]rg.
+                                   688/2001.
                               22. gr. [Hlutkesti.
 Íbúðalánasjóður innheimtir afborganir og vexti af keyptum fasteignaveðbréfum og
     ráðstafar því fé sem þannig innheimtist til endurgreiðslu húsbréfa eftir
                    hlutkesti sem sýslumaður hefur umsjón með.
  Íbúðalánasjóður yfirfærir eldri flokka húsbréfa í áþreifanlegu formi í rafbréf
-    samkvæmt [23]lögum um rafræna eignarskráningu verðbréfa, nr. 131/1997. Í
+    samkvæmt [27]lögum um rafræna eignarskráningu verðbréfa, nr. 131/1997. Í
                           auglýsingu skal tekið fram:
                 1. Hvaða húsbréfaflokka yfirfæra eigi hverju sinni.
       2. Dagsetning yfirfærslu, svo og dagsetning fyrsta útdráttar húsbréfa í
@@ -238,8 +239,8 @@ einungis fram fyrir milligöngu verðbréfamiðstöðvar. Rétthafi kröfu samkv
     útgefandi vísar til hafi skírteini ekki verið yfirfært til skráningar í
   verðbréfamiðstöð. Skal nánar kveðið á um framkvæmd hlutkestis og yfirfærslu
    samkvæmt þessari grein í reglugerð^1) sem félagsmálaráðuneytið setur.]^2)
-     ^1)[24]Rg. 157/2001, sbr. [25]408/2001 og [26]637/2001; [27]rg. 688/2001.
-                           ^2)[28]L. 32/2000, 8. gr.
+   ^1)[28]Rg. 157/2001, sbr. [29]408/2001, [30]637/2001 og [31]332/2003; [32]rg.
+                      688/2001. ^2)[33]L. 32/2000, 8. gr.
                             23. gr. Aukaafborganir.
 Skuldurum fasteignaveðbréfa er heimilt að greiða aukaafborganir af skuldabréfum
     sínum eða að endurgreiða skuldina að fullu fyrir gjalddaga. Til að jafna
@@ -251,7 +252,7 @@ Skuldurum fasteignaveðbréfa er heimilt að greiða aukaafborganir af skuldabr�
 verðtryggingarskilmála, endurgreiðsluform, lánstíma, vexti og heildarfjárhæðir í
   hverjum flokki. Félagsmálaráðherra tekur ákvörðun um framangreind atriði að
                      fenginni umsögn Seðlabanka Íslands.^1)
-                               ^1)[29]Rg. 688/2001.
+                               ^1)[34]Rg. 688/2001.
                           25. gr. Gjaldfallin húsbréf.
  Endurgreiðslur höfuðstóls og vaxta af húsbréfum, sem fallnar eru í gjalddaga,
   fyrnast sé þeirra ekki vitjað innan tíu ára frá gjalddaga. Húsbréf bera ekki
@@ -283,7 +284,7 @@ upplýsingar sem það telur nauðsynlegar. Í þeim mæli sem [Fjármálaeftirl
    Seðlabanki Íslands skal stuðla að því að jafnvægi ríki á húsbréfamarkaði.
   Seðlabankinn skal í þeim mæli sem hann telur nauðsynlegt hindra að verulegt
                    misvægi myndist á markaðnum fyrir húsbréf.
-                            ^1)[30]L. 84/1998, 23. gr.
+                            ^1)[35]L. 84/1998, 23. gr.
                                28. gr. Vaxtaálag.
        Húsbréfadeildinni er heimilt að áskilja sér vaxtaálag til að mæta
  rekstrarkostnaði og áætluðum útlánatöpum. Félagsmálaráðherra ákveður vaxtaálag
@@ -292,8 +293,8 @@ upplýsingar sem það telur nauðsynlegar. Í þeim mæli sem [Fjármálaeftirl
  Félagsmálaráðherra getur sett frekari fyrirmæli í reglugerð^1) um fyrirkomulag
 og tilhögun húsbréfaviðskipta, þar á meðal um skyldur fasteignasala til þess að
                       veita upplýsingar um gengi húsbréfa.
-   ^1)[31]Rg. 6/1996, sbr. [32]169/1997 og [33]744/2001; [34]rg. 157/2001, sbr.
-                [35]408/2001 og [36]637/2001; [37]rg. 688/2001.
+   ^1)[36]Rg. 6/1996, sbr. [37]169/1997 og [38]744/2001; [39]rg. 157/2001, sbr.
+         [40]408/2001, [41]637/2001 og [42]332/2003; [43]rg. 688/2001.
 
                             VII. kafli. Viðbótarlán.
                               30. gr. Lánveiting.
@@ -313,7 +314,7 @@ viðbótarlána skal höfð hliðsjón af fjölskyldustærð, eignum, tekjum, í
     Sveitarstjórn er heimilt að takmarka fjölda viðbótarlána skv. 1. mgr. ef
 fyrirséð er að víkja verður frá fjárhagsáætlun sveitarfélagsins eða þau raski í
                         verulegum atriðum fjárhag þess.
-                      ^1)[38]Rg. 783/1998, sbr. [39]395/2001.
+                      ^1)[44]Rg. 783/1998, sbr. [45]395/2001.
                          31. gr. Lánskjör viðbótarlána.
 Viðbótarlán skulu vera að fullu verðtryggð og skal höfuðstóll lánsins miðast við
               vísitölu neysluverðs eins og hún er á hverjum tíma.
@@ -359,7 +360,7 @@ Samþykktir eða stofnskrár félaga og félagasamtaka skv. 1. mgr. skulu hafa h
                  tilkynntar félagsmálaráðuneytinu þegar í stað.
    Samþykktir, sem félagsmálaráðuneytið hefur þegar staðfest vegna félaga og
           félagasamtaka, sem undir lög þessi falla, halda gildi sínu.
-                               ^1)[40]Rg. 873/2001.
+                               ^1)[46]Rg. 873/2001.
                              35. gr. Lánsumsóknir.
   Þegar sótt er um lán til leiguíbúða skv. 33. gr. skal koma fram í lánsumsókn
        fjöldi, gerð og stærð fyrirhugaðra íbúða, framkvæmdatími, áætlaður
@@ -372,7 +373,7 @@ Samþykktir eða stofnskrár félaga og félagasamtaka skv. 1. mgr. skulu hafa h
  Félagsmálaráðherra setur með reglugerð^1) frekari ákvæði um skilyrði lána til
       leiguíbúða, þar á meðal um gerð íbúða, stærðir þeirra, hagkvæmni og
    byggingarkostnað, svo og úrræði til þess að tryggja sem lægst íbúðarverð.
-                               ^1)[41]Rg. 873/2001.
+                               ^1)[47]Rg. 873/2001.
                                36. gr. Lánskjör.
  Lán til leiguíbúða sem veitt eru sveitarfélögum, félagasamtökum og félögum til
  byggingar eða kaupa á leiguhúsnæði skulu tryggð með veði í hlutaðeigandi íbúð.
@@ -403,7 +404,7 @@ byggingar eða kaupa á samkvæmt ákvæðum þessa kafla fer að öðru leyti e
        Nánari reglur um eignarhlut leigutaka skulu settar í reglugerð.^1)
 Óheimilt er að hafa eigendaskipti á íbúð sem á hvílir lán til leiguhúsnæðis nema
  til komi annaðhvort uppgreiðsla lánsins eða samþykki stjórnar Íbúðalánasjóðs.
-                               ^1)[42]Rg. 873/2001.
+                               ^1)[48]Rg. 873/2001.
                        38. gr. Leiguíbúðir sveitarfélaga.
 Sveitarfélagi er heimilt að stofna hlutafélag, sjálfseignarstofnun eða félag með
       ótakmarkaðri ábyrgð er annist útleigu íbúða í eigu sveitarfélagsins.
@@ -421,7 +422,7 @@ ber áfram ábyrgð á þeim fjárhagsskuldbindingum sem til hefur verið stofna
  Ráðherra setur nánari ákvæði í reglugerð^1) um skilyrði þess að sveitarstjórn
    megi stofna félag skv. 1. mgr., hvað skuli koma fram í samþykktum þess og
         hvernig skuli hagað yfirfærslu eigna og skulda til slíks félags.
-                               ^1)[43]Rg. 873/2001.
+                               ^1)[49]Rg. 873/2001.
                              39. gr. Leigufjárhæð.
 Félagsmálaráðherra er heimilt að ákveða í reglugerð^1) að mánaðarlegt leigugjald
      íbúða sem njóta láns til leiguíbúða úr Íbúðalánasjóði skuli miðast við
@@ -429,7 +430,7 @@ afborganir og vexti af slíku láni og vaxtakostnað af framlagi eiganda íbúð
  almenns rekstrarkostnaðar. Víki lántakandi frá viðmiðunarleiguupphæð er stjórn
    Íbúðalánasjóðs heimilt að gjaldfella lán til leiguhúsnæðis sem veitt hefur
                                      verið.
-                               ^1)[44]Rg. 873/2001.
+                               ^1)[50]Rg. 873/2001.
                 40. gr. Eftirlit með félögum og félagasamtökum.
    Félög og félagasamtök samkvæmt lögum þessum skulu láta Íbúðalánasjóði í té
 bókhaldsgögn, ársskýrslur og upplýsingar um framkvæmdir, húsbyggingar, ráðstöfun
@@ -453,7 +454,7 @@ um ráðstöfun leiguhúsnæðis er Íbúðalánasjóði heimilt að endurskoða
   Nefndinni er heimilt að kveðja sér til ráðuneytis sérfróða aðila við úrskurð
                                 einstakra mála.
             Kostnaður við störf kærunefndar greiðist úr ríkissjóði.
-                             ^1)[45]L. 77/2001, 1. gr.
+                             ^1)[51]L. 77/2001, 1. gr.
                                42. gr. [Valdsvið.
   Málsaðili getur skotið ákvörðun Íbúðalánasjóðs, húsnæðisnefndar eða þeirrar
 nefndar á vegum sveitarfélags sem falið hefur verið verkefni húsnæðisnefndar til
@@ -464,10 +465,10 @@ Málskot til nefndarinnar frestar ekki framkvæmd kærðrar ákvörðunar nema n
   Úrskurði kærunefndar húsnæðismála verður ekki skotið til félagsmálaráðherra.
     Félagsmálaráðherra getur með reglugerð^1) sett nánari ákvæði um störf og
                  starfshætti kærunefndar og skrifstofuhald.]^2)
-                  ^1)[46]Rg. 459/1999. ^2)[47]L. 77/2001, 2. gr.
+                  ^1)[52]Rg. 459/1999. ^2)[53]L. 77/2001, 2. gr.
 
                     X. kafli. [Varasjóður húsnæðismála.]^1)
-                             ^1)[48]L. 86/2002, 1. gr.
+                             ^1)[54]L. 86/2002, 1. gr.
                        43. gr. [Varasjóður húsnæðismála.
      Starfræktur skal sérstakur varasjóður húsnæðismála í eigu og á ábyrgð
      sveitarfélaga. Varasjóður húsnæðismála er sjálfstæð rekstrareining en
@@ -481,7 +482,7 @@ nefndarmenn ásamt varamönnum skulu skipaðir eftir tilnefningu Sambands íslen
 nefndarinnar og varamann hans úr hópi aðalmanna. Þóknun nefndarmanna greiðist úr
        sjóðnum samkvæmt ákvörðun ráðherra auk annars kostnaðar við störf
                                nefndarinnar.]^1)
-                             ^1)[49]L. 86/2002, 1. gr.
+                             ^1)[55]L. 86/2002, 1. gr.
            44. gr. [Hlutverk ráðgjafarnefndar varasjóðs húsnæðismála.
                          Hlutverk ráðgjafarnefndar er:
    1. Að veita rekstrarframlög til sveitarfélaga vegna hallareksturs félagslegra
@@ -515,7 +516,7 @@ viðkomandi sveitarfélag. Framlögin skulu sveitarfélögin nýta til að grei�
     samþykkir framlög að fengnum tillögum frá ráðgjafarnefnd. Ráðherra setur
  reglugerð um nánari framkvæmd á grundvelli rammasamkomulags ríkis og Sambands
         íslenskra sveitarfélaga um verkefni varasjóðs húsnæðismála.]^1)
-                             ^1)[50]L. 86/2002, 1. gr.
+                             ^1)[56]L. 86/2002, 1. gr.
                        45. gr. [Varasjóður viðbótarlána.
   Varasjóður viðbótarlána bætir einstök tjón sem Íbúðalánasjóður verður fyrir
 vegna útlánatapa á viðbótarlánum og vegna kostnaðar við uppboðsmeðferð eigna sem
@@ -532,11 +533,11 @@ eins árs fresti. Félagsmálaráðherra er með reglugerð heimilt að hækka e
   Nánari ákvæði um varasjóð viðbótarlána skulu sett í reglugerð^1) um varasjóð
 húsnæðismála sem félagsmálaráðherra gefur út að höfðu samráði við ráðgjafarnefnd
                           varasjóðs húsnæðismála.]^2)
-                  ^1)[51]Rg. 656/2002. ^2)[52]L. 86/2002, 1. gr.
+                  ^1)[57]Rg. 656/2002. ^2)[58]L. 86/2002, 1. gr.
 
                             XI. kafli. Ýmis ákvæði.
                                   46. gr. ^1)
-                            ^1)[53]L. 157/1998, 2. gr.
+                            ^1)[59]L. 157/1998, 2. gr.
                               47. gr. Afskriftir.
 Stjórn Íbúðalánasjóðs er heimilt að afskrifa útistandandi veðkröfur sjóðsins sem
                glatað hafa veðtryggingu við nauðungarsölu íbúðar.
@@ -579,8 +580,8 @@ Stjórn Íbúðalánasjóðs skal afla samþykkis varasjóðs viðbótarlána ti
      Félagsmálaráðherra setur, að fenginni umsögn stjórnar Íbúðalánasjóðs,
  reglugerð^5) um nánari framkvæmd innheimtu krafna skv. 1. mgr. og um skilyrði
                     fyrir afskriftum samkvæmt þessari grein.
-    ^1)[54]L. 86/2002, 2. gr. ^2)[55]L. 155/2001, 1. gr. ^3)[56]L. 163/2002, 1.
-               gr. ^4)[57]L. 77/2001, 3. gr. ^5)[58]Rg. 795/2001.
+    ^1)[60]L. 86/2002, 2. gr. ^2)[61]L. 155/2001, 1. gr. ^3)[62]L. 163/2002, 1.
+               gr. ^4)[63]L. 77/2001, 3. gr. ^5)[64]Rg. 119/2003.
                              48. gr. Greiðsluvandi.
 [Stjórn Íbúðalánasjóðs er heimilt að veita skuldbreytingarlán til allt að 15 ára
    í því skyni að leysa úr tímabundnum greiðsluerfiðleikum hjá lánþegum vegna
@@ -609,40 +610,40 @@ almennra lána, viðbótarlána og lána sem sjóðurinn hefur yfirtekið, sbr. 
                  líkleg til að koma í veg fyrir greiðsluvanda.
  Ráðherra setur nánari reglur^1) um framkvæmd þessa ákvæðis að fengnum tillögum
                           stjórnar Íbúðalánasjóðs.]^2)
-                  ^1)[59]Rg. 584/2001. ^2)[60]L. 77/2001, 4. gr.
+                  ^1)[65]Rg. 584/2001. ^2)[66]L. 77/2001, 4. gr.
                                49. gr. Gjaldtaka.
    Félagsmálaráðherra ákvarðar með reglugerð,^1) að fengnum tillögum stjórnar
 Íbúðalánasjóðs, lántökugjöld, gjöld vegna innheimtu af lánum stofnunarinnar sem
  eru í vanskilum og gjöld vegna skuldbreytinga, veðleyfa og veðbandslausna, svo
   og gjöld vegna annarrar sambærilegrar þjónustu. Heimilt er að jafna kostnaði
         niður á skuldara þannig að búseta hafi ekki áhrif á kostnaðinn.
-                                ^1)[61]Rg. 3/1999.
+                                ^1)[67]Rg. 3/1999.
                                50. gr. Reglugerð.
    Félagsmálaráðherra setur með reglugerð^1) nánari ákvæði um framkvæmd laga
                                     þessara.
-     ^1)[62]Rg. 783/1998, sbr. [63]395/2001; [64]rg. 3/1999, [65]rg. 459/1999,
-    [66]rg. 584/2001, [67]rg. 795/2001, [68]rg. 873/2001, [69]rg. 656/2002.
+     ^1)[68]Rg. 783/1998, sbr. [69]395/2001; [70]rg. 3/1999, [71]rg. 459/1999,
+    [72]rg. 584/2001, [73]rg. 873/2001, [74]rg. 656/2002, [75]rg. 119/2003.
                                51. gr. Viðurlög.
  Brot gegn lögum þessum og reglugerðum settum samkvæmt þeim geta varðað sektum.
 
                       XII. kafli. Gildistaka og lagaskil.
                               52. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 1999.
- Við gildistöku laganna falla úr gildi [70]lög nr. 97/1993, um Húsnæðisstofnun
-   ríkisins. Þau ákvæði [71]laga nr. 97/1993 sem vísað er til í ákvæði I til
+ Við gildistöku laganna falla úr gildi [76]lög nr. 97/1993, um Húsnæðisstofnun
+   ríkisins. Þau ákvæði [77]laga nr. 97/1993 sem vísað er til í ákvæði I til
   bráðabirgða skulu þó halda gildi sínu. Jafnframt skulu halda gildi sínu þau
-  ákvæði [72]laga nr. 97/1993 sem vísað er til í ákvæði II til bráðabirgða og
+  ákvæði [78]laga nr. 97/1993 sem vísað er til í ákvæði II til bráðabirgða og
   snerta innlausn félagslegra íbúða og útreikning innlausnarverðs. Enn fremur
   halda gildi sínu þau ákvæði sem vísað er til í ákvæði IV til bráðabirgða og
 varða réttarstöðu eigenda félagslegra íbúða, svo og þær greinar sem vísað er til
  í ákvæði V til bráðabirgða og snerta réttarstöðu þeirra sem gert hafa samninga
   um leigu á félagslegum leiguíbúðum og kaupleiguíbúðum. Loks skulu þau ákvæði
- [73]laga nr. 97/1993, sem vísað er til í ákvæði til bráðabirgða VII um meðferð
+ [79]laga nr. 97/1993, sem vísað er til í ákvæði til bráðabirgða VII um meðferð
              umsókna um félagslegar eignaríbúðir, halda gildi sínu.
-Við gildistöku laga þessara skal félagsmálaráðherra gefa út þau ákvæði [74]laga
+Við gildistöku laga þessara skal félagsmálaráðherra gefa út þau ákvæði [80]laga
               nr. 97/1993 sem halda skulu gildi sínu skv. 2. mgr.
 Þrátt fyrir ákvæði 1. mgr. skulu ákvæði 13. gr. um skipan húsnæðisnefnda öðlast
-gildi þegar í stað. Frá sama tíma fellur úr gildi [75]39. gr. laga nr. 97/1993.
+gildi þegar í stað. Frá sama tíma fellur úr gildi [81]39. gr. laga nr. 97/1993.
 Ákvæði 55. gr. um undirbúningsnefnd og 56. gr. um matsnefnd öðlast gildi þegar í
  stað. Félagsmálaráðherra skal skipa nefndir þessar eigi síðar en 1. júní 1998.
      Ákvæði 1. mgr. í ákvæði til bráðabirgða VII öðlast gildi þegar í stað.
@@ -667,7 +668,7 @@ skulu birta tvær auglýsingar þessa efnis í Lögbirtingablaðinu. Skulu þær
 út vegna lána úr Byggingarsjóði ríkisins og Byggingarsjóði verkamanna, skulu að
                           öðru leyti halda gildi sínu.
   Við gildistöku laga þessara skal Tryggingarsjóður vegna byggingargalla skv.
- [76]81. gr. laga nr. 97/1993 lagður niður. Stjórn Íbúðalánasjóðs skal frá sama
+ [82]81. gr. laga nr. 97/1993 lagður niður. Stjórn Íbúðalánasjóðs skal frá sama
    tíma taka við og varðveita sérstaklega framlög annarra framkvæmdaraðila en
     sveitarfélaga sem runnið hafa til Tryggingarsjóðs vegna byggingargalla.
   Jafnframt tekur Íbúðalánasjóður við því hlutverki að bæta meðan þörf gerist
@@ -706,8 +707,8 @@ Byggingarsjóðs verkamanna og annarra sjóða sem Húsnæðisstofnun ríkisins 
             Kostnaður við störf nefndarinnar greiðist úr ríkissjóði.
 
                             Ákvæði til bráðabirgða.
-                        I. Ákvæði [77]laga nr. 97/1993.
- Þrátt fyrir ákvæði laga þessara skulu eftirtalin ákvæði [78]laga nr. 97/1993,
+                        I. Ákvæði [83]laga nr. 97/1993.
+ Þrátt fyrir ákvæði laga þessara skulu eftirtalin ákvæði [84]laga nr. 97/1993,
 með síðari breytingum, ásamt fyrirsögnum einstakra greina, halda gildi sínu, að
      því er snertir lán sem veitt hafa verið úr Byggingarsjóði ríkisins og
  Byggingarsjóði verkamanna og eftir því sem við getur átt: 2.4. mgr. 16. gr.,
@@ -715,7 +716,7 @@ með síðari breytingum, ásamt fyrirsögnum einstakra greina, halda gildi sín
 gr., 2. mgr. 68. gr., 77. gr., 79. gr., 1., 3. og 4. mgr. 82. gr., 83.86. gr.,
 93. gr. a og ákvæði IV til bráðabirgða í þeim lögum, þó með þeim takmörkunum sem
                            fram koma í lögum þessum.
- Jafnframt skulu halda gildi sínu þau ákvæði [79]laga nr. 97/1993 sem vísað er
+ Jafnframt skulu halda gildi sínu þau ákvæði [85]laga nr. 97/1993 sem vísað er
          til í ákvæðum til bráðabirgða II, IV, V og VII í lögum þessum.
 Telji aðili sem borið getur réttindi og skyldur samkvæmt ákvæðum til bráðabirgða
 IIV og VII á rétt sinn hallað af hálfu húsnæðisnefndar eða sveitarstjórnar, þar
@@ -734,20 +735,20 @@ félagslegri íbúð eða kaupleiguíbúð, sem boðin er til sölu, fellur slí
 framkvæmdaraðili skal þá gefa út yfirlýsingu um að niður séu fallnar kvaðir sem
  verið hafa á íbúðinni um forkaupsrétt og takmarkanir á ráðstöfunarrétti. Skal
                             yfirlýsingunni þinglýst.
-  Kaupskylda sveitarfélags við nauðungarsölu íbúðar skv. [80]86. gr. laga nr.
+  Kaupskylda sveitarfélags við nauðungarsölu íbúðar skv. [86]86. gr. laga nr.
       97/1993 skal ekki vara lengur en í 15 ár frá útgáfu síðasta afsals.
  Á meðan kaupskylda og forkaupsréttur sveitarfélaga á félagslegu húsnæði varir
-   samkvæmt ákvæðum [81]laga nr. 97/1993, um Húsnæðisstofnun ríkisins, skulu
+   samkvæmt ákvæðum [87]laga nr. 97/1993, um Húsnæðisstofnun ríkisins, skulu
   húsnæðisnefndir, þar sem þær eru starfandi, annast meðferð mála vegna þeirra
                        íbúða sem ganga til sveitarfélaga.
  Um útreikning á innlausnarverði félagslegra íbúða, sem sveitarfélög leysa til
-   sín skv. 1. mgr., skal beita fyrirmælum 1. og 4. mgr. [82]87. gr. laga nr.
- 97/1993. Hafi íbúð verið byggð eftir gildistöku [83]laga nr. 51/1980 skal enn
- fremur gæta ákvæða 1. og 2. mgr. [84]88. gr. laga nr. 97/1993, en annars 1.3.
-     og 8. mgr. [85]89. gr. laga nr. 97/1993, hafi íbúðin verið byggð fyrir
+   sín skv. 1. mgr., skal beita fyrirmælum 1. og 4. mgr. [88]87. gr. laga nr.
+ 97/1993. Hafi íbúð verið byggð eftir gildistöku [89]laga nr. 51/1980 skal enn
+ fremur gæta ákvæða 1. og 2. mgr. [90]88. gr. laga nr. 97/1993, en annars 1.3.
+     og 8. mgr. [91]89. gr. laga nr. 97/1993, hafi íbúðin verið byggð fyrir
  gildistöku fyrrnefndra laga. Um íbúðir á vegum Byggingarfélags verkamanna fer
- eftir ákvæðum [86]90. gr. laga nr. 97/1993. Stjórn varasjóðs skv. 43. gr. laga
- þessara skal fjalla um heimildir húsnæðisnefnda skv. 4. mgr. [87]87. gr. laga
+ eftir ákvæðum [92]90. gr. laga nr. 97/1993. Stjórn varasjóðs skv. 43. gr. laga
+ þessara skal fjalla um heimildir húsnæðisnefnda skv. 4. mgr. [93]87. gr. laga
                                   nr. 97/1993.
                         III. Ráðstöfun innleystra íbúða.
 Íbúð sem sveitarstjórn hefur leyst til sín samkvæmt ákvæðum eldri laga getur hún
@@ -771,10 +772,10 @@ láni úr Íbúðalánasjóði skv. VIII. kafla laga þessara. Þá skal sveitar
 eftir tillögu húsnæðisnefnda sveitarfélaga að ákveða að tiltekinn hluti árlegra
    viðbótarlána skuli fara til að mæta endursölu innleystra íbúða, enda taki
       söluverð slíkra íbúða mið af markaðsverði íbúða á viðkomandi svæði.
-                             ^1)[88]L. 77/2001, 5. gr.
+                             ^1)[94]L. 77/2001, 5. gr.
                        IV. Sala og ráðstöfun eignaríbúða.
   [Félagsmálaráðherra er heimilt þrátt fyrir ákvæði til bráðabirgða I og II og
-gildandi ákvæði [89]laga um Húsnæðisstofnun ríkisins, nr. 97/1993, að staðfesta
+gildandi ákvæði [95]laga um Húsnæðisstofnun ríkisins, nr. 97/1993, að staðfesta
   ósk sveitarfélags um að aflétt verði kaupskyldu og forkaupsrétti viðkomandi
 sveitarfélags. Slík framkomin ályktun sveitarfélagsins verður að taka til allra
 félagslegra eignaríbúða innan viðkomandi sveitarfélags. Hafi sveitarfélag fengið
@@ -789,24 +790,24 @@ að kaupskylda og forkaupsréttur sveitarfélags verði ekki virk og selt íbú�
   skuld við framkvæmdaraðila og þau lán sem veitt hafa verið af Byggingarsjóði
                                   verkamanna.
  Um réttarstöðu eigenda félagslegra eignaríbúða fer að öðru leyti eftir því sem
-  mælt er fyrir um í [90]70.[91]71. gr. laga um Húsnæðisstofnun ríkisins, nr.
+  mælt er fyrir um í [96]70.[97]71. gr. laga um Húsnæðisstofnun ríkisins, nr.
 97/1993, eftir því sem við getur átt og með þeim takmörkunum sem í lögum þessum
                                   greinir.]^1)
-                             ^1)[92]L. 86/2002, 3. gr.
+                             ^1)[98]L. 86/2002, 3. gr.
                          V. Leigu- og kaupleiguíbúðir.
  Samningar, sem einstaklingar hafa gert um félagslegar leiguíbúðir, halda gildi
      sínu. Um samskipti leigutaka og framkvæmdaraðila gilda ákvæði laga um
-  húsaleigusamninga. Um leigugjald gilda ákvæði [93]73. gr. laga nr. 97/1993.
+  húsaleigusamninga. Um leigugjald gilda ákvæði [99]73. gr. laga nr. 97/1993.
 Samningar, sem einstaklingar hafa gert um kaupleiguíbúðir, halda gildi sínu. Um
 réttarstöðu slíkra aðila og um samskipti við framkvæmdaraðila fer eftir því sem
- segir í 72. gr., 2., 3., 5. og 6. mgr. 73. gr. og [94]76. gr. laga nr. 97/1993
+segir í 72. gr., 2., 3., 5. og 6. mgr. 73. gr. og [100]76. gr. laga nr. 97/1993
               með þeim takmörkunum þó sem í lögum þessum greinir.
  Einstaklingur, sem hefur kauprétt vegna íbúðar sem hann hefur á leigu, sbr. 1.
-    mgr. [95]73. gr. laga nr. 97/1993, heldur þeim rétti. Um lánveitingar og
+   mgr. [101]73. gr. laga nr. 97/1993, heldur þeim rétti. Um lánveitingar og
           lánskjör vegna slíkra kaupa fer eftir ákvæðum laga þessara.
                              VI. Framkvæmdaíbúðir.
      Framkvæmdalánssamningar, sem Húsnæðisstofnun ríkisins hefur gert fyrir
-  gildistöku laga þessara skv. [96]58. gr. laga nr. 97/1993, skulu halda gildi
+ gildistöku laga þessara skv. [102]58. gr. laga nr. 97/1993, skulu halda gildi
                                      sínu.
  Stjórn Íbúðalánasjóðs skal staðfesta lok framkvæmda og byggingarkostnað íbúða,
       sem fullgerðar eru eftir gildistöku laga þessara, með úttekt sinni.
@@ -823,7 +824,7 @@ réttarstöðu slíkra aðila og um samskipti við framkvæmdaraðila fer eftir 
 sínu. Um meðferð slíkra íbúða, lánveitingar, réttarstöðu aðila og samskipti við
 framkvæmdaraðila fer eftir því sem segir í 42. gr., 43. gr., 51. gr., 1.8. mgr.
  52. gr., 2. mgr. 54. gr., 2. mgr. 56. gr., 57. gr., 58. gr., 1. og 2. mgr. 58.
- gr. a, 59.61. gr., 64. gr., 1. mgr. 68. gr., 69. gr. og [97]78. gr. laga nr.
+ gr. a, 59.61. gr., 64. gr., 1. mgr. 68. gr., 69. gr. og [103]78. gr. laga nr.
                                     97/1993.
 Með allar aðrar félagslegar eignaríbúðir sem eru á framkvæmdarstigi eða eru til
   endurúthlutunar við gildistöku laga þessara og ekki hefur verið úthlutað til
@@ -850,7 +851,7 @@ Sambands íslenskra sveitarfélaga um verkefni varasjóðs húsnæðismála skv.
 frá úthlutun til þeirra úr Jöfnunarsjóði sveitarfélaga. Varasjóður húsnæðismála
  annast innheimtu hjá þeim sveitarfélögum er ekki fá greiðslur úr Jöfnunarsjóði
                                sveitarfélaga.]^1)
-                             ^1)[98]L. 86/2002, 4. gr.
+                            ^1)[104]L. 86/2002, 4. gr.
                            IX. Könnun á leigumarkaði.
     Við samþykkt laga þessara skal félagsmálaráðherra í samráði við fulltrúa
   sveitarfélaga, aðra félagslega byggingaraðila, ASÍ og BSRB vinna að úttekt á
@@ -875,90 +876,96 @@ References
    9. file:///altext/stjt/1999.121.html
   10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/458-1999
   11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/100-20010
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-2001
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
-  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2001
-  23. file://1997131.html
-  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
-  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
-  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
-  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2001
-  28. file:///altext/stjt/2000.032.html
-  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2001
-  30. file:///altext/stjt/1998.084.html
-  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/006-1996
-  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/169-1997
-  33. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/744-2001
-  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
-  35. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
-  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
-  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2001
-  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/783-1998
-  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-2001
-  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
-  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
-  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
-  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
-  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
-  45. file:///altext/stjt/2001.077.html
-  46. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/459-1999
-  47. file:///altext/stjt/2001.077.html
-  48. file:///altext/stjt/2002.086.html
-  49. file:///altext/stjt/2002.086.html
-  50. file:///altext/stjt/2002.086.html
-  51. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2002
-  52. file:///altext/stjt/2002.086.html
-  53. file:///altext/stjt/1998.157.html
+  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/333-2003
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-2001
+  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
+  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/332-2003
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
+  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/332-2003
+  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
+  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
+  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
+  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/332-2003
+  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2001
+  27. file://1997131.html
+  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
+  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
+  30. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
+  31. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/332-2003
+  32. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2001
+  33. file:///altext/stjt/2000.032.html
+  34. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2001
+  35. file:///altext/stjt/1998.084.html
+  36. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/006-1996
+  37. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/169-1997
+  38. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/744-2001
+  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/157-2001
+  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/408-2001
+  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/637-2001
+  42. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/332-2003
+  43. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/688-2001
+  44. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/783-1998
+  45. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-2001
+  46. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
+  47. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
+  48. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
+  49. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
+  50. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
+  51. file:///altext/stjt/2001.077.html
+  52. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/459-1999
+  53. file:///altext/stjt/2001.077.html
   54. file:///altext/stjt/2002.086.html
-  55. file:///altext/stjt/2001.155.html
-  56. file:///altext/stjt/2002.163.html
-  57. file:///altext/stjt/2001.077.html
-  58. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/795-2001
-  59. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-2001
-  60. file:///altext/stjt/2001.077.html
-  61. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/003-1999
-  62. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/783-1998
-  63. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-2001
-  64. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/003-1999
-  65. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/459-1999
-  66. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-2001
-  67. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/795-2001
-  68. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
-  69. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2002
-  70. file://1993097.html
-  71. file://1993097.html
-  72. file://1993097.html
-  73. file://1993097.html
-  74. file://1993097.html
-  75. file://1993097.html
+  55. file:///altext/stjt/2002.086.html
+  56. file:///altext/stjt/2002.086.html
+  57. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2002
+  58. file:///altext/stjt/2002.086.html
+  59. file:///altext/stjt/1998.157.html
+  60. file:///altext/stjt/2002.086.html
+  61. file:///altext/stjt/2001.155.html
+  62. file:///altext/stjt/2002.163.html
+  63. file:///altext/stjt/2001.077.html
+  64. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/119-2003
+  65. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-2001
+  66. file:///altext/stjt/2001.077.html
+  67. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/003-1999
+  68. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/783-1998
+  69. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/395-2001
+  70. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/003-1999
+  71. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/459-1999
+  72. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/584-2001
+  73. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/873-2001
+  74. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/656-2002
+  75. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/119-2003
   76. file://1993097.html
   77. file://1993097.html
   78. file://1993097.html
   79. file://1993097.html
-  80. file://1993097.html#g86
+  80. file://1993097.html
   81. file://1993097.html
-  82. file://1993097.html#g87
-  83. file:///altext/stjtnr.html#1980051
-  84. file://1993097.html#g88
-  85. file://1993097.html#g89
-  86. file://1993097.html#g90
-  87. file://1993097.html#g87
-  88. file:///altext/stjt/2001.077.html
-  89. file://1993097.html
-  90. file://1993097.html#g70
-  91. file://1993097.html#g71
-  92. file:///altext/stjt/2002.086.html
-  93. file://1993097.html#g73
-  94. file://1993097.html#g76
-  95. file://1993097.html#g73
-  96. file://1993097.html#g58
-  97. file://1993097.html#g78
+  82. file://1993097.html
+  83. file://1993097.html
+  84. file://1993097.html
+  85. file://1993097.html
+  86. file://1993097.html#g86
+  87. file://1993097.html
+  88. file://1993097.html#g87
+  89. file:///altext/stjtnr.html#1980051
+  90. file://1993097.html#g88
+  91. file://1993097.html#g89
+  92. file://1993097.html#g90
+  93. file://1993097.html#g87
+  94. file:///altext/stjt/2001.077.html
+  95. file://1993097.html
+  96. file://1993097.html#g70
+  97. file://1993097.html#g71
   98. file:///altext/stjt/2002.086.html
+  99. file://1993097.html#g73
+ 100. file://1993097.html#g76
+ 101. file://1993097.html#g73
+ 102. file://1993097.html#g58
+ 103. file://1993097.html#g78
+ 104. file:///altext/stjt/2002.086.html

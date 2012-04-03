@@ -7,6 +7,10 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 1. janúar 1914. Breytt með [2]l. 71/1919 (tóku gildi 1. jan. 1920),
+  [3]l. 91/1991 (tóku gildi 1. júlí 1992) og [4]l. 83/1997 (tóku gildi 6. júní
+                                     1997).
+
 1. gr. Það skal falið sérstakri stofnun, að safna skýrslum um landshagi Íslands,
  vinna úr þeim og koma þeim fyrir almennings sjónir. Stofnunin nefnist hagstofa
                 Íslands, og stendur beinlínis undir ráðherranum.
@@ -50,7 +54,7 @@
  Auk skýrslna um framangreind atriði vinnur hagstofan að skýrslum, er hér eftir
   kunna að verða lögboðnar eða fyrirskipaðar af landsstjórninni, eða hagstofan
           sjálf óskar eftir í samráði við hlutaðeigandi stjórnarvöld.
-                            ^1)[2]L. 91/1991, 160. gr.
+                            ^1)[5]L. 91/1991, 160. gr.
    3. gr. Hagstofan á að aðstoða landsstjórnina með hagfræðis útreikningum og
 skýringum, er hún óskar eftir, og gefa henni álit og yfirlýsingar, þegar þess er
                                     leitað.
@@ -68,7 +72,7 @@ henni þykja ófullnægjandi, heimtað frekari upplýsingar, með þeim viðurl�
       lög greina um vanrækslu í því, að inna af hendi lögmæt skýrsluskil.
  5. gr. [Hagstofunni stýrir hagstofustjóri skipaður af ráðherra til fimm ára í
                                    senn.]^1)
-                             ^1)[3]L. 83/1997, 52. gr.
+                             ^1)[6]L. 83/1997, 52. gr.
  6. gr. Laun starfsmanna og árskostnaður til húsaleigu, ljóss og ræstingar, svo
 og til aukavinnu, prentunarkostnaðar og venjulegs skrifstofukostnaðar veitist á
                           fjárlögunum fyrir hvert ár.
@@ -77,5 +81,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1913024
-   2. file://1991091.html#g160
-   3. file:///altext/stjt/1997.083.html
+   2. file:///altext/stjtnr.html#1919071
+   3. file://1991091.html
+   4. file:///altext/stjt/1997.083.html
+   5. file://1991091.html#g160
+   6. file:///altext/stjt/1997.083.html

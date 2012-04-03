@@ -7,6 +7,8 @@
 
    --------------------------------------------------------------------------
 
+  Tóku gildi 1. júlí 1992. Breytt með [2]l. 90/1996 (tóku gildi 1. júlí 1997).
+
                   1. þáttur. Almennar reglur um nauðungarsölu.
                             I. kafli. Almenn ákvæði.
   1. gr. Eftir ákvæðum laga þessara verður eign ráðstafað án tillits til vilja
@@ -45,7 +47,7 @@ Um varðveislu sýslumanna á gögnum um nauðungarsölur og heimildir til aðga
  Við héraðsdómstóla skal halda skrá um þau mál sem þeir fá til meðferðar eftir
  ákvæðum þessara laga. Dómsmálaráðherra setur reglur^1) um form og efni þeirra
                                    málaskráa.
-                                ^1)[2]Rg. 227/1992.
+                                ^1)[3]Rg. 227/1992.
           5. gr. Ekki er þörf á votti við athafnir eftir lögum þessum.
  Að því leyti sem þarf að virða eign við nauðungarsölu verður það gert af einum
 manni eða tveimur sem sýslumaður kveður til í því skyni með bókun í gerðabók. Þá
@@ -556,7 +558,7 @@ boðum án þess að þau komi fram lætur hann hamar falla til marks um að upp
  Ef nauðungarsölunnar var krafist á grundvelli 6. gr. og ekki er boðið meira í
     eignina en svo að enginn gerðarbeiðenda geti fengið neitt í sinn hlut af
         söluverðinu skal telja beiðnir um nauðungarsöluna fallnar niður.
-                             ^1)[3]L. 90/1996, 43. gr.
+                             ^1)[4]L. 90/1996, 43. gr.
 37. gr. Nú hefur verið leitað boða í eignina skv. 4. mgr. 36. gr. og sýslumaður
     telur þau sem koma til álita svo lág að fari fjarri líklegu markaðsverði
  eignarinnar þótt tekið yrði tillit til ákvæða 57. gr. Ef sýslumaður telur mega
@@ -939,7 +941,7 @@ tilmælum sýslumanns um að framfylgja ákvörðun hans í þessum efnum. Bóka
  Gerðarbeiðandi ber áhættu af eigninni frá því hann fær vörslur hennar þar til
   henni er ráðstafað. Gerðarbeiðandi skal sjá til þess að eigninni verði komið
    tímanlega á þann stað sem sýslumaður hefur ákveðið til að ráðstafa henni.
-                             ^1)[4]L. 90/1996, 43. gr.
+                             ^1)[5]L. 90/1996, 43. gr.
 
                    XI. kafli. Nauðungarsala á lausafjármunum.
  61. gr. Nauðungarsala á lausafjármunum fer fram á uppboði nema annar háttur sé
@@ -1335,6 +1337,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1991090
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/227-1992
-   3. file://1996090.html#g43
+   2. file://1996090.html
+   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/227-1992
    4. file://1996090.html#g43
+   5. file://1996090.html#g43

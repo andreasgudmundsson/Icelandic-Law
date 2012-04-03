@@ -8,8 +8,9 @@
    --------------------------------------------------------------------------
 
  Tóku gildi 1. janúar 1994. Breytt með [2]l. 36/1999 (tóku gildi 1. maí 1999),
-  [3]l. 83/2000 (tóku gildi 2. júní 2000) og [4]l. 49/2002 (tóku gildi 6. maí
-                                     2002).
+[3]l. 83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001),
+[4]l. 49/2002 (tóku gildi 6. maí 2002), [5]l. 51/2003 (tóku gildi 7. apríl 2003)
+                  og [6]l. 76/2003 (taka gildi 1. nóv. 2003).
 
                          I. kafli. Gildissvið laganna.
                                1. gr. Gildissvið.
@@ -53,7 +54,7 @@ lögbann, nauðungarsölu, greiðslustöðvun, nauðasamninga, gjaldþrotaskipti
     smávægilegir, eðli málsins er með þeim hætti eða þáttur starfsmanns eða
 nefndarmanns í meðferð málsins er það lítilfjörlegur að ekki er talin hætta á að
                   ómálefnaleg sjónarmið hafi áhrif á ákvörðun.
-                             ^1)[5]L. 49/2002, 1. gr.
+                             ^1)[7]L. 49/2002, 1. gr.
                              4. gr. Áhrif vanhæfis.
 Sá sem er vanhæfur til meðferðar máls má ekki taka þátt í undirbúningi, meðferð
      eða úrlausn þess. Honum er þó heimilt að gera þær ráðstafanir sem eru
@@ -134,7 +135,7 @@ vandkvæðum bundið. Forsætisráðherra er heimilt að ákveða með sérstakr
  Ákvæði þessarar greinar taka ekki til rannsóknar og saksóknar í opinberu máli.
   Þó [geta sakborningur og brotaþoli]^1) krafist þess að fá að kynna sér gögn
   málsins eftir að það hefur verið fellt niður eða því lokið með öðrum hætti.
-                             ^1)[6]L. 36/1999, 48. gr.
+                             ^1)[8]L. 36/1999, 48. gr.
                     16. gr. Gögn undanþegin upplýsingarétti.
             Réttur aðila máls til aðgangs að gögnum tekur ekki til:
    1. Fundargerða ríkisráðs og ríkisstjórnar, minnisgreina á ráðherrafundum eða
@@ -150,7 +151,7 @@ vandkvæðum bundið. Forsætisráðherra er heimilt að ákveða með sérstakr
 Þegar sérstaklega stendur á er stjórnvaldi heimilt að takmarka aðgang aðila máls
  að gögnum ef hagsmunir hans af því að notfæra sér vitneskju úr þeim þykja eiga
            að víkja fyrir mun ríkari almanna- eða einkahagsmunum ^1)
-                             ^1)[7]L. 83/2000, 6. gr.
+                             ^1)[9]L. 83/2000, 6. gr.
                              18. gr. Frestun máls.
  Stjórnvaldi er heimilt að setja málsaðila ákveðinn frest til þess að kynna sér
                           gögn máls og tjá sig um það.
@@ -298,15 +299,89 @@ Formaður stjórnsýslunefndar boðar til fundar og skal boða til hans með hæ
  atkvæði jöfn telst tillaga fallin. Þegar atkvæði eru jöfn við kosningu manns í
                              starf ræður hlutkesti.
 
-                          IX. kafli. Gildistaka o.fl.
-                 35. gr. Lög þessi öðlast gildi 1. janúar 1994.
+                [IX. kafli. Rafræn meðferð stjórnsýslumála.]^1)
+                             ^1)[10]L. 51/2003, 1. gr.
+                 [35. gr. Heimild til rafrænnar meðferðar máls.
+Stjórnvald ákveður hvort boðið verður upp á þann valkost að nota rafræna miðlun
+ upplýsinga við meðferð máls. Þær kröfur, sem vél- og hugbúnaður aðila þarf að
+  fullnægja svo að meðferð máls geti farið fram með rafrænum hætti, skulu vera
+honum aðgengilegar við upphaf máls og skal stjórnvald vekja athygli hans á þeim
+  eftir því sem ástæða er til. Haga skal þessum kröfum með það fyrir augum að
+                          búnaður sem flestra nýtist.
+ Stjórnvald, sem ákveður að nýta heimild skv. 1. mgr., skal nota rafræna miðlun
+ upplýsinga við meðferð máls óski aðili þess sérstaklega. Hið sama gildir þegar
+    aðili hefur að fyrra bragði notað þann búnað til rafrænna samskipta við
+  stjórnvald sem það hefur auglýst á vefsíðu sinni að standi til boða í slíkum
+                                  samskiptum.
+Stjórnvald getur ákveðið hvaða kröfum gögn, sem það móttekur með rafrænum hætti,
+   þurfa að fullnægja. Stjórnvald getur meðal annars áskilið að gögn, sem það
+    móttekur, skuli sett fram á sérstökum rafrænum eyðublöðum. Skal þá veita
+staðlaðar leiðbeiningar um útfyllingu eyðublaðsins og þær kröfur sem stjórnvald
+                                   gerir.]^1)
+                             ^1)[11]L. 51/2003, 2. gr.
+                              [36. gr. Formkröfur.
+Þegar sett lög, almenn stjórnvaldsfyrirmæli eða venjur áskilja að gögn til aðila
+  máls eða stjórnvalds séu skrifleg skulu gögn á rafrænu formi talin fullnægja
+ þessum áskilnaði, enda séu þau tæknilega aðgengileg móttakanda þannig að hann
+     geti kynnt sér efni þeirra, varðveitt þau og framvísað þeim síðar.]^1)
+                             ^1)[12]L. 51/2003, 3. gr.
+                           [37. gr. Frumrit og afrit.
+ Þegar sett lög, almenn stjórnvaldsfyrirmæli eða venjur áskilja að skjal skuli
+ vera í frumriti skulu gögn á rafrænu formi talin fullnægja þessum áskilnaði ef
+ tryggt er að gögnin séu óbreytt frá upprunalegri gerð. Þetta á þó ekki við um
+    viðskiptabréf eða önnur bréf þar sem fjárhagsleg réttindi eru bundin við
+                               handhöfn bréfsins.
+Þegar sett lög, almenn stjórnvaldsfyrirmæli eða venjur áskilja að gögn séu lögð
+fram í fleiri en einu eintaki skulu gögn á rafrænu formi talin fullnægja þessum
+                                 áskilnaði.]^1)
+                             ^1)[13]L. 51/2003, 4. gr.
+                        [38. gr. Rafrænar undirskriftir.
+Þegar sett lög, almenn stjórnvaldsfyrirmæli eða venjur áskilja að gögn frá aðila
+   eða stjórnvaldi séu undirrituð er stjórnvaldi heimilt að ákveða að rafræn
+     undirskrift komi í stað eiginhandarundirskriftar, enda tryggi rafræna
+   undirskriftin með sambærilegum hætti og eiginhandarundirskrift persónulega
+  staðfestingu þess sem gögnin stafa frá. Fullgild rafræn undirskrift samkvæmt
+ lögum um rafrænar undirskriftir skal ætíð teljast fullnægja áskilnaði laga um
+                                  undirskrift.
+   Þegar sett lög, almenn stjórnvaldsfyrirmæli eða venjur áskilja að gögn eða
+ tiltekin atriði þeirra séu vottuð telst slíkum áskilnaði fullnægt með vottorði
+rafrænnar undirskriftar skv. 1. mgr. sem staðfestir þau atriði sem krafist er að
+                                  séu vottuð.
+Þegar sett lög, almenn stjórnvaldsfyrirmæli eða venjur áskilja ekki að gögn frá
+ aðila eða stjórnvaldi séu undirrituð er stjórnvaldi heimilt að ákveða að aðrar
+     aðferðir en rafrænar undirskriftir megi nota við staðfestingu rafrænna
+                                   gagna.]^1)
+                             ^1)[14]L. 51/2003, 5. gr.
+                          [39. gr. Rafræn málsmeðferð.
+Stjórnvaldsákvörðun eða önnur gögn á rafrænu formi teljast birt aðila þegar hann
+  á þess kost að kynna sér efni þeirra. Aðili máls ber ábyrgð á því að vél- og
+ hugbúnaður hans fullnægi þeim kröfum sem til hans eru gerðar, sbr. 1. mgr. 35.
+ gr., og nauðsynlegar eru svo að hann geti kynnt sér efni stjórnvaldsákvörðunar
+         eða annarra gagna sem stjórnvald sendir honum á rafrænu formi.
+  Erindi eða önnur gögn teljast komin til stjórnvalds þegar það á þess kost að
+kynna sér efni þeirra. Stjórnvald skal að eigin frumkvæði staðfesta að því hafi
+                      borist gögn, eftir því sem unnt er.
+  Þegar sett lög, almenn stjórnvaldsfyrirmæli eða venjur áskilja að stjórnvöld
+   birti aðila gögn með sannanlegum hætti telst slíkum áskilnaði fullnægt með
+     notkun rafræns búnaðar sem staðfestir að gögn séu komin til aðila.]^1)
+                             ^1)[15]L. 51/2003, 6. gr.
+                      [40. gr. Varðveisla rafrænna gagna.
+  Stjórnvald skal varðveita rafræn gögn þannig að unnt sé að sannreyna efni og
+                uppruna þeirra síðar með aðgengilegum hætti.]^1)
+                             ^1)[16]L. 51/2003, 7. gr.
+
+                        [X. kafli.]^1) Gildistaka o.fl.
+                             ^1)[17]L. 51/2003, 1. gr.
+              [41. gr.]^1) Lög þessi öðlast gildi 1. janúar 1994.
      Beita skal lögum þessum einvörðungu um mál sem koma til meðferðar hjá
   stjórnvöldum eftir gildistöku laganna. Sé mál tekið upp að nýju eða ákvörðun
  kærð til æðra stjórnvalds eftir gildistöku laga þessara skal beita lögunum um
                               þau mál upp frá því.
 Ákvæðum 27. gr. um kærufrest skal aðeins beita um þau mál þar sem ákvörðun hefur
                     verið tilkynnt eftir gildistöku laganna.
-                                    36. gr.
+                             ^1)[18]L. 51/2003, 1. gr.
+                                  [42. gr.]^1)
+                             ^1)[19]L. 51/2003, 1. gr.
 
 References
 
@@ -315,6 +390,18 @@ References
    2. file:///altext/stjt/1999.036.html
    3. file:///altext/stjt/2000.083.html
    4. file:///altext/stjt/2002.049.html
-   5. file:///altext/stjt/2002.049.html
-   6. file:///altext/stjt/1999.036.html
-   7. file:///altext/stjt/2000.083.html
+   5. file:///altext/stjt/2003.051.html
+   6. file://2003076.html
+   7. file:///altext/stjt/2002.049.html
+   8. file:///altext/stjt/1999.036.html
+   9. file:///altext/stjt/2000.083.html
+  10. file:///altext/stjt/2003.051.html
+  11. file:///altext/stjt/2003.051.html
+  12. file:///altext/stjt/2003.051.html
+  13. file:///altext/stjt/2003.051.html
+  14. file:///altext/stjt/2003.051.html
+  15. file:///altext/stjt/2003.051.html
+  16. file:///altext/stjt/2003.051.html
+  17. file:///altext/stjt/2003.051.html
+  18. file:///altext/stjt/2003.051.html
+  19. file:///altext/stjt/2003.051.html

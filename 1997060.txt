@@ -7,10 +7,12 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 30. maí 1997. Breytt með [2]l. 167/1998 (tóku gildi 11. jan. 1999).
+
     1. gr. Ríkisstjórnin skal beita sér fyrir stofnun lánastofnunar samkvæmt
- [2]lögum nr. 123/1993, um lánastofnanir aðrar en viðskiptabanka og sparisjóði,
-er nefnist Fjárfestingarbanki atvinnulífsins hf. Ákvæði [3]laga nr. 123/1993 og
-[4]laga nr. 2/1995, um hlutafélög, taka til fjárfestingarbankans ef annað leiðir
+ [3]lögum nr. 123/1993, um lánastofnanir aðrar en viðskiptabanka og sparisjóði,
+er nefnist Fjárfestingarbanki atvinnulífsins hf. Ákvæði [4]laga nr. 123/1993 og
+[5]laga nr. 2/1995, um hlutafélög, taka til fjárfestingarbankans ef annað leiðir
                              ekki af lögum þessum.
 Viðskiptaráðherra annast undirbúning að stofnun fjárfestingarbankans og fer með
                             framkvæmd laga þessara.
@@ -46,12 +48,12 @@ atvinnufyrirtækja í sjávarútvegi. Iðnaðarráðherra og sjávarútvegsráð
                             einn mann sameiginlega.
     6. gr. [Heimilt er að selja allt hlutafé ríkissjóðs í Fjárfestingarbanka
                              atvinnulífsins hf.]^1)
-                             ^1)[5]L. 167/1998, 1. gr.
-7. gr. Ákvæði [6]6. gr. laga nr. 113/1996, sbr. [7]6. gr. laga nr. 123/1993, og
-    ákvæði 2. mgr. [8]14. gr. laga nr. 2/1995, um hlutafélög, gilda ekki um
-innborgun hlutafjár í fjárfestingarbankanum. Ákvæði [9]6. og [10]7. gr. laga nr.
-   2/1995 eiga ekki við um greiðslu hlutafjár skv. 4. og 5. gr. laga þessara.
- Ákvæði 2. mgr. 3. gr., 1. mgr. 20. gr. og 2. tölul. 1. mgr. [11]107. gr. laga
+                             ^1)[6]L. 167/1998, 1. gr.
+7. gr. Ákvæði [7]6. gr. laga nr. 113/1996, sbr. [8]6. gr. laga nr. 123/1993, og
+    ákvæði 2. mgr. [9]14. gr. laga nr. 2/1995, um hlutafélög, gilda ekki um
+ innborgun hlutafjár í fjárfestingarbankanum. Ákvæði [10]6. og [11]7. gr. laga
+ nr. 2/1995 eiga ekki við um greiðslu hlutafjár skv. 4. og 5. gr. laga þessara.
+ Ákvæði 2. mgr. 3. gr., 1. mgr. 20. gr. og 2. tölul. 1. mgr. [12]107. gr. laga
 nr. 2/1995 gilda ekki um tölu stofnenda og fjölda hluthafa í Fjárfestingarbanka
                                atvinnulífsins hf.
  8. gr. Óheimilt er að ákveða að hluthafar í Fjárfestingarbanka atvinnulífsins
@@ -74,7 +76,7 @@ eða Iðnþróunarsjóði, við starfi hjá fjárfestingarbankanum, og skal hann
        Réttur hans til launa hjá Fiskveiðasjóði Íslands, Iðnlánasjóði eða
             Iðnþróunarsjóði fellur niður er hann tekur við starfinu.
    11. gr. Um biðlaunarétt, sem kann að hafa fylgt störfum hjá Fiskveiðasjóði
-Íslands, Iðnlánasjóði og Iðnþróunarsjóði, gilda ákvæði [12]laga nr. 70/1996, um
+Íslands, Iðnlánasjóði og Iðnþróunarsjóði, gilda ákvæði [13]laga nr. 70/1996, um
                    réttindi og skyldur starfsmanna ríkisins.
     12. gr. Greiðslu- og vistunarstaður skuldaskjala, sem eru í eigu eða til
   innheimtu hjá Fiskveiðasjóði Íslands, Iðnlánasjóði, Útflutningslánasjóði eða
@@ -162,14 +164,15 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997060
-   2. file://1993123.html
+   2. file:///altext/stjt/1998.167.html
    3. file://1993123.html
-   4. file://1995002.html
-   5. file:///altext/stjt/1998.167.html
-   6. file://1996113.html
-   7. file://1993123.html
-   8. file://1995002.html#g14
-   9. file://1995002.html#g6
-  10. file://1995002.html#g7
-  11. file://1995002.html#g107
-  12. file://1996070.html
+   4. file://1993123.html
+   5. file://1995002.html
+   6. file:///altext/stjt/1998.167.html
+   7. file://1996113.html
+   8. file://1993123.html
+   9. file://1995002.html#g14
+  10. file://1995002.html#g6
+  11. file://1995002.html#g7
+  12. file://1995002.html#g107
+  13. file://1996070.html

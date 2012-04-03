@@ -7,6 +7,9 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 1. júlí 1966. Breytt með [2]l. 99/1974 (tóku gildi 1. jan. 1975) og
+                    [3]l. 49/1995 (tóku gildi 9. mars 1995).
+
    1. gr. Stofna skal Lánasjóð sveitarfélaga. Sjóðurinn er sjálfstæð stofnun,
       sameign allra sveitarfélaga á Íslandi, en þau bera þó ekki ábyrgð á
  skuldbindingum hans umfram hin árlegu tillög sín til sjóðsins. Sjóðurinn lýtur
@@ -53,7 +56,7 @@ Stjórninni er heimilt að semja við stjórn Bjargráðasjóðs Íslands um sam
                          e. Afborganir og rekstrartekjur.
 Framlag Jöfnunarsjóðs greiðist þannig: Þriðjungur fyrir 1. maí, þriðjungur fyrir
              1. september og eftirstöðvarnar fyrir 1. desember.]^1)
-                             ^1)[2]L. 99/1974, 1. gr.
+                             ^1)[4]L. 99/1974, 1. gr.
 6. gr. Til þess að afla sjóðnum lánsfjár, samkvæmt c- og d-lið 5. gr., er stjórn
  hans heimilt að gefa út skuldabréf fyrir hönd sjóðsins. [Stjórninni er þó ekki
        heimilt að gefa út og selja skuldabréf og aðrar endurgreiðanlegar
@@ -62,7 +65,7 @@ vegna útgáfu verðbréfa svo og ábyrgða skv. 10. gr., mega ekki nema hærri 
  en þrefaldri hreinni eign hans á hverjum tíma. Ráðherra ákveður afborganir og
 vaxtakjör og gerð verðbréfa þessara í samráði við stjórn Seðlabanka Íslands, að
                       fengnum tillögum sjóðsstjórnarinnar.
-                             ^1)[3]L. 49/1995, 1. gr.
+                             ^1)[5]L. 49/1995, 1. gr.
   7. gr. Nú hyggst sveitarfélag sækja um lán úr sjóðnum, samkvæmt 2. gr. 1.2.
 tölul., og skal það þá senda bráðabirgðaáætlun um lánsfjárþörf sína á næsta ári
 til sjóðsstjórnar fyrir 30. september, en endanleg umsókn ásamt gögnum þeim, sem
@@ -86,7 +89,7 @@ lánaþörfinni samkvæmt áætlun sjóðsstjórnar, og skal stjórnin þá beit
  9. gr. Skilyrði fyrir því, að lán verði veitt úr Lánasjóði sveitarfélaga, eru
                                      þessi:
       1. Að ársreikningar sveitarfélagsins hafi verið gerðir samkvæmt ákvæðum
-                    [4]sveitarstjórnarlaga, nr. 58/1961.^1)
+                    [6]sveitarstjórnarlaga, nr. 58/1961.^1)
     2. Að fjárhagsáætlun sveitarfélagsins hafi verið gerð samkvæmt sömu lögum.
    3. Að umsækjandi sé ekki í vanskilum við sjóðinn vegna eldri lána, sem veitt
                                   hafa verið.
@@ -95,11 +98,11 @@ lánaþörfinni samkvæmt áætlun sjóðsstjórnar, og skal stjórnin þá beit
               trygging fyrir láninu, sem sjóðsstjórn metur gilda.
      5. Að sveitarfélaginu sé að dómi sjóðsstjórnar nauðsyn á umbeðnu láni að
     nokkru eða öllu leyti vegna framkvæmda, sem gera þarf í sambandi við þau
-  verkefni, sem sveitarfélagið annast skv. [5]10. gr. sveitarstjórnarlaga, nr.
+  verkefni, sem sveitarfélagið annast skv. [7]10. gr. sveitarstjórnarlaga, nr.
    58/1961,^1) stafliðum A og B a, ef um er að ræða lán skv. 2. gr. 1. tölul.
                                  þessara laga.
     6. Önnur þau skilyrði, sem sjóðsstjórn kann að setja fyrir lánveitingunni.
-                               ^1)Nú [6]l. 45/1998.
+                               ^1)Nú [8]l. 45/1998.
          10. gr. Lánasjóði sveitarfélaga er heimilt að takast á hendur
  sjálfsskuldarábyrgð á rekstrarlánum sveitarfélaga, sbr. 2. gr. 3. tölul., og á
  lánum sveitarfélaga til þess að greiða fyrir bættum lánskjörum, sbr. 2. gr. 2.
@@ -125,7 +128,7 @@ Gjöld samkvæmt grein þessari skulu greidd um leið og lán er afgreitt eða �
                                      veitt.
     [Skuldabréf fyrir lánum, sem sjóðurinn tekur og veitir, skulu undanþegin
                               stimpilgjöldum.]^1)
-                             ^1)[7]L. 99/1974, 2. gr.
+                             ^1)[9]L. 99/1974, 2. gr.
 13. gr. Nú vanrækir sveitarfélag greiðslu afborgana og vaxta af lánum úr sjóðnum
      á réttum gjalddaga, og getur ráðherra þá greitt vanskilin af framlagi
  hlutaðeigandi sveitarfélags úr Jöfnunarsjóði sveitarfélaga eftir því, sem til
@@ -151,9 +154,11 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1966035
-   2. file:///altext/stjtnr.html#1974099?g1
+   2. file:///altext/stjtnr.html#1974099
    3. file:///altext/stjt/1995.049.html
-   4. file:///altext/stjtnr.html#1961058
-   5. file:///altext/stjtnr.html#1961058?g10
-   6. file://1998045.html
-   7. file:///altext/stjtnr.html#1974099?g2
+   4. file:///altext/stjtnr.html#1974099?g1
+   5. file:///altext/stjt/1995.049.html
+   6. file:///altext/stjtnr.html#1961058
+   7. file:///altext/stjtnr.html#1961058?g10
+   8. file://1998045.html
+   9. file:///altext/stjtnr.html#1974099?g2

@@ -7,11 +7,15 @@
 
    --------------------------------------------------------------------------
 
+Tóku gildi 27. maí 1970. Breytt með [2]l. 92/1991 (tóku gildi 1. júlí 1992 nema
+   103. gr. sem tók gildi 9. jan. 1992) og [3]l. 73/1996 (tóku gildi 19. júní
+                                     1996).
+
     1. gr. Allur æðardúnn, sem fluttur er úr landi, skal metinn og veginn af
 lögskipuðum dúnmatsmönnum. Hverri dúnsendingu skal fylgja vottorð matsmanna um,
  að dúnninn sé metinn og veginn. Skal [lögreglustjóri]^1) votta með undirskrift
  sinni, að lögskipaður dúnmatsmaður hafi undirritað vottorðið í viðurvist hans.
-                             ^1)[2]L. 92/1991, 54. gr.
+                             ^1)[4]L. 92/1991, 54. gr.
    2. gr. Ráðherra getur mælt svo fyrir, að ákvæði 1. gr. um mat og flokkun á
 æðardún, sem út er fluttur, skuli einnig ná til dúns, sem seldur er á innlendum
                                     markaði.
@@ -21,7 +25,7 @@ lögskipuðum dúnmatsmönnum. Hverri dúnsendingu skal fylgja vottorð matsmann
                                  ^1)Erbr. 64/1972.
 5. gr. Lögreglustjóri skipar dúnmatsmenn á þeim stöðum, er landbúnaðarráðuneytið
           telur þörf á, að fengnum tillögum [Bændasamtaka Íslands].^1)
-                             ^1)[3]L. 73/1996, 11. gr.
+                             ^1)[5]L. 73/1996, 11. gr.
     6. gr. Matsmenn æðardúns skulu, áður en þeir taka til starfa, undirrita
  drengskaparheit um, að þeir vilji rækja starf sitt með alúð og samviskusemi og
               fylgja settum reglum. Ráðuneytið stílar þeim heitið.
@@ -38,3 +42,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1970039
    2. file:///altext/stjt/1991.092.html
    3. file:///altext/stjt/1996.073.html
+   4. file:///altext/stjt/1991.092.html
+   5. file:///altext/stjt/1996.073.html

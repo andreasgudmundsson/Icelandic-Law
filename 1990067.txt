@@ -7,6 +7,8 @@
 
    --------------------------------------------------------------------------
 
+  Tóku gildi 1. júlí 1990. Breytt með [2]l. 83/1997 (tóku gildi 6. júní 1997).
+
 1. gr. Tilraunastöð Háskóla Íslands í meinafræði að Keldum er háskólastofnun sem
       tengist læknadeild og hefur sérstaka stjórn og sjálfstæðan fjárhag.
     Kostnaður af starfsemi tilraunastöðvarinnar greiðist úr ríkissjóði og af
@@ -64,7 +66,7 @@ rannsóknasvið eða deildir eftir því sem þurfa þykir í samráði við for
     bústjóra, sérhæft aðstoðarfólk, tækjavörð og skrifstofufólk, auk annars
                                  aðstoðarfólks.
  Forstöðumaður skal sitja fundi stjórnar með tillögurétti en án atkvæðisréttar.
-                            ^1)[2]L. 83/1997, 123. gr.
+                            ^1)[3]L. 83/1997, 123. gr.
       6. gr. [Forstöðumaður ræður]^1) sérfræðinga til rannsóknastarfa við
 tilraunastöðina á sama hátt og kennara við læknadeild að fengnu áliti dómnefnda
  sem skipaðar eru samkvæmt háskólalögum og einnig að fengnu áliti ^1) stjórnar.
@@ -74,7 +76,7 @@ tilraunastöðina á sama hátt og kennara við læknadeild að fengnu áliti d�
  Heimilt er að ráða sérfræðinga til tímabundinna starfa sem tengjast verkefnum
 stofnunarinnar. Skulu slíkar stöður veittar að jafnaði til allt að [tveggja]^1)
                                       ára.
-                            ^1)[3]L. 83/1997, 124. gr.
+                            ^1)[4]L. 83/1997, 124. gr.
  7. gr. Framkvæmdastjóri tilraunastöðvarinnar skal ráðinn af forstöðumanni með
          samþykki stjórnar. Hlutverk hans er að annast daglegan rekstur
   tilraunastöðvarinnar í umboði forstöðumanns og sjá um aðföng, skrifstofu- og
@@ -95,3 +97,4 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1990067
    2. file:///altext/stjt/1997.083.html
    3. file:///altext/stjt/1997.083.html
+   4. file:///altext/stjt/1997.083.html

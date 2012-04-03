@@ -7,10 +7,10 @@
 
    --------------------------------------------------------------------------
 
-Tóku gildi 1. janúar 1998. Breytt með [2]l. 139/1997 (tóku gildi 1. jan. 1998),
-  [3]l. 112/1999 (tóku gildi 1. jan. 2000), [4]l. 59/2002 (tóku gildi 17. maí
- 2002, komu til frkv. í samræmi við fyrirmæli 5. gr. laganna) og [5]l. 166/2002
-                          (tóku gildi 30. des. 2002).
+ Tóku gildi 1. janúar 1998, komu til framkvæmda skv. fyrirmælum í 7. gr. Breytt
+með [2]l. 139/1997 (tóku gildi 1. jan. 1998), [3]l. 112/1999 (tóku gildi 1. jan.
+    2000), [4]l. 59/2002 (tóku gildi 17. maí 2002; komu til framkvæmda skv.
+       fyrirmælum í 5. gr.) og [5]l. 166/2002 (tóku gildi 30. des. 2002).
 
 1. gr. [Innheimta skal sérstakt búnaðargjald af búvöruframleiðendum eins og þeir
 eru skilgreindir í lögum þessum og skal það nema [2,00%]^1) af gjaldstofni skv.
@@ -128,7 +128,7 @@ References
    3. file:///altext/stjt/1999.112.html
    4. file:///altext/stjt/2002.059.html
    5. file:///altext/stjt/2002.166.html
-   6. file://1981075.html#g31
+   6. file://1981075.html
    7. file:///altext/stjt/2002.059.html
    8. file:///altext/stjt/2002.059.html
    9. file:///altext/stjt/1999.112.html
@@ -143,7 +143,7 @@ References
   18. file:///altext/stjt/2002.059.html
   19. file:///altext/stjt/2002.059.html
   20. file:///altext/stjt/1997.139.html
-  21. file://1981075.html#g93
+  21. file://1981075.html
   22. file://1981075.html
   23. file://1981075.html
   24. file://1981075.html

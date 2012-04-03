@@ -7,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-                           Tóku gildi 1. janúar 2003.
+Tóku gildi 1. janúar 2003. Breytt með [2]l. 84/2003 (tóku gildi 10. apríl 2003).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -34,11 +34,12 @@ Lögunum er einnig ætlað að tryggja réttaröryggi útlendinga sem koma til l
    námsmanna í íslenskum skólum eða vegna samninga um vistráðningu á heimili.
    6. Atvinnurekandi: Einstaklingur eða fyrirtæki sem er með atvinnurekstur hér
   á landi án tillits til þess hvernig rekstrarformi og eignarhaldi er háttað.
-     7. Búsetuleyfi: Leyfi sem gefið er út með varanlega dvöl í huga samkvæmt
-                              lögum um útlendinga.
+    7. [Búsetuleyfi: Leyfi sem felur í sér rétt til ótímabundinnar dvalar skv.
+                        15. gr. laga um útlendinga.]^1)
      8. Útlendingur: Einstaklingur sem ekki hefur íslenskan ríkisborgararétt.
     9. Nánustu aðstandendur: Maki, sambúðarmaki, samvistarmaki, niðjar yngri en
               18 ára og ættmenni útlendings eða maka að feðgatali.
+                             ^1)[3]L. 84/2003, 1. gr.
                            4. gr. Framkvæmd laganna.
     Félagsmálaráðherra fer með yfirstjórn mála samkvæmt lögunum og setur með
                   reglugerð nánari ákvæði um framkvæmd þeirra.
@@ -185,13 +186,17 @@ vistráðningu. Á eyðublaðið skal prenta upplýsingar um ábyrgð þess sem 
 
                           III. kafli. Undanþáguákvæði.
            14. gr. Eftirtaldir eru undanþegnir kröfu um atvinnuleyfi:
-         a. Útlendingar sem falla undir reglur um Evrópska efnahagssvæðið.
-      b. Útlendingar sem falla undir reglur stofnsamnings Fríverslunarsamtaka
-                                    Evrópu.
-     c. Útlendingar sem hafa verið íslenskir ríkisborgarar frá fæðingu en hafa
-                       misst íslenskan ríkisborgararétt.
-     d. Erlendir makar íslenskra ríkisborgara og börn þeirra að 18 ára aldri.
-             e. Útlendingar í einkaþjónustu sendimanna erlendra ríkja.
+    [a. Ríkisborgarar í aðildarríkjum samningsins um Evrópska efnahagssvæðið og
+ stofnsamnings Fríverslunarsamtaka Evrópu og aðrir útlendingar sem falla undir
+         reglur samningsins um Evrópska efnahagssvæðið og stofnsamnings
+ Fríverslunarsamtaka Evrópu, með þeim takmörkunum sem þar greinir og nánar skal
+                          kveðið á um í reglugerð.]^1)
+    [b.] ^1) Útlendingar sem hafa verið íslenskir ríkisborgarar frá fæðingu en
+                     hafa misst íslenskan ríkisborgararétt.
+      [c.] ^1) Erlendir makar íslenskra ríkisborgara og börn þeirra að 18 ára
+                                     aldri.
+          [d.] ^1) Útlendingar í einkaþjónustu sendimanna erlendra ríkja.
+                             ^1)[4]L. 84/2003, 2. gr.
   15. gr. Eftirtaldir útlendingar eru undanþegnir kröfu um atvinnuleyfi vegna
                 vinnu í allt að fjórar vikur á ári hér á landi:
    a. Vísindamenn og fyrirlesarar að því leyti sem varðar kennslu eða hliðstæða
@@ -199,7 +204,7 @@ vistráðningu. Á eyðublaðið skal prenta upplýsingar um ábyrgð þess sem 
      b. Listamenn, að undanskildum hljóðfæraleikurum sem ráða sig til starfa á
   veitingahúsum. Undanþága samkvæmt þessum lið tekur ekki til dansara sem koma
   fram á næturklúbbum, sbr. i-lið 9. gr. laga um veitinga- og gististaði, nr.
-                       67/1985, sbr. [2]lög nr. 66/2000.
+                       67/1985, sbr. [5]lög nr. 66/2000.
                                c. Íþróttaþjálfarar.
         d. Fulltrúar í viðskiptaerindum fyrir fyrirtæki sem ekki hafa útibú
                                    hérlendis.
@@ -298,4 +303,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002097
-   2. file:///altext/stjt/2000.066.html
+   2. file:///altext/stjt/2003.084.html
+   3. file:///altext/stjt/2003.084.html
+   4. file:///altext/stjt/2003.084.html
+   5. file:///altext/stjt/2000.066.html

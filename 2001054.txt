@@ -8,6 +8,8 @@ Lög um réttarstöðu starfsmanna sem starfa tímabundið á Íslandi á vegum 
 
    --------------------------------------------------------------------------
 
+Tóku gildi 13. júní 2001. Breytt með [2]l. 72/2003 (tóku gildi 10. apríl 2003).
+
                                1. gr. Gildissvið.
     Lög þessi gilda um fyrirtæki sem hefur staðfestu utan Íslands og sendir
 starfsmann hingað til lands, sbr. 2. gr., í tengslum við veitingu þjónustu, sem
@@ -30,15 +32,15 @@ starfar að jafnaði utan Íslands en er sendur tímabundið til starfa hér á 
  gildir eftirfarandi löggjöf um starfskjör hans, og reglur settar á grundvelli
      hennar, án tillits til erlendrar löggjafar sem að öðru leyti gildir um
                ráðningarsamband hans og hlutaðeigandi fyrirtækis:
-        1. [2]Lög nr. 55/1980, um starfskjör launafólks og skyldutryggingu
+        1. [3]Lög nr. 55/1980, um starfskjör launafólks og skyldutryggingu
   lífeyrisréttinda, 1. gr., að því er varðar lágmarkslaun, yfirvinnugreiðslur,
          réttindi til orlofs, hámarksvinnutíma og lágmarkshvíldartíma.
-     2. [3]Lög nr. 46/1980, um aðbúnað, hollustuhætti og öryggi á vinnustöðum.
-           3. [4]Lög nr. 30/1987, um orlof, sbr. þó 11. gr. orlofslaga.
-               4. [5]Lög nr. 35/1993, um eftirlit með skipum, 4. gr.
-                 5. [6]Lög nr. 60/1998, um loftferðir, VI. kafli.
-     6. [7]Lög nr. 95/2000, um fæðingar- og foreldraorlof, 11., 29. og 30. gr.
-     7. [8]Lög nr. 96/2000, um jafna stöðu og jafnan rétt kvenna og karla, auk
+     2. [4]Lög nr. 46/1980, um aðbúnað, hollustuhætti og öryggi á vinnustöðum.
+           3. [5]Lög nr. 30/1987, um orlof, sbr. þó 11. gr. orlofslaga.
+               4. [6]Lög nr. 35/1993, um eftirlit með skipum, 4. gr.
+                 5. [7]Lög nr. 60/1998, um loftferðir, VI. kafli.
+     6. [8]Lög nr. 95/2000, um fæðingar- og foreldraorlof, 11., 29. og 30. gr.
+     7. [9]Lög nr. 96/2000, um jafna stöðu og jafnan rétt kvenna og karla, auk
                       annarra ákvæða um bann við mismunun.
   Ákvæði 1. mgr. gildir með fyrirvara um betri starfskjör starfsmanns samkvæmt
   ráðningarsamningi við hlutaðeigandi fyrirtæki eða samkvæmt kjarasamningi eða
@@ -63,7 +65,9 @@ Starfsmaður erlends fyrirtækis, sbr. 1. gr., getur höfðað mál hér á land
 Ráðherra setur með reglugerð nánari ákvæði um framkvæmd laga þessara, svo sem um
  samstarf og veitingu upplýsinga af hálfu stjórnvalda og samskipti við þar til
 bærar stofnanir í öðrum ríkjum Evrópska efnahagssvæðisins, sbr. ákvæði 4. og 5.
-                         gr. tilskipunar nr. 96/ 71/EB.
+        gr. tilskipunar nr. 96/71/EB, [eða í aðildarríkjum stofnsamnings
+                        Fríverslunarsamtaka Evrópu].^1)
+                            ^1)[10]L. 72/2003, 13. gr.
                                7. gr. Gildistaka.
 Lög þessi, sem sett eru með hliðsjón af tilskipun nr. 96/71/EB um störf útsendra
        starfsmanna í tengslum við veitingu þjónustu, öðlast þegar gildi.
@@ -72,10 +76,12 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001054
-   2. file://1980055.html
-   3. file://1980046.html
-   4. file://1987030.html
-   5. file://1993035.html
-   6. file://1998060.html
-   7. file://2000095.html
-   8. file://2000096.html
+   2. file:///altext/stjt/2003.072.html
+   3. file://1980055.html
+   4. file://1980046.html
+   5. file://1987030.html
+   6. file://1993035.html
+   7. file://1998060.html
+   8. file://2000095.html
+   9. file://2000096.html
+  10. file:///altext/stjt/2003.072.html

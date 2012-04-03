@@ -1,0 +1,740 @@
+
+   --------------------------------------------------------------------------
+
+                           Lög um verðbréfaviðskipti
+
+                              2003 nr. 33 20. mars
+
+   --------------------------------------------------------------------------
+
+                            Tóku gildi 1. júlí 2003.
+
+                     I. kafli. Gildissvið og orðskýringar.
+                               1. gr. Gildissvið.
+   Lög þessi gilda um verðbréfaviðskipti. Með verðbréfaviðskiptum er átt við:
+       1. Móttöku og miðlun fyrirmæla frá viðskiptavinum um einn eða fleiri
+  fjármálagerninga og framkvæmd slíkra fyrirmæla fyrir reikning þriðja aðila.
+              2. Viðskipti með fjármálagerninga fyrir eigin reikning.
+   3. Eignastýringu, þ.e. viðtöku fjármuna til fjárfestingar í fjármálagerningum
+   eða öðrum verðmætum fyrir eigin reikning viðskiptavinar, gegn endurgjaldi.
+    4. Sölutryggingu í tengslum við útgáfu eins eða fleiri fjármálagerninga eða
+                        markaðssetningu slíkrar útgáfu.
+                          5. Umsjón með útboði verðbréfa.
+ Einnig er með verðbréfaviðskiptum átt við eftirfarandi viðskipti eða starfsemi
+      ef hún er í nánum tengslum við starfsemi eða viðskipti skv. 1. mgr.:
+      1. Vörslu og stjórnun í tengslum við einn eða fleiri fjármálagerninga.
+                              2. Öryggisvörslu fjár.
+   3. Veitingu lánsheimilda, ábyrgða eða lána til fjárfestis þannig að hann geti
+  átt viðskipti með einn eða fleiri fjármálagerninga ef fjármálafyrirtæki sem
+               veitir lánsheimildina eða lánið annast viðskiptin.
+   4. Ráðgjöf til fyrirtækja um uppbyggingu eigin fjár, stefnumótun og skyld mál
+       og ráðgjöf og þjónustu varðandi samruna fyrirtækja og kaup á þeim.
+                     5. Þjónustu í tengslum við sölutryggingu.
+        6. Fjárfestingarráðgjöf varðandi einn eða fleiri fjármálagerninga.
+   7. Gjaldeyrisþjónustu ef umrædd viðskipti eru liður í fjárfestingarþjónustu.
+                              2. gr. Orðskýringar.
+                             Í lögum þessum merkir:
+          1. Fjármálafyrirtæki: Fyrirtæki samkvæmt skilgreiningu laga um
+                               fjármálafyrirtæki.
+                               2. Fjármálagerningur:
+   a. Verðbréf, þ.e. hvers konar framseljanleg kröfuréttindi til peningagreiðslu
+eða ígildis hennar, svo og framseljanleg skilríki fyrir eignarréttindum að öðru
+    en fasteign eða einstökum lausafjármunum, svo sem hlutabréf, skuldabréf,
+         áskriftarréttindi, skiptanleg verðbréf og breytanleg verðbréf.
+       b. Afleiða, þ.e. samningur þar sem uppgjörsákvæði byggist á breytingu
+     einhvers þáttar á tilteknu tímabili, svo sem vaxta, gengis gjaldmiðla,
+verðbréfaverðs, verðbréfavísitölu eða hrávöruverðs. Með afleiðu er m.a. átt við:
+   i. framvirkan óframseljanlegan fjármálagerning, þ.e. samning sem kveður á um
+ skyldu samningsaðila til að kaupa eða selja tiltekna eign fyrir ákveðið verð á
+                           fyrir fram ákveðnum tíma,
+   ii. framtíðarsamning, þ.e. staðlaðan og framseljanlegan samning sem kveður á
+um skyldu samningsaðila til að kaupa eða selja tiltekna eign fyrir ákveðið verð
+                          á fyrir fram ákveðnum tíma,
+   iii. skiptasamning, þ.e. samning sem kveður á um að hvor samningsaðila greiði
+    hinum fjárhæð sem tekur mið af breytingum á hvoru viðmiðinu fyrir sig á
+                                samningstímanum,
+   iv. valréttarsamning, þ.e. samning sem veitir öðrum samningsaðila, kaupanda,
+ rétt en ekki skyldu til að kaupa (kaupréttur) eða selja (söluréttur) tiltekna
+ eign (andlag samnings) á fyrir fram ákveðnu verði (valréttargengi) á tilteknu
+tímamarki (lokadagur) eða innan tiltekinna tímamarka (gildistími valréttar). Sem
+  endurgjald fyrir þennan rétt fær hinn samningsaðilinn, útgefandinn, ákveðið
+  gjald sem segir til um markaðsvirði valréttarins við upphaf samningstímans.
+                             c. Hlutdeildarskírteini.
+                              d. Peningamarkaðsskjal.
+               e. Framseljanleg veðréttindi í fasteignum og lausafé.
+          3. Skráð verðbréf: Verðbréf sem hefur verið skráð á skipulegum
+                               verðbréfamarkaði.
+   4. Skipulegur verðbréfamarkaður: Markaður með verðbréf samkvæmt skilgreiningu
+           laga um starfsemi kauphalla og skipulegra tilboðsmarkaða.
+    5. Kauphöll: Markaður samkvæmt skilgreiningu laga um starfsemi kauphalla og
+                           skipulegra tilboðsmarkaða.
+      6. Skipulegur tilboðsmarkaður: Markaður samkvæmt skilgreiningu laga um
+               starfsemi kauphalla og skipulegra tilboðsmarkaða.
+                                 7. Fagfjárfestar:
+                         a. Eftirtaldir opinberir aðilar:
+                                  i. ríkissjóður,
+                             ii. Seðlabanki Íslands og
+                               iii. Íbúðalánasjóður.
+             b. Eftirtaldir aðilar með starfsleyfi á fjármálamarkaði:
+                               i. fjármálafyrirtæki,
+                    ii. verðbréfasjóðir og fjárfestingarsjóðir,
+                             iii. vátryggingafélög og
+                                iv. lífeyrissjóðir.
+          c. Einstaklingar og lögaðilar óski þeir skriflega eftir því við
+ fjármálafyrirtæki sem hefur heimild til verðbréfaviðskipta, enda uppfylli þeir
+  skilyrði um faglega þekkingu, regluleg viðskipti og verulegan fjárhagslegan
+               styrk, eins og nánar er mælt fyrir um í reglugerð.
+
+                        II. kafli. Réttindi og skyldur.
+                           3. gr. Gildissvið kaflans.
+      Ákvæði kafla þessa taka til fjármálafyrirtækja sem hafa heimild til
+                              verðbréfaviðskipta.
+                           4. gr. Góð viðskiptavenja.
+       Fjármálafyrirtæki skal starfa í samræmi við eðlilega og heilbrigða
+       viðskiptahætti og venjur í verðbréfaviðskiptum, með trúverðugleika
+         fjármálamarkaðarins og hagsmuni viðskiptavina að leiðarljósi.
+                              5. gr. Upplýsingar.
+Fjármálafyrirtæki skal afla sér upplýsinga hjá viðskiptavinum sínum um þekkingu
+   og reynslu þeirra í verðbréfaviðskiptum og markmið þeirra með fyrirhugaðri
+fjárfestingu, eftir því sem máli skiptir vegna þjónustunnar sem óskað er eftir.
+    Enn fremur skal fjármálafyrirtæki afla upplýsinga frá viðskiptavinum um
+        fjárhagsstöðu þeirra séu þeir í viðvarandi viðskiptasambandi við
+ fjármálafyrirtækið. Í ljósi þessa skal fjármálafyrirtæki veita viðskiptavinum
+  greinargóðar upplýsingar, m.a. um þá fjárfestingarkosti sem þeim standa til
+ boða. Upplýsingar sem fjármálafyrirtæki veitir viðskiptavinum sínum skulu vera
+    skýrar, nægjanlegar og ekki villandi þannig að viðskiptavinir geti tekið
+                        upplýsta fjárfestingarákvörðun.
+Fjármálafyrirtæki skal kunngera viðskiptavinum sínum fyrir fram hvaða þóknun þau
+    muni áskilja sér fyrir þjónustu sína. Breytingar á þóknun skal tilkynna
+                    viðskiptavinum með hæfilegum fyrirvara.
+      Fjármálafyrirtæki skal hafa aðgengilegar upplýsingar um réttarúrræði
+         viðskiptavina sinna ef ágreiningur rís milli viðskiptavinar og
+                              fjármálafyrirtækis.
+Í auglýsingum og annarri kynningarstarfsemi fjármálafyrirtækis skal þess gætt að
+       fram komi réttar og nákvæmar upplýsingar um starfsemi og þjónustu
+                             fjármálafyrirtækisins.
+                        6. gr. Óhlutdrægni og jafnræði.
+Fjármálafyrirtæki skal gæta fyllstu óhlutdrægni gagnvart viðskiptavinum sínum í
+starfsemi sinni og ber því ávallt að haga störfum sínum þannig að viðskiptavinir
+          njóti jafnræðis um upplýsingar, verð og önnur viðskiptakjör.
+                    7. gr. Skriflegur samningur og yfirlit.
+ Taki fjármálafyrirtæki að sér þjónustu á sviði verðbréfaviðskipta sem felur í
+ sér viðvarandi viðskiptasamband, svo sem eignastýringu, skal gerður skriflegur
+samningur milli fjármálafyrirtækisins og viðskiptavinar þess, þar sem m.a. skal
+                 kveðið á um réttindi og skyldur samningsaðila.
+      Nú tekur fjármálafyrirtæki að sér eignastýringu og skal það þá senda
+  viðskiptavinum sínum yfirlit tvisvar á ári þar sem fram koma upplýsingar um
+  hvernig fjármunum viðskiptavinar hefur verið varið frá því fyrra yfirlit var
+    gefið út, eignastöðu og áætlað verðmæti eigna við dagsetningu yfirlits.
+ Fjármálafyrirtæki er ætíð skylt að senda viðskiptavinum sínum slíkt yfirlit án
+                     tafar fari viðskiptavinur fram á það.
+                        8. gr. Sala óskráðra verðbréfa.
+ Sala fjármálafyrirtækis eða milliganga þess um sölu á óskráðum verðbréfum til
+ annarra en fagfjárfesta, sem hvorki hafa verið seld í almennu útboði né falla
+undir 23. gr., er háð því að lagt hafi verið mat á faglega þekkingu, fjárhag og
+ reynslu viðskiptavinar, enda sé ekki um að ræða sölu eða milligöngu í almennu
+útboði verðbréfa. Sama gildir um sölu fjármálafyrirtækis eða milligöngu þess um
+ sölu á afleiðum sem tengdar eru einu eða fleiri óskráðum verðbréfum. Í slíkum
+    tilfellum er fjármálafyrirtæki heimilt að synja um milligöngu með slíka
+ fjármálagerninga ef það telur viðskiptavin ekki búa yfir nægjanlegri þekkingu,
+                        reynslu eða fjárhagslegum styrk.
+                            9. gr. Besta framkvæmd.
+ Við framkvæmd viðskiptafyrirmæla skal fjármálafyrirtæki tryggja besta mögulega
+ verð fyrir viðskiptavini sína og bestu framkvæmd að öðru leyti, eins og við á
+                                 hverju sinni.
+               10. gr. Sérgreining fjármuna og fjármálagerninga.
+   Fjármálafyrirtæki skal halda fjármunum og fjármálagerningum viðskiptavina
+    tryggilega aðgreindum frá eignum fjármálafyrirtækisins. Skulu fjármunir
+         viðskiptavinar varðveittir á sérstökum nafnskráðum reikningi.
+                             11. gr. Safnskráning.
+     Fjármálafyrirtæki sem heimilt er að varðveita fjármálagerninga í eigu
+viðskiptavina sinna getur varðveitt þá á sérstökum reikningi (safnreikningi) og
+  tekið við greiðslum fyrir hönd viðskiptavina sinna frá einstökum útgefendum
+ fjármálagerninga, enda hafi fjármálafyrirtækið gert viðskiptavini grein fyrir
+ réttaráhrifum þess og hann veitt samþykki sitt. Fjármálafyrirtæki ber að halda
+     skrá yfir hlut hvers viðskiptavinar fyrir sig samkvæmt þessari grein.
+    Komi til þess að bú fjármálafyrirtækis sé tekið til gjaldþrotaskipta eða
+  greiðslustöðvun samþykkt, fyrirtækinu sé slitið eða sambærilegar ráðstafanir
+     gerðar getur viðskiptavinur á grundvelli skrárinnar skv. 1. mgr. tekið
+     fjármálagerninga sína út af safnreikningi, enda sé ekki ágreiningur um
+                                  eignarhald.
+                            12. gr. Framsalsáritun.
+  Fjármálafyrirtæki er heimilt að framselja framseljanlega fjármálagerninga í
+      nafni viðskiptavinar síns hafi það fengið til þess skriflegt umboð.
+ Framsalsáritun fjármálafyrirtækis telst ekki slíta framsalsröð þótt umboð til
+     þess fylgi ekki framseljanlegum fjármálagerningi, enda sé þess getið í
+    framsalsáritun að gerningurinn sé framseldur samkvæmt varðveittu umboði.
+ Fjármálafyrirtækinu ber að varðveita umboð svo lengi sem réttindi eru byggð á
+    gerningnum sem framseldur hefur verið með þessum hætti. Skylt er að láta
+         kaupanda gerningsins í té samrit umboðsins krefjist hann þess.
+ Fjármálafyrirtæki, sem býður upp á vörslu framseljanlegra fjármálagerninga, er
+   heimilt að varðveita framsalsáritanir skv. 1. mgr. í sérstakri skrá meðan
+  gerningurinn er í vörslu þess, enda séu slíkar framsalsáritanir færðar inn á
+bréfið þegar það hverfur úr vörslu fjármálafyrirtækisins. Fjármálafyrirtæki, sem
+ hyggst nýta sér þessa heimild, ber að afla sér samþykkis Fjármálaeftirlitsins
+  fyrir fyrirkomulagi vörslu og því upplýsingakerfi sem fyrirhugað er að nota.
+Viðskiptavinur, sem veitt hefur fjármálafyrirtæki umboð skv. 1. mgr., getur ekki
+ beint kröfum að framsalshafa með stoð í heimildarskorti fjármálafyrirtækisins,
+        nema umboð þess til framsals hafi sýnilega verið ófullnægjandi.
+                   13. gr. Aðskilnaður einstakra starfssviða.
+ Fjármálafyrirtæki skal sýna fram á að komið sé í veg fyrir hagsmunaárekstra í
+      verðbréfaviðskiptum með skýrum aðskilnaði einstakra starfssviða þess
+                                  (kínamúrar).
+                    14. gr. Viðskipti fyrir eigin reikning.
+  Í tengslum við verðbréfaviðskipti fjármálafyrirtækis fyrir eigin reikning og
+verðbréfaviðskipti stjórnenda, starfsmanna, eigenda virkra eignarhluta samkvæmt
+lögum um fjármálafyrirtæki og þeirra sem eru fjárhagslega tengdir framangreindum
+            aðilum skal fjármálafyrirtæki gæta eftirtalinna atriða:
+            1. að fyllsta trúverðugleika fjármálafyrirtækisins sé gætt,
+     2. að fullur trúnaður ríki gagnvart fjárhagslega ótengdum viðskiptavinum,
+                     3. að viðskiptin séu sérstaklega skráð og
+        4. að stjórn fjármálafyrirtækisins fái kerfisbundnar upplýsingar um
+                     viðskiptin og hafi eftirlit með þeim.
+                       15. gr. Reglur fjármálafyrirtækja.
+ Fjármálafyrirtæki skal sýna fram á að ákvæðum 6., 13. og 14. gr. sé fylgt með
+ setningu reglna þar að lútandi sem staðfestar skulu af Fjármálaeftirlitinu. Í
+reglunum skal gera sérstaka grein fyrir eftirliti með framfylgni reglnanna innan
+    fjármálafyrirtækisins. Reglurnar skulu vera aðgengilegar viðskiptavinum.
+   Fjármálafyrirtæki ber að gera Fjármálaeftirlitinu grein fyrir frávikum frá
+                             ákvæðum þeirra reglna.
+
+                  III. kafli. Samningsbundið uppgjör afleiðna.
+                          16. gr. Gildissvið kaflans.
+Ákvæði þessa kafla taka til skuldajafnaðar og tryggingarréttinda í tengslum við
+                                   afleiður.
+                            17. gr. Skuldajöfnuður.
+Skriflegur samningur, einn eða fleiri, milli tveggja aðila um að skyldur þeirra
+   samkvæmt afleiðu skuli jafnast hver á móti annarri, með skuldajöfnuði, við
+endurnýjun eða við vanefnd, greiðslustöðvun, nauðasamninga eða gjaldþrotaskipti,
+skal halda gildi sínu að fullu þrátt fyrir ákvæði [2]91. og [3]100. gr. laga nr.
+                       21/1991, um gjaldþrotaskipti o.fl.
+                          18. gr. Tryggingarréttindi.
+ Tryggingarréttindum sem sett eru til tryggingar viðskiptum með afleiður verður
+ ekki rift þrátt fyrir ákvæði [4]137. gr. laga nr. 21/1991, um gjaldþrotaskipti
+                                     o.fl.
+
+                          IV. kafli. Útboð verðbréfa.
+                          19. gr. Gildissvið kaflans.
+             Ákvæði kafla þessa taka til almennra útboða verðbréfa.
+                             20. gr. Almennt útboð.
+ Með almennu útboði verðbréfa er átt við sölu verðbréfa í sama verðbréfaflokki
+ sem boðin eru almenningi til kaups með kynningu eða með öðrum hætti, enda séu
+        verðbréf í sama flokki ekki skráð á skipulegum verðbréfamarkaði.
+Almennt útboð verðbréfa, hvort heldur er í upphaflegri sölu eða síðari sölu, er
+ háð því að útboðslýsing hafi verið gefin út í samræmi við ákvæði laga þessara.
+                      21. gr. Upplýsingar í útboðslýsingu.
+Útboðslýsing skal geyma þær upplýsingar sem með hliðsjón af eðli útgefandans og
+ verðbréfanna eru nauðsynlegar fjárfestum til þess að þeir geti metið eignir og
+skuldir, fjárhagsstöðu, afkomu og framtíðarhorfur útgefanda sem og þau réttindi
+      sem fylgja verðbréfunum, eins og nánar er mælt fyrir um í reglugerð.
+                 22. gr. Undanþága frá birtingu útboðslýsingar.
+  Hafi útboðslýsing verið birt í samræmi við ákvæði 20. gr. er ekki þörf á að
+birta nýja útboðslýsingu í tengslum við almennt útboð nema liðið sé meira en 12
+  mánuðir frá birtingu útboðslýsingar til fyrsta söludags í nýju útboði eða ef
+  orðið hafa breytingar á högum útgefanda sem ætla má að hafi veruleg áhrif á
+                           markaðsverð verðbréfanna.
+                 23. gr. Undanþága frá reglum um almennt útboð.
+                        Undanþegin ákvæðum 20. gr. eru:
+          1. Útboð þar sem eitt eða fleiri eftirtalinna tilvika eiga við:
+      a. Hlutabréf, samlagshlutabréf eða samvinnuhlutabréf eru einungis boðin
+    forgangsréttarhöfum í félagi og hömlur eru lagðar á viðskipti með bréfin
+                         samkvæmt lögum eða samþykktum.
+      b. Hlutabréf, samlagshlutabréf eða samvinnuhlutabréf eru einungis boðin
+eigendum í félaginu, enda séu þeir færri en 50 og hlutafé, stofnfé samlagsfélags
+        eða stofnsjóður B-deildar samvinnufélags lægri en 50 millj. kr.
+    c. Verðbréf eru boðin tilgreindum afmörkuðum hópi aðila án auglýsingar eða
+     kynningar, enda séu ekki fleiri en 25 aðilar í hópnum sem ekki teljast
+                                 fagfjárfestar.
+      d. Áætlað heildarsöluverð verðbréfanna nemur ekki meira en 5 millj. kr.
+     e. Hver fjárfestir þarf að reiða af hendi a.m.k. 5 millj. kr. til kaupa á
+                                 verðbréfunum.
+                   f. Verðbréf eru eingöngu boðin fagfjárfestum.
+                        2. Verðbréf af eftirfarandi gerðum:
+     a. Verðbréf sem gefin eru út að áætluðu markaðsverði a.m.k. 5 millj. kr.
+                                     hvert.
+          b. Hlutdeildarskírteini verðbréfasjóða eða fjárfestingarsjóða.
+            c. Verðbréf sem gefin eru út í tengslum við yfirtökutilboð.
+          d. Verðbréf sem gefin eru út í tengslum við samruna fyrirtækja.
+        e. Jöfnunarhlutabréf og önnur hlutabréf sem hluthafar fá afhent án
+                                  endurgjalds.
+      f. Hlutabréf eða verðbréf sem eru ígildi hlutabréfa ef þau eru boðin í
+skiptum fyrir hlutabréf í sama félagi hafi boðið á hinum nýju verðbréfum ekki í
+                    för með sér hækkun á hlutafé í félaginu.
+       g. Verðbréf sem vinnuveitandi eða aðili tengdur honum býður eingöngu
+núverandi eða fyrrverandi fastráðnum starfsmönnum sínum, eða verðbréf sem boðin
+                            eru fram í þágu þeirra.
+   h. Verðbréf sem til eru komin vegna breytinga á breytanlegum skuldabréfum eða
+vegna þess að neytt er réttinda samkvæmt valréttarsamningi, svo og verðbréf sem
+boðin eru í skiptum fyrir skiptanleg skuldabréf, enda hafi útboðslýsing á hinum
+       breytanlegu eða skiptanlegu skuldabréfum, eða þeim verðbréfum sem
+              valréttarsamningi fylgja, verið gefin út á Íslandi.
+         i. Verðbréf sem gefin eru út af lögaðilum, sem ekki eru reknir í
+ hagnaðarskyni í þeim tilgangi að afla fjár til framdráttar markmiðum sínum, og
+                     lúta ekki að hag sjálfra lögaðilanna.
+   j. Verðbréf sem gefin eru út af ríkjum á Evrópska efnahagssvæðinu eða eru með
+                                  ríkisábyrgð.
+ Fjárhæðir í 1. mgr. skulu aldrei nema lægri fjárhæð en sem nemur jafnvirði 40
+þúsund evra (EUR) í íslenskum krónum miðað við opinbert viðmiðunargengi eins og
+                           það er skráð hverju sinni.
+                             24. gr. Sölutrygging.
+ Með sölutryggingu er átt við samning milli fjármálafyrirtækis og útgefanda eða
+eiganda verðbréfa þar sem fjármálafyrirtækið skuldbindur sig til þess að kaupa,
+ innan tiltekins tímamarks og á fyrir fram ákveðnu verði, þann hluta verðbréfa
+                 sem áskrift næst ekki fyrir í almennu útboði.
+Nú tekur fjármálafyrirtæki að sér sölutryggingu í tengslum við almennt útboð og
+ skal þá litið svo á að það ábyrgist einungis að fullnægjandi áskrift fáist til
+             að útboðið takist, nema um annað sé sérstaklega samið.
+         25. gr. Umsjón með almennu útboði og athugun á útboðslýsingum.
+Fjármálafyrirtæki sem til þess hefur heimild samkvæmt starfsleyfi sínu skal hafa
+                      umsjón með almennu útboði verðbréfa.
+   Fjármálaeftirlitið skal hafa umsjón með athugun á útboðslýsingum. Þó skulu
+   kauphallir annast athugun á skráningarlýsingum samkvæmt lögum um starfsemi
+    kauphalla og skipulegra tilboðsmarkaða þegar óskað er eftir skráningu í
+viðkomandi kauphöll, enda er hún tekin sem gild útboðslýsing. Fjármálaeftirlitið
+  getur falið skipulegum verðbréfamörkuðum að annast athugun á útboðslýsingum
+                  öðrum en þeim sem kveðið er á um í 2. málsl.
+ Þóknun fyrir athugun á útboðslýsingum skal ákveðin af Fjármálaeftirlitinu eða
+              viðkomandi skipulegum verðbréfamarkaði skv. 2. mgr.
+  Seðlabanki Íslands getur sett nánari reglur^1) um fyrsta söludag í einstökum
+ almennum útboðum í því skyni að draga úr sveiflum í framboði nýrra verðbréfa á
+                              verðbréfamarkaðinum.
+                               ^1)[5]Rgl. 470/2001.
+
+               V. kafli. Breyting á eignarhaldi verulegs hlutar.
+                          26. gr. Gildissvið kaflans.
+     Ákvæði þessa kafla gilda um breytingar á eignarhaldi verulegs hlutar í
+hlutafélagi sem hefur fengið skráningu fyrir einn eða fleiri flokka hlutabréfa á
+                          skipulegum verðbréfamarkaði.
+                            27. gr. Flöggunarskylda.
+  Með verulegum hlut í lögum þessum er átt við 5% atkvæðisréttar eða nafnverðs
+                  hlutafjár, og margfeldi þar af, allt að 90%.
+  Þegar aðili nær verulegum hlut, eða hækkar upp fyrir eða lækkar niður fyrir
+        slíkan hlut, ber honum að tilkynna það til viðkomandi skipulegs
+verðbréfamarkaðar og hlutafélags þegar í stað. Tilkynning á grundvelli 8. tölul.
+                     28. gr. skal fara fram á samningsdegi.
+ Í tilkynningu skv. 2. mgr. skulu koma fram upplýsingar um nafn og heimilisfang
+  flöggunarskylds aðila, nafnverð hlutafjár og hlutfall þess af heildarhlutafé
+ félagsins, hlutabréfaflokk ef það á við, fyrir og eftir hin tilkynningarskyldu
+ viðskipti, og á hvaða grundvelli viðkomandi varð tilkynningarskyldur skv. 28.
+ gr., ásamt öðrum þeim upplýsingum sem viðkomandi skipulegur verðbréfamarkaður
+                              metur nauðsynlegar.
+                       28. gr. Afmörkun verulegs hlutar.
+ Þegar ákvarðað er hvort um verulegan hlut sé að ræða skal litið til hlutabréfa
+                                      sem:
+       1. viðkomandi aðili á sjálfur eða aðili sem hann er í fjárfélagi við,
+      2. annar eða aðrir ráða yfir í eigin nafni fyrir hönd viðkomandi aðila,
+          3. eru í eigu lögaðila sem viðkomandi aðili hefur yfirráð yfir,
+   4. eru í eigu þriðja aðila sem viðkomandi aðili hefur gert skriflegan samning
+ við um að taka upp varanlega, sameiginlega stefnu um stjórn þess félags sem í
+                                    hlut á,
+    5. viðkomandi aðili hefur gert skriflegan samning um að þriðji maður skuli
+                  fara með atkvæðisrétt yfir gegn endurgjaldi,
+         6. viðkomandi aðili hefur sett að veði, nema veðhafinn ráði yfir
+atkvæðisréttinum og lýsi því yfir að hann hyggist notfæra sé réttinn, enda skal
+                         rétturinn þá talinn veðhafans,
+                        7. viðkomandi aðili nýtur arðs af,
+    8. viðkomandi aðili á rétt á að öðlast eingöngu að eigin ákvörðun samkvæmt
+                    formlegum samningi, t.d. um kauprétt, og
+       9. viðkomandi aðili varðveitir og getur neytt atkvæðisréttar yfir án
+                          sérstakra fyrirmæla eiganda.
+                     29. gr. Undanþága frá flöggunarskyldu.
+   Undanþegin tilkynningarskyldu skv. 27. gr. eru fjármálafyrirtæki, enda sé
+                        eftirfarandi skilyrðum fullnægt:
+                       1. um er að ræða veltubókarviðskipti,
+    2. ekki er farið yfir 10% af hlutafé eða samsvarandi hluta atkvæðisréttar,
+             3. ekki er ætlunin að hafa afskipti af stjórn félagsins,
+      4. viðskiptin eru innan venjubundinnar starfsemi fjármálafyrirtækis og
+    5. eignarhald fjármálafyrirtækis stendur ekki lengur en fimm viðskiptadaga
+              frá því að tilkynningarskylda stofnast skv. 27. gr.
+                 30. gr. Birting upplýsinga um verulegan hlut.
+ Skipulegur verðbréfamarkaður skal miðla upplýsingunum um tilkynningar skv. 27.
+                          gr. í upplýsingakerfi sínu.
+     Félag, sem hefur hlutabréf sín skráð í kauphöll í öðru ríki á Evrópska
+ efnahagssvæðinu eða í ríki sem gerður hefur verið samstarfssamningur við, skal
+   sjá til þess að upplýsingar um verulegan hlut séu birtar þar samkvæmt þeim
+                             reglum sem þar gilda.
+
+                           VI. kafli. Yfirtökutilboð.
+                          31. gr. Gildissvið kaflans.
+ Ákvæði þessa kafla gilda um yfirtöku í hlutafélagi sem hefur fengið skráningu
+     fyrir einn eða fleiri flokka hlutabréfa á skipulegum verðbréfamarkaði.
+                             32. gr. Tilboðsskylda.
+  Hafi hlutur beint eða óbeint verið yfirtekinn í hlutafélagi sem hefur fengið
+skráningu fyrir einn eða fleiri flokka hlutabréfa á skipulegum verðbréfamarkaði
+    skal sá er öðlast rétt yfir hlutnum, eigi síðar en fjórum vikum eftir að
+  yfirtakan átti sér stað, gera öðrum hluthöfum félagsins yfirtökutilboð, þ.e.
+tilboð um að afhenda honum hlut sinn, enda hafi yfirtakan haft í för með sér að
+                                     hann:
+                  1. hefur eignast 40% atkvæðisréttar í félaginu,
+   2. hefur öðlast rétt til þess að tilnefna eða setja af meiri hluta stjórnar í
+                                   félaginu,
+   3. hefur fengið rétt til þess að stjórna félaginu á grundvelli samþykkta þess
+                 eða á annan hátt með samningi við félagið eða
+    4. hefur á grundvelli samnings við aðra hluthafa rétt til að ráða yfir sem
+                         nemur 40% atkvæða í félaginu.
+  Ákvæði 1. mgr. eiga ekki við um eigendaskipti vegna erfða, gjafagernings eða
+        fullnustuaðgerða veðhafa eða eigendaskipti innan félagasamstæðu.
+  Tilboðsgjafi skv. 1. mgr. skal gera tilboðsyfirlit í samræmi við ákvæði VII.
+                                     kafla.
+                           33. gr. Skilmálar tilboðs.
+ Verð það sem sett er fram í yfirtökutilboði skv. 32. gr. skal a.m.k. svara til
+hæsta verðs sem tilboðsgjafi hefur greitt fyrir hlutabréf sem hann hefur eignast
+     í viðkomandi félagi síðustu sex mánuði áður en tilboðið var sett fram.
+ Í yfirtökutilboði skal tilboðsgjafi bjóða öðrum hluthöfum í viðkomandi félagi
+               greiðslu í formi reiðufjár eða skráðra verðbréfa.
+Gildistími yfirtökutilboðs skal hið skemmsta vera fjórar vikur, en tíu vikur hið
+                                    lengsta.
+                        34. gr. Um afturköllun tilboðs.
+Þó svo að yfirtökutilboð skv. 32. gr. hafi verið gert opinbert, sbr. 38. gr., er
+      unnt að afturkalla það að fullnægðu einhverju eftirfarandi skilyrða:
+     1. Fram kemur tilboð sem er sambærilegt eða hagstæðara en yfirtökutilboð,
+    2. lagaleg atriði eða viðurkenning stjórnvalda, sem telja verður nauðsynleg
+  til þess að eigendaskipti geti orðið að hlutabréfunum, liggja ekki fyrir eða
+                            þeim hefur verið hafnað,
+    3. skilyrði sem tilboðið er háð og tekið er fram í tilboðsyfirliti er ekki
+                                  uppfyllt eða
+          4. hlutafélag það sem yfirtakan beinist að eykur hlutafé sitt.
+  Fjármálaeftirlitinu er einnig heimilt, auk þeirra tilvika sem nefnd eru í 1.
+         mgr., að leyfa afturköllun ef sérstakar ástæður mæla með því.
+            Afturköllun tilboðs skal birta opinberlega, sbr. 38. gr.
+
+                          VII. kafli. Tilboðsyfirlit.
+                          35. gr. Gildissvið kaflans.
+   Ákvæði þessa kafla gilda um tilboðsyfirlit sem skylt er að útbúa og birta
+opinberlega í tengslum við yfirtökutilboð og sölu, með opinberri auglýsingu eða
+ kynningu, á verulegum hlut hlutafélags, sbr. 1. mgr. 27. gr., sem hefur fengið
+skráningu fyrir einn eða fleiri flokka hlutabréfa á skipulegum verðbréfamarkaði.
+                   36. gr. Skylda til að gera tilboðsyfirlit.
+ Nú er tilboð um sölu á a.m.k. 10% nafnverðs hlutafjár í hlutafélagi sem hefur
+     fengið skráningu fyrir einn eða fleiri flokka hlutabréfa á skipulegum
+  verðbréfamarkaði sett fram með opinberri auglýsingu eða kynningu og skal þá
+ útbúa tilboðsyfirlit sem gert skal opinbert í samræmi við ákvæði þessa kafla,
+                              eftir því sem við á.
+Ákvæði 1. mgr. eiga ekki við um veltubókarviðskipti, viðskipti skv. 40. gr. eða
+          þegar atvik sem mælt er fyrir um í 23. gr. eru fyrir hendi.
+            Tilboð skv. 1. mgr. skal að hámarki gilda í einn mánuð.
+                         37. gr. Efni tilboðsyfirlits.
+    Í tilboðsyfirliti skulu að lágmarki koma fram eftirfarandi upplýsingar:
+     1. Nafn, heimilisfang og kennitala hlutafélagsins sem tilboðið tekur til.
+      2. Nafn, heimilisfang og rekstrarform ef tilboðsgjafi er félag, svo og
+    yfirlit um þá einstaklinga eða lögaðila sem væntanlega munu taka þátt í
+                        viðskiptunum ásamt tilboðsgjafa.
+   3. Upplýsingar um hve mikinn atkvæðisrétt, áhrif eða hluti tilboðsgjafi hefur
+ þegar öðlast beint eða óbeint, eða tryggt sér með öðrum hætti, sem og áætlaðan
+        atkvæðisrétt, áhrif eða hluti tilboðsgjafa eftir sölu, ef við á.
+                       4. Verð sem miðað er við í tilboðinu.
+     5. Upplýsingar um hvernig greiðsla skuli fara fram eða, ef boðin eru fram
+              skráð verðbréf, hvernig skiptin muni verða ákveðin.
+         6. Á hvaða degi hlutir skulu afhentir og hvenær unnt er að beita
+                         atkvæðisrétti sem þeim fylgir.
+        7. Önnur skilyrði sem tilboðið kann að vera háð, þ.m.t. undir hvaða
+                    kringumstæðum er unnt að afturkalla það.
+                              8. Gildistími tilboðs.
+         9. Hvað tilboðsmóttakanda ber að gera til að samþykkja tilboðið.
+    10. Samantekt tilboðsgjafa um framtíðaráætlanir fyrir félagið, þ.m.t. áform
+ um starfsemi og hvernig skuli nota fjármunalegar eignir félagsins, upplýsingar
+    um áframhaldandi skráningu hlutabréfa félagsins í kauphöll, breytingar á
+           samþykktum og væntanlega endurskipulagningu, ef það á við.
+     11. Upplýsingar um væntanlega samninga við aðra um að nýta atkvæðisrétt í
+ félaginu, svo framarlega sem tilboðsgjafi á aðild að slíkum samningi eða honum
+                              er kunnugt um hann.
+    Uppfylli tilboðsyfirlit ekki þær kröfur sem nefndar eru í 1. mgr. getur
+viðkomandi skipulegur verðbréfamarkaður krafist þess að nánari upplýsingar verði
+                        gerðar opinberar innan sjö daga.
+                    38. gr. Opinber birting tilboðsyfirlits.
+Birta skal auglýsingu opinberlega um tilboðsyfirlit í einu eða fleiri dagblöðum
+   sem gefin eru út á Íslandi eigi síðar en fjórum dögum áður en tilboð tekur
+   gildi, enda liggi fyrir samþykki viðkomandi skipulegs verðbréfamarkaðar um
+opinbera birtingu tilboðsyfirlits. Í auglýsingunni skal tekið fram hvar nálgast
+  má tilboðsyfirlit. Samhliða skal nafnskráðum hluthöfum í félagi, sem tilboð
+              tekur til, send auglýsingin á kostnað tilboðsgjafa.
+
+             VIII. kafli. Verðmyndun á skipulegum verðbréfamarkaði.
+                          39. gr. Gildissvið kaflans.
+      Fjármálagerningar sem ákvæði kafla þessa taka til eru eftirfarandi:
+    1. fjármálagerningar sem skráðir hafa verið eða óskað hefur verið eftir að
+                 verði skráðir á skipulegum verðbréfamarkaði og
+   2. fjármálagerningar sem tengdir eru einum eða fleiri fjármálagerningum skv.
+                                   1. tölul.
+                             40. gr. Viðskiptavaki.
+ Fjármálafyrirtæki sem hefur heimild til verðbréfaviðskipta getur með samningi
+ við útgefanda fjármálagerninga skuldbundið sig til að vera viðskiptavaki, þ.e.
+      kaupa og selja fyrir eigin reikning eða reikning útgefanda tiltekna
+  fjármálagerninga, í því skyni að greiða fyrir að markaðsverð skapist á þeim.
+       Viðskiptavaki skal tilkynna um samning skv. 1. mgr. til skipulegs
+   verðbréfamarkaðar þar sem viðkomandi verðbréf eru skráð. Tilkynningin skal
+               innihalda eftirfarandi upplýsingar um samninginn:
+                     1. lágmarksfjárhæð kaup- og sölutilboða,
+                   2. hámarksfjárhæð heildarviðskipta dag hvern,
+                     3. hámarksmun á kaup- og sölutilboðum og
+    4. hvernig fjármálafyrirtækið hyggst að öðru leyti fullnægja skyldum sínum
+                              samkvæmt samningnum.
+ Viðskiptavaki skal dag hvern setja fram kaup- eða sölutilboð í viðskiptakerfi
+   skipulegs verðbréfamarkaðar áður en markaðurinn er opnaður. Verði tilboði
+ viðskiptavaka tekið eða það fellt niður af hálfu viðskiptavaka skal hann setja
+  fram nýtt tilboð eins fljótt og mögulegt er þar til hámarksfjárhæð viðskipta
+                        fyrir dag hvern hefur verið náð.
+    Geri fjármálafyrirtæki viðskiptavakasamning um viðskipti fyrir reikning
+ útgefanda skal tryggt að útgefanda sé ekki unnt að hafa áhrif á ákvarðanir um
+                      viðskipti á grundvelli samningsins.
+           41. gr. Markaðsmisnotkun og milliganga fjármálafyrirtækis.
+         Markaðsmisnotkun er óheimil. Með markaðsmisnotkun er átt við:
+     1. Að eiga viðskipti eða gera tilboð sem gefa eða eru líkleg til að gefa
+framboð, eftirspurn eða verð fjármálagerninga ranglega eða misvísandi til kynna.
+       2. Að eiga viðskipti eða gera tilboð sem leiða til óeðlilegs verðs á
+        fjármálagerningum eða þar sem notuð eru einhver form blekkingar.
+    3. Að dreifa upplýsingum, fréttum eða orðrómi sem gefur eða er líklegur til
+ að gefa framboð, eftirspurn eða verð fjármálagerninga ranglega eða misvísandi
+                                   til kynna.
+   4. Að halda eftir upplýsingum, fréttum eða orðrómi sem veldur því að framboð,
+eftirspurn eða verð fjármálagerninga er gefið ranglega eða misvísandi til kynna.
+Fjármálafyrirtæki, sem heimild hefur til verðbréfaviðskipta, er óheimilt að hafa
+ milligöngu um verðbréfaviðskipti hafi starfsmenn þess vitneskju eða grun um að
+                      viðskiptin brjóti í bága við 1. mgr.
+  Vakni grunur hjá starfsmanni fjármálafyrirtækis um að viðskipti skv. 1. mgr.
+         hafi farið fram skal fyrirtækið þegar í stað tilkynna það til
+                             Fjármálaeftirlitsins.
+
+          IX. kafli. Meðferð innherjaupplýsinga og viðskipti innherja.
+                          42. gr. Gildissvið kaflans.
+      Fjármálagerningar sem ákvæði kafla þessa taka til eru eftirfarandi:
+    1. fjármálagerningar sem skráðir hafa verið eða óskað hefur verið eftir að
+                 verði skráðir á skipulegum verðbréfamarkaði og
+   2. fjármálagerningar sem tengdir eru einum eða fleiri fjármálagerningum skv.
+                                   1. tölul.
+                   43. gr. Innherjaupplýsingar og innherjar.
+     Með innherjaupplýsingum er átt við upplýsingar um útgefanda verðbréfa,
+ verðbréfin sjálf eða önnur atriði sem ekki hafa verið gerðar opinberar en eru
+líklegar til að hafa áhrif á markaðsverð fjármálagerninganna ef opinberar væru.
+Tilkynningar til skipulegra verðbréfamarkaða teljast opinberar upplýsingar þegar
+ þeim hefur verið miðlað þaðan. Aðrar upplýsingar teljast opinberar þegar þeim
+ hefur verið miðlað á verðbréfamarkaðinum með opinberum og viðurkenndum hætti.
+                            Með innherja er átt við:
+        1. fruminnherja, þ.e. aðila sem býr yfir innherjaupplýsingum vegna
+eignaraðildar eða hefur að jafnaði aðgang að slíkum upplýsingum vegna aðildar að
+    stjórn, rekstri eða eftirliti eða vegna annarra starfa á vegum útgefanda
+                                   verðbréfa,
+    2. tímabundinn innherja, þ.e. aðila sem telst ekki fruminnherji en býr yfir
+          innherjaupplýsingum vegna starfs síns, stöðu eða skyldna og
+    3. annan innherja, þ.e. aðila sem hvorki telst fruminnherji né tímabundinn
+innherji en hefur fengið vitneskju um innherjaupplýsingar, enda hafi viðkomandi
+              vitað eða mátt vita hvers eðlis upplýsingarnar voru.
+                             44. gr. Innherjasvik.
+                            Innherja er óheimilt að:
+   1. afla eða ráðstafa fjármálagerningum, fyrir eigin reikning eða annarra, búi
+                         hann yfir innherjaupplýsingum,
+    2. láta þriðja aðila innherjaupplýsingar í té, nema það sé gert í eðlilegu
+     sambandi við starf, stöðu eða skyldur þess sem upplýsingarnar veitir,
+         3. ráðleggja þriðja aðila á grundvelli innherjaupplýsinga að afla
+ fjármálagerninga eða ráðstafa þeim eða hvetja að öðru leyti til viðskipta með
+                              fjármálagerningana.
+  Ákvæði 1. mgr. nær einnig til lögaðila og aðila sem taka þátt í ákvörðun um
+           viðskipti með fjármálagerninga fyrir reikning lögaðilans.
+ Ákvæði 1. mgr. á ekki við um viðskipti ríkisins, Seðlabanka Íslands eða aðila
+   sem annast viðskipti fyrir þeirra hönd, enda séu viðskiptin liður í stefnu
+              ríkisins í peningamálum, gengismálum eða lánasýslu.
+                     45. gr. Milliganga fjármálafyrirtækis.
+Fjármálafyrirtæki, sem heimild hefur til verðbréfaviðskipta, er óheimilt að hafa
+ milligöngu um verðbréfaviðskipti hafi starfsmenn þess vitneskju eða grun um að
+                viðskiptin brjóti í bága við ákvæði þessa kafla.
+  Vakni grunur hjá starfsmanni fjármálafyrirtækis um að viðskipti skv. 1. mgr.
+         hafi farið fram skal fyrirtækið þegar í stað tilkynna það til
+                             Fjármálaeftirlitsins.
+                     46. gr. Rannsóknarskylda fruminnherja.
+      Áður en fruminnherji á viðskipti með verðbréf útgefanda, sem hann er
+        fruminnherji í, skal hann ganga úr skugga um að ekki liggi fyrir
+   innherjaupplýsingar hjá útgefanda. Sama gildir um fyrirhuguð viðskipti með
+fjármálagerninga sem tengdir eru slíkum verðbréfum og fyrirhuguð viðskipti aðila
+                   sem er fjárhagslega tengdur fruminnherja.
+                    47. gr. Tilkynningarskylda fruminnherja.
+    Fruminnherji skal áður en hann, eða aðili fjárhagslega tengdur honum, á
+  viðskipti með verðbréf útgefandans, tilkynna það aðila sem tilnefndur hefur
+verið í samræmi við reglur sem útgefandi skal setja sér samkvæmt ákvæði 51. gr.
+ laga þessara (regluverði). Fruminnherji skal með sama hætti tilkynna án tafar
+   hafi hann eða aðili fjárhagslega tengdur honum átt viðskipti með verðbréf
+  útgefandans. Viðkomandi útgefandi skal samdægurs tilkynna um viðskiptin til
+  skipulegs verðbréfamarkaðar þar sem viðkomandi verðbréf eru skráð eða óskað
+                      hefur verið eftir skráningu á þeim.
+ Ákvæði 1. mgr. gildir einnig um fyrirhuguð viðskipti með fjármálagerninga sem
+                      tengdir eru verðbréfum skv. 1. mgr.
+             48. gr. Birting upplýsinga um viðskipti fruminnherja.
+Skipulegur verðbréfamarkaður skal birta opinberlega upplýsingar um þau viðskipti
+  sem eru tilkynningarskyld skv. 47. gr., enda uppfylli viðskiptin eftirtalin
+                                   skilyrði:
+    1. Markaðsvirði viðskiptanna nemi a.m.k. einni viðskiptalotu, sbr. 3. mgr.
+        2. Markaðsvirði hlutar eftir viðskipti samsvari tíu viðskiptalotum.
+    3. Markaðsvirði hlutar eftir viðskipti fari niður fyrir tíu viðskiptalotur.
+                   Í tilkynningu skv. 1. mgr. skal tilgreina:
+                           1. nafn útgefanda verðbréfa,
+                           2. dagsetningu tilkynningar,
+           3. nafn fruminnherja, eða fjárhagslega tengds aðila ef við á,
+                  4. tengsl fruminnherja við útgefanda verðbréfa,
+             5. dagsetningu viðskipta og hvenær dagsins þau fóru fram,
+                            6. tegund fjármálagernings,
+                      7. hvort um var að ræða kaup eða sölu,
+                        8. nafnverð og gengi í viðskiptum,
+    9. nafnverð hlutar fruminnherja annars vegar og fjárhagslega tengdra aðila
+                         hins vegar eftir viðskipti og
+               10. dagsetningu lokauppgjörs viðskiptanna, ef við á.
+Með viðskiptalotu er í lögum þessum átt við fjölda verðbréfa í sama flokki, eða
+   lágmarksmarkaðsverðmæti sem þarf til þess að geta átt samfelld viðskipti í
+  viðskiptakerfi kauphallar eða skipulegs tilboðsmarkaðar, samkvæmt reglum sem
+             stjórn kauphallar eða skipulegs tilboðsmarkaðar setur.
+                             49. gr. Innherjaskrá.
+ Útgefandi skal senda Fjármálaeftirlitinu, í því formi sem eftirlitið ákveður,
+        eftirfarandi upplýsingar um fruminnherja og tímabundna innherja:
+                                1. heiti útgefanda,
+    2. skipulegan verðbréfamarkað sem verðbréf útgefanda eru skráð á eða hefur
+                           verið óskað skráningar á,
+                   3. nafn, kennitölu og heimilisfang innherja,
+                         4. tengsl innherja við útgefanda,
+                         5. ástæðu skráningar innherja og
+               6. nöfn aðila sem eru fjárhagslega tengdir innherja.
+Fjármálaeftirlitið skal halda skrá yfir fruminnherja og tímabundna innherja. Því
+er heimilt að kveða nánar á um upplýsingar sem veittar skulu skv. 1. mgr. Allar
+breytingar á upplýsingum skv. 1. mgr. skulu tilkynntar Fjármálaeftirlitinu þegar
+ í stað. Endurskoðaðan lista yfir innherja skal senda Fjármálaeftirlitinu eigi
+                        sjaldnar en á sex mánaða fresti.
+    Útgefandi skal einnig senda upplýsingar skv. 1. og 2. mgr. til skipulegs
+ verðbréfamarkaðar þar sem verðbréf útgefanda eru skráð eða þar sem óskað hefur
+                         verið eftir skráningu þeirra.
+  Upplýsingar um fruminnherja í innherjaskrá Fjármálaeftirlitsins skulu gerðar
+            opinberar með þeim hætti sem Fjármálaeftirlitið ákveður.
+                      50. gr. Upplýsingaskylda útgefanda.
+  Útgefandi sem tilgreint hefur innherja til Fjármálaeftirlitsins skv. 49. gr.
+  skal tilkynna viðkomandi innherja um það skriflega. Jafnframt skal útgefandi
+     tilkynna innherja skriflega þegar hann hefur verið tekinn af skránni.
+ Útgefandi skal greina innherja frá þeim réttarreglum sem gilda um innherja og
+                          meðferð innherjaupplýsinga.
+      51. gr. Reglur um meðferð innherjaupplýsinga og viðskipti innherja.
+ Stjórn útgefanda verðbréfa skal setja reglur um meðferð innherjaupplýsinga og
+viðskipti innherja. Í reglunum skal m.a. kveðið á um með hvaða hætti komið skuli
+  í veg fyrir að innherjaupplýsingar berist til annarra en þeirra er þarfnast
+  þeirra vegna starfa sinna, hvernig viðskiptum innherja skuli háttað, þar með
+talið hvernig rannsóknarskyldu fruminnherja skv. 47. gr. skuli háttað, hver hafi
+ eftirlit með því innan útgefanda að reglunum sé framfylgt (regluvörður) og um
+           skráningu samskipta sem fram fara á grundvelli reglnanna.
+  Stjórn útgefanda skal senda reglur skv. 1. mgr. til Fjármálaeftirlitsins og
+  skipulegs verðbréfamarkaðar þar sem verðbréf útgefanda eru skráð eða þar sem
+       óskað hefur verið skráningar þeirra. Reglurnar skulu staðfestar af
+                              Fjármálaeftirlitinu.
+  Stjórnvöld og aðrir aðilar sem fá reglulega innherjaupplýsingar í starfsemi
+            sinni skulu setja sér reglur^1) samkvæmt þessari grein.
+                               ^1)[6]Rgl. 831/2002.
+
+                        X. kafli. Eftirlit og reglugerð.
+                               52. gr. Eftirlit.
+ Fjármálaeftirlitið hefur eftirlit með framkvæmd laga þessara og reglna settra
+samkvæmt þeim. Að auki hefur skipulegur verðbréfamarkaður eftirlit með framkvæmd
+   40. gr. og V., VI. og VII. kafla laga þessara. Um valdheimildir skipulegra
+    verðbréfamarkaða við eftirlit fer eftir lögum um starfsemi kauphalla og
+    skipulegra tilboðsmarkaða. Þegar brotið er gegn 40. gr. laga þessara um
+  viðskiptavaka getur skipulegur verðbréfamarkaður einnig veitt viðskiptavaka
+    viðvörun, áminningu eða birt opinberlega tilkynningu um vanefndir hans.
+ Í tengslum við athugun tiltekins máls er Fjármálaeftirlitinu heimilt að krefja
+einstaklinga og lögaðila um allar upplýsingar og gögn sem það telur nauðsynleg.
+  Telji Fjármálaeftirlitið að ekki hafi verið farið að reglum um almennt útboð
+  verðbréfa getur það stöðvað útboð og veitt frest til úrbóta sé þess kostur.
+  Fjármálaeftirlitið getur birt opinberlega yfirlýsingu um umrætt mál og lagt
+dagsektir eða févíti á þá sem tengjast almennu útboði samkvæmt lögum um opinbert
+                        eftirlit með fjármálastarfsemi.
+   Um eftirlit með framkvæmd laga þessara gilda að öðru leyti ákvæði laga um
+                    opinbert eftirlit með fjármálastarfsemi.
+                               53. gr. Reglugerð.
+ Ráðherra skal setja reglugerð^1) um nánari framkvæmd laga þessara. Í reglugerð
+ skal m.a. koma fram skilgreining á fagfjárfestum og ákvæði um útboð verðbréfa,
+  þar sem verði kveðið á um aðdraganda að útboðslýsingu og útboðstímabil, efni
+   hennar og tilhögun við birtingu, viðvarandi upplýsingaskyldu og heimildir
+Fjármálaeftirlitsins til að veita undanþágur frá birtingu tiltekinna upplýsinga
+              í útboðslýsingu eða birtingu útboðslýsingar í heild.
+    Í reglugerð skal kveða nánar á um skyldu eigenda hlutabréfa til að veita
+         kauphöll upplýsingar, svo og hvenær veita megi undanþágur frá
+  upplýsingaskyldunni. Einnig er heimilt að setja nánari reglur í reglugerð um
+  upplýsingaskyldu þegar útgefandi hefur fengið fjármálagerninga sína skráða í
+                           fleiri en einni kauphöll.
+   Heimilt er að setja ákvæði um safnskráningu í reglugerð, m.a. um sviptingu
+ heimildar til að skrá fjármálagerninga á safnreikning skv. 1. mgr. 11. gr. og
+     auðkenningu safnreiknings, þar á meðal upplýsingar um fjölda eigenda á
+                                 safnreikningi.
+                       ^1)[7]Rg. 506/2000, [8]rg. 477/2001.
+
+                              XI. kafli. Viðurlög.
+                           54. gr. Stjórnvaldssektir.
+  Fjármálaeftirlitið getur lagt stjórnvaldssektir á hvern þann sem brýtur gegn
+                   ákvæðum 47.51. gr. um innherjaviðskipti.
+Stjórnvaldssektir geta numið frá 10 þús. kr. til 2 millj. kr. og skulu þær renna
+    í ríkissjóð. Við ákvörðun sekta skal tekið tillit til alvarleika brots.
+ Ákvarðanir um stjórnvaldssektir skulu teknar af stjórn Fjármálaeftirlitsins og
+                             eru þær aðfararhæfar.
+  Ákvörðun Fjármálaeftirlitsins um stjórnvaldssektir má skjóta til kærunefndar
+ samkvæmt lögum um opinbert eftirlit með fjármálastarfsemi innan þriggja mánaða
+   frá því að aðila var tilkynnt um ákvörðunina. Málskot til kærunefndarinnar
+ frestar aðför en úrskurðir nefndarinnar um stjórnvaldssektir eru aðfararhæfir.
+                                55. gr. Sektir.
+Það varðar sektum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að
+                      brjóta gegn ákvæðum laga þessara um:
+                         1. flöggunarskyldu skv. 27. gr.,
+                      2. tilboðsskyldu skv. 1. mgr. 32. gr.,
+               3. tilboðsyfirlit skv. 3. mgr. 32. gr. og 36. gr. og
+                       4. innherjaviðskipti skv. 47.51. gr.
+Það varðar sektum, liggi þyngri refsing ekki við broti samkvæmt öðrum lögum, að
+  brjóta gróflega eða ítrekað gegn ákvæðum laga þessara um réttindi og skyldur
+                                skv. II. kafla.
+                       56. gr. Fangelsi allt að einu ári.
+ Það varðar sektum eða fangelsi allt að einu ári, liggi þyngri refsing ekki við
+      broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum laga þessara um:
+                      1. almennt útboð skv. 2. mgr. 20. gr.,
+                  2. upplýsingar í útboðslýsingu skv. 21. gr. og
+            3. umsjón með almennu útboði verðbréfa skv. 1. mgr. 25. gr.
+ Það varðar sektum eða fangelsi allt að einu ári, liggi þyngri refsing ekki við
+       broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum laga þessara um
+rannsóknarskyldu fruminnherja skv. 46. gr., enda hafi innherjaupplýsingar legið
+             fyrir hjá þeim útgefanda sem þeir eru fruminnherjar í.
+                     57. gr. Fangelsi allt að tveimur árum.
+ Það varðar sektum eða fangelsi allt að tveimur árum, liggi þyngri refsing ekki
+    við broti samkvæmt öðrum lögum, að brjóta gegn ákvæðum laga þessara um:
+                     1. markaðsmisnotkun skv. 1. mgr. 41. gr.,
+                          2. innherjasvik skv. 44. gr. og
+     3. milligöngu fjármálafyrirtækis skv. 2. mgr. 41. gr. og 1. mgr. 45. gr.
+                           58. gr. Önnur refsiákvæði.
+ Nú er brot framið í starfsemi fjármálafyrirtækis eða annars lögaðila og er þá
+  heimilt að gera lögaðilanum fésekt. Um refsiábyrgðina fer eftir II. kafla A
+                            almennra hegningarlaga.
+Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotist hefur
+                      með broti gegn ákvæðum laga þessara.
+  Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð
+                 eftir því sem segir í almennum hegningarlögum.
+  Brot á lögum þessum varða refsingu hvort sem þau eru framin af ásetningi eða
+                                    gáleysi.
+             Sök samkvæmt ákvæðum þessa kafla fyrnist á fimm árum.
+
+                          XII. kafli. Gildistaka o.fl.
+                              59. gr. Innleiðing.
+   Lög þessi eru sett til þess að taka upp í innlendan rétt ákvæði tilskipana
+ ráðsins nr. 89/298/EBE um samræmingu á kröfum við gerð, athugun og dreifingu á
+   útboðslýsingu sem birta skal við almennt útboð framseljanlegra verðbréfa,
+      89/592/EBE um samræmingu á reglum um innherjaviðskipti, 93/22/EBE um
+ fjárfestingarþjónustu á sviði verðbréfaviðskipta og 2001/34/EB um samræmingu á
+ skráningarkröfum sem gerðar eru til verðbréfa í kauphöllum og upplýsingaskyldu
+                            vegna slíkra verðbréfa.
+                              60. gr. Gildistaka.
+                      Lög þessi öðlast gildi 1. júlí 2003.
+                                    61. gr.
+  Ákvæði til bráðabirgða. Nú á eigandi hlutafjár meira en 40% atkvæðisréttar í
+ félagi sem var skráð á skipulegum verðbréfamarkaði við gildistöku laga þessara
+ og er hann þá ekki tilboðsskyldur skv. 1. mgr. 32. gr. laga þessara, enda auki
+hann ekki atkvæðisrétt sinn í félaginu umfram næsta verulega hlut, sbr. 1. mgr.
+27. gr. Sama gildir hafi aðili á grundvelli samnings við aðra hluthafa rétt til
+   að ráða yfir sem nemur 40% atkvæða í félaginu við gildistöku laga þessara.
+
+References
+
+   Visible links
+   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003033
+   2. file://1991021.html#g91
+   3. file://1991021.html#g100
+   4. file://1991021.html#g137
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/470-2001
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/831-2002
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/506-2000
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/477-2001

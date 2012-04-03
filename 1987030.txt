@@ -7,6 +7,10 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 1. maí 1988. Breytt með [2]l. 92/1991 (tóku gildi 1. júlí 1992 nema
+ 103. gr. sem tók gildi 9. jan. 1992), [3]l. 127/1993 (tóku gildi 1. jan. 1994)
+                 og [4]l. 88/2003 (tóku gildi 10. apríl 2003).
+
 1. gr. Allir þeir, sem starfa í þjónustu annarra gegn launum, hvort sem þau eru
    greidd í peningum eða öðrum verðmætum, eiga rétt á orlofi og orlofslaunum
                          samkvæmt reglum þessara laga.
@@ -76,32 +80,14 @@ launþega við upphaf orlofstöku. Skylt er að afhenda félagsmálaráðuneytin
  10. gr. Félagsmálaráðherra setur reglur um útreikning orlofslauna launþega sem
 ekki taka laun beint frá atvinnurekanda sínum, heldur fá greitt í þjónustugjaldi
        eða á annan hátt sem er frábrugðinn venjulegum greiðslumáta launa.
- 11. gr. [Standi launagreiðandi ekki í skilum með útborgun orlofslauna skv. 7.
- eða 8. gr. vegna greiðsluerfiðleika án þess þó að bú hans hafi verið tekið til
- gjaldþrotaskipta getur launþegi eða hlutaðeigandi verkalýðsfélag í umboði hans
-         snúið sér til ábyrgðasjóðs launa, sbr. [2]lög nr. 53/1993, með
-    orlofslaunakröfuna studda gögnum um fjárhæð hennar, svo sem launaseðlum,
-      vottorði viðkomandi launagreiðanda eða löggilts endurskoðanda hans.
- Ábyrgðasjóðurinn skal þegar í stað skora á vinnuveitanda að greiða kröfuna, en
- beri það ekki árangur skal ábyrgðasjóðurinn innleysa kröfuna frá launþeganum.
-     Skal það gert innan þriggja vikna frá því að krafa launþegans á hendur
-                         ábyrgðasjóðnum var sett fram.
- Á innleysta orlofskröfu ábyrgðasjóðsins falla 7,5% viðurlög við innlausnina. Á
- kröfuna reiknast síðan mánaðarlegir dráttarvextir samkvæmt [3]vaxtalögum, nr.
-                    25/1987, fyrst 15 dögum eftir innlausn.
-   Kröfur ábyrgðasjóðsins vegna innleystrar orlofslaunakröfu eru aðfararhæfar
-  samkvæmt [4]lögum nr. 90/1989. Krafan nýtur sama réttar og krafa launþegans
-                    hefði notið í þrotabúi vinnuveitandans.
-  Ábyrgð á vangreiddu orlofi samkvæmt grein þessari, svo og kostnað af rekstri
-málaflokksins, skal fjármagna með ábyrgðargjaldi því sem innheimt er skv. [5]3.
-        gr. laga nr. 53/1993, um ábyrgðasjóð launa vegna gjaldþrota.]^1)
-                             ^1)[6]L. 127/1993, 7. gr.
+                                  11. gr. ^1)
+                             ^1)[5]L. 88/2003, 28. gr.
 12. gr. Óheimilt er manni að vinna fyrir launum í starfsgrein sinni eða skyldum
    starfsgreinum meðan hann er í orlofi og má setja um þetta nánari ákvæði í
                                    reglugerð.
 13. gr. Framsal orlofslauna og flutningur þeirra á milli orlofsára er óheimilt.
 14. gr. Kröfur á hendur vinnuveitendum samkvæmt lögum þessum fyrnast eftir sömu
-  reglum og kaupkröfur samkvæmt [7]lögum nr. 14 20. október 1905, um fyrningu
+  reglum og kaupkröfur samkvæmt [6]lögum nr. 14 20. október 1905, um fyrningu
                         skulda og annarra kröfuréttinda.
                   15. gr. Lög þessi öðlast gildi 1. maí 1988.
                             Ákvæði til bráðabirgða.
@@ -110,9 +96,8 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1987030
-   2. file://1993053.html
-   3. file://1987025.html
-   4. file://1989090.html
-   5. file://1993053.html#g3
-   6. file:///altext/stjt/1993.127.html
-   7. file://1905014.html
+   2. file:///altext/stjt/1991.092.html
+   3. file:///altext/stjt/1993.127.html
+   4. file://2003088.html
+   5. file://2003088.html#g28
+   6. file://1905014.html

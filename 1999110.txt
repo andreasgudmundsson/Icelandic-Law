@@ -1,11 +1,14 @@
 
    --------------------------------------------------------------------------
 
-                       Lög um Póst- og fjarskiptastofnun
+                      Lög um Póst- og fjarskiptastofnun^1)
 
                            1999 nr. 110 28. desember
 
    --------------------------------------------------------------------------
+
+            ^1)Falla úr gildi 25. júlí 2003 skv. [2]l. 69/2003, 17. gr.
+Tóku gildi 1. janúar 2000. Breytt með [3]l. 152/2000 (tóku gildi 29. des. 2000).
 
                             1. gr. Yfirstjórn o.fl.
  Póst- og fjarskiptastofnun hefur umsjón með framkvæmd fjarskipta- og póstmála
@@ -87,7 +90,7 @@ rekstrarleyfishafa. Póst- og fjarskiptastofnun og Samkeppnisstofnun skulu setja
                              reglur þessar birtar.
 Forstjóra Póst- og fjarskiptastofnunar er heimilt að fela öðrum hæfum aðilum að
  framkvæma einstaka þætti skoðunar sem framkvæmd er með heimild í lögum þessum.
-   ^1)[2]Rgl. 401/2001, sbr. [3]840/2001; [4]rgl. 280/2002. ^2)[5]Rg. 265/2001.
+   ^1)[4]Rgl. 401/2001, sbr. [5]840/2001; [6]rgl. 280/2002. ^2)[7]Rg. 265/2001.
                         4. gr. Eftirlit með leyfishöfum.
   Póst- og fjarskiptastofnun hefur eftirlit með starfsemi leyfishafa, þar með
  talið fjárhagsstöðu, og skal fylgjast með því að starfsemi þeirra sé í samræmi
@@ -177,7 +180,7 @@ Póst- og fjarskiptastofnun skal taka málið til umfjöllunar skv. 7. gr. innan
   leyfishöfum, uppfylli þeir ekki skilyrði sem þeim hafa verið sett eða aðrar
    kvaðir sem á þá hafa verið lagðar samkvæmt lögum um fjarskipti og lögum um
   póstþjónustu. Dagsektir nemi 50.000 til 500.000 kr. á dag. Eru slíkar sektir
-   aðfararhæfar skv. 5. tölul. 1. mgr. [6]1. gr. laga nr. 90/1989, um aðför.
+   aðfararhæfar skv. 5. tölul. 1. mgr. [8]1. gr. laga nr. 90/1989, um aðför.
 Málskot til úrskurðarnefndar fjarskipta- og póstmála frestar aðför en úrskurðir
                          nefndarinnar eru aðfararhæfir.
                 10. gr. Úrskurðarnefnd fjarskipta- og póstmála.
@@ -201,7 +204,7 @@ en slíkt mál skal höfða innan sex mánaða frá því að viðkomandi fékk 
   Um starfshætti nefndarinnar, málsmeðferð o.fl. skal mælt fyrir í reglugerð.
                             11. gr. Gjaldtaka o.fl.
      Fyrir útgáfu rekstrarleyfisbréfa og skráningu fjarskiptafyrirtækja og
-  póstrekenda greiðist gjald til ríkissjóðs samkvæmt [7]lögum nr. 88/1991, um
+  póstrekenda greiðist gjald til ríkissjóðs samkvæmt [9]lögum nr. 88/1991, um
                              aukatekjur ríkissjóðs.
 Við útgáfu rekstrarleyfa til fjarskiptaþjónustu eða reksturs fjarskiptaneta þar
  sem takmarka þarf fjölda rekstrarleyfishafa, t.d. vegna takmarkaðs tíðnisviðs
@@ -258,23 +261,25 @@ rekstrargjalds er Póst- og fjarskiptastofnun heimilt að afturkalla starfsheimi
             fjarskiptafyrirtæki, póstrekendur og rekstrarleyfishafa.
                               13. gr. Reglugerðir.
   Samgönguráðherra setur í reglugerð^1) nánari fyrirmæli um framkvæmd laganna.
-                                ^1)[8]Rg. 832/2000.
+                               ^1)[10]Rg. 832/2000.
                               14. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 2000.
      [Ákvæði til bráðabirgða. Vegna úthlutunar tíðni til starfrækslu þriðja
 rekstrarleyfishafans á GSM 900 MHz þjónustu skal heimilt að taka 16.600.000 kr.
                                    gjald.]^1)
-                             ^1)[9]L. 152/2000, 1. gr.
+                            ^1)[11]L. 152/2000, 1. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999110
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/401-2001
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/840-2001
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/280-2002
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/265-2001
-   6. file://1989090.html#g1
-   7. file://1991088.html
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/832-2000
-   9. file:///altext/stjt/2000.152.html
+   2. file://2003069.html#g17
+   3. file:///altext/stjt/2000.152.html
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/401-2001
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/840-2001
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/280-2002
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/265-2001
+   8. file://1989090.html#g1
+   9. file://1991088.html
+  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/832-2000
+  11. file:///altext/stjt/2000.152.html

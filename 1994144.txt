@@ -9,9 +9,13 @@
 
  Tóku gildi 1. janúar 1995. Breytt með [2]l. 37/1995 (tóku gildi 9. mars 1995),
   [3]l. 82/1998 (tóku gildi 1. okt. 1998), [4]l. 58/2001 (tóku gildi 13. júní
- 2001), [5]l. 133/2001 (tóku gildi í samræmi við fyrirmæli 56. gr. laganna) og
-   [6]l. 25/2002 (tóku gildi 8. apríl 2002 og komu til framkvæmda frá 1. jan.
-                                     2002).
+2001), [5]l. 133/2001 (tóku gildi 1. jan. 2002 nema 1. gr., a-, b- og c-liður 3.
+ gr., b- og c-liður 17. gr., c-liður 19. gr., 34. gr., a-liður 35. gr., b-liður
+36. gr., 37. gr., 38. gr., 39. gr., 40. gr., a-liður 41. gr., 42. gr. og 52. gr.
+  sem tók gildi 31. des. 2001 og 44. gr. sem tók gildi 1. jan. 2003; komu til
+framkvæmda skv. fyrirmælum í 56. gr.), [6]l. 25/2002 (tóku gildi 8. apríl 2002;
+ komu til framkvæmda skv. fyrirmælum í 10. gr.) og [7]l. 56/2003 (tóku gildi 7.
+                          apríl 2003, sjá þó 45. gr.).
 
                             I. kafli. Almenn ákvæði.
                          Gildissvið og skilgreiningar.
@@ -27,50 +31,61 @@ Enn fremur gilda lögin um sameignarfélög og önnur félög með ótakmarkaðr
                     samstæðureikning samkvæmt lögum þessum;
     2. félagsaðili: hluthafa í hlutafélagi og eiganda eignarhluta í öðru félagi
                             sem lög þessi taka til;
-    3. eignarhluti: hlutdeild félagsaðila í eigin fé félags sem lög þessi taka
-                                      til;
-        4. hlutdeildarfélag: félag, þó ekki dótturfélag, sem annað félag og
-dótturfélög þess eiga eignarhluta í og hafa veruleg áhrif á; félag er talið hafa
- veruleg áhrif ef það og dótturfélög þess fara með 20% eða meira af atkvæðum í
-                              hlutdeildarfélaginu;
-    5. móðurfélag: félag sem á beinan eða óbeinan hátt á svo mikinn hluta eigin
-fjár í öðru félagi að það fer með meiri hluta atkvæða í því eða það hefur vegna
-     samninga yfirráð í öðru félagi og verulega hlutdeild í afrakstri þess;
+    3. [eignarhluti: hlutdeild félagsaðila í hlutafélögum, einkahlutafélögum og
+                          eigin fé annarra félaga];^1)
+       4. [hlutdeildarfélag: félag, þó ekki dótturfélag, sem annað félag og
+dótturfélög þess eiga verulegan eignarhlut í eða hafa myndað varanleg tengsl við
+  í þeim tilgangi að hafa áhrif á rekstur þess; félag er talið eiga verulegan
+    eignarhlut ef það og dótturfélög þess eiga a.m.k. 20% eignarhlut í öðru
+                                  félagi];^1)
+                            5. [móðurfélag: félag sem:
+                    a. á meiri hluta atkvæða í öðru félagi, eða
+   b. er félagsaðili að öðru félagi og hefur rétt til að tilnefna eða víkja frá
+               meiri hluta stjórnar og framkvæmdastjórn þess, eða
+   c. er félagsaðili að öðru félagi og hefur rétt til ákvörðunarvalds um rekstur
+ og fjárhagslega stjórn þess á grundvelli samþykkta félagsins eða samninga við
+                                    það, eða
+    d. er félagsaðili að öðru félagi og ræður yfir meiri hluta atkvæða í því á
+                   grundvelli samnings við aðra hluthafa, eða
+        e. á eignarhlut í öðru félagi og hefur ákvörðunarvald um rekstur og
+                         fjárhagslega stjórn þess];^1)
     6. dótturfélag: félag sem er undir yfirráðum annars félags á þann hátt sem
                               lýst er í 5. tölul.;
-                7. félagasamstæða: móðurfélag og dótturfélög þess;
+                 7. [samstæða: móðurfélag og dótturfélög þess];^1)
       8. samstæðureikningur: reikningsskil þar sem reikningar móðurfélags og
                     dótturfélaga þess eru sameinaðir í eitt;
    9. [ársreikningaskrá: skrá sem starfrækt er í því skyni að taka á móti, geyma
-                 og birta ársreikninga skilaskyldra félaga.]^1)
- Þegar talið er saman atkvæðamagn félags í öðru félagi skal bæði telja atkvæði
-     sem félagið sjálft fer með og atkvæði dótturfélaga þess hlutfallslega.
-   Eigin hlutir félags og hlutir, sem dótturfélag á í móðurfélagi, skulu ekki
-         taldir með þegar talin eru saman atkvæði félags í dóttur- eða
-                              hlutdeildarfélögum.
-                             ^1)[7]L. 58/2001, 1. gr.
+                 og birta ársreikninga skilaskyldra félaga.]^2)
+   [Við útreikning á atkvæðamagni í dótturfélögum og hlutdeildarfélögum skal:
+   a. leggja saman atkvæðamagn móðurfélags og dótturfélaga í viðkomandi félagi,
+    b. draga frá heildaratkvæðamagninu í viðkomandi félagi atkvæðamagn sem er í
+                  höndum þess sjálfs eða dótturfélaga þess og
+    c. draga frá atkvæðamagni móðurfélagsins það atkvæðamagn sem það hefur til
+  tryggingar ef félagið beitir aðeins atkvæðisréttinum í samræmi við fyrirmæli
+    þess sem setti trygginguna, eða ef umráðin eru liður í lánastarfsemi og
+    atkvæðisréttinum er aðeins beitt í þágu þess sem setti trygginguna.]^1)
+                 ^1)[8]L. 56/2003, 1. gr. ^2)[9]L. 58/2001, 1. gr.
 2. gr. Lög þessi gilda um sameignarfélög og önnur félög með ótakmarkaðri ábyrgð
 félagsaðila, svo og samlagsfélög, ef félagsaðilar þeirra eru eingöngu félög sem
                       talin eru í 1. málsl. 1. mgr. 1. gr.
  Enn fremur gilda lög þessi um sameignarfélög, og önnur félög með ótakmarkaðri
   ábyrgð félagsaðila, svo og samlagsfélög, ef félögin fara fram úr tvennum af
                     eftirfarandi stærðarmörkum tvö ár í röð:
-                  1. eignir nema samtals a.m.k. 200.000.000 kr.;
-                  2. rekstrartekjur nema a.m.k. 400.000.000 kr.;
-                3. fjöldi ársverka á reikningsári nemur a.m.k. 50.
+                         [1. eignir nema 200.000.000 kr.;
+                      2. rekstrartekjur nema 400.000.000 kr.;
+                   3. fjöldi ársverka á reikningsári er 50.]^1)
  Ef félag skv. 2. mgr., sem uppfyllt hefur ofangreind skilyrði, gerir það ekki
      lengur tvö ár í röð er því ekki skylt að fara að ákvæðum laga þessara.
   Sameignarfélögum og samlagsfélögum, sem um ræðir í 1. mgr., er ekki skylt að
    semja ársreikninga ef allar tekjur og gjöld, eignir og skuldir þeirra eru
                    meðtaldar í ársreikningum félagsaðilanna.
+                             ^1)[10]L. 56/2003, 2. gr.
                                Gerð ársreikninga.
 3. gr. Stjórn og framkvæmdastjóri skulu á hverju reikningsári semja ársreikning
-         og skal hann hafa að geyma rekstrarreikning, efnahagsreikning,
-  fjárstreymisyfirlit og skýringar. Í félögum, sem hafa ekki formlega stjórn,
- hvílir þessi skylda á öllum félagsaðilum sameiginlega. Í móðurfélögum skal enn
-     fremur semja samstæðureikning er skal hafa að geyma rekstrarreikning,
-efnahagsreikning, fjárstreymisyfirlit og skýringar. Jafnframt skal samin skýrsla
-     stjórnar fyrir liðið starfsár. Ársreikningurinn skal mynda eina heild.
+og skal hann hafa að geyma rekstrarreikning, efnahagsreikning, [sjóðstreymi]^1)
+ og skýringar. Í félögum, sem hafa ekki formlega stjórn, hvílir þessi skylda á
+öllum félagsaðilum sameiginlega. ^1) Jafnframt skal samin skýrsla stjórnar fyrir
+            liðið starfsár. Ársreikningurinn skal mynda eina heild.
 Félagsstjórn og framkvæmdastjóri skulu undirrita ársreikninginn og eftir atvikum
  samstæðureikninginn. Ef stjórnarmaður eða framkvæmdastjóri telur að ekki skuli
  samþykkja ársreikninginn eða samstæðureikninginn, eða hann hefur mótbárur fram
@@ -78,79 +93,34 @@ Félagsstjórn og framkvæmdastjóri skulu undirrita ársreikninginn og eftir at
                         grein fyrir því í áritun sinni.
       Ársreikningur með undirritun stjórnenda og áritun endurskoðenda eða
        skoðunarmanna skal lagður fram í síðasta lagi viku fyrir aðalfund.
-    4. gr. Hafi verðbréf félags ekki verið tekin til opinberrar skráningar á
-  verðbréfaþingi í ríki sem er aðili að samningnum um Evrópska efnahagssvæðið
-           (EES-ríki) þarf félagið ekki að semja samstæðureikning ef:
-                              1. það er dótturfélag;
-           2. ársreikningur þess og allra dótturfélaga þess er hluti af
-           samstæðureikningi móðurfélags sem lýtur löggjöf EES-ríkis;
-     3. stjórn félagsins hefur ekki sex mánuðum fyrir lok reikningsárs borist
- krafa frá félagsaðilum, sem eiga a.m.k. 10% af eigin fé félagsins, um að láta
-                            semja samstæðureikning;
-          4. félagið sendir [ársreikningaskrá]^1) ársreikning sinn ásamt
-samstæðureikningi, sbr. 2. tölul., svo og upplýsingar sem greinir í 1. málsl. 2.
-                                    mgr. og
-     5. félagið gerir grein fyrir því í skýringum í ársreikningi að með stoð í
-   þessari grein hafi það ekki samið samstæðureikning og skýrir frá nafni og
-                   lögheimili móðurfélagsins, sbr. 2. tölul.
-    [Ársreikningaskrá]^1) getur krafist þess að látnar verði í té sams konar
-  upplýsingar um samstæðureikninga sem tilgreindir eru í 2. tölul. 1. mgr. og
- hefðu átt að fylgja samstæðureikningi félagsins sjálfs samkvæmt lögum þessum.
-      [Ársreikningaskrá]^1) getur enn fremur krafist íslenskrar þýðingar á
-                              samstæðureikningnum.
-                             ^1)[8]L. 58/2001, 2. gr.
-            5. gr. Halda má dótturfélagi utan samstæðureiknings ef:
-    1. það hefur óverulega þýðingu fyrir rekstur eða efnahag félagasamstæðunnar
-                               vegna smæðar þess;
-      2. stjórnun þess er ekki lengur í höndum eigenda þess eða verulegar og
-varanlegar hindranir eru á að félag geti nýtt eignarhluta sinn í dótturfélaginu
-                        eða haft áhrif á stjórnun þess;
-     3. ekki er unnt að afla nauðsynlegra upplýsinga tímanlega og án óeðlilegs
-                                 kostnaðar; eða
-              4. eignarhluti í því er eingöngu ætlaður til endursölu.
-    Þrátt fyrir ákvæði 1. tölul. 1. mgr. skulu félög, sem hvert um sig hafa
- óverulega þýðingu, innifalin í samstæðureikningi ef þau hafa verulega þýðingu
-                                   samanlagt.
-Ef starfsemi dótturfélags er svo ólík starfsemi móðurfélags að það gæfi villandi
-  mynd af félagasamstæðunni að innifela það í samstæðureikningi skal halda því
- utan við hann. Eignarhluti móðurfélagsins í dótturfélaginu skal þá færður til
-                       eignar samkvæmt hlutdeildaraðferð.
-  Sé dótturfélagi haldið utan samstæðureiknings skv. 1. eða 3. mgr. skal gerð
-                          grein fyrir því í skýringum.
-6. gr. Móðurfélag þarf ekki að semja samstæðureikning ef hvorki verðbréf þess né
-dótturfélaga þess hafa verið tekin til opinberrar skráningar á verðbréfaþingi í
- EES-ríki og félagasamstæðan fer ekki fram úr tveimur af eftirfarandi stærðum á
-                              reikningsskiladegi:
-                      1. eignir nema a.m.k. 200.000.000 kr.;
-                  2. rekstrartekjur nema a.m.k. 400.000.000 kr.;
-                  3. fjöldi ársverka á reikningsári er a.m.k. 50.
-  Heimildin til að beita ákvæði 1. mgr. breytist því aðeins að félagasamstæðan
-hafi farið fram úr eða fari ekki lengur fram úr tveimur af stærðunum þremur tvö
-                               reikningsár í röð.
-  7. gr. Ef félag, sem skv. 4. eða 6. gr. þarf ekki að semja samstæðureikning,
-   semur samt slíkan reikning skal það gert samkvæmt ákvæðum laga þessara um
-                   samstæðureikninga að undanskilinni 69. gr.
+                             ^1)[11]L. 56/2003, 3. gr.
+                                 4.7. gr. ^1)
+                             ^1)[12]L. 56/2003, 4. gr.
 8. gr. Reikningsárið skal vera tólf mánuðir. Við upphaf rekstrar eða breytingu á
 reikningsári getur tímabilið verið skemmra eða lengra, þó aldrei lengra en átján
 mánuðir. Reikningsári verður því aðeins breytt síðar að sérstakar aðstæður gefi
         tilefni til. Breytingin skal tilgreind og rökstudd í skýringum.
-Félög í sömu félagasamstæðu skulu hafa sama reikningsár nema sérstakar aðstæður
-                            gefi tilefni til annars.
-  9. gr. Ársreikningar og samstæðureikningar skulu gerðir í samræmi við lög og
-góða reikningsskilavenju og gefa glögga mynd af rekstrarafkomu á reikningsárinu
-                             og efnahag í lok þess.
-Ef ákvæði laga eða góð reikningsskilavenja nægja ekki til að gefa glögga mynd af
-     rekstrarafkomu og efnahag skal veita frekari upplýsingar í skýringum.
+                                      ^1)
+                             ^1)[13]L. 56/2003, 5. gr.
+9. gr. [Ársreikningar skulu gerðir í samræmi við lög og góða reikningsskilavenju
+       og gefa glögga mynd af afkomu, efnahag og breytingu á handbæru fé.
+    Ef ákvæði laga nægja ekki til að gefa glögga mynd af afkomu, efnahag og
+breytingu á handbæru fé skal vikið frá þeim í undantekningartilvikum til þess að
+reikningurinn gefi glögga mynd í skilningi 1. mgr. Í skýringum með ársreikningi
+skal greina frá slíkum frávikum ásamt ástæðum fyrir þeim og hvaða áhrif þau hafa
+                            á afkomu og efnahag.]^1)
+                             ^1)[14]L. 56/2003, 6. gr.
  10. gr. Efnahagsreikning og rekstrarreikning skal setja upp með kerfisbundnum
     hætti. Fjármálaráðherra setur reglur um uppsetningu efnahagsreikninga og
                                rekstrarreikninga.
  Efnahagsreikningur og rekstrarreikningur skulu settir upp með hliðstæðum hætti
   frá ári til árs nema sérstakar aðstæður gefi tilefni til annars. Breytingar
                   skulu tilgreindar og rökstuddar í skýringum.
-     Víkja má frá ákvæðum laga þessara um uppsetningu efnahagsreiknings eða
+ Víkja [skal]^1) frá ákvæðum laga þessara um uppsetningu efnahagsreiknings eða
 rekstrarreiknings ef þau leiða til þess að ársreikningur eða samstæðureikningur
     gefur villandi eða óskýra mynd af rekstrarafkomu eða efnahag félags eða
-                                félagasamstæðu.
+                                 [samstæðu].^1)
+                             ^1)[15]L. 56/2003, 7. gr.
  11. gr. Í ársreikningum og samstæðureikningum, sem samdir eru samkvæmt ákvæðum
          laga þessara, skulu fjárhæðir tilgreindar í íslenskum krónum.
 [Þrátt fyrir ákvæði 1. mgr. geta félög, sbr. 1. mgr. 1. gr., fengið heimild til
@@ -162,12 +132,12 @@ að færa bókhaldsbækur í erlendum gjaldmiðli og semja og birta ársreikning
    Ef getið er tölulegra upplýsinga í ársreikningum eða samstæðureikningum í
    annarri mynt en hinni upphaflegu skal það gert á því gengi sem við átti á
          reikningsskiladegi. Tilgreina skal það gengi sem við er miðað.
-                             ^1)[9]L. 25/2002, 4. gr.
+                             ^1)[16]L. 25/2002, 4. gr.
   [11. gr. A. Ársreikningaskrá veitir heimild til færslu bókhalds og samningar
      ársreiknings í erlendum gjaldmiðli. Félög sem uppfylla eitt eða fleiri
                eftirtalinna skilyrða geta sótt um slíka heimild:
      1. Félög sem eru með meginstarfsemi sína erlendis eða eru hluti erlendrar
-    félagasamstæðu þar sem starfrækslugjaldmiðill er annar en íslensk króna.
+    [samstæðu]^1) þar sem starfrækslugjaldmiðill er annar en íslensk króna.
      2. Félög sem eiga erlend dótturfélög eða hlutdeild í erlendum félögum og
                       meginviðskipti eru við þessi félög.
    3. Félög sem hafa meginstarfsemi sína hér á landi en eru með verulegan hluta
@@ -175,16 +145,18 @@ að færa bókhaldsbækur í erlendum gjaldmiðli og semja og birta ársreikning
            starfrækslugjaldmiðill samkvæmt góðri reikningsskilavenju.
     4. Félög sem hafa verulegan hluta fjárfestinga sinna og skulda þeim tengdra
   skráðan í erlendum gjaldmiðlum, enda fari þau fram úr þeim stærðarmörkum sem
-                         tilgreind eru í 1. mgr. 6. gr.
+                      tilgreind eru í [2. mgr. 2. gr.]^1)
   Starfrækslugjaldmiðill er sá gjaldmiðill sem meginhluti viðskipta félags eða
-    félagasamstæðu fer fram í. Starfrækslugjaldmiðill skal vera skráður hjá
+     [samstæðu]^1) fer fram í. Starfrækslugjaldmiðill skal vera skráður hjá
           Seðlabanka Íslands eða viðskiptabanka félagsins hér á landi.
    Ráðherra getur sett reglugerð um nánari skilyrði fyrir veitingu heimildar
-                          samkvæmt þessari grein.]^1)
-                             ^1)[10]L. 25/2002, 5. gr.
+                          samkvæmt þessari grein.]^2)
+                ^1)[17]L. 56/2003, 8. gr. ^2)[18]L. 25/2002, 5. gr.
  [11. gr. B. Umsókn um heimild til færslu bókhalds og samningar ársreiknings í
  erlendum gjaldmiðli skal berast ársreikningaskrá tveimur mánuðum fyrir upphaf
-                            viðkomandi reikningsárs.
+viðkomandi reikningsárs. [Félög sem stofnuð eru á árinu skulu leggja fram umsókn
+  eigi síðar en tveimur mánuðum eftir stofnun þeirra ásamt rökstuðningi um að
+              starfsemi þeirra muni uppfylla ákvæði 11. gr. A.]^1)
  Félag sem fengið hefur heimild til færslu bókhalds og samningar ársreiknings í
    erlendum gjaldmiðli skv. 2. mgr. 11. gr. skal viðhalda þeirri aðferð í að
     minnsta kosti fimm ár nema það uppfylli ekki lengur skilyrði 11. gr. A.
@@ -197,8 +169,8 @@ að færa bókhaldsbækur í erlendum gjaldmiðli og semja og birta ársreikning
 Uppfylli félag ekki skilyrði 11. gr. A skal ársreikningaskrá afturkalla heimild
  til færslu bókhalds og samningar ársreiknings í erlendum gjaldmiðli við upphaf
 næsta reikningsárs. Ársreikningaskrá getur veitt félagi frest í tvö reikningsár
-                       telji hún ástandið tímabundið.]^1)
-                             ^1)[11]L. 25/2002, 5. gr.
+                       telji hún ástandið tímabundið.]^2)
+                ^1)[19]L. 56/2003, 9. gr. ^2)[20]L. 25/2002, 5. gr.
  12. gr. Óheimilt er að fella saman eignir og skuldir eða tekjur og gjöld innan
                                 einstakra liða.
 
@@ -224,9 +196,11 @@ verulegum fjárhæðum skulu þeir sýndir sérstaklega eða þeirra getið í s
 16. gr. Færa skal til gjalda og skuldar fjárhæðir sem ætlað er að mæta útgjöldum
  vegna skýrt skilgreindra skuldbindinga sem varða reikningsárið eða fyrri ár og
  eru sennilega eða örugglega áfallnar á reikningsskiladegi en óvissar að því er
-               fjárhæð varðar eða hvenær þær falla til greiðslu.
- Skuldbindingum skv. 1. mgr. má eigi jafna á móti eignum og skulu þær ekki nema
-                    hærri fjárhæðum en nauðsynlegt er talið.
+  fjárhæð varðar eða hvenær þær falla til greiðslu. [Þær skulu ekki nema hærri
+                      fjárhæð en nauðsynlegt er talið.]^1)
+[Skuldbindingar skv. 1. mgr. má eigi nota til matsbreytinga á eignum eða jafna á
+                                móti eignum.]^1)
+                            ^1)[21]L. 56/2003, 10. gr.
        17. gr. Gerð skal grein fyrir ráðstöfun hagnaðar eða jöfnun taps á
              reikningsárinu í ársreikningi eða skýringum með honum.
     18. gr. Hrein velta samanstendur af tekjum af sölu á vörum og þjónustu í
@@ -234,8 +208,12 @@ verulegum fjárhæðum skulu þeir sýndir sérstaklega eða þeirra getið í s
                                      beint.
    19. gr. Tekjur og gjöld, sem tengjast ekki reglulegri starfsemi, skal sýna
  sérstaklega í rekstrarreikningi og greina frá eðli þeirra í skýringum nema um
- óverulegar fjárhæðir sé að ræða. Sama á við um tekjur og gjöld sem varða önnur
-                                  reikningsár.
+ óverulegar fjárhæðir sé að ræða. [Tekjur og gjöld sem varða fyrri reikningsár
+  skulu færast til breytinga á óráðstöfuðu eigin fé í ársbyrjun þegar um er að
+ræða skekkju eða breytingu á reikningsskilaaðferð. Samanburðarfjárhæðum skal þá
+   breytt til samræmis nema það sé bundið sérstökum vandkvæðum og skal það þá
+                            upplýst í skýringum.]^1)
+                            ^1)[22]L. 56/2003, 11. gr.
 
                             III. kafli. Matsreglur.
   20. gr. Eftirfarandi almennar reglur eiga við um einstaka liði ársreiknings:
@@ -247,8 +225,9 @@ verulegum fjárhæðum skulu þeir sýndir sérstaklega eða þeirra getið í s
     b. taka tillit til allra fyrirsjáanlegra skuldbindinga og tapa sem myndast
   kunna á reikningsárinu eða vegna fyrri reikningsára, jafnvel þótt slíkt komi
    fyrst í ljós eftir lok reikningsárs en áður en ársreikningur er saminn og
-     c. gjaldfæra alla verðmætisrýrnun hvort heldur sem hagnaður eða tap er á
-                                  rekstrinum.
+     c. [sýna í reikningsskilum allar matsbreytingar sem taka til skerðingar á
+ verðgildi einstakra eigna, sbr. 24. gr., hvort sem skerðingin er varanleg eða
+                                   ekki].^1)
       4. Tekjur og gjöld, sem varða reikningsárið, skal færa í ársreikning án
                        tillits til þess hvenær greitt er.
     5. Einstaka þætti eigna- og skuldaliða skal meta til verðs hvern fyrir sig.
@@ -257,33 +236,32 @@ verulegum fjárhæðum skulu þeir sýndir sérstaklega eða þeirra getið í s
 Í undantekningartilvikum má víkja frá ákvæðum 1. mgr. Skal þá geta um frávikin í
    skýringum í ársreikningi og tilgreina ástæður þeirra, svo og mat á áhrifum
                   þeirra á eignir og skuldir, tekjur og gjöld.
+                            ^1)[23]L. 56/2003, 12. gr.
  21. gr. Ef vikið er frá 2. tölul. 1. mgr. 20. gr. skal hinni nýju aðferð beitt
   við allt það reikningsár þegar breytingin var gerð. Í skýringum skal geta um
  heildaráhrif breytingarinnar á fjárhagsstöðu og afkomu félagsins ef breytingin
                                   er veruleg.
        22. gr. Fastafjármuni skal eigi meta til eignar við hærra verði en
-                kostnaðarverði eða framreiknuðu kostnaðarverði.
+               kostnaðarverði, [sbr. þó ákvæði 25. og 35. gr.]^1)
  Kostnaðarverð varanlegra rekstrarfjármuna samanstendur af kaupverði þeirra og
 þeim kostnaði sem hlýst af öflun og endurbótum á þeim fram til þess tíma að þeir
                               eru teknir í notkun.
       Framleiðslukostnaðarverð varanlegra rekstrarfjármuna samanstendur af
      kostnaðarverði hráefnis og hjálparefna, svo og vinnuafls að viðbættum
-   kostnaðarauka sem beint eða óbeint leiðir af framleiðslu fjármunanna. Til
-  kostnaðarverðs má enn fremur telja eðlilegt hlutfall af útgjöldum sem óbeint
-     tengjast framleiðslunni enda hafi þau fallið til á framleiðslutímanum.
+   kostnaðarauka sem beint eða óbeint leiðir af framleiðslu fjármunanna. ^1)
  Til kostnaðarverðs má enn fremur telja fjármagnskostnað af lánsfé sem nýtt er
       til að fjármagna kaup eða framleiðslu varanlegra rekstrarfjármuna á
   framleiðslutímanum. Ef fjármagnskostnaður er talinn til kostnaðarverðs skal
                           greint frá því í skýringum.
         Eignarleigusamningar skulu í samræmi við samningsákvæði og góða
 reikningsskilavenju færðir í efnahagsreikning ef þeir nema verulegum fjárhæðum.
+                            ^1)[24]L. 56/2003, 13. gr.
 23. gr. Varanlegir rekstrarfjármunir, sem nýtast takmarkaðan tíma vegna aldurs,
     úreldingar, slits eða af hliðstæðum ástæðum, skulu afskrifaðir árlega á
    kerfisbundinn hátt á áætluðum endingartíma þeirra. Ef þessir fjármunir eru
-   endurmetnir samkvæmt ákvæðum 25. gr. ber að reikna afskriftir af [hækkuðu
-            bókfærðu verði]^1) þeirra eins og það er á hverjum tíma.
-    ^1)[12]L. 133/2001, 50. gr. Breytingin kemur til framkvæmda við álagningu á
-                       árinu 2003, sbr. [13]56. gr. s.l.
+endurmetnir samkvæmt ákvæðum 25. gr. ber að [hækka afskriftarstofn þeirra um þá
+                              endurmatshækkun].^1)
+                            ^1)[25]L. 56/2003, 14. gr.
 24. gr. Ef raunvirði fastafjármuna er lægra en bókfært verð þeirra skv. 22. eða
  23. gr. og ástæður þess verða ekki taldar skammvinnar ber að færa verð þeirra
          niður að því marki sem telja verður nauðsynlegt samkvæmt góðri
@@ -304,29 +282,32 @@ framreiknað kostnaðarverð þeirra af ástæðum sem taldar eru varanlegar er 
                   að hækka bókfært verð þeirra í ársreikningi.
 Matsbreytingar skv. 1. mgr. skal færa á sérstakan endurmatsreikning meðal eigin
                                      fjár.
-  Endurmatsreikning, sem myndaður er skv. 2. mgr., má aðeins leysa upp ef hin
-endurmetna eign er seld, tekin úr notkun eða fullafskrifuð, svo og ef forsendur
-                 fyrir endurmatinu eru ekki lengur fyrir hendi.
+ [Endurmatsreikning, sem myndaður er skv. 2. mgr., skal leysa upp til jafns við
+  fjárhæð árlegrar afskriftar af mismun á endurmetnu verði og kostnaðarverði.
+Einnig skal leysa upp endurmatsreikning ef hin endurmetna eign er seld, tekin úr
+notkun eða fullafskrifuð, svo og ef forsendur fyrir endurmatinu eru ekki lengur
+                                fyrir hendi.]^1)
  Hreyfingar á endurmatsreikningi á reikningsárinu skal sundurliða í skýringum.
    Ef beitt er ákvæðum 1. mgr. skal í skýringum gera nákvæma grein fyrir þeim
-                        aðferðum sem viðhafðar eru.]^1)
-    ^1)[14]L. 133/2001, 51. gr. Breytingin kemur til framkvæmda við álagningu á
-                       árinu 2003, sbr. [15]56. gr. s.l.
+                        aðferðum sem viðhafðar eru.]^2)
+    ^1)[26]L. 56/2003, 15. gr. ^2)[27]L. 133/2001, 51. gr. Breytingin kemur til
+          framkvæmda við álagningu á árinu 2003, sbr. [28]56. gr. s.l.
        26. gr. Veltufjármuni skal ekki færa til eignar við hærra verði en
                  kostnaðarverði eða raunvirði ef það er lægra.
    Kostnaðarverð veltufjármuna samanstendur af kaupverði og þeim kostnaði sem
   tengist beint öflun þeirra. Til kostnaðarverðs má enn fremur telja eðlilegt
  hlutfall af útgjöldum sem tengjast öfluninni óbeint enda hafi útgjöldin fallið
       til á sama tímabili og eignanna var aflað eða þær voru framleiddar.
-27. gr. Kostnaðarverð vörubirgða er heimilt að ákvarða sem vegið meðalverð allra
-     birgða af sama tagi á grundvelli síðasta innkaupsverðs eða með annarri
-   viðurkenndri aðferð. Vörubirgðir skulu þó aldrei metnar við hærra verði en
-                                   dagverði.
-Ef vörubirgðir eru metnar við dagverði og það er verulega lægra en kostnaðarverð
-                     skal gera grein fyrir því í skýringum.
-  Um framleiðslukostnaðarverð vörubirgða gilda hliðstæðar reglur og getur í 3.
-     mgr. 22. gr. Dreifingarkostnað má ekki telja til framleiðslukostnaðar
-                                  vörubirgða.
+   27. gr. [Birgðir skal meta á kostnaðarverði eða dagverði, hvort sem lægra
+                                  reynist.]^1)
+      Ef [birgðir]^1) eru metnar við dagverði og það er verulega lægra en
+              kostnaðarverð skal gera grein fyrir því í skýringum.
+ [Kostnaðarverð birgða tekur til alls kostnaðar við kaup á birgðum eða áfallins
+   kostnaðar við framleiðslu þeirra, sbr. 3. mgr. 22. gr. Auk þess telst til
+kostnaðarverðs birgða allur kostnaður við að koma þeim á núverandi stað og í það
+     ástand sem þær eru. Dreifingarkostnað má ekki telja til kostnaðarverðs
+                                  birgða.]^1)
+                            ^1)[29]L. 56/2003, 16. gr.
 28. gr. Skammtímakröfur skulu sæta niðurfærslu ef þess gerist sérstök þörf, svo
  sem vegna hættu á að þær muni ekki innheimtast eða af öðrum ástæðum. Ákvæði 3.
      mgr. og 1. málsl. 4. mgr. 24. gr. gilda um þetta eftir því sem við á.
@@ -335,11 +316,12 @@ Ef vörubirgðir eru metnar við dagverði og það er verulega lægra en kostna
                               fyrir ákvæði 26. gr.
               Tilgreina skal í skýringum ef þessu ákvæði er beitt.
 30. gr. Kostnað við stofnun félags eða hækkun hlutafjár má ekki færa til eignar.
- 31. gr. Ef kostnaður vegna óefnislegra réttinda, rannsókna eða þróunar er ekki
-    gjaldfærður strax skal afskrifa hann með kerfisbundnum hætti á tilteknu
-                 tímabili, þó ekki á lengri tíma en fimm árum.
-   Afskriftatímann má þó lengja fram yfir fimm ár enda sé hann ekki lengri en
-nýtingartími viðkomandi eignar. Gera skal grein fyrir ástæðum þessa í skýringum.
+31. gr. [Ef kostnaður vegna óefnislegra réttinda, rannsókna eða þróunar er ekki
+    gjaldfærður strax skal afskrifa hann með kerfisbundnum hætti á áætluðum
+        nýtingartíma viðkomandi eigna, þó ekki á lengri tíma en 20 árum.
+Sé áætlaður nýtingartími lengri en fimm ár skal gera grein fyrir ástæðum þess í
+                                 skýringum.]^1)
+                            ^1)[30]L. 56/2003, 17. gr.
   32. gr. Afföll og lántökukostnað af seldum eða keyptum verðbréfum má færa í
      efnahagsreikning og skal þá gerð grein fyrir þeim þar eða í skýringum.
      Afföllin skulu færð til gjalda eða til tekna með reglubundnum hætti á
@@ -350,20 +332,25 @@ nýtingartími viðkomandi eignar. Gera skal grein fyrir ástæðum þessa í sk
  34. gr. Eigin hlutir skulu færðir til lækkunar á heildarhlutafé. Þó er heimilt
 að færa eigin hluti, sem keyptir hafa verið á síðustu tveimur reikningsárum, til
      eignar enda hafi þeirra verið aflað í þeim tilgangi að selja þá aftur.
-   35. gr. Í stað þess að færa eignarhluta sinn í dótturfélagi til eignar við
-     kostnaðarverði í samræmi við ákvæði þessa kafla getur móðurfélag fært
-eignarhlutann samkvæmt hlutdeildaraðferð í samræmi við hlutdeild sína í eigin fé
- dótturfélagsins. Mismunur á upphaflegu kaupverði eignarhlutans annars vegar og
-  hlutdeildar í eigin fé dótturfélagsins á kaupdegi hins vegar skal enn fremur
-           hafa áhrif á bókfært verð fjárfestingar í dótturfélaginu.
-  Einnig er heimilt að beita hlutdeildaraðferð við eignfærslu á eignarhlutum í
-                              hlutdeildarfélögum.
+35. gr. [Móðurfélag skal færa eignarhlut sinn í dótturfélagi til eignar samkvæmt
+hlutdeildaraðferð í samræmi við hlutdeild sína í eigin fé dótturfélagsins. Þó er
+ heimilt að styðjast við kostnaðarverð þegar heimilt er að halda dótturfélögum
+ utan samstæðureiknings, sbr. ákvæði 53. gr. C. Mismunur á upphaflegu kaupverði
+eignarhlutans annars vegar og hlutdeildar í eigin fé dótturfélagsins á kaupdegi
+      hins vegar skal enn fremur hafa áhrif á bókfært verð fjárfestingar í
+                                dótturfélaginu.
+      Einnig skal beita hlutdeildaraðferð við eignfærslu á eignarhlutum í
+ hlutdeildarfélögum. Þó er heimilt að styðjast við kostnaðarverð að uppfylltum
+                              skilyrðum 53. gr. C.
+Nú rekur félag starfsemi í sameign með einu eða fleiri félögum og skal þá beita
+         hlutdeildaraðferð vegna samrekstrarins, sbr. þó 53. gr. C.]^1)
+                            ^1)[31]L. 56/2003, 18. gr.
 
                              IV. kafli. Skýringar.
-   36. gr. Í skýringum í ársreikningi eða í skýrslu stjórnar, ef hún er hluti
- ársreiknings, skal a.m.k. veita upplýsingar um þau atriði sem tilgreind eru í
- 37.51. gr., auk þeirra upplýsinga sem krafist er samkvæmt öðrum ákvæðum laga
-                                    þessara.
+  36. gr. Í skýringum í ársreikningi ^1) skal a.m.k. veita upplýsingar um þau
+  atriði sem tilgreind eru í 37.51. gr., auk þeirra upplýsinga sem krafist er
+                      samkvæmt öðrum ákvæðum laga þessara.
+                            ^1)[32]L. 56/2003, 19. gr.
   37. gr. Veita skal upplýsingar um mat á einstökum liðum ársreiknings, þar á
   meðal þær aðferðir sem beitt er við endurmat og afskriftir fastafjármuna. Ef
 fjárhæðir í ársreikningi eru byggðar á erlendum gjaldmiðli á reikningsskiladegi
@@ -401,7 +388,7 @@ hvers láns, skiptihlutfall og frest þann sem veittur hefur verið til breyting
                 vegna þess hluta sem fellur til greiðslu síðar.
 Hafi félag sett eignir að veði skal veita upplýsingar um fjárhæð veðsetninganna
  og bókfært verð veðsettra eigna, sundurliðað eftir eignum. Heildartryggingar í
-þágu dótturfélaga og annarra félaga innan sömu félagasamstæðu skulu tilgreindar
+ þágu dótturfélaga og annarra félaga innan sömu [samstæðu]^1) skulu tilgreindar
                                   sérstaklega.
        Veita skal upplýsingar um heildarfjárhæðir lífeyris-, ábyrgðar- og
 tryggingarskuldbindinga, seld viðskiptabréf og aðrar fjárskuldbindingar sem eru
@@ -409,6 +396,7 @@ ekki tilfærðar í efnahagsreikningi, að því leyti sem það skiptir máli v
   fjárhagsstöðu. Hafi félagið gert leigusamninga sem nema verulegum fjárhæðum
   skulu slíkar skuldbindingar tilgreindar sérstaklega. Skuldbindingar gagnvart
          móðurfélagi og dótturfélögum þess skal tilgreina sérstaklega.
+                            ^1)[33]L. 56/2003, 20. gr.
     43. gr. Tilgreina skal fjárhæðir lána, svo og veðsetningar, ábyrgðir og
    tryggingar sem veittar hafa verið félagsaðilum eða stjórnendum félags eða
   móðurfélags þess vegna tengsla þessara aðila við félögin, sundurliðað ásamt
@@ -417,10 +405,14 @@ ekki tilfærðar í efnahagsreikningi, að því leyti sem það skiptir máli v
                                   eru taldir.
       44. gr. Upplýsa skal um síðasta opinbert fasteignamat. Sama á við um
                vátryggingarverðmæti varanlegra rekstrarfjármuna.
- 45. gr. Ef hluti af áætluðum hagnaði af langtímaverkefni er innleystur áður en
-     því er að fullu lokið skal þess getið í skýringum og gerð grein fyrir
-   matsreglum. Ef hagnaður af slíku verkefni er ekki tekjufærður fyrr en við
-                 verklok skal gera grein fyrir því í skýringum.
+   45. gr. [Áætlaður hagnaður af samningi um langtímaverkefni skal innleystur
+     hlutfallslega eftir því sem verkefninu miðar. Áætlað tap á samningi um
+                     langtímaverkefni skal gjaldfært strax.
+  Þegar ekki er hægt að áætla hagnað eða tap á samningi um langtímaverkefni af
+nægilegri nákvæmni skulu tekjur af samningnum aðeins innleystar að því marki sem
+ þær standa undir kostnaði við verkefnið. Kostnaður skal gjaldfærður þegar hann
+                                fellur til.]^1)
+                            ^1)[34]L. 56/2003, 21. gr.
      46. gr. Upplýsa skal um skiptingu rekstrartekna eftir starfsþáttum og
 markaðssvæðum ef þessir þættir og svæði hafa veruleg áhrif í rekstri félagsins.
 Ákvæði 1. mgr. á ekki við um félög sem falla undir 1. mgr. 77. gr. Þá má sleppa
@@ -429,14 +421,14 @@ markaðssvæðum ef þessir þættir og svæði hafa veruleg áhrif í rekstri f
 47. gr. Upplýsa skal um heildarfjárhæð skatta vegna rekstrar á árinu og eigna í
                                    lok þess.
          Upplýsa skal um skattaleg áhrif af óreglulegum rekstrarliðum.
-Upplýsa skal um frestaða skattskuldbindingu vegna mismunar á gjaldfærðum sköttum
-  á reikningsárinu og fyrri árum annars vegar og þeim sköttum sem álagðir eru
-vegna sömu ára hins vegar nema þessar upplýsingar hafi óverulega þýðingu. Einnig
-       má tilfæra fjárhæðina sem sérstakan skuldalið í efnahagsreikningi.
-   Leiði sala á eignum félags við bókfærðu verði til skattlagningar umfram þá
-fjárhæð sem tilgreind er í 3. mgr. skal greina frá því ef fjárhæðin er veruleg.
-  Upplýsingar skv. 3. og 4. mgr. skulu bera með sér á hvaða liðum ársreiknings
+Upplýsa skal um frestaða skattskuldbindingu [eða skattinneign]^1) vegna mismunar
+   á gjaldfærðum sköttum á reikningsárinu og fyrri árum annars vegar og þeim
+ sköttum sem álagðir eru vegna sömu ára hins vegar nema þessar upplýsingar hafi
+                             óverulega þýðingu. ^1)
+                                      ^1)
+   Upplýsingar skv. 3. ^1) mgr. skulu bera með sér á hvaða liðum ársreiknings
                               skattkvöðin hvílir.
+                            ^1)[35]L. 56/2003, 22. gr.
 48. gr. Upplýsa skal um fjölda starfsmanna að meðaltali á reikningsári. Þá skulu
  laun og launatengd gjöld sundurliðuð ef það er ekki gert í rekstrarreikningi.
   Veita skal upplýsingar um heildarlaun, þóknanir og ágóðahluta til stjórnenda
@@ -453,8 +445,11 @@ Sömu upplýsingarnar og taldar eru í 1. mgr. skal veita ef tekið hefur verið
  Sömu upplýsingar og getið er í 1. og 2. mgr. skal veita um hluti í félagi sem
       dótturfélag þess hefur eignast eða látið af hendi á reikningsárinu.
      50. gr. Sundurliða skal breytingar á eigin fé félags á reikningsárinu.
-  51. gr. Ef félag er dótturfélag skal greina frá nafni og heimili móðurfélags
-          þess og enn fremur hvar afla má samstæðureiknings félaganna.
+51. gr. [Félag sem er hluti samstæðu skal tilgreina nafn og aðsetur móðurfélags
+                    síns og móðurfélags heildarsamstæðunnar.
+Enn fremur skal upplýsa um hvar samstæðureikningar erlendra móðurfélaga skv. 1.
+                            mgr. liggja frammi.]^1)
+                            ^1)[36]L. 56/2003, 23. gr.
 
                           V. kafli. Skýrsla stjórnar.
 52. gr. Í skýrslu stjórnar með ársreikningi skal upplýsa um atriði sem mikilvæg
@@ -473,51 +468,311 @@ koma fram í efnahagsreikningi eða rekstrarreikningi eða skýringum með þeim
 hlutafjár félagsins í lok ársins. Ef atkvæðagildi hluta er mismunandi miðað við
  fjárhæð þeirra skal gerð grein fyrir atkvæðahlutdeild þeirra hluthafa sem ráða
      yfir a.m.k. 10% allra atkvæða í félaginu. Við útreikning þennan telst
-                           félagasamstæða einn aðili.
+                           [samstæða]^1) einn aðili.
   Í samvinnufélögum, sameignarfélögum og samlagsfélögum skal upplýsa um fjölda
      félagsaðila í upphafi og lok reikningsárs og fjölda eigenda að B-hluta
  stofnsjóðs ef stofnsjóður samvinnufélaga er þannig tvískiptur. Ef atkvæðagildi
                    félagsaðila er mismunandi skal það skýrt.
    Í skýrslu stjórnar með ársreikningi móðurfélags skal veita upplýsingar um
-                           félagasamstæðuna í heild.
+                            [samstæðuna]^1) í heild.
        Í skýrslu stjórnar skal enn fremur fjallað um eftir því sem við á:
             1. mikilvæg atvik sem orðið hafa eftir lok reikningsársins;
                            2. framtíðarhorfur félagsins;
                        3. rannsóknar- og þróunarstarfsemi og
                     4. útibú félagsins erlendis ef einhver eru.
+                            ^1)[37]L. 56/2003, 24. gr.
 
                          VI. kafli. Samstæðureikningar.
-53. gr. Í samstæðureikningi skal gera grein fyrir samanlögðum eignum og skuldum,
-     tekjum og gjöldum félagasamstæðu í heild. Við gerð reikningsins skulu
+                 53. gr. [Skylda til að semja samstæðureikning.
+ Móðurfélag skal semja samstæðureikning í samræmi við ákvæði þessa kafla fyrir
+öll dótturfélög sín án tillits til þess hvar þau eru skráð, sbr. þó 53. gr. A 
+53. gr. C. Undanþágur skv. 53. gr. A  53. gr. C gilda ekki þegar eitt félaganna
+sem fella á undir samstæðuna er félag með verðbréf sín til opinberrar skráningar
+                          á verðbréfaþingi í EES-ríki.
+    Enn fremur skulu félög sem falla ekki undir ákvæði 1. mgr. 1. gr. en eru
+móðurfélög, sbr. 5. tölul. 2. mgr. 1. gr., semja samstæðureikninga í samræmi við
+                                 lög þessi.]^1)
+                            ^1)[38]L. 56/2003, 25. gr.
+[53. gr. A. Móðurfélag þarf ekki að semja samstæðureikning ef samstæðan í heild
+ fer ekki fram úr tveimur af eftirfarandi stærðum á reikningsskiladegi, sbr. þó
+                           2. málsl. 1. mgr. 53. gr.:
+                          1. eignir nema 200.000.000 kr.;
+                      2. rekstrartekjur nema 400.000.000 kr.;
+                     3. fjöldi ársverka á reikningsári er 50.
+  Heimildin til að beita ákvæði 1. mgr. breytist því aðeins að samstæðan hafi
+   farið fram úr eða fari ekki lengur fram úr tveimur af stærðunum þremur tvö
+                             reikningsár í röð.]^1)
+                            ^1)[39]L. 56/2003, 26. gr.
+ [53. gr. B. Félag sem jafnframt er dótturfélag og starfar á grundvelli laga í
+  EES-ríki og ársreikningur þess er hluti af samstæðureikningi móðurfélags sem
+ lýtur löggjöf EES-ríkis þarf ekki að semja samstæðureikning, sbr. þó 2. málsl.
+                              1. mgr. 53. gr., ef:
+   1. móðurfélagið á öll hlutabréfin eða hlutina í félaginu sem fær undanþáguna;
+ hlutabréf eða hlutir í því félagi í eigu stjórnarmanna eða stjórnenda samkvæmt
+    ákvæðum í lögum, stofnsamningi eða samþykktum skulu ekki taldir með eða
+                                 2. móðurfélagið:
+   a. á minnst 90% eignarhlut í félaginu sem fær undanþáguna og aðrir hluthafar
+             eða félagsaðilar þess hafa fallist á undanþáguna, eða
+     b. á minna en 90% eignarhlut í félaginu sem fær undanþáguna, og eigendur
+minni hluta, sem eiga minnst 10% eignarhlut, hafa ekki krafist innan sex mánaða
+           fyrir lok reikningsárs að samstæðureikningur verði saminn,
+          3. móðurfélagið sendir ársreikningaskrá ársreikning sinn ásamt
+                             samstæðureikningi, og
+     4. félagið gerir grein fyrir því í skýringum í ársreikningi að með stoð í
+   þessari grein hafi það ekki samið samstæðureikning og skýrir frá nafni og
+                            aðsetri móðurfélagsins.
+Ársreikningaskrá getur krafist þess að látnar verði í té sams konar upplýsingar
+   um samstæðureikninga skv. 1. mgr. og hefðu átt að fylgja samstæðureikningi
+   félagsins sjálfs samkvæmt lögum þessum. Ársreikningaskrá getur enn fremur
+               krafist íslenskrar þýðingar á samstæðureikningnum.
+    Félag getur enn fremur sleppt að semja samstæðureikning ef það er sjálft
+     dótturfélag félags sem heyrir undir lög í ríki sem ekki er EES-ríki og
+      1. stjórn félagsins hefur ekki innan sex mánaða fyrir lok reikningsárs
+                móttekið kröfu um samningu samstæðureiknings, og
+   2. móðurfélag þess semur samstæðureikning í samræmi við löggjöf EES-ríkis um
+         samstæðureikninga og endurskoðandi móðurfélagsins endurskoðar
+                              samstæðureikninginn.
+    Félag sem nýtir sér undanþáguheimildir skv. 1.3. mgr. skal enn fremur:
+     1. upplýsa í ársreikningum sínum að það hafi, skv. 1.3. mgr., ekki samið
+       samstæðureikning og tilgreina nafn og aðsetur móðurfélags þess, og
+        2. senda ársreikningaskrá samstæðureikning móðurfélags þess, ásamt
+            upplýsingum sem ársreikningaskrá krefst skv. 78. gr.]^1)
+                            ^1)[40]L. 56/2003, 26. gr.
+ [53. gr. C. Halda má dótturfélagi utan samstæðureiknings, sbr. þó 2. málsl. 1.
+                               mgr. 53. gr., ef:
+    1. það hefur óverulega þýðingu fyrir rekstur eða efnahag samstæðunnar vegna
+                                  smæðar þess;
+      2. stjórnun þess er ekki lengur í höndum eigenda þess eða verulegar og
+varanlegar hömlur koma að miklu leyti í veg fyrir að móðurfélagið nýti rétt sinn
+              yfir eignum dótturfélagsins eða til að stjórna því;
+     3. ekki er unnt að afla nauðsynlegra upplýsinga tímanlega og án óeðlilegs
+                                 kostnaðar; eða
+     4. það hefur ekki áður verið fellt inn í samstæðureikning og móðurfélagið
+        aflaði eignarhlutanna eingöngu í þeim tilgangi að endurselja þá.
+    Þrátt fyrir ákvæði 1. tölul. 1. mgr. skulu félög, sem hvert um sig hafa
+ óverulega þýðingu, innifalin í samstæðureikningi ef þau hafa verulega þýðingu
+                                   samanlagt.
+Ef starfsemi dótturfélags er svo ólík starfsemi móðurfélags að það gæfi villandi
+mynd af samstæðunni að fella það inn í samstæðureikning skal halda því utan við
+                                     hann.
+  Sé dótturfélagi haldið utan samstæðureiknings skv. 1. eða 3. mgr. skal gerð
+             grein fyrir því í skýringum samstæðureikningsins.]^1)
+                            ^1)[41]L. 56/2003, 26. gr.
+ [53. gr. D. Ef félag, sem þarf ekki að semja samstæðureikning skv. 53. gr. A 
+   53. gr. C, semur samt slíkan reikning skal það gert samkvæmt ákvæðum laga
+           þessara um samstæðureikninga að undanskilinni 69. gr.]^1)
+                            ^1)[42]L. 56/2003, 26. gr.
+                        54. gr. [Gerð samstæðureiknings.
+ Félög í sömu samstæðu skulu hafa sama reikningsár nema sérstakar aðstæður gefi
+                              tilefni til annars.
+      Ef reikningsári dótturfélags lýkur meira en þremur mánuðum fyrir lok
+reikningsárs samstæðunnar skal samstæðureikningur saminn á grundvelli sérstakra
+    reikningsskila sem gerð eru samkvæmt ákvæðum þessara laga og miðast við
+uppgjörsdag samstæðunnar. Ef reikningsári dótturfélags lýkur þremur mánuðum eða
+skemur fyrir lok reikningsárs samstæðunnar má fella ársreikning dótturfélagsins
+                         inn í samstæðureikningsskilin.
+Í þeim tilvikum sem reikningsár eru ekki hin sömu skal veita upplýsingar um það
+í skýringum. Hafi á þeim tíma, sem líður milli loka reikningsárs dótturfélags og
+móðurfélags, orðið atburðir sem hafa veruleg áhrif á rekstur dótturfélagsins og
+            fjárhagsstöðu skal einnig veita upplýsingar um það.]^1)
+                            ^1)[43]L. 56/2003, 27. gr.
+  [54. gr. A. Samstæðureikning skal semja samkvæmt ákvæðum þessa kafla og skal
+hann hafa að geyma rekstrarreikning, efnahagsreikning, sjóðstreymi og skýringar.
+Samstæðureikningur skal gefa glögga heildarmynd af afkomu, efnahag og breytingu
+                 á handbæru fé allra félaga innan samstæðunnar.
+ Við gerð samstæðureiknings skulu sams konar tekju- og gjaldaliðir og eigna- og
+ skuldaliðir lagðir saman. Gera skal nauðsynlegar leiðréttingar vegna sérstakra
+                 þátta sem eiga aðeins við um samstæðureikning.
+Í samstæðureikningi skal fella niður fjárfestingu móðurfélags í dótturfélögum á
+           móti hlutfallslegri eign móðurfélagsins í eigin fé þeirra.
+Dótturfélag sem keypt er á reikningsárinu má aðeins taka með í samstæðureikning
+              frá þeim tíma sem móðurfélag tekur við stjórn þess.
+ Dótturfélag sem selt er á reikningsárinu má aðeins taka með í samstæðureikning
+           fram að þeim tíma sem móðurfélag lætur af stjórn þess.]^1)
+                            ^1)[44]L. 56/2003, 28. gr.
+      [54 gr. B. Eignarhlutir í dótturfélögum sem heimilt er að halda utan
+      samstæðureiknings skv. 53. gr. C skulu færðir sem sérstakur liður í
+ efnahagsreikningi samstæðunnar. Kröfur og skuldir við þessi dótturfélög skulu
+              sýndar sérstaklega í efnahagsreikningi samstæðunnar.
+    Hlutdeild samstæðu í hlutdeildarfélögum skal færð sem sérstakur liður í
+                        efnahagsreikningi samstæðunnar.
+  Hlutdeild minnihlutaeigenda í eigin fé dótturfélaga skal færð sem sérstakur
+liður í efnahagsreikningi. Hlutdeild minni hluta í afkomu dótturfélaga skal færð
+                  sem sérstakur liður í rekstrarreikningi.]^1)
+                            ^1)[45]L. 56/2003, 28. gr.
+ [54. gr. C. Eignir og skuldir samstæðunnar skulu metnar með samræmdum aðferðum
+                             samkvæmt lögum þessum.
+     Í samstæðureikningi skulu notaðar sömu matsaðferðir og í ársreikningi
+móðurfélags. Noti dótturfélag í samstæðu aðrar matsaðferðir í eigin ársreikningi
+en móðurfélagið skulu unnin ný reikningsskil þar sem matsaðferðir eru í samræmi
+  við samstæðureikning. Heimilt er að víkja frá ákvæðum 2. málsl. ef frávik í
+ reikningsskilum dótturfélags frá reikningsskilum móðurfélags eru óveruleg. Séu
+frávik gerð skal þeirra getið í skýringum með samstæðureikningi og ástæður fyrir
+                               þeim tilgreindar.
+  Í samstæðureikningi skal meta eignarhluta samstæðunnar í hlutdeildarfélögum
+  samkvæmt hlutdeildaraðferð nema eignarhlutarnir hafi óverulega þýðingu.]^1)
+                            ^1)[46]L. 56/2003, 28. gr.
+  [54. gr. D. Ef dótturfélag, sem er hluti samstæðu, semur reikningsskil sín í
+öðrum gjaldmiðli en móðurfélagið ber að umreikna reikningsskil þess í gjaldmiðil
+              móðurfélagsins áður en samstæðureikningur er saminn.
+     Ef um samþætta starfsemi við starfsemi móðurfélagsins er að ræða skulu
+  peningalegar eignir og skuldir í efnahagsreikningi metnar á gengi í árslok.
+  Fastafjármunir í ársbyrjun skulu umreiknaðir í gjaldmiðil móðurfélagsins með
+sömu fjárhæð og árið áður, en nýfjárfestingar á gengi kaupdags, og skulu þessar
+eignir síðan afskrifaðar með sama hætti og fastafjármunir móðurfélagsins. Eigið
+     fé dótturfélags í ársbyrjun umreiknast með sömu fjárhæð (í gjaldmiðli
+     móðurfélagsins) og í lok fyrra árs. Fjárhæðir í rekstrarreikningi, að
+     undanskildum afskriftum fastafjármuna, skulu umreiknaðar í gjaldmiðil
+     móðurfélagsins á meðalgengi ársins. Gengismunur sem myndast við þennan
+                   umreikning skal færður á rekstrarreikning.
+  Ef ekki er um samþætta starfsemi við starfsemi móðurfélagsins að ræða skulu
+ fjárhæðir í efnahagsreikningi, að undanskildu hlutafé og óráðstöfuðu eigin fé,
+    umreiknaðar í gjaldmiðil móðurfélagsins á gengi í árslok, en fjárhæðir í
+    rekstrarreikningi á meðalgengi ársins. Hlutafé ber að færa á upphaflegu
+     kaupverði og óráðstafað eigið fé í ársbyrjun skal nema sömu fjárhæð (í
+   gjaldmiðli móðurfélagsins) og í lok fyrra árs. Gengismunur sem myndast við
+    þennan umreikning skal færður á sérstakan reikning meðal eigin fjár.]^1)
+                            ^1)[47]L. 56/2003, 28. gr.
+  [54. gr. E. Í samstæðureikningi skal gera grein fyrir samanlögðum eignum og
+   skuldum, tekjum og gjöldum félaganna í heild. Við gerð reikningsins skulu
                         eftirfarandi liðir falla niður:
     1. kröfur og skuldir félaga innan samstæðunnar gagnvart öðrum félögum innan
                                     hennar;
      2. tekjur og gjöld af gagnkvæmum viðskiptum félaga innan samstæðunnar og
-                3. óinnleystur hagnaður eða tap af þeim viðskiptum.
-54. gr. Samstæðureikning skal setja upp á skýran hátt í samræmi við lög og góða
-                              reikningsskilavenju.
- Samstæðureikningur skal settur þannig fram að samkynja tekjur og gjöld, eignir
-                          og skuldir séu lagðar saman.
-Í samstæðureikningi skal fella niður fjárfestingu móðurfélags í dótturfélögum á
-  móti hlutfallslegri eign móðurfélagsins í eigin fé þeirra. Hlutdeild eigenda
- minni hluta í eigin fé dótturfélaga skal birta sem sérstakan lið meðal skulda
-                    samstæðunnar nema fjárhæðin sé óveruleg.
- 55. gr. Í samstæðureikningi skal mat á sambærilegum eignum og skuldum vera með
-                                samræmdum hætti.
-  Í samstæðureikningi skal meta eignarhluta samstæðunnar í hlutdeildarfélögum
-    samkvæmt hlutdeildaraðferð nema eignarhlutarnir hafi óverulega þýðingu.
- 56. gr. Nú rekur félag innan samstæðu starfsemi í sameign með einu eða fleiri
- félögum og er þá heimilt að innifela hlutdeild samstæðunnar í samrekstrinum í
-samstæðureikningi. Eignir og skuldir, tekjur og gjöld hins sameiginlega rekstrar
- skulu þá tekin inn í samstæðureikninginn í hlutfalli við aðild samstæðunnar að
-                                  rekstrinum.
+              3. óinnleystur hagnaður eða tap af þeim viðskiptum.]^1)
+                            ^1)[48]L. 56/2003, 28. gr.
+                           55. gr. [Upphaf samstæðu.
+Kaupaðferðin skv. 55. gr. A skal notuð við gerð samstæðureiknings, sbr. þó 2. og
+                                    3. mgr.
+Ef félög eru undir sama móðurfélagi eða háð ákvörðunarvaldi sömu aðila má beita
+          samlegðaraðferðinni við upphaf samstæðunnar, sbr. 55. gr. B.
+           Samlegðaraðferðinni skv. 55. gr. B má enn fremur beita ef:
+    1. verðmæti félaganna innan samstæðunnar er ekki verulega frábrugðið hvort
+                                     öðru,
+         2. móðurfélagið á að minnsta kosti 90% eignarhlut og atkvæðisrétt
+                dótturfélagsins eftir skiptin á eignarhlutum og
+   3. móðurfélagið hefur við stofnun samstæðunnar aflað eignarhlutarins í krafti
+                        samkomulags sem felur í sér að:
+    a. hvorki eigendur móðurfélags né eigendur dótturfélags hafa fengið ráðandi
+                       stöðu í móðurfélaginu við skiptin,
+             b. eigendur félaganna hafa sömu réttindi eftir skiptin og
+    c. greiðsla með öðrum verðmætum en með skiptum á eignarhlutum fer ekki yfir
+           10% að nafnverði þess eiginfjárhluta sem tekið er við.]^1)
+                            ^1)[49]L. 56/2003, 29. gr.
+                            [55. gr. A. Kaupaðferð.
+ Ef samstæða er stofnuð með yfirtöku á félagi skal miðað við matsverð einstakra
+liða efnahagsreiknings á yfirtökudegi í samstæðureikningi. Mismunur á matsverði
+og bókfærðu verði skal afskrifaður með sama hætti og þeir liðir sem hann byggist
+                                       á.
+   Hlutdeild móðurfélags í dótturfélagi, sbr. 3. mgr., skal jafnað út á móti
+                           hreinni eign dótturfélags.
+ Mismunur, sem eftir stendur þegar færð hefur verið leiðrétting vegna einstakra
+      liða í efnahagsreikningi, sbr. 1. mgr., telst viðskiptavild. Jákvæð
+ viðskiptavild færist sem sérstakur liður meðal eigna en neikvæð viðskiptavild
+  skal færð sem sérstakur liður meðal skuldbindinga. Jákvæð viðskiptavild skal
+  færast í rekstrarreikning á áætluðum nýtingartíma hennar, þó að hámarki á 20
+  árum. Neikvæð viðskiptavild skal tekjufærast á móti þeim áætlunum sem lagðar
+            voru til grundvallar kaupunum, þó að hámarki á 20 árum.
+       Hlutir dótturfélags í móðurfélagi skulu færðir sem eigin hlutir í
+                                samstæðunni.]^1)
+                            ^1)[50]L. 56/2003, 30. gr.
+                          [55. gr. B. Samlegðaraðferð.
+ Með samlegðaraðferð er samstæðureikningur lagður fram fyrir reikningstímabilið
+þegar samlagningin á sér stað eins og félögin hefðu verið lögð saman frá og með
+  upphafi tímabilsins. Við beitingu samlegðaraðferðarinnar eru einstakir liðir
+        efnahagsreiknings á yfirtökudegi lagðir saman á bókfærðu verði.
+Samanburðarfjárhæðir sem sýndar eru í samstæðureikningi skulu einnig vera fyrir
+  félögin samanlögð eins og um samstæðu hafi verið að ræða frá upphafi fyrsta
+ reikningstímabils sem sýnt er. Mismunurinn á fjárhæð sem skráð er sem hlutafé
+    ásamt yfirgengi, ef um það er að ræða, að viðbættu greiddu kaupverði, ef
+   eitthvað er, og bókfærðu eigin fé dótturfélags skal færður á eigið fé.]^1)
+                            ^1)[51]L. 56/2003, 30. gr.
+                        [55. gr. C. Starfsemi í sameign.
+Nú rekur félag innan samstæðu starfsemi í sameign með einu eða fleiri félögum og
+skal þá færa hlutdeild samstæðunnar í samrekstrinum í samstæðureikningi, sbr. þó
+53. gr. C. Eignir og skuldir og tekjur og gjöld hins sameiginlega rekstrar skulu
+    þá tekin inn í samstæðureikninginn í hlutfalli við aðild samstæðunnar að
+                                rekstrinum.]^1)
+                            ^1)[52]L. 56/2003, 30. gr.
+                        56. gr. [Reikningsskilaaðferðir.
+          Í skýringum með samstæðureikningi skal veita upplýsingar um
+ reikningsskilaaðferðir eins og félögin í samstæðunni væru eitt félag, sbr. IV.
+                                     kafla.
+ Í skýringum um reikningsskilaaðferðir skal enn fremur eftirfarandi koma fram:
+    1. Ef dótturfélag er ekki tekið með í samstæðureikninginn ásamt nákvæmum og
+                           fullnægjandi rökstuðningi.
+   2. Ef annar uppgjörsdagur er hjá dótturfélagi í samstæðu en móðurfélagi, sbr.
+    54. gr. Hafi þýðingarmiklir atburðir átt sér stað milli þessara tveggja
+     dagsetninga sem hafa haft áhrif á eignir og skuldir dótturfélagsins, á
+            fjárhagsstöðu þess eða rekstrarafkomu skal það upplýst.
+      3. Ef notaðar eru aðrar aðferðir við útreikning og mat en notaðar eru í
+   ársreikningi móðurfélags ásamt nákvæmum og fullnægjandi rökstuðningi fyrir
+                            notkun annarra aðferða.
+    4. Eftirstöðvar af viðskiptavild skv. 55. gr. A og 55. gr. B ásamt aðferðum
+                       sem notaðar eru við uppgjörið.]^1)
+                            ^1)[53]L. 56/2003, 31. gr.
+                          [56. gr. A. Aðrar skýringar.
+Í skýringum með samstæðureikningi skal veita sömu upplýsingar og tilgreindar eru
+  í IV. kafla laganna. Í stað upplýsinga um fjárhæðir í einstökum félögum eru
+  fjárhæðir félaganna sem mynda samstæðuna lagðar saman eftir sömu aðferðum og
+                         gilda um samstæðureikninginn.
+  Sleppa má upplýsingum ef þær varða viðskipti móðurfélags við dótturfélög eða
+                  samrekstur með öðru félagi, sbr. 55. gr. C.
+Veita skal upplýsingar um breytingu á hlutfallslegri eign minni hluta í eigin fé
+                               dótturfélaga.]^1)
+                            ^1)[54]L. 56/2003, 32. gr.
+   [56. gr. B. Fyrir hvert dótturfélag í samstæðureikningi og utan hans skal
+                             tilgreina í skýringum:
+                                1. nafn og aðsetur,
+           2. hve stór hluti eigin fjár er í eigu samstæðunnar í heild,
+     3. ástæðu þess að dótturfélag er tekið með í samstæðureikningi, ef hluti
+       eigin fjár í eigu samstæðunnar og atkvæðisréttur er ekki sá sami,
+       4. nákvæman og fullnægjandi rökstuðning ef félagi er haldið utan við
+                         samstæðuna, sbr. 53. gr. C, og
+            5. hvort samlegðaraðferðin skv. 55. gr. B hafi verið notuð.
+              Fyrir hvert hlutdeildarfélag skal gera grein fyrir:
+                               1. nafni og aðsetri,
+          2. hve stór hluti eigin fjár er í eigu samstæðunnar í heild, og
+               3. hvort félagið er metið samkvæmt hlutdeildaraðferð.
+ Ef félag skv. 55. gr. C er tekið með í samstæðureikning skal fyrir hvert slíkt
+                            félag gera grein fyrir:
+                               1. nafni og aðsetri,
+          2. hve stór hluti eigin fjár er í eigu samstæðunnar í heild, og
+                   3. grundvelli fyrir sameiginlegri stjórn.]^1)
+                            ^1)[55]L. 56/2003, 32. gr.
+                         [56. gr. C. Skýrsla stjórnar.
+   Í skýrslu stjórnar um samstæðuna skal veita upplýsingar eins og félögin í
+samstæðunni væru eitt félag. Í stað upplýsinga um fjárhæðir einstakra félaga eru
+  fjárhæðir félaganna sem mynda samstæðuna lagðar saman eftir sömu aðferðum og
+                         gilda um samstæðureikninginn.
+Ákvæði um skýrslu stjórnar, sbr. 52. gr., gilda um samstæðuna eftir því sem við
+                                       á.
+       Sameina má skýrslur stjórnar móðurfélags og samstæðunnar ef þar má
+        vandkvæðalaust finna þær upplýsingar sem lög þessi krefjast.]^1)
+                            ^1)[56]L. 56/2003, 32. gr.
+              [56. gr. D. Reikningsskil við samruna og skiptingu.
+  Þegar félög renna saman skal semja reikningsskil yfir samanlagðar eignir og
+         skuldir félaganna. Ákvæði 54. gr. A  55. gr. C skulu gilda um
+upphafsefnahagsreikning yfirtökufélags eða félags sem stofnað er við samrunann.
+ Ákvæðin um móðurfélagið gilda um félagið sem heldur áfram starfsemi og ákvæðin
+                  um dótturfélag gilda um félagið sem hættir.
+Í samrunareikningsskilum skal vera upphafsefnahagsreikningur yfirtökufélags eða
+  félags sem stofnað er við samrunann, lokaefnahagsreikningur félaga sem renna
+   saman og samrunafærslur sem samruninn krefst. Samrunareikningsskilum skulu
+ fylgja skýringar sem eru nauðsynlegar til að gefa glögga mynd af félaginu sem
+        heldur áfram starfsemi eða er stofnað við samrunann, ásamt þeim
+         viðbótarupplýsingum sem þurfa að vera í samrunasamningnum.]^1)
+                            ^1)[57]L. 56/2003, 32. gr.
+     [56. gr. E. Ákvæði 56. gr. D skulu gilda um skiptingu félags með þeim
+                 leiðréttingum sem leiðir af skiptingunni.]^1)
+                            ^1)[58]L. 56/2003, 32. gr.
 
                             VII. kafli. Endurskoðun.
-57. gr. Aðalfundur eða almennur félagsfundur kýs einn eða fleiri endurskoðendur
- eða skoðunarmenn og varamenn þeirra, eða endurskoðunarfélag, í samræmi við lög
-  þessi og samþykktir félagsins. Í samþykktum má enn fremur fela opinberum eða
-   öðrum aðilum að tilnefna einn eða fleiri endurskoðendur, skoðunarmenn eða
-                              endurskoðunarfélag.
+       57. gr. [Aðalfundur eða almennur félagsfundur kýs einn eða fleiri
+endurskoðendur, endurskoðunarfélag eða skoðunarmenn, í samræmi við lög þessi og
+samþykktir félagsins. Í samþykktum má enn fremur fela opinberum eða öðrum aðilum
+       að tilnefna einn eða fleiri endurskoðendur, endurskoðunarfélag eða
+                               skoðunarmenn.]^1)
 Þegar félagsmenn, sem fara með minnst einn fimmta hluta atkvæða á aðalfundi þar
   sem kjósa skal endurskoðendur, endurskoðunarfélag eða skoðunarmenn, krefjast
 þess skal stjórn félagsins beina þeim tilmælum til viðkomandi félagaskrár að hún
@@ -525,15 +780,16 @@ samstæðureikningi. Eignir og skuldir, tekjur og gjöld hins sameiginlega rekst
  kjörnir eru fram til næsta aðalfundar. Telji félagaskráin ástæðu til að verða
  við þessari ósk skal hún tilnefna endurskoðanda til starfans. Þóknun til hans
                               skal félagið greiða.
+                            ^1)[59]L. 56/2003, 33. gr.
 58. gr. Af þeim aðilum, sem kosnir eru til endurskoðunarstarfa, skal a.m.k. einn
 vera heimilisfastur hér á landi. Búsetuskilyrðið gildir þó ekki um ríkisborgara
  þeirra ríkja sem eru aðilar að samningnum um Evrópska efnahagssvæðið enda séu
                  viðkomandi ríkisborgarar búsettir í EES-ríki.
 Skoðunarmenn skulu vera lögráða og fjár síns ráðandi. Þeir skulu hafa þá reynslu
  í bókhaldi og viðskiptaháttum sem með hliðsjón af starfsemi og stærð félagsins
-     er nauðsynleg til rækslu starfans. Hæfisskilyrði [16]11. gr. laga nr.
+     er nauðsynleg til rækslu starfans. Hæfisskilyrði [60]11. gr. laga nr.
     67/1976,^1) um löggilta endurskoðendur, eiga einnig við um skoðunarmenn.
-                               ^1)Nú [17]l. 18/1997.
+                               ^1)Nú [61]l. 18/1997.
 59. gr. Í félögum, þar sem bundið eigið fé er a.m.k. 50 milljónir króna, skuldir
    og bundið eigið fé er a.m.k. 100 milljónir króna, rekstrartekjur á ári eru
 a.m.k. 200 milljónir króna eða starfsmenn (ársmenn) eru fleiri en 50, skal kjósa
@@ -556,7 +812,8 @@ Félagsmenn, sem fara með minnst einn fimmta hluta atkvæða á fundi þar sem 
 Ekki má kjósa neinn þann til endurskoðunarstarfa fyrir dótturfélag sem væri ekki
                 hæfur til að gegna sama starfi fyrir móðurfélag.
  Endurskoðandi eða skoðunarmaður má hvorki vera skuldugur félaginu eða félögum
-          innan sömu félagasamstæðu né njóta ábyrgða af hálfu þeirra.
+           innan sömu [samstæðu]^1) né njóta ábyrgða af hálfu þeirra.
+                            ^1)[62]L. 56/2003, 34. gr.
     61. gr. Í samþykktum félaga skal kveða á um starfstíma endurskoðenda eða
  skoðunarmanna. Starfi þeirra lýkur við lok þess aðalfundar þegar kjósa skal þá
  að nýju. Hafi endurskoðandi eða skoðunarmaður verið kosinn til ótiltekins tíma
@@ -568,15 +825,16 @@ endurskoðanda eða skoðunarmanns og skal þá tilkynna félagaskrá hvenær ha
 Endurskoðendur og skoðunarmenn geta hvenær sem er sagt af sér störfum. Þeir sem
  kusu þá geta einnig leyst þá frá störfum þótt starfstíma þeirra sé ekki lokið.
 Ljúki starfi endurskoðanda eða skoðunarmanns áður en kjörtímabili hans lýkur eða
- uppfylli hann ekki lengur skilyrði til starfans og enginn varamaður er í hans
-stað skal stjórn félagsins hlutast til um að nýr endurskoðandi eða skoðunarmaður
-  verði þegar í stað valinn. Í félögum, sem hafa hlutabréf sín eða skuldabréf
-  skráð á opinberu verðbréfaþingi, skal boða til fundar innan viku frá því að
-endurskoðandi sagði starfi sínu lausu eða var leystur frá störfum þar sem kjósa
-                           skal annan endurskoðanda.
+   uppfylli hann ekki lengur skilyrði til starfans ^1) skal stjórn félagsins
+hlutast til um að nýr endurskoðandi eða skoðunarmaður verði þegar í stað valinn.
+       Í félögum, sem hafa hlutabréf sín eða skuldabréf skráð á opinberu
+ verðbréfaþingi, skal boða til fundar innan viku frá því að endurskoðandi sagði
+     starfi sínu lausu eða var leystur frá störfum þar sem kjósa skal annan
+                                 endurskoðanda.
  Hafi endurskoðandi eða skoðunarmaður sagt starfi sínu lausu eða verið leystur
 frá störfum skal hann veita þeim er kosinn er í hans stað upplýsingar um hverjar
                      hann telur vera ástæður starfslokanna.
+                            ^1)[63]L. 56/2003, 35. gr.
  62. gr. Ef endurskoðandi eða skoðunarmaður er ekki valinn, kjör hans brýtur í
    bága við lög þessi eða samþykktir félagsins eða hann uppfyllir ekki lengur
 hæfisskilyrði laganna skal félagaskrá tilnefna endurskoðanda eða skoðunarmann að
@@ -618,13 +876,13 @@ telja nauðsynlega vegna starfa síns. Stjórnendur dótturfélags hafa sömu sk
  Í árituninni skal koma fram að ársreikningurinn eða samstæðureikningurinn hafi
  verið endurskoðaður. Þá skal koma fram álit endurskoðenda eða skoðunarmanna á
   því hvort ársreikningurinn eða samstæðureikningurinn sé saminn í samræmi við
-ákvæði laga, samþykkta félagsins og góða reikningsskilavenju, svo og greinargerð
-     um niðurstöðu endurskoðunarinnar að öðru leyti. Ef endurskoðendur eða
-skoðunarmenn telja að ekki beri að samþykkja ársreikninginn skulu þeir taka það
-                               fram sérstaklega.
- Ef skýrsla stjórnar hefur ekki að geyma þær upplýsingar, sem þar ber að veita,
- eða er ekki í samræmi við ársreikninginn skulu endurskoðendur eða skoðunarmenn
-                      vekja athygli á því í áritun sinni.
+ ákvæði laga ^1) og góða reikningsskilavenju, svo og greinargerð um niðurstöðu
+ endurskoðunarinnar að öðru leyti. Ef endurskoðendur eða skoðunarmenn telja að
+  ekki beri að samþykkja ársreikninginn skulu þeir taka það fram sérstaklega.
+  [Endurskoðendur eða skoðunarmenn skulu sannreyna að skýrsla stjórnar hafi að
+geyma þær upplýsingar sem þar ber að veita í samræmi við ársreikninginn og vekja
+                athygli á því í áritun sinni ef svo er ekki.]^1)
+                            ^1)[64]L. 56/2003, 36. gr.
  66. gr. Ábendingar og athugasemdir, sem endurskoðendur eða skoðunarmenn vilja
      koma á framfæri við stjórn eða framkvæmdastjóra, skal skrá í sérstaka
  endurskoðunarbók eða færa fram skriflega á annan hátt. Stjórnin skal varðveita
@@ -644,28 +902,34 @@ skoðunarmenn telja að ekki beri að samþykkja ársreikninginn skulu þeir tak
                                    félagsins.
 
                        VIII. kafli. Birting ársreiknings.
-69. gr. Eigi síðar en mánuði eftir samþykkt ársreiknings, þó eigi síðar en átta
-mánuðum eftir lok reikningsárs, skal senda [ársreikningaskrá]^1) ársreikning eða
-samstæðureikning ásamt skýrslu stjórnar, áritun endurskoðenda eða skoðunarmanna
- og upplýsingar um hvenær ársreikningurinn var samþykktur. Ársreikninga félaga,
- sem hafa hlutabréf sín eða skuldabréf skráð á opinberu verðbréfaþingi, skal þó
-senda þegar í stað eftir samþykkt þeirra og eigi síðar en sex mánuðum eftir lok
-reikningsárs. Ef samþykkt á ráðstöfun hagnaðar eða jöfnun taps kemur ekki fram í
- ársreikningnum eða skýrslu stjórnar skal enn fremur senda staðfest endurrit úr
-gerðabók aðalfundarins þar sem greint er frá ráðstöfun hagnaðar eða jöfnun taps.
- Þrátt fyrir ákvæði 1. mgr. er félögum, sem fara ekki fram úr stærðarmörkunum í
-  1. mgr. 6. gr., heimilt að senda [ársreikningaskrá]^1) samandregna útgáfu af
-rekstrarreikningi, efnahagsreikningi og skýringum. Heimild þessi nær þó ekki til
-félaga sem hafa hlutabréf sín eða skuldabréf skráð á opinberu verðbréfaþingi og
-heldur ekki til félaga sem leggja ekki hömlur á viðskipti með eignarhluta sína.
-   [Ársreikningaskrá]^1) skal veita aðgang að þeim gögnum sem skilaskyld eru
+69. gr. [Eigi síðar en mánuði eftir samþykkt ársreiknings, þó eigi síðar en átta
+ mánuðum eftir lok reikningsárs, skal félag skv. 1. gr. senda ársreikningaskrá
+ársreikning sinn, sbr. 3. gr., ásamt skýrslu stjórnar, áritun endurskoðenda eða
+  skoðunarmanna og upplýsingar um hvenær ársreikningurinn var samþykktur.]^1)
+  Ársreikninga félaga, sem hafa hlutabréf sín eða skuldabréf skráð á opinberu
+ verðbréfaþingi, skal þó senda þegar í stað eftir samþykkt þeirra og eigi síðar
+  en sex mánuðum eftir lok reikningsárs. Ef samþykkt á ráðstöfun hagnaðar eða
+   jöfnun taps kemur ekki fram í ársreikningnum eða skýrslu stjórnar skal enn
+ fremur senda staðfest endurrit úr gerðabók aðalfundarins þar sem greint er frá
+ ráðstöfun hagnaðar eða jöfnun taps. [Á sama hátt skulu félög sem skyld eru til
+        að semja samstæðureikninga skv. VI. kafla senda ársreikningaskrá
+    samstæðureikning innan sama tímafrests ásamt skýrslu stjórnar og áritun
+                      endurskoðenda eða skoðunarmanna.]^1)
+[Þrátt fyrir ákvæði 1. mgr. er félögum, sem fara ekki fram úr stærðarmörkunum í
+      2. mgr. 2. gr., heimilt að senda ársreikningaskrá samandregna útgáfu
+  ársreiknings, sbr. 3. gr., ásamt skýrslu stjórnar, áritun endurskoðenda eða
+  skoðunarmanna og upplýsingar um hvenær ársreikningurinn var samþykktur.]^1)
+Heimild þessi nær þó ekki til félaga sem hafa hlutabréf sín eða skuldabréf skráð
+  á opinberu verðbréfaþingi og heldur ekki til félaga sem leggja ekki hömlur á
+                        viðskipti með eignarhluta sína.
+   [Ársreikningaskrá]^2) skal veita aðgang að þeim gögnum sem skilaskyld eru
                             samkvæmt þessari grein.
-                [Ráðherra ákveður aðsetur ársreikningaskrár.]^1)
-                             ^1)[18]L. 58/2001, 3. gr.
-70. gr. Ársreikninga dótturfélaga, sem haldið er utan samstæðureiknings samkvæmt
- ákvæðum 3. mgr. 5. gr., skal senda [ársreikningaskrá]^1) með ársreikningi eða
-                         samstæðureikningi móðurfélags.
-                             ^1)[19]L. 58/2001, 4. gr.
+               [Ríkisskattstjóri starfrækir ársreikningaskrá.]^1)
+        ^1)[65]L. 56/2003, 37. gr. Ákvæði greinarinnar taka gildi varðandi
+ ársreikninga og samstæðureikninga vegna reikningsársins sem lýkur 31. desember
+        2002 eða síðar, sbr. [66]45. gr. s.l. ^2)[67]L. 58/2001, 3. gr.
+                                  70. gr. ^1)
+                            ^1)[68]L. 56/2003, 38. gr.
 71. gr. Sameignarfélög og samlagsfélög, sem tilgreind eru í 2. gr., skulu senda
      [ársreikningaskrá]^1) tilkynningu um nafn, heimilisfang, félagsform og
  atvinnugrein sína samtímis því að þau senda henni í fyrsta sinn birtingarskyld
@@ -674,15 +938,13 @@ Sameignarfélög og samlagsfélög, sem nýta sér undanþáguheimildir 75. eða
     skulu veita upplýsingar um nöfn og heimilisföng þeirra félaga sem semja
  ársreikninga þeirra eða innifela þá í samstæðureikningum sínum ef eftir því er
                                     leitað.
-                             ^1)[20]L. 58/2001, 5. gr.
+                             ^1)[69]L. 58/2001, 5. gr.
 72. gr. Ef félag birtir ársreikning sinn eða samstæðureikning í heild skal hann
  vera í sama formi og hann var samþykktur á aðalfundi með áritun endurskoðenda
-      eða skoðunarmanna. Ef áritun endurskoðenda eða skoðunarmanna er ekki
-      fyrirvaralaus skal vakin athygli á því og ástæður þess tilgreindar.
+                             eða skoðunarmanna. ^1)
  Nú er ársreikningur eða samstæðureikningur ekki birtur í heild og skal þá koma
-   fram með ótvíræðum hætti að hann sé samandreginn. Áritun endurskoðenda eða
-skoðunarmanna þarf ekki að fylgja með samandreginni útgáfu en koma skal fram ef
-          áritunin var ekki fyrirvaralaus og ástæður þess tilgreindar.
+             fram með ótvíræðum hætti að hann sé samandreginn. ^1)
+                            ^1)[70]L. 56/2003, 39. gr.
   73. gr. [Útibússtjórar í útibúum erlendra félaga, sem skráð eru hér á landi,
 skulu í síðasta lagi átta mánuðum eftir lok reikningsárs senda staðfest endurrit
     ársreiknings eða samstæðureiknings félagsins til ársreikningaskrár ásamt
@@ -694,7 +956,7 @@ Reikningar, sem sendir eru [ársreikningaskrá]^1) skv. 1. mgr., skulu vera í s
                                    félagsins.
    [Ársreikningaskrá]^1) skal veita aðgang að þeim gögnum sem skilaskyld eru
                             samkvæmt þessari grein.
-                             ^1)[21]L. 58/2001, 6. gr.
+                             ^1)[71]L. 58/2001, 6. gr.
 74. gr. Í stað þess að senda [ársreikningaskrá]^1) ársreikning sinn getur erlent
 dótturfélag, sem rekur útibú hér á landi og lýtur löggjöf annars EES-ríkis, sent
           [ársreikningaskrá]^1) samstæðureikning móðurfélags síns ef:
@@ -716,7 +978,7 @@ dótturfélag, sem rekur útibú hér á landi og lýtur löggjöf annars EES-r�
                             við ákvæði laga þessara.
 Tilkynning skv. 2. tölul. 1. mgr. skal send fyrir hvert reikningsár. Yfirlýsing
        um efni 3. tölul. 1. mgr. gildir uns hún hefur verið afturkölluð.
-                             ^1)[22]L. 58/2001, 7. gr.
+                             ^1)[72]L. 58/2001, 7. gr.
 75. gr. Sameignarfélag eða samlagsfélag, sem tilgreint er í 2. gr., þarf ekki að
 senda [ársreikningaskrá]^1) ársreikning sinn ef a.m.k. einn af félagsaðilum þess
     er heimilisfastur hér á landi, semur ársreikning fyrir félagið og lætur
@@ -732,20 +994,20 @@ Félag, sem um ræðir í 1. mgr. þar sem enginn félagsaðili er heimilisfastu
    staðfestingu á að ársreikningar félagsins hafi verið birtir í samræmi við
                       löggjöfina sem nefnd er í 1. tölul.
  Félagsaðili getur haft ársreikning skv. 1. mgr. sem hluta af eigin ársskýrslu.
-                             ^1)[23]L. 58/2001, 8. gr.
+                             ^1)[73]L. 58/2001, 8. gr.
 76. gr. Sameignarfélag eða samlagsfélag, sem tilgreint er í 2. gr., þarf ekki að
         senda [ársreikningaskrá]^1) ársreikning sinn ef hann er hluti af
    samstæðureikningi félagsaðila sem saminn er og endurskoðaður í samræmi við
               ákvæði laga þessara og sendur [ársreikningaskrá].^1)
      Ákvæði 1. mgr. eiga enn fremur við ef ársreikningur félags er hluti af
    samstæðureikningi móðurfélags þess félagsaðila sem ekki er skylt að senda
-            [ársreikningaskrá]^1) samstæðureikning sinn, sbr. 4. gr.
+         [ársreikningaskrá]^1) samstæðureikning sinn, sbr. [2. gr.]^2)
 Í samstæðureikningum þeim sem greinir í 1. og 2. mgr. skal geta þess í skýringum
     ef félag skv. 2. gr. sendir [ársreikningaskrá]^1) ekki ársreikning sinn.
         Innan tímamarka 1. mgr. 69. gr. skal senda [ársreikningaskrá]^1)
    samstæðureikninga skv. 1. og 2. mgr. eða staðfestingu opinbers aðila á að
      ársreikningur hafi verið saminn og birtur í samræmi við ákvæði 1. mgr.
-                             ^1)[24]L. 58/2001, 9. gr.
+               ^1)[74]L. 58/2001, 9. gr. ^2)[75]L. 56/2003, 40. gr.
    77. gr. Þegar sérstakar samkeppnisaðstæður mæla með því geta félög, sem á
 reikningsskiladegi fara ekki fram úr tvennum af eftirfarandi stærðarmörkum, sent
 [ársreikningaskrá]^1) samandreginn rekstrarreikning, samkvæmt nánari reglum sem
@@ -756,7 +1018,7 @@ reikningsskiladegi fara ekki fram úr tvennum af eftirfarandi stærðarmörkum, 
  Heimildinni til þess að beita ákvæði 1. mgr. má aðeins breyta ef félag hefur á
   reikningsskiladegi farið fram úr eða fer ekki lengur fram úr tvennum af þeim
             mörkum, sem nefnd eru í 1. mgr., tvö reikningsár í röð.
-                            ^1)[25]L. 58/2001, 10. gr.
+                            ^1)[76]L. 58/2001, 10. gr.
 78. gr. [Ársreikningaskrá skal gera úrtakskannanir og athuganir á ársreikningum,
  samstæðureikningum og skýrslum stjórna í því skyni að sannreyna að þessi gögn
  séu í samræmi við ákvæði þessara laga. Hún getur krafist þeirra upplýsinga hjá
@@ -765,8 +1027,8 @@ reikningsskiladegi fara ekki fram úr tvennum af eftirfarandi stærðarmörkum, 
       að mega skila samandregnum ársreikningum og samstæðureikningum hefur
 ársreikningaskrá heimild til að afla upplýsinga hjá ríkisskattstjóra um nöfn og
 kennitölur þeirra félaga sem lög þessi taka til og fara yfir þau stærðarmörk sem
-                              greinir í 6. gr.]^1)
-                            ^1)[26]L. 58/2001, 11. gr.
+                           greinir í [2. gr.]^1)]^2)
+               ^1)[77]L. 56/2003, 41. gr. ^2)[78]L. 58/2001, 11. gr.
 
             IX. kafli. Reikningsskilaráð og góð reikningsskilavenja.
  79. gr. Ráðherra skal skipa fimm sérfróða menn til fjögurra ára í senn í nefnd
@@ -783,19 +1045,19 @@ reikningsskila. Ráðið skal gefa álit á því hvað telst góð reikningsski
      Ráðið skal starfa í nánu samráði við Félag löggiltra endurskoðenda og
 hagsmunaaðila. Það getur einnig verið stjórnvöldum til ráðuneytis um ákvæði sem
                sett eru í lögum eða reglugerðum um reikningsskil.
-    ^1)Augl. 670/1999, augl. 671/1999, augl. 349/2000. ^2)[27]L. 133/2001, 52.
+    ^1)Augl. 670/1999, augl. 671/1999, augl. 349/2000. ^2)[79]L. 133/2001, 52.
                                       gr.
   81. gr. Ráðherra ákveður skiptingu kostnaðar við störf reikningsskilaráðs að
                       höfðu samráði við tilnefningaraðila.
 
                     [X. kafli. Viðurlög og málsmeðferð.]^1)
-                             ^1)[28]L. 37/1995, 3. gr.
+                             ^1)[80]L. 37/1995, 3. gr.
  [82. gr. Hver sem af ásetningi eða stórfelldu gáleysi brýtur gegn ákvæðum laga
  þessara á þann hátt sem lýst er í 84.87. gr. skal sæta fésektum, en brot gegn
  83. gr. og önnur meiri háttar brot gegn 84. og 85. gr. varða ^1) fangelsi allt
     að sex árum skv. 2. mgr. 262. gr. almennra hegningarlaga eða fésektum ef
                            málsbætur eru miklar.]^2)
-               ^1)[29]L. 82/1998, 217. gr. ^2)[30]L. 37/1995, 3. gr.
+               ^1)[81]L. 82/1998, 217. gr. ^2)[82]L. 37/1995, 3. gr.
 [83. gr. Svofelld háttsemi stjórnarmanna eða framkvæmdastjóra félaga skv. 1. gr.
                     telst ætíð meiri háttar brot gegn þeim:
            1. Ef þeir láta undir höfuð leggjast að semja ársreikning eða
@@ -806,7 +1068,7 @@ hagsmunaaðila. Það getur einnig verið stjórnvöldum til ráðuneytis um ák
  skýringar fylgja, enda varði brotið ekki við 158. gr. almennra hegningarlaga.
  Sama á við ef maður aðstoðar stjórnarmenn eða framkvæmdastjóra félaga við þau
      brot sem lýst er í þessari grein eða stuðlar að þeim á annan hátt.]^1)
-                             ^1)[31]L. 37/1995, 3. gr.
+                             ^1)[83]L. 37/1995, 3. gr.
  [84. gr. Stjórnarmenn eða framkvæmdastjóri félags skv. 1. gr. gerast sekir um
 refsivert brot gegn lögum þessum með athöfnum þeim eða athafnaleysi því sem hér
                                     greinir:
@@ -818,10 +1080,10 @@ laga þessara, enda liggi ekki við broti þessu þyngri refsing samkvæmt þeim
                                    eða öðrum.
      2. Ef þeir í skýrslu stjórnar greina ranglega frá eða leyna mikilsverðum
     upplýsingum sem þýðingu hafa um mat á fjárhagslegri stöðu félagsins eða
-            félagasamstæðunnar og á afkomu þeirra á reikningsárinu.
+             [samstæðunnar]^1) og á afkomu þeirra á reikningsárinu.
  Sama á við ef maður aðstoðar stjórnarmenn eða framkvæmdastjóra félaga við þau
-     brot sem lýst er í þessari grein eða stuðlar að þeim á annan hátt.]^1)
-                             ^1)[32]L. 37/1995, 3. gr.
+     brot sem lýst er í þessari grein eða stuðlar að þeim á annan hátt.]^2)
+               ^1)[84]L. 56/2003, 42. gr. ^2)[85]L. 37/1995, 3. gr.
   [85. gr. Endurskoðendur eða skoðunarmenn gerast sekir um refsiverð brot gegn
         lögum þessum með athöfnum eða athafnaleysi því sem hér greinir:
         1. Ef þeir taka að sér að framkvæma endurskoðun án þess að uppfylla
@@ -831,19 +1093,19 @@ laga þessara, enda liggi ekki við broti þessu þyngri refsing samkvæmt þeim
    3. Ef þeir með áritun sinni gefa rangar eða villandi upplýsingar eða láta hjá
      líða að geta um mikilsverð atriði er snerta rekstrarafkomu eða efnahag
                                  félagsins.]^1)
-                             ^1)[33]L. 37/1995, 3. gr.
+                             ^1)[86]L. 37/1995, 3. gr.
 [86. gr. Tilraun til brota og hlutdeild í brotum á lögum þessum, önnur en sú sem
  lýst er í 83. og 84. gr. laga þessara, er refsiverð eftir því sem segir í III.
                        kafla almennra hegningarlaga.]^1)
-                             ^1)[34]L. 37/1995, 3. gr.
+                             ^1)[87]L. 37/1995, 3. gr.
   [87. gr. Gera má lögaðila fésekt fyrir brot gegn lögum þessum óháð því hvort
     brotið megi rekja til saknæms verknaðar fyrirsvarsmanns eða starfsmanns
   lögaðilans. Hafi fyrirsvarsmaður hans eða starfsmaður gerst sekur um brot á
 lögum þessum má auk þeirrar refsingar, sem hann sætir, gera lögaðilanum sekt og
 sviptingu starfsréttinda, enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða
                     hann hafi notið hagnaðar af brotinu.]^1)
-                             ^1)[35]L. 37/1995, 3. gr.
- [88. gr. Rannsóknarlögregla ríkisins fer með frumrannsókn opinberra mála vegna
+                             ^1)[88]L. 37/1995, 3. gr.
+  [88. gr. [Ríkislögreglustjóri]^1) fer með frumrannsókn opinberra mála vegna
     brota á lögum þessum. Skattrannsóknarstjóri ríkisins getur á hvaða stigi
  rannsóknar sem er vísað máli til opinberrar rannsóknar af sjálfsdáðum, svo og
      eftir ósk sökunautar ef hann vill ekki hlíta því að málið verði fengið
@@ -855,22 +1117,23 @@ Yfirskattanefnd úrskurðar sektir vegna brota á lögum þessum, nema máli sé
       fullnaðarúrskurðir. Vararefsing fylgir ekki sektarúrskurðum hennar.
               Sektir fyrir brot á lögum þessum renna í ríkissjóð.
   Sakir samkvæmt lögum þessum fyrnast á sex árum miðað við upphaf rannsóknar á
- vegum skattrannsóknarstjóra ríkisins eða rannsóknarlögreglustjóra ríkisins eða
-    hjá löglærðum fulltrúum þeirra, gegn manni sem sökunaut, enda verði ekki
-          óeðlilegar tafir á rannsókn máls eða ákvörðun refsingar.]^1)
-                             ^1)[36]L. 37/1995, 3. gr.
+   vegum skattrannsóknarstjóra ríkisins eða [ríkislögreglustjóra]^1) eða hjá
+löglærðum fulltrúum þeirra, gegn manni sem sökunaut, enda verði ekki óeðlilegar
+               tafir á rannsókn máls eða ákvörðun refsingar.]^2)
+               ^1)[89]L. 56/2003, 43. gr. ^2)[90]L. 37/1995, 3. gr.
 
                           [XI. kafli.]^1) Ýmis ákvæði.
-                             ^1)[37]L. 37/1995, 3. gr.
+                             ^1)[91]L. 37/1995, 3. gr.
  [89. gr.]^1) Ráðherra getur sett reglugerð^2) um framkvæmd laga þessara, þar á
       meðal um uppsetningu ársreikninga og samstæðureikninga, óstyttra og
             samandreginna, svo og um skil á þeim og birtingu þeirra.
-Viðmiðunarmörkin í 1. og 2. tölul. 2. mgr. 2. gr. og 1. og 2. tölul. 6. gr., svo
- og 59. gr. og 77. gr., eru grunnfjárhæðir sem miðast við gengi í ECU 1. janúar
-1995. Ráðherra er heimilt að breyta þessum fjárhæðum til samræmis við breytingar
-      á 4. tilskipun ESB eða ef verulegar breytingar verða á gengi ECU.^3)
-    ^1)[38]L. 37/1995, 3. gr. ^2)[39]Rg. 134/1996, [40]rg. 523/2001. ^3)[41]Rg.
-                                   242/2000.
+    Viðmiðunarmörkin í 1. og 2. tölul. 2. mgr. 2. gr. og 1. og 2. tölul. [2.
+ gr.],^3) svo og 59. gr. og 77. gr., eru grunnfjárhæðir sem miðast við gengi í
+  [evru]^3) 1. janúar 1995. Ráðherra er heimilt að breyta þessum fjárhæðum til
+ samræmis við breytingar á 4. tilskipun ESB eða ef verulegar breytingar verða á
+                              gengi [evru].^3)^4)
+    ^1)[92]L. 37/1995, 3. gr. ^2)[93]Rg. 134/1996, [94]rg. 523/2001. ^3)[95]L.
+                     56/2003, 44. gr. ^4)[96]Rg. 242/2000.
 [90. gr.]^1) [Félög sem fengið hafa heimild til að semja ársreikning í erlendum
  gjaldmiðli, sbr. 11. gr. A, skulu umreikna fjárhæðir í efnahagsreikningi fyrra
    árs á lokagengi þess árs. Þó er heimilt að umreikna efnahagsliði, aðra en
@@ -881,30 +1144,30 @@ eignarhluti, á upphaflegu kaupgengi. Jafnframt er heimilt að umreikna innborga
  erlendum gjaldmiðli og hann nam í íslenskum krónum. Hinar umreiknuðu fjárhæðir
  mynda upphafsstærðir í bókhaldi í erlendum gjaldmiðli og skal gera grein fyrir
               umreikningsaðferðum í skýringum við ársreikning.]^2)
-                ^1)[42]L. 37/1995, 3. gr. ^2)[43]L. 25/2002, 6. gr.
+                ^1)[97]L. 37/1995, 3. gr. ^2)[98]L. 25/2002, 6. gr.
       [91. gr.]^1) Lög þessi öðlast gildi 1. janúar 1995 og skulu gilda um
  ársreikninga og samstæðureikninga fyrir hvert það reikningsár sem hefst frá og
                                  með þeim tíma.
-                             ^1)[44]L. 37/1995, 3. gr.
+                             ^1)[99]L. 37/1995, 3. gr.
                                   [92. gr.]^1)
-                             ^1)[45]L. 37/1995, 3. gr.
+                            ^1)[100]L. 37/1995, 3. gr.
 
                             Ákvæði til bráðabirgða.
    [I. Við fyrstu reikningsskil eftir gildistöku laga þessara skal leysa upp
  endurmatsreikning sem myndaður hefur verið skv. a-lið 1. mgr. 25. gr. og færa
                   með öðru óráðstöfuðu eigin fé félagsins.]^1)
-    ^1)[46]L. 133/2001, 53. gr. Breytingin kemur til framkvæmda við álagningu á
-                       árinu 2003, sbr. [47]56. gr. s.l.
+   ^1)[101]L. 133/2001, 53. gr. Breytingin kemur til framkvæmda við álagningu á
+                       árinu 2003, sbr. [102]56. gr. s.l.
  [II. Félögum skv. 1. mgr. 1. gr. er heimilt að taka tillit til áhrifa almennra
 verðlagsbreytinga við gerð ársreikninga vegna reikningsára sem hefjast á árunum
   2002 og 2003 í samræmi við a-lið 1. mgr. 25. gr., sbr. 3. mgr. sömu greinar
                        fyrir gildistöku laga þessara.]^1)
-    ^1)[48]L. 133/2001, 53. gr. Breytingin kemur til framkvæmda við álagningu á
-                       árinu 2003, sbr. [49]56. gr. s.l.
+   ^1)[103]L. 133/2001, 53. gr. Breytingin kemur til framkvæmda við álagningu á
+                       árinu 2003, sbr. [104]56. gr. s.l.
      [III. Félög, sem óska eftir að færa bókhald og semja ársreikning vegna
 reikningsársins 2002 í erlendum gjaldmiðli, hafa frest til 30. apríl 2002 til að
                           sækja um slíka heimild.]^1)
-                             ^1)[50]L. 25/2002, 7. gr.
+                            ^1)[105]L. 25/2002, 7. gr.
 
 References
 
@@ -915,47 +1178,102 @@ References
    4. file:///altext/stjt/2001.058.html
    5. file:///altext/stjt/2001.133.html
    6. file:///altext/stjt/2002.025.html
-   7. file:///altext/stjt/2001.058.html
-   8. file:///altext/stjt/2001.058.html
-   9. file:///altext/stjt/2002.025.html
-  10. file:///altext/stjt/2002.025.html
-  11. file:///altext/stjt/2002.025.html
-  12. file:///altext/stjt/2001.133.html
-  13. file:///altext/stjt/2001.133.html
-  14. file:///altext/stjt/2001.133.html
-  15. file:///altext/stjt/2001.133.html
-  16. file://1976067.html
-  17. file://1997018.html
-  18. file:///altext/stjt/2001.058.html
-  19. file:///altext/stjt/2001.058.html
-  20. file:///altext/stjt/2001.058.html
-  21. file:///altext/stjt/2001.058.html
-  22. file:///altext/stjt/2001.058.html
-  23. file:///altext/stjt/2001.058.html
-  24. file:///altext/stjt/2001.058.html
-  25. file:///altext/stjt/2001.058.html
-  26. file:///altext/stjt/2001.058.html
+   7. file:///altext/stjt/2003.056.html
+   8. file:///altext/stjt/2003.056.html
+   9. file:///altext/stjt/2001.058.html
+  10. file:///altext/stjt/2003.056.html
+  11. file:///altext/stjt/2003.056.html
+  12. file:///altext/stjt/2003.056.html
+  13. file:///altext/stjt/2003.056.html
+  14. file:///altext/stjt/2003.056.html
+  15. file:///altext/stjt/2003.056.html
+  16. file:///altext/stjt/2002.025.html
+  17. file:///altext/stjt/2003.056.html
+  18. file:///altext/stjt/2002.025.html
+  19. file:///altext/stjt/2003.056.html
+  20. file:///altext/stjt/2002.025.html
+  21. file:///altext/stjt/2003.056.html
+  22. file:///altext/stjt/2003.056.html
+  23. file:///altext/stjt/2003.056.html
+  24. file:///altext/stjt/2003.056.html
+  25. file:///altext/stjt/2003.056.html
+  26. file:///altext/stjt/2003.056.html
   27. file:///altext/stjt/2001.133.html
-  28. file:///altext/stjt/1995.037.html
-  29. file:///altext/stjt/1998.082.html
-  30. file:///altext/stjt/1995.037.html
-  31. file:///altext/stjt/1995.037.html
-  32. file:///altext/stjt/1995.037.html
-  33. file:///altext/stjt/1995.037.html
-  34. file:///altext/stjt/1995.037.html
-  35. file:///altext/stjt/1995.037.html
-  36. file:///altext/stjt/1995.037.html
-  37. file:///altext/stjt/1995.037.html
-  38. file:///altext/stjt/1995.037.html
-  39. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-1996
-  40. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/523-2001
-  41. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2000
-  42. file:///altext/stjt/1995.037.html
-  43. file:///altext/stjt/2002.025.html
-  44. file:///altext/stjt/1995.037.html
-  45. file:///altext/stjt/1995.037.html
-  46. file:///altext/stjt/2001.133.html
-  47. file:///altext/stjt/2001.133.html
-  48. file:///altext/stjt/2001.133.html
-  49. file:///altext/stjt/2001.133.html
-  50. file:///altext/stjt/2002.025.html
+  28. file:///altext/stjt/2001.133.html
+  29. file:///altext/stjt/2003.056.html
+  30. file:///altext/stjt/2003.056.html
+  31. file:///altext/stjt/2003.056.html
+  32. file:///altext/stjt/2003.056.html
+  33. file:///altext/stjt/2003.056.html
+  34. file:///altext/stjt/2003.056.html
+  35. file:///altext/stjt/2003.056.html
+  36. file:///altext/stjt/2003.056.html
+  37. file:///altext/stjt/2003.056.html
+  38. file:///altext/stjt/2003.056.html
+  39. file:///altext/stjt/2003.056.html
+  40. file:///altext/stjt/2003.056.html
+  41. file:///altext/stjt/2003.056.html
+  42. file:///altext/stjt/2003.056.html
+  43. file:///altext/stjt/2003.056.html
+  44. file:///altext/stjt/2003.056.html
+  45. file:///altext/stjt/2003.056.html
+  46. file:///altext/stjt/2003.056.html
+  47. file:///altext/stjt/2003.056.html
+  48. file:///altext/stjt/2003.056.html
+  49. file:///altext/stjt/2003.056.html
+  50. file:///altext/stjt/2003.056.html
+  51. file:///altext/stjt/2003.056.html
+  52. file:///altext/stjt/2003.056.html
+  53. file:///altext/stjt/2003.056.html
+  54. file:///altext/stjt/2003.056.html
+  55. file:///altext/stjt/2003.056.html
+  56. file:///altext/stjt/2003.056.html
+  57. file:///altext/stjt/2003.056.html
+  58. file:///altext/stjt/2003.056.html
+  59. file:///altext/stjt/2003.056.html
+  60. file://1976067.html
+  61. file://1997018.html
+  62. file:///altext/stjt/2003.056.html
+  63. file:///altext/stjt/2003.056.html
+  64. file:///altext/stjt/2003.056.html
+  65. file:///altext/stjt/2003.056.html
+  66. file:///altext/stjt/2003.056.html
+  67. file:///altext/stjt/2001.058.html
+  68. file:///altext/stjt/2003.056.html
+  69. file:///altext/stjt/2001.058.html
+  70. file:///altext/stjt/2003.056.html
+  71. file:///altext/stjt/2001.058.html
+  72. file:///altext/stjt/2001.058.html
+  73. file:///altext/stjt/2001.058.html
+  74. file:///altext/stjt/2001.058.html
+  75. file:///altext/stjt/2003.056.html
+  76. file:///altext/stjt/2001.058.html
+  77. file:///altext/stjt/2003.056.html
+  78. file:///altext/stjt/2001.058.html
+  79. file:///altext/stjt/2001.133.html
+  80. file:///altext/stjt/1995.037.html
+  81. file:///altext/stjt/1998.082.html
+  82. file:///altext/stjt/1995.037.html
+  83. file:///altext/stjt/1995.037.html
+  84. file:///altext/stjt/2003.056.html
+  85. file:///altext/stjt/1995.037.html
+  86. file:///altext/stjt/1995.037.html
+  87. file:///altext/stjt/1995.037.html
+  88. file:///altext/stjt/1995.037.html
+  89. file:///altext/stjt/2003.056.html
+  90. file:///altext/stjt/1995.037.html
+  91. file:///altext/stjt/1995.037.html
+  92. file:///altext/stjt/1995.037.html
+  93. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/134-1996
+  94. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/523-2001
+  95. file:///altext/stjt/2003.056.html
+  96. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/242-2000
+  97. file:///altext/stjt/1995.037.html
+  98. file:///altext/stjt/2002.025.html
+  99. file:///altext/stjt/1995.037.html
+ 100. file:///altext/stjt/1995.037.html
+ 101. file:///altext/stjt/2001.133.html
+ 102. file:///altext/stjt/2001.133.html
+ 103. file:///altext/stjt/2001.133.html
+ 104. file:///altext/stjt/2001.133.html
+ 105. file:///altext/stjt/2002.025.html

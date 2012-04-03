@@ -7,8 +7,15 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 1. júlí 1947. Breytt með [2]l. 60/1957 (tóku gildi 25. júní 1957),
+  [3]l. 23/1963 (tóku gildi 15. maí 1963), [4]l. 63/1965 (tóku gildi 12. júní
+    1965), [5]l. 65/1972 (tóku gildi 26. júní 1972; komu til framkvæmda skv.
+  fyrirmælum í 18. gr.), [6]l. 26/1975 (tóku gildi 11. júní 1975, sjá nú [7]l.
+137/1997), [8]l. 51/1978 (tóku gildi 6. júní 1978) og [9]l. 131/1990 (tóku gildi
+                                 1. maí 1991).
+
                      I. kafli. Um Kennaraskóla Íslands. ^1)
-                             ^1)Sjá nú [2]l. 137/1997.
+                            ^1)Sjá nú [10]l. 137/1997.
 
       II. kafli. Um kennslustofnun í uppeldisvísindum við Háskóla Íslands.
   12. gr. Við heimspekideild Háskóla Íslands skal koma á fót kennslustofnun í
@@ -28,7 +35,7 @@ tilraunakennslu. Hlutverk þessarar stofnunar er að veita kennurum við barnask
 14. gr. Rétt til að stunda nám í uppeldisvísindum við stofnun þessa og taka þar
   próf hafa allir þeir, sem lokið hafa almennu kennaraprófi, svo og stúdentar.
                                   15. gr. ^1)
-                             ^1)[3]L. 60/1957, 43. gr.
+                            ^1)[11]L. 60/1957, 43. gr.
 16. gr. Í kennslustofnun í uppeldisvísindum í háskólanum skal kenna eftirtaldar
                                     greinar:
        a. lífeðlisfræði, almenna og hagnýta sálarfræði, sálarfræði barna og
@@ -44,19 +51,19 @@ unglinga og kennslufræði, einkum í þeim greinum, sem þeir öðlast réttind
                        leggja á sjálfstæða vinnu nemenda.
  Að öðru leyti fer um nám og próf eftir reglugerð, sem sett er samkvæmt 2. gr.
                         háskólalaganna 23. júní 1936.^1)
-                               ^1)Nú [4]l. 41/1999.
+                               ^1)Nú [12]l. 41/1999.
 
                   III. kafli. Um æfinga- og tilraunaskóla. ^1)
-                             ^1)[5]L. 23/1963, 21. gr.
+                            ^1)[13]L. 23/1963, 21. gr.
 
                  IV. kafli. Um Íþróttakennaraskóla Íslands. ^1)
-                 ^1)[6]L. 65/1972, 17. gr. Sjá nú [7]l. 137/1997.
+                ^1)[14]L. 65/1972, 17. gr. Sjá nú [15]l. 137/1997.
 
                  V. kafli. Um Handíðakennaraskóla Íslands. ^1)
-                             ^1)[8]L. 23/1963, 21. gr.
+                            ^1)[16]L. 23/1963, 21. gr.
 
                      VI. kafli. Um húsmæðrakennaraskóla.^1)
-                     ^1)[9]L. 26/1975. Sjá nú [10]l. 137/1997.
+                    ^1)[17]L. 26/1975. Sjá nú [18]l. 137/1997.
  38. gr. Húsmæðrakennaraskóli skal starfa í Reykjavík eða nágrenni hennar. Hann
    skal hafa aðstöðu til þess búreksturs, sem nauðsynlegur er vegna námsins.
  39. gr. Þegar hús verður reist yfir skólann, skal þar vera heimavist fyrir þá
@@ -100,10 +107,10 @@ menntun að dómi fræðslumálastjórnar. Enn fremur skulu þeir hafa stundað 
 
                      VII. kafli. Um réttindi kennara o.fl.
                                   49. gr. ^1)
-                            ^1)[11]L. 51/1978, 18. gr.
+                            ^1)[19]L. 51/1978, 18. gr.
                                     50. gr.
                                 51.54. gr. ^1)
-                            ^1)[12]L. 51/1978, 18. gr.
+                            ^1)[20]L. 51/1978, 18. gr.
  55. gr. Fræðslumálastjórn hefur á hendi yfirumsjón þeirra skóla, er um getur í
        lögum þessum. Kostnaður við rekstur þeirra greiðist úr ríkissjóði.
 
@@ -111,14 +118,22 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1947016
-   2. file://1997137.html
-   3. file:///altext/stjtnr.html#1957060?g43
-   4. file://1999041.html
-   5. file:///altext/stjtnr.html#1963023?g21
-   6. file://1972065.html
+   2. file:///altext/stjtnr.html#1957060
+   3. file:///altext/stjtnr.html#1963023
+   4. file:///altext/stjtnr.html#1965063
+   5. file://1972065.html
+   6. file:///altext/stjtnr.html#1975026
    7. file://1997137.html
-   8. file:///altext/stjtnr.html#1963023?g21
-   9. file:///altext/stjtnr.html#1975026
+   8. file:///altext/stjtnr.html#1978051
+   9. file://1990131.html
   10. file://1997137.html
-  11. file:///altext/stjtnr.html#1978051?g18
-  12. file:///altext/stjtnr.html#1978051?g18
+  11. file:///altext/stjtnr.html#1957060?g43
+  12. file://1999041.html
+  13. file:///altext/stjtnr.html#1963023?g21
+  14. file://1972065.html
+  15. file://1997137.html
+  16. file:///altext/stjtnr.html#1963023?g21
+  17. file:///altext/stjtnr.html#1975026
+  18. file://1997137.html
+  19. file:///altext/stjtnr.html#1978051?g18
+  20. file:///altext/stjtnr.html#1978051?g18

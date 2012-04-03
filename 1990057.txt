@@ -7,9 +7,10 @@
 
    --------------------------------------------------------------------------
 
- Tóku gildi 1. júlí 1990. Breytt með [2]l. 73/1996 (tóku gildi 19. júní 1996),
-  [3]l. 140/1996 (tóku gildi 1. jan. 1997) og [4]l. 48/2002 (tóku gildi 7. maí
-                                     2002).
+  Tóku gildi 1. júlí 1990. Breytt með [2]l. 144/1995 (tóku gildi 1. jan. 1996;
+ komu til framkvæmda skv. fyrirmælum í 59. gr.), [3]l. 73/1996 (tóku gildi 19.
+ júní 1996), [4]l. 140/1996 (tóku gildi 1. jan. 1997 nema 1. gr. sem tók gildi
+           30. des. 1996) og [5]l. 48/2002 (tóku gildi 7. maí 2002).
 
                I. kafli. Um flokkun, meðferð og sölumat á gærum.
                                  Flokkun gæra.
@@ -18,7 +19,7 @@
  framleiðenda eftir því sem sundurliðun á verðlagsgrundvelli gefur tilefni til.
     Við flokkun gæra skal taka tillit til ástands, eðlisgæða og litar þeirra
                     samkvæmt nánari ákvæðum í reglugerð.^1)
-                                ^1)[5]Rg. 405/1986.
+                                ^1)[6]Rg. 405/1986.
                             Meðferð og sölumat gæra.
      2. gr. Sláturleyfishöfum er skylt að hlíta fyrirmælum gærumatsmanna um
 fyrirristu, fláningu, kælingu, söltun, frágang, geymslu og afhendingu gæra. Við
@@ -65,17 +66,17 @@ framkvæmd mats á gærum og ull og er matsmönnum skylt að hlíta mati í samr
                          fyrirmæli viðkomandi nefndar.
 [Heimilt er landbúnaðarráðherra að setja nánari ákvæði^3) um starfssvið gæru- og
                 ullarmatsmanna og nefnda skv. 1. og 2. mgr.]^2)
-    ^1)[6]L. 73/1996, 24. gr. ^2)[7]L. 48/2002, 1. gr. ^3)[8]Rg. 410/1990, sbr.
-                                  [9]601/1996.
+    ^1)[7]L. 73/1996, 24. gr. ^2)[8]L. 48/2002, 1. gr. ^3)[9]Rg. 410/1990, sbr.
+                                 [10]601/1996.
 
                             IV. kafli. Ýmis ákvæði.
                                    Kostnaður.
  7. gr. [Kostnaður af starfi gæru- og ullarmatsnefnda greiðist úr ríkissjóði en
         kostnað af starfi matsmanna greiða viðkomandi afurðastöðvar.]^1)
-  [Um gjald af sláturleyfishöfum fyrir yfirmat fer samkvæmt ákvæðum [10]9. gr.
+  [Um gjald af sláturleyfishöfum fyrir yfirmat fer samkvæmt ákvæðum [11]9. gr.
    laga nr. 30/1966,^2) um meðferð, skoðun og mat á sláturafurðum, með síðari
                                 breytingum.]^3)
-    ^1)[11]L. 48/2002, 2. gr. ^2)Nú [12]l. 96/1997. ^3)[13]L. 140/1996, 7. gr.
+    ^1)[12]L. 48/2002, 2. gr. ^2)Nú [13]l. 96/1997. ^3)[14]L. 140/1996, 7. gr.
                             Refsiákvæði, gildistaka.
   8. gr. Brot á ákvæðum laga þessara og reglugerða, sem settar verða samkvæmt
  þeim, varða sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Með mál
@@ -86,15 +87,16 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1990057
-   2. file:///altext/stjt/1996.073.html
-   3. file:///altext/stjt/1996.140.html
-   4. file:///altext/stjt/2002.048.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/405-1986
-   6. file:///altext/stjt/1996.073.html
-   7. file:///altext/stjt/2002.048.html
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/410-1990
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/601-1996
-  10. file://1966030.html
-  11. file:///altext/stjt/2002.048.html
-  12. file://1997096.html
-  13. file:///altext/stjt/1996.140.html
+   2. file:///altext/stjt/1995.144.html
+   3. file:///altext/stjt/1996.073.html
+   4. file:///altext/stjt/1996.140.html
+   5. file:///altext/stjt/2002.048.html
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/405-1986
+   7. file:///altext/stjt/1996.073.html
+   8. file:///altext/stjt/2002.048.html
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/410-1990
+  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/601-1996
+  11. file://1966030.html
+  12. file:///altext/stjt/2002.048.html
+  13. file://1997096.html
+  14. file:///altext/stjt/1996.140.html

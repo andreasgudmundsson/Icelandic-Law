@@ -7,6 +7,9 @@
 
    --------------------------------------------------------------------------
 
+Tóku gildi 28. apríl 2000. Breytt með [2]l. 77/2000 (tóku gildi 1. jan. 2001) og
+                    [3]l. 96/2002 (tóku gildi 1. jan. 2003).
+
     1. gr. Lög þessi gilda um íslenska hluta Schengen-upplýsingakerfisins og
          persónuvernd við skráningu og meðferð upplýsinga í því kerfi.
 Með íslenska hluta Schengen-upplýsingakerfisins er átt við rafrænt gagnasafn sem
@@ -74,7 +77,7 @@ hefur verið ákærður og koma þarf fyrir dóm eða manns sem birta á dóm í
      d. málsatvik, þar með talið hvar og hvenær brot var framið og þáttur hins
                                eftirlýsta í því,
            e. eftir því sem mögulegt er, hverjar eru afleiðingar brots.
-                             ^1)[2]L. 96/2002, 59. gr.
+                             ^1)[4]L. 96/2002, 59. gr.
        7. gr. Heimilt er að skrá upplýsingar um einstaklinga og ökutæki í
    upplýsingakerfið til að fram fari eftirlit með leynd, leit, líkamsleit eða
                     líkamsrannsókn í eftirfarandi tilvikum:
@@ -109,7 +112,7 @@ Til að starfa við upplýsingakerfið verður viðkomandi starfsmaður að fá 
 heimild ríkislögreglustjóra, enda fullnægi hann settum hæfis- og öryggiskröfum.
  Viðkomandi starfsmaður skal einungis hafa þann aðgang að kerfinu sem honum er
                      nauðsynlegur til að gegna starfi sínu.
-                             ^1)[3]L. 96/2002, 59. gr.
+                             ^1)[5]L. 96/2002, 59. gr.
  11. gr. Eftirtalin stjórnvöld skulu eftir beiðni hafa aðgang að upplýsingum úr
    upplýsingakerfinu að því marki sem þeim er nauðsynlegt til að sinna þessum
                                    verkefnum:
@@ -175,7 +178,7 @@ gilda um persónuvernd og friðhelgi einkalífs. [Persónuvernd]^1) skal einnig 
  Nú gerir [Persónuvernd]^1) athugasemdir við starfrækslu upplýsingakerfisins og
 skal hún þá koma þeim og tillögum um úrbætur á framfæri við ríkislögreglustjóra
                              og dómsmálaráðuneytið.
-                             ^1)[4]L. 77/2000, 46. gr.
+                             ^1)[6]L. 77/2000, 46. gr.
  19. gr. Ráðherra setur nánari ákvæði í reglugerð^1) um framkvæmd laganna, þar
                                  með talið um:
     a. öryggisþætti upplýsingakerfisins og innra eftirlit með því, sbr. 3. gr.,
@@ -183,16 +186,18 @@ skal hún þá koma þeim og tillögum um úrbætur á framfæri við ríkislög
 [Útlendingastofnunar]^2) verða að fullnægja til að starfa við upplýsingakerfið,
                              sbr. 2. mgr. 10. gr.,
         c. eftirlit [Persónuverndar]^3) með upplýsingakerfinu, sbr. 18. gr.
-      ^1)[5]Rg. 112/2001. ^2)[6]L. 96/2002, 59. gr. ^3)[7]L. 77/2000, 46. gr.
+      ^1)[7]Rg. 112/2001. ^2)[8]L. 96/2002, 59. gr. ^3)[9]L. 77/2000, 46. gr.
                      20. gr. Lög þessi öðlast þegar gildi.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000016
-   2. file://2002096.html#g59
-   3. file://2002096.html#g59
-   4. file://2000077.html#g46
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-2001
-   6. file://2002096.html#g59
-   7. file://2000077.html#g46
+   2. file://2000077.html
+   3. file://2002096.html
+   4. file://2002096.html#g59
+   5. file://2002096.html#g59
+   6. file://2000077.html#g46
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-2001
+   8. file://2002096.html#g59
+   9. file://2000077.html#g46

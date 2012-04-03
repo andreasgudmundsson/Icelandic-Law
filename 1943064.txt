@@ -7,11 +7,16 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 1. janúar 1944. Breytt með [2]l. 22/1962 (tóku gildi 4. maí 1962),
+   [3]l. 20/1991 (tóku gildi 1. júlí 1992), [4]l. 90/1991 (tóku gildi 1. júlí
+ 1992), [5]l. 95/1994 (tóku gildi 3. júní 1994), [6]l. 63/2001 (tóku gildi 13.
+            júní 2001) og [7]l. 165/2002 (tóku gildi 1. jan. 2003).
+
   1. gr. Í A-deild Stjórnartíðinda skal birta lög öll, tilskipanir, opin bréf,
 auglýsingar ^1) og aðrar tilkynningar almenns efnis, sem út eru gefnar af æðsta
 handhafa framkvæmdarvaldsins, svo og reglur, sem sameinað Alþingi kann að setja
                 um framkvæmd almennra málefna í þingsályktunum.
-                             ^1)[2]L. 22/1962, 1. gr.
+                             ^1)[8]L. 22/1962, 1. gr.
 2. gr. Í B-deild Stjórnartíðinda skal birta reglugerðir, erindisbréf, samþykktir
   og auglýsingar, sem gefnar eru út eða staðfestar af ráðherra, umburðarbréf,
 ákvarðanir og úrlausnir ráðuneyta, sem almenna þýðingu hafa, veitingar opinberra
@@ -27,7 +32,7 @@ handhafa framkvæmdarvaldsins, svo og reglur, sem sameinað Alþingi kann að se
        auglýsingar varðandi gildi þeirra. [Birting ákvarðana sameiginlegu
    EES-nefndarinnar og þeirra gerða, sem þar er vísað til, í EES-viðbæti við
        Stjórnartíðindi EB telst jafngild birting að þessu leyti.]^2)]^3)
-    ^1)[3]L. 95/1994, 1. gr. ^2)[4]L. 63/2001, 1. gr. ^3)[5]L. 22/1962, 2. gr.
+   ^1)[9]L. 95/1994, 1. gr. ^2)[10]L. 63/2001, 1. gr. ^3)[11]L. 22/1962, 2. gr.
   3. gr. Í Lögbirtingablaði skal birta dómsmálaauglýsingar, svo sem opinberar
   stefnur til dóms, úrskurði um töku búa til opinberra skipta og áskoranir um
         kröfulýsingar, auglýsingar um skiptafundi og skiptalok þrotabúa,
@@ -37,7 +42,7 @@ skipta]^2) auglýsingar um vogrek, óskilafé og fundið fé, auglýsingar um ka
   firmu og vörumerki, sérleyfi, er stjórnvöld veita, opinber verðlagsákvæði og
  annað það, er stjórnvöldum þykir rétt að birta almenningi. Einnig skal heimilt
  vera að birta í Lögbirtingablaði auglýsingar og tilkynningar einstakra manna.
-               ^1)[6]L. 90/1991, 91. gr. ^2)[7]L. 20/1991, 136. gr.
+              ^1)[12]L. 90/1991, 91. gr. ^2)[13]L. 20/1991, 136. gr.
  4. gr. Vafamál um það, hvar birta skuli atriði þau, er í 1.3. gr. segir, eða
          hvort erindi skuli birt eða eigi, úrskurðar dómsmálaráðherra.
   5. gr. Dómsmálaráðuneytið gefur Stjórnartíðindi og Lögbirtingablað út. Ræður
@@ -51,7 +56,7 @@ dómsmálaráðherra mann eða menn til útgáfunnar og segir fyrir um tilhögun
   einstök tölublöð send gegn greiðslu kostnaðar af prentun þeirra og sendingu.
         Dómsmálaráðherra mælir í reglugerð nánar fyrir um rafræna útgáfu
        Lögbirtingablaðs, þar á meðal um persónuvernd og gagnaöryggi.]^1)
-                             ^1)[8]L. 165/2002, 1. gr.
+                            ^1)[14]L. 165/2002, 1. gr.
     6. gr. Kostnaður af útgáfu Stjórnartíðinda og Lögbirtingablaðs telst til
   skrifstofukostnaðar dómsmálaráðuneytisins, enda kveður dómsmálaráðherra á um
 gjöld fyrir auglýsingar, er aðilar eiga að greiða. Einnig getur dómsmálaráðherra
@@ -69,10 +74,16 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1943064
-   2. file:///altext/stjtnr.html#1962022?g1
-   3. file:///altext/stjt/1994.095.html
-   4. file:///altext/stjt/2001.063.html
-   5. file:///altext/stjtnr.html#1962022?g2
-   6. file://1991090.html#g91
-   7. file://1991020.html#g136
-   8. file:///altext/stjt/2002.165.html
+   2. file:///altext/stjtnr.html#1962022
+   3. file://1991020.html
+   4. file://1991090.html
+   5. file:///altext/stjt/1994.095.html
+   6. file:///altext/stjt/2001.063.html
+   7. file:///altext/stjt/2002.165.html
+   8. file:///altext/stjtnr.html#1962022?g1
+   9. file:///altext/stjt/1994.095.html
+  10. file:///altext/stjt/2001.063.html
+  11. file:///altext/stjtnr.html#1962022?g2
+  12. file://1991090.html#g91
+  13. file://1991020.html#g136
+  14. file:///altext/stjt/2002.165.html

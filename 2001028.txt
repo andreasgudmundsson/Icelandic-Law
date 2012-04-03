@@ -7,6 +7,8 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 16. maí 2001. Breytt með [2]l. 72/2003 (tóku gildi 10. apríl 2003).
+
                         I. kafli. Markmið og gildissvið.
                                 1. gr. Markmið.
    Markmið laga þessara er að kveða á um réttaráhrif rafrænna undirskrifta og
@@ -105,10 +107,12 @@ Ekki skal vera unnt að nota öruggan undirskriftarbúnað til að breyta þeim 
         a. þar til bær aðili hefur staðfest að hann uppfylli kröfur 8. gr.;
  viðskiptaráðherra getur í reglugerð kveðið á um þá aðila sem veitt geta slíka
                                staðfestingu, eða
-      b. þar til bær aðili á Evrópska efnahagssvæðinu hefur viðurkennt hann.
+        b. þar til bær aðili á Evrópska efnahagssvæðinu [eða í aðildarríki
+      stofnsamnings Fríverslunarsamtaka Evrópu]^1) hefur viðurkennt hann.
 Líta skal svo á að undirskriftarbúnaður teljist öruggur skv. 8. gr. ef hann er í
  samræmi við staðla sem framkvæmdastjórn Evrópusambandsins hefur sett um slíkan
        búnað og birtir hafa verið í Stjórnartíðindum Evrópubandalagsins.
+                             ^1)[3]L. 72/2003, 54. gr.
 
         V. kafli. Kröfur til vottunaraðila sem gefa út fullgild vottorð.
                        10. gr. Kröfur til starfseminnar.
@@ -263,14 +267,18 @@ dagsektir falla ekki niður þrátt fyrir að orðið sé við kröfum Löggildi
    Vottorð, gefin út af vottunaraðilum sem hafa staðfestu utan Íslands, skulu
              teljast fullgild vottorð í skilningi laga þessara ef:
    a. vottunaraðilinn fullnægir ákvæðum laga þessara og hefur verið viðurkenndur
-          af valfrjálsu faggildingarkerfi á Evrópska efnahagssvæðinu,
-   b. vottunaraðili, sem hefur staðfestu á Evrópska efnahagssvæðinu og uppfyllir
-                    ákvæði laga þessara, ábyrgist vottorðið,
+ af valfrjálsu faggildingarkerfi á Evrópska efnahagssvæðinu [eða í aðildarríki
+                 stofnsamnings Fríverslunarsamtaka Evrópu],^1)
+      b. vottunaraðili, sem hefur staðfestu á Evrópska efnahagssvæðinu [eða í
+  aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu]^1) og uppfyllir ákvæði
+                       laga þessara, ábyrgist vottorðið,
    c. vottorðið stafar frá vottunaraðila sem hefur staðfestu í landi á Evrópska
-   efnahagssvæðinu og uppfyllir kröfur þess lands til fullgildra vottorða eða
+efnahagssvæðinu [eða í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu]^1)
+           og uppfyllir kröfur þess lands til fullgildra vottorða eða
            d. vottorðið eða vottunaraðilinn er viðurkenndur af Íslandi,
  Evrópubandalaginu, ríkjum utan Evrópubandalagsins eða alþjóðlegum stofnunum, í
                        tvíhliða eða marghliða samningum.
+                             ^1)[4]L. 72/2003, 55. gr.
                                23. gr. Viðurlög.
  Fyrir brot gegn lögum þessum skal refsað með sektum nema þyngri refsing liggi
                            við samkvæmt öðrum lögum.
@@ -291,3 +299,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001028
+   2. file:///altext/stjt/2003.072.html
+   3. file:///altext/stjt/2003.072.html
+   4. file:///altext/stjt/2003.072.html
