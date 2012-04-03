@@ -1,3 +1,4 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -7,7 +8,7 @@
 
    --------------------------------------------------------------------------
 
-                            Tóku gildi 10. maí 2002.
+  Tóku gildi 10. maí 2002. Breytt með [2]l. 44/2004 (tóku gildi 26. maí 2004).
 
                               I. kafli. Hlutverk.
  1. gr. Tækniháskóli Íslands er menntastofnun á háskólastigi. Háskólinn veitir
@@ -42,7 +43,19 @@ prófessors, dósents eða lektors nema meiri hluti dómnefndar hafi látið þa
  Háskólaráði er heimilt að setja reglur sem kveða á um að ákvæði 3. mgr. gildi
 við ráðningu sérfræðinga á sviði rannsókna og annarra fræðistarfa við háskólann.
 Háskólaráð setur nánari reglur um nýráðningar í starfi þar sem einnig er kveðið
-                    á um störf dómnefnda og meðferð umsókna.
+  á um störf dómnefnda og meðferð umsókna. [Háskólaráð getur mælt svo fyrir í
+     reglunum að undanþiggja megi auglýsingu störf sem byggjast á sérstökum
+tímabundnum styrkjum, störf sem tengjast sérstökum tímabundnum verkefnum, störf
+  sem nemendur stunda við háskólann samhliða rannsóknartengdu framhaldsnámi og
+    störf við háskólann sem tengjast tilteknu starfi utan hans á grundvelli
+                             samstarfssamnings.]^1)
+[Heimilt er að ráða kennara til háskólans tímabundinni ráðningu til allt að fimm
+ ára. Um tilhögun slíkrar ráðningar skal háskólaráð setja reglur. Sama á við um
+            þá sem eingöngu eru ráðnir til vísinda- og fræðistarfa.
+Kennara má ráða í hlutastarf í samræmi við reglur sem háskólaráð setur. Heimilt
+    er að tengja starf kennara tilteknu starfi utan háskólans eða starfi við
+            stofnanir hans samkvæmt reglum sem háskólaráð setur.]^1)
+                             ^1)[3]L. 44/2004, 1. gr.
     4. gr. Háskólaráð skal, að fengnum tillögum deilda, staðfesta reglur um
        skráningu nemenda í einstakar deildir þar sem nánar er kveðið á um
 inntökuskilyrði í viðkomandi deild. Þeir einir teljast nemendur við Tækniháskóla
@@ -155,12 +168,12 @@ ráðningu kennara og annarra starfsmanna. Háskólaráð setur nánari reglur u
                             framkvæmd þessara laga.
   17. gr. Allar reglur^1) sem háskólaráð setur á grundvelli laga þessara skulu
                            birtar í Stjórnartíðindum.
-                      ^1)[2]Rgl. 813/2002, [3]rgl. 429/2003.
-18. gr. Lög þessi eru sett með hliðsjón af [4]lögum um háskóla, nr. 136/1997, og
+           ^1)[4]Rgl. 813/2002, sbr. [5]rgl. 596/2004; [6]rgl. 429/2003.
+18. gr. Lög þessi eru sett með hliðsjón af [7]lögum um háskóla, nr. 136/1997, og
                               öðlast þegar gildi.
     Ákvæði til bráðabirgða. Þrátt fyrir ákvæði 18. gr. gildir eftirfarandi:
 Tækniskóli Íslands skal starfa áfram fram að brautskráningu nemenda 1. júní 2002
-            í samræmi við [5]lög nr. 66/1972, með síðari breytingum.
+            í samræmi við [8]lög nr. 66/1972, með síðari breytingum.
  Um þá sem við gildistöku laga þessara eru starfsmenn eða nemendur í Tækniskóla
                           Íslands gildir eftirfarandi:
     a. Nemendur sem við gildistöku laga þessara stunda nám í Tækniskóla Íslands
@@ -200,7 +213,10 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002053
-   2. http://stjornartidindi.is/servlet/stjrtid/B/2002/813.pdf
-   3. http://stjornartidindi.is/servlet/stjrtid/B/2003/429.pdf
-   4. file://1997136.html
-   5. file://1972066.html
+   2. file:///altext/stjt/2004.044.html
+   3. file:///altext/stjt/2004.044.html
+   4. http://stjornartidindi.is/servlet/stjrtid/B/2002/813.pdf
+   5. http://stjornartidindi.is/servlet/stjrtid/B/2004/596.pdf
+   6. http://stjornartidindi.is/servlet/stjrtid/B/2003/429.pdf
+   7. file://1997136.html
+   8. file://1972066.html

@@ -1,3 +1,4 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -7,8 +8,9 @@
 
    --------------------------------------------------------------------------
 
-Tóku gildi 1. janúar 1985. Breytt með [2]l. 58/1986 (tóku gildi 21. maí 1986) og
-                    [3]l. 83/1997 (tóku gildi 6. júní 1997).
+ Tóku gildi 1. janúar 1985. Breytt með [2]l. 58/1986 (tóku gildi 21. maí 1986),
+  [3]l. 83/1997 (tóku gildi 6. júní 1997) og [4]l. 21/2004 (tóku gildi 11. maí
+                                     2004).
 
    1. gr. Ríkið starfræki stofnun sem nefnist Þjónustu- og endurhæfingarstöð
       sjónskertra. Fyrir stofnuninni skal vera yfirlæknir, sérmenntaður í
@@ -18,31 +20,37 @@ starfsmenn skulu vera sjóntækja- og sjónfræðingar, sjónþjálfar, félagsr
    2. gr. [Ráðherra skipar yfirlækni til fimm ára í senn að fengnum tillögum
    stöðunefndar samkvæmt lögum um heilbrigðisþjónustu. Yfirlæknir ræður aðra
                          starfsmenn stofnunarinnar.]^1)
-                             ^1)[4]L. 83/1997, 55. gr.
+                             ^1)[5]L. 83/1997, 55. gr.
  3. gr. Stofnunin heyrir undir heilbrigðis- og tryggingamálaráðherra sem skipar
 henni sérstaka stjórn. Stjórnin skal skipuð þremur mönnum og þremur til vara til
   fjögurra ára í senn. Ráðherra skipar einn án tilnefningar og skal hann vera
   formaður. Blindrafélagið tilnefnir einn og Augnlæknafélag Íslands einn. Sömu
                            reglur gilda um varamenn.
-   4. gr. Stofnunin skal annast hvers konar þjónustu við sjónskerta, svo sem
+     4. gr. [Stofnunin skal annast hvers konar þjónustu við sjónskerta sem
+        sjúkratryggðir eru samkvæmt lögum um almannatryggingar, svo sem
  sjúkdómsgreiningu, mælingu, úthlutun sérhæfðra hjálpartækja, þjálfun og hvers
-              konar endurhæfingu sem sjónskertir þurfa á að halda.
+    konar endurhæfingu sem sjónskertir þurfa á að halda. Heimilt er að veita
+sjónskertum sem ekki eru sjúkratryggðir samkvæmt lögum um almannatryggingar sömu
+                 þjónustu gegn gjaldi, sbr. 2. mgr. 6. gr.]^1)
 Stofnunin skal í samráði við landlækni halda skrá yfir alla þá landsmenn sem eru
                                   sjónskertir.
 Við stofnunina skal starfrækja sjóngleraþjónustu undir stjórn sjóntækjafræðings.
       Stofnunin hefur yfirumsjón með þjálfun og endurhæfingu sjónskertra,
  sjóntækjameðferð og sjónrannsóknum í samráði við aðra aðila er starfa á þessum
                                    vettvangi.
+                             ^1)[6]L. 21/2004, 1. gr.
 5. gr. Stofnunin skal annast útvegun á hvers konar sérhæfðum hjálpartækjum fyrir
 sjónskerta sem yfirlæknir hennar eða aðrir læknar á vegum stöðvarinnar úrskurða
                                   nauðsynleg.
-Ráðherra setur að fengnum tillögum stjórnar stofnunarinnar reglur^1) um þátttöku
-   ríkisins í kostnaði vegna slíkra tækja í samræmi við hliðstæðar greiðslur
-                               almannatrygginga.
-                                ^1)[5]Rg. 59/1987.
-6. gr. Að fengnum tillögum stjórnar stofnunarinnar er ráðherra heimilt að setja
-með reglugerð gjaldskrá fyrir veitta þjónustu stöðvarinnar og skal sú gjaldskrá
-          vera í samræmi við gjöld fyrir aðra veitta sérfræðiþjónustu.
+ [Ráðherra skal setja reglugerð^1) um þátttöku ríkisins í kostnaði við sérhæfð
+       hjálpartæki fyrir sjónskerta að höfðu samráði við stofnunina.]^2)
+                    ^1)[7]Rg. 59/1987. ^2)[8]L. 21/2004, 2. gr.
+ 6. gr. [Sjúkratryggður einstaklingur samkvæmt lögum um almannatryggingar skal
+greiða gjald fyrir sérfræðilæknisþjónustu og rannsóknir samkvæmt ákvæðum laga um
+           almannatryggingar og reglum settum með stoð í þeim lögum.
+Einstaklingur sem ekki er sjúkratryggður hér á landi skal greiða gjald samkvæmt
+                       gjaldskrá sem ráðherra setur.]^1)
+                             ^1)[9]L. 21/2004, 3. gr.
 7. gr. Stofnunin skipuleggur í samráði við landlækni ferðir starfsmanna sinna og
            annarra sérfræðinga til aðstoðar sjónskertum úti á landi.
      8. gr. Stofnunin hefur í samráði við starfandi kennara blindradeildar
@@ -65,5 +73,9 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1984018
    2. file:///altext/stjtnr.html#1986058
    3. file:///altext/stjt/1997.083.html
-   4. file:///altext/stjt/1997.083.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/059-1987
+   4. file:///altext/stjt/2004.021.html
+   5. file:///altext/stjt/1997.083.html
+   6. file:///altext/stjt/2004.021.html
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/059-1987
+   8. file:///altext/stjt/2004.021.html
+   9. file:///altext/stjt/2004.021.html
