@@ -1,792 +1,613 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
-                                                                 Lög um dómstóla
+                                Lög um dómstóla
 
                               1998 nr. 15 25. mars
 
    --------------------------------------------------------------------------
 
-                                   I. kafli.
-                               Dómstólaskipanin.
-                                     1. gr.
-                      Hæstiréttur Íslands er æðsti dómstóll ríkisins. Hann er
-                              áfrýjunardómstóll og hefur aðsetur í Reykjavík.
+                          I. kafli. Dómstólaskipanin.
+1. gr. Hæstiréttur Íslands er æðsti dómstóll ríkisins. Hann er áfrýjunardómstóll
+                         og hefur aðsetur í Reykjavík.
+2. gr. Dómstólar í héraði eru átta. Heiti þeirra, aðsetur og umdæmi eru sem hér
+                                     segir:
+        1. Héraðsdómur Reykjavíkur hefur aðsetur í Reykjavík og heyra þessi
+    sveitarfélög til umdæmis hans: Reykjavíkurborg, Seltjarnarneskaupstaður,
+                         Mosfellsbær og Kjósarhreppur.
+       2. Héraðsdómur Vesturlands hefur aðsetur í Borgarnesi og heyra þessi
+ sveitarfélög til umdæmis hans: Akraneskaupstaður, Hvalfjarðarstrandarhreppur,
+Skilmannahreppur, Innri-Akraneshreppur, Leirár- og Melahreppur, Andakílshreppur,
+Skorradalshreppur, Lundarreykjadalshreppur, Reykholtsdalshreppur, Hálsahreppur,
+      Hvítársíðuhreppur, Þverárhlíðarhreppur, Borgarhreppur, Borgarbyggð,
+Álftaneshreppur, Kolbeinsstaðahreppur, Eyja- og Miklaholtshreppur, Snæfellsbær,
+  Eyrarsveit, Helgafellssveit, Stykkishólmsbær, Dalabyggð og Saurbæjarhreppur.
+         3. Héraðsdómur Vestfjarða hefur aðsetur á Ísafirði og heyra þessi
+          sveitarfélög til umdæmis hans: Reykhólahreppur, Vesturbyggð,
+Tálknafjarðarhreppur, Bolungarvíkurkaupstaður, Ísafjarðarbær, Súðavíkurhreppur,
+    Árneshreppur, Kaldrananeshreppur, Hólmavíkurhreppur, Kirkjubólshreppur,
+                       Broddaneshreppur og Bæjarhreppur.
+   4. Héraðsdómur Norðurlands vestra hefur aðsetur á Sauðárkróki og heyra þessi
+    sveitarfélög til umdæmis hans: Staðarhreppur, Fremri-Torfustaðahreppur,
+Ytri-Torfustaðahreppur, Hvammstangahreppur, Kirkjuhvammshreppur, Þverárhreppur,
+     Þorkelshólshreppur, Áshreppur, Sveinsstaðahreppur, Torfalækjarhreppur,
+   Blönduósbær, Svínavatnshreppur, Bólstaðarhlíðarhreppur, Engihlíðarhreppur,
+       Vindhælishreppur, Höfðahreppur, Skagahreppur, Skefilsstaðahreppur,
+       Skarðshreppur, Sauðárkrókskaupstaður, Staðarhreppur, Seyluhreppur,
+ Lýtingsstaðahreppur, Akrahreppur, Rípurhreppur, Viðvíkurhreppur, Hólahreppur,
+             Hofshreppur, Fljótahreppur og Siglufjarðarkaupstaður.
+     5. Héraðsdómur Norðurlands eystra hefur aðsetur á Akureyri og heyra þessi
+   sveitarfélög til umdæmis hans: Ólafsfjarðarkaupstaður, Grímseyjarhreppur,
+  Dalvíkurkaupstaður, Svarfaðardalshreppur, Hríseyjarhreppur, Árskógshreppur,
+      Arnarneshreppur, Skriðuhreppur, Öxnadalshreppur, Glæsibæjarhreppur,
+        Akureyrarkaupstaður, Eyjafjarðarsveit, Svalbarðsstrandarhreppur,
+      Grýtubakkahreppur, Hálshreppur, Ljósavatnshreppur, Bárðdælahreppur,
+      Skútustaðahreppur, Reykdælahreppur, Aðaldælahreppur, Reykjahreppur,
+   Húsavíkurkaupstaður, Tjörneshreppur, Kelduneshreppur, Öxarfjarðarhreppur,
+          Raufarhafnarhreppur, Svalbarðshreppur og Þórshafnarhreppur.
+       6. Héraðsdómur Austurlands hefur aðsetur á Egilsstöðum og heyra þessi
+    sveitarfélög til umdæmis hans: Skeggjastaðahreppur, Vopnafjarðarhreppur,
+   Hlíðar-, Jökuldals- og Tunguhreppur, Fljótsdalshreppur, Skriðdalshreppur,
+  Vallahreppur, Egilsstaðabær, Fellahreppur, Eiðahreppur, Hjaltastaðahreppur,
+         Borgarfjarðarhreppur, Seyðisfjarðarkaupstaður, Neskaupstaður,
+        Eskifjarðarkaupstaður, Reyðarfjarðarhreppur, Mjóafjarðarhreppur,
+     Fáskrúðsfjarðarhreppur, Búðahreppur, Stöðvarhreppur, Breiðdalshreppur,
+    Djúpavogshreppur, Bæjarhreppur, Hornarfjarðarbær, Borgarhafnarhreppur og
+                                  Hofshreppur.
+         7. Héraðsdómur Suðurlands hefur aðsetur á Selfossi og heyra þessi
+         sveitarfélög til umdæmis hans: Skaftárhreppur, Mýrdalshreppur,
+  Austur-Eyjafjallahreppur, Vestur-Eyjafjallahreppur, Austur-Landeyjahreppur,
+ Vestur-Landeyjahreppur, Fljótshlíðarhreppur, Hvolhreppur, Rangárvallahreppur,
+       Holta- og Landsveit, Ásahreppur, Djúpárhreppur, Vestmannaeyjabær,
+Gaulverjabæjarhreppur, Stokkseyrarhreppur, Eyrarbakkahreppur, Sandvíkurhreppur,
+  Selfosskaupstaður, Hraungerðishreppur, Villingaholtshreppur, Skeiðahreppur,
+ Gnúpverjahreppur, Hrunamannahreppur, Biskupstungnahreppur, Laugardalshreppur,
+     Grímsneshreppur, Þingvallahreppur, Grafningshreppur, Hveragerðisbær og
+                                 Ölfushreppur.
+       8. Héraðsdómur Reykjaness hefur aðsetur í Hafnarfirði og heyra þessi
+      sveitarfélög til umdæmis hans: Grindavíkurkaupstaður, Sandgerðisbær,
+Gerðahreppur, Reykjanesbær, Vatnsleysustrandarhreppur, Hafnarfjarðarkaupstaður,
+                  Garðabær, Bessastaðahreppur og Kópavogsbær.
+Umdæmi hvers héraðsdómstóls skal vera ein þinghá. Frá þessu má dómsmálaráðherra
+  þó víkja með reglugerð sem hann getur sett að fenginni umsögn hlutaðeigandi
+                       héraðsdómstóls og dómstólaráðs.^1)
+                                 ^1)Rg. 395/1998.
+ 3. gr. Aðrir dómstólar eru Félagsdómur og Landsdómur. Um þá sérdómstóla gilda
+                             ákvæði í öðrum lögum.
 
-                                     2. gr.
-         Dómstólar í héraði eru átta. Heiti þeirra, aðsetur og umdæmi eru sem
-                                                                   hér segir:
+                        II. kafli. Hæstiréttur Íslands.
+4. gr. Í Hæstarétti eiga sæti níu dómarar sem forseti Íslands skipar ótímabundið
+                       samkvæmt tillögu dómsmálaráðherra.
+ Þann einn má skipa í embætti hæstaréttardómara sem fullnægir þessum skilyrðum:
+                            1. Hefur náð 35 ára aldri.
+                       2. Hefur íslenskan ríkisborgararétt.
+     3. Er svo á sig kominn andlega og líkamlega að hann geti gegnt embættinu.
+              4. Er lögráða og hefur aldrei misst forræði á búi sínu.
+   5. Hefur hvorki gerst sekur um refsivert athæfi sem má telja svívirðilegt að
+ almenningsáliti né sýnt af sér háttsemi sem getur rýrt það traust sem dómarar
+                            verða almennt að njóta.
+    6. Hefur lokið embættisprófi í lögfræði eða háskólaprófi í þeirri grein sem
+                           metið verður því jafngilt.
+     7. Hefur starfað í minnst þrjú ár sem héraðsdómari, hæstaréttarlögmaður,
+        prófessor í lögum, lögreglustjóri, sýslumaður, ríkissaksóknari,
+     vararíkissaksóknari, saksóknari, ráðuneytisstjóri, skrifstofustjóri í
+dómsmálaráðuneytinu eða umboðsmaður Alþingis eða hefur um jafnlangan tíma gegnt
+          öðru líku starfi sem veitir hliðstæða lögfræðilega reynslu.
+      8. Telst vera hæfur til að gegna embættinu í ljósi starfsferils síns og
+                           lögfræðilegrar þekkingar.
+Í embætti hæstaréttardómara má ekki skipa þann sem er eða hefur verið í hjúskap
+  við dómara sem þar er skipaður fyrir eða skyldur slíkum dómara eða mægður að
+                 feðgatali, niðjatali eða öðrum lið til hliðar.
+   Áður en skipað verður í dómaraembætti skal dómsmálaráðherra leita umsagnar
+Hæstaréttar um hæfi og hæfni umsækjenda til að gegna því. Umsækjanda verður ekki
+    veitt embættið ef í umsögninni kemur fram það álit að hann fullnægi ekki
+                       skilyrðum 5. eða 8. tölul. 2. mgr.
+     5. gr. Hæstaréttardómarar kjósa sér forseta til tveggja ára í senn og
+ varaforseta til sama tíma. Varaforseti gegnir störfum forseta þegar hann hefur
+  forföll eða er fjarstaddur. Biðjist forseti eða varaforseti lausnar frá því
+   starfi eða láti hann af dómaraembætti áður en kjörtímabili er lokið skulu
+  dómarar kjósa annan í hans stað til loka þess. Hæstiréttur tilkynnir um kjör
+           forseta og varaforseta með auglýsingu í Lögbirtingablaði.
+  Forseti fer með yfirstjórn Hæstaréttar. Með þeim takmörkunum, sem leiðir af
+öðrum ákvæðum laga, stýrir forseti meðal annars þeirri starfsemi Hæstaréttar sem
+er ekki hluti af meðferð máls fyrir dómi, skiptir verkum milli dómara og annarra
+starfsmanna og fer með agavald yfir þeim. Hann ber ábyrgð á rekstri Hæstaréttar
+  og fjárreiðum og kemur fram af hálfu dómstólsins út á við, auk þess að gegna
+           þeim sérstöku störfum sem mælt er fyrir um í öðrum lögum.
+ Nú eru hvorki forseti Hæstaréttar né varaforseti við störf eða hvorugur þeirra
+ getur tekið þátt í afgreiðslu máls eða öðru embættisverki, og kemur þá í stað
+      forseta sá dómari sem lengst hefur verið skipaður hæstaréttardómari.
+  6. gr. Forseti Hæstaréttar skipar dómstólnum skrifstofustjóra til fimm ára í
+  senn samkvæmt ákvörðun dómenda þar. Skrifstofustjóri stýrir daglegum rekstri
+ dómstólsins eftir nánari ákvörðun forseta og í umboði hans, auk þess að gegna
+öðrum störfum sem forseti kann að mæla fyrir um. Skrifstofustjóri Hæstaréttar er
+embættismaður og fer um stöðu hans að öðru leyti eftir almennum reglum um slíka
+starfsmenn ríkisins. Þann einn má skipa í embættið sem hefur lokið embættisprófi
+   í lögum eða hliðstæðri prófgráðu í lögfræði eða annarri grein við háskóla.
+ Forseti ræður til Hæstaréttar lögfræðimenntaða aðstoðarmenn og aðra starfsmenn
+og ákveður verksvið þeirra og stöðu. Hann fer og með vald til að slíta ráðningu
+       þeirra eftir þeim almennu reglum sem gilda um starfsmenn ríkisins.
+ 7. gr. Eftir ákvörðun forseta taka þrír eða fimm dómarar við Hæstarétt hverju
+ sinni þátt í meðferð máls fyrir dómi. Í sérlega mikilvægum málum getur forseti
+  þó ákveðið að sjö dómarar skipi dóm. Þá getur forseti ákveðið að einn dómari
+skipi dóm í kærumáli sem er skriflega flutt og varðar ekki mikilsverða hagsmuni,
+svo og að einn dómari haldi þing til að taka ákvörðun um rekstur máls eða kveða
+                                    upp dóm.
+Þegar fimm eða sjö dómarar skipa dóm í máli skulu að jafnaði eiga þar sæti þeir
+sem lengst hafa verið skipaðir hæstaréttardómarar. Varadómari skv. 8. gr. verður
+  ekki kvaddur þar til setu nema tölu dómara verði ekki náð vegna vanhæfis eða
+                          forfalla reglulegra dómara.
+ Ef mál er umfangsmikið getur forseti ákveðið að dómari, sem tekur ekki annars
+þátt í meðferð þess, hlýði á málflutning og taki sæti í dóminum ef annar dómari
+                         verður síðar fyrir forföllum.
+Þegar Hæstiréttur fæst lögum samkvæmt við annað en meðferð máls fyrir dómi taka
+allir reglulegir dómarar þátt í ákvörðun nema mælt sé á annan veg í lögum. Hafi
+dómari forföll eða sé hann vanhæfur skal að jafnaði ekki kvaddur til varadómari
+       skv. 8. gr. nema færri en fimm hæstaréttardómarar geti sinnt því.
+ Þrátt fyrir ákvæði 4. mgr. getur Hæstiréttur falið þremur eða fimm dómurum að
+taka afstöðu til einstakra flokka erinda, svo sem umsókna um áfrýjunarleyfi eða
+ endurupptöku máls. Þá getur Hæstiréttur einnig falið forseta einum að ráða til
+                       lykta ýmsum minni háttar málefnum.
+  8. gr. Nú er hæstaréttardómari vanhæfur til að skipa dóm í máli eða hann fær
+       leyfi eða hefur forföll frá störfum um skamman tíma, og skipar þá
+  dómsmálaráðherra samkvæmt tillögu forseta varadómara til að taka sæti hans í
+ tilteknu máli. Varadómari skal vera úr röðum héraðsdómara, prófessora í lögum,
+hæstaréttarlögmanna eða fyrrverandi dómara við Hæstarétt og fullnægja skilyrðum
+              til að skipa megi hann í embætti hæstaréttardómara.
+Séu allir hæstaréttardómarar vanhæfir til að skipa dóm í máli skal forseti gera
+  tillögu til dómsmálaráðherra um einn varadómara til að sitja þar í forsæti.
+Þegar slíkur varadómari hefur verið skipaður gerir hann tillögu til ráðherra um
+                         skipan dómsins að öðru leyti.
+  Varadómari verður ekki leystur frá starfi í máli nema samkvæmt eigin ósk eða
+hann missi að mati Hæstaréttar almenn dómaraskilyrði áður en starfi hans lýkur.
+Hæstiréttur ákveður þóknun handa varadómara fyrir hvert mál sem hann tekur sæti
+                                       í.
+ 9. gr. Hæstaréttardómara verður ekki veitt leyfi frá störfum af öðrum sökum en
+ vegna veikinda í lengri tíma en tólf mánuði samfleytt. Dómsmálaráðherra veitir
+dómara leyfi frá störfum. Að fenginni tillögu Hæstaréttar setur ráðherra dómara
+í embætti meðan á leyfi reglulegs dómara stendur, enda verði ekki farið svo að á
+                       leyfistímanum sem í 8. gr. segir.
+Þrátt fyrir ákvæði 1. mgr. er ráðherra heimilt að veita hæstaréttardómara leyfi
+frá störfum að eigin ósk til allt að sex ára til þess að hann geti tekið sæti í
+alþjóðlegum dómstóli eða við starfi við alþjóðastofnun. Skal embættið þá auglýst
+ laust til setningar á leyfistímanum, en við veitingu þess skal gætt ákvæða 4.
+                                  mgr. 4. gr.
+   Sá einn verður settur til að gegna embætti hæstaréttardómara sem fullnægir
+  skilyrðum til að verða skipaður í það. Meðan á setningu stendur nýtur sá sem
+hana hefur fengið sömu stöðu og skipaður dómari nema að því leyti sem leiðir af
+                 því að starfi hans er markaður ákveðinn tími.
+   10. gr. Hæstiréttur heldur dómþing í Reykjavík nema sérstök ástæða sé til
+                                    annars.
+ Forseti Hæstaréttar stýrir dómi ef hann á þar sæti, en ella varaforseti. Taki
+ hvorugur þeirra þátt í meðferð máls situr þar í forsæti sá dómari í málinu sem
+                 lengst hefur verið skipaður hæstaréttardómari.
+   Hæstiréttur getur ákveðið að draga úr eða fella niður tímabundið reglulega
+      starfsemi til að koma megi við orlofi dómara og annarra starfsmanna.
+ 11. gr. Um þingbækur, dómabækur, atkvæðabækur og málaskrár fer samkvæmt reglum
+                             sem Hæstiréttur setur.
+  Dómar Hæstaréttar skulu gefnir út. Um tilhögun útgáfunnar fer eftir ákvörðun
+                Hæstaréttar að fengnu samþykki dómsmálaráðherra.
 
-   1.
-           Héraðsdómur Reykjavíkur hefur aðsetur í Reykjavík og heyra þessi
-           sveitarfélög til umdæmis hans: Reykjavíkurborg,
-           Seltjarnarneskaupstaður, Mosfellsbær og Kjósarhreppur.
-   2.
-           Héraðsdómur Vesturlands hefur aðsetur í Borgarnesi og heyra þessi
-           sveitarfélög til umdæmis hans: Akraneskaupstaður,
-           Hvalfjarðarstrandarhreppur, Skilmannahreppur,
-           Innri-Akraneshreppur, Leirár- og Melahreppur, Andakílshreppur,
-           Skorradalshreppur, Lundarreykjadalshreppur, Reykholtsdalshreppur,
-           Hálsahreppur, Hvítársíðuhreppur, Þverárhlíðarhreppur,
-           Borgarhreppur, Borgarbyggð, Álftaneshreppur, Kolbeinsstaðahreppur,
-           Eyja- og Miklaholtshreppur, Snæfellsbær, Eyrarsveit,
-           Helgafellssveit, Stykkishólmsbær, Dalabyggð og Saurbæjarhreppur.
-   3.
-           Héraðsdómur Vestfjarða hefur aðsetur á Ísafirði og heyra þessi
-           sveitarfélög til umdæmis hans: Reykhólahreppur, Vesturbyggð,
-           Tálknafjarðarhreppur, Bolungarvíkurkaupstaður, Ísafjarðarbær,
-           Súðavíkurhreppur, Árneshreppur, Kaldrananeshreppur,
-           Hólmavíkurhreppur, Kirkjubólshreppur, Broddaneshreppur og
-           Bæjarhreppur.
-   4.
-           Héraðsdómur Norðurlands vestra hefur aðsetur á Sauðárkróki og
-           heyra þessi sveitarfélög til umdæmis hans: Staðarhreppur,
-           Fremri-Torfustaðahreppur, Ytri-Torfustaðahreppur,
-           Hvammstangahreppur, Kirkjuhvammshreppur, Þverárhreppur,
-           Þorkelshólshreppur, Áshreppur, Sveinsstaðahreppur,
-           Torfalækjarhreppur, Blönduósbær, Svínavatnshreppur,
-           Bólstaðarhlíðarhreppur, Engihlíðarhreppur, Vindhælishreppur,
-           Höfðahreppur, Skagahreppur, Skefilsstaðahreppur, Skarðshreppur,
-           Sauðárkrókskaupstaður, Staðarhreppur, Seyluhreppur,
-           Lýtingsstaðahreppur, Akrahreppur, Rípurhreppur, Viðvíkurhreppur,
-           Hólahreppur, Hofshreppur, Fljótahreppur og Siglufjarðarkaupstaður.
-   5.
-           Héraðsdómur Norðurlands eystra hefur aðsetur á Akureyri og heyra
-           þessi sveitarfélög til umdæmis hans: Ólafsfjarðarkaupstaður,
-           Grímseyjarhreppur, Dalvíkurkaupstaður, Svarfaðardalshreppur,
-           Hríseyjarhreppur, Árskógshreppur, Arnarneshreppur, Skriðuhreppur,
-           Öxnadalshreppur, Glæsibæjarhreppur, Akureyrarkaupstaður,
-           Eyjafjarðarsveit, Svalbarðsstrandarhreppur, Grýtubakkahreppur,
-           Hálshreppur, Ljósavatnshreppur, Bárðdælahreppur,
-           Skútustaðahreppur, Reykdælahreppur, Aðaldælahreppur,
-           Reykjahreppur, Húsavíkurkaupstaður, Tjörneshreppur,
-           Kelduneshreppur, Öxarfjarðarhreppur, Raufarhafnarhreppur,
-           Svalbarðshreppur og Þórshafnarhreppur.
-   6.
-           Héraðsdómur Austurlands hefur aðsetur á Egilsstöðum og heyra þessi
-           sveitarfélög til umdæmis hans: Skeggjastaðahreppur,
-           Vopnafjarðarhreppur, Hlíðar-, Jökuldals- og Tunguhreppur,
-           Fljótsdalshreppur, Skriðdalshreppur, Vallahreppur, Egilsstaðabær,
-           Fellahreppur, Eiðahreppur, Hjaltastaðahreppur,
-           Borgarfjarðarhreppur, Seyðisfjarðarkaupstaður, Neskaupstaður,
-           Eskifjarðarkaupstaður, Reyðarfjarðarhreppur, Mjóafjarðarhreppur,
-           Fáskrúðsfjarðarhreppur, Búðahreppur, Stöðvarhreppur,
-           Breiðdalshreppur, Djúpavogshreppur, Bæjarhreppur,
-           Hornarfjarðarbær, Borgarhafnarhreppur og Hofshreppur.
-   7.
-           Héraðsdómur Suðurlands hefur aðsetur á Selfossi og heyra þessi
-           sveitarfélög til umdæmis hans: Skaftárhreppur, Mýrdalshreppur,
-           Austur-Eyjafjallahreppur, Vestur-Eyjafjallahreppur,
-           Austur-Landeyjahreppur, Vestur-Landeyjahreppur,
-           Fljótshlíðarhreppur, Hvolhreppur, Rangárvallahreppur, Holta- og
-           Landsveit, Ásahreppur, Djúpárhreppur, Vestmannaeyjabær,
-           Gaulverjabæjarhreppur, Stokkseyrarhreppur, Eyrarbakkahreppur,
-           Sandvíkurhreppur, Selfosskaupstaður, Hraungerðishreppur,
-           Villingaholtshreppur, Skeiðahreppur, Gnúpverjahreppur,
-           Hrunamannahreppur, Biskupstungnahreppur, Laugardalshreppur,
-           Grímsneshreppur, Þingvallahreppur, Grafningshreppur,
-           Hveragerðisbær og Ölfushreppur.
-   8.
-           Héraðsdómur Reykjaness hefur aðsetur í Hafnarfirði og heyra þessi
-           sveitarfélög til umdæmis hans: Grindavíkurkaupstaður,
-           Sandgerðisbær, Gerðahreppur, Reykjanesbær,
-           Vatnsleysustrandarhreppur, Hafnarfjarðarkaupstaður, Garðabær,
-           Bessastaðahreppur og Kópavogsbær.
-
-               Umdæmi hvers héraðsdómstóls skal vera ein þinghá. Frá þessu má
-      dómsmálaráðherra þó víkja með reglugerð sem hann getur sett að fenginni
-                      umsögn hlutaðeigandi héraðsdómstóls og dómstólaráðs.^1)
-
-   ^1)Rg. 395/1998.
-
-                                     3. gr.
-        Aðrir dómstólar eru Félagsdómur og Landsdómur. Um þá sérdómstóla
-   gilda ákvæði í öðrum lögum.
-
-                                   II. kafli.
-                              Hæstiréttur Íslands.
-                                     4. gr.
-        Í Hæstarétti eiga sæti níu dómarar sem forseti Íslands skipar
-   ótímabundið samkvæmt tillögu dómsmálaráðherra.
-        Þann einn má skipa í embætti hæstaréttardómara sem fullnægir þessum
-   skilyrðum:
-
-   1.
-           Hefur náð 35 ára aldri.
-   2.
-           Hefur íslenskan ríkisborgararétt.
-   3.
-           Er svo á sig kominn andlega og líkamlega að hann geti gegnt
-           embættinu.
-   4.
-           Er lögráða og hefur aldrei misst forræði á búi sínu.
-   5.
-           Hefur hvorki gerst sekur um refsivert athæfi sem má telja
-           svívirðilegt að almenningsáliti né sýnt af sér háttsemi sem getur
-           rýrt það traust sem dómarar verða almennt að njóta.
-   6.
-           Hefur lokið embættisprófi í lögfræði eða háskólaprófi í þeirri
-           grein sem metið verður því jafngilt.
-   7.
-           Hefur starfað í minnst þrjú ár sem héraðsdómari,
-           hæstaréttarlögmaður, prófessor í lögum, lögreglustjóri,
-           sýslumaður, ríkissaksóknari, vararíkissaksóknari, saksóknari,
-           ráðuneytisstjóri, skrifstofustjóri í dómsmálaráðuneytinu eða
-           umboðsmaður Alþingis eða hefur um jafnlangan tíma gegnt öðru líku
-           starfi sem veitir hliðstæða lögfræðilega reynslu.
-   8.
-           Telst vera hæfur til að gegna embættinu í ljósi starfsferils síns
-           og lögfræðilegrar þekkingar.
-
-        Í embætti hæstaréttardómara má ekki skipa þann sem er eða hefur verið
-   í hjúskap við dómara sem þar er skipaður fyrir eða skyldur slíkum dómara
-   eða mægður að feðgatali, niðjatali eða öðrum lið til hliðar.
-        Áður en skipað verður í dómaraembætti skal dómsmálaráðherra leita
-   umsagnar Hæstaréttar um hæfi og hæfni umsækjenda til að gegna því.
-   Umsækjanda verður ekki veitt embættið ef í umsögninni kemur fram það álit
-   að hann fullnægi ekki skilyrðum 5. eða 8. tölul. 2. mgr.
-
-                                     5. gr.
-        Hæstaréttardómarar kjósa sér forseta til tveggja ára í senn og
-   varaforseta til sama tíma. Varaforseti gegnir störfum forseta þegar hann
-   hefur forföll eða er fjarstaddur. Biðjist forseti eða varaforseti lausnar
-   frá því starfi eða láti hann af dómaraembætti áður en kjörtímabili er
-   lokið skulu dómarar kjósa annan í hans stað til loka þess. Hæstiréttur
-   tilkynnir um kjör forseta og varaforseta með auglýsingu í
-   Lögbirtingablaði.
-        Forseti fer með yfirstjórn Hæstaréttar. Með þeim takmörkunum, sem
-   leiðir af öðrum ákvæðum laga, stýrir forseti meðal annars þeirri starfsemi
-   Hæstaréttar sem er ekki hluti af meðferð máls fyrir dómi, skiptir verkum
-   milli dómara og annarra starfsmanna og fer með agavald yfir þeim. Hann ber
-   ábyrgð á rekstri Hæstaréttar og fjárreiðum og kemur fram af hálfu
-   dómstólsins út á við, auk þess að gegna þeim sérstöku störfum sem mælt er
-   fyrir um í öðrum lögum.
-        Nú eru hvorki forseti Hæstaréttar né varaforseti við störf eða
-   hvorugur þeirra getur tekið þátt í afgreiðslu máls eða öðru embættisverki,
-   og kemur þá í stað forseta sá dómari sem lengst hefur verið skipaður
-   hæstaréttardómari.
-
-                                     6. gr.
-        Forseti Hæstaréttar skipar dómstólnum skrifstofustjóra til fimm ára í
-   senn samkvæmt ákvörðun dómenda þar. Skrifstofustjóri stýrir daglegum
-   rekstri dómstólsins eftir nánari ákvörðun forseta og í umboði hans, auk
-   þess að gegna öðrum störfum sem forseti kann að mæla fyrir um.
-   Skrifstofustjóri Hæstaréttar er embættismaður og fer um stöðu hans að öðru
-   leyti eftir almennum reglum um slíka starfsmenn ríkisins. Þann einn má
-   skipa í embættið sem hefur lokið embættisprófi í lögum eða hliðstæðri
-   prófgráðu í lögfræði eða annarri grein við háskóla.
-        Forseti ræður til Hæstaréttar lögfræðimenntaða aðstoðarmenn og aðra
-   starfsmenn og ákveður verksvið þeirra og stöðu. Hann fer og með vald til
-   að slíta ráðningu þeirra eftir þeim almennu reglum sem gilda um starfsmenn
-   ríkisins.
-
-                                     7. gr.
-        Eftir ákvörðun forseta taka þrír eða fimm dómarar við Hæstarétt
-   hverju sinni þátt í meðferð máls fyrir dómi. Í sérlega mikilvægum málum
-   getur forseti þó ákveðið að sjö dómarar skipi dóm. Þá getur forseti
-   ákveðið að einn dómari skipi dóm í kærumáli sem er skriflega flutt og
-   varðar ekki mikilsverða hagsmuni, svo og að einn dómari haldi þing til að
-   taka ákvörðun um rekstur máls eða kveða upp dóm.
-        Þegar fimm eða sjö dómarar skipa dóm í máli skulu að jafnaði eiga þar
-   sæti þeir sem lengst hafa verið skipaðir hæstaréttardómarar. Varadómari
-   skv. 8. gr. verður ekki kvaddur þar til setu nema tölu dómara verði ekki
-   náð vegna vanhæfis eða forfalla reglulegra dómara.
-        Ef mál er umfangsmikið getur forseti ákveðið að dómari, sem tekur
-   ekki annars þátt í meðferð þess, hlýði á málflutning og taki sæti í
-   dóminum ef annar dómari verður síðar fyrir forföllum.
-        Þegar Hæstiréttur fæst lögum samkvæmt við annað en meðferð máls fyrir
-   dómi taka allir reglulegir dómarar þátt í ákvörðun nema mælt sé á annan
-   veg í lögum. Hafi dómari forföll eða sé hann vanhæfur skal að jafnaði ekki
-   kvaddur til varadómari skv. 8. gr. nema færri en fimm hæstaréttardómarar
-   geti sinnt því.
-        Þrátt fyrir ákvæði 4. mgr. getur Hæstiréttur falið þremur eða fimm
-   dómurum að taka afstöðu til einstakra flokka erinda, svo sem umsókna um
-   áfrýjunarleyfi eða endurupptöku máls. Þá getur Hæstiréttur einnig falið
-   forseta einum að ráða til lykta ýmsum minni háttar málefnum.
-
-                                     8. gr.
-        Nú er hæstaréttardómari vanhæfur til að skipa dóm í máli eða hann fær
-   leyfi eða hefur forföll frá störfum um skamman tíma, og skipar þá
-   dómsmálaráðherra samkvæmt tillögu forseta varadómara til að taka sæti hans
-   í tilteknu máli. Varadómari skal vera úr röðum héraðsdómara, prófessora í
-   lögum, hæstaréttarlögmanna eða fyrrverandi dómara við Hæstarétt og
-   fullnægja skilyrðum til að skipa megi hann í embætti hæstaréttardómara.
-        Séu allir hæstaréttardómarar vanhæfir til að skipa dóm í máli skal
-   forseti gera tillögu til dómsmálaráðherra um einn varadómara til að sitja
-   þar í forsæti. Þegar slíkur varadómari hefur verið skipaður gerir hann
-   tillögu til ráðherra um skipan dómsins að öðru leyti.
-        Varadómari verður ekki leystur frá starfi í máli nema samkvæmt eigin
-   ósk eða hann missi að mati Hæstaréttar almenn dómaraskilyrði áður en
-   starfi hans lýkur.
-        Hæstiréttur ákveður þóknun handa varadómara fyrir hvert mál sem hann
-   tekur sæti í.
-
-                                     9. gr.
-        Hæstaréttardómara verður ekki veitt leyfi frá störfum af öðrum sökum
-   en vegna veikinda í lengri tíma en tólf mánuði samfleytt. Dómsmálaráðherra
-   veitir dómara leyfi frá störfum. Að fenginni tillögu Hæstaréttar setur
-   ráðherra dómara í embætti meðan á leyfi reglulegs dómara stendur, enda
-   verði ekki farið svo að á leyfistímanum sem í 8. gr. segir.
-        Þrátt fyrir ákvæði 1. mgr. er ráðherra heimilt að veita
-   hæstaréttardómara leyfi frá störfum að eigin ósk til allt að sex ára til
-   þess að hann geti tekið sæti í alþjóðlegum dómstóli eða við starfi við
-   alþjóðastofnun. Skal embættið þá auglýst laust til setningar á
-   leyfistímanum, en við veitingu þess skal gætt ákvæða 4. mgr. 4. gr.
-        Sá einn verður settur til að gegna embætti hæstaréttardómara sem
-   fullnægir skilyrðum til að verða skipaður í það. Meðan á setningu stendur
-   nýtur sá sem hana hefur fengið sömu stöðu og skipaður dómari nema að því
-   leyti sem leiðir af því að starfi hans er markaður ákveðinn tími.
-
-                                    10. gr.
-        Hæstiréttur heldur dómþing í Reykjavík nema sérstök ástæða sé til
-   annars.
-        Forseti Hæstaréttar stýrir dómi ef hann á þar sæti, en ella
-   varaforseti. Taki hvorugur þeirra þátt í meðferð máls situr þar í forsæti
-   sá dómari í málinu sem lengst hefur verið skipaður hæstaréttardómari.
-        Hæstiréttur getur ákveðið að draga úr eða fella niður tímabundið
-   reglulega starfsemi til að koma megi við orlofi dómara og annarra
-   starfsmanna.
-
-                                    11. gr.
-        Um þingbækur, dómabækur, atkvæðabækur og málaskrár fer samkvæmt
-   reglum sem Hæstiréttur setur.
-        Dómar Hæstaréttar skulu gefnir út. Um tilhögun útgáfunnar fer eftir
-   ákvörðun Hæstaréttar að fengnu samþykki dómsmálaráðherra.
-
-                                  III. kafli.
-                                Héraðsdómstólar.
-                                    12. gr.
-        Dómarar í héraði eru 38 að tölu og skipaðir ótímabundið í embætti
-   héraðsdómara af dómsmálaráðherra.
-        Þann einn má skipa í embætti héraðsdómara sem fullnægir þessum
-   skilyrðum:
-
-   1.
-           Hefur náð 30 ára aldri.
-   2.
-           Hefur íslenskan ríkisborgararétt.
-   3.
-           Er svo á sig kominn andlega og líkamlega að hann geti gegnt
-           embættinu.
-   4.
-           Er lögráða og hefur aldrei misst forræði á búi sínu.
-   5.
-           Hefur hvorki gerst sekur um refsivert athæfi sem telja má
-           svívirðilegt að almenningsáliti né sýnt af sér háttsemi sem getur
-           rýrt það traust sem dómarar verða almennt að njóta.
-   6.
-           Hefur lokið embættisprófi í lögfræði eða háskólaprófi í þeirri
-           grein sem metið verður því jafngilt.
-   7.
-           Hefur í minnst þrjú ár verið alþingismaður eða stundað
-           málflutningsstörf að staðaldri eða gegnt lögfræðistörfum að
-           aðalstarfi hjá ríkinu eða sveitarfélagi, en leggja má saman
-           starfstíma í hverri af þessum greinum.
-
-        Dómsmálaráðherra skipar þrjá menn í dómnefnd til þriggja ára í senn
-   til að fjalla um hæfni umsækjenda um embætti héraðsdómara. Skal einn
-   nefndarmanna tilnefndur af Hæstarétti og er hann formaður nefndarinnar.
-   Tilnefnir Dómarafélag Íslands annan mann í nefndina úr röðum héraðsdómara
-   en Lögmannafélag Íslands þann þriðja úr hópi starfandi lögmanna. Varamenn
-   skulu tilnefndir og skipaðir á sama hátt. Skipunartími í nefndina er þrjú
-   ár, en þó þannig að skipunartími eins manns rennur út hvert ár. Sami maður
-   verður ekki skipaður í sæti aðalmanns í nefndinni oftar en tvisvar
-   samfleytt.
-        Dómnefnd skv. 3. mgr. skal láta dómsmálaráðherra í té skriflega og
-   rökstudda umsögn um umsækjendur um embætti héraðsdómara. Ráðherra setur að
-   öðru leyti nánari reglur um störf nefndarinnar.
-
-                                    13. gr.
-        Í dómstólaráði eiga sæti fimm menn sem dómsmálaráðherra skipar. Tveir
-   þeirra skulu kjörnir af héraðsdómurum úr þeirra röðum, tveir kjörnir af
-   dómstjórum við héraðsdómstóla úr þeirra hópi, en ráðherra skipar einn án
-   tilnefningar og skal hann ekki vera starfandi dómari. Skipunartími í
-   dómstólaráð er fimm ár, en þó þannig að skipunartími eins manns rennur út
-   hvert ár. Hver þessara fimm manna skal hafa varamann sem skipaður er og
-   eftir atvikum tilnefndur á sama hátt og aðalmaður. Sami maður verður ekki
-   skipaður í sæti aðalmanns í dómstólaráði oftar en tvisvar samfleytt.
-        Láti héraðsdómari eða dómstjóri, sem sæti á í dómstólaráði, af
-   embætti eða starfi dómstjóra áður en skipunartími hans er á enda eða fái
-   hann lausn frá setu í ráðinu skal annar kjörinn og skipaður í hans stað
-   til loka skipunartímans. Ráðherra skipar til sama tíma nýjan mann í
-   dómstólaráð ef sá sem hann skipar án tilnefningar hverfur frá starfinu
-   áður en skipunartíma lýkur.
-        Dómstólaráð kýs sér formann frá byrjun hvers árs að telja. Það
-   ákveður hvar starfsemi þess fer fram.
-        Kjaradómur ákveður þóknun fyrir setu í dómstólaráði.
-
-                                    14. gr.
-        Auk þess sem mælt er fyrir um í öðrum ákvæðum þessara laga er
-   hlutverk dómstólaráðs sem hér segir:
-
-   1.
-           Að fara með á sína ábyrgð fjárreiður héraðsdómstóla, gera tillögur
-           til dómsmálaráðherra um sameiginlega fjárveitingu til þeirra og
-           skipta á milli þeirra fé sem skal veitt þeim í einu lagi með
-           fjárlögum.
-   2.
-           Að ákveða fjölda dómara og annarra starfsmanna við hvern
-           héraðsdómstól, svo og að setja almennar reglur um flutning dómara
-           á milli þeirra.
-   3.
-           Að skipuleggja endurmenntun héraðsdómara og annarra lögfræðinga í
-           þjónustu héraðsdómstóla.
-   4.
-           Að setja starfsreglur um samræmda framkvæmd við héraðsdómstóla, en
-           dómstólaráð getur ákveðið að slíkar reglur verði bindandi ef þær
-           varða ekki meðferð dómsmáls að því leyti sem dómari ber einn
-           ábyrgð á henni, sbr. 1. mgr. 24. gr.
-   5.
-           Að safna upplýsingum um fjölda og afgreiðslu mála við
-           héraðsdómstóla og gera eftir þörfum ábendingar af því tilefni, svo
-           og að stuðla að öðru leyti að því að gætt sé þar skilvirkni og
-           hraða við rekstur dómsmála.
-   6.
-           Að setja eftir þörfum almennar reglur um viðveruskyldu
-           héraðsdómara á vinnustað og tilhögun orlofs þeirra, þar á meðal um
-           hvort og þá hvernig dregið verði úr starfsemi héraðsdómstóla vegna
-           orlofs dómara og annarra starfsmanna.
-   7.
-           Að koma fram gagnvart stjórnvöldum og öðrum í þágu
-           héraðsdómstólanna sameiginlega.
-   8.
-           Að gera tillögur um hvað eina sem getur orðið til úrbóta í störfum
-           héraðsdómstóla eða löggjöf sem um þá gildir.
-
-        Dómstólaráð skal gefa út ársskýrslu um starfsemi sína og
-   héraðsdómstólanna.
-
-                                    15. gr.
-        Dómstólaráð ákveður við hvaða héraðsdómstól dómari skuli eiga fast
-   sæti. Heimilt er þó að ákveða að allt að þrír héraðsdómarar eigi ekki fast
-   sæti við tiltekinn dómstól, heldur sinni þeir störfum við alla
-   héraðsdómstóla eftir því sem þeim kann að vera úthlutað af málum við hvern
-   þeirra í skjóli almennrar heimildar dómstólaráðs. Dómstólaráð ákveður hvar
-   slíkir dómarar hafi starfsstöð.
-        Ákvörðun dómstólaráðs um starfsvettvang skv. 1. mgr. skal hvort
-   heldur gilda um óákveðinn tíma eða tiltekið tímabil. Þegar embætti
-   héraðsdómara er laust skal að jafnaði taka ákvörðun um fyrsta
-   starfsvettvang væntanlegs dómara áður en það er auglýst laust til
-   umsóknar.
-        Eftir því sem frekast er unnt skal dómstólaráð taka tillit til óska
-   héraðsdómara þegar starfsvettvangur hans er ákveðinn.
-        Héraðsdómari á rétt á að skipta um starfsvettvang svo fljótt sem
-   verða má eftir að hafa starfað í þrjú ár samfleytt við sama dómstól eða án
-   fasts sætis við tiltekinn dómstól, enda standi ákvæði 5. mgr. því ekki í
-   vegi að fengið verði fyrir hann dómarasæti á öðrum vettvangi, sbr. og 39.
-   gr.
-        Héraðsdómari verður ekki færður á nýjan starfsvettvang gegn vilja
-   sínum í lengri tíma en sex mánuði á hverju tíu ára tímabili ef hann getur
-   ekki með góðu móti sótt vinnu þar án búferlaflutninga. Þetta gildir þó
-   ekki ef flytja þarf dómara af starfsvettvangi sínum vegna varanlegrar
-   fækkunar dómara þar.
-        Ef þörf er á héraðsdómara, sem á fast sæti við héraðsdómstól, til að
-   starfa að tilteknu dómsmáli við annan héraðsdómstól, þar á meðal í
-   fjölskipuðum dómi, ákveður dómstólaráð hverjum verði falið starfið. Dómara
-   er skylt að hlíta slíkri ákvörðun dómstólaráðs.
-
-                                    16. gr.
-        Dómsmálaráðherra skipar dómstjóra við hvern héraðsdómstól til fimm
-   ára í senn. Þar sem þrír eða fleiri dómarar eiga fast sæti við
-   héraðsdómstól kjósa þeir einn úr sínum röðum til að gegna starfinu, en séu
-   dómararnir tveir tilnefnir dómstólaráð annan þeirra til starfans ef þeir
-   koma sér ekki saman um valið. Kosning eða tilnefning bindur ekki ráðherra
-   um skipun dómstjóra. Ef dómari er einn við héraðsdómstól skal hann
-   skipaður þar dómstjóri. Skipun dómstjóra raskast ekki þótt dómurum við
-   dómstól fjölgi eða fækki á skipunartímanum.
-        Við héraðsdómstól þar sem þrír eða fleiri héraðsdómarar eiga fast
-   sæti er þeim heimilt að kjósa varadómstjóra, en að öðrum kosti telst
-   staðgengill dómstjóra vera sá dómari við dómstólinn sem lengst hefur verið
-   skipaður í embætti héraðsdómara.
-        Flytjist dómari, sem gegnir starfi dómstjóra, til annars dómstóls eða
-   sé honum veitt lausn frá starfinu eða embætti héraðsdómara skal skipaður
-   nýr dómstjóri samkvæmt því sem segir í 1. mgr.
-        Nú telur dómstólaráð dómstjóra brjóta af sér í því starfi, og skal
-   það þá gefa honum kost á að tjá sig um ávirðingarnar. Telji dómstólaráð
-   skýringar dómstjóra óviðunandi getur það veitt honum skriflega áminningu.
-   Ef sakir eru miklar eða brot ítrekað getur dómstólaráð lagt til í
-   rökstuddu erindi að dómstjóra verði veitt lausn frá starfinu.
-   Dómsmálaráðherra tekur ákvörðun um hvort dómstjóra verði veitt lausn, en
-   um meðferð slíks máls gilda að öðru leyti ákvæði stjórnsýslulaga.
-        Auk þess að gegna dómstörfum hefur dómstjóri með höndum stjórn
-   héraðsdómstóls og ber ábyrgð á starfsemi hans. Dómstjóri skiptir verkum
-   milli dómara og annarra starfsmanna, hann getur skipt dómurum í deildir og
-   úthlutar dómurum eða deildum þeirra málum. Dómstjóri ræður aðra starfsmenn
-   dómstóls en héraðsdómara og slítur ráðningu þeirra. Honum ber að fylgjast
-   með störfum dómara og annarra starfsmanna og gæta aga gagnvart þeim að því
-   leyti sem ekki kemur í hlut annarra samkvæmt ákvæðum 28.30. gr. Hann fer
-   á eigin ábyrgð með fé sem dómstólaráð leggur dómstólnum í hendur, hann
-   annast samskipti við dómstólaráð um þau málefni sem undir það heyra og
-   hefur annars með höndum verkefni sem dómstólaráð kann að fela honum
-   sérstaklega. Þá kemur dómstjóri að öðru leyti fram út á við í þágu
-   dómstólsins og er í fyrirsvari um sérstök málefni hans.
-
-                                    17. gr.
-        Til aðstoðar dómurum má ráða til héraðsdómstóla lögfræðinga sem
-   fullnægja skilyrðum 2.6. tölul. 2. mgr. 12. gr. Dómstjóri annast slíka
-   ráðningu og gilda um hana almennar reglur um starfsmenn ríkisins að öðru
-   leyti en því að hún skal vera tímabundin og ekki til lengri tíma en fimm
-   ára við sama dómstól.
-
-                                    18. gr.
-        Við úthlutun mála til dómara eða deilda þeirra skal dómstjóri gæta
-   þess að starfsálag þeirra verði svo jafnt sem auðið er, en eftir föngum
-   skal leitast við að tilviljun ráði hvaða dómari fær mál til meðferðar.
-   Dómstólaráð getur sett leiðbeiningarreglur um úthlutun mála.
-        Sé máli úthlutað deild dómara ákveða þeir sem hana skipa hver þeirra
-   fari með það.
-        Einn héraðsdómari skipar dóm í hverju máli nema annað sé skylt að
-   lögum. Dómstjóri getur þó ákveðið að neytt verði heimildar í öðrum lögum
-   til að dómur verði fjölskipaður héraðsdómurum. Hann úthlutar þeim þá máli
-   í sameiningu og velur einn úr hópi þeirra til að sitja þar í forsæti. Sé
-   þörf á héraðsdómara frá öðrum dómstóli til að skipa dóm í máli leitar
-   dómstjóri til dómstólaráðs sem felur dómara verkið.
-        Dómara er heimilt að biðjast undan úthlutun máls vegna tengsla við
-   efni þess, aðila, fyrirsvarsmann eða lögmann þótt hann verði ekki talinn
-   vanhæfur til að fara með það, enda sé beiðni hans studd haldbærum rökum og
-   kostur annars dómara við dómstólinn til að fara með málið. Þá er dómara og
-   heimilt að biðjast undan úthlutun vegna sérstakra anna eða þess að
-   jafnaðar sé ekki gætt með henni. Dómstjóri tekur afstöðu til beiðna sem
-   þessara, en dómara þeim sem í hlut á er heimilt að skjóta ákvörðun hans
-   til úrlausnar dómstólaráðs. Þeirri úrlausn verður ekki skotið til annars
-   stjórnvalds.
-        Dómstjóra er heimilt að draga aftur úthlutun án beiðni þess dómara
-   sem hefur fengið mál til meðferðar ef hann verður ekki við tilmælum
-   dómstjóra um að ljúka því innan hæfilegs frests eða veikindi hans eða
-   hliðstæð atvik torvelda að hann geti sinnt því. Hlutaðeigandi dómara er
-   heimilt að skjóta slíkri ákvörðun dómstjóra til úrlausnar dómstólaráðs.
-   Þeirri úrlausn verður ekki skotið til annars stjórnvalds.
-        Nú víkur héraðsdómari sæti í máli, og skal þá dómstjóri úthluta því á
-   ný, enda fullnægi annar dómari sérstökum hæfisskilyrðum til að fara með
-   það. Ef með þarf getur dómstjóri leitað til dómstólaráðs um að það feli
-   dómara við annan dómstól að taka við úthlutun málsins.
-
-                                    19. gr.
-        Fullnægi enginn dómari við héraðsdómstól sérstökum hæfisskilyrðum til
-   að fara með mál kveður dómstjóri í einu lagi upp úrskurð um að þeir víki
-   allir sæti í því. Reynist enginn dómari við annan dómstól heldur hæfur til
-   að fara með málið gefur dómstólaráð skriflegt og rökstutt álit um það.
-   Skal þá dómsmálaráðherra skipa setudómara til að fara með málið.
-        Setudómari skal fullnægja skilyrðum til að fá skipun í embætti
-   héraðsdómara. Nú hefur setudómari verið skipaður og hann telur þörf á að
-   dómur verði fjölskipaður í málinu með öðrum en sérfróðum meðdómsmönnum eða
-   það er skylt að lögum. Skal dómsmálaráðherra þá að ósk hans skipa aðra tvo
-   setudómara til að fara með málið með honum en sá sem fyrst var skipaður
-   situr í forsæti í dóminum.
-        Setudómara verður ekki vikið úr starfi nema eftir sömu reglum og
-   gilda um skipaða dómara.
-        Dómstólaráð ákveður þóknun setudómara og greiðist hún úr ríkissjóði.
-
-                                    20. gr.
-        Héraðsdómara verður ekki veitt leyfi frá störfum í lengri tíma
-   samfleytt en tólf mánuði nema vegna veikinda. Dómstólaráð getur þó veitt
-   undanþágu til leyfis í lengri tíma, til mest tólf mánaða í senn, ef dómari
-   leitar eftir því til náms. Dómstólaráð setur að öðru leyti reglur um leyfi
-   héraðsdómara frá störfum. Dómstólaráð veitir leyfi vegna orlofs, auk þess
-   að taka afstöðu til umsóknar um leyfi í öðru skyni, sem stendur í heild í
-   mánuð eða skemmri tíma. Að öðrum kosti gerir það tillögu um afgreiðslu
-   umsóknar héraðsdómara um leyfi, en dómsmálaráðherra ákveður hvort það
-   skuli veitt að fenginni slíkri tillögu.
-        Nú hefur héraðsdómari forföll eða honum er veitt leyfi skv. 1. mgr.,
-   og verður þá annar því aðeins settur í embætti hans að sérstakar annir
-   krefji og dómstólaráð mæli með því. Dómsmálaráðherra setur þá dómara að
-   fenginni ábendingu dómstólaráðs um mann til starfans. Ráðherra getur þó að
-   eigin frumkvæði eða eftir tillögu dómstólaráðs auglýst embættið laust til
-   setningar meðan á leyfi skipaðs dómara stendur, en dómstólaráð skal þá
-   velja einn úr hópi umsækjenda til að benda á til starfans.
-        Þrátt fyrir framangreint er dómsmálaráðherra heimilt að veita
-   héraðsdómara leyfi að eigin ósk frá störfum til allt að sex ára til þess
-   að hann geti tekið sæti í alþjóðlegum dómstóli eða við starfi við aðra
-   alþjóðastofnun. Skal embættið þá auglýst laust til setningar annars dómara
-   á leyfistímanum, en við veitingu þess skal gætt ákvæða 3. og 4. mgr. 12.
-   gr.
-        Sá einn verður settur til að gegna embætti héraðsdómara sem fullnægir
-   skilyrðum til að fá skipun í það. Meðan á setningu stendur nýtur sá sem
-   hana hefur fengið sömu stöðu og skipaður dómari.
-
-                                    21. gr.
-        Héraðsdómstólar skulu hver um sig hafa fastan þingstað á aðsetri
-   sínu, svo og annars í hverri þinghá samkvæmt ákvörðun dómsmálaráðherra séu
-   þær fleiri en ein innan umdæmis dómstóls. Um slíka ákvörðun skal mælt í
-   reglugerð^1) sem ráðherra setur að fenginni tillögu hlutaðeigandi
-   dómstóls.
-        Héraðsdómari getur háð þing utan fasts þingstaðar til að taka fyrir
-   mál innan umdæmis síns ef það þykir heppilegt vegna rekstrar þess. Með
-   sama skilyrði getur héraðsdómari einnig háð þing utan umdæmis síns til að
-   taka fyrir mál eftir þingfestingu þess.
-
-   ^1)Rg. 395/1998.
-
-                                    22. gr.
-        Við héraðsdómstóla skulu háð regluleg dómþing á föstum þingstöðum
-   samkvæmt því sem dómstólaráð ákveður að fengnum tillögum dómstjóra.
-   Dómstólaráð tilkynnir slíka ákvörðun með auglýsingu í Lögbirtingablaði.
-
-                                   IV. kafli.
-                          Réttindi og skyldur dómara.
-                                    23. gr.
-        Ákvæði þessa kafla taka jafnt til dómara við Hæstarétt og
-   héraðsdómara nema annars sé sérstaklega getið.
-        Til að gegna störfum sem mælt er nánar fyrir um í þessum kafla skipar
-   dómsmálaráðherra þrjá menn til að sitja í nefnd um dómarastörf, svo og
-   jafnmarga til vara. Einn nefndarmaður skal skipaður samkvæmt tilnefningu
-   Dómarafélags Íslands, einn samkvæmt tilnefningu lagadeildar Háskóla
-   Íslands og einn skipar ráðherra án tilnefningar. Skal sá síðastnefndi vera
-   formaður nefndarinnar og fullnægja skilyrðum til að verða skipaður í
-   embætti hæstaréttardómara. Skipunartími nefndarmanna er sex ár en þó
-   þannig að skipunartími eins þeirra rennur út annað hvert ár. Sömu reglur
-   gilda um skipun varamanna. Sami maður verður ekki skipaður í sæti
-   aðalmanns í nefndinni oftar en tvisvar samfleytt.
-        Úrlausnum nefndar um dómarastörf verður ekki skotið til annars
-   stjórnvalds.
-        Nefnd um dómarastörf skal hafa eftir þörfum samvinnu við dómstólaráð
-   um starfsemi sína. Kjaradómur ákveður þóknun fyrir setu í nefndinni.
-
+                          III. kafli. Héraðsdómstólar.
+   12. gr. Dómarar í héraði eru 38 að tölu og skipaðir ótímabundið í embætti
+                       héraðsdómara af dómsmálaráðherra.
+   Þann einn má skipa í embætti héraðsdómara sem fullnægir þessum skilyrðum:
+                            1. Hefur náð 30 ára aldri.
+                       2. Hefur íslenskan ríkisborgararétt.
+     3. Er svo á sig kominn andlega og líkamlega að hann geti gegnt embættinu.
+              4. Er lögráða og hefur aldrei misst forræði á búi sínu.
+   5. Hefur hvorki gerst sekur um refsivert athæfi sem telja má svívirðilegt að
+ almenningsáliti né sýnt af sér háttsemi sem getur rýrt það traust sem dómarar
+                            verða almennt að njóta.
+    6. Hefur lokið embættisprófi í lögfræði eða háskólaprófi í þeirri grein sem
+                           metið verður því jafngilt.
+    7. Hefur í minnst þrjú ár verið alþingismaður eða stundað málflutningsstörf
+      að staðaldri eða gegnt lögfræðistörfum að aðalstarfi hjá ríkinu eða
+    sveitarfélagi, en leggja má saman starfstíma í hverri af þessum greinum.
+   Dómsmálaráðherra skipar þrjá menn í dómnefnd til þriggja ára í senn til að
+   fjalla um hæfni umsækjenda um embætti héraðsdómara. Skal einn nefndarmanna
+tilnefndur af Hæstarétti og er hann formaður nefndarinnar. Tilnefnir Dómarafélag
+  Íslands annan mann í nefndina úr röðum héraðsdómara en Lögmannafélag Íslands
+þann þriðja úr hópi starfandi lögmanna. Varamenn skulu tilnefndir og skipaðir á
+sama hátt. Skipunartími í nefndina er þrjú ár, en þó þannig að skipunartími eins
+  manns rennur út hvert ár. Sami maður verður ekki skipaður í sæti aðalmanns í
+                     nefndinni oftar en tvisvar samfleytt.
+  Dómnefnd skv. 3. mgr. skal láta dómsmálaráðherra í té skriflega og rökstudda
+  umsögn um umsækjendur um embætti héraðsdómara. Ráðherra setur að öðru leyti
+                    nánari reglur^1) um störf nefndarinnar.
+                                 ^1)Rg. 693/1999.
+ 13. gr. Í dómstólaráði eiga sæti fimm menn sem dómsmálaráðherra skipar. Tveir
+    þeirra skulu kjörnir af héraðsdómurum úr þeirra röðum, tveir kjörnir af
+    dómstjórum við héraðsdómstóla úr þeirra hópi, en ráðherra skipar einn án
+tilnefningar og skal hann ekki vera starfandi dómari. Skipunartími í dómstólaráð
+  er fimm ár, en þó þannig að skipunartími eins manns rennur út hvert ár. Hver
+     þessara fimm manna skal hafa varamann sem skipaður er og eftir atvikum
+  tilnefndur á sama hátt og aðalmaður. Sami maður verður ekki skipaður í sæti
+              aðalmanns í dómstólaráði oftar en tvisvar samfleytt.
+   Láti héraðsdómari eða dómstjóri, sem sæti á í dómstólaráði, af embætti eða
+starfi dómstjóra áður en skipunartími hans er á enda eða fái hann lausn frá setu
+  í ráðinu skal annar kjörinn og skipaður í hans stað til loka skipunartímans.
+Ráðherra skipar til sama tíma nýjan mann í dómstólaráð ef sá sem hann skipar án
+         tilnefningar hverfur frá starfinu áður en skipunartíma lýkur.
+  Dómstólaráð kýs sér formann frá byrjun hvers árs að telja. Það ákveður hvar
+                            starfsemi þess fer fram.
+              Kjaradómur ákveður þóknun fyrir setu í dómstólaráði.
+ 14. gr. Auk þess sem mælt er fyrir um í öðrum ákvæðum þessara laga er hlutverk
+                          dómstólaráðs sem hér segir:
+     1. Að fara með á sína ábyrgð fjárreiður héraðsdómstóla, gera tillögur til
+   dómsmálaráðherra um sameiginlega fjárveitingu til þeirra og skipta á milli
+            þeirra fé sem skal veitt þeim í einu lagi með fjárlögum.
+    2. Að ákveða fjölda dómara og annarra starfsmanna við hvern héraðsdómstól,
+       svo og að setja almennar reglur um flutning dómara á milli þeirra.
+   3. Að skipuleggja endurmenntun héraðsdómara og annarra lögfræðinga í þjónustu
+                                héraðsdómstóla.
+       4. Að setja starfsreglur um samræmda framkvæmd við héraðsdómstóla, en
+  dómstólaráð getur ákveðið að slíkar reglur verði bindandi ef þær varða ekki
+ meðferð dómsmáls að því leyti sem dómari ber einn ábyrgð á henni, sbr. 1. mgr.
                                     24. gr.
-        Dómarar eru sjálfstæðir í dómstörfum og leysa þau af hendi á eigin
+    5. Að safna upplýsingum um fjölda og afgreiðslu mála við héraðsdómstóla og
+ gera eftir þörfum ábendingar af því tilefni, svo og að stuðla að öðru leyti að
+          því að gætt sé þar skilvirkni og hraða við rekstur dómsmála.
+     6. Að setja eftir þörfum almennar reglur um viðveruskyldu héraðsdómara á
+ vinnustað og tilhögun orlofs þeirra, þar á meðal um hvort og þá hvernig dregið
+ verði úr starfsemi héraðsdómstóla vegna orlofs dómara og annarra starfsmanna.
+      7. Að koma fram gagnvart stjórnvöldum og öðrum í þágu héraðsdómstólanna
+                                 sameiginlega.
+       8. Að gera tillögur um hvað eina sem getur orðið til úrbóta í störfum
+                  héraðsdómstóla eða löggjöf sem um þá gildir.
+  Dómstólaráð skal gefa út ársskýrslu um starfsemi sína og héraðsdómstólanna.
+15. gr. Dómstólaráð ákveður við hvaða héraðsdómstól dómari skuli eiga fast sæti.
+ Heimilt er þó að ákveða að allt að þrír héraðsdómarar eigi ekki fast sæti við
+ tiltekinn dómstól, heldur sinni þeir störfum við alla héraðsdómstóla eftir því
+  sem þeim kann að vera úthlutað af málum við hvern þeirra í skjóli almennrar
+heimildar dómstólaráðs. Dómstólaráð ákveður hvar slíkir dómarar hafi starfsstöð.
+Ákvörðun dómstólaráðs um starfsvettvang skv. 1. mgr. skal hvort heldur gilda um
+óákveðinn tíma eða tiltekið tímabil. Þegar embætti héraðsdómara er laust skal að
+jafnaði taka ákvörðun um fyrsta starfsvettvang væntanlegs dómara áður en það er
+                          auglýst laust til umsóknar.
+Eftir því sem frekast er unnt skal dómstólaráð taka tillit til óska héraðsdómara
+                    þegar starfsvettvangur hans er ákveðinn.
+Héraðsdómari á rétt á að skipta um starfsvettvang svo fljótt sem verða má eftir
+  að hafa starfað í þrjú ár samfleytt við sama dómstól eða án fasts sætis við
+ tiltekinn dómstól, enda standi ákvæði 5. mgr. því ekki í vegi að fengið verði
+            fyrir hann dómarasæti á öðrum vettvangi, sbr. og 39. gr.
+Héraðsdómari verður ekki færður á nýjan starfsvettvang gegn vilja sínum í lengri
+ tíma en sex mánuði á hverju tíu ára tímabili ef hann getur ekki með góðu móti
+ sótt vinnu þar án búferlaflutninga. Þetta gildir þó ekki ef flytja þarf dómara
+        af starfsvettvangi sínum vegna varanlegrar fækkunar dómara þar.
+ Ef þörf er á héraðsdómara, sem á fast sæti við héraðsdómstól, til að starfa að
+  tilteknu dómsmáli við annan héraðsdómstól, þar á meðal í fjölskipuðum dómi,
+ákveður dómstólaráð hverjum verði falið starfið. Dómara er skylt að hlíta slíkri
+                             ákvörðun dómstólaráðs.
+16. gr. Dómsmálaráðherra skipar dómstjóra við hvern héraðsdómstól til fimm ára í
+  senn. Þar sem þrír eða fleiri dómarar eiga fast sæti við héraðsdómstól kjósa
+    þeir einn úr sínum röðum til að gegna starfinu, en séu dómararnir tveir
+ tilnefnir dómstólaráð annan þeirra til starfans ef þeir koma sér ekki saman um
+   valið. Kosning eða tilnefning bindur ekki ráðherra um skipun dómstjóra. Ef
+   dómari er einn við héraðsdómstól skal hann skipaður þar dómstjóri. Skipun
+       dómstjóra raskast ekki þótt dómurum við dómstól fjölgi eða fækki á
+                                skipunartímanum.
+ Við héraðsdómstól þar sem þrír eða fleiri héraðsdómarar eiga fast sæti er þeim
+ heimilt að kjósa varadómstjóra, en að öðrum kosti telst staðgengill dómstjóra
+    vera sá dómari við dómstólinn sem lengst hefur verið skipaður í embætti
+                                 héraðsdómara.
+ Flytjist dómari, sem gegnir starfi dómstjóra, til annars dómstóls eða sé honum
+ veitt lausn frá starfinu eða embætti héraðsdómara skal skipaður nýr dómstjóri
+                        samkvæmt því sem segir í 1. mgr.
+ Nú telur dómstólaráð dómstjóra brjóta af sér í því starfi, og skal það þá gefa
+honum kost á að tjá sig um ávirðingarnar. Telji dómstólaráð skýringar dómstjóra
+ óviðunandi getur það veitt honum skriflega áminningu. Ef sakir eru miklar eða
+ brot ítrekað getur dómstólaráð lagt til í rökstuddu erindi að dómstjóra verði
+  veitt lausn frá starfinu. Dómsmálaráðherra tekur ákvörðun um hvort dómstjóra
+     verði veitt lausn, en um meðferð slíks máls gilda að öðru leyti ákvæði
+                                stjórnsýslulaga.
+Auk þess að gegna dómstörfum hefur dómstjóri með höndum stjórn héraðsdómstóls og
+ ber ábyrgð á starfsemi hans. Dómstjóri skiptir verkum milli dómara og annarra
+starfsmanna, hann getur skipt dómurum í deildir og úthlutar dómurum eða deildum
+þeirra málum. Dómstjóri ræður aðra starfsmenn dómstóls en héraðsdómara og slítur
+ráðningu þeirra. Honum ber að fylgjast með störfum dómara og annarra starfsmanna
+ og gæta aga gagnvart þeim að því leyti sem ekki kemur í hlut annarra samkvæmt
+   ákvæðum 28.30. gr. Hann fer á eigin ábyrgð með fé sem dómstólaráð leggur
+ dómstólnum í hendur, hann annast samskipti við dómstólaráð um þau málefni sem
+undir það heyra og hefur annars með höndum verkefni sem dómstólaráð kann að fela
+    honum sérstaklega. Þá kemur dómstjóri að öðru leyti fram út á við í þágu
+            dómstólsins og er í fyrirsvari um sérstök málefni hans.
+    17. gr. Til aðstoðar dómurum má ráða til héraðsdómstóla lögfræðinga sem
+fullnægja skilyrðum 2.6. tölul. 2. mgr. 12. gr. Dómstjóri annast slíka ráðningu
+og gilda um hana almennar reglur um starfsmenn ríkisins að öðru leyti en því að
+ hún skal vera tímabundin og ekki til lengri tíma en fimm ára við sama dómstól.
+18. gr. Við úthlutun mála til dómara eða deilda þeirra skal dómstjóri gæta þess
+að starfsálag þeirra verði svo jafnt sem auðið er, en eftir föngum skal leitast
+við að tilviljun ráði hvaða dómari fær mál til meðferðar. Dómstólaráð getur sett
+                     leiðbeiningarreglur um úthlutun mála.
+ Sé máli úthlutað deild dómara ákveða þeir sem hana skipa hver þeirra fari með
+                                      það.
+    Einn héraðsdómari skipar dóm í hverju máli nema annað sé skylt að lögum.
+ Dómstjóri getur þó ákveðið að neytt verði heimildar í öðrum lögum til að dómur
+  verði fjölskipaður héraðsdómurum. Hann úthlutar þeim þá máli í sameiningu og
+velur einn úr hópi þeirra til að sitja þar í forsæti. Sé þörf á héraðsdómara frá
+  öðrum dómstóli til að skipa dóm í máli leitar dómstjóri til dómstólaráðs sem
+                              felur dómara verkið.
+ Dómara er heimilt að biðjast undan úthlutun máls vegna tengsla við efni þess,
+ aðila, fyrirsvarsmann eða lögmann þótt hann verði ekki talinn vanhæfur til að
+fara með það, enda sé beiðni hans studd haldbærum rökum og kostur annars dómara
+ við dómstólinn til að fara með málið. Þá er dómara og heimilt að biðjast undan
+   úthlutun vegna sérstakra anna eða þess að jafnaðar sé ekki gætt með henni.
+ Dómstjóri tekur afstöðu til beiðna sem þessara, en dómara þeim sem í hlut á er
+   heimilt að skjóta ákvörðun hans til úrlausnar dómstólaráðs. Þeirri úrlausn
+                   verður ekki skotið til annars stjórnvalds.
+  Dómstjóra er heimilt að draga aftur úthlutun án beiðni þess dómara sem hefur
+fengið mál til meðferðar ef hann verður ekki við tilmælum dómstjóra um að ljúka
+því innan hæfilegs frests eða veikindi hans eða hliðstæð atvik torvelda að hann
+   geti sinnt því. Hlutaðeigandi dómara er heimilt að skjóta slíkri ákvörðun
+  dómstjóra til úrlausnar dómstólaráðs. Þeirri úrlausn verður ekki skotið til
+                              annars stjórnvalds.
+ Nú víkur héraðsdómari sæti í máli, og skal þá dómstjóri úthluta því á ný, enda
+fullnægi annar dómari sérstökum hæfisskilyrðum til að fara með það. Ef með þarf
+getur dómstjóri leitað til dómstólaráðs um að það feli dómara við annan dómstól
+                         að taka við úthlutun málsins.
+19. gr. Fullnægi enginn dómari við héraðsdómstól sérstökum hæfisskilyrðum til að
+fara með mál kveður dómstjóri í einu lagi upp úrskurð um að þeir víki allir sæti
+  í því. Reynist enginn dómari við annan dómstól heldur hæfur til að fara með
+       málið gefur dómstólaráð skriflegt og rökstutt álit um það. Skal þá
+            dómsmálaráðherra skipa setudómara til að fara með málið.
+Setudómari skal fullnægja skilyrðum til að fá skipun í embætti héraðsdómara. Nú
+hefur setudómari verið skipaður og hann telur þörf á að dómur verði fjölskipaður
+ í málinu með öðrum en sérfróðum meðdómsmönnum eða það er skylt að lögum. Skal
+dómsmálaráðherra þá að ósk hans skipa aðra tvo setudómara til að fara með málið
+       með honum en sá sem fyrst var skipaður situr í forsæti í dóminum.
+   Setudómara verður ekki vikið úr starfi nema eftir sömu reglum og gilda um
+                                skipaða dómara.
+      Dómstólaráð ákveður þóknun setudómara og greiðist hún úr ríkissjóði.
+20. gr. Héraðsdómara verður ekki veitt leyfi frá störfum í lengri tíma samfleytt
+  en tólf mánuði nema vegna veikinda. Dómstólaráð getur þó veitt undanþágu til
+ leyfis í lengri tíma, til mest tólf mánaða í senn, ef dómari leitar eftir því
+   til náms. Dómstólaráð setur að öðru leyti reglur um leyfi héraðsdómara frá
+  störfum. Dómstólaráð veitir leyfi vegna orlofs, auk þess að taka afstöðu til
+umsóknar um leyfi í öðru skyni, sem stendur í heild í mánuð eða skemmri tíma. Að
+ öðrum kosti gerir það tillögu um afgreiðslu umsóknar héraðsdómara um leyfi, en
+   dómsmálaráðherra ákveður hvort það skuli veitt að fenginni slíkri tillögu.
+ Nú hefur héraðsdómari forföll eða honum er veitt leyfi skv. 1. mgr., og verður
+     þá annar því aðeins settur í embætti hans að sérstakar annir krefji og
+dómstólaráð mæli með því. Dómsmálaráðherra setur þá dómara að fenginni ábendingu
+  dómstólaráðs um mann til starfans. Ráðherra getur þó að eigin frumkvæði eða
+ eftir tillögu dómstólaráðs auglýst embættið laust til setningar meðan á leyfi
+skipaðs dómara stendur, en dómstólaráð skal þá velja einn úr hópi umsækjenda til
+                            að benda á til starfans.
+Þrátt fyrir framangreint er dómsmálaráðherra heimilt að veita héraðsdómara leyfi
+að eigin ósk frá störfum til allt að sex ára til þess að hann geti tekið sæti í
+ alþjóðlegum dómstóli eða við starfi við aðra alþjóðastofnun. Skal embættið þá
+auglýst laust til setningar annars dómara á leyfistímanum, en við veitingu þess
+                     skal gætt ákvæða 3. og 4. mgr. 12. gr.
+Sá einn verður settur til að gegna embætti héraðsdómara sem fullnægir skilyrðum
+til að fá skipun í það. Meðan á setningu stendur nýtur sá sem hana hefur fengið
+                         sömu stöðu og skipaður dómari.
+ 21. gr. Héraðsdómstólar skulu hver um sig hafa fastan þingstað á aðsetri sínu,
+svo og annars í hverri þinghá samkvæmt ákvörðun dómsmálaráðherra séu þær fleiri
+ en ein innan umdæmis dómstóls. Um slíka ákvörðun skal mælt í reglugerð^1) sem
+           ráðherra setur að fenginni tillögu hlutaðeigandi dómstóls.
+ Héraðsdómari getur háð þing utan fasts þingstaðar til að taka fyrir mál innan
+umdæmis síns ef það þykir heppilegt vegna rekstrar þess. Með sama skilyrði getur
+   héraðsdómari einnig háð þing utan umdæmis síns til að taka fyrir mál eftir
+                               þingfestingu þess.
+                                 ^1)Rg. 395/1998.
+   22. gr. Við héraðsdómstóla skulu háð regluleg dómþing á föstum þingstöðum
+samkvæmt því sem dómstólaráð ákveður að fengnum tillögum dómstjóra. Dómstólaráð
+          tilkynnir slíka ákvörðun með auglýsingu í Lögbirtingablaði.
+
+                     IV. kafli. Réttindi og skyldur dómara.
+ 23. gr. Ákvæði þessa kafla taka jafnt til dómara við Hæstarétt og héraðsdómara
+                       nema annars sé sérstaklega getið.
+     Til að gegna störfum sem mælt er nánar fyrir um í þessum kafla skipar
+dómsmálaráðherra þrjá menn til að sitja í nefnd um dómarastörf, svo og jafnmarga
+  til vara. Einn nefndarmaður skal skipaður samkvæmt tilnefningu Dómarafélags
+ Íslands, einn samkvæmt tilnefningu lagadeildar Háskóla Íslands og einn skipar
+  ráðherra án tilnefningar. Skal sá síðastnefndi vera formaður nefndarinnar og
+     fullnægja skilyrðum til að verða skipaður í embætti hæstaréttardómara.
+  Skipunartími nefndarmanna er sex ár en þó þannig að skipunartími eins þeirra
+  rennur út annað hvert ár. Sömu reglur gilda um skipun varamanna. Sami maður
+ verður ekki skipaður í sæti aðalmanns í nefndinni oftar en tvisvar samfleytt.
+  Úrlausnum nefndar um dómarastörf verður ekki skotið til annars stjórnvalds.
+    Nefnd um dómarastörf skal hafa eftir þörfum samvinnu við dómstólaráð um
+       starfsemi sína. Kjaradómur ákveður þóknun fyrir setu í nefndinni.
+   24. gr. Dómarar eru sjálfstæðir í dómstörfum og leysa þau af hendi á eigin
    ábyrgð. Við úrlausn máls fara þeir eingöngu eftir lögum og lúta þar aldrei
-   boðvaldi annarra. Dómsathöfn verður ekki endurskoðuð af öðrum nema með
-   málskoti til æðra dóms.
-        Dómara er skylt að ljúka á eðlilegum tíma þeim málum sem hann fær
-   úthlutað til meðferðar og rækja störf sín af alúð og samviskusemi. Dómara
-   ber að hlíta boði forstöðumanns dómstóls um önnur atriði varðandi störf
-   sín en meðferð og úrlausn máls. Héraðsdómurum ber og að hlíta lögmætum
-   ákvörðunum dómstólaráðs.
-        Dómurum ber að leitast við að halda við þekkingu sinni í lögum. Þeim
-   skal eftir föngum gefinn kostur á leyfi og stuðningi til endurmenntunar.
-
-                                    25. gr.
-        Kjaradómur ákveður laun dómara fyrir embættisstörf þeirra.
-
+boðvaldi annarra. Dómsathöfn verður ekki endurskoðuð af öðrum nema með málskoti
+                                 til æðra dóms.
+ Dómara er skylt að ljúka á eðlilegum tíma þeim málum sem hann fær úthlutað til
+ meðferðar og rækja störf sín af alúð og samviskusemi. Dómara ber að hlíta boði
+forstöðumanns dómstóls um önnur atriði varðandi störf sín en meðferð og úrlausn
+     máls. Héraðsdómurum ber og að hlíta lögmætum ákvörðunum dómstólaráðs.
+Dómurum ber að leitast við að halda við þekkingu sinni í lögum. Þeim skal eftir
+         föngum gefinn kostur á leyfi og stuðningi til endurmenntunar.
+       25. gr. Kjaradómur ákveður laun dómara fyrir embættisstörf þeirra.
+   26. gr. Dómara er óheimilt að taka að sér starf eða eiga hlut í félagi eða
+atvinnufyrirtæki ef slíkt fær ekki samrýmst stöðu hans eða leiðir af sér hættu á
+            að hann geti ekki sinnt embættisstarfi sínu sem skyldi.
+    Nefnd um dómarastörf setur almennar reglur um hvers konar aukastörf geti
+  samrýmst embættisstörfum dómara. Dómari skal tilkynna nefndinni um aukastarf
+  áður en hann tekur við því. Sé ekki getið um heimild til að gegna starfinu í
+ almennum reglum nefndarinnar skal dómari þó fyrir fram leita leyfis hennar til
+                                     þess.
+  Nefnd um dómarastörf setur almennar reglur um að hvaða marki samrýmanlegt sé
+  embætti dómara að hann eigi hlut í félagi eða atvinnufyrirtæki. Dómari skal
+  tilkynna nefndinni um hlut sem hann eignast í félagi eða fyrirtæki. Sé ekki
+  getið um heimild til að eiga slíkan hlut í almennum reglum nefndarinnar skal
+               dómari þó fyrir fram leita leyfis hennar til þess.
+   Með rökstuddri ákvörðun getur nefnd um dómarastörf meinað dómara að gegna
+  aukastarfi eða eiga hlut í félagi eða atvinnufyrirtæki. Dómara ber að hlíta
+    slíku banni, en heimilt er að leita úrlausnar dómstóla um lögmæti þess.
+27. gr. Hverjum þeim sem telur dómara hafa gert á hans hlut með störfum sínum er
+heimilt að beina skriflegri kvörtun af því tilefni til nefndar um dómarastörf. Í
+  slíkri kvörtun skal greint frá atvikum og röksemdum fyrir því að brotið hafi
+  verið á rétti þess sem hana ber fram. Berist nefndinni kvörtun sem hún telur
+ þegar sýnt að gefi ekki tilefni til frekari aðgerða vísar hún kvörtuninni frá
+sér. Að öðrum kosti gefur nefndin hlutaðeigandi dómara og forstöðumanni dómstóls
+   kost á að skila skriflegum athugasemdum innan tiltekins frests. Heimilt er
+   nefndinni að taka í einu lagi til meðferðar tvær eða fleiri kvartanir sem
+                            beinast að sama dómara.
+ Sé kvörtun metin tæk til meðferðar skal nefnd um dómarastörf ljúka málinu með
+skriflegu og rökstuddu áliti. Telji nefndin kvörtunina gefa tilefni til aðgerða
+ getur hún í áliti sínu fundið að störfum hlutaðeigandi dómara eða veitt honum
+                        áminningu eftir ákvæðum 28. gr.
+   28. gr. Nú telur forstöðumaður dómstóls að háttsemi dómara eða vanræksla í
+starfi eða framferði hans utan starfs sé slík að aðfinnsluvert sé án þess þó að
+     ákvæði 2. mgr. eigi við. Getur þá forstöðumaðurinn beint munnlegum eða
+                  skriflegum tilmælum til dómarans um úrbætur.
+    Beri tilmæli skv. 1. mgr. ekki árangur eða telji forstöðumaður dómstóls
+ ávirðingar dómara alvarlegri en svo að tilmæli hans ein séu við hæfi skal hann
+beina málinu til nefndar um dómarastörf með skriflegu og rökstuddu erindi. Eins
+skal farið að ef dómari hlítir ekki ákvörðun dómstólaráðs eða banni skv. 4. mgr.
                                     26. gr.
-        Dómara er óheimilt að taka að sér starf eða eiga hlut í félagi eða
-   atvinnufyrirtæki ef slíkt fær ekki samrýmst stöðu hans eða leiðir af sér
-   hættu á að hann geti ekki sinnt embættisstarfi sínu sem skyldi.
-        Nefnd um dómarastörf setur almennar reglur um hvers konar aukastörf
-   geti samrýmst embættisstörfum dómara. Dómari skal tilkynna nefndinni um
-   aukastarf áður en hann tekur við því. Sé ekki getið um heimild til að
-   gegna starfinu í almennum reglum nefndarinnar skal dómari þó fyrir fram
-   leita leyfis hennar til þess.
-        Nefnd um dómarastörf setur almennar reglur um að hvaða marki
-   samrýmanlegt sé embætti dómara að hann eigi hlut í félagi eða
-   atvinnufyrirtæki. Dómari skal tilkynna nefndinni um hlut sem hann eignast
-   í félagi eða fyrirtæki. Sé ekki getið um heimild til að eiga slíkan hlut í
-   almennum reglum nefndarinnar skal dómari þó fyrir fram leita leyfis hennar
-   til þess.
-        Með rökstuddri ákvörðun getur nefnd um dómarastörf meinað dómara að
-   gegna aukastarfi eða eiga hlut í félagi eða atvinnufyrirtæki. Dómara ber
-   að hlíta slíku banni, en heimilt er að leita úrlausnar dómstóla um lögmæti
-   þess.
-
-                                    27. gr.
-        Hverjum þeim sem telur dómara hafa gert á hans hlut með störfum sínum
-   er heimilt að beina skriflegri kvörtun af því tilefni til nefndar um
-   dómarastörf. Í slíkri kvörtun skal greint frá atvikum og röksemdum fyrir
-   því að brotið hafi verið á rétti þess sem hana ber fram. Berist nefndinni
-   kvörtun sem hún telur þegar sýnt að gefi ekki tilefni til frekari aðgerða
-   vísar hún kvörtuninni frá sér. Að öðrum kosti gefur nefndin hlutaðeigandi
-   dómara og forstöðumanni dómstóls kost á að skila skriflegum athugasemdum
-   innan tiltekins frests. Heimilt er nefndinni að taka í einu lagi til
-   meðferðar tvær eða fleiri kvartanir sem beinast að sama dómara.
-        Sé kvörtun metin tæk til meðferðar skal nefnd um dómarastörf ljúka
-   málinu með skriflegu og rökstuddu áliti. Telji nefndin kvörtunina gefa
-   tilefni til aðgerða getur hún í áliti sínu fundið að störfum hlutaðeigandi
-   dómara eða veitt honum áminningu eftir ákvæðum 28. gr.
-
-                                    28. gr.
-        Nú telur forstöðumaður dómstóls að háttsemi dómara eða vanræksla í
-   starfi eða framferði hans utan starfs sé slík að aðfinnsluvert sé án þess
-   þó að ákvæði 2. mgr. eigi við. Getur þá forstöðumaðurinn beint munnlegum
-   eða skriflegum tilmælum til dómarans um úrbætur.
-        Beri tilmæli skv. 1. mgr. ekki árangur eða telji forstöðumaður
-   dómstóls ávirðingar dómara alvarlegri en svo að tilmæli hans ein séu við
-   hæfi skal hann beina málinu til nefndar um dómarastörf með skriflegu og
-   rökstuddu erindi. Eins skal farið að ef dómari hlítir ekki ákvörðun
-   dómstólaráðs eða banni skv. 4. mgr. 26. gr.
-        Dómsmálaráðherra er heimilt að beina máli til nefndar um dómarastörf
-   með sama hætti og greinir í 2. mgr. Þá er nefndinni og heimilt að taka mál
-   upp að eigin frumkvæði ef atvik eru með þeim hætti sem þar segir.
-        Berist nefnd um dómarastörf mál samkvæmt því sem um ræðir í 2. eða 3.
-   mgr. skal hún gefa hlutaðeigandi dómara kost á að taka til andsvara í
-   skriflegri greinargerð. Nefndinni ber að öðru leyti að afla gagna eftir
-   því sem hún telur nauðsyn bera til. Um meðferð máls fer annars samkvæmt
-   ákvæðum stjórnsýslulaga eftir því sem átt getur við.
-        Nefnd um dómarastörf skal ljúka máli með skriflegri og rökstuddri
-   ákvörðun um hvort hlutaðeigandi dómara verði veitt áminning. Sé áminning
-   veitt skal hún birt dómaranum með sannanlegum hætti, en jafnframt skal þá
-   ákvörðunin send forstöðumanni dómstólsins sem hann starfar við auk
-   dómsmálaráðherra. Dómstólaráði skal jafnframt send ákvörðunin ef
-   héraðsdómari á í hlut.
-        Dómara, sem hefur sætt áminningu, er heimilt að höfða mál á hendur
-   dómsmálaráðherra fyrir hönd ríkisins til að fá hana fellda úr gildi, en
-   það skal þá gert innan mánaðar frá því að hún var birt dómaranum.
-
-                                    29. gr.
-        Veita má dómara lausn frá embætti um stundarsakir ef hann hefur sætt
+ Dómsmálaráðherra er heimilt að beina máli til nefndar um dómarastörf með sama
+ hætti og greinir í 2. mgr. Þá er nefndinni og heimilt að taka mál upp að eigin
+              frumkvæði ef atvik eru með þeim hætti sem þar segir.
+Berist nefnd um dómarastörf mál samkvæmt því sem um ræðir í 2. eða 3. mgr. skal
+     hún gefa hlutaðeigandi dómara kost á að taka til andsvara í skriflegri
+ greinargerð. Nefndinni ber að öðru leyti að afla gagna eftir því sem hún telur
+ nauðsyn bera til. Um meðferð máls fer annars samkvæmt ákvæðum stjórnsýslulaga
+                          eftir því sem átt getur við.
+ Nefnd um dómarastörf skal ljúka máli með skriflegri og rökstuddri ákvörðun um
+hvort hlutaðeigandi dómara verði veitt áminning. Sé áminning veitt skal hún birt
+     dómaranum með sannanlegum hætti, en jafnframt skal þá ákvörðunin send
+      forstöðumanni dómstólsins sem hann starfar við auk dómsmálaráðherra.
+     Dómstólaráði skal jafnframt send ákvörðunin ef héraðsdómari á í hlut.
+       Dómara, sem hefur sætt áminningu, er heimilt að höfða mál á hendur
+dómsmálaráðherra fyrir hönd ríkisins til að fá hana fellda úr gildi, en það skal
+            þá gert innan mánaðar frá því að hún var birt dómaranum.
+  29. gr. Veita má dómara lausn frá embætti um stundarsakir ef hann hefur sætt
    áminningu en lagar sig ekki að henni innan hæfilegs tíma eða gerist innan
-   þriggja ára á ný sekur um ávirðingar sem gefa tilefni til áminningar.
-   Dómara verður einnig veitt lausn frá embætti um stundarsakir ef hann
-   missir almenn hæfisskilyrði til að gegna því. Það sama gildir jafnframt ef
-   opinber rannsókn beinist að dómara eða opinbert mál er höfðað á hendur
-   honum og áfellisdómur um sakirnar sem hann er borinn yrði til þess að hann
-   missti almenn hæfisskilyrði.
-        Forseti Íslands veitir dómara við Hæstarétt lausn frá embætti um
-   stundarsakir samkvæmt tillögu dómsmálaráðherra, en ráðherra veitir
-   héraðsdómara slíka lausn. Áður en lausn er veitt um stundarsakir skal
-   ráðherra afla skriflegrar umsagnar frá nefnd um dómarastörf.
-        Nú hefur dómara verið veitt lausn frá embætti um stundarsakir af
-   öðrum ástæðum en þeim sem getur í lokamálslið 1. mgr., og skal þá innan
-   tveggja mánaða höfða á hendur honum mál samkvæmt því sem mælt er fyrir um
-   í 1. mgr. 30. gr., en ella fellur lausnin sjálfkrafa niður. Verði máli
-   vísað frá dómi eða sé það fellt niður fellur lausnin jafnframt sjálfkrafa
-   niður ef nýtt mál er ekki höfðað innan tveggja vikna en þannig verður þó
-   ekki farið að oftar en eitt skipti. Lausn sem veitt hefur verið um
-   stundarsakir eftir ákvæði lokamálsliðar 1. mgr. stendur þar til opinberri
-   rannsókn lýkur með ákvörðun um að hlutaðeigandi dómari verði ekki sóttur
-   til sakar, sex mánuðir eru liðnir án þess að ákæra sé gefin út á hendur
-   honum eða opinberu máli lýkur með endanlegum dómi um sýknu hans en annars
-   þar til tvær vikur eru liðnar frá því að endanlegur dómur hefur gengið um
-   sakfellingu hans.
-        Dómari heldur fullum embættislaunum meðan á lausn um stundarsakir
-   stendur.
+  þriggja ára á ný sekur um ávirðingar sem gefa tilefni til áminningar. Dómara
+  verður einnig veitt lausn frá embætti um stundarsakir ef hann missir almenn
+ hæfisskilyrði til að gegna því. Það sama gildir jafnframt ef opinber rannsókn
+ beinist að dómara eða opinbert mál er höfðað á hendur honum og áfellisdómur um
+ sakirnar sem hann er borinn yrði til þess að hann missti almenn hæfisskilyrði.
+ Forseti Íslands veitir dómara við Hæstarétt lausn frá embætti um stundarsakir
+samkvæmt tillögu dómsmálaráðherra, en ráðherra veitir héraðsdómara slíka lausn.
+ Áður en lausn er veitt um stundarsakir skal ráðherra afla skriflegrar umsagnar
+                           frá nefnd um dómarastörf.
+ Nú hefur dómara verið veitt lausn frá embætti um stundarsakir af öðrum ástæðum
+en þeim sem getur í lokamálslið 1. mgr., og skal þá innan tveggja mánaða höfða á
+ hendur honum mál samkvæmt því sem mælt er fyrir um í 1. mgr. 30. gr., en ella
+  fellur lausnin sjálfkrafa niður. Verði máli vísað frá dómi eða sé það fellt
+niður fellur lausnin jafnframt sjálfkrafa niður ef nýtt mál er ekki höfðað innan
+tveggja vikna en þannig verður þó ekki farið að oftar en eitt skipti. Lausn sem
+veitt hefur verið um stundarsakir eftir ákvæði lokamálsliðar 1. mgr. stendur þar
+til opinberri rannsókn lýkur með ákvörðun um að hlutaðeigandi dómari verði ekki
+ sóttur til sakar, sex mánuðir eru liðnir án þess að ákæra sé gefin út á hendur
+ honum eða opinberu máli lýkur með endanlegum dómi um sýknu hans en annars þar
+     til tvær vikur eru liðnar frá því að endanlegur dómur hefur gengið um
+                               sakfellingu hans.
+   Dómari heldur fullum embættislaunum meðan á lausn um stundarsakir stendur.
+30. gr. Þegar dómara hefur verið veitt lausn frá embætti um stundarsakir höfðar
+    dómsmálaráðherra fyrir hönd ríkisins mál á hendur honum fyrir héraðsdómi
+ Reykjavíkur með kröfu um að honum verði vikið úr embætti með dómi. Um rekstur
+máls fer eftir almennum reglum um meðferð einkamála að öðru leyti en því að það
+        sætir flýtimeðferð og skal dómur skipaður þremur héraðsdómurum.
+  Þótt dómur gangi í héraði í máli skv. 1. mgr. stendur lausn um stundarsakir
+áfram meðan kostur er á áfrýjun innan almenns frests, svo og enn eftir það meðan
+                  mál er rekið fyrir Hæstarétti ef áfrýjað er.
+Endanlegur dómur um að dómara sé vikið frá leiðir sjálfkrafa til lausnar hans úr
+                                    embætti.
+  Sé dómari sýknaður af kröfu um frávikningu tekur hann sjálfkrafa við embætti
+           sínu á ný frá þeim tíma sem dómur um það telst endanlegur.
+31. gr. Forseti Íslands veitir dómurum við Hæstarétt lausn frá embætti samkvæmt
+          tillögu dómsmálaráðherra en dómsmálaráðherra héraðsdómurum.
+Dómara skal veitt lausn frá embætti ef hann leitar eftir henni sjálfur, enda sé
+     það gert með þeim fyrirvara sem gildir almennt um starfsmenn ríkisins.
+ Dómari telst sjálfkrafa fá lausn frá embætti ef hann tekur við skipun í annað
+                                    embætti.
+Heimilt er að veita dómara lausn frá embætti án óskar hans ef hann er orðinn 65
+    ára, en hann skal þá upp frá því taka eftirlaun svo sem hann hefði gegnt
+       embættinu til 70 ára aldurs nema hann njóti ríkari réttar samkvæmt
+                              stjórnskipunarlögum.
+Dómara skal veitt lausn frá embætti ekki síðar en frá þeim degi sem hann nær 70
+                                   ára aldri.
+ 32. gr. Um refsiábyrgð dómara vegna háttsemi hans í embætti fer eftir almennum
+                   hegningarlögum og sérákvæðum annarra laga.
+Verði athafnir dómara í starfi eða athafnaleysi öðrum til tjóns ber ríkið á því
+ bótaábyrgð eftir almennum reglum. Dómari verður ekki sjálfur krafinn um bætur,
+en ríkinu er þó heimilt að gengnum áfellisdómi að beina að honum framkröfu, enda
+                 hafi ásetningsverk hans leitt til bótaskyldu.
+    Við rekstur mála samkvæmt framangreindu skal fara eftir almennum reglum.
+33. gr. Um önnur atriði en að framan greinir gilda almennar reglur um starfsmenn
+                ríkisins um dómara eftir því sem átt getur við.
 
-                                    30. gr.
-        Þegar dómara hefur verið veitt lausn frá embætti um stundarsakir
-   höfðar dómsmálaráðherra fyrir hönd ríkisins mál á hendur honum fyrir
-   héraðsdómi Reykjavíkur með kröfu um að honum verði vikið úr embætti með
-   dómi. Um rekstur máls fer eftir almennum reglum um meðferð einkamála að
-   öðru leyti en því að það sætir flýtimeðferð og skal dómur skipaður þremur
-   héraðsdómurum.
-        Þótt dómur gangi í héraði í máli skv. 1. mgr. stendur lausn um
-   stundarsakir áfram meðan kostur er á áfrýjun innan almenns frests, svo og
-   enn eftir það meðan mál er rekið fyrir Hæstarétti ef áfrýjað er.
-        Endanlegur dómur um að dómara sé vikið frá leiðir sjálfkrafa til
-   lausnar hans úr embætti.
-        Sé dómari sýknaður af kröfu um frávikningu tekur hann sjálfkrafa við
-   embætti sínu á ný frá þeim tíma sem dómur um það telst endanlegur.
+                   V. kafli. Gildistaka, brottfall laga o.fl.
+ 34. gr. Lög þessi öðlast gildi 1. júlí 1998 að undanteknum ákvæðum 38. gr. sem
+                               taka þegar gildi.
 
-                                    31. gr.
-        Forseti Íslands veitir dómurum við Hæstarétt lausn frá embætti
-   samkvæmt tillögu dómsmálaráðherra en dómsmálaráðherra héraðsdómurum.
-        Dómara skal veitt lausn frá embætti ef hann leitar eftir henni
-   sjálfur, enda sé það gert með þeim fyrirvara sem gildir almennt um
-   starfsmenn ríkisins.
-        Dómari telst sjálfkrafa fá lausn frá embætti ef hann tekur við skipun
-   í annað embætti.
-        Heimilt er að veita dómara lausn frá embætti án óskar hans ef hann er
-   orðinn 65 ára, en hann skal þá upp frá því taka eftirlaun svo sem hann
-   hefði gegnt embættinu til 70 ára aldurs nema hann njóti ríkari réttar
-   samkvæmt stjórnskipunarlögum.
-        Dómara skal veitt lausn frá embætti ekki síðar en frá þeim degi sem
-   hann nær 70 ára aldri.
 
-                                    32. gr.
-        Um refsiábyrgð dómara vegna háttsemi hans í embætti fer eftir
-   almennum hegningarlögum og sérákvæðum annarra laga.
-        Verði athafnir dómara í starfi eða athafnaleysi öðrum til tjóns ber
-   ríkið á því bótaábyrgð eftir almennum reglum. Dómari verður ekki sjálfur
-   krafinn um bætur, en ríkinu er þó heimilt að gengnum áfellisdómi að beina
-   að honum framkröfu, enda hafi ásetningsverk hans leitt til bótaskyldu.
-        Við rekstur mála samkvæmt framangreindu skal fara eftir almennum
-   reglum.
-
-                                    33. gr.
-        Um önnur atriði en að framan greinir gilda almennar reglur um
-   starfsmenn ríkisins um dómara eftir því sem átt getur við.
-
-                                   V. kafli.
-                        Gildistaka, brottfall laga o.fl.
-                                    34. gr.
-        Lög þessi öðlast gildi 1. júlí 1998 að undanteknum ákvæðum 38. gr.
-   sem taka þegar gildi.
-
-                                   VI. kafli.
-                            Ákvæði til bráðabirgða.
-                                    37. gr.
-        Með gildistöku laga þessara er ekki raskað skipun eða setningu í
-   dómaraembætti.
-        Þeir sem gegna embættum héraðsdómara við héraðsdómstóla við
-   gildistöku laga þessara hljóta þá sjálfkrafa embættisheitið héraðsdómari
-   sem ekki verður bundið við ákveðinn dómstól.
-        Þeir sem gegna starfi dómstjóra við héraðsdómstóla þegar lög þessi
-   öðlast gildi skulu halda þeim starfa til loka yfirstandandi
-   skipunartímabils.
-
-                                    38. gr.
-        Dómsmálaráðherra skipar menn í dómstólaráð, dómnefnd um
+                       VI. kafli. Ákvæði til bráðabirgða.
+    37. gr. Með gildistöku laga þessara er ekki raskað skipun eða setningu í
+                                 dómaraembætti.
+  Þeir sem gegna embættum héraðsdómara við héraðsdómstóla við gildistöku laga
+þessara hljóta þá sjálfkrafa embættisheitið héraðsdómari sem ekki verður bundið
+                             við ákveðinn dómstól.
+Þeir sem gegna starfi dómstjóra við héraðsdómstóla þegar lög þessi öðlast gildi
+        skulu halda þeim starfa til loka yfirstandandi skipunartímabils.
+        38. gr. Dómsmálaráðherra skipar menn í dómstólaráð, dómnefnd um
    héraðsdómaraembætti og nefnd um dómarastörf þegar þessi grein hefur öðlast
-   gildi. Ráðið og nefndirnar taka þá þegar til starfa.
-        Þegar skipað er í fyrsta sinn í dómstólaráð skal einn aðalmaður ásamt
-   varamanni vera skipaður til eins árs, annar aðalmaður ásamt varamanni til
-   tveggja ára og þannig koll af kolli þannig að fimmti aðalmaður ásamt
-   varamanni verði skipaður til fimm ára. Skal skipunartími hvers ákveðinn af
-   tilviljun þegar ráðið hefur verið hverjir veljast þar til starfa.
-        Við gildistöku þessarar greinar fellur niður skipun nefndar skv. 2.
-   mgr. [2]5. gr. laga nr. 92/1989. Þegar skipað er í fyrsta sinn í nýja
-   dómnefnd um héraðsdómaraembætti skal einn aðalmaður ásamt varamanni vera
-   skipaður til eins árs, annar aðalmaður ásamt varamanni til tveggja ára, en
-   þriðji aðalmaðurinn og varamaðurinn til þriggja ára. Skal skipunartími
-   hvers ákveðinn af tilviljun þegar ráðið hefur verið hverjir veljast þar
-   til starfa.
-        Þegar skipað er í fyrsta sinn í nefnd um dómarastörf skal einn
-   aðalmaður ásamt varamanni vera skipaður til tveggja ára, annar aðalmaður
-   ásamt varamanni til fjögurra ára, en þriðji aðalmaðurinn og varamaðurinn
-   til sex ára. Skal skipunartími hvers ákveðinn af tilviljun þegar ráðið
-   hefur verið hverjir veljast þar til starfa.
-
-                                    39. gr.
-        Héraðsdómara, sem er skipaður í embætti við gildistöku þessara laga,
-   verður ekki gert að skipta um starfsvettvang gegn vilja sínum nema hann
-   geti með góðu móti sótt vinnu á nýjum vettvangi án búferlaflutninga. Þetta
-   gildir þó ekki ef flytja þarf dómara af starfsvettvangi sínum vegna
-   varanlegrar fækkunar dómara þar.
-        Ákvæði 6. mgr. 15. gr. gilda um héraðsdómara þótt hann hafi verið
-   skipaður í embætti fyrir gildistöku laga þessara.
-
-                                    40. gr.
-        Innan mánaðar frá gildistöku þessara laga ber dómurum við Hæstarétt
-   og héraðsdómurum, sem hafa með höndum aukastörf, ótilkvöddum að gera nefnd
-   um dómarastörf grein fyrir þeim og leita eftir atvikum heimildar hennar
-   til að gegna þeim áfram. Telji nefndin dómara óheimilt að gegna aukastarfi
-   áfram skal hann fá sig leystan frá því innan sex mánaða frá því að honum
-   er tilkynnt um afstöðu nefndarinnar.
-        Ákvæðum 1. mgr. skal einnig beitt um eignarhlut dómara í félögum og
-   atvinnufyrirtækjum, en þó þannig að frestur til að láta af hendi hlutann
-   skal vera eitt ár frá tilkynningu um að nefndin telji dómara óheimilt að
-   eiga hann.
-
-                                    41. gr.
-        Þeir sem skipaðir eru í starf dómarafulltrúa við gildistöku þessara
-   laga skulu eiga kost á starfi skv. 17. gr., en þó þannig að þargreindar
-   takmarkanir á ráðningartíma gilda ekki um þessa starfsmenn.
-        Dómsmálaráðherra er heimilt að ákveða að úr röðum þeirra sem skipaðir
-   eru í starf dómarafulltrúa við gildistöku þessara laga, gegndu sama starfi
-   1. júní 1995 og fullnægðu á þeim tíma skilyrðum til að fá skipun í embætti
-   héraðsdómara verði settir allt að fjórir héraðsdómarar umfram þann fjölda
-   dómara sem um ræðir í 1. mgr. 12. gr. Verði þessarar heimildar neytt skal
-   þeim sem fullnægja framangreindum skilyrðum gefinn kostur á að sækja um
-   setningu í dómaraembætti. Við veitingu embættis skal gætt ákvæða 2. og 4.
-   mgr. 12. gr. Sá sem settur er í dómaraembætti samkvæmt þessari heimild
-   nýtur í hvarvetna sömu stöðu og sá sem skipaður hefur verið héraðsdómari
-   eftir ákvæðum þessara laga, að öðru leyti en því að setningin rennur
-   sjálfkrafa út 30. júní 2001. Losni fyrir þann tíma sæti einhvers þess sem
-   hefur verið settur dómari samkvæmt þessari heimild verður ekki annar
-   settur í embættið til loka tímabilsins. Ákvæði 1. mgr. skulu gilda um þá
-   sem gegna dómaraembætti til loka setningartíma að þeim tíma liðnum.
-        Starfandi dómarafulltrúar við gildistöku laga þessara, sem neyta
-   hvorki heimildar skv. 1. mgr. né verða settir dómarar skv. 2. mgr., skulu
-   eiga kost á að láta af störfum fyrir árslok 1998 með rétti til biðlauna.
-   Um biðlaunarétt þeirra gilda annars almennar reglur um starfsmenn
-   ríkisins.
-
-                                    42. gr.
-        Verði heiti sveitarfélags sem getið er í 2. gr. breytt eða sameinist
-   tvö eða fleiri þeirra skal litið svo á að sveitarfélagið, sem til verður í
-   staðinn, heyri til dómumdæmisins sem það eldra eða þau eldri heyrðu til.
-   Ef sameinuð eru tvö eða fleiri sveitarfélög sem hvort eða hvert heyra til
-   síns dómumdæmis eftir ákvæðum 2. gr. skal dómsmálaráðherra ákveða með
-   reglugerð undir hvaða umdæmi nýja sveitarfélagið eigi þar til annarri
-   skipan verður komið á með lögum.
+              gildi. Ráðið og nefndirnar taka þá þegar til starfa.
+Þegar skipað er í fyrsta sinn í dómstólaráð skal einn aðalmaður ásamt varamanni
+ vera skipaður til eins árs, annar aðalmaður ásamt varamanni til tveggja ára og
+ þannig koll af kolli þannig að fimmti aðalmaður ásamt varamanni verði skipaður
+ til fimm ára. Skal skipunartími hvers ákveðinn af tilviljun þegar ráðið hefur
+                     verið hverjir veljast þar til starfa.
+ Við gildistöku þessarar greinar fellur niður skipun nefndar skv. 2. mgr. [2]5.
+     gr. laga nr. 92/1989. Þegar skipað er í fyrsta sinn í nýja dómnefnd um
+ héraðsdómaraembætti skal einn aðalmaður ásamt varamanni vera skipaður til eins
+árs, annar aðalmaður ásamt varamanni til tveggja ára, en þriðji aðalmaðurinn og
+  varamaðurinn til þriggja ára. Skal skipunartími hvers ákveðinn af tilviljun
+            þegar ráðið hefur verið hverjir veljast þar til starfa.
+ Þegar skipað er í fyrsta sinn í nefnd um dómarastörf skal einn aðalmaður ásamt
+  varamanni vera skipaður til tveggja ára, annar aðalmaður ásamt varamanni til
+     fjögurra ára, en þriðji aðalmaðurinn og varamaðurinn til sex ára. Skal
+skipunartími hvers ákveðinn af tilviljun þegar ráðið hefur verið hverjir veljast
+                                þar til starfa.
+  39. gr. Héraðsdómara, sem er skipaður í embætti við gildistöku þessara laga,
+verður ekki gert að skipta um starfsvettvang gegn vilja sínum nema hann geti með
+góðu móti sótt vinnu á nýjum vettvangi án búferlaflutninga. Þetta gildir þó ekki
+ef flytja þarf dómara af starfsvettvangi sínum vegna varanlegrar fækkunar dómara
+                                      þar.
+  Ákvæði 6. mgr. 15. gr. gilda um héraðsdómara þótt hann hafi verið skipaður í
+                     embætti fyrir gildistöku laga þessara.
+ 40. gr. Innan mánaðar frá gildistöku þessara laga ber dómurum við Hæstarétt og
+   héraðsdómurum, sem hafa með höndum aukastörf, ótilkvöddum að gera nefnd um
+  dómarastörf grein fyrir þeim og leita eftir atvikum heimildar hennar til að
+ gegna þeim áfram. Telji nefndin dómara óheimilt að gegna aukastarfi áfram skal
+  hann fá sig leystan frá því innan sex mánaða frá því að honum er tilkynnt um
+                             afstöðu nefndarinnar.
+      Ákvæðum 1. mgr. skal einnig beitt um eignarhlut dómara í félögum og
+ atvinnufyrirtækjum, en þó þannig að frestur til að láta af hendi hlutann skal
+ vera eitt ár frá tilkynningu um að nefndin telji dómara óheimilt að eiga hann.
+41. gr. Þeir sem skipaðir eru í starf dómarafulltrúa við gildistöku þessara laga
+skulu eiga kost á starfi skv. 17. gr., en þó þannig að þargreindar takmarkanir á
+                 ráðningartíma gilda ekki um þessa starfsmenn.
+  Dómsmálaráðherra er heimilt að ákveða að úr röðum þeirra sem skipaðir eru í
+  starf dómarafulltrúa við gildistöku þessara laga, gegndu sama starfi 1. júní
+1995 og fullnægðu á þeim tíma skilyrðum til að fá skipun í embætti héraðsdómara
+verði settir allt að fjórir héraðsdómarar umfram þann fjölda dómara sem um ræðir
+    í 1. mgr. 12. gr. Verði þessarar heimildar neytt skal þeim sem fullnægja
+ framangreindum skilyrðum gefinn kostur á að sækja um setningu í dómaraembætti.
+Við veitingu embættis skal gætt ákvæða 2. og 4. mgr. 12. gr. Sá sem settur er í
+ dómaraembætti samkvæmt þessari heimild nýtur í hvarvetna sömu stöðu og sá sem
+ skipaður hefur verið héraðsdómari eftir ákvæðum þessara laga, að öðru leyti en
+því að setningin rennur sjálfkrafa út 30. júní 2001. Losni fyrir þann tíma sæti
+einhvers þess sem hefur verið settur dómari samkvæmt þessari heimild verður ekki
+ annar settur í embættið til loka tímabilsins. Ákvæði 1. mgr. skulu gilda um þá
+      sem gegna dómaraembætti til loka setningartíma að þeim tíma liðnum.
+    Starfandi dómarafulltrúar við gildistöku laga þessara, sem neyta hvorki
+ heimildar skv. 1. mgr. né verða settir dómarar skv. 2. mgr., skulu eiga kost á
+  að láta af störfum fyrir árslok 1998 með rétti til biðlauna. Um biðlaunarétt
+          þeirra gilda annars almennar reglur um starfsmenn ríkisins.
+42. gr. Verði heiti sveitarfélags sem getið er í 2. gr. breytt eða sameinist tvö
+eða fleiri þeirra skal litið svo á að sveitarfélagið, sem til verður í staðinn,
+heyri til dómumdæmisins sem það eldra eða þau eldri heyrðu til. Ef sameinuð eru
+tvö eða fleiri sveitarfélög sem hvort eða hvert heyra til síns dómumdæmis eftir
+  ákvæðum 2. gr. skal dómsmálaráðherra ákveða með reglugerð undir hvaða umdæmi
+   nýja sveitarfélagið eigi þar til annarri skipan verður komið á með lögum.
 
 References
 

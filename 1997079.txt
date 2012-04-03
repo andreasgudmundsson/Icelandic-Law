@@ -1,586 +1,416 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
-                                      Lög um veiðar í fiskveiðilandhelgi Íslands
+                   Lög um veiðar í fiskveiðilandhelgi Íslands
 
                               1997 nr. 79 26. maí
 
    --------------------------------------------------------------------------
 
-                                     1. gr.
-         Tilgangur laga þessara er að stuðla að viðgangi og hagkvæmri nýtingu
+  1. gr. Tilgangur laga þessara er að stuðla að viðgangi og hagkvæmri nýtingu
    nytjastofna innan íslenskrar fiskveiðilandhelgi og tryggja með því trausta
-                                                  atvinnu og byggð í landinu.
+                          atvinnu og byggð í landinu.
+     2. gr. Til nytjastofna samkvæmt lögum þessum teljast sjávardýr, svo og
+       sjávargróður, sem nytjuð eru og kunna að verða nytjuð í íslenskri
+                  fiskveiðilandhelgi og sérlög gilda ekki um.
+  Til fiskveiðilandhelgi Íslands telst hafsvæðið frá fjöruborði að ytri mörkum
+  efnahagslögsögu Íslands eins og hún er skilgreind í [2]lögum nr. 41 1. júní
+               1979, um landhelgi, efnahagslögsögu og landgrunn.
+ 3. gr. Erlendum skipum eru bannaðar allar veiðar í fiskveiðilandhelgi Íslands.
+ Með ákvæði þessu eru ekki skert þau réttindi sem veitt hafa verið eða kunna að
+             verða veitt öðrum ríkjum samkvæmt milliríkjasamningum.
+ 4. gr. Aðeins þeim íslensku skipum, sem leyfi hafa til veiða í atvinnuskyni í
+  fiskveiðilandhelgi Íslands samkvæmt ákvæðum [3]laga nr. 38 15. maí 1990, um
+     stjórn fiskveiða, með síðari breytingum, er heimilt að stunda veiðar í
+                             fiskveiðilandhelginni.
+5. gr. Íslenskum skipum eru bannaðar veiðar með botnvörpu, flotvörpu og dragnót
+í fiskveiðilandhelgi Íslands nema á þeim veiðisvæðum og veiðitímum sem tilgreind
+eru í þessari grein, enda undanþiggi ráðherra ekki tiltekin svæði slíkum veiðum.
+Þegar rætt er um viðmiðunarlínu er átt við línu sem dregin er umhverfis landið á
+                           milli eftirtalinna staða:
 
-                                     2. gr.
-              Til nytjastofna samkvæmt lögum þessum teljast sjávardýr, svo og
-            sjávargróður, sem nytjuð eru og kunna að verða nytjuð í íslenskri
-                                  fiskveiðilandhelgi og sérlög gilda ekki um.
-        Til fiskveiðilandhelgi Íslands telst hafsvæðið frá fjöruborði að ytri
-   mörkum efnahagslögsögu Íslands eins og hún er skilgreind í [2]lögum nr. 41
-                    1. júní 1979, um landhelgi, efnahagslögsögu og landgrunn.
+1.         Horn (grp. 1)                         66°27'4 N  22°24'3 V
+2.         Selsker (viti)                        66°07'5 N  21°30'0 V
+3.         Ásbúðarrif (grp. 2)                   66°08'1 N  20°11'0 V
+4.         [Siglunes (grp. 3)                    66°11'9 N  18°49'9 V]^1)
+5.         Flatey (Skjálfanda) (grp. 4)          66°10'3 N  17°50'3 V
+6.         Mánáreyjar (Lágey) (grp. 5)           66°17'8 N  17°06'8 V
+7.         Rauðinúpur (grp. 6)                   66°30'7 N  16°32'4 V
+8.         Rifstangi (grp. 7)                    66°32'3 N  16°11'8 V
+9.         Hraunhafnartangi (grp. 8)             66°32'2 N  16°01'5 V
+10.        Langanes (grp. 9)                     66°22'7 N  14°31'9 V
+11.        Skálatáarsker                         65°59'7 N  14°36'4 V
+12.        Almenningsfles                        65°33'1 N  13°40'5 V
+13.        Glettinganes (grp. 10)                65°30'5 N  13°36'3 V
+14.        Norðfjarðarhorn (grp. 11)             65°10'0 N  13°30'8 V
+15.        Gerpir (grp. 12)                      65°04'7 N  13°29'6 V
+16.        Hólmur (Seley) (grp. 13)              64°58'9 N  13°30'6 V
+17.        Skrúður (Þursi) (grp. 15)             64°54'1 N  13°36'8 V
+18.        Papey (viti)                          64°35'5 N  14°10'5 V
+19.        Hvítingar (grp. 18)                   64°23'9 N  14°28'0 V
+20.        Stokksnes (grp. 19)                   64°14'1 N  14°58'4 V
+21.        Hrollaugseyjar (grp. 20)              64°01'7 N  15°58'7 V
+22.        Ingólfshöfði (grp. 22)                63°47'8 N  16°38'5 V
+23.        Hvalsíki (grp. 23)                    63°44'1 N  17°33'5 V
+24.        Meðallandssandur I (grp. 24)          63°32'4 N  17°55'6 V
+25.        Meðallandssandur II (grp. 25)         63°30'6 N  17°59'9 V
+26.        Mýrnatangi (grp. 26)                  63°27'4 N  18°11'8 V
+27.        Kötlutangi (grp. 27)                  63°23'4 N  18°42'8 V
+28.        Lundadrangur (grp. 28)                63°23'5 N  19°07'5 V
+29.        Bakkafjara (skúr við sæstreng)        63°32'3 N  20°10'9 V
+30.        Knarrarós (viti)                      63°49'4 N  20°58'6 V
+31.        Hafnarnes                             63°50'6 N  21°23'5 V
+32.        Selvogur (viti)                       63°49'3 N  21°39'1 V
+33.        Krýsuvíkurberg (viti)                 63°49'8 N  22°04'2 V
+34.        Reykjanes (aukaviti)                  63°48'0 N  22°41'9 V
+35.        Önglabrjótsnef                        63°49'0 N  22°44'3 V
+36.        Stafnes (viti)                        63°58'3 N  22°45'5 V
+37.        1. sjm. r/v V af Garðskagavita        64°04'9 N  22°43'6 V
+38.        Malarrif (viti)                       64°43'7 N  23°48'2 V
+39.        Dritvíkurtangi                        64°45'0 N  23°55'3 V
+40.        Skálasnagi                            64°51'3 N  24°02'5 V
+41.        Öndverðarnes (viti)                   64°53'1 N  24°02'7 V
+42.        Skor (viti)                           65°24'9 N  23°57'2 V
+43.        Bjargtangar (grp. 33)                 65°30'2 N  24°32'1 V
+44.        Kópanes (grp. 34)                     65°48'4 N  24°06'0 V
+45.        Barði (grp. 35)                       66°03'7 N  23°47'4 V
+46.        Straumnes (grp. 36)                   66°25'7 N  23°08'4 V
+47.        Kögur (grp. 37)                       66°28'3 N  22°55'5 V
+48.        Horn (grp. 38)                        66°27'9 N  22°28'2 V
 
-                                     3. gr.
-               Erlendum skipum eru bannaðar allar veiðar í fiskveiðilandhelgi
-   Íslands. Með ákvæði þessu eru ekki skert þau réttindi sem veitt hafa verið
-          eða kunna að verða veitt öðrum ríkjum samkvæmt milliríkjasamningum.
-
-                                     4. gr.
-         Aðeins þeim íslensku skipum, sem leyfi hafa til veiða í atvinnuskyni
-   í fiskveiðilandhelgi Íslands samkvæmt ákvæðum [3]laga nr. 38 15. maí 1990,
-    um stjórn fiskveiða, með síðari breytingum, er heimilt að stunda veiðar í
-                                                       fiskveiðilandhelginni.
-
-                                     5. gr.
-             Íslenskum skipum eru bannaðar veiðar með botnvörpu, flotvörpu og
-   dragnót í fiskveiðilandhelgi Íslands nema á þeim veiðisvæðum og veiðitímum
-    sem tilgreind eru í þessari grein, enda undanþiggi ráðherra ekki tiltekin
-     svæði slíkum veiðum. Þegar rætt er um viðmiðunarlínu er átt við línu sem
-                       dregin er umhverfis landið á milli eftirtalinna staða:
-
-   1.
-           Horn (grp. 1) 66°27'4 N  22°24'3 V
-   2.
-           Selsker (viti) 66°07'5 N  21°30'0 V
-   3.
-           Ásbúðarrif (grp. 2) 66°08'1 N  20°11'0 V
-   4.
-           [Siglunes (grp. 3) 66°11'9 N18°49'9 V]^1)
-   5.
-           Flatey (Skjálfanda) (grp. 4) 66°10'3 N  17°50'3 V
-   6.
-           Mánáreyjar (Lágey) (grp. 5) 66°17'8 N  17°06'8 V
-   7.
-           Rauðinúpur (grp. 6) 66°30'7 N  16°32'4 V
-   8.
-           Rifstangi (grp. 7) 66°32'3 N  16°11'8 V
-   9.
-           Hraunhafnartangi (grp. 8) 66°32'2 N  16°01'5 V
-   10.
-           Langanes (grp. 9) 66°22'7 N  14°31'9 V
-   11.
-           Skálatáarsker 65°59'7 N  14°36'4 V
-   12.
-           Almenningsfles 65°33'1 N  13°40'5 V
-   13.
-           Glettinganes (grp. 10) 65°30'5 N  13°36'3 V
-   14.
-           Norðfjarðarhorn (grp. 11) 65°10'0 N  13°30'8 V
-   15.
-           Gerpir (grp. 12) 65°04'7 N  13°29'6 V
-   16.
-           Hólmur (Seley) (grp. 13) 64°58'9 N  13°30'6 V
-   17.
-           Skrúður (Þursi) (grp. 15) 64°54'1 N  13°36'8 V
-   18.
-           Papey (viti) 64°35'5 N  14°10'5 V
-   19.
-           Hvítingar (grp. 18) 64°23'9 N  14°28'0 V
-   20.
-           Stokksnes (grp. 19) 64°14'1 N  14°58'4 V
-   21.
-           Hrollaugseyjar (grp. 20) 64°01'7 N  15°58'7 V
-   22.
-           Ingólfshöfði (grp. 22) 63°47'8 N  16°38'5 V
-   23.
-           Hvalsíki (grp. 23) 63°44'1 N  17°33'5 V
-   24.
-           Meðallandssandur I
-           (grp. 24) 63°32'4 N  17°55'6 V
-   25.
-           Meðallandssandur II
-           (grp. 25) 63°30'6 N  17°59'9 V
-   26.
-           Mýrnatangi (grp. 26) 63°27'4 N  18°11'8 V
-   27.
-           Kötlutangi (grp. 27) 63°23'4 N  18°42'8 V
-   28.
-           Lundadrangur (grp. 28) 63°23'5 N  19°07'5 V
-   29.
-           Bakkafjara (skúr við sæ-
-           streng) 63°32'3 N  20°10'9 V
-   30.
-           Knarrarós (viti) 63°49'4 N  20°58'6 V
-   31.
-           Hafnarnes 63°50'6 N  21°23'5 V
-   32.
-           Selvogur (viti) 63°49'3 N  21°39'1 V
-   33.
-           Krýsuvíkurberg (viti) 63°49'8 N  22°04'2 V
-   34.
-           Reykjanes (aukaviti) 63°48'0 N  22°41'9 V
-   35.
-           Önglabrjótsnef 63°49'0 N  22°44'3 V
-   36.
-           Stafnes (viti) 63°58'3 N  22°45'5 V
-   37.
-           1. sjm. r/v V af Garðskaga-
-           vita 64°04'9 N  22°43'6 V
-   38.
-           Malarrif (viti) 64°43'7 N  23°48'2 V
-   39.
-           Dritvíkurtangi 64°45'0 N  23°55'3 V
-   40.
-           Skálasnagi 64°51'3 N  24°02'5 V
-   41.
-           Öndverðarnes (viti) 64°53'1 N  24°02'7 V
-   42.
-           Skor (viti) 65°24'9 N  23°57'2 V
-   43.
-           Bjargtangar (grp. 33) 65°30'2 N  24°32'1 V
-   44.
-           Kópanes (grp. 34) 65°48'4 N  24°06'0 V
-   45.
-           Barði (grp. 35) 66°03'7 N  23°47'4 V
-   46.
-           Straumnes (grp. 36) 66°25'7 N  23°08'4 V
-   47.
-           Kögur (grp. 37) 66°28'3 N  22°55'5 V
-   48.
-           Horn (grp. 38) 66°27'9 N  22°28'2 V
-
-           Heimildir fiskiskipa til veiða með botnvörpu, flotvörpu og dragnót
-         innan fiskveiðilandhelgi Íslands miðast við stærðir skipa og aflvísa
-      þeirra. Er skipum skipt niður í þrjá flokka miðað við stærðir þeirra og
-                                                              aflvísa þannig:
-
-   1. flokkur: Fiskiskip 42 metrar og lengri. Enn fremur öll fiskiskip með
-   aflvísa 2.500 eða hærri.
-
-   2. flokkur: Fiskiskip lengri en 29 metrar en styttri en 42 metrar með
-   aflvísa lægri en 2.500. Enn fremur fiskiskip styttri en 29 metrar en með
-   aflvísa 1.600 og hærri. Í þennan flokk falla einnig fiskiskip 39 metrar og
-   styttri sem togveiðiheimildir höfðu eftir þeirri viðmiðun skv. [4]3. gr.
-   laga nr. 81 31. maí 1976, um veiðar í fiskveiðilandhelgi Íslands, enda
-   verði ekki um aukningu á aflvísum þeirra að ræða eftir 1. júní 1997.
-
-   3. flokkur: Fiskiskip styttri en 29 metrar, enda séu þau með lægri aflvísa
-   en 1.600. Enn fremur fiskiskip 26 metrar og styttri sem togveiðiheimildir
-   höfðu eftir þeirri viðmiðun skv. [5]3. gr. laga nr. 81 31. maí 1976, um
-   veiðar í fiskveiðilandhelgi Íslands, enda verði ekki um aukningu á
-   aflvísum þeirra að ræða eftir 1. júní 1997.
-
-        Þar sem í lögum þessum er rætt um aflvísi skips er miðað við
-   reiknaðan aflvísi þess. Sé skip búið skrúfuhring er aflvísir þess
-   reiknaður þannig: HÖ x ÞS. Sé skip ekki búið skrúfuhring er aflvísir þess
-   reiknaður þannig: 0,60 x HÖ x ÞS. HÖ merkir hér skráð afl aðalvélar
-   skipsins í hestöflum, ÞS merkir þvermál skrúfu í metrum.
-        Siglingastofnun Íslands skal halda skrá yfir aflvísa þeirra skipa sem
-   stunda veiðar með botnvörpu, flotvörpu og dragnót og skal sú skrá lögð til
-   grundvallar við ákvörðun veiðiheimilda samkvæmt þessari grein.
-        Þar sem í lögum þessum er rætt um lengd skipa er miðað við mestu
-   lengd þeirra samkvæmt mælingum Siglingastofnunar Íslands.
-        Botnvarpa og flotvarpa samkvæmt þessari grein merkir fiskivörpur sem
-   notaðar eru til veiða á helstu botnfisktegundum hér við land og tekur ekki
-   til varpna sem notaðar eru til veiða á humri, rækju eða uppsjávarfiskum.
-   Setja skal nánari ákvæði í reglugerð um gerð og útbúnað fiskivarpna og
-   dragnótar.
-        Stundi tvö eða fleiri skip veiðar með sömu botnvörpu, flotvörpu eða
-   dragnót skulu heimildir þeirra samkvæmt þessari grein miðast við
-   samanlagða lengd þeirra og samanlagða aflvísa þeirra.
-        Hér á eftir eru tilgreind þau svæði og tímar þar sem einstökum
-   flokkum fiskiskipa, sbr. 2. mgr. þessarar greinar, er heimilt að stunda
-   veiðar með botnvörpu, flotvörpu og dragnót:
+    Heimildir fiskiskipa til veiða með botnvörpu, flotvörpu og dragnót innan
+fiskveiðilandhelgi Íslands miðast við stærðir skipa og aflvísa þeirra. Er skipum
+     skipt niður í þrjá flokka miðað við stærðir þeirra og aflvísa þannig:
+      1. flokkur: Fiskiskip 42 metrar og lengri. Enn fremur öll fiskiskip með
+                            aflvísa 2.500 eða hærri.
+   2. flokkur: Fiskiskip lengri en 29 metrar en styttri en 42 metrar með aflvísa
+ lægri en 2.500. Enn fremur fiskiskip styttri en 29 metrar en með aflvísa 1.600
+    og hærri. Í þennan flokk falla einnig fiskiskip 39 metrar og styttri sem
+togveiðiheimildir höfðu eftir þeirri viðmiðun skv. [4]3. gr. laga nr. 81 31. maí
+  1976, um veiðar í fiskveiðilandhelgi Íslands, enda verði ekki um aukningu á
+                  aflvísum þeirra að ræða eftir 1. júní 1997.
+   3. flokkur: Fiskiskip styttri en 29 metrar, enda séu þau með lægri aflvísa en
+  1.600. Enn fremur fiskiskip 26 metrar og styttri sem togveiðiheimildir höfðu
+   eftir þeirri viðmiðun skv. [5]3. gr. laga nr. 81 31. maí 1976, um veiðar í
+  fiskveiðilandhelgi Íslands, enda verði ekki um aukningu á aflvísum þeirra að
+                            ræða eftir 1. júní 1997.
+ Þar sem í lögum þessum er rætt um aflvísi skips er miðað við reiknaðan aflvísi
+ þess. Sé skip búið skrúfuhring er aflvísir þess reiknaður þannig: HÖ x ÞS. Sé
+skip ekki búið skrúfuhring er aflvísir þess reiknaður þannig: 0,60 x HÖ x ÞS. HÖ
+merkir hér skráð afl aðalvélar skipsins í hestöflum, ÞS merkir þvermál skrúfu í
+                                    metrum.
+  Siglingastofnun Íslands skal halda skrá yfir aflvísa þeirra skipa sem stunda
+veiðar með botnvörpu, flotvörpu og dragnót og skal sú skrá lögð til grundvallar
+               við ákvörðun veiðiheimilda samkvæmt þessari grein.
+ Þar sem í lögum þessum er rætt um lengd skipa er miðað við mestu lengd þeirra
+                  samkvæmt mælingum Siglingastofnunar Íslands.
+Botnvarpa og flotvarpa samkvæmt þessari grein merkir fiskivörpur sem notaðar eru
+ til veiða á helstu botnfisktegundum hér við land og tekur ekki til varpna sem
+  notaðar eru til veiða á humri, rækju eða uppsjávarfiskum. Setja skal nánari
+        ákvæði í reglugerð um gerð og útbúnað fiskivarpna og dragnótar.
+  Stundi tvö eða fleiri skip veiðar með sömu botnvörpu, flotvörpu eða dragnót
+skulu heimildir þeirra samkvæmt þessari grein miðast við samanlagða lengd þeirra
+                         og samanlagða aflvísa þeirra.
+     Hér á eftir eru tilgreind þau svæði og tímar þar sem einstökum flokkum
+   fiskiskipa, sbr. 2. mgr. þessarar greinar, er heimilt að stunda veiðar með
+                        botnvörpu, flotvörpu og dragnót:
                                  A. Norðurland.
                                  Allir flokkar:
-
-   A.1. Allt árið frá línu réttvísandi norður frá Horni (vms. 1) að línu
+       A.1. Allt árið frá línu réttvísandi norður frá Horni (vms. 1) að línu
    réttvísandi norðaustur frá Langanesi (vms. 10), utan línu sem dregin er 12
-   sjómílur utan við viðmiðunarlínu.
-
-   A.2. Allt árið utan línu sem dregin er í 12 sjómílna fjarlægð frá
-   fjörumarki Grímseyjar.
-
-   A.3. Allt árið utan línu sem dregin er í 12 sjómílna fjarlægð frá
-   fjörumarki Kolbeinseyjar (67°08'80 N  18°40'60 V).
-
+                       sjómílur utan við viðmiðunarlínu.
+   A.2. Allt árið utan línu sem dregin er í 12 sjómílna fjarlægð frá fjörumarki
+                                  Grímseyjar.
+   A.3. Allt árið utan línu sem dregin er í 12 sjómílna fjarlægð frá fjörumarki
+                    Kolbeinseyjar (67°08'80 N  18°40'60 V).
                                  B. Austurland.
                                  Allir flokkar:
-
-   B.1. Allt árið frá línu réttvísandi norðaustur frá Langanesi (vms. 10) að
-   línu réttvísandi austur frá Hvítingum (vms. 19), utan línu sem dregin er
-   12 sjómílur utan viðmiðunarlínu.
-
-   B.2. Allt árið utan línu sem dregin er í 5 sjómílna fjarlægð frá
-   fjörumarki Hvalbaks (64°35'80 N  13°16'60 V).
-
+     B.1. Allt árið frá línu réttvísandi norðaustur frá Langanesi (vms. 10) að
+  línu réttvísandi austur frá Hvítingum (vms. 19), utan línu sem dregin er 12
+                         sjómílur utan viðmiðunarlínu.
+    B.2. Allt árið utan línu sem dregin er í 5 sjómílna fjarlægð frá fjörumarki
+                      Hvalbaks (64°35'80 N  13°16'60 V).
                                 Flokkar 2 og 3:
-
-   B.3. Allt árið utan línu sem dregin er 6 sjómílur utan viðmiðunarlínu
-   milli lína réttvísandi norðaustur frá Langanesi (vms. 10) og réttvísandi
-   austur frá Glettinganesi (vms. 13).
-
+    B.3. Allt árið utan línu sem dregin er 6 sjómílur utan viðmiðunarlínu milli
+ lína réttvísandi norðaustur frá Langanesi (vms. 10) og réttvísandi austur frá
+                            Glettinganesi (vms. 13).
                                C. Suðausturland.
                                  Allir flokkar:
-
-   C.1. Allt árið frá línu réttvísandi austur frá Hvítingum (vms. 19) að línu
-   réttvísandi suður frá Lundadrangi (vms. 28), utan línu sem dregin er 12
-   sjómílur utan viðmiðunarlínu.
-
-   C.2. Tímabilið 1. maí  31. desember frá línu réttvísandi austur frá
-   Hvítingum (vms. 19) að línu réttvísandi suður frá Hvalnesi (64°24'10 N 
-   14°32'50 V), utan línu sem dregin er 4 sjómílur utan viðmiðunarlínu.
-
-   C.3. Tímabilið 1. maí  31. janúar á svæði milli lína réttvísandi austur
-   frá Hvítingum (vms. 19) og réttvísandi suður frá Ingólfshöfða (vms. 22),
-   utan línu sem dregin er 9 sjómílur utan viðmiðunarlínu.
-
-   C.4. Tímabilið 15. september  31. janúar á svæði milli lína réttvísandi
-   suður frá Ingólfshöfða (vms. 22) og réttvísandi suður frá Lundadrangi
-   (vms. 28), utan línu sem dregin er 4 sjómílur utan viðmiðunarlínu.
-
+    C.1. Allt árið frá línu réttvísandi austur frá Hvítingum (vms. 19) að línu
+réttvísandi suður frá Lundadrangi (vms. 28), utan línu sem dregin er 12 sjómílur
+                              utan viðmiðunarlínu.
+       C.2. Tímabilið 1. maí  31. desember frá línu réttvísandi austur frá
+    Hvítingum (vms. 19) að línu réttvísandi suður frá Hvalnesi (64°24'10 N 
+      14°32'50 V), utan línu sem dregin er 4 sjómílur utan viðmiðunarlínu.
+   C.3. Tímabilið 1. maí  31. janúar á svæði milli lína réttvísandi austur frá
+ Hvítingum (vms. 19) og réttvísandi suður frá Ingólfshöfða (vms. 22), utan línu
+                 sem dregin er 9 sjómílur utan viðmiðunarlínu.
+     C.4. Tímabilið 15. september  31. janúar á svæði milli lína réttvísandi
+suður frá Ingólfshöfða (vms. 22) og réttvísandi suður frá Lundadrangi (vms. 28),
+            utan línu sem dregin er 4 sjómílur utan viðmiðunarlínu.
                                 Flokkar 2 og 3:
-
-   C.5. Allt árið utan línu sem dregin er í 4 sjómílna fjarlægð frá
-   fjörumarki meginlandsins frá línu austur frá Hvítingum (vms. 19) að
-   18°00'00 V.
-
-   Á svæði milli línu sem dregin er réttvísandi [suður frá Stokksnesi (vms.
-   20)]^1) og að 15°45'00 V er þó ekki heimilt að stunda veiðar innan 6
-   sjómílna frá landi tímabilið 1. maí  30. september.
-
-   C.6. Allt árið utan línu sem dregin er 4 sjómílur utan viðmiðunarlínu frá
-   18°00'00 V að línu réttvísandi suður frá Lundadrangi (vms. 28).
-
+    C.5. Allt árið utan línu sem dregin er í 4 sjómílna fjarlægð frá fjörumarki
+      meginlandsins frá línu austur frá Hvítingum (vms. 19) að 18°00'00 V.
+     Á svæði milli línu sem dregin er réttvísandi [suður frá Stokksnesi (vms.
+ 20)]^1) og að 15°45'00 V er þó ekki heimilt að stunda veiðar innan 6 sjómílna
+                  frá landi tímabilið 1. maí  30. september.
+     C.6. Allt árið utan línu sem dregin er 4 sjómílur utan viðmiðunarlínu frá
+        18°00'00 V að línu réttvísandi suður frá Lundadrangi (vms. 28).
                                    Flokkur 3:
-
-   C.7. Allt árið utan línu sem dregin er í 3 sjómílna fjarlægð frá
-   fjörumarki meginlandsins frá línu réttvísandi austur frá Hvítingum (vms.
-   19) að 18°00'00 V.
-
-   C.8. Allt árið utan línu sem dregin er í 3 sjómílna fjarlægð frá
-   fjörumarki meginlandsins frá 18°00'00 V að línu réttvísandi suður af
-   Lundadrangi (vms. 28).
-
+    C.7. Allt árið utan línu sem dregin er í 3 sjómílna fjarlægð frá fjörumarki
+meginlandsins frá línu réttvísandi austur frá Hvítingum (vms. 19) að 18°00'00 V.
+    C.8. Allt árið utan línu sem dregin er í 3 sjómílna fjarlægð frá fjörumarki
+meginlandsins frá 18°00'00 V að línu réttvísandi suður af Lundadrangi (vms. 28).
                                  D. Suðurland.
                                  Allir flokkar:
-
-   D.1. Allt árið utan línu sem dregin er úr punkti í 12 sjómílna fjarlægð
-   réttvísandi suður frá Lundadrangi (vms. 28) í punkt 63°08'00 N  19°57'00
-   V og þaðan í 4 sjómílna fjarlægð réttvísandi suður frá Surtsey (63°17'60 N
-    20°36'30 V).
-
-   D.2. Allt árið utan línu sem dregin er úr punkti í 4 sjómílna fjarlægð
-   réttvísandi suður frá Surtsey í punkt í 5 sjómílna fjarlægð réttvísandi
-   suður frá Geirfugladrangi [(63°40'7 N23°17'1 V)].^1)
-
-   D.3. Tímabilið 1. ágúst  31. desember utan línu sem dregin er úr punkti í
-   4 sjómílna fjarlægð réttvísandi suður frá Lundadrangi (vms. 28) í punkt í
-   4 sjómílna fjarlægð réttvísandi suður frá Surtsey.
-
+      D.1. Allt árið utan línu sem dregin er úr punkti í 12 sjómílna fjarlægð
+ réttvísandi suður frá Lundadrangi (vms. 28) í punkt 63°08'00 N  19°57'00 V og
+þaðan í 4 sjómílna fjarlægð réttvísandi suður frá Surtsey (63°17'60 N  20°36'30
+                                      V).
+      D.2. Allt árið utan línu sem dregin er úr punkti í 4 sjómílna fjarlægð
+ réttvísandi suður frá Surtsey í punkt í 5 sjómílna fjarlægð réttvísandi suður
+                frá Geirfugladrangi [(63°40'7 N23°17'1 V)].^1)
+   D.3. Tímabilið 1. ágúst  31. desember utan línu sem dregin er úr punkti í 4
+   sjómílna fjarlægð réttvísandi suður frá Lundadrangi (vms. 28) í punkt í 4
+                sjómílna fjarlægð réttvísandi suður frá Surtsey.
                                 Flokkar 2 og 3:
-
-   D.4. Allt árið utan línu sem dregin er úr punkti í 4 sjómílna fjarlægð
+      D.4. Allt árið utan línu sem dregin er úr punkti í 4 sjómílna fjarlægð
    réttvísandi suður frá Lundadrangi (vms. 28) í punkt í 4 sjómílna fjarlægð
-   réttvísandi suður frá Surtsey.
-
-   D.5. Tímabilið 16. maí  31. desember utan línu sem dregin er 4 sjómílur
-   utan viðmiðunarlínu frá línu réttvísandi suður úr Lundadrangi (vms. 28) að
-   línu [réttvísandi suðvestur frá Reykjanesaukavita (vms. 34)].^1)
-
+                         réttvísandi suður frá Surtsey.
+   D.5. Tímabilið 16. maí  31. desember utan línu sem dregin er 4 sjómílur utan
+   viðmiðunarlínu frá línu réttvísandi suður úr Lundadrangi (vms. 28) að línu
+          [réttvísandi suðvestur frá Reykjanesaukavita (vms. 34)].^1)
                                    Flokkur 3:
-
-   D.6. Allt árið utan línu sem dregin er í 3 sjómílna fjarlægð frá
-   fjörumarki meginlandsins frá línu réttvísandi suður frá Lundadrangi (vms.
-   28) að línu réttvísandi suðvestur frá Reykjanesaukavita.
-
-   ^1)
-
+    D.6. Allt árið utan línu sem dregin er í 3 sjómílna fjarlægð frá fjörumarki
+   meginlandsins frá línu réttvísandi suður frá Lundadrangi (vms. 28) að línu
+                  réttvísandi suðvestur frá Reykjanesaukavita.
+                                        ^1)
                         E. Reykjanes- og Faxaflóasvæði.
                                  Allir flokkar:
-
-   E.1. [Allt árið úr punkti í 5 sjómílna fjarlægð réttvísandi suður frá
-   Geirfugladrangi og utan línu í 5 sjómílna fjarlægð frá Geirfugladrangi í
-   punkt 64°43'70 N24°12'00 V.]^1)
-
-   E.2. Tímabilið 1. nóvember  31. desember utan línu sem dregin er í 12
+       E.1. [Allt árið úr punkti í 5 sjómílna fjarlægð réttvísandi suður frá
+ Geirfugladrangi og utan línu í 5 sjómílna fjarlægð frá Geirfugladrangi í punkt
+                           64°43'70 N24°12'00 V.]^1)
+      E.2. Tímabilið 1. nóvember  31. desember utan línu sem dregin er í 12
    sjómílna fjarlægð frá viðmiðunarlínu á svæði sem að sunnan markast af línu
-   dreginni réttvísandi suður frá Reykjanesaukavita (vms. 34) og að vestan af
-   línu sem dregin er réttvísandi vestur frá Reykjanesaukavita.
-
+dreginni réttvísandi suður frá Reykjanesaukavita (vms. 34) og að vestan af línu
+            sem dregin er réttvísandi vestur frá Reykjanesaukavita.
                                 Flokkar 2 og 3:
-
-   E.3. Allt árið utan línu sem dregin er 4 sjómílur utan viðmiðunarlínu frá
-   línu réttvísandi suðvestur frá Reykjanesaukavita (vms. 34) að línu
-   réttvísandi vestur frá Malarrifi (vms. 38).
-
+     E.3. Allt árið utan línu sem dregin er 4 sjómílur utan viðmiðunarlínu frá
+ línu réttvísandi suðvestur frá Reykjanesaukavita (vms. 34) að línu réttvísandi
+                        vestur frá Malarrifi (vms. 38).
                                F. Breiðafjörður.
                                  Allir flokkar:
-
-   F.1. Allt árið utan línu sem dregin er frá punkti 64°43'70 N  24°12'00 V
-   í punkt 64°43'70 N  24°26'00 V og þaðan í punkt í 12 sjómílna fjarlægð
-   réttvísandi vestur frá Bjargtöngum (vms. 43).
-
+    F.1. Allt árið utan línu sem dregin er frá punkti 64°43'70 N  24°12'00 V í
+     punkt 64°43'70 N  24°26'00 V og þaðan í punkt í 12 sjómílna fjarlægð
+                 réttvísandi vestur frá Bjargtöngum (vms. 43).
                                 Flokkar 2 og 3:
-
-   F.2. Tímabilið 1. júní  31. desember utan línu sem dregin er 4 sjómílur
-   utan viðmiðunarlínu frá línu réttvísandi vestur frá Malarrifi (vms. 38) að
-   línu réttvísandi vestur frá Skálasnaga (vms. 40) og þaðan í punkt í 4
-   sjómílna fjarlægð réttvísandi vestur frá Bjargtöngum (vms. 43).
-
+   F.2. Tímabilið 1. júní  31. desember utan línu sem dregin er 4 sjómílur utan
+   viðmiðunarlínu frá línu réttvísandi vestur frá Malarrifi (vms. 38) að línu
+   réttvísandi vestur frá Skálasnaga (vms. 40) og þaðan í punkt í 4 sjómílna
+             fjarlægð réttvísandi vestur frá Bjargtöngum (vms. 43).
                                    Flokkur 3:
-
-   F.3. Tímabilið 1. janúar  31. maí utan línu sem dregin er 4 sjómílur utan
-   viðmiðunarlínu frá línu [réttvísandi vestur frá Malarrifi]^1) (vms. 38) að
-   línu réttvísandi vestur frá Skálasnaga (vms. 40) og þaðan í punkt í 4
-   sjómílna fjarlægð réttvísandi vestur frá Bjargtöngum (vms. 43).
-
-   F.4. Tímabilið 1. september  31. desember utan línu sem dregin er 4
-   sjómílur utan við viðmiðunarlínu á Snæfellsnesi, norðan við línu
-   réttvísandi vestur frá Malarrifi (vms. 38) og utan við viðmiðunarlínu
-   milli Öndverðarnesvita (vms. 41) og Skorarvita (vms. 42). Að norðan
-   markast svæði þetta af 65°16'00 N.
-
+    F.3. Tímabilið 1. janúar  31. maí utan línu sem dregin er 4 sjómílur utan
+viðmiðunarlínu frá línu [réttvísandi vestur frá Malarrifi]^1) (vms. 38) að línu
+   réttvísandi vestur frá Skálasnaga (vms. 40) og þaðan í punkt í 4 sjómílna
+             fjarlægð réttvísandi vestur frá Bjargtöngum (vms. 43).
+   F.4. Tímabilið 1. september  31. desember utan línu sem dregin er 4 sjómílur
+ utan við viðmiðunarlínu á Snæfellsnesi, norðan við línu réttvísandi vestur frá
+Malarrifi (vms. 38) og utan við viðmiðunarlínu milli Öndverðarnesvita (vms. 41)
+     og Skorarvita (vms. 42). Að norðan markast svæði þetta af 65°16'00 N.
                                  G. Vestfirðir.
                                  Allir flokkar:
-
-   [G.1.]^1) Allt árið frá línu réttvísandi vestur frá Bjargtöngum (vms. 43)
-   að línu réttvísandi norður frá Horni (vms. 48), utan línu sem dregin er 12
-   sjómílur utan viðmiðunarlínu.
-
-   ^1)[6]L. 127/1997, 1. gr.
-
-                                     6. gr.
-        Þrátt fyrir 5. gr. er heimilt að leyfa veiðar með dragnót^1) nær
-   landi en um ræðir í 5. gr. samkvæmt sérstökum leyfum Fiskistofu. Aðeins er
-   heimilt að veita leyfi skipum styttri en 42 metrar, enda séu þau með
-   aflvísi lægri en 2.500, en ráðherra skal með reglugerð kveða nánar á um
-   skilyrði fyrir veitingu leyfa samkvæmt þessari málsgrein. Getur ráðherra
-   sett almennar og svæðisbundnar reglur í því skyni að stuðla að hagkvæmri
-   nýtingu fiskstofna, að teknu tilliti til veiða með öðrum veiðarfærum sem
-   stundaðar eru á viðkomandi svæðum. Getur ráðherra m.a. ákveðið að leyfin
-   séu bundin við ákveðið svæði og að aðeins hljóti leyfi til veiða á
-   tilteknu svæði tiltekinn fjöldi skipa, skip sem skráð eru á því svæði,
-   skip af ákveðinni stærð eða gerð eða skip sem áður hafa stundað
-   dragnótaveiðar. Þá getur ráðherra, að fenginni umsögn
-   Hafrannsóknastofnunarinnar, ákveðið að dragnótaveiðar á ákveðnu svæði
-   miðist við nýtingu ákveðinnar fisktegundar.
-        Sé talin þörf á að takmarka notkun tiltekins veiðarfæris til að
-   tryggja skynsamlega nýtingu þess stofns sem veiðarnar beinast að eða vegna
-   þeirrar skaðsemi sem notkun þess kann að hafa í för með sér fyrir nýtingu
-   annarra stofna getur ráðherra með reglugerð ákveðið að veiðar með því
-   veiðarfæri séu háðar sérstöku leyfi Fiskistofu. Um skilyrði fyrir veitingu
-   slíkra leyfa skal kveðið á í reglugerð og gilda ákvæði 1. mgr. um þau
-   eftir því sem við á.
-
-   ^1)Rg. 687/1997.
-
-                                     7. gr.
-        Grásleppuveiðar skulu háðar sérstöku leyfi Fiskistofu og eiga þeir
-   bátar einir kost á slíku leyfi sem rétt áttu til leyfis á
-   grásleppuvertíðinni 1997 samkvæmt reglum þar um. Ráðherra skal í reglugerð
-   kveða nánar á um skipulag grásleppuveiða og veiðitíma samkvæmt þessari
-   málsgrein. Getur ráðherra m.a. ákveðið að leyfin séu bundin við ákveðið
-   svæði og að aðeins hljóti leyfi til veiða á tilteknu svæði skip sem skráð
-   eru á því svæði. Þá getur ráðherra sett reglur um heimildir til flutnings
-   leyfa til grásleppuveiða milli báta.
-        Sé talin þörf á að koma í veg fyrir staðbundna ofnýtingu á tilteknum
-   stofni, óeðlilegan meðafla af öðrum tegundum en veiði beinist að eða önnur
-   óæskileg áhrif veiða getur ráðherra ákveðið að veiðar úr tilteknum
-   nytjastofni eða á tilteknu svæði séu háðar leyfi Fiskistofu. Sama á við ef
-   þörf er á að skipuleggja veiðar úr stofnum sem ekki er stjórnað með
-   skiptingu heildarafla milli einstakra skipa, sbr. [7]7. gr. laga nr. 38
-   15. maí 1990, með síðari breytingum, t.d. vegna óvissu um veiðiþol
-   viðkomandi stofns. Ráðherra skal í reglugerð kveða nánar á um skilyrði
-   fyrir veitingu leyfa samkvæmt þessari málsgrein. Getur ráðherra sett
-   almennar og svæðisbundnar reglur og m.a. ákveðið að leyfin séu bundin við
-   ákveðið svæði og að aðeins hljóti leyfi til veiða á tilteknu svæði
-   tiltekinn fjöldi skipa, skip sem skráð eru á því svæði, skip af ákveðinni
-   stærð eða gerð eða skip sem áður hafa stundað tilteknar veiðar.
-
-                                     8. gr.
-        Ráðherra er heimilt með reglugerð að skipta veiðisvæðum milli
-   veiðarfæra með því að banna notkun ákveðinna veiðarfæra á ákveðnum svæðum
-   í tiltekinn tíma. Áður en ákvarðanir um slíka skiptingu veiðisvæða eru
-   teknar skal leita álits samtaka þeirra útgerðar- og sjómanna sem ætla má
-   að slík skipting veiðisvæða varði mestu hverju sinni.
-        Þá er ráðherra heimilt að banna notkun allra eða tiltekinna gerða
-   veiðarfæra á svæðum þar sem veiðarfæri geta valdið skemmdum á
-   neðansjávarstrengjum og vatnslögnum.
-
-                                     9. gr.
-        Ráðherra skal gera nauðsynlegar ráðstafanir til þess að sporna við
-   því að stundaðar séu veiðar sem skaðlegar geta talist með tilliti til
-   hagkvæmrar nýtingar nytjastofna. Getur ráðherra með reglugerð m.a. ákveðið
-   sérstök friðunarsvæði þar sem veiðar með tilteknum veiðarfærum eru
-   bannaðar. Ráðherra ákveður hvort reglugerðir um friðunarsvæði gildi um
-   ákveðinn tíma eða séu ótímabundnar. Áður en ákvarðanir eru teknar samkvæmt
-   þessari grein skal að jafnaði leita umsagnar Hafrannsóknastofnunarinnar.
-        Heimilt er að banna tímabundið allar veiðar eða notkun tiltekinna
-   veiðarfæra á ákveðnu svæði sé þess talin þörf vegna tilrauna eða
-   vísindalegra rannsókna Hafrannsóknastofnunarinnar.
-
-                                    10. gr.
-        Veiðieftirlitsmönnum Fiskistofu er heimilt að fara í veiðiferðir með
-   fiskiskipum og er skipstjórum þeirra skylt að veita þeim alla aðstoð og
-   aðstöðu um borð í skipum sínum til þess að þeir geti sinnt eftirliti með
-   veiðum. Í erindisbréfum til eftirlitsmanna, sem útgefin eru af
-   ráðuneytinu, skal nánar kveðið á um starfsskyldur veiðieftirlitsmanna um
-   borð í veiðiskipum.
-        Verði veiðieftirlitsmenn Fiskistofu, leiðangursstjórar skipa, sem eru
-   á vegum Hafrannsóknastofnunarinnar, eða starfsmenn Landhelgisgæslunnar
-   varir við að stundaðar séu skaðlegar veiðar skv. 3. mgr. skulu þeir þegar
-   tilkynna það til Hafrannsóknastofnunarinnar eða þeirra aðila sem stofnunin
-   tilnefnir í því skyni.
-        Skaðlegar veiðar skv. 2. mgr. teljast veiðar þegar smáfiskur í afla
-   fer yfir þau viðmiðunarmörk sem ráðherra hefur ákveðið að fengnum tillögum
-   Hafrannsóknastofnunarinnar. Sama gildir um veiðar á smáhumri, smárækju eða
-   öðrum tegundum nytjastofna, enda hafi verið sett viðmiðunarmörk varðandi
-   nýtingu hlutaðeigandi stofns. Þá teljast það enn fremur skaðlegar veiðar í
-   þessu sambandi ef telja verður að veiðarnar séu ekki í samræmi við aðrar
-   ákvarðanir sem teknar hafa verið um hagkvæma nýtingu viðkomandi
-   nytjastofna.
-        Að fengnum upplýsingum skv. 2. mgr. getur Hafrannsóknastofnunin
-   bannað tilteknar veiðar á ákveðnum svæðum í allt að 14 sólarhringa með
-   tilkynningu til strandstöðva og í útvarpi. Jafnframt skal veiðieftirliti
-   Fiskistofu og stjórnstöð Landhelgisgæslunnar tilkynnt um skyndilokanir.
-   Ráðherra skal setja nánari reglur^1) um framkvæmd slíkra skyndilokana.
-        Sjávarútvegsráðuneytið skal, í samráði við Hafrannsóknastofnunina,
-   áður en skyndilokun fellur úr gildi, ákveða til hvaða ráðstafana skuli
-   grípa ef ástæða er talin til frekari friðunar á viðkomandi svæði.
-   Hafrannsóknastofnuninni er þó heimilt að grípa til skyndilokunar svæðis
-   aftur í allt að sjö daga sé þess talin þörf þar sem ekki liggja fyrir
-   nægar upplýsingar um ástand svæðisins eða ef talið er að skyndilokun
-   svæðisins aftur tryggi að ekki verði um að ræða frekari skaðlegar veiðar á
-   því svæði. Ákvörðun um til hvaða ráðstafana verði gripið í framhaldi af
-   lokun skv. 4. mgr. skal tilkynnt a.m.k. einum sólarhring áður en fyrri
-   skyndilokun fellur úr gildi.
-        Heimilt er ráðuneytinu að leyfa einstökum fiskiskipum að stunda
-   tilraunaveiðar á svæðum sem lokað hefur verið tímabundið skv. 4. mgr.
-   Slíkt skal þó jafnan gert undir eftirliti Fiskistofu,
-   Hafrannsóknastofnunarinnar eða Landhelgisgæslunnar og skal
-   skipstjórnarmönnum skylt að fara að fyrirmælum eftirlitsaðila varðandi
-   tilraunaveiðarnar.
-
-   ^1)Rg. 26/1998.
-
-                                    11. gr.
-        Heimilt er að grípa til skyndilokana veiðisvæða skv. 10. gr. vegna
-   upplýsinga sem komnar eru frá skipstjórum um að skaðlegar veiðar fari fram
-   á ákveðnu svæði. Skilyrði þess eru eftirfarandi:
-
-   1.
-           Að upplýsingar berist frá a.m.k. þremur skipstjórum sem telji að
-           skaðlegar veiðar séu stundaðar á tilteknu svæði.
-   2.
-           Upplýsingarnar séu studdar nýjum mælingum á aflasamsetningu hjá
-           viðkomandi skipum, sbr. 1. tölul., enda séu mælingarnar
-           framkvæmdar á fullnægjandi hátt að mati Hafrannsóknastofnunarinnar
-           og fyrir liggi ákveðnar tillögur frá skipstjórunum um mörk þess
-           svæðis sem lagt er til að lokað verði.
-   3.
-           Ekki verði viðkomið að staðreyna upplýsingarnar án tafar með
-           mælingum frá eftirlitsaðilum skv. 10. gr.
-
-        Skyndilokanir samkvæmt þessari grein gilda í allt að viku. Að öðru
-   leyti gilda ákvæði 10. gr. um skyndilokanir þessar eftir því sem við á.
-
-                                    12. gr.
-        Sé veiðieftirlitsmaður Fiskistofu um borð í veiðiskipi getur hann
-   óskað eftir því að skipstjóri láti kasta eða leggi veiðarfæri á tilteknu
-   svæði í tilraunaskyni, enda hafi hann rökstudda ástæðu til að ætla að
-   önnur skip stundi skaðlegar veiðar á því svæði. Slíka tilraun skal gera
-   með þeim hætti að hún tefji veiðar skipsins óverulega og valdi útgerðinni
-   ekki teljandi óhagræði. Skal framkvæmd tilraunarinnar ákveðin í samráði
-   við skipstjóra skipsins.
-
-                                    13. gr.
-        Ráðherra getur, að fengnu áliti Hafrannsóknastofnunarinnar, veitt
-   tímabundnar heimildir til veiðitilrauna og annarra vísindalegra rannsókna
-   í fiskveiðilandhelgi Íslands og þurfa þær heimildir ekki að vera bundnar
-   við íslenska aðila. Slíkar tilraunir eða rannsóknir skulu að jafnaði fara
-   fram undir eftirliti Hafrannsóknastofnunarinnar, Landhelgisgæslunnar eða
-   Fiskistofu. Verði því ekki viðkomið að hafa sérstakan eftirlitsmann um
-   borð í skipi því er heimild fær samkvæmt þessari grein skal heimildin
-   veitt með því skilyrði að Hafrannsóknastofnunin fái nákvæmar upplýsingar
-   um niðurstöður þessara tilrauna eða rannsókna. Heimilt er að ákveða að
-   leyfishafi skuli greiða allan kostnað sem leiðir af veru eftirlitsmanns um
-   borð í skipi samkvæmt þessari grein.
-
-                                    14. gr.
-        Ráðherra setur reglur^1) um framkvæmd laga þessara. Getur hann m.a.
-   sett allar reglur um útbúnað, gerð og frágang veiðarfæra og takmarkað
-   notkun þeirra. Þá getur ráðherra sett reglur um lágmarksstærðir sjávardýra
-   sem heimilt er að veiða og leyfilegan veiðitíma.
-
-   ^1)Rg. 262/1977, sbr. 311/1977 (um lágmarksstærðir fisktegunda). Rg.
-   143/1979 (um veiðar á sandsíli). Rg. 6/1984 (um eftirlit með afla og
-   úthaldi á fiskveiðum). Rg. 285/1985 (um loðnuveiðar). Rg. 373/1985 (um
-   leyfisbindingu veiða). Rg. 113/1988, sbr. 539/1989 (um veitingu
-   veiðileyfa). Rg. 128/1988, sbr. 4/1990 (um grásleppuveiðar). Rg. 376/1992
-   (um síldveiðar). Rg. 492/1993, sbr. 482/1994 (ígulkeraveiðar). Rg.
-   313/1994 (um lágmarksmöskvastærðir loðnunóta). Rg. 198/1995 (um bann við
-   rækjuveiðum á Skötufirði og innanverðu Ísafjarðardjúpi). Rg. 504/1995,
-   sbr. 641/1995, 3/1996, 562/1996, 578/1996 og 101/1997 (um friðunarsvæði
-   við Ísland). Rg. 609/1995. Rg. 75/1996. Rg. 249/1996, sbr. 310/1996 (um
-   humarveiðar). Rg. 253/1997, sbr. 413/1997 (um gerð og útbúnað
-   smárækjuskilju). Rg. 334/1997 (um dragnótaveiðar). Rg. 24/1998 (um
-   möskvamæla og framkvæmd möskvamælinga). Rg. 64/1998 (um þorskfisknet). Rg.
-   75/1998 (um hrognkelsaveiðar). Rg. 77/1998, sbr. 382/1998 (um botn- og
-   flotvörpur). Rg. 150/1998 (um mælingar á fiskilestum). Rg. 486/1998 (um
-   gerð og útbúnað smáfiskaskilju). Rg. 540/1998 (um úthafsrækjuveiðisvæði og
-   notkun seiðaskilju við rækjuveiðar).
-
-                                    15. gr.
-        Brot gegn ákvæðum laga þessara og reglum settum samkvæmt þeim varða
-   viðurlögum skv. 16.17. gr. laga þessara, hvort sem þau eru framin af
-   ásetningi eða gáleysi. Sé um stórfelld eða ítrekuð ásetningsbrot að ræða
-   skulu þau þar að auki varða ^1) fangelsi allt að sex árum.
-        Beita skal ákvæðum laga um sérstakt gjald vegna ólögmæts sjávarafla
-   vegna brota á lögum þessum eftir því sem við á.
-
-   ^1)[8]L. 82/1998, 239. gr.
-
-                                    16. gr.
-        Við brotum gegn 3.5. gr. laga þessara skal sekt ekki nema lægri
-   fjárhæð en 600.000 kr. og ekki hærri fjárhæð en 6.000.000 kr., eftir eðli
-   og umfangi brots. Sama gildir sé skip staðið að veiðum á svæðum þar sem
-   veiðar hafa verið bannaðar með stoð í 1. mgr. 8. gr. og 9.11. gr. laga
-   þessara.
-        Brot samkvæmt framansögðu skulu, auk refsingar, varða upptöku á þeim
-   veiðarfærum skipsins sem notuð hafa verið við hinar ólögmætu veiðar, þar
-   með töldum dragstrengjum, svo og afla þess, enda sé sennilegt að aflinn
-   hafi fengist með ólögmætum hætti. Upptöku má framkvæma án tillits til þess
-   hvort jafnframt er krafist refsingar.
-        Í stað þess að gera afla og veiðarfæri upptæk skv. 2. mgr. er heimilt
-   að gera upptæka fjárhæð sem svarar til andvirðis afla og veiðarfæra
-   samkvæmt mati dómkvaddra kunnáttumanna.
-
-                                    17. gr.
-        Brot gegn öðrum ákvæðum laga þessara, reglum settum samkvæmt lögum
-   þessum eða ákvæðum leyfisbréfa varða sektum sem eigi skulu nema lægri
-   fjárhæð en 400.000 kr. og ekki hærri fjárhæð en 4.000.000 kr., eftir eðli
-   og umfangi brots.
-
-                                    18. gr.
-        Sektir má jafnt gera lögaðila sem einstaklingi. Þrátt fyrir ákvæði
-   15. gr. má ákvarða lögaðila sekt þótt sök verði ekki sönnuð á
-   fyrirsvarsmenn, starfsmenn hans eða aðra þá einstaklinga er í þágu hans
-   starfa enda hafi brotið orðið eða getað orðið til hagsbóta fyrir
-   lögaðilann. Með sama skilorði má einnig gera lögaðila sekt ef
-   fyrirsvarsmenn eða starfsmenn hans eða aðrir einstaklingar sem í þágu hans
-   starfa hafa gerst sekir um brot.
-        Tilraun og hlutdeild í brotum samkvæmt lögum þessum er refsiverð
-   eftir því sem segir í almennum hegningarlögum.
-
-                                    19. gr.
-        Heimilt er að leggja löghald á skip sem fært er til hafnar vegna
-   brota á lögum þessum. Sé slíkt gert er dómara heimilt að láta það laust ef
-   sett er bankatrygging eða önnur jafngild trygging, að hans mati, fyrir
-   greiðslu sektar, sakarkostnaðar og upptöku skv. 3. mgr. 16. gr.
-        Til tryggingar greiðslu sektar, sakarkostnaðar og upptöku skal vera
-   lögveð í skipinu.
-        Mál út af brotum gegn lögum þessum skulu sæta meðferð opinberra mála.
-        Sektarfé samkvæmt lögum þessum, svo og andvirði upptæks afla og
-   veiðarfæra skal renna í Landhelgissjóð Íslands.
-
-                                    20. gr.
-        Ólögleg veiðarfæri skulu gerð upptæk. Ólögleg eru þau veiðarfæri, eða
+   [G.1.]^1) Allt árið frá línu réttvísandi vestur frá Bjargtöngum (vms. 43) að
+línu réttvísandi norður frá Horni (vms. 48), utan línu sem dregin er 12 sjómílur
+                              utan viðmiðunarlínu.
+                             ^1)[6]L. 127/1997, 1. gr.
+6. gr. Þrátt fyrir 5. gr. er heimilt að leyfa veiðar með dragnót^1) nær landi en
+  um ræðir í 5. gr. samkvæmt sérstökum leyfum Fiskistofu. Aðeins er heimilt að
+   veita leyfi skipum styttri en 42 metrar, enda séu þau með aflvísi lægri en
+ 2.500, en ráðherra skal með reglugerð kveða nánar á um skilyrði fyrir veitingu
+leyfa samkvæmt þessari málsgrein. Getur ráðherra sett almennar og svæðisbundnar
+ reglur í því skyni að stuðla að hagkvæmri nýtingu fiskstofna, að teknu tilliti
+  til veiða með öðrum veiðarfærum sem stundaðar eru á viðkomandi svæðum. Getur
+ráðherra m.a. ákveðið að leyfin séu bundin við ákveðið svæði og að aðeins hljóti
+ leyfi til veiða á tilteknu svæði tiltekinn fjöldi skipa, skip sem skráð eru á
+   því svæði, skip af ákveðinni stærð eða gerð eða skip sem áður hafa stundað
+             dragnótaveiðar. Þá getur ráðherra, að fenginni umsögn
+Hafrannsóknastofnunarinnar, ákveðið að dragnótaveiðar á ákveðnu svæði miðist við
+                        nýtingu ákveðinnar fisktegundar.
+    Sé talin þörf á að takmarka notkun tiltekins veiðarfæris til að tryggja
+   skynsamlega nýtingu þess stofns sem veiðarnar beinast að eða vegna þeirrar
+skaðsemi sem notkun þess kann að hafa í för með sér fyrir nýtingu annarra stofna
+ getur ráðherra með reglugerð^2) ákveðið að veiðar með því veiðarfæri séu háðar
+sérstöku leyfi Fiskistofu. Um skilyrði fyrir veitingu slíkra leyfa skal kveðið á
+        í reglugerð og gilda ákvæði 1. mgr. um þau eftir því sem við á.
+   ^1)Rg. 687/1997. ^2)Rg. 307/1998, sbr. 632/1999, rg. 438/1999, sbr. 577/1999.
+7. gr. Grásleppuveiðar skulu háðar sérstöku leyfi Fiskistofu og eiga þeir bátar
+  einir kost á slíku leyfi sem rétt áttu til leyfis á grásleppuvertíðinni 1997
+  samkvæmt reglum þar um. Ráðherra skal í reglugerð kveða nánar á um skipulag
+  grásleppuveiða og veiðitíma samkvæmt þessari málsgrein. Getur ráðherra m.a.
+  ákveðið að leyfin séu bundin við ákveðið svæði og að aðeins hljóti leyfi til
+ veiða á tilteknu svæði skip sem skráð eru á því svæði. Þá getur ráðherra sett
+     reglur um heimildir til flutnings leyfa til grásleppuveiða milli báta.
+  Sé talin þörf á að koma í veg fyrir staðbundna ofnýtingu á tilteknum stofni,
+  óeðlilegan meðafla af öðrum tegundum en veiði beinist að eða önnur óæskileg
+  áhrif veiða getur ráðherra ákveðið að veiðar úr tilteknum nytjastofni eða á
+     tilteknu svæði séu háðar leyfi Fiskistofu. Sama á við ef þörf er á að
+  skipuleggja veiðar úr stofnum sem ekki er stjórnað með skiptingu heildarafla
+   milli einstakra skipa, sbr. [7]7. gr. laga nr. 38 15. maí 1990, með síðari
+  breytingum, t.d. vegna óvissu um veiðiþol viðkomandi stofns. Ráðherra skal í
+   reglugerð kveða nánar á um skilyrði fyrir veitingu leyfa samkvæmt þessari
+málsgrein. Getur ráðherra sett almennar og svæðisbundnar reglur og m.a. ákveðið
+  að leyfin séu bundin við ákveðið svæði og að aðeins hljóti leyfi til veiða á
+ tilteknu svæði tiltekinn fjöldi skipa, skip sem skráð eru á því svæði, skip af
+   ákveðinni stærð eða gerð eða skip sem áður hafa stundað tilteknar veiðar.
+8. gr. Ráðherra er heimilt með reglugerð að skipta veiðisvæðum milli veiðarfæra
+með því að banna notkun ákveðinna veiðarfæra á ákveðnum svæðum í tiltekinn tíma.
+  Áður en ákvarðanir um slíka skiptingu veiðisvæða eru teknar skal leita álits
+  samtaka þeirra útgerðar- og sjómanna sem ætla má að slík skipting veiðisvæða
+                           varði mestu hverju sinni.
+ Þá er ráðherra heimilt að banna notkun allra eða tiltekinna gerða veiðarfæra á
+    svæðum þar sem veiðarfæri geta valdið skemmdum á neðansjávarstrengjum og
+                                  vatnslögnum.
+9. gr. Ráðherra skal gera nauðsynlegar ráðstafanir til þess að sporna við því að
+   stundaðar séu veiðar sem skaðlegar geta talist með tilliti til hagkvæmrar
+   nýtingar nytjastofna. Getur ráðherra með reglugerð^1) m.a. ákveðið sérstök
+ friðunarsvæði þar sem veiðar með tilteknum veiðarfærum eru bannaðar. Ráðherra
+   ákveður hvort reglugerðir um friðunarsvæði gildi um ákveðinn tíma eða séu
+   ótímabundnar. Áður en ákvarðanir eru teknar samkvæmt þessari grein skal að
+               jafnaði leita umsagnar Hafrannsóknastofnunarinnar.
+ Heimilt er að banna tímabundið allar veiðar eða notkun tiltekinna veiðarfæra á
+   ákveðnu svæði sé þess talin þörf vegna tilrauna eða vísindalegra rannsókna
+                          Hafrannsóknastofnunarinnar.
+    ^1)Rg. 494/1998, sbr. 608/1999 og 770/1999; rg. 411/1999, sbr. 10/2000; rg.
+                     722/1999, rg. 753/1999, rg. 766/1999.
+  10. gr. Veiðieftirlitsmönnum Fiskistofu er heimilt að fara í veiðiferðir með
+fiskiskipum og er skipstjórum þeirra skylt að veita þeim alla aðstoð og aðstöðu
+   um borð í skipum sínum til þess að þeir geti sinnt eftirliti með veiðum. Í
+  erindisbréfum til eftirlitsmanna, sem útgefin eru af ráðuneytinu, skal nánar
+      kveðið á um starfsskyldur veiðieftirlitsmanna um borð í veiðiskipum.
+ Verði veiðieftirlitsmenn Fiskistofu, leiðangursstjórar skipa, sem eru á vegum
+  Hafrannsóknastofnunarinnar, eða starfsmenn Landhelgisgæslunnar varir við að
+ stundaðar séu skaðlegar veiðar skv. 3. mgr. skulu þeir þegar tilkynna það til
+Hafrannsóknastofnunarinnar eða þeirra aðila sem stofnunin tilnefnir í því skyni.
+Skaðlegar veiðar skv. 2. mgr. teljast veiðar þegar smáfiskur í afla fer yfir þau
+         viðmiðunarmörk sem ráðherra hefur ákveðið að fengnum tillögum
+Hafrannsóknastofnunarinnar. Sama gildir um veiðar á smáhumri, smárækju eða öðrum
+   tegundum nytjastofna, enda hafi verið sett viðmiðunarmörk varðandi nýtingu
+    hlutaðeigandi stofns. Þá teljast það enn fremur skaðlegar veiðar í þessu
+ sambandi ef telja verður að veiðarnar séu ekki í samræmi við aðrar ákvarðanir
+       sem teknar hafa verið um hagkvæma nýtingu viðkomandi nytjastofna.
+Að fengnum upplýsingum skv. 2. mgr. getur Hafrannsóknastofnunin bannað tilteknar
+     veiðar á ákveðnum svæðum í allt að 14 sólarhringa með tilkynningu til
+     strandstöðva og í útvarpi. Jafnframt skal veiðieftirliti Fiskistofu og
+ stjórnstöð Landhelgisgæslunnar tilkynnt um skyndilokanir. Ráðherra skal setja
+               nánari reglur^1) um framkvæmd slíkra skyndilokana.
+   Sjávarútvegsráðuneytið skal, í samráði við Hafrannsóknastofnunina, áður en
+ skyndilokun fellur úr gildi, ákveða til hvaða ráðstafana skuli grípa ef ástæða
+er talin til frekari friðunar á viðkomandi svæði. Hafrannsóknastofnuninni er þó
+heimilt að grípa til skyndilokunar svæðis aftur í allt að sjö daga sé þess talin
+  þörf þar sem ekki liggja fyrir nægar upplýsingar um ástand svæðisins eða ef
+talið er að skyndilokun svæðisins aftur tryggi að ekki verði um að ræða frekari
+ skaðlegar veiðar á því svæði. Ákvörðun um til hvaða ráðstafana verði gripið í
+ framhaldi af lokun skv. 4. mgr. skal tilkynnt a.m.k. einum sólarhring áður en
+                       fyrri skyndilokun fellur úr gildi.
+Heimilt er ráðuneytinu að leyfa einstökum fiskiskipum að stunda tilraunaveiðar á
+ svæðum sem lokað hefur verið tímabundið skv. 4. mgr. Slíkt skal þó jafnan gert
+ undir eftirliti Fiskistofu, Hafrannsóknastofnunarinnar eða Landhelgisgæslunnar
+ og skal skipstjórnarmönnum skylt að fara að fyrirmælum eftirlitsaðila varðandi
+                               tilraunaveiðarnar.
+                                  ^1)Rg. 26/1998.
+   11. gr. Heimilt er að grípa til skyndilokana veiðisvæða skv. 10. gr. vegna
+  upplýsinga sem komnar eru frá skipstjórum um að skaðlegar veiðar fari fram á
+                 ákveðnu svæði. Skilyrði þess eru eftirfarandi:
+   1. Að upplýsingar berist frá a.m.k. þremur skipstjórum sem telji að skaðlegar
+                     veiðar séu stundaðar á tilteknu svæði.
+   2. Upplýsingarnar séu studdar nýjum mælingum á aflasamsetningu hjá viðkomandi
+skipum, sbr. 1. tölul., enda séu mælingarnar framkvæmdar á fullnægjandi hátt að
+      mati Hafrannsóknastofnunarinnar og fyrir liggi ákveðnar tillögur frá
+       skipstjórunum um mörk þess svæðis sem lagt er til að lokað verði.
+   3. Ekki verði viðkomið að staðreyna upplýsingarnar án tafar með mælingum frá
+                          eftirlitsaðilum skv. 10. gr.
+ Skyndilokanir samkvæmt þessari grein gilda í allt að viku. Að öðru leyti gilda
+          ákvæði 10. gr. um skyndilokanir þessar eftir því sem við á.
+12. gr. Sé veiðieftirlitsmaður Fiskistofu um borð í veiðiskipi getur hann óskað
+   eftir því að skipstjóri láti kasta eða leggi veiðarfæri á tilteknu svæði í
+tilraunaskyni, enda hafi hann rökstudda ástæðu til að ætla að önnur skip stundi
+  skaðlegar veiðar á því svæði. Slíka tilraun skal gera með þeim hætti að hún
+tefji veiðar skipsins óverulega og valdi útgerðinni ekki teljandi óhagræði. Skal
+      framkvæmd tilraunarinnar ákveðin í samráði við skipstjóra skipsins.
+   13. gr. Ráðherra getur, að fengnu áliti Hafrannsóknastofnunarinnar, veitt
+  tímabundnar heimildir til veiðitilrauna og annarra vísindalegra rannsókna í
+   fiskveiðilandhelgi Íslands og þurfa þær heimildir ekki að vera bundnar við
+íslenska aðila. Slíkar tilraunir eða rannsóknir skulu að jafnaði fara fram undir
+eftirliti Hafrannsóknastofnunarinnar, Landhelgisgæslunnar eða Fiskistofu. Verði
+því ekki viðkomið að hafa sérstakan eftirlitsmann um borð í skipi því er heimild
+      fær samkvæmt þessari grein skal heimildin veitt með því skilyrði að
+ Hafrannsóknastofnunin fái nákvæmar upplýsingar um niðurstöður þessara tilrauna
+eða rannsókna. Heimilt er að ákveða að leyfishafi skuli greiða allan kostnað sem
+     leiðir af veru eftirlitsmanns um borð í skipi samkvæmt þessari grein.
+14. gr. Ráðherra setur reglur^1) um framkvæmd laga þessara. Getur hann m.a. sett
+allar reglur um útbúnað, gerð og frágang veiðarfæra og takmarkað notkun þeirra.
+ Þá getur ráðherra sett reglur um lágmarksstærðir sjávardýra sem heimilt er að
+                         veiða og leyfilegan veiðitíma.
+   ^1)Rg. 262/1977, sbr. 311/1977 (um lágmarksstærðir fisktegunda). Rg. 143/1979
+     (um veiðar á sandsíli). Rg. 6/1984 (um eftirlit með afla og úthaldi á
+  fiskveiðum). Rg. 285/1985 (um loðnuveiðar). Rg. 373/1985 (um leyfisbindingu
+veiða). Rg. 113/1988, sbr. 539/1989 (um veitingu veiðileyfa). Rg. 128/1988, sbr.
+ 4/1990 (um grásleppuveiðar). Rg. 376/1992 (um síldveiðar). Rg. 492/1993, sbr.
+482/1994 (ígulkeraveiðar). Rg. 198/1995 (um bann við rækjuveiðum á Skötufirði og
+  innanverðu Ísafjarðardjúpi). Rg. 504/1995, sbr. 641/1995, 3/1996, 562/1996,
+ 578/1996 og 101/1997 (um friðunarsvæði við Ísland). Rg. 609/1995. Rg. 75/1996.
+ Rg. 249/1996, sbr. 310/1996 (um humarveiðar). Rg. 253/1997, sbr. 413/1997 (um
+ gerð og útbúnað smárækjuskilju). Rg. 334/1997 (um dragnótaveiðar). Rg. 24/1998
+ (um möskvamæla og framkvæmd möskvamælinga). Rg. 64/1998 (um þorskfisknet). Rg.
+     75/1998 (um hrognkelsaveiðar). Rg. 77/1998, sbr. 382/1998 (um botn- og
+   flotvörpur). Rg. 150/1998, sbr. 445/1999 (um mælingar á fiskilestum). Rg.
+         486/1998 (um gerð og útbúnað smáfiskaskilju). Rg. 304/1999 (um
+ úthafsrækjuveiðisvæði og notkun seiðaskilju við rækjuveiðar). Rg. 606/1999 (um
+                      lágmarksmöskvastærðir í loðnunótum).
+  15. gr. Brot gegn ákvæðum laga þessara og reglum settum samkvæmt þeim varða
+viðurlögum skv. 16.17. gr. laga þessara, hvort sem þau eru framin af ásetningi
+eða gáleysi. Sé um stórfelld eða ítrekuð ásetningsbrot að ræða skulu þau þar að
+                   auki varða ^1) fangelsi allt að sex árum.
+Beita skal ákvæðum laga um sérstakt gjald vegna ólögmæts sjávarafla vegna brota
+                      á lögum þessum eftir því sem við á.
+                            ^1)[8]L. 82/1998, 239. gr.
+16. gr. Við brotum gegn 3.5. gr. laga þessara skal sekt ekki nema lægri fjárhæð
+  en 600.000 kr. og ekki hærri fjárhæð en 6.000.000 kr., eftir eðli og umfangi
+ brots. Sama gildir sé skip staðið að veiðum á svæðum þar sem veiðar hafa verið
+         bannaðar með stoð í 1. mgr. 8. gr. og 9.11. gr. laga þessara.
+Brot samkvæmt framansögðu skulu, auk refsingar, varða upptöku á þeim veiðarfærum
+    skipsins sem notuð hafa verið við hinar ólögmætu veiðar, þar með töldum
+ dragstrengjum, svo og afla þess, enda sé sennilegt að aflinn hafi fengist með
+  ólögmætum hætti. Upptöku má framkvæma án tillits til þess hvort jafnframt er
+                               krafist refsingar.
+ Í stað þess að gera afla og veiðarfæri upptæk skv. 2. mgr. er heimilt að gera
+   upptæka fjárhæð sem svarar til andvirðis afla og veiðarfæra samkvæmt mati
+                           dómkvaddra kunnáttumanna.
+   17. gr. Brot gegn öðrum ákvæðum laga þessara, reglum settum samkvæmt lögum
+þessum eða ákvæðum leyfisbréfa varða sektum sem eigi skulu nema lægri fjárhæð en
+400.000 kr. og ekki hærri fjárhæð en 4.000.000 kr., eftir eðli og umfangi brots.
+ 18. gr. Sektir má jafnt gera lögaðila sem einstaklingi. Þrátt fyrir ákvæði 15.
+   gr. má ákvarða lögaðila sekt þótt sök verði ekki sönnuð á fyrirsvarsmenn,
+starfsmenn hans eða aðra þá einstaklinga er í þágu hans starfa enda hafi brotið
+orðið eða getað orðið til hagsbóta fyrir lögaðilann. Með sama skilorði má einnig
+gera lögaðila sekt ef fyrirsvarsmenn eða starfsmenn hans eða aðrir einstaklingar
+                sem í þágu hans starfa hafa gerst sekir um brot.
+ Tilraun og hlutdeild í brotum samkvæmt lögum þessum er refsiverð eftir því sem
+                        segir í almennum hegningarlögum.
+19. gr. Heimilt er að leggja löghald á skip sem fært er til hafnar vegna brota á
+   lögum þessum. Sé slíkt gert er dómara heimilt að láta það laust ef sett er
+bankatrygging eða önnur jafngild trygging, að hans mati, fyrir greiðslu sektar,
+                 sakarkostnaðar og upptöku skv. 3. mgr. 16. gr.
+  Til tryggingar greiðslu sektar, sakarkostnaðar og upptöku skal vera lögveð í
+                                    skipinu.
+     Mál út af brotum gegn lögum þessum skulu sæta meðferð opinberra mála.
+Sektarfé samkvæmt lögum þessum, svo og andvirði upptæks afla og veiðarfæra skal
+                        renna í Landhelgissjóð Íslands.
+ 20. gr. Ólögleg veiðarfæri skulu gerð upptæk. Ólögleg eru þau veiðarfæri, eða
    hluti veiðarfæra, sem ekki eru í samræmi við þær reglur sem settar eru um
-   veiðarfæri með stoð í lögum þessum.
-
-                                    21. gr.
-        Lög þessi öðlast þegar gildi og koma til framkvæmda 1. janúar 1998.
+                      veiðarfæri með stoð í lögum þessum.
+  21. gr. Lög þessi öðlast þegar gildi og koma til framkvæmda 1. janúar 1998.
 
 References
 

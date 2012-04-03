@@ -1,267 +1,205 @@
+                                    dálkum.
 
    --------------------------------------------------------------------------
 
-                                                                    Sóttvarnalög
+                                  Sóttvarnalög
 
                              1997 nr. 19 17. apríl
 
    --------------------------------------------------------------------------
 
-                                   I. kafli.
-                                Skilgreiningar.
-                                     1. gr.
-          Almennar sóttvarnir eru þær ráðstafanir sem lög þessi kveða á um að
-                                       ávallt skuli beita vegna smitsjúkdóma.
-                Opinberar sóttvarnir eru þær ráðstafanir sem skal beita vegna
-                                                     hættulegra smitsjúkdóma:
+                           I. kafli. Skilgreiningar.
+   1. gr. Almennar sóttvarnir eru þær ráðstafanir sem lög þessi kveða á um að
+                     ávallt skuli beita vegna smitsjúkdóma.
+    Opinberar sóttvarnir eru þær ráðstafanir sem skal beita vegna hættulegra
+                                 smitsjúkdóma:
+           1. þegar hætta er á að farsóttir berist til eða frá Íslandi,
+               2. þegar hætta er á útbreiðslu farsótta innan lands,
+   3. þegar smitaður einstaklingur skapar hættu á útbreiðslu smits með framferði
+                                     sínu.
+   2. gr. Lög þessi fjalla um smitsjúkdóma sem valdið geta farsóttum og ógnað
+almannaheill, svo og aðrar alvarlegar næmar sóttir. Með smitsjúkdómum er átt við
+   sjúkdóma eða smitun sem smitefni, örverur og eiturefni (toxín) þeirra eða
+                                sníkjudýr valda.
+  3. gr. Ráðherra ákveður með reglugerð,^1) að fengnum tillögum sóttvarnaráðs,
+        hvaða smitsjúkdómar eru skráningarskyldir og hvaða sjúkdómar eru
+      tilkynningarskyldir, sbr. 1. og 2. mgr. 9. gr. Af skráningarskyldum
+      smitsjúkdómum eru þeir sjúkdómar tilkynningarskyldir sem ógnað geta
+                                 almannaheill.
+       Með skráningarskyldu er átt við skyldu til að senda sóttvarnalækni
+ópersónugreindar upplýsingar, en með tilkynningarskyldu er átt við skyldu til að
+           senda honum persónugreindar upplýsingar um sjúkdómstilvik.
+Sóttvarnalæknir er ábyrgur fyrir því að haldin sé smitsjúkdómaskrá. Skráin tekur
+ til smitsjúkdóma og ónæmisaðgerða, sbr. 2. tölul. 5. gr., og er til stuðnings
+ sóttvarnastarfi og faraldsfræðirannsóknum. Gæta skal fyllsta trúnaðar um allar
+einkaupplýsingar sem fram koma í smitsjúkdómaskrá og gilda um skrána sömu reglur
+                            og um aðrar sjúkraskrár.
+                                 ^1)Rg. 129/1999.
 
-   1.
-           þegar hætta er á að farsóttir berist til eða frá Íslandi,
-   2.
-           þegar hætta er á útbreiðslu farsótta innan lands,
-   3.
-           þegar smitaður einstaklingur skapar hættu á útbreiðslu smits með
-           framferði sínu.
+                        II. kafli. Yfirstjórn sóttvarna.
+  4. gr. Embætti landlæknis ber ábyrgð á framkvæmd sóttvarna undir yfirstjórn
+                              heilbrigðisráðherra.
+     Til embættis landlæknis skal ráða lækni, sóttvarnalækni, til að sinna
+  sóttvörnum. Læknir þessi skal hafa þekkingu á smitsjúkdómum og faraldsfræði
+                                    þeirra.
+     Sóttvarnalæknir skal í starfi sínu hafa samvinnu við héraðslækna, aðra
+     starfsmenn og stofnanir heilbrigðisþjónustunnar, heilbrigðisnefndir og
+                       yfirdýralækni eftir því sem við á.
+  Héraðslæknar eru ábyrgir fyrir sóttvörnum, hver í sínu héraði, undir stjórn
+                                sóttvarnalæknis.
+ Héraðslæknar og sóttvarnalæknir skulu hafa samstarf um framkvæmd nauðsynlegra
+           sóttvarna og njóta aðstoðar lögregluyfirvalda ef með þarf.
+           5. gr. Verksvið sóttvarnalæknis er aðallega eftirfarandi:
+   1. Að skipuleggja og samræma sóttvarnir og ónæmisaðgerðir um land allt, m.a.
+               með útgáfu leiðbeininga um viðbrögð við farsóttum.
+   2. Að halda smitsjúkdómaskrá til að fylgjast með útbreiðslu smitsjúkdóma með
+ öflun nákvæmra upplýsinga um greiningu þeirra frá rannsóknastofum, sjúkrahúsum
+                                   og læknum.
+   3. Að koma upplýsingum um útbreiðslu smitsjúkdóma, innan lands sem utan, með
+reglubundnum hætti og eftir þörfum til lækna og annarra heilbrigðisstarfsmanna.
+        4. Að vera læknum og öðrum, sem við sóttvarnir fást, til ráðgjafar.
+      5. Að hafa umsjón með forvörnum gegn smitsjúkdómum, m.a. upplýsingum og
+                     fræðslu til almennings um þessi efni.
+6. gr. Ráðherra skal skipa sjö manna ráð, sóttvarnaráð, til fjögurra ára í senn.
+ Þar skulu eiga sæti sérfræðingar á sviði smitsjúkdómalækninga, bakteríufræði,
+ veirufræði, kynsjúkdóma og faraldsfræði/heilbrigðisfræði, heilsugæslulæknir og
+hjúkrunarfræðingur með sérþekkingu á sviði sóttvarna. Ráðherra skipar formann úr
+            hópi ráðsmanna. Varamenn skulu skipaðir með sama hætti.
+       Þegar fjallað er um mál í sóttvarnaráði, sem tengjast starfssviði
+  Hollustuverndar ríkisins eða embættis yfirdýralæknis, skulu fulltrúar þeirra
+      stofnana sitja fundi ráðsins, eftir því sem við á, með málfrelsi og
+                                 tillögurétti.
+ Sóttvarnaráð mótar stefnu í sóttvörnum og skal vera heilbrigðisyfirvöldum til
+           ráðgjafar um aðgerðir til varnar útbreiðslu smitsjúkdóma.
+  Ráðið skal hafa aðsetur hjá embætti landlæknis og skal sóttvarnalæknir vera
+                                  ritari þess.
 
-                                     2. gr.
-          Lög þessi fjalla um smitsjúkdóma sem valdið geta farsóttum og ógnað
-     almannaheill, svo og aðrar alvarlegar næmar sóttir. Með smitsjúkdómum er
-       átt við sjúkdóma eða smitun sem smitefni, örverur og eiturefni (toxín)
-                                                  þeirra eða sníkjudýr valda.
-
-                                     3. gr.
-        Ráðherra ákveður með reglugerð,^1) að fengnum tillögum sóttvarnaráðs,
-             hvaða smitsjúkdómar eru skráningarskyldir og hvaða sjúkdómar eru
-          tilkynningarskyldir, sbr. 1. og 2. mgr. 9. gr. Af skráningarskyldum
-          smitsjúkdómum eru þeir sjúkdómar tilkynningarskyldir sem ógnað geta
-                                                                almannaheill.
-           Með skráningarskyldu er átt við skyldu til að senda sóttvarnalækni
-    ópersónugreindar upplýsingar, en með tilkynningarskyldu er átt við skyldu
-            til að senda honum persónugreindar upplýsingar um sjúkdómstilvik.
-          Sóttvarnalæknir er ábyrgur fyrir því að haldin sé smitsjúkdómaskrá.
-    Skráin tekur til smitsjúkdóma og ónæmisaðgerða, sbr. 2. tölul. 5. gr., og
-        er til stuðnings sóttvarnastarfi og faraldsfræðirannsóknum. Gæta skal
-                   fyllsta trúnaðar um allar einkaupplýsingar sem fram koma í
-     smitsjúkdómaskrá og gilda um skrána sömu reglur og um aðrar sjúkraskrár.
-
-   ^1)Rg. 129/1999.
-
-                                   II. kafli.
-                             Yfirstjórn sóttvarna.
-                                     4. gr.
-        Embætti landlæknis ber ábyrgð á framkvæmd sóttvarna undir yfirstjórn
-   heilbrigðisráðherra.
-        Til embættis landlæknis skal ráða lækni, sóttvarnalækni, til að sinna
-   sóttvörnum. Læknir þessi skal hafa þekkingu á smitsjúkdómum og
-   faraldsfræði þeirra.
-        Sóttvarnalæknir skal í starfi sínu hafa samvinnu við héraðslækna,
-   aðra starfsmenn og stofnanir heilbrigðisþjónustunnar, heilbrigðisnefndir
-   og yfirdýralækni eftir því sem við á.
-        Héraðslæknar eru ábyrgir fyrir sóttvörnum, hver í sínu héraði, undir
-   stjórn sóttvarnalæknis.
-        Héraðslæknar og sóttvarnalæknir skulu hafa samstarf um framkvæmd
-   nauðsynlegra sóttvarna og njóta aðstoðar lögregluyfirvalda ef með þarf.
-
-                                     5. gr.
-        Verksvið sóttvarnalæknis er aðallega eftirfarandi:
-
-   1.
-           Að skipuleggja og samræma sóttvarnir og ónæmisaðgerðir um land
-           allt, m.a. með útgáfu leiðbeininga um viðbrögð við farsóttum.
-   2.
-           Að halda smitsjúkdómaskrá til að fylgjast með útbreiðslu
-           smitsjúkdóma með öflun nákvæmra upplýsinga um greiningu þeirra frá
-           rannsóknastofum, sjúkrahúsum og læknum.
-   3.
-           Að koma upplýsingum um útbreiðslu smitsjúkdóma, innan lands sem
-           utan, með reglubundnum hætti og eftir þörfum til lækna og annarra
-           heilbrigðisstarfsmanna.
-   4.
-           Að vera læknum og öðrum, sem við sóttvarnir fást, til ráðgjafar.
-   5.
-           Að hafa umsjón með forvörnum gegn smitsjúkdómum, m.a. upplýsingum
-           og fræðslu til almennings um þessi efni.
-
-                                     6. gr.
-        Ráðherra skal skipa sjö manna ráð, sóttvarnaráð, til fjögurra ára í
-   senn. Þar skulu eiga sæti sérfræðingar á sviði smitsjúkdómalækninga,
-   bakteríufræði, veirufræði, kynsjúkdóma og faraldsfræði/heilbrigðisfræði,
-   heilsugæslulæknir og hjúkrunarfræðingur með sérþekkingu á sviði sóttvarna.
-   Ráðherra skipar formann úr hópi ráðsmanna. Varamenn skulu skipaðir með
-   sama hætti.
-        Þegar fjallað er um mál í sóttvarnaráði, sem tengjast starfssviði
-   Hollustuverndar ríkisins eða embættis yfirdýralæknis, skulu fulltrúar
-   þeirra stofnana sitja fundi ráðsins, eftir því sem við á, með málfrelsi og
-   tillögurétti.
-        Sóttvarnaráð mótar stefnu í sóttvörnum og skal vera
-   heilbrigðisyfirvöldum til ráðgjafar um aðgerðir til varnar útbreiðslu
-   smitsjúkdóma.
-        Ráðið skal hafa aðsetur hjá embætti landlæknis og skal
-   sóttvarnalæknir vera ritari þess.
-
-                                  III. kafli.
-                         Almennar sóttvarnaráðstafanir.
+                   III. kafli. Almennar sóttvarnaráðstafanir.
                             1. Skyldur einstaklinga.
-                                     7. gr.
-        Það er almenn skylda að gjalda sem mesta varúð við smitsjúkdómum og
-   gera sér allt far um að sýkja hvorki sjálfan sig né aðra, að svo miklu
-   leyti sem framkvæmanlegt er.
-        Hver sá sem hefur ástæðu til að halda að hann hafi smitast af
-   smitsjúkdómi sem ógnað geti öðrum mönnum er skyldur að leita læknis án
-   tafar. Leiði læknisrannsókn í ljós að um slíkan sjúkdóm sé að ræða er
-   viðkomandi skyldur að fylgja fyrirmælum læknis um meðferð og ráðstafanir
-   til að fyrirbyggja smitun.
-        Ef læknir telur mikilvægt að rekja smit til að hefta frekari
-   útbreiðslu þess ber sjúklingi skylda til að veita nauðsynlegar upplýsingar
-   um það af hverjum hann gæti hafa smitast, svo og hverja hann kann að hafa
-   smitað. Komi læknirinn því ekki við ber honum að vísa sjúklingi til
-   stofnunar sem aðstöðu hefur til að rekja smit. Skylt er hlutaðeigendum að
-   hlýða fyrirmælum læknis um nauðsynlegar rannsóknir til varnar útbreiðslu
-   smits frá sjúklingi.
-
+7. gr. Það er almenn skylda að gjalda sem mesta varúð við smitsjúkdómum og gera
+  sér allt far um að sýkja hvorki sjálfan sig né aðra, að svo miklu leyti sem
+                               framkvæmanlegt er.
+ Hver sá sem hefur ástæðu til að halda að hann hafi smitast af smitsjúkdómi sem
+       ógnað geti öðrum mönnum er skyldur að leita læknis án tafar. Leiði
+ læknisrannsókn í ljós að um slíkan sjúkdóm sé að ræða er viðkomandi skyldur að
+ fylgja fyrirmælum læknis um meðferð og ráðstafanir til að fyrirbyggja smitun.
+Ef læknir telur mikilvægt að rekja smit til að hefta frekari útbreiðslu þess ber
+ sjúklingi skylda til að veita nauðsynlegar upplýsingar um það af hverjum hann
+ gæti hafa smitast, svo og hverja hann kann að hafa smitað. Komi læknirinn því
+  ekki við ber honum að vísa sjúklingi til stofnunar sem aðstöðu hefur til að
+ rekja smit. Skylt er hlutaðeigendum að hlýða fyrirmælum læknis um nauðsynlegar
+             rannsóknir til varnar útbreiðslu smits frá sjúklingi.
               2. Skyldur lækna og annarra heilbrigðisstarfsmanna.
-                                     8. gr.
-        Læknar og aðrir heilbrigðisstarfsmenn skulu í starfi sínu hafa
-   vakandi auga með smitsjúkdómum og útbreiðslu þeirra.
-
-                                     9. gr.
-        Læknir, sem kemst að því í starfi sínu að einstaklingur hefur smitast
-   af smitsjúkdómi sem samkvæmt lögum þessum er tilkynningarskyldur eða hefur
-   rökstuddan grun um að svo sé, skal þegar í stað tilkynna það viðkomandi
-   héraðslækni eða sóttvarnalækni.
-        Hliðstæð skylda hvílir á forstöðumönnum rannsóknastofa, sjúkradeilda
-   og annarra heilbrigðisstofnana. Rannsóknastofur, sem fást við rannsóknir á
-   sýnum frá sjúklingum með smitsjúkdóma sem lög þessi taka til, skulu hafa
-   starfsleyfi heilbrigðis- og tryggingamálaráðherra.
-        Hlutaðeigandi aðilum er skylt að aðstoða viðkomandi héraðslækni og
-   sóttvarnalækni, m.a. með því að veita upplýsingar sem þeir telja
-   nauðsynlegar vegna sóttvarna.
-
-                                    10. gr.
-        Hafi læknir, sem hefur sjúkling til meðferðar sem haldinn er
+ 8. gr. Læknar og aðrir heilbrigðisstarfsmenn skulu í starfi sínu hafa vakandi
+                  auga með smitsjúkdómum og útbreiðslu þeirra.
+9. gr. Læknir, sem kemst að því í starfi sínu að einstaklingur hefur smitast af
+    smitsjúkdómi sem samkvæmt lögum þessum er tilkynningarskyldur eða hefur
+    rökstuddan grun um að svo sé, skal þegar í stað tilkynna það viðkomandi
+                        héraðslækni eða sóttvarnalækni.
+Hliðstæð skylda hvílir á forstöðumönnum rannsóknastofa, sjúkradeilda og annarra
+   heilbrigðisstofnana. Rannsóknastofur, sem fást við rannsóknir á sýnum frá
+   sjúklingum með smitsjúkdóma sem lög þessi taka til, skulu hafa starfsleyfi
+                     heilbrigðis- og tryggingamálaráðherra.
+       Hlutaðeigandi aðilum er skylt að aðstoða viðkomandi héraðslækni og
+ sóttvarnalækni, m.a. með því að veita upplýsingar sem þeir telja nauðsynlegar
+                                vegna sóttvarna.
+      10. gr. Hafi læknir, sem hefur sjúkling til meðferðar sem haldinn er
    smitsjúkdómi, rökstuddan grun eða vitneskju um að sjúklingurinn fylgi ekki
-   fyrirmælum sem honum voru sett um umgengni og meðferð skal hann tilkynna
-   það þegar í stað til viðkomandi héraðslæknis eða sóttvarnalæknis.
-
+  fyrirmælum sem honum voru sett um umgengni og meðferð skal hann tilkynna það
+         þegar í stað til viðkomandi héraðslæknis eða sóttvarnalæknis.
        3. Skyldur heilbrigðisfulltrúa og heilbrigðisnefnda og dýralækna.
-                                    11. gr.
-        Heilbrigðisfulltrúar og formenn heilbrigðisnefnda, samkvæmt lögum um
-   hollustuhætti og heilbrigðiseftirlit, og dýralæknar skulu tilkynna
-   viðkomandi héraðslækni eða sóttvarnalækni jafnskjótt og þeir hafa orðið
-   varir við hugsanlega smithættu. Héraðslæknir eða sóttvarnalæknir skal á
-   sama hátt tilkynna viðkomandi heilbrigðisnefnd eða dýralækni, eftir því
-   sem við á, strax og þeim verður kunnugt um smithættu. Sóttvarnalæknir skal
-   gefa heilbrigðisnefndum nauðsynlegar upplýsingar og ráð og hafa eftirlit
-   með því að til viðeigandi ráðstafana sé gripið.
-        Heilbrigðisnefndir, heilbrigðisfulltrúar og dýralæknar skulu aðstoða
-   við sóttvarnir og gefa nauðsynleg fyrirmæli um viðeigandi ráðstafanir ef
-   hætta er á að dýr, matvæli, vatn, skolplagnir, loftræsting eða annað í
-   umhverfinu dreifi eða geti dreift smitnæmum sjúkdómum.
+  11. gr. Heilbrigðisfulltrúar og formenn heilbrigðisnefnda, samkvæmt lögum um
+ hollustuhætti og heilbrigðiseftirlit, og dýralæknar skulu tilkynna viðkomandi
+     héraðslækni eða sóttvarnalækni jafnskjótt og þeir hafa orðið varir við
+hugsanlega smithættu. Héraðslæknir eða sóttvarnalæknir skal á sama hátt tilkynna
+ viðkomandi heilbrigðisnefnd eða dýralækni, eftir því sem við á, strax og þeim
+   verður kunnugt um smithættu. Sóttvarnalæknir skal gefa heilbrigðisnefndum
+   nauðsynlegar upplýsingar og ráð og hafa eftirlit með því að til viðeigandi
+                             ráðstafana sé gripið.
+    Heilbrigðisnefndir, heilbrigðisfulltrúar og dýralæknar skulu aðstoða við
+sóttvarnir og gefa nauðsynleg fyrirmæli um viðeigandi ráðstafanir ef hætta er á
+ að dýr, matvæli, vatn, skolplagnir, loftræsting eða annað í umhverfinu dreifi
+                      eða geti dreift smitnæmum sjúkdómum.
 
-                                   IV. kafli.
-                        Opinberar sóttvarnaráðstafanir.
+                   IV. kafli. Opinberar sóttvarnaráðstafanir.
           1. Sóttvarnaráðstafanir vegna hættu á farsóttum innan lands.
-                                    12. gr.
-        Ef tilkynningar til sóttvarnalæknis um smitsjúkdóma benda til að
-   farsótt sé yfirvofandi skal hann þegar í stað gera heilbrigðisráðherra
-   viðvart.
-        Ráðherra ákveður að tillögu sóttvarnaráðs hvort grípa skuli til
-   opinberra sóttvarnaráðstafana, svo sem ónæmisaðgerða, einangrunar
-   smitaðra, sótthreinsunar, afkvíunar byggðarlaga eða landsins alls, lokunar
-   skóla eða samkomubanns. Sóttvarnalæknir eða héraðslæknar geta beitt slíkum
-   vörnum til bráðabirgða án þess að leita heimildar fyrir fram ef þeir telja
-   að hvers konar töf sé hættuleg, en gera skulu þeir ráðherra jafnskjótt
-   kunnar ráðstafanir sínar.
-
+12. gr. Ef tilkynningar til sóttvarnalæknis um smitsjúkdóma benda til að farsótt
+    sé yfirvofandi skal hann þegar í stað gera heilbrigðisráðherra viðvart.
+   Ráðherra ákveður að tillögu sóttvarnaráðs hvort grípa skuli til opinberra
+       sóttvarnaráðstafana, svo sem ónæmisaðgerða, einangrunar smitaðra,
+   sótthreinsunar, afkvíunar byggðarlaga eða landsins alls, lokunar skóla eða
+  samkomubanns. Sóttvarnalæknir eða héraðslæknar geta beitt slíkum vörnum til
+ bráðabirgða án þess að leita heimildar fyrir fram ef þeir telja að hvers konar
+   töf sé hættuleg, en gera skulu þeir ráðherra jafnskjótt kunnar ráðstafanir
+                                     sínar.
       2. Sóttvarnaráðstafanir vegna hættu á farsóttum til eða frá Íslandi.
-                                    13. gr.
-        Um sóttvarnaráðstafanir, sem grípa má til vegna hættu á farsóttum frá
-   útlöndum eða frá Íslandi til útlanda, skal setja reglugerð í samræmi við
-   efni þeirra alþjóðasamninga Alþjóðaheilbrigðismálastofnunarinnar sem
-   Ísland er aðili að.
-
+ 13. gr. Um sóttvarnaráðstafanir, sem grípa má til vegna hættu á farsóttum frá
+ útlöndum eða frá Íslandi til útlanda, skal setja reglugerð í samræmi við efni
+þeirra alþjóðasamninga Alþjóðaheilbrigðismálastofnunarinnar sem Ísland er aðili
+                                      að.
          3. Aðgerðir vegna hættu á útbreiðslu smits frá einstaklingum.
-                                    14. gr.
-        Nú telur sóttvarnalæknir er honum berst tilkynning um smitsjúkdóm að
+  14. gr. Nú telur sóttvarnalæknir er honum berst tilkynning um smitsjúkdóm að
    grípa þurfi til frekari ráðstafana en læknir hefur þegar gert til þess að
-   fyrirbyggja eða hefta útbreiðslu smitunar sem ógnað getur almannaheill.
-   Skal hann þá í samráði við héraðslækni sjá til þess að til slíkra aðgerða
-   sé gripið. Takist ekki samstarf við viðkomandi aðila getur hann, ef þurfa
-   þykir, leitað aðstoðar lögregluyfirvalda vegna aðgerða til varnar smiti.
-   Héraðslæknir getur einnig gripið til slíkra aðgerða í forföllum
-   sóttvarnalæknis.
-        Með aðgerðum er átt við læknisrannsókn, einangrun hins smitaða á
-   sjúkrahúsi og aðrar nauðsynlegar ráðstafanir. Áður en gripið er til
-   þvingunaraðgerða skal ætíð reynt að leysa mál með öðrum hætti.
-        Ákvörðun sóttvarnalæknis eða héraðslæknis um aðgerðir af þessu tagi
-   má kæra til heilbrigðis- og tryggingamálaráðuneytis. Kæra frestar ekki
-   framkvæmd.
-
-                                    15. gr.
-        Ef maður, haldinn smitsjúkdómi, fellst ekki á að fylgja reglum um
-   umgengni við aðra eða rökstuddur grunur er um að hann hafi ekki fylgt
-   slíkum reglum getur sóttvarnalæknir ákveðið að hann skuli lagður inn á
-   sjúkrahús í einangrun eða að hann skuli einangraður með öðrum hætti.
-        Telji sóttvarnalæknir nauðsynlegt að einstaklingur sé settur í
-   einangrun skv. 14. gr. eða 1. mgr. þessarar greinar og framkvæmdin er í
-   andstöðu við hinn smitaða skal sóttvarnalæknir svo fljótt sem verða má
-   bera ákvörðunina skriflega undir héraðsdóm í því umdæmi þar sem hinn
-   smitaði dvelst þegar einangrunar er krafist. Í kröfu sóttvarnalæknis skal
-   koma fram ítarleg lýsing á málavöxtum og nauðsyn einangrunar og tiltekinn
-   sá tími sem einangrun er ætlað að vara, auk annarra gagna sem málið kunna
-   að varða. Dómari skal taka málið fyrir án tafar og skipa þeim er sætir
-   einangrun talsmann, ef hann óskar þess, samkvæmt ákvæðum laga um meðferð
-   opinberra mála um verjendur og skal gefa honum kost á að bera fram ósk um
-   hver verði skipaður. Dómari getur aflað gagna af sjálfsdáðum. Dómari
+  fyrirbyggja eða hefta útbreiðslu smitunar sem ógnað getur almannaheill. Skal
+hann þá í samráði við héraðslækni sjá til þess að til slíkra aðgerða sé gripið.
+  Takist ekki samstarf við viðkomandi aðila getur hann, ef þurfa þykir, leitað
+ aðstoðar lögregluyfirvalda vegna aðgerða til varnar smiti. Héraðslæknir getur
+         einnig gripið til slíkra aðgerða í forföllum sóttvarnalæknis.
+ Með aðgerðum er átt við læknisrannsókn, einangrun hins smitaða á sjúkrahúsi og
+aðrar nauðsynlegar ráðstafanir. Áður en gripið er til þvingunaraðgerða skal ætíð
+                      reynt að leysa mál með öðrum hætti.
+Ákvörðun sóttvarnalæknis eða héraðslæknis um aðgerðir af þessu tagi má kæra til
+     heilbrigðis- og tryggingamálaráðuneytis. Kæra frestar ekki framkvæmd.
+   15. gr. Ef maður, haldinn smitsjúkdómi, fellst ekki á að fylgja reglum um
+  umgengni við aðra eða rökstuddur grunur er um að hann hafi ekki fylgt slíkum
+  reglum getur sóttvarnalæknir ákveðið að hann skuli lagður inn á sjúkrahús í
+            einangrun eða að hann skuli einangraður með öðrum hætti.
+ Telji sóttvarnalæknir nauðsynlegt að einstaklingur sé settur í einangrun skv.
+   14. gr. eða 1. mgr. þessarar greinar og framkvæmdin er í andstöðu við hinn
+smitaða skal sóttvarnalæknir svo fljótt sem verða má bera ákvörðunina skriflega
+ undir héraðsdóm í því umdæmi þar sem hinn smitaði dvelst þegar einangrunar er
+ krafist. Í kröfu sóttvarnalæknis skal koma fram ítarleg lýsing á málavöxtum og
+  nauðsyn einangrunar og tiltekinn sá tími sem einangrun er ætlað að vara, auk
+annarra gagna sem málið kunna að varða. Dómari skal taka málið fyrir án tafar og
+  skipa þeim er sætir einangrun talsmann, ef hann óskar þess, samkvæmt ákvæðum
+ laga um meðferð opinberra mála um verjendur og skal gefa honum kost á að bera
+fram ósk um hver verði skipaður. Dómari getur aflað gagna af sjálfsdáðum. Dómari
    kveður síðan upp úrskurð um hvort einangrun skuli haldast eða falla niður.
-   Einangrun má ekki vara lengur en 15 sólarhringa í senn, en ef
-   sóttvarnalæknir telur nauðsynlegt að hún vari lengur skal hann að nýju
-   bera kröfu um slíkt undir héraðsdóm. Málsmeðferð fyrir dómi frestar ekki
-   framkvæmd einangrunar.
-        Dómsathöfnum þeim, sem um ræðir í 2. mgr., má skjóta til Hæstaréttar
-   með kæru og fer um hana eftir almennum reglum um kæru í einkamálum eftir
-   því sem við á. Kæra frestar ekki framkvæmd einangrunar.
+ Einangrun má ekki vara lengur en 15 sólarhringa í senn, en ef sóttvarnalæknir
+telur nauðsynlegt að hún vari lengur skal hann að nýju bera kröfu um slíkt undir
+     héraðsdóm. Málsmeðferð fyrir dómi frestar ekki framkvæmd einangrunar.
+Dómsathöfnum þeim, sem um ræðir í 2. mgr., má skjóta til Hæstaréttar með kæru og
+fer um hana eftir almennum reglum um kæru í einkamálum eftir því sem við á. Kæra
+                      frestar ekki framkvæmd einangrunar.
 
-                                   V. kafli.
-                                  Ýmis ákvæði.
-                                    16. gr.
-        Starfrækja skal göngudeildir vegna tilkynningarskyldra smitsjúkdóma
-   sem veita meðferð og rekja smitleiðir.
-        Á sjúkrahúsum, sem heilbrigðisráðherra ákveður, skal vera aðstaða til
-   einangrunar þeirra sem eru til rannsóknar eða meðferðar vegna smitsjúkdóma
-   eða gruns um smitsjúkdóm.
-        Heilbrigðisráðherra getur falið ákveðnum rannsóknastofum að ábyrgjast
-   greiningu örvera eða sníkjudýra úr sýnum frá sjúklingum með smitsjúkdóma
-   og fylgjast með ónæmisástandi einstaklinga gegn þýðingarmiklum smitnæmum
-   sjúkdómum.
-
-                                    17. gr.
-        Allur kostnaður, sem hlýst af framkvæmd laga þessara, skal greiðast
-   eins og annar sjúkra- og lækniskostnaður. Greiðsluhlutdeild sjúklinga skal
-   fylgja almennum reglum um það efni. Heimilt er þó að undanþiggja
-   greiðsluhlutdeild sjúklinga sem leita til sérdeilda sem stunda forvarnir
-   og sjúklinga sem boðaðir eru til skoðunar vegna leitar að smitberum.
-
-                                    18. gr.
-        Ráðherra skal með reglugerð^1) setja nánari ákvæði um fyrirkomulag
-   skráninga og tilkynninga skv. 3. gr., starfsemi rannsóknastofa sem fást
-   við rannsóknir á sýnum frá sjúklingum með smitsjúkdóma sem lögin taka til
-   skv. 9. gr., opinberar sóttvarnaráðstafanir skv. 12. gr., starfsemi
-   göngudeilda skv. 16. gr. og hvaða deildir geti veitt þjónustu, sjúklingum
-   að kostnaðarlausu, skv. 17. gr. Þá er ráðherra heimilt að setja reglur ef
-   grípa þarf til sérstakra ráðstafana vegna sóttvarna við náttúruhamfarir og
-   að setja í reglugerð nánari ákvæði um framkvæmd laga þessara.
-
-   ^1)Rg. 129/1999. Rg. 131/1999.
-
-                                    19. gr.
-        Með mál sem rísa kunna út af brotum á lögum þessum skal farið að
-   hætti opinberra mála.
-        Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum
-   eða fangelsi allt að þremur mánuðum.
-
-                                    20. gr.
-        Lög þessi öðlast gildi 1. janúar 1998.
+                             V. kafli. Ýmis ákvæði.
+16. gr. Starfrækja skal göngudeildir vegna tilkynningarskyldra smitsjúkdóma sem
+                       veita meðferð og rekja smitleiðir.
+     Á sjúkrahúsum, sem heilbrigðisráðherra ákveður, skal vera aðstaða til
+ einangrunar þeirra sem eru til rannsóknar eða meðferðar vegna smitsjúkdóma eða
+                             gruns um smitsjúkdóm.
+Heilbrigðisráðherra getur falið ákveðnum rannsóknastofum að ábyrgjast greiningu
+ örvera eða sníkjudýra úr sýnum frá sjúklingum með smitsjúkdóma og fylgjast með
+      ónæmisástandi einstaklinga gegn þýðingarmiklum smitnæmum sjúkdómum.
+17. gr. Allur kostnaður, sem hlýst af framkvæmd laga þessara, skal greiðast eins
+  og annar sjúkra- og lækniskostnaður. Greiðsluhlutdeild sjúklinga skal fylgja
+  almennum reglum um það efni. Heimilt er þó að undanþiggja greiðsluhlutdeild
+sjúklinga sem leita til sérdeilda sem stunda forvarnir og sjúklinga sem boðaðir
+                  eru til skoðunar vegna leitar að smitberum.
+   18. gr. Ráðherra skal með reglugerð^1) setja nánari ákvæði um fyrirkomulag
+  skráninga og tilkynninga skv. 3. gr., starfsemi rannsóknastofa sem fást við
+ rannsóknir á sýnum frá sjúklingum með smitsjúkdóma sem lögin taka til skv. 9.
+gr., opinberar sóttvarnaráðstafanir skv. 12. gr., starfsemi göngudeilda skv. 16.
+gr. og hvaða deildir geti veitt þjónustu, sjúklingum að kostnaðarlausu, skv. 17.
+     gr. Þá er ráðherra heimilt að setja reglur ef grípa þarf til sérstakra
+ ráðstafana vegna sóttvarna við náttúruhamfarir og að setja í reglugerð nánari
+                       ákvæði um framkvæmd laga þessara.
+                          ^1)Rg. 129/1999. Rg. 131/1999.
+ 19. gr. Með mál sem rísa kunna út af brotum á lögum þessum skal farið að hætti
+                                opinberra mála.
+Brot gegn lögum þessum eða reglum settum samkvæmt þeim varða sektum eða fangelsi
+                            allt að þremur mánuðum.
+                 20. gr. Lög þessi öðlast gildi 1. janúar 1998.
 
 References
 
