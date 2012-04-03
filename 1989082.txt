@@ -166,9 +166,9 @@
    1.
            Tekjur af sérstöku gjaldi sem skattstjórar leggja á þá sem
            skattskyldir eru skv. [5]1. gr. laga nr. 75/1981, um tekjuskatt og
-           eignarskatt. [Skal gjaldið nema 3.985 kr. á hvern gjaldanda.
+           eignarskatt. [Skal gjaldið nema [4.065 kr.]^1) á hvern gjaldanda.
            Fjárhæð gjaldsins kemur til endurskoðunar við afgreiðslu fjárlaga
-           ár hvert.]^1)
+           ár hvert.]^2)
 
            Undanþegin gjaldinu eru börn innan 16 ára aldurs og þeir sem eru
            70 ára og eldri í lok tekjuárs. Einnig eru þeir undanþegnir
@@ -198,7 +198,7 @@
         Í miðmánuði hvers ársfjórðungs skal fjármálaráðuneytið skila
    Framkvæmdasjóði aldraðra fjórðungi tekna sjóðsins á því ári.
 
-   ^1)[9]L. 144/1995, 44. gr.
+   ^1)[9]L. 140/1996, 14. gr.^2)[10]L. 144/1995, 44. gr.
 
                                     11. gr.
         Framkvæmdasjóður aldraðra skal vera í vörslu Tryggingastofnunar
@@ -232,11 +232,11 @@
 
         ...^1)]^3)
 
-   ^1)[10]L. 109/1992, 1. gr.^2)[11]L. 144/1995, 45. gr.^3)[12]L. 12/1991, 1.
+   ^1)[11]L. 109/1992, 1. gr.^2)[12]L. 144/1995, 45. gr.^3)[13]L. 12/1991, 1.
    gr.
 
                                     13. gr.
-        Um framkvæmdir skv. 12. gr. fer samkvæmt [13]lögum nr. 63 12. maí
+        Um framkvæmdir skv. 12. gr. fer samkvæmt [14]lögum nr. 63 12. maí
    1970 um skipan opinberra framkvæmda, eftir því sem við á.
 
                                     14. gr.
@@ -338,7 +338,7 @@
    fyrir vistun á öldrunarstofnun.
         Í reglugerð^2) skal setja reglur um vistunarmat og framkvæmd þess.
 
-   ^1)[14]L. 12/1991, 2. gr.^2)Rg. 46/1990.
+   ^1)[15]L. 12/1991, 2. gr.^2)Rg. 660/1995.
 
                                     20. gr.
         Áður en framkvæmdir hefjast við dagvist fyrir aldraða skv. 3. tölul.
@@ -376,13 +376,13 @@
         Eigendur stofnana fyrir aldraða, sbr. 18. gr., skipa stjórn
    stofnunarinnar.
         Sé stofnunin í beinum starfstengslum við sjúkrahús gilda um stjórn
-   stofnunar ákvæði [15]30. gr. laga nr. 59/1983,^1) um heilbrigðisþjónustu,
+   stofnunar ákvæði [16]30. gr. laga nr. 59/1983,^1) um heilbrigðisþjónustu,
    með síðari breytingum.
         Starfsmannaráð tilnefnir einn mann af sinni hálfu til setu á fundum
    stjórnar stofnunar fyrir aldraða með málfrelsi og tillögurétti. Sama
    gildir um vistmannaráð.
 
-   ^1)Nú [16]l. 97/1990.
+   ^1)Nú [17]l. 97/1990.
 
                                     23. gr.
         Þær dvalarstofnanir fyrir aldraða, sem starfandi eru við gildistöku
@@ -422,10 +422,10 @@
                                     28. gr.
         Vistmaður á stofnun fyrir aldraða, sbr. 18. gr., sem ekki hefur aðrar
    tekjur en bætur almannatrygginga, fær ráðstöfunarfé frá Tryggingastofnun
-   ríkisins, sbr. lokamálsgrein [17]51. gr. laga um almannatryggingar, nr.
+   ríkisins, sbr. lokamálsgrein [18]51. gr. laga um almannatryggingar, nr.
    67/1971, með síðari breytingum.^1)
 
-   ^1)Nú [18]l. 117/1993. Sjá einnig rg. 151/1984.
+   ^1)Nú [19]l. 117/1993. Sjá einnig rg. 151/1984.
 
                                     29. gr.
         Kostnaður af rekstri heimaþjónustu skiptist þannig að sveitarfélög
@@ -444,10 +444,11 @@
    búnað stofnana fyrir aldraða, aðbúnað og þjónustu við vistmenn, svo og
    starfslið stofnana eftir starfsemi þeirra.
 
-   ^1)Rg. 45/1990 (dagvist aldraðra). Rg. 46/1990 (vistunarmat aldraðra). Rg.
-   47/1990 (um stofnanaþjónustu fyrir aldraða), sbr. 291/1990, 322/1991 og
-   236/1993. Rg. 422/1992 (greiðslur öldrunarstofnana fyrir
-   heilbrigðisþjónustu).
+   ^1)Rg. 45/1990 (dagvist aldraðra). Rg. 660/1995 (vistunarmat aldraðra).
+   Rg. 47/1990 (um stofnanaþjónustu fyrir aldraða), sbr. 291/1990, 322/1991
+   og 236/1993. Rg. 422/1992 (greiðslur öldrunarstofnana fyrir
+   heilbrigðisþjónustu). Rg. 546/1995 (mat á heilsufari og aðbúnaði íbúa á
+   öldrunarstofnunum).
 
                                     31. gr.
         Lög þessi öðlast gildi 1. janúar 1990 ...
@@ -467,13 +468,14 @@ References
    6. file://1981075.html#g68
    7. file://1987045.html#g9
    8. file://1981075.html
-   9. file:///altext/stjt/1995.144.html
-  10. file:///altext/stjt/1992.109.html
-  11. file:///altext/stjt/1995.144.html
-  12. file:///altext/stjt/1991.012.html
-  13. file://1970063.html
-  14. file:///altext/stjt/1991.012.html
-  15. file:///altext/stjtnr.html#1983059?g30
-  16. file://1990097.html
-  17. file:///altext/stjtnr.html#1971067?g51
-  18. file://1993117.html
+   9. file:///altext/stjt/1996.140.html
+  10. file:///altext/stjt/1995.144.html
+  11. file:///altext/stjt/1992.109.html
+  12. file:///altext/stjt/1995.144.html
+  13. file:///altext/stjt/1991.012.html
+  14. file://1970063.html
+  15. file:///altext/stjt/1991.012.html
+  16. file:///altext/stjtnr.html#1983059?g30
+  17. file://1990097.html
+  18. file:///altext/stjtnr.html#1971067?g51
+  19. file://1993117.html

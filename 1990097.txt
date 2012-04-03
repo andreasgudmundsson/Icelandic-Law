@@ -195,9 +195,8 @@
 
         12.1. Starfrækja skal heilsugæslustöðvar til þess að annast
    heilsugæslu samkvæmt lögum þessum.
-        12.2. Þar sem aðstæður leyfa, skal heilsugæslustöð vera í
-   starfstengslum við sjúkrahús og þá ávallt rekin sem hluti af því, og í
-   sömu byggingu, sé þess kostur.
+        12.2. [Þar sem aðstæður leyfa skulu heilsugæslustöð og sjúkrahús
+   rekin sem ein stofnun undir einni stjórn, sbr. 2. mgr. 21. gr.]^1)
         12.3. Þar sem sjúkrahús er fyrir og afráðið er, að stofna skuli
    heilsugæslustöð, skal byggja stöðina í starfstengslum við sjúkrahúsið,
    þannig að þjónustudeildir og starfslið nýtist fyrir hvort tveggja.
@@ -206,6 +205,8 @@
    héraðsins (umdæmisins) fyrir sjúkrahús, sbr. 33. gr. og hvort þörf sé
    fullnægt, einkum hvað viðvíkur hjúkrunar- og endurhæfingarheimilum, og
    haga framkvæmdum í samræmi við það.
+
+   ^1)[4]L. 140/1996, 15. gr.
 
                                     13. gr.
 
@@ -615,18 +616,18 @@
            innan Reykjavíkurlæknishéraðs er markast af Hringbraut að norðan
            og flugvelli að austan.
 
-        14.10. [Ráðherra getur í samráði við hlutaðeigandi sveitarstjórnir
-   ákveðið breytingar á framkvæmd einstakra málsliða skv. 2.9. mgr. þessarar
-   greinar, svo sem að færa heilsugæslustöðvar milli umdæma. Við sameiningu
-   sveitarfélaga getur ráðherra sett reglugerð um heilsugæsluumdæmi og
-   heilsugæslustöðvar í héruðum.]^1)
+        14.10. ...^1)
 
-   ^1)[4]L. 148/1994, 8. gr.
+   ^1)[5]L. 140/1996, 16. gr.
 
                                     15. gr.
 
-        15.1. Flokkun stöðva skv. 14. gr. er ráðherra heimilt að breyta með
-   reglugerð, ef aðstæður breytast svo, að þess sé talin þörf.
+        15.1. [Ráðherra er heimilt að breyta skiptingu í heilsugæsluumdæmi,
+   fjölda og flokkun heilsugæslustöðva og starfssvæði þeirra með reglugerð,
+   að höfðu samráði við hlutaðeigandi sveitarfélög og Samband íslenskra
+   sveitarfélaga.]^1)
+
+   ^1)[6]L. 140/1996, 17. gr.
 
                                     16. gr.
 
@@ -708,7 +709,7 @@
                 5.14.
                         Umhverfisheilsuvernd.
                 5.15.
-                        Atvinnusjúkdómar, sbr. og [5]lög nr. 46/1980.
+                        Atvinnusjúkdómar, sbr. og [7]lög nr. 46/1980.
                 5.16.
                         Slysavarnir.
 
@@ -723,7 +724,7 @@
    heilsugæslustöðva og skal hún vera í samræmi við hliðstæðar gjaldskrár
    samkvæmt lögum um almannatryggingar.^1)
 
-   ^1)Rg. 81/1995, sbr. 228/1995.
+   ^1)Rg. 81/1995, sbr. 228/1995 og 235/1995. Rg. 68/1996.
 
                                     21. gr.
 
@@ -737,14 +738,14 @@
    starfsmannaráð skulu vera sameiginleg fyrir alla stofnunina. Séu fleiri en
    ein stöð í sama sveitarfélagi skulu þær vera undir einni sameiginlegri
    stjórn.
-        21.3. Stjórnir heilsugæsluumdæma í Reykjavík skulu skipaðar fimm
-   mönnum. Einn stjórnarmanna skal skipaður af ráðherra og skal hann vera
+        21.3. [Stjórn heilsugæslustöðva í Reykjavíkurhéraði skal skipuð fimm
+   mönnum.]^1) Einn stjórnarmanna skal skipaður af ráðherra og skal hann vera
    formaður; hann skal vera búsettur í umdæminu. Þrír skulu skipaðir samkvæmt
    tilnefningu borgarstjórnar og einn samkvæmt tilnefningu starfsmanna
    heilsugæslustöðvanna í umdæminu. Ráðherra setur reglur um kjör fulltrúa
    starfsmanna. Í Reykjavík ráða stjórnir heilsugæslustöðva framkvæmdastjóra
    þeirra og hafa þeir sömu skyldur og framkvæmdastjórar sjúkrahúsa skv. 29.
-   gr. Fer um mat á hæfni þeirra skv. 30. gr. Ráðherra setur reglugerð^1) í
+   gr. Fer um mat á hæfni þeirra skv. 30. gr. Ráðherra setur reglugerð^2) í
    samráði við héraðslækni um fyrirkomulag á samvinnu heilsugæslustöðva innan
    Reykjavíkurhéraðs. Þar skal m.a. kveðið á um ráðningu framkvæmdastjóra.
         21.4. Sveitarfélög innan heilsugæsluumdæmis geta samið um
@@ -752,9 +753,9 @@
    gera samning um eina stjórn, kosningu fulltrúa sveitarfélaga og
    kostnaðarskiptingu. Skal samningurinn staðfestur af ráðherra.
         21.5. Séu tveir eða fleiri læknar á heilsugæslustöð, skal stofna
-   læknaráð. Formaður þess er jafnframt yfirlæknir stöðvarinnar.
+   læknaráð. ...^1)
 
-   ^1)Rg. 365/1990, sbr. 129/1991.
+   ^1)[8]L. 140/1996, 18. gr.^2)Rg. 365/1990, sbr. 129/1991.
 
                                     22. gr.
 
@@ -807,10 +808,12 @@
            Sjúkraheimili. Dvalarstaður sjúklinga sem eru til rannsóknar eða
            meðferðar á heilbrigðisstofnun og geta eigi dvalist í heimahúsum.
 
-        24.2. Ráðherra setur með reglugerð^1) nánari ákvæði um flokkun
-   sjúkrahúsa samkvæmt þessari grein, að höfðu samráði við Landssamband
-   sjúkrahúsa, og ákveður jafnframt starfssvið og verkaskiptingu þeirra
-   sjúkrahúsa, er starfa við gildistöku laganna.
+        24.2. [Ráðherra setur með reglugerð^1) nánari ákvæði um flokkun
+   sjúkrahúsa, starfssvið og verkaskiptingu, að höfðu samráði við
+   hlutaðeigandi sveitarfélög og Samband íslenskra sveitarfélaga. Hann getur
+   jafnframt ákveðið sameiningu sjúkrastofnana sem reknar eru af ríkinu með
+   reglugerð að höfðu samráði við hlutaðeigandi sveitarfélög og Samband
+   íslenskra sveitarfélaga.]^2)
         [24.3. Ráðherra skipar sjö manna samstarfsráð sjúkrahúsanna í
    Reykjavík, Borgarspítala, St. Jósefsspítala og ríkisspítala. Í ráðinu eiga
    sæti formenn stjórna Borgarspítala, St. Jósefsspítala og ríkisspítala og
@@ -830,11 +833,12 @@
    verkefnum sem heilbrigðismálaráð Reykjavíkurlæknishéraðs hefur haft með
    höndum og snerta þessi sjúkrahús, sbr. 7. gr. Framkvæmdastjóri þess
    sjúkrahúss, þaðan sem formaður stjórnar kemur hverju sinni, annast
-   framkvæmd mála fyrir ráðið.]^2)
-        [24.4.]^2) Ráðherra skal með reglugerð kveða á um samvinnu sjúkrahúsa
+   framkvæmd mála fyrir ráðið.]^3)
+        [24.4.]^3) Ráðherra skal með reglugerð kveða á um samvinnu sjúkrahúsa
    í landinu að höfðu samráði við Samband ísl. sveitarfélaga.
 
-   ^1)Rg. 34/1993, sbr. 504/1993. Augl. 206/1994.^2)[6]L. 128/1990, 1. gr.
+   ^1)Rg. 34/1993, sbr. 504/1993. Augl. 206/1994.^2)[9]L. 140/1996, 19.
+   gr.^3)[10]L. 128/1990, 1. gr.
 
                                     25. gr.
 
@@ -967,7 +971,7 @@
    sérfræðingar sérdeilda kjósi yfirlækna deilda úr sínum hópi til takmarkaðs
    tíma.
         31.4. Hjúkrunarforstjórar sjúkrahúsa ríkisins skulu skipaðir af
-   ráðherra að fenginni umsögn hjúkrunarráðs samkvæmt [7]hjúkrunarlögum nr.
+   ráðherra að fenginni umsögn hjúkrunarráðs samkvæmt [11]hjúkrunarlögum nr.
    8/1974 og viðkomandi sjúkrahússtjórnar. Hjúkrunarforstjórar annarra
    sjúkrahúsa skulu ráðnir af viðkomandi sjúkrahússtjórn að fenginni umsögn
    hjúkrunarráðs. Hjúkrunardeildarstjórar skulu ráðnir að fenginni umsögn
@@ -1083,7 +1087,7 @@
 
                                     41. gr.
 
-        41.1. Hlutverk læknishéraðasjóðs samkvæmt [8]lögum nr. 82/1970 skal
+        41.1. Hlutverk læknishéraðasjóðs samkvæmt [12]lögum nr. 82/1970 skal
    vera að bæta heilbrigðisþjónustu í strjálbýli með þeim ráðum sem tiltæk
    eru hverju sinni. Ráðherra veitir lán og styrki úr sjóðnum að fengnum
    tillögum landlæknis og héraðslækna.
@@ -1098,7 +1102,7 @@
         [42.2. Ráðherra er heimilt að leita útboða um rekstur
    heilbrigðisþjónustu samkvæmt lögum þessum.]^1)
 
-   ^1)[9]L. 1/1992, 25. gr.
+   ^1)[13]L. 1/1992, 25. gr.
 
                                     43. gr.
 
@@ -1107,17 +1111,17 @@
    hlutföllum og stofnkostnaður samkvæmt lögum þessum.
 
                             Ákvæði til bráðabirgða.
-        1. [Heilsuverndarstarf í Reykjavík samkvæmt [10]lögum nr. 44/1955
-   skal haldast óbreytt til ársloka [1996]^1) en þá skulu heilsugæslustöðvar
-   hafa verið skipulagðar til þess að annast það. Sérstök þriggja manna
-   stjórn, skipuð af heilbrigðis- og tryggingamálaráðherra, skal í umboði
-   hans annast rekstur Heilsuverndarstöðvar Reykjavíkur og vinna að
-   endanlegri gerð áætlunar um framtíðarhlutverk stöðvarinnar. Í stjórninni
-   skulu eiga sæti einn fulltrúi ráðherra, sem skal vera formaður, einn
-   skipaður samkvæmt tilnefningu Reykjavíkurborgar og einn samkvæmt
+        1. [Heilsuverndarstarf í Reykjavík samkvæmt [14]lögum nr. 44/1955
+   skal haldast óbreytt til [30. apríl 1997]^1) en þá skulu
+   heilsugæslustöðvar hafa verið skipulagðar til þess að annast það. Sérstök
+   þriggja manna stjórn, skipuð af heilbrigðis- og tryggingamálaráðherra,
+   skal í umboði hans annast rekstur Heilsuverndarstöðvar Reykjavíkur og
+   vinna að endanlegri gerð áætlunar um framtíðarhlutverk stöðvarinnar. Í
+   stjórninni skulu eiga sæti einn fulltrúi ráðherra, sem skal vera formaður,
+   einn skipaður samkvæmt tilnefningu Reykjavíkurborgar og einn samkvæmt
    tilnefningu tryggingaráðs. Áætlunin skal koma til framkvæmda frá og með
-   [1. janúar 1997].^1) Frá þeim tíma falla [11]heilsuverndarlög, nr.
-   44/1955, sbr. [12]lög nr. 28/1957, úr gildi.]^2)
+   [1. maí 1997].^1) Frá þeim tíma falla [15]heilsuverndarlög, nr. 44/1955,
+   sbr. [16]lög nr. 28/1957, úr gildi.]^2)
 
    2.
            [Skipun bráðabirgðastjórnar Sjúkrahúss Reykjavíkur framlengist til
@@ -1132,7 +1136,7 @@
            Bráðabirgðastjórn Sjúkrahúss Reykjavíkur skal fara með yfirstjórn
            Sjúkrahúss Reykjavíkur í umboði borgarstjórnar Reykjavíkur.]^3)
 
-   ^1)[13]L. 144/1995, 46. gr.^2)[14]L. 86/1991, 1. gr.^3)[15]L. 144/1995,
+   ^1)[17]L. 140/1996, 20. gr.^2)[18]L. 86/1991, 1. gr.^3)[19]L. 144/1995,
    47. gr.
 
 References
@@ -1141,15 +1145,19 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1990097
    2. file:///altext/stjt/1994.148.html
    3. file:///altext/stjt/1990.075.html
-   4. file:///altext/stjt/1994.148.html
-   5. file://1980046.html
-   6. file:///altext/stjt/1990.128.html
-   7. file://1974008.html
-   8. file:///altext/stjtnr.html#1970082
-   9. file:///altext/stjt/1992.001.html
-  10. file:///altext/stjtnr.html#1955044
-  11. file:///altext/stjtnr.html#1955044
-  12. file:///altext/stjtnr.html#1957028
-  13. file:///altext/stjt/1995.144.html
-  14. file:///altext/stjt/1991.086.html
-  15. file:///altext/stjt/1995.144.html
+   4. file:///altext/stjt/1996.140.html
+   5. file:///altext/stjt/1996.140.html
+   6. file:///altext/stjt/1996.140.html
+   7. file://1980046.html
+   8. file:///altext/stjt/1996.140.html
+   9. file:///altext/stjt/1996.140.html
+  10. file:///altext/stjt/1990.128.html
+  11. file://1974008.html
+  12. file:///altext/stjtnr.html#1970082
+  13. file:///altext/stjt/1992.001.html
+  14. file:///altext/stjtnr.html#1955044
+  15. file:///altext/stjtnr.html#1955044
+  16. file:///altext/stjtnr.html#1957028
+  17. file:///altext/stjt/1996.140.html
+  18. file:///altext/stjt/1991.086.html
+  19. file:///altext/stjt/1995.144.html

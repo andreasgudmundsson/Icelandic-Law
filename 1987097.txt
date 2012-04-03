@@ -38,7 +38,8 @@
    í viðauka I, skal greiða tiltekna fjárhæð fyrir hvern lítra af vörunni,
    eftir því sem nánar er kveðið á um í viðaukanum.
         Af vörum, sem flokkast undir tollskrárnúmer sem talin eru upp í
-   CF-liðum í viðauka I, skal greiða gjald af verðmæti vöru sem hér segir:
+   [CE-liðum]^2) í viðauka I, skal greiða gjald af verðmæti vöru sem hér
+   segir:
 
    1.
            15% af vörum sem flokkast undir tollskrárnúmer sem talin eru upp í
@@ -50,11 +51,11 @@
            25% af vörum sem flokkast undir tollskrárnúmer sem talin eru upp í
            E-lið.
    4.
-           30% af vörum sem flokkast undir tollskrárnúmer sem talin eru upp í
-           F-lið.]^2)
+           ...^2)]^3)
 
    ^1)Viðauki I er ekki birtur hér, en um hann vísast til Stjtíð. 1996 A,
-   bls. 287291, sbr. augl. A 110/1996.^2)[5]L. 89/1996, 2. gr.
+   bls. 287291, sbr. augl. A 110/1996, 148/1996 og 164/1996.^2)[5]L.
+   148/1996, 1. gr.^3)[6]L. 89/1996, 2. gr.
 
                               Gjaldskyldir aðilar.
                                      4. gr.
@@ -77,7 +78,7 @@
    farið fram, skal tilkynna eigi síðar en 15 dögum eftir að breyting átti
    sér stað.
 
-   ^1)[6]L. 89/1996, 3. gr.
+   ^1)[7]L. 89/1996, 3. gr.
 
                                     [5. gr.
         Aðilar, sem flytja inn eða kaupa innan lands gjaldskyldar vörur til
@@ -102,23 +103,23 @@
    vörur án vörugjalds skal tilgreina á sölureikningum það magn eða það verð
    sem myndar gjaldstofn vörugjalds.]^1)
 
-   ^1)[7]L. 89/1996, 4. gr.
+   ^1)[8]L. 89/1996, 4. gr.
 
                           [Gjaldstofn verðgjalds.]^1)
 
-   ^1)[8]L. 89/1996, 5. gr.
+   ^1)[9]L. 89/1996, 5. gr.
 
                                     [6. gr.
         Gjaldstofn vörugjalds af innfluttum vörum, sem flokkast undir
-   tollskrárnúmer sem talin eru upp í CF-liðum í viðauka I, er tollverð
+   tollskrárnúmer sem talin eru upp í [CE-liðum]^1) í viðauka I, er tollverð
    þeirra eins og það er ákveðið í 8.10. gr. tollalaga, að viðbættum tollum
-   eins og þeir eru ákveðnir samkvæmt þeim lögum.]^1)
+   eins og þeir eru ákveðnir samkvæmt þeim lögum.]^2)
 
-   ^1)[9]L. 89/1996, 5. gr.
+   ^1)[10]L. 148/1996, 2. gr.^2)[11]L. 89/1996, 5. gr.
 
                                     [7. gr.
         Gjaldstofn vörugjalds af innlendum framleiðsluvörum, sem flokkast
-   undir tollskrárnúmer sem talin eru upp í CF-liðum í viðauka I, er
+   undir tollskrárnúmer sem talin eru upp í [CE-liðum]^1) í viðauka I, er
    verksmiðjuverð þeirra.
         Verksmiðjuverð er söluverð vöru frá framleiðanda, þ.e. það verð sem
    kaupandi greiðir eða ber að greiða við kaup á vöru af framleiðanda án
@@ -136,16 +137,16 @@
         Ef framleiðandi og kaupandi eru háðir hvor öðrum í skilningi 2. mgr.
    8. gr. tollalaga er skattyfirvöldum heimilt að ákvarða gjaldstofn samkvæmt
    ákvæðum 4. mgr. Ríkisskattstjóri skal gefa út reglur um mat til verðs
-   samkvæmt þessari málsgrein.]^1)
+   samkvæmt þessari málsgrein.]^2)
 
-   ^1)[10]L. 89/1996, 6. gr.
+   ^1)[12]L. 148/1996, 3. gr.^2)[13]L. 89/1996, 6. gr.
 
                   Innheimta, uppgjörstímabil, gjalddagar o.fl.
                                     [8. gr.
         Tollstjórar skulu reikna vörugjald af gjaldskyldum vörum sem aðilar,
    aðrir en þeir sem skráðir hafa verið skv. 5. gr., flytja til landsins.]^1)
 
-   ^1)[11]L. 89/1996, 7. gr.
+   ^1)[14]L. 89/1996, 7. gr.
 
                                     [9. gr.
         Hvert uppgjörstímabil aðila sem skráðir eru skv. 2. mgr. 4. gr. er
@@ -189,10 +190,10 @@
    er fyrir hvern byrjaðan dag eftir gjalddaga, þó ekki hærra en 10%.
         Sé vörugjald ekki greitt innan mánaðar frá gjalddaga skal greiða
    ríkissjóði dráttarvexti af því sem gjaldfallið er. Um ákvörðun og
-   útreikning dráttarvaxta fer eftir [12]vaxtalögum, nr. 25/1987, með síðari
+   útreikning dráttarvaxta fer eftir [15]vaxtalögum, nr. 25/1987, með síðari
    breytingum.]^1)
 
-   ^1)[13]L. 89/1996, 8. gr.
+   ^1)[16]L. 89/1996, 8. gr.
 
                                     [10. gr.
         Við skil á vörugjaldi í ríkissjóð er gjaldanda heimilt að draga frá
@@ -205,7 +206,7 @@
    verið skilað á tilskildum tíma skal endurgreiðsla fara fram innan 15 daga
    frá lokum skilafrests.]^1)
 
-   ^1)[14]L. 89/1996, 9. gr.
+   ^1)[17]L. 89/1996, 9. gr.
 
                                     [11. gr.
         Heimilt er að kæra álagningu vörugjalds innan 30 daga frá gjalddaga
@@ -221,10 +222,10 @@
         Gjaldskyldur aðili og ríkisskattstjóri geta skotið úrskurði
    skattstjóra skv. 1. mgr. til yfirskattanefndar sem kveður upp
    fullnaðarúrskurð. Um kærufresti og málsmeðferð fer eftir ákvæðum 2.7.
-   mgr. [15]29. gr. laga nr. 50/1988, um virðisaukaskatt, með síðari
+   mgr. [18]29. gr. laga nr. 50/1988, um virðisaukaskatt, með síðari
    breytingum.]^1)
 
-   ^1)[16]L. 89/1996, 10. gr.
+   ^1)[19]L. 89/1996, 10. gr.
 
                                     [12. gr.
         Að því leyti sem eigi er ákveðið í lögum þessum um gjaldskyldu,
@@ -232,7 +233,7 @@
    varðandi vörugjald skulu gilda, eftir því sem við geta átt, ákvæði
    tollalaga og laga um virðisaukaskatt.]^1)
 
-   ^1)[17]L. 89/1996, 11. gr.
+   ^1)[20]L. 89/1996, 11. gr.
 
                                   [13. gr.]^1)
         Fjármálaráðherra setur í reglugerð^2) nánari ákvæði um
@@ -246,18 +247,18 @@
    innlendra iðnaðarvara og garðyrkjuafurða. Ráðherra kveður nánar á um
    framkvæmd þessarar málsgreinar í reglugerð.]^3)
 
-   ^1)[18]L. 89/1996, 12. gr.^2)Rg. 157/1994, sbr. 480/1994. Augl.
-   336/1994.^3)[19]L. 52/1994, 2. gr.
+   ^1)[21]L. 89/1996, 12. gr.^2)Rg. 356/1996 og 358/1996. Augl.
+   336/1994.^3)[22]L. 52/1994, 2. gr.
 
                                   [14. gr.]^1)
         Lög þessi öðlast gildi 1. janúar 1988. ...
 
-   ^1)[20]L. 89/1996.
+   ^1)[23]L. 89/1996.
 
    Ákvæði til bráðabirgða.
                                 [I.VI. ...]^1)
 
-   ^1)[21]L. 95/1988, brbákv.
+   ^1)[24]L. 95/1988, brbákv.
 
                                      [VII.
         Allir þeir, sem stunda starfsemi sem skattskyld er samkvæmt lögum um
@@ -267,7 +268,7 @@
    heimilisfastir.^1)
         ...]^2)
 
-   ^1)Augl. 102/1995.^2)[22]L. 18/1993, brbákv.
+   ^1)Augl. 102/1995.^2)[25]L. 18/1993, brbákv.
 
                                      [VIII.
         Allir þeir sem framleiða eða flytja til landsins vöru sem skattskyld
@@ -279,7 +280,7 @@
    samkvæmt lögum þessum vera þrír mánuðir, júlí, ágúst og september
    1996.]^1)
 
-   ^1)[23]L. 89/1996, brbákv.
+   ^1)[26]L. 89/1996, brbákv.
 
 References
 
@@ -288,22 +289,25 @@ References
    2. file://1951110.html
    3. file://1987055.html
    4. file:///altext/stjt/1996.089.html
-   5. file:///altext/stjt/1996.089.html
+   5. file:///altext/stjt/1996.148.html
    6. file:///altext/stjt/1996.089.html
    7. file:///altext/stjt/1996.089.html
    8. file:///altext/stjt/1996.089.html
    9. file:///altext/stjt/1996.089.html
-  10. file:///altext/stjt/1996.089.html
+  10. file:///altext/stjt/1996.148.html
   11. file:///altext/stjt/1996.089.html
-  12. file://1987025.html
+  12. file:///altext/stjt/1996.148.html
   13. file:///altext/stjt/1996.089.html
   14. file:///altext/stjt/1996.089.html
-  15. file://1988050.html#g29
+  15. file://1987025.html
   16. file:///altext/stjt/1996.089.html
   17. file:///altext/stjt/1996.089.html
-  18. file:///altext/stjt/1996.089.html
-  19. file:///altext/stjt/1994.052.html
+  18. file://1988050.html#g29
+  19. file:///altext/stjt/1996.089.html
   20. file:///altext/stjt/1996.089.html
-  21. file:///altext/stjt/1988.095.html
-  22. file:///altext/stjt/1993.018.html
+  21. file:///altext/stjt/1996.089.html
+  22. file:///altext/stjt/1994.052.html
   23. file:///altext/stjt/1996.089.html
+  24. file:///altext/stjt/1988.095.html
+  25. file:///altext/stjt/1993.018.html
+  26. file:///altext/stjt/1996.089.html

@@ -132,8 +132,8 @@
    tekjutryggingar, örorkustyrkja, barnalífeyris og bóta í fæðingarorlofi.
         [Nema annað sé tilgreint teljast til tekna skv. II. kafla laga
    þessara tekjur skv. [2]II. kafla laga nr. 75/1981, um tekjuskatt og
-   eignarskatt, að frádregnum tekjum skv. A-lið 1. mgr. 30. gr. sömu laga.
-   Við ákvörðun tekjugrundvallar skulu tekjur skv. 3. tölul. C-liðar [3]7.
+   eignarskatt, að frádregnum tekjum skv. A-lið 1. mgr. [3]30. gr. sömu laga.
+   Við ákvörðun tekjugrundvallar skulu tekjur skv. 3. tölul. C-liðar [4]7.
    gr. laga nr. 75/1981, um tekjuskatt og eignarskatt, metnar að 50
    hundraðshlutum.]^1)
         [Við útreikning örorkulífeyris og tekjutryggingar, sbr. 12. og 17.
@@ -141,9 +141,9 @@
    lífeyrisþega sem fengið hafa eingreiðslu skaðabóta vegna örorku að
    frádregnum áætluðum örorkulífeyri og tekjutryggingu til framtíðar frá
    Tryggingastofnun ríkisins.
-        Ráðherra setur reglugerð um nánari framkvæmd þessa ákvæðis.]^2)
+        Ráðherra setur reglugerð^2) um nánari framkvæmd þessa ákvæðis.]^3)
 
-   ^1)[4]L. 144/1995, 28. gr.^2)[5]L. 95/1996, 1. gr.
+   ^1)[5]L. 144/1995, 28. gr.^2)Rg. 643/1996.^3)[6]L. 95/1996, 1. gr.
 
                                    B. Bætur.
                                     11. gr.
@@ -160,7 +160,7 @@
    ellilífeyri um [30%]^1) þeirra tekna sem umfram eru uns hann fellur niður.
    [Til tekna í þessu sambandi teljast ekki bætur almannatrygginga, tekjur úr
    lífeyrissjóðum, bætur samkvæmt lögum um félagslega aðstoð eða
-   húsaleigubætur samkvæmt [6]lögum nr. 100/1994.]^2) Skerðing samkvæmt
+   húsaleigubætur samkvæmt [7]lögum nr. 100/1994.]^2) Skerðing samkvæmt
    þessari málsgrein skal þó aldrei ná til þess hluta ellilífeyris sem
    einstaklingur á rétt á vegna frestunar á töku ellilífeyris sem ákveðin var
    fyrir 1. janúar 1992.
@@ -182,13 +182,13 @@
    ellilífeyri frá og með 60 ára aldri, enda sé sannað að sú sjómennska hafi
    verið aðalstarf viðkomandi meðan á henni stóð.
 
-   ^1)[7]L. 144/1995, 29. gr.^2)[8]L. 148/1994, 12. gr.
+   ^1)[8]L. 144/1995, 29. gr.^2)[9]L. 148/1994, 12. gr.
 
                                     12. gr.
 
                                 Örorkulífeyrir.
         Rétt til örorkulífeyris eiga þeir menn sem lögheimili eiga á Íslandi,
-   sbr. [9]1. gr. laga um lögheimili, nr. 21/1990, eru á aldrinum 1667 ára
+   sbr. [10]1. gr. laga um lögheimili, nr. 21/1990, eru á aldrinum 1667 ára
    og:
 
    a.
@@ -212,10 +212,10 @@
    Ef tekjur eru umfram umrædd mörk skal skerða örorkulífeyri um 25% þeirra
    tekna sem umfram eru uns hann fellur niður. [Til tekna í þessu sambandi
    teljast ekki bætur almannatrygginga, tekjur úr lífeyrissjóðum, bætur
-   samkvæmt lögum um félagslega aðstoð eða húsaleigubætur samkvæmt [10]lögum
+   samkvæmt lögum um félagslega aðstoð eða húsaleigubætur samkvæmt [11]lögum
    nr. 100/1994.]^1)
 
-   ^1)[11]L. 148/1994, 13. gr.
+   ^1)[12]L. 148/1994, 13. gr.
 
                                     13. gr.
 
@@ -251,7 +251,7 @@
         Árlegur barnalífeyrir með hverju barni skal vera 123.600 kr. Ekki
    skal greiða barnalífeyri vegna þeirra barna er njóta örorkulífeyris.
 
-   ^1)[12]L. 129/1995, 4. gr.
+   ^1)[13]L. 129/1995, 4. gr.
 
                                     15. gr.
 
@@ -292,7 +292,7 @@
    starfi. Tryggingayfirlæknir skal meta hvort þörf er fyrir hendi samkvæmt
    ákvæði þessu.
 
-   ^1)[13]L. 129/1995, 5. gr.
+   ^1)[14]L. 129/1995, 5. gr.
 
                                     16. gr.
                               Fæðingardagpeningar.
@@ -384,32 +384,32 @@
            Enginn getur samtímis notið fæðingardagpeninga og
            sjúkradagpeninga.
 
-   ^1)[14]L. 129/1995, 6. gr.
+   ^1)[15]L. 129/1995, 6. gr.
 
                                     17. gr.
 
                                  Tekjutrygging.
         [Ef aðrar tekjur ellilífeyrisþega en lífeyrir almannatrygginga, bætur
-   samkvæmt lögum um félagslega aðstoð og húsaleigubætur samkvæmt [15]lögum
+   samkvæmt lögum um félagslega aðstoð og húsaleigubætur samkvæmt [16]lögum
    nr. 100/1994 fara ekki fram úr 217.319 kr. á ári skal greiða uppbót á
    lífeyri hans að upphæð 272.208 kr. á ári. Hafi bótaþegi hins vegar aðrar
    tekjur umfram 217.319 kr. á ári skal skerða uppbótina um 45% þeirra tekna
    sem umfram eru. Sama gildir um hjónalífeyri eftir því sem við á.
         Ef aðrar tekjur örorkulífeyrisþega en lífeyrir almannatrygginga,
    bætur samkvæmt lögum um félagslega aðstoð og húsaleigubætur samkvæmt
-   [16]lögum nr. 100/1994 fara ekki fram úr 217.319 kr. á ári skal greiða
+   [17]lögum nr. 100/1994 fara ekki fram úr 217.319 kr. á ári skal greiða
    uppbót á lífeyri hans að upphæð 279.840 kr. á ári. Hafi bótaþegi hins
    vegar aðrar tekjur umfram 217.319 kr. skal skerða uppbótina um 45% þeirra
    tekna sem umfram eru. Sama gildir um hjónalífeyri eftir því sem við á.
         [Nú sinnir maður ekki lagaskyldu um greiðslu iðgjalda til
-   lífeyrissjóðs samkvæmt [17]lögum nr. 55/1980, um starfskjör launafólks og
+   lífeyrissjóðs samkvæmt [18]lögum nr. 55/1980, um starfskjör launafólks og
    skyldutryggingu lífeyrisréttinda, með síðari breytingum. Er þá heimilt að
    áætla honum tekjur sem koma til frádráttar greiðslu tekjutryggingar. Setja
    skal reglugerð með nánari ákvæðum um framkvæmd þessa frádráttar.]^1)
         Um uppbót á lífeyri samkvæmt þessari grein gilda ákvæði 11. gr. eftir
    því sem við á.]^2)
 
-   ^1)[18]L. 144/1995, 30. gr.^2)[19]L. 148/1994, 14. gr.
+   ^1)[19]L. 144/1995, 30. gr.^2)[20]L. 148/1994, 14. gr.
 
                                     18. gr.
         Við ákvörðun um hækkanir bóta skv. 17. gr. skulu umsóknir rökstuddar
@@ -420,13 +420,10 @@
    til samræmis við almennar hækkanir bóta og annarra tekna milli ára.
         Heilbrigðis- og tryggingamálaráðherra er heimilt með reglugerð að
    ákveða að aðrar tekjufjárhæðir skv. 17. gr. gildi um [lífeyri úr
-   lífeyrissjóðum og tekjur skv. 3. tölul. C-liðar [20]7. gr. laga nr.
+   lífeyrissjóðum og tekjur skv. 3. tölul. C-liðar [21]7. gr. laga nr.
    75/1981, um tekjuskatt og eignarskatt,]^2) en aðrar tekjur.
 
-   ^1)[21]L. 148/1994, 15. gr.^2)[22]L. 144/1995, 31. gr. Tekjur skv. 3.
-   tölul. C-liðar [23]7. gr. laga nr. 75/1981 skulu þó eigi teljast með í
-   tekjugrunni við ákvörðun á bótum fyrr en frá og með 1. september 1996
-   vegna tekna ársins 1995, sbr. [24]59. gr. s.l.
+   ^1)[22]L. 148/1994, 15. gr.^2)[23]L. 144/1995, 31. gr.
 
                                    C. Tekjur.
                                     19. gr.
@@ -559,7 +556,9 @@
    lútandi. Á sama hátt geta atvinnurekendur skv. b-lið tryggt mökum sínum og
    börnum innan 16 ára, sem með þeim starfa að atvinnurekstrinum, rétt til
    slysabóta. Sama gildir um börn atvinnurekenda í landbúnaði innan 12 ára
-   aldurs.
+   aldurs.^1)
+
+   ^1)Rg. 527/1995.
 
                                    B. Bætur.
                                     26. gr.
@@ -745,14 +744,14 @@
    varasjóð, sbr. 2. mgr. Iðgjald þetta skal ákveða árlega með reglugerð.]^3)
 
    ^1)Rg. 15/1990.^2)Rg. 94/1979, sbr. 623/1980. Rg. 201/1981, sbr. 10/1984,
-   249/1990 og 297/1990.^3)[25]L. 144/1995, 32. gr.
+   249/1990 og 297/1990.^3)[24]L. 144/1995, 32. gr.
 
                                    IV. kafli.
                                Sjúkratryggingar.
                                A. Almenn ákvæði.
                                     32. gr.
-        Sá sem átt hefur lögheimili í landinu í sex mánuði, sbr. [26]1. gr.
-   laga um lögheimili, nr. 21/1990, og 1. mgr. [27]5. gr. laga um
+        Sá sem átt hefur lögheimili í landinu í sex mánuði, sbr. [25]1. gr.
+   laga um lögheimili, nr. 21/1990, og 1. mgr. [26]5. gr. laga um
    tilkynningar aðsetursskipta, nr. 73/1952, með síðari breytingu, telst
    sjúkratryggður, nema annað leiði af milliríkjasamningum. Heimilt er að
    greiða nauðsynlega þjónustu í skyndilegum sjúkdómstilfellum þótt biðtíminn
@@ -766,7 +765,7 @@
    fyrirkomulag og framkvæmd sjúkratrygginga og um starfsemi
    sjúkratryggingadeildar.
 
-   ^1)Rg. 261/1995.
+   ^1)Rg. 261/1995, sbr. 482/1996.
 
                                    B. Bætur.
                                     33. gr.
@@ -819,8 +818,7 @@
            Kostnað samkvæmt milliríkjasamningum af sjúkrahjálp við erlenda
            ríkisborgara sem dveljast hér um stundarsakir.
 
-   ^1)Rg. 58/1994, sbr. 267/1995.^2)[28]L. 100/1996, 1. gr.^3)[29]L.
-   100/1996, 2. gr.
+   ^1)Rg. 663/1996.^2)[27]L. 100/1996, 1. gr.^3)[28]L. 100/1996, 2. gr.
 
                                     34. gr.
         Hverjum þeim, sem sjúkratryggður er skv. 32. gr., skal tryggð ókeypis
@@ -932,7 +930,8 @@
    gr. og ákveða með hliðsjón af ákvæðum þeirrar greinar hvernig þátttöku
    skuli haga í tannlækniskostnaði viðbótarhópa.
 
-   ^1)Rg. 82/1995, sbr. 229/1995.^2)Rg. 327/1995. Rg. 81/1995, sbr. 228/1995.
+   ^1)Rg. 82/1995, sbr. 229/1995.^2)Rg. 158/1996, sbr. 507/1996 og 654/1996.
+   Rg. 81/1995, sbr. 228/1995. Rg. 68/1996. Rg. 185/1996.
 
                                     37. gr.
         Fyrir tannlæknaþjónustu, aðra en tannréttingar, greiða
@@ -968,7 +967,7 @@
    og yngri, eiga kost á einni skoðun á ári hjá tannlækni sér að
    kostnaðarlausu.
 
-   ^1)Rg. 58/1994.
+   ^1)Rg. 58/1994. Rg. 664/1996.
 
                                     38. gr.
         Sjúkratryggingar greiða sjúkradagpeninga ef sjúkratryggður, sem
@@ -1020,7 +1019,7 @@
         Dagpeningar eru ekki greiddir þeim sem í verkfalli á, nema hann hafi
    átt rétt til dagpeninga áður en verkfall hófst.
 
-   ^1)[30]L. 144/1995, 33. gr.
+   ^1)[29]L. 144/1995, 33. gr.
 
                                     39. gr.
         Tryggingastofnun ríkisins gerir samninga um greiðslur samkvæmt þessum
@@ -1058,6 +1057,9 @@
    sviði almannatrygginga.
 
                                     41. gr.
+        [Tryggingastofnun ríkisins ber að leita bestu mögulegra kjara, að
+   teknu tilliti til gæða, á þeim vörum og þjónustu sem hún greiðir eða tekur
+   þátt í að greiða samkvæmt lögum þessum.]^1)
         Sjúkratryggingadeild Tryggingastofnunar ríkisins er heimilt að semja
    við stofnanir, fyrirtæki eða einstaklinga um þá þjónustu sem henni ber að
    veita samkvæmt lögum þessum. Slíkan samning má gera í framhaldi af útboði.
@@ -1065,6 +1067,8 @@
    hvort öllum skuli hafnað. Ef tilboð eru óhæfilega há eða að öðru leyti
    ekki aðgengileg getur sjúkratryggingadeild ráðstafað verkinu á grundvelli
    fasts samningsverðs.
+
+   ^1)[30]L. 153/1996, 1. gr.
 
                                    C. Tekjur.
                                     42. gr.
@@ -1316,7 +1320,7 @@
    sem Tryggingastofnunin tekur á sig.
 
                                     63. gr.
-        Ráðherra getur ákveðið að útgerðarmönnum skuli skylt að tryggja
+        Ráðherra getur ákveðið^1) að útgerðarmönnum skuli skylt að tryggja
    áhættu þá vegna bótaskyldra slysa og veikinda sem þeir bera skv. [42]36.
    gr. laga nr. 35/1985, þannig að Tryggingastofnunin greiði hinum tryggða
    fullt kaup eða aflahlut jafnlangan tíma og sjómannalög ákveða hverju
@@ -1327,6 +1331,8 @@
    aflahlutar á sér stað og skulu iðgjöld útgerðarmanna fyrir aukatryggingu
    þessa ákveðin með það fyrir augum að þau ásamt dagpeningunum nægi fyrir
    útgjöldum.
+
+   ^1)Rg. 159/1996.
 
                                     64. gr.
         Heimilt er ríkisstjórninni að semja við erlend ríki og ráðherra að
@@ -1350,7 +1356,7 @@
    þeim sem rétt eiga á tekjutryggingu, skertri eða óskertri, samkvæmt
    ákvæðum 17. gr.
 
-   ^1)Rg. 341/1992, sbr. 363/1994 og 184/1995.
+   ^1)Rg. 341/1992, sbr. 363/1994 og 184/1995. Rg. 678/1995.
 
                                     66. gr.
         Ráðherra er heimilt í reglugerð^1) að kveða á um nánari framkvæmd
@@ -1358,7 +1364,8 @@
    Evrópubandalagsins um almannatryggingar, enda eigi ákvæði þeirra stoð í
    lögum þessum.
 
-   ^1)Rg. 63/1991. Rg. 74/1991. Rg. 655/1994.^2)Augl. 550/1993 og 367/1994.
+   ^1)Rg. 63/1991. Rg. 74/1991. Rg. 655/1994. Rg. 374/1996.^2)Augl. 550/1993
+   og 367/1994.
 
                                     67. gr.
         Lög þessi öðlast gildi 1. janúar 1994. ...
@@ -1417,34 +1424,34 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993117
    2. file://1981075.html
-   3. file://1981075.html#g7
-   4. file:///altext/stjt/1995.144.html
-   5. file:///altext/stjt/1996.095.html
-   6. file://1994100.html
-   7. file:///altext/stjt/1995.144.html
-   8. file:///altext/stjt/1994.148.html
-   9. file://1990021.html#g1
-  10. file://1994100.html
-  11. file:///altext/stjt/1994.148.html
-  12. file:///altext/stjt/1995.129.html
+   3. file://1981075.html#g30
+   4. file://1981075.html#g7
+   5. file:///altext/stjt/1995.144.html
+   6. file:///altext/stjt/1996.095.html
+   7. file://1994100.html
+   8. file:///altext/stjt/1995.144.html
+   9. file:///altext/stjt/1994.148.html
+  10. file://1990021.html#g1
+  11. file://1994100.html
+  12. file:///altext/stjt/1994.148.html
   13. file:///altext/stjt/1995.129.html
   14. file:///altext/stjt/1995.129.html
-  15. file://1994100.html
+  15. file:///altext/stjt/1995.129.html
   16. file://1994100.html
-  17. file://1980055.html
-  18. file:///altext/stjt/1995.144.html
-  19. file:///altext/stjt/1994.148.html
-  20. file://1981075.html#g7
-  21. file:///altext/stjt/1994.148.html
-  22. file:///altext/stjt/1995.144.html
-  23. file://1981075.html#g7
+  17. file://1994100.html
+  18. file://1980055.html
+  19. file:///altext/stjt/1995.144.html
+  20. file:///altext/stjt/1994.148.html
+  21. file://1981075.html#g7
+  22. file:///altext/stjt/1994.148.html
+  23. file:///altext/stjt/1995.144.html
   24. file:///altext/stjt/1995.144.html
-  25. file:///altext/stjt/1995.144.html
-  26. file://1990021.html#g1
-  27. file://1952073.html#g5
+  25. file://1990021.html#g1
+  26. file://1952073.html#g5
+  27. file:///altext/stjt/1996.100.html
   28. file:///altext/stjt/1996.100.html
-  29. file:///altext/stjt/1996.100.html
-  30. file:///altext/stjt/1995.144.html
+  29. file:///altext/stjt/1995.144.html
+  30. file:///altext/stjt/1996.153.html
   31. file:///altext/stjt/1994.148.html
   32. file://1990021.html
   33. file://1981075.html#g98

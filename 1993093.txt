@@ -276,13 +276,13 @@
                                    V. kafli.
                               Atvinnuleysisbætur.
                                     23. gr.
-        [Hámarksbætur atvinnuleysistrygginga skulu nema 2.433 kr. á dag.
+        [Hámarksbætur atvinnuleysistrygginga skulu nema [2.482 kr.]^1) á dag.
    Lágmarksbætur eru ^1/[4] hluti sömu fjárhæðar. Fjárhæð hámarksbóta kemur
    til endurskoðunar við afgreiðslu fjárlaga ár hvert með tilliti til þróunar
    launa, verðlags og efnahagsmála. Þó er félagsmálaráðherra heimilt, að
    fengnu samþykki ríkisstjórnar, að breyta bótafjárhæð um allt að 3% frá
    forsendum fjárlaga ef verulegar breytingar verða á þjóðhagsforsendum frá
-   afgreiðslu fjárlaga.]^1)
+   afgreiðslu fjárlaga.]^2)
         Að auki skal greiða bótaþegum, sem hafa börn sín yngri en 18 ára á
    framfæri á heimili sínu eða greiða sannanlega með þeim meðlag utan
    heimilis, 4% af framangreindum launum með hverju barni.
@@ -291,9 +291,10 @@
         Elli- og örorkulífeyrir, svo og örorkustyrkur frá Tryggingastofnun
    ríkisins, skal koma til frádráttar atvinnuleysisbótum. [Nú fær bótaþegi
    ekki fullar atvinnuleysisbætur og skal þá eingöngu skerða bæturnar
-   hlutfallslega.]^2)
+   hlutfallslega.]^3)
 
-   ^1)[12]L. 144/1995, 26. gr.^2)[13]L. 127/1993, 12. gr.
+   ^1)[12]L. 140/1996, 11. gr.^2)[13]L. 144/1995, 26. gr.^3)[14]L. 127/1993,
+   12. gr.
 
                                     24. gr.
         Fjárhæð bóta miðast við unnar dagvinnustundir í tryggingarskyldri
@@ -344,7 +345,7 @@
    ákvörðun dagpeninga. Skráin skal tilgreina 76 þrep, frá 25% til 100% bóta,
    þannig að bætur hækki um 1% hámarksbóta við hvert þrep eftir starfstíma.
 
-   ^1)[14]L. 45/1995, 5. gr.^2)[15]L. 127/1993, 13. gr.
+   ^1)[15]L. 45/1995, 5. gr.^2)[16]L. 127/1993, 13. gr.
 
                                   [24. gr. a.
         Við ákvörðun bóta til manns, sem starfaði sem launamaður áður en hann
@@ -355,7 +356,7 @@
         Ráðherra setur með reglugerð nánari reglur um hvaða skilyrðum þarf að
    vera fullnægt til að njóta réttar skv. 1. mgr.]^1)
 
-   ^1)[16]L. 45/1995, 6. gr.
+   ^1)[17]L. 45/1995, 6. gr.
 
                                    VI. kafli.
                       Úthlutunarnefndir og greiðsla bóta.
@@ -379,14 +380,14 @@
    úthlutað til bótaþega sem ekki eru í stéttarfélagi og sjálfstætt
    starfandi.
 
-   ^1)[17]L. 45/1995, 7. gr.^2)Rg. 150/1995, sbr. 243/1995.^3)[18]L.
+   ^1)[18]L. 45/1995, 7. gr.^2)Rg. 150/1995, sbr. 243/1995.^3)[19]L.
    127/1993, 14. gr.
 
                                     26. gr.
         Umsóknir um bætur skulu ritaðar á eyðublöð sem ráðuneytið lætur gera.
    Skulu eyðublöð þessi þannig úr garði gerð, að þau séu hvort tveggja í
    senn, umsóknir um atvinnu, til afnota fyrir vinnumiðlun og
-   umsóknareyðublað um bætur, sbr. 2. mgr. [19]18. gr. laga nr. 18/1985, um
+   umsóknareyðublað um bætur, sbr. 2. mgr. [20]18. gr. laga nr. 18/1985, um
    vinnumiðlun.
         Umsókn ásamt nauðsynlegum gögnum sendist úthlutunarnefnd eða stjórn
    Atvinnuleysistryggingasjóðs eftir því sem við á.
@@ -409,7 +410,7 @@
         Að þessu loknu skal senda bótaskrá ásamt umsóknum og fylgiskjölum til
    [vinnumálaskrifstofu félagsmálaráðuneytisins]^1) eða umboðsmanna hennar.
 
-   ^1)[20]L. 45/1995, 8. gr.
+   ^1)[21]L. 45/1995, 8. gr.
 
                                     28. gr.
         Þegar skrá um bætur hefur borist frá úthlutunarnefnd, sbr. 27. gr.,
@@ -426,7 +427,7 @@
    bóta. Að lokinni greiðslu skal úthlutunarnefnd skila eintaki af skránni
    með áritaðri kvittun bótaþega.
 
-   ^1)[21]L. 45/1995, 9. gr.
+   ^1)[22]L. 45/1995, 9. gr.
 
                                     29. gr.
         Verði ágreiningur með nefndarmönnum í úthlutunarnefnd, sbr. 2. mgr.
@@ -446,7 +447,7 @@
         Úrskurðir stjórnar Atvinnuleysistryggingasjóðs um bætur eru
    endanlegir.
 
-   ^1)[22]L. 45/1995, 10. gr.
+   ^1)[23]L. 45/1995, 10. gr.
 
                                     30. gr.
         [Úthlutunarnefndir annast greiðslu bóta til einstakra bótaþega nema
@@ -458,14 +459,14 @@
    skrifstofunni bótaskrár, sem þeir hafa afgreitt í liðnum mánuði, ásamt
    fylgiskjölum.]^2)
 
-   ^1)[23]L. 127/1993, 15. gr.^2)[24]L. 45/1995, 11. gr.
+   ^1)[24]L. 127/1993, 15. gr.^2)[25]L. 45/1995, 11. gr.
 
                                     31. gr.
         Stjórn sjóðsins skal fylgjast með störfum úthlutunarnefnda og
    [vinnumálaskrifstofu félagsmálaráðuneytisins]^1) og umboðsmanna hennar um
    allt, er atvinnuleysisbætur varðar.
 
-   ^1)[25]L. 45/1995, 12. gr.
+   ^1)[26]L. 45/1995, 12. gr.
 
                                   VII. kafli.
                    Um fjárreiður Atvinnuleysistryggingasjóðs.
@@ -489,7 +490,7 @@
                                     34. gr.
         ...^1)
 
-   ^1)[26]L. 127/1993, 16. gr.
+   ^1)[27]L. 127/1993, 16. gr.
 
                                     35. gr.
         Stjórn Atvinnuleysistryggingasjóðs er heimilt að veita styrk úr
@@ -541,9 +542,15 @@
                                     37. gr.
         [Til lánveitinga og styrkja samkvæmt þessum kafla og til að standa
    straum af kostnaði skv. 5. mgr. 22. gr. er stjórn sjóðsins heimilt að
-   verja árlega allt að 62 m.kr. í samræmi við reglur sem ráðherra setur.]^1)
+   verja árlega allt að 62 m.kr. í samræmi við reglur^1) sem ráðherra
+   setur.]^2)
+        [Auk framlaga skv. 1. mgr. skal árlega verja ákveðnum fjárhæðum úr
+   sjóðnum til að styrkja starfsmenntun í atvinnulífinu, sbr. lög þar að
+   lútandi, og til sérstakra þróunarverkefna til að fjölga atvinnutækifærum
+   fyrir konur samkvæmt reglum sem ráðherra setur. Fjárhæð þessara framlaga
+   ákvarðast við afgreiðslu fjárlaga ár hvert.]^3)
 
-   ^1)[27]L. 148/1994, 4. gr.
+   ^1)Rg. 705/1995.^2)[28]L. 148/1994, 4. gr.^3)[29]L. 140/1996, 12. gr.
 
                                     38. gr.
         Nú skortir sjóðinn reiðufé til að standa við skuldbindingar sínar.
@@ -563,7 +570,7 @@
         Með einstaklingsbundnar upplýsingar, sem Atvinnuleysistryggingasjóði
    eru látnar í té samkvæmt þessari grein, skal farið sem trúnaðarmál.]^1)
 
-   ^1)[28]L. 148/1994, 5. gr.
+   ^1)[30]L. 148/1994, 5. gr.
 
                                     40. gr.
         Atvinnuleysistryggingasjóður skal tryggja launafólki fyrirtækja, sem
@@ -589,19 +596,20 @@
    í atvinnuleit, atvinnuleysisbætur, enda endurgreiði sú stofnun sjóðnum þær
    fjárhæðir sem þannig eru inntar af hendi.]^1)
 
-   ^1)[29]L. 116/1993, 30. gr.
+   ^1)[31]L. 116/1993, 30. gr.
 
                                   [41. gr. b.
         Heimilt er að birta sem reglugerðir reglur Evrópusambandsins um
    atvinnuleysisbætur, enda eigi ákvæði þeirra stoð í lögum þessum.]^1)
 
-   ^1)[30]L. 45/1995, 13. gr.
+   ^1)[32]L. 45/1995, 13. gr.
 
                                     42. gr.
         Ráðherra skal að tillögum sjóðsstjórnar setja nánari ákvæði um
    framkvæmd þessara laga.^1)
 
-   ^1)Rg. 221/1973 (úthlutun bóta vegna atvinnuleysis).
+   ^1)Rg. 221/1973 (úthlutun bóta vegna atvinnuleysis). Rg. 524/1996 (um
+   greiðslu atvinnuleysisbóta).
 
                             Ákvæði til bráðabirgða.
                                        I.
@@ -622,19 +630,19 @@
    mánaða tímabili sambærilega uppbót og kjarasamningar aðila
    vinnumarkaðarins gera ráð fyrir.]^1)
 
-   ^1)[31]L. 148/1994, 6. gr.
+   ^1)[33]L. 148/1994, 6. gr.
 
                                        V.
         [Í samræmi við 5. mgr. 22. gr. skal stjórn
-   Atvinnuleysistryggingasjóðs heimilt á árinu 1996, þrátt fyrir ákvæði 37.
+   Atvinnuleysistryggingasjóðs heimilt á árinu 1997, þrátt fyrir ákvæði 37.
    gr., að gera tillögu til að styrkja sérstök verkefni á vegum sveitarfélaga
-   til eflingar atvinnulífi, enda verði dregið samsvarandi úr greiðslu
+   til eflingar atvinnulífi, enda verði dregið samsvarandi úr greiðslum
    atvinnuleysisbóta á viðkomandi stað. Úthlutun styrkja skal vera í samræmi
    við reglur sem ráðherra setur að fenginni umsögn Sambands íslenskra
    sveitarfélaga. Tillögur sjóðstjórnar um styrkveitingu skulu staðfestar af
    ráðherra.]^1)
 
-   ^1)[32]L. 144/1995, 27. gr.
+   ^1)[34]L. 140/1996, 13. gr.
 
                                       [VI.
         Bandalag háskólamanna-BHMR, Bandalag starfsmanna ríkis og bæja,
@@ -644,7 +652,7 @@
    stjórninni þar til ný stjórn verður skipuð eftir næstu
    alþingiskosningar.]^1)
 
-   ^1)[33]L. 45/1995, brbákv. I.
+   ^1)[35]L. 45/1995, brbákv. I.
 
                                      [VII.
         Á árunum 1995 og 1996 er Atvinnuleysistryggingasjóði heimilt að
@@ -654,7 +662,7 @@
    að fengnum tillögum stjórnar Atvinnuleysistryggingasjóðs, skal setja
    nánari reglur um uppbótina.]^1)
 
-   ^1)[34]L. 45/1995, brbákv. II.
+   ^1)[36]L. 45/1995, brbákv. II.
 
 References
 
@@ -670,26 +678,28 @@ References
    9. file:///altext/stjt/1995.045.html
   10. file:///altext/stjt/1993.127.html
   11. file:///altext/stjt/1993.127.html
-  12. file:///altext/stjt/1995.144.html
-  13. file:///altext/stjt/1993.127.html
-  14. file:///altext/stjt/1995.045.html
-  15. file:///altext/stjt/1993.127.html
-  16. file:///altext/stjt/1995.045.html
+  12. file:///altext/stjt/1996.140.html
+  13. file:///altext/stjt/1995.144.html
+  14. file:///altext/stjt/1993.127.html
+  15. file:///altext/stjt/1995.045.html
+  16. file:///altext/stjt/1993.127.html
   17. file:///altext/stjt/1995.045.html
-  18. file:///altext/stjt/1993.127.html
-  19. file://1985018.html#g18
-  20. file:///altext/stjt/1995.045.html
+  18. file:///altext/stjt/1995.045.html
+  19. file:///altext/stjt/1993.127.html
+  20. file://1985018.html#g18
   21. file:///altext/stjt/1995.045.html
   22. file:///altext/stjt/1995.045.html
-  23. file:///altext/stjt/1993.127.html
-  24. file:///altext/stjt/1995.045.html
+  23. file:///altext/stjt/1995.045.html
+  24. file:///altext/stjt/1993.127.html
   25. file:///altext/stjt/1995.045.html
-  26. file:///altext/stjt/1993.127.html
-  27. file:///altext/stjt/1994.148.html
+  26. file:///altext/stjt/1995.045.html
+  27. file:///altext/stjt/1993.127.html
   28. file:///altext/stjt/1994.148.html
-  29. file:///altext/stjt/1993.116.html
-  30. file:///altext/stjt/1995.045.html
-  31. file:///altext/stjt/1994.148.html
-  32. file:///altext/stjt/1995.144.html
-  33. file:///altext/stjt/1995.045.html
-  34. file:///altext/stjt/1995.045.html
+  29. file:///altext/stjt/1996.140.html
+  30. file:///altext/stjt/1994.148.html
+  31. file:///altext/stjt/1993.116.html
+  32. file:///altext/stjt/1995.045.html
+  33. file:///altext/stjt/1994.148.html
+  34. file:///altext/stjt/1996.140.html
+  35. file:///altext/stjt/1995.045.html
+  36. file:///altext/stjt/1995.045.html

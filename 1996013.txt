@@ -539,7 +539,7 @@
         Íslands eigi síðar en viku fyrir upphaf sölu ásamt upplýsingum um öll
                     helstu einkenni útboðsins í samræmi við reglur sem stjórn
             Verðbréfaþingsins setur um gerð útboðsgagna og aðdraganda útboðs.
-                Seðlabanki Íslands getur sett nánari reglur um fyrsta söludag
+             Seðlabanki Íslands getur sett nánari reglur^1) um fyrsta söludag
         einstakra almennra útboða í því skyni að draga úr sveiflum í framboði
                                        nýrra verðbréfa á verðbréfamarkaðinum.
                 Við lok sölu eða í lok hvers ársfjórðungs, sé hann fyrr, skal
@@ -550,10 +550,12 @@
          útboðs. Verðbréfaþingið skal birta reglulega upplýsingar um verðbréf
                                                       samkvæmt þessari grein.
 
+   ^1)Rg. 253/1996.
+
                                     21. gr.
         Fyrirtæki í verðbréfaþjónustu skal vegna eigin viðskipta með verðbréf
-      sem því eru falin til sölu og vegna viðskipta eigenda þess, stjórnenda,
-                         starfsmanna og maka þeirra gæta eftirtalinna atriða:
+   sem því eru falin til sölu og vegna viðskipta eigenda þess, stjórnenda,
+   starfsmanna og maka þeirra gæta eftirtalinna atriða:
 
    1.
            að ýtrustu hagsmuna ótengdra viðskiptavina sé gætt,
@@ -565,56 +567,58 @@
            að stjórn fyrirtækisins fái kerfisbundnar upplýsingar um
            viðskiptin og staðfesti þau.
 
-              Fyrirtæki í verðbréfaþjónustu skulu setja sér verklagsreglur um
-          viðskipti skv. 1. mgr. og skulu þær staðfestar af bankaeftirlitinu.
+        Fyrirtæki í verðbréfaþjónustu skulu setja sér verklagsreglur um
+   viðskipti skv. 1. mgr. og skulu þær staðfestar af bankaeftirlitinu.
 
                                     22. gr.
         Fyrirtæki í verðbréfaþjónustu geta veitt viðskiptaaðila lán og gengið
    í ábyrgðir vegna verðbréfaviðskipta sem þeim er heimilt að annast samkvæmt
-                                                                lögum þessum.
-            Heildarskuldbindingar fyrirtækja í verðbréfaþjónustu skv. 1. mgr.
-     skulu vera innan þeirra marka sem um getur í reglum er ráðherra setur að
-   fengnum tillögum bankaeftirlitsins um hámark lána og ábyrgða til einstakra
-                               viðskiptamanna eða fjárhagslega tengdra aðila.
+   lögum þessum.
+        Heildarskuldbindingar fyrirtækja í verðbréfaþjónustu skv. 1. mgr.
+   skulu vera innan þeirra marka sem um getur í reglum^1) er ráðherra setur
+   að fengnum tillögum bankaeftirlitsins um hámark lána og ábyrgða til
+   einstakra viðskiptamanna eða fjárhagslega tengdra aðila.
+
+   ^1)Rg. 571/1996.
 
                                     23. gr.
-                  Fyrirtæki í verðbréfaþjónustu er því aðeins heimilt að vera
-    meðeigandi eða þátttakandi í annarri atvinnustarfsemi að slík þátttaka sé
-        í eðlilegum tengslum við starfsemi fyrirtækisins og hafi ekki áhrif á
-                                       óhlutdrægni þess, sbr. 1. mgr. 15. gr.
+        Fyrirtæki í verðbréfaþjónustu er því aðeins heimilt að vera
+   meðeigandi eða þátttakandi í annarri atvinnustarfsemi að slík þátttaka sé
+   í eðlilegum tengslum við starfsemi fyrirtækisins og hafi ekki áhrif á
+   óhlutdrægni þess, sbr. 1. mgr. 15. gr.
 
                                     24. gr.
-         Framkvæmdastjóra fyrirtækis í verðbréfaþjónustu er óheimilt að sitja
-      í stjórn atvinnufyrirtækja eða taka þátt í atvinnurekstri að öðru leyti
-     nema að fengnu leyfi stjórnar. Eignarhlutur í fyrirtæki telst þátttaka í
-      atvinnurekstri, nema um sé að ræða óverulegan hlut sem ekki veitir bein
-                                                       áhrif á stjórnun þess.
-           Um heimildir annarra starfsmanna fyrirtækisins varðandi þau atriði
-     sem í 1. mgr. greinir fer eftir reglum sem stjórn fyrirtækisins setur og
-                                                  bankaeftirlitið staðfestir.
+        Framkvæmdastjóra fyrirtækis í verðbréfaþjónustu er óheimilt að sitja
+   í stjórn atvinnufyrirtækja eða taka þátt í atvinnurekstri að öðru leyti
+   nema að fengnu leyfi stjórnar. Eignarhlutur í fyrirtæki telst þátttaka í
+   atvinnurekstri, nema um sé að ræða óverulegan hlut sem ekki veitir bein
+   áhrif á stjórnun þess.
+        Um heimildir annarra starfsmanna fyrirtækisins varðandi þau atriði
+   sem í 1. mgr. greinir fer eftir reglum sem stjórn fyrirtækisins setur og
+   bankaeftirlitið staðfestir.
 
                                     25. gr.
-           Verðbréfafyrirtæki skulu undanþegin stimpilgjöldum á lánum sem þau
-                                                                        taka.
+        Verðbréfafyrirtæki skulu undanþegin stimpilgjöldum á lánum sem þau
+   taka.
 
                                    IV. kafli.
                           Meðferð trúnaðarupplýsinga.
                                     26. gr.
-             Ákvæði þessa kafla taka til verðbréfa sem eru skráð á skipulegum
-                                                            verðbréfamarkaði.
-                  Með trúnaðarupplýsingum er átt við upplýsingar um útgefanda
-        verðbréfa, verðbréfin sjálf eða önnur atriði sem ekki hafa verið gerð
-        opinber en eru líkleg til að hafa áhrif á markaðsverð verðbréfanna ef
-    opinber væru. Upplýsingar teljast opinberar þegar þeim hefur verið miðlað
+        Ákvæði þessa kafla taka til verðbréfa sem eru skráð á skipulegum
+   verðbréfamarkaði.
+        Með trúnaðarupplýsingum er átt við upplýsingar um útgefanda
+   verðbréfa, verðbréfin sjálf eða önnur atriði sem ekki hafa verið gerð
+   opinber en eru líkleg til að hafa áhrif á markaðsverð verðbréfanna ef
+   opinber væru. Upplýsingar teljast opinberar þegar þeim hefur verið miðlað
    á verðbréfamarkaðinum með almennum og viðurkenndum hætti. Tilkynningar til
-       Verðbréfaþings Íslands teljast opinberar þegar þeim hefur verið miðlað
-                                   þangað, sbr. lög um Verðbréfaþing Íslands.
+   Verðbréfaþings Íslands teljast opinberar þegar þeim hefur verið miðlað
+   þangað, sbr. lög um Verðbréfaþing Íslands.
 
                                     27. gr.
-          Aðila, sem býr yfir eða hefur aðgang að trúnaðarupplýsingum skv. 2.
+        Aðila, sem býr yfir eða hefur aðgang að trúnaðarupplýsingum skv. 2.
    mgr. 26. gr. vegna eignaraðildar, aðildar að stjórn, rekstri eða eftirliti
-     á vegum útgefanda verðbréfa eða vegna starfs síns, stöðu eða skyldna, er
-                                                                 óheimilt að:
+   á vegum útgefanda verðbréfa eða vegna starfs síns, stöðu eða skyldna, er
+   óheimilt að:
 
    1.
            nýta sér upplýsingarnar, beint eða óbeint, til öflunar eða
@@ -628,49 +632,49 @@
            verðbréfa eða ráðstafa þeim eða hvetja að öðru leyti til viðskipta
            með verðbréfin.
 
-           Ákvæði 1. mgr. á ekki við um viðskipti fullvalda ríkis, seðlabanka
+        Ákvæði 1. mgr. á ekki við um viðskipti fullvalda ríkis, seðlabanka
    þess eða aðila sem annast viðskipti fyrir þeirra hönd, enda séu viðskiptin
-           liður í stefnu hlutaðeigandi ríkis í peningamálum, gengismálum eða
-                                                                   lánasýslu.
+   liður í stefnu hlutaðeigandi ríkis í peningamálum, gengismálum eða
+   lánasýslu.
 
                                     28. gr.
         Öðrum aðilum en um getur í 1. mgr. 27. gr., sem hlotið hafa vitneskju
-       um trúnaðarupplýsingar, er óheimilt að nýta þær með þeim hætti sem þar
+   um trúnaðarupplýsingar, er óheimilt að nýta þær með þeim hætti sem þar
    segir, enda hafi þeir vitað eða mátt vita hvers eðlis upplýsingarnar voru.
 
                                     29. gr.
-              Ákvæði 27. og 28. gr. ná einnig til lögaðila og taka til þeirra
-         einstaklinga sem taka þátt í ákvörðun um að fara með viðskipti fyrir
-                                                         reikning lögaðilans.
+        Ákvæði 27. og 28. gr. ná einnig til lögaðila og taka til þeirra
+   einstaklinga sem taka þátt í ákvörðun um að fara með viðskipti fyrir
+   reikning lögaðilans.
 
                                     30. gr.
         Óheimilt er einstaklingum eða lögaðilum að taka þátt í, stuðla að eða
-    hvetja til viðskipta með verðbréf eða annarra aðgerða í því skyni að gefa
-      ranga mynd af umfangi viðskipta með tiltekin verðbréf eða hafa óeðlileg
-                       eða óhæfileg áhrif á verðmyndun í verðbréfaviðskiptum.
+   hvetja til viðskipta með verðbréf eða annarra aðgerða í því skyni að gefa
+   ranga mynd af umfangi viðskipta með tiltekin verðbréf eða hafa óeðlileg
+   eða óhæfileg áhrif á verðmyndun í verðbréfaviðskiptum.
 
                                     31. gr.
-          Útgefendur verðbréfa skulu setja eigin reglur í því skyni að hindra
-      að trúnaðarupplýsingar berist til annarra en þeirra sem þarfnast þeirra
-                                                          vegna starfa sinna.
-           Stjórnvöld og aðrir aðilar, sem fá reglulega trúnaðarupplýsingar í
-                         starfsemi sinni, skulu setja sér reglur skv. 1. mgr.
+        Útgefendur verðbréfa skulu setja eigin reglur í því skyni að hindra
+   að trúnaðarupplýsingar berist til annarra en þeirra sem þarfnast þeirra
+   vegna starfa sinna.
+        Stjórnvöld og aðrir aðilar, sem fá reglulega trúnaðarupplýsingar í
+   starfsemi sinni, skulu setja sér reglur skv. 1. mgr.
 
                                    V. kafli.
                     Eigið fé fyrirtækja í verðbréfaþjónustu.
                                     32. gr.
-           Eigið fé fyrirtækis í verðbréfaþjónustu, eins og það er skilgreint
-      skv. 2. mgr., skal á hverjum tíma eigi nema lægri fjárhæð en sem svarar
-            til 8% af áhættugrunni. Áhættugrunnur skal metinn með tilliti til
-    heildareigna, liða utan efnahagsreiknings, gengisáhættu og áhættu annarra
-      liða með markaðsáhættu samkvæmt nánari reglum um mat á áhættugrunni til
-          útreiknings á eiginfjárhlutfalli fyrirtækja í verðbréfaþjónustu sem
+        Eigið fé fyrirtækis í verðbréfaþjónustu, eins og það er skilgreint
+   skv. 2. mgr., skal á hverjum tíma eigi nema lægri fjárhæð en sem svarar
+   til 8% af áhættugrunni. Áhættugrunnur skal metinn með tilliti til
+   heildareigna, liða utan efnahagsreiknings, gengisáhættu og áhættu annarra
+   liða með markaðsáhættu samkvæmt nánari reglum^1) um mat á áhættugrunni til
+   útreiknings á eiginfjárhlutfalli fyrirtækja í verðbréfaþjónustu sem
    Seðlabanki Íslands setur. Eiginfjárkrafan skv. 1. málsl. skal einnig gilda
-         um samstæðureikning, nema bankaeftirlitið heimili undanþágu frá því.
-               Við útreikning á eiginfjárhlutfalli skv. 1. mgr. skal eigið fé
-              samsett af þremur þáttum, eiginfjárþætti A, eiginfjárþætti B og
+   um samstæðureikning, nema bankaeftirlitið heimili undanþágu frá því.
+        Við útreikning á eiginfjárhlutfalli skv. 1. mgr. skal eigið fé
+   samsett af þremur þáttum, eiginfjárþætti A, eiginfjárþætti B og
    eiginfjárþætti C, og frádráttarliðum skv. 33. gr. Eftirfarandi takmarkanir
-                                            gilda um einstaka eiginfjárþætti:
+   gilda um einstaka eiginfjárþætti:
 
    1.
            Eiginfjárþáttur A skal nema að lágmarki helmingi eigin fjár fyrir
@@ -682,7 +686,7 @@
            má eiginfjárþáttur C hæst nema 4,8% af reiknuðum áhættugrunni
            fyrirtækisins vegna markaðsáhættu liða í veltubók og gengisáhættu.
 
-                                                Eiginfjárþáttur A telst vera:
+        Eiginfjárþáttur A telst vera:
 
    1.
            Innborgað hlutafé.
@@ -697,7 +701,7 @@
            skattskuldbindingar sem rýra möguleika fyrirtækisins til að mæta
            tapi.
 
-                                                Eiginfjárþáttur B telst vera:
+        Eiginfjárþáttur B telst vera:
 
    1.
            Víkjandi lán sem fyrirtæki í verðbréfaþjónustu tekur gegn útgáfu
@@ -714,50 +718,52 @@
            Endurmatsreikningur, annar en gert er ráð fyrir í eiginfjárþætti
            A.
 
-                Eiginfjárþáttur C telst vera víkjandi lán til skamms tíma sem
-                   fyrirtæki í verðbréfaþjónustu tekur gegn útgáfu sérstakrar
-       skuldaviðurkenningar þar sem skýrt er kveðið á um að endurgreiðslutími
-          lánsins sé eigi skemmri en tvö ár og að við gjaldþrot hlutaðeigandi
-    fyrirtækis eða slit þess fáist það endurgreitt á eftir öllum öðrum kröfum
-     á hendur fyrirtækinu en endurgreiðslu hlutafjár. Jafnframt skal kveðið á
-             um að óheimilt sé að greiða af láninu eða greiða af því vexti ef
-             eiginfjárhlutfall hlutaðeigandi fyrirtækis er lægra en 8% eða ef
-                    endurgreiðsla höfuðstóls eða greiðsla vaxta veldur því að
-    eiginfjárhlutfallið fer niður fyrir 8%. Tilkynna skal bankaeftirlitinu ef
-     slík greiðsla veldur því að eiginfjárhlutfallið fer niður fyrir 10%. Við
-    mat á eiginfjárþætti C getur bankaeftirlitið jafnframt heimilað einstökum
-       fyrirtækjum að tekið sé tillit til hagnaðar af veltubókarviðskiptum að
+        Eiginfjárþáttur C telst vera víkjandi lán til skamms tíma sem
+   fyrirtæki í verðbréfaþjónustu tekur gegn útgáfu sérstakrar
+   skuldaviðurkenningar þar sem skýrt er kveðið á um að endurgreiðslutími
+   lánsins sé eigi skemmri en tvö ár og að við gjaldþrot hlutaðeigandi
+   fyrirtækis eða slit þess fáist það endurgreitt á eftir öllum öðrum kröfum
+   á hendur fyrirtækinu en endurgreiðslu hlutafjár. Jafnframt skal kveðið á
+   um að óheimilt sé að greiða af láninu eða greiða af því vexti ef
+   eiginfjárhlutfall hlutaðeigandi fyrirtækis er lægra en 8% eða ef
+   endurgreiðsla höfuðstóls eða greiðsla vaxta veldur því að
+   eiginfjárhlutfallið fer niður fyrir 8%. Tilkynna skal bankaeftirlitinu ef
+   slík greiðsla veldur því að eiginfjárhlutfallið fer niður fyrir 10%. Við
+   mat á eiginfjárþætti C getur bankaeftirlitið jafnframt heimilað einstökum
+   fyrirtækjum að tekið sé tillit til hagnaðar af veltubókarviðskiptum að
    frádreginni fyrirsjáanlegri gjaldfærslu eða arði og að frádregnu nettótapi
-              af annarri starfsemi, enda sé engin þessara fjárhæða meðtalin í
-                                                            eiginfjárþætti A.
-               Bankaeftirlitið getur veitt heimild til að flýta endurgreiðslu
-            víkjandi lána æski lánveitandi þess, enda hafi slíkt ekki áhrif á
-                           viðunandi eiginfjárstöðu hlutaðeigandi fyrirtækis.
-                     Þrátt fyrir ákvæði 1.5. mgr. skal eigið fé fyrirtækis í
-         verðbréfaþjónustu aldrei nema lægri fjárhæð en sem svarar til 25% af
-          föstum rekstrarkostnaði síðasta reikningsárs. Bankaeftirlitið getur
-    heimilað undanþágu frá þessari kröfu ef grundvallarbreyting hefur orðið á
-               starfsemi félagsins milli ára. Á fyrsta starfsári fyrirtækis í
+   af annarri starfsemi, enda sé engin þessara fjárhæða meðtalin í
+   eiginfjárþætti A.
+        Bankaeftirlitið getur veitt heimild til að flýta endurgreiðslu
+   víkjandi lána æski lánveitandi þess, enda hafi slíkt ekki áhrif á
+   viðunandi eiginfjárstöðu hlutaðeigandi fyrirtækis.
+        Þrátt fyrir ákvæði 1.5. mgr. skal eigið fé fyrirtækis í
+   verðbréfaþjónustu aldrei nema lægri fjárhæð en sem svarar til 25% af
+   föstum rekstrarkostnaði síðasta reikningsárs. Bankaeftirlitið getur
+   heimilað undanþágu frá þessari kröfu ef grundvallarbreyting hefur orðið á
+   starfsemi félagsins milli ára. Á fyrsta starfsári fyrirtækis í
    verðbréfaþjónustu skal eigið fé þess ekki nema lægri fjárhæð en sem svarar
-     til 25% af föstum rekstrarkostnaði samkvæmt rekstraráætlun starfsársins.
-                     Bankaeftirlitið getur krafist þess að gerð sé breyting á
-        rekstraráætluninni ef það telur að hún gefi ekki rétta mynd af þeirri
-                                                 starfsemi sem fyrirhuguð er.
-          Fyrirtæki í verðbréfaþjónustu skal á hverjum tíma hafa yfir að ráða
+   til 25% af föstum rekstrarkostnaði samkvæmt rekstraráætlun starfsársins.
+   Bankaeftirlitið getur krafist þess að gerð sé breyting á
+   rekstraráætluninni ef það telur að hún gefi ekki rétta mynd af þeirri
+   starfsemi sem fyrirhuguð er.
+        Fyrirtæki í verðbréfaþjónustu skal á hverjum tíma hafa yfir að ráða
    tryggu eftirlitskerfi með áhættum, þar með talinni vaxtaáhættu, í tengslum
-     við öll viðskipti sín. Bankaeftirlitið getur sett leiðbeinandi reglur um
-              eftirlitskerfi vegna áhættuþátta í starfsemi slíkra fyrirtækja.
+   við öll viðskipti sín. Bankaeftirlitið getur sett leiðbeinandi reglur um
+   eftirlitskerfi vegna áhættuþátta í starfsemi slíkra fyrirtækja.
         Ráðherra er heimilt að fengnum tillögum bankaeftirlitsins að ákveða í
    reglugerð að aðrir liðir en greindir eru í 3.5. mgr. teljist með eigin fé
-                                              fyrirtækis í verðbréfaþjónustu.
+   fyrirtækis í verðbréfaþjónustu.
+
+   ^1)Rg. 348/1996.
 
                                     33. gr.
-                 Frá eigin fé skv. 2. mgr. 32. gr. skal draga bókfært virði á
-     eignarhlutum fyrirtækis í verðbréfaþjónustu í félögum og fyrirtækjum sem
-           það kann að eignast með heimild í 23. gr. Jafnframt skal draga frá
-    víkjandi lán sem fyrirtæki í verðbréfaþjónustu hefur veitt slíkum félögum
-    eða fyrirtækjum. Frádráttur skal vera í samræmi við eftirfarandi ákvæði í
-                                                                1.3. tölul.:
+        Frá eigin fé skv. 2. mgr. 32. gr. skal draga bókfært virði á
+   eignarhlutum fyrirtækis í verðbréfaþjónustu í félögum og fyrirtækjum sem
+   það kann að eignast með heimild í 23. gr. Jafnframt skal draga frá
+   víkjandi lán sem fyrirtæki í verðbréfaþjónustu hefur veitt slíkum félögum
+   eða fyrirtækjum. Frádráttur skal vera í samræmi við eftirfarandi ákvæði í
+   1.3. tölul.:
 
    1.
            Eignarhlutur í félögum þar sem eignarhlutir hlutaðeigandi
@@ -779,98 +785,98 @@
                          Ársreikningar og endurskoðun.
                                     34. gr.
         Stjórn og framkvæmdastjóri fyrirtækis í verðbréfaþjónustu skulu semja
-             ársreikning fyrir hvert reikningsár í samræmi við ákvæði laga og
-                samþykkta. Ársreikningur skal hafa að geyma rekstrarreikning,
-    efnahagsreikning, fjárstreymisyfirlit og skýringar. Enn fremur skal semja
-        skýrslu stjórnar. Ársreikningur og skýrsla stjórnar mynda eina heild.
-                                   Reikningsár fyrirtækjanna er almanaksárið.
-         Ársreikningur skal undirritaður af stjórn og framkvæmdastjóra. Telji
+   ársreikning fyrir hvert reikningsár í samræmi við ákvæði laga og
+   samþykkta. Ársreikningur skal hafa að geyma rekstrarreikning,
+   efnahagsreikning, fjárstreymisyfirlit og skýringar. Enn fremur skal semja
+   skýrslu stjórnar. Ársreikningur og skýrsla stjórnar mynda eina heild.
+   Reikningsár fyrirtækjanna er almanaksárið.
+        Ársreikningur skal undirritaður af stjórn og framkvæmdastjóra. Telji
    stjórnarmaður eða framkvæmdastjóri að ekki skuli samþykkja ársreikning eða
-     hefur mótbárur fram að færa gegn ársreikningi skal hann gera grein fyrir
-                                                          því í áritun sinni.
-         Framsetning ársreiknings skal vera með skýrum hætti og í samræmi við
-                   ákvæði laga þessara og reglna settra samkvæmt þeim og góða
-          reikningsskilavenju. Ársreikningur skal gefa glögga mynd af eignum,
-                      skuldum, fjárhagsstöðu og rekstrarafkomu fyrirtækisins.
-                     Í skýrslu stjórnar skal koma fram yfirlit yfir starfsemi
-     fyrirtækisins á árinu, svo og upplýsingar um atriði sem mikilvæg eru við
-          mat á fjárhagslegri stöðu hlutaðeigandi fyrirtækis og afkomu þess á
-                            rekstrarárinu og ekki koma fram í ársreikningnum.
-          Bankaeftirliti Seðlabanka Íslands er heimilt að setja nánari reglur
-                 um gerð ársreiknings að höfðu samráði við reikningsskilaráð.
+   hefur mótbárur fram að færa gegn ársreikningi skal hann gera grein fyrir
+   því í áritun sinni.
+        Framsetning ársreiknings skal vera með skýrum hætti og í samræmi við
+   ákvæði laga þessara og reglna settra samkvæmt þeim og góða
+   reikningsskilavenju. Ársreikningur skal gefa glögga mynd af eignum,
+   skuldum, fjárhagsstöðu og rekstrarafkomu fyrirtækisins.
+        Í skýrslu stjórnar skal koma fram yfirlit yfir starfsemi
+   fyrirtækisins á árinu, svo og upplýsingar um atriði sem mikilvæg eru við
+   mat á fjárhagslegri stöðu hlutaðeigandi fyrirtækis og afkomu þess á
+   rekstrarárinu og ekki koma fram í ársreikningnum.
+        Bankaeftirliti Seðlabanka Íslands er heimilt að setja nánari reglur
+   um gerð ársreiknings að höfðu samráði við reikningsskilaráð.
 
                                     35. gr.
-               Endurskoðandi skal árita ársreikning og greina frá niðurstöðum
+        Endurskoðandi skal árita ársreikning og greina frá niðurstöðum
    endurskoðunarinnar. Hann skal gefa yfirlýsingu um að ársreikningurinn hafi
-        verið endurskoðaður og að hann hafi verið saminn í samræmi við ákvæði
-        laga, reglna og samþykkta. Endurskoðandi skal láta í ljós álit sitt á
-                      ársreikningnum og greina frá niðurstöðum að öðru leyti.
-           Telji endurskoðandi að í ársreikningi séu ekki þær upplýsingar sem
-            þar eiga að koma fram skal hann geta þess í áritun sinni og veita
-     viðbótarupplýsingar ef þess er kostur. Ef skýrsla stjórnar hefur ekki að
-             geyma þær upplýsingar sem ber að veita eða er ekki í samræmi við
+   verið endurskoðaður og að hann hafi verið saminn í samræmi við ákvæði
+   laga, reglna og samþykkta. Endurskoðandi skal láta í ljós álit sitt á
+   ársreikningnum og greina frá niðurstöðum að öðru leyti.
+        Telji endurskoðandi að í ársreikningi séu ekki þær upplýsingar sem
+   þar eiga að koma fram skal hann geta þess í áritun sinni og veita
+   viðbótarupplýsingar ef þess er kostur. Ef skýrsla stjórnar hefur ekki að
+   geyma þær upplýsingar sem ber að veita eða er ekki í samræmi við
    ársreikning skal endurskoðandi vekja athygli á því í áritun sinni. Að öðru
-    leyti getur endurskoðandi greint frá þeim atriðum í áritun sinni sem hann
-                                  telur eðlilegt að fram komi í ársreikningi.
-              Verði endurskoðandi var við slíka ágalla í rekstri fyrirtækis í
-     verðbréfaþjónustu að reikningar verði ekki áritaðir eða athugasemdir við
-          þá gerðar, ágalla á innra eftirliti eða önnur atriði sem veikt geta
-            fjárhagsstöðu fyrirtækisins til áframhaldandi reksturs, svo og ef
-      endurskoðandi hefur ástæðu til að ætla að lög og reglugerðir eða reglur
-    sem gilda um fyrirtækið hafi verið brotnar, skal endurskoðandi þegar gera
-      stjórn þess og bankaeftirliti viðvart. Þetta á einnig við um sambærileg
-     atriði sem endurskoðandi fyrirtækis í verðbréfaþjónustu fær vitneskju um
-         og varða fyrirtæki í nánum tengslum við það. Ákvæði þessarar greinar
-          brjóta ekki í bága við þagnarskyldu endurskoðenda skv. 56. gr. laga
-                                            þessara eða ákvæðum annarra laga.
+   leyti getur endurskoðandi greint frá þeim atriðum í áritun sinni sem hann
+   telur eðlilegt að fram komi í ársreikningi.
+        Verði endurskoðandi var við slíka ágalla í rekstri fyrirtækis í
+   verðbréfaþjónustu að reikningar verði ekki áritaðir eða athugasemdir við
+   þá gerðar, ágalla á innra eftirliti eða önnur atriði sem veikt geta
+   fjárhagsstöðu fyrirtækisins til áframhaldandi reksturs, svo og ef
+   endurskoðandi hefur ástæðu til að ætla að lög og reglugerðir eða reglur
+   sem gilda um fyrirtækið hafi verið brotnar, skal endurskoðandi þegar gera
+   stjórn þess og bankaeftirliti viðvart. Þetta á einnig við um sambærileg
+   atriði sem endurskoðandi fyrirtækis í verðbréfaþjónustu fær vitneskju um
+   og varða fyrirtæki í nánum tengslum við það. Ákvæði þessarar greinar
+   brjóta ekki í bága við þagnarskyldu endurskoðenda skv. 56. gr. laga
+   þessara eða ákvæðum annarra laga.
 
                                     36. gr.
-             Endurskoðaður ársreikningur fyrirtækis í verðbréfaþjónustu ásamt
-             skýrslu stjórnar skal sendur bankaeftirlitinu innan tíu daga frá
-      undirritun stjórnar og framkvæmdastjóra en eigi síðar en þremur mánuðum
-     eftir lok reikningsárs. Jafnframt er fyrirtæki í verðbréfaþjónustu skylt
-     að láta Seðlabanka Íslands í té þær upplýsingar sem hann þarf á að halda
-              vegna hagskýrslugerðar, sbr. ákvæði laga um Seðlabanka Íslands.
-             Upplýsingar þessar skulu vera í aðgengilegu formi og taka mið af
-                     upplýsingakerfi viðkomandi fyrirtækis eins og kostur er.
+        Endurskoðaður ársreikningur fyrirtækis í verðbréfaþjónustu ásamt
+   skýrslu stjórnar skal sendur bankaeftirlitinu innan tíu daga frá
+   undirritun stjórnar og framkvæmdastjóra en eigi síðar en þremur mánuðum
+   eftir lok reikningsárs. Jafnframt er fyrirtæki í verðbréfaþjónustu skylt
+   að láta Seðlabanka Íslands í té þær upplýsingar sem hann þarf á að halda
+   vegna hagskýrslugerðar, sbr. ákvæði laga um Seðlabanka Íslands.
+   Upplýsingar þessar skulu vera í aðgengilegu formi og taka mið af
+   upplýsingakerfi viðkomandi fyrirtækis eins og kostur er.
 
                                     37. gr.
-              Hafi stjórn eða framkvæmdastjóri fyrirtækis í verðbréfaþjónustu
-    ástæðu til að ætla að eigið fé þess sé undir því lágmarki sem kveðið er á
-    um í 32. gr. ber þeim að tilkynna það bankaeftirlitinu. Sambærileg skylda
-      hvílir á endurskoðanda hlutaðeigandi fyrirtækis hafi hann ástæðu til að
-           ætla að stjórnendur þess hafi ekki rækt skyldu sína skv. 1. málsl.
-                                                        þessarar málsgreinar.
-          Ef bankaeftirlitinu berst tilkynning skv. 1. mgr. eða telur af öðru
-     tilefni ástæðu til að ætla að eigið fé fyrirtækis í verðbréfaþjónustu sé
-       undir því lágmarki sem kveðið er á um í 32. gr. skal það krefja stjórn
-      fyrirtækisins þegar í stað um reikningsuppgjör sem henni ber að afhenda
-                                                       innan hæfilegs frests.
-                   Komi fram í reikningsuppgjöri að hætti 2. mgr. að eigið fé
+        Hafi stjórn eða framkvæmdastjóri fyrirtækis í verðbréfaþjónustu
+   ástæðu til að ætla að eigið fé þess sé undir því lágmarki sem kveðið er á
+   um í 32. gr. ber þeim að tilkynna það bankaeftirlitinu. Sambærileg skylda
+   hvílir á endurskoðanda hlutaðeigandi fyrirtækis hafi hann ástæðu til að
+   ætla að stjórnendur þess hafi ekki rækt skyldu sína skv. 1. málsl.
+   þessarar málsgreinar.
+        Ef bankaeftirlitinu berst tilkynning skv. 1. mgr. eða telur af öðru
+   tilefni ástæðu til að ætla að eigið fé fyrirtækis í verðbréfaþjónustu sé
+   undir því lágmarki sem kveðið er á um í 32. gr. skal það krefja stjórn
+   fyrirtækisins þegar í stað um reikningsuppgjör sem henni ber að afhenda
+   innan hæfilegs frests.
+        Komi fram í reikningsuppgjöri að hætti 2. mgr. að eigið fé
    fyrirtækisins fullnægi ekki ákvæðum 32. gr. skal stjórn þess án tafar boða
-         til fundar hluthafa til ákvörðunar og afhenda síðan bankaeftirlitinu
-     greinargerð þar sem fram kemur til hverra ráðstafana hún hyggst grípa af
-       þessu tilefni. Skal bankaeftirlitið þegar afhenda ráðherra endurskoðað
+   til fundar hluthafa til ákvörðunar og afhenda síðan bankaeftirlitinu
+   greinargerð þar sem fram kemur til hverra ráðstafana hún hyggst grípa af
+   þessu tilefni. Skal bankaeftirlitið þegar afhenda ráðherra endurskoðað
    reikningsuppgjör og greinargerð stjórnar fyrirtækisins ásamt umsögn sinni.
-             Þegar ráðherra hafa borist gögn skv. 3. mgr. er honum heimilt að
-    veita hlutaðeigandi fyrirtæki frest í allt að sex mánuði til þess að auka
-         eigið fé að lágmarki skv. 32. gr. Séu til þess ríkar ástæður að mati
-    ráðherra er honum heimilt að framlengja þennan frest í allt að sex mánuði
-                                                                til viðbótar.
+        Þegar ráðherra hafa borist gögn skv. 3. mgr. er honum heimilt að
+   veita hlutaðeigandi fyrirtæki frest í allt að sex mánuði til þess að auka
+   eigið fé að lágmarki skv. 32. gr. Séu til þess ríkar ástæður að mati
+   ráðherra er honum heimilt að framlengja þennan frest í allt að sex mánuði
+   til viðbótar.
 
                                     38. gr.
-               Bankaeftirlitið getur látið framkvæma sérstaka endurskoðun hjá
-     fyrirtæki í verðbréfaþjónustu og ráðið til þess löggiltan endurskoðanda.
-             Bankaeftirlitinu er heimilt að láta hlutaðeigandi fyrirtæki bera
-                                            kostnaðinn af slíkri endurskoðun.
+        Bankaeftirlitið getur látið framkvæma sérstaka endurskoðun hjá
+   fyrirtæki í verðbréfaþjónustu og ráðið til þess löggiltan endurskoðanda.
+   Bankaeftirlitinu er heimilt að láta hlutaðeigandi fyrirtæki bera
+   kostnaðinn af slíkri endurskoðun.
 
                                   VII. kafli.
           Starfsemi innlendra fyrirtækja í verðbréfaþjónustu erlendis.
                                     39. gr.
-                   Fyrirtæki í verðbréfaþjónustu, sem hlotið hafa starfsleyfi
-       viðskiptaráðherra skv. 3. gr. og hyggjast starfrækja útibú í öðru ríki
-          innan Evrópska efnahagssvæðisins, skulu tilkynna það bankaeftirliti
-       Seðlabanka Íslands. Tilkynningu skulu fylgja eftirfarandi upplýsingar:
+        Fyrirtæki í verðbréfaþjónustu, sem hlotið hafa starfsleyfi
+   viðskiptaráðherra skv. 3. gr. og hyggjast starfrækja útibú í öðru ríki
+   innan Evrópska efnahagssvæðisins, skulu tilkynna það bankaeftirliti
+   Seðlabanka Íslands. Tilkynningu skulu fylgja eftirfarandi upplýsingar:
 
    1.
            í hvaða ríki fyrirhugað sé að stofna útibú,
@@ -881,64 +887,64 @@
    4.
            nöfn stjórnenda þess.
 
-         Eigi síðar en þremur mánuðum eftir að bankaeftirlitið hefur móttekið
-            upplýsingar skv. 1. mgr. skal það senda staðfestingu til lögbærra
-              yfirvalda gistiríkis á að fyrirhuguð starfsemi sé í samræmi við
-     starfsleyfi fyrirtækisins. Jafnframt skal bankaeftirlitið senda lögbærum
-          yfirvöldum gistiríkis nákvæmar upplýsingar um bótakerfi sem verndar
+        Eigi síðar en þremur mánuðum eftir að bankaeftirlitið hefur móttekið
+   upplýsingar skv. 1. mgr. skal það senda staðfestingu til lögbærra
+   yfirvalda gistiríkis á að fyrirhuguð starfsemi sé í samræmi við
+   starfsleyfi fyrirtækisins. Jafnframt skal bankaeftirlitið senda lögbærum
+   yfirvöldum gistiríkis nákvæmar upplýsingar um bótakerfi sem verndar
    viðskiptavini útibúsins. Hlutaðeigandi fyrirtæki skal samtímis tilkynnt að
-                                framangreindar upplýsingar hafi verið sendar.
-          Bankaeftirlitið getur hafnað beiðni um að senda upplýsingar skv. 2.
-         mgr. telji það ástæðu til að efast um að stjórnunarleg uppbygging og
-       fjárhagsstaða fyrirtækisins sé nægilega traust til að réttlæta stofnun
-      útibús skv. 1. mgr. Fyrirtækinu skal tilkynnt afstaða bankaeftirlitsins
-          svo fljótt sem auðið er og eigi síðar en þremur mánuðum frá móttöku
-                                                      upplýsinga skv. 1. mgr.
-              Fyrirtæki í verðbréfaþjónustu skal tilkynna bankaeftirlitinu og
+   framangreindar upplýsingar hafi verið sendar.
+        Bankaeftirlitið getur hafnað beiðni um að senda upplýsingar skv. 2.
+   mgr. telji það ástæðu til að efast um að stjórnunarleg uppbygging og
+   fjárhagsstaða fyrirtækisins sé nægilega traust til að réttlæta stofnun
+   útibús skv. 1. mgr. Fyrirtækinu skal tilkynnt afstaða bankaeftirlitsins
+   svo fljótt sem auðið er og eigi síðar en þremur mánuðum frá móttöku
+   upplýsinga skv. 1. mgr.
+        Fyrirtæki í verðbréfaþjónustu skal tilkynna bankaeftirlitinu og
    lögbærum yfirvöldum þess ríkis þar sem það starfrækir útibú um hverjar þær
-      breytingar sem verða kunna á áður veittum upplýsingum skv. 1. mgr. eigi
+   breytingar sem verða kunna á áður veittum upplýsingum skv. 1. mgr. eigi
    síðar en einum mánuði áður en fyrirhugaðar breytingar koma til framkvæmda.
 
                                     40. gr.
-          Hyggist fyrirtæki í verðbréfaþjónustu veita þjónustu samkvæmt lögum
-    þessum í öðru ríki innan Evrópska efnahagssvæðisins án þess að stofna þar
-       útibú skal tilkynna það bankaeftirlitinu. Í tilkynningu skal koma fram
-           hvaða ríki eigi í hlut og í hverju fyrirhuguð starfsemi sé fólgin.
-         Eigi síðar en einum mánuði frá því að bankaeftirlitið hefur móttekið
+        Hyggist fyrirtæki í verðbréfaþjónustu veita þjónustu samkvæmt lögum
+   þessum í öðru ríki innan Evrópska efnahagssvæðisins án þess að stofna þar
+   útibú skal tilkynna það bankaeftirlitinu. Í tilkynningu skal koma fram
+   hvaða ríki eigi í hlut og í hverju fyrirhuguð starfsemi sé fólgin.
+        Eigi síðar en einum mánuði frá því að bankaeftirlitið hefur móttekið
    tilkynningu skv. 1. mgr. framsendir það upplýsingar til lögbærra yfirvalda
-      í viðkomandi ríki ásamt staðfestingu á því að starfsleyfi fyrirtækisins
-                                               heimili fyrirhugaða starfsemi.
-            Breytingar á áður tilkynntum atriðum samkvæmt þessari grein skulu
-     tilkynntar bankaeftirlitinu og lögbærum yfirvöldum viðkomandi ríkis eigi
-                       síðar en einum mánuði áður en þær koma til framkvæmda.
+   í viðkomandi ríki ásamt staðfestingu á því að starfsleyfi fyrirtækisins
+   heimili fyrirhugaða starfsemi.
+        Breytingar á áður tilkynntum atriðum samkvæmt þessari grein skulu
+   tilkynntar bankaeftirlitinu og lögbærum yfirvöldum viðkomandi ríkis eigi
+   síðar en einum mánuði áður en þær koma til framkvæmda.
 
                                     41. gr.
-            Hyggist fyrirtæki í verðbréfaþjónustu hefja starfsemi í ríki utan
-      Evrópska efnahagssvæðisins skal það tilkynnt bankaeftirlitinu. Sé um að
+        Hyggist fyrirtæki í verðbréfaþjónustu hefja starfsemi í ríki utan
+   Evrópska efnahagssvæðisins skal það tilkynnt bankaeftirlitinu. Sé um að
    ræða stofnun útibús skulu fylgja tilkynningu upplýsingar skv. 1.4. tölul.
-      1. mgr. 39. gr. Sé um að ræða fyrirhugaða starfsemi án stofnunar útibús
-    skulu upplýsingar skv. 1. mgr. 40. gr. fylgja tilkynningu. Um málsmeðferð
+   1. mgr. 39. gr. Sé um að ræða fyrirhugaða starfsemi án stofnunar útibús
+   skulu upplýsingar skv. 1. mgr. 40. gr. fylgja tilkynningu. Um málsmeðferð
    að öðru leyti fer skv. 2.4. mgr. 39. gr. eða 2.3. mgr. 40. gr. eftir því
-                                                                   sem við á.
-              Bankaeftirlitinu er heimilt að óska frekari upplýsinga samkvæmt
-                                                               þessari grein.
+   sem við á.
+        Bankaeftirlitinu er heimilt að óska frekari upplýsinga samkvæmt
+   þessari grein.
 
                                     42. gr.
-            Ráðherra er heimilt að setja nánari reglur um starfsemi innlendra
-                                     fyrirtækja í verðbréfaþjónustu erlendis.
+        Ráðherra er heimilt að setja nánari reglur um starfsemi innlendra
+   fyrirtækja í verðbréfaþjónustu erlendis.
 
                                   VIII. kafli.
          Starfsemi erlendra fyrirtækja í verbréfaþjónustu hér á landi.
                                     43. gr.
-                  Erlend fyrirtæki í verðbréfaþjónustu, sem hafa staðfestu og
-     starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, geta stofnsett
-          útibú hér á landi tveimur mánuðum eftir að bankaeftirlit Seðlabanka
-        Íslands hefur fengið tilkynningu þess efnis frá lögbærum yfirvöldum í
-    heimaríki hlutaðeigandi fyrirtækis. Útibúi er heimilt að stunda hverja þá
-           starfsemi sem lög þessi taka til, enda sé hún fyrirtækinu heimil í
-                                                              heimaríki þess.
-         Bankaeftirlitið aflar upplýsinga frá lögbærum yfirvöldum í heimaríki
-                                                    erlenda fyrirtækisins um:
+        Erlend fyrirtæki í verðbréfaþjónustu, sem hafa staðfestu og
+   starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, geta stofnsett
+   útibú hér á landi tveimur mánuðum eftir að bankaeftirlit Seðlabanka
+   Íslands hefur fengið tilkynningu þess efnis frá lögbærum yfirvöldum í
+   heimaríki hlutaðeigandi fyrirtækis. Útibúi er heimilt að stunda hverja þá
+   starfsemi sem lög þessi taka til, enda sé hún fyrirtækinu heimil í
+   heimaríki þess.
+        Bankaeftirlitið aflar upplýsinga frá lögbærum yfirvöldum í heimaríki
+   erlenda fyrirtækisins um:
 
    1.
            lýsingu á skipulagi fyrirtækisins og fyrirhugaðri starfsemi þess
@@ -952,88 +958,88 @@
    5.
            bótakerfi sem ætlað er að vernda viðskiptamenn útibúsins.
 
-             Verði breytingar á áður tilkynntum upplýsingum skv. 2. mgr. skal
-     fyrirtækið tilkynna þær til bankaeftirlitsins eigi síðar en einum mánuði
-                                   áður en breytingarnar koma til framkvæmda.
-           Ákvæði laga um hlutafélög varðandi útibú erlendra hlutafélaga eiga
-                                               ekki við um útibú skv. 1. mgr.
+        Verði breytingar á áður tilkynntum upplýsingum skv. 2. mgr. skal
+   fyrirtækið tilkynna þær til bankaeftirlitsins eigi síðar en einum mánuði
+   áður en breytingarnar koma til framkvæmda.
+        Ákvæði laga um hlutafélög varðandi útibú erlendra hlutafélaga eiga
+   ekki við um útibú skv. 1. mgr.
 
                                     44. gr.
-               Erlendum fyrirtækjum í verðbréfaþjónustu sem hafa staðfestu og
-      starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, er heimilt að
+        Erlendum fyrirtækjum í verðbréfaþjónustu sem hafa staðfestu og
+   starfsleyfi í öðru ríki innan Evrópska efnahagssvæðisins, er heimilt að
    veita þjónustu samkvæmt lögum þessum hér á landi án stofnunar útibús þegar
-         bankaeftirlitið hefur fengið tilkynningu þar að lútandi frá lögbærum
-    yfirvöldum í heimaríki fyrirtækisins. Heimildir til að veita þjónustu hér
+   bankaeftirlitið hefur fengið tilkynningu þar að lútandi frá lögbærum
+   yfirvöldum í heimaríki fyrirtækisins. Heimildir til að veita þjónustu hér
    á landi samkvæmt þessu ákvæði verða þó aldrei víðtækari en starfsheimildir
-                                                 fyrirtækis í heimaríki þess.
-           Ráðherra er heimilt að setja nánari reglur um starfsemi fyrirtækja
-                                                       sem um getur í 1. mgr.
+   fyrirtækis í heimaríki þess.
+        Ráðherra er heimilt að setja nánari reglur um starfsemi fyrirtækja
+   sem um getur í 1. mgr.
 
                                     45. gr.
-          Erlend fyrirtæki í verðbréfaþjónustu geta notað sama heiti og notað
-      er í heimaríki þeirra. Sé hætta á að villst verði á nöfnum innlendra og
-         erlendra fyrirtækja í verðbréfaþjónustu sem starfa hér á landi getur
-        bankaeftirlitið farið fram á að nöfn hinna síðarnefndu verði auðkennd
-                                                                 sérstaklega.
+        Erlend fyrirtæki í verðbréfaþjónustu geta notað sama heiti og notað
+   er í heimaríki þeirra. Sé hætta á að villst verði á nöfnum innlendra og
+   erlendra fyrirtækja í verðbréfaþjónustu sem starfa hér á landi getur
+   bankaeftirlitið farið fram á að nöfn hinna síðarnefndu verði auðkennd
+   sérstaklega.
 
                                     46. gr.
-              Ráðherra getur, að fenginni tillögu bankaeftirlitsins, heimilað
-             fyrirtæki í verðbréfaþjónustu með staðfestu í ríki utan Evrópska
+        Ráðherra getur, að fenginni tillögu bankaeftirlitsins, heimilað
+   fyrirtæki í verðbréfaþjónustu með staðfestu í ríki utan Evrópska
    efnahagssvæðisins að opna útibú hér á landi eða veita þjónustu hér á landi
    án stofnunar útibús. Skilyrði fyrir veitingu slíks leyfis er að fyrirtækið
-     hafi leyfi til að stunda hliðstæða starfsemi í heimaríki sínu við þá sem
-     það hyggst stunda hér á landi, sbr. 8. og 9. gr., og að starfsemi þess í
-                                                heimaríkinu sé háð eftirliti.
-           Ráðherra er heimilt að setja nánari reglur um starfsemi fyrirtækja
-                                                       sem um getur í 1. mgr.
+   hafi leyfi til að stunda hliðstæða starfsemi í heimaríki sínu við þá sem
+   það hyggst stunda hér á landi, sbr. 8. og 9. gr., og að starfsemi þess í
+   heimaríkinu sé háð eftirliti.
+        Ráðherra er heimilt að setja nánari reglur um starfsemi fyrirtækja
+   sem um getur í 1. mgr.
 
                                    IX. kafli.
                     Samruni fyrirtækja í verðbréfaþjónustu.
                                     47. gr.
-          Um samruna fyrirtækja í verðbréfaþjónustu fer samkvæmt ákvæðum laga
-        um hlutafélög eða einkahlutafélög eftir því sem við á. Jafnframt skal
-         liggja fyrir samþykki ráðherra að fenginni umsögn bankaeftirlitsins.
-         Starfi fyrirtæki í verðbréfaþjónustu erlendis skal tilkynna lögbærum
-                                   yfirvöldum hlutaðeigandi ríkis um samruna.
+        Um samruna fyrirtækja í verðbréfaþjónustu fer samkvæmt ákvæðum laga
+   um hlutafélög eða einkahlutafélög eftir því sem við á. Jafnframt skal
+   liggja fyrir samþykki ráðherra að fenginni umsögn bankaeftirlitsins.
+        Starfi fyrirtæki í verðbréfaþjónustu erlendis skal tilkynna lögbærum
+   yfirvöldum hlutaðeigandi ríkis um samruna.
 
                                     48. gr.
-                  Við sérstakar aðstæður og að fengnu samþykki bankaeftirlits
+        Við sérstakar aðstæður og að fengnu samþykki bankaeftirlits
    Seðlabanka Íslands er heimilt að við samruna tveggja eða fleiri fyrirtækja
-        í verðbréfaþjónustu verði eigið fé hins sameinaða fyrirtækis lægra en
-      kveðið er á um í 1. tölul. 1. mgr. 3. gr. Eigið fé má þó ekki lækka frá
-          því sem það er við samruna. Fari eigið fé niður fyrir þá fjárhæð er
-    bankaeftirlitinu heimilt að veita hlutaðeigandi fyrirtæki hæfilegan frest
-     til úrbóta. Uppfylli fyrirtækið ekki skilyrði um eigið fé að þeim fresti
+   í verðbréfaþjónustu verði eigið fé hins sameinaða fyrirtækis lægra en
+   kveðið er á um í 1. tölul. 1. mgr. 3. gr. Eigið fé má þó ekki lækka frá
+   því sem það er við samruna. Fari eigið fé niður fyrir þá fjárhæð er
+   bankaeftirlitinu heimilt að veita hlutaðeigandi fyrirtæki hæfilegan frest
+   til úrbóta. Uppfylli fyrirtækið ekki skilyrði um eigið fé að þeim fresti
    liðnum skal starfsleyfi þess afturkallað skv. XI. kafla og því slitið skv.
-                                                                    X. kafla.
+   X. kafla.
 
                                    X. kafli.
                       Slit fyrirtækja í verðbréfaþjónustu.
                                     49. gr.
-                 Um slit fyrirtækja í verðbréfaþjónustu fer samkvæmt lögum um
-     gjaldþrot o.fl. og lögum um hlutafélög eða einkahlutafélög eftir því sem
-                                                                       við á.
-                   Slíta ber fyrirtæki í verðbréfaþjónustu ef ráðherra synjar
-    fyrirtækinu um frest skv. 4. mgr. 37. gr. eða frestur samkvæmt því ákvæði
-      er á enda án þess að fyrirtækinu hafi tekist að auka eigið fé fram yfir
-                                     það lágmark sem kveðið er á um í 32. gr.
-           Þegar skylt er að slíta fyrirtæki í verðbréfaþjónustu skv. 1. mgr.
-      skal ráðherra senda héraðsdómara á varnarþingi hlutaðeigandi fyrirtækis
-         kröfu um að bú þess verði tekið til skipta. Þegar héraðsdómari hefur
-        kannað hvort fullnægt sé skilyrðum fyrir kröfunni skal hann kveða upp
-                                      úrskurð um hvort orðið skuli við henni.
-             Sé krafa skv. 3. mgr. tekin til greina skal farið með búið eftir
-      fyrirmælum laga um skipti á dánarbúum o.fl. um meðferð dánarbús þar sem
+        Um slit fyrirtækja í verðbréfaþjónustu fer samkvæmt lögum um
+   gjaldþrot o.fl. og lögum um hlutafélög eða einkahlutafélög eftir því sem
+   við á.
+        Slíta ber fyrirtæki í verðbréfaþjónustu ef ráðherra synjar
+   fyrirtækinu um frest skv. 4. mgr. 37. gr. eða frestur samkvæmt því ákvæði
+   er á enda án þess að fyrirtækinu hafi tekist að auka eigið fé fram yfir
+   það lágmark sem kveðið er á um í 32. gr.
+        Þegar skylt er að slíta fyrirtæki í verðbréfaþjónustu skv. 1. mgr.
+   skal ráðherra senda héraðsdómara á varnarþingi hlutaðeigandi fyrirtækis
+   kröfu um að bú þess verði tekið til skipta. Þegar héraðsdómari hefur
+   kannað hvort fullnægt sé skilyrðum fyrir kröfunni skal hann kveða upp
+   úrskurð um hvort orðið skuli við henni.
+        Sé krafa skv. 3. mgr. tekin til greina skal farið með búið eftir
+   fyrirmælum laga um skipti á dánarbúum o.fl. um meðferð dánarbús þar sem
    erfingjar taka ekki á sig ábyrgð á skuldbindingum hins látna að öðru leyti
-    en því að hluthafar njóta ekki þeirrar stöðu sem erfingjar njóta við slík
-       skipti fyrr en leitt er í ljós eftir lok kröfulýsingarfrests að eignir
-                                           búsins muni hrökkva fyrir skuldum.
+   en því að hluthafar njóta ekki þeirrar stöðu sem erfingjar njóta við slík
+   skipti fyrr en leitt er í ljós eftir lok kröfulýsingarfrests að eignir
+   búsins muni hrökkva fyrir skuldum.
 
                                    XI. kafli.
                             Afturköllun starfsleyfa.
                                     50. gr.
-          Ráðherra skal afturkalla starfsleyfi fyrirtækis í verðbréfaþjónustu
-                       að fengnum tillögum bankaeftirlits Seðlabanka Íslands:
+        Ráðherra skal afturkalla starfsleyfi fyrirtækis í verðbréfaþjónustu
+   að fengnum tillögum bankaeftirlits Seðlabanka Íslands:
 
    1.
            hafi leyfisveiting byggst á röngum skýrslum eða upplýsingum frá
@@ -1061,122 +1067,122 @@
            hlutaðeigandi banka eða sparisjóð áður og gefið fyrirtækinu kost á
            að leysa úr málinu.
 
-              Áður en til afturköllunar kemur skv. 1. mgr. skal hlutaðeigandi
-               fyrirtæki veittur hæfilegur frestur til úrbóta sé þess kostur.
+        Áður en til afturköllunar kemur skv. 1. mgr. skal hlutaðeigandi
+   fyrirtæki veittur hæfilegur frestur til úrbóta sé þess kostur.
 
                                     51. gr.
-                 Standi yfir opinber rannsókn vegna meints brots fyrirtækis í
-            verðbréfaþjónustu á ákvæðum laga þessara, reglugerðum, reglum eða
-    samþykktum er ráðherra heimilt, að fengnum tillögum bankaeftirlitsins, að
-           svipta hlutaðeigandi fyrirtæki starfsleyfi um stundarsakir. Skalþá
-       ráðherra skipa fyrirtækinu umsjónaraðila til bráðabirgða sem gera skal
-               ráðstafanir sem miða að því að tryggja hag viðskiptavina þess.
+        Standi yfir opinber rannsókn vegna meints brots fyrirtækis í
+   verðbréfaþjónustu á ákvæðum laga þessara, reglugerðum, reglum eða
+   samþykktum er ráðherra heimilt, að fengnum tillögum bankaeftirlitsins, að
+   svipta hlutaðeigandi fyrirtæki starfsleyfi um stundarsakir. Skalþá
+   ráðherra skipa fyrirtækinu umsjónaraðila til bráðabirgða sem gera skal
+   ráðstafanir sem miða að því að tryggja hag viðskiptavina þess.
 
                                     52. gr.
-                Afturköllun á starfsleyfi fyrirtækis í verðbréfaþjónustu skal
+        Afturköllun á starfsleyfi fyrirtækis í verðbréfaþjónustu skal
    tilkynnt stjórn hlutaðeigandi fyrirtækis og rökstudd skriflega. Birta skal
-              tilkynningu um afturköllun í Lögbirtingablaði og auglýsa hana í
-        fjölmiðlum. Hafi fyrirtæki í verðbréfaþjónustu starfað erlendis, sbr.
-    ákvæði VII. kafla, skal afturköllun einnig tilkynnt lögbærum yfirvöldum í
-                                                             viðkomandi ríki.
-               Afturkalli ráðherra starfsleyfi fyrirtækis í verðbréfaþjónustu
-                                           endanlega skal fyrirtækinu slitið.
+   tilkynningu um afturköllun í Lögbirtingablaði og auglýsa hana í
+   fjölmiðlum. Hafi fyrirtæki í verðbréfaþjónustu starfað erlendis, sbr.
+   ákvæði VII. kafla, skal afturköllun einnig tilkynnt lögbærum yfirvöldum í
+   viðkomandi ríki.
+        Afturkalli ráðherra starfsleyfi fyrirtækis í verðbréfaþjónustu
+   endanlega skal fyrirtækinu slitið.
 
                                   XII. kafli.
                                    Eftirlit.
                                     53. gr.
-                Bankaeftirlit Seðlabanka Íslands hefur eftirlit með starfsemi
-       fyrirtækja í verðbréfaþjónustu hér á landi, svo og starfsemi innlendra
-       fyrirtækja í verðbréfaþjónustu erlendis, nema annað leiði af lögum eða
-    alþjóðasamningum sem Ísland er aðili að. Skal bankaeftirlitið eiga aðgang
-      að öllum gögnum og upplýsingum hjá þessum aðilum sem, að þess mati, eru
-      nauðsynleg vegna eftirlitsins. Að öðru leyti gilda um eftirlitið ákvæði
-                laga um Seðlabanka Íslands eftir því sem við getur átt. Telji
-             bankaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án
-        tilskilinna leyfa skal það eiga sambærilegan aðgang að upplýsingum og
-                                                gögnum hjá viðkomandi aðilum.
-            Telji bankaeftirlitið að starfsemi fyrirtækis í verðbréfaþjónustu
-      brjóti gegn ákvæðum laga þessara, reglugerða eða reglna settra samkvæmt
+        Bankaeftirlit Seðlabanka Íslands hefur eftirlit með starfsemi
+   fyrirtækja í verðbréfaþjónustu hér á landi, svo og starfsemi innlendra
+   fyrirtækja í verðbréfaþjónustu erlendis, nema annað leiði af lögum eða
+   alþjóðasamningum sem Ísland er aðili að. Skal bankaeftirlitið eiga aðgang
+   að öllum gögnum og upplýsingum hjá þessum aðilum sem, að þess mati, eru
+   nauðsynleg vegna eftirlitsins. Að öðru leyti gilda um eftirlitið ákvæði
+   laga um Seðlabanka Íslands eftir því sem við getur átt. Telji
+   bankaeftirlitið að starfsemi samkvæmt lögum þessum sé stunduð án
+   tilskilinna leyfa skal það eiga sambærilegan aðgang að upplýsingum og
+   gögnum hjá viðkomandi aðilum.
+        Telji bankaeftirlitið að starfsemi fyrirtækis í verðbréfaþjónustu
+   brjóti gegn ákvæðum laga þessara, reglugerða eða reglna settra samkvæmt
    þeim eða sé að öðru leyti óeðlileg, óheilbrigð eða ótraust getur það veitt
-            hlutaðeigandi hæfilegan frest til úrbóta, nema brot séu alvarleg.
-             Hafi bankaeftirlitið rökstudda ástæðu til að ætla að brotið hafi
-         verið gegn ákvæðum IV. kafla laga þessara skal því heimilt að krefja
-          einstaklinga og lögaðila, þar á meðal opinberar stofnanir, um allar
-         upplýsingar og gögn sem það telur nauðsynleg til rannsóknar málsins.
+   hlutaðeigandi hæfilegan frest til úrbóta, nema brot séu alvarleg.
+        Hafi bankaeftirlitið rökstudda ástæðu til að ætla að brotið hafi
+   verið gegn ákvæðum IV. kafla laga þessara skal því heimilt að krefja
+   einstaklinga og lögaðila, þar á meðal opinberar stofnanir, um allar
+   upplýsingar og gögn sem það telur nauðsynleg til rannsóknar málsins.
 
                                     54. gr.
-                  Við framkvæmd eftirlits með starfsemi erlendra fyrirtækja í
-    verðbréfaþjónustu hér á landi skal bankaeftirlitið hafa samráð við lögbær
-              yfirvöld í heimaríki viðkomandi fyrirtækis í samræmi við lög og
-                                      alþjóðasamninga sem Ísland er aðili að.
+        Við framkvæmd eftirlits með starfsemi erlendra fyrirtækja í
+   verðbréfaþjónustu hér á landi skal bankaeftirlitið hafa samráð við lögbær
+   yfirvöld í heimaríki viðkomandi fyrirtækis í samræmi við lög og
+   alþjóðasamninga sem Ísland er aðili að.
 
                                   XIII. kafli
                                   Ýmis ákvæði.
                                     55. gr.
-               Bankaeftirlit Seðlabanka Íslands skal halda sérstaka skrá yfir
+        Bankaeftirlit Seðlabanka Íslands skal halda sérstaka skrá yfir
    fyrirtæki í verðbréfaþjónustu sem hlotið hafa starfsleyfi hér á landi, svo
-    og erlend fyrirtæki í verðbréfaþjónustu sem starfa eða veita þjónustu hér
+   og erlend fyrirtæki í verðbréfaþjónustu sem starfa eða veita þjónustu hér
    á landi. Í skránni skulu koma fram nöfn stjórnarmanna, framkvæmdastjóra og
-        endurskoðenda fyrirtækisins. Jafnframt skulu koma fram upplýsingar um
-                                          starfsemi hlutaðeigandi fyrirtækis.
-              Bankaeftirlitinu er heimilt að kveða nánar á um upplýsingar sem
-    veittar skulu samkvæmt 1. mgr. Breytingar á áður tilkynntum atriðum skulu
-                                           þegar tilkynntar bankaeftirlitinu.
+   endurskoðenda fyrirtækisins. Jafnframt skulu koma fram upplýsingar um
+   starfsemi hlutaðeigandi fyrirtækis.
+        Bankaeftirlitinu er heimilt að kveða nánar á um upplýsingar sem
+   veittar skulu samkvæmt 1. mgr. Breytingar á áður tilkynntum atriðum skulu
+   þegar tilkynntar bankaeftirlitinu.
 
                                     56. gr.
-            Eigendur, stjórnendur, framkvæmdastjórar, endurskoðendur og aðrir
-    starfsmenn fyrirtækja í verðbréfaþjónustu eru bundnir þagnarskyldu um öll
+        Eigendur, stjórnendur, framkvæmdastjórar, endurskoðendur og aðrir
+   starfsmenn fyrirtækja í verðbréfaþjónustu eru bundnir þagnarskyldu um öll
    viðskipti sem fyrirtækin annast eða hafa milligöngu um, svo og allt það er
-       varðar hagi viðskiptamanna fyrirtækjanna og þeir öðlast vitneskju um í
-     starfi sínu og leynt skal fara samkvæmt lögum eða eðli máls, nema dómari
-        úrskurði að skylt sé að veita upplýsingar fyrir dómi eða lögreglu eða
-      skylda sé að veita upplýsingar lögum samkvæmt. Þagnarskyldan helst þótt
-                                                          látið sé af starfi.
+   varðar hagi viðskiptamanna fyrirtækjanna og þeir öðlast vitneskju um í
+   starfi sínu og leynt skal fara samkvæmt lögum eða eðli máls, nema dómari
+   úrskurði að skylt sé að veita upplýsingar fyrir dómi eða lögreglu eða
+   skylda sé að veita upplýsingar lögum samkvæmt. Þagnarskyldan helst þótt
+   látið sé af starfi.
 
                                     57. gr.
-                Kostnaður við birtingu tilkynninga samkvæmt lögum þessum skal
-                                         greiddur af hlutaðeigandi fyrirtæki.
+        Kostnaður við birtingu tilkynninga samkvæmt lögum þessum skal
+   greiddur af hlutaðeigandi fyrirtæki.
 
                                     58. gr.
         Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt að
    kveða nánar á um framkvæmd þeirra með reglugerð, þar á meðal um viðurlög í
-                                                              formi dagsekta.
+   formi dagsekta.
 
                                   XIV. kafli.
                                    Viðurlög.
                                     59. gr.
-           Brot gegn lögum þessum varða sektum eða fangelsi allt að einu ári,
-      nema þyngri refsing liggi við samkvæmt almennum hegningarlögum. Sé brot
-            framið í þágu lögaðila er heimilt að beita stjórnendur lögaðilans
+        Brot gegn lögum þessum varða sektum eða fangelsi allt að einu ári,
+   nema þyngri refsing liggi við samkvæmt almennum hegningarlögum. Sé brot
+   framið í þágu lögaðila er heimilt að beita stjórnendur lögaðilans
    framangreindum viðurlögum og einnig er heimilt að gera lögaðilanum sekt og
-                                                    sviptingu starfsréttinda.
+   sviptingu starfsréttinda.
         Brot gegn ákvæðum IV. kafla varða sektum eða fangelsi allt að tveimur
-      árum. Jafnframt er heimilt að gera upptækan með dómi beinan eða óbeinan
-                   hagnað sem hlotist hefur með broti gegn ákvæðum IV. kafla.
-             Tilraun til og hlutdeild í brotum á lögum þessum eru refsiverðar
-                               eftir því sem segir í almennum hegningarlögum.
+   árum. Jafnframt er heimilt að gera upptækan með dómi beinan eða óbeinan
+   hagnað sem hlotist hefur með broti gegn ákvæðum IV. kafla.
+        Tilraun til og hlutdeild í brotum á lögum þessum eru refsiverðar
+   eftir því sem segir í almennum hegningarlögum.
 
                                    XV. kafli.
                          Gildistaka og brottfallin lög.
                                     60. gr.
-                                            Lög þessi öðlast þegar gildi. ...
+        Lög þessi öðlast þegar gildi. ...
 
                             Ákvæði til bráðabirgða.
                                        I.
-              Starfandi verðbréfafyrirtæki samkvæmt [2]lögum nr. 9/1993 skulu
-           tilkynna viðskiptaráðherra þegar við gildistöku laga þessara hvaða
-                                      þjónustu skv. 8. gr. þau hyggist veita.
+        Starfandi verðbréfafyrirtæki samkvæmt [2]lögum nr. 9/1993 skulu
+   tilkynna viðskiptaráðherra þegar við gildistöku laga þessara hvaða
+   þjónustu skv. 8. gr. þau hyggist veita.
                                       II.
-                   Einstaklingar, sem hlotið hafa leyfi viðskiptaráðherra til
-           verðbréfamiðlunar samkvæmt [3]lögum nr. 9/1993 og stunda starfsemi
-        samkvæmt því leyfi, skulu hafa aðlagað starfsemi sína að ákvæðum laga
-                                        þessara eigi síðar en 1. janúar 1997.
+        Einstaklingar, sem hlotið hafa leyfi viðskiptaráðherra til
+   verðbréfamiðlunar samkvæmt [3]lögum nr. 9/1993 og stunda starfsemi
+   samkvæmt því leyfi, skulu hafa aðlagað starfsemi sína að ákvæðum laga
+   þessara eigi síðar en 1. janúar 1997.
                                       III.
-              Starfandi fyrirtæki í verðbréfaþjónustu skulu hafa frest til 1.
-           janúar 1997 til að fullnægja skilyrðum 1. tölul. 1. mgr. 3. gr. um
-     innborgað hlutafé. Yfirtaki nýir aðilar starfsemi slíks fyrirtækis fyrir
-     1. október 1996 skal það þó hafa fullnægt framangreindum skilyrðum innan
-                                              þriggja mánaða frá yfirtökunni.
+        Starfandi fyrirtæki í verðbréfaþjónustu skulu hafa frest til 1.
+   janúar 1997 til að fullnægja skilyrðum 1. tölul. 1. mgr. 3. gr. um
+   innborgað hlutafé. Yfirtaki nýir aðilar starfsemi slíks fyrirtækis fyrir
+   1. október 1996 skal það þó hafa fullnægt framangreindum skilyrðum innan
+   þriggja mánaða frá yfirtökunni.
 
 References
 

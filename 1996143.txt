@@ -1,0 +1,746 @@
+
+   --------------------------------------------------------------------------
+
+                                                               Lög um fjarskipti
+
+                           1996 nr. 143 27. desember
+
+   --------------------------------------------------------------------------
+
+                                   I. kafli.
+                         Gildissvið laganna og markmið.
+                                     1. gr.
+                         Lög þessi taka til fjarskipta og fjarskiptaþjónustu.
+                 Markmið fjarskiptalaga er að tryggja örugg fjarskipti og sem
+                                  hagkvæmasta fjarskiptaþjónustu hér á landi.
+                   Íslenska ríkið skal tryggja eftir því sem unnt er að öllum
+        landsmönnum bjóðist aðgangur að talsímaþjónustu og öðrum fjarskiptum,
+                         eftir því sem nánar er mælt fyrir um í lögum þessum.
+
+                                   II. kafli.
+                                 Orðskýringar.
+                                     2. gr.
+         Merking nokkurra orða sem notuð eru í lögum þessum er sem hér segir:
+
+   Fjarskipti: Það sem nefnt er Telecommunication í
+   alþjóðafjarskiptasamningum (nú Convention Internationale des
+   Telecommunications, Nice 1989) og merkir hvers konar sendingu og móttöku
+   tákna, merkja, skriftar, mynda og hljóða eða hvers konar boðmiðlun eftir
+   leiðslum með raföldum (radio) eða öðrum rafsegulkerfum.
+
+   Fjarskiptavirki: Hvers konar tæki, tækjahlutar, leiðslur, búnaður og því
+   um líkt sem sérstaklega er ætlað til að koma á fjarskiptum eða reka þau,
+   hvort heldur er til sendingar eða móttöku.
+
+   Almennt fjarskiptanet: Innviðir fyrir almenn fjarskipti sem gera kleift að
+   flytja merki milli skilgreindra nettengipunkta með rafþræði, örbylgjum,
+   ljóstæknilegum aðferðum eða með öðrum rafsegulaðgerðum.
+
+   Fjarskiptaþjónusta: Þjónusta sem að nokkru eða öllu leyti felst í því að
+   beina merkjum um fjarskiptanet með fjarskiptaaðferðum, öðrum en sjónvarpi
+   eða hljóðvarpi.
+
+   Almenn fjarskiptaþjónusta: Fjarskiptaþjónusta, sbr. hér að framan, sem
+   ætluð er til almenningsnota eða önnur starfsemi sem miðar að því að flytja
+   fjarskiptaboð milli óskyldra og ótengdra aðila í atvinnuskyni.
+
+   Alþjónusta: Afmarkaðir þættir fjarskipta, sem boðnir eru öllum notendum á
+   viðráðanlegu verði, óháð landfræðilegri staðsetningu þeirra. Nánar skal
+   mælt fyrir um í reglugerð, sem samgönguráðherra setur, hvaða þættir
+   fjarskiptaþjónustu falli undir alþjónustu.
+
+   Talsímaþjónusta: Þjónusta, seld almenningi, sem fólgin er í beinum
+   rauntímaflutningi á tali um sjálfvirkt fjarskiptanet þannig að notandi
+   getur notað búnað tengdan við tengipunkt á netinu til að hafa samband við
+   annan notanda sem tengdur er við annan tengipunkt.
+
+   Virðisaukandi þjónusta: Þjónusta þar sem virðisaukandi þáttum er bætt við
+   fjarskiptaþjónustu.
+
+   Rekstrarleyfishafi: Aðili, einstaklingur, félag eða stofnun, sem fengið
+   hefur leyfi Póst- og fjarskiptastofnunar til að reka fjarskiptaþjónustu
+   og/eða til reksturs fjarskiptanets.
+
+   Nettengipunktur: Allar efnislegar tengingar og tækniforskriftir varðandi
+   aðgang að þeim sem eru hluti af almenna fjarskiptanetinu og nauðsynlegar
+   fyrir aðgang og skilvirk fjarskipti um viðkomandi net.
+
+   Kapalkerfi: Þráðbundið kerfi sem ætlað er til dreifingar á útvarpsmerkjum
+   til almennings.
+
+   Lokaðir notendahópar: Hópar einstaklinga, félaga eða stofnana sem þurfa
+   ekki að vera tengd fjárhagslega, en líta má á sem aðila með viðvarandi
+   viðskiptatengsl vegna sameiginlegrar viðskiptastarfsemi þar sem innri
+   fjarskiptaþarfir verða til vegna þeirra hagsmuna sem liggja að baki
+   viðskiptatengsla þeirra.
+
+   Símatorgsþjónusta: Upplýsingaþjónusta með sjálfvirkri svörun sem veitt er
+   gegn gjaldi í gegnum sérstök upphringinúmer sem upplýsingaveitanda er
+   úthlutað.
+
+                                  III. kafli.
+                         Um yfirstjórn fjarskiptamála.
+                                     3. gr.
+        Samgönguráðherra fer með yfirstjórn fjarskiptamála.
+        Póst- og fjarskiptastofnun skal hafa umsjón með fjarskiptamálum hér á
+   landi og hafa eftirlit með framkvæmd laga þessara.
+
+                                   IV. kafli.
+                       Réttur til að veita rekstrarleyfi.
+                                     4. gr.
+        Íslenska ríkið hefur eitt rétt til þess að veita leyfi til reksturs
+   fjarskiptaþjónustu hér á landi, í íslenskri landhelgi og lofthelgi og til
+   þess að veita leyfi til reksturs almenns fjarskiptanets.
+        Fjarskiptaleyfi skulu eingöngu veitt íslenskum aðilum eða aðilum með
+   staðfesturétt innan Evrópska efnahagssvæðisins.
+        Samgönguráðherra getur mælt fyrir um það í reglugerð að rekstrarleyfi
+   megi veita öðrum aðilum en þeim sem tilteknir eru í 2. mgr.
+
+                                   V. kafli.
+                           Rekstrarleyfi, undanþágur.
+                                     5. gr.
+
+                             Útgáfa rekstrarleyfa.
+        Póst- og fjarskiptastofnun veitir leyfi til fjarskiptaþjónustu og til
+   þess að reka almennt fjarskiptanet, þar með talið kapalkerfi, samkvæmt
+   lögum þessum. Í rekstrarleyfi skal skilgreina til hvaða þjónustu leyfið
+   nær.
+        Ekki þarf sérstakt leyfi til að veita virðisaukandi þjónustu eða til
+   sölu á almennum notendabúnaði.
+
+                                     6. gr.
+
+                    Skilyrði fyrir rekstrarleyfisveitingum.
+        Póst- og fjarskiptastofnun setur skilyrði fyrir
+   rekstrarleyfisveitingu skv. 5. gr. Skulu skilyrði vera hlutlæg, skýr og
+   þannig að gætt sé jafnræðis meðal umsækjenda og leyfishafa. Rekstrarleyfi
+   skulu vera tímabundin.
+        Skilyrði fyrir rekstrarleyfi geta verið eitt eða fleiri, þar með
+   talið:
+
+   a.
+           að greitt sé leyfisgjald og rekstrargjald í samræmi við lög um
+           Póst- og fjarskiptastofnun og lög um aukatekjur ríkissjóðs,
+   b.
+           að rekstrarleyfishafi veiti þá þjónustu sem leyfið nær til á öllu
+           landinu eða á tilteknum landsvæðum, og að hún nái til tiltekins
+           hluta landsmanna innan tímamarka sem Póst- og fjarskiptastofnun
+           ákveður,
+   c.
+           að aðgangur að fjarskiptaneti rekstrarleyfishafa sé að jafnaði
+           opinn öllum á viðkomandi landsvæði, samkvæmt skilmálum sem tryggja
+           að jafnræðis sé gætt,
+   d.
+           að rekstrarleyfishafi bjóði fjarskiptaþjónustu til útlanda þar sem
+           það á við,
+   e.
+           að búnaður rekstrarleyfishafa sé ætíð í samræmi við tæknistaðla
+           sem Póst- og fjarskiptastofnun mælir fyrir um og uppfylli á
+           hverjum tíma tilskildar tæknikröfur til að veita alhliða
+           fjarskiptaþjónustu á viðkomandi sviði,
+   f.
+           að rekstrarleyfishafi fullnægi á hverjum tíma kröfum um tæknilega
+           þekkingu, samkvæmt reglum sem Póst- og fjarskiptastofnun setur,
+   g.
+           að viðskiptaskilmálar rekstrarleyfishafa í alþjónustu séu háðir
+           samþykki Póst- og fjarskiptastofnunar og að gjaldskrár fyrir
+           alþjónustu sæti eftirliti hennar, sbr. VI. kafla laganna,
+   h.
+           að rekstrarleyfishafi sem leyfi hefur til reksturs almenns
+           fjarskiptanets skuldbindi sig til að annast uppsetningu og viðhald
+           slíks nets á starfssvæði sínu, tengja fjarskiptanet sitt
+           fjarskiptanetum annarra rekstrarleyfishafa og veita öðrum
+           rekstrarleyfishöfum heimild til samtengingar við fjarskiptanet
+           sitt, sbr. VII. kafla laganna,
+   i.
+           að notendum verði úthlutuð númer úr þeim númeraröðum, sem Póst- og
+           fjarskiptastofnun hefur veitt rekstrarleyfishafa heimild til að
+           nota, í samræmi við reglur sem stofnunin setur,
+   j.
+           að rekstrarleyfishafi haldi skrá yfir notendur
+           fjarskiptaþjónustunnar og gefi út eða taki þátt í útgáfu slíkrar
+           skrár, en veiti ella öðrum heimild til útgáfu notendaskrár
+           samkvæmt fyrirmælum Póst- og fjarskiptastofnunar. Þá má gera
+           rekstrarleyfishafa skylt að veita eða láta í té sambærilegar
+           upplýsingar gegnum sérstakt upplýsinganúmer,
+   k.
+           að erlendur rekstrarleyfishafi setji upp starfsstöð hér á landi
+           eða hafi hér á landi fulltrúa sem umboð hefur til að koma fram
+           fyrir hönd rekstrarleyfishafa gagnvart notendum hér á landi,
+   l.
+           að rekstrarleyfishafi geti sætt eftirliti Póst- og
+           fjarskiptastofnunar á fjárhagsstöðu sinni með tilliti til
+           hugsanlegrar hættu á rekstrarstöðvun,
+   m.
+           að rekstrarleyfishafi fullnægi á hverjum tíma, eftir gildistöku
+           leyfisins, þeim tilskipunum og reglum sem gilda á Evrópska
+           efnahagssvæðinu, sbr. lög um Evrópska efnahagssvæðið, og þeim
+           skuldbindingum sem Ísland undirgengst samkvæmt gildandi
+           alþjóðasamningum á sviði fjarskiptamála,
+   n.
+           að lokaðir notendahópar afhendi Póst- og fjarskiptastofnun fyrir
+           fram lista yfir meðlimi með símanúmerum þeirra eða öðru
+           kennimerki, enda geta þeir uppfært hann eftir þörfum. Lokaðir
+           notendahópar skulu einnig, ef þess er óskað, halda skrá yfir
+           upphafs- og endastað hvers uppkalls í því skyni að auðvelda
+           eftirlit,
+   o.
+           að rekstrarleyfishafi taki þátt í alþjóðlegu samstarfi á sviði
+           fjarskiptamála.
+
+        Nánar skal mælt fyrir um skilyrði fyrir rekstrarleyfisveitingum í
+   reglugerð.
+
+                                     7. gr.
+
+                        Skylda til að veita alþjónustu.
+        Við útgáfu rekstrarleyfa til þeirra sem veita fjarskiptaþjónustu á
+   almennum fjarskiptanetum getur Póst- og fjarskiptastofnun mælt svo fyrir
+   að auk þess að uppfylla skilyrði skv. 6. gr. skuli rekstrarleyfishafa
+   skylt að veita alþjónustu á starfssvæði sínu.
+        Sjái rekstrarleyfishafi sér ekki fært að veita tilteknum aðila
+   alþjónustu skv. 1. mgr., svo sem vegna fjarlægðar, kostnaðar eða annars
+   óhagræðis, skal ágreiningur vegna synjunar borinn undir Póst- og
+   fjarskiptastofnun til úrskurðar.
+
+                                     8. gr.
+
+                           Fjöldi rekstrarleyfishafa.
+        Þegar takmarka þarf fjölda rekstrarleyfishafa á einstökum
+   þjónustusviðum skal taka mið af því hve mörgum er hægt að heimila af
+   tæknilegum ástæðum að veita þjónustuna, en að jafnaði skal þess gætt að
+   samkeppni sé nægileg með tilliti til hagsmuna notenda fjarskiptaþjónustu.
+        Póst- og fjarskiptastofnun skal ákveða hversu mörgum aðilum verði
+   veitt rekstrarleyfi í þeim tilvikum þar sem takmarka þarf fjölda
+   rekstrarleyfa.
+
+                                     9. gr.
+
+                                     Útboð.
+        Póst- og fjarskiptastofnun getur ákveðið að rekstrarleyfi, sbr. 8.
+   gr., skuli veitt að undangengnu útboði.
+        Útboð skal að jafnaði vera opið. Póst- og fjarskiptastofnun semur
+   útboðsskilmála þar sem meðal annars skal mælt fyrir um þá þjónustu sem
+   boðin er út og um lágmarksboð.
+        Póst- og fjarskiptastofnun annast eða hefur umsjón með útboðum
+   þessum.
+
+                                    10. gr.
+
+                                  Undanþágur.
+        Póst- og fjarskiptastofnun getur heimilað einstökum mönnum, félögum
+   eða stofnunum að setja upp og reka fjarskiptanet til eigin nota, án þess
+   að uppfyllt séu skilyrði skv. 6. gr., enda verði þau ekki nýtt fyrir aðra.
+        Póst- og fjarskiptastofnun getur heimilað lokuðum notendahópum að
+   setja upp og reka fjarskiptanet til eigin nota og skulu þá ekki sett önnur
+   skilyrði fyrir leyfisveitingu en um getur í a-, j-, k-, m- og o-liðum 6.
+   gr.
+        Fjarskipti, sem eingöngu eru boð eða sendingar með þræði innan
+   húsakynna heimilis, fyrirtækis eða stofnunar, svo sem í sjúkrahúsum,
+   gistihúsum, skólum og verksmiðjum, heyra ekki undir lög þessi.
+        Póst- og fjarskiptastofnun sker úr ágreiningi um hvort fjarskipti
+   falli undir ákvæði laga þessara eða ekki og hvort undanþáguheimildir 1.3.
+   mgr. eigi við.
+
+                                   VI. kafli.
+          Viðskiptaskilmálar, gjaldskrár, uppgjörs- og bókhaldsreglur.
+                                    11. gr.
+        Rekstrarleyfishafi í alþjónustu eða sem leyfi hefur til reksturs
+   almenns fjarskiptanets skal semja og birta opinberlega þá skilmála sem
+   gilda um fjarskiptaþjónustu hans. Þar skal mælt fyrir um biðtíma eftir
+   tengingu við fjarskiptanet, eftir því sem við á, um viðgerðir eða
+   lagfæringar ef tenging rofnar og um þjónustu rekstrarleyfishafa að öðru
+   leyti.
+        Rekstrarleyfishafa er heimilt að breyta skilmálum sínum skv. 1. mgr.,
+   enda sé slík breyting tilkynnt viðskiptamönnum rekstrarleyfishafa með
+   hæfilegum fyrirvara.
+         Póst- og fjarskiptastofnun er heimilt að mæla fyrir um breytingar á
+   skilmálum ef þeir teljast ekki í samræmi við rekstrarleyfi.
+        Póst- og fjarskiptastofnun skal hafa almennt eftirlit með gjaldskrám
+   í alþjónustu. Gjaldtaka í alþjónustu skal taka mið af raunkostnaði við að
+   veita þjónustuna að viðbættum hæfilegum hagnaði. Póst- og
+   fjarskiptastofnun er heimilt að mæla fyrir um hámarksverð í alþjónustu
+   þegar sérstaklega stendur á.
+        Samgönguráðherra er heimilt, vegna eftirlits með verðlagningu
+   alþjónustu, að setja í reglugerð sérstakar reglur um bókhald
+   fjarskiptafyrirtækja, sundurgreiningu þess og fjárhagslegan aðskilnað
+   milli einstakra rekstrarþátta fjarskiptaþjónustu annars vegar og
+   fjárhagslegan aðskilnað fjarskiptaþjónustu frá annarri starfsemi
+   rekstrarleyfishafa hins vegar.
+
+                                  VII. kafli.
+                              Um samtengingu neta.
+                                    12. gr.
+
+                           Samtenging fjarskiptaneta.
+        Nú vill rekstrarleyfishafi tengja fjarskiptanet sitt fjarskiptaneti
+   annars rekstrarleyfishafa, og skulu þá viðkomandi aðilar leita samkomulags
+   um tenginguna og skilmála hennar.
+        Náist ekki innan hæfilegs tíma, sem lengstur skal vera þrír mánuðir,
+   samkomulag milli rekstrarleyfishafa um að net skuli samtengd getur hvor
+   aðili um sig leitað til Póst- og fjarskiptastofnunar sem skal leita sátta
+   með aðilum, sbr. 13. gr.
+        Telji stofnunin að samtenging geti valdið hættu á rekstrartruflunum á
+   viðkomandi fjarskiptaneti eða samtengdum fjarskiptanetum getur stofnunin
+   mælt svo fyrir að fjarskiptanet skuli ekki samtengd.
+
+                                    13. gr.
+
+         Eftirlit með verðlagningu við samtengingu fjarskiptaneta o.fl.
+        Verðlagning rekstrarleyfishafa á þjónustu fyrir afnot annars
+   rekstrarleyfishafa af fjarskiptaneti skal taka mið af raunkostnaði þess
+   sem viðkomandi fjarskiptanet rekur að teknu tilliti til hæfilegs hagnaðar.
+        Póst- og fjarskiptastofnun getur krafist þess að samningar sem gerðir
+   eru milli rekstrarleyfishafa um samtengingu fjarskiptaneta séu lagðir
+   fyrir stofnunina.
+        Náist ekki samkomulag milli rekstrarleyfishafa um gjald og aðra
+   samningsskilmála vegna samtengingar fjarskiptaneta, sbr. 2. mgr. 12. gr.,
+   skal Póst- og fjarskiptastofnun hafa milligöngu um ákvörðun
+   samningsskilmála milli aðila. Getur stofnunin í því sambandi lagt fram
+   miðlunartillögu eða á annan hátt gert tillögur um sættir. Náist ekki
+   samkomulag, þrátt fyrir sáttatilraunir sem lengst skulu taka sex mánuði,
+   skal Póst- og fjarskiptastofnun að kröfu aðila ákveða skilmála fyrir
+   samtengingu. Við ákvörðun skilmála vegna samtengingar skal taka mið af
+   fyrirmælum 1. mgr.
+        Póst- og fjarskiptastofnun getur við sáttameðferð eða ákvarðanatöku
+   skv. 3. mgr. krafist upplýsinga úr bókhaldi rekstrarleyfishafa og falið
+   löggiltum endurskoðendum að yfirfara slík gögn.
+        Þegar sérstaklega stendur á getur Póst- og fjarskiptastofnun að kröfu
+   annars hvors aðila mælt fyrir um breytingu á samningum um samtengingu neta
+   eða á ákvörðunum sínum þar að lútandi.
+        Samgönguráðherra er heimilt að mæla fyrir um í reglugerð
+   bókhaldslegan aðskilnað eða aðgreiningu einstakra rekstrarþátta þannig að
+   unnt sé að fylgjast með stofnkostnaði og kostnaði af rekstri samtengdra
+   fjarskiptaneta.
+
+                                  VIII. kafli.
+                    Samningar og greiðslur fyrir alþjónustu.
+                                    14. gr.
+
+    Rekstur til almannaheilla. Umsóknir um fjárframlög og greiðslur þeirra.
+        Telji rekstrarleyfishafi að alþjónusta, sem honum er gert skylt að
+   veita samkvæmt rekstrarleyfi, sbr. 7. gr., sé rekin með tapi eða sé
+   óarðbær getur hann krafist þess að honum verði með fjárframlögum tryggt
+   eðlilegt endurgjald fyrir þá starfsemi sem um ræðir. Skal slík beiðni send
+   Póst- og fjarskiptastofnun.
+        Nú berst Póst- og fjarskiptastofnun beiðni um fjárframlög skv. 1.
+   mgr., og ekki verður talið að þjónustan verði tryggð með öðrum hagkvæmari
+   hætti, en jafnframt talið að þjónustan sé óhjákvæmileg og verði ekki
+   aflögð, og skal stofnunin þá með fjárframlögum tryggja rekstrarleyfishafa
+   eðlilegt endurgjald fyrir þá þjónustu sem veitt er.
+        Skal Póst- og fjarskiptastofnun krefjast þess að rekstrarleyfishafi
+   upplýsi nákvæmlega hvert rekstrartap af starfseminni er og hvernig það
+   sundurliðast.
+         Póst- og fjarskiptastofnun getur við mat á fjárframlögum krafist
+   skýrslna löggiltra endurskoðenda, eða falið slíkum aðila að gera úttekt á
+   rekstrarafkomu á viðkomandi rekstrarsviði. Póst- og fjarskiptastofnun er
+   heimilt að krefjast aðgangs að bókhaldi rekstrarleyfishafa við mat á
+   fjárframlögum og eftirliti með þeim.
+        Fjárframlög skulu að jafnaði miðuð við eitt ár í senn. Nú telur annar
+   hvor aðili að forsendur fyrir ákvörðun fjárframlaga hafi breyst verulega,
+   og getur hvor um sig þá krafist endurskoðunar á framlaginu.
+        Nú er hluti af starfsemi rekstrarleyfishafa háður fjárframlögum
+   samkvæmt ákvæði þessu, og getur Póst- og fjarskiptastofnun þá krafist þess
+   að sá þáttur starfseminnar sé bókhaldslega aðskilinn frá annarri starfsemi
+   leyfishafans.
+        Póst- og fjarskiptastofnun skal skera úr ágreiningi um fjárframlög,
+   þar á meðal um greiðslur samkvæmt þessari grein.
+
+                                    15. gr.
+
+                                 Jöfnunargjald.
+        Til að stranda straum af greiðslu fjárframlaga samkvæmt þessum kafla
+   skal innheimta álag, jöfnunargjald, sem rennur til Póst- og
+   fjarskiptastofnunar.
+        Skal jöfnunargjaldið lagt á rekstrarleyfishafa innan viðkomandi
+   þjónustusviðs, í hlutfalli við bókfærða veltu á viðkomandi þjónustusviði.
+   Með bókfærðri veltu er átt við rekstrartekjur sem rekstrarleyfishafi hefur
+   af leyfisbundinni starfsemi hér á landi. Sá þáttur rekstrarleyfishafa sem
+   lýtur að leyfisbundinni starfsemi hér á landi skal vera bókhaldslega
+   aðskilinn frá annarri starfsemi leyfishafans.
+        Jöfnunargjald samkvæmt lögum þessum skal ákveðið árlega með lögum, í
+   fyrsta skipti fyrir gjaldárið 1998.
+        Jöfnunargjald má draga frá tekjum þess rekstrarárs þegar stofn þess
+   myndaðist.
+        Um álagningu og innheimtu jöfnunargjalds fer samkvæmt ákvæðum
+   [2]VIII.[3]XIV. kafla laga nr. 75/1981, um tekjuskatt og eignarskatt, með
+   síðari breytingum, eftir því sem við á og skulu innheimtuaðilar standa
+   Póst- og fjarskiptastofnun skil á innheimtum gjöldum mánaðarlega.
+        Samgönguráðherra setur með reglugerð nánari fyrirmæli um fjárframlög
+   og jöfnunargjöld í fjarskiptaþjónustu, þar á meðal um útreikning á
+   kostnaði við að veita fjarskiptaþjónustu, og um útreikning rekstrartaps.
+        Í þeim tilfellum þar sem ekki verður beitt jöfnunargjaldi skal
+   kostnaður vegna óarðbærrar alþjónustu skv. 7. gr. greiddur úr ríkissjóði
+   eftir því sem kveðið er á um í fjárlögum.
+
+                                   IX. kafli.
+      Samningar og greiðslur fyrir óarðbæra þjónustu, aðra en alþjónustu.
+                                    16. gr.
+        Nú óskar samgönguráðherra eftir því að lagt sé í framkvæmdir eða
+   rekstur sem er til almannaheilla í öryggisskyni, eða vegna
+   byggðasjónarmiða, og ætla má að skili ekki arði, án þess þó að um
+   alþjónustu sé að ræða, og skal Póst- og fjarskiptastofnun þá falið að gera
+   um slíkt samning við rekstrarleyfishafa á viðkomandi sviði.
+        Kostnaður sem rekja má til ákvarðana samgönguráðherra skv. 1. mgr.
+   skal að jafnaði greiddur úr ríkissjóði, eftir því sem kveðið er á um í
+   fjárlögum.
+
+                                   X. kafli.
+                           Leynd og vernd fjarskipta.
+                                    17. gr.
+
+                                 Þagnarskylda.
+        Allir þeir sem starfa við fjarskiptavirki, hvort sem um er að ræða
+   starfsmenn rekstrarleyfishafa eða aðra, skulu skyldir, bæði meðan þeir
+   gegna starfinu og eftir að þeir hafa látið af því, að halda leyndu fyrir
+   óviðkomandi aðilum öllu því sem um fjarskiptavirkin fer, hvort sem um er
+   að ræða efni skeyta eða samtala eða hvort fjarskipti hafa átt sér stað og
+   milli hverra.
+        Ekki má án undangengins dómsúrskurðar heimila óviðkomandi aðilum að
+   sjá skeyti eða önnur skjöl sem um fjarskiptavirkin fara eða hlusta á
+   fjarskiptasamtöl eða hljóðrita þau. Um aðgang lögreglu að upplýsingum um
+   fjarskipti skal fara samkvæmt lögum um meðferð opinberra mála.
+        Rekstrarleyfishöfum skal heimilt að skrá upplýsingar um fjarskipti
+   sem um fjarskiptavirki þeirra fara, enda sé um að ræða lið í
+   reikningsfærslu gagnvart viðkomandi notanda.
+        Samgönguráðherra setur reglur um skráningu og meðferð upplýsinga um
+   fjarskipti, að fengnum tillögum Póst- og fjarskiptastofnunar.
+
+                                    18. gr.
+
+                        Vernd skeyta- og merkjasendinga.
+        Enginn sem starfar við fjarskiptavirki má aflaga, ónýta eða skjóta
+   undan skeytum, myndum eða öðrum merkjum sem afhent eru til flutnings um
+   fjarskiptavirkin eða liðsinna öðrum við þess konar athæfi.
+        Sá sem fyrir tilviljun, mistök eða án sérstakrar heimildar tekur við
+   símskeytum, myndum eða öðrum fjarskiptamerkjum eða hlustar á
+   fjarskiptasamtöl má ekki skrá neitt slíkt hjá sér eða notfæra sér það á
+   nokkurn hátt. Berist manni með slíkum hætti skeyti eða skjal skal
+   viðkomandi tilkynna sendanda að slíkt hafi ranglega borist sér. Skylt er
+   að gæta fyllsta trúnaðar í slíkum tilfellum.
+
+                                   XI. kafli.
+                     Eftirlit með búnaði, leyfisbréf o.fl.
+                                    19. gr.
+
+                            Gerðarsamþykki búnaðar.
+        Ekki má flytja inn, smíða eða setja á markað fjarskiptavirki eða
+   annan búnað, er tengja á við almennt fjarskiptanet, nema að viðkomandi
+   búnaður eða einstakir hlutar hans hafi eða fái gerðarsamþykki, sbr. 2.5.
+   mgr.
+        Öll fjarskiptavirki skulu fá gerðarsamþykki Póst- og
+   fjarskiptastofnunar, nema fyrir liggi að þau hafi þegar fengið
+   gerðarsamþykki, sbr. 6. mgr.
+        Fjarskiptavirki sem þurfa gerðarsamþykki eru:
+
+   a.
+           öll fjarskiptavirki fyrir þráðlaus fjarskipti, enda hafi undanþága
+           ekki verið veitt,
+   b.
+           allur notendabúnaður, þ.e. fjarskiptavirki sem tengjast eða geta
+           tengst almennum fjarskiptanetum.
+
+        Nú liggja fyrir vottorð og mælingarskýrslur um fjarskiptavirki frá
+   faggiltri prófunarstöð, innlendri eða erlendri, um að það sé í samræmi við
+   viðurkennda staðla og reglur, og skal þá leggja slík gögn til grundvallar
+   við útgáfu gerðarsamþykkis. Að öðrum kosti skal leggja mælingar og
+   prófanir Póst- og fjarskiptastofnunar til grundvallar.
+        Öll fjarskiptavirki sömu gerðar og hinn samþykkti búnaður skal merkja
+   á þann hátt sem stofnunin ákveður. Póst- og fjarskiptastofnun er heimilt
+   að veita undanþágu frá skyldu til gerðarsamþykkis fjarskiptavirkja, enda
+   sé búnaðurinn merktur á þann hátt sem stofnunin ákveður.
+        Hafi fjarskiptavirki CE-merkingu til staðfestingar á því að það
+   uppfylli viðeigandi kröfur um fjarskiptavirki innan Evrópska
+   efnahagssvæðisins þarf Póst- og fjarskiptastofnun ekki að gefa út
+   gerðarsamþykki. Á sama hátt má fella niður kröfu um gerðarsamþykki Póst-
+   og fjarskiptastofnunar ef fjarskiptavirki hefur sérstaka merkingu í
+   samræmi við samevrópskar reglur sem íslensk stjórnvöld hafa skuldbundið
+   sig til að hlíta.
+        Póst- og fjarskiptastofnun skal hafna viðurkenningu á fjarskiptavirki
+   eða öðrum búnaði ef hann er ekki í samræmi við staðla sem gilda um
+   fjarskiptabúnað á Evrópska efnahagssvæðinu. Jafnframt er Póst- og
+   fjarskiptastofnun heimilt að afturkalla fyrri yfirlýsingu ef breyting
+   verður á staðlakröfum eða ef forsendur fyrir leyfisveitingu hafa breyst
+   eða brostið.
+
+                                    20. gr.
+
+                  Réttindi til að starfa við fjarskiptavirki.
+        Þeir sem annast uppsetningu og aðra tækniþjónustu við fjarskiptavirki
+   skulu hafa til þess réttindi samkvæmt reglugerð sem samgönguráðherra
+   setur.
+
+                                    21. gr.
+
+                        Sérstök leyfisbréf og skírteini.
+        Póst- og fjarskiptastofnun gefur út leyfisbréf og skírteini til handa
+   þeim aðilum sem samkvæmt sérstökum lögum eða alþjóðasamþykktum hafa fengið
+   leyfi til eða skuldbundið sig til að halda uppi fjarskiptum á ákveðnum
+   sviðum. Í leyfisbréfum skal kveðið á um tæknilega eiginleika
+   fjarskiptavirkja í samræmi við settar reglur og alþjóðasamþykktir, svo sem
+   um tíðni og útgeislað afl. Póst- og fjarskiptastofnun hefur eftirlit með
+   starfsemi þessara fjarskiptavirkja.
+
+                                  XII. kafli.
+                       Um fjarskiptavirki í farartækjum.
+                                    22. gr.
+
+                         Fjarskiptavirki í farartækjum.
+        Samgönguráðherra getur mælt fyrir um það í reglugerð að íslensk skip,
+   loftför og önnur farartæki séu búin fjarskiptavirkjum.
+
+                                    23. gr.
+
+                    Fjarskiptavirki í erlendum farartækjum.
+        Fjarskiptavirki í erlendum skipum, flugvélum eða öðrum erlendum
+   farartækjum, sem eru innan íslenskrar land- eða lofthelgi, má aðeins nota
+   í samræmi við íslensk lög og reglugerðir. Póst- og fjarskiptastofnun getur
+   bannað notkun fjarskiptavirkja í erlendum förum innan íslenskrar lögsögu
+   ef talið er að notkun þeirra sé andstæð íslenskum reglum.
+
+                                  XIII. kafli.
+                     Sérstök ákvæði um þráðlaus fjarskipti.
+                                    24. gr.
+
+                               Notkun tíðnirófs.
+        Póst- og fjarskiptastofnun skal stuðla að sem hagkvæmastri nýtingu
+   tíðnirófsins, skipuleggja notkun þess og úthluta tíðnum. Samgönguráðherra
+   getur með reglugerð sett nánari reglur um skipulagningu og úthlutun tíðna.
+
+                                    25. gr.
+
+            Leyfi fyrir búnaði og kerfum til þráðlausra fjarskipta.
+        Búnað fyrir þráðlaus fjarskipti, bæði sendi- og viðtæki, má aðeins
+   hafa undir höndum, setja upp eða nota að fengnu leyfi Póst- og
+   fjarskiptastofnunar, sbr. XI. kafla laganna. Skulu leyfin vera tímabundin.
+   Slík leyfi má binda skilyrðum, m.a. að því er varðar sendiafl,
+   staðsetningu búnaðar, bandbreidd, útbreiðslusvæði og tengingar við almennt
+   fjarskiptanet.
+        Leyfi skv. 1. mgr. geta ýmist verið einstaklingsbundin eða almenn
+   fyrir notkun tiltekinna gerða fjarskiptatækja, samkvæmt ákvörðun Póst- og
+   fjarskiptastofnunar.
+        Kerfi með tækjum fyrir þráðlaus fjarskipti má aðeins setja upp eða
+   nota að fengnu leyfi Póst- og fjarskiptastofnunar. Slíkt leyfi má binda
+   skilyrðum, m.a. að því er varðar öryggisráðstafanir gegn óheimilli notkun
+   kerfisins.
+        Samgönguráðherra getur sett reglugerð um uppsetningu og notkun
+   búnaðar og kerfa fyrir þráðlaus fjarskipti.
+
+                                    26. gr.
+
+                         Synjun um leyfi. Afturköllun.
+        Póst- og fjarskiptastofnun getur synjað um tíðniúthlutun ef ekki
+   hefur verið aflað nauðsynlegs leyfis til að reka fjarskiptanet eða
+   fjarskiptaþjónustu.
+        Tíðniúthlutun má afturkalla ef nauðsynlegt leyfi skv. 1. mgr. fellur
+   úr gildi eða ef aðrar mikilvægar forsendur fyrir úthlutun eða leyfi
+   breytast eða bresta, t.d. vegna alþjóðlegs samkomulags sem Ísland er aðili
+   að.
+
+                                  XIV. kafli.
+                        Eftirlit með símatorgsþjónustu.
+                                    27. gr.
+        Póst- og fjarskiptastofnun setur reglur um símatorgsþjónustu sem
+   staðfestar skulu af samgönguráðherra.
+        Nú telur Póst- og fjarskiptastofnun að símatorgsþjónusta sé andstæð
+   almennu siðferði, svo sem vegna kláms eða því um líks, og getur Póst- og
+   fjarskiptastofnun þá mælt fyrir um fyrirvaralausa stöðvun slíkrar
+   starfsemi.
+
+                                   XV. kafli.
+                     Uppsetning og vernd fjarskiptavirkja.
+                                    28. gr.
+
+          Heimild til að leggja fjarskiptaleiðslur, um eignarnám o.fl.
+        Nú er rekstrarleyfishafa nauðsynlegt að leggja leiðslur
+   fjarskiptavirkja um land annars manns, yfir það eða í jörðu, yfir hús eða
+   önnur mannvirki á landinu, á þeim, gegnum þau eða undir þeim, og er
+   eiganda viðkomandi fasteignar þá skylt að heimila slíkt. Hafa skal samráð
+   við eigendur eða umráðamenn slíkra fasteigna og mannvirkja um hvar
+   leiðslur eru lagðar og skal þess gætt að sem minnst sé raskað hagsmunum
+   eiganda viðkomandi eignar. Starfsmenn við fjarskiptavirki skulu gæta þess
+   að valda eigendum og íbúum ekki meiri óþægindum en brýnustu nauðsyn ber
+   til.
+        Nú verður tjón á landi manna, mannvirkjum eða öðrum eignum við
+   lagningu fjarskiptavirkja eða viðhald þeirra, og ekki verður úr bætt, eða
+   lagning fjarskiptavirkja leiðir til takmörkunar á afnotamöguleikum
+   viðkomandi eignar, og skal eigandi fjarskiptavirkis þá bæta tjónið. Náist
+   ekki samkomulag um bótafjárhæð skulu bæturnar metnar samkvæmt lögum um
+   framkvæmd eignarnáms.
+        Ef rekstrarleyfishafa er nauðsynlegt að tryggja sér land, lóð eða
+   aðra eign í sambandi við lagningu eða rekstur almennra fjarskiptavirkja og
+   samningum um kaup verður ekki við komið má samgönguráðherra heimila, að
+   fenginni umsögn Póst- og fjarskiptastofnunar, að eign eða hluti hennar sé
+   tekinn eignarnámi gegn endurgjaldi sem meta skal samkvæmt lögum um
+   framkvæmd eignarnáms. Samþykki ráðherra fyrir eignarnámi skal m.a. háð því
+   að eignarnemi setji tryggingu fyrir greiðslu áætlaðra eignarnámsbóta og
+   kostnaðar við matið. Nú fást eignarnámsbætur ekki greiddar hjá eignarnema,
+   og skal ríkissjóður þá ábyrgjast greiðslu þeirra, enda hafi eignarnámsþoli
+   staðið tilhlýðilega að innheimtu þeirra hjá eignarnema.
+
+                                    29. gr.
+
+                            Vernd fjarskiptavirkja.
+        Þar sem fjarskiptavirki eru má ekki reisa mannvirki, setja upp tæki,
+   leggja pípur, raflagnir, leiðslur og því um líkt, gera jarðrask eða aðrar
+   ráðstafanir er af geta hlotist skemmdir á fjarskiptavirkjum eða truflanir
+   á rekstri þeirra, nema áður hafi verið aflað upplýsinga um legu þeirra og
+   samráð verið haft við eiganda fjarskiptavirkisins um tilhögun
+   framkvæmdanna.
+        Nú reynist nauðsynlegt vegna verklegra framkvæmda að flytja til eða
+   breyta legu fjarskiptavirkja, og ber þá sá sem slíka framkvæmd annast
+   allan kostnað sem af því kann að leiða, beinan og óbeinan, nema annað hafi
+   orðið að samkomulagi.
+        Ef jarðrask eða aðrar framkvæmdir hafa leitt til skemmda á
+   fjarskiptavirkjum eða truflunum á rekstri þeirra skal sá sem þeim hefur
+   valdið þegar í stað tilkynna það til eiganda fjarskiptavirkisins. Er
+   tjónvaldi jafnframt skylt að bæta allt tjón sem af skemmdunum leiðir, bæði
+   beint og óbeint, þar á meðal viðskiptatap, nema hann sýni fram á að ekki
+   hafi verið komist hjá tjóni þó að fyllsta aðgæsla hefði verið sýnd.
+        Nú liggur fyrir að tæki, raflagnir, pípur, leiðslur eða því um líkt
+   valda truflun á rekstri fjarskiptavirkis, og er rekstrarleyfishafa þá
+   heimilt að krefjast úrbóta frá eiganda án tafar, en ella er
+   rekstrarleyfishafa heimilt að gera nauðsynlegar ráðstafanir til að koma í
+   veg fyrir truflun þá sem af þessu hlýst. Nú er truflun að þessu leyti að
+   rekja til gáleysis eiganda viðkomandi búnaðar, og ber eiganda þá að greiða
+   allan kostnað sem af úrbótum leiðir.
+
+                                    30. gr.
+
+                               Vernd sæstrengja.
+        Þar sem fjarskiptastrengir liggja í sjó skulu sjófarendur sýna
+   aðgæslu og gæta varúðar. Nú er tjóni valdið á fjarskiptastreng af
+   ásetningi eða gáleysi, og skal þá sá sem tjóni hefur valdið bæta beint og
+   óbeint fjártjón sem af því hlýst, nema hann sýni fram á að hann hafi gert
+   allar nauðsynlegar varúðarráðstafanir til þess að komast hjá tjóni.
+
+                                    31. gr.
+
+                              Viðgerð sæstrengja.
+        Þegar skip er innan eða utan landhelgi að starfa við lagningu eða
+   viðgerð fjarskiptastrengja og ber til sýnis alþjóðamerki eða önnur merki
+   er gefa þetta til kynna, skulu önnur skip, sem sjá eða eiga að geta séð
+   þessi merki, halda sig eigi skemmra en mílufjórðung frá sæsímaskipinu. Net
+   og önnur veiðarfæri skal hafa í sömu fjarlægð. Fiskiskip skulu þó hafa 12
+   stunda frest til þess að fjarlægja veiðarfæri sem í sjó liggja.
+        Nú hefur dufl verið lagt út vegna lagningar eða viðgerðar á sæstreng,
+   og skulu skip þá halda sig og veiðarfærum sínum eigi skemmra en
+   mílufjórðung frá duflinu.
+
+                                    32. gr.
+
+                 Aðgerðir til verndar sæstrengjum, bætur o.fl.
+        Ef skip hefur orðið að sleppa akkeri eða leggja net eða önnur
+   veiðarfæri í sölurnar til þess að komast hjá því að skemma sæstrengi á það
+   kröfu um skaðabætur frá eiganda strengjanna, enda hafi skipið sjálft ekki
+   stofnað til hættunnar af gáleysi.
+        Ef unnt er skulu skipverjar þegar færa til bókar skýrslu um tjónið
+   sem staðfest skal af stjórnanda skipsins. Að auki skal eiganda
+   sæstrengsins eða forsvarsmanni eiganda tilkynnt um atburðinn eins fljótt
+   og kostur er.
+
+                                    33. gr.
+
+                      Takmörkun fjarskipta vegna truflana.
+        Póst- og fjarskiptastofnun getur látið innsigla fjarskiptavirki eða
+   hluta þeirra eða bannað notkun þeirra og eftir atvikum fyrirskipað að fá
+   þau afhent til geymslu undir innsigli, ef fjarskiptavirkin trufla önnur
+   fjarskipti eða hætta er á að öryggi fjarskipta sé raskað.
+
+                                  XVI. kafli.
+                            Fjarskipti á hættutímum.
+                                    34. gr.
+        Á ófriðartímum getur samgönguráðherra samkvæmt ákvörðun ríkisstjórnar
+   mælt fyrir um stöðvun fjarskipta sem teljast hættuleg öryggi ríkisins.
+        Í neyðartilvikum, svo sem þegar um er að ræða eldgos, jarðskjálfta,
+   snjóflóð o.s.frv., getur samgönguráðherra að beiðni almannavarnaráðs mælt
+   fyrir um takmörkun fjarskipta sem truflað geta neyðar- og
+   öryggisfjarskipti. Á sama hátt skal heimilt að mæla fyrir um að tiltekin
+   fjarskiptavirki skuli notuð í þágu björgunaraðgerða og að sett skuli upp
+   ný fjarskiptavirki. Komi endurgjald til greina greiðist það úr ríkissjóði
+   samkvæmt mati.
+
+                                  XVII. kafli.
+            Ábyrgðartakmarkanir, útilokun sambanda, aðfararheimild.
+                                    35. gr.
+
+                              Ábyrgðartakmarkanir.
+        Þeim sem hefur leyfi til reksturs almenns fjarskiptanets samkvæmt
+   lögum þessum er heimilt í viðskiptaskilmálum sínum að undanþiggja sig
+   bótaábyrgð á tjóni sem rekja má til sambandsleysis, rofa á fjarskiptum eða
+   annarra truflana sem kunna að verða á rekstri fjarskiptanetsins eða
+   mistaka við afgreiðslu símskeyta, hvort sem slíkt má rekja til línubilana,
+   bilana í sambandastöðvum eða annarra ástæðna. Slík ábyrgðartakmörkun er þó
+   bundin við að tjónið verði ekki rakið til stórfelldra mistaka starfsmanna
+   rekstrarleyfishafa.
+
+                                    36. gr.
+
+                               Útilokun sambanda.
+        Rekstrarleyfishafa er heimilt að mæla svo fyrir í viðskiptaskilmálum
+   sínum að notanda, sem ekki stendur skil á áföllnum gjöldum á réttum
+   gjalddaga fyrir fjarskipti eða afnot fjarskiptavirkja, megi útiloka frá
+   almennum fjarskiptum um óákveðinn tíma eða þar til hann hefur greitt skuld
+   sína að fullu.
+
+                                    37. gr.
+
+                                Aðfararheimild.
+        Gjaldfallnar kröfur rekstrarleyfishafa vegna afnotagjalda og tengdrar
+   þjónustu, á hendur skráðum rétthöfum í talsímaþjónustu, má taka fjárnámi
+   samkvæmt aðfararlögum án undangenginnar dómsúrlausnar eða dómsáttar.
+
+                                 XVIII. kafli.
+                                 Viðurlög o.fl.
+                                    38. gr.
+        Brot á lögum þessum og reglugerðum settum samkvæmt þeim varða sektum,
+   en varðhaldi allt að sex mánuðum ef sakir eru miklar eða brot ítrekuð.
+   Gáleysisbrot skulu eingöngu varða sektum.
+        Brot gegn X. kafla laganna um leynd og vernd fjarskipta varða
+   refsingu svo sem mælt er fyrir um í 1. mgr. Sé slíkt brot framið í
+   ávinningsskyni, hvort sem er í eigin þágu eða annarra, má refsa með
+   fangelsi allt að þremur árum.
+        Upptæk skal gera tæki þau og hluti sem í heimildarleysi hafa verið
+   flutt inn, smíðuð eða starfrækt, sbr. 69. gr. almennra hegningarlaga, með
+   síðari breytingum.
+
+                                    39. gr.
+        Notkunargjald fyrir talsímaþjónustu hjá hverjum rekstrarleyfishafa
+   fyrir sig skal vera hið sama alls staðar á landinu eigi síðar en 1. júlí
+   1998 og skal þá innheimta sérstaks álags vegna langlínusamtala óheimil.
+
+                                  XIX. kafli.
+                                  Reglugerðir.
+                                    40. gr.
+        Samgönguráðherra setur í reglugerð^1) nánari fyrirmæli um framkvæmd
+   fjarskiptamála.
+
+   ^1)Rg. 118/1917. Rg. 70/1942, sbr. augl. 144/1971. Rg. 332/1980, 625/1981,
+   336/1984, 99/1985, 2/1987, 493/1988, 45/1989. Rg. 473/1989. Rg. 15/1991.
+   Rg. 71/1991. Rg. 419/1992, sbr. 312/1994. Rg. 445/1993. Rg. 373/1994. Rg.
+   382/1994. Rg. 383/1994. Rg. 589/1994. 35/1995. Rg. 337/1995. Rg. 119/1996.
+   Rg. 174/1996. Rg. 608/1996. Gjaldskrá og rg. 624/1996, sbr. 641/1996.
+
+                                   XX. kafli.
+                                  Gildistaka.
+                                    41. gr.
+        Lög þessi öðlast gildi 1. janúar 1997.
+        ...
+
+                            Ákvæði til bráðabirgða.
+        Samgönguráðherra skal veita Pósti og síma hf. einkaleyfi til þess að
+   reka almenna talsímaþjónustu hér á landi og til þess að eiga og reka
+   almennt fjarskiptanet. Skal það rekstrarleyfi Pósts og síma hf. gilda þar
+   til réttur til að veita einkaleyfi til almenns fjarskiptareksturs fellur
+   niður eða eigi síðar en 1. janúar 1998. Á sama tíma skal öðrum óheimilt að
+   eiga og reka almennt fjarskiptanet og veita almenna talsímaþjónustu.
+        Um skilyrði fyrir einkaleyfi og um gjaldtöku á gildistíma einkaleyfis
+   fer skv. 9. og 10. gr. laga um stofnun hlutafélags um rekstur Póst- og
+   símamálastofnunar, nr. 103/1996.
+
+References
+
+   Visible links
+   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996143
+   2. file:///altext/stjtnr.html#1981075?k8
+   3. file://1981075.html

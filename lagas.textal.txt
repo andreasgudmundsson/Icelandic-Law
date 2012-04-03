@@ -1,0 +1,20 @@
+
+   [1][ Hefja leit ] Aðal [2]leitarorð [3][ ] allar myndir [4][ Hreinsa
+   leitarsvið ]
+   [5]__________________________________________________
+   [[6]____] 2. leitarorð [7][ ] allar myndir
+   [8]__________________________________________________
+   [[9]____] 3. leitarorð [10][ ] allar myndir
+   [11]__________________________________________________
+
+   --------------------------------------------------------------------------
+
+   Grunnur þessarar textaleitar er [12]Freetext search For Web (FFW) frá
+   [13]TeleNor Research Norway
+
+References
+
+   Visible links
+   2. file:///~wwwadm/text.ff-hlp.html
+  12. http://www.nta.no/produkter/ffw/ffw.html
+  13. http://www.nta.no/produkter/ffw/ffw.html

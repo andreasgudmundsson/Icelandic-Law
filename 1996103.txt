@@ -171,5 +171,5 @@ References
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996103
    2. file://1995002.html#g133
    3. file://1995002.html#g14
-   4. file://1963029.html#g12
-   5. file://1963029.html#g12
+   4. file://1963029.html
+   5. file://1963029.html

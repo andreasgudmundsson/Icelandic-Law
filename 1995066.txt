@@ -101,14 +101,14 @@
                   ekki sérstaklega kveðið á um annað. Sveitarstjórn skal gera
          menntamálaráðuneytinu árlega eða oftar, sé þess krafist, grein fyrir
                                      framkvæmd skólahalds í skólahverfi sínu.
-                   Menntamálaráðherra getur sett í reglugerð nánari ákvæði um
+                Menntamálaráðherra getur sett í reglugerð^1) nánari ákvæði um
                            upplýsingaskyldu sveitarfélaga varðandi skólahald.
             [Samband íslenskra sveitarfélaga hefur frumkvæði að lausn málefna
    grunnskólans sem varða fleiri en eitt sveitarfélag, ef þeim er ekki skipað
-          með öðrum hætti í lögum, reglugerðum eða með samkomulagi aðila.]^1)
+          með öðrum hætti í lögum, reglugerðum eða með samkomulagi aðila.]^2)
 
-   ^1)[2]L. 77/1996, 1. gr. Ákvæðið komi til framkvæmda 1. ágúst 1996 og komi
-   til endurskoðunar eigi síðar en 1. janúar 1999.
+   ^1)[2]Rg. 384/1996.^2)[3]L. 77/1996, 1. gr. Ákvæðið komi til endurskoðunar
+   eigi síðar en 1. janúar 1999.
 
                                     11. gr.
         Skólahverfi er sú eining sem stendur að einum grunnskóla eða fleiri.
@@ -127,7 +127,7 @@
         [Sveitarfélag getur falið byggðasamlagi um rekstur grunnskóla þau
    réttindi og skyldur sem á sveitarfélagi hvíla samkvæmt lögum þessum.]^1)
 
-   ^1)[3]L. 77/1996, 2. gr.
+   ^1)[4]L. 77/1996, 2. gr.
 
                                     12. gr.
         Í hverju skólahverfi skal vera skólanefnd sem fer með málefni
@@ -150,7 +150,7 @@
                                     13. gr.
         Skólanefnd skal kosin af hlutaðeigandi sveitarstjórn eða
    sveitarstjórnum í upphafi hvers kjörtímabils. Um kosningu í skólanefnd og
-   starfshætti fer samkvæmt [4]sveitarstjórnarlögum, nr. 8/1986, og
+   starfshætti fer samkvæmt [5]sveitarstjórnarlögum, nr. 8/1986, og
    samþykktum viðkomandi sveitarfélags.
         Varamenn í skólanefndum skulu jafnmargir aðalmönnum og kosnir á sama
    hátt.
@@ -245,9 +245,11 @@
 
                                     20. gr.
         Við undirbúning að nýbyggingu og endurbótum grunnskólahúsnæðis skal
-   farið að reglugerð er menntamálaráðherra setur í samráði við Samband
+   farið að reglugerð^1) er menntamálaráðherra setur í samráði við Samband
    íslenskra sveitarfélaga og kveður á um lágmarks aðstöðu og búnað.
         Sveitarstjórn ákveður nafn skóla.
+
+   ^1)[6]Rg. 519/1996.
 
                                     21. gr.
         Sveitarfélögum er skylt að annast og kosta viðhald skólahúsa og
@@ -275,7 +277,7 @@
         Menntamálaráðherra setur nánari ákvæði um framkvæmd þessarar greinar
    í reglugerð að höfðu samráði við Samband íslenskra sveitarfélaga.]^1)
 
-   ^1)[5]L. 77/1996, 3. gr.
+   ^1)[7]L. 77/1996, 3. gr.
 
                                     22. gr.
         Dagleg umsjón og umráð skólamannvirkja, þar á meðal skólastjóra- og
@@ -348,7 +350,7 @@
    getur menntamálaráðherra veitt tímabundna undanþágu frá framangreindum
    ákvæðum.
 
-   ^1)[6]L. 77/1996, 4. gr.
+   ^1)[8]L. 77/1996, 4. gr.
 
                                     27. gr.
         Kennsludagur grunnskólanemenda skal hefjast að morgni og vera
@@ -408,7 +410,7 @@
    hæfileikum, getu eða áhugasviðum nemenda.
 
                                     30. gr.
-        Í aðalnámskrá skal kveðið á um meginmarkmið náms og kennslu. Í
+        Í aðalnámskrá^1) skal kveðið á um meginmarkmið náms og kennslu. Í
    aðalnámskrá skal tilgreina kjarnagreinar og kveða á um uppbyggingu og
    skipan náms í grunnskóla, svo og hlutfallslega skiptingu tíma milli
    námssviða og námsgreina. Þess skal gætt að námið verði sem heildstæðast.
@@ -434,6 +436,8 @@
    i.
            kristin fræði, siðfræði og trúarbragðafræði.
 
+   ^1)Augl. 437/1996.
+
                                     31. gr.
         Í hverjum skóla skal árlega gefa út skólanámskrá og er skólastjóri
    ábyrgur fyrir gerð hennar. Skólanámskrá er unnin af kennurum skólans.
@@ -449,7 +453,9 @@
    Verja má allt að þriðjungi námstímans í valgreinar. Heimilt er að meta
    tímabundna þátttöku í atvinnulífi sem nám, enda sé það skipulagt í samráði
    við skólann.
-        Menntamálaráðherra setur nánari reglur um valgreinar.
+        Menntamálaráðherra setur nánari reglur^1) um valgreinar.
+
+   ^1)[9]Rg. 387/1996.
 
                                     33. gr.
         Kennsla í skyldunámi í opinberum grunnskólum skal veitt nemendum þeim
@@ -506,21 +512,25 @@
         Heimilt er að veita þessum nemendum undanþágu frá því að þreyta
    samræmt lokapróf í íslensku og leggja fyrir þá sérstakt lokapróf í
    íslensku.
-        Menntamálaráðherra setur nánari reglur um kennslu þessara nemenda.
+        Menntamálaráðherra setur nánari reglur^1) um kennslu þessara nemenda.
+
+   ^1)Rg. 391/1996.
 
                                     37. gr.
         Börn og unglingar, sem eiga erfitt með nám sökum sértækra
    námsörðugleika, tilfinningalegra eða félagslegra örðugleika og/eða
-   fötlunar, sbr. [7]2. gr. laga nr. 59/1992, eiga rétt á sérstökum stuðningi
-   í námi.
+   fötlunar, sbr. [10]2. gr. laga nr. 59/1992, eiga rétt á sérstökum
+   stuðningi í námi.
         Kennslan getur verið einstaklingsbundin eða farið fram í hópi innan
    eða utan almennra bekkjardeilda, í sérdeildum eða í sérskóla.
         Meginstefnan skal vera sú að kennslan fari fram í heimaskóla. Telji
    foreldrar barns eða forráðamenn, kennarar eða aðrir sérfræðingar að barnið
    fái ekki notið kennslu við sitt hæfi í heimaskóla geta forráðamenn sótt um
    skólavist fyrir það í sérskóla.
-        Menntamálaráðherra setur í reglugerð nánari ákvæði um framkvæmd
+        Menntamálaráðherra setur í reglugerð^1) nánari ákvæði um framkvæmd
    þessarar greinar.
+
+   ^1)[11]Rg. 389/1996.
 
                                     38. gr.
         Sveitarfélög skulu annast rekstur sérdeilda/sérskóla fyrir nemendur
@@ -546,7 +556,9 @@
         Í grunnskóla er heimilt að stofna nemendaverndarráð til að samræma
    störf þeirra sem sjá um málefni einstakra nemenda varðandi námsráðgjöf,
    sérfræðiþjónustu og heilsugæslu.
-        Menntamálaráðherra setur reglugerð um nemendaverndarráð.
+        Menntamálaráðherra setur reglugerð^1) um nemendaverndarráð.
+
+   ^1)[12]Rg. 388/1996.
 
                                     40. gr.
         Nemandi má ekki stunda vinnu á starfstíma skóla valdi hún því að
@@ -574,8 +586,10 @@
    sérfræðiþjónustu á vegum sveitarfélaga.
         Óheimilt er að víkja nemanda úr skóla nema honum hafi verið tryggt
    annað úrræði.
-        Í reglugerð sem menntamálaráðherra setur skal mæla nánar fyrir um
+        Í reglugerð^1) sem menntamálaráðherra setur skal mæla nánar fyrir um
    framkvæmd þessarar greinar.
+
+   ^1)[13]Rg. 385/1996.
 
                                   VIII. kafli.
                                Sérfræðiþjónusta.
@@ -588,8 +602,10 @@
    önnur sveitarfélög, stofnanir, svo sem kennaramenntunarstofnanir, eða aðra
    aðila er veita þjónustu á þessu sviði.
         Hverju sveitarfélagi er skylt að gera menntamálaráðuneyti grein fyrir
-   skipulagi sérfræðiþjónustu við skóla. Menntamálaráðherra setur reglugerð
-   þar sem m.a. er kveðið á um lágmarksþjónustu á þessu sviði.
+   skipulagi sérfræðiþjónustu við skóla. Menntamálaráðherra setur
+   reglugerð^1) þar sem m.a. er kveðið á um lágmarksþjónustu á þessu sviði.
+
+   ^1)[14]Rg. 386/1996.
 
                                     43. gr.
         Sérfræðiþjónustu skóla er ætlað að stuðla að því að kennslufræðileg
@@ -628,8 +644,10 @@
    þessar upplýsingar og öðrum vegna fræðilegra rannsókna enda sé krafist
    fullrar þagnarskyldu.
         Nemandi og forráðamaður hans hafa rétt til að skoða metnar
-   prófúrlausnir nemanda samkvæmt nánari ákvæðum í reglugerð sem
+   prófúrlausnir nemanda samkvæmt nánari ákvæðum í reglugerð^1) sem
    menntamálaráðherra setur.
+
+   ^1)[15]Rg. 710/1996.
 
                                     46. gr.
         Samræmd próf í kjarnagreinum skulu lögð fyrir samtímis í öllum 4. og
@@ -643,8 +661,10 @@
         Rannsóknastofnun uppeldis- og menntamála, eða annar aðili sem
    menntamálaráðherra ákveður, hefur umsjón með gerð og framkvæmd þessara
    prófa.
-        Menntamálaráðherra setur í reglugerð nánari ákvæði um fyrirkomulag og
-   framkvæmd samræmdra prófa.
+        Menntamálaráðherra setur í reglugerð^1) nánari ákvæði um fyrirkomulag
+   og framkvæmd samræmdra prófa.
+
+   ^1)[16]Rg. 516/1996.
 
                                     47. gr.
         Er grunnskólanámi lýkur skal nemandi fá skírteini er votti að hann
@@ -653,10 +673,12 @@
         Menntamálaráðuneytið gefur út viðmiðanir fyrir slík skírteini.
 
                                     48. gr.
-        Menntamálaráðherra setur í reglugerð ákvæði um með hvaða hætti fylgst
-   skuli með námsárangri nemenda í sérskólum og hjá öðrum þeim nemendum á
-   skyldunámsaldri er taldir eru víkja svo frá almennum þroska að þeim henti
-   ekki próf skv. 46. gr.
+        Menntamálaráðherra setur í reglugerð^1) ákvæði um með hvaða hætti
+   fylgst skuli með námsárangri nemenda í sérskólum og hjá öðrum þeim
+   nemendum á skyldunámsaldri er taldir eru víkja svo frá almennum þroska að
+   þeim henti ekki próf skv. 46. gr.
+
+   ^1)[17]Rg. 709/1996.
 
                                     49. gr.
         Sérhver grunnskóli innleiðir aðferðir til að meta skólastarfið, þar á
@@ -686,8 +708,10 @@
 
                                     52. gr.
         Alþingi veitir árlega fé á fjárlögum í þróunarsjóð grunnskóla.
-   Menntamálaráðherra hefur umsjón með sjóðnum og setur reglur um
+   Menntamálaráðherra hefur umsjón með sjóðnum og setur reglur^1) um
    styrkveitingar.
+
+   ^1)[18]Rg. 657/1996.
 
                                     53. gr.
         Menntamálaráðherra getur, með samþykki sveitarstjórnar, haft forgöngu
@@ -770,7 +794,7 @@
    til þess tíma, haga ráðningu kennara og annarra starfsmanna grunnskóla sem
    starfa sem ríkisstarfsmenn.
 
-   ^1)[8]Rg. 349/1995.
+   ^1)[19]Rg. 349/1995.
 
                             Ákvæði til bráðabirgða.
         [Ákvæði 3. gr. um einsetinn grunnskóla skal komið að fullu til
@@ -835,17 +859,28 @@
 
    8.10. bekkur: 37 kennslustundir.]^1)
 
-   ^1)[9]L. 77/1996, 5. gr.
+   ^1)[20]L. 77/1996, 5. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995066
-   2. file:///altext/stjt/1996.077.html
+   2. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3841996
    3. file:///altext/stjt/1996.077.html
-   4. file://1986008.html
-   5. file:///altext/stjt/1996.077.html
-   6. file:///altext/stjt/1996.077.html
-   7. file://1992059.html#g2
-   8. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3491995
-   9. file:///altext/stjt/1996.077.html
+   4. file:///altext/stjt/1996.077.html
+   5. file://1986008.html
+   6. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-5191996
+   7. file:///altext/stjt/1996.077.html
+   8. file:///altext/stjt/1996.077.html
+   9. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3871996
+  10. file://1992059.html#g2
+  11. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3891996
+  12. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3881996
+  13. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3851996
+  14. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3861996
+  15. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-7101996
+  16. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-5161996
+  17. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-7091996
+  18. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-6571996
+  19. http://brunnur.stjr.is/interpro/mrn/mrn.nsf/pages/logogregl-3491995
+  20. file:///altext/stjt/1996.077.html
