@@ -27,8 +27,12 @@ gildi 7. apríl 2000 nema d-liður 3. gr. sem tók gildi 15. maí 2000), l. 38/2
 tölul. 59. gr. sem tók gildi 25. sept. 2008; komu til framkvæmda skv. fyrirmælum
  í 2. mgr. 56. gr.), l. 137/2008 (tóku gildi 12. des. 2008), l. 140/2008 (tóku
  gildi 16. des. 2008), l. 147/2008 (tóku gildi 1. jan. 2009), l. 175/2008 (tóku
- gildi 1. jan. 2009), l. 60/2009 (tóku gildi 30. maí 2009) og l. 130/2009 (tóku
-gildi 30. des. 2009 nema 7.9. gr. og 13.42. gr. sem tóku gildi 1. jan. 2010).
+  gildi 1. jan. 2009), l. 60/2009 (tóku gildi 30. maí 2009), l. 130/2009 (tóku
+gildi 30. des. 2009 nema 7.9. gr. og 13.42. gr. sem tóku gildi 1. jan. 2010),
+l. 156/2010 (tóku gildi 1. jan. 2011), l. 162/2010 (tóku gildi 1. jan. 2011), l.
+164/2010 (tóku gildi 1. jan. 2011 nema 2., 6., 22. og 26. gr. sem tóku gildi 31.
+ des. 2010; komu til framkvæmda skv. fyrirmælum í 29. gr.) og l. 165/2010 (tóku
+            gildi og komu til framkvæmda skv. fyrirmælum í 69. gr.).
 
                     I. kafli. Almenn ákvæði og gjaldskylda.
  1. gr. Greiða skal í ríkissjóð vörugjald af ökutækjum sem skráningarskyld eru
@@ -49,137 +53,128 @@ gildi 30. des. 2009 nema 7.9. gr. og 13.42. gr. sem tóku gildi 1. jan. 2010
                     II. kafli. Vörugjald af ökutækjum o.fl.
                              Gjaldflokkar ökutækja.
   3. gr. [Á fólksbifreiðar og önnur vélknúin ökutæki, sem ekki eru sérstaklega
- tilgreind í 4. gr., skal lagt vörugjald í eftirfarandi gjaldflokkum miðað við
-                  sprengirými aflvélar, mælt í rúmsentímetrum:
+tilgreind í 4. og 5. gr., skal lagt vörugjald samkvæmt aðalflokki í eftirfarandi
+  gjaldbilum miðað við skráða losun koltvísýrings (CO[2]) viðkomandi ökutækis,
+                    mælt í grömmum á hvern ekinn kílómetra:
 
                                    Gjald í %
-Flokkur          Sprengirými aflvélar
-I                02.000                                 30
-II               Yfir 2.000                              45         ]^1)
+Gjaldbil         Skráð losun         Aðalflokkur         Undanþáguflokkur
+                 CO[2                                    skv. 5. gr.
+A                ]080               0                   0
+B                81100              10                  0
+C                101120             15                  0
+D                121140             20                  0
+E                141160             25                  5
+F                161180             35                  10
+G                181200             45                  15
+H                201225             55                  20
+I                226250             60                  25
+J                yfir 250            65                  30
 
-                               ^1)L. 8/2000, 1. gr.
-        4. gr. [Vörugjald af eftirtöldum vörum skal vera sem hér segir:
-                1. Eftirtalin ökutæki skulu undanþegin vörugjaldi:
-   a. Hópferðabifreiðar, þ.e. ökutæki sem aðallega eru ætluð til fólksflutninga,
-        sem skráðar eru fyrir 18 manns eða fleiri að meðtöldum ökumanni.
-   b. Dráttarbifreiðar fyrir festivagna og sem aðallega eru gerðar til að draga
+  Ef ökutæki er framleitt og skráð með metan sem aðalorkugjafa skal vörugjald
+  ökutækisins að hámarki vera 1.250.000 kr. lægra en útreikningur skv. 1. mgr.
+segir til um. Lækkun samkvæmt þessum lið skal jafnframt eiga við um ökutæki sem
+                  tilgreind eru í g- og h-lið 2. tölul. 4. gr.
+  Lækkun á vörugjaldi sem gjaldanda hlotnast samkvæmt undanþáguflokki 1. mgr.
+             getur aldrei numið hærri fjárhæð en 1.250.000 kr.]^1)
+                              ^1)L. 156/2010, 1. gr.
+        4. gr. [Vörugjald samkvæmt lögum þessum skal vera sem hér segir:
+                         1. Ökutæki undanþegin vörugjaldi:
+   a. Dráttarbifreiðar fyrir festivagna og sem aðallega eru gerðar til að draga
               annað ökutæki, sem eru yfir 5 tonn að heildarþyngd.
-     c. Ökutæki sem aðallega eru ætluð til vöruflutninga og eru yfir 5 tonn að
+     b. Ökutæki sem aðallega eru ætluð til vöruflutninga og eru yfir 5 tonn að
                                  heildarþyngd.
-   d. Vélknúin ökutæki til sérstakra nota, gálgabifreiðar, kranabifreiðar o.fl.,
+   c. Vélknúin ökutæki til sérstakra nota, gálgabifreiðar, kranabifreiðar o.fl.,
    sem ekki eru aðallega hönnuð til flutnings á mönnum eða vörum og ekki eru
      tilgreind annars staðar í þessari grein, að heildarþyngd yfir 5 tonn.
-      e. Tengivagnar og festivagnar til vöruflutninga sem eru yfir 5 tonn að
+      d. Tengivagnar og festivagnar til vöruflutninga sem eru yfir 5 tonn að
                              leyfðri heildarþyngd.
-                          2. 10% vörugjald: Dráttarvélar.
-                                [3. 13% vörugjald:
+   e. Dráttarbifreiðar að heildarþyngd 4 tonn eða meira sem gerðar eru til nota
+                                 utan þjóðvega.
+      f. Slökkvibifreiðar og sjúkrabifreiðar í eigu ríkis, sveitarfélaga eða
+                            stofnana á þeirra vegum.
+         g. Sjálfhlaðandi eða sjálflosandi tengivagnar og festivagnar til
+                                landbúnaðarnota.
+                                 h. Dráttarvélar.
+      i. Beltabifreiðar (snjóbílar), yfir 700 kg að eigin þyngd, sérstaklega
+                          ætlaðar til aksturs í snjó.
+                   j. Haffær ökutæki á hjólum fyrir láð og lög.
+   k. Ökutæki í eigu erlendra sendiráða, sendiræðisskrifstofa og sendiræðismanna
+sé slíkt skylt samkvæmt milliríkjasamningum sem Ísland er aðili að. Sama gildir
+               um alþjóðasamtök og alþjóðastofnanir sem hér eru.
+    l. Sérsmíðaðar keppnisbifreiðar og keppnisbifhjól sem eru skráð sem slík og
+        einungis notuð í skipulögðum keppnum og æfingum á vegum samtaka
+      akstursíþróttamanna, svo og til aksturs til og frá slíkum atburðum.
+Skráningarmerki bifreiðanna og bifhjólanna skulu auðkennd sérstaklega. Ráðherra
+    setur nánari reglur um gerð og útbúnað þeirra, svo og til hvaða atburða
+ akstursheimildin taki. Sé brotið í bága við þær reglur skal vörugjald innheimt
+                                   að fullu.
+     m. Bifreiðar í eigu ríkis, sveitarfélaga eða stofnana á þeirra vegum eða
+   fatlaðra sem eru sérstaklega búnar til flutnings á fötluðum, þ.m.t. búnar
+          hjólastólalyftu, og samþykktar af Sjúkratryggingum Íslands.
+     n. Ökutæki sem ætluð eru fyrir starfsemi björgunarsveita enda liggi fyrir
+staðfesting landssamtaka björgunarsveita á að viðkomandi ökutæki verði einungis
+                         notuð í þágu björgunarsveita.
+    o. Hópferðabifreiðar sem skráðar eru fyrir 10 manns eða fleiri að meðtöldum
+               ökumanni að leyfðri heildarþyngd 5 tonn eða meira.
+   p. Bifhjól samkvæmt skilgreiningu umferðarlaga sem knúin eru af rafhreyfli að
+                                  öllu leyti.
+           q. Grindur með hreyfli og ökumannshúsi án vöruflutningarýmis.
+                                 2. 13% vörugjald:
     a. Kranabifreiðar og borkranabifreiðar sem eru 5 tonn eða minna að leyfðri
                                  heildarþyngd.
-                  b. Grindur með hreyfli fyrir vélknúin ökutæki.
-        c. Yfirbyggingar, þar með talin ökumannshús fyrir vélknúin ökutæki.
-    d. Tengivagnar og festivagnar til vöruflutninga sem eru 5 tonn eða minna að
+           b. Yfirbyggingar, þ.m.t. ökumannshús fyrir vélknúin ökutæki.
+    c. Tengivagnar og festivagnar til vöruflutninga sem eru 5 tonn eða minna að
                leyfðri heildarþyngd, aðrir tengi- og festivagnar.
-     e. Dráttarbifreiðar fyrir festivagna sem aðallega eru gerðar til að draga
-                annað ökutæki, að heildarþyngd 5 tonn eða minna.
-   f. Ökutæki, sem aðallega eru ætluð til vöruflutninga, að heildarþyngd 5 tonn
-                                   eða minna.
-    g. Vélknúin ökutæki til sérstakra nota, gálgabifreiðar o.fl., sem ekki eru
+     d. Dráttarbifreiðar fyrir festivagna sem aðallega eru gerðar til að draga
+                annað ökutæki að heildarþyngd 5 tonn eða minna.
+    e. Vélknúin ökutæki til sérstakra nota, gálgabifreiðar o.fl., sem ekki eru
  aðallega hönnuð til flutnings á mönnum eða vörum og ekki eru tilgreind annars
-           staðar í þessari grein, að heildarþyngd 5 tonn eða minna,
-         h. Fólksbifreiðar og önnur vélknúin ökutæki 40 ára og eldri.]^1)
-                                      4. ^1)
-     5. 30% vörugjald: Hópferðabifreiðar sem skráðar eru fyrir 1017 manns að
-                              meðtöldum ökumanni.
-                              6. [30%]^2) vörugjald:
-       a. Bifhjól (þar með talin stigin bifhjól) og reiðhjól með hjálparvél.
-                           b. Beltabifhjól (vélsleðar).
-                                   c. Fjórhjól.
-       d. Önnur vélknúin ökutæki sem ekki eru sérstaklega talin upp í þessum
-                                   kafla.]^3)
-                                      ^4)
-      ^1)L. 19/2003, 1. gr. ^2)L. 8/2000, 2. gr. ^3)L. 83/1998, 6. gr. ^4)L.
-                               104/2000, 18. gr.
-       5. gr. Ökutæki í eigu erlendra sendiráða, sendiræðisskrifstofa og
-sendiræðismanna eru undanþegin gjaldskyldu samkvæmt kafla þessum sé slíkt skylt
-      samkvæmt milliríkjasamningum sem Ísland er aðili að. Sama gildir um
-                  alþjóðasamtök og -stofnanir sem hér eru. ^1)
-[Þrátt fyrir ákvæði 3. gr. skal vörugjald af eftirfarandi ökutækjum vera sem hér
-                                    greinir:
-                1. Eftirtalin ökutæki skulu undanþegin vörugjaldi:
-   a. Dráttarbifreiðar að heildarþyngd 4 tonn eða meira sem gerðar eru til nota
-                                 utan þjóðvega.
-                                  b. Snjóplógar.
-   c. Slökkvibifreiðar í eigu ríkis, sveitarfélaga eða stofnana á þeirra vegum.
-    d. Sjúkrabifreiðar í eigu ríkis, sveitarfélaga eða stofnana á þeirra vegum.
-         e. Sjálfhlaðandi eða sjálflosandi tengivagnar og festivagnar til
-                                landbúnaðarnota.
-       f. Bifreiðar í eigu ríkis, sveitarfélaga eða stofnana á þeirra vegum,
-  sérstaklega búnar til flutnings á fötluðum, þ.m.t. búnar hjólastólalyftu og
-                 samþykktar af [sjúkratryggingastofnuninni].^2)
-                       g. Dráttarvélar til nota á lögbýlum.
-      h. Beltabifreiðar (snjóbílar), yfir 700 kg að eigin þyngd, sérstaklega
-                          ætlaðar til aksturs í snjó.
-                   i. Haffær ökutæki á hjólum fyrir láð og lög.
-         j. Ökutæki sem knúin eru rafhreyfli og flutt eru inn eða smíðuð í
-                                 tilraunaskyni.
-      k. Sérsmíðaðar keppnisbifreiðar sem eru skráðar sem slíkar og einungis
- notaðar í skipulögðum keppnum og æfingum á vegum samtaka akstursíþróttamanna,
-svo og til aksturs til og frá slíkum atburðum. Skráningarmerki bifreiðanna skulu
- auðkennd sérstaklega. Ráðherra setur nánari reglur um gerð og útbúnað þeirra,
-svo og til hvaða atburða akstursheimildin taki. Sé brotið í bága við þær reglur
-                       skal vörugjald innheimt að fullu.
-   [l. Bifreiðar fatlaðra sem eru sérstaklega búnar til flutnings á þeim, þ.m.t.
-  búnar hjólastólalyftu, og samþykktar af [sjúkratryggingastofnuninni].^2)]^3)
-    [m. Ökutæki sem ætluð eru fyrir starfsemi björgunarsveita enda liggi fyrir
-staðfesting landssamtaka björgunarsveita á að viðkomandi ökutæki verði einungis
-                       notuð í þágu björgunarsveita.]^4)
-   2. Greiða skal 10% vörugjald af hópferðabifreiðum sem eru skráðar fyrir 1017
-  manns að meðtöldum ökumanni og eru í eigu hópferða- eða sérleyfishafa eða í
-      fjármögnunarleigu vegna fjármögnunarleigusamnings við hópferða- eða
-         sérleyfishafa.^5) Gjaldið skal lækka í 5% frá 1. janúar 2000.
-                                      3. ^3)
-      4. [Vörugjald af leigubifreiðum til fólksflutninga skal lagt á samkvæmt
-   eftirfarandi töflu miðað við sprengirými aflvélar, mælt í rúmsentímetrum:
-
-Flokkur               Sprengirými aflvélar               Gjald í %
-I                     02.000                            10
-II                    Yfir 2.000                         13
-
-    Skilyrði lækkunar vörugjalds af leigubifreið eru að kaupandi hennar hafi
-      atvinnuleyfi til leiguaksturs fólksbifreiða og hafi akstur hennar að
-                                aðalatvinnu.]^3)
-    [5. Vörugjald af bifreiðum sem ætlaðar eru til útleigu hjá bílaleigum skal
-                                     vera:
-
-Flokkur               Sprengirými aflvélar               Gjald í %
-I                     02.000                            10
-II                    Yfir 2.000                         13
-
- Bifreið sem ber lægra vörugjald samkvæmt þessum tölulið skal skráð á bílaleigu
-      sem hefur leyfi samgönguráðuneytisins til að leigja bifreiðar eða á
-  fjármögnunarleigu vegna fjármögnunarleigusamnings við bílaleigu. Einungis er
-heimilt að nýta bifreið samkvæmt þessum tölulið til útleigu hjá þeirri bílaleigu
-sem skráð er fyrir bifreiðinni. Bílaleiga skal haga bókhaldi sínu þannig að hún
-   geti á hverjum tíma gert grein fyrir akstri þeirra bifreiða sem bera lægra
-  vörugjald samkvæmt þessum tölulið. Tollstjóri getur án fyrirvara óskað eftir
- gögnum þar um. Sé bifreið notuð til annars er tollstjóra heimilt að innheimta
-fullt vörugjald skv. 3. gr. laganna, með 50% álagi. Við mat á því hvort bifreið
- hafi einungis verið notuð til útleigu skal miðað við að unnt sé að gera grein
-fyrir a.m.k. 90% af akstri hennar með framlagningu leigusamninga eða öðrum hætti
-sem tollstjóri metur fullnægjandi. Ráðherra getur í reglugerð sett nánari reglur
-  um þær bifreiðar sem njóta undanþágu samkvæmt þessum tölulið. Brot á ákvæðum
-hans varðar því að hin brotlega bílaleiga missir rétt til lækkunar í þrjú ár frá
-                               síðasta broti.]^3)
-    [6. Vörugjald af bifreiðum til ökukennslu skal lagt á samkvæmt eftirfarandi
-          töflu miðað við sprengirými aflvélar, mælt í rúmsentímetrum:
-
-Flokkur               Sprengirými aflvélar               Gjald í %
-I                     02.000                            10
-II                    Yfir 2.000                         13
-
-  Skilyrði fyrir því að bifreið til ökukennslu beri vörugjald samkvæmt þessum
- tölulið eru að kaupandi hennar hafi hlotið löggildingu sem ökukennari og hafi
-                         akstur hennar að aðalatvinnu.
+           staðar í þessari grein, að heildarþyngd 5 tonn eða minna.
+           f. Fólksbifreiðar og önnur vélknúin ökutæki 40 ára og eldri.
+   g. Sendibifreiðar sem aðallega eru ætlaðar til vöruflutninga undir 5 tonn að
+leyfðri heildarþyngd, með sambyggt stýrishús og flutningsrými og án farþegasæta
+                                  í farmrými.
+          h. Grindur með hreyfli og ökumannshúsi sem búið er að bæta við
+                    vöruflutningarými, sbr. q-lið 1. tölul.
+                                 3. 30% vörugjald:
+    a. Hópferðabifreiðar sem skráðar eru fyrir 10 manns eða fleiri að meðtöldum
+ökumanni að leyfðri heildarþyngd 5 tonn eða minna. Sömu ökutæki í eigu hópferða-
+ eða sérleyfishafa eða í fjármögnunarleigu vegna fjármögnunarleigusamnings við
+              hópferða- eða sérleyfishafa skulu bera 5% vörugjald.
+    b. Bifhjól samkvæmt skilgreiningu umferðarlaga og jafnframt stigin bifhjól.
+       c. Önnur vélknúin ökutæki sem ekki eru sérstaklega talin upp í þessum
+                                   kafla.]^1)
+                              ^1)L. 156/2010, 2. gr.
+                                   5. gr. ^1)
+      [Vörugjald af eftirfarandi ökutækjum skal vera sem hér greinir]:^1)
+       [1. ]^1) [[Vörugjald af leigubifreiðum til fólksflutninga skal lagt á
+samkvæmt undanþáguflokki 3. gr. miðað við skráða losun koltvísýrings viðkomandi
+    ökutækis, mælt í grömmum á hvern ekinn kílómetra.]^1) Skilyrði lækkunar
+    vörugjalds af leigubifreið eru að kaupandi hennar hafi atvinnuleyfi til
+      leiguaksturs fólksbifreiða og hafi akstur hennar að aðalatvinnu.]^2)
+   [[2. ]^1) [Vörugjald af bifreiðum sem ætlaðar eru til útleigu hjá bílaleigum
+skal lagt á samkvæmt undanþáguflokki 3. gr. miðað við skráða losun koltvísýrings
+viðkomandi ökutækis, mælt í grömmum á hvern ekinn kílómetra.]^1) Bifreið sem ber
+ lægra vörugjald samkvæmt þessum tölulið skal skráð á bílaleigu sem hefur leyfi
+  samgönguráðuneytisins til að leigja bifreiðar eða á fjármögnunarleigu vegna
+  fjármögnunarleigusamnings við bílaleigu. Einungis er heimilt að nýta bifreið
+  samkvæmt þessum tölulið til útleigu hjá þeirri bílaleigu sem skráð er fyrir
+bifreiðinni. Bílaleiga skal haga bókhaldi sínu þannig að hún geti á hverjum tíma
+gert grein fyrir akstri þeirra bifreiða sem bera lægra vörugjald samkvæmt þessum
+  tölulið. Tollstjóri getur án fyrirvara óskað eftir gögnum þar um. Sé bifreið
+notuð til annars er tollstjóra heimilt að innheimta fullt vörugjald skv. 3. gr.
+ laganna, með 50% álagi. Við mat á því hvort bifreið hafi einungis verið notuð
+ til útleigu skal miðað við að unnt sé að gera grein fyrir a.m.k. 90% af akstri
+   hennar með framlagningu leigusamninga eða öðrum hætti sem tollstjóri metur
+fullnægjandi. Ráðherra getur í reglugerð sett nánari reglur um þær bifreiðar sem
+ njóta undanþágu samkvæmt þessum tölulið. Brot á ákvæðum hans varðar því að hin
+  brotlega bílaleiga missir rétt til lækkunar í þrjú ár frá síðasta broti.]^2)
+       [[3. ]^1) [Vörugjald af bifreiðum til ökukennslu skal lagt á samkvæmt
+undanþáguflokki 3. gr. miðað við skráða losun koltvísýrings viðkomandi ökutækis,
+ mælt í grömmum á hvern ekinn kílómetra.]^1) Skilyrði fyrir því að bifreið til
+ ökukennslu beri vörugjald samkvæmt þessum tölulið eru að kaupandi hennar hafi
+    hlotið löggildingu sem ökukennari og hafi akstur hennar að aðalatvinnu.
      Ökuskólar geta jafnframt notið lækkunar samkvæmt þessum tölulið. Skilyrði
      þess eru að ökuskóli hagi skráningu á akstri bifreiðar sem nýtur lægra
      vörugjalds þannig að á hverjum tíma sé unnt að gera grein fyrir akstri
@@ -194,42 +189,35 @@ gerðrar akstursbókar eða öðrum hætti sem tollstjóri metur fullnægjandi. 
       Brot á þeim skilyrðum sem sett eru í þessum tölulið varðar því að hinn
  brotlegi, hvort sem er einstaklingur eða lögaðili, missir rétt til lækkunar í
                            þrjú ár frá síðasta broti.
-            7. Vörugjald af bifreiðum sem notaðar eru til ökukennslu og
-     leigubifreiðaaksturs skal lagt á samkvæmt eftirfarandi töflu miðað við
-                  sprengirými aflvélar, mælt í rúmsentímetrum:
-
-Flokkur               Sprengirými aflvélar               Gjald í %
-I                     02.000                            10
-II                    Yfir 2.000                         13
-
-Skilyrði fyrir því að bifreið sem nýtt er til ökukennslu og leigubifreiðaaksturs
-beri vörugjald samkvæmt þessum tölulið eru að kaupandi hennar hafi atvinnuleyfi
-til leiguaksturs fólksbifreiða og hafi hlotið löggildingu sem ökukennari og hafi
-                   þessi störf samanlagt að aðalatvinnu.]^6)
-       [8. Vörugjald af bifreiðum sem eru sérstaklega útbúnar og notaðar til
-                            líkflutninga skal vera:
-
-Flokkur               Sprengirými aflvélar               Gjald í %
-I                     02.000                            10
-II                    Yfir 2.000                         13]^7)
-
-[Ráðherra er heimilt að setja í reglugerð^8) nánari skilyrði um þau ökutæki sem
+    [4. ]^1) [Vörugjald af sérútbúnum bifreiðum til fólksflutninga skal lagt á
+samkvæmt undanþáguflokki 3. gr. miðað við skráða losun koltvísýrings viðkomandi
+               ökutækis, mælt í grömmum á hvern ekinn kílómetra.
+      Skilyrði fyrir því að bifreið sem er sérútbúin til fólksflutninga beri
+vörugjald samkvæmt þessum tölulið eru að kaupandi hennar hafi leyfi til reksturs
+  sérútbúinna bifreiða skv. [4]10. gr. laga nr. 73/2001, um fólksflutninga og
+ farmflutninga á landi, jafnframt að bifreiðin sé eingöngu notuð í tengslum við
+                            þjónustu við ferðamenn.
+   Bifreið sem er sérútbúin til fólksflutninga og ber vörugjöld samkvæmt þessum
+   tölulið skal auðkenna með sérstökum hætti í ökutækjaskrá og skal hún bera
+  sérstök skráningarmerki og skal útlit þeirra tilgreint nánar í reglugerð um
+                          skráningu ökutækja.]^1)]^3)
+                                 [[5. ]^1) ^1)]^4)
+[Ráðherra er heimilt að setja í reglugerð^5) nánari skilyrði um þau ökutæki sem
 falla undir 2. mgr., svo sem um notkun ökutækis, búnað þess og hvað teljist vera
   aðalatvinna skv. 4. tölul. 2. mgr., svo og ákvæði um endurgreiðslu á mismun
 vörugjalds skv. 3. gr. annars vegar og 2. mgr. hins vegar ef skilyrðunum er ekki
-                                 fylgt.]^3)]^9)
-    ^1)L. 72/2005, 3. gr. ^2)[4]L. 112/2008, 72. gr. ^3)L. 8/2000, 3. gr. ^4)L.
-104/2000, 19. gr. ^5)Rg. 254/1993, sbr. 360/1998 og 705/1999. ^6)L. 56/2001, 1.
- gr. ^7)L. 19/2003, 2. gr. ^8)Rg. 331/2000, sbr. 446/2009. ^9)L. 151/1998, 11.
-                                      gr.
+                                 fylgt.]^2)]^6)
+      ^1)L. 156/2010, 3. gr. ^2)L. 8/2000, 3. gr. ^3)L. 56/2001, 1. gr. ^4)L.
+    19/2003, 2. gr. ^5)Rg. 331/2000, sbr. 446/2009. ^6)L. 151/1998, 11. gr.
                                Innflutt ökutæki.
 6. gr. Þegar ökutæki er innflutt skal innflytjandi þess afhenda [tollstjóra]^1)
  með aðflutningsskýrslu staðfestingu um forskráningu ökutækis þar sem m.a. skal
-                     gerð grein fyrir stærð aflvélar þess.
-  Þegar ekki er unnt að leggja fram gögn um forskráningu við tollafgreiðslu er
-  heimilt að leggja fram önnur þau gögn um vélarstærð ökutækis er [tollstjóri
-                            metur]^1) fullnægjandi.
-                              ^1)L. 147/2008, 37. gr.
+             gerð grein fyrir [skráðri koltvísýringslosun]^2) þess.
+ [Þegar ekki er unnt að leggja fram gögn um skráða losun koltvísýrings (CO[2])
+  viðkomandi ökutækis skal losun ökutækis á hvern ekinn kílómetra ákvörðuð sem
+   0,12 grömm á hvert kíló skráðrar eigin þyngdar ökutækisins að viðbættum 50
+                         grömmum af koltvísýringi.]^2)
+                  ^1)L. 147/2008, 37. gr. ^2)L. 156/2010, 4. gr.
  7. gr. [Ákvæði 4. gr., 6. tölul. 1. mgr. 6. gr. og 2. tölul., 4.8. tölul. og
 13. tölul. 1. mgr. [5]7. gr. tollalaga, nr. 88/2005, skulu ná til vörugjalds af
         ökutækjum samkvæmt lögum þessum eftir því sem við getur átt.]^1)
@@ -241,6 +229,17 @@ samræmi við verðmæti þess við skráningu og samkvæmt þeim gjaldflokki se
                       fellur undir samkvæmt lögum þessum.
   Heimilt er að draga frá greiðslu skv. 1. mgr. það vörugjald sem þegar hefur
                verið greitt af ökutækinu eða efnivörum til þess.
+ [Tollstjóra er heimilt að fella niður vörugjald af nýju og ónotuðu ökutæki að
+ hámarki 1.250.000 kr. sé ökutækinu breytt fyrir nýskráningu þannig að það nýti
+    metan í stað bensíns eða dísilolíu og breytingin sé staðfest og vottuð í
+skráningarskoðun ökutækisins. Til þess að ökutæki geti notið lækkaðs vörugjalds
+samkvæmt þessari málsgrein skal það vera útbúið að lágmarki 78 lítra metangeymi.
+ Óheimilt er að fjarlægja eða gera breytingarbúnað ökutækis óvirkan innan fimm
+   ára frá nýskráningu. Ökutæki sem nýtur lækkaðs vörugjalds samkvæmt þessari
+  málsgrein getur ekki hlotið endurgreiðslu á vörugjöldum samkvæmt ákvæði til
+ bráðabirgða í lögum þessum um endurgreiðslu vörugjalda af ökutækjum sem hefur
+  verið breytt þannig að ökutækið nýti metan í stað bensíns eða dísilolíu.]^1)
+                              ^1)L. 156/2010, 5. gr.
 9. gr. Sé ökutæki, sem skráð hefur verið samkvæmt [7]umferðarlögum, nr. 50/1987,
   breytt þannig að það flokkist í hærri gjaldflokk en við upphaflega skráningu
   skal skráður eigandi þess greiða viðbótarvörugjald eigi breytingin sér stað
@@ -255,9 +254,10 @@ samræmi við verðmæti þess við skráningu og samkvæmt þeim gjaldflokki se
     greitt hefur verið vegna aðfanga til aðvinnslunnar eða breytingarinnar.
                                   Ýmis ákvæði.
     10. gr. Tollstjóri getur krafist þess að gjaldskyldir aðilar leggi fram
-     upplýsingar frá framleiðanda ökutækis um sprengirými aflvélar þess eða
+upplýsingar frá framleiðanda ökutækis um [skráða koltvísýringslosun]^1) þess eða
 samsvarandi upplýsingar innlends aðila sem annast hefur aðvinnslu eða breytingar
                                   á ökutækinu.
+                              ^1)L. 156/2010, 6. gr.
 11. gr. Óheimilt er að skrásetja gjaldskylt ökutæki fyrr en gjald samkvæmt lögum
                            þessum hefur verið greitt.
     Þeir aðilar, sem skrá og skoða ökutæki, skulu ganga úr skugga um það við
@@ -274,22 +274,24 @@ samsvarandi upplýsingar innlends aðila sem annast hefur aðvinnslu eða breyti
 
                       III. kafli. Vörugjöld af eldsneyti.
                         Almennt vörugjald af eldsneyti.
- 14. gr. [Greiða skal [22,94 kr.]^1) vörugjald af hverjum lítra af bensíni.]^2)
-                   ^1)L. 130/2009, 2. gr. ^2)L. 86/1999, 1. gr.
+ 14. gr. [Greiða skal [23,86 kr.]^1) vörugjald af hverjum lítra af bensíni.]^2)
+                   ^1)L. 164/2010, 19. gr. ^2)L. 86/1999, 1. gr.
                         Sérstakt vörugjald af eldsneyti.
       15. gr. [Auk vörugjalds skv. 14. gr. skal greiða sérstakt vörugjald,
-   bensíngjald, af bensíni. Af blýlausu bensíni skal greiða [37,07 kr.]^1) af
-     hverjum lítra og af öðru bensíni skal greiða [39,28 kr.]^1) af hverjum
+   bensíngjald, af bensíni. Af blýlausu bensíni skal greiða [38,55 kr.]^1) af
+     hverjum lítra og af öðru bensíni skal greiða [40,85 kr.]^1) af hverjum
                                    lítra.]^2)
  [Tekjum af bensíngjaldi skal einungis varið til vegagerðar samkvæmt vegáætlun,
  að frádregnum 0,5% sem renna í ríkissjóð til að standa straum af kostnaði við
                      álagningu og innheimtu gjaldsins.]^3)
-        ^1)L. 137/2008, 4. gr. ^2)L. 86/1999, 2. gr. ^3)L. 159/1998, 6. gr.
+       ^1)L. 164/2010, 20. gr. ^2)L. 86/1999, 2. gr. ^3)L. 159/1998, 6. gr.
                                   16. gr. ^1)
                                ^1)L. 86/1999, 3. gr.
  17. gr. [Bensín sem verður notað eða hefur sannanlega verið notað á flugvélar
                         skal undanþegið vörugjaldi.]^1)
-                               ^1)L. 86/1999, 4. gr.
+  [Sé bensín blandað með íblöndunarefni sem ekki er af jarðefnauppruna skal sá
+  hluti blöndunnar sem ekki er af jarðefnauppruna undanþeginn vörugjaldi.]^2)
+                   ^1)L. 86/1999, 4. gr. ^2)L. 156/2010, 7. gr.
 
            IV. kafli. Gjaldskyldir aðilar, gjaldstofn og gjalddagar.
                 18. gr. Gjaldskyldir samkvæmt lögum þessum eru:
@@ -437,6 +439,66 @@ Ráðherra skal í reglugerð^1) setja nánari reglur um framkvæmd þessa ákv�
 sem nánari skilyrði fyrir endurgreiðslu, um ástand ökutækja, um gögn sem leggja
    þarf fram með umsókn um endurgreiðslu og um eftirlit og kæruheimildir.]^2)
                      ^1)Rg. 1144/2008. ^2)L. 140/2008, 1. gr.
+ [XII. Þrátt fyrir ákvæði 3. gr. skal vörugjald í eftirfarandi gjaldbilum gilda
+   fyrir ökutæki sem eru innflutt og tollafgreidd á árinu 2011 og falla í þau
+                      gjaldbil sem tilgreind eru í töflu:
+
+                                   Gjald í %
+Gjaldbil         Skráð losun         Aðalflokkur         Undanþáguflokkur
+                 CO[2                                    skv. 5. gr.
+G                ]181200            36                  12
+H                201225             44                  16
+I                226250             48                  20
+J                yfir 250            52                  24
+
+ Þrátt fyrir ákvæði 3. gr. skal vörugjald í eftirfarandi gjaldbilum gilda fyrir
+ ökutæki sem eru innflutt og tollafgreidd á árinu 2012 og falla í þau gjaldbil
+                           sem tilgreind eru í töflu:
+
+                                   Gjald í %
+Gjaldbil         Skráð losun         Aðalflokkur         Undanþáguflokkur
+                 CO[2                                    skv. 5. gr.
+G                ]181200            41                  14
+H                201225             50                  18
+I                226250             54                  23
+J                yfir 250            59                  27]^1)
+
+                              ^1)L. 156/2010, 8. gr.
+[XIII. Frá og með 1. janúar 2011 er tollstjóra heimilt að endurgreiða vörugjald
+   af ökutækjum sem hefur verið breytt þannig að ökutækið nýtir metan í stað
+    bensíns eða dísilolíu og hefur verið skráð sem slíkt hjá Umferðarstofu.
+  Fjárhæð endurgreiðslu vörugjalds skv. 1. mgr. skal vera 20% af kostnaði við
+ breytinguna samkvæmt reikningi breytingaverkstæðis en þó ekki hærri en 100.000
+  kr. Vörugjald skal því aðeins endurgreitt að ökutæki sé yngra en sex ára við
+ breytingu, miðað við framleiðsluár, og útbúið að lágmarki 78 lítra metangeymi.
+    Eigandi ökutækis skal sækja um endurgreiðslu vörugjalds skv. 1. mgr. til
+    tollstjóra á eyðublaði sem tollstjóri útbýr. Með umsókninni skal fylgja
+staðfesting Umferðarstofu um að ökutæki hafi verið breytt til þess að nýta metan
+  og að faggilt skoðunarstöð ökutækja hafi vottað breytinguna. Jafnframt skal
+    fylgja með vottorð faggiltrar skoðunarstöðvar um að ökutæki sé útbúið að
+                         lágmarki 78 lítra metangeymi.
+Ef ökutæki, sem hlotið hefur endurgreiðslu, getur ekki nýtt metan sem eldsneyti
+ vegna þess að breytingarbúnaður eða einhver hluti hans hefur verið fjarlægður
+ eða gerður óvirkur innan tveggja ára frá því að vörugjald var endurgreitt skal
+ eigandi ökutækis tilkynna tollstjóra og Umferðarstofu um að búnaður hafi verið
+fjarlægður eða gerður óvirkur og greiða upp endurgreiðsluna að fullu. Skylda til
+að tilkynna tollstjóra og Umferðarstofu um að búnaður hafi verið fjarlægður eða
+ færður til að nota á annað ökutæki hvílir jafnframt á hverjum þeim sem annast
+                    slíkar breytingar fyrir einhvern annan.
+Vanræki aðili að tilkynna tollstjóra innan mánaðar um að breytingarbúnaður hafi
+verið fjarlægður eða gerður óvirkur á einhvern hátt á því tímabili sem tilgreint
+ er í 4. mgr. skal eigandi ökutækis greiða upp endurgreiðsluna ásamt 50% álagi.
+Faggiltar skoðunarstofur ökutækja skulu kanna ástand og virkni metanbúnaðar við
+                      hverja reglubundna skoðun ökutækis.
+ Heimild til endurgreiðslu vörugjalds skv. 1. mgr. gildir þangað til vörugjald
+hefur verið endurgreitt vegna breytinga á 1.000 ökutækjum. Eigendur ökutækja sem
+  breytt hefur verið til þess að nýta metan í stað bensíns eða dísilolíu fyrir
+   gildistöku þessa ákvæðis og hlotið hafa vottun frá faggiltri skoðunarstöð
+  ökutækja samkvæmt reglum Umferðarstofu geta jafnframt sótt um endurgreiðslu
+                                  vörugjalda.
+Um eftirlit og kæruheimildir skulu gilda ákvæði [11]tollalaga, nr. 88/2005, með
+              síðari breytingum, eftir því sem við getur átt.]^1)
+                              ^1)L. 165/2010, 59. gr.
 
 References
 
@@ -444,10 +506,11 @@ References
    1. file://2004087.html
    2. file://2008112.html
    3. file://1987050.html
-   4. file://2008112.html
+   4. file://2001073.html#g10
    5. file://2005088.html#g7
    6. file://1987050.html
    7. file://1987050.html
    8. file://2005088.html
    9. file://1987097.html
   10. file://1987050.html
+  11. file://2005088.html

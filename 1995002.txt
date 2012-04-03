@@ -23,11 +23,11 @@ júní 2002), l. 76/2002 (tóku gildi 17. maí 2002), l. 35/2003 (tóku gildi 1.
  2003), l. 39/2003 (tóku gildi 3. apríl 2003), l. 72/2003 (tóku gildi 10. apríl
   2003), l. 18/2006 (tóku gildi 1. jan. 2007; EES-samningurinn: XXII. viðauki
  tilskipun 68/151/EBE), l. 88/2006 (tóku gildi 30. júní 2006), l. 89/2006 (tóku
-  gildi 1. okt. 2006; EES-samningurinn: tilmæli 2004/913/EB), l. 90/2006 (tóku
+ gildi 1. okt. 2006; EES-samningurinn: tilmæli 2004/913/EBE), l. 90/2006 (tóku
 gildi 30. júní 2006), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006),
 l. 54/2007 (tóku gildi 3. apríl 2007; EES-samningurinn: XXII. viðauki tilskipun
   2005/56/EB), l. 43/2008 (tóku gildi 5. júní 2008), l. 47/2008 (tóku gildi 6.
-júní 2008; EES-samningurinn: XXII. viðauki tilskipun 2006/68/EB), [4]l. 88/2008
+ júní 2008; EES-samningurinn: XXII. viðauki tilskipun 77/91/EBE), [4]l. 88/2008
    (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l.
   81/2009 (tóku gildi 8. ágúst 2009; EES-samningurinn: XXII. viðauki tilskipun
       78/855/EBE og 82/891/EBE), [5]l. 86/2009 (tóku gildi 18. ágúst 2009;
@@ -38,8 +38,8 @@ júní 2008; EES-samningurinn: XXII. viðauki tilskipun 2006/68/EB), [4]l. 88/20
 12. mars 2010 nema 2.4. málsl. 2. gr. um önnur hlutafélög en opinber hlutafélög
  og 3.5. málsl. 8. gr. sem taka gildi 1. sept. 2013) og l. 68/2010 (tóku gildi
   24. júní 2010 nema ákvæði um lengingu lágmarksfrests til boðunar aðalfunda í
-   hlutafélögum sem taka gildi 1. jan. 2011; EES-samningurinn: XXII. viðauki
-                             tilmæli 2009/385/EB).
+   hlutafélögum sem tóku gildi 1. jan. 2011; EES-samningurinn: XXII. viðauki
+                      tilmæli 2004/913/EB og 2005/162/EB).
 
                             I. kafli. Almenn ákvæði.
     1. gr. [Lög þessi gilda um öll hlutafélög nema annað sé ákveðið í lögum.
@@ -1388,33 +1388,31 @@ skylt að afhenda honum hlutaskrá, fundargerðabók og endurskoðunarbók féla
    hluthafafund, sem ráðherra boðar til skv. 2. mgr., á hefðbundinn hátt.]^2)
                     ^1)L. 41/1997, 4. gr. ^2)L. 89/2006, 6. gr.
 88. gr. Boða skal til hluthafafundar lengst fjórum vikum fyrir fund og, sé ekki
- mælt fyrir um lengri frest í félagssamþykktum, skemmst viku fyrir fund.^1) [Þó
-   má halda hluthafafund sem boðaður er með skemmst einnar viku fyrirvara ef
-    hluthafar, sem ráða yfir a.m.k. 90% af hlutafé, samþykkja það fyrir fram
-skriflega.]^2) Sé samþykkt að fresta hluthafafundi um meira en fjórar vikur skal
-  boða til framhaldsfundarins. Ef gildi ákvörðunar hluthafafundar er samkvæmt
-félagssamþykktum háð samþykki tveggja funda skal boðun til síðari fundarins ekki
-  fara fram fyrr en fyrri fundurinn hefur verið haldinn. Í því fundarboði skal
-                        greina ákvörðun fyrri fundarins.
+mælt fyrir um lengri frest í félagssamþykktum, skemmst [viku fyrir fund (tveimur
+vikum fyrir aðalfund)].^1) [Þó má halda hluthafafund sem boðaður er með skemmst
+    einnar viku fyrirvara ef hluthafar, sem ráða yfir a.m.k. 90% af hlutafé,
+ samþykkja það fyrir fram skriflega.]^1) Sé samþykkt að fresta hluthafafundi um
+  meira en fjórar vikur skal boða til framhaldsfundarins. Ef gildi ákvörðunar
+  hluthafafundar er samkvæmt félagssamþykktum háð samþykki tveggja funda skal
+ boðun til síðari fundarins ekki fara fram fyrr en fyrri fundurinn hefur verið
+        haldinn. Í því fundarboði skal greina ákvörðun fyrri fundarins.
  Boða skal til funda með þeim hætti sem félagssamþykktir ákveða. Boðun skal þó
   vera skrifleg til allra þeirra hluthafa sem þess hafa óskað og skráðir eru í
      hlutaskrá. Boðun skv. 2. mgr. 38. gr. skal þó alltaf vera skrifleg. [Í
       samþykktum opinbers hlutafélags skal kveðið á um að ætíð skuli boða
  stjórnarmenn, framkvæmdastjóra og endurskoðendur félagsins á hluthafafund, svo
-                     og fulltrúa fjölmiðla á aðalfund.]^3)
+                     og fulltrúa fjölmiðla á aðalfund.]^2)
  Í fundarboði skal greina málefni þau sem taka á til meðferðar á hluthafafundi.
   Ef taka á til meðferðar á fundinum tillögu til breytinga á samþykktum félags
                 skal greina meginefni tillögunnar í fundarboði.
- Viku fyrir hluthafafund hið skemmsta skal dagskrá, endanlegar tillögur, svo og
+    [Viku fyrir hluthafafund hið skemmsta (tveimur vikum fyrir aðalfund nema
+    boðunarfrestur sé skemmri)]^1) skal dagskrá, endanlegar tillögur, svo og
   ársreikningur (í móðurfélagi einnig samstæðureikningur), skýrsla stjórnar og
     skýrsla endurskoðenda [eða skoðunarmanna auk tillagna félagsstjórnar um
 starfskjarastefnu í félögum sem ber skylda til að kjósa sér endurskoðanda, sbr.
-     79. gr. a, sé um aðalfund að ræða],^4) lögð fram hluthöfum til sýnis á
-    skrifstofu félags og samtímis send sérhverjum skráðum hluthafa sem þess
-                                   óskar.^1)
-   ^1)Málsliðnum var breytt með l. 68/2010, 10. gr. Breytingarnar taka gildi 1.
- jan. 2011 skv. 31. gr. s.l. ^2)L. 68/2010, 10. gr. ^3)L. 90/2006, 6. gr. ^4)L.
-                                89/2006, 7. gr.
+     79. gr. a, sé um aðalfund að ræða],^3) lögð fram hluthöfum til sýnis á
+ skrifstofu félags og samtímis send sérhverjum skráðum hluthafa sem þess óskar.
+        ^1)L. 68/2010, 10. gr. ^2)L. 90/2006, 6. gr. ^3)L. 89/2006, 7. gr.
      [88. gr. a. Í félögum þar sem hlutir hafa verið teknir til viðskipta á
   skipulegum verðbréfamarkaði skal boða til hluthafafundar minnst þremur vikum
                                   fyrir fund.

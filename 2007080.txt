@@ -10,8 +10,8 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. janúar 2008. Breytt með [1]l. 88/2008 (tóku gildi 1. jan. 2009
- nema brbákv. VII sem tók gildi 21. júní 2008) og [2]l. 123/2010 (taka gildi 1.
-                                  jan. 2011).
+  nema brbákv. VII sem tók gildi 21. júní 2008), [2]l. 123/2010 (tóku gildi 1.
+              jan. 2011) og l. 162/2010 (tóku gildi 1. jan. 2011).
 
                             I. kafli. Almenn ákvæði.
                                 1. gr. Markmið.
@@ -45,10 +45,12 @@ til þess að vegur sé varanlegur, unnt sé að halda honum við og hafa af hon
 
                           II. kafli. Stjórn vegamála.
                           4. gr. Yfirstjórn vegamála.
- Samgönguráðherra fer með yfirstjórn vegamála. Vegagerðin annast þátt ríkisins
-  samkvæmt lögum þessum og hefur eftirlit með framkvæmd þeirra, nema annað sé
-   ákveðið í lögunum. Til að stjórna framkvæmdum í vegamálum skipar ráðherra
-    vegamálastjóra til fimm ára í senn og veitir hann Vegagerðinni forstöðu.
+  [Innanríkisráðherra]^1) fer með yfirstjórn vegamála. Vegagerðin annast þátt
+  ríkisins samkvæmt lögum þessum og hefur eftirlit með framkvæmd þeirra, nema
+   annað sé ákveðið í lögunum. Til að stjórna framkvæmdum í vegamálum skipar
+    ráðherra vegamálastjóra til fimm ára í senn og veitir hann Vegagerðinni
+                                   forstöðu.
+                             ^1)L. 162/2010, 253. gr.
                                5. gr. Vegagerðin.
                Helstu verkefni Vegagerðarinnar eru sem hér segir:
                                a. Veghald þjóðvega.
@@ -63,12 +65,12 @@ til þess að vegur sé varanlegur, unnt sé að halda honum við og hafa af hon
          g. Umsjón og eftirlit með útboðum á almenningssamgöngum sem njóta
                                  ríkisstyrkja.
             h. Umsjón með leyfisskyldri starfsemi samkvæmt öðrum lögum.
-  Vegagerðinni er heimilt, með samþykki samgönguráðherra, að stofna félag eða
-     félög sem hafa það hlutverk að sinna framkvæmda- og þjónustuverkefnum
-                                stofnunarinnar.
+ Vegagerðinni er heimilt, með samþykki [ráðherra],^1) að stofna félag eða félög
+sem hafa það hlutverk að sinna framkvæmda- og þjónustuverkefnum stofnunarinnar.
   Vegagerðin fer með önnur verkefni sem leiðir af lögum þessum og öðrum lögum.
     Ráðherra skal kveða nánar á um verkefni og verksvið Vegagerðarinnar með
                                    reglugerð.
+                             ^1)L. 162/2010, 253. gr.
 
                            III. kafli. Flokkun vega.
                                6. gr. Vegakerfi.
@@ -231,7 +233,8 @@ Við lagningu nýs héraðsvegar að íbúðar- eða atvinnuhúsnæði skal skr�
  fasteignarinnar greiða helming kostnaðar við vegagerðina, þ.m.t. kaup á landi
   undir veginn, hönnun, byggingu vegarins og eftirlit með gerð hans, enda skal
  lega og gerð vegar ákveðin í samráði við hinn skráða eiganda fasteignarinnar.
-  Ráðherra setur nánari ákvæði í reglugerð um innheimtu kostnaðar skv. 1. mgr.
+Ráðherra setur nánari ákvæði í reglugerð^1) um innheimtu kostnaðar skv. 1. mgr.
+                                 ^1)Rg. 774/2010.
                       21. gr. Fjárveitingar til landsvega.
      Ráðherra ákveður skiptingu framlags til landsvega að fengnum tillögum
                                 vegamálastjóra.
@@ -285,7 +288,7 @@ höfðu samráði Vegagerðarinnar og skipulagsyfirvalda. Fallist sveitarfélag 
 tillögu Vegagerðarinnar skal það rökstyðja það sérstaklega. Þó er sveitarfélagi
      óheimilt að víkja frá tillögu Vegagerðarinnar ef það leiðir til minna
    umferðaröryggis en tillagan felur í sér. Að öðru leyti fer um málsmeðferð
-                   samkvæmt skipulags- og byggingarlögum.^1)
+                         samkvæmt [skipulagslögum].^1)
  Ef þjóðvegi er að ósk sveitarstjórnar valinn annar staður en sá sem Vegagerðin
 telur betri með tilliti til kostnaðar og tæknilegrar útfærslu og það leiðir til
         aukins kostnaðar er heimilt að krefja viðkomandi sveitarfélag um
@@ -295,8 +298,7 @@ kostnaðarmuninn. Rísi ágreiningur um réttmæti slíkrar kröfu eða um fjár
   eftir því sem þörf krefur. Ávallt skal leita umsagnar Vegagerðarinnar þegar
  líkur eru á að breytingar á skipulagi hafi áhrif á umferð um þjóðvegi, svo sem
                            með auknum umferðarþunga.
-    ^1)Málsgreininni var breytt með [3]l. 123/2010, 57. gr. Breytingarnar taka
-                    gildi 1. jan. 2011 skv. [4]56. gr. s.l.
+                            ^1)[3]L. 123/2010, 57. gr.
                         29. gr. Tengingar við þjóðvegi.
 Óheimilt er að tengja vegi þjóðvegum nema í samræmi við skipulag og að fenginni
                             heimild Vegagerðarinnar.
@@ -558,13 +560,13 @@ Stjórnsýsluákvörðunum Vegagerðarinnar má skjóta til ráðherra. Um máls
                        samkvæmt ákvæðum stjórnsýslulaga.
                                58. gr. Reglugerð.
      Ráðherra setur nánari ákvæði í reglugerð^1) um framkvæmd laga þessara.
-                                 ^1)Rg. 492/2009.
+                          ^1)Rg. 492/2009. Rg. 774/2010.
                                 59. gr. Refsing.
 Brot gegn lögum þessum og þeim reglugerðum sem settar verða samkvæmt þeim varða
  sektum nema þyngri refsing liggi við samkvæmt öðrum lögum. Bæta skal einnig á
                 kostnað hins seka tjón það sem hann hefur unnið.
                                       ^1)
-                            ^1)[5]L. 88/2008, 233. gr.
+                            ^1)[4]L. 88/2008, 233. gr.
 
                    XII. kafli. Gildistaka og brottfallin lög.
                   60. gr. Lög þessi taka gildi 1. janúar 2008.
@@ -575,5 +577,4 @@ References
    1. file://2008088.html
    2. file://2010123.html
    3. file://2010123.html#g57
-   4. file://2010123.html
-   5. file://2008088.html#g233
+   4. file://2008088.html#g233

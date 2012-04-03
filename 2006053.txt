@@ -9,7 +9,7 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                            Tóku gildi 1. júlí 2006.
+   Tóku gildi 1. júlí 2006. Breytt með l. 162/2010 (tóku gildi 1. jan. 2011).
 
                             I. kafli. Almenn ákvæði.
   1. gr. Samkvæmt því sem mælt er fyrir um í lögum þessum verður sönnunargagna
@@ -28,9 +28,10 @@ sönnunargagna á grundvelli laganna að undangengnum dómsúrskurði, sbr. 1. m
   Um hæfi sýslumanna og fulltrúa þeirra til aðgerða samkvæmt lögunum fer eftir
 reglum laga um hæfi dómara til að fara með einkamál í héraði, eftir því sem við
                                    getur átt.
- Ef sýslumaður er vanhæfur til aðgerða samkvæmt lögunum setur dómsmálaráðherra
-   annan löghæfan mann til að vinna verkið í hans stað. Þóknun hans greiðist
-               samkvæmt ákvörðun dómsmálaráðherra úr ríkissjóði.
+          Ef sýslumaður er vanhæfur til aðgerða samkvæmt lögunum setur
+  [innanríkisráðherra]^1) annan löghæfan mann til að vinna verkið í hans stað.
+      Þóknun hans greiðist samkvæmt ákvörðun [ráðherra]^1) úr ríkissjóði.
+                             ^1)L. 162/2010, 185. gr.
 3. gr. Nú gerir sá sem telur sig rétthafa hugverkaréttinda er getur í 1. gr. eða
   sá sem lögum samkvæmt hefur heimild til að hagnýta þau réttindi sennilegt að
    einhver hafi brotið gegn þeim réttindum og er þá heimilt að kröfu hans sem
@@ -176,7 +177,7 @@ gerðarbeiðanda. Verði því ekki komið við getur sýslumaður falið þeim 
       b. Gerðarbeiðandi er sýknaður í dómsmáli af skaðabótakröfu gerðarþola.
               c. Aðilar ná samkomulagi um að tryggingu verði skilað.
  18. gr. Sýslumaður færir gerðabók um öflun sönnunargagna vegna ætlaðra brota á
- hugverkaréttindum. Fer um form hennar eftir reglum sem dómsmálaráðherra setur.
+  hugverkaréttindum. Fer um form hennar eftir reglum sem [ráðherra]^1) setur.
   Í gerðabók skal greint hvar og hvenær sönnunargagna var leitað, hverjir hafi
 verið viðstaddir, hvaða gögn hafi legið frammi og hvað hafi að öðru leyti farið
          fram. Þá skal rakið hvaða sönnunargagna var aflað og hvernig.
@@ -186,6 +187,7 @@ kynnir þeim meginatriði hennar ef þeir telja það nægja. Þeim skal gefinn 
  Nú hefur sönnunargagna verið aflað án þess að nokkur væri viðstaddur af hálfu
  gerðarþola og sendir þá sýslumaður viðkomandi svo fljótt sem verða má endurrit
                        úr gerðabók um fyrirtöku málsins.
+                             ^1)L. 162/2010, 185. gr.
 
                         IV. kafli. Kæra og endurupptaka.
   19. gr. Úrskurður héraðsdómara um heimild til öflunar sönnunargagna samkvæmt

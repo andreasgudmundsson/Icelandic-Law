@@ -17,7 +17,8 @@ Tóku gildi 30. desember 1999. Breytt með l. 158/2000 (tóku gildi 1. jan. 2001
  2002/92/EB), l. 130/2005 (tóku gildi 1. jan. 2006), l. 168/2006 (tóku gildi 1.
  jan. 2007), l. 154/2007 (tóku gildi 1. jan. 2008), l. 153/2008 (tóku gildi 1.
   jan. 2009), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku
-         gildi 1. jan. 2010) og l. 139/2009 (tóku gildi 1. jan. 2010).
+gildi 1. jan. 2010), l. 139/2009 (tóku gildi 1. jan. 2010) og l. 150/2010 (tóku
+                              gildi 1. jan. 2011).
 
                              1. gr. Almennt ákvæði.
  [Eftirlitsskyldir aðilar og aðrir gjaldskyldir aðilar skv. 5. gr. skulu standa
@@ -69,14 +70,18 @@ hina eftirlitsskyldu starfsemi skal miða álagningu við lágmarksgjald skv. 5.
   Sé ársreikningur fyrir hendi vegna fyrri starfsemi viðkomandi fyrirtækis er
  heimilt að nota efnahags- eða rekstrarliði samkvæmt honum sem álagningarstofn.
   Sama á við ef fyrir liggur stofnefnahagsreikningur hins nýja eftirlitsskylda
- aðila. Þegar um er að ræða nýtt vátryggingafélag sem tekið hefur að öllu leyti
- við vátryggingarstofni eldra félags skal álagningarstofn vera bókfærð iðgjöld
-                   samkvæmt ársreikningi eldra félagsins.]^1)
+ aðila. [Liggi hvorki ársreikningur né stofnefnahagsreikningur fyrir er heimilt
+  að leggja bráðabirgðaeftirlitsgjald á viðkomandi aðila á grundvelli áætlaðs
+ efnahagsreiknings. Bráðabirgðagjaldið skal endurskoðað þegar ársreikningur eða
+       stofnefnahagsreikningur liggur fyrir.]^2) Þegar um er að ræða nýtt
+  vátryggingafélag sem tekið hefur að öllu leyti við vátryggingarstofni eldra
+  félags skal álagningarstofn vera bókfærð iðgjöld samkvæmt ársreikningi eldra
+                                 félagsins.]^1)
  Álagningarstofn eftirlitsgjalds á útgefendur fjármálagerninga, sem teknir hafa
        verið til viðskipta á skipulegum verðbréfamarkaði og markaðstorgi
   fjármálagerninga hér á landi, er markaðsvirði þeirra í árslok næstliðins árs
  þegar skýrsla Fjármálaeftirlitsins skv. 2. gr. er samin, sbr. nánar [4. og 5.
-   mgr. 5. gr.]^2) Álagningarstofn vegna fjármálagerninga sem teknir eru til
+   mgr. 5. gr.]^3) Álagningarstofn vegna fjármálagerninga sem teknir eru til
 skráningar á því ári sem skýrsla Fjármálaeftirlitsins skv. 2. gr. er samin skal
    vera markaðsvirði þeirra í lok þess sama árs. Með markaðsvirði er átt við
  nafnvirði fjármálagernings margfaldað með gengi samkvæmt upplýsingum skipulegs
@@ -87,52 +92,55 @@ skráningar á því ári sem skýrsla Fjármálaeftirlitsins skv. 2. gr. er sam
   Hafi tveir eða fleiri útgefendur fjármálagerninga, sem teknir hafa verið til
  viðskipta á skipulegum verðbréfamarkaði og markaðstorgi fjármálagerninga hér á
     landi, sameinast er heimilt að miða álagningu við samanlagt markaðsvirði
-                          fjármálagerninga þeirra.]^3)
-       ^1)L. 139/2009, 1. gr. ^2)L. 153/2008, 1. gr. ^3)L. 154/2007, 2. gr.
+                          fjármálagerninga þeirra.]^4)
+    ^1)L. 139/2009, 1. gr. ^2)L. 150/2010, 1. gr. ^3)L. 153/2008, 1. gr. ^4)L.
+                                154/2007, 2. gr.
         5. gr. [Gjaldskyldir aðilar, álagningarstofn og álagt gjald.]^1)
       [Eftirtaldir eftirlitsskyldir aðilar skulu greiða eftirlitsgjald af
           álagningarstofni í þeim hlutföllum og stærðum sem hér segir:
      1. Viðskiptabankar, sparisjóðir, lánafyrirtæki og rafeyrisfyrirtæki skulu
-greiða eftirfarandi hlutföll af eignum samtals, þó eigi lægri fjárhæð en 600.000
-                                      kr.:
-                            a. Viðskiptabankar 0,0176%.
-            b. Sparisjóðir, lánafyrirtæki og rafeyrisfyrirtæki 0,0159%.
-   2. Vátryggingafélög skulu greiða 0,353% af bókfærðum iðgjöldum, þó eigi lægri
-                             fjárhæð en 600.000 kr.
+    greiða eftirfarandi hlutföll af eignum samtals, þó eigi lægri fjárhæð en
+                                 1.000.000 kr.:
+                            a. Viðskiptabankar 0,0271%.
+            b. Sparisjóðir, lánafyrirtæki og rafeyrisfyrirtæki 0,0244%.
+   2. Vátryggingafélög skulu greiða 0,399% af bókfærðum iðgjöldum, þó eigi lægri
+                            fjárhæð en 1.000.000 kr.
     3. Félög eða einstaklingar sem stunda vátryggingamiðlun skulu greiða 0,215%
 af þeim iðgjöldum sem miðlað hefur verið á næstliðnu ári, þó eigi lægri fjárhæð
-                                 en 300.000 kr.
+                                 en 450.000 kr.
    4. Verðbréfafyrirtæki skulu greiða 0,147% af eignum samtals, þó aldrei lægri
-                             fjárhæð en 600.000 kr.
+                            fjárhæð en 1.000.000 kr.
     5. Verðbréfamiðlanir skulu greiða 0,147% af eignum samtals, þó aldrei lægri
-                             fjárhæð en 350.000 kr.
-   6. Rekstrarfélög verðbréfasjóða og fjárfestingarsjóða og fjárfestingarsjóðir
-     sem gefa út hlutabréf skulu greiða 0,0175% af eignum rekstrarfélags og
-        viðkomandi sjóða samtals, þó aldrei lægri fjárhæð en 600.000 kr.
-    7. Verðbréfamiðstöðvar skulu greiða 0,91% af rekstrartekjum, þó eigi lægri
-                             fjárhæð en 350.000 kr.
-    8. Kauphallir skulu greiða 0,69% af rekstrartekjum, þó aldrei lægri fjárhæð
-                                 en 350.000 kr.
-   9. Lífeyrissjóðir skulu samtals greiða 0,00982% af hreinni eign til greiðslu
- lífeyris. Greiða skal eftirlitsgjaldið sem 790.000 kr. fastagjald vegna þeirra
- lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris undir einum milljarði
-    króna, 1.270.000 kr. vegna þeirra lífeyrissjóða er höfðu hreina eign til
-greiðslu lífeyris frá einum til tíu milljarða króna, 2.220.000 kr. vegna þeirra
-lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris frá tíu milljörðum til
-  tuttugu og fimm milljarða króna, 4.130.000 kr. vegna þeirra lífeyrissjóða er
-höfðu hreina eign til greiðslu lífeyris frá tuttugu og fimm milljörðum til eitt
-  hundrað milljarða króna og 4.780.000 kr. vegna þeirra lífeyrissjóða er höfðu
-      hreina eign til greiðslu lífeyris þar yfir. Það sem þá er ógreitt af
-eftirlitsgjaldi skv. 1. málsl. greiðist í hlutfalli við hreina eign til greiðslu
-                                   lífeyris.
-    10. Innlánsdeildir samvinnufélaga skulu greiða fastagjald sem nemur 300.000
-                                      kr.
-     11. Íbúðalánasjóður skal greiða 0,0036% af eignum samtals, þó eigi lægri
                              fjárhæð en 600.000 kr.
-    12. Tryggingarsjóður innstæðueigenda og fjárfesta og öryggissjóðir samkvæmt
+   6. Rekstrarfélög verðbréfasjóða og fjárfestingarsjóða og fjárfestingarsjóðir
+     sem gefa út hlutabréf skulu greiða 0,0226% af eignum rekstrarfélags og
+       viðkomandi sjóða samtals, þó aldrei lægri fjárhæð en 1.000.000 kr.
+    7. Verðbréfamiðstöðvar skulu greiða 0,91% af rekstrartekjum, þó eigi lægri
+                             fjárhæð en 600.000 kr.
+    8. Kauphallir skulu greiða 0,69% af rekstrartekjum, þó aldrei lægri fjárhæð
+                                 en 600.000 kr.
+    9. Lífeyrissjóðir skulu samtals greiða 0,0111% af hreinni eign til greiðslu
+ lífeyris. Greiða skal eftirlitsgjaldið sem 950.000 kr. fastagjald vegna þeirra
+ lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris undir einum milljarði
+    króna, 1.530.000 kr. vegna þeirra lífeyrissjóða er höfðu hreina eign til
+greiðslu lífeyris frá og með einum til tíu milljarða króna, 2.670.000 kr. vegna
+ þeirra lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris frá og með tíu
+   milljörðum til tuttugu og fimm milljarða króna, 4.960.000 kr. vegna þeirra
+ lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris frá og með tuttugu og
+ fimm milljörðum til eitt hundrað milljarða króna og 5.740.000 kr. vegna þeirra
+lífeyrissjóða er höfðu hreina eign til greiðslu lífeyris þar yfir. Það sem þá er
+ ógreitt af eftirlitsgjaldi skv. 1. málsl. greiðist í hlutfalli við hreina eign
+                             til greiðslu lífeyris.
+    10. Innlánsdeildir samvinnufélaga skulu greiða fastagjald sem nemur 450.000
+                                      kr.
+     11. Íbúðalánasjóður skal greiða 0,0039% af eignum samtals, þó eigi lægri
+                            fjárhæð en 1.000.000 kr.
+   12. Lánasjóður sveitarfélaga ohf. skal greiða 0,00837% af eignum samtals, þó
+                       eigi lægri fjárhæð en 600.000 kr.
+    13. Tryggingarsjóður innstæðueigenda og fjárfesta og öryggissjóðir samkvæmt
    lögum um innstæðutryggingar og tryggingakerfi fyrir fjárfesta skulu greiða
-                        fastagjald sem nemur 300.000 kr.
-   13. Aðilar með innheimtuleyfi samkvæmt [4]innheimtulögum, nr. 95/2008, skulu
+                        fastagjald sem nemur 500.000 kr.
+   14. Aðilar með innheimtuleyfi samkvæmt [4]innheimtulögum, nr. 95/2008, skulu
                     greiða fastagjald sem nemur 600.000 kr.
      Einstaklingar og lögaðilar, aðrir en fjármálafyrirtæki, sem starfrækja
   gjaldeyrisskiptastöð eða peninga- og verðmætasendingarþjónustu, sbr. 1. mgr.
@@ -152,29 +160,37 @@ eignarhaldsfélög í fjármálastarfsemi skulu greiða fastagjald sem nemur 1.5
   verðbréfamarkaði og markaðstorgi fjármálagerninga hér á landi, skulu greiða
  fastagjald tengt fjárhæð markaðsvirðis útgefinna hlutabréfa sinna. Greiða skal
  300.000 kr. fastagjald vegna hlutabréfa að markaðsvirði undir fimm milljörðum
-króna, 800.000 kr. vegna hlutabréfa að markaðsvirði frá fimm til tuttugu og fimm
- milljarða króna, 2.400.000 kr. vegna hlutabréfa að markaðsvirði frá tuttugu og
-    fimm til eitt hundrað milljarða króna, 4.400.000 kr. vegna hlutabréfa að
-markaðsvirði frá eitt hundrað til fimm hundruð milljarða króna og 6.300.000 kr.
-     vegna hlutabréfa með markaðsvirði yfir fimm hundruð milljörðum króna.
+króna, 800.000 kr. vegna hlutabréfa að markaðsvirði frá og með fimm til tuttugu
+ og fimm milljarða króna, 2.400.000 kr. vegna hlutabréfa að markaðsvirði frá og
+   með tuttugu og fimm til eitt hundrað milljarða króna, 4.400.000 kr. vegna
+ hlutabréfa að markaðsvirði frá og með eitt hundrað til fimm hundruð milljarða
+   króna og 6.300.000 kr. vegna hlutabréfa með markaðsvirði yfir fimm hundruð
+                               milljörðum króna.
     Útgefendur skuldabréfa, sem tekin hafa verið til viðskipta á skipulegum
   verðbréfamarkaði og markaðstorgi fjármálagerninga hér á landi, skulu greiða
 fastagjald tengt fjárhæð markaðsvirðis útgefinna skuldabréfa sinna. Greiða skal
  100.000 kr. fastagjald vegna skuldabréfa að markaðsvirði undir einum milljarði
-    króna, 150.000 kr. vegna skuldabréfa að markaðsvirði frá einum til fimm
-milljarða króna, 350.000 kr. vegna skuldabréfa að markaðsvirði frá fimm til tíu
-   milljarða króna, 600.000 kr. vegna skuldabréfa að markaðsvirði frá tíu til
-   fimmtíu milljarða króna, 850.000 kr. vegna skuldabréfa að markaðsvirði frá
- fimmtíu til tvö hundruð milljarða króna og 1.000.000 kr. vegna skuldabréfa að
-                markaðsvirði yfir tvö hundruð milljörðum króna.
+ króna, 150.000 kr. vegna skuldabréfa að markaðsvirði frá og með einum til fimm
+ milljarða króna, 350.000 kr. vegna skuldabréfa að markaðsvirði frá og með fimm
+ til tíu milljarða króna, 600.000 kr. vegna skuldabréfa að markaðsvirði frá og
+     með tíu til fimmtíu milljarða króna, 850.000 kr. vegna skuldabréfa að
+markaðsvirði frá og með fimmtíu til tvö hundruð milljarða króna og 1.000.000 kr.
+      vegna skuldabréfa að markaðsvirði yfir tvö hundruð milljörðum króna.
     Eftirlitsgjald skal reiknast í heilum þúsundum króna. Við álagningu skal
                jafnframt færa álagningarstofna í þúsundir króna.
 Fjármálafyrirtæki sem stýrt er af skilanefnd, slitastjórn eða bráðabirgðastjórn
 samkvæmt [7]lögum um fjármálafyrirtæki, nr. 161/2002, óháð því hvort viðkomandi
-  fyrirtæki hefur takmarkað starfsleyfi eða ekki, greiðir fast gjald samkvæmt
- eftirfarandi sundurliðun, viðskiptabankar 21.000.000 kr., aðrar lánastofnanir
-           11.000.000 kr., önnur fjármálafyrirtæki 5.000.000 kr.]^2)
-                   ^1)L. 157/2002, 1. gr. ^2)L. 139/2009, 2. gr.
+fyrirtæki hefur starfsleyfi, takmarkað starfsleyfi eða starfsleyfi fyrirtækisins
+hefur verið afturkallað, greiðir fastagjald. Gjaldið miðast við það starfsleyfi
+ sem fyrirtækið hafði áður en það fór undir yfirráð skilanefndar, slitastjórnar
+     eða bráðabirgðastjórnar og greiðist samkvæmt eftirfarandi sundurliðun,
+  viðskiptabankar 31.500.000 kr., aðrar lánastofnanir 16.500.000 kr. og önnur
+fjármálafyrirtæki 7.500.000 kr. Gjald samkvæmt þessari málsgrein greiðist þangað
+   til slitum er lokið. Fyrirtæki greiðir eftirlitsgjald samkvæmt viðeigandi
+töluliðum 1. mgr. þar til það fer undir yfirráð skilanefndar, slitastjórnar eða
+bráðabirgðastjórnar en hlutfallslega skv. 2. málsl. þessarar málsgreinar frá því
+                                 tímamarki.]^2)
+                   ^1)L. 157/2002, 1. gr. ^2)L. 150/2010, 2. gr.
                    6. gr. Framkvæmd álagningar og innheimtu.
 Álagning eftirlitsgjalds samkvæmt lögum þessum skal fara fram eigi síðar en 15.
 janúar ár hvert. Fjármálaeftirlitið skal gera eftirlitsskyldum aðilum [og öðrum
@@ -192,9 +208,9 @@ mgr. 4. gr., og miðast álagningin við næsta gjalddaga eftir útgáfu starfsl
      Skal fjárhæð gjaldsins taka mið af því hversu langur tími er eftir af
 rekstrarárinu, talið frá næsta gjalddaga. Greiðist gjaldið þá á þeim gjalddögum
   sem eftir eru. Séu allir gjalddagar liðnir skal ekki leggja á eftirlitsgjald
-vegna yfirstandandi rekstrarárs. Hætti eftirlitsskyldur aðili starfsemi áður en
+vegna yfirstandandi rekstrarárs. [Hætti eftirlitsskyldur aðili starfsemi áður en
  eftirlitsgjald er að fullu greitt fellur niður sá hluti gjaldsins sem ekki er
-             kominn í gjalddaga þegar starfsleyfi fellur úr gildi.
+kominn í gjalddaga þegar starfsleyfi fellur úr gildi, sbr. þó 9. mgr. 5. gr.]^3)
 [Ákvæði lokamálsliðar 3. mgr. gildir eftir því sem við á um fjármálagerninga sem
  teknir hafa verið úr viðskiptum á skipulegum verðbréfamarkaði og markaðstorgi
                fjármálagerninga hér á landi á álagningarári.]^1)
@@ -202,11 +218,12 @@ Sé eftirlitsgjald greitt eftir eindaga hverrar greiðslu reiknast dráttarvexti
                 greiðsluna frá gjalddaga í samræmi við vaxtalög.
      [Vanræki eftirlitsskyldur aðili greiðslu eftirlitsgjalds er heimilt að
 afturkalla starfsleyfi í samræmi við þau lög sem um viðkomandi starfsemi gilda,
-       enda séu liðnir sex mánuðir frá fyrsta gjalddaga í vanskilum.]^3)
+       enda séu liðnir sex mánuðir frá fyrsta gjalddaga í vanskilum.]^4)
   Heimilt er Fjármálaeftirlitinu að ákvarða álagningu eftirlitsgjalds að nýju
   gagnvart tilteknum eftirlitsskyldum aðilum reynist álagningarstofn eða aðrar
                     forsendur fyrri álagningar ekki réttar.
-       ^1)L. 154/2007, 4. gr. ^2)L. 139/2009, 3. gr. ^3)L. 130/2005, 4. gr.
+    ^1)L. 154/2007, 4. gr. ^2)L. 139/2009, 3. gr. ^3)L. 150/2010, 3. gr. ^4)L.
+                                130/2005, 4. gr.
                    7. gr. Greiðslur fyrir sértækar aðgerðir.
   Telji Fjármálaeftirlitið að eftirlit með einstökum eftirlitsskyldum aðila sé
  umtalsvert kostnaðarsamara og krefjist meiri mannafla en áætlun um reglubundið

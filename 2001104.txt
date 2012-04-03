@@ -9,7 +9,7 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 17. júlí 2001.
+ Tóku gildi 17. júlí 2001. Breytt með [1]l. 160/2010 (tóku gildi 1. jan. 2011).
 
                         I. kafli Yfirstjórn og skipulag.
   1. gr. Tilgangur þessara laga er að varðveita íslenska byggingararfleifð sem
@@ -53,13 +53,13 @@ Byggingarfulltrúum ber að fylgjast með því að eigendur húsa, sem fjallað
 þessari grein, leiti eftir áliti húsafriðunarnefndar og minjavarða áður en leyfi
                             er veitt til framkvæmda.
     7. gr. Ákvörðun um friðun skal tilkynna húseiganda, öðrum þeim sem eiga
-   þinglesin réttindi yfir eigninni, hlutaðeigandi lögreglustjóra, bæjar- eða
- sveitarstjórn og byggingarnefnd. Greina skal í tilkynningu til hvers friðunin
-                                      nær.
+ þinglesin réttindi yfir eigninni, hlutaðeigandi lögreglustjóra [og]^1) bæjar-
+    eða sveitarstjórn ^1) Greina skal í tilkynningu til hvers friðunin nær.
   Þinglýsa skal friðun sem kvöð á fasteign sem í hlut á og auglýsa friðunina í
     Stjórnartíðindum. Þinglýsingarstjóri skal tilkynna húsafriðunarnefnd ef
                 þinglesin eru eigendaskipti að friðaðri húseign.
           Heimilt er að fella niður fasteignagjöld af friðuðum húsum.
+                            ^1)[2]L. 160/2010, 65. gr.
  8. gr. Telji húsafriðunarnefnd hættu á að hús, sem hefur menningarsögulegt eða
 listrænt gildi en hefur þó ekki verið friðað, verði rifið eða gildi þess rýrt á
           nokkurn hátt getur hún ákveðið skyndifriðun viðkomandi húss.
@@ -101,9 +101,10 @@ eiganda að gera umbætur innan hæfilegs frests. Nú líður frestur án þess 
   umsókn berst, senda menntamálaráðherra umsóknina með tillögum sínum um hvort
  fella skuli niður friðun og aflýsa friðunarkvöðinni eða skilgreina að nýju til
                         hvaða þátta friðun hússins nær.
-   14. gr. Ef byggingarnefnd verður vör við að friðuð eign hefur orðið fyrir
-  spjöllum eða að henni er ekki vel við haldið skal hún gera húsafriðunarnefnd
-                                    viðvart.
+ 14. gr. Ef [byggingarnefnd eða byggingarfulltrúi verður var]^1) við að friðuð
+    eign hefur orðið fyrir spjöllum eða að henni er ekki vel við haldið skal
+  [viðkomandi nefnd eða byggingarfulltrúi]^1) gera húsafriðunarnefnd viðvart.
+                            ^1)[3]L. 160/2010, 65. gr.
 15. gr. Húsafriðunarnefnd hefur rétt til að framkvæma eiganda að kostnaðarlausu
  hvers konar eftirlit með friðaðri eign og skoðanir sem gera þarf vegna ákvæða
                                   þessa kafla.
@@ -135,7 +136,7 @@ m.a. kveðið á um skyldur þeirra sem fjárframlög fá úr sjóðnum. Slík f
 20. gr. Ekki ber að greiða stimpilgjöld eða þinglýsingargjöld af skjölum sem út
                    eru gefin vegna framkvæmda á lögum þessum.
    21. gr. Brot gegn ákvæðum 2. mgr. 6. gr., 9. gr., 12. gr. og 14. gr. varða
-   sektum til ríkissjóðs nema þyngri refsing liggi við broti skv. [1]177. gr.
+   sektum til ríkissjóðs nema þyngri refsing liggi við broti skv. [4]177. gr.
                       almennra hegningarlaga, nr. 19/1940.
     22. gr. Ráðherra setur með reglugerð nánari ákvæði um framkvæmd laganna.
                      23. gr. Lög þessi öðlast þegar gildi.
@@ -152,11 +153,14 @@ m.a. kveðið á um skyldur þeirra sem fjárframlög fá úr sjóðnum. Slík f
        húsafriðunarnefndar við gildistöku laga þessara skulu halda öllum
 starfsréttindum sínum óbreyttum, þar með töldum réttindum sem byggjast á starfs-
 og þjónustualdri. Breyting á stöðu starfsmanns sem lög þessi hafa í för með sér
-felur því ekki í sér að staða sé lögð niður í skilningi [2]starfsmannalaga, nr.
+felur því ekki í sér að staða sé lögð niður í skilningi [5]starfsmannalaga, nr.
                                     70/1996.
 
 References
 
    Visible links
-   1. file://1940019.html#g177
-   2. file://1996070.html
+   1. file://2010160.html
+   2. file://2010160.html#g65
+   3. file://2010160.html#g65
+   4. file://1940019.html#g177
+   5. file://1996070.html

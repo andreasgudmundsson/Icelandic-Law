@@ -15,8 +15,7 @@
  79/267/EBE, tilmæli 81/76/EBE, XXII. viðauki tilskipun 83/349/EBE, IX. viðauki
 tilskipun 84/5/EBE, 87/344/EBE, 88/357/EBE, 90/232/EBE, 90/619/EBE, 91/674/EBE,
     tilmæli 92/48/EBE, tilskipun 92/49/EBE, 92/96/EBE, 98/78/EB, 2000/12/EB,
-    2000/26/EB, 2001/17/EB, 2001/24/EB, 2002/13/EB, 2002/87/EB, 2002/92/EB,
-                      2005/14/EB, 2005/68/EB, 2007/44/EB.
+    2000/26/EB, 2001/17/EB, 2001/24/EB, 2002/87/EB, 2002/92/EB, 2005/68/EB.
 
                       I. kafli. Gildissvið. Starfshættir.
                                1. gr. Gildissvið.
@@ -964,9 +963,10 @@ rekstrarniðurstöðu þessara trygginga, þó aldrei meira en nemur 12% af bók
                         tilvikum sú undanþága er veitt.
     Sé eftir því leitað skal líftryggingafélag veita upplýsingar um grunn og
     aðferðir við útreikning líftryggingaskuldar, m.a. ágóðajöfnunarskuldar.
-  Setja skal nánari ákvæði í reglugerð um þær tegundir eigna sem telja má til
+ Setja skal nánari ákvæði í reglugerð^1) um þær tegundir eigna sem telja má til
  jöfnunar vátryggingaskuld og útjöfnunarsjóði frumtryggingafélags, samsetningu
                                 þeirra og vægi.
+                                 ^1)Rg. 777/2010.
  37. gr. Frumtryggingafélag skal velja eignir til jöfnunar vátryggingaskuld og
 útjöfnunarsjóði með tilliti til gengisáhættu þannig að dregið sé úr vægi hennar
      svo sem kostur er. Því er heimilt að ávaxta eignir á móti allt að 20%

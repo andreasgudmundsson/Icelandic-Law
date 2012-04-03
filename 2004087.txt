@@ -20,8 +20,11 @@
  4. gr. sem tók gildi 1. sept. 2009 og brbákv. IV sem tók gildi 16. júní 2009;
 komu til framkvæmda skv. fyrirmælum í 29. gr., sbr. og l. 97/2009 (tóku gildi 3.
  sept. 2009)), l. 130/2009 (tóku gildi 30. des. 2009 nema 7.9. gr. og 13.42.
- gr. sem tóku gildi 1. jan. 2010), l. 136/2009 (tóku gildi 1. jan. 2010) og l.
-   63/2010 (tóku gildi 1. okt. 2010 nema 2. gr. sem tók gildi 24. júní 2010).
+  gr. sem tóku gildi 1. jan. 2010), l. 136/2009 (tóku gildi 1. jan. 2010), l.
+ 63/2010 (tóku gildi 1. okt. 2010 nema 2. gr. sem tók gildi 24. júní 2010), l.
+156/2010 (tóku gildi 1. jan. 2011), l. 162/2010 (tóku gildi 1. jan. 2011) og l.
+164/2010 (tóku gildi 1. jan. 2011 nema 2., 6., 22. og 26. gr. sem tóku gildi 31.
+           des. 2010; komu til framkvæmda skv. fyrirmælum í 29. gr.).
 
           I. kafli. Vörugjald af olíu, gjaldskylda og fjárhæð gjalds.
   1. gr. Greiða skal í ríkissjóð vörugjald af gas- og dísilolíu sem flokkast í
@@ -30,8 +33,12 @@ tollskrárnúmer 2710.1930 og nothæf er sem eldsneyti á ökutæki. Í lögum �
    Gjaldskylda skv. 1. mgr. nær einnig til olíu í öðrum tollskrárnúmerum sem
     blönduð hefur verið gjaldskyldri olíu, enda séu blöndurnar nothæfar sem
                               eldsneyti á ökutæki.
-       Fjárhæð olíugjalds skal vera [52,77 kr.]^1) á hvern lítra af olíu.
-                              ^1)L. 130/2009, 1. gr.
+  [Olíur sem ekki eru af jarðefnauppruna skulu þó undanþegnar olíugjaldi. Hafi
+ íblöndunarefni sem ekki er af jarðefnauppruna verið blandað gjaldskyldri olíu
+      skal sá hluti blöndunnar sem ekki er af jarðefnauppruna undanþeginn
+                                olíugjaldi.]^1)
+       Fjárhæð olíugjalds skal vera [54,88 kr.]^2) á hvern lítra af olíu.
+                  ^1)L. 156/2010, 12. gr. ^2)L. 164/2010, 17. gr.
 2. gr. Tollstjóri annast álagningu og innheimtu olíugjalds af gjaldskyldri olíu
    sem aðrir en þeir sem skráðir hafa verið skv. 3. gr. flytja til landsins.
 Ríkisskattstjóri annast álagningu olíugjalds á þá sem skráningarskyldir eru skv.
@@ -120,15 +127,15 @@ Aðeins má lita olíu í búnaði sem viðurkenndur hefur verið af Löggilding
  nr. 73/2001, um fólksflutninga, vöruflutninga og efnisflutninga á landi, skulu
     endurgreidd [85%]^1) olíugjalds af olíu vegna rekstrar almenningsvagna í
   áætlunarferðum. Reglur^2) um endurgreiðslu samkvæmt þessari málsgrein skulu
-           settar af fjármálaráðherra í samráði við samgönguráðherra.
+       settar af fjármálaráðherra í samráði við [innanríkisráðherra].^3)
  Endurgreiða skal olíugjald af olíu sem erlend sendiráð eða sendimenn erlendra
-                  ríkja kaupa vegna bifreiða í sinni eigu.^3)
-Beiðnir um endurgreiðslu [skv. 1. mgr.]^4) skulu afgreiddar af ríkisskattstjóra
+                  ríkja kaupa vegna bifreiða í sinni eigu.^4)
+Beiðnir um endurgreiðslu [skv. 1. mgr.]^5) skulu afgreiddar af ríkisskattstjóra
      sem jafnframt tilkynningu til beiðanda skal tilkynna ákvörðun sína til
  innheimtumanns ríkissjóðs til útborgunar hjá honum. [Beiðnir um endurgreiðslu
-           skv. 2. mgr. skulu afgreiddar af utanríkisráðuneytinu.]^4)
-   ^1)L. 60/2009, 2. gr. ^2)Rg. 395/2005. ^3)Rg. 398/2005, sbr. 559/2010. ^4)L.
-                                136/2005, 3. gr.
+           skv. 2. mgr. skulu afgreiddar af utanríkisráðuneytinu.]^5)
+      ^1)L. 60/2009, 2. gr. ^2)Rg. 395/2005. ^3)L. 162/2010, 243. gr. ^4)Rg.
+                398/2005, sbr. 559/2010. ^5)L. 136/2005, 3. gr.
                                     Bókhald.
 7. gr. Gjaldskyldir aðilar sem stunda framleiðslu eða aðvinnslu, sbr. 1. tölul.
   1. mgr. 3. gr., skulu aðgreina í bókhaldi sínu kaup á olíu sem notuð er til
@@ -253,48 +260,48 @@ eiganda á greiðslu kílómetragjalds [og sérstaks kílómetragjalds].^1) Skyl
 Leyfð heildar-         Kíló-             Leyfð heildar-        Kíló-
 þyngd öku-             metra-            þyngd öku-            metra-
 tækis, kg              gjald, kr.        tækis, kg             gjald, kr.
-10.00011.000          0,26              21.00122.000         6,20
-11.00112.000          0,80              22.00123.000         6,74
-12.00113.000          1,34              23.00124.000         7,28
-13.00114.000          1,88              24.00125.000         7,82
-14.00115.000          2,42              25.00126.000         8,36
-15.00116.000          2,96              26.00127.000         8,90
-16.00117.000          3,50              27.00128.000         9,44
-17.00118.000          4,04              28.00129.000         9,98
-18.00119.000          4,58              29.00130.000         10,52
-19.00120.000          5,12              30.00131.000         11,06
-20.00121.000          5,66              31.000 og yfir        11,60]^3)
+10.00011.000          0,27              21.00122.000         6,45
+11.00112.000          0,83              22.00123.000         7,01
+12.00113.000          1,39              23.00124.000         7,57
+13.00114.000          1,96              24.00125.000         8,13
+14.00115.000          2,52              25.00126.000         8,69
+15.00116.000          3,08              26.00127.000         9,26
+16.00117.000          3,64              27.00128.000         9,82
+17.00118.000          4,20              28.00129.000         10,38
+18.00119.000          4,76              29.00130.000         10,94
+19.00120.000          5,32              30.00131.000         11,50
+20.00121.000          5,89              31.001 og yfir        12,06]^3)
 
    Kílómetragjald af gjaldskyldum eftirvögnum skv. 2. tölul. 1. mgr., sbr. 3.
    tölul., skal vera sama fjárhæð kílómetragjaldsins og kveðið er á um í [4.
                                     mgr.]^1)
- [Sérstakt kílómetragjald af gjaldskyldum [ökutækjum]^4) skv. 2. mgr. skal vera
-                                 sem hér segir:
+ [Sérstakt kílómetragjald af gjaldskyldum ökutækjum skv. 2. mgr. skal vera sem
+                                   hér segir:
 
 Leyfð heildar-         Kíló-             Leyfð heildar-        Kíló-
 þyngd öku-             metra-            þyngd öku-            metra-
 tækis, kg              gjald, kr.        tækis, kg             gjald, kr.
-5.0006.000            7,61              18.00119.000         20,08
-6.0017.000            8,22              19.00120.000         20,98
-7.0018.000            8,86              20.00121.000         21,90
-8.0019.000            9,49              21.00122.000         22,81
-9.00110.000           10,10             22.00123.000         23,71
-10.00111.000          11,00             23.00124.000         24,62
-11.00112.000          12,17             24.00125.000         25,54
-12.00113.000          13,34             25.00126.000         26,44
-13.00114.000          14,50             26.00127.000         27,35
-14.00115.000          15,67             27.00128.000         28,26
-15.00116.000          16,84             28.00129.000         29,17
-16.00117.000          18,00             29.00130.000         30,08
-17.00118.000          19,17             30.00131.000         30,98
-                                         31.001 og yfir        31,90]^3)
+5.0006.000            7,91              18.00119.000         20,88
+6.0017.000            8,55              19.00120.000         21,82
+7.0018.000            9,21              20.00121.000         22,78
+8.0019.000            9,87              21.00122.000         23,72
+9.00110.000           10,50             22.00123.000         24,66
+10.00111.000          11,44             23.00124.000         25,60
+11.00112.000          12,66             24.00125.000         26,56
+12.00113.000          13,87             25.00126.000         27,50
+13.00114.000          15,08             26.00127.000         28,44
+14.00115.000          16,30             27.00128.000         29,39
+15.00116.000          17,51             28.00129.000         30,34
+16.00117.000          18,72             29.00130.000         31,28
+17.00118.000          19,94             30.00131.000         32,22
+                                         31.001 og yfir        33,18]^3)
 
   Upphæð kílómetragjalds [og sérstaks kílómetragjalds]^1) ræðst af gjaldþyngd
   ökutækis. Gjaldþyngd ökutækis skal vera leyfð heildarþyngd þess, sbr. ákvæði
     reglugerðar [nr. 155/2007],^2) um stærð og þyngd ökutækja. [Heildarþyngd
-          ökutækis með farmi má ekki vera umfram gjaldþyngd þess.]^5)
+          ökutækis með farmi má ekki vera umfram gjaldþyngd þess.]^4)
       Ökumælar skulu settir í bifreiðar og eftirvagna á kostnað eigenda. Í
-   reglugerð^6) skal kveðið á um tegundir og útbúnað mæla, ísetningu þeirra,
+   reglugerð^5) skal kveðið á um tegundir og útbúnað mæla, ísetningu þeirra,
 álestur, viðgerðir og eftirlit. Ef skylt er að búa ökutæki ökurita til eftirlits
    með aksturs- og hvíldartíma ökumanna samkvæmt reglugerð nr. 136/1995 skal
     ökuritinn notaður sem ökumælir. Nú er ökuriti notaður sem ökumælir og er
@@ -304,8 +311,8 @@ tækis, kg              gjald, kr.        tækis, kg             gjald, kr.
 kílómetragjalds [og sérstaks kílómetragjalds]^1) fram á annan jafntryggan hátt.
    Kílómetragjald skv. 3. tölul. 1. mgr. [og sérstakt kílómetragjald skv. 6.
         mgr.]^1) skal greiða við brottför bifreiðar eða vagns úr landi.
-     ^1)L. 136/2005, 4. gr. ^2)L. 162/2007, 3. gr. ^3)L. 60/2009, 3. gr. ^4)L.
-            63/2010, 2. gr. ^5)L. 169/2006, 2. gr. ^6)Rg. 599/2005.
+    ^1)L. 136/2005, 4. gr. ^2)L. 162/2007, 3. gr. ^3)L. 164/2010, 18. gr. ^4)L.
+                       169/2006, 2. gr. ^5)Rg. 599/2005.
     [14. gr.]^1) Ákvörðun kílómetragjalds [og sérstaks kílómetragjalds].^2)
 Álestrartímabil eru frá 1. desember til 15. desember og frá 1. júní til 15. júní
    ár hvert. Eigandi eða umráðamaður ökutækis sem kílómetragjald [og sérstakt

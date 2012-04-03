@@ -12,7 +12,8 @@
   Tóku gildi 17. apríl 1990 (á að vera 17. apríl 1991). Breytt með l. 31/1994
   (tóku gildi 2. maí 1994), l. 130/1995 (tóku gildi 19. des. 1995), l. 34/1997
   (tóku gildi 29. maí 1997), l. 65/2006 (tóku gildi 27. júní 2006), l. 65/2010
-      (tóku gildi 27. júní 2010) og l. 66/2010 (tóku gildi 1. júlí 2010).
+ (tóku gildi 27. júní 2010), l. 66/2010 (tóku gildi 1. júlí 2010), l. 152/2010
+      (tóku gildi 1. jan. 2011) og l. 162/2010 (tóku gildi 1. jan. 2011).
 
                            I. kafli. Markmið laganna.
  1. gr. Markmið félagsþjónustu á vegum sveitarfélaga er að tryggja fjárhagslegt
@@ -41,10 +42,9 @@ og félagslegt öryggi og stuðla að velferð íbúa á grundvelli samhjálpar.
 
                          II. kafli. Stjórn og skipulag.
                                   Yfirstjórn.
-          3. gr. Félagsþjónusta sveitarfélaga heyrir undir [félags- og
- tryggingamálaráðuneyti]^1) sem hefur eftirlit með því að sveitarfélögin veiti
-                               lögboðna þjónustu.
-                              ^1)L. 66/2010, 21. gr.
+  3. gr. Félagsþjónusta sveitarfélaga heyrir undir [velferðarráðuneyti]^1) sem
+       hefur eftirlit með því að sveitarfélögin veiti lögboðna þjónustu.
+                              ^1)L. 162/2010, 8. gr.
                      Sveitarstjórnir og félagsmálanefndir.
  4. gr. Sveitarfélag ber ábyrgð á félagsþjónustu innan sinna marka og skal með
  skipulagðri félagsþjónustu tryggja framgang markmiða skv. 1. gr. þessara laga.
@@ -54,8 +54,8 @@ og félagslegt öryggi og stuðla að velferð íbúa á grundvelli samhjálpar.
    Félagsmálanefnd skal skipuð þremur fulltrúum hið fæsta [en þó a.m.k. fimm
 fulltrúum ef félagsmálanefnd eru falin verkefni barnaverndarnefndar].^1) Að öðru
      leyti ákveður sveitarstjórn fjölda nefndarmanna og setur um starfsemi
-  nefndarinnar reglur sem sendar skulu [félags- og tryggingamálaráðuneyti].^2)
-                   ^1)L. 34/1997, 1. gr. ^2)L. 66/2010, 21. gr.
+             nefndarinnar reglur sem sendar skulu [ráðuneytinu].^2)
+                   ^1)L. 34/1997, 1. gr. ^2)L. 162/2010, 8. gr.
                          Undirnefndir félagsmálanefnda.
       6. gr. Sveitarstjórn getur í sérstökum tilvikum skipað undirnefndir
   félagsmálanefndar að tilskildu samþykki hennar. Hver undirnefnd skal skipuð
@@ -131,17 +131,16 @@ hluta sveitarfélags. Heimilt er að fela undirnefnd ákvörðunarvald og ábyrg
                                      fullu.
    15. gr. [Erlendum ríkisborgurum sem ekki eiga lögheimili í landinu skal í
    sérstökum tilvikum veitt fjárhagsaðstoð hér á landi. Aðstoð skal veitt af
-              dvalarsveitarfélagi að höfðu samráði við [félags- og
-   tryggingamálaráðuneytið],^1) enda hafi áður verið leitað eftir aðstoð frá
-  heimalandi. [Félags- og tryggingamálaráðherra]^2) er heimilt að setja nánari
+ dvalarsveitarfélagi að höfðu samráði við [ráðuneytið],^1) enda hafi áður verið
+  leitað eftir aðstoð frá heimalandi. [Ráðherra]^1) er heimilt að setja nánari
                     reglur um aðstoð samkvæmt ákvæði þessu.
     Ríkissjóður skal endurgreiða sveitarfélagi veitta aðstoð vegna erlendra
                      ríkisborgara í eftirfarandi tilvikum:
     a. Aðstoð við erlenda ríkisborgara sem ekki eiga lögheimili í landinu, sbr.
                                     1. mgr.
      b. Aðstoð við erlenda ríkisborgara skv. 12.13. gr. laganna sem átt hafa
-                   lögheimili í landinu skemur en tvö ár.]^3)
-        ^1)L. 66/2010, 21. gr. ^2)L. 66/2010, 22. gr. ^3)L. 34/1997, 4. gr.
+                   lögheimili í landinu skemur en tvö ár.]^2)
+                   ^1)L. 162/2010, 8. gr. ^2)L. 34/1997, 4. gr.
 
                           V. kafli. Félagsleg ráðgjöf.
   16. gr. Félagsmálanefndir skulu ^1) bjóða upp á félagslega ráðgjöf. Markmið
@@ -239,9 +238,9 @@ barnaverndarnefndar og fer þá um framkvæmd og meðferð þeirra mála eftir l
                    ^1)L. 34/1997, 9. gr. ^2)L. 34/1997, 11. gr.
 [34. gr.]^1) Félagsmálanefnd, eða önnur nefnd samkvæmt ákvörðun sveitarstjórnar,
  skal veita leyfi til daggæslu barna í heimahúsum og annast rekstur gæsluvalla
-    fyrir börn. [Félags- og tryggingamálaráðherra]^2) setur reglugerð^3) um
-           starfsemi og rekstur gæsluvalla og daggæslu í heimahúsum.
-    ^1)L. 34/1997, 9. gr. ^2)L. 66/2010, 22. gr. ^3)Rg. 198/1992. Rg. 907/2005.
+fyrir börn. [Ráðherra]^2) setur reglugerð^3) um starfsemi og rekstur gæsluvalla
+                           og daggæslu í heimahúsum.
+    ^1)L. 34/1997, 9. gr. ^2)L. 162/2010, 8. gr. ^3)Rg. 198/1992. Rg. 907/2005.
 
                        IX. kafli. Þjónusta við unglinga.
   [35. gr.]^1) Að tilhlutan sveitarfélaga skal vera skipulagt forvarnastarf í
@@ -407,10 +406,11 @@ að óviðkomandi fái þar ekki aðgang. Hafi þeir kynnst einkamálum skjólst
                              XVII. kafli. Málskot.
        [63. gr.]^1) Málsaðili getur skotið ákvörðun félagsmálanefndar til
 [úrskurðarnefndar félagsþjónustu og húsnæðismála],^2) sbr. [64. gr.]^3) Skal það
-   gert innan fjögurra vikna frá því viðkomanda barst vitneskja um ákvörðun.
+ gert innan [þriggja mánaða]^4) frá því viðkomanda barst vitneskja um ákvörðun.
   Málskot til nefndarinnar frestar ekki framkvæmd hinnar kærðu ákvörðunar nema
                              nefndin ákveði annað.
-       ^1)L. 34/1997, 13. gr. ^2)L. 66/2010, 23. gr. ^3)L. 34/1997, 15. gr.
+    ^1)L. 34/1997, 13. gr. ^2)L. 66/2010, 23. gr. ^3)L. 34/1997, 15. gr. ^4)L.
+                               152/2010, 46. gr.
    [64. gr.]^1) [Úrskurðarnefnd félagsþjónustu og húsnæðismála]^2) fjallar um
                                eftirtalin atriði:
                          1. Málsmeðferð, sbr. XVI. kafla.
@@ -419,36 +419,34 @@ að óviðkomandi fái þar ekki aðgang. Hafi þeir kynnst einkamálum skjólst
                           viðkomandi sveitarstjórnar.
       [4. Greiðslu fjárhagsaðstoðar aftur í tímann, sbr. 3. mgr. 21. gr.]^3)
        ^1)L. 34/1997, 13. gr. ^2)L. 66/2010, 23. gr. ^3)L. 34/1997, 16. gr.
-     [65. gr.]^1) [Félags- og tryggingamálaráðherra skipar þrjá fulltrúa í
- úrskurðarnefnd félagsþjónustu og húsnæðismála til þriggja ára í senn og skulu
-  þeir allir vera lögfræðingar. Samband íslenskra sveitarfélaga tilnefnir einn
-   fulltrúa en tveir skulu skipaðir án tilnefningar og skal annar þeirra vera
-formaður. Varamenn skulu skipaðir með sama hætti. Formaður og varaformaður skulu
- uppfylla skilyrði um embættisgengi héraðsdómara. Nefndinni er heimilt að kalla
-         til ráðgjafar og aðstoðar sérfróða aðila telji hún þörf á.]^2)
+[65. gr.]^1) [[Ráðherra]^2) skipar þrjá fulltrúa í úrskurðarnefnd félagsþjónustu
+ og húsnæðismála til þriggja ára í senn og skulu þeir allir vera lögfræðingar.
+Samband íslenskra sveitarfélaga tilnefnir einn fulltrúa en tveir skulu skipaðir
+án tilnefningar og skal annar þeirra vera formaður. Varamenn skulu skipaðir með
+ sama hætti. Formaður og varaformaður skulu uppfylla skilyrði um embættisgengi
+ héraðsdómara. Nefndinni er heimilt að kalla til ráðgjafar og aðstoðar sérfróða
+                          aðila telji hún þörf á.]^3)
   Nefndin skal taka mál til meðferðar án tafar og kveða upp úrskurð sinn innan
- [tveggja]^2) mánaða frá því nefndinni barst mál til úrskurðar. Ef ástæða þykir
+ [tveggja]^3) mánaða frá því nefndinni barst mál til úrskurðar. Ef ástæða þykir
      til getur nefndin mælt fyrir um munnlegan eða skriflegan málflutning.
      Úrskurðir nefndarinnar eru fullnaðarúrskurðir á sviði stjórnsýslunnar.
-   Kostnaður af störfum úrskurðarnefndar félagsþjónustu [og húsnæðismála]^2)
+   Kostnaður af störfum úrskurðarnefndar félagsþjónustu [og húsnæðismála]^3)
                             greiðist úr ríkissjóði.
-         [Nefndin skal eigi síðar en 15. maí ár hvert skila félags- og
-    tryggingamálaráðherra skýrslu um störf sín og helstu niðurstöður og þær
-leiðbeinandi reglur sem greina má út frá úrskurðum nefndarinnar. Upplýsingar sem
-koma fram í skýrslunni skulu vera á samandregnu formi þannig að einstakir aðilar
-     séu ópersónugreinanlegir. Skýrsluna skal senda sveitarfélögum og birta
-                                  opinberlega.
-Félags- og tryggingamálaráðherra er heimilt með reglugerð að setja nánari ákvæði
-um störf og skrifstofuhald úrskurðarnefndar félagsþjónustu og húsnæðismála.]^2)
-                   ^1)L. 34/1997, 13. gr. ^2)L. 66/2010, 24. gr.
+  [Nefndin skal eigi síðar en 15. maí ár hvert skila [ráðherra]^2) skýrslu um
+störf sín og helstu niðurstöður og þær leiðbeinandi reglur sem greina má út frá
+  úrskurðum nefndarinnar. Upplýsingar sem koma fram í skýrslunni skulu vera á
+samandregnu formi þannig að einstakir aðilar séu ópersónugreinanlegir. Skýrsluna
+                skal senda sveitarfélögum og birta opinberlega.
+   [Ráðherra]^2) er heimilt með reglugerð að setja nánari ákvæði um störf og
+      skrifstofuhald úrskurðarnefndar félagsþjónustu og húsnæðismála.]^3)
+       ^1)L. 34/1997, 13. gr. ^2)L. 162/2010, 8. gr. ^3)L. 66/2010, 24. gr.
 
                         [XVIII. kafli. Ýmis ákvæði.]^1)
                               ^1)L. 34/1997, 17. gr.
    [66. gr. Veitt aðstoð til íslenskra ríkisborgara hjá umboðsmönnum ríkisins
-     erlendis og kostnaður við heimferð greiðist úr ríkissjóði. [Félags- og
- tryggingamálaráðherra]^1) er heimilt að setja reglur um aðstoð samkvæmt ákvæði
-                                   þessu.]^2)
-                   ^1)L. 66/2010, 22. gr. ^2)L. 34/1997, 17. gr.
+  erlendis og kostnaður við heimferð greiðist úr ríkissjóði. [Ráðherra]^1) er
+          heimilt að setja reglur um aðstoð samkvæmt ákvæði þessu.]^2)
+                   ^1)L. 162/2010, 8. gr. ^2)L. 34/1997, 17. gr.
                                   Gildistaka.
                    [67. gr.]^1) Lög þessi öðlast þegar gildi.
                               ^1)L. 34/1997, 17. gr.

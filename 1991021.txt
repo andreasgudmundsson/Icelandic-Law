@@ -14,8 +14,10 @@
  32/2000 (tóku gildi 26. maí 2000), [1]l. 88/2008 (tóku gildi 1. jan. 2009 nema
 brbákv. VII sem tók gildi 21. júní 2008), l. 23/2009 (tóku gildi 31. mars 2009),
  l. 24/2009 (tóku gildi 1. apríl 2009), l. 31/2010 (tóku gildi 27. apríl 2010),
- l. 60/2010 (tóku gildi 19. júní 2010), l. 95/2010 (tóku gildi 3. júlí 2010) og
-                   [2]l. 101/2010 (tóku gildi 1. ágúst 2010).
+  l. 60/2010 (tóku gildi 19. júní 2010), l. 95/2010 (tóku gildi 3. júlí 2010),
+   [2]l. 101/2010 (tóku gildi 1. ágúst 2010), l. 135/2010 (tóku gildi 2. des.
+2010), l. 142/2010 (tóku gildi 29. des. 2010) og l. 162/2010 (tóku gildi 1. jan.
+                                     2011).
 
                            1. þáttur. Almenn ákvæði.
                             I. kafli. Orðskýringar.
@@ -159,10 +161,10 @@ nauðasamnings eða krafist gjaldþrotaskipta hjá einum manni eða fleirum og f
 eða félagi, sbr. 1. mgr. 5. gr., og varnarþing þeirra er ekki það sama, getur sá
  sem setur fram beiðni eða kröfu óskað eftir því við héraðsdómara á varnarþingi
  eins þeirra að hann fari með málefni þeirra allra. Ef héraðsdómari telur efni
-til að verða við þeirri ósk skal hann senda dómsmálaráðherra erindið tafarlaust,
-en ráðherra ákveður endanlega hvort við því verði orðið. Héraðsdómari getur ekki
- tekið fyrir beiðni eða kröfu varðandi þá sem eiga varnarþing utan umdæmis hans
-                      fyrr en ráðherra hefur heimilað það.
+  til að verða við þeirri ósk skal hann senda [innanríkisráðherra]^1) erindið
+      tafarlaust, en ráðherra ákveður endanlega hvort við því verði orðið.
+   Héraðsdómari getur ekki tekið fyrir beiðni eða kröfu varðandi þá sem eiga
+       varnarþing utan umdæmis hans fyrr en ráðherra hefur heimilað það.
 Ef beiðni eða krafa kemur fram í umdæmi þar sem ekki verður farið með hana skal
   héraðsdómari framsenda hana og fylgigögn með henni héraðsdómstólnum í réttu
 umdæmi með áritun eða vottorði um hvenær hún hafi borist honum, en sá dagur sem
@@ -175,17 +177,18 @@ Beiðnum eða kröfum skuldarans eða annarra varðandi heimild til greiðslust�
 skuldarinn hafi flutt lögheimili sitt eða skráð varnarþing úr umdæminu eftir að
 heimildin var veitt. Eins skal farið með beiðnir eða kröfur varðandi heimild til
                             að leita nauðasamnings.
+                             ^1)L. 162/2010, 123. gr.
   9. gr. Við héraðsdómstóla skulu haldnar skrár um beiðnir og kröfur samkvæmt
  lögum þessum þar sem fram koma upplýsingar um afdrif þeirra, svo og um dómsmál
-   sem eru rekin eftir ákvæðum laga þessara, en dómsmálaráðherra setur nánari
-                     reglur um slíkar skrár í reglugerð.^1)
- Dómsmálaráðherra setur enn fremur fyrirmæli í reglugerð^1) um þingbækur, aðra
+ sem eru rekin eftir ákvæðum laga þessara, en [ráðherra]^1) setur nánari reglur
+                        um slíkar skrár í reglugerð.^2)
+   [Ráðherra]^1) setur enn fremur fyrirmæli í reglugerð^2) um þingbækur, aðra
 skráningu upplýsinga og veitingu vottorða um þau málefni sem lög þessi taka til.
     Héraðsdómari skal veita þeim sem þess krefst og hann telur hafa lögmætra
     hagsmuna að gæta upplýsingar úr skrám skv. 1. mgr. Sá sem hefur lögmætra
      hagsmuna að gæta getur einnig krafist aðgangs að beiðnum eða kröfum og
      fylgigögnum með þeim þótt þær hafi ekki verið lagðar fram á dómþingi.
-                                 ^1)Rg. 226/1992.
+                     ^1)L. 162/2010, 123. gr. ^1)Rg. 226/1992.
 
                           2. þáttur. Greiðslustöðvun.
                    III. kafli. Heimild til greiðslustöðvunar.
@@ -1037,7 +1040,27 @@ mgr. 62. gr. og honum hafi verið kunnugt eða mátt vera kunnugt um þau atvik 
   eftir ákvæðum laga um greiðsluaðlögun einstaklinga getur samkvæmt fyrirmælum
   þessa kafla leitað nauðasamnings til greiðsluaðlögunar, en slíkur samningur
 getur aðeins haft áhrif á kröfur sem nauðasamningur eftir almennum ákvæðum laga
-                        þessara tekur til, sbr. 28. gr.
+ þessara tekur til, sbr. 28. gr. [Nauðasamningur til greiðsluaðlögunar tekur þó
+                         ekki til eftirfarandi krafna:
+    a. fésekta sem ákveðnar hafa verið með dómi eða af stjórnvaldi eða með sátt
+  áður en umsókn um greiðsluaðlögun var tekin til greina, krafna um vangoldinn
+ virðisaukaskatt, krafna um afdregna vangoldna staðgreiðslu opinberra gjalda og
+   krafna um skaðabætur vegna tjóns sem samkvæmt dómi hefur verið valdið með
+                               refsiverðu athæfi,
+    b. krafna Lánasjóðs íslenskra námsmanna vegna námslána að öðru leyti en því
+ að ákveða má við greiðsluaðlögun að afborganir af þeim og vextir falli niður á
+    greiðsluaðlögunartíma; almenn skuldabréf sem stofnuð eru vegna vanskila,
+  ofgreiðslu námslána eða markaðskjaralána teljast ekki kröfur vegna námslána,
+    c. krafna viðskiptabanka vegna tímabundinnar fyrirgreiðslu sem námsmanni er
+  veitt vegna framfærslu á grundvelli væntanlegs láns frá Lánasjóði íslenskra
+ námsmanna, enda hafi samhliða verið samið um að láninu skuli ráðstafa að fullu
+  til uppgjörs á fyrirgreiðslu viðskiptabankans; ef umsækjandi fullnægir ekki
+     skilyrðum lánasjóðsins um framvindu náms skal farið með fyrirgreiðslu
+ viðskiptabanka, eða eftir atvikum þann hluta hennar sem ekki fæst greiddur með
+ láni frá sjóðnum, sem samningskröfu og tekur greiðsluaðlögun þá til kröfunnar,
+    d. uppsafnaðra skulda við opinbera aðila vegna meðlags og fer um uppsafnaða
+ skuld samkvæmt ívilnunarúrræðum laga um Innheimtustofnun [4]sveitarfélaga, nr.
+                                  54/1971.]^1)
   Einstaklingur sem ber ótakmarkaða ábyrgð á atvinnustarfsemi, hvort sem hann
     hefur lagt stund á hana einn eða í félagi við aðra, getur þó ekki leitað
 nauðasamnings til greiðsluaðlögunar samkvæmt þessum kafla nema skuldir sem stafa
@@ -1050,15 +1073,24 @@ umsjónarmaður lét það frá sér fara, en frumvarpið hefur þá sömu áhri
            nauðasamningsfrumvarp eftir almennum reglum laga þessara.
   Með beiðni um staðfestingu nauðasamnings til greiðsluaðlögunar skulu fylgja
    samrit allra gagna sem lágu fyrir við umleitanir til að koma á samningi um
-            greiðsluaðlögun ásamt greinargerð umsjónarmanns.]^1)]^2)
-                 ^1)[4]L. 101/2010, 36. gr. ^2)L. 24/2009, 2. gr.
+            greiðsluaðlögun ásamt greinargerð umsjónarmanns.]^2)]^3)
+     ^1)L. 135/2010, 12. gr. ^2)[5]L. 101/2010, 36. gr. ^3)L. 24/2009, 2. gr.
  [63. gr. b. [Eftir því sem átt getur við skal farið eftir ákvæðum 55.59. gr.
 við meðferð kröfu um staðfestingu nauðasamnings skv. 63. gr. a. Reglur X. kafla
      gilda um nauðasamning til greiðsluaðlögunar að frátalinni 3. mgr. 60.
                                   gr.]^1)]^2)
-                 ^1)[5]L. 101/2010, 36. gr. ^2)L. 24/2009, 2. gr.
-                         [63. gr. c.63. gr. i. ^1)]^2)
                  ^1)[6]L. 101/2010, 36. gr. ^2)L. 24/2009, 2. gr.
+[63. gr. c. [Ljúka má gjaldþrotaskiptum með nauðasamningi til greiðsluaðlögunar
+     eftir ákvæðum XXI. kafla og eftir atvikum tímabundinni greiðsluaðlögun
+  fasteignaveðkrafna samkvæmt [7]lögum nr. 50/2009. Í stað þess að þrotamaður
+ leggi frumvarp að nauðasamningi fyrir skiptastjóra og hann láti greiða atkvæði
+ um það skal þrotamaðurinn þá leggja fyrir skiptastjóra greiðsluáætlun og hann
+   síðan leita greiðsluaðlögunar á sama hátt og umsjónarmaður hefði ella gert
+       samkvæmt ákvæðum [8]V. kafla laga nr. 101/2010, um greiðsluaðlögun
+                             einstaklinga.]^1)]^2)
+                   ^1)L. 135/2010, 13. gr. ^2)L. 24/2009, 2. gr.
+                         [63. gr. d.63. gr. i. ^1)]^2)
+                 ^1)[9]L. 101/2010, 36. gr. ^2)L. 24/2009, 2. gr.
 
                           4. þáttur. Gjaldþrotaskipti.
                       XI. kafli. Upphaf gjaldþrotaskipta.
@@ -1108,7 +1140,7 @@ stefnu í einkamáli, um að lýsa því skriflega yfir að hann verði fær um 
    Að öðru leyti en leiðir af 2. tölul. 3. mgr. skiptir ekki máli um heimild
    lánardrottins til að krefjast gjaldþrotaskipta hvort krafa hans sé komin í
                                    gjalddaga.
-    ^1)L. 95/2010, 17. gr., sbr. einnig 22. gr. s.l. ^2)[7]L. 101/2010, 36. gr.
+   ^1)L. 95/2010, 17. gr., sbr. einnig 22. gr. s.l. ^2)[10]L. 101/2010, 36. gr.
   66. gr. Krafa um gjaldþrotaskipti skal send héraðsdómara og vera gerð svo úr
  garði sem segir í 7. gr. Krafa lánardrottins um gjaldþrotaskipti og fylgigögn
                         með henni skulu vera í tvíriti.
@@ -1425,7 +1457,7 @@ Banni eftir úrskurði héraðsdómara skv. 2. mgr. skal framfylgt með sama hæ
             úrskurðarins frestar ekki að hann komi til framkvæmdar.
 Þeim sem ákvæði 1. mgr. taka til er skylt að tilkynna skiptastjóra fyrir fram um
                         breytingu á heimilisfangi sínu.
-                            ^1)[8]L. 88/2008, 234. gr.
+                            ^1)[11]L. 88/2008, 234. gr.
 84. gr. Ef skiptastjóri fær vitneskju í starfi sínu um atvik sem hann telur geta
  gefið tilefni til rökstudds gruns um að þrotamaðurinn eða aðrir kunni að hafa
 gerst sekir um refsivert athæfi skal hann tilkynna það [ríkislögreglustjóra].^1)
@@ -1750,7 +1782,7 @@ Kröfu um aðför, kyrrsetningu, lögbann eða löggeymslu verður ekki komið f
 heimild til að krefjast nauðungarsölu án frekari dóms, sáttar eða aðfarar komið
   henni fram á eign þrotabúsins ef krafa hans hefði verið komin í gjalddaga án
                           tillits til 1. mgr. 99. gr.
-                            ^1)[9]L. 88/2008, 234. gr.
+                            ^1)[12]L. 88/2008, 234. gr.
   117. gr. Sá sem vill halda uppi kröfu á hendur þrotabúi og getur ekki fylgt
          henni eftir skv. 116. gr. skal lýsa henni fyrir skiptastjóra.
 Kröfulýsing skal vera skrifleg og tekið fram í hvers þágu hún sé gerð, svo ekki
@@ -2352,11 +2384,24 @@ Komi fram eign eftir lok gjaldþrotaskipta sem hefði átt að falla til þrotab
   aðgerða eftir fyrri köflum þessa þáttar við endurupptöku skv. 1. og 2. mgr.
 165. gr. Gjaldþrotaskipti verða ekki endurupptekin að öðru leyti en heimilað er
                                í 163. og 164. gr.
-      Þrotamaðurinn ber ábyrgð á skuldum sínum sem fást ekki greiddar við
-   gjaldþrotaskiptin. Ef kröfu hefur verið lýst við gjaldþrotaskiptin og ekki
-   fengist greidd við þau er fyrningu hennar slitið gagnvart þrotamanninum og
-   byrjar nýr fyrningarfrestur að líða á þeim degi sem skiptunum er lokið, ef
-       krafan var viðurkennd, en ella á þeim degi sem kröfunni var lýst.
+      [Þrotamaðurinn ber ábyrgð á skuldum sínum sem fást ekki greiddar við
+ gjaldþrotaskiptin. Hafi kröfu verið lýst við gjaldþrotaskiptin og ekki fengist
+   greidd við þau er fyrningu slitið gagnvart þrotamanninum og byrjar þá nýr
+ tveggja ára fyrningarfrestur að líða á þeim degi sem skiptunum er lokið. Þótt
+  kröfu hafi ekki verið lýst við skiptin gildir þessi sami fyrningarfrestur um
+                  hana, enda fyrnist hún ekki á skemmri tíma.
+  Fyrningu krafna sem um ræðir í 2. mgr. verður aðeins slitið á ný með því að
+kröfuhafi höfði innan fyrningarfrests mál á hendur þrotamanninum og fái þar dóm
+um viðurkenningu á fyrningarslitum gagnvart honum. Slíka viðurkenningu skal því
+aðeins veita með dómi að kröfuhafi sýni fram á að hann hafi sérstaka hagsmuni af
+  því að slíta aftur fyrningu, svo og að líkur megi telja á að fullnusta geti
+  fengist á kröfu hans á nýjum fyrningartíma, en að gengnum slíkum dómi gilda
+  almennar reglur um fyrningu hennar. Hafi kröfuhafi fengið tryggingarréttindi
+ fyrir kröfu sinni í eign þrotamannsins áður en frestur skv. 2. mgr. var á enda
+  fyrnist krafa hans þó ekki að því leyti sem fullnusta fæst á henni á síðari
+                  stigum vegna þeirra tryggingarréttinda.]^1)
+    ^1)L. 142/2010, 1. gr., sbr. einnig 2. gr. Ákvæðin skulu endurskoðuð innan
+                fjögurra ára frá gildistöku, sbr. brbákv. í s.l.
 
                5. þáttur. Meðferð ágreiningsmála fyrir dómstólum.
   XXIII. kafli. Hver ágreiningsefni verða lögð fyrir héraðsdóm og hvernig það
@@ -2600,9 +2645,12 @@ References
    1. file://2008088.html
    2. file://2010101.html
    3. file://2010101.html#g36
-   4. file://2010101.html#g36
+   4. file://1971054.html
    5. file://2010101.html#g36
    6. file://2010101.html#g36
-   7. file://2010101.html#g36
-   8. file://2008088.html#g234
-   9. file://2008088.html#g234
+   7. file://2009050.html
+   8. file://2010101.html
+   9. file://2010101.html#g36
+  10. file://2010101.html#g36
+  11. file://2008088.html#g234
+  12. file://2008088.html#g234

@@ -9,7 +9,7 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Taka gildi 1. janúar 2011.
+Tóku gildi 1. janúar 2011. Breytt með [1]l. 160/2010 (tóku gildi 1. jan. 2011).
 
                             I. kafli. Almenn ákvæði.
                                 1. gr. Markmið.
@@ -47,9 +47,9 @@ allir geta nýtt sér, að því marki sem aðstæður leyfa, án þess að koma
     4. Almenningur: Einn eða fleiri einstaklingar eða lögaðilar, samtök þeirra,
                                 félög eða hópar.
       5. Byggðamynstur: Lögun og yfirbragð byggðar, svo sem hæð og þéttleiki.
-    6. Byggingarleyfi: Skriflegt leyfi byggingarfulltrúa eða Byggingarstofnunar
-til að byggja, breyta eða rífa hús eða önnur mannvirki eða breyta notkun þeirra,
-                         sbr. ákvæði laga um mannvirki.
+             6. Byggingarleyfi: Skriflegt leyfi byggingarfulltrúa eða
+[Mannvirkjastofnunar]^1) til að byggja, breyta eða rífa hús eða önnur mannvirki
+            eða breyta notkun þeirra, sbr. ákvæði laga um mannvirki.
       7. Deiliskipulag: Skipulagsáætlun fyrir afmarkað svæði eða reiti innan
  sveitarfélags sem byggð er á aðalskipulagi og kveður nánar á um útfærslu þess.
         Ákvæði um deiliskipulag eiga jafnt við um þéttbýli og dreifbýli.
@@ -106,14 +106,15 @@ um framtíðarnotkun lands. Þar er gerð grein fyrir því að hvers konar fram
                           aðalskipulagi sveitarfélags.
     25. Þéttleiki byggðar: Byggingarmagn miðað við flatarmál lands sem m.a. er
 lýst með nýtingarhlutfalli eða reikningsstærðum eins og íbúar/ha eða íbúðir/ha.
+                            ^1)[2]L. 160/2010, 65. gr.
 
                         II. kafli. Stjórn skipulagsmála.
                    3. gr. Stjórn og framkvæmd skipulagsmála.
    Umhverfisráðherra fer með yfirstjórn skipulagsmála samkvæmt lögum þessum.
              Ráðherra til aðstoðar er Skipulagsstofnun, sbr. 4. gr.
  Utanríkisráðherra fer með yfirstjórn skipulagsmála á varnar- og öryggissvæðum
-eins og þau eru skilgreind í [1]varnarmálalögum, nr. 34/2008, sbr. og [2]lög nr.
-                        110/1951 og [3]lög nr. 176/2006.
+eins og þau eru skilgreind í [3]varnarmálalögum, nr. 34/2008, sbr. og [4]lög nr.
+                        110/1951 og [5]lög nr. 176/2006.
 Sveitarstjórnir annast gerð svæðis-, aðal- og deiliskipulagsáætlana. Þær fjalla
    um leyfisumsóknir og veita framkvæmdaleyfi og hafa eftirlit með framkvæmd
             skipulagsáætlana og framkvæmdaleyfisskyldum framkvæmdum.
@@ -147,7 +148,7 @@ Ríkið starfrækir Skipulagsstofnun. Hlutverk stofnunarinnar samkvæmt lögum �
       undir yfirstjórn sveitarstjórna. Sveitarstjórn er heimilt í samþykkt
    sveitarfélagsins að fela skipulagsnefnd eða öðrum aðilum innan stjórnsýslu
   sveitarfélagsins heimild til fullnaðarafgreiðslu mála samkvæmt lögum þessum,
-      sbr. [4]44. gr. sveitarstjórnarlaga, nr. 45/1998, svo sem afgreiðslu
+      sbr. [6]44. gr. sveitarstjórnarlaga, nr. 45/1998, svo sem afgreiðslu
     deiliskipulagsáætlana og útgáfu framkvæmdaleyfa. Afgreiðsla á svæðis- og
             aðalskipulagi er þó ávallt háð samþykki sveitarstjórnar.
 Sveitarstjórn ákveður fjölda nefndarmanna skipulagsnefndar. Um skipulagsnefndir
@@ -184,13 +185,13 @@ og skal því aðeins framlengd að reynt hafi verið að fá starfsmann sem upp
                   8. gr. Varnar-, öryggis- og flugvallarsvæði.
 Ákvæði laga þessara og reglugerða settra samkvæmt þeim eiga við um skipulagsmál
   á varnar- og öryggissvæðum og flugvallarsvæðinu eins og þau er skilgreind í
-  [5]lögum nr. 34/2008, sbr. og [6]lög nr. 110/1951, [7]lögum nr. 176/2006 og
- [8]lögum nr. 76/2008 eftir því sem við getur átt, þar á meðal um gjaldheimtu.
+  [7]lögum nr. 34/2008, sbr. og [8]lög nr. 110/1951, [9]lögum nr. 176/2006 og
+ [10]lögum nr. 76/2008 eftir því sem við getur átt, þar á meðal um gjaldheimtu.
  Utanríkisráðherra fer með yfirstjórn skipulags- og mannvirkjamála á varnar- og
 öryggissvæðum. Utanríkisráðherra er heimilt að gera þjónustusamning um framkvæmd
             slíkra verkefna á öryggissvæðinu á Keflavíkurflugvelli.
  Skipulagsnefnd Keflavíkurflugvallar fer með skipulagsmál á flugvallarsvæðinu í
-                    samræmi við ákvæði [9]laga nr. 76/2008.
+                    samræmi við ákvæði [11]laga nr. 76/2008.
                          9. gr. Svæðisskipulagsnefndir.
     Sveitarstjórnir sem ákveða að gert skuli svæðisskipulag skulu koma á fót
        svæðisskipulagsnefnd sem hefur það hlutverk að vinna að tillögu að
@@ -311,7 +312,7 @@ friðun sé að ræða samkvæmt öðrum lögum, skal setja í viðkomandi skipu
  umhverfisáhrifum. Þó þarf ekki að afla slíks leyfis vegna framkvæmda sem háðar
                 eru byggingarleyfi samkvæmt lögum um mannvirki.
 Öll efnistaka á landi, úr ám, vötnum og af eða úr hafsbotni innan netlaga er háð
-framkvæmdaleyfi hlutaðeigandi sveitarstjórnar í samræmi við ákvæði [10]laga nr.
+framkvæmdaleyfi hlutaðeigandi sveitarstjórnar í samræmi við ákvæði [12]laga nr.
   44/1999, um náttúruvernd. Framkvæmdaleyfi vegna efnistöku skal gefið út til
  tiltekins tíma þar sem gerð er grein fyrir stærð efnistökusvæðis, vinnsludýpi,
   magni og gerð efnis sem heimilt er að nýta samkvæmt leyfinu, vinnslutíma og
@@ -477,8 +478,9 @@ Garðabær, Kópavogsbær, Reykjavíkurborg, Seltjarnarneskaupstaður, Mosfellsb
      sveitarfélög um aðild þeirra að svæðisskipulagi höfuðborgarsvæðisins.
   Svæðisskipulagsnefnd annast vinnslu, kynningu og afgreiðslu svæðisskipulags
                  undir yfirstjórn hlutaðeigandi sveitarstjórna.
-      Svæðisskipulag er háð samþykki allra hlutaðeigandi sveitarstjórna og
-                        staðfestingu umhverfisráðherra.
+     Svæðisskipulag er háð samþykki allra hlutaðeigandi sveitarstjórna [og
+umhverfisráðherra í þeim tilvikum þegar hann skal staðfesta svæðisskipulag].^1)
+                            ^1)[13]L. 160/2010, 65. gr.
                 23. gr. Gerð svæðisskipulags, kynning og samráð.
 Þegar vinna við gerð svæðisskipulagstillögu hefst skal svæðisskipulagsnefnd taka
  saman lýsingu á skipulagsverkefninu þar sem gerð er grein fyrir hvaða áherslur
@@ -910,7 +912,7 @@ Eigendum fasteigna sem forkaupsréttur tekur til er skylt að bjóða sveitarstj
 vill neyta réttarins eða ekki. Svari sveitarstjórn eigi boði eiganda fasteignar
       innan tilskilins frests skal líta svo á að forkaupsrétti sé hafnað.
       Ákvæði þessarar greinar raska ekki ákvæðum annarra laga um víðtækari
-forkaupsrétt sveitarfélaga. Um meðferð forkaupsréttarmála fer samkvæmt [11]lögum
+forkaupsrétt sveitarfélaga. Um meðferð forkaupsréttarmála fer samkvæmt [14]lögum
                                   nr. 22/1932.
                        50. gr. Heimildir til eignarnáms.
 Ráðherra getur að fenginni umsögn Skipulagsstofnunar veitt sveitarstjórn heimild
@@ -935,7 +937,7 @@ enda sé liðinn frestur sem honum hefur verið settur til að byggja á lóðin
 Eignarnám er því aðeins heimilt að sveitarstjórn hafi áður með sannanlegum hætti
    leitast við að ná samningum við eigendur þeirra eigna eða réttinda sem hún
                             hyggst taka eignarnámi.
- Um framkvæmd eignarnáms og ákvörðun um bætur fer eftir [12]lögum nr. 11/1973.
+ Um framkvæmd eignarnáms og ákvörðun um bætur fer eftir [15]lögum nr. 11/1973.
                 Bætur vegna eignarnáms greiðast úr sveitarsjóði.
                 51. gr. Bætur vegna skipulags og yfirtaka eigna.
     Nú veldur gildistaka skipulagsáætlana því að verðmæti fasteignar lækkar,
@@ -978,7 +980,7 @@ annar í lögfræði, þriðji á sviði umhverfismála og fjórði á sviði by
  Nefndarmenn skulu skipaðir til fjögurra ára í senn nema formaður nefndarinnar
    sem jafnframt skal vera forstöðumaður úrskurðarnefndar og hafa starfið að
    aðalstarfi. Hann skal skipaður til fimm ára að undangenginni auglýsingu í
- samræmi við [13]lög nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins.
+ samræmi við [16]lög nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins.
     Varamenn skulu tilnefndir á sama hátt og uppfylla sömu hæfisskilyrði og
                                    aðalmenn.
 Forstöðumaður úrskurðarnefndar hefur yfirstjórn hennar með höndum og ber ábyrgð
@@ -1015,7 +1017,7 @@ viðbótarfrest. Jafnframt skal nefndin afla viðbótargagna og umsagna og kynna
 hafnar eða yfirvofandi. Komi fram krafa um slíkt skal úrskurðarnefnd svo fljótt
 sem verða má kveða upp úrskurð um það atriði. Úrskurði um stöðvun framkvæmda ber
    sveitarstjórn að framfylgja þegar í stað, með aðstoð lögreglu ef með þarf.
-  Um málsmeðferð fer að öðru leyti samkvæmt [14]stjórnsýslulögum, nr. 37/1993.
+  Um málsmeðferð fer að öðru leyti samkvæmt [17]stjórnsýslulögum, nr. 37/1993.
      53. gr. Framkvæmdir sem brjóta í bága við skipulag eða eru án leyfis.
 Ef framkvæmdaleyfisskyld framkvæmd er hafin án þess að framkvæmdaleyfi sé fengið
   fyrir henni, framkvæmdaleyfi brýtur í bága við skipulag eða það er fallið úr
@@ -1046,6 +1048,12 @@ Sveitarstjórn getur látið vinna verk, sem hún hefur lagt fyrir að unnið sk
                                      lögum.
                               56. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 2011.
+[Ákvæði laga þessara taka ekki til þeirra skipulagsáætlana sem sendar hafa verið
+         Skipulagsstofnun skv. 4. mgr. 13. gr. og 14. gr. skipulags- og
+  [18]byggingarlaga, nr. 73/1997, eða sendar stofnuninni til athugunar skv. 2.
+mgr. [19]17. gr. sömu laga fyrir gildistöku laga þessara. Um meðferð slíkra mála
+         fer samkvæmt [20]lögum nr. 73/1997, með síðari breytingum.]^1)
+                            ^1)[21]L. 160/2010, 65. gr.
                        57. gr. Breytingar á öðrum lögum.
                             Ákvæði til bráðabirgða.
          1. Sveitarstjórn getur án þess að fyrir liggi staðfest aðal- eða
@@ -1074,7 +1082,9 @@ svæðisskipulags fer samkvæmt lögum þessum. Þær svæðisskipulagsnefndir s
   niður svæðisskipulag miðhálendis Íslands. Þar til landsskipulagsstefna hefur
 verið samþykkt skal Skipulagsstofnun gæta þess að aðalskipulag sveitarfélaga sé
   í samræmi við svæðisskipulag miðhálendis Íslands og þá stefnumörkun sem þar
-                                  kemur fram.
+ kemur fram. [Skipulagsstofnun er heimilt að gera breytingar á svæðisskipulagi
+ miðhálendisins, til samræmis við tillögur að breytingu á aðalskipulagi, þegar
+        breytingin felur ekki í sér nýja stefnumörkun um landnotkun.]^1)
       5. Sveitarstjórn skal senda Skipulagsstofnun deiliskipulagsáætlanir og
 breytingar á þeim sem gerðar hafa verið á grundvelli aðalskipulags og samþykktar
    af sveitarstjórn fyrir 1. janúar 1998 og hafa ekki verið auglýstar, hlotið
@@ -1083,25 +1093,34 @@ staðfestingu ráðherra eða samþykktar af skipulagsstjóra ríkisins samkvæm
 gildistöku laga þessara og skal sveitarstjórn gera Skipulagsstofnun grein fyrir
  því hvort hún hafi samþykkt viðkomandi áætlun. Hafi deiliskipulagsáætlun ekki
                    verið samþykkt telst hún fallin úr gildi.
-    6. Byggingarsamþykktir sem settar hafa verið á grundvelli [15]37. gr. laga
+    6. Byggingarsamþykktir sem settar hafa verið á grundvelli [22]37. gr. laga
 nr. 73/1997 og varða skipulagsákvarðanir halda gildi sínu að svo miklu leyti sem
                       þær samrýmast ákvæðum laga þessara.
+                            ^1)[23]L. 160/2010, 65. gr.
 
 References
 
    Visible links
-   1. file://2008034.html
-   2. file://1951110.html
-   3. file://2006176.html
-   4. file://1998045.html#g44
-   5. file://2008034.html
-   6. file://1951110.html
-   7. file://2006176.html
-   8. file://2008076.html
-   9. file://2008076.html
-  10. file://1999044.html
-  11. file://1932022.html
-  12. file://1973011.html
-  13. file://1996070.html
-  14. file://1993037.html
-  15. file://1997073.html#g37
+   1. file://2010160.html
+   2. file://2010160.html#g65
+   3. file://2008034.html
+   4. file://1951110.html
+   5. file://2006176.html
+   6. file://1998045.html#g44
+   7. file://2008034.html
+   8. file://1951110.html
+   9. file://2006176.html
+  10. file://2008076.html
+  11. file://2008076.html
+  12. file://1999044.html
+  13. file://2010160.html#g65
+  14. file://1932022.html
+  15. file://1973011.html
+  16. file://1996070.html
+  17. file://1993037.html
+  18. file://1997073.html
+  19. file://1997073.html
+  20. file://1997073.html
+  21. file://2010160.html#g65
+  22. file://1997073.html
+  23. file://2010160.html#g65

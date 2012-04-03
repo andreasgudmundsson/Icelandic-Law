@@ -45,11 +45,10 @@ tóku gildi 17. apríl 1991), [3]l. 20/1991 (tóku gildi 1. júlí 1992), l. 36/
   1992 nema 103. gr. sem tók gildi 9. jan. 1992), [5]l. 30/1992 (tóku gildi 1.
    okt. 1992), l. 111/1992 (tóku gildi 1. jan. 1993; komu til framkvæmda skv.
 fyrirmælum í 22. gr.), l. 58/1993 (tóku gildi 1. jan. 1994; EES-samningurinn: V.
-viðauki reglugerð 1612/68/EBE og VI. viðauki reglugerð 1408/71/EBE), l. 60/1993
-  (tóku gildi 27. maí 1993; komu til framkvæmda skv. fyrirmælum í 2. gr.), l.
-  122/1993 (tóku gildi 1. jan. 1994; komu til framkvæmda skv. fyrirmælum í 14.
-gr.), l. 57/1994 (tóku gildi 20. maí 1994; komu til framkvæmda skv. fyrirmælum í
-                                    2. gr.),
+ viðauki reglugerð 1612/68 og VI. viðauki reglugerð 1408/71), l. 60/1993 (tóku
+ gildi 27. maí 1993; komu til framkvæmda skv. fyrirmælum í 2. gr.), l. 122/1993
+  (tóku gildi 1. jan. 1994; komu til framkvæmda skv. fyrirmælum í 14. gr.), l.
+57/1994 (tóku gildi 20. maí 1994; komu til framkvæmda skv. fyrirmælum í 2. gr.),
 l. 147/1994 (tóku gildi 1. jan. 1995; komu til framkvæmda skv. fyrirmælum í 17.
 gr.), l. 151/1994 (tóku gildi 1. jan. 1995; komu til framkvæmda skv. fyrirmælum
     í 3. gr.), l. 30/1995 (tóku gildi 9. mars 1995; komu til framkvæmda skv.
@@ -122,14 +121,17 @@ og l. 97/2009 (tóku gildi 3. sept. 2009)), l. 128/2009 (tóku gildi 30. des. 20
   nema 2.6. gr., 2. efnismálsl. b-liðar og c-liður 7. gr., 10.12. gr., 1.4.
 tölul. a-liðar og b- og c-liður 13. gr., 14.17. gr., 21.23. gr., 25.31. gr.,
   b-liður 32. gr. og 33.40. gr. sem tóku gildi 1. jan. 2010 og 1. efnismálsl.
-b-liðar og d-liður 7. gr. sem taka gildi 1. jan. 2011; komu til framkvæmda skv.
+b-liðar og d-liður 7. gr. sem tóku gildi 1. jan. 2011; koma til framkvæmda skv.
 fyrirmælum í 41. gr.), l. 136/2009 (tóku gildi 1. jan. 2010), l. 137/2009 (tóku
        gildi 1. jan. 2010; komu til framkvæmda skv. fyrirmælum í 5. gr.),
  l. 16/2010 (tóku gildi 20. mars 2010; komu til framkvæmda skv. fyrirmælum í 4.
-gr.), l. 23/2010 (tóku gildi 31. mars 2010), [10]l. 35/2010 (taka gildi 1. nóv.
+gr.), l. 23/2010 (tóku gildi 31. mars 2010), [10]l. 35/2010 (tóku gildi 1. nóv.
 2010), l. 65/2010 (tóku gildi 27. júní 2010), [11]l. 77/2010 (tóku gildi 1. júlí
   2010), l. 92/2010 (tóku gildi 2. júlí 2010), [12]l. 101/2010 (tóku gildi 1.
-             ágúst 2010) og l. 104/2010 (tóku gildi 6. júlí 2010).
+ ágúst 2010), l. 104/2010 (tóku gildi 6. júlí 2010), l. 162/2010 (tóku gildi 1.
+jan. 2011), l. 164/2010 (tóku gildi 1. jan. 2011 nema 2., 6., 22. og 26. gr. sem
+ tóku gildi 31. des. 2010; komu til framkvæmda skv. fyrirmælum í 29. gr.) og l.
+    165/2010 (tóku gildi og komu til framkvæmda skv. fyrirmælum í 69. gr.).
 
                          I. kafli. Skattskyldir aðilar.
                                Skattskylda manna.
@@ -401,11 +403,11 @@ eru færðir eiganda til eignar á reikningi. Þó skulu vextir af reikningum þ
        3. Afföll, þ.e. mismunur á uppreiknuðu nafnverði kröfu á kaupdegi að
    frádregnu kaupverði hennar, skal færa til tekna í hlutfalli við afborganir
                          nafnverðs þegar þær greiðast.
-    4. [Gengishagnað af hvers konar innlánsreikningum í erlendri mynt á því ári
-   sem gengisbreyting á sér stað skal færa til tekna og miðast við kaupgengi
-  hlutaðeigandi erlends gjaldeyris í árslok eða á úttektardegi. Heimilt er að
- jafna saman gengishagnaði og gengistapi hvers innlánsreiknings fyrir sig innan
-                                  ársins.]^2)
+    4. [Innleystur gengishagnaður af hvers konar innlánsreikningum og kröfum í
+erlendri mynt á því ári sem innlausn á sér stað skal færður til tekna og miðast
+ við mismun á kaupgengi hlutaðeigandi erlends gjaldeyris frá 1. janúar 2010 eða
+ síðar og á úttektar- eða greiðsludegi. Heimilt er að jafna saman gengishagnaði
+        og gengistapi hvers innlánsreiknings fyrir sig innan ársins.]^2)
    5. Vextir, arður og önnur ávöxtun af lífeyristryggingum, söfnunartryggingum,
 einstaklinga hjá líftryggingafélögum skulu teljast til tekna þegar slíkar tekjur
 koma til greiðslu, nema að því leyti sem lífeyristryggingar, söfnunartryggingar,
@@ -415,10 +417,7 @@ koma til greiðslu, nema að því leyti sem lífeyristryggingar, söfnunartrygg
      sem lífeyrir skv. A-lið 7. gr. þegar slíkar greiðslur eru greiddar út.
      7. Vextir af stofnsjóðseign í félögum skv. 2. tölul. 1. mgr. 2. gr. skulu
   teljast til tekna þegar þeir eru færðir eiganda til eignar eða ráðstöfunar.
-        ^1)L. 61/2008, 1. gr. Breytingin kemur til framkvæmda við álagningu
-  tekjuskatts á árinu 2010 skv. 11. gr. s.l. ^2)L. 128/2009, 2. gr. Breytingin
- kemur til framkvæmda við álagningu 2011 og á staðgreiðsluárinu 2010 eftir því
-                          sem við á skv. 41. gr. s.l.
+                   ^1)L. 61/2008, 1. gr. ^2)L. 165/2010, 1. gr.
                      Kaup á hlutabréfum samkvæmt kauprétti.
   9. gr. Tekjur skv. 1. tölul. A-liðar 7. gr., vegna kaupa manns á hlutabréfum
 samkvæmt kauprétti sem hann hefur öðlast vegna starfa fyrir annan aðila, sbr. þó
@@ -480,10 +479,10 @@ starfsmaður félags, eða tengds félags, telst vera laun skv. 1. tölul. A-li�
 gr. ef hún er óheimil samkvæmt lögum um hlutafélög eða lögum um einkahlutafélög.
  Ef úthlutun til annarra en starfsmanna er óheimil samkvæmt lögum um hlutafélög
   eða lögum um einkahlutafélög skal skattleggja úthlutunina sem tekjur skv. 4.
- tölul. A-liðar 7. gr. Ef slík úthlutun á sér stað til sameignarfélags, þar sem
-    einn sameigenda er hluthafi, stjórnarmaður eða starfsmaður félagsins sem
- úthlutar verðmætum, skal úthlutunin teljast til tekna hjá honum skv. 1. tölul.
-                                 A-liðar 7. gr.
+  tölul. A-liðar 7. gr. Ef slík úthlutun á sér stað til [samlagsfélags eða]^2)
+    sameignarfélags, þar sem einn sameigenda er hluthafi, stjórnarmaður eða
+starfsmaður félagsins sem úthlutar verðmætum, skal úthlutunin teljast til tekna
+                    hjá honum skv. 1. tölul. A-liðar 7. gr.
    Arður af eigin hlutum eða hlutabréfum telst hvorki til tekna né gjalda hjá
                       hlutafélagi eða samlagshlutafélagi.
    Nú er félagi sem um ræðir í 1. tölul. 1. mgr. 2. gr. slitið án þess að um
@@ -495,7 +494,8 @@ sameiningu félaga sé að ræða, sbr. 51. gr., og skal þá teljast til arðs 
 hvert ár til ársloka 1996, eða jöfnunarverðmæti hlutabréfanna, sbr. 3. mgr. 18.
                                gr., sé það hærra.
    ^1)L. 128/2009, 3. gr. Breytingin kemur til framkvæmda við álagningu 2011 og
-         á staðgreiðsluárinu 2010 eftir því sem við á skv. 41. gr. s.l.
+ á staðgreiðsluárinu 2010 eftir því sem við á skv. 41. gr. s.l. ^2)L. 165/2010,
+                                     2. gr.
                     Sameiginleg ákvæði um söluhagnað eigna.
  12. gr. Söluhagnaður eigna telst mismunur á söluverði þeirra og stofnverði, að
  teknu tilliti til fenginna fyrninga og áður fengins söluhagnaðar eftir því sem
@@ -638,8 +638,10 @@ fram innan tveggja ára frá því síðast var lagt í byggingarkostnað skal e
   ná einnig til lóða eða lóðarréttinda sem slíku húsnæði fylgja, enda sé lóðin
  innan þeirra stærðarmarka sem almennt gerist um íbúðarhúsalóðir. Um söluhagnað
   lóðar umfram þessi mörk gilda ákvæði 15. gr. [Ákvæði þessarar greinar gilda
-                   einnig um hagnað af sölu búseturéttar.]^1)
-                              ^1)L. 164/2008, 2. gr.
+einnig um hagnað af sölu búseturéttar [og sölu íbúðarhúsnæðis úr dánarbúi manns
+         enda séu uppfyllt framangreind skilyrði um eignarhaldstíma og
+                              stærðarmörk].^2)]^1)
+                   ^1)L. 164/2008, 2. gr. ^2)L. 165/2010, 3. gr.
                     Söluhagnaður af eignarhlutum í félögum.
 18. gr. Hagnaður af sölu hlutabréfa ^1) telst að fullu til skattskyldra tekna á
 söluári og skiptir ekki máli hve lengi skattaðili hefur átt hin seldu hlutabréf.
@@ -872,19 +874,19 @@ erlendis í þessu sambandi sem eru fastráðnir, settir eða skipaðir starfsme
           alþjóðastofnanir sem Ísland er aðili að [eða eru starfsmenn
                      Þróunarsamvinnustofnunar Íslands].^2)
       3. Tekjur skv. 4. tölul. A-liðar 7. gr. sem skattfrjálsar eru samkvæmt
-sérlögum eða vinninga í happdrættum sem fengið hafa leyfi dómsmálaráðuneytisins,
-     enda sé öllum ágóða af þeim varið til menningarmála, mannúðarmála eða
-  kirkjulegrar starfsemi. Sama gildir um happdrætti sem starfa samkvæmt leyfi
-     útgefnu af stjórnvöldum á hinu Evrópska efnahagssvæði, [í aðildarríki
- stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum],^3) að sömu skilyrðum
-                                  fullnægðum.
+           sérlögum eða vinninga í happdrættum sem fengið hafa leyfi
+      [innanríkisráðuneytisins],^3) enda sé öllum ágóða af þeim varið til
+     menningarmála, mannúðarmála eða kirkjulegrar starfsemi. Sama gildir um
+  happdrætti sem starfa samkvæmt leyfi útgefnu af stjórnvöldum á hinu Evrópska
+  efnahagssvæði, [í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í
+                  Færeyjum],^4) að sömu skilyrðum fullnægðum.
         4. Iðgjöld launþega til öflunar lífeyrisréttinda samkvæmt lögum um
   skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða að hámarki 4% af
     iðgjaldsstofni. [Að auki allt að 4% af iðgjaldsstofni samkvæmt ákvörðun
     sjóðfélaga vegna iðgjalda sem greidd eru til lífeyrissjóða til aukningar
     lífeyrisréttinda, til aðila skv. 3. mgr. 8. gr. laga um skyldutryggingu
        lífeyrisréttinda og starfsemi lífeyrissjóða, eða til starfstengdra
-  eftirlaunasjóða samkvæmt lögum um starfstengda eftirlaunasjóði.]^4) Skilyrði
+  eftirlaunasjóða samkvæmt lögum um starfstengda eftirlaunasjóði.]^5) Skilyrði
        frádráttar samkvæmt þessum lið er að iðgjöld séu greidd reglulega.
    5. Iðgjöld manna sem vinna við eigin atvinnurekstur eða sjálfstæða starfsemi
         vegna öflunar lífeyrisréttinda samkvæmt lögum um skyldutryggingu
@@ -893,7 +895,7 @@ lífeyrisréttinda og starfsemi lífeyrissjóða að hámarki 4% af iðgjaldssto
 sem greidd eru til lífeyrissjóða til aukningar lífeyrisréttinda, til aðila skv.
       3. mgr. 8. gr. laga um skyldutryggingu lífeyrisréttinda og starfsemi
      lífeyrissjóða, eða til starfstengdra eftirlaunasjóða samkvæmt lögum um
-starfstengda eftirlaunasjóði.]^4) Skilyrði frádráttar samkvæmt þessum lið er að
+starfstengda eftirlaunasjóði.]^5) Skilyrði frádráttar samkvæmt þessum lið er að
                          iðgjöld séu greidd reglulega.
                                         B.
       1. Fé sem varið er til aukningar á fjárfestingu í hlutabréfum á árunum
@@ -904,7 +906,7 @@ starfstengda eftirlaunasjóði.]^4) Skilyrði frádráttar samkvæmt þessum li�
    Til keyptra hlutabréfa skv. 2. mgr. teljast einungis hlutabréf í félögum sem
   uppfylla skilyrði 5. mgr. og ríkisskattstjóri hefur staðfest eða hlutabréf í
   félögum sem skráð eru í kauphöll á Evrópska efnahagssvæðinu, [í aðildarríki
-          stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum].^5)
+          stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum].^6)
     Það er skilyrði frádráttar skv. 1. mgr. að maður eigi viðkomandi hlutabréf
     yfir fimm áramót og geri árlega grein fyrir eignarhaldi þeirra. Þó skal
 skilyrðið um þriggja ára eignarhaldstíma samkvæmt lögum nr. 137/1996 halda gildi
@@ -922,7 +924,7 @@ kaup á hlutabréfum í félagi með hlutafé a.m.k. að fjárhæð 22.000.000 k
     hluthafa sé a.m.k. 25, engar hömlur séu lagðar á viðskipti með hlutabréf
   félagsins og ársreikningar þess öllum aðgengilegir. Hlutafélag, sem ekki er
    skráð í kauphöll á Evrópska efnahagssvæðinu, [í aðildarríki stofnsamnings
-Fríverslunarsamtaka Evrópu eða í Færeyjum],^5) skal innan fimm mánaða frá lokum
+Fríverslunarsamtaka Evrópu eða í Færeyjum],^6) skal innan fimm mánaða frá lokum
    hvers reikningsárs senda ríkisskattstjóra ársreikning sinn fyrir næstliðið
  reikningsár sem endurskoðaður hefur verið í samræmi við ákvæði 1. mgr. [19]63.
 gr. laga nr. 144/1994, um ársreikninga. Ríkisskattstjóri skal árlega veita þeim
@@ -964,34 +966,7 @@ tekjuári. Sé ekki um fjármagnstekjur að ræða á því tekjuári þegar mó
                                 atvinnurekstur.
     Ákvæði 2. mgr. þessarar greinar um heimild til að draga frá beinan kostnað
   við öflun tekna gilda ekki um leigutekjur, vexti eða aðrar fjármagnstekjur.
-    [3. Fé sem varið er til kaupa á hlutabréfum í nýsköpunarfyrirtækjum skv. 6.
- gr. laga um stuðning við nýsköpunarfyrirtæki, enda sé um hlutafjáraukningu að
-ræða skv. [20]V. kafla laga nr. 2/1995, um hlutafélög, og [21]V. kafla laga nr.
-                         138/1994, um einkahlutafélög.
-     Frádráttur skv. 1. mgr. skal miðast við fjárfestingu á hverju ári og nema
-   verðmæti keyptra hlutabréfa umfram verðmæti seldra hlutabréfa í sams konar
- félögum, en þó aldrei hærri en 300.000 kr. hjá einstaklingi og 600.000 kr. hjá
-                                    hjónum.
-    Til keyptra hlutabréfa skv. 2. mgr. teljast einungis hlutabréf lögaðila sem
-      fengið hafa staðfestingu frá Rannís skv. 6. gr. laga um stuðning við
- nýsköpunarfyrirtæki og eru á skrá sem ríkisskattstjóri heldur vegna viðkomandi
-                                   tekjuárs.
-    Það er skilyrði frádráttar skv. 1. mgr. að maður eigi viðkomandi hlutabréf
-yfir þrenn áramót og geri árlega grein fyrir eignarhaldi þeirra á skattframtali.
- Selji hann bréfin innan þess tíma færist nýttur frádráttur til tekna á söluári
- viðkomandi hlutabréfa. Ekki skal þó beita ákvæði um tekjufærslu frádráttar ef
-maður kaupir á sama ári og eigi síðar en 30 dögum eftir söluna önnur hlutabréf í
-hlutafélagi sem uppfyllir skilyrði þessa töluliðar, fyrir a.m.k. sömu fjárhæð og
- söluverð hinna seldu hlutabréfa var. Sé kaupverðið lægra skal ákvæði 2. málsl.
- eiga við um mismuninn. Fenginn frádrátt skal tekjufæra að fullu með 10% álagi,
-eða í réttu hlutfalli við það sem upp á vantar að endurfjárfest sé í stað hinna
-                                     seldu.
-    Ekki er heimilt að flytja á milli ára og nýta sem frádrátt það sem fjárfest
-          er umfram hámark á hverju ári skv. 2. mgr. þessa töluliðar.
-    Frádráttur samkvæmt þessum tölulið heimilast frá tekjum skv. A- og B-lið 7.
-                                      gr.
-    Fjármálaráðherra er heimilt að setja í reglugerð nánari ákvæði um skilyrði
-                    frádráttar samkvæmt þessum tölulið.]^6)
+                                    [3. ^7)]^8)
    Hafi maður beinan kostnað við öflun annarra tekna en tekna skv. 1. tölul.
    A-liðar 7. gr., án þess að hún verði talin falla undir atvinnurekstur eða
 sjálfstæða starfsemi, skulu ákvæði 1. mgr. 1. tölul. 31. gr. samt sem áður gilda
@@ -1003,17 +978,18 @@ frádráttar sams konar tekjum og hann gekk til öflunar á, og má frádráttur
            sjálfstæðrar starfsemi í þessu sambandi nema því aðeins að
 heildarfyrningargrunnur slíks húsnæðis í eigu hans í árslok nemi 27.000.000 kr.
 eða meira ef um einstakling er að ræða, en 54.000.000 kr. ef hjón, sbr. 62. gr.,
-                                eiga í hlut. ^7)
+                                eiga í hlut. ^9)
       Hafi maður leigutekjur af íbúðarhúsnæði, án þess að það teljist vera
    atvinnurekstur eða sjálfstæð starfsemi, er honum heimilt að draga frá þeim
 tekjum húsaleigugjöld af íbúðarhúsnæði til eigin nota. Frádráttur þessi leyfist
 eingöngu til frádráttar leigutekjum af íbúðarhúsnæði sem ætlað er til eigin nota
                          en er tímabundið til útleigu.
-    ^1)L. 174/2006, 3. gr. ^2)L. 61/2008, 2. gr. ^3)L. 108/2006, 22. gr. ^4)L.
-76/2007, 3. gr. ^5)L. 108/2006, 23. gr. ^6)L. 137/2009, 2. gr. Breytingin kemur
- til framkvæmda við álagningu opinberra gjalda árið 2011 vegna tekjuársins 2010
-  skv. 5. gr. s.l. ^7)L. 128/2009, 6. gr. Breytingin kemur til framkvæmda við
-álagningu 2011 og á staðgreiðsluárinu 2010 eftir því sem við á skv. 41. gr. s.l.
+    ^1)L. 174/2006, 3. gr. ^2)L. 61/2008, 2. gr. ^3)L. 162/2010, 176. gr. ^4)L.
+108/2006, 22. gr. ^5)L. 76/2007, 3. gr. ^6)L. 108/2006, 23. gr. ^7)L. 165/2010,
+  4. gr. ^8)L. 137/2009, 2. gr. Breytingin kemur til framkvæmda við álagningu
+    opinberra gjalda árið 2011 vegna tekjuársins 2010 skv. 5. gr. s.l. ^9)L.
+    128/2009, 6. gr. Breytingin kemur til framkvæmda við álagningu 2011 og á
+          staðgreiðsluárinu 2010 eftir því sem við á skv. 41. gr. s.l.
                     Frádráttur frá tekjum af atvinnurekstri.
 31. gr. Frá tekjum lögaðila og þeim tekjum manna sem stafa af atvinnurekstri eða
          sjálfstæðri starfsemi eða eru tengdar slíkum rekstri má draga:
@@ -1050,7 +1026,7 @@ greitt í reiðufé, fært á einkareikning, greitt í fríðu eða í hlunnindu
                                       5. ^2)
    Sannanlega tapað hlutafé í félögum sem orðið hafa gjaldþrota. Sama gildir um
   hlutafé sem tapast hefur vegna þess að það hefur verið fært niður í kjölfar
-                 nauðasamninga samkvæmt [22]lögum nr. 21/1991.
+                 nauðasamninga samkvæmt [20]lögum nr. 21/1991.
                                         ^2)
                      6. Veittan afslátt af vörum eða þjónustu.
      7. Fé það er innlend vátryggingarfélög færa í árslok í iðgjaldasjóð vegna
@@ -1066,8 +1042,8 @@ rekstrar, nema sýnt þyki að umræddar breytingar hafi verið gerðar í eðli
      9. Þá fjárhæð sem hlutafélög, sbr. 1. tölul. 1. mgr. 2. gr., og félög og
  samlög sem falla undir 2. ^3) tölul. 1. mgr. 2. gr. hafa fengið greidda í arð
 skv. 4. tölul. C-liðar 7. gr. af hlutum og hlutabréfum í félögum er greinir í 1.
- tölul. 1. mgr. 2. gr., [sbr. [23]XII. kafla laga nr. 2/1995, um hlutafélög, og
- [24]laga nr. 138/1994, um einkahlutafélög]^3) ^4) [Sama gildir um fjárhæð sem
+ tölul. 1. mgr. 2. gr., [sbr. [21]XII. kafla laga nr. 2/1995, um hlutafélög, og
+ [22]laga nr. 138/1994, um einkahlutafélög]^3) ^4) [Sama gildir um fjárhæð sem
    félög í sömu félagaformum sem skattskyld eru skv. 7. tölul. 3. gr. og eru
     heimilisföst í öðru aðildarríki á Evrópska efnahagssvæðinu, [aðildarríki
 stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum]^5) hafa fengið greidda
@@ -1119,44 +1095,16 @@ félagsaðilum sínum í árslok eða færa þeim til séreignar í stofnsjóði
  félagsaðilum sínum í árslok í hlutfalli við viðskipti þeirra á árinu, þó eigi
    hærra hlutfall af hreinum tekjum félags en sem svarar hlutfalli viðskipta
                      félagsaðila af heildarviðskiptum þess.
-   [12. Fé sem varið er til kaupa á hlutabréfum í nýsköpunarfyrirtækjum samkvæmt
-lögum um stuðning við nýsköpunarfyrirtæki, enda sé um hlutafjáraukningu að ræða
-   skv. [25]V. kafla laga nr. 2/1995, um hlutafélög, og [26]V. kafla laga nr.
-                         138/1994, um einkahlutafélög.
-     Frádráttur skv. 1. mgr. skal miðast við fjárfestingu á hverju ári og nema
-   verðmæti keyptra hlutabréfa umfram verðmæti seldra hlutabréfa í sams konar
-                 félögum, en þó aldrei hærri en 15.000.000 kr.
-   Til keyptra hlutabréfa skv. 2. mgr. teljast einungis hlutabréf í félögum sem
-      fengið hafa staðfestingu frá Rannís skv. 6. gr. laga um stuðning við
- nýsköpunarfyrirtæki og eru á skrá sem ríkisskattstjóri heldur vegna viðkomandi
-                                   tekjuárs.
-       Það er skilyrði frádráttar skv. 1. mgr. að skattaðili eigi viðkomandi
-  hlutabréf yfir þrenn áramót og geri árlega grein fyrir eignarhaldi þeirra á
- skattframtali. Selji hann bréfin innan þess tíma færist nýttur frádráttur til
-tekna á söluári viðkomandi hlutabréfa. Ekki skal þó beita ákvæði um tekjufærslu
-   frádráttar ef skattaðili kaupir á sama ári og eigi síðar en 30 dögum eftir
-  söluna önnur hlutabréf í hlutafélagi sem uppfyllir skilyrði þessa töluliðar,
-fyrir a.m.k. sömu fjárhæð og söluverð hinna seldu hlutabréfa var. Sé kaupverðið
-    lægra skal ákvæði 2. málsl. eiga við um mismuninn. Fenginn frádrátt skal
-tekjufæra að fullu með 10% álagi, eða í réttu hlutfalli við það sem upp á vantar
-                    að endurfjárfest sé í stað hinna seldu.
-    Ekki er heimilt að flytja á milli ára og nýta sem frádrátt það sem fjárfest
-          er umfram hámark á hverju ári skv. 2. mgr. þessa töluliðar.
-     Frádráttur samkvæmt þessum tölulið heimilast frá tekjum skv. B-lið 7. gr.
-    Fjármálaráðherra er heimilt að setja í reglugerð nánari ákvæði um skilyrði
-                    frádráttar samkvæmt þessum tölulið.]^9)
+                                   [12. ^9)]^10)
      ^1)L. 136/2009, 1. gr. ^2)L. 38/2008, 2. gr. ^3)L. 166/2007, 4. gr. ^4)L.
 143/2003, 2. gr. ^5)L. 128/2009, 7. gr. Ákvæði 6. málsl. 9. tölul. og 2. málsl.
- 9. tölul. a taka gildi 1. jan. 2011 og koma til framkvæmda við álagningu 2012;
-   ákvæði 7. málsl. 9. tölul. og breytingar á 1. málsl. 1. mgr. og 2. mgr. 9.
-  tölul. a koma til framkvæmda við álagningu 2011 og á staðgreiðsluárinu 2010
- eftir því sem við á skv. 41. gr. s.l. ^6)L. 76/2007, 4. gr. ^7)L. 174/2006, 4.
- gr. ^8)Rg. 297/2003, sbr. 53/2008. ^9)L. 137/2009, 3. gr. Breytingin kemur til
-framkvæmda við álagningu opinberra gjalda árið 2011 vegna tekjuársins 2010 skv.
-                                  5. gr. s.l.
+ 9. tölul. a koma til framkvæmda við álagningu 2012; ákvæði 7. málsl. 9. tölul.
+og breytingar á 1. málsl. 1. mgr. og 2. mgr. 9. tölul. a koma til framkvæmda við
+álagningu 2011 og á staðgreiðsluárinu 2010 eftir því sem við á skv. 41. gr. s.l.
+  ^6)L. 76/2007, 4. gr. ^7)L. 174/2006, 4. gr. ^8)Rg. 297/2003, sbr. 53/2008.
+                 ^9)L. 165/2010, 5. gr. ^10)L. 137/2009, 3. gr.
                                Niðurfærsla eigna.
-32. gr. Stofnkostnað við kaup á framleiðslurétti í landbúnaði má færa niður með
-                         jöfnum fjárhæðum á fimm árum.
+                                  32. gr. ^1)
  Eftirtaldar eignir er heimilt að færa niður á því ári sem þær myndast eða með
                          jöfnum fjárhæðum á fimm árum:
         a. Stofnkostnað, svo sem kostnað við skráningu fyrirtækis og öflun
@@ -1166,8 +1114,8 @@ framkvæmda við álagningu opinberra gjalda árið 2011 vegna tekjuársins 2010
  Niðurfærsla samkvæmt grein þessari er heimil til frádráttar í fyrsta skipti á
   því ári þegar eignanna er aflað eða lagt er í kostnað þeirra vegna. Við sölu
   eigna skv. a- og b-liðum 2. mgr. telst söluverð þeirra að fullu til tekna á
-     söluári að frádregnum þeim hluta sem ekki hefur verið færður niður. Um
-   söluhagnað framleiðsluréttar í landbúnaði, sbr. 1. mgr., fer eftir 15. gr.
+    söluári að frádregnum þeim hluta sem ekki hefur verið færður niður. ^1)
+                              ^1)L. 165/2010, 6. gr.
                               Fyrnanlegar eignir.
 33. gr. Fyrnanlegar eignir eru varanlegir rekstrarfjármunir sem notaðir eru til
 öflunar tekna í atvinnurekstri eða í sjálfstæðri starfsemi og rýrna að verðmæti
@@ -1290,7 +1238,7 @@ halda skrá um fyrnanlegar eignir í því formi og með þeim hætti er hann á
    heimilt að fyrna. Til stofnkostnaðar samkvæmt þessari málsgrein telst m.a.
     keyptur réttur til nýtingar á náttúruauðæfum, svo sem kaup á varanlegri
                     aflahlutdeild og sambærilegum réttindum.
- Keypt leyfi til veiða í atvinnuskyni skv. [27]5. gr. laga nr. 38/1990 skal þó
+ Keypt leyfi til veiða í atvinnuskyni skv. [23]5. gr. laga nr. 38/1990 skal þó
 heimilt að telja til stofnkostnaðar með því skipi sem það er tengt og fer þá um
          fyrningar þess skv. 1. tölul. 33. gr., sbr. 1. tölul. 37. gr.
   Um hagnað vegna sölu á ófyrnanlegum réttindum skv. 1. mgr. fer skv. 5. og 6.
@@ -1323,8 +1271,7 @@ og færa mismuninn til gjalda sem gengistap [með jafnri fjárhæð á þrjú á
                með því reikningsári sem gengistap fellur til].^1)
   Gjöld samkvæmt þessari grein eru aðeins frádráttarbær að fullu séu þau tengd
                    atvinnurekstri eða sjálfstæðri starfsemi.
-        ^1)L. 61/2008, 3. gr. Breytingin kemur til framkvæmda við álagningu
-                   tekjuskatts á árinu 2010 skv. 11. gr. s.l.
+                               ^1)L. 61/2008, 3. gr.
                        Hvað ekki telst rekstrarkostnaður.
    50. gr. Til rekstrarkostnaðar skv. 31. gr. eða til frádráttar skattskyldum
              tekjum á einn eða annan hátt er ekki heimilt að telja:
@@ -1347,7 +1294,7 @@ atvinnurekstrar í té til eigin afnota, nema að því marki sem hlunnindi af n
    viðkomandi fólksbifreiðar hafa verið talin til tekna, samkvæmt matsreglum
 ríkisskattstjóra, hjá þeim aðila sem heimilt er að hafa hana til umráða í eigin
                                      þágu.
-    6. Kostnað vegna greiðslna, gjafa eða annars sem ólögmætt er skv. [28]109.
+    6. Kostnað vegna greiðslna, gjafa eða annars sem ólögmætt er skv. [24]109.
  gr. almennra hegningarlaga, nr. 19/1940, til manna sem ráðnir eru eða kjörnir
  til opinberra starfa á sviði löggjafarvalds, dómsvalds eða stjórnsýslu, hvort
 heldur er á Íslandi eða í öðrum ríkjum eða hjá alþjóðasamtökum og stofnunum sem
@@ -1362,8 +1309,8 @@ var, þá skulu skiptin sem slík ekki hafa í för með sér skattskyldar tekju
    þann sem hlutabréfin lét af hendi. Við slíkan samruna hlutafélaga skal það
 félag, er við tekur, taka við öllum skattaréttarlegum skyldum og réttindum þess
                              félags sem slitið var.
-      Þegar samvinnufélög sameinast, sbr. [29]56. gr. laga nr. 22/1991, um
- samvinnufélög, eða hlutafélag sameinast samvinnufélagi, sbr. [30]59. gr. sömu
+      Þegar samvinnufélög sameinast, sbr. [25]56. gr. laga nr. 22/1991, um
+ samvinnufélög, eða hlutafélag sameinast samvinnufélagi, sbr. [26]59. gr. sömu
    laga, skal hið sameinaða félag taka við öllum skattaréttarlegum skyldum og
                          réttindum hinna fyrri félaga.
      Sé samvinnufélagi slitið á þann hátt að því sé breytt í hlutafélag og
@@ -1378,24 +1325,25 @@ ekki hafa í för með sér skattskyldar tekjur fyrir þann sem séreignarhlutin
 samvinnufélagi er breytt í hlutafélag skal hlutafélagið, sem við tekur, taka við
  öllum skattaréttarlegum skyldum og réttindum samvinnufélagsins sem slitið var.
 52. gr. [Sé hlutafélagi skipt þannig að öllum eignum og skuldum sé skipt á milli
-hins skipta félags og/eða þeirra félaga sem urðu til við skiptin, og hluthafar í
-   félaginu sem skipt var fái eingöngu hlutabréf í þeim félögum sem eignir og
- skuldir deildust á við skiptin, skulu skiptin sem slík ekki hafa í för með sér
- skattskyldar tekjur fyrir þann sem hlutabréfin lét af hendi.]^1) Eignarhlutir
- hluthafa í félögunum skulu vera innbyrðis í sömu hlutföllum og eignarhlutirnir
- voru í því félagi sem skipt er. Eignir og skuldir skulu yfirfærast á bókfærðu
- verði. Ákvæði þessarar málsgreinar eiga einnig við þegar hlutafélagi er skipt
-þannig að fleiri en eitt hlutafélag taka við hluta eigna og skulda í upprunalegu
-   félagi. Sé samvinnufélagi skipt þannig að fleiri en eitt samvinnufélag eða
-    hlutafélag taki við eignum og skuldum frá félaginu skulu ákvæði þessarar
-      málsgreinar gilda um slíka skiptingu. Séreignarhlutir félagsaðila í
-samvinnufélögunum skulu vera innbyrðis í sömu hlutföllum og séreignarhlutirnir í
-hinu skipta félagi en taki hlutafélag við eignum og skuldum frá samvinnufélaginu
-       skulu allir hlutir í hlutafélaginu vera í eigu hins skipta félags.
+   hins skipta félags og/eða þeirra félaga sem [við tóku eða]^1) urðu til við
+  skiptin, og hluthafar í félaginu sem skipt var fái eingöngu hlutabréf í þeim
+  félögum sem eignir og skuldir deildust á við skiptin, skulu skiptin sem slík
+ ekki hafa í för með sér skattskyldar tekjur fyrir þann sem hlutabréfin lét af
+    hendi.]^2) Eignarhlutir hluthafa í félögunum skulu vera innbyrðis í sömu
+hlutföllum og eignarhlutirnir voru í því félagi sem skipt er. Eignir og skuldir
+ skulu yfirfærast á bókfærðu verði. Ákvæði þessarar málsgreinar eiga einnig við
+ þegar hlutafélagi er skipt þannig að fleiri en eitt hlutafélag taka við hluta
+ eigna og skulda í upprunalegu félagi. Sé samvinnufélagi skipt þannig að fleiri
+  en eitt samvinnufélag eða hlutafélag taki við eignum og skuldum frá félaginu
+  skulu ákvæði þessarar málsgreinar gilda um slíka skiptingu. Séreignarhlutir
+   félagsaðila í samvinnufélögunum skulu vera innbyrðis í sömu hlutföllum og
+séreignarhlutirnir í hinu skipta félagi en taki hlutafélag við eignum og skuldum
+frá samvinnufélaginu skulu allir hlutir í hlutafélaginu vera í eigu hins skipta
+                                    félags.
    Við skiptingu skv. 1. mgr. skiptast skattalegar skyldur og réttindi milli
    félaganna í sama hlutfalli og bókfært verð eigna að frádregnum skuldum sem
                               flytjast til þeirra.
-                              ^1)L. 128/2009, 8. gr.
+                   ^1)L. 165/2010, 7. gr. ^2)L. 128/2009, 8. gr.
   53. gr. Sé sameignarfélagi slitið, þannig að það sé algjörlega sameinað öðru
   slíku sameignarfélagi eða hlutafélagi og eigendur í fyrrnefnda félaginu fái
  eingöngu eignarhluta eða hlutabréf í síðarnefnda félaginu sem gagngjald fyrir
@@ -1437,26 +1385,28 @@ framtalsskil, sbr. 90. gr., félaga þeirra er skiptingin eða slitin varða vi�
     reikningsárið, nema þegar um nýstofnuð dótturfélög er að ræða eða slit á
  dótturfélagi. Samsköttun skal að lágmarki standa í fimm ár og ef samsköttun er
 slitið er ekki heimilt að fallast á hana að nýju fyrr en að liðnum fimm árum frá
-                            því að henni var slitið.
+því að henni var slitið. [Samsköttun skal þó falla niður með félagi sé það tekið
+   til gjaldþrotameðferðar eða sæti slitameðferð, sbr. [27]101. gr. laga nr.
+                                 161/2002.]^2)
 Umsókn um samsköttun skal beint til [ríkisskattstjóra]^1) eigi síðar en þrjátíu
  dögum fyrir lok framtalsfrests vegna þess tekjuárs sem óskað er eftir að verði
                                   samskattað.
- Við samsköttun skal tekjuskattur af sameiginlegum tekjuskattsstofni ^2) allra
+ Við samsköttun skal tekjuskattur af sameiginlegum tekjuskattsstofni ^3) allra
     hlutafélaga sem taka þátt í samsköttuninni lagður á móðurfélagið en öll
          hlutafélögin bera sameiginlega ábyrgð á skattgreiðslum. Þó er
-  [ríkisskattstjóra]^1) heimilt að leggja tekjuskatt ^2) á hvert og eitt félag
+  [ríkisskattstjóra]^1) heimilt að leggja tekjuskatt ^3) á hvert og eitt félag
              óski hlutafélögin í samsköttun sérstaklega eftir því.
  Tap sem verður á rekstri eins eða fleiri samskattaðra hlutafélaga má draga frá
    tekjum hinna áður en tekjuskattur er reiknaður. Þó skal viðkomandi tekjuár
    ávallt gert upp áður en tekið er tillit til yfirfæranlegs taps fyrri ára.
 Yfirfæranlegt tap hlutafélags sem stafar af rekstri frá því fyrir samsköttun má
-                         aðeins nýta í því félagi. ^3)
- Nú er dótturfélag í eigu samvinnufélags [eða sparisjóðs]^4) og gilda þá ákvæði
+                         aðeins nýta í því félagi. ^4)
+ Nú er dótturfélag í eigu samvinnufélags [eða sparisjóðs]^5) og gilda þá ákvæði
               þessarar greinar, enda sé skilyrðum hennar fullnægt.
   Fjármálaráðherra er heimilt að setja í reglugerð nánari reglur um samsköttun
         móður- og dótturfélaga, svo sem um nýtingu taps á milli félaga.
-    ^1)L. 136/2009, 2. gr. ^2)L. 129/2004, 7. gr. ^3)L. 164/2008, 4. gr. ^4)L.
-                                77/2004, 1. gr.
+    ^1)L. 136/2009, 2. gr. ^2)L. 165/2010, 8. gr. ^3)L. 129/2004, 7. gr. ^4)L.
+                     164/2008, 4. gr. ^5)L. 77/2004, 1. gr.
                Yfirfærsla einstaklingsrekstrar í einkahlutafélag.
   56. gr. Stofni einstaklingur í atvinnurekstri einkahlutafélag sem tekur við
    öllum eignum og skuldum atvinnurekstrarins og hefur með höndum sams konar
@@ -1581,11 +1531,13 @@ makinn eða barnið hefði aflað hjá óskyldum eða ótengdum aðila skulu þa
 59. gr. [Tekjuskatt skal miða við tekjur næsta almanaksár á undan skattákvörðun,
  nema annað sé venjulegt rekstrarár í atvinnugrein aðila eða hann sýnir, þegar
 hann telur fram, að hann hafi annað reikningsár. Getur ríkisskattstjóri þá veitt
-      honum heimild til að hafa það reikningsár í stað almanaksársins.]^1)
+   honum heimild til að hafa það reikningsár í stað almanaksársins. [Ákvörðun
+ríkisskattstjóra um synjun má skjóta til yfirskattanefndar eftir ákvæðum laga um
+                            yfirskattanefnd.]^1)]^2)
  Tekjur skal að jafnaði telja til tekna á því ári sem þær verða til, þ.e. þegar
 myndast hefur krafa þeirra vegna á hendur einhverjum, nema um óvissar tekjur sé
                                     að ræða.
-                              ^1)L. 136/2009, 4. gr.
+                   ^1)L. 165/2010, 9. gr. ^2)L. 136/2009, 4. gr.
  60. gr. [Ríkisskattstjóri getur heimilað þeim sem hafa mjög breytilegar tekjur
  milli ára af framleiðslu og sölu eigin verka, svo sem listaverka, að telja þær
  tekjur til skattskyldra tekna á fleiri en einu ári, þó að hámarki fjórum árum.
@@ -1654,7 +1606,7 @@ Nemi heildarfrádráttur, er um ræðir í 1. og 2. tölul. 1. mgr., hærri fjá
      [Þjóðskrár Íslands]^1) þyki leika vafi á um að skráningarskilyrði séu
                                  uppfyllt.]^2)
                                       ^2)
-                 ^1)[31]L. 77/2010, 5. gr. ^2)L. 65/2010, 46. gr.
+                 ^1)[28]L. 77/2010, 5. gr. ^2)L. 65/2010, 46. gr.
 63. gr. Þeir skattaðilar sem uppfylla skilyrði 62. gr. aðeins hluta úr ári, t.d.
 vegna stofnunar eða slita hjúskapar á árinu, slita á samvistum eða andláts maka,
  skulu telja fram tekjur sínar á þeim tíma sem umrædd skilyrði voru uppfyllt í
@@ -1727,32 +1679,32 @@ Berist umsókn eftir að kærufresti skv. 99. gr. lýkur er ríkisskattstjóra h
 66. gr. Tekjuskattur þeirra manna, sem skattskyldir eru skv. 1. gr. laga þessara
    og hafa verið heimilisfastir hér á landi allt tekjuárið, skal reiknast af
       tekjuskattsstofni þeirra skv. 1. og 3. tölul. 61. gr. sem hér segir:
-      1. [Af tekjuskattsstofni að 2.400.000 kr. reiknast 24,1% tekjuskattur.
-               2. Af næstu 5.400.000 kr. reiknast 27% tekjuskattur.
-         3. Af því sem umfram er 7.800.000 kr. reiknast 33% tekjuskattur.
+    1. [Af tekjuskattsstofni að 2.400.000 kr. reiknast [22,9%]^1) tekjuskattur.
+            2. Af næstu 5.400.000 kr. reiknast [25,8%]^1) tekjuskattur.
+      3. Af því sem umfram er 7.800.000 kr. reiknast [31,8%]^1) tekjuskattur.
     4. Sé tekjuskattsstofn annars samskattaðs aðila hærri en 7.800.000 kr. skal
-  það sem umfram er skattlagt með 27% skatthlutfalli allt að helmingi þeirrar
-   fjárhæðar sem tekjuskattsstofn þess tekjulægri er undir 7.800.000 kr., þó
- reiknast 27% skatthlutfall aldrei af hærri fjárhæð en 2.700.000 kr. við þessar
-                                   aðstæður.
+   það sem umfram er skattlagt með [25,8%]^1) skatthlutfalli allt að helmingi
+ þeirrar fjárhæðar sem tekjuskattsstofn þess tekjulægri er undir 7.800.000 kr.,
+ þó reiknast [25,8%]^1) skatthlutfall aldrei af hærri fjárhæð en 2.700.000 kr.
+                              við þessar aðstæður.
    5. Fjárhæðarmörk tekjuskattsstofns skv. 1.4. tölul. skulu taka breytingum í
  upphafi hvers árs í réttu hlutfalli við hækkun á launavísitölu frá upphafi til
       loka næstliðins tólf mánaða tímabils. Breytingarnar á framangreindum
     viðmiðunarmörkum skal birta með auglýsingu fjármálaráðherra fyrir upphaf
-                staðgreiðsluárs í fyrsta sinn í árslok 2010.]^1)
-    [6. ]^1) Frá reiknaðri fjárhæð skv. 1. tölul. dregst persónuafsláttur skv.
-                                 A-lið 67. gr.
-     [7. ]^1) Frá reiknaðri fjárhæð skv. 1. tölul. dregst auk persónuafsláttar
-              skv. 2. tölul. sjómannaafsláttur skv. B-lið 67. gr.
+                staðgreiðsluárs í fyrsta sinn í árslok 2010.]^2)
+   [6. ]^2) Frá reiknaðri fjárhæð skv. [1.3. tölul.]^1) dregst persónuafsláttur
+                               skv. A-lið 67. gr.
+         [7. ]^2) Frá reiknaðri fjárhæð skv. [1.3. tölul.]^1) dregst auk
+      persónuafsláttar skv. 2. tölul. sjómannaafsláttur skv. B-lið 67. gr.
             Sú fjárhæð, sem þannig fæst, telst tekjuskattur ársins.
 Tekjuskattur af þeim tekjum barna, sem um ræðir í 2. mgr. 64. gr., skal vera 4%
-  af tekjum umfram [100.745]^2) kr. og skal barn ekki njóta persónuafsláttar.
- [Tekjuskattur af fjármagnstekjum einstaklinga utan rekstrar skal vera [18%]^1)
+  af tekjum umfram [100.745]^3) kr. og skal barn ekki njóta persónuafsláttar.
+ [Tekjuskattur af fjármagnstekjum einstaklinga utan rekstrar skal vera [20%]^4)
  af þeim tekjum. Til fjármagnstekna teljast í þessu sambandi tekjur skv. 1.8.
  tölul. C-liðar 7. gr., þ.e. vextir, arður, leigutekjur, söluhagnaður og aðrar
          eignatekjur. [Þó skal ekki reikna tekjuskatt skv. 1. málsl. af
 heildarvaxtatekjum að fjárhæð 100.000 kr. á ári hjá manni og 30% af tekjum manns
-                       af útleigu íbúðarhúsnæðis.]^1)]^3)
+                       af útleigu íbúðarhúsnæðis.]^2)]^5)
       Sú fjárhæð, sem reiknast skv. 3. mgr., skal vera endanleg álagning á
       fjármagnstekjur. Skulu engin önnur opinber gjöld, sem reiknuð eru á
   tekjuskattsstofn, leggjast á þessar tekjur. Sömuleiðis skulu tekjurnar ekki
@@ -1762,11 +1714,11 @@ greiðslna samkvæmt lögum um almannatryggingar, lögum um húsaleigubætur eð
  vaxtatekjum og arði samkvæmt þessari málsgrein skulu á tekjuárinu gilda lög um
   staðgreiðslu skatts af slíkum tekjum samkvæmt því sem nánar er kveðið á um í
                                   þeim lögum.
-      ^1)L. 128/2009, 13. gr. Ákvæði 5. tölul. 1. mgr. kemur til framkvæmda á
- staðgreiðsluárinu 2011 og við álagningu opinberra gjalda á árinu 2012; að öðru
-leyti kemur breytingin til framkvæmda við álagningu 2011 og á staðgreiðsluárinu
-2010 eftir því sem við á skv. 41. gr. s.l. ^2)L. 129/2004, 8. gr. ^3)L. 76/2007,
-                                     6. gr.
+     ^1)L. 165/2010, 10. gr. ^2)L. 128/2009, 13. gr. Ákvæði 5. tölul. 1. mgr.
+kemur til framkvæmda á staðgreiðsluárinu 2011 og við álagningu opinberra gjalda
+ á árinu 2012; að öðru leyti kemur breytingin til framkvæmda við álagningu 2011
+    og á staðgreiðsluárinu 2010 eftir því sem við á skv. 41. gr. s.l. ^3)L.
+         129/2004, 8. gr. ^4)L. 164/2010, 1. gr. ^5)L. 76/2007, 6. gr.
                                     67. gr.
                                         A.
    Persónuafsláttur manna, sem um ræðir í 1. mgr. 66. gr., skal vera [530.466
@@ -1808,21 +1760,20 @@ ráðstafað til að greiða tekjuskatt sem lagður er á fjármagnstekjur, sbr.
             förum milli landa eða er í strandsiglingum innan lands.
  Sjómannaafsláttur skal vera [987]^6) kr. á hvern dag. Við ákvörðun dagafjölda,
   sem veitir rétt til sjómannaafsláttar, skal miða við þá daga sem skylt er að
-  lögskrá sjómenn skv. [32]4. og [33]5. gr. laga nr. 43/1987, um lögskráningu
-sjómanna.^7) Séu dagar þessir 245 á ári eða fleiri skal sjómaður njóta afsláttar
-alla daga ársins og hlutfallslega séu lögskráningardagar færri en 245, þó aldrei
-fleiri daga en hann er ráðinn hjá útgerð. Hlutaráðnir beitningarmenn skulu eiga
-  rétt á sjómannaafslætti þá daga sem þeir eru ráðnir við slík störf samkvæmt
-     skriflegum samningi um hlutaskipti. Hjá mönnum á fiskiskipum undir 20
-brúttótonnum, sem ekki er skylt að lögskrá á samkvæmt framangreindum lögum, skal
-  miða við almenna vinnudaga (mánudaga til föstudaga) á úthaldstímabili í stað
- lögskráningardaga, sbr. framangreint. Réttur þessara manna er þó háður því að
- laun fyrir sjómennsku séu a.m.k. 30% af tekjuskattsstofni þeirra. Þeir dagar á
- ráðningartíma hjá útgerð, sem sjómaður getur ekki stundað vinnu vegna veikinda
-      eða slysa en tekur laun samkvæmt kjarasamningi, skulu veita rétt til
-     sjómannaafsláttar. Komi upp ágreiningur um þá daga, sem veita rétt til
- sjómannaafsláttar, má staðreyna dagafjöldann með staðfestingu stéttarfélags á
-                         greiddum stéttarfélagsgjöldum.
+lögskrá sjómenn [skv. 4. gr. laga um lögskráningu sjómanna].^7) Séu dagar þessir
+     245 á ári eða fleiri skal sjómaður njóta afsláttar alla daga ársins og
+hlutfallslega séu lögskráningardagar færri en 245, þó aldrei fleiri daga en hann
+       er ráðinn hjá útgerð. Hlutaráðnir beitningarmenn skulu eiga rétt á
+sjómannaafslætti þá daga sem þeir eru ráðnir við slík störf samkvæmt skriflegum
+  samningi um hlutaskipti. Hjá mönnum á fiskiskipum undir 20 brúttótonnum, sem
+ekki er skylt að lögskrá á samkvæmt framangreindum lögum, skal miða við almenna
+ vinnudaga (mánudaga til föstudaga) á úthaldstímabili í stað lögskráningardaga,
+sbr. framangreint. Réttur þessara manna er þó háður því að laun fyrir sjómennsku
+   séu a.m.k. 30% af tekjuskattsstofni þeirra. Þeir dagar á ráðningartíma hjá
+útgerð, sem sjómaður getur ekki stundað vinnu vegna veikinda eða slysa en tekur
+ laun samkvæmt kjarasamningi, skulu veita rétt til sjómannaafsláttar. Komi upp
+   ágreiningur um þá daga, sem veita rétt til sjómannaafsláttar, má staðreyna
+  dagafjöldann með staðfestingu stéttarfélags á greiddum stéttarfélagsgjöldum.
   Um ráðstöfun sjómannaafsláttar skulu ákvæði A-liðar gilda eftir því sem við
                                    getur átt.
     Réttur til sjómannaafsláttar er háður því að útgerðaraðili haldi nákvæma
@@ -1834,8 +1785,7 @@ afsláttar, skráningu, sbr. 6. mgr., og hvaða gagna megi krefjast í því sam
  á staðgreiðsluárinu 2010 eftir því sem við á skv. 41. gr. s.l. ^2)L. 174/2006,
     6. gr. ^3)L. 129/2004, 9. gr. ^4)Rg. 10/1992, sbr. 499/2001 og 50/2008.
  ^5)Ákvæði B-liðar fellur brott frá og með 1. jan. 2014 skv. brbákv. XXX. ^6)L.
-173/2008, 9. gr. ^7)Málsliðnum var breytt með [34]l. 35/2010, 11. gr. Breytingin
-                 tekur gildi 1. nóv. 2010 skv. [35]10. gr. s.l.
+                  173/2008, 9. gr. ^7)[29]L. 35/2010, 11. gr.
                                     68. gr.
                                   A. Barnabætur.
 Með hverju barni innan [18]^1) ára aldurs á tekjuárinu, sem heimilisfast er hér
@@ -1855,23 +1805,25 @@ sem eru heimilisföst hér á landi eftir þeim reglum sem gilda um hjón, enda 
      fyrir upplýsingar um tekjur beggja ásamt upplýsingum um barnabætur eða
     hliðstæðar greiðslur vegna sömu barna sem greiddar hafa verið erlendis.
    Fyrir barn sem öðlast heimilisfesti hér á landi á tekjuárinu skal einungis
-greiða barnabætur í hlutfalli við dvalartíma þess hér á landi á því ári. Þannig
-skal fjárhæð barnabóta skv. 3. og 4. mgr. og skerðingarmörk vegna tekna, sbr. 4.
-                 mgr., ákvarðast í hlutfalli við dvalartímann.
-Barnabætur skulu árlega nema [61.191]^3) kr. með öllum börnum yngri en sjö ára á
-                                  tekjuárinu.
-  Til viðbótar barnabótum skv. 3. mgr. skal greiða tekjutengdar barnabætur með
-    hverju barni innan [18]^1) ára aldurs á tekjuárinu sem árlega skulu nema
- [152.331]^3) kr. með fyrsta barni en [181.323]^3) kr. með hverju barni umfram
-     eitt. Tekjutengdar barnabætur með börnum einstæðra foreldra skulu vera
- [253.716]^3) kr. með fyrsta barni en [260.262]^3) kr. með hverju barni umfram
-   eitt. Barnabætur samkvæmt þessari málsgrein skerðast í jöfnu hlutfalli við
- tekjuskattsstofn umfram [3.600.000]^4) kr. hjá hjónum og umfram [1.800.000]^4)
-  kr. hjá einstæðu foreldri. Með tekjuskattsstofni í þessu sambandi er átt við
- tekjur skv. II. kafla laganna ^2) að teknu tilliti til frádráttar skv. 1., 3.,
- 4. og 5. tölul. A-liðar 1. mgr. og 2. mgr. 30. gr. og frádráttar skv. 31. gr.
-   Skerðingarhlutfallið skal vera [2%]^5) með einu barni, [5%]^4) með tveimur
-                börnum og [7%]^4) með þremur börnum eða fleiri.
+greiða barnabætur í hlutfalli við dvalartíma þess hér á landi á því ári. [Þannig
+skal fjárhæð barnabóta og skerðingarmörk vegna tekna, sbr. 4. mgr., ákvarðast í
+                        hlutfalli við dvalartímann.]^3)
+                                      ^3)
+  [Greiða skal]^3) tekjutengdar barnabætur með hverju barni innan [18]^1) ára
+ aldurs á tekjuárinu sem árlega skulu nema [152.331]^4) kr. með fyrsta barni en
+   [181.323]^4) kr. með hverju barni umfram eitt. Tekjutengdar barnabætur með
+   börnum einstæðra foreldra skulu vera [253.716]^4) kr. með fyrsta barni en
+   [260.262]^4) kr. með hverju barni umfram eitt. Barnabætur samkvæmt þessari
+málsgrein skerðast í jöfnu hlutfalli við tekjuskattsstofn umfram [3.600.000]^5)
+     kr. hjá hjónum og umfram [1.800.000]^5) kr. hjá einstæðu foreldri. Með
+tekjuskattsstofni í þessu sambandi er átt við tekjur skv. II. kafla laganna ^2)
+að teknu tilliti til frádráttar skv. 1., 3., 4. og 5. tölul. A-liðar 1. mgr. og
+   2. mgr. 30. gr. og frádráttar skv. 31. gr. Skerðingarhlutfallið skal vera
+[3%]^3) með einu barni, [5%]^5) með tveimur börnum og [7%]^5) með þremur börnum
+  eða fleiri. [Til viðbótar barnabótum samkvæmt þessari málsgrein skal greiða
+ tekjutengdar barnabætur með öllum börnum yngri en sjö ára á tekjuárinu. Skulu
+þær árlega nema 61.191 kr. og skal skerðingarhlutfall þeirra vera 3% með hverju
+                                   barni.]^3)
     Fjárhæð barnabóta skal skerða um þær barnabætur eða hliðstæðar bætur sem
      framfærandi hefur fengið erlendis frá á sama tekjuári vegna barnsins.
   Komi í ljós að maður hefur fengið greiddar barnabætur án þess að eiga rétt á
@@ -1883,7 +1835,7 @@ Barnabætur skulu árlega nema [61.191]^3) kr. með öllum börnum yngri en sjö
  ekki eru heimilisföst hér á landi en eru á framfæri ríkisborgara hins Evrópska
   efnahagssvæðis, aðildarríkis stofnsamnings Fríverslunarsamtaka Evrópu eða í
 Færeyjum, enda sé framfærandi skattskyldur hér á landi skv. 1. gr. þessara laga
-eða tryggður á grundvelli [36]12., [37]13. eða [38]14. gr. laga nr. 100/2007, um
+eða tryggður á grundvelli [30]12., [31]13. eða [32]14. gr. laga nr. 100/2007, um
    almannatryggingar.]^7) Skilyrði fyrir ákvörðun barnabóta samkvæmt þessari
   málsgrein eru þau að börnin séu heimilisföst í einhverju ríkja hins Evrópska
  efnahagssvæðis, [í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í
@@ -1905,7 +1857,7 @@ kafla. Nánari reglur, m.a. um fyrirframgreiðslu og útborgun barnabóta, innhe
                                   B. Vaxtabætur.
 Maður sem skattskyldur er skv. 1. gr. og ber vaxtagjöld af lánum, sem tekin hafa
  verið vegna kaupa eða byggingar á íbúðarhúsnæði til eigin nota, þar með talin
-   kaup á [búseturétti samkvæmt [39]lögum nr. 66/2003 og kaup á eignarhlut í
+   kaup á [búseturétti samkvæmt [33]lögum nr. 66/2003 og kaup á eignarhlut í
    almennri kaupleiguíbúð samkvæmt eldri lögum],^9) á rétt á sérstökum bótum,
 vaxtabótum, enda geri hann grein fyrir lánum og vaxtagjöldum af þeim í sérstakri
     greinargerð með skattframtali í því formi sem ríkisskattstjóri ákveður.
@@ -1920,7 +1872,7 @@ sem tekin eru til skemmri tíma en tveggja ára, er einungis heimilt að telja m
  árum talið frá og með því ári þegar bygging hefst, eða til og með því ári sem
     húsnæði er tekið til íbúðar ef það er síðar. Vaxtagjöld teljast í þessu
                                    sambandi:
-      1. Gjaldfallnir vextir og gjaldfallnar verðbætur á afborganir og vexti.
+    1. [Greiddir]^11) vextir og [greiddar]^11) verðbætur á afborganir og vexti.
    2. Afföll af verðbréfum, víxlum og sérhverjum öðrum skuldaviðurkenningum sem
 framteljandi hefur gefið út sjálfur og selt þriðja aðila og notað andvirðið til
   fjármögnunar íbúðar til eigin nota, enda sé kaupandi bréfanna nafngreindur.
@@ -1932,12 +1884,12 @@ framteljandi hefur gefið út sjálfur og selt þriðja aðila og notað andvir�
  lán skuldara sem hann greiðir á lánstíma umfram ákvæði viðkomandi skuldabréfs.
       Vaxtagjöld til útreiknings vaxtabóta skv. 4. mgr. miðast við fjárhæð
 vaxtagjalda, sbr. 2. mgr., hjá hverjum framteljanda en geta þó ekki orðið hærri
-   en sem nemur [5%]^5) af skuldum sem stofnað hefur verið til vegna öflunar
+   en sem nemur [5%]^12) af skuldum sem stofnað hefur verið til vegna öflunar
       íbúðarhúsnæðis til eigin nota eins og þær eru í árslok. Hjá þeim sem
  skattskyldir eru hluta úr ári vegna brottflutnings á tekjuárinu skal miða við
   skuldastöðu eins og hún var fyrir brottflutning. Vaxtagjöld samkvæmt þessari
-    málsgrein geta þó ekki verið hærri en [554.364]^3) kr. hjá einstaklingi,
-   [727.762]^3) kr. hjá einstæðu foreldri og [901.158]^3) kr. hjá hjónum eða
+    málsgrein geta þó ekki verið hærri en [554.364]^4) kr. hjá einstaklingi,
+   [727.762]^4) kr. hjá einstæðu foreldri og [901.158]^4) kr. hjá hjónum eða
  sambýlisfólki. Hámark vaxtagjalda hjá mönnum, sem skattskyldir eru skv. 1. gr.
           hluta úr ári, ákvarðast í hlutfalli við dvalartíma á árinu.
 Vaxtabætur skal ákvarða þannig að frá vaxtagjöldum, eins og þau eru skilgreind í
@@ -1953,8 +1905,8 @@ hjónum eða sambýlisfólki, sem uppfyllir skilyrði 3. mgr. 62. gr. í lok tek
   frádráttar samkvæmt framansögðu. [Hið sama á við um fólk sem sannanlega er í
  sambúð og heldur heimili saman þótt skilyrði til skráningar á sambúð séu ekki
  uppfyllt.]^2) Þannig ákvarðaðar vaxtabætur skerðast hlutfallslega fari eignir
-skv. 72. gr., að frádregnum skuldum skv. 1. mgr. 75. gr., fram úr [7.119.124]^4)
-kr. hjá einstaklingi og [11.390.599]^4) kr. hjá hjónum eða sambýlisfólki uns þær
+skv. 72. gr., að frádregnum skuldum skv. 1. mgr. 75. gr., fram úr [7.119.124]^5)
+kr. hjá einstaklingi og [11.390.599]^5) kr. hjá hjónum eða sambýlisfólki uns þær
  falla niður við 60% hærri fjárhæð. Vaxtabætur greiðast út að lokinni álagningu
  opinberra gjalda og miðast við vaxtagjöld viðkomandi tekjuárs og eignir í lok
      þess sama árs. Við ákvörðun vaxtabóta á því ári þegar maður aflar sér
@@ -1962,12 +1914,12 @@ kr. hjá einstaklingi og [11.390.599]^4) kr. hjá hjónum eða sambýlisfólki u
     ákvæði 1. málsl. þessarar málsgreinar reikna vaxtabætur frá og með þeim
   ársfjórðungi sem fyrsta fasteignaveðlán vegna kaupanna er tekið. Skal hámark
 vaxtagjalda, tekjuskattsstofn og hámark vaxtabóta þá ákveðið hlutfallslega miðað
-  við það. Vaxtabætur geta aldrei verið hærri en [189.957]^3) kr. fyrir hvern
- mann, [244.299]^3) kr. fyrir einstætt foreldri og [314.134]^3) kr. fyrir hjón
+  við það. Vaxtabætur geta aldrei verið hærri en [189.957]^4) kr. fyrir hvern
+ mann, [244.299]^4) kr. fyrir einstætt foreldri og [314.134]^4) kr. fyrir hjón
 eða sambýlisfólk sem uppfyllir skilyrði fyrir samsköttun, sbr. 3. mgr. 62. gr.,
 í lok tekjuárs. Hámark vaxtabóta hjá þeim sem skattskyldir eru skv. 1. gr. hluta
  úr ári ákvarðast í hlutfalli við dvalartíma á tekjuárinu. Vaxtabætur, sem eru
-                   lægri en [692]^3) kr. á mann, falla niður.
+                   lægri en [692]^4) kr. á mann, falla niður.
  Réttur til vaxtabóta er bundinn við eignarhald á íbúðarhúsnæði til eigin nota.
 Rétturinn stofnast þegar íbúðarhúsnæði til eigin nota er keypt eða bygging þess
       hefst. Jafnframt getur stofnast réttur til vaxtabóta vegna lána frá
@@ -2000,7 +1952,7 @@ viðbættum þeim tekjum utan staðgreiðslu sem fram koma á skattframtali fyrr
   [ríkisskattstjóra]^6) og leggja fram tilskildar upplýsingar. Lánastofnanir,
     lífeyrissjóðir og aðrir aðilar sem veita lán til íbúðarkaupa gegn veði í
   fasteign skulu veita skattyfirvöldum nauðsynlegar upplýsingar til að ákvarða
-fyrirframgreiðslu vaxtabóta. Ráðherra skal með reglugerð^11) setja nánari reglur
+fyrirframgreiðslu vaxtabóta. Ráðherra skal með reglugerð^13) setja nánari reglur
    um ákvörðun og fyrirframgreiðslu vaxtabóta. [Úrskurður ríkisskattstjóra um
         fyrirframgreiðslu vaxtabóta skal vera endanleg úrlausn málsins á
                              stjórnsýslustigi.]^6)
@@ -2011,17 +1963,18 @@ fyrirframgreiðslu vaxtabóta. Ráðherra skal með reglugerð^11) setja nánari
                              [ríkisskattstjóra].^6)
    Reglur um skuldajöfnun vaxtabóta á móti opinberum gjöldum til ríkissjóðs,
         opinberum gjöldum til sveitarfélaga og vangreiddum meðlögum til
-Innheimtustofnunar sveitarfélaga ,^3) þar á meðal um forgangsröð, skulu settar í
+Innheimtustofnunar sveitarfélaga ,^4) þar á meðal um forgangsröð, skulu settar í
                                    reglugerð.
         ^1)L. 174/2006, 8. gr. ^2)L. 128/2009, 15. gr. Breytingin kemur til
  framkvæmda við álagningu 2011 og á staðgreiðsluárinu 2010 eftir því sem við á
-     skv. 41. gr. s.l. ^3)L. 173/2008, 10. gr. Sjá einnig brbákv. XXXII um
- viðmiðunarfjárhæðir við ákvörðun vaxtabóta á árinu 2010 vegna tekna, eigna og
-   skulda á árinu 2009. ^4)L. 61/2008, 6. gr. Sjá einnig brbákv. XXXII. ^5)L.
-129/2004, 10. gr. ^6)L. 136/2009, 8. gr. ^7)L. 166/2007, 7. gr. ^8)L. 108/2006,
-24. gr. ^9)L. 164/2008, 5. gr. ^10)Rg. 555/2004, sbr. 7/2005, 346/2006, 249/2008
-    og 1152/2008. Sjá einnig brbákv. XXXI. ^11)Rg. 990/2001, sbr. 300/2003,
-         559/2004, 642/2004, 33/2005, 347/2006, 1153/2008 og 266/2009.
+  skv. 41. gr. s.l. ^3)L. 164/2010, 2. gr. ^4)L. 173/2008, 10. gr. Sjá einnig
+ brbákv. XXXII um viðmiðunarfjárhæðir við ákvörðun vaxtabóta á árinu 2010 vegna
+ tekna, eigna og skulda á árinu 2009. ^5)L. 61/2008, 6. gr. Sjá einnig brbákv.
+  XXXII. ^6)L. 136/2009, 8. gr. ^7)L. 166/2007, 7. gr. ^8)L. 108/2006, 24. gr.
+  ^9)L. 164/2008, 5. gr. ^10)Rg. 555/2004, sbr. 7/2005, 346/2006, 249/2008 og
+1152/2008. Sjá einnig brbákv. XXXI. ^11)L. 164/2010, 3. gr. ^12)L. 129/2004, 10.
+  gr. ^13)Rg. 990/2001, sbr. 300/2003, 559/2004, 642/2004, 33/2005, 347/2006,
+                             1153/2008 og 266/2009.
    Tekjuskattur manna sem heimilisfastir eru á Íslandi hluta úr ári, menn sem
                dveljast erlendis við nám eða vegna veikinda o.fl.
 69. gr. Hjá manni sem hefur tekjur sem um ræðir í 2. tölul. A-liðar 1. mgr. 30.
@@ -2048,15 +2001,15 @@ setja nánari reglur um framkvæmd þessarar málsgreinar með reglugerð,^1) m.
      1. Tekjuskatt manna, sem um ræðir í 1. tölul. 3. gr., skal ákvarða á sama
 hátt og um er rætt í 2. mgr. 69. gr. Sama gildir ef um ónýttan persónuafslátt er
                                     að ræða.
-      2. [Tekjuskattur manns sem um ræðir í 2. tölul. 3. gr. skal nema 15% af
-                          tekjuskattsstofni hans.]^1)
+   2. [Tekjuskattur manns sem um ræðir í 2. tölul. 3. gr. skal nema [18%]^1) af
+                          tekjuskattsstofni hans.]^2)
     Sá aðili, sem kemur fram í atvinnuskyni til skemmtunar eða keppni, sbr. 1.
    mgr. þessa töluliðar, án ákveðinna launa eða þóknunar en nýtur í þess stað
- afraksturs af slíkri starfsemi, skal greiða 10% tekjuskatt af heildartekjum af
-                      slíku starfi án nokkurs frádráttar.
+afraksturs af slíkri starfsemi, skal greiða [15%]^1) tekjuskatt af heildartekjum
+                     af slíku starfi án nokkurs frádráttar.
    [Þrátt fyrir ákvæði 1. mgr. skal tekjuskattur eftirlaunaþega og lífeyrisþega
 sem um ræðir í 2. tölul. 3. gr. reiknast af tekjuskattsstofni skv. 1.3. tölul.
-  1. mgr. 66. gr. að teknu tilliti til persónuafsláttar skv. A-lið 67. gr.]^1)
+  1. mgr. 66. gr. að teknu tilliti til persónuafsláttar skv. A-lið 67. gr.]^2)
   Persónuafsláttur skal í þessum tilvikum einungis dreginn frá tekjuskatti af
   eftirlaunum og lífeyri viðkomandi aðila og skal ónýttum hluta hans einungis
  ráðstafað til greiðslu á útsvari af sömu tekjum. Sá hluti persónuafsláttar sem
@@ -2065,68 +2018,92 @@ nema þau séu bæði eftirlaunaþegar eða lífeyrisþegar og falli að öðru 
                        undir ákvæði þessarar málsgreinar.
     3. [Tekjuskatt aðila sem fá greiðslur fyrir þjónustu eða starfsemi sem innt
    er af hendi hér á landi, sbr. 3. tölul. 3. gr., skal reikna sem hér segir:
-     a. 15% af greiðslunni ef um menn er að ræða. Þessi hundraðshluti reiknast
-     m.a. af launum eða þóknunum til listamanna og annarra sem fram koma í
+       a. [18%]^1) af greiðslunni ef um menn er að ræða. Þessi hundraðshluti
+ reiknast m.a. af launum eða þóknunum til listamanna og annarra sem fram koma í
 atvinnuskyni til skemmtunar eða í hvers konar keppni, en með launum og þóknunum
     teljast hvers konar hlunnindi, þ.m.t. flutningur að og frá landinu hafi
 móttakandi ekki greitt hann sjálfur. Eigi skiptir máli hvort maður kemur fram á
   eigin vegum eða í nafni annars aðila eða hvort greiðsla er frá innlendum eða
                                 erlendum aðila.
-    b. 18% af greiðslunni ef um lögaðila skv. 1. og 2. tölul. 1. mgr. 2. gr. er
-                                    að ræða.
-            c. 32,7% af greiðslunni ef um aðra lögaðila er að ræða.]^1)
+   b. [20%]^1) af greiðslunni ef um lögaðila skv. 1. og 2. tölul. 1. mgr. 2. gr.
+                                  er að ræða.
+          c. [36%]^1) af greiðslunni ef um aðra lögaðila er að ræða.]^2)
      4. [Tekjuskatt aðila sem um ræðir í 4. tölul. 3. gr. skal reikna sem hér
                                      segir:
    a. af tekjuskattsstofni með skatthlutfalli skv. 1.3. tölul. 1. mgr. 66. gr.
          án persónuafsláttar skv. A-lið 67. gr. ef um mann er að ræða,
-    b. 18% af tekjuskattsstofni, sbr. 2. tölul. 61. gr., ef um lögaðila skv. 1.
-                    og 2. tölul. 1. mgr. 2. gr. er að ræða,
-   c. 32,7% af tekjuskattsstofni, sbr. 2. tölul. 61. gr., ef um aðra lögaðila er
-                                    að ræða.
+   b. [20%]^1) af tekjuskattsstofni, sbr. 2. tölul. 61. gr., ef um lögaðila skv.
+                   1. og 2. tölul. 1. mgr. 2. gr. er að ræða,
+   c. [36%]^1) af tekjuskattsstofni, sbr. 2. tölul. 61. gr., ef um aðra lögaðila
+                                  er að ræða.
  Tekjuskattsstofn erlendra vátryggingafélaga, sem starfa hér á landi, telst sá
 hluti heildarágóðans sem svarar til hlutfallsins milli iðgjaldatekna hér á landi
-                og iðgjaldatekna af allri starfsemi þeirra.]^1)
+                og iðgjaldatekna af allri starfsemi þeirra.]^2)
      [5. Tekjuskatt aðila sem um ræðir í 5. tölul. 3. gr. skal reikna sem hér
                                      segir:
-   a. 18% af tekjum ef um menn er að ræða. Þó skal ekki leggja tekjuskatt á 30%
-                     af leigutekjum manns af íbúðarhúsnæði,
-     b. 18% af tekjuskattsstofni, sbr. 2. tölul. 61. gr., ef um lögaðila er að
-                                   ræða.]^1)
-      [6. Tekjuskattur aðila sem um ræðir í 6. tölul. 3. gr. skal vera 18% af
-                                  tekjum.]^1)
+   a. [20%]^1) af tekjum ef um menn er að ræða. Þó skal ekki leggja tekjuskatt á
+                   30% af leigutekjum manns af íbúðarhúsnæði,
+    b. [20%]^1) af tekjuskattsstofni, sbr. 2. tölul. 61. gr., ef um lögaðila er
+                                  að ræða.]^2)
+   [6. Tekjuskattur aðila sem um ræðir í 6. tölul. 3. gr. skal vera [20%]^1) af
+                                  tekjum.]^2)
      [7. Tekjuskatt aðila sem um ræðir í 7. tölul. 3. gr. skal reikna sem hér
                                      segir:
-                      a. 18% af tekjum ef um mann er að ræða,
-                  b. 15% af tekjum ef um lögaðila er að ræða.]^1)
+                   a. [20%]^1) af tekjum ef um mann er að ræða,
+               b. [18%]^1) af tekjum ef um lögaðila er að ræða.]^2)
      [8. Tekjuskatt aðila sem um ræðir í 8. tölul. 3. gr. skal reikna sem hér
                                      segir:
-     a. 18% af tekjum ef um mann er að ræða. Þó skal ekki reikna tekjuskatt af
-                       vaxtatekjum að 100.000 kr. á ári.
-                          b. 15% af tekjum lögaðila.]^1)
+    a. [20%]^1) af tekjum ef um mann er að ræða. Þó skal ekki reikna tekjuskatt
+                      af vaxtatekjum að 100.000 kr. á ári.
+                        b. [18%]^1) af tekjum lögaðila.]^2)
    [9. Tekjuskatt aðila sem um ræðir í 9. tölul. 3. gr. skal reikna á sama hátt
-                og greinir í 4.8. tölul. þessarar greinar.]^1)
-   ^1)L. 128/2009, 16. gr. Breytingin kemur til framkvæmda við álagningu 2011 og
-         á staðgreiðsluárinu 2010 eftir því sem við á skv. 41. gr. s.l.
+                og greinir í 4.8. tölul. þessarar greinar.]^2)
+        ^1)L. 164/2010, 4. gr. ^2)L. 128/2009, 16. gr. Breytingin kemur til
+ framkvæmda við álagningu 2011 og á staðgreiðsluárinu 2010 eftir því sem við á
+                               skv. 41. gr. s.l.
+ [70. gr. a. Tekjuskattur manna með takmarkaða skattskyldu sem afla meiri hluta
+                            tekna sinna hér á landi.
+     Þeir menn sem búsettir eru í aðildarríki á Evrópska efnahagssvæðinu, í
+  aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu eða í Færeyjum og bera
+ takmarkaða skattskyldu hér á landi skv. 3. gr., en fá sem nemur eigi minna en
+75% heildartekna sinna á tekjuárinu frá Íslandi, eiga rétt á að vera skattlagðir
+   líkt og þeir hefðu verið skattskyldir skv. 1. gr. allt tekjuárið, með þeim
+ réttindum sem heimilisfesti hér á landi veitir samkvæmt lögum þessum og öðrum
+                            lögum um opinber gjöld.
+  Sama rétt eiga þeir menn sem skattskyldir eru skv. 1. gr., en hafa einungis
+     verið heimilisfastir hér á landi hluta tekjuársins, hafi þeir dvalið í
+      aðildarríki á Evrópska efnahagssvæðinu, í aðildarríki stofnsamnings
+ Fríverslunarsamtaka Evrópu eða í Færeyjum, enda nemi tekjur þeirra frá Íslandi
+              eigi minna en 75% heildartekna þeirra á tekjuárinu.
+ Heimilt er hjónum og einstaklingum í staðfestri samvist og óvígðri sambúð sem
+búsett eru í aðildarríki á Evrópska efnahagssvæðinu, í aðildarríki stofnsamnings
+Fríverslunarsamtaka Evrópu eða í Færeyjum að telja fram í samræmi við ákvæði 62.
+ gr. ef annað þeirra eða bæði eiga rétt til skattlagningar skv. 1. eða 2. mgr.
+  þessarar greinar, enda nemi tekjur frá Íslandi eigi minna en 90% samanlagðra
+tekna þeirra á tekjuárinu og þau séu skráð saman til heimilis við lok tekjuárs.
+  Fjármálaráðherra skal setja nánari reglur um framkvæmd þessarar greinar með
+              reglugerð, m.a. um rétt maka, framtalsskil o.fl.]^1)
+                              ^1)L. 165/2010, 11. gr.
                              Tekjuskattur lögaðila.
   71. gr. [Tekjuskattur lögaðila skv. 1. og 2. tölul. 1. mgr. 2. gr. skal vera
-         [18%]^1) af tekjuskattsstofni, sbr. 2. tölul. 61. gr.]^2) ^2)
+         [20%]^1) af tekjuskattsstofni, sbr. 2. tölul. 61. gr.]^2) ^2)
  [Tekjuskattur annarra lögaðila, sbr. 3., 4. og 5. tölul. 1. mgr. 2. gr., skal
-        vera [32,7%]^1) af tekjuskattsstofni, sbr. 2. tölul. 61. gr.]^2)
+         vera [36%]^1) af tekjuskattsstofni, sbr. 2. tölul. 61. gr.]^2)
 Þrátt fyrir ákvæði 1. og 2. mgr. skal tekjuskattur þeirra lögaðila er greinir í
  3., [4.]^3) og 5. tölul. 1. mgr. 2. gr. af fengnum arði skv. 4. tölul. C-liðar
-                     7. gr. vera [18%]^1) af þessum tekjum.
+                     7. gr. vera [20%]^1) af þessum tekjum.
  Lögaðilar þeir, er undanþegnir eru skattskyldu skv. 1., 2., 4., 5., [6. og 7.
  tölul.]^4) 4. gr., skulu þrátt fyrir það greiða tekjuskatt af fjármagnstekjum,
 sbr. 3., 4. og 5. tölul. C-liðar 7. gr., svo og skv. 8. tölul. sama stafliðar 7.
-gr., að því er varðar söluhagnað af hlutabréfum. Skal hann vera [18%]^1) af þeim
+gr., að því er varðar söluhagnað af hlutabréfum. Skal hann vera [20%]^1) af þeim
 stofni. Afdráttur skatts og innborgun hans samkvæmt lögum um staðgreiðslu skatts
 á fjármagnstekjur skal vera fullnaðargreiðsla og koma í stað álagningar samkvæmt
   lögum þessum. Þó skulu þeir aðilar, sem þessi málsgrein tekur til og sjálfir
   annast um innheimtu vaxta í eigin lánaumsýslu eða fá vaxtatekjur sem ekki er
  dregin af staðgreiðsla, skila greinargerð um vaxtatekjur til skattyfirvalda og
-  standa skil á [18%]^1) tekjuskatti af slíkum vöxtum að tekjuári loknu. Þeir
+  standa skil á [20%]^1) tekjuskatti af slíkum vöxtum að tekjuári loknu. Þeir
    aðilar, sem þessi málsgrein tekur til og hafa aðrar fjármagnstekjur, skulu
-   sömuleiðis standa skil á [18%]^1) tekjuskatti af slíkum tekjum að tekjuári
+   sömuleiðis standa skil á [20%]^1) tekjuskatti af slíkum tekjum að tekjuári
 loknu. Við ákvörðun á stofnverði eigna sem félög, sbr. 4. tölul. 4. gr., eignast
  við gjöf skal við sölu miðað við að stofnverðið sé markaðsverð á yfirtökudegi
  félagsins á eigninni. Ríkisskattstjóri setur nánari reglur um skilagreinar og
@@ -2136,16 +2113,15 @@ loknu. Við ákvörðun á stofnverði eigna sem félög, sbr. 4. tölul. 4. gr.
      Framkvæmdasjóður fatlaðra, Framkvæmdasjóður aldraðra, Framleiðnisjóður
          landbúnaðarins, Lánasjóður sveitarfélaga [ohf.],^5) Lánasjóður
     Vestur-Norðurlanda, Seðlabanki Íslands, Nýsköpunarsjóður atvinnulífsins,
-  Þróunarsjóður sjávarútvegsins, [lífeyrissjóðir, sbr. lög um skyldutryggingu
+      [Fiskræktarsjóður],^6) [lífeyrissjóðir, sbr. lög um skyldutryggingu
  lífeyrisréttinda og starfsemi lífeyrissjóða, og starfstengdir eftirlaunasjóðir
-sem heimild hafa til að taka á móti iðgjöldum til myndunar eftirlaunaréttar].^6)
-     2. Lánastofnanir sem skattskyldar eru samkvæmt [40]lögum nr. 65/1982, um
+sem heimild hafa til að taka á móti iðgjöldum til myndunar eftirlaunaréttar].^7)
+     2. Lánastofnanir sem skattskyldar eru samkvæmt [34]lögum nr. 65/1982, um
 skattskyldu lánastofnana, með síðari breytingum, en fjármagnstekjur þeirra falla
                  undir almenna skattskyldu samkvæmt þeim lögum.
-   ^1)L. 128/2009, 17. gr. Breytingin kemur til framkvæmda við álagningu 2011 og
- á staðgreiðsluárinu 2010 eftir því sem við á skv. 41. gr. s.l. ^2)L. 143/2003,
- 6. gr. ^3)L. 166/2007, 8. gr. ^4)L. 77/2006, 3. gr. ^5)[41]L. 150/2006, 5. gr.
-                             ^6)L. 76/2007, 7. gr.
+    ^1)L. 164/2010, 5. gr. ^2)L. 143/2003, 6. gr. ^3)L. 166/2007, 8. gr. ^4)L.
+    77/2006, 3. gr. ^5)[35]L. 150/2006, 5. gr. ^6)L. 165/2010, 12. gr. ^7)L.
+                                76/2007, 7. gr.
 
                       VII. kafli. [Eignir og skuldir.]^1)
                               ^1)L. 129/2004, 21. gr.
@@ -2399,7 +2375,7 @@ fjármálagerninga],^2) skulu ótilkvaddir afhenda [ríkisskattstjóra]^1) skýr
   slík viðskipti og aðila að þeim, ókeypis og í því formi sem ríkisskattstjóri
                                     ákveður.
 [Bankar, sparisjóðir, önnur fjármálafyrirtæki og aðrir þeir aðilar skv. 1. mgr.
-     [42]3. gr. laga nr. 94/1996 sem taka við fjármunum til ávöxtunar skulu
+     [36]3. gr. laga nr. 94/1996 sem taka við fjármunum til ávöxtunar skulu
  ótilkvaddir veita skattyfirvöldum ókeypis og í því formi sem ríkisskattstjóri
 ákveður upplýsingar um greidda eða greiðslukræfa vexti á árinu skv. 8. gr. laga
  þessara og afdregna staðgreiðslu og innstæður í bankareikningum og hvers konar
@@ -2454,6 +2430,9 @@ aðgang að framangreindum gögnum og aðgang að starfsstöðvum framtalsskyldr
 og birgðageymslum og heimild til að taka skýrslur af hverjum þeim sem ætla má að
           geti gefið upplýsingar er máli skipta. Sömu heimildir hefur
           skattrannsóknarstjóri ríkisins vegna rannsókna skv. 103. gr.
+ [Skattrannsóknarstjóri ríkisins getur í þágu rannsóknar máls leitað úrskurðar
+   héraðsdóms um leit og haldlagningu gagna á heimilum og öðrum stöðum sem 2.
+                           málsl. tekur ekki til.]^3)
    Skattyfirvöld hafa enn fremur heimildir þær er um getur í 2. mgr. þessarar
            greinar gagnvart þeim aðilum sem ekki eru framtalsskyldir.
 [Fjármálafyrirtæki, endurskoðendur, lögmenn og aðrir aðilar skulu halda sérstaka
@@ -2466,8 +2445,9 @@ félaga, sjóða eða stofnana sem skráð eru erlendis eða eignir þar. Er þe
      Nú verður ágreiningur um skyldu aðila samkvæmt þessari grein og getur
 ríkisskattstjóri eða skattrannsóknarstjóri ríkisins þá leitað um hann úrskurðar
      héraðsdóms. Gegni einhver ekki upplýsingaskyldu sinni má vísa máli til
-                           [rannsóknar lögreglu].^3)
-     ^1)L. 46/2009, 4. gr. ^2)L. 136/2009, 20. gr. ^3)[43]L. 88/2008, 234. gr.
+                           [rannsóknar lögreglu].^4)
+       ^1)L. 46/2009, 4. gr. ^2)L. 136/2009, 20. gr. ^3)L. 165/2010, 13. gr.
+                          ^4)[37]L. 88/2008, 234. gr.
 
                         X. kafli. Álagning, kærur o.fl.
                                    Álagning.
@@ -2566,21 +2546,20 @@ skattskrá liggur frammi. Heimil er opinber birting á þeim upplýsingum um ál
                         [Kærur til ríkisskattstjóra.]^1)
                               ^1)L. 136/2009, 24. gr.
      99. gr. [Nú telur skattaðili skatt sinn eða skattstofn, þar með talin
-rekstrartöp, ívilnun skv. 65. gr. og reikningsár skv. 1. mgr. 59. gr., ekki rétt
-  ákveðinn og getur hann þá sent rökstudda kæru, skriflega eða rafræna, í því
-      formi sem ríkisskattstjóri ákveður, studda nauðsynlegum gögnum, til
- ríkisskattstjóra innan 30 daga frá dagsetningu auglýsingar ríkisskattstjóra um
- að álagningu skv. 1. mgr. 98. gr. sé lokið.]^1) Skattframtal, sem berst eftir
-  lok framtalsfrests, en áður en álagningu er lokið skv. 1. mgr. 98. gr., skal
-      tekið sem kæra til [ríkisskattstjóra]^1) hvort sem skattaðili kærir
-     skattákvörðun eða ekki. Innan tveggja mánaða frá lokum kærufrests skal
- [ríkisskattstjóri]^1) hafa úrskurðað kærur. [Úrskurðir ríkisskattstjóra skulu
-rökstuddir og sendir kærendum í ábyrgðarbréfi, almennri póstsendingu eða rafrænt
-í því formi sem ríkisskattstjóri ákveður.]^1) Breytingar á skatti skal jafnframt
-senda viðkomandi innheimtumanni ríkissjóðs og samrit til ^1) ríkisendurskoðanda.
-    [Úrskurðir skulu uppkveðnir og undirritaðir af ríkisskattstjóra eða þeim
-        starfsmönnum hans sem fengið hafa til þess sérstaka heimild.]^1)
-                              ^1)L. 136/2009, 24. gr.
+ rekstrartöp [og ívilnun skv. 65. gr.],^1) ekki rétt ákveðinn og getur hann þá
+  sent rökstudda kæru, skriflega eða rafræna, í því formi sem ríkisskattstjóri
+  ákveður, studda nauðsynlegum gögnum, til ríkisskattstjóra innan 30 daga frá
+dagsetningu auglýsingar ríkisskattstjóra um að álagningu skv. 1. mgr. 98. gr. sé
+    lokið.]^2) Skattframtal, sem berst eftir lok framtalsfrests, en áður en
+        álagningu er lokið skv. 1. mgr. 98. gr., skal tekið sem kæra til
+ [ríkisskattstjóra]^2) hvort sem skattaðili kærir skattákvörðun eða ekki. Innan
+ tveggja mánaða frá lokum kærufrests skal [ríkisskattstjóri]^2) hafa úrskurðað
+    kærur. [Úrskurðir ríkisskattstjóra skulu rökstuddir og sendir kærendum í
+        ábyrgðarbréfi, almennri póstsendingu eða rafrænt í því formi sem
+     ríkisskattstjóri ákveður.]^2) Breytingar á skatti skal jafnframt senda
+   viðkomandi innheimtumanni ríkissjóðs og samrit til ^2) ríkisendurskoðanda.
+    [Úrskurðir skulu uppkveðnir og undirritaðir af ríkisskattstjóra ^1)]^2)
+                  ^1)L. 165/2010, 14. gr. ^2)L. 136/2009, 24. gr.
                           Kærur til yfirskattanefndar.
  100. gr. Úrskurðum [ríkisskattstjóra]^1) um endurákvörðun skv. 5. mgr. 96. gr.
 og kæruúrskurðum skv. 99. gr. má skjóta til yfirskattanefndar eftir ákvæðum laga
@@ -2598,11 +2577,10 @@ starfsreglur ásamt leiðbeiningum og verklagsreglum.^1) Ríkisskattstjóri skal
 [Ríkisskattstjóra er heimilt að taka til greina beiðni skattaðila um breytingu á
 ákvörðun um skattstofn eða skattálagningu, þó lengst sex tekjuár aftur í tímann,
   talið frá því ári þegar beiðni kemur fram, enda liggi verulegir hagsmunir að
-baki slíkri beiðni. Beiðni skal byggjast á nýjum gögnum og upplýsingum sem ekki
- var unnt að koma að innan tímamarka 99. gr. Þá skulu skilyrði 96. gr. uppfyllt
-ef um hækkun er að ræða. Víkja má frá þessum tímamörkum ef sérstakar ástæður eru
-  fyrir hendi. Heimilt er skattaðila að kæra breytingar til yfirskattanefndar,
-                         sbr. [44]lög nr. 30/1992.]^2)
+ baki slíkri beiðni. Beiðni skal byggjast á nýjum gögnum og upplýsingum ^2) Þá
+  skulu skilyrði 96. gr. uppfyllt ef um hækkun er að ræða. Víkja má frá þessum
+ tímamörkum ef sérstakar ástæður eru fyrir hendi. Heimilt er skattaðila að kæra
+        breytingar til yfirskattanefndar, sbr. [38]lög nr. 30/1992.]^3)
 Ríkisskattstjóri getur að eigin frumkvæði eða samkvæmt beiðni leiðrétt álagningu
    á skattaðila ef yfirskattanefnd eða dómstólar hafa í hliðstæðu máli hnekkt
  skattframkvæmd sem skattskil eða ákvörðun skattstjóra eða ríkisskattstjóra var
@@ -2611,10 +2589,11 @@ með því tekjuári sem um var fjallað í máli því sem hliðstætt er tali�
  sex ár aftur í tímann, talið frá því ári þegar úrskurður eða dómur var kveðinn
 upp. Beiðni um endurupptöku skal borin fram innan eins árs frá því að skattaðila
   var eða mátti vera kunnugt um tilefni hennar. Skattaðila er heimilt að kæra
-   breytingar til yfirskattanefndar, sbr. [45]lög nr. 30/1992, svo og má bera
+   breytingar til yfirskattanefndar, sbr. [39]lög nr. 30/1992, svo og má bera
       synjun um breytingu á skattákvörðun samkvæmt þessari málsgrein undir
-                              yfirskattanefnd.]^3)
-         ^1)Augl. 457/1999. ^2)L. 16/2010, 2. gr. ^3)L. 136/2009, 26. gr.
+                              yfirskattanefnd.]^4)
+      ^1)Augl. 457/1999. ^2)L. 165/2010, 15. gr. ^3)L. 16/2010, 2. gr. ^4)L.
+                               136/2009, 26. gr.
                                  Skatteftirlit.
  102. gr. [Ríkisskattstjóri annast skatteftirlit samkvæmt lögum þessum og lögum
 um aðra skatta og gjöld sem honum er falin framkvæmd á. Skatteftirlit tekur til
@@ -2647,7 +2626,7 @@ sköttum skal ríkisskattstjóri annast endurákvörðunina, [sbr. 96. og 97. gr
  Við rannsóknaraðgerðir skattrannsóknarstjóra ríkisins skal gætt ákvæða laga um
  meðferð [sakamála]^3) eftir því sem við getur átt, einkum varðandi réttarstöðu
                        grunaðra manna á rannsóknarstigi.
-     ^1)L. 136/2009, 28. gr. ^2)L. 77/2004, 2. gr. ^3)[46]L. 88/2008, 234. gr.
+     ^1)L. 136/2009, 28. gr. ^2)L. 77/2004, 2. gr. ^3)[40]L. 88/2008, 234. gr.
                             Vanhæfi skattyfirvalda.
   104. gr. Eigi má maður taka þátt í rannsókn eða annarri meðferð máls, hvorki
   skattákvörðun né kæru, ef honum hefði borið að víkja sæti sem héraðsdómara í
@@ -2689,7 +2668,7 @@ Séu annmarkar á framtali, sbr. 96. gr., eða einstakir liðir ranglega fram ta
 honum verði eigi kennt um annmarka á framtali eða vanskil þess, að óviðráðanleg
 atvik hafi hamlað því að hann skilaði framtali á réttum tíma, bætti úr annmörkum
                   á framtali eða leiðrétti einstaka liði þess.
-Um kæru til [ríkisskattstjóra]^1) og yfirskattanefndar fer eftir ákvæðum [47]99.
+Um kæru til [ríkisskattstjóra]^1) og yfirskattanefndar fer eftir ákvæðum [41]99.
           gr. laganna og ákvæðum laga nr. 30/1992, um yfirskattanefnd.
                               ^1)L. 136/2009, 32. gr.
                                    Refsingar.
@@ -2731,10 +2710,10 @@ enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða hann hafi notið h
                                   af brotinu.
                               ^1)L. 129/2004, 27. gr.
                  Málsmeðferð og ^1) rannsókn. Fyrningarreglur.
-                            ^1)[48]L. 88/2008, 234. gr.
+                            ^1)[42]L. 88/2008, 234. gr.
  110. gr. Yfirskattanefnd úrskurðar sektir skv. 109. gr. nema máli sé vísað til
 ^1) rannsóknar og dómsmeðferðar skv. [4. mgr.]^2) Um meðferð mála hjá nefndinni
-   fer eftir [49]lögum nr. 30/1992, um yfirskattanefnd. Skattrannsóknarstjóri
+   fer eftir [43]lögum nr. 30/1992, um yfirskattanefnd. Skattrannsóknarstjóri
  ríkisins kemur fram af hálfu hins opinbera fyrir nefndinni þegar hún úrskurðar
              sektir. Úrskurðir nefndarinnar eru fullnaðarúrskurðir.
   [Þrátt fyrir ákvæði 1. mgr. er skattrannsóknarstjóra ríkisins eða löglærðum
@@ -2764,7 +2743,7 @@ sjálfsdáðum svo og eftir ósk sökunauts, ef hann vill eigi hlíta því að 
     Sök skv. 109. gr. fyrnist á sex árum miðað við upphaf rannsóknar á vegum
 skattrannsóknarstjóra ríkisins, enda verði ekki óeðlilegar tafir á rannsókn máls
                             eða ákvörðun refsingar.
-                ^1)[50]L. 88/2008, 234. gr. ^2)L. 134/2005, 5. gr.
+                ^1)[44]L. 88/2008, 234. gr. ^2)L. 134/2005, 5. gr.
 
                        XIII. kafli. Innheimta og ábyrgð.
                                 Innheimtuaðilar.
@@ -2793,9 +2772,10 @@ skipa- og ökutækjaskrá í því skyni að sannreyna eignastöðu einstakra gj
  112. gr. [Tekjuskattur af öðrum tekjum en launatekjum hvers gjaldanda, sbr. þó
 4. mgr.],^1) skal greiddur á tíu gjalddögum á ári hverju. Eru gjalddagar fyrsti
 dagur hvers mánaðar nema í janúar og í þeim mánuði sem álagningu lýkur samkvæmt
-ákvörðun fjármálaráðherra, sbr. 1. mgr. 93. gr. Við skiptingu fyrirframgreiðslu
- og eftirstöðva álagningar á gjalddaga skv. 2. og 4. mgr. skal þó við það miðað
-    að ekki sé til innheimtu lægri fjárhæð en 2.000 kr. á hverjum gjalddaga.
+   ákvörðun fjármálaráðherra, sbr. 1. mgr. 93. gr. [Eindagi er 15 dögum eftir
+ gjalddaga, sbr. þó 5. mgr.]^2) Við skiptingu fyrirframgreiðslu og eftirstöðva
+ álagningar á gjalddaga skv. 2. og 4. mgr. skal þó við það miðað að ekki sé til
+           innheimtu lægri fjárhæð en 2.000 kr. á hverjum gjalddaga.
  Þar til álagning liggur fyrir skal gjaldanda, sem um ræðir í 1. mgr., gert að
 greiða á hverjum gjalddaga ákveðinn hundraðshluta skatta er honum bar að greiða
 næstliðið ár. Skal þessi hundraðshluti ákveðinn með reglugerð fyrir hvert ár og
@@ -2821,7 +2801,7 @@ sem ákvörðuð er skv. 11. gr. þeirra laga áður en greiðsluskylda samkvæm
 málsgrein er ákvörðuð. Sé engin eða lægri greiðsluskylda fyrir hendi skal greiða
 frádráttinn út að hluta eða öllu leyti. Reglur um skuldajöfnun skattfrádráttar á
     móti opinberum gjöldum eða vörslusköttum til ríkissjóðs, þar á meðal um
-                   forgangsröð, skulu settar í reglugerð.]^2)
+                   forgangsröð, skulu settar í reglugerð.]^3)
 Vangreiðsla að hluta veldur því að skattar gjaldandans falla í eindaga 15 dögum
    eftir gjalddagann, þó ekki fyrr en 15. næsta mánaðar eftir að álagningu er
                                      lokið.
@@ -2840,9 +2820,9 @@ Hafi innheimtumaður hafið aðför að skattaðila vegna skuldar sem myndast he
 staðgreiðslu á reiknuðu endurgjaldi skulu þau aðfararúrræði, sem innheimtumaður
   hefur gripið til, halda lögformlegu gildi sínu við þann hluta kröfunnar sem
         rekja má til vangreiddrar staðgreiðslu af reiknuðu endurgjaldi.
-        ^1)L. 129/2004, 28. gr. ^2)L. 137/2009, 4. gr. Breytingin kemur til
-framkvæmda við álagningu opinberra gjalda árið 2011 vegna tekjuársins 2010 skv.
-                                  5. gr. s.l.
+      ^1)L. 129/2004, 28. gr. ^2)L. 165/2010, 16. gr. ^3)L. 137/2009, 4. gr.
+ Breytingin kemur til framkvæmda við álagningu opinberra gjalda árið 2011 vegna
+                       tekjuársins 2010 skv. 5. gr. s.l.
  113. gr. Áfrýjun skattákvörðunar eða deila um skattskyldu frestar ekki eindaga
 [tekjuskatts]^1) né leysir undan neinum viðurlögum sem lögð eru við vangreiðslu
      hans. Víkja má frá þessu, ef sérstaklega stendur á, samkvæmt ákvörðun
@@ -2898,18 +2878,18 @@ kyrrsetningunni. Kyrrsetning fellur á sama hátt niður ef inntar eru af hendi 
  sambandi er átt við reglulega gjalddaga skv. 1.4. og 6.8. mgr. 112. gr., en
 gjaldfelling vegna vangreiðslu á hluta skv. 5. mgr. 112. gr. hefur ekki áhrif á
 dráttarvaxtaútreikning. Dráttarvextir skulu vera þeir sömu og Seðlabanki Íslands
-      ákveður skv. [51]6. gr. laga nr. 38/2001, um vexti og verðtryggingu.
+      ákveður skv. [45]6. gr. laga nr. 38/2001, um vexti og verðtryggingu.
 Nú verður ljóst þegar álagningu skatta, annarra en tekjuskatts manna, lýkur eða
     við endurákvörðun þessara sömu skatta að gjaldandi hefur greitt meira en
   endanlega álögðum sköttum nemur og skal þá endurgreiða það sem ofgreitt var
   ásamt vöxtum fyrir það tímabil sem féð var í vörslu ríkissjóðs. Skulu vextir
  þessir vera jafnháir vöxtum sem Seðlabanki Íslands ákveður og birtir á hverjum
- tíma skv. 1. mgr. [52]8. gr. laga nr. 38/2001, um vexti og verðtryggingu. Sama
+ tíma skv. 1. mgr. [46]8. gr. laga nr. 38/2001, um vexti og verðtryggingu. Sama
 gildir þegar í ljós kemur við endurákvörðun á tekjuskatti manna að um ofgreiðslu
 hafi verið að ræða að öðru leyti en því að vextir reiknast aldrei fyrr en frá 1.
                              júlí á álagningarári.
 Sé kæra til meðferðar hjá yfirskattanefnd og nefndin leggur ekki úrskurð á kæru
-   innan lögboðins frests skv. 1. og 2. mgr. [53]8. gr. laga nr. 30/1992 skal
+   innan lögboðins frests skv. 1. og 2. mgr. [47]8. gr. laga nr. 30/1992 skal
 greiða skattaðila dráttarvexti af fjárhæð sem yfirskattanefnd úrskurðar að skuli
 endurgreiða, eða dæmd er síðar, frá þeim tíma þegar frestur nefndarinnar til að
                             kveða upp úrskurð leið.
@@ -3002,15 +2982,16 @@ greinar. Getur hann sett verklagsreglur um túlkun og framkvæmd þeirra sem ön
     samkvæmt umsókn skattaðila, að lækka tekjuskatt ^2) hans hér á landi með
                    hliðsjón af þessum skattgreiðslum hans.^1)
       ^1)Tvísköttunarsamningar: Augl. C 8/2008 (Bandaríkin); 1/2003 (Belgía);
- 32/1991 (Bretland); 4/1995 (Eistland); 8/1992 (Frakkland); 1/2008 (Grikkland);
-4/2002 (Grænland); 32/1998 (Holland); 1/2007 (Indland); 70/2004 (Írland); 4/2008
-  (Ítalía); 24/1997 (Kanada); 6/1997 (Kína); 5/2008 (lýðveldið Kórea); 5/1995
-   (Lettland); 12/1999 (Litháen); 19/2001 (Lúxemborg); 3/2006 (Malta); 7/2008
+      32/1991 (Bretland); 4/2010 (Cayman-eyjar); 4/1995 (Eistland); 8/1992
+ (Frakkland); 1/2008 (Grikkland); 4/2002 (Grænland); 1/2010 (Guernsey); 32/1998
+(Holland); 1/2007 (Indland); 70/2004 (Írland); 4/2008 (Ítalía); 2/2010 (Jersey);
+ 24/1997 (Kanada); 6/1997 (Kína); 5/2008 (lýðveldið Kórea); 5/1995 (Lettland);
+  12/1999 (Litháen); 19/2001, sbr. 3/2010 (Lúxemborg); 3/2006 (Malta); 7/2008
 (Mexíkó); 6/2008 (Mön); 11/1997, sbr. 36/1997 og 9/2008 (Norðurlandasamningur);
    2/2002 (Portúgal); 13/1999 (Pólland); 2/2008 (Rúmenía); 3/2003 (Rússland);
  2/2003 (Slóvakía); 3/2002 (Spánn); 3/1989 (Sviss); 34/2000 (Tékkland); 2/2006
    (Ungverjaland); 3/2008 (Úkraína); 5/2002 (Víetnam); 13/1971, sbr. 21/1973
-(Þýskaland). ^2)L. 129/2004, 30. gr. ^3)Sjá [54]l. 46/1990 (Norðurlandasamningur
+(Þýskaland). ^2)L. 129/2004, 30. gr. ^3)Sjá [48]l. 46/1990 (Norðurlandasamningur
      um aðstoð í skattamálum). ^4)L. 128/2009, 22. gr. Breytingin kemur til
  framkvæmda við álagningu 2011 og á staðgreiðsluárinu 2010 eftir því sem við á
                    skv. 41. gr. s.l. ^5)L. 136/2009, 34. gr.
@@ -3106,7 +3087,7 @@ Skattstjóri skal að jafnaði ekki taka til greina umsókn gjaldanda nema hann 
 Um sérstakan tekjuskatt samkvæmt ákvæði til bráðabirgða skulu ákvæði VIII.XIII.
                     kafla laganna gilda eftir því sem við á.
  V. Við framtalsgerð á árinu 2003 skal leysa upp endurmatsreikning sem myndaður
-var skv. [55]37. gr. laga nr. 75/1981 fyrir breytingu með lögum nr. 133/2001 og
+var skv. [49]37. gr. laga nr. 75/1981 fyrir breytingu með lögum nr. 133/2001 og
                             færa með öðru eigin fé.
     VI. Á tekjuskattsstofn manna vegna tekna árið 2003 skal árið 2004 leggja
            sérstakan tekjuskatt eins og nánar greinir í ákvæði þessu.
@@ -3205,11 +3186,11 @@ Um sérstakan tekjuskatt samkvæmt ákvæði til bráðabirgða skulu ákvæði 
                   útreiknuðum skv. B-lið 68. gr. laganna.]^1)
                               ^1)L. 143/2003, 12. gr.
   [XI. Fjárhæðir í ákvæðum A- og B-liðar 68. gr., 77. gr., 82. gr. og 83. gr.
-  laganna, sem breytt var með lögum nr. 143/2003, um breyting á [56]lögum nr.
+  laganna, sem breytt var með lögum nr. 143/2003, um breyting á [50]lögum nr.
     90/2003, um tekjuskatt og eignarskatt, koma til framkvæmda við álagningu
  tekjuskatts og eignarskatts á árinu 2004 vegna tekna og eigna á árinu 2003 og
 við ákvörðun bóta á árinu 2004. Enn fremur kemur ákvæði c-liðar 5. gr. laga nr.
-143/2003, um breyting á [57]lögum nr. 90/2003, um tekjuskatt og eignarskatt, til
+143/2003, um breyting á [51]lögum nr. 90/2003, um tekjuskatt og eignarskatt, til
 framkvæmda við álagningu tekjuskatts og eignarskatts á árinu 2004 vegna tekna og
                             eigna á árinu 2003.]^1)
                                ^1)L. 77/2004, 3. gr.
@@ -3268,7 +3249,7 @@ sem þar er tilgreind, vera 37.397 við ákvörðun barnabóta á árinu 2005 og
  [XVII. Vegna félaga sem hafa annað reikningsár en almanaksárið skal álagningu
  hagað samkvæmt eftirfarandi reglum vegna reikningsárs sem lýkur á árinu 2005.
     Álagningu skal haga samkvæmt þeim eignarskattsstofni sem ákvarðast í lok
-    reikningsárs á grundvelli ákvæða [58]laga nr. 90/2003, um tekjuskatt og
+    reikningsárs á grundvelli ákvæða [52]laga nr. 90/2003, um tekjuskatt og
 eignarskatt, eins og þau lög voru 30. desember 2005. Hafi félag fengið samþykki
   skattstjóra fyrir öðru reikningsári en almanaksári og við þá breytingu haft
   skert reikningsár fyrir tímabilið frá lokum fyrra tímabils til upphafs næsta
@@ -3290,7 +3271,7 @@ tap hafi verið jafnað að fullu og að eigi hafi verið nýttar hlutfallslega 
 tekjufærslu skv. 1. mgr. að samnýtanlegt rekstrartap samsköttunarfélaganna hafi
                                  verið jafnað.
 Heimild til frestunar tekjufærslu skv. 1. mgr. tekur ekki til fjármálafyrirtækja
- sem stunda starfsemi sem fellur undir [59]2. gr. laga nr. 87/1998, um opinbert
+ sem stunda starfsemi sem fellur undir [53]2. gr. laga nr. 87/1998, um opinbert
                       eftirlit með fjármálastarfsemi.]^1)
                                ^1)L. 48/2006, 1. gr.
 [XIX. Þar sem í 31., 66., 71. og 83. gr. er kveðið á um alþjóðleg viðskiptafélög
@@ -3318,7 +3299,7 @@ tímabili að teknu tilliti til hvers konar annarrar ríkisaðstoðar. Fari mism
 Endurákvörðun vaxtabóta samkvæmt grein þessari er kæranleg til skattstjóra innan
 30 daga frá dagsetningu auglýsingar um að endurákvörðun vaxtabóta sé lokið.]^1)
                               ^1)L. 135/2006, 2. gr.
-[XXI. Þrátt fyrir að [60]lög nr. 31/1999, um alþjóðleg viðskiptafélög, falli úr
+[XXI. Þrátt fyrir að [54]lög nr. 31/1999, um alþjóðleg viðskiptafélög, falli úr
   gildi 1. janúar 2008 skal fara fram álagning tekjuskatts á árinu 2008 vegna
               tekna alþjóðlegra viðskiptafélaga á árinu 2007.]^1)
                               ^1)L. 166/2007, 12. gr.
@@ -3364,7 +3345,7 @@ fullu og að eigi hafi verið nýttar hlutfallslega lægri fyrningar skv. 37. gr
 tekjufærslu skv. 1. og 2. mgr. að samnýtanlegt rekstrartap samsköttunarfélaganna
                                hafi verið jafnað.
       Heimild til frestunar tekjufærslu skv. 1. og 2. mgr. tekur ekki til
-  fjármálafyrirtækja sem stunda starfsemi sem fellur undir [61]2. gr. laga nr.
+  fjármálafyrirtækja sem stunda starfsemi sem fellur undir [55]2. gr. laga nr.
             87/1998, um opinbert eftirlit með fjármálastarfsemi.]^1)
                                ^1)L. 61/2008, 9. gr.
  [XXV. Þrátt fyrir ákvæði 2. málsl. 8. mgr. A-liðar 68. gr., sbr. reglugerð nr.
@@ -3389,7 +3370,7 @@ viðmiðunarfjárhæðir, sem þar eru tilgreindar, vera 246.944, 317.589, 408.3
                                    2008.]^1)
                                ^1)L. 45/2009, 1. gr.
   [XXVIII. Þrátt fyrir ákvæði 1. mgr. 8. gr. laga nr. 164/2008, um breyting á
-[62]lögum nr. 90/2003, um tekjuskatt, með síðari breytingum, þá kemur ákvæði 1.
+[56]lögum nr. 90/2003, um tekjuskatt, með síðari breytingum, þá kemur ákvæði 1.
     gr. laganna til framkvæmdar við álagningu tekjuskatts á árinu 2010.]^1)
                                ^1)L. 46/2009, 5. gr.
   [XXIX. Við álagningu gjalda árið 2010 skal leggja sérstakan 8% tekjuskatt á
@@ -3504,21 +3485,21 @@ fjárhæð sem greidd er vegna vinnu án virðisaukaskatts sem unnin er á árun
           einstaklinga skal koma til lækkunar hjá þeim sem hærri hefur
                               tekjuskattsstofninn.
    Frádráttur skv. 1. mgr. er háður því skilyrði að staðin hafi verið skil á
- fullgildum reikningum vegna endurgreiðslu virðisaukaskatts af sama tilefni þar
-  sem vinnuþáttur er samtals að lágmarki 50.000 kr., sbr. [63]42. gr. laga nr.
- 50/1988, um virðisaukaskatt, með áorðnum breytingum. Þá skal skila launamiðum
-    eða öðrum gögnum á þann hátt sem ríkisskattstjóri ákveður. Sækja þarf um
-frádráttinn samhliða umsókn um endurgreiðslu á virðisaukaskatti á þar til gerðu
-eyðublaði ríkisskattstjóra innan hvers árs fyrir sig og í síðasta lagi fyrir 1.
-     febrúar árið 2011 vegna tekjuársins 2010 og 1. febrúar árið 2012 vegna
- tekjuársins 2011. Frádrátturinn ákvarðast og afmarkast við álagningu opinberra
-  gjalda 2011 vegna tekjuársins 2010 og álagningu 2012 vegna tekjuársins 2011,
- sbr. 98. gr., sbr. og 99. gr. Ráðherra er heimilt að setja í reglugerð nánari
-   ákvæði um skilyrði og framkvæmd frádráttar samkvæmt þessu ákvæði, m.a. um
-      sundurliðun frádráttar vegna vinnu sem greidd er af húsfélögum vegna
- sameiginlegs viðhalds eigenda á íbúðarhúsnæði í fjöleignarhúsum og um frádrátt
-        eigenda íbúðarhúsnæðis sem leigt er út utan atvinnurekstrar.]^1)
-                               ^1)L. 92/2010, 1. gr.
+fullgildum reikningum vegna endurgreiðslu virðisaukaskatts af sama tilefni ,^1)
+ sbr. [57]42. gr. laga nr. 50/1988, um virðisaukaskatt, með áorðnum breytingum.
+   Þá skal skila launamiðum eða öðrum gögnum á þann hátt sem ríkisskattstjóri
+     ákveður. Sækja þarf um frádráttinn samhliða umsókn um endurgreiðslu á
+  virðisaukaskatti á þar til gerðu eyðublaði ríkisskattstjóra innan hvers árs
+fyrir sig og í síðasta lagi fyrir 1. febrúar árið 2011 vegna tekjuársins 2010 og
+    1. febrúar árið 2012 vegna tekjuársins 2011. Frádrátturinn ákvarðast og
+    afmarkast við álagningu opinberra gjalda 2011 vegna tekjuársins 2010 og
+álagningu 2012 vegna tekjuársins 2011, sbr. 98. gr., sbr. og 99. gr. Ráðherra er
+ heimilt að setja í reglugerð nánari ákvæði um skilyrði og framkvæmd frádráttar
+samkvæmt þessu ákvæði, m.a. um sundurliðun frádráttar vegna vinnu sem greidd er
+      af húsfélögum vegna sameiginlegs viðhalds eigenda á íbúðarhúsnæði í
+   fjöleignarhúsum og um frádrátt eigenda íbúðarhúsnæðis sem leigt er út utan
+                              atvinnurekstrar.]^2)
+                   ^1)L. 165/2010, 17. gr. ^2)L. 92/2010, 1. gr.
     [XXXVI. Í stað þess að telja að fullu til tekna eftirgjöf skulda umfram
 rekstrartöp er lögaðilum og þeim mönnum sem stunda atvinnurekstur eða sjálfstæða
 starfsemi heimilt að tekjufæra einungis 50% af fengnum eftirstöðvum eftirgjafar
@@ -3539,10 +3520,16 @@ jöfnum fjárhæðum í skattframtölum næstu þriggja ára frá og með því 
                          rekstrartap hafi verið jafnað.
   Ákvæðið gildir ekki um eftirgjöf skulda milli móður- og dótturfélaga að því
   undanskildu þegar fjármálafyrirtæki yfirtaka félög til að tryggja fullnustu
-    kröfu, sbr. 2. mgr. [64]22. gr. laga nr. 161/2002, um fjármálafyrirtæki.
-Taki kröfuhafi hlutafé í hinu skuldsetta félagi sem gagngjald fyrir kröfu í stað
-   eftirgjafar skal það talið fullnaðargreiðsla hennar, nema að því marki sem
- eftirgjöf skuldar er færð til tekna hjá skuldara að teknu tilliti til 1. mgr.
+    kröfu, sbr. 2. mgr. [58]22. gr. laga nr. 161/2002, um fjármálafyrirtæki.
+  [Þegar kröfu er breytt í hlutafé í hinu skuldsetta félagi í stað eftirgjafar
+ skal það talið fullnaðargreiðsla hennar. Aðilar geta samið um niðurfellingu á
+ hluta kröfunnar áður en slík greiðsla með hlutafé er innt af hendi. Sé skipt á
+ kröfu og hlutafé skal fara fram mat á verðmæti hlutafjárins og skal matsverðið
+   miðast við þann dag þegar skiptin eiga sér stað. Skuldara ber að tekjufæra
+  mismun á verðmæti hlutafjárins og bókfærðu verði skuldarinnar. Kröfuhafa ber
+ eftir atvikum að tekjufæra eða gjaldfæra mismun á bókfærðu verði kröfunnar og
+matsverði hlutafjárins. Mat á verðmæti hlutafjár skal unnið af óháðum matsaðila
+   þegar skipti á kröfu og hlutafé fara fram á milli eignatengdra aðila.]^1)
  Við eftirgjöf skulda skal kröfuhafa skylt að varðveita öll gögn sem forsendur
  eftirgjafarinnar eru byggðar á þannig að unnt verði að sinna upplýsingaskyldu
 skv. 92. gr. Upplýsingar skulu veittar í því formi sem ríkisskattstjóri ákveður.
@@ -3555,8 +3542,8 @@ lánskjörum breytt í kjör sem eru almennt í boði við sambærilegar aðstæ
  á við ef breyting er gerð á viðmiðunarvísitölu verðtryggðra lána, eða hluti af
      uppreikningi höfuðstóls verðtryggðra lána er felldur niður. Séu gerðar
      breytingar á uppreiknuðum eftirstöðvum lána, sbr. 1. og 2. málsl., ber
- rekstraraðila að leiðrétta áður gjaldfærðan fjármagnskostnað til samræmis.]^1)
-                              ^1)L. 104/2010, 1. gr.
+ rekstraraðila að leiðrétta áður gjaldfærðan fjármagnskostnað til samræmis.]^2)
+                  ^1)L. 165/2010, 18. gr. ^2)L. 104/2010, 1. gr.
  [XXXVII. Í stað fullrar tekjufærslu á eftirgjöf veðskulda utan atvinnurekstrar
  og skulda vegna bílasamninga utan atvinnurekstrar er heimilt að telja ekki til
  tekna allt að samtals 15 millj. kr. hjá einstaklingi og samtals 30 millj. kr.
@@ -3596,14 +3583,136 @@ eða eignir séu litlar sem engar eða aflahæfi sé verulega skert. Fjármálar
    sambærilegar aðstæður. Sama á við ef breyting er gerð á viðmiðunarvísitölu
   verðtryggðra lána, eða hluti af uppreikningi höfuðstóls verðtryggðra lána er
   felldur niður. Leiðréttingar á skuldum sem gerðar eru í tengslum við sértæka
-   skuldaaðlögun og sjálfvirka greiðslujöfnun, sbr. [65]lög nr. 107/2009, um
+   skuldaaðlögun og sjálfvirka greiðslujöfnun, sbr. [59]lög nr. 107/2009, um
       aðgerðir í þágu einstaklinga, heimila og fyrirtækja vegna banka- og
  gjaldeyrishrunsins, teljast til skilmálabreytinga en ekki eftirgjafar skulda,
     enda sé framkvæmdin í samræmi við verklagsreglur sem settar hafa verið á
     grundvelli þeirra laga. Sama á við um leiðréttingu samkvæmt tímabundinni
- greiðsluaðlögun samkvæmt [66]lögum nr. 50/2009, um tímabundna greiðsluaðlögun
+ greiðsluaðlögun samkvæmt [60]lögum nr. 50/2009, um tímabundna greiðsluaðlögun
                     fasteignaveðkrafna á íbúðarhúsnæði.]^1)
                               ^1)L. 104/2010, 1. gr.
+   [XXXVIII. Þrátt fyrir ákvæði 2. málsl. 8. mgr. A-liðar 68. gr. um greiðslu
+   barnabóta verður barnabótum ekki skuldajafnað á móti opinberum gjöldum til
+  ríkissjóðs, opinberum gjöldum til sveitarfélaga og vangreiddum meðlögum til
+               Innheimtustofnunar sveitarfélaga á árinu 2011.]^1)
+                              ^1)L. 164/2010, 6. gr.
+[XXXIX. Þrátt fyrir h-lið ákvæðis til bráðabirgða XXXIII skal á framtalsskyldar
+eignir skv. 72. gr. í lok áranna 2010 og 2011 við álagningu 2011 og 2012 reikna
+ auðlegðarskatt manna þannig: Af fyrstu 75.000.000 kr. af auðlegðarskattsstofni
+  einstaklings og fyrstu 100.000.000 kr. af samanlögðum auðlegðarskattsstofni
+    hjóna greiðist enginn skattur. Af auðlegðarskattsstofni yfir þeim mörkum
+greiðast 1,50%. Auðlegðarskattsstofn vegna áranna 2010 og 2011 skal endurreikna
+ við álagningu opinberra gjalda 2012 og 2013 með tilliti til viðbótareigna skv.
+     b-lið ákvæðis til bráðabirgða XXXIII. Sá mismunur sem myndast við þann
+    endurreikning og er umfram viðmiðunarmörk 1. málsl. skal skattlagður við
+                  álagningu opinberra gjalda 2012 og 2013.]^1)
+                              ^1)L. 164/2010, 6. gr.
+[XL. Við endurreikning á gengistryggðum húsnæðis- og bílalánum einstaklinga utan
+atvinnurekstrar í lán í íslenskum krónum, sbr. dóm Hæstaréttar frá 16. júní 2010
+       þar sem gengistryggðir bílasamningar voru dæmdir ólögmætir, skulu
+  inneignarvextir skuldara sem ákvarðaðir eru af þessum sökum á árunum 2010 og
+ 2011 ekki teljast til fjármagnstekna. Endurútreikningur afborgana og vaxta af
+ þessum sökum skal ekki hafa áhrif á áður ákvarðaðar vaxtabætur eða barnabætur
+      hvort sem er til hækkunar eða lækkunar, nema skattaðili fari fram á
+    endurákvörðun þeirra og skal ríkisskattstjóri þá taka til greina beiðni
+ skattaðila um breytingu á ákvörðun um skattstofn eða skattálagningu, þó lengst
+  sex tekjuár aftur í tímann, talið frá því ári þegar beiðni kemur fram, enda
+ liggi verulegir hagsmunir að baki slíkri beiðni. Beiðni skal byggjast á nýjum
+ gögnum og upplýsingum sem ekki var unnt að koma að innan tímamarka 99. gr. Þá
+  skulu skilyrði 96. gr. uppfyllt ef um hækkun er að ræða. Víkja má frá þessum
+ tímamörkum ef sérstakar ástæður eru fyrir hendi. Heimilt er skattaðila að kæra
+          breytingar til yfirskattanefndar, sbr. [61]lög nr. 30/1992.
+  Endurútreikningur afborgana og vaxta, sbr. 1. mgr., hefur ekki áhrif á bætur
+  samkvæmt lögum um almannatryggingar og lögum um félagslega aðstoð. Þá hefur
+  endurútreikningurinn ekki áhrif á greiðslu húsaleigubóta skv. 9. gr. laga um
+húsaleigubætur, greiðslu barnabóta eða vaxtabóta skv. 68. gr., atvinnuleysisbóta
+skv. 36. gr. laga um atvinnuleysistryggingar, greiðslur til foreldra langveikra
+  eða alvarlega fatlaðra barna, sbr. [62]22. gr. laga nr. 22/2006, og námslán
+      Lánasjóðs íslenskra námsmanna, sbr. [63]1. gr. laga nr. 21/1992.]^1)
+                              ^1)L. 164/2010, 6. gr.
+        [XLI. Þrátt fyrir ákvæði 1. málsl. 3. mgr. B-liðar 68. gr. skal
+viðmiðunarhlutfall hámarksvaxtagjalda af skuldum, sem þar er tilgreint, vera 7%
+  við ákvörðun vaxtabóta á árunum 2011 og 2012 vegna tekna, eigna og skulda á
+                              árunum 2010 og 2011.
+  Þrátt fyrir ákvæði 3. málsl. 3. mgr. B-liðar 68. gr. skulu hámarksfjárhæðir
+  vaxtagjalda til útreiknings vaxtabóta, sem þar eru tilgreindar, vera 800.000
+kr., 1.000.000 kr. og 1.200.000 kr. við ákvörðun vaxtabóta á árunum 2011 og 2012
+              vegna tekna, eigna og skulda á árunum 2010 og 2011.
+ Þrátt fyrir ákvæði 1. málsl. 4. mgr. B-liðar 68. gr. skal viðmiðunarhlutfall,
+sem þar er tilgreint, vera 8% við ákvörðun vaxtabóta á árunum 2011 og 2012 vegna
+                 tekna, eigna og skulda á árunum 2010 og 2011.
+ Þrátt fyrir ákvæði 7. málsl. 4. mgr. B-liðar 68. gr. skulu skerðingarfjárhæðir
+  eigna að frádregnum skuldum, sem þar eru tilgreindar, vera 4.000.000 kr. og
+6.500.000 kr. við ákvörðun vaxtabóta á árunum 2011 og 2012 vegna tekna, eigna og
+                         skulda á árunum 2010 og 2011.
+       Þrátt fyrir ákvæði 11. og 13. málsl. 4. mgr. B-liðar 68. gr. skulu
+  viðmiðunarfjárhæðir, sem þar eru tilgreindar, vera 400.000 kr., 500.000 kr.,
+  600.000 kr. og 5.000 kr. við ákvörðun vaxtabóta á árunum 2011 og 2012 vegna
+               tekna, eigna og skulda á árunum 2010 og 2011.]^1)
+                              ^1)L. 164/2010, 6. gr.
+[XLII. Við álagningu opinberra gjalda á árunum 2011 og 2012 skal ákvarða mönnum
+              sérstaka vaxtaniðurgreiðslu með eftirfarandi hætti:
+   1. Sérstök vaxtaniðurgreiðsla skal vera 0,6% af skuldum vegna lána sem tekin
+  hafa verið vegna kaupa eða byggingar á íbúðarhúsnæði til eigin nota, þar með
+talin eru kaup á búseturétti samkvæmt [64]lögum nr. 66/2003 og kaup á eignarhlut
+í almennri kaupleiguíbúð samkvæmt eldri lögum, eins og þær eru í árslok 2010 og
+    2011. Hjá þeim sem skattskyldir eru hluta úr ári vegna brottflutnings á
+   tekjuárinu skal miða við skuldastöðu eins og hún var fyrir brottflutning.
+    2. Sérstök vaxtaniðurgreiðsla getur aldrei verið hærri en 200.000 kr. á ári
+   fyrir hvern mann og 300.000 kr. á ári fyrir einstætt foreldri og hjón eða
+ sambýlisfólk sem uppfyllir skilyrði fyrir samsköttun, sbr. 3. mgr. 62. gr., í
+lok tekjuárs. Hámark sérstakrar vaxtaniðurgreiðslu hjá þeim sem skattskyldir eru
+     skv. 1. gr. hluta úr ári ákvarðast í hlutfalli við dvalartíma á árinu.
+     3. Sérstök vaxtaniðurgreiðsla skerðist hlutfallslega fari eignir skv. 72.
+  gr., að frádregnum skuldum skv. 1. mgr. 75. gr., fram úr 10.000.000 kr. hjá
+einstaklingi og 15.000.000 kr. hjá einstæðu foreldri og hjónum eða sambýlisfólki
+                 uns hún fellur niður við tvöfalda þá fjárhæð.
+    4. Sérstök vaxtaniðurgreiðsla að viðbættum vaxtabótum skv. B-lið 68. gr. má
+ ekki vera hærri en vaxtagjöld ársins vegna kaupa eða byggingar á íbúðarhúsnæði
+  til eigin nota, þar með talin eru kaup á búseturétti samkvæmt [65]lögum nr.
+  66/2003 og kaup á eignarhlut í almennri kaupleiguíbúð samkvæmt eldri lögum.
+   5. Sérstaka vaxtaniðurgreiðslu skal greiða með jöfnum hætti og í tvennu lagi
+hvort gjaldárið fyrir sig 2011 og 2012. Skal fyrri greiðsla ársins fara fram 1.
+       maí og hin síðari 1. ágúst að lokinni álagningu opinberra gjalda.
+      6. Um rétt til sérstakrar vaxtaniðurgreiðslu gilda að öðru leyti ákvæði
+               B-liðar 68. gr. um vaxtabætur eftir því sem við á.
+        7. Sérstök vaxtaniðurgreiðsla samkvæmt ákvæði þessu telst ekki til
+                            skattskyldra tekna.]^1)
+                              ^1)L. 164/2010, 6. gr.
+   [XLIII. Þrátt fyrir ákvæði 11. gr. laga nr. 128/2009, sem breytti 60. gr.
+ laganna, er þeim aðilum sem atvinnurekstur stunda eða sjálfstæða starfsemi og
+selja þjónustu og fengið höfðu heimild ríkisskattstjóra til að miða tekjuuppgjör
+rekstrarins við innborganir vegna seldrar þjónustu, í stað þess að miða við unna
+og bókfærða þjónustu, í þeim tilvikum sem vinnuþáttur hinnar seldu þjónustu var
+   almennt yfir 70%, heimilt að færa til tekna með jöfnum hætti á þremur árum
+   uppsafnaða fjárhæð sem áður hafði verið frestað að færa til tekna, þ.e. á
+                      tekjuárunum 2010, 2011 og 2012.]^1)
+                              ^1)L. 165/2010, 19. gr.
+[XLIV. Þrátt fyrir 1.4. mgr. ákvæðis til bráðabirgða XXXVI í lögunum skal þeim
+rekstraraðilum sem fá eftirgefnar skuldir vegna greiðsluerfiðleika á árunum 2010
+og 2011 vera heimilt í skattskilum sínum að færa á milli tekjuáranna 2010 til og
+með 2014 þann hluta eftirgjafarinnar sem er umfram yfirfæranlegt rekstrartap og
+rekstrartap ársins, fyrningar og niðurfærslu. Skilyrði fyrir yfirfærslu skv. 1.
+ málsl. er að skattaðili hafi fyrnt að fullu að teknu tilliti til 42. gr. allar
+fyrnanlegar eignir sínar og nýtt mögulegar hámarksniðurfærslur á viðskiptakröfum
+ og vörubirgðum. Þá er skilyrði að arði sé ekki úthlutað vegna tekjuáranna 2010
+   til og með 2014. Ríkisskattstjóri getur heimilað skattaðila að taka þátt í
+samsköttun og sameiningu við aðra skattaðila eða skiptingu upp í fleiri félög að
+                      uppfylltum skilyrðum þessa ákvæðis.
+ Standi eftir í árslok 2014 eftirgjöf skulda sem hærri er en 500 millj. kr. er
+ skattaðila heimilt að færa það sem umfram er til tekna með jöfnum fjárhæðum á
+tekjuárunum 2015 til og með 2019. Sé eftirgjöf lægri en 500 millj. kr. í lok árs
+                        2014 færist hún ekki til tekna.
+Eftirgefnar skuldir sem á einhvern hátt tengjast refsiverðri háttsemi skattaðila
+                     skal tekjufæra án nokkurs frádráttar.
+       Að öðru leyti gildir 5.8. mgr. ákvæðis til bráðabirgða XXXVI.]^1)
+                              ^1)L. 165/2010, 19. gr.
+   [XLV. Þrátt fyrir brottfall 1. mgr. og 3. málsl. 3. mgr. 32. gr. skal þeim
+  aðilum sem keypt hafa framleiðslurétt í landbúnaði fyrir 1. janúar 2011, til
+hagnýtingar á framleiðsluárinu 2011, heimilt að færa þann stofnkostnað niður með
+jöfnum fjárhæðum á fimm árum, að frádreginni þeirri niðurfærslu og árafjölda sem
+                         þegar hefur átt sér stað.]^1)
+                              ^1)L. 165/2010, 19. gr.
 
 References
 
@@ -3627,50 +3736,49 @@ References
   17. file://1997138.html
   18. file://2010101.html#g36
   19. file://1994144.html
-  20. file://1995002.html
-  21. file://1994138.html
-  22. file://1991021.html
-  23. file://1995002.html
-  24. file://1994138.html
-  25. file://1995002.html
-  26. file://1994138.html
-  27. file://1990038.html
-  28. file://1940019.html#g109
-  29. file://1991022.html#g56
-  30. file://1991022.html#g59
-  31. file://2010077.html#g5
-  32. file://1987043.html#g4
-  33. file://1987043.html#g5
-  34. file://2010035.html#g11
-  35. file://2010035.html
-  36. file://2007100.html#g12
-  37. file://2007100.html#g13
-  38. file://2007100.html#g14
-  39. file://2003066.html
-  40. file://1982065.html
-  41. file://2006150.html#g5
-  42. file://1996094.html#g3
-  43. file://2008088.html#g234
-  44. file://1992030.html
-  45. file://1992030.html
-  46. file://2008088.html#g234
-  47. file://1992030.html
-  48. file://2008088.html#g234
-  49. file://1992030.html
-  50. file://2008088.html#g234
-  51. file://2001038.html#g6
-  52. file://2001038.html#g8
-  53. file://1992030.html#g8
-  54. file://1990046.html
-  55. file://1981075.html
+  20. file://1991021.html
+  21. file://1995002.html
+  22. file://1994138.html
+  23. file://1990038.html
+  24. file://1940019.html#g109
+  25. file://1991022.html#g56
+  26. file://1991022.html#g59
+  27. file://2002161.html#g101
+  28. file://2010077.html#g5
+  29. file://2010035.html#g11
+  30. file://2007100.html#g12
+  31. file://2007100.html#g13
+  32. file://2007100.html#g14
+  33. file://2003066.html
+  34. file://1982065.html
+  35. file://2006150.html#g5
+  36. file://1996094.html#g3
+  37. file://2008088.html#g234
+  38. file://1992030.html
+  39. file://1992030.html
+  40. file://2008088.html#g234
+  41. file://1992030.html
+  42. file://2008088.html#g234
+  43. file://1992030.html
+  44. file://2008088.html#g234
+  45. file://2001038.html#g6
+  46. file://2001038.html#g8
+  47. file://1992030.html#g8
+  48. file://1990046.html
+  49. file://1981075.html
+  50. file://2003090.html
+  51. file://2003090.html
+  52. file://2003090.html
+  53. file://1998087.html#g2
+  54. file://1999031.html
+  55. file://1998087.html#g2
   56. file://2003090.html
-  57. file://2003090.html
-  58. file://2003090.html
-  59. file://1998087.html#g2
-  60. file://1999031.html
-  61. file://1998087.html#g2
-  62. file://2003090.html
-  63. file://1988050.html#g42
-  64. file://2002161.html#g22
-  65. file://2009107.html
-  66. file://2009050.html
+  57. file://1988050.html#g42
+  58. file://2002161.html#g22
+  59. file://2009107.html
+  60. file://2009050.html
+  61. file://1992030.html
+  62. file://2006022.html#g22
+  63. file://1992021.html#g1
+  64. file://2003066.html
+  65. file://2003066.html

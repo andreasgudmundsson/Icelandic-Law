@@ -19,8 +19,8 @@
  fyrirmælum í 13. gr.), l. 37/2000 (tóku gildi 1. júlí 2000), l. 148/2001 (tóku
  gildi 1. jan. 2002), l. 131/2004 (tóku gildi 1. jan. 2005), l. 137/2008 (tóku
  gildi 12. des. 2008), l. 60/2009 (tóku gildi 30. maí 2009), l. 130/2009 (tóku
- gildi 30. des. 2009 nema 7.9. gr. og 13.42. gr. sem tóku gildi 1. jan. 2010)
-                   og l. 136/2009 (tóku gildi 1. jan. 2010).
+gildi 30. des. 2009 nema 7.9. gr. og 13.42. gr. sem tóku gildi 1. jan. 2010),
+l. 136/2009 (tóku gildi 1. jan. 2010) og l. 156/2010 (tóku gildi 1. jan. 2011).
 
                         1. gr. [Gjaldskyld ökutæki.]^1)
   Greiða skal til ríkissjóðs bifreiðagjald af bifreiðum sem skráðar eru hér á
@@ -36,17 +36,26 @@
     c. Vélknúið ökutæki sem aðallega er ætlað til fólks- eða vöruflutninga eða
          til að draga annað ökutæki og er búið beltum og eftir atvikum
          stýrimeiðum/stýrihjólum og er 400 kg að eigin þyngd eða meira.
-       d. Fjórhjól er fellur í vörulið 8703 í viðauka I við [1]tollalög, nr.
-  55/1987, með síðari breytingum, [og er 400 kg að eigin þyngd eða meira].^1)
+    d. [Bifhjól sem hvorki telst bifreið né torfærutæki, er aðallega ætlað til
+  fólks- eða vöruflutninga, er á tveimur hjólum, með eða án hliðarvagns, eða á
+      þremur eða fleiri hjólum og er 400 kg að eigin þyngd eða meira.]^2)
                                       ^1)
-                               ^1)L. 37/2000, 1. gr.
+                   ^1)L. 37/2000, 1. gr. ^2)L. 156/2010, 9. gr.
                          2. gr. [Fjárhæð gjaldsins.]^1)
- [Bifreiðagjald á hverju gjaldtímabili er [9,30 kr.]^2) fyrir hvert kg af eigin
- þyngd bifreiðar allt að 1.000 kg, [12,55 kr.]^2) fyrir hvert kg af eigin þyngd
- bifreiðar umfram það að 3.000 kg, en [3.100 kr.]^2) af hverju byrjuðu tonni af
-  eigin þyngd bifreiðar umfram það. Þó skal gjaldið ekki vera lægra en [4.650
-      kr.]^2) og ekki hærra en [56.074 kr.]^2) á hverju gjaldtímabili.]^3)
-        ^1)L. 37/2000, 2. gr. ^2)L. 130/2009, 6. gr. ^3)L. 131/2004, 1. gr.
+  [Bifreiðagjald á hverju gjaldtímabili miðast við skráða losun koltvísýrings
+    (CO[2]) viðkomandi ökutækis. Skráð losun er mæld í grömmum á hvern ekinn
+                                   kílómetra.
+   Bifreiðagjald ökutækis á hverju gjaldtímabili, að eigin þyngd 3.500 kg eða
+      minna, skal vera 5.000 kr. fyrir losun allt að 121 gramms af skráðri
+kolefnislosun ökutækis en 120 kr. fyrir hvert gramm af skráðri losun umfram það.
+ Liggi upplýsingar um skráða losun koltvísýrings viðkomandi ökutækis ekki fyrir
+skal losun ökutækis ákvörðuð sem 0,12 grömm á hvert kíló skráðrar eigin þyngdar
+             ökutækisins að viðbættum 50 grömmum af koltvísýringi.
+Bifreiðagjald ökutækis, að eigin þyngd meira en 3.500 kg, á hverju gjaldtímabili
+    er 46.880 kr. að viðbættum 2 kr. fyrir hvert kíló skráðrar eigin þyngdar
+ökutækis umfram 3.500 kg. Bifreiðagjald ökutækis, að eigin þyngd meira en 3.500
+     kg, skal þó ekki vera hærra en 73.800 kr. á hverju gjaldtímabili.]^2)
+                   ^1)L. 37/2000, 2. gr. ^2)L. 156/2010, 10. gr.
             3. gr. [Gjalddagar, eindagar og gjaldskyldir aðilar.]^1)
    Gjalddagar bifreiðagjalds eru 1. janúar ár hvert vegna gjaldtímabilsins 1.
  janúar til 30. júní og 1. júlí ár hvert vegna gjaldtímabilsins 1. júlí til 31.
@@ -79,7 +88,7 @@ skráningarmerkis. Gjald vegna skráðra bifreiða sem skráningarmerki eru sett
    bensínstyrk eða umönnunargreiðslur vegna örorku barna frá Tryggingastofnun
   ríkisins. Jafnframt eiga þeir öryrkjar sem notið hafa niðurfellingar skv. 1.
  málsl. rétt á niðurfellingu ef þeir hafa öðlast rétt til ellilífeyrisgreiðslna
-eða dveljast á stofnun, sbr. [2]43. gr. laga nr. 117/1993, um almannatryggingar.
+eða dveljast á stofnun, sbr. [1]43. gr. laga nr. 117/1993, um almannatryggingar.
  Sama rétt eiga foreldrar langveikra og fjölfatlaðra barna sem vistuð eru utan
  heimilis ef réttur til umönnunargreiðslna héldist óskertur væri barnið heima.
      Réttur til niðurfellingar bifreiðagjalds vegna þeirra sem fá greiddan
@@ -104,8 +113,11 @@ atvinnurekstri. Ef sá sem á rétt á niðurfellingu bifreiðagjalds á fleiri 
  Jafnframt skal ríkisskattstjóri fella niður bifreiðagjald af ónýtum bifreiðum
            sem sannanlega hafa ekki verið í notkun á gjaldtímabilinu.
        e. Bifreiðir sem tímabundið hafa verið fluttar úr landi. Framvísa ber
-útflutnings- og innflutningsskýrslum til sönnunar á tímabundnum útflutningi.]^1)
-                               ^1)L. 37/2000, 4. gr.
+  útflutnings- og innflutningsskýrslum til sönnunar á tímabundnum útflutningi.
+   [f. Ökutæki sem framleidd eru og skráð með metan sem aðalorkugjafa eða hefur
+     verið breytt þannig að þau geti nýtt metan og breytingin hlotið vottun
+    skoðunarstöðvar skulu greiða lágmark bifreiðagjalds skv. 2. gr.]^1)]^2)
+                   ^1)L. 156/2010, 11. gr. ^2)L. 37/2000, 4. gr.
                     [5. gr.]^1) [Aðalskoðun og skráning.]^1)
  Við árlega aðalskoðun bifreiðar, sem gjaldskyld er samkvæmt þessum lögum, skal
    eigandi hennar eða umráðamaður færa sönnur á að greitt hafi verið af henni
@@ -139,13 +151,13 @@ taka af henni skráningarmerki og afhenda þau lögreglustjóra. Lögreglustjór
    Greiðanda bifreiðagjalds er heimilt að kæra til ríkisskattstjóra álagningu
  bifreiðagjalds skv. 6. gr. innan þrjátíu daga frá því að gjaldið var ákvarðað.
 Úrskurði ríkisskattstjóra skv. 1. mgr. má skjóta til yfirskattanefndar samkvæmt
-                ákvæðum [3]laga nr. 30/1992, um yfirskattanefnd.
-Um málsmeðferð að öðru leyti fer samkvæmt [4]lögum nr. 3/1987, um fjáröflun til
+                ákvæðum [2]laga nr. 30/1992, um yfirskattanefnd.
+Um málsmeðferð að öðru leyti fer samkvæmt [3]lögum nr. 3/1987, um fjáröflun til
                      vegagerðar, með síðari breytingum.]^1)
                                ^1)L. 37/2000, 8. gr.
                          [8. gr.]^1) [Ýmis ákvæði.]^1)
   Sé bifreiðagjald ekki greitt í síðasta lagi á eindaga skal greiða ríkissjóði
- dráttarvexti, sbr. [5]III. kafla laga nr. 25/1987, af því sem ógreitt er talið
+ dráttarvexti, sbr. [4]III. kafla laga nr. 25/1987, af því sem ógreitt er talið
                              frá og með gjalddaga.
                                ^1)L. 37/2000, 7. gr.
    [9. gr.]^1) Fjármálaráðherra er heimilt að kveða nánar á um framkvæmd laga
@@ -159,8 +171,7 @@ Um málsmeðferð að öðru leyti fer samkvæmt [4]lögum nr. 3/1987, um fjár�
 References
 
    Visible links
-   1. file://1987055.html
-   2. file://1993117.html
-   3. file://1992030.html
-   4. file://1987003.html
-   5. file://1987025.html
+   1. file://1993117.html
+   2. file://1992030.html
+   3. file://1987003.html
+   4. file://1987025.html

@@ -47,7 +47,10 @@ nema brbákv. VII sem tók gildi 21. júní 2008), l. 140/2008 (tóku gildi 16. 
 l. 64/2009 (tóku gildi 1. mars 2009, birt í Stjtíð. 18. júní 2009), l. 130/2009
  (tóku gildi 30. des. 2009 nema 7.9. gr. og 13.42. gr. sem tóku gildi 1. jan.
  2010), l. 136/2009 (tóku gildi 1. jan. 2010), l. 14/2010 (tóku gildi 13. mars
-                2010) og l. 25/2010 (tóku gildi 1. apríl 2010).
+ 2010), l. 25/2010 (tóku gildi 1. apríl 2010), l. 163/2010 (tóku gildi 1. jan.
+  2011 nema b-liður 4. gr. og 12. gr. sem tóku gildi 31. des. 2010 en koma til
+ framkvæmda 1. maí 2011) og l. 165/2010 (tóku gildi og komu til framkvæmda skv.
+                             fyrirmælum í 69. gr.).
 
                                  Upphafsákvæði.
 1. gr. Greiða skal í ríkissjóð virðisaukaskatt af viðskiptum innan lands á öllum
@@ -174,10 +177,10 @@ virðisaukaskatt af framleiðsluverði á mat sem tilreiddur er í mötuneytum �
 listaverkin undir tollskrárnúmer 9701.10009703.0000, svo og uppboðshaldarar að
      því er varðar sölu þessara verka á listmunauppboðum, sbr. [10]lög nr.
                                 36/1987.^1)]^2)
-      3. Þeir sem selja skattskylda vöru eða þjónustu fyrir minna en [500.000
-                                 kr.]^3) á ári.
+     3. [Þeir sem selja skattskylda vöru eða þjónustu fyrir 1.000.000 kr. eða
+       minna á hverju 12 mánaða tímabili frá því að starfsemi hefst.]^3)
                               4. [Skólamötuneyti.]^2)
-        ^1)Nú [11]l. 28/1998. ^2)L. 119/1989, 2. gr. ^3)L. 45/2006, 2. gr.
+        ^1)Nú [11]l. 28/1998. ^2)L. 119/1989, 2. gr. ^3)L. 163/2010, 1. gr.
  5. gr. Hver sá, sem skattskyldur er skv. 3. gr., sbr. 4. gr., skal ótilkvaddur
 og eigi síðar en átta dögum áður en starfsemi hefst tilkynna atvinnurekstur sinn
 eða starfsemi til skráningar hjá [ríkisskattstjóra].^1) Breytingar, sem verða á
@@ -198,11 +201,16 @@ skattskyldrar vöru og þjónustu eru að jafnaði lægri en kostnaður við að
 varanlegra rekstrarfjármuna. Þó á aðili rétt á skráningu ef hann sýnir fram á að
 kaup á fjárfestingarvörum standa í beinu sambandi við [sölu á skattskyldri vöru
           eða þjónustu í atvinnuskyni á síðari rekstrartímabilum].^3)
-Fjármálaráðherra er heimilt að setja í reglugerð^4) nánari ákvæði um skráningu,
+[Ríkisskattstjóra er heimilt að synja aðila um skráningu á virðisaukaskattsskrá
+   liggi fyrir að opinber gjöld hans séu áætluð á einhverju ári af næstliðnum
+          þremur tekjuárum á undan því ári sem sótt er um skráningu á
+                           virðisaukaskattsskrá.]^4)
+Fjármálaráðherra er heimilt að setja í reglugerð^5) nánari ákvæði um skráningu,
 þar með talið um afturvirka skráningu til allt að sex ára og um tryggingu vegna
-                     skráningar skv. 2. málsl. 5. mgr.]^5)
-    ^1)L. 136/2009, 52. gr. ^2)L. 119/1989, 3. gr. ^3)L. 55/1997, 4. gr. ^4)Rg.
-           515/1996, sbr. 378/1997 og 215/2006. ^5)L. 40/1995, 1. gr.
+                     skráningar skv. 2. málsl. 5. mgr.]^6)
+    ^1)L. 136/2009, 52. gr. ^2)L. 119/1989, 3. gr. ^3)L. 55/1997, 4. gr. ^4)L.
+ 163/2010, 2. gr. ^5)Rg. 515/1996, sbr. 378/1997 og 215/2006. ^6)L. 40/1995, 1.
+                                      gr.
 [5. gr. A. [Ríkisskattstjóri]^1) getur heimilað að tvö eða fleiri hlutafélög og
 einkahlutafélög verði samskráð. Skilyrði samskráningar eru að eigi minna en 90%
  hlutafjár í dótturfélögum sé í eigu móðurfélagsins sem óskar samskráningar eða
@@ -288,17 +296,18 @@ gangverð ekki fyrir skal miða skattverð við reiknað útsöluverð þar sem 
               ^1)L. 45/2006, 3. gr. ^2)Augl. B 8/1994, sbr. 405/1997.
   9. gr. Við viðskipti milli skyldra eða tengdra aðila skal miða skattverð við
          almennt gangverð í sams konar viðskiptum milli ótengdra aðila.
-  10. gr. [Við sölu notaðra vélknúinna ökutækja, sem seljandi hefur keypt til
-endursölu í atvinnuskyni, er honum heimilt að miða skattverð við [79,68%]^1) af
-  mismun innkaupsverðs og söluverðs ökutækis að meðtöldum virðisaukaskatti. Sé
-              söluverð lægra en kaupverð reiknast enginn skattur.
+ 10. gr. [Við sölu notaðra [skráningarskyldra]^1) ökutækja, sem seljandi hefur
+   keypt til endursölu í atvinnuskyni, er honum heimilt að miða skattverð við
+     [79,68%]^2) af mismun innkaupsverðs og söluverðs ökutækis að meðtöldum
+    virðisaukaskatti. Sé söluverð lægra en kaupverð reiknast enginn skattur.
   [Bílaleigum og tryggingafélögum, sem vegna starfsemi sinnar hafa keypt notuð
-ökutæki, er heimilt að ákvarða skattverð skv. 1. mgr. við endursölu þeirra.]^2)
+ökutæki, er heimilt að ákvarða skattverð skv. 1. mgr. við endursölu þeirra.]^3)
  Sé skattverð notaðra ökutækja ákvarðað með þeim hætti, sem lýst er í 1. og 2.
  mgr., má ekki tilgreina fjárhæð virðisaukaskatts á reikningi eða á annan hátt
     þannig að hægt sé að reikna út fjárhæð virðisaukaskattsins, hvorki vegna
-       sölunnar til endurseljandans né vegna endursölunnar sjálfrar.]^3)
-       ^1)L. 130/2009, 13. gr. ^2)L. 40/1995, 2. gr. ^3)L. 122/1993, 17. gr.
+       sölunnar til endurseljandans né vegna endursölunnar sjálfrar.]^4)
+    ^1)L. 163/2010, 3. gr. ^2)L. 130/2009, 13. gr. ^3)L. 40/1995, 2. gr. ^4)L.
+                               122/1993, 17. gr.
 
                           IV. kafli. Skattskyld velta.
  11. gr. Til skattskyldrar veltu skráðs aðila telst öll sala eða afhending vöru
@@ -351,9 +360,13 @@ Jafnframt er sala á þjónustu til aðila sem hvorki hafa búsetu né starfsst�
                  svo og framsal annarra sambærilegra réttinda,
                               b. auglýsingaþjónusta,
         c. ráðgjafarþjónusta, verkfræðiþjónusta, lögfræðiþjónusta, þjónusta
-   endurskoðenda og önnur sambærileg sérfræðiþjónusta, þó ekki vinna við eða
-         þjónusta sem varðar lausafjármuni eða fasteignir hér á landi,
-             d. tölvuþjónusta, önnur gagnavinnsla og upplýsingamiðlun,
+  endurskoðenda og önnur sambærileg sérfræðiþjónusta, [sem og gagnavinnsla og
+ upplýsingamiðlun],^5) þó ekki vinna við eða þjónusta sem varðar lausafjármuni
+                          eða fasteignir hér á landi,
+       d. [rafrænt afhent þjónusta; þjónusta þessi telst ávallt nýtt þar sem
+kaupandi þjónustunnar hefur búsetu eða starfsstöð; sama gildir um sölu gagnavera
+ á hvers kyns blandaðri þjónustu til kaupenda sem búsettir eru erlendis og hafa
+                     ekki fasta starfsstöð hér á landi],^5)
         e. kvaðir og skyldur varðandi atvinnu- eða framleiðslustarfsemi eða
             hagnýtingu réttinda sem kveðið er á um í þessum tölulið,
                                  f. atvinnumiðlun,
@@ -361,10 +374,10 @@ Jafnframt er sala á þjónustu til aðila sem hvorki hafa búsetu né starfsst�
     h. þjónusta milligöngumanna sem fram koma í nafni annars og fyrir reikning
    annars að því er varðar sölu eða afhendingu þjónustu sem um ræðir í þessum
                                     tölulið,
-                          i. fjarskiptaþjónusta.]^5)]^1)
+                          i. fjarskiptaþjónusta.]^6)]^1)
    11. [Þjónusta sem felst í endurgreiðslu á virðisaukaskatti til aðila búsettra
-                                 erlendis.]^5)
-Fjármálaráðherra getur í reglugerð^6) sett nánari skilyrði fyrir undanþágum skv.
+                                 erlendis.]^6)
+Fjármálaráðherra getur í reglugerð^7) sett nánari skilyrði fyrir undanþágum skv.
                                   1. mgr. ^1)
    Til skattskyldrar veltu telst ekki sala á vörum sem keyptar hafa verið eða
          notaðar í þeim tilgangi eingöngu er um ræðir í 3. mgr. 16. gr.
@@ -372,12 +385,13 @@ Fjármálaráðherra getur í reglugerð^6) sett nánari skilyrði fyrir undanþ
 skattskyldrar veltu þegar yfirfærslan á sér stað í sambandi við eigendaskipti á
    fyrirtæki eða hluta þess og hinn nýi eigandi hefur með höndum skráðan eða
  skráningarskyldan rekstur samkvæmt lögum þessum. Við slíka sölu skal seljandi
- tilkynna [ríkisskattstjóra]^7) um eigendaskipti og söluandvirði eigi síðar en
+ tilkynna [ríkisskattstjóra]^8) um eigendaskipti og söluandvirði eigi síðar en
                  átta dögum eftir að eignayfirfærsla fór fram.
     ^1)L. 55/1997, 5. gr. ^2)L. 111/1992, 48. gr. ^3)L. 119/1989, 6. gr. ^4)L.
-  122/1993, 18. gr. ^5)L. 115/1997, 1. gr. ^6)Rg. 500/1989, sbr. 549/1993. Rg.
-563/1989. Rg. 194/1990, sbr. 151/1993, 179/1993, 86/1994, 346/1995, 275/1996 og
-                       480/2002. ^7)L. 136/2009, 54. gr.
+122/1993, 18. gr. ^5)L. 163/2010, 4. gr. Ákvæði d-liðar 10. tölul. 1. mgr. kemur
+   til framkvæmda 1. maí 2011 skv. 16. gr. s.l. ^6)L. 115/1997, 1. gr. ^7)Rg.
+ 500/1989, sbr. 549/1993. Rg. 563/1989. Rg. 194/1990, sbr. 151/1993, 179/1993,
+        86/1994, 346/1995, 275/1996 og 480/2002. ^8)L. 136/2009, 54. gr.
 
                      V. kafli. Uppgjör skattskyldrar veltu.
     13. gr. Skattskyld velta á hverju uppgjörstímabili, sbr. 24. gr., telst
@@ -444,8 +458,8 @@ Skattskyld vara og þjónusta, sem eigandi tekur út úr eigin fyrirtæki, telst
                     VII. kafli. Uppgjör á virðisaukaskatti.
 15. gr. Skattskyldir aðilar skv. 3. gr. skulu greiða í ríkissjóð mismun útskatts
        og innskatts hvers uppgjörstímabils, sbr. 24. gr. Sé innskattur á
-uppgjörstímabili hærri en útskattur skal ríkissjóður endurgreiða mismuninn, sbr.
-                                    26. gr.
+  uppgjörstímabili hærri en útskattur skal ríkissjóður endurgreiða mismuninn,
+                               [sbr. 25. gr.]^1)
  Útskattur merkir í lögum þessum þann virðisaukaskatt sem fellur á skattskylda
           sölu eða afhendingu skattaðila á tímabilinu, sbr. V. kafla.
 Innskattur merkir í lögum þessum þann virðisaukaskatt sem á tímabilinu fellur á
@@ -454,20 +468,23 @@ kaup skattaðila á skattskyldum vörum og þjónustu til nota í rekstrinum, sb
      Innskattur á uppgjörstímabili er sá virðisaukaskattur sem fram kemur á
   reikningum þeirra sem selt hafa hinum skattskylda aðila á tímabilinu, svo og
       virðisaukaskattur af innflutningi hans á tímabilinu, sbr. XI. kafla.
+                              ^1)L. 163/2010, 5. gr.
    16. gr. Til innskatts á hverju uppgjörstímabili, sbr. 24. gr., skal telja
 virðisaukaskatt af aðkeyptum rekstrarfjármunum, vörum, vinnu, þjónustu og öðrum
  aðföngum sem eingöngu varða sölu skattaðila á vörum og skattskyldri þjónustu.
- Fjármálaráðherra er heimilt að setja reglur^1) um að til innskatts megi telja
+   [Skilyrði innskattsfrádráttar er að seljandi vöru og þjónustu sé skráður á
+    virðisaukaskattsskrá á því tímamarki þegar viðskipti eiga sér stað.]^1)
+ Fjármálaráðherra er heimilt að setja reglur^2) um að til innskatts megi telja
     ákveðinn hluta af virðisaukaskatti innkaupa sem ekki varða eingöngu sölu
  skattaðila á vörum og skattskyldri þjónustu. [Jafnframt er ráðherra heimilt að
    kveða á um í reglugerð að aðilar, sem kaupa notuð ökutæki til niðurrifs í
  atvinnuskyni, geti reiknað sér innskatt sem skráður er á sérstakan reikning og
- nemur [20,32%]^2) af kaupverði vörunnar.]^3) Ráðherra getur einnig sett reglur
+ nemur [20,32%]^3) af kaupverði vörunnar.]^4) Ráðherra getur einnig sett reglur
    um leiðréttingu á frádrætti vegna innskatts þegar breyting verður á notkun
   varanlegra rekstrarfjármuna, þar á meðal fasteigna, sem hefur í för með sér
 breytingu á frádráttarrétti. Leiðréttingin getur tekið til allt að fimm ára frá
  því að fjármunanna var aflað. Varðandi fasteignir getur leiðréttingin þó tekið
- til allt að [tuttugu]^4) ára. Í reglum um slíkar leiðréttingar getur ráðherra
+ til allt að [tuttugu]^5) ára. Í reglum um slíkar leiðréttingar getur ráðherra
  haft hliðsjón af þeim verðbreytingum sem orðið hafa frá því að fjármunanna var
                                      aflað.
   Til innskatts er ekki heimilt að telja virðisaukaskatt af aðföngum er varða
@@ -481,10 +498,10 @@ breytingu á frádráttarrétti. Leiðréttingin getur tekið til allt að fimm 
       6. [Öflun, rekstur og leigu fólksbifreiða og hópbifreiða. Sama á við um
   sendi- og vörubifreiðar með leyfða heildarþyngd 5.000 kg eða minna sem ekki
  uppfylla skilyrði um burðargetu og lengd farmrýmis er fjármálaráðherra setur í
-                                 reglugerð.]^5)
+                                 reglugerð.]^6)
  [Þeir sem skattskyldir eru á grundvelli 2. mgr. 3. gr. mega einungis telja til
  innskatts virðisaukaskatt af þeim aðföngum sem eingöngu varða hina skattskyldu
-                         þætti í starfsemi þeirra.]^5)
+                         þætti í starfsemi þeirra.]^6)
  Þegar vörur, sem notaðar eru af eiganda fyrirtækis, teljast til skattskyldrar
 veltu fyrirtækisins skv. 1. mgr. 11. gr. má telja virðisaukaskatt af innkaupunum
  til innskatts. Hið sama gildir um skattskyldar vörur og þjónustu sem fyrirtæki
@@ -495,20 +512,20 @@ sem hafa með höndum sölu eða leigu bifreiða, heimilt að telja skatt af að
                       vegna þeirra viðskipta sem innskatt.
  [Skattskyldum aðilum er skylt, eftir nánari reglum sem fjármálaráðherra setur
  með reglugerð, að auðkenna ökutæki sín þegar virðisaukaskattur af öflun þeirra
-       eða leigu telst til innskatts.]^6) [Hafi aðili talið til innskatts
+       eða leigu telst til innskatts.]^7) [Hafi aðili talið til innskatts
    virðisaukaskatt af öflun eða leigu ökutækis en ökutækið er síðar tekið til
 annarrar notkunar þar sem honum er heimill minni eða enginn frádráttarréttur ber
-  honum að tilkynna það til [ríkisskattstjóra]^7) áður en notkun er breytt og
- fjarlægja auðkenni sem sett hafa verið á ökutækið samkvæmt þessari grein.]^8)
+  honum að tilkynna það til [ríkisskattstjóra]^8) áður en notkun er breytt og
+ fjarlægja auðkenni sem sett hafa verið á ökutækið samkvæmt þessari grein.]^9)
  [Þeir aðilar, sem um ræðir í 1. mgr. 10. gr., geta við skil á virðisaukaskatti
-dregið frá reiknuðum útskatti á hverju uppgjörstímabili [20,32%]^2) af neikvæðum
+dregið frá reiknuðum útskatti á hverju uppgjörstímabili [20,32%]^3) af neikvæðum
         mismun á söluverði og innkaupsverði seldra ökutækja á viðkomandi
  uppgjörstímabili, enda eigi formskilyrði 3. mgr. 10. gr. við um söluna að öðru
-                                   leyti.]^9)
-     ^1)Rg. 192/1993, sbr. 532/1993, 306/1994, 18/2001, 1044/2006, 863/2009 og
-1069/2009. ^2)L. 130/2009, 16. gr. ^3)L. 122/1993, 20. gr. ^4)L. 45/2006, 4. gr.
-  ^5)L. 105/2000, 4. gr. ^6)L. 111/1992, 51. gr. ^7)L. 136/2009, 54. gr. ^8)L.
-                     149/1996, 2. gr. ^9)L. 40/1995, 3. gr.
+                                  leyti.]^10)
+     ^1)L. 163/2010, 6. gr. ^2)Rg. 192/1993, sbr. 532/1993, 306/1994, 18/2001,
+ 1044/2006, 863/2009 og 1069/2009. ^3)L. 130/2009, 16. gr. ^4)L. 122/1993, 20.
+ gr. ^5)L. 45/2006, 4. gr. ^6)L. 105/2000, 4. gr. ^7)L. 111/1992, 51. gr. ^8)L.
+        136/2009, 54. gr. ^9)L. 149/1996, 2. gr. ^10)L. 40/1995, 3. gr.
 
                         VIII. kafli. Tilhögun bókhalds.
  17. gr. Allir, sem skattskyldir eru samkvæmt lögum þessum, skulu auk þess sem
@@ -636,12 +653,16 @@ alla virðisaukaskattsskylda aðila og birgðatalningu, notkun sjóðvéla og an
        þessum. [Fjármálaráðherra ákveður í reglugerð^1) um greiðslustaði,
  greiðslufyrirkomulag og efni skýrslu, þar á meðal um rafræn skil á skýrslu og
  greiðslu.]^2) [Ef virðisaukaskattsskyld velta skráningarskyldra aðila er minni
-en [1.400.000 kr.]^3) á ári er ráðherra heimilt að kveða í reglugerð á um lengra
+en [3.000.000 kr.]^3) á ári er ráðherra heimilt að kveða í reglugerð á um lengra
      uppgjörstímabil og annað greiðslufyrirkomulag en að framan getur.]^4)
 Virðisaukaskatti ásamt virðisaukaskattsskýrslu skal skila eigi síðar en á fimmta
  degi annars mánaðar eftir lok uppgjörstímabils vegna viðskipta á því tímabili.
    Beri gjalddaga upp á helgidag eða almennan frídag færist gjalddagi á næsta
-                              virkan dag á eftir.
+      virkan dag á eftir. [Virðisaukaskattsskýrslu skal skila rafrænt til
+  ríkisskattstjóra á því formi sem hann ákveður. Ríkisskattstjóri getur veitt
+ heimild til eins árs í senn til þess að skila virðisaukaskattsskýrslu á pappír
+ef gildar ástæður eru fyrir hendi og metur hann í hverju tilviki fyrir sig hvað
+                telja skuli gildar ástæður í þessu sambandi.]^3)
        Sé innskattur á einhverju uppgjörstímabili hærri en útskattur skal
 skráningarskyldur aðili senda [ríkisskattstjóra]^5) innan sömu tímamarka skýrslu
                        í því formi er um getur í 1. mgr.
@@ -665,7 +686,7 @@ margþættan atvinnurekstur, um að skila sérstakri skýrslu fyrir hverja sjál
   semja ársreikning í erlendum gjaldmiðli skv. 11. gr. A laga um ársreikninga
         skulu byggjast á upprunalegum fjárhæðum í íslenskum krónum.]^8)
       ^1)Rg. 667/1995, sbr. 588/1996, 375/1997, 134/1999, 741/2001, 69/2004,
-   1149/2006 og 590/2008. ^2)L. 105/2000, 5. gr. ^3)L. 55/1997, 7. gr. ^4)L.
+   1149/2006 og 590/2008. ^2)L. 105/2000, 5. gr. ^3)L. 163/2010, 7. gr. ^4)L.
 122/1993, 22. gr. ^5)L. 136/2009, 54. gr. ^6)L. 14/2007, 3. gr. Þeir aðilar sem
 hafa heimild til að nota skemmra uppgjörstímabil en einn mánuð í samræmi við 2.
  málsl. 4. mgr. [13]24. gr. laga nr. 50/1988, um virðisaukaskatt, skulu frá 1.
@@ -691,21 +712,24 @@ einstakir liðir þeirra eru í ósamræmi við lög þessi eða fyrirmæli sem 
    ríkissjóðs ásamt verðbótum, álagi og dráttarvöxtum skal skuldajafna á móti
                      endurgreiðslum samkvæmt lögum þessum.
  Hafi skýrslu verið skilað á tilskildum tíma skal endurgreiðsla fara fram innan
-  fimmtán daga frá lokum skilafrests. Endurgreiðsla má þó aðeins fara fram að
-    skattákvörðun liggi fyrir vegna fyrri tímabila. Berist skýrsla eftir lok
-     skilafrests skal endurgreiðsla fara fram innan fimmtán daga frá því að
+[tuttugu og eins dags]^2) frá lokum skilafrests. Endurgreiðsla má þó aðeins fara
+  fram að skattákvörðun liggi fyrir vegna fyrri tímabila. [Með skattákvörðun í
+þessu sambandi er ekki átt við áætlanir á grundvelli 2. málsl. 2. mgr. þessarar
+ greinar og 1. og 2. mgr. 26. gr.]^2) Berist skýrsla eftir lok skilafrests skal
+       endurgreiðsla fara fram innan [tuttugu og eins dags]^2) frá því að
 [ríkisskattstjóri]^1) kveður upp úrskurð skv. 29. gr. Geti [ríkisskattstjóri]^1)
      ekki vegna aðstæðna aðila gert nauðsynlegar athuganir á gögnum þeim er
 skýrslugjöfin byggist á, þar með talið að aðili hafi lagt fram röng eða villandi
     gögn [eða tilkynnt skattrannsóknarstjóra ríkisins grun um skattsvik eða
-  refsiverð brot á lögum um bókhald og ársreikninga skv. 6. mgr. 26. gr.],^2)
+  refsiverð brot á lögum um bókhald og ársreikninga skv. 6. mgr. 26. gr.],^3)
    framlengist framangreindur frestur um þann tíma sem slíkar aðstæður ríkja.
    Komi í ljós að endurgreiðsla samkvæmt þessari grein hafi verið of há skal
  [ríkisskattstjóri]^1) þegar í stað tilkynna aðila og innheimtumanni ríkissjóðs
           þar um. Aðila ber eigi síðar en sjö dögum eftir tilkynningu
  [ríkisskattstjóra]^1) um of háa endurgreiðslu að greiða innheimtumanni það sem
-                               ofgreitt var.]^3)
-       ^1)L. 136/2009, 54. gr. ^2)L. 55/1997, 8. gr. ^3)L. 149/1996, 3. gr.
+                               ofgreitt var.]^4)
+    ^1)L. 136/2009, 54. gr. ^2)L. 163/2010, 8. gr. ^3)L. 55/1997, 8. gr. ^4)L.
+                                149/1996, 3. gr.
    26. gr. [Komi í ljós annmarkar á virðisaukaskattsskýrslu, fyrir eða eftir
  ákvörðun skv. 25. gr., eða telji [ríkisskattstjóri]^1) frekari skýringa þörf á
 einhverju atriði varðandi virðisaukaskattsskil aðila skal hann skriflega skora á
@@ -785,6 +809,38 @@ og geta skattyfirvöld metið það í hverju tilviki hvað telja skuli gildar �
                                       ^1)
      ^1)L. 149/1996, 5. gr. ^2)L. 175/2006, 4. gr. ^3)L. 55/1997, 9. gr. ^4)L.
                                 40/1995, 6. gr.
+ [27. gr. A. Hafi skattaðili sætt áætlun virðisaukaskatts skv. 25. eða 26. gr.
+   samfellt í tvö ár eða lengur er ríkisskattstjóra heimilt að fella hann af
+                             virðisaukaskattsskrá.
+ Skattaðili sem hefur verið felldur af virðisaukaskattsskrá skv. 1. mgr. getur
+          ekki skráð sig aftur nema hann hafi gert fullnægjandi skil á
+   virðisaukaskattsskýrslum og virðisaukaskatti. Í stað fullnægjandi skila á
+   virðisaukaskatti getur ríkisskattstjóri heimilað skattaðila að leggja fram
+      tryggingu í formi skilyrðislausrar sjálfskuldarábyrgðar banka fyrir
+    endurákvörðuðum virðisaukaskatti skv. 1. málsl. þessarar málsgreinar, að
+               viðbættu álagi, vöxtum og öðrum innheimtukostnaði.
+ Skattaðili sem hefur verið skráður að nýju á virðisaukaskattsskrá skv. 2. mgr.
+skal nota hvern almanaksmánuð sem uppgjörstímabil í að minnsta kosti tvö ár frá
+ og með því tímabili sem skráning á sér stað að nýju og skal gjalddagi vera 15
+dögum eftir að uppgjörstímabili lýkur. Hafi skattaðili gert fullnægjandi skil á
+ þessu tímabili skal hann að því loknu standa skil á virðisaukaskatti samkvæmt
+                            almennum reglum 24. gr.
+Ákvæði 3. mgr. gilda einnig um nýskráningu á virðisaukaskattsskrá skv. 5. gr. og
+  endurskráningu skv. 2. mgr. þessarar greinar ef skattaðili sjálfur, eigandi,
+framkvæmdastjóri eða stjórnarmaður, sé um félag að ræða, hefur orðið gjaldþrota
+         á næstliðnum fimm árum fyrir skráningu á virðisaukaskattsskrá.
+ Fjármálaráðherra er heimilt í reglugerð að kveða nánar á um framkvæmd þessarar
+                                  greinar.]^1)
+                              ^1)L. 163/2010, 9. gr.
+[27. gr. B. Berist virðisaukaskattsskýrsla eftir að skattaðili hefur sætt áætlun
+  skal ríkisskattstjóri leggja á hann gjald að fjárhæð 5.000 kr. fyrir hverja
+ virðisaukaskattsskýrslu sem hefur ekki verið skilað á réttum tíma skv. 2. mgr.
+                                    24. gr.
+  Fella má niður gjald skv. 1. mgr. ef skattaðili færir gildar ástæður sér til
+málsbóta og metur ríkisskattstjóri það í hverju tilviki hvað skuli telja gildar
+                           ástæður í þessu sambandi.
+Innheimtumaður ríkissjóðs annast innheimtu gjaldsins sem rennur í ríkissjóð.]^1)
+                              ^1)L. 163/2010, 9. gr.
 28. gr. Sé virðisaukaskattur ekki greiddur innan mánaðar frá gjalddaga, sbr. 24.
 gr., skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er. Sama gildir
                     ef endurgreiðsla hefur verið of há. ^1)
@@ -966,15 +1022,18 @@ Vegna skatteftirlits samkvæmt lögum þessum getur [ríkisskattstjóri og menn,
 virðisaukaskattsskyldra aðila og birgðageymslum og heimild til að taka skýrslur
    af hverjum þeim sem ætla má að geti gefið upplýsingar er máli skipta. Sömu
 heimildir hefur [skattrannsóknarstjóri ríkisins]^2) vegna rannsókna skv. 39. gr.
+ [Skattrannsóknarstjóri ríkisins getur í þágu rannsóknar máls leitað úrskurðar
+   héraðsdóms um leit og haldlagningu gagna á heimilum og öðrum stöðum sem 2.
+                           málsl. tekur ekki til.]^3)
   [Skattyfirvöld hafa enn fremur þær heimildir sem um getur í 3. mgr. gagnvart
              þeim aðilum sem ekki eru virðisaukaskattsskyldir.]^2)
      Nú verður ágreiningur um skyldu aðila samkvæmt þessari grein og getur
    ríkisskattstjóri [eða skattrannsóknarstjóri ríkisins]^2) þá leitað um hann
       úrskurðar [héraðsdóms, en farið skal þá eftir reglum laga um meðferð
-[sakamála]^3) eftir því sem á við].^4) Gegni einhver ekki upplýsingaskyldu sinni
-                   má vísa máli til [rannsóknar lögreglu].^3)
-    ^1)L. 136/2009, 57. gr. ^2)L. 111/1992, 56. gr. ^3)[26]L. 88/2008, 234. gr.
-                             ^4)L. 92/1991, 99. gr.
+[sakamála]^4) eftir því sem á við].^5) Gegni einhver ekki upplýsingaskyldu sinni
+                   má vísa máli til [rannsóknar lögreglu].^4)
+      ^1)L. 136/2009, 57. gr. ^2)L. 111/1992, 56. gr. ^3)L. 165/2010, 35. gr.
+               ^4)[26]L. 88/2008, 234. gr. ^5)L. 92/1991, 99. gr.
                                   39. gr. ^1)
 [Skattrannsóknarstjóri ríkisins]^2) getur hafið rannsókn á hverju því atriði er
 varðar skattskil samkvæmt lögum þessum. [Hann skal annast rannsóknir í málum sem
@@ -1062,11 +1121,12 @@ lögreglu]^2) af sjálfsdáðum, svo og eftir ósk sökunautar ef hann vill eigi
  [yfirskattanefnd]^1) úrskurðar, gilda sömu reglur og um innheimtu skatts eftir
                       lögunum, þar á meðal um lögtaksrétt.
     Sök skv. 40. gr. fyrnist á sex árum miðað við upphaf rannsóknar á vegum
- [skattrannsóknarstjóra ríkisins]^5) eða rannsóknarlögreglustjóra ríkisins eða
-  hjá löglærðum fulltrúum þeirra gegn skattaðila sem sökunaut, enda verði ekki
+    [skattrannsóknarstjóra ríkisins]^5) eða [ríkislögreglustjóra]^7) eða hjá
+    löglærðum fulltrúum þeirra gegn skattaðila sem sökunaut, enda verði ekki
             óeðlilegar tafir á rannsókn máls eða ákvörðun refsingar.
    ^1)[28]L. 30/1992, 23. gr. ^2)[29]L. 88/2008, 234. gr. ^3)L. 134/2005, 4. gr.
-   ^4)L. 129/2004, 77. gr. ^5)L. 111/1992, 58. gr. ^6)[30]L. 90/1996, 43. gr.
+^4)L. 129/2004, 77. gr. ^5)L. 111/1992, 58. gr. ^6)[30]L. 90/1996, 43. gr. ^7)L.
+                               163/2010, 10. gr.
 
               [XIII. kafli. Um endurgreiðslu virðisaukaskatts.]^1)
                               ^1)L. 119/1989, 13. gr.
@@ -1078,13 +1138,17 @@ lögreglu]^2) af sjálfsdáðum, svo og eftir ósk sökunautar ef hann vill eigi
   virðisaukaskatts]^4) sem þeir hafa greitt af vinnu manna við endurbætur eða
  viðhald þess.]^5) [Endurgreiðsla vegna vinnu manna við endurbætur eða viðhald
  skal gerð á grundvelli framlagðra reikninga eins fljótt og auðið er, þó aldrei
-      síðar en 14 dögum eftir að [ríkisskattstjóra]^6) barst erindið.]^3)
-   Fjármálaráðherra setur með reglugerð^7) nánari ákvæði um framkvæmd þessara
-endurgreiðslna. Á sama hátt skal í reglugerð kveðið á um endurgreiðslu ákveðins
-      hlutfalls virðisaukaskatts af verksmiðjuframleiddum íbúðarhúsum [og
-                                húseiningum].^8)
+    síðar en [30 dögum]^6) eftir að [ríkisskattstjóra]^7) barst erindið.]^3)
+[Endurgreiðsla til byggingaraðila sem byggir íbúðarhúsnæði til sölu eða leigu og
+er skattskyldur skv. 2. mgr. 3. gr. má því aðeins fara fram að hann hafi staðið
+ skil á virðisaukaskattsskýrslu fyrir sama tímabil og endurgreiðslubeiðni hans
+  tekur til og skal endurgreiðslu samkvæmt þessum málslið skuldajafnað á móti
+     álögðum virðisaukaskatti sama tímabils.]^6) Fjármálaráðherra setur með
+reglugerð^8) nánari ákvæði um framkvæmd þessara endurgreiðslna. Á sama hátt skal
+  í reglugerð kveðið á um endurgreiðslu ákveðins hlutfalls virðisaukaskatts af
+             verksmiðjuframleiddum íbúðarhúsum [og húseiningum].^9)
  [Endurgreiða skal ríki, sveitarfélögum og stofnunum þeirra virðisaukaskatt sem
-         þau hafa greitt við kaup á eftirtalinni þjónustu eða vöru:^9)
+         þau hafa greitt við kaup á eftirtalinni þjónustu eða vöru:^10)
      1. Sorphreinsun, þ.e. söfnun, flutningi, urðun og eyðingu sorps og annars
 úrgangs, þar með talið brotamálma. Ákvæði þetta tekur einnig til leigu eða kaupa
                    á sorpgámum vegna staðbundinnar sorphirðu.
@@ -1095,21 +1159,16 @@ endurgreiðslna. Á sama hátt skal í reglugerð kveðið á um endurgreiðslu 
   endurskoðenda og annarra sérfræðinga er almennt þjóna atvinnulífinu og lokið
    hafa háskólanámi, sambærilegu langskólanámi eða starfa sannanlega á sviði
                fyrrgreindra aðila og veita sambærilega þjónustu.
-       6. Þjónustu vaktstöðva vegna samræmdrar neyðarsímsvörunar.]^10)]^11)
+       6. Þjónustu vaktstöðva vegna samræmdrar neyðarsímsvörunar.]^11)]^12)
   [Ráðherra getur með reglugerð sett nánari ákvæði um framkvæmd endurgreiðslu
                         samkvæmt þessari málsgrein.]^3)
- [Endurgreiða skal hluta virðisaukaskatts af sölu á heitu vatni og/eða rafmagni
-     til hitunar húsa og laugarvatns þannig að álagður virðisaukaskattur að
-  frádreginni endurgreiðslu nemi eigi hærri fjárhæð en 11% af vegnu meðalverði
-     rafveitna og hitaveitna á kílóvattstund. Fjármálaráðherra ákveður með
-     reglugerð,^12) að fenginni tillögu iðnaðarráðherra, nánar um framkvæmd
-                            endurgreiðslunnar.]^13)
+                                      ^6)
     [Endurgreiða skal virðisaukaskatt af rannsóknartækjum sem óskattskyldir
-           rannsóknaraðilar kaupa fyrir styrkfé eða fá að gjöf.]^14)
+           rannsóknaraðilar kaupa fyrir styrkfé eða fá að gjöf.]^13)
  [Endurgreiða skal rekstraraðilum hópbifreiða, sem leyfi hafa samkvæmt lögum um
-  skipulag á fólksflutningum með hópferðabifreiðum, [20,32%]^15) af söluverði
+  skipulag á fólksflutningum með hópferðabifreiðum, [20,32%]^14) af söluverði
  hópbifreiða sem þeir sannanlega selja úr landi. Fjármálaráðherra setur nánari
-                reglur^16) um framkvæmd endurgreiðslunnar.]^17)
+                reglur^15) um framkvæmd endurgreiðslunnar.]^16)
      [Endurgreiða skal virðisaukaskatt af tækjum og búnaði sem mannúðar- og
 líknarstofnanir fá að gjöf eða kaupa fyrir styrkfé, enda sé um að ræða vöru sem
  nýtt er beint til viðkomandi starfsemi. Endurgreiðsluheimild samkvæmt þessari
@@ -1123,14 +1182,39 @@ landssamtaka björgunarsveita á því að viðkomandi ökutæki verði einungis
 þágu björgunarsveita. Fjármálaráðherra er heimilt með reglugerð að kveða nánar á
                um framkvæmd endurgreiðslu skv. 7. og 8. mgr.]^3)
      ^1)L. 175/2006, 5. gr. ^2)L. 86/1996, 1. gr. ^3)L. 64/2002, 4. gr. ^4)L.
-149/1996, 9. gr. ^5)L. 109/1990, 2. gr. ^6)L. 136/2009, 54. gr. ^7)Rg. 449/1990,
-   sbr. 489/1992, 30/1993, 110/1995, 357/1995, 347/1996, 421/1996, 697/1996,
-  574/1999, 561/2002 og 439/2009. ^8)L. 10/2009, 1. gr. ^9)Rg. 248/1990, sbr.
- 548/1993, 146/1995, 601/1995, 256/1996, 695/1996, 901/2000, 554/2002, 287/2003
-og 438/2003. ^10)L. 55/1997, 13. gr. ^11)L. 119/1989, 13. gr. ^12)Rg. 484/1992,
- sbr. 332/1993, 671/1994, 110/1995, 117/1996 og 560/2002. ^13)L. 111/1992, 60.
-  gr. ^14)L. 104/2000, 22. gr. ^15)L. 130/2009, 18. gr. ^16)Rg. 541/2001, sbr.
-                 556/2002 og 1070/2009. ^17)L. 105/2000, 6. gr.
+149/1996, 9. gr. ^5)L. 109/1990, 2. gr. ^6)L. 163/2010, 11. gr. ^7)L. 136/2009,
+ 54. gr. ^8)Rg. 449/1990, sbr. 489/1992, 30/1993, 110/1995, 357/1995, 347/1996,
+   421/1996, 697/1996, 574/1999, 561/2002 og 439/2009. ^9)L. 10/2009, 1. gr.
+    ^10)Rg. 248/1990, sbr. 548/1993, 146/1995, 601/1995, 256/1996, 695/1996,
+    901/2000, 554/2002, 287/2003 og 438/2003. ^11)L. 55/1997, 13. gr. ^12)L.
+  119/1989, 13. gr. ^13)L. 104/2000, 22. gr. ^14)L. 130/2009, 18. gr. ^15)Rg.
+         541/2001, sbr. 556/2002 og 1070/2009. ^16)L. 105/2000, 6. gr.
+ [42. gr. A. Innflutningur á netþjónum og tengdum búnaði skal vera undanþeginn
+virðisaukaskatti í þeim tilvikum þegar eigendur þeirra eru heimilisfastir í öðru
+       aðildarríki á Evrópska efnahagssvæðinu, aðildarríki stofnsamnings
+  Fríverslunarsamtaka Evrópu eða í Færeyjum og ekki með fasta starfsstöð hér á
+  landi í skilningi 4. tölul. [32]3. gr. laga nr. 90/2003, um tekjuskatt. Með
+tengdum búnaði er átt við búnað sem er nauðsynlegur þáttur í virkni netþjónanna
+                og nýtist eingöngu eiganda viðkomandi netþjóns.
+                      Skilyrði undanþágu skv. 1. mgr. eru:
+   1. Eigandi netþjóna og tengds búnaðar sé í virðisaukaskattsskyldri starfsemi
+                               í heimaríki sínu.
+   2. Starfsemi eiganda netþjóna og tengds búnaðar væri skráningarskyld samkvæmt
+                    lögum þessum væri hún rekin hér á landi.
+   3. Netþjónar og tengdur búnaður sé gagngert fluttur til landsins til notkunar
+     eða staðsetningar í gagnaveri sem eigandi þeirra er í viðskiptum við.
+    4. Netþjónar og búnaður sé eingöngu nýttur af eigandanum en ekki í annarri
+                            starfsemi gagnaversins.
+    5. Vinnsla netþjóna og tengds búnaðar sé nýtt utan Íslands eða í þágu aðila
+       sem ekki eru heimilisfastir eða með fasta starfsstöð hér á landi.
+  Í skilningi þessa ákvæðis er gagnaver sérútbúið húsrými sem hannað er fyrir
+       búnað til upplýsingavinnslu og fyrir þá starfsemi sem því tengist.
+   Fjármálaráðherra er heimilt með reglugerð að kveða nánar á um framkvæmd og
+           skilyrði undanþágunnar, þ.m.t. til hvaða búnaðar hún nær.
+  Grein þessi skal endurskoðuð að tveimur árum liðnum frá því að hún kemur til
+                                framkvæmda.]^1)
+   ^1)L. 163/2010, 12. gr. Ákvæðið kemur til framkvæmda 1. maí 2011 skv. 16. gr.
+                                      s.l.
   [43. gr. Fjármálaráðherra getur kveðið svo á með reglugerð^1) að endurgreiða
 megi virðisaukaskatt af vörum sem [aðilar búsettir erlendis]^2) kaupa hérlendis
 og hafa með sér er þeir hverfa úr landi, enda séu uppfyllt þau skilyrði sem hann
@@ -1177,11 +1261,11 @@ aðila. Virðisaukaskattsskrá skal liggja frammi til sýnis á hentugum stað �
 ríkissjóðs ræki skyldur sínar samkvæmt lögum þessum. Hann hefur rétt til þess að
     fá til athugunar virðisaukaskattsskýrslur og gögn er þær varða og krefja
    framangreinda aðila skýringa á öllu því er framkvæmd laga þessara varðar.
-    ^1)L. 119/1989, 13. gr. ^2)L. 136/2009, 61. gr. ^3)[32]L. 30/1992, 23. gr.
+    ^1)L. 119/1989, 13. gr. ^2)L. 136/2009, 61. gr. ^3)[33]L. 30/1992, 23. gr.
      [48. gr.]^1) Sala á skattskyldri vöru og þjónustu til varnarliðsins á
-  Keflavíkurflugvelli, sbr. [33]lög nr. 110/1951, um lagagildi varnarsamnings
+  Keflavíkurflugvelli, sbr. [34]lög nr. 110/1951, um lagagildi varnarsamnings
  Íslands og Bandaríkjanna, svo og sala ^2) í tollfrjálsum verslunum, sbr. VIII.
- kafla [34]tollalaga, nr. 55/1987, með síðari breytingum, telst sala úr landi í
+ kafla [35]tollalaga, nr. 55/1987, með síðari breytingum, telst sala úr landi í
                             skilningi laga þessara.
                   ^1)L. 119/1989, 13. gr. ^2)L. 119/1989, 14. gr.
   [49. gr.]^1) [Fjármálaráðherra getur með reglugerð^2) sett nánari ákvæði um
@@ -1197,7 +1281,7 @@ ríkissjóðs ræki skyldur sínar samkvæmt lögum þessum. Hann hefur rétt ti
 uppgjörstímabil og skil virðisaukaskatts af hráefni til fiskvinnslu í því skyni
                    að jafna aðstöðu fyrirtækja á þessu sviði.
    Um þau atriði, sem ekki eru sérstök ákvæði um í lögum þessum, fer samkvæmt
-        [[35]lögum nr. 90/2003, um tekjuskatt],^5) eftir því sem við á.
+        [[36]lögum nr. 90/2003, um tekjuskatt],^5) eftir því sem við á.
    ^1)L. 119/1989, 13. gr. ^2)Rg. 530/1989 (um frádrátt virðisaukaskatts), sbr.
 108/1990. Rg. 563/1989 (uppgjör fiskvinnslufyrirtækja). Rg. 577/1989 (um frjálsa
 og sérstaka skráningu vegna leigu eða sölu á fasteign), sbr. 180/1993, 697/1997,
@@ -1280,24 +1364,23 @@ Hafi verksamningur vegna afhendingar á þjónustu skv. 1. mgr. verið gerður f
   einungis endurgreiða virðisaukaskatt að fullu af þeirri vinnu sem unnin var
                            fyrir 1. janúar 1997.]^1)
                             ^1)L. 149/1996, brbákv. II.
-     [X. Heimilt er að endurgreiða þeim sem leyfi hafa til fólksflutninga í
- atvinnuskyni samkvæmt [36]lögum nr. 13/1999, um skipulag á fólksflutningum með
-hópferðabifreiðum, ^2/3 hluta þess virðisaukaskatts sem greiddur er vegna kaupa
-  eða leigu hópferðabifreiða á tímabilinu 1. september 2000 til [31. desember
-   2010].^1) Endurgreiðsluheimildin verði bundin við hópferðabifreiðar, þ.e.
-  ökutæki sem aðallega eru ætluð til fólksflutninga, sem skráðar eru fyrir 18
-manns eða fleiri að meðtöldum ökumanni, sem nýskráðar eru á tímabilinu og búnar
-    eru aflvélum samkvæmt [EUROIII]^2) staðli ESB. Heimildin tekur ekki til
-     almenningsvagna. Fjármálaráðherra setur nánari reglur^3) um framkvæmd
-                             endurgreiðslunnar.]^4)
-   ^1)L. 130/2009, 19. gr. ^2)L. 175/2006, 6. gr. ^3)Rg. 686/2005, sbr. 86/2007.
-                             ^4)L. 57/2001, 1. gr.
+    [X. [Heimilt er að endurgreiða þeim sem leyfi hafa til fólksflutninga í
+atvinnuskyni samkvæmt [37]lögum nr. 73/2001, um fólksflutninga og farmflutninga
+á landi, ^2/3 hluta þess virðisaukaskatts sem greiddur er vegna kaupa eða leigu
+ hópferðabifreiða og almenningsvagna á tímabilinu frá 1. janúar 2011 til og með
+ 31. desember 2011. Endurgreiðsluheimildin vegna hópferðabifreiða er bundin við
+ökutæki sem aðallega eru ætluð til fólksflutninga, eru skráð fyrir 18 manns eða
+   fleiri að meðtöldum ökumanni og eru nýskráð á tímabilinu og búin aflvélum
+samkvæmt EURO 5 staðli ESB. Fjármálaráðherra setur nánari reglur^1) um framkvæmd
+                           endurgreiðslunnar.]^2)]^3)
+     ^1)Rg. 686/2005, sbr. 86/2007 og 1072/2010. ^2)L. 163/2010, 13. gr. ^3)L.
+                                57/2001, 1. gr.
    [XI. Heimilt er að fella niður eða endurgreiða virðisaukaskatt að fullu af
    vetnisbifreiðum, svo og sérhæfðum varahlutum í þær, sem fluttar eru inn í
  rannsóknarskyni. Heimild þessi nær eingöngu til vetnisbifreiða sem hafa í för
-með sér hverfandi mengun og gildir til [31. desember 2010].^1) Fjármálaráðherra
+með sér hverfandi mengun og gildir til [31. desember 2011].^1) Fjármálaráðherra
              setur nánari reglur um framkvæmd eftirgjafarinnar.]^2)
-                   ^1)L. 130/2009, 19. gr. ^2)L. 72/2005, 2. gr.
+                   ^1)L. 163/2010, 14. gr. ^2)L. 72/2005, 2. gr.
 [XII. Endurgreiða skal veitingahúsum, mötuneytum og öðrum hliðstæðum aðilum, sem
  selja tilreiddan mat, fjárhæð er nemur 112,5% af innskatti uppgjörstímabilsins
      janúarfebrúar 2007 vegna matvælaaðfanga sem bera 14% virðisaukaskatt.
@@ -1334,43 +1417,43 @@ sem nánari skilyrði fyrir endurgreiðslu, um ástand ökutækja, um gögn sem 
    virðisaukaskatti hafi á þeim tíma verið skilað, sbr. lög nr. 130/2008, um
                            breyting á tollalögum.]^1)
                               ^1)L. 157/2008, 2. gr.
- [XV. Þrátt fyrir ákvæði 1. mgr. 42. gr. skal á tímabilinu 1. mars 2009 til 1.
-janúar 2011 endurgreiða byggjendum íbúðarhúsnæðis og frístundahúsnæðis 100% þess
-virðisaukaskatts sem þeir hafa greitt af vinnu manna á byggingarstað. Jafnframt
- skal á sama tímabili endurgreiða eigendum íbúðarhúsnæðis og frístundahúsnæðis
- 100% þess virðisaukaskatts sem þeir hafa greitt af vinnu manna við endurbætur
-    eða viðhald þess. Að öðru leyti gi lda ákvæði 1. mgr. 42. gr. á umræddu
-                                   tímabili.
-    Á tímabilinu 1. mars 2009 til 1. janúar 2011 skal endurgreiða byggjendum
+[XV. Þrátt fyrir ákvæði [2. mgr. 42. gr.]^1) skal á tímabilinu 1. mars 2009 til
+ [1. janúar 2012]^1) endurgreiða byggjendum íbúðarhúsnæðis og frístundahúsnæðis
+100% þess virðisaukaskatts sem þeir hafa greitt af vinnu manna á byggingarstað.
+     Jafnframt skal á sama tímabili endurgreiða eigendum íbúðarhúsnæðis og
+frístundahúsnæðis 100% þess virðisaukaskatts sem þeir hafa greitt af vinnu manna
+við endurbætur eða viðhald þess. Að öðru leyti gilda ákvæði [2. mgr. 42. gr.]^1)
+                              á umræddu tímabili.
+ Á tímabilinu 1. mars 2009 til [1. janúar 2012]^1) skal endurgreiða byggjendum
   íbúðarhúsnæðis og frístundahúsnæðis 100% þess virðisaukaskatts sem þeir hafa
-  greitt af þjónustu ^1) vegna hönnunar eða eftirlits með byggingu þess háttar
+  greitt af þjónustu ^2) vegna hönnunar eða eftirlits með byggingu þess háttar
 húsnæðis. Jafnframt skal á sama tímabili endurgreiða eigendum íbúðarhúsnæðis og
  frístundahúsnæðis 100% þess virðisaukaskatts sem þeir hafa greitt [af þjónustu
-  ^1)]^2) vegna hönnunar eða eftirlits við endurbætur eða viðhald þess háttar
-    húsnæðis. Fjármálaráðherra er heimilt að setja reglugerð^3) um framkvæmd
+  ^2)]^3) vegna hönnunar eða eftirlits við endurbætur eða viðhald þess háttar
+    húsnæðis. Fjármálaráðherra er heimilt að setja reglugerð^4) um framkvæmd
                             þessarar endurgreiðslu.
  Ákvæði 1. mgr. nær á viðkomandi tímabili jafnframt til annars húsnæðis sem er
    alfarið í eigu sveitarfélaga eða stofnana og félaga sem alfarið eru í eigu
-                               sveitarfélaga.]^4)
-    ^1)L. 64/2009, 1. gr. ^2)L. 19/2009, 1. gr. ^3)Rg. 440/2009, sbr. 605/2009.
-                             ^4)L. 10/2009, 2. gr.
+                               sveitarfélaga.]^5)
+    ^1)L. 163/2010, 15. gr. ^2)L. 64/2009, 1. gr. ^3)L. 19/2009, 1. gr. ^4)Rg.
+          440/2009, sbr. 605/2009 og 1071/2010. ^5)L. 10/2009, 2. gr.
      [XVI. Þrátt fyrir ákvæði VII. kafla og 7. mgr. 20. gr. er á gjalddaga
 virðisaukaskatts vegna reglubundinna uppgjörstímabila á árinu 2009, sbr. 1. mgr.
      24. gr., heimilt að færa til innskatts á virðisaukaskattsskýrslu allan
    virðisaukaskatt vegna viðkomandi uppgjörstímabils, þótt einungis hluta af
   gjaldföllnum virðisaukaskatti hafi á þeim tíma verið skilað, sbr. ákvæði til
-               bráðabirgða III í [37]tollalögum, nr. 88/2005.]^1)
+               bráðabirgða III í [38]tollalögum, nr. 88/2005.]^1)
                                ^1)L. 17/2009, 3. gr.
      [XVII. Þrátt fyrir ákvæði VII. kafla og 7. mgr. 20. gr. er á gjalddaga
   virðisaukaskatts vegna uppgjörstímabilanna janúar og febrúar annars vegar og
  mars og apríl hins vegar, á árinu 2010, sbr. 1. mgr. 24. gr., heimilt að færa
  til innskatts á virðisaukaskattsskýrslu allan virðisaukaskatt vegna viðkomandi
  uppgjörstímabils, þótt einungis hluta af gjaldföllnum virðisaukaskatti hafi á
-  þeim tíma verið skilað, sbr. ákvæði til bráðabirgða V í [38]tollalögum, nr.
+  þeim tíma verið skilað, sbr. ákvæði til bráðabirgða V í [39]tollalögum, nr.
                                   88/2005.]^1)
                                ^1)L. 14/2010, 3. gr.
  [XVIII. Skattskyldum aðilum sem við gildistöku ákvæðis þessa hafa leyfi til að
-  reka bílaleigu samkvæmt [39]lögum nr. 64/2000, um bílaleigur, er heimilt við
+  reka bílaleigu samkvæmt [40]lögum nr. 64/2000, um bílaleigur, er heimilt við
 kaup á notuðum fólksbifreiðum að reikna innskatt af kaupverði bifreiða sem verða
   til útleigu, þó svo að virðisaukaskattur hafi ekki verið lagður á við sölu á
    viðkomandi bifreiðum til bílaleigunnar. Innskatturinn skal nema 20,32% af
@@ -1378,11 +1461,18 @@ kaup á notuðum fólksbifreiðum að reikna innskatt af kaupverði bifreiða se
  Fjöldi keyptra bifreiða samkvæmt heimild 1. mgr. má ekki vera meiri en 15% af
      heildarfjölda fólksbifreiða sem eru í eigu bílaleigunnar 1. júlí 2010.
   Endursala bifreiða sem um ræðir í 1. mgr. telst til skattskyldrar veltu skv.
-  [40]11. gr. laga nr. 50/1988, um virðisaukaskatt. Sundurliða skal í bókhaldi
+  [41]11. gr. laga nr. 50/1988, um virðisaukaskatt. Sundurliða skal í bókhaldi
  upplýsingar um kaup og sölu bifreiðanna í samræmi við 9. gr. a reglugerðar nr.
                              192/1993, um innskatt.
           Heimild skv. 1. og 2. mgr. gildir til 31. desember 2010.]^1)
                                ^1)L. 25/2010, 1. gr.
+     [XIX. Þrátt fyrir ákvæði VII. kafla og 7. mgr. 20. gr. er á gjalddaga
+ virðisaukaskatts vegna uppgjörstímabilsins nóvember og desember á árinu 2010,
+ sbr. 1. mgr. 24. gr., heimilt að færa til innskatts á virðisaukaskattsskýrslu
+allan virðisaukaskatt vegna viðkomandi uppgjörstímabils, þótt einungis hluta af
+  gjaldföllnum virðisaukaskatti hafi á þeim tíma verið skilað, sbr. ákvæði til
+               bráðabirgða VI í [42]tollalögum, nr. 88/2005.]^1)
+                              ^1)L. 165/2010, 36. gr.
 
                                  [Viðauki ]^1)
      ^1)L. 175/2006, 8. gr. Um texta viðaukans vísast til Stjtíð. A 2006, bls.
@@ -1422,12 +1512,14 @@ References
   29. file://2008088.html#g234
   30. file://1996090.html#g43
   31. file://1987055.html
-  32. file://1992030.html#g23
-  33. file://1951110.html
-  34. file://1987055.html
-  35. file://2003090.html
-  36. file://1999013.html
-  37. file://2005088.html
+  32. file://2003090.html#g3
+  33. file://1992030.html#g23
+  34. file://1951110.html
+  35. file://1987055.html
+  36. file://2003090.html
+  37. file://2001073.html
   38. file://2005088.html
-  39. file://2000064.html
-  40. file://1988050.html#g11
+  39. file://2005088.html
+  40. file://2000064.html
+  41. file://1988050.html#g11
+  42. file://2005088.html

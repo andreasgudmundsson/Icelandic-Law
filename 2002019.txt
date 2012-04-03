@@ -11,7 +11,8 @@
 
   Tóku gildi 3. apríl 2002. EES-samningurinn: XI. viðauki tilskipun 97/67/EB.
  Breytt með l. 136/2002 (tóku gildi 1. jan. 2003; EES-samningurinn: XI. viðauki
-         tilskipun 97/39/EB) og l. 129/2004 (tóku gildi 31. des. 2005).
+tilskipun 97/39/EB), l. 129/2004 (tóku gildi 31. des. 2005) og l. 162/2010 (tóku
+                              gildi 1. jan. 2011).
 
                     I. kafli. Gildissvið laganna og markmið.
                                1. gr. Gildissvið.
@@ -83,9 +84,10 @@ Póstþjónusta: Þjónusta sem nær til móttöku og söfnunar, flokkunar, flut
                      með afhendingu hans á ákvörðunarstað.
 
                         III. kafli. Yfirstjórn póstmála.
-              5. gr. Samgönguráðherra fer með yfirstjórn póstmála.
+          5. gr. [Innanríkisráðherra]^1) fer með yfirstjórn póstmála.
 Póst- og fjarskiptastofnun veitir leyfi fyrir starfrækslu póstþjónustu og hefur
                eftirlit með póstmálum og framkvæmd laga þessara.
+                             ^1)L. 162/2010, 233. gr.
 
                              IV. kafli. Alþjónusta.
    6. gr. Íslenska ríkið skal tryggja öllum landsmönnum á jafnræðisgrundvelli
@@ -111,10 +113,10 @@ blindrasendinga allt að tveimur kílóum og bögglasendinga allt að tuttugu k�
 Alþjónusta nær til bæði póstsendinga innan lands og til annarra landa. Skylt er
  þeim sem veita alþjónustu að afhenda innan lands póstsendingar allt að tuttugu
                         kílóum sem berast frá útlöndum.
-    Samgönguráðherra skal setja reglugerð^1) um nánari útfærslu alþjónustu.
+      [Ráðherra]^1) skal setja reglugerð^2) um nánari útfærslu alþjónustu.
 Póst- og fjarskiptastofnun skal tryggja að staðið verði við skyldur ríkisins um
                póstþjónustu sem alþjóðlegir samningar kveða á um.
-                                 ^1)Rg. 364/2003.
+                     ^1)L. 162/2010, 233. gr. ^2)Rg. 364/2003.
 
                         V. kafli. Einkaréttur ríkisins.
                        7. gr. Einkaréttur á póstþjónustu.
@@ -167,7 +169,7 @@ samkvæmt reglum sem Póst- og fjarskiptastofnun setur póstþjónustu aðra en 
         fjarskiptastofnun hefur veitt rekstrarleyfi að fenginni umsókn.
    Heimildir eru veittar einstaklingum eða lögaðilum sem staðfestu hafa innan
   Evrópska efnahagssvæðisins og í aðildarríkjum Alþjóðaviðskiptastofnunarinnar
-             eftir því sem samgönguráðherra ákveður með reglugerð.
+               eftir því sem [ráðherra]^1) ákveður með reglugerð.
  Við veitingu heimilda skal gæta jafnræðis og meðalhófs, málsmeðferð skal vera
                     gegnsæ og byggjast á hlutlægum viðmiðum.
  Óheimilt er að framselja heimildir hvort sem þær eru í formi almennra heimilda
@@ -177,6 +179,7 @@ rekstrarleyfi ef viðkomandi aðili verður gjaldþrota, leggur niður starfsemi
  eða brýtur alvarlega gegn skilmálum almennrar heimildar eða rekstrarleyfis. Í
   síðasttalda tilfellinu skal viðkomandi aðila send skrifleg aðvörun og gefinn
  kostur á að bæta úr vanrækslu sinni áður en til afturköllunar heimildar kemur.
+                             ^1)L. 162/2010, 233. gr.
                           13. gr. Almennar heimildir.
   Aðilar sem hyggjast starfrækja póstþjónustu samkvæmt almennri heimild skulu
    tilkynna Póst- og fjarskiptastofnun eigi síðar en fjórum vikum fyrir opnun
@@ -284,12 +287,12 @@ sbr. 11. gr., skal í bókhaldi sínu aðgreina annars vegar tekjur og kostnað 
  alþjónustu. Póstrekendur sem stunda einnig leyfisskylda starfsemi á öðru sviði
 skulu greina kostnað og tekjur vegna póststarfsemi sinnar frá öðrum kostnaði og
                                     tekjum.
-Samgönguráðherra skal setja reglugerð^1) um bókhald póstrekenda, sundurgreiningu
+ [Ráðherra]^1) skal setja reglugerð^2) um bókhald póstrekenda, sundurgreiningu
  kostnaðar og fjárhagslegan aðskilnað milli póstþjónustu og annars reksturs og
           milli einkaréttarþjónustu, alþjónustu og annarrar þjónustu.
 Póst- og fjarskiptastofnun skal tryggja að bókhald rekstrarleyfishafa samræmist
                 reglugerðinni og skal það staðfest opinberlega.
-                                 ^1)Rg. 313/2005.
+                     ^1)L. 162/2010, 233. gr. ^2)Rg. 313/2005.
                      19. gr. Gerð og birting ársreikninga.
  Ársreikningar rekstrarleyfishafa skulu gerðir í samræmi við lög um bókhald og
                    lög um ársreikninga og birtir opinberlega.
@@ -374,9 +377,10 @@ Einnig getur stofnunin krafist skýrslna löggiltra endurskoðenda eða falið s
          starfseminnar sé bókhaldslega aðskilinn frá annarri starfsemi
                               rekstrarleyfishafa.
     Fjárframlög eru veitt til eins árs í senn og skal endurnýja umsóknir um
-fjárframlög fyrir settan tíma. Samgönguráðherra setur nánari reglur um umsóknir
-um fjárframlög úr jöfnunarsjóði og afgreiðslu þeirra í reglugerð um alþjónustu,
+fjárframlög fyrir settan tíma. [Ráðherra]^1) setur nánari reglur um umsóknir um
+  fjárframlög úr jöfnunarsjóði og afgreiðslu þeirra í reglugerð um alþjónustu,
                                   sbr. 6. gr.
+                             ^1)L. 162/2010, 233. gr.
                              28. gr. Jöfnunargjald.
     Til að standa straum af greiðslu fjárframlaga samkvæmt þessum kafla skal
       innheimta jöfnunargjald sem rennur í jöfnunarsjóð í vörslu Póst- og
@@ -388,22 +392,23 @@ um fjárframlög úr jöfnunarsjóði og afgreiðslu þeirra í reglugerð um al
     Jöfnunargjald skal ákveðið með lögum. Á grundvelli fenginna umsókna skal
  fjárþörf vegna alþjónustu endurskoðuð árlega af Póst- og fjarskiptastofnun og
 niðurstaða þeirrar endurskoðunar ásamt tillögu um breytt gjaldhlutfall, ef þörf
-                      þykir, lögð fyrir samgönguráðherra.
+                        þykir, lögð fyrir [ráðherra].^1)
  Um álagningu og innheimtu jöfnunargjalds fer samkvæmt ákvæðum VIII.XIV. kafla
-     [[1]laga nr. 90/2003, um tekjuskatt],^1) eftir því sem við á og skulu
+     [[1]laga nr. 90/2003, um tekjuskatt],^2) eftir því sem við á og skulu
     innheimtuaðilar standa jöfnunarsjóði Póst- og fjarskiptastofnunar skil á
                         innheimtum gjöldum mánaðarlega.
  Jöfnunargjald má draga frá tekjum greiðanda á því rekstrarári þegar stofn þess
                                    myndaðist.
-                             ^1)L. 129/2004, 142. gr.
+                 ^1)L. 162/2010, 233. gr. ^2)L. 129/2004, 142. gr.
 
                  XI. kafli. Samningar um sértæka póstþjónustu.
                           29. gr. Sértæk póstþjónusta.
- Óski samgönguráðherra eftir að lagt sé í framkvæmdir eða sértæka póstþjónustu
-sem ekki fellur undir alþjónustu en er til almenningsheilla, í öryggisskyni, af
+ Óski [ráðherra]^1) eftir að lagt sé í framkvæmdir eða sértæka póstþjónustu sem
+  ekki fellur undir alþjónustu en er til almenningsheilla, í öryggisskyni, af
  umhverfisástæðum eða samkvæmt byggðasjónarmiðum, og ætla má að skili ekki arði
   skal Póst- og fjarskiptastofnun falið að gera samninga þessu viðkomandi við
                          póstrekanda í kjölfar útboðs.
+                             ^1)L. 162/2010, 233. gr.
                    30. gr. Fjármögnun sértækrar póstþjónustu.
    Kostnaður vegna sértækra framkvæmda eða póstþjónustu skv. 29. gr. skal að
     jafnaði greiddur úr ríkissjóði eftir því sem kveðið er á um í fjárlögum.
@@ -464,7 +469,7 @@ eru án þess að burðargjald hafi verið innt af hendi eða ef um vangreiðslu
                         33. gr. Óheimilar póstsendingar.
   Óheimilt er að afhenda póstrekanda sendingar með innihaldi sem er ólögmætt,
                     ósæmilegt eða móðgandi fyrir móttakanda.
-Í reglugerð sem samgönguráðherra setur um framkvæmd póstþjónustu, sbr. 35. gr.,
+  Í reglugerð sem [ráðherra]^1) setur um framkvæmd póstþjónustu, sbr. 35. gr.,
  skulu vera reglur um hvað telst vera ólögmætt innihald póstsendinga. Póst- og
  fjarskiptastofnun skal með hliðsjón af reglugerðinni semja lista yfir ólögmætt
  innihald póstsendinga og skulu póstrekendur kynna starfsfólki sínu listann og
@@ -476,6 +481,7 @@ eru án þess að burðargjald hafi verið innt af hendi eða ef um vangreiðslu
    Póstsendingar, aðrar en ábyrgðarsendingar og tryggðar sendingar, mega ekki
  innihalda peningaseðla, mynt eða neins konar verðskjöl á handhafa, dýra málma,
                        skartgripi eða hliðstæð verðmæti.
+                             ^1)L. 162/2010, 233. gr.
                          34. gr. Umbúðir póstsendinga.
 Ganga skal tryggilega frá póstsendingum sem afhentar eru póstrekendum í umbúðum.
 Póstrekendur geta hafnað því að veita póstsendingum móttöku ef hætta er talin á
@@ -483,16 +489,17 @@ Póstrekendur geta hafnað því að veita póstsendingum móttöku ef hætta er
 alþjónustu með innihaldi sem getur valdið skaða, smiti eða veikindum er skilyrt
  því að rétt sé búið um sendinguna og hún merkt í samræmi við innihald. Dæmi um
    slíkt innihald eru lífræn, auðskemmd efni, smitefni og geislavirk efni. Í
- reglugerð sem samgönguráðherra setur um framkvæmd póstþjónustu, sbr. 35. gr.,
-       skulu vera reglur um frágang, umbúðir og merkingu slíkra sendinga.
-Rekstrarleyfishafar skulu framvísa reglunum á afgreiðslustöðum að ósk notenda og
- kynna starfsmönnum sínum þær. Póst- og fjarskiptastofnun skal upplýsa erlendar
-eftirlitsstofnanir um reglurnar og skal safna upplýsingum um reglur sem gilda í
-                     nágrannalöndunum um samsvarandi hluti.
+reglugerð sem [ráðherra]^1) setur um framkvæmd póstþjónustu, sbr. 35. gr., skulu
+vera reglur um frágang, umbúðir og merkingu slíkra sendinga. Rekstrarleyfishafar
+skulu framvísa reglunum á afgreiðslustöðum að ósk notenda og kynna starfsmönnum
+ sínum þær. Póst- og fjarskiptastofnun skal upplýsa erlendar eftirlitsstofnanir
+um reglurnar og skal safna upplýsingum um reglur sem gilda í nágrannalöndunum um
+                               samsvarandi hluti.
+                             ^1)L. 162/2010, 233. gr.
                 35. gr. Nánari reglur um framkvæmd póstþjónustu.
    Nánari reglur um framkvæmd póstþjónustu, svo sem um minnstu og stærstu mál
-    póstsendinga, skal samgönguráðherra setja í reglugerð^1) um alþjónustu.
-                                 ^1)Rg. 364/2003.
+      póstsendinga, skal [ráðherra]^1) setja í reglugerð^2) um alþjónustu.
+                     ^1)L. 162/2010, 233. gr. ^2)Rg. 364/2003.
 
                    XIII. kafli. Upplýsingaskylda póstrekenda.
                         36. gr. Upplýsingar um rekstur.
@@ -633,8 +640,8 @@ Brot gegn XV. kafla laganna, um póstleynd og ólögmæta háttsemi, varða sekt
 
                            XVIII. kafli. Ýmis ákvæði.
                            [54. gr.]^1) Reglugerðir.
- Samgönguráðherra getur sett í reglugerð nánari fyrirmæli um framkvæmd laganna.
-                              ^1)L. 136/2002, 3. gr.
+  [Ráðherra]^2) getur sett í reglugerð nánari fyrirmæli um framkvæmd laganna.
+                  ^1)L. 136/2002, 3. gr. ^2)L. 162/2010, 233. gr.
                             [55. gr.]^1) Gildistaka.
                          Lög þessi öðlast þegar gildi.
                               ^1)L. 136/2002, 3. gr.
