@@ -29,10 +29,13 @@ reglugerð 1606/2002. Breytt með l. 108/2006 (tóku gildi 1. nóv. 2006 skv. au
 des. 2007), l. 80/2008 (tóku gildi 1. jan. 2009; EES-samningurinn: XXII. viðauki
  tilskipun 2006/43/EB), [3]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII
 sem tók gildi 21. júní 2008), l. 162/2008 (tóku gildi 31. des. 2008), l. 98/2009
-(tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l.
+ (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l.
   68/2010 (tóku gildi 24. júní 2010 nema ákvæði um lengingu lágmarksfrests til
 boðunar aðalfunda í hlutafélögum sem tóku gildi 1. jan. 2011; EES-samningurinn:
-               XXII. viðauki tilmæli 2004/913/EB og 2005/162/EB).
+  XXII. viðauki tilmæli 2004/913/EB og 2005/162/EB), l. 82/2011 (tóku gildi 1.
+ sept. 2011 nema brbákv. sem tók gildi 30. júní 2011), l. 118/2011 (tóku gildi
+    29. sept. 2011; EES-samningurinn: IX. viðauki reglugerð 1569/2007) og l.
+                     126/2011 (tóku gildi 30. sept. 2011).
 
                             I. kafli. Almenn ákvæði.
                                   Gildissvið.
@@ -159,8 +162,8 @@ skal greina frá slíkum frávikum ásamt ástæðum fyrir þeim og hvaða áhri
                               á afkomu og efnahag.
                              Flokkun og uppsetning.
   6. gr. Efnahagsreikning og rekstrarreikning skal setja upp með kerfisbundnum
-     hætti. [Efnahags- og viðskiptaráðherra]^1) setur reglur um uppsetningu
-                    efnahagsreikninga og rekstrarreikninga.
+     hætti. [Ráðherra]^1) setur reglur um uppsetningu efnahagsreikninga og
+                               rekstrarreikninga.
  Efnahagsreikningur og rekstrarreikningur skulu settir upp með hliðstæðum hætti
   frá ári til árs nema sérstakar aðstæður gefi tilefni til annars. Breytingar
                   skulu tilgreindar og rökstuddar í skýringum.
@@ -177,7 +180,7 @@ samanburðarfjárhæðir ef breyting á starfsemi félagsins orsakar það að l
    aðeins taka með ef slíkur liður var í reikningsskilum fyrra reikningsárs.
  Samsvarandi upplýsingar um fjárhæðir fyrra árs skal gefa í skýringum eftir því
                          sem við á, sbr. 4. og 5. mgr.
-                              ^1)L. 98/2009, 50. gr.
+                             ^1)L. 126/2011, 413. gr.
                                   Gjaldmiðill.
 7. gr. Texti ársreiknings og samstæðureiknings, sem samdir eru samkvæmt ákvæðum
 laga þessara, skal vera á íslensku og fjárhæðir tilgreindar í íslenskum krónum,
@@ -800,6 +803,23 @@ og rekstrarafkomu félagsins. Þá skal koma fram að skýrsla stjórnar geymi g
  áhættu- og óvissuþáttum sem félagið stendur frammi fyrir. Sama gildir þegar um
             samstæðureikning er að ræða sem móðurfélagið semur.]^1)
                               ^1)L. 171/2007, 5. gr.
+                       [66. gr. c. Góðir stjórnarhættir.
+      Félag skv. 1. tölul. 1. mgr. 1. gr. skal árlega birta yfirlýsingu um
+            stjórnarhætti sína í sérstökum kafla í skýrslu stjórnar.
+           Í yfirlýsingunni skal að lágmarki koma fram eftirfarandi:
+      1. Tilvísanir í þær reglur sem og leiðbeiningar, handbækur og fleira um
+stjórnarhætti sem félagið fylgir eða fylgja ber samkvæmt lögum og upplýsingar um
+  hvar slíkt er aðgengilegt almenningi. Víki félag frá reglum eða öðru skv. 1.
+  málsl. í heild eða að hluta skal greina frá því hver frávikin eru og ástæðu
+                                  fráviksins.
+   2. Lýsing á helstu þáttum innra eftirlits og áhættustýringarkerfa félagsins í
+                     tengslum við samningu reikningsskila.
+       3. Lýsing á samsetningu og starfsemi stjórnar, framkvæmdastjórnar og
+                      eftirlitsstjórnar og nefnda þeirra.
+Upplýsingar um móðurfélag skv. 2. mgr. skulu jafnframt birtar í skýrslu stjórnar
+     með samstæðureikningi auk lýsingar á helstu þáttum innra eftirlits og
+áhættustýringarkerfa samstæðunnar í tengslum við samningu samstæðureiknings.]^1)
+                              ^1)L. 118/2011, 1. gr.
 
                         VII. kafli. Samstæðureikningar.
                  67. gr. Skylda til að semja samstæðureikning.
@@ -1199,9 +1219,15 @@ reglugerðar (EB) nr. 1606/2002, og ákvæði annarra kafla laga þessara mæla 
   eftirlit. Jafnframt er ársreikningaskrá í einstökum tilvikum heimilt að fela
    sérfróðum aðilum það eftirlit sem ársreikningaskrá er falið samkvæmt lögum
                                     þessum.
+     [Þegar um er að ræða félag sem er með skráða skrifstofu utan Evrópska
+     efnahagssvæðisins en gefur út verðbréf sín sem skráð eru á skipulegum
+ verðbréfamarkaði hér á landi skal ársreikningaskrá hafa eftirlit með því hvort
+ársreikningur sem saminn er samkvæmt bindandi opinberum fyrirmælum heimaríkis er
+hliðstæður ákvæðum þessara laga. Ráðherra getur sett reglugerð um nánari ákvæði
+                    varðandi framkvæmd þessa eftirlits.]^2)
 Ársreikningaskrá skal birta með rafrænum og aðgengilegum hætti niðurstöður hvers
           eftirlits sem framkvæmt hefur verið samkvæmt þessari grein.
-                              ^1)L. 171/2007, 11. gr.
+                  ^1)L. 171/2007, 11. gr. ^2)L. 118/2011, 2. gr.
                              [94. gr. a. Dagsektir.
   Ársreikningaskrá getur lagt dagsektir á eftirlitsskyld félög samkvæmt kafla
    þessum veiti þau ekki umbeðnar upplýsingar innan hæfilegs frests. Greiðast
@@ -1629,13 +1655,13 @@ lýst er í 121. og 122. gr. laga þessara, er refsiverð eftir því sem segir 
 lögum þessum má auk þeirrar refsingar, sem hann sætir, gera lögaðilanum sekt og
 sviptingu starfsréttinda, enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða
                       hann hafi notið hagnaðar af brotinu.
- 126. gr. Ríkislögreglustjóri fer með frumrannsókn [sakamála]^1) vegna brota á
-lögum þessum. Skattrannsóknarstjóri ríkisins getur á hvaða stigi rannsóknar sem
-  er vísað máli til [rannsóknar lögreglu]^1) af sjálfsdáðum, svo og eftir ósk
-sökunautar ef hann vill ekki hlíta því að málið verði fengið yfirskattanefnd til
-                                   úrlausnar.
+  126. gr. [Embætti sérstaks saksóknara]^1) fer með frumrannsókn [sakamála]^2)
+ vegna brota á lögum þessum. Skattrannsóknarstjóri ríkisins getur á hvaða stigi
+rannsóknar sem er vísað máli til [rannsóknar lögreglu]^2) af sjálfsdáðum, svo og
+     eftir ósk sökunautar ef hann vill ekki hlíta því að málið verði fengið
+                         yfirskattanefnd til úrlausnar.
  Yfirskattanefnd úrskurðar sektir vegna brota á lögum þessum nema máli sé vísað
-     til ^1) rannsóknar og dómsmeðferðar skv. 1. mgr., [sbr. þó 3. mgr.]^2)
+     til ^2) rannsóknar og dómsmeðferðar skv. 1. mgr., [sbr. þó 3. mgr.]^3)
 Skattrannsóknarstjóri ríkisins leggur mál fyrir yfirskattanefnd og kemur fram af
    hálfu hins opinbera fyrir nefndinni þegar hún úrskurðar sektir. Úrskurðir
        yfirskattanefndar eru fullnaðarúrskurðir. Vararefsing fylgir ekki
@@ -1653,15 +1679,15 @@ opinberrar birtingar. Heimild ársreikningaskrár til að leggja á sektir samkv
    fyrirsvarsmanns eða starfsmanns lögaðilans. Sektarfjárhæðin nemur allt að
     500.000 kr. og rennur í ríkissjóð. Sektin er aðfararhæf. Sektarákvörðun
  ársreikningaskrár er kæranleg til yfirskattanefndar, sbr. [7]lög nr. 30/1992.
-   [Ráðherra]^3) skal setja reglugerð^4) um nánari framkvæmd á sektarheimild
-                             ársreikningaskrár.]^2)
+   [Ráðherra]^4) skal setja reglugerð^5) um nánari framkvæmd á sektarheimild
+                             ársreikningaskrár.]^3)
               Sektir fyrir brot á lögum þessum renna í ríkissjóð.
   Sakir samkvæmt lögum þessum fyrnast á sex árum miðað við upphaf rannsóknar á
- vegum skattrannsóknarstjóra ríkisins eða ríkislögreglustjóra eða hjá löglærðum
- fulltrúum þeirra, gegn manni sem sökunaut, enda verði ekki óeðlilegar tafir á
-                     rannsókn máls eða ákvörðun refsingar.
-     ^1)[8]L. 88/2008, 234. gr. ^2)L. 160/2006, 3. gr. ^3)L. 98/2009, 50. gr.
-                                ^4)Rg. 664/2008.
+ vegum skattrannsóknarstjóra ríkisins eða [embættis sérstaks saksóknara]^1) eða
+    hjá löglærðum fulltrúum þeirra, gegn manni sem sökunaut, enda verði ekki
+            óeðlilegar tafir á rannsókn máls eða ákvörðun refsingar.
+   ^1)L. 82/2011, 5. gr. ^2)[8]L. 88/2008, 234. gr. ^3)L. 160/2006, 3. gr. ^4)L.
+                       98/2009, 50. gr. ^5)Rg. 664/2008.
 
                            XIII. kafli. Ýmis ákvæði.
 127. gr. Ráðherra getur sett reglugerð^1) um framkvæmd laga þessara, þar á meðal
@@ -1682,12 +1708,15 @@ mgr. 68. gr., svo og 1. og 2. tölul. 1. mgr. 98. gr. og 1. og 2. tölul. 1. mgr
 597/2010. Rg. 598/2010. Rg. 599/2010. Rg. 600/2010. Rg. 745/2010. Rg. 746/2010.
    Rg. 747/2010. Rg. 748/2010. Rg. 749/2010. Rg. 750/2010. Rg. 751/2010. Rg.
  776/2010. Rg. 904/2010. Rg. 905/2010. Rg. 906/2010. Rg. 11/2011. Rg. 12/2011.
- Rg. 13/2011. Rg. 14/2011. Rg. 15/2011. Rg. 16/2011. Rg. 17/2011. Rg. 18/2011.
+ Rg. 13/2011. Rg. 14/2011. Rg. 15/2011. Rg. 17/2011. Rg. 18/2011. Rg. 436/2011.
+      Rg. 437/2011. Rg. 438/2011. R. 439/2011. Rg. 440/2011. Rg. 441/2011.
   128. gr. Með lögum þessum eru tekin upp ákvæði tilskipunar Evrópuþingsins og
  ráðsins nr. 78/660/EBE og nr. 83/349/EBE, og breytinga á þeim nr. 2001/65/EB,
-[2003/51/EB og 2004/109/EB],^1) og reglugerðar nr. 2002/1606/EB að því er varðar
-   ársreikninga félaga með takmarkaða ábyrgð og samstæðureikningsskil þeirra.
-                              ^1)L. 171/2007, 18. gr.
+[2003/51/EB, [2004/109/EB og 2006/46/EB]^1)],^2) og reglugerðar nr. 2002/1606/EB
+         að því er varðar ársreikninga félaga með takmarkaða ábyrgð og
+ samstæðureikningsskil þeirra, [svo og reglugerðar framkvæmdastjórnarinnar (EB)
+                               nr. 1569/2007].^1)
+                  ^1)L. 118/2011, 3. gr. ^2)L. 171/2007, 18. gr.
 
                             Ákvæði til bráðabirgða.
   I. Félögum, sem ber að beita alþjóðlegum reikningsskilastöðlum við samningu

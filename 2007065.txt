@@ -9,16 +9,22 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 4. apríl 2007.
+   Tóku gildi 4. apríl 2007. Breytt með l. 64/2011 (tóku gildi 16. júní 2011;
+ EES-samningurinn: XX. viðauki tilskipun 2003/87/EB) og l. 126/2011 (tóku gildi
+                                30. sept. 2011).
 
                             I. kafli. Almenn ákvæði.
                                 1. gr. Markmið.
-  Markmið laganna er að skapa skilyrði fyrir stjórnvöld til þess að standa við
- alþjóðlegar skuldbindingar Íslands um að takmarka losun gróðurhúsalofttegunda.
+   [Markmið laganna er að draga úr losun gróðurhúsalofttegunda hér á landi á
+ hagkvæman og skilvirkan hátt og að skapa skilyrði fyrir stjórnvöld til þess að
+      standa við alþjóðlegar skuldbindingar Íslands í loftslagsmálum.]^1)
+                               ^1)L. 64/2011, 1. gr.
                                2. gr. Gildissvið.
-Lögin gilda um skráningu og bókhald um losun gróðurhúsalofttegunda á landi og í
+[Lögin gilda um skráningu og bókhald um losun gróðurhúsalofttegunda á landi og í
    mengunarlögsögu Íslands og bindingu kolefnis í gróðri og jarðvegi, svo og
-   heimildir til losunar koldíoxíðs frá tilteknum atvinnurekstri skv. 7. gr.
+heimildir til losunar gróðurhúsalofttegunda frá tilteknum atvinnurekstri skv. I.
+             og II. viðauka og flugstarfsemi skv. III. viðauka.]^1)
+                               ^1)L. 64/2011, 2. gr.
                              3. gr. Skilgreiningar.
          Í lögum þessum er merking orða og orðasambanda sem hér segir:
        1. Atvinnurekstur: Öll starfsemi sem heimiluð er í samræmi við ákvæði
@@ -31,23 +37,46 @@ starfsleyfis sem gefið er út samkvæmt lögum um hollustuhætti og mengunarvar
                         brennisteinshexaflúoríð (SF[6]).
          4. Losun gróðurhúsalofttegunda: Útstreymi gróðurhúsalofttegunda í
                          andrúmsloftið af mannavöldum.
-       5. Losunarheimild: Heimild til losunar koldíoxíðs. Ein losunarheimild
-        jafngildir heimild til losunar á einu tonni af koldíoxíði á ári.
+        5. [Losunarheimild: Heimild til losunar gróðurhúsalofttegunda. Ein
+losunarheimild jafngildir heimild til losunar á einu tonni af koldíoxíð-ígildi á
+ ári. Eitt tonn af koldíoxíð-ígildi samsvarar einu tonni af koldíoxíði eða því
+ magni annarra gróðurhúsalofttegunda sem hefur sambærilegan hlýnunarmátt, sbr.
+                            töflu í IV. viðauka.]^1)
+                      [6. Aðili: Einstaklingur eða lögaðili.
+        7. Flugrekandi: Aðili sem rekur loftfar og notar það til að stunda
+ flugstarfsemi sem tilgreind er í III. viðauka eða, ef aðilinn er óþekktur eða
+           ekki tilgreindur af eiganda loftfars, eigandi loftfarsins.
+    8. Losunarleyfi: Leyfi til losunar gróðurhúsalofttegunda sem atvinnurekstri
+    skv. II. viðauka ber að hafa til þess að geta sótt um og fengið úthlutað
+                  losunarheimildum fyrir tímabilið 20132020.
+     9. Mengunarlögsaga Íslands: Hafsvæðið sem nær yfir innsævi að meðtalinni
+  strönd að efstu flóðmörkum á stórstraumsflóði, landhelgi og efnahagslögsögu,
+ landgrunn Íslands og efstu jarðlög, sbr. lög um landhelgi, efnahagslögsögu og
+                                   landgrunn.
+         10. Tonnkílómetrar: Flugvegalengd margfölduð með þyngd farms. Með
+    flugvegalengd er átt við stórbaugslengd (e. great circle distance) milli
+brottfararflugvallar og komuflugvallar auk 95 km staðlaðrar viðbótar. Með þyngd
+farms er átt við samanlagða þyngd þess sem flutt er af farmi, pósti og farþegum.
+   11. Umsjónarríki: Ríki á Evrópska efnahagssvæðinu sem ber ábyrgð á framkvæmd
+               tilskipunar 2008/101/EB gagnvart flugrekanda.]^1)
+                               ^1)L. 64/2011, 3. gr.
                                4. gr. Yfirstjórn.
-  Umhverfisráðuneyti hefur yfirumsjón með framkvæmd laga þessara eftir því sem
-     nánar er tilgreint í lögum þessum í samráði við viðkomandi ráðuneyti.
-   Þriggja manna úthlutunarnefnd losunarheimilda, skipuð af umhverfisráðherra
-         samkvæmt tilnefningu, sem í sitja fulltrúar iðnaðarráðuneytis,
-    umhverfisráðuneytis og fjármálaráðuneytis, úthlutar losunarheimildum til
+[Ráðuneytið]^1) hefur yfirumsjón með framkvæmd laga þessara eftir því sem nánar
+        er tilgreint í lögum þessum í samráði við viðkomandi ráðuneyti.
+  [Þriggja manna úthlutunarnefnd losunarheimilda, skipuð af ráðherra samkvæmt
+ tilnefningu ráðuneytisins, þess ráðuneytis er fer með málefni iðnaðar og þess
+    ráðuneytis er fer með fjárreiður ríkisins, úthlutar losunarheimildum til
 atvinnurekstrar sem fellur undir gildissvið laganna á tímabilinu 1. janúar 2008
-      til 31. desember 2012. Fulltrúi iðnaðarráðuneytis skal vera formaður
- úthlutunarnefndar losunarheimilda. Tilnefningaraðilar bera kostnað af þátttöku
-                     sinna fulltrúa í úthlutunarnefndinni.
- Umhverfisstofnun fer með framkvæmd laga þessara hvað varðar bókhald yfir losun
-  gróðurhúsalofttegunda, skráningarkerfi og eftirlit með losun koldíoxíðs frá
-atvinnurekstri skv. 7. gr. Umhverfisstofnun skal vera úthlutunarnefndinni, sbr.
-  2. mgr., til ráðgjafar varðandi umsóknir um losunarheimildir og um annað sem
-                          nefndin óskar aðstoðar við.
+til 31. desember 2012. Fulltrúi þess ráðuneytis er fer með málefni iðnaðar skal
+              vera formaður úthlutunarnefndar losunarheimilda.]^1)
+  [Umhverfisstofnun fer með framkvæmd laga þessara, þar með talið bókhald yfir
+ losun gróðurhúsalofttegunda, skráningarkerfi, leyfisveitingar og eftirlit með
+losun koldíoxíðs frá atvinnurekstri skv. I. og II. viðauka og flugrekendum skv.
+   III. viðauka. Umhverfisstofnun fer einnig með úthlutun losunarheimilda til
+ flugrekenda skv. III. viðauka. Umhverfisstofnun skal vera úthlutunarnefndinni,
+ sbr. 2. mgr., til ráðgjafar varðandi umsóknir um losunarheimildir og um annað
+                      sem nefndin óskar aðstoðar við.]^2)
+                  ^1)L. 126/2011, 458. gr. ^2)L. 64/2011, 4. gr.
 
                      II. kafli. Bókhald og skráningarkerfi.
                  5. gr. Bókhald um losun gróðurhúsalofttegunda.
@@ -60,27 +89,60 @@ kolefnis í gróðri og jarðvegi í samræmi við alþjóðlegar skuldbindingar
   til Umhverfisstofnunar. Orkustofnun skal taka saman og skila upplýsingum um
        orkumál, sem krafist er vegna bókhaldsins, til Umhverfisstofnunar.
 Umhverfisstofnun skal útbúa leiðbeiningar um skil á gögnum sem óskað er eftir í
-    samráði við Landbúnaðarháskóla Íslands og Orkustofnun. Umhverfisráðherra
-                  staðfestir leiðbeiningar Umhverfisstofnunar.
+samráði við Landbúnaðarháskóla Íslands og Orkustofnun. [Ráðherra]^1) staðfestir
+                       leiðbeiningar Umhverfisstofnunar.
+                             ^1)L. 126/2011, 458. gr.
                             6. gr. Skráningarkerfi.
     Umhverfisstofnun vistar skráningarkerfi um heimildir Íslands til losunar
                  gróðurhúsalofttegunda og sér um rekstur þess.
-Skráningarkerfið heldur utan um útgáfu, handhöfn, framsal og ógildingu heimilda
- íslenska ríkisins samkvæmt Kyoto-bókuninni auk losunarheimilda atvinnurekstrar
-    skv. 7. gr. og annarra lögaðila. Umhverfisráðherra er heimilt að setja í
-reglugerð ákvæði um nánari útfærslu á skráningarkerfinu, hvaða upplýsingar skuli
-skráðar í kerfið, um samvinnu og samtengingu við önnur kerfi, rekstur kerfisins
-   og hvernig farið skuli með útgáfu, handhöfn, framsal og ógildingu heimilda
-            Íslands auk losunarheimilda atvinnurekstrar skv. 7. gr.
- Ráðherra setur, að fengnum tillögum Umhverfisstofnunar, gjaldskrá vegna gjalds
-     sem atvinnurekstur skv. 7. gr. og aðrir lögaðilar sem eiga reikning í
-  skráningarkerfinu skulu greiða. Upphæð gjalds skal taka mið af kostnaði við
- þjónustu og framkvæmd einstakra verkefna og skal byggjast á rekstraráætlun þar
-sem þau atriði eru rökstudd sem ákvörðun gjalds byggist á. Gjaldið má ekki vera
- hærra en sá kostnaður. Gjaldskrá skal birt í B-deild Stjórnartíðinda. Gjöld má
-                            innheimta með fjárnámi.
+    [Skráningarkerfið heldur utan um útgáfu, handhöfn, framsal og ógildingu
+ losunarheimilda atvinnurekstrar skv. I. og II. viðauka, flugrekenda skv. III.
+  viðauka og annarra aðila. Ráðherra er heimilt að setja í reglugerð ákvæði um
+nánari útfærslu á skráningarkerfinu, skilyrði fyrir stofnun reiknings í kerfinu,
+ hvaða upplýsingar skuli skráðar í kerfið, um samvinnu og samtengingu við önnur
+kerfi, rekstur kerfisins og hvernig farið skuli með útgáfu, handhöfn, flutning,
+                   ógildingu og afskráningu losunarheimilda.
+Frá 1. janúar 2012 er hverjum þeim aðila sem uppfyllir sett skilyrði heimilt að
+stofna reikning í skráningarkerfinu og eiga losunarheimildir. Aðilum er heimilt
+   að flytja losunarheimildir sínar á aðra reikninga í skráningarkerfum ríkja
+     Evrópska efnahagssvæðisins. Aðili getur hvenær sem er krafist þess að
+    losunarheimildir á reikningi hans verði ógiltar. Þetta á þó ekki við um
+   losunarheimildir sem atvinnurekstri skv. I. viðauka er úthlutað fyrir árin
+                                 20082012.]^1)
+                               ^1)L. 64/2011, 5. gr.
 
                  III. kafli. Losunarheimildir atvinnurekstrar.
+                    [6. gr. a. Losunarleyfi atvinnurekstrar.
+    Rekstraraðilar er stunda starfsemi sem getið er í II. viðauka skulu hafa
+ losunarleyfi. Losunarleyfi er forsenda þess að atvinnurekstur geti sótt um og
+    fengið úthlutað losunarheimildum fyrir tímabilið 20132020. Sækja ber um
+  losunarleyfi til Umhverfisstofnunar. Umhverfisstofnun gefur út losunarleyfi
+innan þriggja mánaða frá því að umsókn berst ef sýnt þykir að atvinnurekstur sé
+ fær um að vakta losun frá starfsemi sinni og gefa um hana skýrslu skv. 13. gr.
+     Í umsókn um losunarleyfi skal koma fram lýsing á eftirfarandi atriðum:
+   a. starfsstöð og starfsemi rekstraraðila, þar á meðal þeirri tækni sem notuð
+                                      er,
+   b. hráefnum og hjálparefnum sem notuð eru í starfseminni og má ætla að valdi
+                          losun gróðurhúsalofttegunda,
+          c. uppsprettum gróðurhúsalofttegunda frá viðkomandi starfsstöð,
+    d. áætlun rekstraraðila um vöktun losunar og skýrslugjöf um hana, sbr. 13.
+                                      gr.
+ Umsóknin skal jafnframt hafa að geyma lýsingu á almennu máli um þau atriði sem
+                         getið er í þessari málsgrein.
+                 Í losunarleyfinu skal eftirfarandi koma fram:
+                      a. nafn og heimilisfang rekstraraðila,
+                     b. lýsing á starfsemi og losun frá henni,
+           c. skilyrði um vöktun, þ.m.t. aðferðafræði og tíðni vöktunar,
+                            d. skilyrði um skýrsluskil,
+   e. ákvæði um skyldu til að skila losunarheimildum, öðrum en losunarheimildum
+sem gefnar eru út vegna flugstarfsemi. Skila skal losunarheimildum í samræmi við
+ losun starfseminnar, fyrir hvert almanaksár, eins og hún hefur verið vottuð af
+  til þess bærum aðilum. Skila skal losunarheimildum innan fjögurra mánaða frá
+                         lokum viðkomandi almanaksárs.
+Endurskoða skal losunarleyfi á fimm ára fresti hið minnsta. Ráðherra er heimilt
+ að setja í reglugerð nánari ákvæði um vöktunaráætlun vegna losunarleyfa og þau
+                     skilyrði sem hún þarf að uppfylla.]^1)
+                               ^1)L. 64/2011, 6. gr.
            7. gr. Skylda atvinnurekstrar til öflunar losunarheimilda.
  Atvinnurekstri skv. 2. mgr. er óheimilt að starfa á tímabilinu 1. janúar 2008
   til 31. desember 2012 nema hann hafi aflað sér losunarheimilda eða lagt fram
@@ -210,22 +272,326 @@ yfir skýrslu um losun koldíoxíðs sem skila ber til stofnunarinnar. Upphæð 
  úthlutun losunarheimilda skv. 9. gr., svo sem með fjármögnun verkefna á sviði
    bindingar kolefnis í gróðri og jarðvegi, með þátttöku í verkefnum á sviði
   loftslagsvænnar þróunaraðstoðar eða sameiginlegrar framkvæmdar eða kaupum á
- losunarheimildum erlendis frá. Umhverfisráðherra er heimilt að setja reglugerð
-   með nánari ákvæðum um hvaða losunarheimildir hann metur gildar að fengnum
-                          tillögum Umhverfisstofnunar.
+ losunarheimildum erlendis frá. [Ráðherra]^1) er heimilt að setja reglugerð með
+ nánari ákvæðum um hvaða losunarheimildir hann metur gildar að fengnum tillögum
+                              Umhverfisstofnunar.
+                             ^1)L. 126/2011, 458. gr.
+
+                [III. kafli A. Losunarheimildir flugrekenda.]^1)
+                               ^1)L. 64/2011, 7. gr.
+                        [14. gr. a. Gildissvið kaflans.
+Þessi kafli gildir um flugrekendur sem stunda flugstarfsemi sem getið er í III.
+viðauka, að því gefnu að viðkomandi starfsemi feli í sér lendingu eða flugtak á
+ Evrópska efnahagssvæðinu. Kaflinn gildir þó eingöngu um flugrekanda ef Ísland
+     telst umsjónarríki hans í samræmi við reglugerð sem ráðherra setur. Í
+reglugerðinni skal mælt fyrir um niðurröðun flugrekenda á umsjónarríki í samræmi
+  við lista sem gefinn er út árlega af framkvæmdastjórn Evrópusambandsins.]^1)
+                               ^1)L. 64/2011, 7. gr.
+       [14. gr. b. Skylda flugrekenda til að skila inn losunarheimildum.
+  Flugrekendur skulu fyrir 30. apríl ár hvert standa skil á losunarheimildum í
+   samræmi við losun frá viðkomandi flugstarfsemi á undanfarandi almanaksári
+                    samkvæmt skýrslu skv. 2. mgr. 14. gr. e.
+Flugrekendum er heimilt að efna skyldur sínar skv. 1. mgr. með losunarheimildum
+sem hefur verið úthlutað eða hafa verið seldar á uppboði í samræmi við tilskipun
+                                2003/87/EB.]^1)
+                               ^1)L. 64/2011, 7. gr.
+   [14. gr. c. Úthlutun losunarheimilda til flugrekenda undir umsjón íslenska
+                                   ríkisins.
+Á tímabilinu 1. janúar 2012 til 31. desember 2012 og á tímabilinu 1. janúar 2013
+  til 31. desember 2020 verður losunarheimildum úthlutað endurgjaldslaust til
+flugrekenda í samræmi við árangursviðmið sem ráðherra skal ákveða með reglugerð
+  fyrir 31. desember 2011. Ákvæði þeirrar reglugerðar skulu vera í samræmi við
+ákvörðun sameiginlegu EES- nefndarinnar um árangursviðmið fyrir flugstarfsemi á
+                           Evrópska efnahagssvæðinu.
+   Á tímabilinu 1. janúar 2013 til 31. desember 2020 verður tilteknum fjölda
+      losunarheimilda úthlutað endurgjaldslaust til flugrekenda sem hefja
+    flugstarfsemi sem getið er í III. viðauka að loknu árinu 2010 og þeirra
+flugrekenda sem aukið hafa starfsemi sína í tonnkílómetrum að meðaltali um meira
+en 18% á ári frá árinu 2010 til ársins 2015. Úthlutun samkvæmt þessari málsgrein
+ skal byggjast á árangursviðmiði sem ráðherra ákveður í reglugerð í samræmi við
+ ákvörðun sameiginlegu EES-nefndarinnar um árangursviðmið fyrir flugstarfsemi á
+                           Evrópska efnahagssvæðinu.
+Umsóknir um losunarheimildir skv. 1. mgr. skal senda Umhverfisstofnun fyrir 15.
+júní 2011. Umsóknir um losunarheimildir skv. 2. mgr. skal senda Umhverfisstofnun
+   fyrir 30. júní 2015. Umhverfisstofnun skal taka afstöðu til umsókna innan
+þriggja mánaða frá því að viðkomandi ákvörðun EES-nefndarinnar um árangursviðmið
+    fyrir flugstarfsemi á Evrópska efnahagssvæðinu er tekin. Ráðherra setur
+   reglugerð með nánari ákvæðum um form og efni umsókna, þar á meðal um hvaða
+       upplýsingar skulu fylgja umsókn, og um málsmeðferð við afgreiðslu
+                         Umhverfisstofnunar á umsóknum.
+ Umhverfisstofnun úthlutar losunarheimildum fyrir 28. febrúar 2012 og eftir það
+         fyrir 28. febrúar ár hvert á reikning viðkomandi flugrekenda í
+                             skráningarkerfinu.]^1)
+                               ^1)L. 64/2011, 7. gr.
+                      [14. gr. d. Uppboð losunarheimilda.
+   Íslenska ríkið skal á hverju ári frá árinu 2012 bjóða upp losunarheimildir
+  flugrekstrar í samræmi við heimildir sínar samkvæmt EES-samningnum. Ráðherra
+  setur reglugerð um hve margar losunarheimildir verða boðnar upp af íslenska
+                     ríkinu og um tilhögun uppboðsins.]^1)
+                               ^1)L. 64/2011, 7. gr.
+             [14. gr. e. Eftirlitsáætlanir, vöktun og skýrslugerð.
+Flugrekendur skulu útbúa eftirlitsáætlanir þar sem fram kemur hvernig vöktun og
+   skýrslugerð um losun koldíoxíðs og tonnkílómetra verður háttað. Senda ber
+ Umhverfisstofnun eftirlitsáætlanir í síðasta lagi fjórum mánuðum fyrir upphaf
+  þess árs sem flugrekandi hyggst hefja starfsemi sem getið er í III. viðauka.
+     Umhverfisstofnun fer yfir eftirlitsáætlanir flugrekenda í samráði við
+Flugmálastjórn ef þörf er á. Ef eftirlitsáætlanir uppfylla skilyrði laga þessara
+og reglugerðar skv. 3. mgr. ber Umhverfisstofnun að staðfesta þær innan þriggja
+                         mánaða frá því að þær berast.
+   Flugrekendur skulu í síðasta lagi 31. mars ár hvert skila skýrslu um losun
+koldíoxíðs til Umhverfisstofnunar. Skýrslan skal vottuð af óháðum aðila sem til
+ þess er bær í samræmi við reglugerð skv. 3. mgr. Ef skýrsla flugrekanda hefur
+ekki verið vottuð á fullnægjandi hátt hinn 31. mars skal Umhverfisstofnun koma í
+      veg fyrir hvers konar aðgerðir á reikningi viðkomandi flugrekanda í
+ skráningarkerfinu skv. 6. gr. þar til fullnægjandi skýrslu hefur verið skilað.
+   Ráðherra setur að fengnum tillögum Umhverfisstofnunar reglugerð með nánari
+   ákvæðum um efni og form eftirlitsáætlana skv. 1. mgr., uppfærslu þeirra og
+ reglulega endurskoðun, auk ákvæða um efni og form skýrslna um losun koldíoxíðs
+ skv. 2. mgr. Í reglugerðinni skal gerð krafa um að skýrsla um losun koldíoxíðs
+    sé vottuð af óháðum aðila sem er til þess bær samkvæmt lögum þessum.]^1)
+                               ^1)L. 64/2011, 7. gr.
+
+                           [III. kafli B. Gjaldtaka.]
+                               ^1)L. 64/2011, 7. gr.
+                             [14. gr. f. Gjaldtaka.
+    Ráðherra setur, að fengnum tillögum Umhverfisstofnunar, gjaldskrá fyrir
+                                 eftirfarandi:
+    1. Yfirferð yfir skýrslu atvinnurekstrar um losun koldíoxíðs og afgreiðslu
+                    umsókna um losunarleyfi atvinnurekstrar.
+        2. Afgreiðslu umsókna flugrekenda um losunarheimildir, staðfestingu
+   eftirlitsáætlana flugrekenda og yfirferð yfir skýrslu flugrekenda um losun
+                                  koldíoxíðs.
+   3. Gjald sem atvinnurekstur, flugrekendur og aðrir aðilar sem eiga reikning í
+                  skráningarkerfinu skv. 6. gr. skulu greiða.
+ Upphæð gjalda samkvæmt þessari grein skal taka mið af kostnaði við þjónustu og
+   framkvæmd einstakra verkefna og skal byggjast á rekstraráætlun þar sem þau
+  atriði eru rökstudd sem ákvörðun gjalda byggist á og mega gjöldin ekki vera
+  hærri en sá kostnaður. Gjaldskrá skal birt í B-deild Stjórnartíðinda. Gjöld
+                      þessi má innheimta með fjárnámi.]^1)
+                               ^1)L. 64/2011, 7. gr.
 
                        IV. kafli. Viðurlög og gildistaka.
                                15. gr. Viðurlög.
-Umhverfisstofnun leggur stjórnvaldssektir á atvinnurekstur sem er skylt að eiga
-  losunarheimildir og hefur ekki lagt inn nægjanlegar heimildir á lokareikning
- fyrir 1. maí hvert ár vegna síðastliðins árs. Skal sektin nema 9.000 kr. vegna
-    hverrar losunarheimildar sem upp á vantar í samræmi við skýrslu um losun
-   koldíoxíðs frá atvinnurekstri þess árs, sbr. 2. og 3. mgr. 13. gr. Sektir
-                   samkvæmt þessari grein renna í ríkissjóð.
+[Umhverfisstofnun leggur stjórnvaldssektir á atvinnurekstur og flugrekendur sem
+er skylt að eiga losunarheimildir og hafa ekki lagt inn nægjanlegar heimildir á
+ lokareikning fyrir 1. maí hvert ár vegna næstliðins árs. Skal sektin nema sem
+  svarar 100 evrum í íslenskum krónum vegna hverrar losunarheimildar sem upp á
+ vantar í samræmi við skýrslu um losun koldíoxíðs frá atvinnurekstri þess árs,
+  sbr. 2. og 3. mgr. 13. gr. Sektir samkvæmt þessari grein renna í ríkissjóð.
    Umhverfisstofnun er heimilt að ákvarða sektir allt að 100.000 kr. á dag ef
-        atvinnurekstur sinnir ekki skyldu um skil á skýrslu skv. 13. gr.
+    atvinnurekstur sinnir ekki skyldu um skil á skýrslu skv. 13. gr. eða ef
+      flugrekandi sinnir ekki skyldu um skil á skýrslu skv. 14. gr. e.]^1)
+                               ^1)L. 64/2011, 8. gr.
                               16. gr. Gildistaka.
                           Lög þessi öðlast þegar gildi
-Ákvæði til bráðabirgða. Starfandi atvinnurekstur sem fellur undir lög þessi skal
-sækja um losunarheimildir fyrir tímabilið 1. janúar 2008 til 31. desember 2012 í
-                     síðasta lagi 1. júní 2007, sbr. 8. gr.
+
+                            Ákvæði til bráðabirgða.
+      I. Starfandi atvinnurekstur sem fellur undir lög þessi skal sækja um
+losunarheimildir fyrir tímabilið 1. janúar 2008 til 31. desember 2012 í síðasta
+                         lagi 1. júní 2007, sbr. 8. gr.
+ [II. Starfandi atvinnurekstur sem fellur undir lög þessi skv. II. viðauka skal
+     sækja um losunarleyfi skv. 6. gr. a í síðasta lagi 15. júní 2011.]^1)
+                               ^1)L. 64/2011, 9. gr.
+[III. Starfandi flugrekendur sem falla undir lög þessi skulu í síðasta lagi 15.
+júní 2011 skila skýrslu um losun koldíoxíðs til Umhverfisstofnunar, sbr. 2. mgr.
+                                 14. gr. e.]^1)
+                               ^1)L. 64/2011, 9. gr.
+[IV. Ráðherra er heimilt að setja í reglugerð heimild til undanþágu frá ákvæðum
+  1. og 2. mgr. 14. gr. e að því er varðar frest til að senda Umhverfisstofnun
+eftirlitsáætlanir og skýrslu um losun koldíoxíðs. Eingöngu skal heimilt að veita
+slíka undanþágu í tilvikum þar sem flugrekandi hefur ekki sinnt skyldu varðandi
+ eftirlitsáætlanir og skýrsluskil vegna atvika eða ástæðna sem ekki eru á hans
+      valdi eða vegna atvika sem upp komu fyrir setningu laga þessara.]^1)
+                               ^1)L. 64/2011, 9. gr.
+[V. Ef flugrekandi sem fellur undir umsjón íslenska ríkisins hefur sent lögbæru
+yfirvaldi annars ríkis innan Evrópska efnahagssvæðisins eftirlitsáætlanir og þær
+hafa hlotið staðfestingu í samræmi við ákvæði tilskipunar 2003/87/EB, með síðari
+   breytingum, fyrir 31. desember 2010 skal Umhverfisstofnun staðfesta slíkar
+     áætlanir. Er flugrekanda þá ekki skylt að skila áætlun skv. 14. gr. e.
+   Flugrekandi sem sendi eftirlitsáætlun, skv. 1. mgr. 14. gr. e, til lögbærs
+ yfirvalds annars ríkis á Evrópska efnahagssvæðinu árið 2010 skal einnig senda
+     skýrslu um losun fyrir árið 2010, skv. 2. mgr. 14. gr. e, og umsókn um
+    losunarheimildir, skv. 3. mgr. 14. gr. e, til þess sama stjórnvalds árið
+                                   2011.]^1)
+                               ^1)L. 64/2011, 9. gr.
+    [VI. Til 31. desember 2012 telst losunarheimild vera heimild til losunar
+ koldíoxíðs. Ein losunarheimild jafngildir því heimild til losunar á einu tonni
+                            af koldíoxíði á ári.]^1)
+                               ^1)L. 64/2011, 9. gr.
+
+  [I. viðauki. Starfsemi sem fellur undir gildissvið laganna hvað varðar losun
+     gróðurhúsalofttegunda á tímabilinu 1. janúar 2008  31. desember 2012.
+  Eftirfarandi atvinnurekstur er óheimill á tímabilinu 1. janúar 2008 til 31.
+ desember 2012 nema hann hafi aflað sér losunarheimilda eða lagt fram áætlun um
+ hvernig hann muni afla sér losunarheimilda vegna tímabilsins í samræmi við lög
+                                     þessi:
+
+                                   Starfsemi
+                                                                     Gróðurhúsa-
+lofttegund
+a.         staðbundin orkuframleiðsla með brennslu                   Koldíoxíð
+           jarðefnaeldsneytis sem losar meira en 30.000 tonn
+           koldíoxíðs árlega.
+b.         staðbundin iðnaðarframleiðsla sem losar meira en 30.000   Koldíoxíð
+           tonn koldíoxíðs árlega.]^1)
+
+                              ^1)L. 64/2011, 10. gr.
+
+ [II. viðauki. Starfsemi sem fellur undir gildissvið laganna hvað varðar losun
+     gróðurhúsalofttegunda á tímabilinu 1. janúar 2013  31. desember 2020.
+  Eftirfarandi atvinnurekstur fellur undir gildissvið viðskiptakerfis ESB með
+losunarheimildir gróðurhúsalofttegunda frá og með 1. janúar 2013 og ber að afla
+                     losunarleyfis í samræmi við lög þessi:
+
+                                                                 Gróðurhúsa-
+Starfsemi                                                        lofttegundir
+Bruni eldsneytis í stöðvum með heildarnafnvarmaafli sem er yfir  Koldíoxíð
+20 MW (að undanskildum stöðvum til brennslu á hættulegum úrgangi
+eða sorpi).
+Hreinsun jarðolíu.                                               Koldíoxíð
+Framleiðsla á koksi.                                             Koldíoxíð
+Brennsla eða glæðing, einnig kögglun, málmgrýtis (þ.m.t.         Koldíoxíð
+brennisteinsgrýti).
+Framleiðsla á hrájárni eða stáli (fyrsta eða önnur bræðsla),     Koldíoxíð
+þ.m.t. samfelld málmsteypa, þar sem afkastagetan er meiri en 2,5
+tonn á klukkustund.
+Framleiðsla eða vinnsla á járnríkum málmum (þ.m.t. járnblendi)   Koldíoxíð
+þar sem í rekstri eru brennslueiningar með heildarnafnvarmaafli
+sem er yfir 20 MW. Vinnslan tekur m.a. til völsunarstöðva, ofna
+til endurhitunar, glæðingarofna, smiðja, málmsteypna og eininga
+til yfirborðsmeðhöndlunar og sýruböðunar.
+Framleiðsla á hrááli.                                            Kodíoxíð og
+                                                                 perflúorkolefni
+Framleiðsla á endurunnu áli þar sem í rekstri eru                Koldíoxíð
+brennslueiningar með heildarnafnvarmaafli sem er yfir 20 MW.
+Framleiðsla eða vinnsla á járnlausum málmum, þ.m.t. framleiðsla  Koldíoxíð
+á málmblöndum, hreinsun, steypumótun o.s.frv. þar sem í rekstri
+eru brennslueiningar með heildarnafnvarmaafli (þ.m.t. eldsneyti
+sem er notað sem afoxunarefni) sem er yfir 20 MW.
+Framleiðsla á sementsgjalli í hverfiofnum með afkastagetu sem er Koldíoxíð
+yfir 500 tonnum á dag eða í annars konar ofnum þar sem
+framleiðsluafköstin eru yfir 50 tonnum á dag.
+Framleiðsla á kalki eða glæðing á dólómíti eða magnesíti í       Koldíoxíð
+hverfiofnum eða annars konar ofnum sem hafa framleiðslugetu sem
+er yfir 50 tonnum á dag.
+Framleiðsla glers, einnig glertrefja, þar sem bræðsluafköstin    Koldíoxíð
+eru meiri en 20 tonn á dag.
+Framleiðsla á leirvörum með brennslu, einkum þakflísum,          Koldíoxíð
+múrsteinum, eldföstum múrsteini, þaksteini og leirmunum eða
+postulíni, þar sem framleiðslugetan er yfir 75 tonnum á dag.
+Framleiðsla á einangrunarefni úr steinull þar sem notað er gler, Koldíoxíð
+berg eða gjall og bræðsluafköstin eru yfir 20 tonnum á dag.
+Þurrkun eða glæðing á gifsi eða framleiðsla á gifsplötum og      Koldíoxíð
+öðrum gifsvörum þar sem í rekstri eru brennslueiningar með
+heildarnafnvarmaafli sem er yfir 20 MW.
+Framleiðsla á pappírsdeigi úr timbri eða öðrum trefjaefnum.      Koldíoxíð
+Framleiðsla á pappír eða pappa þar sem framleiðslugetan er meiri Koldíoxíð
+en 20 tonn á dag.
+Framleiðsla kinroks, sem felur í sér kolun á lífrænum efnum á    Koldíoxíð
+borð við olíu, tjöru og sundrunar- og eimingarleif, þar sem í
+rekstri eru brennslueiningar með heildarnafnvarmaafli sem er
+yfir 20 MW.
+Framleiðsla á saltpéturssýru.                                    Koldíoxíð og
+                                                                 nituroxíð
+Framleiðsla á adipínsýru.                                        Koldíoxíð og
+                                                                 nituroxíð
+Framleiðsla á glýoxali og glýoxýlsýru.                           Koldíoxíð og
+                                                                 nituroxíð
+Framleiðsla á ammoníaki.                                         Koldíoxíð
+Framleiðsla á lífrænum íðefnum í lausu með sundrun, umbreytingu, Koldíoxíð
+oxun, að hluta eða til fulls, eða með svipuðum ferlum þar sem
+framleiðslugetan er meiri en 100 tonn á dag.
+Framleiðsla á vetni (H[2]) og tilbúnu gasi með umbreytingu eða   Koldíoxíð
+hlutaoxun þar sem framleiðslugetan er meiri en 25 tonn á dag.
+Framleiðsla á natríumkarbónati (Na[2]CO[3]) og                   Koldíoxíð
+natríumbíkarbónati (NaHCO[3]).
+Föngun gróðurhúsalofttegunda frá stöðvum sem falla undir þessa   Koldíoxíð
+tilskipun, í því skyni að flytja þær til geymslu í jörðu á stað
+sem hefur hlotið leyfi samkvæmt tilskipun 2009/31/EB.
+Flutningur gróðurhúsalofttegunda eftir leiðslum til geymslu í    Koldíoxíð
+jörðu á stað sem hefur hlotið leyfi samkvæmt tilskipun
+2009/31/EB.
+Geymsla gróðurhúsalofttegunda í jörðu á stað sem hefur hlotið    Koldíoxíð
+leyfi samkvæmt tilskipun 2009/31/EB.
+
+     1. Stöðvar, eða hlutar þeirra, sem eru notaðar fyrir rannsóknir, þróun og
+  prófun á nýjum vörum og aðferðum og stöðvar sem nota eingöngu lífmassa falla
+                           ekki undir þennan viðauka.
+   2. Markgildin hér að framan eiga almennt við um framleiðslugetu eða -afköst.
+   Ef margar tegundir starfsemi sem falla undir sama flokk eru reknar í sömu
+                   stöðinni er afkastageta þeirra lögð saman.
+   3. Þegar heildarnafnvarmaafl stöðvar er reiknað til þess að ákveða hvort hún
+verði tekin með í viðskiptakerfi ESB með losunarheimildir gróðurhúsalofttegunda
+ skal leggja saman nafnvarmaafl allra tæknieininga í stöðinni þar sem eldsneyti
+ er brennt. Þessar einingar geta tekið til allra tegunda af kötlum, brennurum,
+ hverflum, hiturum, bræðsluofnum, brennsluofnum, glæðingarofnum, hitunarofnum,
+   þurrkofnum, hreyflum, efnarafölum, tengibrunaeiningum (e. chemical looping
+ combustion units), afgaslogum og eftirbrennurum eða hvarfakútum (e. thermal or
+ catalytic post-combustion units). Einingar sem hafa nafnvarmaafl undir 3 MW og
+  einingar sem nota eingöngu lífmassa teljast ekki með við þessa útreikninga.
+        Einingar, sem nota eingöngu lífmassa eru m.a. einingar þar sem
+       jarðefnaeldsneyti er eingöngu notað við gangsetningu eða stöðvun.
+      4. Ef eining er notuð við tiltekna starfsemi og viðmiðunarmörkin fyrir
+ eininguna eru ekki gefin upp sem heildarnafnvarmaafl skulu mörkin fyrir þessa
+ starfsemi vega þyngra þegar ákvörðun er tekin um upptöku í viðskiptakerfi ESB
+                  með losunarheimildir gróðurhúsalofttegunda.
+      5. Ef í ljós kemur að farið hefur verið yfir markgildin fyrir einhverja
+  tegund starfsemi í þessum viðauka í tiltekinni stöð skulu allar einingar sem
+  brenna eldsneyti, aðrar en einingar sem brenna hættulegum úrgangi eða sorpi,
+           koma fram í leyfinu fyrir losun gróðurhúsalofttegunda.]^1)
+                              ^1)L. 64/2011, 10. gr.
+
+              [III. viðauki. Flugstarfsemi sem fellur undir lögin.
+Flugsamgöngur falla innan gildissviðs laga þessara en frá og með 1. janúar 2012
+ falla þær undir viðskiptakerfi ESB með losunarheimildir gróðurhúsalofttegunda.
+   Flugsamgöngur teljast allar flugferðir sem lýkur eða hefjast á flugvelli á
+  yfirráðasvæði aðildarríkis Evrópska efnahagssvæðisins. Eftirfarandi flug eru
+           undanþegin gildissviði viðskiptakerfisins og laga þessara:
+    a. flugferðir sem eingöngu eru til flutninga í opinberri sendiför ríkjandi
+     þjóðhöfðingja konungsríkis og nánustu vandamanna hans, þjóðhöfðingja,
+  ríkisstjórnarleiðtoga og ráðherra landa, annarra en aðildarríkja, ef þær eru
+             rökstuddar með viðeigandi stöðuvísi á flugáætluninni,
+                 b. herflug herloftfara og toll- og lögregluflug,
+     c. flug í tengslum við leit og björgun, flug í tengslum við slökkvistarf,
+  flug í mannúðarskyni og sjúkraflug sem viðurkennt er af viðeigandi, lögbæru
+                                   yfirvaldi,
+   d. flug sem er eingöngu samkvæmt sjónflugsreglum eins og þær eru skilgreindar
+                      í 2. viðauka við Chicago-samninginn,
+     e. flug sem endar á flugvellinum þar sem loftfarið tók flugið og þar sem
+                    engin lending á sér stað í millitíðinni,
+    f. æfingaflug, eingöngu að því er varðar öflun vottorðs eða áritunar ef um
+ flugáhafnir er að ræða, þar sem þetta er rökstutt með viðeigandi athugasemd í
+  flugáætluninni, ef flugið er hvorki til farþega- eða farmflutninga né vegna
+                   staðsetningar eða flutnings á loftfarinu,
+    g. flug sem er eingöngu vegna vísindarannsókna eða til að skoða, prófa eða
+        votta loftför eða búnað, hvort sem er í lofti eða á jörðu niðri,
+    h. flug loftfara með staðfestan hámarksflugtaksmassa sem er minni en 5.700
+                                      kg,
+   i. flugferðir sem farnar eru innan ramma um skyldur um opinbera þjónustu, sem
+settar eru fram í samræmi við reglugerð (EBE) nr. 2408/92, eins og tilgreint er
+í 2. mgr. 299. gr. Rómarsáttmálans, eða á flugleiðum þar sem flutningsgetan sem
+                í boði er er ekki meiri en 30.000 sæti á ári, og
+   j. flug sem félli undir lögin ef ekki væri fyrir tilstilli þessa liðar og er
+ á vegum flugrekanda í rekstri sem annast annaðhvort færri en 243 flugferðir á
+ hverju tímabili í þrjú samfelld fjögurra mánaða tímabil eða flugferðir þar sem
+  heildarlosun á ári er minni en 10.000 tonn. Flugferðir sem eingöngu eru til
+ flutninga í opinberri sendiför ríkjandi þjóðhöfðingja konungsríkis og nánustu
+ vandamanna hans, þjóðhöfðingja, ríkisstjórnarleiðtoga og ráðherra aðildarríkis
+              má ekki undanskilja að því er varðar þennan lið.]^1)
+                              ^1)L. 64/2011, 10. gr.
+
+                                 [IV. viðauki.
+  Eftirfarandi tafla sýnir hversu mikið magn þeirra gróðurhúsalofttegunda sem
+             lögin ná til samsvara einu tonni af koldíoxíð-ígildi:
+
+                                        Magn (í tonnum) er
+Gróðurhúsalofttegundir                  samsvarar einu tonni
+                                        af koldíoxíð-ígildi
+Koldíoxíð (CO[2])                       1
+Metan (CH[4])                           25
+Köfnunarefnisdíoxíð (N[2]O)             298
+HFC-23                                  14.800
+HFC-134a                                1.430
+Brennisteinshexaflúoríð (SF[6])         22.800                       ]^1)
+
+                              ^1)L. 64/2011, 10. gr.

@@ -10,7 +10,10 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
         Tóku gildi 6. júní 2008, nema 5. gr. sem tók gildi 1. júní 2008.
-               EES-samningurinn: II. viðauki reglugerð 1907/2006.
+ EES-samningurinn: II. viðauki reglugerð 1907/2006. Breytt með l. 43/2011 (tóku
+    gildi 13. maí 2011; EES-samningurinn: II. viðauki tilskipun 67/548/EBE,
+1999/45/EB, reglugerð 1907/2006, 1272/2008) og l. 126/2011 (tóku gildi 30. sept.
+                                     2011).
 
                                 1. gr. Markmið.
      Markmið laga þessara er annars vegar að tryggja að meðferð á efnum og
@@ -104,6 +107,27 @@ Framleiðandi eða innflytjandi efnis, hvort sem það er hreint, í efnablöndu
    Um virk efni í varnar- og sæfiefnum fer samkvæmt [8]lögum um eiturefni og
                           hættuleg efni, nr. 52/1988.
                     ^1)Rg. 750/2008, sbr. 340/2009 og 836/2010.
+            [5. gr. a. Flokkun efna og efnablandna og tilkynningar.
+Áður en efni og efnablanda er sett á markað skulu framleiðandi, innflytjandi og
+ eftirnotandi, með samvinnu sín á milli, flokka efni og efnablöndu með tilliti
+         til hættu fyrir umhverfi og heilsu, svo og eðlisrænnar hættu.
+  Framleiðandi eða innflytjandi skal tilkynna hættuflokkun efnis eða einstakra
+     innihaldsefna í efnablöndu til Efnastofnunar Evrópu innan 30 daga frá
+                                markaðssetningu.
+Framleiðandi, innflytjandi og eftirnotandi skulu láta fara fram mat sem lagt er
+til grundvallar við hættuflokkun efnis eða efnablöndu. Slíkt mat skal fara fram
+á grundvelli fyrirliggjandi og aðgengilegra gagna um viðkomandi efni. Ef þörf er
+  á skulu framleiðandi, innflytjandi og eftirnotandi afla nauðsynlegra gagna í
+samræmi við prófunaraðferðir sem kveðið er á um í reglugerð sem ráðherra setur.
+ Framleiðandi, innflytjandi eða eftirnotandi skal á grundvelli nýrra upplýsinga
+  eða endurmats á fyrirliggjandi upplýsingum breyta áðurgerðri flokkun sé þess
+                                     þörf.
+   Birgi er skylt að varðveita og hafa til reiðu gögn sem tengjast flokkun og
+ merkingu samkvæmt lögum þessum í a.m.k. 10 ár eftir að hann afhenti efnið eða
+                              efnablönduna síðast.
+ Ráðherra er heimilt að setja í reglugerð nánari ákvæði um hættuflokkun efna og
+              efnablandna og mat til grundvallar hættuflokkun.]^1)
+                               ^1)L. 43/2011, 1. gr.
                               6. gr. Markaðsleyfi.
 Framleiðandi eða innflytjandi efnis sem háð er markaðsleyfi skal sækja um slíkt
   leyfi til Efnastofnunar Evrópu. Sama gildir um eftirnotanda ef notkun hans á
@@ -114,14 +138,29 @@ efninu er ekki innan heimils notkunarsviðs samkvæmt markaðsleyfi sem gefið h
    markaðsleyfi, um leyfisumsókn, efni leyfis, veitingu þess og staðfestingu
                               Umhverfisstofnunar.
                           ^1)Rg. 750/2008, sbr. 836/2010.
+                        [6. gr. a. Merkingar og umbúðir.
+  Birgir skal tryggja að efni og efnablöndur sem tilbúnar eru til notkunar séu
+  merktar í samræmi við hættuflokkun þeirra. Umbúðir skulu merktar með nafni,
+ heimilisfangi og símanúmeri birgis, magni efnis og efnablöndu, hættusetningum,
+varnaðarsetningum, viðvörunarorðum og hættumerkjum. Texti merkinganna skal vera
+      á íslensku nema kveðið sé á um annað í reglugerð sem ráðherra setur.
+   Birgir skal tryggja að umbúðir efna og efnablandna séu traustar, ólekar og
+nægilega öruggar til að varðveita vöruna án þess að skemmdir verði á umbúðum eða
+innihaldi þeirra við eðlilega meðhöndlun. Jafnframt skal hann tryggja að umbúðir
+  efna og efnablandna, sem ætlaðar eru til dreifingar á almennum markaði, séu
+ hvorki þannig að formi né útliti að þær veki forvitni og athygli barna eða svo
+  að villast megi á þeim og umbúðum undir matvæli, fóður, lyf eða snyrtivörur.
+  Ráðherra er heimilt að setja í reglugerð nánari ákvæði um merkingar, m.a. um
+         tungumál, stærð og gerð umbúða og upplýsingar á merkimiða.]^1)
+                               ^1)L. 43/2011, 2. gr.
                      7. gr. Öryggisblöð og öryggisskýrslur.
 Birgjar skulu láta öryggisblað fylgja við afhendingu efnis til eftirnotanda eða
  dreifanda, hvort sem það er hreint eða í efnablöndu, ef það fellur undir einn
                         eða fleiri af eftirtöldum liðum:
-    a. Efnið er hættulegt eða eitrað, sbr. [9]lög nr. 52/1988, um eiturefni og
-                                 hættuleg efni.
-   b. Efnið er þrávirkt, safnast fyrir í lífverum eða er eitrað samkvæmt nánari
-                     viðmiðunum sem settar eru í reglugerð.
+      a. [Efnið hefur verið flokkað í samræmi við 5. gr. a og samkvæmt þeirri
+ flokkun veldur það eðlisrænni hættu, heilbrigðishættu eða umhverfishættu.]^1)
+   b. [Efnið er þrávirkt, safnast fyrir í lífverum og er eitrað samkvæmt nánari
+                     viðmiðum sem sett eru í reglugerð.]^1)
                      c. Efnið er háð markaðsleyfi skv. 6. gr.
   Upplýsingar úr öryggisskýrslum um örugga notkun skulu, þegar við á, fylgja í
                             viðauka við öryggisblað.
@@ -138,8 +177,8 @@ Eftirnotendur skulu tilkynna dreifanda, innflytjanda eða framleiðanda ef notku
                                       ári.
  Nánari ákvæði um skyldu til gerðar og endurmats öryggisblaða og um undanþágur
 þar frá, um efni þeirra og um skyldur birgja og eftirnotenda að öðru leyti skulu
-                              sett í reglugerð.^1)
-                          ^1)Rg. 750/2008, sbr. 836/2010.
+                              sett í reglugerð.^2)
+               ^1)L. 43/2011, 3. gr. ^2)Rg. 750/2008, sbr. 836/2010.
                  8. gr. Markaðssetning, framleiðsla og notkun.
  Heimilt er að setja á markað efni, hvort sem það er hreint, í efnablöndu eða í
          hlutum, sem skráð hefur verið hjá Efnastofnun Evrópu með þeim
@@ -152,10 +191,15 @@ Eftirnotendur skulu tilkynna dreifanda, innflytjanda eða framleiðanda ef notku
   efnablöndu eða í hlutum, á þann hátt að í bága fari við þær takmarkanir sem
   settar eru á grundvelli laga þessara og reglugerða sem settar eru með stoð í
                               þeim, sbr. 4.7. gr.
+                            [8. gr. a. Auglýsingar.
+    Í öllum auglýsingum um efni, hvort sem um er að ræða beinar eða óbeinar
+     auglýsingar, skulu koma fram upplýsingar um hættuflokkun þeirra. Sömu
+   upplýsingar skulu fylgja efnablöndum sem eru flokkaðar sem hættulegar eða
+                          innihalda hættuleg efni.]^1)
+                               ^1)L. 43/2011, 4. gr.
                          9. gr. Eftirlit og framkvæmd.
-        Umhverfisráðherra fer með yfirstjórn mála samkvæmt lögum þessum.
-    Umhverfisstofnun hefur eftirlit með framkvæmd laganna og er ráðherra til
-                                   ráðgjafar.
+ [Ráðherra]^1) fer með yfirstjórn mála samkvæmt lögum þessum. Umhverfisstofnun
+       hefur eftirlit með framkvæmd laganna og er ráðherra til ráðgjafar.
   Umhverfisstofnun skal upplýsa almenning um hættu tengda efnum og efnanotkun
   þegar þörf er á til verndar heilsu almennings eða umhverfi. Umhverfisstofnun
   skal setja á fót rafrænt þjónustuborð þar sem framleiðendum, innflytjendum,
@@ -163,8 +207,8 @@ Eftirnotendur skulu tilkynna dreifanda, innflytjanda eða framleiðanda ef notku
         sínar samkvæmt lögum þessum og reglugerðum settum samkvæmt þeim.
 Umhverfisstofnun hefur eftirlit með framleiðslu, innflutningi og markaðssetningu
   efna, efnablandna og hluta sem falla undir lög þessi. Samhliða eftirliti með
-starfsleyfisskyldri starfsemi samkvæmt [10]lögum nr. 7/1998, um hollustuhætti og
-     mengunarvarnir, og [11]lögum nr. 55/2003, um meðhöndlun úrgangs, skulu
+starfsleyfisskyldri starfsemi samkvæmt [9]lögum nr. 7/1998, um hollustuhætti og
+     mengunarvarnir, og [10]lögum nr. 55/2003, um meðhöndlun úrgangs, skulu
  heilbrigðisnefndir sveitarfélaga hafa eftirlit með framkvæmd laga þessara hjá
    hlutaðeigandi starfsemi í samræmi við fyrirmæli Umhverfisstofnunar. Í þeim
   tilvikum skal beiting úrræða skv. 10. gr. vera í höndum heilbrigðisnefndar.
@@ -173,11 +217,12 @@ samkvæmt lögum þessum við innflutning. Tollyfirvöld skulu veita Umhverfisst
  upplýsingar um innflutning efna, efnablandna og vara sem falla undir lög þessi
                                  sé þess óskað.
    Umhverfisstofnun getur með samningi falið öðrum stjórnvöldum eða faggiltum
- skoðunarstofum, sbr. [12]lög nr. 24/2006, um faggildingu o.fl., einstaka þætti
+ skoðunarstofum, sbr. [11]lög nr. 24/2006, um faggildingu o.fl., einstaka þætti
 eftirlits samkvæmt lögum þessum. Taka stjórnvaldsákvarðana samkvæmt lögum þessum
  skal þó ávallt vera í höndum Umhverfisstofnunar, sbr. þó 3. mgr. Skylda má þá
    sem eftirlit beinist að til að semja um framkvæmd eftirlits við faggiltar
                                 skoðunarstofur.
+                             ^1)L. 126/2011, 478. gr.
                        10. gr. Heimildir eftirlitsaðila.
 Eftirlitsaðilum skal heimill aðgangur til skoðunar og eftirlits, þar á meðal til
        töku sýna og myndatöku, að öllum þeim stöðum sem lög þessi ná til.
@@ -201,8 +246,8 @@ heilbrigðiseftirlits. Dagsektir skulu að hámarki nema 500.000 kr. á dag. Kos
              við verkið sem og dagsektir má innheimta með fjárnámi.
                                11. gr. Gjaldtaka.
   Umhverfisstofnun og heilbrigðisnefnd er heimilt að taka gjald fyrir eftirlit
- samkvæmt lögum þessum hjá starfsemi sem háð er starfsleyfi samkvæmt [13]lögum
-  nr. 7/1998, um hollustuhætti og mengunarvarnir, og [14]lögum nr. 55/2003, um
+ samkvæmt lögum þessum hjá starfsemi sem háð er starfsleyfi samkvæmt [12]lögum
+  nr. 7/1998, um hollustuhætti og mengunarvarnir, og [13]lögum nr. 55/2003, um
  meðhöndlun úrgangs. Eftirlit sem tekið er gjald fyrir skal framkvæmt samhliða
   eftirliti Umhverfisstofnunar og heilbrigðisnefndar með starfseminni samkvæmt
 lögum um hollustuhætti og mengunarvarnir og lögum um meðhöndlun úrgangs. Upphæð
@@ -235,11 +280,15 @@ tilskipun ráðsins 76/769/EBE og tilskipunum framkvæmdastjórnarinnar 91/155/E
                       93/67/EBE, 93/105/EB og 2000/21/EB.
 14. gr. Lög þessi taka þegar gildi. Ákvæði 5. gr. taka þó ekki gildi fyrr en 1.
                                    júní 2008.
-    Ákvæði til bráðabirgða. Bann skv. 2. mgr. 8. gr. gildir ekki um efni sem
- forskráð eru hjá Efnastofnun Evrópu á tímabilinu 1. júní 2008 til 1. desember
-2008, á meðan skráning efnisins er til meðferðar hjá stofnuninni. Bannið gildir
-  ekki heldur um vörur sem afhentar voru frá framleiðanda og settar á markað á
-                   EES-svæðinu fyrir gildistöku laga þessara.
+                            Ákvæði til bráðabirgða.
+I. Bann skv. 2. mgr. 8. gr. gildir ekki um efni sem forskráð eru hjá Efnastofnun
+Evrópu á tímabilinu 1. júní 2008 til 1. desember 2008, á meðan skráning efnisins
+    er til meðferðar hjá stofnuninni. Bannið gildir ekki heldur um vörur sem
+afhentar voru frá framleiðanda og settar á markað á EES-svæðinu fyrir gildistöku
+                                 laga þessara.
+  [II. Þrátt fyrir ákvæði 5. gr. a og 6. gr. a skulu ákvæði er varða flokkun,
+   merkingu og umbúðir efnablandna ekki taka gildi fyrr en 1. júní 2015.]^1)
+                               ^1)L. 43/2011, 5. gr.
 
 References
 
@@ -252,9 +301,8 @@ References
    6. file://2002044.html
    7. file://2001016.html
    8. file://1988052.html
-   9. file://1988052.html
-  10. file://1998007.html
-  11. file://2003055.html
-  12. file://2006024.html
-  13. file://1998007.html
-  14. file://2003055.html
+   9. file://1998007.html
+  10. file://2003055.html
+  11. file://2006024.html
+  12. file://1998007.html
+  13. file://2003055.html

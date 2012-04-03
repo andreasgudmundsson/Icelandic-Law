@@ -17,7 +17,8 @@
     30/2007 (tóku gildi 1. jan. 2008), l. 39/2008 (tóku gildi 5. júní 2008;
  EES-samningurinn: XIII. viðauki reglugerð 336/2006), [2]l. 88/2008 (tóku gildi
  1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 139/2008 (tóku
-         gildi 13. des. 2008) og l. 162/2010 (tóku gildi 1. jan. 2011).
+gildi 13. des. 2008), l. 162/2010 (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku
+                             gildi 30. sept. 2011).
 
                             I. kafli. Almenn ákvæði.
                     1. gr. Gildissvið, markmið og tilgangur.
@@ -68,9 +69,9 @@ vélum sem knýja skipið, rekstri og viðhaldi vél- og rafbúnaðar þess í f
                          hvaða vélarafli og vélbúnaði.
    12. Siglingatími er viðurkenndur starfstími um borð í skipi sem er í förum og
            krafist er vegna útgáfu skírteinis samkvæmt lögum þessum.
-    13. Sjómannaskóli er menntastofnun sem er viðurkennd af menntamálaráðherra
-eða [innanríkisráðherra]^1) og uppfyllir skilyrði alþjóðasamþykktarinnar um nám
-                                  og kennslu.
+   13. Sjómannaskóli er menntastofnun sem er viðurkennd af [ráðherra er fer með
+fræðslumál]^1) eða [ráðherra]^1) og uppfyllir skilyrði alþjóðasamþykktarinnar um
+                                nám og kennslu.
         14. Innanlandssigling er sigling innan íslenskrar fiskveiðilögsögu.
     15. Öryggismönnun er ákvörðun Siglingastofnunar Íslands um lágmarksfjölda í
                  áhöfn farþega- og flutningaskipa skv. 12. gr.
@@ -97,7 +98,7 @@ eða [innanríkisráðherra]^1) og uppfyllir skilyrði alþjóðasamþykktarinna
     ályktun þingsins A.741(18) frá 4. nóvember 1993, með áorðnum breytingum.
     21. Viðurkennd stofnun er aðili sem er viðurkenndur í samræmi við reglugerð
          um viðurkenningu flokkunarfélaga, sbr. tilskipun 94/57/EB.]^2)
-                  ^1)L. 162/2010, 230. gr. ^2)L. 39/2008, 2. gr.
+                  ^1)L. 126/2011, 326. gr. ^2)L. 39/2008, 2. gr.
                            3. gr. Menntun og þjálfun.
       Sjómannaskólar annast menntun og þjálfun áhafna íslenskra skipa. Um
  inntökuskilyrði sjómannaskóla, námskrá, nám, námstilhögun, námsmat og námsstig
@@ -105,14 +106,14 @@ eða [innanríkisráðherra]^1) og uppfyllir skilyrði alþjóðasamþykktarinna
       framhaldsskóla og reglugerðum settum samkvæmt þeim. Nám og kennsla í
        sjómannaskólum skal vera samkvæmt viðurkenndu gæðastjórnunarkerfi.
 Starfsgreinaráð um sjávarútvegsgreinar og siglingar, sem starfar samkvæmt lögum
-  um framhaldsskóla, gerir tillögu til menntamálaráðherra, að fenginni umsögn
-             Siglingastofnunar Íslands, um námskrár sjómannaskóla.
-       Um Slysavarnaskóla sjómanna gilda [3]lög nr. 33/1991 og staðfestir
-                    [innanríkisráðherra]^1) námskrá skólans.
-   Menntamálaráðuneytið hefur eftirlit með að námskrár sjómannaskóla uppfylli
-kröfur alþjóðasamninga og Siglingastofnun Íslands hefur eftirlit með að nám við
-                 sjómannaskóla uppfylli kröfur alþjóðasamninga.
-                             ^1)L. 162/2010, 230. gr.
+  um framhaldsskóla, gerir tillögu til [ráðherra er fer með fræðslumál],^1) að
+     fenginni umsögn Siglingastofnunar Íslands, um námskrár sjómannaskóla.
+Um Slysavarnaskóla sjómanna gilda [3]lög nr. 33/1991 og staðfestir [ráðherra]^1)
+                                námskrá skólans.
+    [Það ráðuneyti er fer með fræðslumál]^1) hefur eftirlit með að námskrár
+ sjómannaskóla uppfylli kröfur alþjóðasamninga og Siglingastofnun Íslands hefur
+     eftirlit með að nám við sjómannaskóla uppfylli kröfur alþjóðasamninga.
+                             ^1)L. 126/2011, 326. gr.
                                4. gr. Skírteini.
  ^1) Siglingastofnun Íslands gefur út alþjóðleg skírteini og áritanir samkvæmt
 lögum þessum. Skírteini skulu rituð á þar til gerð eyðublöð eftir fyrirmynd sem
@@ -332,19 +333,19 @@ byggingarlagi, skemmtisnekkjur og skemmtibátar nema þau séu eða verði mönn
      um menntun og þjálfun, aldur, siglingatíma, heilbrigði, sjón og heyrn:
 
                                                                  Siglinga-
-Stjórnunarsvið            Takmarkanir                Aldur       tími
-Yfirstýrimaður/           [lt]500 brúttótonn í
-stýrimaður                strandsiglingum            20          A.
-Skipstjóri                [lt]500 brúttótonn í
-                          strandsiglingum            20          B.
-Yfirstýrimaður            [lt]3.000 brúttótonn       20          C.
-Skipstjóri                [lt]3.000 brúttótonn       20          C.
-Yfirstýrimaður            engar                      20          B.
-Skipstjóri                engar                      20          C.
+Stjórnunarsvið             Takmarkanir              Aldur        tími
+Yfirstýrimaður/            <500 brúttótonn í
+stýrimaður                 strandsiglingum          20           A.
+Skipstjóri                 <500 brúttótonn í
+                           strandsiglingum          20           B.
+Yfirstýrimaður             <3.000 brúttótonn        20           C.
+Skipstjóri                 <3.000 brúttótonn        20           C.
+Yfirstýrimaður             engar                    20           B.
+Skipstjóri                 engar                    20           C.
 Rekstrarsvið
-Stýrimaður                engar                      18          D.
+Stýrimaður                 engar                    18           D.
 Stoðsvið
-Aðstoðarmaður í brú       engar                      16          E.
+Aðstoðarmaður í brú        engar                    16           E.
 
                                  Siglingatími:
 
@@ -369,22 +370,22 @@ Eftirfarandi skírteini til vélstjórnar skulu gefin út að uppfylltum skilyr�
       menntun og þjálfun, aldur, siglingatíma, heilbrigði, sjón og heyrn:
 
                                                                Siglinga-
-Stjórnunarsvið              Takmarkanir          Aldur         tími
-Vélstjóri                   [leq]375 kW          18            A.
-Vélstjóri                   [lt]750 kW           18            B.
-1. vélstjóri                [lt]3.000 kW         20            C.
-Yfirvélstjóri               [lt]3.000 kW         20            D.
-1. vélstjóri                engar                20            C.
-Yfirvélstjóri               engar                20            D.
+Stjórnunarsvið               Takmarkanir         Aldur         tími
+Vélstjóri                    &leq;375 kW         18            A.
+Vélstjóri                    <750 kW             18            B.
+1. vélstjóri                 <3.000 kW           20            C.
+Yfirvélstjóri                <3.000 kW           20            D.
+1. vélstjóri                 engar               20            C.
+Yfirvélstjóri                engar               20            D.
 Rekstrarsvið
-Vélstjóri                   engar                18            E.
+Vélstjóri                    engar               18            E.
 Stoðsvið
-Aðstoðarmaður í vél         engar                16            F.
+Aðstoðarmaður í vél          engar               16            F.
 
                                  Siglingatími:
 
                  A. 9 mánaða siglingatími sem aðstoðarmaður í vél.
-           B. 14 mánaða siglingatími sem vélstjóri á skipi [leq]375 kW.
+           B. 14 mánaða siglingatími sem vélstjóri á skipi &leq;375 kW.
     C. 18 mánaða siglingatími sem vélstjóri á skipum með aðalvél stærri en 750
                                       kW.
     D. 36 mánaða siglingatími sem vélstjóri á skipum með aðalvél stærri en 750
@@ -467,11 +468,11 @@ sviptinguna liggur fyrir. Bráðabirgðasvipting samkvæmt ákvæði þessu skal
 öryggisstjórnunarkerfi].^3) [Ákvæðin]^3) skulu vera í samræmi við skuldbindingar
    íslenska ríkisins samkvæmt þeim samningum sem um er getið í 3. mgr. 1. gr.
                                     laganna.
- [Ráðherra]^1) skal, í samráði við menntamálaráðherra, setja reglur um eftirlit
-                 með menntun og þjálfun áhafna íslenskra skipa.
+  [Ráðherra]^1) skal, í samráði við [ráðherra er fer með fræðslumál],^4) setja
+       reglur um eftirlit með menntun og þjálfun áhafna íslenskra skipa.
       ^1)L. 162/2010, 230. gr. ^2)Rg. 599/2001. Rg. 416/2003, sbr. 430/2005,
 693/2006 og 438/2008. Rg. 680/2004, sbr. 1019/2006. Rg. 337/2009, sbr. 738/2009.
-                             ^3)L. 39/2008, 6. gr.
+                 ^3)L. 39/2008, 6. gr. ^4)L. 126/2011, 326. gr.
                             18. gr. Gildistaka o.fl.
                       Lög þessi öðlast gildi 1. júlí 2001.
  Ákvæði til bráðabirgða. Allir þeir sem starfa á farþegaskipum skulu eigi síðar

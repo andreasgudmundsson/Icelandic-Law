@@ -9,13 +9,14 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-Tóku gildi 30. desember 1998. Breytt með l. 69/2009 (tóku gildi 26. júní 2009).
+ Tóku gildi 30. desember 1998. Breytt með l. 69/2009 (tóku gildi 26. júní 2009)
+                  og l. 126/2011 (tóku gildi 30. sept. 2011).
 
                         I. kafli. Markmið og yfirstjórn.
 1. gr. Markmið laga þessara er að efla íslenska leiklist og aðrar sviðslistir og
                            búa þeim hagstæð skilyrði.
-   2. gr. Menntamálaráðherra fer með yfirstjórn leiklistarmála samkvæmt lögum
-                                    þessum.
+ 2. gr. [Ráðherra]^1) fer með yfirstjórn leiklistarmála samkvæmt lögum þessum.
+                             ^1)L. 126/2011, 279. gr.
 
                             II. kafli. Þjóðleikhús.
                3. gr. Þjóðleikhúsið er eign íslensku þjóðarinnar.
@@ -32,26 +33,28 @@ Tóku gildi 30. desember 1998. Breytt með l. 69/2009 (tóku gildi 26. júní 20
   Á vegum Þjóðleikhússins skulu árlega farnar leikferðir sem víðast um landið.
 Einnig skulu farnar leikferðir til annarra landa og fengnir til Íslands erlendir
              listamenn, hvort tveggja eftir því sem aðstæður leyfa.
-   6. gr. Menntamálaráðherra skipar þjóðleikhússtjóra til fimm ára í senn, að
- fenginni umsögn þjóðleikhúsráðs. Skipaður skal maður með menntun á sviði lista
-  og staðgóða þekkingu á starfi leikhúsa. Ætíð skal auglýsa embættið laust til
+ 6. gr. [Ráðherra]^1) skipar þjóðleikhússtjóra til fimm ára í senn, að fenginni
+    umsögn þjóðleikhúsráðs. Skipaður skal maður með menntun á sviði lista og
+   staðgóða þekkingu á starfi leikhúsa. Ætíð skal auglýsa embættið laust til
                      umsóknar í lok hvers skipunartímabils.
   Þjóðleikhússtjóri er stjórnandi leikhússins og markar listræna stefnu þess í
  samráði við þjóðleikhúsráð. Hann stýrir leikhúsinu samkvæmt samþykktri starfs-
 og fjárhagsáætlun og ber ábyrgð á rekstri þess, bæði listrænum og fjárhagslegum.
-  7. gr. Menntamálaráðherra skipar fimm manna þjóðleikhúsráð. Félag íslenskra
-leikara tilnefnir einn fulltrúa og Félag leikstjóra á Íslandi annan en þrír eru
- skipaðir án tilnefningar. Varamenn skulu skipaðir á sama hátt. Ráðherra skipar
- formann og varaformann úr hópi ráðsmanna. Ráðið skal skipað til fjögurra ára í
- senn, þó þannig að starfstími þeirra fulltrúa sem skipaðir eru án tilnefningar
- takmarkast við embættistíma ráðherrans sitji hann skemur. Fulltrúi starfsmanna
-leikhússins, kjörinn úr hópi þeirra til eigi skemmri tíma en eins árs í senn, á
-          sæti á fundum þjóðleikhúsráðs með málfrelsi og tillögurétti.
+                             ^1)L. 126/2011, 279. gr.
+ 7. gr. [Ráðherra]^1) skipar fimm manna þjóðleikhúsráð. Félag íslenskra leikara
+tilnefnir einn fulltrúa og Félag leikstjóra á Íslandi annan en þrír eru skipaðir
+án tilnefningar. Varamenn skulu skipaðir á sama hátt. Ráðherra skipar formann og
+  varaformann úr hópi ráðsmanna. Ráðið skal skipað til fjögurra ára í senn, þó
+þannig að starfstími þeirra fulltrúa sem skipaðir eru án tilnefningar takmarkast
+við embættistíma ráðherrans sitji hann skemur. Fulltrúi starfsmanna leikhússins,
+kjörinn úr hópi þeirra til eigi skemmri tíma en eins árs í senn, á sæti á fundum
+                 þjóðleikhúsráðs með málfrelsi og tillögurétti.
   Þjóðleikhúsráð er stjórnarnefnd Þjóðleikhússins og skulu allar meiri háttar
        ákvarðanir um leikhúsreksturinn bornar undir ráðið. Það vinnur með
       þjóðleikhússtjóra að langtímaáætlun um starfsemina. Árleg starfs- og
   fjárhagsáætlun skal lögð fyrir þjóðleikhúsráð til samþykktar og ráðið hefur
                          eftirlit með framkvæmd hennar.
+                             ^1)L. 126/2011, 279. gr.
   8. gr. Um innra starfsskipulag Þjóðleikhússins má kveða á í reglugerð^1) að
                        fengnum tillögum þjóðleikhúsráðs.
                                  ^1)Rg. 117/2009.
@@ -74,45 +77,49 @@ til stuðnings annarri leiklistarstarfsemi, bæði atvinnumanna og áhugaleikfé
 Slíkur fjárstuðningur getur auk almennrar leikstarfsemi tekið til barnaleikhúsa,
                    brúðuleikhúsa, óperustarfsemi og listdans.
 Að því leyti sem framlög til einstakra aðila eru ekki ákveðin í fjárlögum hverju
-   sinni annast menntamálaráðuneytið úthlutun þess fjár sem veitt er samkvæmt
-  þessari grein. Úthlutun styrkja til atvinnuleikhópa skal ákveðin að fengnum
- tillögum leiklistarráðs, sbr. 17.18. gr., en til starfsemi áhugaleikfélaga að
-  fengnum tillögum Bandalags íslenskra leikfélaga. Menntamálaráðherra setur í
-       reglugerð nánari ákvæði um undirbúning og tilhögun styrkveitinga.
+ sinni annast [ráðuneytið]^1) úthlutun þess fjár sem veitt er samkvæmt þessari
+  grein. Úthlutun styrkja til atvinnuleikhópa skal ákveðin að fengnum tillögum
+ leiklistarráðs, sbr. 17.18. gr., en til starfsemi áhugaleikfélaga að fengnum
+tillögum Bandalags íslenskra leikfélaga. [Ráðherra]^1) setur í reglugerð nánari
+                ákvæði um undirbúning og tilhögun styrkveitinga.
    Um veitingu starfslauna til leikhúslistafólks fer samkvæmt ákvæðum laga um
-            listamannalaun, [nr. 57/2009],^1) með síðari breytingum.
-                               ^1)L. 69/2009, 2. gr.
+            listamannalaun, [nr. 57/2009],^2) með síðari breytingum.
+                  ^1)L. 126/2011, 279. gr. ^2)L. 69/2009, 2. gr.
 15. gr. Sveitarstjórnir veita fé til leiklistarstarfsemi í sveitarfélögum eftir
               því sem ákveðið er í árlegri fjárhagsáætlun þeirra.
-16. gr. Heimilt er menntamálaráðherra og fjármálaráðherra fyrir hönd ríkissjóðs
- að gera tímabundinn samning við rekstraraðila atvinnuleikhúss og hlutaðeigandi
- sveitarfélag eða sveitarfélög um fjárstuðning við leikhúsið, með fyrirvara um
-  fjárveitingar í fjárlögum á samningstímanum. Heimilt er einnig að gera slíka
- samninga við lögaðila, félög eða stofnanir á sviði listdans, óperu og annarra
-                                  sviðslista.
+16. gr. Heimilt er [ráðherra]^1) og [ráðherra er fer með fjárreiður ríkisins]^1)
+      fyrir hönd ríkissjóðs að gera tímabundinn samning við rekstraraðila
+ atvinnuleikhúss og hlutaðeigandi sveitarfélag eða sveitarfélög um fjárstuðning
+  við leikhúsið, með fyrirvara um fjárveitingar í fjárlögum á samningstímanum.
+  Heimilt er einnig að gera slíka samninga við lögaðila, félög eða stofnanir á
+                  sviði listdans, óperu og annarra sviðslista.
  Í þessum efnum skal taka sérstakt tillit til leiklistarstofnana og félaga sem
              lengi hafa notið fjárhagslegs stuðnings úr ríkissjóði.
+                             ^1)L. 126/2011, 279. gr.
 
                            IV. kafli. Leiklistarráð.
-17. gr. Menntamálaráðherra skipar leiklistarráð til tveggja ára í senn. Í ráðinu
+  17. gr. [Ráðherra]^1) skipar leiklistarráð til tveggja ára í senn. Í ráðinu
    skulu eiga sæti þrír fulltrúar. Leiklistarsamband Íslands tilnefnir einn,
 Bandalag sjálfstæðra atvinnuleikhúsa einn en einn er skipaður án tilnefningar og
  skal hann vera formaður ráðsins. Varamenn skulu skipaðir á sama hátt. Ekki er
      heimilt að skipa sama mann aðalfulltrúa í leiklistarráði meira en tvö
                               starfstímabil í röð.
-18. gr. Leiklistarráð gerir tillögu til menntamálaráðuneytisins um úthlutun fjár
-     sem veitt er í fjárlögum til stuðnings atvinnuleikhópum, sbr. 14. gr.
-Ráðið veitir umsögn um leiklistarerindi sem menntamálaráðuneytið vísar til þess
-      og getur einnig að eigin frumkvæði beint ábendingum og tillögum til
-                      ráðuneytisins um leiklistarmálefni.
+                             ^1)L. 126/2011, 279. gr.
+18. gr. Leiklistarráð gerir tillögu til [ráðuneytisins]^1) um úthlutun fjár sem
+       veitt er í fjárlögum til stuðnings atvinnuleikhópum, sbr. 14. gr.
+ Ráðið veitir umsögn um leiklistarerindi sem [ráðuneytið]^1) vísar til þess og
+ getur einnig að eigin frumkvæði beint ábendingum og tillögum til ráðuneytisins
+                             um leiklistarmálefni.
  Þóknun fulltrúa í leiklistarráði og annar kostnaður við störf ráðsins greiðist
                                  úr ríkissjóði.
+                             ^1)L. 126/2011, 279. gr.
 
                             V. kafli. Önnur ákvæði.
-   19. gr. Menntamálaráðherra setur í reglugerð^1) nánari ákvæði um framkvæmd
-  þessara laga. Heimilt er að ákvæði er taka til starfsemi Þjóðleikhússins séu
-                          sett í sérstakri reglugerð.
-    ^1)Rgl. 14/2002 (um starfsemi Íslenska dansflokksins), sbr. rgl. 918/2004.
+ 19. gr. [Ráðherra]^1) setur í reglugerð^2) nánari ákvæði um framkvæmd þessara
+  laga. Heimilt er að ákvæði er taka til starfsemi Þjóðleikhússins séu sett í
+                              sérstakri reglugerð.
+          ^1)L. 126/2011, 279. gr. ^2)Rgl. 14/2002 (um starfsemi Íslenska
+                      dansflokksins), sbr. rgl. 918/2004.
                      20. gr. Lög þessi öðlast þegar gildi.
 Ákvæði til bráðabirgða. Að loknum ráðningartíma núverandi þjóðleikhússtjóra skal
 miða upphaf skipunartíma þjóðleikhússtjóra samkvæmt þessum lögum við 1. janúar.

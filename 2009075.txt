@@ -10,7 +10,10 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 16. júlí 2009.
+ Tóku gildi 16. júlí 2009. Breytt með l. 84/2011 (tóku gildi 30. júní 2011 nema
+  1. gr. og c-liður 14. gr. sem taka gildi 1. sept. 2012) og l. 126/2011 (tóku
+                             gildi 30. sept. 2011).
+
                                 1. gr. Markmið.
      Markmið þessara laga er að tryggja skjóta úrlausn fjármálafyrirtækja á
 skuldavanda rekstrarhæfra atvinnufyrirtækja. Félag skv. 2. gr. skal tryggja með
@@ -21,19 +24,20 @@ Lög þessi taka til fjármálafyrirtækja sem beint eða óbeint eru í meirihl
 125/2008, um heimild til fjárveitingar úr ríkissjóði vegna sérstakra aðstæðna á
                              fjármálamarkaði o.fl.
                2. gr. Heimild til að stofna opinbert hlutafélag.
-  Fjármálaráðherra er heimilt að stofna opinbert hlutafélag til að sinna þeim
+    [Ráðherra]^1) er heimilt að stofna opinbert hlutafélag til að sinna þeim
                         verkefnum sem um getur í 3. gr.
      Stofnfé félagsins, 20 millj. kr., skal vera í eigu íslenska ríkisins.
   Hluthafafundur getur aukið við hlutafé ef þörf er á og að fenginni heimild í
                                    fjárlögum.
- Fjármálaráðherra fer með eignarhlut ríkisins í félaginu og annast undirbúning
-þess og stofnun í samráði við viðskiptaráðherra. Fjármálaráðherra er heimilt að
-                framselja eignarhlutinn til Bankasýslu ríkisins.
+[Ráðherra]^1) fer með eignarhlut ríkisins í félaginu og annast undirbúning þess
+  og stofnun í samráði við [þann ráðherra sem fer með almenn viðskiptamál].^1)
+  [Ráðherra]^1) er heimilt að framselja eignarhlutinn til Bankasýslu ríkisins.
  Félagið skal hafa lokið störfum og því verið slitið eigi síðar en 31. desember
                                      2015.
  Ákvæði laga um [2]hlutafélög, nr. 2/1995, gilda um félagið ef ekki er kveðið á
 um annað í lögum þessum og eftir því sem við á. [3]Stjórnsýslulög, nr. 37/1993,
       og [4]upplýsingalög, nr. 50/1996, gilda ekki um starfsemi félagsins.
+                             ^1)L. 126/2011, 513. gr.
                           3. gr. Tilgangur félagsins.
                       Tilgangur félagsins er eftirfarandi:
    a. að vera ráðgefandi og aðstoða fjármálafyrirtæki sem hlut eiga að máli við
@@ -55,7 +59,8 @@ jafnræði, virka samkeppni, dreifða eignaraðild, þ.m.t. eignaraðild starfsf
        d. að byggja upp heildstæða þekkingu á fjárhagslegri og rekstrarlegri
                endurskipulagningu skuldsettra atvinnufyrirtækja.
      Tilgangi félagsins skal nánar lýst í samþykktum þess og reglugerð sem
-       fjármálaráðherra setur að fenginni umsögn aðila vinnumarkaðarins.
+         [ráðherra]^1) setur að fenginni umsögn aðila vinnumarkaðarins.
+                             ^1)L. 126/2011, 513. gr.
                   4. gr. Stjórn félagsins og framkvæmdastjóri.
 Stjórn félagsins skal skipuð fimm mönnum og tveimur til vara. Skulu þeir kosnir
                              á aðalfundi ár hvert.
@@ -86,11 +91,11 @@ Ríkisendurskoðun skal auk þess að annast fjárhagsendurskoðun félagsins fy
   sem um starfsemina gilda. Stjórn félagsins skal ef ástæða er til ráða innri
  endurskoðanda eða gera samning um innri endurskoðun við endurskoðunarfélag sem
                   skal vera þáttur í eftirlitskerfi félagsins.
-  Félagið skal á starfstíma þess gera efnahags- og skattanefnd Alþingis grein
-fyrir störfum sínum eigi sjaldnar en tvisvar á ári. Skal þar m.a. greint frá því
-       hvort og að hvaða leyti verklag við skuldameðferð fyrirtækja innan
+ Félagið skal á starfstíma þess gera [efnahags- og viðskiptanefnd]^1) Alþingis
+ grein fyrir störfum sínum eigi sjaldnar en tvisvar á ári. Skal þar m.a. greint
+   frá því hvort og að hvaða leyti verklag við skuldameðferð fyrirtækja innan
   fjármálafyrirtækja sem lög þessi taka til er frábrugðið verklagi félagsins.
- Fjármálaráðherra skal tvisvar á ári gefa þinginu skýrslu um endurskipulagningu
+  [Ráðherra]^2) skal tvisvar á ári gefa þinginu skýrslu um endurskipulagningu
 atvinnufyrirtækja samkvæmt lögum þessum, sbr. einkum 3. gr. Þar skal m.a. greint
   frá fjölda atvinnufyrirtækja sem hafa sætt endurskipulagningu og hversu oft,
 hvaða fyrirtæki eiga í hlut og á hvaða sviðum atvinnulífsins þau starfa, hverjir
@@ -104,8 +109,10 @@ hafi í hverju tilviki fyrir sig borið árangur. Þá skal gerð grein fyrir hv
 framkvæmdastjóra og annarra sem starfa á vegum félagsins auk þess sem getið skal
  um hagsmunatengsl og önnur atriði sem til þess eru fallin að draga óhlutdrægni
                               þessara aðila í efa.
+                  ^1)L. 84/2011, 42. gr. ^2)L. 126/2011, 513. gr.
                            7. gr. Reglugerðarheimild.
- Fjármálaráðherra er heimilt að setja nánari reglur um framkvæmd laga þessara.
+   [Ráðherra]^1) er heimilt að setja nánari reglur um framkvæmd laga þessara.
+                             ^1)L. 126/2011, 513. gr.
                       8. gr. Lög þessi öðlast þegar gildi.
 
 References

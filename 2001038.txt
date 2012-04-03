@@ -12,8 +12,8 @@
  Tóku gildi 1. júlí 2001. EES-samningurinn: tilskipun 2000/35/EB. Breytt með l.
   51/2007 (tóku gildi 1. jan. 2008), l. 159/2008 (tóku gildi 1. jan. 2009), l.
 23/2009 (tóku gildi 31. mars 2009), l. 98/2009 (tóku gildi 1. okt. 2009 nema 69.
-  og 70. gr. sem tóku gildi 1. jan. 2010) og l. 151/2010 (tóku gildi 29. des.
-                                     2010).
+og 70. gr. sem tóku gildi 1. jan. 2010), l. 151/2010 (tóku gildi 29. des. 2010)
+                  og l. 126/2011 (tóku gildi 30. sept. 2011).
 
                              I. kafli. Gildissvið.
   1. gr. Lög þessi gilda um vexti af peningakröfum á sviði fjármunaréttar og á
@@ -119,12 +119,13 @@ kafla átt við breytingu í hlutfalli við innlenda verðvísitölu. Um heimild
    Í lánssamningi er þó heimilt að miða við hlutabréfavísitölu, innlenda eða
 erlenda, eða safn slíkra vísitalna sem ekki mæla breytingar á almennu verðlagi.
                                ^1)L. 51/2007, 1. gr.
-          15. gr. Seðlabankinn getur að fengnu samþykki [efnahags- og
-   viðskiptaráðherra]^1) ákveðið lágmarkstíma verðtryggðra innstæðna og lána.
-     Bankinn getur jafnframt að fengnu samþykki ráðherra ákveðið að vextir
-     verðtryggðra innstæðna og lána skuli vera óbreytanlegir á lánstímanum.
+15. gr. Seðlabankinn getur að fengnu samþykki [ráðherra]^1) ákveðið lágmarkstíma
+   verðtryggðra innstæðna og lána. Bankinn getur jafnframt að fengnu samþykki
+      ráðherra ákveðið að vextir verðtryggðra innstæðna og lána skuli vera
+                          óbreytanlegir á lánstímanum.
   Seðlabankinn setur nánari reglur^2) um verðtryggingu sparifjár og lánsfjár.
-   ^1)L. 98/2009, 32. gr. ^2)Rgl. 492/2001, sbr. rgl. 278/2010 og rgl. 369/2010.
+       ^1)L. 126/2011, 322. gr. ^2)Rgl. 492/2001, sbr. rgl. 278/2010 og rgl.
+                                   369/2010.
 16. gr. Þegar skuldbindingum með ákvæðum um verðtryggingu er þinglýst skal þess
 gætt að verðtryggingarinnar sé getið í þinglýsingabókum og skulu þær koma fram á
              vottorðum þinglýsingarstjóra um efni þinglýsingabóka.
@@ -309,12 +310,12 @@ skuldara útreikning á nýjum höfuðstól og/eða endurgreiðslu ofgreidds fj�
   rétt sinn til greiðslna innan þeirra tímamarka sem fjármálafyrirtæki setur í
  tilkynningu skv. 1. málsl. þessa ákvæðis er fjármálafyrirtæki heimilt að færa
 höfuðstól til samræmis við útreikning eða endurgreiða skuldara ofgreitt fé óski
-    hann þess. Efnahags- og viðskiptaráðherra er heimilt að fela umboðsmanni
- skuldara að hafa eftirlit með útreikningum fjármálafyrirtækja samkvæmt þessari
-grein, óska eftir upplýsingum um forsendur útreikninga og kveða á um úrbætur ef
-þörf krefur. Ráðherra er heimilt að kveða nánar á um framsetningu útreiknings á
-     uppgjöri vegna ólögmætra vaxta og/eða verðtryggingar í reglugerð.]^1)
-                              ^1)L. 151/2010, 2. gr.
+    hann þess. [Ráðherra]^1) er heimilt að fela umboðsmanni skuldara að hafa
+eftirlit með útreikningum fjármálafyrirtækja samkvæmt þessari grein, óska eftir
+   upplýsingum um forsendur útreikninga og kveða á um úrbætur ef þörf krefur.
+  Ráðherra er heimilt að kveða nánar á um framsetningu útreiknings á uppgjöri
+        vegna ólögmætra vaxta og/eða verðtryggingar í reglugerð.^2)]^3)
+         ^1)L. 126/2011, 322. gr. ^2)Rg. 178/2011. ^3)L. 151/2010, 2. gr.
      [XII. Ef í lánssamningi er kveðið á um ólögmæta verðtryggingu í formi
  gengistryggingar skal með samningi kröfuhafa og skuldara vera heimilt að færa
   höfuðstól lánsins í erlendar myntir eins og um gilt erlent lán hafi verið að

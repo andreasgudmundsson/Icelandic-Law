@@ -11,8 +11,9 @@
 
   Tóku gildi 25. maí 2005. EES-samningurinn: IX. viðauki tilskipun 2002/92/EB.
  Breytt með l. 55/2007 (tóku gildi 3. apríl 2007), [1]l. 88/2008 (tóku gildi 1.
-  jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 98/2009 (tóku
-      gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010).
+jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 98/2009 (tóku gildi
+  1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l. 126/2011
+                          (tóku gildi 30. sept. 2011).
 
                      I. kafli. Gildissvið og orðskýringar.
                                1. gr. Gildissvið.
@@ -254,21 +255,21 @@ refsiverðan verknað samkvæmt almennum hegningarlögum, þessum lögum eða l�
 hlutafélög, einkahlutafélög, bókhald, ársreikninga, gjaldþrot eða opinber gjöld
       eða þeim sérlögum sem gilda um aðila sem lúta opinberu eftirliti með
                                fjármálastarfsemi.
- [Efnahags- og viðskiptaráðherra]^1) getur sett nánari reglur um hæfisskilyrði
-           starfsmanna vátryggingamiðlara, m.a. um lágmarksþekkingu.
-                              ^1)L. 98/2009, 38. gr.
+      [Ráðherra]^1) getur sett nánari reglur um hæfisskilyrði starfsmanna
+                 vátryggingamiðlara, m.a. um lágmarksþekkingu.
+                             ^1)L. 126/2011, 398. gr.
                        18. gr. Próf í miðlun vátrygginga.
 Prófnefnd hefur umsjón með prófi í miðlun vátrygginga sem að jafnaði skal haldið
-   einu sinni á ári. [Efnahags- og viðskiptaráðherra]^1) skipar þriggja manna
-    prófnefnd til fjögurra ára í senn. Til að standa straum af kostnaði við
- framkvæmd prófa skulu próftakar greiða gjald sem ráðherra ákveður. Ákvarðanir
-                 prófnefndar eru endanlegar á stjórnsýslustigi.
+einu sinni á ári. [Ráðherra]^1) skipar þriggja manna prófnefnd til fjögurra ára
+  í senn. Til að standa straum af kostnaði við framkvæmd prófa skulu próftakar
+   greiða gjald sem ráðherra ákveður. Ákvarðanir prófnefndar eru endanlegar á
+                               stjórnsýslustigi.
 Prófnefnd er heimilt að fela óháðum aðilum að gefa einkunn fyrir prófúrlausn. Þá
     getur prófnefnd skipað prófdómara til að endurskoða úrlausn próftaka. Í
  reglugerð^2) skal kveða nánar á um framkvæmd prófs, þar á meðal prófkröfur og
   prófsefnislýsingu, og heimildir til að veita undanþágur frá einstökum hlutum
                          slíks prófs eða prófi í heild.
-                      ^1)L. 98/2009, 38. gr. ^2)Rg. 972/2006.
+                     ^1)L. 126/2011, 398. gr. ^2)Rg. 972/2006.
 
               IV. kafli. Fjárhagslegar kröfur vátryggingamiðlara.
                        19. gr. Fjárhagsleg staða. Áætlun.
@@ -306,9 +307,8 @@ Vátryggingamiðlara er skylt að halda fjármunum sem hann tekur við í þágu
 þess. Vátryggingamiðlari er ekki eigandi innstæðu á vörslufjárreikningi samkvæmt
 þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum og stendur
                     utan skuldaraðar við skipti á búi hans.
-         [Efnahags- og viðskiptaráðherra]^1) setur nánari reglur^2) um
-                              vörslufjárreikninga.
-                      ^1)L. 98/2009, 38. gr. ^2)Rg. 590/2005.
+          [Ráðherra]^1) setur nánari reglur^2) um vörslufjárreikninga.
+                     ^1)L. 126/2011, 398. gr. ^2)Rg. 590/2005.
 
                    V. kafli. Starfshættir vátryggingamiðlara.
            23. gr. Yfirsýn yfir starfsemina og sérstakar ráðstafanir.
@@ -358,10 +358,10 @@ vátryggingamarkaði og með hag vátryggingartaka og vátryggðra fyrir augum. 
 misbrestur á skal Fjármálaeftirlitið gefa fyrirmæli um að ráðin verði bót á því
                            sem úrskeiðis hefur farið.
                           29. gr. Reglugerðarheimild.
-   [Efnahags- og viðskiptaráðherra]^1) hefur heimild til að kveða nánar á um
-       starfshætti vátryggingamiðlara í reglugerð, þar á meðal um yfirsýn
-                        vátryggingamiðlara yfir rekstur.
-                              ^1)L. 98/2009, 38. gr.
+        [Ráðherra]^1) hefur heimild til að kveða nánar á um starfshætti
+ vátryggingamiðlara í reglugerð, þar á meðal um yfirsýn vátryggingamiðlara yfir
+                                    rekstur.
+                             ^1)L. 126/2011, 398. gr.
 
                 VI. kafli. Upplýsingaskylda vátryggingamiðlara.
         30. gr. Upplýsingar við gerð og endurnýjun vátryggingarsamnings.
@@ -488,7 +488,9 @@ Almenningi skal heimill aðgangur að upplýsingum um skráða vátryggingaumbo�
                          skráður hjá vátryggingafélagi.
        Þegar vátryggingaumboðsmaður hættir að miðla vátryggingum á vegum
             vátryggingafélags skal hann tekinn út af skrá félagsins.
-Fjármálaeftirlitið getur sett nánari reglur um skráningu vátryggingaumboðsmanns.
+          Fjármálaeftirlitið getur sett nánari reglur^1) um skráningu
+                            vátryggingaumboðsmanns.
+                                 ^1)Rgl. 236/2011.
                           40. gr. Skilyrði skráningar.
   Áður er vátryggingafélag skráir vátryggingaumboðsmann skal félagið ganga úr
                                  skugga um að:
@@ -523,9 +525,8 @@ annarra aðgreindum frá eigin fé. Skulu slíkir fjármunir varðveittir á sé
   þess. Vátryggingaumboðsmaður er ekki eigandi innstæðu á vörslufjárreikningi
  samkvæmt þessari grein og innstæðan er ekki hæft andlag aðfarargerða hjá honum
                og stendur utan skuldaraðar við skipti á búi hans.
-         [Efnahags- og viðskiptaráðherra]^1) setur nánari reglur^2) um
-                              vörslufjárreikninga.
-                      ^1)L. 98/2009, 38. gr. ^2)Rg. 590/2005.
+          [Ráðherra]^1) setur nánari reglur^2) um vörslufjárreikninga.
+                     ^1)L. 126/2011, 398. gr. ^2)Rg. 590/2005.
 
                  X. kafli. Starfshættir vátryggingaumboðmanns.
            45. gr. Yfirsýn yfir starfsemina og sérstakar ráðstafanir.
@@ -568,10 +569,10 @@ vátryggingamarkaði og með hag vátryggingartaka og vátryggðra fyrir augum. 
 misbrestur á skal Fjármálaeftirlitið gefa fyrirmæli um að ráðin verði bót á því
                            sem úrskeiðis hefur farið.
                           50. gr. Reglugerðarheimild.
-   [Efnahags- og viðskiptaráðherra]^1) hefur heimild til að kveða nánar á um
-     starfshætti vátryggingaumboðsmanna í reglugerð, þar á meðal um yfirsýn
+        [Ráðherra]^1) hefur heimild til að kveða nánar á um starfshætti
+           vátryggingaumboðsmanna í reglugerð, þar á meðal um yfirsýn
                       vátryggingaumboðsmanna yfir rekstur.
-                              ^1)L. 98/2009, 38. gr.
+                             ^1)L. 126/2011, 398. gr.
 
                XI. kafli. Upplýsingaskylda vátryggingaumboðmanns.
         51. gr. Upplýsingar við gerð og endurnýjun vátryggingarsamnings.
@@ -653,13 +654,12 @@ með staðfestu í ríki utan Evrópska efnahagssvæðisins að opna útibú hé
   Um leyfisveitingu og starfsemi slíkra aðila gilda ákvæði 71.76. gr. laga um
                              vátryggingastarfsemi.
                           58. gr. Reglugerðarheimild.
- [Efnahags- og viðskiptaráðherra]^1) getur sett reglugerð um heimildir erlendra
-   vátryggingamiðlara eða vátryggingaumboðsmanna til starfsemi hér á landi og
-      innlendra vátryggingamiðlara eða vátryggingaumboðsmanna erlendis. Í
-reglugerðinni skal m.a. kveðið á um eftirlit með og nánari kröfur til útibúa og
- umboðsskrifstofa erlendra aðila og um heimildir innlendra aðila til að stunda
-                              starfsemi erlendis.
-                              ^1)L. 98/2009, 38. gr.
+[Ráðherra]^1) getur sett reglugerð um heimildir erlendra vátryggingamiðlara eða
+vátryggingaumboðsmanna til starfsemi hér á landi og innlendra vátryggingamiðlara
+   eða vátryggingaumboðsmanna erlendis. Í reglugerðinni skal m.a. kveðið á um
+ eftirlit með og nánari kröfur til útibúa og umboðsskrifstofa erlendra aðila og
+         um heimildir innlendra aðila til að stunda starfsemi erlendis.
+                             ^1)L. 126/2011, 398. gr.
 
                        XIII. kafli. Eftirlit og viðurlög.
                                59. gr. Eftirlit.

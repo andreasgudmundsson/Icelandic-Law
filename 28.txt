@@ -2,10 +2,10 @@
   28.a. Heimildir til verslunar og viðskipta
 
      * Lög um verslunaratvinnu, [1]nr. 28 8. apríl 1998
-     * Lög um verslun með áfengi og tóbak, [2]nr. 63 28. maí 1969
-     * Lög um umboðssöluviðskipti, [3]nr. 103 28. desember 1992
-     * Lög um bílaleigur, [4]nr. 64 20. maí 2000
-     * Lög um sölu fasteigna, fyrirtækja og skipa, [5]nr. 99 9. júní 2004
+     * Lög um umboðssöluviðskipti, [2]nr. 103 28. desember 1992
+     * Lög um bílaleigur, [3]nr. 64 20. maí 2000
+     * Lög um sölu fasteigna, fyrirtækja og skipa, [4]nr. 99 9. júní 2004
+     * Lög um verslun með áfengi og tóbak, [5]nr. 86 23. júní 2011
 
   28.b. Smásöluverslun og verslunarvarningur
 
@@ -50,17 +50,19 @@
      * Lög um mælingar, mæligrunna og vigtarmenn, [25]nr. 91 14. júní 2006
      * Lög um samvinnu stjórnvalda á Evrópska efnahagssvæðinu um
        neytendavernd, [26]nr. 56 27. mars 2007
+     * Lög um þjónustuviðskipti á innri markaði Evrópska efnahagssvæðisins,
+       [27]nr. 76 21. júní 2011
 
-    [27]Kaflar lagasafns
+    [28]Kaflar lagasafns
 
 References
 
    Visible links
    1. file://1998028.html
-   2. file://1969063.html
-   3. file://1992103.html
-   4. file://2000064.html
-   5. file://2004099.html
+   2. file://1992103.html
+   3. file://2000064.html
+   4. file://2004099.html
+   5. file://2011086.html
    6. file://1994072.html
    7. file://1995093.html
    8. file://1995134.html
@@ -82,4 +84,5 @@ References
   24. file://2006024.html
   25. file://2006091.html
   26. file://2007056.html
-  27. file://kaflar.html
+  27. file://2011076.html
+  28. file://kaflar.html

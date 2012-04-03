@@ -10,9 +10,11 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 23. maí 2001. Breytt með l. 129/2004 (tóku gildi 31. des. 2005), l.
-5/2009 (tóku gildi 27. febr. 2009), l. 87/2009 (tóku gildi 20. ágúst 2009) og l.
+ 5/2009 (tóku gildi 27. febr. 2009), l. 87/2009 (tóku gildi 20. ágúst 2009), l.
   98/2009 (tóku gildi 1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan.
-                                     2010).
+ 2010), l. 84/2011 (tóku gildi 30. júní 2011 nema 1. gr. og c-liður 14. gr. sem
+    taka gildi 1. sept. 2012), l. 126/2011 (tóku gildi 30. sept. 2011) og l.
+                     127/2011 (tóku gildi 30. sept. 2011).
 
                      I. kafli. Staða, markmið og verkefni.
  1. gr. Seðlabanki Íslands er sjálfstæð stofnun í eigu ríkisins. Um stjórn hans
@@ -156,12 +158,11 @@ Seðlabankanum er jafnframt heimilt að eiga aðild að öðrum alþjóðlegum s
                               ^1)L. 98/2009, 46. gr.
 
                            V. kafli. Stjórnskipulag.
-        22. gr. Yfirstjórn Seðlabanka Íslands er í höndum [efnahags- og
-    viðskiptaráðherra]^1) og bankaráðs svo sem fyrir er mælt í lögum þessum.
-    [Ákvarðanir um beitingu stjórntækja bankans í peningamálum eru teknar af
-   peningastefnunefnd, sbr. 24. gr. Stjórn bankans er að öðru leyti í höndum
-                             seðlabankastjóra.]^2)
-                    ^1)L. 98/2009, 46. gr. ^2)L. 5/2009, 2. gr.
+22. gr. Yfirstjórn Seðlabanka Íslands er í höndum [ráðherra]^1) og bankaráðs svo
+sem fyrir er mælt í lögum þessum. [Ákvarðanir um beitingu stjórntækja bankans í
+peningamálum eru teknar af peningastefnunefnd, sbr. 24. gr. Stjórn bankans er að
+                   öðru leyti í höndum seðlabankastjóra.]^2)
+                   ^1)L. 126/2011, 321. gr. ^2)L. 5/2009, 2. gr.
  23. gr. [[Ráðherra]^1) skipar seðlabankastjóra og aðstoðarseðlabankastjóra til
  fimm ára í senn. Seðlabankastjóri og aðstoðarseðlabankastjóri skulu hafa lokið
   háskólaprófi í hagfræði eða tengdum greinum og búa yfir víðtækri reynslu og
@@ -206,10 +207,9 @@ krefjast þess. Peningastefnunefnd setur sér starfsreglur sem bankaráð staðf
 opinberlega gefa út viðvaranir þegar tilefni er til. Peningastefnunefnd getur þó
  ákveðið að skýra ekki frá ákvörðunum um viðskipti á gjaldeyrismarkaði skv. 18.
                                       gr.
- Peningastefnunefnd skal gefa Alþingi skýrslu um störf sín tvisvar á ári. Skal
-    efni skýrslunnar rætt á sameiginlegum fundi efnahags- og skattanefndar,
-                    fjárlaganefndar og viðskiptanefndar.]^2)
-                    ^1)L. 98/2009, 46. gr. ^2)L. 5/2009, 4. gr.
+ Peningastefnunefnd skal gefa Alþingi skýrslu um störf sín tvisvar á ári. [Skal
+       ræða skýrsluna í þeirri þingnefnd sem þingforseti ákveður.]^2)]^3)
+        ^1)L. 98/2009, 46. gr. ^2)L. 84/2011, 42. gr. ^3)L. 5/2009, 4. gr.
   25. gr. [Seðlabankastjóra og aðstoðarseðlabankastjóra er óheimilt að sitja í
       stjórnum stofnana og atvinnufyrirtækja utan bankans eða taka þátt í
    atvinnurekstri að öðru leyti nema slíkt sé boðið í lögum eða um sé að ræða
@@ -396,3 +396,9 @@ samkvæmt lögum þessum eftir því sem ástæða verður talin til. Seðlabank
 gildir frá og með fyrstu skipun í embætti bankastjóra eftir gildistöku laganna.
  Við gildistöku laganna skipar forsætisráðherra formann bankastjórnar úr röðum
      bankastjóra til sama tíma og skipun hans í embætti bankastjóra varir.
+    [III. Þrátt fyrir 2. mgr. 17. gr. er Seðlabankanum heimilt, fram til 31.
+desember 2013, að annast viðskipti við einstaklinga og fyrirtæki, enda sé um að
+ræða viðskipti sem Seðlabankinn metur nauðsynleg til þess að hægt sé að losa um
+           takmarkanir sem settar hafa verið á fjármagnshreyfingar og
+                            gjaldeyrisviðskipti.]^1)
+                              ^1)L. 127/2011, 9. gr.

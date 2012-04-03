@@ -1,12 +1,13 @@
 
    --------------------------------------------------------------------------
 
-                              Lög um tóbaksvarnir
+                             Lög um tóbaksvarnir^1)
 
                              2002 nr. 6 31. janúar
 
    --------------------------------------------------------------------------
 
+   ^1)Lögunum var breytt með l. 131/2011. Breytingarnar taka gildi 1. jan. 2012.
 Upphaflega [1]l. 74/1984. Tóku gildi 1. janúar 1985. Breytt með l. 7/1996 (tóku
   gildi 1. okt. 1996), l. 101/1996 (tóku gildi skv. fyrirmælum í 10. gr.), l.
   82/1998 (tóku gildi 1. okt. 1998) og l. 95/2001 (tóku gildi 1. ágúst 2001).
@@ -16,7 +17,9 @@ Endurútgefin, sbr. 17. gr. l. 95/2001, sem [2]l. 6/2002. Breytt með l. 164/200
 EES-samningurinn: II. viðauki tilskipun 2001/37/EB), l. 83/2006 (tóku gildi 30.
  júní 2006; komu til framkvæmda skv. fyrirmælum í 6. gr.), [4]l. 88/2008 (tóku
   gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 33/2009
-      (tóku gildi 8. apríl 2009) og l. 162/2010 (tóku gildi 1. jan. 2011).
+ (tóku gildi 8. apríl 2009), l. 162/2010 (tóku gildi 1. jan. 2011), l. 28/2011
+(tóku gildi 1. maí 2011), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 131/2011
+                           (taka gildi 1. jan. 2012).
 
                     I. kafli. Markmið, gildissvið og stjórn.
 1. gr. Markmið laga þessara er að draga úr heilsutjóni og dauðsföllum af völdum
@@ -54,8 +57,9 @@ hreyfanlegu, svo og samkomutjöld og sýningartjöld, sem almenningur hefur aðg
                     ^1)L. 24/2003, 1. gr. ^2)L. 83/2006, 1. gr.
  3. gr. Lög þessi gilda ekki um tóbak sem notað er sem lyf samkvæmt lyfjalögum
         eða sem eiturefni samkvæmt lögum um eiturefni og hættuleg efni.
-4. gr. Yfirstjórn mála samkvæmt lögum þessum er í höndum [velferðarráðherra].^1)
-                              ^1)L. 162/2010, 72. gr.
+ 4. gr. Yfirstjórn mála samkvæmt lögum þessum er í höndum [ráðherra er fer með
+                       málefni lýðheilsu og forvarna].^1)
+                             ^1)L. 126/2011, 338. gr.
                                    5. gr. ^1)
                              ^1)[5]L. 18/2003, 10. gr.
 
@@ -75,7 +79,7 @@ aðildarríkjanna varðandi framleiðslu, kynningu og sölu á tóbaki og ákvar
                           skaðleg og annað tóbak.]^1)
   Tóbaksframleiðendur standa straum af kostnaði við merkingar samkvæmt þessari
                                      grein.
-           ^1)L. 24/2003, 2. gr. ^2)Rg. 236/2003. ^3)L. 33/2009, 1. gr.
+           ^1)L. 24/2003, 2. gr. ^2)Rg. 790/2011. ^3)L. 33/2009, 1. gr.
  7. gr. Hvers konar auglýsingar á tóbaki og reykfærum eru bannaðar hér á landi.
   [Þetta nær þó ekki til upplýsinga um tóbaksvöru sem miðlað er til þeirra sem
 selja tóbak í heildsölu eða smásölu enda sé þess gætt að upplýsingarnar séu ekki
@@ -131,12 +135,12 @@ Heilbrigðisyfirvöld geta krafist þess að framleiðendur eða innflytjendur t
 leggi fram sýnishorn af vörunni eða geri prófanir sem eru nauðsynlegar til þess
 að meta eiginleika og áhrif hennar. Ráðherra setur í reglugerð nánari ákvæði um
                                framkvæmdina.]^5)
- [Ráðherra]^2) ákveður í reglugerð, að höfðu samráði við tóbaksvarnanefnd og í
-   samræmi við gildandi tilskipanir Evrópusambandsins, hver skuli vera hæstu
-  leyfileg mörk skaðlegra efna í tóbaki og tóbaksreyk og hvernig háttað skuli
-   mælingum og eftirliti með því að þessi mörk séu virt. [Tóbaksframleiðendur
- standa straum af kostnaði við mælingar og prófanir samkvæmt þessari málsgrein,
-           svo og við upplýsingar og prófanir skv. 8. og 9. mgr.]^5)
+   [Ráðherra]^2) ákveður í reglugerð, ^6) í samræmi við gildandi tilskipanir
+ Evrópusambandsins, hver skuli vera hæstu leyfileg mörk skaðlegra efna í tóbaki
+  og tóbaksreyk og hvernig háttað skuli mælingum og eftirliti með því að þessi
+ mörk séu virt. [Tóbaksframleiðendur standa straum af kostnaði við mælingar og
+prófanir samkvæmt þessari málsgrein, svo og við upplýsingar og prófanir skv. 8.
+                                 og 9. mgr.]^5)
      [Til að selja tóbak í smásölu þarf sérstakt leyfi heilbrigðisnefndar á
  viðkomandi eftirlitssvæði. Til reksturs sérverslunar með tóbak þarf jafnframt
   sérstakt leyfi heilbrigðisnefndar á viðkomandi eftirlitssvæði. Auðkenna skal
@@ -145,14 +149,16 @@ að meta eiginleika og áhrif hennar. Ráðherra setur í reglugerð nánari ák
 fullnægja almennum skilyrðum laga um verslunaratvinnu. Heimilt er sveitarfélögum
 að innheimta gjald fyrir leyfi og eftirlit með starfsemi leyfishafa að fenginni
  umsögn heilbrigðisnefnda. Um gjaldtöku fer samkvæmt lögum um hollustuhætti og
- mengunarvarnir. Ráðherra er heimilt í samráði við umhverfisráðherra að setja í
-  reglugerð^6) nánari ákvæði um leyfisveitingu samkvæmt þessari grein, m.a. um
-umbúnað sérverslana með tóbak, hvernig þær skuli auðkenndar og hvernig koma megi
-    tóbaki og vörumerkjum tóbaks fyrir á útsölustöðum og í sérverslunum.]^7)
+ mengunarvarnir. Ráðherra er heimilt í samráði við [ráðherra er fer með málefni
+   mengunarvarna]^7) að setja í reglugerð^8) nánari ákvæði um leyfisveitingu
+samkvæmt þessari grein, m.a. um umbúnað sérverslana með tóbak, hvernig þær skuli
+      auðkenndar og hvernig koma megi tóbaki og vörumerkjum tóbaks fyrir á
+                      útsölustöðum og í sérverslunum.]^9)
 Þeim sem selur tóbak í heildsölu er óheimilt að selja eða afhenda tóbak öðrum en
     þeim sem hafa leyfi til að selja tóbak í smásölu samkvæmt lögum þessum.
        ^1)L. 33/2009, 3. gr. ^2)L. 162/2010, 72. gr. ^3)Rg. 326/2007. ^4)Rg.
-     236/2003. ^5)L. 24/2003, 3. gr. ^6)Rg. 325/2007. ^7)L. 83/2006, 3. gr.
+790/2011. ^5)L. 24/2003, 3. gr. ^6)L. 28/2011, 15. gr. ^7)L. 126/2011, 338. gr.
+                     ^8)Rg. 325/2007. ^9)L. 83/2006, 3. gr.
 
                     III. kafli. Takmörkun á tóbaksreykingum.
   9. gr. [Tóbaksreykingar eru óheimilar í þjónusturými stofnana, fyrirtækja og
@@ -168,14 +174,16 @@ tilsvarandi svæði utan húss séu þau ekki nægilega opin til að tryggja vi�
   sem fullnægir kröfum heilbrigðiseftirlits og þess gætt að reykingarnar mengi
                 ekki andrúmsloftið þar sem þær eru ekki leyfðar.
                                       ^1)
-          [Ráðherra er heimilt að setja í reglugerð,^2) í samráði við
-   [innanríkisráðherra]^3) og umhverfisráðherra, nánari ákvæði um reykingar á
+[Ráðherra er heimilt að setja í reglugerð,^2) í samráði við [ráðherra er fer með
+    framkvæmd löggjafar um veitingastaði, gististaði og skemmtanahald]^3) og
+  [ráðherra er fer með málefni mengunarvarna],^3) nánari ákvæði um reykingar á
  gististöðum og um framkvæmd banns við reykingum á veitinga- og skemmtistöðum,
                m.a. hvað varðar svæði utan dyra, sbr. 1. mgr.]^1)
      Tóbaksreykingar eru bannaðar í öllu húsrými í sameign fjöleignarhúsa.
-  Ráðherra skal í samráði við menntamálaráðherra og Íþrótta- og Ólympíusamband
-Íslands setja reglur^2) um takmarkanir á tóbaksneyslu utan húss á íþróttasvæðum.
-          ^1)L. 83/2006, 4. gr. ^2)Rg. 326/2007. ^3)L. 162/2010, 232. gr.
+ Ráðherra skal í samráði við [ráðherra er fer með íþróttamál]^3) og Íþrótta- og
+Ólympíusamband Íslands setja reglur^2) um takmarkanir á tóbaksneyslu utan húss á
+                                 íþróttasvæðum.
+          ^1)L. 83/2006, 4. gr. ^2)Rg. 326/2007. ^3)L. 126/2011, 338. gr.
                 10. gr. Tóbaksreykingar eru með öllu óheimilar:
       1. Í grunnskólum, vinnuskólum sveitarfélaga, á leikskólum, hvers konar
    dagvistum barna og í húsakynnum sem eru fyrst og fremst ætluð til félags-,
@@ -209,11 +217,12 @@ sérhverrar stofnunar skal þó heimilt að gera ráð fyrir afdrepi þar sem re
   12. gr. [Með þeirri undantekningu sem leiða kann af 3. mgr. 9. gr. skal hver
     maður eiga rétt á reyklausu andrúmslofti innan dyra á vinnustað sínum og
          vinnuveitandi hans sjá til þess að hann njóti þess réttar.]^1)
-[Ráðherra]^2) skal setja reglur^3) í samráði við ^2) [innanríkisráðherra]^4) um
+   [Ráðherra]^2) skal setja reglur^3) í samráði við ^2) [ráðherra er fer með
+    framkvæmd löggjafar um veitingastaði, gististaði og skemmtanahald]^4) um
  takmarkanir á reykingum á vinnustöðum, þar á meðal í skipum, í samræmi við 1.
                   mgr. og með tilliti til 1. gr. laga þessara.
        ^1)L. 83/2006, 5. gr. ^2)L. 162/2010, 72. gr. ^3)Rg. 326/2007. ^4)L.
-                               162/2010, 232. gr.
+                               126/2011, 338. gr.
 13. gr. Tóbaksreykingar eru óheimilar í almenningsfarartækjum sem rekin eru gegn
                                    gjaldtöku.
   Heimilt er forráðamönnum flugvéla að leyfa reykingar í hluta farþegarýmis í
@@ -221,20 +230,21 @@ sérhverrar stofnunar skal þó heimilt að gera ráð fyrir afdrepi þar sem re
                 óþægindi skapist ekki fyrir þá sem ekki reykja.
 
                           IV. kafli. Fræðslustarfsemi.
-       14. gr. Menntamálaráðuneytið skal í samráði við [ráðuneytið]^1) og
- tóbaksvarnanefnd sjá til þess að fram fari reglubundin fræðsla í því skyni að
-                             draga úr tóbaksneyslu:
+      14. gr. [Það ráðuneyti er fer með fræðslumál]^1) skal í samráði við
+[ráðuneytið]^2) og [landlækni]^3) sjá til þess að fram fari reglubundin fræðsla
+                     í því skyni að draga úr tóbaksneyslu:
    1. Í skólum landsins. Sérstök áhersla skal lögð á slíka fræðslu í grunnskólum
       og skólum þeim sem mennta fólk til starfa að uppeldis-, fræðslu- og
                                heilbrigðismálum.
                                  2. Í fjölmiðlum.
    Fræðsla um áhrif tóbaksneyslu og leiðir til að draga úr henni skal veitt á
                        heilsugæslustöðvum og sjúkrahúsum.
-                              ^1)L. 162/2010, 72. gr.
+      ^1)L. 126/2011, 338. gr. ^2)L. 162/2010, 72. gr. ^3)L. 28/2011, 15. gr.
 
                             V. kafli. Almenn ákvæði.
-  15. gr. Skylt er að verja a.m.k. 0,9% af brúttósölu tóbaks til tóbaksvarna.
-            Tóbaksvarnanefnd ráðstafar fénu í samráði við ráðherra.
+ 15. gr. [A.m.k. 0,9% af brúttósölu tóbaks skal renna í lýðheilsusjóð, sbr. lög
+                         um landlækni og lýðheilsu.]^1)
+                              ^1)L. 28/2011, 15. gr.
  16. gr. Ráðherra er heimilt að setja í reglugerð^1) nánari ákvæði um framkvæmd
                                     laganna.
                           ^1)Rg. 325/2007. Rg. 326/2007.
@@ -283,7 +293,7 @@ References
    2. file://2002006.html
    3. file://2003018.html
    4. file://2008088.html
-   5. file://2003018.html#g10
+   5. file://2003018.html
    6. file://1998007.html#g27
    7. file://1998007.html#g31
    8. file://1940019.html

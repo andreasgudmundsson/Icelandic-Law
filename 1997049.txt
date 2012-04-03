@@ -13,14 +13,15 @@
  44/2003 (tóku gildi 3. apríl 2003), l. 167/2007 (tóku gildi 1. jan. 2008), l.
 41/2008 (tóku gildi 5. júní 2008 nema 2. gr. sem tók gildi 1. jan. 2009), [1]l.
  82/2008 (tóku gildi 1. júní 2008, birt í Stjtíð. 19. júní 2008), [2]l. 88/2008
-  (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l.
-                      162/2010 (tóku gildi 1. jan. 2011).
+   (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l.
+ 162/2010 (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
     1. gr. Vinna skal að vörnum gegn tjóni og slysum af völdum snjóflóða og
                skriðufalla svo sem fyrir er mælt í lögum þessum.
         Samheitið ofanflóð er hér eftir notað um snjóflóð og skriðuföll.
- 2. gr. Umhverfisráðherra fer með yfirstjórn þeirra málefna sem lög þessi taka
-              til, nema þau séu sérstaklega falin öðrum ráðherrum.
+ 2. gr. [Ráðherra]^1) fer með yfirstjórn þeirra málefna sem lög þessi taka til,
+                nema þau séu sérstaklega falin öðrum ráðherrum.
+                             ^1)L. 126/2011, 237. gr.
 3. gr. Veðurstofa Íslands aflar gagna um snjóflóð og snjóflóðahættu og vinnur úr
 þeim. Hún annast mælingar á snjóalögum og rannsóknir á þeim með sérstöku tilliti
         til snjóflóðahættu og gefur út viðvörun um hana, sbr. 6. gr.^1)
@@ -43,15 +44,15 @@ mat fram á skipulögðum skíðasvæðum. Hættumat skal fela í sér mat á þ
        sem lífi fólks er búin vegna ofanflóða á byggð svæði eða skipulögð
   byggingarsvæði. Við matið skal tekið tillit til varnarvirkja sem reist hafa
                                      verið.
-   [Beiðni sveitarstjórnar um gerð hættumats skal berast umhverfisráðherra og
-    skipar hann fjögurra manna nefnd sem stýrir gerð hættumats í viðkomandi
-     sveitarfélagi, hættumatsnefnd. Skulu tveir fulltrúar skipaðir samkvæmt
-tilnefningu frá sveitarstjórn, en ráðherra skipar tvo fulltrúa án tilnefningar í
- nefndina og skal annar þeirra vera formaður og hafa oddaatkvæði falli atkvæði
-    jöfn. Hættumatsnefnd ákveður í samráði við sveitarstjórn til hvaða svæða
-   hættumat skuli ná. Hættumatsnefnd kynnir tillögur að endanlegu hættumati í
-samráði við sveitarstjórn þegar þær berast frá Veðurstofu Íslands og gengur frá
- hættumati til staðfestingar ráðherra. Ráðherra setur reglur um skipan og starf
+ [Beiðni sveitarstjórnar um gerð hættumats skal berast [ráðherra]^3) og skipar
+hann fjögurra manna nefnd sem stýrir gerð hættumats í viðkomandi sveitarfélagi,
+    hættumatsnefnd. Skulu tveir fulltrúar skipaðir samkvæmt tilnefningu frá
+  sveitarstjórn, en ráðherra skipar tvo fulltrúa án tilnefningar í nefndina og
+    skal annar þeirra vera formaður og hafa oddaatkvæði falli atkvæði jöfn.
+  Hættumatsnefnd ákveður í samráði við sveitarstjórn til hvaða svæða hættumat
+ skuli ná. Hættumatsnefnd kynnir tillögur að endanlegu hættumati í samráði við
+ sveitarstjórn þegar þær berast frá Veðurstofu Íslands og gengur frá hættumati
+      til staðfestingar ráðherra. Ráðherra setur reglur um skipan og starf
                              hættumatsnefndar.]^1)
 [Veðurstofa Íslands annast gerð hættumats á grundvelli sérfræðilegrar þekkingar
 á eðli og afleiðingum ofanflóða að beiðni hættumatsnefndar og skal gerður um það
@@ -66,10 +67,10 @@ ráðherra ná til þyrpinga þegar byggðra frístundabyggða og frístundahús
 Hættumat öðlast gildi þegar ráðherra hefur staðfest það. Taka skal fullt tillit
  til hættumats við alla skipulagsgerð og skal það lagt fram sem fylgiskjal með
             skipulagstillögu. [Sama á við um úttekt skv. 4. mgr.]^2)
-  Reglur^3) um gerð og notkun hættumats, flokkun hættusvæða og nýtingu þeirra
+  Reglur^4) um gerð og notkun hættumats, flokkun hættusvæða og nýtingu þeirra
                            skulu settar af ráðherra.
-    ^1)L. 71/2000, 1. gr. ^2)L. 41/2008, 1. gr. ^3)Rg. 505/2000, sbr. 495/2007,
-                      309/2010 og 1017/2010. Rg. 636/2009.
+    ^1)L. 71/2000, 1. gr. ^2)L. 41/2008, 1. gr. ^3)L. 126/2011, 237. gr. ^4)Rg.
+         505/2000, sbr. 495/2007, 309/2010 og 1017/2010. Rg. 636/2009.
  5. gr. [Almannavarnanefndir skulu annast gerð viðbragðsáætlana, svo og sjá um
      leiðbeiningar og almannafræðslu um hættu af ofanflóðum í samvinnu við
                  ríkislögreglustjóra og Veðurstofu Íslands.]^1)
@@ -83,8 +84,8 @@ hættuástandi skal fólk flytja eða það flutt á brott úr öllu húsnæði 
  svæðum, sem tilgreind skulu í viðvörun Veðurstofunnar, í samræmi við gildandi
      neyðaráætlun.^1) Svæði þessi skulu afmörkuð á sérstökum uppdráttum sem
 Veðurstofan skal sjá um að gera á grundvelli sérfræðilegrar þekkingar á eðli og
- afleiðingum snjóflóða. [Skulu uppdrættirnir staðfestir af umhverfisráðherra og
-   kynntir ríkislögreglustjóra ^2) og hlutaðeigandi almannavarnanefndum.]^3)
+   afleiðingum snjóflóða. [Skulu uppdrættirnir staðfestir af [ráðherra]^2) og
+   kynntir ríkislögreglustjóra ^3) og hlutaðeigandi almannavarnanefndum.]^4)
  Lögreglustjóri og almannavarnanefnd sjá um að rýma húsnæði skv. 1. mgr. og má
 beita valdi í því skyni ef þörf krefur. Á meðan hættuástand varir er öll umferð
        bönnuð um það svæði, sem rýmt hefur verið, nema með sérstöku leyfi
@@ -94,7 +95,8 @@ beita valdi í því skyni ef þörf krefur. Á meðan hættuástand varir er ö
  Uppdrættir skv. 1. mgr. skulu endurskoðaðir í ljósi bestu þekkingar á eðli og
   afleiðingum snjóflóða og breyttra aðstæðna, svo sem vegna þess að reist hafa
                           verið varanleg varnarvirki.
-         ^1)Rg. 533/1995. ^2)[4]L. 82/2008, 35. gr. ^3)L. 44/2003, 13. gr.
+     ^1)Rg. 533/1995. ^2)L. 126/2011, 237. gr. ^3)[4]L. 82/2008, 35. gr. ^4)L.
+                                44/2003, 13. gr.
   7. gr. Lögreglustjóri getur hvenær sem er, í samráði við almannavarnanefnd,
  ákveðið að rýma húsnæði vegna hættu á ofanflóðum, þótt hættuástandi hafi ekki
  verið lýst yfir skv. 6. gr. Að auki er heimilt að fyrirskipa að húsnæði skuli
@@ -109,30 +111,32 @@ tilteknar götur og vegi vegna hættu á ofanflóðum utan svæða sem rýmd haf
   sérstaka nefnd til að rannsaka orsakir ofanflóðsins og afleiðingar þess. Enn
 fremur er heimilt að skipa slíka nefnd í öðrum tilvikum ef manntjón eða verulegt
                      eignatjón hefur hlotist af ofanflóði.
-  Forsætisráðherra skipar hverju sinni þrjá sérfróða menn í nefndina. Formaður
+[Ráðherra er fer með rannsókn á orsökum ofanflóðs og afleiðinga þess ef manntjón
+  hlýst af því]^1) skipar hverju sinni þrjá sérfróða menn í nefndina. Formaður
 nefndarinnar, sem uppfylla skal starfsgengisskilyrði héraðsdómara, skal skipaður
-           án tilnefningar, en aðrir nefndarmenn samkvæmt tilnefningu
-                 [innanríkisráðherra]^1) og umhverfisráðherra.
+án tilnefningar, en aðrir nefndarmenn samkvæmt tilnefningu [ráðherra er fer með
+    almannavarnir og ráðherra er fer með málefni varna gegn ofanflóðum].^1)
  Rannsókn nefndarinnar skal einvörðungu miða að því að draga úr hættu af völdum
       ofanflóða. Nefndin starfar sjálfstætt og óháð stjórnvöldum og öðrum
 rannsóknaraðilum. Henni er heimilt að krefjast framlagningar á skjölum og öðrum
  gögnum er varða ofanflóð og taka skýrslur af hverjum þeim sem ætla má að kunni
         að geta veitt upplýsingar er að gagni mega koma við rannsóknina.
-        Forsætisráðherra getur sett nánari reglur um störf nefndarinnar.
+  [Hlutaðeigandi ráðherra, sbr. 2. mgr.],^1) getur sett nánari reglur um störf
+                                 nefndarinnar.
 [Nú fer fram rannsókn á ætlaðri refsiverðri háttsemi í tengslum við ofanflóð og
            er slík rannsókn óháð rannsókn samkvæmt þessari grein.]^2)
-                ^1)L. 162/2010, 144. gr. ^2)[5]L. 88/2008, 234. gr.
+                ^1)L. 126/2011, 237. gr. ^2)[5]L. 88/2008, 234. gr.
  9. gr. Ráðherra skipar þriggja manna nefnd, ofanflóðanefnd, til fjögurra ára í
 senn til að annast þau verkefni sem greinir í 2. mgr. Formaður nefndarinnar skal
-      skipaður án tilnefningar, en aðrir nefndarmenn samkvæmt tilnefningu
-          [innanríkisráðherra]^1) og Sambands íslenskra sveitarfélaga.
+skipaður án tilnefningar, en aðrir nefndarmenn samkvæmt tilnefningu [ráðherra er
+      fer með sveitarstjórnarmál]^1) og Sambands íslenskra sveitarfélaga.
                          Verkefni ofanflóðanefndar eru:
    1. Að fjalla um og taka afstöðu til tillagna sveitarstjórnar skv. 10. og 11.
                                       gr.
                  2. Að ráðstafa fé úr ofanflóðasjóði skv. 13. gr.
 Ákvarðanir ofanflóðanefndar skv. 2. mgr. öðlast fyrst gildi þegar ráðherra hefur
      staðfest þær. Ráðherra getur sett nánari reglur um störf nefndarinnar.
-                             ^1)L. 162/2010, 220. gr.
+                             ^1)L. 126/2011, 237. gr.
 10. gr. Sveitarstjórn gerir tillögu til ofanflóðanefndar að varnarvirkjum fyrir
      hættusvæði sem þegar hafa verið byggð samkvæmt aðalskipulagi. Eftir að
 viðurkennd varnarvirki hafa verið reist er heimilt að meta af bærum aðilum hvort
@@ -153,7 +157,7 @@ Sveitarstjórn skal sjá um að kaupa eignir eða flytja þær í samræmi við 
 Náist ekki samkomulag um kaup á húseign er sveitarstjórn heimilt að taka eignina
       eignarnámi. Um eignarnám fer samkvæmt lögum um framkvæmd eignarnáms.
         12. gr. Sérstakur sjóður ríkisins, ofanflóðasjóður, er í vörslu
-                            umhverfisráðuneytisins.
+                              [ráðuneytisins].^1)
                               Tekjur sjóðsins eru:
    1. Árlegt gjald sem lagt er á allar brunatryggðar húseignir og nemur 0,3 af
 vátryggingarverðmæti. Gjaldið skal innheimt ásamt iðgjaldi til Viðlagatryggingar
@@ -166,7 +170,8 @@ vátryggingarverðmæti. Gjaldið skal innheimt ásamt iðgjaldi til Viðlagatry
                            3. Vaxtatekjur, sbr. 13. gr.
                                  4. Aðrar tekjur.
  Lán til starfsemi sjóðsins, sem eru með ábyrgð ríkissjóðs, skulu háð samþykki
-                               fjármálaráðherra.
+                          [hlutaðeigandi ráðherra].^1)
+                             ^1)L. 126/2011, 237. gr.
  13. gr. Fé ofanflóðasjóðs, sbr. 12. gr., skal notað til að greiða kostnað við
 rekstur sjóðsins og ofanflóðanefndar, svo og kostnað við varnir gegn ofanflóðum
                                  sem hér segir:
@@ -210,19 +215,20 @@ hreinum tekjum sveitarfélags vegna sölu eða leigu á eignum sem það hefur e
 15. gr. Fella skal niður eða endurgreiða aðflutningsgjöld og virðisaukaskatt af
 efni og tækjum sem flutt eru hingað til lands eða framleidd eru hér á landi til
                              varna gegn ofanflóðum.
-16. gr. Umhverfisráðherra setur með reglugerð^1) nánari ákvæði um framkvæmd laga
+  16. gr. [Ráðherra]^1) setur með reglugerð^2) nánari ákvæði um framkvæmd laga
                                     þessara.
-                                 ^1)Rg. 637/1997.
+                     ^1)L. 126/2011, 237. gr. ^2)Rg. 637/1997.
                      17. gr. Lög þessi öðlast þegar gildi.
  Ef hættumat hefur verið staðfest fyrir 1. janúar 1996 fellur það sjálfkrafa úr
                          gildi við gildistöku laganna.
                             Ákvæði til bráðabirgða.
 I. Sveitarstjórn leggur fram tillögu um skipulag nýrrar byggðar og nýbygginga í
    sveitarfélögum sem búa við snjóflóðahættu. Skipulagstillagan skal unnin í
- samræmi við reglur sem umhverfisráðherra setur. Ráðherra skal fá tillögur frá
+   samræmi við reglur sem [ráðherra]^1) setur. Ráðherra skal fá tillögur frá
  Skipulagi ríkisins, Veðurstofu Íslands og Sambandi íslenskra sveitarfélaga og
   skal liggja fyrir bráðabirgðahættumat. Skal styðjast við þær reglur þar til
         hættumat hefur verið staðfest fyrir hlutaðeigandi sveitarfélag.
+                             ^1)L. 126/2011, 237. gr.
                                       II.
 
 References

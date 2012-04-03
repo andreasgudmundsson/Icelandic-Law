@@ -1,18 +1,20 @@
 
    --------------------------------------------------------------------------
 
-                  Lög um leit, rannsóknir og vinnslu kolvetnis
+                Lög um leit, rannsóknir og vinnslu kolvetnis^1)
 
                               2001 nr. 13 13. mars
 
    --------------------------------------------------------------------------
 
+   ^1)Lögunum var breytt með l. 131/2011. Breytingarnar taka gildi 1. jan. 2012.
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 16. maí 2001. EES-samningurinn: XVI. viðauki tilskipun 93/38/EBE og
    IV. viðauki tilskipun 94/22/EB. Breytt með l. 49/2007 (tóku gildi 3. apríl
- 2007), l. 166/2008 (tóku gildi 1. jan. 2009) og l. 8/2009 (tóku gildi 7. mars
-                                     2009).
+  2007), l. 166/2008 (tóku gildi 1. jan. 2009), l. 8/2009 (tóku gildi 7. mars
+2009), l. 105/2011 (tóku gildi 9. sept. 2011), l. 126/2011 (tóku gildi 30. sept.
+                2011) og l. 131/2011 (taka gildi 1. jan. 2012).
 
                     I. kafli. Gildissvið og skilgreiningar.
                                1. gr. Gildissvið.
@@ -43,27 +45,37 @@ vinnsluholna, dæling eða leiðsla kolvetnis til yfirborðs, niðurdæling kolv
 kolvetnis ásamt byggingu, uppsetningu, starfrækslu og lokun hafstöðvar ætlaðrar
                               til slíkrar vinnslu.
   [Leyfishafi merkir í lögum þessum skráður aðili hér á landi sem fengið hefur
-     leyfi til leitar, rannsóknar og/eða vinnslu kolvetnis skv. III. og IV.
-                                   kafla.]^2)
-                   ^1)L. 49/2007, 1. gr. ^2)L. 166/2008, 1. gr.
+leyfi til ^3) rannsóknar og/eða vinnslu kolvetnis skv. ^3) IV. kafla. [Íslenskt
+  útibú eða umboðsskrifstofa félags sem skráð er í aðildarríki samningsins um
+Evrópska efnahagssvæðið, í aðildarríki stofnsamnings Fríverslunarsamtaka Evrópu
+                  eða í Færeyjum telst skráður aðili.]^3)]^2)
+  [Samstarfssamningur um framkvæmd leyfis merkir í lögum þessum samningur sem
+ aðilar að einu leyfi, ef þeir eru fleiri en einn, gera sín á milli og kveður á
+ um hlutverk og skyldur hvers samleyfishafa innan leyfisins og framkvæmd þess.
+     Rekstraraðili merkir í lögum þessum sá aðili sem sér um daglega stjórn
+                 kolvetnisstarfseminnar fyrir hönd leyfishafa.
+ Leitarleyfishafi merkir í lögum þessum aðili sem fengið hefur leyfi til leitar
+                        að kolvetni skv. III. kafla.]^3)
+        ^1)L. 49/2007, 1. gr. ^2)L. 166/2008, 1. gr. ^3)L. 105/2011, 1. gr.
 
                       II. kafli. Eignarréttur að kolvetni.
 3. gr. [Íslenska ríkið er eigandi kolvetnis skv. 1. gr. Heimilt er að semja við
     handhafa vinnsluleyfis um að hann verði eigandi þess kolvetnis sem hann
                                   framleiðir.
-         Iðnaðarráðherra fer með yfirstjórn mála samkvæmt lögum þessum.
-                                    ^1)]^2)
-                   ^1)L. 166/2008, 2. gr. ^2)L. 49/2007, 2. gr.
+          [Ráðherra]^1) fer með yfirstjórn mála samkvæmt lögum þessum.
+                                    ^2)]^3)
+       ^1)L. 126/2011, 317. gr. ^2)L. 166/2008, 2. gr. ^3)L. 49/2007, 2. gr.
 
                                III. kafli. Leit.
                             4. gr. Leyfi til leitar.
  [Orkustofnun]^1) veitir leyfi til leitar að kolvetni með rannsóknir og vinnslu
                                   að markmiði.
-     Áður en veitt er leyfi til leitar skal [Orkustofnun]^1) leita umsagnar
-   sjávarútvegsráðuneytis og umhverfisráðuneytis. [Þá skal Orkustofnun leita
-  umsagnar viðeigandi sveitarfélaga ef sótt er um leyfi á svæði sem er innan 1
-                           sjómílu frá netlögum.]^2)
-                   ^1)L. 49/2007, 3. gr. ^2)L. 166/2008, 3. gr.
+ Áður en veitt er leyfi til leitar skal [Orkustofnun]^1) leita umsagnar [þeirra
+   ráðuneyta er fara með málefni náttúruverndar sem og rannsóknir, verndun og
+    nýtingu hafsbotnsins].^2) [Þá skal Orkustofnun leita umsagnar viðeigandi
+      sveitarfélaga ef sótt er um leyfi á svæði sem er innan 1 sjómílu frá
+                                 netlögum.]^3)
+       ^1)L. 49/2007, 3. gr. ^2)L. 126/2011, 317. gr. ^3)L. 166/2008, 3. gr.
                                  5. gr. Umsókn.
  Í umsóknum um leyfi til leitar að kolvetni skal koma skýrt fram hver tilgangur
     sé með öflun leyfis ásamt ítarlegum upplýsingum um fyrirhugaða starfsemi
@@ -72,34 +84,42 @@ kolvetnis ásamt byggingu, uppsetningu, starfrækslu og lokun hafstöðvar ætla
                       6. gr. Tímalengd og skilyrði leyfis.
   Leyfi til leitar að kolvetni skal veitt til þriggja ára í senn nema styttri
                         leyfistími sé nefndur í leyfinu.
-   Leyfi til leitar að kolvetni veitir leyfishafa ekki rétt til borunar eftir
-  kolvetni, vinnslu kolvetnis eða forgangsrétt til að fá slíkt leyfi síðar. Þó
-   getur slíkt leyfi falið í sér heimild til borunar í þeim tilgangi að afla
+Leyfi til leitar að kolvetni veitir [leitarleyfishafa]^1) ekki rétt til borunar
+eftir kolvetni, vinnslu kolvetnis eða forgangsrétt til að fá slíkt leyfi síðar.
+  Þó getur slíkt leyfi falið í sér heimild til borunar í þeim tilgangi að afla
       upplýsinga um almenn skilyrði til myndunar og varðveislu kolvetnis.
-[Iðnaðarráðherra er heimilt að setja í reglugerð nánari skilyrði fyrir veitingu
-                       leyfis til leitar að kolvetni.]^1)
-                              ^1)L. 166/2008, 4. gr.
+ [[Ráðherra]^2) er heimilt að setja í reglugerð nánari skilyrði fyrir veitingu
+                       leyfis til leitar að kolvetni.]^3)
+      ^1)L. 105/2011, 2. gr. ^2)L. 126/2011, 317. gr. ^3)L. 166/2008, 4. gr.
 
                        IV. kafli. Rannsóknir og vinnsla.
                       7. gr. Rannsóknar- og vinnsluleyfi.
    [[Orkustofnun veitir leyfi til rannsókna og vinnslu kolvetnis á tilteknum
  svæðum. Slíkt leyfi felur í sér einkarétt leyfishafa til rannsókna og vinnslu.
   Einungis má veita slíkt leyfi aðilum sem að mati Orkustofnunar hafa nægilega
-  sérþekkingu, reynslu og fjárhagslegt bolmagn til að annast þessa starfsemi.
+ sérþekkingu, reynslu og fjárhagslegt bolmagn til að annast þessa starfsemi [og
+skulu sömu skilyrði eiga við um ákvörðun Orkustofnunar um rekstraraðila, sbr. 1.
+mgr. 10. gr. a].^1) [Gera má ríkari kröfur til rekstraraðila í því sambandi.]^1)
  Nánar skal kveðið á um skyldur og rannsóknarkvaðir leyfishafa í rannsóknar- og
-                               vinnsluleyfi.]^1)
+                               vinnsluleyfi.]^2)
 Í þeim tilvikum þar sem handhafar leyfis til rannsókna og vinnslu á kolvetni eru
 fleiri en einn ber að leggja til staðfestingar Orkustofnunar samstarfssamning um
 framkvæmd leyfisins. Allar breytingar á slíkum samningi, eða aðrir viðaukar, eru
  háðir samþykki Orkustofnunar. Einungis má veita leyfi til rannsókna og vinnslu
 kolvetnis aðilum sem hafa nægilega sérþekkingu, reynslu og fjárhagslegt bolmagn
-                       til að annast þessa starfsemi.]^2)
-                                      ^1)
+                       til að annast þessa starfsemi.]^3)
+ [Um efni samstarfssamnings skv. 2. mgr. fer samkvæmt lögum þessum. Ekki ber að
+líta á samstarfssamning, eða þá aðila sem að honum standa, sem sjálfstætt félag
+í skilningi [1]laga nr. 138/1994, um einkahlutafélög, eða [2]laga nr. 2/1995, um
+  hlutafélög. Hver og einn aðili sem stendur að samstarfssamningi á hlut í því
+ leyfi sem samstarfssamningurinn kveður á um og er því sjálfstæður leyfishafi í
+                          skilningi laga þessara.]^1)
 Áður en veitt er rannsóknar- og vinnsluleyfi, samþykki eða leyfi fyrir einstökum
-       framkvæmdum skv. 14.18. gr. skal [Orkustofnun]^3) leita umsagnar
-   sjávarútvegsráðuneytis og umhverfisráðuneytis. [Þá skal Orkustofnun leita
-  umsagnar viðeigandi sveitarfélaga ef sótt er um leyfi á svæði sem er innan 1
-                           sjómílu frá netlögum.]^4)
+   framkvæmdum skv. 14.18. gr. skal [Orkustofnun]^4) leita umsagnar [þeirra
+   ráðuneyta er fara með málefni náttúruverndar sem og rannsóknir, verndun og
+    nýtingu hafsbotnsins].^5) [Þá skal Orkustofnun leita umsagnar viðeigandi
+      sveitarfélaga ef sótt er um leyfi á svæði sem er innan 1 sjómílu frá
+                                 netlögum.]^6)
 [Rannsóknarleyfi samkvæmt lögum þessum felur í sér heimild til þess að rannsaka
     kolvetnisauðlind á tilteknu svæði á leyfistímanum með þeim skilmálum sem
  tilgreindir eru í lögum þessum, í leyfinu sjálfu og samkvæmt nánari fyrirmælum
@@ -114,9 +134,11 @@ með þeim skilmálum öðrum sem tilgreindir eru í lögum þessum, í leyfinu 
    rannsóknarsvæði. Fyrstu sex ár sem leyfi er í gildi skal leyfishafi greiða
  árlega 10.000 kr. fyrir hvern ferkílómetra sem leyfið tekur til en þar á eftir
  hækkar gjaldið árlega um 10.000 kr. fyrir hvern ferkílómetra. Gjaldið skal þó
-   aldrei vera hærra en 150.000 kr. árlega fyrir hvern ferkílómetra.]^1)]^2)
-     ^1)L. 166/2008, 5. gr. ^2)L. 49/2007, 4. gr. ^3)L. 49/2007, 3. gr. ^4)L.
-                                 8/2009, 1. gr.
+aldrei vera hærra en 150.000 kr. árlega fyrir hvern ferkílómetra. [Rekstraraðili
+         er ábyrgur fyrir útreikningi og greiðslu gjaldsins fyrir hönd
+                            leyfishafa.]^1)]^2)]^3)
+     ^1)L. 105/2011, 3. gr. ^2)L. 166/2008, 5. gr. ^3)L. 49/2007, 4. gr. ^4)L.
+         49/2007, 3. gr. ^5)L. 126/2011, 317. gr. ^6)L. 8/2009, 1. gr.
                            8. gr. [Leyfisveiting.]^1)
 Að jafnaði skal auglýsa eftir umsækjendum áður en leyfi til rannsókna og vinnslu
                               á kolvetni er veitt.
@@ -156,38 +178,39 @@ málsgrein skal einnig gefa leyfishöfum á aðlægum svæðum tækifæri til a�
                          og veitingu leyfis skv. 7. gr.
                     ^1)L. 49/2007, 5. gr. ^2)L. 49/2007, 3. gr.
                          [8. gr. a. Þátttaka ríkisins.
-  Iðnaðarráðherra er heimilt að ákveða um þátttöku íslenska ríkisins í vinnslu
+   [Ráðherra]^1) er heimilt að ákveða um þátttöku íslenska ríkisins í vinnslu
                         kolvetnis samkvæmt lögum þessum.
-Ákveði iðnaðarráðherra að íslenska ríkið taki þátt í vinnslu kolvetnis skal hann
+ Ákveði [ráðherra]^1) að íslenska ríkið taki þátt í vinnslu kolvetnis skal hann
     beita sér fyrir stofnun hlutafélags með það að markmiði að gæta hagsmuna
    íslenska ríkisins vegna þátttöku þess. Öll hlutabréf í hlutafélaginu skulu
-ávallt vera eign ríkissjóðs. Skal iðnaðarráðherra annast undirbúning að stofnun
-  hlutafélagsins í samráði við fjármálaráðherra. Hlutafélaginu er óheimilt að
-                          starfa sem vinnslufyrirtæki.
+ ávallt vera eign ríkissjóðs. Skal [ráðherra]^1) annast undirbúning að stofnun
+  hlutafélagsins í samráði við [þann ráðherra er fer með skráningu félaga].^1)
+           Hlutafélaginu er óheimilt að starfa sem vinnslufyrirtæki.
    Hlutafélagi skv. 2. mgr. skal eingöngu vera heimilt að starfa á landgrunni
   Íslands. Hlutafélaginu er þó heimilt að starfa á þeim svæðum utan landhelgi,
  efnahagslögsögu og landgrunns Íslands sem íslenska ríkið á rétt á hlutdeild í
-               samkvæmt alþjóðasamningum eða öðrum heimildum.]^1)
-                              ^1)L. 166/2008, 6. gr.
+               samkvæmt alþjóðasamningum eða öðrum heimildum.]^2)
+                  ^1)L. 126/2011, 317. gr. ^2)L. 166/2008, 6. gr.
                        [8. gr. b. Stjórn hlutafélagsins.
 Ríkissjóður Íslands skal vera eigandi alls hlutafjár í hlutafélaginu við stofnun
-         þess. Iðnaðarráðherra fer með eignarhlut ríkisins í félaginu.
+          þess. [Ráðherra]^1) fer með eignarhlut ríkisins í félaginu.
 Stjórn hlutafélagsins skal skipuð fimm mönnum. Þeir skulu kosnir á aðalfundi ár
                                      hvert.
     Tilgangi og verkefnum hlutafélagsins skal nánar lýst í samþykktum þess.
     Samþykktum félagsins má breyta á hluthafafundi samkvæmt almennum reglum.
 Ákvæði laga um hlutafélög gilda um félagið ef ekki er kveðið á um annað í lögum
-                                  þessum.]^1)
-                              ^1)L. 166/2008, 6. gr.
+                                  þessum.]^2)
+                  ^1)L. 126/2011, 317. gr. ^2)L. 166/2008, 6. gr.
                                  9. gr. Umsókn.
 [Í umsóknum um rannsóknar- og vinnsluleyfi skal koma skýrt fram hvert sé markmið
  með öflun leyfis ásamt ítarlegum upplýsingum um staðsetningu, umfang, eðli og
      tímasetningu fyrirhugaðra framkvæmda umsækjanda eftir nánari ákvörðun
-     Orkustofnunar. [Umsækjandi skal leggja fram viðeigandi uppdrætti.]^1)
+Orkustofnunar. [Umsækjandi skal leggja fram viðeigandi uppdrætti.]^1) [Í umsókn
+                  skal umsækjandi tilnefna rekstraraðila.]^2)
 Telji Orkustofnun að umsókn um rannsóknarleyfi uppfylli ekki kröfur skv. 1. mgr.
 getur hún synjað um rannsóknarleyfi eða sett sérstök skilyrði í rannsóknarleyfi
-                             af þessu tilefni.]^2)
-                   ^1)L. 166/2008, 7. gr. ^2)L. 49/2007, 6. gr.
+                             af þessu tilefni.]^3)
+        ^1)L. 166/2008, 7. gr. ^2)L. 105/2011, 4. gr. ^3)L. 49/2007, 6. gr.
                      10. gr. Tímalengd og skilyrði leyfis.
  Leyfi til rannsókna skal veitt til allt að 12 ára og er heimilt að framlengja
   það til allt að tveggja ára í senn. Hámarkstími leyfis til rannsókna skal þó
@@ -210,27 +233,48 @@ Leyfi til vinnslu skv. 2. mgr. skal a.m.k. taka til þess hluta svæðisins þar
  leyfishafi hyggst hefja vinnslu kolvetnis og hagkvæmur er til vinnslu að mati
                               [Orkustofnunar].^3)
  [Skilyrði leyfisveitingar er að stofnað sé sérstakt félag hér á landi um þessa
-   starfsemi umsækjanda. Leyfishafi skal hafa skipulag sem tryggir sjálfstæða
-        stjórnun og umsjón framkvæmda frá Íslandi á öllum þáttum tengdum
- kolvetnisstarfsemi sinni hér á landi. Í þessum tilgangi er Orkustofnun heimilt
- að setja sérstök skilyrði er lúta að skipulagi og eiginfjárgrunni leyfishafa.
- Tilgangur og starfsemi leyfishafa skal vera bundin við leit, rannsóknir og/eða
-                vinnslu kolvetnis samkvæmt ákvæðum laga þessara.
-Kolvetnisstarfsemi og tengd starfsemi skal rekin frá stöð á Íslandi. Ráðherra er
-    heimilt að kveða nánar á um starfsemi slíkra stöðva í reglugerð, svo sem
-               varðandi fjarlægð frá rannsóknar- og vinnslusvæði.
+starfsemi umsækjanda. [Íslenskt útibú eða umboðsskrifstofa félags sem skráð er í
+aðildarríki samningsins um Evrópska efnahagssvæðið, í aðildarríki stofnsamnings
+ Fríverslunarsamtaka Evrópu eða í Færeyjum telst sérstakt félag.]^4) Leyfishafi
+ skal hafa skipulag sem tryggir sjálfstæða stjórnun og umsjón framkvæmda ^4) á
+öllum þáttum tengdum kolvetnisstarfsemi sinni hér á landi. Í þessum tilgangi er
+     Orkustofnun heimilt að setja sérstök skilyrði er lúta að skipulagi og
+ eiginfjárgrunni leyfishafa. Tilgangur og starfsemi leyfishafa skal vera bundin
+  við leit, rannsóknir og/eða vinnslu kolvetnis samkvæmt ákvæðum laga þessara.
+[Leyfishafi skal sjá til þess að kolvetnisstarfsemin fari fram á ábyrgan hátt og
+  í samræmi við þá löggjöf sem er í gildi hverju sinni og skal starfsemin taka
+    tillit til nýtingar auðlindarinnar, sem og öryggis- og almannahagsmuna.
+   Ráðstafanir leyfishafa varðandi skipulag og stærð starfseminnar skulu vera
+     þannig að leyfishafi geti á hverjum tíma tekið upplýstar ákvarðanir um
+ kolvetnisstarfsemi sína. Til að tryggja eftirfylgni um ráðstafanir leyfishafa
+      getur Orkustofnun, telji hún það nauðsynlegt með tilliti til umfangs
+    kolvetnisstarfsemi leyfishafa, sett fram sérstakar kröfur um ráðstafanir
+ leyfishafa og staðsetningu stöðva þeirra. Ráðherra er heimilt að kveða nánar á
+     um starfsemi slíkra stöðva í reglugerð, svo sem varðandi fjarlægð frá
+                        rannsóknar- og vinnslusvæði.]^4)
  Leyfishafi rannsóknar- og vinnsluleyfis skal á gildistíma leyfis greiða árlegt
       framlag til sérstaks menntunar- og rannsóknarsjóðs. Í rannsóknar- og
      vinnsluleyfi skal nánar kveðið á um stofnframlag sem og árlegt gjald í
  framangreindan sjóð. Nánar skal kveðið á um markmið og hlutverk menntunar- og
- rannsóknarsjóðs í reglugerð^4) sem iðnaðarráðherra setur. Stjórn sjóðsins skal
-skipuð fulltrúum leyfishafa auk fulltrúa ríkisins sem iðnaðarráðherra skipar og
+  rannsóknarsjóðs í reglugerð^5) sem [ráðherra]^6) setur. Stjórn sjóðsins skal
+ skipuð fulltrúum leyfishafa auk fulltrúa ríkisins sem [ráðherra]^6) skipar og
  hefur neitunarvald séu ákvarðanir stjórnarinnar ekki í samræmi við hlutverk og
 markmið sjóðsins eins og þau eru skilgreind í reglugerð. Orkusjóður undir umsjón
                  Orkustofnunar annast daglega umsýslu sjóðsins.
  Hver umsækjandi getur eingöngu fengið úthlutað einu leyfi skv. IV. kafla.]^3)
-     ^1)L. 49/2007, 7. gr. ^2)L. 8/2009, 2. gr. ^3)L. 166/2008, 8. gr. ^4)Rg.
-                                    39/2009.
+      ^1)L. 49/2007, 7. gr. ^2)L. 8/2009, 2. gr. ^3)L. 166/2008, 8. gr. ^4)L.
+    105/2011, 5. gr. ^5)Rg. 39/2009, sbr. 885/2011. ^6)L. 126/2011, 317. gr.
+                           [10. gr. a. Rekstraraðili.
+Við veitingu rannsóknar- og vinnsluleyfis skal Orkustofnun ákveða rekstraraðila
+                          fyrir hvert einstakt leyfi.
+Óheimilt er að skipta um rekstraraðila nema með sérstöku leyfi Orkustofnunar. Í
+sérstökum tilvikum getur Orkustofnun skipt út rekstraraðila að eigin frumkvæði.
+  Í þeim tilvikum þar sem Orkustofnun hefur ákveðið rekstraraðila, sem er ekki
+       leyfishafi rannsóknar- og vinnsluleyfis, þá skulu skyldur og aðrar
+skuldbindingar laga þessara gagnvart leyfishöfum eiga við um þann rekstraraðila
+      nema annað sé sérstaklega tekið fram. Nánar skal kveðið á um skyldur
+                rekstraraðila í rannsóknar- og vinnsluleyfi.]^1)
+                              ^1)L. 105/2011, 6. gr.
                    11. gr. Efni rannsóknar- og vinnsluleyfis.
               [Í rannsóknar- og vinnsluleyfi skal m.a. tilgreina:
     1. Tímalengd leyfis. Skal kveðið á um hvenær starfsemi skuli í síðasta lagi
@@ -249,11 +293,13 @@ markmið sjóðsins eins og þau eru skilgreind í reglugerð. Orkusjóður undi
                                   eða vinnslu.
    9. [Stofnframlag sem og árlegt gjald leyfishafa rannsóknar- og vinnsluleyfis
                  í sérstakan menntunar- og rannsóknarsjóð.]^1)
+                          [10. Rekstraraðila leyfis.]^2)
  Heimilt er að kveða á um að leyfi skuli endurskoðað að tilteknum tíma liðnum,
              enda hafi forsendur fyrir skilyrðum leyfisins breyst.
- Iðnaðarráðherra er heimilt að setja með reglugerð nánari ákvæði um rannsóknar-
-                              og vinnsluleyfi.]^2)
-                   ^1)L. 166/2008, 9. gr. ^2)L. 49/2007, 8. gr.
+[Ráðherra]^3) er heimilt að setja með reglugerð nánari ákvæði um rannsóknar- og
+                               vinnsluleyfi.]^4)
+   ^1)L. 166/2008, 9. gr. ^2)L. 105/2011, 7. gr. ^3)L. 126/2011, 317. gr. ^4)L.
+                                49/2007, 8. gr.
                 12. gr. Skyldur leyfishafa að loknum leyfistíma.
   [Orkustofnun]^1) er heimilt að kveða á um að skyldur samkvæmt rannsóknar- og
 vinnsluleyfi haldist eftir að gildistíma leyfisins lýkur, afsal eða afturköllun
@@ -331,10 +377,11 @@ Telji [Orkustofnun]^1) skynsamlegt að samnýta tvær eða fleiri kolvetnisauðl
 
          V. kafli. Umhverfisvernd, vinnuumhverfi og öryggisráðstafanir.
                           21. gr. Umhverfissjónarmið.
-Við veitingu leyfis skv. III. og IV. kafla skal þess gætt að nýting auðlindanna
-sé með þeim hætti að tekið sé tillit til umhverfissjónarmiða, nýting auðlindanna
-sé hagkvæm frá þjóðhagslegu sjónarmiði og tekið sé tillit til nýtingar sem þegar
-                           er hafin í næsta nágrenni.
+ Við veitingu leyfis skv. ^1) IV. kafla skal þess gætt að nýting auðlindanna sé
+með þeim hætti að tekið sé tillit til umhverfissjónarmiða, nýting auðlindanna sé
+hagkvæm frá þjóðhagslegu sjónarmiði og tekið sé tillit til nýtingar sem þegar er
+                            hafin í næsta nágrenni.
+                              ^1)L. 105/2011, 8. gr.
                           22. gr. Öryggisráðstafanir.
 Við kolvetnisstarfsemi skal gæta fyllsta öryggis og þess að starfsemin uppfylli
  þær kröfur sem almennt eru gerðar til kolvetnisstarfsemi á hverjum tíma, m.a.
@@ -342,27 +389,29 @@ Við kolvetnisstarfsemi skal gæta fyllsta öryggis og þess að starfsemin uppf
     Leyfishafi og aðrir sem stunda kolvetnisstarfsemi skulu stuðla að góðum
  aðbúnaði, hollustuháttum og öryggi á vinnustöð og að virkt eftirlit sé með því
                    að vinnuumhverfi fullnægi gildandi lögum.
-Leyfishafi skal sjá til þess að gera nauðsynlegar ráðstafanir til að fyrirbyggja
-tjón eða draga úr afleiðingum tjóns sem orðið hefur, þar á meðal ráðstafanir sem
-                miða að því að færa umhverfið í sitt fyrra horf.
-                                      ^1)
-                               ^1)L. 49/2007, 9. gr.
+  [Leyfishafi og aðrir sem stunda kolvetnisstarfsemi skulu]^1) sjá til þess að
+ gera nauðsynlegar ráðstafanir til að fyrirbyggja tjón eða draga úr afleiðingum
+tjóns sem orðið hefur, þar á meðal ráðstafanir sem miða að því að færa umhverfið
+                               í sitt fyrra horf.
+                                      ^2)
+                   ^1)L. 105/2011, 9. gr. ^2)L. 49/2007, 9. gr.
                          23. gr. Sérstök öryggisbelti.
-  Sérstöku öryggisbelti skal komið á fót umhverfis hafstöðvar. Iðnaðarráðherra
-  setur nánari reglur um öryggisbelti í samræmi við alþjóðlegar venjur, þar á
- meðal um samgöngur og fiskveiðar á svæðinu, og getur hann lagt bann við umferð
-      óviðkomandi skipa og loftfara um svæðið. Þá getur iðnaðarráðherra af
+Sérstöku öryggisbelti skal komið á fót umhverfis hafstöðvar. [Ráðherra]^1) setur
+ nánari reglur um öryggisbelti í samræmi við alþjóðlegar venjur, þar á meðal um
+     samgöngur og fiskveiðar á svæðinu, og getur hann lagt bann við umferð
+       óviðkomandi skipa og loftfara um svæðið. Þá getur [ráðherra]^1) af
 öryggisástæðum sett reglur sem takmarka rétt skipa til að festa akkeri og stunda
                       veiðar í nágrenni við leiðslubúnað.
+                             ^1)L. 126/2011, 317. gr.
 
               VI. kafli. [Eftirlit, úrræði og upplýsingagjöf.]^1)
                               ^1)L. 49/2007, 14. gr.
                                24. gr. Eftirlit.
-  [Orkustofnun skal hafa eftirlit með því að leyfishafi starfi samkvæmt lögum
-  þessum og leyfum til leitar, rannsókna og vinnslu sem gefin hafa verið út á
-    grundvelli laganna. Iðnaðarráðherra er heimilt að setja nánari reglur um
-                   eftirlit Orkustofnunar með reglugerð.]^1)
-   [Orkustofnun skal gefa iðnaðarráðherra árlega skýrslu um framkvæmd leitar,
+ [Orkustofnun skal hafa eftirlit með því að [handhafar leitar-, rannsóknar- og
+vinnsluleyfa]^1) starfi samkvæmt lögum þessum og leyfum ^1) sem gefin hafa verið
+  út á grundvelli laganna. [Ráðherra]^2) er heimilt að setja nánari reglur um
+                   eftirlit Orkustofnunar með reglugerð.]^3)
+    [Orkustofnun skal gefa [ráðherra]^2) árlega skýrslu um framkvæmd leitar,
                              rannsókna og vinnslu.
   Orkustofnun skal starfrækja og leiða starf samráðshóps eftirlitsaðila vegna
  leitar, rannsókna og vinnslu kolvetnis við Ísland. Í samráðshópnum skulu sitja
@@ -372,36 +421,38 @@ ríkisins, Hafrannsóknastofnuninni, Landhelgisgæslu Íslands, Náttúrufræði
  Umhverfisstofnun og Vinnueftirliti ríkisins. Hlutverk samráðshópsins skal m.a.
   vera að tryggja upplýsingaskipti og samræma opinbert eftirlit vegna leitar,
 rannsókna og vinnslu kolvetnis við Ísland. Nánar skal kveðið á um samráðshópinn
-                                í reglugerð.]^2)
-  [Orkustofnun]^3) er heimilt að krefjast greiðslu kostnaðar við eftirlit með
+                                í reglugerð.]^4)
+  [Orkustofnun]^5) er heimilt að krefjast greiðslu kostnaðar við eftirlit með
 leitar-, rannsóknar- og vinnslusvæðum kolvetnis þar sem leyfi hefur verið veitt.
-       ^1)L. 49/2007, 10. gr. ^2)L. 166/2008, 11. gr. ^3)L. 49/2007, 3. gr.
+   ^1)L. 105/2011, 10. gr. ^2)L. 126/2011, 317. gr. ^3)L. 49/2007, 10. gr. ^4)L.
+                    166/2008, 11. gr. ^5)L. 49/2007, 3. gr.
                       [24. gr. a. Heimildir Orkustofnunar.
-Orkustofnun getur krafið leyfishafa um allar upplýsingar og gögn sem nauðsynleg
-  eru við framkvæmd eftirlits samkvæmt lögum þessum. Skulu gögn og upplýsingar
-  berast innan hæfilegs frests sem Orkustofnun setur. Orkustofnun getur einnig
- skyldað þessa aðila til að upplýsa stofnunina reglulega um þau atriði sem máli
-                             skipta við eftirlitið.
+ Orkustofnun getur krafið [handhafa leitar-, rannsóknar- og vinnsluleyfa]^1) um
+ allar upplýsingar og gögn sem nauðsynleg eru við framkvæmd eftirlits samkvæmt
+    lögum þessum. Skulu gögn og upplýsingar berast innan hæfilegs frests sem
+ Orkustofnun setur. Orkustofnun getur einnig skyldað þessa aðila til að upplýsa
+       stofnunina reglulega um þau atriði sem máli skipta við eftirlitið.
 Orkustofnun getur í eftirlitsstörfum sínum krafist upplýsinga og gagna frá öðrum
-                   stjórnvöldum óháð þagnarskyldu þeirra.]^1)
-                              ^1)L. 49/2007, 11. gr.
+                   stjórnvöldum óháð þagnarskyldu þeirra.]^2)
+                  ^1)L. 105/2011, 11. gr. ^2)L. 49/2007, 11. gr.
                        [24. gr. b. Úrræði Orkustofnunar.
-Ef leyfishafi fer ekki eftir skilyrðum laga þessara, reglugerða settra samkvæmt
-     þeim, skilyrðum rannsóknar- og vinnsluleyfis eða öðrum heimildum skal
-   Orkustofnun veita honum skriflega aðvörun og hæfilegan frest til úrbóta að
-   viðlögðum dagsektum. Ef leyfishafi sinnir ekki aðvörun Orkustofnunar innan
-tilgreindra tímamarka getur Orkustofnun afturkallað leyfið eða breytt því. Ef um
- alvarlegt brot eða vanrækslu er að ræða eða ljóst er að leyfishafi getur ekki
- staðið við skyldur sínar samkvæmt leyfinu getur Orkustofnun þó afturkallað það
-                                 án aðvörunar.
+ Ef [handhafi leitarleyfis eða rannsóknar- og vinnsluleyfis]^1) fer ekki eftir
+ skilyrðum laga þessara, reglugerða settra samkvæmt þeim, skilyrðum rannsóknar-
+  og vinnsluleyfis eða öðrum heimildum skal Orkustofnun veita honum skriflega
+aðvörun og hæfilegan frest til úrbóta að viðlögðum dagsektum. Ef [leitarleyfis-
+eða]^1) leyfishafi sinnir ekki aðvörun Orkustofnunar innan tilgreindra tímamarka
+ getur Orkustofnun afturkallað leyfið eða breytt því. Ef um alvarlegt brot eða
+  vanrækslu er að ræða eða ljóst er að [leitarleyfis- eða]^1) leyfishafi getur
+ekki staðið við skyldur sínar samkvæmt leyfinu getur Orkustofnun þó afturkallað
+                               það án aðvörunar.
 Dagsektir geta numið 50.000500.000 kr. á dag. Við ákvörðun dagsekta er heimilt
   að taka tillit til eðlis vanrækslu eða brots þeirra hagsmuna sem í húfi eru.
   Ákvörðun um dagsektir skal tilkynnt bréflega á sannanlegan hátt þeim sem hún
  beinist að. Dagsektir eru aðfararhæfar, svo og kostnaður við innheimtu þeirra.
       Innheimtar dagsektir renna til ríkissjóðs að frádregnum kostnaði við
-   innheimtuna. Fari leyfishafi ekki að tilmælum Orkustofnunar skal hún veita
-                       ráðherra upplýsingar um málið.]^1)
-                              ^1)L. 49/2007, 11. gr.
+      innheimtuna. Fari [leitarleyfis- eða]^1) leyfishafi ekki að tilmælum
+        Orkustofnunar skal hún veita ráðherra upplýsingar um málið.]^2)
+                  ^1)L. 105/2011, 12. gr. ^2)L. 49/2007, 11. gr.
                            25. gr. Upplýsingasöfnun.
    Orkustofnun skal safna öllum upplýsingum um landgrunnið sem til verða við
                         starfsemi samkvæmt lögum þessum.
@@ -409,18 +460,19 @@ Dagsektir geta numið 50.000500.000 kr. á dag. Við ákvörðun dagsekta er h
  verða gögn sem aflað hefur verið með leit, rannsókn, vinnslu og eftirliti, auk
                     skilaskyldra gagna frá leyfishöfum.]^1)
                               ^1)L. 49/2007, 12. gr.
-                          26. gr. Skýrsla leyfishafa.
+               26. gr. Skýrsla [leitarleyfis- og]^1) leyfishafa.
   Handhafi leitarleyfis eða rannsóknar- og vinnsluleyfis skal eigi sjaldnar en
     árlega og við lok leyfistíma senda Orkustofnun skýrslu þar sem fram koma
      upplýsingar um framkvæmd og niðurstöður leitar, rannsókna og vinnslu,
 upplýsingar um eðli og umfang kolvetnisauðlindar, heildarmagn og mat á verðmæti
     þess kolvetnis sem hefur verið unnið og fleiri atriði samkvæmt ákvæðum í
- viðkomandi leyfi. Þá skal leyfishafi afhenda gögn og senda sýni af efnum óski
-                               Orkustofnun þess.
+viðkomandi leyfi. Þá skal [leitarleyfis- og]^1) leyfishafi afhenda gögn og senda
+                      sýni af efnum óski Orkustofnun þess.
+                              ^1)L. 105/2011, 13. gr.
                            [26. gr. a. Þagnarskylda.
   Upplýsingar, sem varðveittar eru af Orkustofnun samkvæmt lögum þessum, skulu
    vera undanþegnar aðgangi almennings samkvæmt upplýsingalögum á gildistíma
-                               rannsóknarleyfis.
+              [leitarleyfis eða rannsóknar- og vinnsluleyfis].^1)
    Starfsmenn Orkustofnunar sem annast eftirlit á grundvelli laga þessara eru
    bundnir þagnarskyldu. Þeir mega ekki að viðlagðri ábyrgð samkvæmt ákvæðum
  almennra hegningarlaga um brot í opinberu starfi skýra óviðkomandi frá því sem
@@ -428,10 +480,10 @@ upplýsingar um eðli og umfang kolvetnisauðlindar, heildarmagn og mat á verð
 sem þeir hafa eftirlit með. Sama gildir um sérfræðinga sem sinna eftirliti fyrir
    Orkustofnun, svo sem starfsmenn faggiltra skoðunarstofa og eftirlitsaðila.
                   Þagnarskylda helst þótt látið sé af störfum.
-Upplýsingar, sem leyfishafi veitir Orkustofnun samkvæmt lögum þessum, skulu vera
- í vörslu stofnunarinnar. Nú er trúnaðarskylda skv. 1. mgr. fallin niður og er
-  Orkustofnun þá heimilt að láta umræddar upplýsingar í té eða nýta þær í þágu
-                            frekari leyfisveitingar.
+  Upplýsingar, sem [handhafi leitarleyfis eða rannsóknar- og vinnsluleyfis]^1)
+veitir Orkustofnun samkvæmt lögum þessum, skulu vera í vörslu stofnunarinnar. Nú
+er trúnaðarskylda skv. 1. mgr. fallin niður og er Orkustofnun þá heimilt að láta
+     umræddar upplýsingar í té eða nýta þær í þágu frekari leyfisveitingar.
  Lögmælt þagnarskylda íslenskra yfirvalda skal ekki vera því til fyrirstöðu að
  þau gefi Eftirlitsstofnun EFTA allar þær upplýsingar sem nauðsynlegar eru við
                framkvæmd samningsins um Evrópska efnahagssvæðið.
@@ -439,7 +491,7 @@ Upplýsingar, sem leyfishafi veitir Orkustofnun samkvæmt lögum þessum, skulu 
  semja við rannsóknarleyfishafa um heimildir til rýmri aðgangs að og notkunar á
                                rannsóknargögnum.
      Ákvæði um þagnarskyldu standa því ekki í vegi að Orkustofnun eða önnur
-    stjórnvöld samkvæmt ákvörðun iðnaðarráðuneytis gefi opinberlega almennar
+   stjórnvöld samkvæmt ákvörðun [ráðuneytisins]^2) gefi opinberlega almennar
 upplýsingar um leitar-, rannsóknar- og vinnslusvæði og framkvæmdir á því svæði,
                                      m.a.:
        1. Veiti almennar upplýsingar í tengslum við opinberar tilkynningar,
@@ -449,18 +501,29 @@ upplýsingar um leitar-, rannsóknar- og vinnslusvæði og framkvæmdir á því
       3. Nýti sér upplýsingar til aukinnar þekkingar á jarðlögum og auðlindum
                                  hafsbotnsins.
   Heimilt er að kveða nánar á um þagnarskyldu í leyfi til leitar, rannsókna og
-                             vinnslu kolvetnis.]^1)
-                              ^1)L. 49/2007, 13. gr.
+                             vinnslu kolvetnis.]^3)
+      ^1)L. 105/2011, 14. gr. ^2)L. 126/2011, 317. gr. ^3)L. 49/2007, 13. gr.
 
                      VII. kafli. Eignarnáms- og bótaákvæði.
                                27. gr. Eignarnám.
- Iðnaðarráðherra er heimilt að taka eignarnámi fasteignir til að starfsemi geti
+  [Ráðherra]^1) er heimilt að taka eignarnámi fasteignir til að starfsemi geti
  farið fram samkvæmt lögum þessum. Við framkvæmd eignarnámsins og ákvörðun bóta
              skal farið eftir ákvæðum laga um framkvæmd eignarnáms.
+                             ^1)L. 126/2011, 317. gr.
                               28. gr. Skaðabætur.
- Leyfishafar samkvæmt lögum þessum eru skaðabótaskyldir fyrir hvers konar tjón
-  sem stafar af kolvetnisstarfsemi, þar á meðal umhverfispjöll, án tillits til
-                   þess hvort tjónið verður rakið til sakar.
+[Handhafar leitarleyfa eða rannsóknar- og vinnsluleyfa]^1) samkvæmt lögum þessum
+ eru skaðabótaskyldir fyrir hvers konar tjón sem stafar af kolvetnisstarfsemi,
+ þar á meðal umhverfispjöll, án tillits til þess hvort tjónið verður rakið til
+sakar. [Orkustofnun er heimilt, við ákvörðun um rekstraraðila, að kveða svo á um
+ að skaðabótaskylda samkvæmt þessari málsgrein nái einnig til rekstraraðila sem
+                            ekki er leyfishafi.]^1)
+ [Í þeim tilvikum þar sem handhafar leyfis til rannsókna og vinnslu á kolvetni
+ eru fleiri en einn skal skaðabótakröfu beint að rekstraraðila leyfisins. Hafi
+rekstraraðili ekki greitt skaðabótakröfu að fullu á gjalddaga ber leyfishöfum að
+greiða eftirstöðvar greiðslunnar í réttu hlutfalli við hlut þeirra í viðkomandi
+leyfi. Standi einstakur leyfishafi ekki skil á sinni greiðslu skal hlutur hans í
+  greiðslu skaðabóta greiddur af öðrum leyfishöfum í réttu hlutfalli við hlut
+                         þeirra í viðkomandi leyfi.]^1)
 Bætur fyrir líkamstjón eða vegna missis framfæranda má lækka eða fella niður ef
  sá sem varð fyrir tjóni eða lést átti að einhverju leyti sjálfur sök á tjóninu
   af ásetningi eða stórkostlegu gáleysi. Bætur fyrir tjón á munum má lækka eða
@@ -469,21 +532,22 @@ Bætur fyrir líkamstjón eða vegna missis framfæranda má lækka eða fella n
    Bætur fyrir umhverfisspjöll má lækka eða fella niður þegar sannað þykir að
      tjónið stafaði af náttúruhamförum eða öðrum óviðráðanlegum atvikum sem
                         leyfishafa verður ekki kennt um.
+                              ^1)L. 105/2011, 15. gr.
                     29. gr. Almennar reglur skaðabótaréttar.
  Ákvæði 28. gr. takmarka að engu þann rétt til skaðabóta sem leiðir af almennum
                                     reglum.
 
                            VIII. kafli. Ýmis ákvæði.
                             30. gr. Framsal leyfis.
- [Óheimilt er að framselja leyfi samkvæmt lögum þessum, eða nokkurn hluta þess,
-    beint eða óbeint, þriðja aðila eða samleyfishafa nema að fengnu samþykki
-   Orkustofnunar. Einnig er óheimilt nema að fengnu samþykki Orkustofnunar að
-  framselja hlutafé eða önnur eignarréttindi í slíku magni að það geti breytt
-ráðandi stöðu í félagi sem er leyfishafi eða samleyfishafi eða gera samninga sem
-                                hafa sömu áhrif.
+   [Óheimilt er að framselja [rannsóknar- og vinnsluleyfi]^1) samkvæmt lögum
+þessum, eða nokkurn hluta þess, beint eða óbeint, þriðja aðila eða samleyfishafa
+    nema að fengnu samþykki Orkustofnunar. Einnig er óheimilt nema að fengnu
+  samþykki Orkustofnunar að framselja hlutafé eða önnur eignarréttindi í slíku
+     magni að það geti breytt ráðandi stöðu í félagi sem er leyfishafi eða
+              samleyfishafi eða gera samninga sem hafa sömu áhrif.
  Orkustofnun er heimilt að krefjast gjaldtöku vegna framsals leyfa skv. 1. mgr.
-             Heimilt er að kveða á um slíka gjaldtöku í leyfi.]^1)
-                              ^1)L. 49/2007, 15. gr.
+             Heimilt er að kveða á um slíka gjaldtöku í leyfi.]^2)
+                  ^1)L. 105/2011, 16. gr. ^2)L. 49/2007, 15. gr.
       [30. gr. a. [Gjaldtaka vegna umsókna, útgáfu leyfa og eftirlits.]^1)
    [Umsækjandi um leyfi til leitar að kolvetni skal greiða til Orkustofnunar
                            150.000 kr. umsóknargjald.
@@ -504,9 +568,9 @@ Handhafi rannsóknar- og vinnsluleyfis skal greiða gjald að fjárhæð 1.000.0
                            samkvæmt lögum þessum.]^2)
                   ^1)L. 166/2008, 12. gr. ^2)L. 49/2007, 16. gr.
                                31. gr. Reglugerð.
-Iðnaðarráðherra er heimilt að setja með reglugerð^1) nánari ákvæði um framkvæmd
+ [Ráðherra]^1) er heimilt að setja með reglugerð^2) nánari ákvæði um framkvæmd
                                  laga þessara.
-                                  ^1)Rg. 38/2009.
+                     ^1)L. 126/2011, 317. gr. ^2)Rg. 884/2011.
                                32. gr. Refsingar.
  Brot gegn lögum þessum varða sektum, nema þyngri refsingu varði samkvæmt öðrum
  lögum. Dæma má jafnt lögaðila sem einstakling til greiðslu sekta vegna brota á
@@ -521,7 +585,7 @@ Iðnaðarráðherra er heimilt að setja með reglugerð^1) nánari ákvæði um
                               ^1)L. 166/2008, 13. gr.
   [II. Fyrir 1. janúar 2010 skulu iðnaðarráðuneyti og umhverfisráðuneyti hafa
   lokið skoðun á því hvort þörf sé breytinga á ákvæðum 14.18. gr. laganna og
-  ákvæðum skipulags- og [1]byggingarlaga, nr. 73/1997, varðandi efni, gerð og
+  ákvæðum skipulags- og [3]byggingarlaga, nr. 73/1997, varðandi efni, gerð og
   málsmeðferð skipulagsáætlana og leyfisveitinga vegna einstakra framkvæmda á
     grundvelli leyfa til rannsóknar og vinnslu kolvetnis sem gefin eru út af
                                 Orkustofnun.]^1)
@@ -530,4 +594,6 @@ Iðnaðarráðherra er heimilt að setja með reglugerð^1) nánari ákvæði um
 References
 
    Visible links
-   1. file://1997073.html
+   1. file://1994138.html
+   2. file://1995002.html
+   3. file://1997073.html

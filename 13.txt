@@ -11,28 +11,27 @@
     [4]nr. 52 20. maí 1974
   * Lög um stimpilgjald, [5]nr. 36 10. maí 1978
   * Lög um skattskyldu lánastofnana, [6]nr. 65 19. maí 1982
-  * Lög um flugmálaáætlun og fjáröflun til framkvæmda í flugmálum, [7]nr. 31 27.
-    mars 1987
-  * Lög um vörugjald, [8]nr. 97 31. desember 1987
-  * Lög um bifreiðagjald, [9]nr. 39 20. maí 1988
-  * Lög um virðisaukaskatt, [10]nr. 50 24. maí 1988
-  * Lög um tryggingagjald, [11]nr. 113 28. desember 1990
-  * Lög um efnahagsaðgerðir vegna kjarasamninga, [12]nr. 112 11. nóvember 1993
-  * Lög um aukatekjur ríkissjóðs, [13]nr. 88 31. desember 1991
-  * Lög um vörugjald af ökutækjum, eldsneyti o.fl., [14]nr. 29 13. apríl 1993
-  * Lög um jöfnun á flutningskostnaði olíuvara, [15]nr. 103 20. maí 1994
-  * Lög um gjald af áfengi, [16]nr. 96 28. júní 1995
-  * Lög um búnaðargjald, [17]nr. 84 26. maí 1997
-  * Lög um veiðieftirlitsgjald, [18]nr. 33 5. maí 2000
-  * Lög um úrvinnslugjald, [19]nr. 162 20. desember 2002
-  * Lög um erfðafjárskatt, [20]nr. 14 26. mars 2004
-  * Lög um olíugjald og kílómetragjald, [21]nr. 87 9. júní 2004
-  * Lög um skattskyldu orkufyrirtækja, [22]nr. 50 18. maí 2005
-  * Tollalög, [23]nr. 88 18. maí 2005
-  * Lög um skattlagningu kaupskipaútgerðar, [24]nr. 86 30. mars 2007
-  * Lög um skattlagningu kolvetnisvinnslu, [25]nr. 170 29. desember 2008
-  * Lög um umhverfis- og auðlindaskatta, [26]nr. 129 23. desember 2009
-  * Lög um sérstakan skatt á fjármálafyrirtæki, [27]nr. 155 27. desember 2010
+  * Lög um vörugjald, [7]nr. 97 31. desember 1987
+  * Lög um bifreiðagjald, [8]nr. 39 20. maí 1988
+  * Lög um virðisaukaskatt, [9]nr. 50 24. maí 1988
+  * Lög um tryggingagjald, [10]nr. 113 28. desember 1990
+  * Lög um efnahagsaðgerðir vegna kjarasamninga, [11]nr. 112 11. nóvember 1993
+  * Lög um aukatekjur ríkissjóðs, [12]nr. 88 31. desember 1991
+  * Lög um vörugjald af ökutækjum, eldsneyti o.fl., [13]nr. 29 13. apríl 1993
+  * Lög um jöfnun á flutningskostnaði olíuvara, [14]nr. 103 20. maí 1994
+  * Lög um gjald af áfengi, [15]nr. 96 28. júní 1995
+  * Lög um búnaðargjald, [16]nr. 84 26. maí 1997
+  * Lög um veiðieftirlitsgjald, [17]nr. 33 5. maí 2000
+  * Lög um úrvinnslugjald, [18]nr. 162 20. desember 2002
+  * Lög um erfðafjárskatt, [19]nr. 14 26. mars 2004
+  * Lög um olíugjald og kílómetragjald, [20]nr. 87 9. júní 2004
+  * Lög um skattskyldu orkufyrirtækja, [21]nr. 50 18. maí 2005
+  * Tollalög, [22]nr. 88 18. maí 2005
+  * Lög um skattlagningu kaupskipaútgerðar, [23]nr. 86 30. mars 2007
+  * Lög um umhverfis- og auðlindaskatta, [24]nr. 129 23. desember 2009
+  * Lög um sérstakan skatt á fjármálafyrirtæki, [25]nr. 155 27. desember 2010
+  * Lög um gistináttaskatt, [26]nr. 87 23. júní 2011
+  * Lög um skattlagningu á kolvetnisvinnslu, [27]nr. 109 16. september 2011
 
   13.c. Milliríkjasamningar um skattamál
 
@@ -94,27 +93,27 @@ References
    4. file://1974052.html
    5. file://1978036.html
    6. file://1982065.html
-   7. file://1987031.html
-   8. file://1987097.html
-   9. file://1988039.html
-  10. file://1988050.html
-  11. file://1990113.html
-  12. file://1993112.html
-  13. file://1991088.html
-  14. file://1993029.html
-  15. file://1994103.html
-  16. file://1995096.html
-  17. file://1997084.html
-  18. file://2000033.html
-  19. file://2002162.html
-  20. file://2004014.html
-  21. file://2004087.html
-  22. file://2005050.html
-  23. file://2005088.html
-  24. file://2007086.html
-  25. file://2008170.html
-  26. file://2009129.html
-  27. file://2010155.html
+   7. file://1987097.html
+   8. file://1988039.html
+   9. file://1988050.html
+  10. file://1990113.html
+  11. file://1993112.html
+  12. file://1991088.html
+  13. file://1993029.html
+  14. file://1994103.html
+  15. file://1995096.html
+  16. file://1997084.html
+  17. file://2000033.html
+  18. file://2002162.html
+  19. file://2004014.html
+  20. file://2004087.html
+  21. file://2005050.html
+  22. file://2005088.html
+  23. file://2007086.html
+  24. file://2009129.html
+  25. file://2010155.html
+  26. file://2011087.html
+  27. file://2011109.html
   28. file://1978044.html
   29. file://1980094.html
   30. file://1990046.html

@@ -10,8 +10,9 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. janúar 1995. Breytt með l. 65/2006 (tóku gildi 27. júní 2006), l.
- 65/2010 (tóku gildi 27. júní 2010), l. 66/2010 (tóku gildi 1. júlí 2010) og l.
-                      162/2010 (tóku gildi 1. jan. 2011).
+  65/2010 (tóku gildi 27. júní 2010), l. 66/2010 (tóku gildi 1. júlí 2010), l.
+162/2010 (tóku gildi 1. jan. 2011), l. 77/2011 (tóku gildi 29. júní 2011) og l.
+                     126/2011 (tóku gildi 30. sept. 2011).
 
                        I. kafli. Gildissvið laganna o.fl.
 1. gr. Lög þessi gilda um samninga sem fjalla um afnot af húsi eða hluta af húsi
@@ -65,11 +66,10 @@ skyldur og öðlist minni réttindi en lögin mæla fyrir um nema ákvæði laga
 dreifingaraðila er skylt að innheimta. Dreifingaraðila er heimilt að áskilja sér
           hæfilega þóknun úr hendi viðtakanda eyðublaða og sýnishorna.
                                ^1)L. 66/2010, 1. gr.
-5. gr. Heimilt er [velferðarráðuneyti]^1) að staðfesta eyðublöð skv. 4. gr. sem
-samtök leigjenda eða leigusala, sveitarstjórnir, félagasamtök eða aðrir þeir sem
-leigja út húsnæði kunna að láta gera, enda sé staðfesting ráðuneytisins skráð á
-                                      þau.
-                              ^1)L. 162/2010, 14. gr.
+5. gr. Heimilt er [ráðuneytinu]^1) að staðfesta eyðublöð skv. 4. gr. sem samtök
+leigjenda eða leigusala, sveitarstjórnir, félagasamtök eða aðrir þeir sem leigja
+ út húsnæði kunna að láta gera, enda sé staðfesting ráðuneytisins skráð á þau.
+                             ^1)L. 126/2011, 187. gr.
                   6. gr. Í leigusamningi skal m.a. koma fram:
                 1. Nöfn, heimilisföng og kennitölur samningsaðila.
                2. Greinargóð lýsing á hinu leigða, sbr. m.a. 38. gr.
@@ -332,10 +332,10 @@ húsnæðis þá skal tilgreina í leigusamningi á hvaða forsendum stærðarú
 forsendur og þá aðferð sem venjulegust er. Getur sá aðili, sem telur á rétt sinn
 hallað, krafist endurútreiknings á stærðinni og leiðréttinga á leigugjaldinu sem
                                  af því leiðir.
-[Velferðarráðherra]^1) getur með reglugerð sett fyrirmæli um stærðarútreikninga
+     [Ráðherra]^1) getur með reglugerð sett fyrirmæli um stærðarútreikninga
      leiguhúsnæðis sem þá ber að byggja á og miða við nema skýr og ótvíræð
                         samningsákvæði mæli á annan veg.
-                              ^1)L. 162/2010, 14. gr.
+                             ^1)L. 126/2011, 187. gr.
   39. gr. Áður en afhending hins leigða húsnæðis fer fram er leigusala rétt að
      krefjast þess að leigjandi setji honum tryggingu fyrir réttum efndum á
   leigusamningnum, þ.e. fyrir leigugreiðslum og skaðabótum vegna tjóns á hinu
@@ -695,7 +695,7 @@ gjald í ríkissjóð samkvæmt lögum um aukatekjur ríkissjóðs. Leyfið skal
                               ^1)L. 162/2010, 14. gr.
     74. gr. Hver sá, sem uppfyllir eftirgreind skilyrði, getur fengið leyfi
           [ráðherra]^1) til að reka leigumiðlun, sbr. 1. mgr. 73. gr.:
-                            1. Á lögheimili á Íslandi.
+                                      1. ^2)
                     2. Er lögráða og hefur forræði á búi sínu.
    3. Sannar að hann hafi góða þekkingu á húsaleigulöggjöf og annarri löggjöf er
 máli skiptir og nauðsynlega kunnáttu í bókhaldi samkvæmt ákvæðum í reglugerð sem
@@ -707,7 +707,7 @@ máli skiptir og nauðsynlega kunnáttu í bókhaldi samkvæmt ákvæðum í reg
                         hegningarlaga eiga við um hann.
 Birta skal auglýsingu um veitingu leyfis til leigumiðlunar í Lögbirtingablaði. Á
        sama hátt skal birta auglýsingu um sviptingu leyfis, sbr. 81. gr.
-                              ^1)L. 162/2010, 14. gr.
+                  ^1)L. 162/2010, 14. gr. ^2)L. 77/2011, 11. gr.
    75. gr. Heimilt er samtökum leigusala eða húseigenda, samtökum leigjenda,
   sveitarstjórnum svo og félögum eða stofnunum að reka leigumiðlun í eðlilegum
 tengslum við aðra starfsemi sína, enda lúti leigumiðlun stjórn leigumiðlara skv.

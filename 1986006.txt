@@ -1,19 +1,22 @@
 
    --------------------------------------------------------------------------
 
-                     Lög um afréttamálefni, fjallskil o.fl.
+                   Lög um afréttamálefni, fjallskil o.fl.^1)
 
                               1986 nr. 6 21. mars
 
    --------------------------------------------------------------------------
 
+    ^1)Lögunum var breytt með [1]l. 138/2011, 134. gr. Breytingarnar taka gildi
+                                 1. jan. 2012.
   Upphaflega l. 42/1969. Tóku gildi 1. júlí 1969. Endurútgefin, sbr. 2. gr. l.
-  33/1985, sem [1]l. 6/1986. Breytt með l. 108/1988 (tóku gildi 1. jan. 1989),
-[2]l. 90/1991 (tóku gildi 1. júlí 1992), l. 25/1994 (tóku gildi 11. apríl 1994),
+  33/1985, sem [2]l. 6/1986. Breytt með l. 108/1988 (tóku gildi 1. jan. 1989),
+[3]l. 90/1991 (tóku gildi 1. júlí 1992), l. 25/1994 (tóku gildi 11. apríl 1994),
  l. 9/1996 (tóku gildi 29. mars 1996), l. 87/1997 (tóku gildi 6. júní 1997), l.
   76/2005 (tóku gildi 1. jan. 2006), l. 96/2006 (tóku gildi 30. júní 2006), l.
-  167/2007 (tóku gildi 1. jan. 2008) og [3]l. 88/2008 (tóku gildi 1. jan. 2009
-                 nema brbákv. VII sem tók gildi 21. júní 2008).
+167/2007 (tóku gildi 1. jan. 2008), [4]l. 88/2008 (tóku gildi 1. jan. 2009 nema
+  brbákv. VII sem tók gildi 21. júní 2008), l. 126/2011 (tóku gildi 30. sept.
+               2011) og [5]l. 138/2011 (taka gildi 1. jan. 2012).
 
                       I. kafli. Um stjórn fjallskilamála.
   1. gr. Hver sýsla er fjallskilaumdæmi, er skiptist í fjallskiladeildir eftir
@@ -120,10 +123,10 @@ skilarétt, ef þörf krefur. Sýslunefnd kýs þrjá óvilhalla menn í skiptan
 eftir reglum III. kafla þessara laga. Náist eigi samkomulag aðila um landamerki,
 sker skiptanefnd úr. Kostnað af störfum skiptanefndar og Landgræðslunnar ber sá
   aðili, er skipta beiddist. Nú þykist annar hvor aðili vanhaldinn af úrskurði
-  skiptanefndar í einhverju efni, og má þá skjóta honum til [sjávarútvegs- og
-landbúnaðarráðherra],^1) sem tilnefnir þrjá menn í yfirskiptanefnd, og úrskurðar
-    hún um ágreiningsatriði. Kostnað af störfum hennar bera aðilar að jöfnu.
-                              ^1)L. 167/2007, 66. gr.
+  skiptanefndar í einhverju efni, og má þá skjóta honum til [ráðherra],^1) sem
+  tilnefnir þrjá menn í yfirskiptanefnd, og úrskurðar hún um ágreiningsatriði.
+                Kostnað af störfum hennar bera aðilar að jöfnu.
+                             ^1)L. 126/2011, 113. gr.
 
                  III. kafli. Um verndun beitilands og um ítölu.
  15. gr. Stjórnum fjallskiladeilda og sveitarstjórnum, þegar um heimalönd er að
@@ -199,7 +202,7 @@ fjallskiladeildar eða sveitarstjórn að sjá um framkvæmd ítölu. Skylt er �
                        senda viðkomandi fjallskiladeild.
 Nú er tillaga um ítölu eða aðrar aðgerðir felld við atkvæðagreiðslu, og er þeim,
 sem aðgerða hefur krafist, þá heimilt að vísa málinu til landgræðslustjóra, sem
-fer með það, samkvæmt [4]23. gr. landgræðslulaga nr. 17/1965. Skylt er að hlíta
+fer með það, samkvæmt [6]23. gr. landgræðslulaga nr. 17/1965. Skylt er að hlíta
                       þeirri ítölu, sem þannig er ákveðin.
                               ^1)L. 108/1988, 42. gr.
 21. gr. Þegar [héraðsnefnd]^1) hefur borist fundarályktun um ítölu samkvæmt 20.
@@ -251,9 +254,9 @@ eigandi þær ekki fyrir eigin fénað. Hafi hreppsbúar ekki þörf nytjalandsi
        jafna niður fjallskilakostnaði í hlutfalli við ítölu hvers býlis.
      25. gr. Til þess að gera ítölu í land, sem er innan tveggja eða fleiri
      lögsagnarumdæma eða er eign fleiri en eins lögsagnarumdæmis, tilnefnir
-[sjávarútvegs- og landbúnaðarráðherra]^1) einn mann í nefnd og er hann formaður,
-    stjórn [Bændasamtaka Íslands]^2) annan og landgræðslustjóri hinn þriðja.
-                   ^1)L. 167/2007, 66. gr. ^2)L. 9/1996, 1. gr.
+   [ráðherra]^1) einn mann í nefnd og er hann formaður, stjórn [Bændasamtaka
+              Íslands]^2) annan og landgræðslustjóri hinn þriðja.
+                   ^1)L. 126/2011, 113. gr. ^2)L. 9/1996, 1. gr.
 26. gr. Kostnaður við störf ítölunefndar greiðist af því sveitarfélagi, sem hlut
 á að máli. Nú er ítala gerð í lönd tveggja eða fleiri sveitarfélaga, og skiptist
 þá kostnaðurinn milli þeirra eftir meðaltalstölu búpenings síðastliðin fimm ár.
@@ -262,12 +265,11 @@ eigandi þær ekki fyrir eigin fénað. Hafi hreppsbúar ekki þörf nytjalandsi
                                ^1)L. 9/1996, 1. gr.
 27. gr. Sá, er ekki vill una úrskurði ítölunefndar, getur krafist yfirítölumats
       innan fjögurra vikna frá uppkvaðningu ítöluúrskurðar. Krafan sendist
-       [sjávarútvegs- og landbúnaðarráðherra],^1) sem skipar þrjá menn í
-yfirítölunefnd, og sé einn þeirra formaður. Starfar nefndin samkvæmt ákvæðum 22.
-                                      gr.
+    [ráðherra],^1) sem skipar þrjá menn í yfirítölunefnd, og sé einn þeirra
+               formaður. Starfar nefndin samkvæmt ákvæðum 22. gr.
  Kostnaður greiðist á sama hátt og segir í 26. gr., ef nefndin breytir ítölu um
        10 af hundraði eða meira, ella af þeim, er krafðist endurskoðunar.
-                              ^1)L. 167/2007, 66. gr.
+                             ^1)L. 126/2011, 113. gr.
  28. gr. Nú telur einhver, að ítölu sé ekki fylgt, og getur hann þá kært málið
                                 til sýslumanns.
 Nú verður sannað, að einhver bóndi hefur fleira búfé í afrétti eða heimahögum en
@@ -295,7 +297,7 @@ sveitarsjóði þess hrepps eða hreppa, er afrétt þann nota, er ágangspening
                                afréttargirðingar.
    32. gr. Nú verða eigendur eða ábúendur jarða, er að afrétti liggja, fyrir
   verulegum ágangi afréttarpenings, og geta þeir þá krafist girðingar á milli
-     afréttar og heimalanda sinna skv. [5]7. gr. laga nr. 10 25. mars 1965
+     afréttar og heimalanda sinna skv. [7]7. gr. laga nr. 10 25. mars 1965
                                 (girðingarlaga).
 33. gr. Nú verður ágangur búfjár úr einu heimalandi í annað, og getur þá sá, er
 fyrir verður, kært til hreppstjóra. Stafi ágangurinn af búfé, sem vanrækt hefur
@@ -316,7 +318,7 @@ að ræða, getur ábúandi sett hann inn og gert eiganda aðvart, enda hafi han
   hreppstjóri nefnir til, má [krefjast nauðungarsölu á fénu án þess að frekari
 áskorunar til eiganda sé þörf. Söluverð þess að frádregnu uslagjaldi og kostnaði
                           greiðist]^1) búfjáreiganda.
-                             ^1)[6]L. 90/1991, 91. gr.
+                             ^1)[8]L. 90/1991, 91. gr.
  35. gr. Sé búpeningur settur inn, skal þess gætt, að hann sé ekki í svelti. Ef
    innsettur fénaður ferst eða verður fyrir slysi, greiðir sá, er inn setur,
                                  eiganda bætur.
@@ -457,7 +459,7 @@ Allt óskilafé, sem fargað er, skal lagt inn á reikning, þannig að greiða 
  Annan óskilapening, svo sem hross og nautgripi [má selja að kröfu hreppstjóra
 við nauðungarsölu með [fjögurra vikna innlausnarfresti]^1) án þess að sérstakrar
 áskorunar sé þörf til eiganda].^2) Nánari ákvæði má setja í fjallskilasamþykkt.
-                  ^1)L. 96/2006, 1. gr. ^2)[7]L. 90/1991, 91. gr.
+                  ^1)L. 96/2006, 1. gr. ^2)[9]L. 90/1991, 91. gr.
 60. gr. Fyrir árslok skulu hreppstjórar birta í Lögbirtingablaði tilkynningu um
    förgun óskilafjár, hver í sínum hreppi, eða um sölu, ef um óskilahross eða
 nautgripi er að ræða. Skal í tilkynningu greint mark og auðkenni hverrar skepnu,
@@ -480,11 +482,11 @@ eyrnamörk. Skylt er hverjum búfjáreiganda að hafa glöggt mark á búfé sí
 plötumerkja allt ásett sauðfé og geitfé með brennimarki eða númeri lögbýlis eða
 eiganda, sýslutákni og númeri sveitarfélags. Að auki er heimilt að brennimerkja
                            sömu númer og tákn á horn.
- [Sjávarútvegs- og landbúnaðarráðherra]^1) setur með reglugerð nánari ákvæði um
-  notkun búfjármarka, þar með talin ákvæði um liti, gerð og notkun plötumerkja
-eftir varnarsvæðum, framkvæmd frost- og örmerkinga og skyldu til að láta merkja
-stórgripi. Í fjallskilasamþykkt er heimilt að setja sérákvæði um búfjármörk.]^2)
-                   ^1)L. 167/2007, 66. gr. ^2)L. 87/1997, 2. gr.
+ [Ráðherra]^1) setur með reglugerð nánari ákvæði um notkun búfjármarka, þar með
+ talin ákvæði um liti, gerð og notkun plötumerkja eftir varnarsvæðum, framkvæmd
+         frost- og örmerkinga og skyldu til að láta merkja stórgripi. Í
+      fjallskilasamþykkt er heimilt að setja sérákvæði um búfjármörk.]^2)
+                  ^1)L. 126/2011, 113. gr. ^2)L. 87/1997, 2. gr.
  64. gr. Búfé skal draga eftir mörkum. Mark helgar markeiganda eignarrétt nema
   sannist að annar eigi. Enginn má draga sér búpening sem eigi ber hans rétta
 mark. [Við sönnun á eign á búfé er örmerki rétthæst, þar næst frostmerki, síðan
@@ -514,7 +516,7 @@ umdæmið. Markaskrár skulu gefnar út samtímis um land allt og eigi sjaldnar 
 Stjórn fjallskilaumdæmis felur ákveðnum manni, markaverði, umsjón með mörkum og
   gerð og útgáfu markaskrár af sinni hálfu. Skal sem mest samræmi haft í gerð
       markaskráa um land allt og fylgt í því efni ákvæðum reglugerðar sem
-     [sjávarútvegs- og landbúnaðarráðherra]^1) setur um mörk og markaskrár.
+                   [ráðherra]^1) setur um mörk og markaskrár.
   [Ráðherra getur með reglugerð falið Bændasamtökum Íslands að hafa umsjón með
 samræmingu á gerð og útgáfu markaskráa og upptöku nýrra marka og ákveðið að öll
 mörk í landinu skuli sameiginlega færð í tölvu í umsjá þeirra. Kostnað af starfi
@@ -535,7 +537,7 @@ umdæminu í hlutfalli við fjölda skráðra marka. Jöfnunargjald skal þó þ
 Markeiganda er skylt að tilkynna markaverði mark sitt til skráningar í markaskrá
   fjallskilaumdæmisins og skal það gert innan tiltekins frests sem markavörður
                        auglýsir, m.a. í Lögbirtingablaði.
-                   ^1)L. 167/2007, 66. gr. ^2)L. 9/1996, 2. gr.
+                   ^1)L. 126/2011, 113. gr. ^2)L. 9/1996, 2. gr.
  67. gr. Mark sem hvorki er skráð í gildandi markaskrá né hefur verið auglýst í
  Lögbirtingablaði, sbr. 65. gr., eftir útgáfu síðustu markaskrár eða í viðbæti
 við markaskrá umdæmisins, skal talið niður fallið og er þá öðrum heimilt að taka
@@ -547,10 +549,9 @@ við markaskrá umdæmisins, skal talið niður fallið og er þá öðrum heimi
  taka það upp þegar átta ár eru liðin eða fyrr með samþykki fyrri eiganda. Hafi
     markavarsla geymt mark lengur en átta ár fellur aldursréttur þess niður.
           68. gr. Sammerking er óheimil innan sama fjallskilaumdæmis.
-[Sjávarútvegs- og landbúnaðarráðherra]^1) ákveður að öðru leyti í reglugerð, sem
- sett skal að höfðu samráði við sauðfjársjúkdómanefnd, á hvaða svæðum á landinu
- sammerkingar á sauðfé eru óheimilar en stjórnir fjallskilaumdæma ákveða slíkt
-                              varðandi annað búfé.
+[Ráðherra]^1) ákveður að öðru leyti í reglugerð, sem sett skal að höfðu samráði
+ við sauðfjársjúkdómanefnd, á hvaða svæðum á landinu sammerkingar á sauðfé eru
+    óheimilar en stjórnir fjallskilaumdæma ákveða slíkt varðandi annað búfé.
  Það telst vera sammerking þegar tveir eða fleiri markeigendur eiga sama mark.
    Markavörðum samliggjandi fjallskilaumdæma er skylt, eftir því sem nánar er
 ákveðið í reglugerð, að vinna saman að útrýmingu óleyfilegra sammerkinga sem nú
@@ -581,34 +582,36 @@ skal nefndin m.a. taka tillit til þess hversu auðvelt hlutaðeigandi eigi með
                                      marki.
     d. Áður en markaverðir úrskurða hver skuli halda marki skal hlutaðeigendum
           gefinn kostur á að lýsa viðhorfum sínum skriflega um málið.
-                              ^1)L. 167/2007, 66. gr.
+                             ^1)L. 126/2011, 113. gr.
    69. gr. Ákvörðunum markavarðar eða fundar markavarða um skráningu á marki,
    synjun um skráningu og niðurfellingu marks vegna sammerkinga er heimilt að
     skjóta til markanefndar innan 45 daga frá því að ákvörðun var sannanlega
   tilkynnt hlutaðeiganda. Ef hann áfrýjar skal hann greiða gjald sem ráðherra
                             ákveður með auglýsingu.
-[Sjávarútvegs- og landbúnaðarráðherra]^1) skipar þrjá menn í markanefnd til átta
- ára í senn. [Skal einn skipaður eftir tilnefningu Bændasamtaka Íslands, annar
-  eftir tilnefningu [Matvælastofnunar]^1) og sá þriðji án tilnefningar og skal
- hann vera formaður nefndarinnar.]^2) Ráðherra skipar varamenn með sama hætti.
-Markanefnd skal fylgjast með framkvæmd laga, reglugerða og samþykkta um mörk og
-markaskrár og vera til ráðuneytis um þau mál. Ráðherra getur með reglugerð falið
-                         markanefnd tiltekin verkefni.
-                   ^1)L. 167/2007, 66. gr. ^2)L. 9/1996, 3. gr.
+  [Ráðherra]^1) skipar þrjá menn í markanefnd til átta ára í senn. [Skal einn
+    skipaður eftir tilnefningu Bændasamtaka Íslands, annar eftir tilnefningu
+ [Matvælastofnunar]^2) og sá þriðji án tilnefningar og skal hann vera formaður
+   nefndarinnar.]^3) Ráðherra skipar varamenn með sama hætti. Markanefnd skal
+ fylgjast með framkvæmd laga, reglugerða og samþykkta um mörk og markaskrár og
+ vera til ráðuneytis um þau mál. Ráðherra getur með reglugerð falið markanefnd
+                               tiltekin verkefni.
+       ^1)L. 126/2011, 113. gr. ^2)L. 167/2007, 66. gr. ^3)L. 9/1996, 3. gr.
 
                              X. kafli. Ýmis ákvæði.
   70. gr. Brot gegn ákvæðum laga þessara, reglugerða og samþykkta, sem settar
                      verða samkvæmt þeim, varða sektum ^1)
-                            ^1)[8]L. 88/2008, 233. gr.
+                            ^1)[10]L. 88/2008, 233. gr.
 
 References
 
    Visible links
-   1. file://1986006.html
-   2. file://1991090.html
-   3. file://2008088.html
-   4. file://1965017.html#g23
-   5. file://1965010.html
-   6. file://1991090.html#g91
-   7. file://1991090.html#g91
-   8. file://2008088.html#g233
+   1. file://2011138.html#g134
+   2. file://1986006.html
+   3. file://1991090.html
+   4. file://2008088.html
+   5. file://2011138.html
+   6. file://1965017.html#g23
+   7. file://1965010.html
+   8. file://1991090.html#g91
+   9. file://1991090.html#g91
+  10. file://2008088.html#g233

@@ -1,0 +1,164 @@
+
+   --------------------------------------------------------------------------
+
+                Lög um grunngerð fyrir stafrænar landupplýsingar
+
+                              2011 nr. 44 10. maí
+
+   --------------------------------------------------------------------------
+
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
+
+ Tóku gildi 13. maí 2011 nema 1. málsl. 10. gr. sem tekur gildi 1. janúar 2014.
+EES-samningurinn: XX. viðauki tilskipun 2007/2/EB. Breytt með l. 126/2011 (tóku
+                             gildi 30. sept. 2011).
+
+                                1. gr. Markmið.
+  Markmið laga þessara er að byggja upp og viðhalda grunngerð fyrir stafrænar
+landupplýsingar á vegum stjórnvalda og tryggja aðgengi stjórnvalda og almennings
+                         að landupplýsingum um Ísland.
+                               2. gr. Gildissvið.
+     Lög þessi taka til stafrænna landupplýsinga sem eru í eigu eða á vegum
+stjórnvalda og varða íslenskt land, landhelgi og efnahagslögsögu, sbr. 1. og 3.
+ gr. laga um landhelgi, efnahagslögsögu og landgrunn, nr. 41/1979. Í reglugerð
+sem ráðherra setur skal kveðið nánar á um þá þætti stafrænna landupplýsinga sem
+                                lögin taka til.
+ Lög þessi taka einnig til stafrænna landupplýsinga í eigu eða á vegum lögaðila
+  sem falla undir ákvæði bc-liðar 3. tölul. 3. gr. að svo miklu leyti sem þær
+verða til eða er aflað í tilefni af hinu opinbera hlutverki þeirra eða þjónustu.
+Lög þessi hafa ekki áhrif á höfundarétt stjórnvalda að landupplýsingum sem falla
+                                  undir lögin.
+ Stafrænar landupplýsingar í eigu annarra en lög þessi taka til falla undir lög
+þessi hafi eigandi þeirra fengið leyfi til að tengja þær við landupplýsingagátt,
+                    sbr. 5. gr., á grundvelli laga þessara.
+      Séu til mörg samsvarandi eintök af sömu gögnum ná lögin einungis til
+                          upprunalegrar útgáfu þeirra.
+                             3. gr. Skilgreiningar.
+   Í lögum þessum er merking eftirtalinna orða og orðasambanda sem hér segir:
+     1. Grunngerð fyrir stafrænar landupplýsingar: Tækni, stefnur, staðlar og
+    mannauður sem þarf til að afla stafrænna landupplýsinga, vinna úr þeim,
+                  varðveita, miðla og auðvelda notkun þeirra.
+      2. Landupplýsingar: Gögn og upplýsingar sem tengjast stað á, í eða yfir
+   jörðu, hvort heldur með hnitum eða auðkenni, t.d. staðfang eða póstnúmer.
+                                  3. Stjórnvöld:
+           a. Öll stjórnvöld sem falla undir gildissvið upplýsingalaga.
+     b. Lögaðili sem hefur verið falið opinbert hlutverk eða veitir almenningi
+ opinbera þjónustu sem varðar umhverfið á grundvelli laga, stjórnvaldsfyrirmæla
+               eða samnings við stjórnvöld sem falla undir a-lið.
+    c. Lögaðili sem gegnir opinberu hlutverki eða veitir opinbera þjónustu sem
+   varðar umhverfið og lýtur stjórn þeirra stjórnvalda sem falla undir a-lið.
+  Lögaðili er talinn lúta opinberri stjórn í þessum skilningi þegar stjórnvöld
+skv. a-lið tilnefna meira en helming stjórnarmanna í stjórn lögaðilans eða hafa
+                     á annan hátt virk yfirráð yfir honum.
+       4. Lýsigögn: Upplýsingar um gögn og/eða þjónustu eða lýsing einkenna
+             gagnasafna, svo sem innihalds, eiginleika eða ástands.
+    5. Samhæfni: Hæfni tveggja eða fleiri kerfa eða gagnasafna til samtengdrar
+                                    vinnslu.
+          6. Landupplýsingagátt: Vefsetur sem veitir aðgang að stafrænum
+                      landupplýsingum og tengdri þjónustu.
+                                4. gr. Lýsigögn.
+  Stjórnvöld skulu leggja fram lýsigögn fyrir þær stafrænu landupplýsingar og
+    vefþjónustu sem þau eiga, reka eða varðveita. Uppfæra skal lýsigögnin ef
+              breytingar verða á gögnunum eða ný gögn bætast við.
+                           5. gr. Landupplýsingagátt.
+Landmælingar Íslands skulu starfrækja landupplýsingagátt til að veita aðgang að
+  stafrænum landupplýsingum og upplýsingum um þær. Eftirtalin vefþjónusta skal
+             vera aðgengileg öllum í gegnum landupplýsingagáttina:
+    1. Lýsigagnaþjónusta sem gefur kost á að leita að stafrænum landupplýsingum
+                              og tengdri þjónustu.
+     2. Skoðunarþjónusta sem að lágmarki gefur kost á að skoða gögn, skýringar
+     þeirra og lýsigögn, fara um þau, þysja inn/út, hliðra þeim eða skara.
+       3. Niðurhalsþjónusta sem gefur kost á að hala niður afritum stafrænna
+ landupplýsinga eða fá beinan aðgang að þeim, hvort sem er að öllu leyti eða að
+                                     hluta.
+    4. Vörpunarþjónusta sem gefur kost á að varpa stafrænum landupplýsingum til
+                               að samhæfni náist.
+     5. Þjónusta sem gefur kost á að virkja ólíka vefþjónustu landupplýsinga.
+    Aðgangur að þjónustu skv. 1.5. tölul. 1. mgr. skal opinn öllum með þeim
+  takmörkunum á upplýsingarétti sem greinir í 6. gr. laga um upplýsingarétt um
+                                 umhverfismál.
+Upplýsingatexti skal vera til í íslenskri útgáfu eftir því sem unnt er. Lýsigögn
+                     öll skulu vera til í íslenskri útgáfu.
+                          6. gr. Skyldur stjórnvalda.
+ Stjórnvöld sem hafa stafrænar landupplýsingar í umsjá sinni skulu sjá til þess
+að gögn og tengd vefþjónusta séu gerð aðgengileg í gegnum þá landupplýsingagátt
+                          sem kveðið er á um í 5. gr.
+  Séu stafrænar landupplýsingar og tengd vefþjónusta í samræmi við ákvæði laga
+þessara og reglugerða settra á grundvelli þeirra skulu stjórnvöld hafa tæknilega
+     getu til að miðla gögnum og tengja þau landupplýsingagátt, sbr. 5. gr.
+   Stjórnvöldum er ekki skylt á grundvelli laga þessara að afla nýrra gagna.
+         7. gr. Tenging annarra en stjórnvalda við landupplýsingagátt.
+ Nú búa aðrir en stjórnvöld yfir stafrænum landupplýsingum í samræmi við ákvæði
+ laga þessara og reglugerða settra á grundvelli þeirra, og geta þeir þá sótt um
+ að fá að tengja landupplýsingar sínar við landupplýsingagátt. Beiðni um slíkt
+  skal send Landmælingum Íslands sem taka ákvörðun um hvort tenging sé heimil.
+Jafnframt geta Landmælingar Íslands haft frumkvæði að því að aðrir en stjórnvöld
+                     tengi gögn sín við landupplýsingagátt.
+                        8. gr. Sameiginleg notkun gagna.
+ Stjórnvöld skv. a- og b-lið 3. tölul. 3. gr. skulu veita hver öðrum aðgang að
+ stafrænum landupplýsingum og tengdri vefþjónustu og gera hver öðrum kleift að
+          skiptast á og nota upplýsingar sínar í opinberum verkefnum.
+ Stjórnvöld skulu veita stofnunum Evrópusambandsins og EFTA aðgang að stafrænum
+                    landupplýsingum og þjónustu skv. 5. gr.
+                      9. gr. Hlutverk Landmælinga Íslands.
+             Landmælingar Íslands fara með framkvæmd laga þessara.
+        Landmælingar Íslands sjá um rekstur, viðhald og tæknilega þróun
+    landupplýsingagáttar, sbr. 5. gr. Landmælingar Íslands skulu einnig vera
+  stjórnvöldum til ráðgjafar til að skyldum samkvæmt lögum þessum sé fullnægt.
+                             10. gr. Aðgerðaáætlun.
+Landmælingar Íslands gera tillögu til ráðherra um aðgerðaáætlun við uppbyggingu,
+  rekstur og viðhald grunngerðar fyrir stafrænar landupplýsingar um Ísland.^1)
+ Aðgerðaáætlunin skal vera til fimm ára í senn og skal [ráðherra]^2) staðfesta
+                                     hana.
+    ^1)Málsliðurinn tekur gildi 1. jan. 2014 skv. 15. gr. ^2)L. 126/2011, 542.
+                                      gr.
+                               11. gr. Gjaldtaka.
+Þjónusta skv. 1. og 2. tölul. 1. mgr. 5. gr. er veitt án endurgjalds. Heimilt er
+ að hafa gögn hjá skoðunarþjónustu skv. 2. tölul. 1. mgr. 5. gr. á því sniði að
+                þau verði ekki notuð í viðskiptalegum tilgangi.
+Heimilt er að innheimta gjald fyrir þjónustu skv. 3., 4. og 5. tölul. 1. mgr. 5.
+  gr. Þjónustugjöld þessi skulu ákvörðuð í gjaldskrá sem ráðherra staðfestir.
+  Upphæð gjalds skal taka mið af kostnaði við að veita þjónustu, má ekki vera
+  hærra en kostnaður við þjónustuna og skal byggð á rekstraráætlun þar sem þau
+   atriði eru rökstudd sem ákvörðun gjalds byggist á. Gjaldskrá skal birta í
+                            B-deild Stjórnartíðinda.
+  Notendum skal gert kleift að greiða þjónustugjald skv. 2. mgr. með rafrænum
+                                     hætti.
+                            12. gr. Upplýsingagjöf.
+Stjórnvöldum er skylt að veita Landmælingum Íslands þær upplýsingar á grundvelli
+    þessara laga sem ráðherra óskar eftir, þ.m.t. um notkun landupplýsinga,
+                      útbreiðslu þeirra og aðgang að þeim.
+                          13. gr. Reglugerðarheimild.
+[Ráðherra]^1) setur í reglugerð nánari ákvæði um framkvæmd laga þessara, þ.m.t.
+                                      um:
+               a. þá þætti upplýsinga sem lögin ná til, sbr. 2. gr.,
+     b. þær upplýsingar sem lýsigögn innihalda og um uppfærslu á þeim, sbr. 4.
+                                      gr.,
+       c. landupplýsingagátt, sbr. 5. gr., m.a. um samsetningu leitarþátta,
+                            d. gjaldtöku, sbr. 11. gr.,
+     e. upplýsingar sem stjórnvöldum er skylt að veita ráðherra, sbr. 12. gr.
+                             ^1)L. 126/2011, 542. gr.
+                        14. gr. Innleiðing á tilskipun.
+ Með lögum þessum er innleidd tilskipun Evrópuþingsins og ráðsins 2007/2/EB um
+   notkun og miðlun landupplýsinga, sem vísað er til í I. kafla í XX. viðauka
+ samningsins um Evrópska efnahagssvæðið, eins og honum var breytt með ákvörðun
+         sameiginlegu EES-nefndarinnar nr. 55/2010 frá 30. apríl 2010.
+                              15. gr. Gildistaka.
+ Lög þessi öðlast þegar gildi. Þó skal 1. málsl. 10. gr. öðlast gildi 1. janúar
+                                     2014.
+                        16. gr. Breyting á öðrum lögum.
+                            Ákvæði til bráðabirgða.
+I. Landmælingar Íslands skulu koma á fót landupplýsingagátt, sbr. 5. gr., fyrir
+                                 1. júní 2012.
+  II. Fyrsta aðgerðaáætlun skv. 10. gr. skal vera tilbúin til staðfestingar 1.
+                                  janúar 2014.
+ Frá gildistöku laga þessara til 1. janúar 2014 skal starfa samræmingarnefnd um
+grunngerð fyrir stafrænar landupplýsingar. Hlutverk nefndarinnar er að vinna að
+fyrstu aðgerðaáætlun skv. 1. mgr. og aðstoða stjórnvöld við frekari stefnumótun
+  á þessu sviði. [Ráðherra skipar nefndina, og formann hennar, og skulu vera í
+  henni tíu fulltrúar tilnefndir af ráðherrum er fara með málefni þjóðlendna,
+     orkumála, samgangna, vísinda og landbúnaðar og skulu þessir fulltrúar
+ráðherranna annast tengsl við stofnanir viðkomandi ráðuneyta, Samband íslenskra
+sveitarfélaga tilnefnir einn, LÍSA, samtök um landupplýsingar á Íslandi, einn og
+                         Landmælingar Íslands einn.]^1)
+                             ^1)L. 126/2011, 542. gr.

@@ -10,8 +10,9 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 16. maí 2001. EES-samningurinn: II. viðauki tilskipun 93/42/EBE og
-98/79/EB. Breytt með l. 76/2002 (tóku gildi 17. maí 2002) og [1]l. 88/2008 (tóku
-       gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
+ 98/79/EB. Breytt með l. 76/2002 (tóku gildi 17. maí 2002), [1]l. 88/2008 (tóku
+ gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 28/2011
+                           (tóku gildi 1. maí 2011).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -37,8 +38,8 @@ annar hlutur, notað eitt sér eða með öðru, ásamt hugbúnaði sem þarf ti
        Tæki sem virkar aðallega á eða í mannslíkamanum með lyfjafræðilegum,
     efnafræðilegum, ónæmisfræðilegum eða efnaskiptalegum aðferðum telst ekki
             lækningatæki, þó getur það verið hluti af lækningatæki.
-   Ef vafi leikur á hvort tæki eða hlutur telst lækningatæki sker landlæknir úr
-                                    um það.
+          Ef vafi leikur á hvort tæki eða hlutur telst lækningatæki sker
+                          [Lyfjastofnun]^1) úr um það.
       2. Framleiðandi: Einstaklingur eða lögpersóna sem ber ábyrgð á hönnun,
  framleiðslu, pökkun og merkingu tækis áður en það er markaðssett í hans nafni,
  hvort sem hann framkvæmir þessar aðgerðir sjálfur eða þriðji aðili fyrir hans
@@ -56,9 +57,9 @@ tilætluð not hennar sem tækis í því skyni að setja hana á markað í eig
      og/eða sannprófa að lækningatæki séu við eðlilega notkun í samræmi við
    grunnkröfur um eiginleika og skil, en kveðið er á um grunnkröfur þessar í
      tilskipunum Evrópusambandsins sem eru hluti af samningnum um Evrópska
- efnahagssvæðið [og stofnsamningi Fríverslunarsamtaka Evrópu].^1) Með klínískri
+ efnahagssvæðið [og stofnsamningi Fríverslunarsamtaka Evrópu].^2) Með klínískri
       prófun er einnig lagt mat á óæskilegar hliðarverkanir lækningatækja.
-                              ^1)L. 76/2002, 29. gr.
+                   ^1)L. 28/2011, 17. gr. ^2)L. 76/2002, 29. gr.
 
                II. kafli. Kröfur sem lækningatæki skulu uppfylla.
                              4. gr. Öryggiskröfur.
@@ -76,11 +77,12 @@ tilætluð not hennar sem tækis í því skyni að setja hana á markað í eig
 merkja þau í samræmi við reglur Evrópusambandsins um lækningatæki, sem eru hluti
 af samningnum um Evrópska efnahagssvæðið, eða kröfur sem gerðar eru í samningum
         sem Ísland hefur gert við ríki utan Evrópska efnahagssvæðisins.
-  Landlæknir getur tekið lækningatæki af markaði þrátt fyrir að það sé merkt í
-    samræmi við 1. mgr. ef í ljós kemur að tækið hefur hættulega eiginleika.
+  [Lyfjastofnun]^1) getur tekið lækningatæki af markaði þrátt fyrir að það sé
+merkt í samræmi við 1. mgr. ef í ljós kemur að tækið hefur hættulega eiginleika.
     Gera má undantekningu frá 1. mgr. vegna tækja sem eru eingöngu ætluð til
    útstillingar á kaupstefnum, sýningum, við sýnikennslu og þess háttar, til
       klínískra prófana, sbr. 9. gr., eða eru sérsmíðuð fyrir einstakling.
+                              ^1)L. 28/2011, 17. gr.
                          6. gr. Notkunarleiðbeiningar.
  Öllum lækningatækjum skulu fylgja nauðsynlegar upplýsingar um framleiðanda og
   leiðbeiningar um örugga notkun. Leiðbeiningar, sem þarf til að nota tækið á
@@ -93,40 +95,45 @@ af samningnum um Evrópska efnahagssvæðið, eða kröfur sem gerðar eru í sa
 viðhalds- og viðgerðarþjónustu sé sinnt af þar til bærum aðilum þannig að öryggi
                                notenda sé tryggt.
                                 8. gr. Skráning.
-   Landlæknir skal halda skrá yfir þá aðila sem reka fyrirtæki með aðsetur á
+[Lyfjastofnun]^1) skal halda skrá yfir þá aðila sem reka fyrirtæki með aðsetur á
  Íslandi og framleiða lækningatæki eða eru ábyrgir fyrir markaðssetningu slíkra
                                      tækja.
+                              ^1)L. 28/2011, 17. gr.
                            9. gr. Klínískar prófanir.
-Framleiðandi skal senda umsókn um klíníska prófun á lækningatæki til landlæknis
-og hefur hann eftirlit með því að framkvæmd prófunar sé í samræmi við reglur um
-     góða starfshætti og lög um réttindi sjúklinga, þar með talið ákvæði um
-                     rannsóknir og mat vísindasiðanefndar.
-   Landlæknir getur stöðvað framkvæmd klínískrar prófunar sé ekki fylgt þeim
+      Framleiðandi skal senda umsókn um klíníska prófun á lækningatæki til
+   [Lyfjastofnunar]^1) og hefur [stofnunin]^1) eftirlit með því að framkvæmd
+    prófunar sé í samræmi við reglur um góða starfshætti og lög um réttindi
+    sjúklinga, þar með talið ákvæði um rannsóknir og mat vísindasiðanefndar.
+[Lyfjastofnun]^1) getur stöðvað framkvæmd klínískrar prófunar sé ekki fylgt þeim
                 skilmálum sem settir eru fyrir klíníska prófun.
+                              ^1)L. 28/2011, 17. gr.
 
                       III. kafli. Eftirlit og málsmeðferð.
                                10. gr. Eftirlit.
-  Landlæknir hefur eftirlit með öryggi lækningatækja. Með eftirliti er annars
-  vegar átt við markaðseftirlit, þ.e. eftirlit með því að lækningatæki sem er
-markaðssett á Íslandi uppfylli öryggiskröfur og kröfur um merkingar skv. 5. gr.,
- og hins vegar eftirlit með því að viðhaldi lækningatækja sé sinnt og eftirlit
-  með notkun lækningatækja. Landlækni er heimilt að fela öðrum aðilum tiltekna
-                             hluta þess eftirlits.
+  [Lyfjastofnun]^1) hefur eftirlit með öryggi lækningatækja. Með eftirliti er
+annars vegar átt við markaðseftirlit, þ.e. eftirlit með því að lækningatæki sem
+ er markaðssett á Íslandi uppfylli öryggiskröfur og kröfur um merkingar skv. 5.
+   gr., og hins vegar eftirlit með því að viðhaldi lækningatækja sé sinnt og
+ eftirlit með notkun lækningatækja. [Lyfjastofnun]^1) er heimilt að fela öðrum
+                     aðilum tiltekna hluta þess eftirlits.
  Eftirlitsaðilar geta óskað eftir nauðsynlegum upplýsingum vegna eftirlitsins,
  tekið sýni og gert þær athuganir og prófanir sem nauðsynlegar eru taldar í því
   skyni að forðast tjón af völdum lækningatækja. Framleiðendur, innflytjendur,
      seljendur, eigendur og notendur lækningatækja skulu veita þá aðstoð og
            upplýsingar er þörf krefur og óskað er eftir hverju sinni.
+                              ^1)L. 28/2011, 17. gr.
                           11. gr. Tilkynningarskylda.
  Þeim sem framleiða, selja, eiga eða nota lækningatæki og vita um frávik, galla
 eða óvirkni, sem kynni að valda eða valdið hefur heilsutjóni eða dauða notanda,
-                 ber skylda til að tilkynna landlækni um slíkt.
+             ber skylda til að tilkynna [Lyfjastofnun]^1) um slíkt.
+                              ^1)L. 28/2011, 17. gr.
                                12. gr. Gjaldtaka.
         Innflytjendur og framleiðendur skulu greiða þjónustugjald vegna
  markaðseftirlits, sbr. 1. mgr. 10. gr., og vegna mats á umsóknum um klínískar
 prófanir á lækningatækjum, sbr. 9. gr., samkvæmt gjaldskrá er ráðherra setur að
-     fengnum tillögum landlæknis. Gjaldskráin skal taka mið af kostnaði við
+fengnum tillögum [Lyfjastofnunar].^1) Gjaldskráin skal taka mið af kostnaði við
                                   þjónustuna.
+                              ^1)L. 28/2011, 17. gr.
                 13. gr. Málsmeðferð, réttarúrræði og refsingar.
 Um málsmeðferð og réttarúrræði eftirlitsaðila skv. 10. gr. fer skv. IV. og [2]V.
 kafla laga nr. 134/1995, um öryggi vöru og opinbera markaðsgæslu, eftir því sem
@@ -138,7 +145,7 @@ kafla laga nr. 134/1995, um öryggi vöru og opinbera markaðsgæslu, eftir þv�
  14. gr. Ráðherra er heimilt í reglugerð^1) að kveða á um nánari framkvæmd laga
     þessara, t.d. um öryggi lækningatækja, merkingar, notkunarleiðbeiningar,
               skráningu, klínískar prófanir og tilkynningarskyldu.
-                                 ^1)Rg. 934/2010.
+                          ^1)Rg. 934/2010. Rg. 320/2011.
                      15. gr. Lög þessi öðlast þegar gildi.
 
                             Ákvæði til bráðabirgða.

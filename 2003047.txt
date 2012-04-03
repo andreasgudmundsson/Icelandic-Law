@@ -12,8 +12,8 @@
  Tóku gildi 1. janúar 2004. EES-samningurinn: VIII. viðauki tilskipun 97/70/EB,
  98/18/EB og 1999/35/EB. Breytt með [1]l. 88/2008 (tóku gildi 1. jan. 2009 nema
    brbákv. VII sem tók gildi 21. júní 2008), l. 139/2008 (tóku gildi 13. des.
- 2008), l. 36/2010 (tóku gildi 1. nóv. 2010) og l. 162/2010 (tóku gildi 1. jan.
-                                     2011).
+  2008), l. 36/2010 (tóku gildi 1. nóv. 2010), l. 162/2010 (tóku gildi 1. jan.
+               2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
                      I. kafli. Gildissvið og orðskýringar.
                             1. gr. Gildissvið o.fl.
@@ -43,7 +43,7 @@ Ráðherra er enn fremur heimilt að setja reglugerðir^2) um eftirlit með skip
 983/2004. Rg. 743/2001, sbr. 595/2004. Rg. 122/2004. Rg. 204/2004. Rg. 589/2004,
    sbr. 779/2010 og 862/2010. Rg. 775/2004. Rg. 672/2006, sbr. 565/2009. Rg.
  698/2006. Rg. 200/2007. Rg. 474/2007, sbr. 104/2008 og 920/2009. Rg. 265/2008.
-                                 Rg. 652/2009.
+                   Rg. 652/2009. Rg. 816/2011. Rg. 817/2011.
                               2. gr. Orðskýringar.
 Í lögum þessum hafa eftirfarandi orð og orðasambönd þá merkingu sem hér greinir:
               1. Skip er sérhvert fljótandi far nema annars sé getið.
@@ -82,7 +82,7 @@ Vinnusvæði og vistarverur skipverja skal hanna og búa með hliðsjón af öry
  423/2005. Rg. 122/2004, sbr. 955/2008 og 125/2009. Rg. 589/2004, sbr. 779/2010
    og 862/2010. Rg. 677/2004. Rg. 551/2005, sbr. 879/2006. Rg. 520/2006. Rg.
      672/2006, sbr. 565/2009. Rg. 131/2007. Rg. 200/2007. Rg. 377/2007. Rg.
-                           1120/2007. Rg. 1110/2008.
+                    1120/2007. Rg. 1110/2008, sbr. 402/2011.
                        4. gr. Aðbúnaður og vinnuskilyrði.
  Ráðherra setur reglur^1) um aðbúnað og vinnuskilyrði skipverja, svo sem hönnun
      og merkingar vinnusvæða, öryggisbúnað, notkun og viðhald vinnutækja og
@@ -140,16 +140,16 @@ Starfsmenn Siglingastofnunar Íslands annast alla skoðun samkvæmt lögum þess
     ^1)Rg. 94/2004, sbr. 1060/2005. Rg. 142/2004. Rg. 1017/2003, sbr. 372/2007.
                              11. gr. Skoðun skipa.
    Öll skip sem notuð eru í atvinnuskyni skulu sæta skoðun Siglingastofnunar
-Íslands í samræmi við ákvæði reglugerða^1) sem [innanríkisráðherra]^2) setur um
- umfang, tíðni og framkvæmd skoðana á skipum. Við skoðun á skipum skal ganga úr
- skugga um að skip uppfylli ákvæði laga, reglna, alþjóðasamninga og samnings um
-  Evrópska efnahagssvæðið um smíði, búnað og örugga starfsemi skips, þ.m.t. um
-    burðarvirki þess, vatnsþétta niðurhólfun, lagnakerfi, bol, björgunar- og
-       öryggisbúnað, vélbúnað, fjarskiptabúnað, rafbúnað, eldvarnabúnað,
- mengunarvarnabúnað, siglingatæki, merkingar, lyf og læknisáhöld og annan búnað
- og mönnun sem varðar öryggi skipsins til að tryggja öryggi skipverja, farþega,
-                skips og farms og varnir gegn mengun frá skipum.
- [Ráðherra]^2) er heimilt með reglugerð að ákveða að skip sem ekki eru notuð í
+ Íslands í samræmi við ákvæði reglugerða^1) sem [ráðherra]^2) setur um umfang,
+tíðni og framkvæmd skoðana á skipum. Við skoðun á skipum skal ganga úr skugga um
+ að skip uppfylli ákvæði laga, reglna, alþjóðasamninga og samnings um Evrópska
+efnahagssvæðið um smíði, búnað og örugga starfsemi skips, þ.m.t. um burðarvirki
+   þess, vatnsþétta niðurhólfun, lagnakerfi, bol, björgunar- og öryggisbúnað,
+    vélbúnað, fjarskiptabúnað, rafbúnað, eldvarnabúnað, mengunarvarnabúnað,
+siglingatæki, merkingar, lyf og læknisáhöld og annan búnað og mönnun sem varðar
+  öryggi skipsins til að tryggja öryggi skipverja, farþega, skips og farms og
+                         varnir gegn mengun frá skipum.
+ [Ráðherra]^3) er heimilt með reglugerð að ákveða að skip sem ekki eru notuð í
  atvinnuskyni skuli skoðuð af Siglingastofnun Íslands með reglulegu millibili.
 Sé skip í flokki hjá viðurkenndu flokkunarfélagi og gildu flokkunarskírteini er
   framvísað skal sú skoðun sem fram fór á því til viðhalds á flokkuninni talin
@@ -158,7 +158,8 @@ skipið jafnframt þeim ákvæðum sem sérstaklega er mælt fyrir um í íslens
  eða reglum varðandi þau atriði sem flokkunin tekur til, svo og skuldbindingum
   samkvæmt ákvæðum samnings um Evrópska efnahagssvæðið og alþjóðasamningum sem
                   Ísland hefur fullgilt og öðlast hafa gildi.
-             ^1)Rg. 1017/2003, sbr. 372/2007. ^2)L. 162/2010, 236. gr.
+     ^1)Rg. 1017/2003, sbr. 372/2007. ^2)L. 126/2011, 365. gr. ^3)L. 162/2010,
+                                    236. gr.
                        12. gr. Framkvæmd skoðunar skipa.
 Siglingastofnun Íslands annast eftirlit með því að fullnægt sé ákvæðum gildandi
         laga og reglna um öryggi skipa og varnir gegn mengun frá skipum.
@@ -202,7 +203,7 @@ upplýsingar um það hver hafi lagt fram slíka kröfu eða kvörtun. Útgerða
  skuldbindingar samkvæmt ákvæðum samnings um Evrópska efnahagssvæðið. Ráðherra
   setur reglur^1) um framkvæmd hafnarríkiseftirlits og um hæfniskröfur þeirra
         skoðunarmanna Siglingastofnunar sem annast hafnarríkiseftirlit.
-                          ^1)Rg. 589/2003, sbr. 815/2004.
+                          ^1)Rg. 816/2011. Rg. 817/2011.
                           15. gr. Skyndiskoðun skipa.
        Skyndiskoðun er fyrirvaralaus skoðun Siglingastofnunar Íslands eða
                     Landhelgisgæslu Íslands á haffæri skips.
@@ -311,14 +312,16 @@ fyrirsögn greinarinnar Farbannsnefnd falli brott en efnislegar breytingar f
                                VI. kafli. Gjöld.
                                  28. gr. Gjöld.
   Eigandi skips skal greiða árlega í ríkissjóð sérstakt gjald, skipagjald, af
-hverju skipi sem skráð er á aðalskipaskrá eins og hér segir:    Skráningarlengd
-                       skips [hfill] Árlegt gjald (í kr.)
-                                [lt] 8 metrar 6.250
-                                815 metrar 11.200
-                                1524 metrar 25.000
-                                2445 metrar 49.600
-                                4560 metrar 81.900
-                              [geq] 60 metrar 108.400
+          hverju skipi sem skráð er á aðalskipaskrá eins og hér segir:
+
+Skráningarlengd skips                    Árlegt gjald (í kr.)
+< 8 metrar                               6.250
+815 metrar                              11.200
+1524 metrar                             25.000
+2445 metrar                             49.600
+4560 metrar                             81.900
+>= 60 metrar                             108.400
+
 Gjöldin skulu miðuð við skráningu 1. janúar ár hvert og er gjalddagi og eindagi
   þeirra sá sami, 1. apríl ár hvert. Við eigendaskipti ber hinn fyrri eigandi
              ábyrgð á gjaldinu þar til umskráning hefur farið fram.

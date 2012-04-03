@@ -10,7 +10,8 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. júlí 2008. Breytt með l. 34/2009 (tóku gildi 8. apríl 2009), [1]l.
-  35/2009 (tóku gildi 8. apríl 2009) og l. 38/2009 (tóku gildi 8. apríl 2009).
+ 35/2009 (tóku gildi 8. apríl 2009), l. 38/2009 (tóku gildi 8. apríl 2009), l.
+ 91/2011 (tóku gildi 1. júlí 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
            I. kafli. Gildissvið, hlutverk grunnskóla og skólaskylda.
                                1. gr. Gildissvið.
@@ -44,15 +45,16 @@ Foreldrar gæta hagsmuna barna sinna á skólaskyldualdri. Foreldrar samkvæmt l
 
                       II. kafli. Stjórnskipan grunnskóla.
                                4. gr. Yfirstjórn.
-  Menntamálaráðherra fer með yfirstjórn þeirra málefna sem lög þessi taka til,
- setur grunnskólum aðalnámskrá, leggur grunnskólum til námsgögn, hefur eftirlit
-  með gæðum skólastarfs, annast öflun, greiningu og miðlun upplýsinga, styður
+ [Ráðherra]^1) fer með yfirstjórn þeirra málefna sem lög þessi taka til, setur
+  grunnskólum aðalnámskrá, leggur grunnskólum til námsgögn, hefur eftirlit með
+    gæðum skólastarfs, annast öflun, greiningu og miðlun upplýsinga, styður
 þróunarstarf í skólum og hefur úrskurðarvald í ágreiningsmálum eftir því sem lög
-  þessi kveða á um. Menntamálaráðuneyti hefur eftirlit með því að sveitarfélög
- uppfylli þær skyldur sem lög þessi, reglugerðir og reglur settar samkvæmt þeim
-og aðalnámskrá grunnskóla kveða á um. Ráðherra skal á þriggja ára fresti leggja
+þessi kveða á um. [Ráðuneyti]^1) hefur eftirlit með því að sveitarfélög uppfylli
+    þær skyldur sem lög þessi, reglugerðir og reglur settar samkvæmt þeim og
+  aðalnámskrá grunnskóla kveða á um. Ráðherra skal á þriggja ára fresti leggja
    fram á Alþingi skýrslu um framkvæmd skólastarfs í grunnskólum landsins sem
         byggist m.a. á skýrslum sveitarfélaga um skólahald skv. 37. gr.
+                               ^1)L. 91/2011, 1. gr.
                               5. gr. Sveitarfélög.
  Rekstur almennra grunnskóla er á ábyrgð og kostnað sveitarfélaga. Sveitarfélög
   bera ábyrgð á heildarskipan skólahalds í grunnskólum sveitarfélagsins, þróun
@@ -66,15 +68,24 @@ og aðalnámskrá grunnskóla kveða á um. Ráðherra skal á þriggja ára fre
 Sveitarfélögum er skylt að sjá til þess að skólaskyld börn skv. 3. gr., sem eiga
   lögheimili í sveitarfélaginu, og börn sem hefur verið ráðstafað í fóstur til
  fósturforeldra, sem eiga lögheimili í sveitarfélaginu, njóti skólavistar eftir
-                      því sem nánar segir í lögum þessum.
+ því sem nánar segir í lögum þessum. [Áður en barni er ráðstafað í fóstur skal
+ barnaverndarnefnd kanna aðstæður í samráði við skólayfirvöld á viðkomandi stað
+og leggja mat á möguleika viðkomandi grunnskóla til að koma til móts við þarfir
+                                 barnsins.]^1)
 Liggi ekki fyrir ákvörðun stjórnvalds um lögheimili barns kveður sveitarstjórn á
   um skólaskyldu þess, enda búi barnið í sveitarfélaginu og leitað hafi verið
   eftir innritun þess í skóla, sbr. 19. gr. Synjun sveitarstjórnar er kæranleg
-    eftir fyrirmælum 47. gr. Í úrskurði getur menntamálaráðuneyti lagt fyrir
+      eftir fyrirmælum 47. gr. Í úrskurði getur [ráðuneytið]^2) lagt fyrir
         sveitarfélag að tryggja barni skólavist innan sveitarfélagsins.
  Sveitarstjórn í sveitarfélagi þar sem barn á lögheimili getur samið við annað
  sveitarfélag um að veita barninu skólavist þannig að viðtökusveitarfélag hafi
         sömu skyldur gagnvart skólavist þess og ætti það lögheimili þar.
+ [Ráðherra setur reglugerð um framkvæmd þessarar greinar í samráði við Samband
+íslenskra sveitarfélaga, Barnaverndarstofu og önnur stjórnvöld þar sem m.a. skal
+   kveðið á um skólagöngu fósturbarna, bæði fagleg og fjárhagsleg málefni og
+    samstarf aðila. Úrskurðarnefnd skipuð fulltrúum frá ráðuneyti, Sambandi
+   íslenskra sveitarfélaga og Barnaverndarstofu sker úr um ágreiningsmál.]^1)
+                  ^1)L. 91/2011, 2. gr. ^2)L. 126/2011, 492. gr.
                                6. gr. Skólanefnd.
 Í hverju sveitarfélagi skal í umboði sveitarstjórnar vera skólanefnd sem fer með
 málefni grunnskóla eftir því sem lög og reglugerðir ákveða og sveitarstjórn eða
@@ -134,10 +145,14 @@ Skólaráð skal skipað níu einstaklingum til tveggja ára í senn, tveimur fu
    starfi skólaráðs og ber ábyrgð á stofnun þess. Skólaráð velur að auki einn
  fulltrúa grenndarsamfélags til að sitja í ráðinu eða viðbótarfulltrúa úr hópi
  foreldra. Auk þess skal skólastjóri boða til sameiginlegs fundar skólaráðs og
-              stjórnar nemendafélags að lágmarki einu sinni á ári.
-    Ráðherra setur reglugerð^1) um starfsemi skólaráða í samráði við samtök
+stjórnar nemendafélags að lágmarki einu sinni á ári. [Heimilt er, með rökstuddri
+ greinargerð, að sækja tímabundið um undanþágu frá ákvæði þessarar málsgreinar
+   til ráðuneytis. Í greinargerð þarf að koma fram með hvaða hætti verkefnum
+ skólaráðs verði sinnt. Gildar ástæður þurfa að vera fyrir veitingu undanþágu,
+                       svo sem fámenni eða sérstaða.]^1)
+    Ráðherra setur reglugerð^2) um starfsemi skólaráða í samráði við samtök
                       sveitarfélaga, kennara og foreldra.
-                                 ^1)Rg. 1157/2008.
+                      ^1)L. 91/2011, 3. gr. ^2)Rg. 1157/2008.
                              9. gr. Foreldrafélag.
  Við grunnskóla skal starfa foreldrafélag. Skólastjóri er ábyrgur fyrir stofnun
 þess og sér til þess að félagið fái aðstoð eftir þörfum. Hlutverk foreldrafélags
@@ -311,7 +326,7 @@ og styðja við skólagöngu þeirra og námsframvindu og stuðla að því að 
 Eigi í hlut foreldrar sem ekki tala íslensku eða nota táknmál skal skóli leitast
     við að tryggja túlkun á upplýsingum sem nauðsynlegar eru vegna samskipta
                    foreldra og skóla samkvæmt þessari grein.
-                      ^1)Rg. 897/2009. ^2)L. 38/2009, 2. gr.
+               ^1)Rg. 897/2009, sbr. 657/2011. ^2)L. 38/2009, 2. gr.
                             19. gr. Ábyrgð foreldra.
       Foreldrar bera ábyrgð á námi barna sinna og ber þeim að fylgjast með
 námsframvindu þeirra í samvinnu við þau og kennara þeirra. Foreldrar skólaskylds
@@ -321,17 +336,22 @@ barns bera ábyrgð á að það innritist í skóla þegar það kemst á skól
   ákvörðun um úrbætur. Jafnframt skal hann tilkynna barnaverndaryfirvöldum um
   málið. Skólastjóri skal fara að ákvæðum stjórnsýslulaga við meðferð málsins.
                  Ákvörðun er kæranleg eftir fyrirmælum 47. gr.
-Í úrskurði getur menntamálaráðuneyti lagt fyrir sveitarfélag að tryggja nemanda
+   Í úrskurði getur [ráðuneyti]^1) lagt fyrir sveitarfélag að tryggja nemanda
  tiltekin kennsluúrræði, þ.m.t. að veita honum aðgang að tilteknum skóla innan
                                sveitarfélagsins.
+                               ^1)L. 91/2011, 1. gr.
 
                VI. kafli. Skólahúsnæði og aðstaða í grunnskólum.
-                            20. gr. Skólamannvirki.
+                           20. gr. [Skólahúsnæði.]^1)
  Gerð skólamannvirkja er undirbúin af sveitarstjórn í samráði við skólanefnd og
 skólaráð. Stofnkostnaður grunnskóla á vegum sveitarfélaga greiðist af viðkomandi
   sveitarfélagi. Sveitarfélög annast einnig og kosta viðhald skólahúsnæðis og
  endurnýjun og viðhald búnaðar þess. Gert skal sérstaklega ráð fyrir rými fyrir
       sérfræðiþjónustu við börn með sérþarfir og vinnuaðstöðu starfsfólks.
+[Í öllum grunnskólum skal gera ráð fyrir skólasafni eða tryggja með öðrum hætti
+  aðgang nemenda að þjónustu slíks safns sem skal vera upplýsingamiðstöð fyrir
+nemendur og kennara. Það skal búið bókum og nýsigögnum auk annars safnkosts sem
+         tengist námsgreinum og námssviðum aðalnámskrár grunnskóla.]^1)
 Grunnskólahúsnæði og skólalóðir skulu uppfylla þær kröfur sem gerðar eru í lögum
     þessum, lögum um vinnuvernd og aðalnámskrá grunnskóla. Húsnæði og allur
     aðbúnaður skal taka mið af því að tryggja öryggi og vellíðan nemenda og
@@ -339,10 +359,10 @@ Grunnskólahúsnæði og skólalóðir skulu uppfylla þær kröfur sem gerðar 
                                  loftræstingu.
 Við hönnun, byggingu og endurnýjun skólahúsnæðis skulu sveitarfélög hafa samráð
        við hagsmunaaðila skólasamfélagsins og aðila í grenndarsamfélagi.
-Ráðherra setur reglugerð^1) um húsnæði og búnað grunnskóla í samráði við Samband
+Ráðherra setur reglugerð^2) um húsnæði og búnað grunnskóla í samráði við Samband
      íslenskra sveitarfélaga þar sem nánar skal kveðið á um aðstöðu, búnað,
          slysavarnir og öryggismál í grunnskólahúsnæði og á skólalóðum.
-                                 ^1)Rg. 657/2009.
+                      ^1)L. 91/2011, 4. gr. ^2)Rg. 657/2009.
                         21. gr. Umsjón skólamannvirkja.
 Skólastjóri skal sjá um daglega umsjón skólamannvirkja samkvæmt nánari ákvörðun
                                 sveitarstjórnar.
@@ -364,9 +384,9 @@ Gjaldskrárákvarðanir samkvæmt þessari grein eru kæranlegar eftir fyrirmæl
 
     VII. kafli. Inntak náms, námsskipan, námsframboð, námsmat og starfstími.
                               24. gr. Aðalnámskrá.
-Ráðherra setur grunnskólum aðalnámskrá sem er endurskoðuð reglulega. Í henni er
-m.a. kveðið nánar á um uppeldishlutverk grunnskólans og meginstefnu í kennslu og
-  kennsluskipan í samræmi við hlutverk grunnskólans, sbr. 2. gr. Í aðalnámskrá
+Ráðherra setur grunnskólum aðalnámskrá^1) sem er endurskoðuð reglulega. Í henni
+er m.a. kveðið nánar á um uppeldishlutverk grunnskólans og meginstefnu í kennslu
+og kennsluskipan í samræmi við hlutverk grunnskólans, sbr. 2. gr. Í aðalnámskrá
                           skal m.a. leggja áherslu á:
         a. sjálfsvitund, siðgæðisvitund, félagsvitund og vitund nemenda um
                          borgaralega ábyrgð og skyldur,
@@ -393,6 +413,7 @@ Markmið náms og kennslu og starfshættir grunnskóla skulu vera þannig að ko
            trúarbragða, heilsufars, fötlunar eða stöðu að öðru leyti.
     Í öllu skólastarfi skal stuðla að heilbrigðum lífsháttum og taka mið af
       persónugerð, þroska, hæfileikum, getu og áhugasviðum hvers og eins.
+                                ^1)Augl. 760/2011.
                              25. gr. Markmið náms.
   Í aðalnámskrá skal kveðið á um meginmarkmið náms og kennslu, uppbyggingu og
 skipan náms, svo og hlutfallslega skiptingu tíma milli námssviða og námsgreina í
@@ -416,8 +437,11 @@ framhaldsskóla og hvernig skuli staðið að aðlögun og flutningi milli skól
 grunnskóla og skipulag skóla. Markmiðið með því er að gera nemendur ábyrga fyrir
  eigin námi og skapa sveigjanleika í skólastarfi. Hluti náms getur einnig verið
                                fjarnám og netnám.
-Í 8., 9. og 10. bekk skulu nemendur eiga kost á vali um námsgreinar og námssvið
-                           í um þriðjungi námstímans.
+   [Á unglingastigi, þ.e. í 8.10. bekk, skulu nemendur velja námsgreinar og
+námssvið í allt að fimmtung námstímans samkvæmt nánari viðmiðunum sem settar eru
+ í aðalnámskrá grunnskóla. Skólum er heimilt að skipuleggja mismunandi hlutfall
+     valtíma eftir árgöngum í 8.10. bekk og binda valið að hluta tilteknum
+                                námssviðum.]^1)
    Heimilt er að meta skipulagt nám sem stundað er utan grunnskóla, t.d. við
      tónlistarskóla, sem hluta af grunnskólanámi samkvæmt nánari útfærslu í
   aðalnámskrá grunnskóla. Stundi nemandi slíkt nám er viðkomandi sveitarstjórn
@@ -427,13 +451,15 @@ grunnskóla og skipulag skóla. Markmiðið með því er að gera nemendur áby
                  nám, enda falli það að markmiðum skólastarfs.
      Grunnskólanemendur eiga rétt á að stunda nám í einstökum námsgreinum á
 framhaldsskólastigi meðan þeir eru í grunnskóla enda hafi þeir sýnt fullnægjandi
-   færni. Skólastjóri í grunnskóla veitir nemanda heimild til slíks náms utan
+ færni.^2) Skólastjóri í grunnskóla veitir nemanda heimild til slíks náms utan
   skólans samkvæmt viðmiðum sem sett skulu í aðalnámskrá. Ákvörðun skólastjóra
            samkvæmt þessari málsgrein lýtur ákvæðum stjórnsýslulaga.
 Heimilt er að kæra synjun um mat á námi eða beitingu heimildar samkvæmt þessari
- grein eftir fyrirmælum 47. gr. Í úrskurði getur menntamálaráðuneyti lagt fyrir
+   grein eftir fyrirmælum 47. gr. Í úrskurði getur [ráðuneytið]^3) lagt fyrir
  skólastjóra grunnskóla að veita nemanda heimild til náms á framhaldsskólastigi
                                   skv. 4. mgr.
+   ^1)L. 91/2011, 5. gr. ^2)Sjá einnig l. 91/2011, brbákv. ^3)L. 126/2011, 492.
+                                      gr.
                                 27. gr. Námsmat.
     Mat á árangri og framförum nemenda er reglubundinn þáttur í skólastarfi.
  Tilgangur þess er að fylgjast með því hvernig nemendum tekst að mæta markmiðum
@@ -454,7 +480,7 @@ niðurstaða námsmats sæti endurskoðun innan grunnskólans. Slík endurskoðu
 grunnskólum og miðlun upplýsinga um námsmat vegna flutnings nemenda milli skóla
  og innritunar í framhaldsskóla og um rétt foreldra til þess að fá vitneskju um
                               slíkar upplýsingar.
-                                 ^1)Rg. 897/2009.
+                          ^1)Rg. 897/2009, sbr. 657/2011.
                               28. gr. Starfstími.
   Starfstími nemenda í grunnskóla skal á hverju skólaári vera að lágmarki níu
     mánuðir. Skóladagar nemenda skulu eigi vera færri en 180. Skipting milli
@@ -471,6 +497,9 @@ Við ákvörðun daglegs og vikulegs starfstíma nemenda í grunnskóla skal þe
  Heimilt er að víkja frá vikulegum lágmarkskennslutíma skv. 2. mgr. tímabundið,
    en nemendum skal þá tryggð viðbótarkennsla sem nemur frávikinu innan sama
                                    skólaárs.
+  [Sveitarstjórnum er heimilt að samræma tiltekna leyfisdaga innan skólaársins
+  fyrir alla skóla í sveitarfélaginu, að höfðu samráði við hagsmunaaðila.]^1)
+                               ^1)L. 91/2011, 6. gr.
                      29. gr. Skólanámskrá og starfsáætlun.
  Í hverjum grunnskóla skal gefa út skólanámskrá og starfsáætlun. Skólastjóri er
 ábyrgur fyrir gerð þeirra og skal semja þær í samráði við kennara. Skólanámskrá
@@ -488,12 +517,26 @@ Skólastjóri er ábyrgur fyrir útfærslu þessara ákvæða og einnig fyrir um
  skólanum og í skólaráði og að gera skólanefnd grein fyrir því með hvaða hætti
   áætlanir hafi staðist. Starfsáætlun og skólanámskrá skulu vera aðgengilegar
                         öllum aðilum skólasamfélagsins.
-                              30. gr. Skólareglur.
-Í hverjum grunnskóla skal setja skólareglur. Í skólareglum skal m.a. kveðið á um
-almenna umgengni, samskipti, stundvísi, ástundun náms og heilbrigðar lífsvenjur.
-  Í reglunum skal koma fram hvernig skólinn hyggst bregðast við brotum á þeim.
- Skólastjóri er ábyrgur fyrir gerð skólareglna og kynningu þeirra og skulu þær
-         unnar í samráði við skólaráð og fulltrúa nemenda í skólaráði.
+                             30. gr. [Skólabragur.
+ Öllum aðilum skólasamfélagsins ber að leggja sitt af mörkum til þess að stuðla
+             að og viðhalda góðum starfsanda og jákvæðum skólabrag.
+  Skólastjórum og kennurum ber að eiga samráð við foreldra um hegðun, líðan og
+samskipti barna þeirra. Foreldrum ber með sama hætti að eiga samráð við skólann
+ um skólagöngu barna sinna. Sama á við um aðra forsjáraðila barna í viðkomandi
+                                     skóla.
+  Grunnskólar skulu hafa heildstæða stefnu um það hvernig fyrirbyggja eigi að
+ líkamlegt, andlegt eða félagslegt ofbeldi eigi sér stað í skólastarfi. Skólar
+       skulu einnig hafa áætlun um framkvæmd tilkynningarskyldu samkvæmt
+barnaverndarlögum, um hvernig brugðist er við tilvikum um einelti, annað ofbeldi
+og félagslega einangrun. Áætlun skal m.a. framfylgt með því að hver skóli setji
+     sér skólareglur. Í skólareglum skal m.a. kveðið á um almenna umgengni,
+    samskipti, stundvísi, ástundun náms og heilbrigðar lífsvenjur. Þá skal í
+    skólareglum koma fram hvernig skólinn hyggst bregðast við brotum á þeim.
+       Ráðherra er heimilt að mæla nánar fyrir um ábyrgð og skyldur aðila
+  skólasamfélagsins í reglugerð sem sett er sameiginlega á grundvelli þessarar
+   greinar og 14. gr. Þar skal m.a. mælt fyrir um starfrækslu fagráðs á vegum
+             ráðuneytisins er verði ráðgefandi í eineltismálum.]^1)
+                               ^1)L. 91/2011, 7. gr.
                         31. gr. Kostnaður í skyldunámi.
       Kennsla í skyldunámi í opinberum grunnskólum skal veitt nemendum að
 kostnaðarlausu og er óheimilt að krefja nemendur eða foreldra þeirra um greiðslu
@@ -507,13 +550,14 @@ nota í námi sínu og samrýmist ákvæðum laga þessara og aðalnámskrá. Sa
    eftir ákvæðum laga um framhaldsskóla. Sveitarfélög greiða þá kostnað vegna
   námsgagna og innritunar og eftir atvikum efnisgjald. Um nánari framkvæmd og
      fyrirkomulag skal samið milli hlutaðeigandi grunn- og framhaldsskóla.
- Menntamálaráðuneyti er skylt að leggja grunnskólum til námsgögn í samræmi við
+    [Ráðuneyti]^1) er skylt að leggja grunnskólum til námsgögn í samræmi við
       meginmarkmið náms og kennslu á grunnskólastigi samkvæmt aðalnámskrá.
     Óheimilt er að taka gjald af nemendum vegna ferðalaga sem flokkast undir
 vettvangsnám eða eru að öðru leyti hluti af skyldunámi nemenda. Þó er heimilt að
  taka gjald fyrir uppihald í námsferðum nemenda, að höfðu samráði við foreldra.
      Ákvarðanir um gjaldtöku samkvæmt þessari grein eru kæranlegar samkvæmt
                                fyrirmælum 47. gr.
+                               ^1)L. 91/2011, 1. gr.
                             32. gr. Lok grunnskóla.
  Er grunnskólanámi lýkur skal nemandi fá skírteini er votti að hann hafi lokið
 námi samkvæmt lögum þessum. Í skírteini skal skrá vitnisburð nemanda á lokaári í
@@ -537,12 +581,12 @@ félagsstarfi. Tómstunda- og félagsstarf getur bæði verið liður í daglegu
                           34. gr. Sprotasjóður skóla.
    Sprotasjóður skal styðja við þróun og nýjungar í skólastarfi í samræmi við
 stefnu stjórnvalda og aðalnámskrá. Til sjóðsins renna fjármunir sem veittir eru
-á fjárlögum hverju sinni. Menntamálaráðuneyti hefur umsjón með sjóðnum og setur
-  reglugerð^1) um styrkveitingar. Sjóðurinn er sameiginlegur fyrir leikskóla,
+   á fjárlögum hverju sinni. [Ráðuneyti]^1) hefur umsjón með sjóðnum og setur
+  reglugerð^2) um styrkveitingar. Sjóðurinn er sameiginlegur fyrir leikskóla,
                          grunnskóla og framhaldsskóla.
  Í reglugerð er heimilt að fela stofnun á vegum ráðuneytisins eða öðrum þar til
         bærum aðila umsjón með sjóðnum og að annast úthlutanir úr honum.
-                                 ^1)Rg. 242/2009.
+                      ^1)L. 91/2011, 1. gr. ^2)Rg. 242/2009.
 
             VIII. kafli. Mat og eftirlit með gæðum grunnskólastarfs.
                                 35. gr. Markmið.
@@ -566,21 +610,20 @@ stefnu stjórnvalda og aðalnámskrá. Til sjóðsins renna fjármunir sem veitt
   ytra mat sveitarfélaga, framgang skólastefnu sinnar og áætlanir um umbætur.
 Sveitarfélög skulu fylgja eftir innra og ytra mati þannig að slíkt mat leiði til
                              umbóta í skólastarfi.
-                     38. gr. Ytra mat menntamálaráðuneytis.
-    Menntamálaráðuneyti annast greiningu og miðlun upplýsinga um skólahald í
-   grunnskólum á grundvelli upplýsinga frá sveitarfélögum skv. 37. gr. og með
-                            sjálfstæðri gagnaöflun.
-  Menntamálaráðuneyti gerir áætlun til þriggja ára um kannanir og úttektir sem
-   miða að því að veita upplýsingar um framkvæmd laga þessara og aðalnámskrár
-  grunnskóla og aðra þætti skólastarfs. Menntamálaráðuneyti skipuleggur einnig
-            þátttöku í alþjóðlegum mennta- og samanburðarrannsóknum.
-      Ráðherra setur reglugerð^1) um innra og ytra mat og upplýsingaskyldu
+                      38. gr. Ytra mat [ráðuneytisins].^1)
+[Ráðuneyti]^2) annast greiningu og miðlun upplýsinga um skólahald í grunnskólum
+   á grundvelli upplýsinga frá sveitarfélögum skv. 37. gr. og með sjálfstæðri
+                                  gagnaöflun.
+[Ráðuneyti]^2) gerir áætlun til þriggja ára um kannanir og úttektir sem miða að
+því að veita upplýsingar um framkvæmd laga þessara og aðalnámskrár grunnskóla og
+aðra þætti skólastarfs. [Ráðuneyti]^2) skipuleggur einnig þátttöku í alþjóðlegum
+                       mennta- og samanburðarrannsóknum.
+      Ráðherra setur reglugerð^3) um innra og ytra mat og upplýsingaskyldu
       sveitarfélaga að höfðu samráði við Samband íslenskra sveitarfélaga.
-                                 ^1)Rg. 658/2009.
+          ^1)L. 126/2011, 492. gr. ^2)L. 91/2011, 1. gr. ^3)Rg. 658/2009.
                             39. gr. Samræmt námsmat.
-   Menntamálaráðuneyti stendur fyrir samræmdu námsmati í grunnskólum, leggur
- grunnskólum í því skyni til samræmd könnunarpróf og annast framkvæmd samræmds
-                                   námsmats.
+[Ráðuneyti]^1) stendur fyrir samræmdu námsmati í grunnskólum, leggur grunnskólum
+  í því skyni til samræmd könnunarpróf og annast framkvæmd samræmds námsmats.
  Samræmd könnunarpróf í íslensku og stærðfræði skulu lögð fyrir alla nemendur í
    4. og 7. bekk grunnskóla. Nemendur í fyrri hluta 10. bekkjar skulu þreyta
   samræmd könnunarpróf í íslensku, stærðfræði og ensku. Önnur próf skal halda
@@ -590,10 +633,10 @@ Sveitarfélög skulu fylgja eftir innra og ytra mati þannig að slíkt mat lei�
                   einstökum prófgreinum 4., 7. og 10. bekkjar.
 Námsmatsstofnun eða annar til þess bær aðili, sem ráðherra ákveður, hefur umsjón
     með gerð og framkvæmd samræmds námsmats og prófa samkvæmt grein þessari.
-    Ráðherra setur í reglugerð^1) nánari ákvæði um fyrirkomulag og framkvæmd
+    Ráðherra setur í reglugerð^2) nánari ákvæði um fyrirkomulag og framkvæmd
  samræmds námsmats, prófa og rannsókna í grunnskólum og undanþágur nemenda frá
                    samræmdu námsmati, samkvæmt þessari grein.
-                          ^1)Rg. 435/2009, sbr. 662/2009.
+               ^1)L. 91/2011, 1. gr. ^2)Rg. 435/2009, sbr. 662/2009.
 
               IX. kafli. Sérfræðiþjónusta og stoðkerfi grunnskóla.
                 40. gr. Skipulag og framkvæmd sérfræðiþjónustu.
@@ -617,7 +660,10 @@ Námsmatsstofnun eða annar til þess bær aðili, sem ráðherra ákveður, hef
  einstakra nemenda er lúta að sérfræðiþjónustu, námsráðgjöf og skólaheilsugæslu
       með stofnun nemendaverndarráðs. Jafnframt skal stuðla að samráði við
   félagsþjónustu sveitarfélags og barnaverndaryfirvöld vegna málefna einstakra
-                       nemenda eftir því sem þurfa þykir.
+ nemenda eftir því sem þurfa þykir. [Heimilt er, með rökstuddri greinargerð, að
+       sækja um tímabundna undanþágu frá einstökum ákvæðum í reglugerð um
+ nemendaverndarráð til ráðuneytis. Gildar ástæður þurfa að vera fyrir veitingu
+                  undanþágu, svo sem fámenni eða sérstaða.]^1)
        Sveitarfélög sem reka grunnskóla skulu hafa frumkvæði að samstarfi
  sérfræðiþjónustu, félagsþjónustu, barnaverndaryfirvalda og heilbrigðisþjónustu
     innan sveitarfélagsins vegna nemenda með sérþarfir og langvinn veikindi.
@@ -627,12 +673,12 @@ Sveitarfélög skulu einnig hafa frumkvæði að samstarfi sérfræðiþjónustu
  Við framkvæmd sérfræðiþjónustu skulu sveitarfélög leggja áherslu á góð tengsl
      leikskóla, grunnskóla og framhaldsskóla með samfellu í skólastarfi að
                                   leiðarljósi.
-Ráðherra setur reglugerð^1) um sérfræðiþjónustu og starfsemi nemendaverndarráða
+Ráðherra setur reglugerð^2) um sérfræðiþjónustu og starfsemi nemendaverndarráða
                  í samráði við Samband íslenskra sveitarfélaga.
  Sé foreldri synjað um beiðni um greiningu skv. 3. mgr. verður sú ákvörðun kærð
     samkvæmt fyrirmælum 47. gr. Ráðuneytið getur í úrskurði mælt fyrir um að
  tilteknum nemanda skuli veitt greining í samræmi við ákvæði þessarar greinar.
-                          ^1)Rg. 584/2010, sbr. 986/2010.
+               ^1)L. 91/2011, 8. gr. ^2)Rg. 584/2010, sbr. 986/2010.
                            41. gr. Skólaheilsugæsla.
          Um skólaheilsugæslu í grunnskólum fer eftir gildandi lögum um
  heilbrigðisþjónustu. Um skipulag og fyrirkomulag skólaheilsugæslu í grunnskóla
@@ -656,11 +702,22 @@ Ráðherra setur reglugerð^1) um sérfræðiþjónustu og starfsemi nemendavern
 Ráðherra er heimilt að viðurkenna grunnskóla eða hluta grunnskóla, sbr. 1. gr.,
   sem reknir eru af öðrum en sveitarfélögum í formi sjálfseignarstofnunar eða
    hlutafélags eða samkvæmt öðru viðurkenndu rekstrarformi, enda liggi fyrir
-    samþykki sveitarfélags um stofnun skólans. Heimilt er að binda samþykki
-sveitarfélags við ákveðinn hámarksfjölda nemenda. Um slíka grunnskóla gilda sömu
-  lög og reglur og um grunnskóla skv. 1. gr., eftir því sem við á. Þar á meðal
-skal af hálfu viðkomandi skóla fylgt ákvæðum stjórnsýslulaga við töku ákvarðana
- sem kæranlegar eru skv. 47. gr. Það á þó ekki við um ákvarðanir um gjaldtöku.
+ samþykki sveitarfélags um stofnun skólans [og framlög til hans].^1) Heimilt er
+ að binda samþykki sveitarfélags við ákveðinn hámarksfjölda nemenda [og nánari
+útfærslu á atriðum í þjónustusamningi skv. 2. mgr.]^1) Um slíka grunnskóla gilda
+  sömu lög og reglur og um grunnskóla skv. 1. gr., eftir því sem við á. Þar á
+  meðal skal af hálfu viðkomandi skóla fylgt ákvæðum stjórnsýslulaga við töku
+  ákvarðana sem kæranlegar eru skv. 47. gr. Það á þó ekki við um ákvarðanir um
+                                   gjaldtöku.
+ [Sveitarfélög skulu gera þjónustusamninga við grunnskóla sem falla undir þessa
+grein. Í samningi skulu koma fram atriði er varða áherslur í starfsemi skólans,
+   mat og eftirlit með gæðum, fjárhagsleg samskipti og atriði sem varða gildi
+samnings, þar á meðal um reynslutíma. Þá skal í samningi tekin afstaða til þess
+ hvort rekstraraðili hafi heimild til gjaldtöku af foreldrum og að hvaða marki
+    heimildin tekur til kennslu og skólamáltíða. Enn fremur skal gengið frá
+    fyrirkomulagi sérfræðiþjónustu og skólaaksturs, ef við á. Grunnskóli með
+    viðurkenningu ráðuneytisins á rétt á því að sveitarstjórn geri við hann
+                              þjónustusamning.]^1)
    Grunnskólar sem hljóta viðurkenningu skv. 1. mgr. eiga rétt á framlagi úr
    sveitarsjóði til starfsemi sinnar vegna nemenda sem hafa lögheimili í því
   sveitarfélagi sem skólinn starfar í. Skal framlagið nema að lágmarki 75% af
@@ -670,12 +727,15 @@ skal af hálfu viðkomandi skóla fylgt ákvæðum stjórnsýslulaga við töku 
   framlagið skal vera að lágmarki 70% fyrir hvern nemanda umfram þann fjölda.
  Útreikningur Hagstofu Íslands á kostnaði samkvæmt þessari málsgrein skal taka
                            mið af verðlagsbreytingum.
-   Ráðherra er heimilt að setja reglugerð^1) um framkvæmd þessarar greinar í
+   Ráðherra er heimilt að setja reglugerð^2) um framkvæmd þessarar greinar í
   samráði við Samband íslenskra sveitarfélaga og Hagstofu Íslands. Í reglugerð
  skal m.a. kveðið nánar á um skilyrði fyrir viðurkenningu, hvernig staðið verði
-að veitingu hennar, upplýsingagjöf til sveitarfélaga og ráðuneytis, eftirlit með
-                    starfsemi og afturköllun viðurkenningar.
-                                 ^1)Rg. 980/2009.
+       að veitingu hennar, [form og efni þjónustusamninga, þ.m.t. meðferð
+        rekstrarafgangs af starfsemi skólans sem rekja má til opinberra
+ fjárveitinga],^1) upplýsingagjöf til sveitarfélaga og ráðuneytis, eftirlit með
+starfsemi, [afturköllun viðurkenningar og riftun þjónustusamnings vegna vanefnda
+                              á ákvæðum hans].^1)
+                      ^1)L. 91/2011, 9. gr. ^2)Rg. 980/2009.
                              44. gr. Þróunarskólar.
 Ráðherra getur veitt sveitarfélögum og sjálfstætt reknum grunnskólum heimild til
    að reka þróunarskóla eða gera tilraunir með ákveðna þætti skólastarfs með
@@ -718,12 +778,12 @@ sveitarfélags. Skólastjóri getur veitt undanþágu að höfðu samráði við
  skv. 3. gr., en skulu lúta eftirliti og reglulegu mati og þreyta könnunarpróf
                              samkvæmt lögum þessum.
    Ákvörðun sveitarstjórnar skv. 2. mgr. er kæranleg eftir fyrirmælum 47. gr.
-  Menntamálaráðuneytið getur í úrskurði sínum lagt fyrir sveitarfélag að veita
-                      foreldrum barns heimild skv. 2. mgr.
-  Ráðherra setur reglugerð^1) um skilyrði til heimakennslu á grunnskólastigi.
- Sveitarfélög skulu tilkynna ráðuneytinu um veitingu heimildar samkvæmt þessari
-                                     grein.
-                                 ^1)Rg. 531/2009.
+[Ráðuneyti]^1) getur í úrskurði sínum lagt fyrir sveitarfélag að veita foreldrum
+                           barns heimild skv. 2. mgr.
+ [Ráðherra setur reglugerð^2) um skilyrði til heimakennslu á grunnskólastigi og
+viðurkenningu grunnskóla samkvæmt þessari grein.]^3) Sveitarfélög skulu tilkynna
+           ráðuneytinu um veitingu heimildar samkvæmt þessari grein.
+           ^1)L. 91/2011, 1. gr. ^2)Rg. 531/2009. ^3)L. 91/2011, 10. gr.
 
                        XI. kafli. Meðferð ágreiningsmála.
                               47. gr. Kæruheimild.
@@ -776,9 +836,7 @@ Nú hafa sveitarfélög og viðsemjendur þeirra komið á fót sjóði, sbr. 2.
  66/1995, með síðari breytingum, skulu halda gildi sínu að svo miklu leyti sem
   þau stangast ekki á við lög þessi þar til nýjar reglugerðir, auglýsingar eða
                      önnur fyrirmæli hafa öðlast gildi.^1)
-      ^1)Sjá nú rg. 349/1995, rg. 387/1996, rg. 391/1996, augl. 437/1996, rg.
-709/1996, rg. 710/1996, augl. 163/1999, rg. 220/1999, rg. 270/2000, sjá og augl.
-                         793/2000; og augl. 1111/2006.
+                     ^1)Sjá nú rgl. 220/1999 og rg. 270/2000.
     IV. Skólanefndir sem kosnar hafa verið samkvæmt [7]lögum nr. 66/1995, um
                          grunnskóla, halda umboði sínu.
                                      V. ^1)

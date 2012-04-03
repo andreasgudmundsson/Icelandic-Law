@@ -1,12 +1,13 @@
 
    --------------------------------------------------------------------------
 
-                                   Raforkulög
+                                 Raforkulög^1)
 
                               2003 nr. 65 27. mars
 
    --------------------------------------------------------------------------
 
+   ^1)Lögunum var breytt með l. 131/2011. Breytingarnar taka gildi 1. jan. 2012.
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
     Tóku gildi 7. apríl 2003 en komu til framkvæmda 1. júlí sama ár, sjá þó
@@ -17,7 +18,10 @@
  framkvæmda skv. fyrirmælum í 12. gr.), l. 67/2008 (tóku gildi 12. júní 2008),
  [2]l. 88/2008 (tóku gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
  2008), l. 30/2009 (tóku gildi 4. apríl 2009), l. 142/2009 (tóku gildi 31. des.
-                2009) og l. 148/2010 (tóku gildi 29. des. 2010).
+ 2009), l. 148/2010 (tóku gildi 29. des. 2010), l. 19/2011 (tóku gildi 11. mars
+ 2011), [3]l. 36/2011 (tóku gildi 19. apríl 2011; EES-samningurinn: XX. viðauki
+ tilskipun 2000/60/EB, 2006/118/EB, 2008/105/EB, 2009/90/EB), l. 126/2011 (tóku
+        gildi 30. sept. 2011) og l. 131/2011 (taka gildi 1. jan. 2012).
 
                         I. kafli. Markmið og gildissvið.
                                 1. gr. Markmið.
@@ -46,11 +50,13 @@ Markmið laga þessara er að stuðla að þjóðhagslega hagkvæmu raforkukerfi
          svo sem fallvötn, jarðhiti, vindorka, sjávarföll og sólarorka.
      5. Flutningsfyrirtæki: Fyrirtæki sem stýrir rekstri flutningskerfisins og
                              annast kerfisstjórnun.
-    6. [Flutningskerfi: Raflínur og mannvirki þeim tengd sem nauðsynleg eru til
-   að flytja raforku frá virkjunum til stórnotenda og til dreifiveitna á þeim
-  afhendingarstöðum sem taldir eru upp í viðauka með lögum þessum. Það nær frá
- háspennuhlið stöðvarspenna virkjana sem tengjast því, sbr. 3. mgr. 5. gr., að
-          háspennuhlið aðveituspenna stórnotenda eða dreifiveitna.]^1)
+    6. [Flutningskerfi: Raflínur og mannvirki þeim tengd sem eru nauðsynleg til
+að flytja raforku frá virkjunum til stórnotenda og til dreifiveitna. Skil milli
+   virkjunar og flutningsfyrirtækis eru við innkomandi rofareit í tengivirki
+   flutningsfyrirtækisins. Vinnslufyrirtæki á því vélaspenni, eldingavara og
+   tengingu við tengivirki. Með sama hætti eru skil milli flutningsfyrirtækis
+ annars vegar og dreifiveitna/stórnotenda hins vegar við útgangandi rofareit í
+                     tengivirki flutningsfyrirtækisins.]^1)
     7. Flutningsvirki: Raflína og búnaður henni tengdur til flutnings raforku.
     [8. Neyðarsamstarf raforkukerfisins: Samvinnuvettvangur vinnslufyrirtækja,
   flutningsfyrirtækis, dreifiveitna, stórnotenda og opinberra aðila á Íslandi
@@ -71,12 +77,14 @@ stórnotendum. Nánar er kveðið á um starfsemina í samstarfsgrunni neyðarsa
  Tvær eða fleiri einingar sem mynda eðlilega heild og tengjast flutningskerfinu
        eða dreifikerfi gegnum sameiginleg tengivirki teljast ein virkjun.
             [16. ]^2) Raforkuviðskipti/viðskipti: Kaup og sala raforku.
-    [[17. ]^2) Stórnotandi: Notandi sem notar á einum stað a.m.k. 14 MW afl með
-               árlegum nýtingartíma 8.000 stundir eða meira.]^1)
+     [[17. ]^2) [Stórnotandi: Notandi sem notar innan þriggja ára á einum stað
+                         a.m.k. 80 GWst á ári.]^1)]^3)
           [18. ]^2) Sölufyrirtæki: Fyrirtæki sem selur raforku eða annast
             raforkuviðskipti, hvort sem er í heildsölu eða smásölu.
-   [[19. ]^2) Tekjumörk: Hámark leyfilegra árlegra tekna flutningsfyrirtækis og
-                     dreifiveitna til að mæta kostnaði.]^1)
+   [[19. ]^2) [Tekjumörk: Hámark leyfilegra árlegra tekna flutningsfyrirtækis og
+dreifiveitna til að mæta kostnaði. Þau skulu sett til fimm ára en uppfærð árlega
+ eftir á miðað við breytingar á viðmiðum tekjumarka eins og þau eru tilgreind í
+                             12. og 17. gr.]^1)]^3)
         [20. Vá: Atburður sem ógnar almannahag, öryggi fólks, mannvirkja og
   starfsemi, og kallar á að neyðarstjórnun verði gerð virk. Atburðurinn getur
    valdið stórfelldum truflunum á raforkuflutningi, framleiðslu eða dreifingu
@@ -89,7 +97,7 @@ stórnotendum. Nánar er kveðið á um starfsemina í samstarfsgrunni neyðarsa
                              fengið virkjunarleyfi.
      [24. ]^2) Virkjunarleyfi: Leyfi sem veitt er samkvæmt lögum þessum til að
                            reisa og reka raforkuver.
-                    ^1)L. 89/2004, 1. gr. ^2)L. 67/2008, 1. gr.
+         ^1)L. 19/2011, 1. gr. ^2)L. 67/2008, 1. gr. ^3)L. 89/2004, 1. gr.
 
                            II. kafli. Raforkuvinnsla.
                         4. gr. Veiting virkjunarleyfis.
@@ -118,10 +126,10 @@ um endurgjaldið né eignarnáms verið óskað innan 90 daga frá útgáfu leyf
  skilyrði er lúta að umhverfisvernd, landnýtingu og tæknilegri og fjárhagslegri
      getu virkjunarleyfishafa. Öll skilyrði skulu tilgreind í reglugerð.^1)
   [Tengja skal leyfisskylda virkjun flutningskerfinu, sbr. þó 2. mgr. 11. gr.
-Virkjanir sem eru 7 MW eða stærri skulu tengjast flutningskerfinu beint en minni
-       virkjunum er heimilt að tengjast því um dreifiveitu. Samningur við
+Virkjanir sem eru [10 MW]^2) eða stærri skulu tengjast flutningskerfinu beint en
+    minni virkjunum er heimilt að tengjast því um dreifiveitu. Samningur við
  flutningsfyrirtækið eða dreifiveitu á því dreifiveitusvæði sem virkjunin er á
-             skal liggja fyrir þegar sótt er um virkjunarleyfi.]^2)
+             skal liggja fyrir þegar sótt er um virkjunarleyfi.]^3)
 Leyfi fyrir vatnsaflsvirkjun getur verið bundið því skilyrði að samningar takist
 um samrekstur annarra vatnsaflsvirkjana og vatnsmiðlana á viðkomandi vatnasviði.
     Ef ekki nást samningar sker ráðherra úr ágreiningi og er úrskurður hans
@@ -133,7 +141,7 @@ nýtir sama vatnasvið eða jarðhitasvæði. Ráðherra er heimilt að endursko
    virkjunarleyfis með tilliti til þessa og bæta í það ákvæðum sem hann telur
    nauðsynleg til að tryggja heildarhagkvæmni í orkunýtingu vatnasviðsins eða
                                jarðhitasvæðisins.
-                      ^1)Rg. 1040/2005. ^2)L. 89/2004, 3. gr.
+           ^1)Rg. 1040/2005. ^2)L. 19/2011, 2. gr. ^3)L. 89/2004, 3. gr.
                           6. gr. Efni virkjunarleyfis.
                      Í virkjunarleyfi skal m.a. tilgreina:
                   1. Stærð virkjunar og afmörkun virkjunarsvæðis.
@@ -149,6 +157,12 @@ nýtir sama vatnasvið eða jarðhitasvæði. Ráðherra er heimilt að endursko
                                  lögum þessum.
  Heimilt er að kveða á um að virkjunarleyfi skuli endurskoðað að tilteknum tíma
      liðnum, enda hafi forsendur fyrir skilyrðum leyfisins breyst verulega.
+  [Ef sýnt er fram á með gögnum að umhverfismarkmið, sett á grundvelli laga um
+stjórn vatnamála, náist ekki er í sérstökum tilvikum heimilt að endurskoða leyfi
+  eða setja ný skilyrði vegna umhverfismarkmiða. Við ákvörðunina skal líta til
+  þess hvaða áhrif breytingin hefur á hagsmuni leyfishafa og til ávinnings og
+                   óhagræðis sem hún ylli að öðru leyti.]^1)
+                             ^1)[4]L. 36/2011, 32. gr.
                  7. gr. Starfsemi og skyldur vinnslufyrirtækis.
  Heimilt er vinnslufyrirtæki að stunda sérleyfisstarfsemi en óheimilt er því að
     niðurgreiða vinnsluna með sérleyfisstarfseminni eða starfsemi sem hefur
@@ -176,48 +190,54 @@ sambærilega stöðu. Vinnslufyrirtæki skulu í bókhaldi sínu halda reikningu
 flutningsfyrirtækinu rekstrarleyfi þar sem kveðið skal á um réttindi og skyldur
   þess. Heimilt er að kveða á um að leyfið skuli endurskoðað að tilteknum tíma
      liðnum, enda hafi forsendur fyrir skilyrðum þess breyst verulega.]^1)
-  [Flutningsfyrirtækið skal ávallt vera í meirihlutaeigu ríkis, sveitarfélaga
-          og/eða fyrirtækja sem alfarið eru í eigu þessara aðila.]^2)
-[Viðskiptavinir flutningsfyrirtækisins skulu vera dreifiveitur, stórnotendur og
-                                 virkjanir.]^1)
- Ráðherra skal beita sér fyrir stofnun fyrirtækis um rekstur flutningskerfisins
- meðal þeirra sem eiga flutningsvirki hér á landi við gildistöku laganna. Náist
- að stofna slíkt fyrirtæki gerir ráðherra samning við fyrirtækið um þau atriði
-sem greinir í 1. mgr. og tilnefnir það síðan sem flutningsfyrirtækið. Heimilt er
-                          að tímabinda slíkan samning.
- Takist ekki að stofna fyrirtæki skv. [3. mgr.]^1) skal stofna fyrirtæki í eigu
-      ríkisins til að annast rekstur flutningskerfisins og kerfisstjórnun.
+     [Flutningsfyrirtækið skal vera í beinni eigu íslenska ríkisins og/eða
+                               sveitarfélaga.]^2)
+ [Viðskiptavinir flutningsfyrirtækisins skulu vera dreifiveitur, stórnotendur,
+  virkjanir og þeir aðilar sem hafa leyfi samkvæmt lögum þessum til að stunda
+                           viðskipti með raforku.]^2)
+                                      ^2)
+                                      ^2)
  [Flutningsfyrirtækið má ekki stunda aðra starfsemi en þá sem því er nauðsynleg
-    til að geta rækt skyldur sínar samkvæmt lögum þessum eða samkvæmt öðrum
-   lögum.]^3) Því er þó heimilt að reka raforkumarkað, enda haldi fyrirtækið
-   reikningum vegna hans aðskildum frá reikningum vegna annarrar starfsemi í
-   bókhaldi. Flutningsfyrirtækið skal í bókhaldi sínu halda reikningum vegna
-     kerfisstjórnunar aðskildum frá reikningum vegna annarrar starfsemi. Um
+ til að geta rækt skyldur sínar samkvæmt lögum þessum eða samkvæmt öðrum lögum.
+                             Því er þó heimilt að:
+                              a. reka raforkumarkað,
+    b. eiga og reka fjarskiptakerfi sem því er nauðsynlegt vegna rekstursins og
+bjóða út umframflutningsgetu ef það hefur yfir slíkri flutningsgetu að ráða, svo
+                        fremi samkeppni sé ekki raskað,
+   c. selja út sérfræðiþekkingu fyrirtækisins ef eftir því er leitað, svo fremi
+                           samkeppni sé ekki raskað,
+    d. að fengnu leyfi Samkeppniseftirlitsins, skv. [5]15. gr. samkeppnislaga,
+    nr. 44/2005, að eiga hlut í, ásamt öðrum, fjarskiptafélagi sem hefur það
+  hlutverk að reka öryggisfjarskiptakerfi raforkukerfisins. Félaginu skal vera
+heimilt að bjóða út umframflutningsgetu, ef það hefur yfir slíkri flutningsgetu
+                að ráða, svo fremi sem samkeppni sé ekki raskað.
+   Fyrirtækinu ber að halda reikningum vegna þeirrar starfsemi sem getið er í
+    ac-lið aðskildum frá reikningum vegna annarrar starfsemi í bókhaldi. Um
          bókhaldslegan aðskilnað fer að öðru leyti skv. 41. gr. Stjórn
 flutningsfyrirtækisins skal vera sjálfstæð gagnvart öðrum fyrirtækjum sem stunda
-                      vinnslu, dreifingu eða sölu raforku.
+                    vinnslu, dreifingu eða sölu raforku.]^2)
   [Stjórnarmenn og fastráðnir starfsmenn flutningsfyrirtækis þess sem ráðherra
    veitir rekstrarleyfi skv. 1. mgr. skulu hafa réttindi og skyldur opinberra
-                               sýslunarmanna.]^4)
+                               sýslunarmanna.]^3)
   Fari flutningsfyrirtækið ekki að skilyrðum laga þessara, reglugerðum settum
-  samkvæmt þeim, skilyrðum samnings skv. [3. mgr.]^1) eða annarra samninga sem
-  tengjast honum skal ráðherra veita flutningsfyrirtækinu skriflega aðvörun og
-hæfilegan frest til úrbóta. Ef flutningsfyrirtækið sinnir ekki aðvörun ráðherra
-   innan tilgreindra tímamarka getur ráðherra endurskoðað samninginn eða rift
-                                     honum.
-    ^1)L. 89/2004, 4. gr. ^2)L. 58/2008, 3. gr. ^3)[3]L. 30/2008, 12. gr. ^4)L.
-                                149/2004, 1. gr.
+  samkvæmt þeim, skilyrðum samnings [um stofnun flutningsfyrirtækisins]^2) eða
+  annarra samninga sem tengjast honum skal ráðherra veita flutningsfyrirtækinu
+ skriflega aðvörun og hæfilegan frest til úrbóta. Ef flutningsfyrirtækið sinnir
+  ekki aðvörun ráðherra innan tilgreindra tímamarka getur ráðherra endurskoðað
+                           samninginn eða rift honum.
+     ^1)L. 89/2004, 4. gr. ^2)L. 19/2011, 3. gr. Ákvæði lokamálsliðar 1. mgr.
+   kemur til framkvæmda 1. jan. 2015 skv. 18. gr. s.l. ^3)L. 149/2004, 1. gr.
                      9. gr. Skyldur flutningsfyrirtækisins.
  Flutningsfyrirtækið skal byggja flutningskerfið upp á hagkvæman hátt að teknu
    tilliti til öryggis, skilvirkni, áreiðanleika afhendingar og gæða raforku.
          Fyrirtækið hefur eitt heimild til að reisa ný flutningsvirki.
-   Leyfi ráðherra þarf ef reisa á línur sem flytja raforku á 66 kV spennu eða
-   hærri. Ráðherra getur bundið leyfið skilyrðum er lúta að þeim atriðum sem
+Leyfi ráðherra þarf [fyrir nýjum raflínum]^1) sem flytja raforku á 66 kV spennu
+ eða hærri. Ráðherra getur bundið leyfið skilyrðum er lúta að þeim atriðum sem
     greinir í 1. mgr. auk skilyrða er lúta að umhverfisvernd og landnýtingu.
                   Í rekstri flutningskerfisins felst m.a. að:
     1. Tengja alla þá sem eftir því sækjast við flutningskerfið, enda uppfylli
     þeir tæknileg skilyrði fyrir því og greiði tengigjald samkvæmt ákvæðum í
-    gjaldskrá, sbr. 12. gr. Þó er heimilt að synja nýjum aðilum um aðgang að
+gjaldskrá, sbr. [12. gr. a].^1) Þó er heimilt að synja nýjum aðilum um aðgang að
    flutningskerfinu á grundvelli sjónarmiða um flutningsgetu, öryggi og gæði
                kerfisins. Synjun skal vera skrifleg og rökstudd.
                 2. Útvega rafmagn í stað þess sem tapast í kerfinu.
@@ -226,6 +246,9 @@ hæfilegan frest til úrbóta. Ef flutningsfyrirtækið sinnir ekki aðvörun r�
                    4. Tryggja áreiðanleika í rekstri kerfisins.
     5. Sjá til þess að fyrir liggi spá um raforkuþörf og áætlun um uppbyggingu
                               flutningskerfisins.
+    [6. Greiða þeim dreifiveitum bætur sem verða fyrir langvarandi skerðingu á
+     raforkuafhendingu. Kveðið skal á um fjárhæð bóta og bótaskyld tilvik í
+                                 reglugerð.]^1)
    Flutningsfyrirtækið ber ábyrgð á öruggri stýringu raforkukerfisins og skal
 tryggja öryggi og gæði við raforkuafhendingu. Í slíkri kerfisstjórnun felst m.a.
                                       að:
@@ -233,22 +256,22 @@ tryggja öryggi og gæði við raforkuafhendingu. Í slíkri kerfisstjórnun fel
      milli umsaminna kaupa og raforkunotkunar, sem og að gera samninga við
                        vinnslufyrirtæki í þessu sambandi.
           2. Tryggja nægjanlegt framboð reiðuafls við rekstur kerfisins.
-          3. [Samræma]^1) notkunarferla þar sem aflmæling fer ekki fram.
+          3. [Samræma]^2) notkunarferla þar sem aflmæling fer ekki fram.
     4. Mæla það rafmagn sem afhent er inn á og út af flutningskerfinu í samræmi
     við reglugerð þar að lútandi, halda utan um mælingar og skila gögnum til
        viðkomandi aðila svo að unnt sé að gera upp viðskipti með raforku.
      5. [Hafa tiltækar viðbragðsáætlanir og annast samræmingu neyðaraðgerða í
    flutningskerfinu, bregðast við í vá og ef einhver aðili að neyðarsamstarfi
- raforkukerfisins óskar þess og tryggja tengsl við yfirstjórn almannavarna.]^2)
+ raforkukerfisins óskar þess og tryggja tengsl við yfirstjórn almannavarna.]^3)
     [Flutningsfyrirtækinu er skylt að veita stjórnvöldum, viðskiptavinum og
    almenningi upplýsingar sem nauðsynlegar eru við mat á því hvort fyrirtækið
    fullnægi skyldum sínum við rekstur og kerfisstjórnun flutningskerfisins og
  tryggi jafnræði við flutning raforku. Rísi ágreiningur um hvort fyrirtækinu sé
 skylt að veita umbeðnar upplýsingar sker Orkustofnun úr. Úrskurður Orkustofnunar
-         í þessu efni sætir kæru til úrskurðarnefndar raforkumála.]^1)
+         í þessu efni sætir kæru til úrskurðarnefndar raforkumála.]^2)
     Flutningsfyrirtækið skal í samráði við raforkufyrirtæki setja reglur um
  kerfisstjórnunina sem ráðherra staðfestir. Í reglunum skal m.a. kveðið nánar á
-          um þau atriði sem tilgreind eru í [1.4. tölul.]^1) 4. mgr.
+          um þau atriði sem tilgreind eru í [1.4. tölul.]^2) 4. mgr.
          Flutningsfyrirtækið skal hafa aðgang að öllum upplýsingum hjá
 vinnslufyrirtækjum, dreifiveitum og raforkusölum sem nauðsynlegar eru til að það
                             geti rækt hlutverk sitt.
@@ -259,11 +282,11 @@ vinnslufyrirtækjum, dreifiveitum og raforkusölum sem nauðsynlegar eru til að
     eftirspurn ber flutningsfyrirtækinu að grípa til skömmtunar raforku til
      dreifiveitna og notenda. Við skömmtun skal gæta jafnræðis og byggja á
           málefnalegum sjónarmiðum sem nánar skulu útfærð í reglugerð.
-   [Ráðherra skal í reglugerð^3) setja nánari ákvæði um hlutverk og starfsemi
+   [Ráðherra skal í reglugerð^4) setja nánari ákvæði um hlutverk og starfsemi
  flutningsfyrirtækisins, kerfisstjórnun, notkunarferla og tengingu virkjana við
-                              flutningskerfið.]^1)
-    ^1)L. 89/2004, 5. gr. ^2)L. 67/2008, . gr. ^3)Rg. 513/2003. Rg. 1040/2005,
-                                 sbr. 161/2006.
+                              flutningskerfið.]^2)
+     ^1)L. 19/2011, 4. gr. ^2)L. 89/2004, 5. gr. ^3)L. 67/2008, 3. gr. ^4)Rg.
+                    513/2003. Rg. 1040/2005, sbr. 161/2006.
                        10. gr. Eigendur flutningsvirkja.
 [Eigendum flutningsvirkja sem falla undir 6. tölul. 3. gr. er skylt að selja eða
        leigja þau flutningsfyrirtækinu eða leggja þau fram sem hlutafé í
@@ -281,93 +304,167 @@ virkjum sínum til að tryggja öryggi og áreiðanleika flutninga um þau.]^1) 
                       ^1)L. 89/2004, 6. gr. ^2)Rg. 1040/2005.
                   11. gr. Flutningsvirki utan flutningskerfis.
                                       ^1)
- Sækja má um leyfi ráðherra til að reisa flutningsvirki og flytja raforku beint
-frá virkjun til notanda, enda telji flutningsfyrirtækið kerfið ekki anna þessum
-                   flutningum, sbr. 1. tölul. 3. mgr. 9. gr.
+    [Í sérstökum tilvikum má sækja um leyfi ráðherra til að reisa sjálfstætt
+  flutningsvirki og flytja raforku beint frá virkjun til notanda, enda tengist
+hvorki virkjun né notandi flutningskerfinu beint eða um dreifiveitu. Leita skal
+ umsagnar flutningsfyrirtækis og eftir atvikum viðkomandi dreifiveitu varðandi
+                  slíkar tengingar áður en leyfi er veitt.]^2)
   Ráðherra getur bundið leyfi skv. [2. mgr.]^1) sömu skilyrðum og greinir í 2.
  mgr. 9. gr. eigi viðkomandi línur að flytja raforku á 66 kV spennu eða hærri.
-                               ^1)L. 89/2004, 7. gr.
-                        12. gr. [Tekjumörk og gjaldskrá.
-   Orkustofnun skal setja flutningsfyrirtækinu tekjumörk vegna kostnaðar við
-    flutning á raforku til dreifiveitna annars vegar og vegna flutnings til
-stórnotenda hins vegar. Við setningu tekjumarka skal taka tillit til þess hvort
-tenging stórnotenda leiði eða hafi leitt til hagkvæmari uppbyggingar og nýtingar
-                        flutningskerfisins en ella væri.
+                    ^1)L. 89/2004, 7. gr. ^2)L. 19/2011, 5. gr.
+                   12. gr. [Tekjumörk flutningsfyrirtækisins.
+     Markmið með setningu tekjumarka er að hvetja til hagræðingar í rekstri
+ flutningsfyrirtækisins og tryggja að tekjur þess séu í samræmi við kostnað við
+ þá þjónustu sem því er falið að veita, að teknu tilliti til arðsemi. Til að ná
+  fram hagræðingu og skilvirkni í rekstri flutningsfyrirtækisins eru tekjumörk
+                     afmörkuð í tímabil, tekjumarkatímabil.
+Orkustofnun setur flutningsfyrirtækinu tekjumörk vegna kostnaðar við flutning á
+   raforku. Tekjumörk skulu vera tvískipt, þ.e. vegna flutnings á raforku til
+    dreifiveitna annars vegar og vegna flutnings til stórnotenda hins vegar.
+ Tekjumörk skulu ákveðin fyrir fram til fimm ára í senn og uppfærð árlega miðað
+ við breytingar á viðmiðum sem tilgreind eru í 3. mgr. Við setningu tekjumarka
+ skal taka tillit til kostnaðar vegna reksturs og fjárfestinga vegna flutnings
+     til dreifiveitna annars vegar og til stórnotenda hins vegar. Starfsemi
+    flutningsfyrirtækisins skv. 5. mgr. 8. gr., sem ekki er nauðsynleg vegna
+  rekstursins, er undanskilin við ákvörðun tekjumarka. Sama gildir um orkukaup
+         vegna tapa í flutningskerfinu og aðföng vegna kerfisþjónustu.
             Tekjumörkin skulu ákveðin út frá eftirfarandi viðmiðum:
-      1. Kostnaði sem tengist starfsemi fyrirtækisins, þ.m.t. kostnaði vegna
-viðhalds, afskrifta á nauðsynlegum eignum til reksturs kerfisins, leigukostnaði
-   vegna flutningsvirkja, kostnaði við orkutap, almennum rekstrarkostnaði og
-                          kostnaði við kerfisstjórnun.
-       2. [Arðsemi flutningsfyrirtækisins skal vera sem næst markaðsávöxtun
-óverðtryggðra ríkisskuldabréfa til fimm ára eða sambærilegra verðbréfa. Arðsemi
- reiknast sem hlutfall hagnaðar fyrir fjármunatekjur, fjármagnsgjöld og skatta
-    (EBIT) og bókfærðs verðs fastafjármuna sem nauðsynlegir eru til reksturs
-  kerfisins. Fastafjármunir þessir skulu vera þeir sem nýttir eru 31. desember
-       2004 og miðað við bókfært virði þann dag, ásamt nauðsynlegum nýjum
-    fastafjármunum, sem síðar kunna að koma til. Um heimild til uppfærslna á
-   bókfærðu verði fastafjármuna við útreikning tekjumarka vegna endurmats og
-              breytinga á verðlagi skal kveðið á í reglugerð.]^1)
-     3. Hagræðingarkröfu sem skal taka mið af eðlilegum kostnaði samkvæmt mati
-   Orkustofnunar að teknu tilliti til þeirrar þjónustu sem fyrirtækið veitir.
-   [Tekjumörk skulu ákveðin til þriggja ára í senn en endurskoðuð árlega. Við
-endurskoðun skal athugað hvort breytingar hafi orðið á forsendum sem lagðar voru
- til grundvallar við ákvörðun tekjumarka. Heimilt er að færa of- eða vanteknar
-tekjur milli ára. Í reglugerð skal kveðið á um takmörk heimilda til uppsöfnunar
-                                 réttinda.]^1)
+     1. Rekstrarkostnaði sem tengist flutningsstarfsemi fyrirtækisins, þ.m.t.
+     kostnaði vegna viðhalds, leigukostnaði vegna flutningsvirkja, almennum
+rekstrarkostnaði og kostnaði við kerfisstjórnun. Við ákvörðun rekstrarkostnaðar
+við setningu tekjumarka skal taka tillit til meðalrekstrarkostnaðar síðustu fimm
+  ára með eins árs töf að teknu tilliti til verðlagsbreytinga og áhrifa nýrra
+   stórra fjárfestinga á rekstrarkostnað flutningsfyrirtækisins. Þegar stórar
+  fjárfestingar bætast við fastafjármuni flutningsfyrirtækisins skal skipting
+rekstrarkostnaðar milli tekjumarka annars vegar fyrir stórnotendur og hins vegar
+  fyrir dreifiveitur uppfærð. Við setningu nýrra tekjumarka skal liggja fyrir
+  endurskoðuð skipting rekstrarkostnaðar á milli stórnotenda og dreifiveitna.
+    2. Arðsemi flutningsfyrirtækisins af flutningsstarfsemi skal vera sem næst
+     vegnum fjármagnskostnaði, að teknu tilliti til skatta og að frátöldum
+verðlagsbreytingum. Arðsemi til grundvallar tekjumörkum skal vera jöfn hlutfalli
+    milli annars vegar hagnaðar fyrir fjármunatekjur og fjármagnsgjöld en að
+ frádregnum sköttum (EBIT að frádregnum sköttum) og hins vegar bókfærðs virðis
+ fastafjármuna sem nauðsynlegir eru til reksturs flutningskerfisins auk 20% af
+tekjumörkum síðasta árs til að mæta kostnaði af veltufjármunum. Við mat á vegnum
+           fjármagnskostnaði skal m.a. taka tillit til rekstraráhættu
+ flutningsfyrirtækisins. Kveða skal nánar á um mat á vegnum fjármagnskostnaði í
+ reglugerð. Fastafjármunir þessir skulu vera þeir sem nýttir voru 31. desember
+      2004 og miðast við bókfært virði þann dag, ásamt nauðsynlegum nýjum
+ fastafjármunum sem hafa komið til eftir þann tíma eða síðar kunna að koma til,
+      afskriftum þeirra og endurmati eins og það er á hverjum tíma. Stærri
+   fjárfestingar skulu teljast til fastafjármuna frá þeim tíma sem þær fara í
+ notkun en minni fjárfestingar skulu taldar til fastafjármuna frá þeim tíma sem
+fjárfestingin á sér stað. Eignastofn vegna tekjumarka fyrir stóriðju skal vera í
+bandaríkjadölum. Eignir sem voru í eignagrunni 31. júlí 2007 skulu metnar miðað
+við virði og gengi þann dag. Þegar eignastofn vegna tekjumarka fyrir stóriðju er
+færður í krónur við uppgjör tekjumarka skal miðað við meðalgengi bandaríkjadals
+ fyrir uppgjörsárið. Skipting eignastofns á milli tekjumarka annars vegar fyrir
+stórnotendur og hins vegar fyrir dreifiveitur skal endurskoðuð eigi sjaldnar en
+á fimm ára fresti. Á grundvelli þessa töluliðar skal arðsemi ákvörðuð að fengnu
+ mati sérfróðra aðila. Við mat hinna sérfróðu aðila ber þeim að hafa samráð við
+   framleiðendur raforku, neytendur, stórnotendur, dreifiveitur og Landsnet.
+                  3. Afskriftum af fastafjármunum, sbr. 2. tölul.
+                                    4. Sköttum.
+ Náist ekki markmið þessara laga um skilvirkni í rekstri flutningsfyrirtækisins
+        með afmörkun tekjumarkatímabila er Orkustofnun heimilt að setja
+ flutningsfyrirtækinu hagræðingarkröfu fyrir nýtt tekjumarkatímabil, að fengnu
+mati sérfróðra aðila, eftir að flutningsfyrirtækinu hefur verið gefinn kostur á
+    að tjá sig um slíkar fyrirætlanir. Slík hagræðingarkrafa skal byggjast á
+  sjónarmiðum sem byggt er á í sambærilegum rekstri um hvað telst skilvirkni í
+     rekstri, studd af undangengnu hagrænu mati. Orkustofnun skal tilkynna
+ flutningsfyrirtækinu með tveggja mánaða fyrirvara ef framkvæma á slíkt mat og
+      skal því lokið eigi síðar en fjórum mánuðum fyrir upphaf viðkomandi
+                              tekjumarkatímabils.
+     Eigi síðar en 15. september árið áður en ný tekjumörk taka gildi skal
+       Orkustofnun setja tekjumörk fyrir flutningsfyrirtækið fyrir næsta
+                               tekjumarkatímabil.
+    Eigi síðar en 1. maí ár hvert skal flutningsfyrirtækið skila Orkustofnun
+   rekstrarupplýsingum vegna fyrra árs. Eigi síðar en 1. ágúst ár hvert skal
+    Orkustofnun skila uppfærðum tekjumörkum og uppgjöri vegna fyrra árs til
+   flutningsfyrirtækisins sem og viðeigandi rökstuðningi fyrir breytingum ef
+   einhverjar eru. Í uppgjöri tekjumarka við lok hvers árs skulu bornar saman
+                    rauntekjur og uppfærð tekjumörk ársins.
+ Heimilt er að færa of- eða vanteknar tekjur samkvæmt tekjumörkum milli ára við
+ árlegt uppgjör tekjumarka en uppsafnaðar of- eða vanteknar tekjur skulu aldrei
+ nema meira en 10% af uppfærðum tekjumörkum hvers uppgjörsárs. Komi í ljós við
+uppgjör tekjumarka að uppsafnaðar ofteknar tekjur eru umfram þessi mörk skal ná
+   hlutfallinu niður fyrir tilskilin mörk eigi síðar en fyrir lok næsta árs á
+ eftir. Óheimilt er að flytja vanteknar tekjur umfram framangreind viðmið milli
+                                      ára.
+Í reglugerð skal setja nánari ákvæði um tekjumörkin, m.a. um setningu þeirra og
+uppgjör, afskriftareglur, arðsemismarkmið, útreikning vegins fjármagnskostnaðar,
+    mat fastafjármuna, skiptingu eignagrunns og rekstrarkostnaðar, kröfur um
+hagræðingu og um mat sérfróðra aðila skv. 2. tölul. 3. mgr. og 4. mgr. Jafnframt
+    skal í reglugerð kveða á um með hvaða hætti tekið er tillit til almennra
+verðbreytinga og gengis gjaldmiðla, auk annarra atriða sem ákvæði þetta kveður á
+                                    um.]^1)
+                               ^1)L. 19/2011, 6. gr.
+                 [12. gr. a. Gjaldskrá flutningsfyrirtækisins.
   Flutningsfyrirtækið skal setja gjaldskrá vegna þjónustu sinnar í samræmi við
-    tekjumörk skv. 2. mgr. Gjaldskráin skal gilda annars vegar fyrir úttekt
-    dreifiveitna frá flutningskerfi og hins vegar fyrir úttekt stórnotenda.
-Gjaldskrá fyrir úttekt dreifiveitna frá flutningskerfi á afhendingarstöðum, sbr.
- 6. tölul. 3. gr., skal miðast við að raforka sé afhent á 66 kV spennu. Ef orka
- frá flutningskerfi er afhent á hærri spennu ber að lækka gjaldskrá með tilliti
-        til þess. Með sama hætti skal taka tillit til annars mismunar á
- afhendingarþjónustu við gjaldtöku fyrir úttekt á einstökum afhendingarstöðum.
-    [Gjaldtaka fyrir úttekt dreifiveitna frá flutningskerfi skal miðast við
-heildarmagn raforku sem flutt er til dreifiveitusvæðisins auk þess sem móttekið
-   er beint frá virkjun innan dreifiveitusvæðisins, sbr. þó 5. mgr. Ekki skal
-  greitt af notkun í einangruðum kerfum innan dreifiveitusvæða sem ekki njóta
-                       tengingar við flutningskerfið.]^1)
-  [Sama gjaldskrá skal vera fyrir innmötun virkjana á flutningskerfið. Þar sem
-virkjanir tengjast flutningskerfinu um dreifiveitu skal innmötunargjaldið renna
-    til dreifiveitunnar. Greiða skal úttektargjald vegna framleiðslu slíkrar
-              virkjunar til flutningsfyrirtækisins sem hér segir:
+    tekjumörk skv. 12. gr. Gjaldskráin skal gilda annars vegar fyrir úttekt
+dreifiveitna frá flutningskerfi og hins vegar fyrir úttekt stórnotenda sem skal
+                          ákvörðuð í bandaríkjadölum.
+   Byggt skal á því að verðlagning flutningsfyrirtækisins vegna flutnings til
+ dreifiveitna sé í samræmi við meðalkostnað að teknu tilliti til sjónarmiða um
+       arðsemi. Gjaldskrá fyrir úttekt dreifiveitna frá flutningskerfi á
+afhendingarstöðum, sbr. 6. tölul. 3. gr., skal miðast við að raforka sé afhent á
+  66 kV spennu. Ef orka frá flutningskerfi er afhent til dreifiveitna á hærri
+  spennu ber að lækka gjaldtöku með tilliti til þess. Með sama hætti skal taka
+      tillit til afhendingaröryggis við gjaldtöku fyrir úttekt á einstökum
+ afhendingarstöðum. Gjaldskrá fyrir úttekt dreifiveitna frá flutningskerfi skal
+ miðast við heildarmagn raforku sem flutt er til dreifiveitusvæðisins auk þess
+ sem móttekið er beint frá virkjun innan dreifiveitusvæðisins, sbr. þó 3. mgr.
+Ekki skal greitt af notkun í einangruðum kerfum innan dreifiveitusvæða sem ekki
+                      njóta tengingar við flutningskerfið.
+Greiða skal úttektargjald til flutningsfyrirtækisins vegna framleiðslu virkjana
+          sem tengjast flutningskerfinu um dreifiveitu sem hér segir:
     1. Vegna þeirrar orku sem framleidd er í virkjun sem er undir 1,42 MW skal
              ekki greiða úttektargjald til flutningsfyrirtækisins.
     2. Vegna orku sem framleidd er í virkjunum á stærðarbilinu 1,423,1 MW skal
   ekki greiða úttektargjald við neðri stærðarmörkin en síðan skal gjaldið fara
    hlutfallslega hækkandi þar til það nemur 60% fulls úttektargjalds við efri
                                     mörkin.
-          3. Vegna orku frá virkjun sem er 3,17 MW skal greiða 60% fulls
-                              úttektargjalds.]^2)
- Varaaflsstöðvar sem nýttar eru þegar truflanir koma upp í raforkukerfinu skulu
+         3. Vegna orku frá virkjun sem er 3,110 MW skal greiða 60% fulls
+                                úttektargjalds.
+ Varaaflsstöðvar sem eru nýttar þegar truflanir koma upp í raforkukerfinu skulu
                  undanþegnar greiðslum til flutningskerfisins.
- Tveimur mánuðum áður en gjaldskráin á að taka gildi skal hún send Orkustofnun.
- Telji stofnunin framlagða gjaldskrá brjóta í bága við ákvæði laga þessara eða
- reglugerða skal hún koma athugasemdum á framfæri við flutningsfyrirtækið innan
-sex vikna frá móttöku. Gjaldskráin tekur ekki gildi fyrr en bætt hefur verið úr
- að mati Orkustofnunar. Flutningsfyrirtækið skal birta gjaldskrána opinberlega.
-     [Krefjast skal greiðslu ef tenging nýrra virkjana eða stórnotenda við
-flutningskerfi veldur auknum tilkostnaði annarra notenda kerfisins.]^1) Með sama
+   Sé orka afhent beint til stórnotenda, frá virkjun sem nýtur tengingar við
+    flutningskerfið, án þess að orkan fari um flutningskerfið og án þess að
+   flutningskerfið taki þátt í kostnaði við tengingu notandans skal greiðsla
+ úttektargjalds til flutningskerfis nema 60% af úttektargjaldi til stórnotenda.
+Heimilt er að veita frekari afslátt af úttektargjaldi ef úttekt stórnotandans er
+  alfarið háð því að orkan komi frá virkjuninni. Í öllum tilvikum skal greiða
+    fyrir kerfisþjónustu samkvæmt gildandi gjaldskrá flutningsfyrirtækisins.
+  Notandi sem í framleiðslu sinni er algjörlega háður því að fá aðrar afurðir
+jarðhitavirkjunar en aðeins raforku getur óskað heimildar til beinnar tengingar
+ við virkjunina skv. 5. gr. enda þótt hann nái ekki stórnotendaviðmiðinu. Gjald
+                      fyrir úttekt þessa fer skv. 5. mgr.
+ Flutningsfyrirtækinu er heimilt að afhenda raforku til stórnotenda á 66 kV eða
+       lægri spennu enda standi sérstök gjaldtaka undir viðbótarkostnaði.
+ Flutningsfyrirtækið skal einnig setja gjaldskrá fyrir kerfisþjónustu og töp í
+       flutningskerfinu sem tekur mið af kostnaði ásamt hæfilegri þóknun.
+      Eigi síðar en sex vikum fyrir fyrirhugaða gildistöku skal gjaldskrá
+  flutningsfyrirtækisins send Orkustofnun. Telji stofnunin framlagða gjaldskrá
+brjóta í bága við ákvæði laga þessara eða reglugerða skal hún koma athugasemdum
+á framfæri við flutningsfyrirtækið innan þriggja vikna frá móttöku. Gjaldskráin
+      tekur ekki gildi fyrr en bætt hefur verið úr að mati Orkustofnunar.
+            Flutningsfyrirtækið skal birta gjaldskrána opinberlega.
+      Krefjast skal greiðslu ef tenging nýrra virkjana eða stórnotenda við
+  flutningskerfi veldur auknum tilkostnaði annarra notenda kerfisins. Með sama
  hætti skal taka tillit til þess ef tenging leiðir til hagkvæmari uppbyggingar
                         eða nýtingar flutningskerfisins.
-  [Komi í ljós að arðsemi flutningsfyrirtækisins síðastliðin þrjú ár nær ekki
-   helmingi af markaðsávöxtun óverðtryggðra ríkisskuldabréfa til fimm ára eða
-sambærilegra verðbréfa né heldur er hagnaður af rekstri fyrirtækisins skal taka
-tillit til þess við setningu tekjumarka og gerð gjaldskrár næsta árs. Sama á við
- komi í ljós að arðsemi flutningsfyrirtækisins síðastliðin þrjú ár er meira en
-                        þriðjungi yfir sömu ávöxtun.]^1)
-   Í reglugerð^3) skal setja nánari ákvæði um tekjumörk, viðskiptaskilmála og
-gjaldskrá, m.a. um notkunarferla, afskriftareglur, arðsemismarkmið og kröfur um
-   hagræðingu. Jafnframt skal í reglugerð kveða á um með hvaða hætti tekið er
-                     tillit til almennra verðbreytinga.]^4)
-   ^1)L. 149/2004, 2. gr. ^2)L. 67/2008, 4. gr. ^3)Rg. 1040/2005, sbr. 322/2006
-                       og 364/2008. ^4)L. 89/2004, 8. gr.
+ Í reglugerð skal setja nánari ákvæði um gjaldskrá auk þeirra atriða sem ákvæði
+                             þetta kveður á um.]^1)
+                               ^1)L. 19/2011, 7. gr.
 
                               IV. kafli. Dreifing.
                         13. gr. Sérleyfi til dreifingar.
 Leyfi ráðherra þarf til að reisa og reka dreifikerfi á tilteknu dreifiveitusvæði
    og til að hætta slíkum rekstri. Í leyfinu felst einkaréttur og skylda til
-                         dreifingar á viðkomandi svæði.
+      dreifingar á viðkomandi svæði. [Þó er flutningsfyrirtæki heimilt að
+   flytja/dreifa rafmagni á sérleyfissvæði dreifiveitu til stórnotenda sem fá
+                 raforku afhenta á lægri spennu en 132 kV.]^1)
+                               ^1)L. 19/2011, 8. gr.
                           14. gr. Skilyrði sérleyfis.
   Dreifiveita skal vera sjálfstæður skatt- og lögaðili. [Dreifiveitu, þar sem
  fjöldi íbúa á dreifiveitusvæðum veitunnar er 10.000 eða fleiri, er óheimilt að
@@ -433,50 +530,98 @@ tæknileg skilyrði fyrir því og greiði tengigjald sem skal tilgreint í gjal
     7. Gæta jafnræðis við starfrækslu sína og trúnaðar um upplýsingar er varða
 viðskiptahagsmuni notenda og aðrar þær upplýsingar sem sanngjarnt er og eðlilegt
                                  að leynt fari.
+      [8. Greiða þeim notendum bætur sem verða fyrir langvarandi skerðingu á
+     raforkuafhendingu. Kveðið skal á um fjárhæð bóta og bótaskyld tilvik í
+                                 reglugerð.]^2)
      Dreifiveita getur krafist þess að notkun einstakra notenda sé mæld með
 samfelldri aflmælingu á kostnað notanda ef notkun samræmist ekki notkunarferlum
    eða umfang notkunar er mikið. Notendur og sölufyrirtæki geta farið fram á
             samfellda aflmælingu, enda greiði þeir kostnað af henni.
    [Dreifiveitur skulu hafa tiltækar viðbragðsáætlanir við vá og taka þátt í
-               neyðarsamstarfi raforkukerfisins þegar við á.]^2)
+               neyðarsamstarfi raforkukerfisins þegar við á.]^3)
  Ef ófyrirséð og óviðráðanleg atvik valda því að framboð raforku fullnægir ekki
 eftirspurn á dreifiveitusvæði ber viðkomandi dreifiveitu að grípa til skömmtunar
     raforku til notenda. Við slíka skömmtun skal gæta jafnræðis og byggja á
           málefnalegum sjónarmiðum sem nánar skulu útfærð í reglugerð.
-   Ráðherra skal í reglugerð^3) setja nánari ákvæði um hlutverk og starfsemi
+   Ráðherra skal í reglugerð^4) setja nánari ákvæði um hlutverk og starfsemi
       dreifiveitna, kerfisstjórnun og tengingu virkjana við dreifikerfið.
-   ^1)L. 89/2004, 9. gr. ^2)L. 67/2008, 5. gr. ^3)Rg. 1040/2005, sbr. 322/2006.
-                        17. gr. [Tekjumörk og gjaldskrá.
+     ^1)L. 89/2004, 9. gr. ^2)L. 19/2011, 9. gr. ^3)L. 67/2008, 5. gr. ^4)Rg.
+                           1040/2005, sbr. 322/2006.
+                        17. gr. [Tekjumörk dreifiveitna.
+     Markmið með setningu tekjumarka er að hvetja til hagræðingar í rekstri
+   dreifiveitna og tryggja að tekjur þeirra séu í samræmi við kostnað við þá
+  þjónustu sem þeim er falið að veita, að teknu tilliti til arðsemi. Til að ná
+  fram hagræðingu og skilvirkni í rekstri dreifiveitu eru tekjumörk afmörkuð í
+                          tímabil, tekjumarkatímabil.
   Orkustofnun skal setja dreifiveitum tekjumörk vegna kostnaðar við dreifingu
  raforku. Ef heimilað er að hafa í gildi sérstaka gjaldskrá á dreifbýlissvæði,
- sbr. 5. mgr., skulu sérstök tekjumörk sett vegna dreifingar raforku í þéttbýli
-                    annars vegar og í dreifbýli hins vegar.
+sbr. 2. mgr. 17. gr. a, skulu sérstök tekjumörk sett vegna dreifingar raforku í
+ þéttbýli annars vegar og í dreifbýli hins vegar. Tekjumörk skulu ákveðin fyrir
+       fram til fimm ára í senn og uppfærð árlega miðað við breytingar á
+  grunnforsendum. Við setningu tekjumarka skal taka tillit til kostnaðar vegna
+                           reksturs og fjárfestinga.
             Tekjumörkin skulu ákveðin út frá eftirfarandi viðmiðum:
-       1. Kostnaði sem tengist starfsemi dreifiveitu, þ.m.t. kostnaði vegna
-viðhalds, afskrifta á nauðsynlegum eignum til reksturs kerfisins, kostnaði vegna
-flutnings um flutningskerfið, kostnaði við orkutap, almennum rekstrarkostnaði og
-                  kostnaði við kerfisstjórnun í dreifikerfinu.
-      2. [Arðsemi dreifiveitu skal vera sem næst markaðsávöxtun óverðtryggðra
- ríkisskuldabréfa til fimm ára eða sambærilegra verðbréfa. Arðsemi reiknast sem
-   hlutfall hagnaðar fyrir fjármunatekjur, fjármagnsgjöld og skatta (EBIT) og
-   bókfærðs verðs fastafjármuna sem nauðsynlegir eru til reksturs kerfisins.
-Fastafjármunir þessir skulu vera þeir sem nýttir eru 31. desember 2004 og miðað
- við bókfært virði þann dag, ásamt nauðsynlegum nýjum fastafjármunum, sem síðar
-kunna að koma til. Um heimild til uppfærslna á bókfærðu verði fastafjármuna við
- útreikning tekjumarka vegna endurmats og breytinga á verðlagi skal kveðið á í
-                                 reglugerð.]^1)
-     3. Hagræðingarkröfu sem skal taka mið af eðlilegum kostnaði samkvæmt mati
-  Orkustofnunar að teknu tilliti til þeirrar þjónustu sem dreifiveitan veitir.
-   [Tekjumörk skulu ákveðin til þriggja ára í senn en endurskoðuð árlega. Við
-endurskoðun skal athugað hvort breytingar hafi orðið á forsendum sem lagðar voru
- til grundvallar við ákvörðun tekjumarka. Heimilt er að færa of- eða vanteknar
-tekjur milli ára. Í reglugerð skal kveðið á um takmörk heimilda til uppsöfnunar
-                                 réttinda.]^1)
-Dreifiveita skal setja gjaldskrá vegna þjónustu sinnar í samræmi við tekjumörk,
- sbr. 2. mgr. Sama gjaldskrá skal gilda á veitusvæði hverrar dreifiveitu fyrir
- úttekt á lágspennu, þ.e. 230400 V spennu. Ef orka frá dreifiveitu er afhent á
-annarri spennu er heimilt að taka tillit til þess í gjaldskrá. Með sama hætti er
-      við gjaldtöku heimilt að taka tillit til annars mismunar á þjónustu.
+    1. Rekstrarkostnaði sem tengist dreifingu fyrirtækisins á rafmagni, þ.m.t.
+ kostnaði vegna viðhalds, kostnaði vegna flutnings um flutningskerfið, kostnaði
+    við orkutap, almennum rekstrarkostnaði og kostnaði við kerfisstjórnun í
+dreifikerfinu. Við ákvörðun rekstrarkostnaðar við setningu tekjumarka skal taka
+tillit til rekstrarkostnaðar síðustu fimm ára með eins árs töf, að teknu tilliti
+  til verðlagsbreytinga og áhrifa nýrra stórra fjárfestinga á rekstrarkostnað
+                              dreififyrirtækisins.
+       2. Arðsemi dreifiveitu af dreifingu raforku skal vera sem næst vegnum
+         fjármagnskostnaði, að teknu tilliti til skatta og að frátöldum
+verðlagsbreytingum. Arðsemi til grundvallar tekjumörkum skal vera jöfn hlutfalli
+    milli annars vegar hagnaðar fyrir fjármunatekjur og fjármagnsgjöld en að
+ frádregnum sköttum (EBIT að frádregnum sköttum) og hins vegar bókfærðs virðis
+   fastafjármuna sem nauðsynlegir eru til reksturs dreifiveitunnar auk 20% af
+ tekjumörkum síðasta árs til að mæta kostnaði af veltufjármunum. Fastafjármunir
+ þessir skulu vera þeir sem nýttir voru 31. desember 2004 og miðast við bókfært
+virði þann dag, ásamt nauðsynlegum nýjum fastafjármunum sem hafa komið til eftir
+ þann tíma eða síðar kunna að koma til, afskriftum þeirra og endurmati eins og
+ það er á hverjum tíma. Fjárfestingar skulu teljast til fastafjármuna frá þeim
+  tíma sem fjárfestingin á sér stað. Á grundvelli þessa töluliðar skal arðsemi
+                    ákvörðuð að fengnu mati sérfróðra aðila.
+                  3. Afskriftum af fastafjármunum, sbr. 2. tölul.
+                                    4. Sköttum.
+Náist ekki markmið þessara laga um skilvirkni í rekstri dreifiveitu með afmörkun
+   tekjumarkatímabila er Orkustofnun heimilt að setja viðkomandi dreifiveitu
+ hagræðingarkröfu fyrir nýtt tekjumarkatímabil, að fengnu mati sérfróðra aðila,
+    eftir að dreifiveitunni hefur verið gefinn kostur á að tjá sig um slíkar
+fyrirætlanir. Slík hagræðingarkrafa skal byggjast á sjónarmiðum sem byggt er á í
+  sambærilegum rekstri um hvað telst skilvirkni, studd af undangengnu hagrænu
+ mati. Orkustofnun skal tilkynna dreifiveitunni með tveggja mánaða fyrirvara ef
+   framkvæma á slíkt mat og skal því lokið eigi síðar en fjórum mánuðum fyrir
+                     upphaf viðkomandi tekjumarkatímabils.
+     Eigi síðar en 15. september árið áður en ný tekjumörk taka gildi skal
+ Orkustofnun setja tekjumörk fyrir dreifiveitur fyrir næsta tekjumarkatímabil.
+     Eigi síðar en 1. maí ár hvert skal hver dreifiveita skila Orkustofnun
+ rekstrarupplýsingum vegna fyrra árs. Eigi síðar en 1. september ár hvert skal
+    Orkustofnun skila uppfærðum tekjumörkum og uppgjöri vegna fyrra árs til
+   viðkomandi dreifiveitu sem og viðeigandi rökstuðningi fyrir breytingum ef
+   einhverjar eru. Í uppgjöri tekjumarka við lok hvers árs skulu bornar saman
+                    rauntekjur og uppfærð tekjumörk ársins.
+ Heimilt er að færa of- eða vanteknar tekjur samkvæmt tekjumörkum milli ára við
+ árlegt uppgjör tekjumarka en uppsafnaðar of- eða vanteknar tekjur skulu aldrei
+ nema meira en 10% af uppfærðum tekjumörkum hvers uppgjörsárs. Komi í ljós við
+uppgjör tekjumarka að uppsafnaðar ofteknar tekjur eru umfram þessi mörk skal ná
+   hlutfallinu niður fyrir tilskilin mörk eigi síðar en fyrir lok næsta árs á
+ eftir. Óheimilt er að flytja vanteknar tekjur umfram framangreind viðmið milli
+                                      ára.
+Í reglugerð skal setja nánari ákvæði um tekjumörkin, m.a. um setningu þeirra og
+uppgjör, afskriftareglur, arðsemismarkmið, útreikning vegins fjármagnskostnaðar,
+    mat fastafjármuna, skiptingu eignagrunns og rekstrarkostnaðar, kröfur um
+hagræðingu, gæði dreifiveitu og um mat sérfróðra aðila skv. 2. tölul. 3. mgr. og
+ 4. mgr. Jafnframt skal í reglugerð kveða á um með hvaða hætti tekið er tillit
+ til almennra verðbreytinga og gengis gjaldmiðla, auk annarra atriða sem ákvæði
+                             þetta kveður á um.]^1)
+                              ^1)L. 19/2011, 10. gr.
+                      [17. gr. a. Gjaldskrá dreifiveitna.
+   Hver dreifiveita skal setja gjaldskrá vegna þjónustu sinnar í samræmi við
+     tekjumörk skv. 17. gr. Sama gjaldskrá skal gilda á veitusvæði hverrar
+    dreifiveitu fyrir úttekt á lágspennu, þ.e. 230400 V spennu. Ef orka frá
+  dreifiveitu er afhent á annarri spennu er heimilt að taka tillit til þess í
+  gjaldskrá. Með sama hætti er við gjaldtöku heimilt að taka tillit til annars
+                              mismunar á þjónustu.
 Dreifiveitum er heimilt að sækja um leyfi til Orkustofnunar til að hafa sérstaka
  gjaldskrá á dreifbýlissvæðum þar sem kostnaður vegna dreifingar er sannanlega
        hærri en í þéttbýli. Það er skilyrði fyrir heimild til sérstakrar
@@ -485,34 +630,23 @@ Dreifiveitum er heimilt að sækja um leyfi til Orkustofnunar til að hafa sérs
 fylgja upplýsingar um landfræðilega afmörkun svæða, landnotkun og fjölda íbúa á
    viðkomandi svæði, auk gagna sem sýna fram á að kostnaður við dreifingu til
                    notenda á svæðinu sé hærri en til annarra.
- Tveimur mánuðum áður en gjaldskráin á að taka gildi skal hún send Orkustofnun.
-Telji Orkustofnun framlagða gjaldskrá brjóta í bága við ákvæði laga þessara eða
-  reglugerða skal hún koma athugasemdum á framfæri við viðkomandi dreifiveitu
-innan sex vikna frá móttöku. Gjaldskrá tekur ekki gildi fyrr en bætt hefur verið
-   úr að mati Orkustofnunar. Dreifiveita skal birta gjaldskrána opinberlega.
-  [Komi í ljós að arðsemi dreifiveitu síðastliðin þrjú ár nær ekki helmingi af
-  markaðsávöxtun óverðtryggðra ríkisskuldabréfa til fimm ára eða sambærilegra
- verðbréfa né heldur er hagnaður af rekstri veitunnar skal taka tillit til þess
-við setningu tekjumarka og gerð gjaldskrár næsta árs. Sama á við komi í ljós að
-    arðsemi dreifiveitu síðastliðin þrjú ár er meira en þriðjungi yfir sömu
-                                  ávöxtun.]^1)
-    Standi væntanlegar tekjur dreifiveitu af nýjum viðskiptavini ekki undir
-  eðlilegum stofn- eða rekstrarkostnaði er heimilt að krefja hann um greiðslu
-    viðbótarkostnaðar. Sama á við hafi forsendur viðskipta breyst verulega.
-  [Dreifiveitu er skylt að greiða virkjun sem tengist henni og er undir 3,1 MW
- þann ávinning, að hluta eða að fullu, sem felst í því að þurfa ekki að greiða
-úttektargjald að fullu til flutningskerfisins, sbr. ákvæði 5. mgr. 12. gr., með
-                              eftirfarandi hætti:
+     Eigi síðar en fjórum vikum fyrir fyrirhugaða gildistöku skal gjaldskrá
+dreifiveitu send Orkustofnun. Telji stofnunin framlagða gjaldskrá brjóta í bága
+við ákvæði laga þessara eða reglugerða skal hún koma athugasemdum á framfæri við
+dreifiveitu innan tveggja vikna frá móttöku. Gjaldskrá tekur ekki gildi fyrr en
+ bætt hefur verið úr að mati Orkustofnunar. Dreifiveita skal birta gjaldskrána
+                                  opinberlega.
+Dreifiveitu er skylt að greiða virkjun sem tengist henni og er undir 3,1 MW þann
+    ávinning, að hluta eða að fullu, sem felst í því að þurfa ekki að greiða
+ úttektargjald að fullu til flutningskerfisins, sbr. ákvæði 3. mgr. 12. gr. a,
+                            með eftirfarandi hætti:
     1. Greiða skal virkjun undir 0,3 MW að fullu hreinan ávinning veitunnar af
                         niðurfellingu úttektargjaldsins.
     2. Fyrir virkjun sem er 0,33,1 MW skal minnka greiðsluna hlutfallslega þar
-            til ekkert er greitt sé virkjunin 3,1 MW eða stærri.]^1)
-    Í reglugerð skal setja frekari ákvæði um tekjumörk, viðskiptaskilmála og
-gjaldskrá, m.a. um afskriftareglur, arðsemismarkmið og kröfur um hagræðingu, auk
-notkunarferla og nánari skilgreiningar dreifbýlis, sbr. 5. mgr. Jafnframt skal í
-       reglugerð kveða á um með hvaða hætti tekið er tillit til almennra
-                               verðbreytinga.]^2)
-                   ^1)L. 149/2004, 3. gr. ^2)L. 89/2004, 10. gr.
+              til ekkert er greitt sé virkjunin 3,1 MW eða stærri.
+ Í reglugerð skal setja nánari ákvæði um gjaldskrá auk þeirra atriða sem ákvæði
+                             þetta kveður á um.]^1)
+                              ^1)L. 19/2011, 11. gr.
 
                           V. kafli. Raforkuviðskipti.
                  18. gr. Leyfi til að stunda raforkuviðskipti.
@@ -520,7 +654,16 @@ notkunarferla og nánari skilgreiningar dreifbýlis, sbr. 5. mgr. Jafnframt skal
  hvorki í sér sérleyfi né önnur sérréttindi til handa leyfishafa. Leyfi verður
     aðeins veitt sjálfstæðum lög- og skattaðila. Umsækjandi skal sýna fram á
     fjárhagslegan styrkleika til að efna skuldbindingar vegna starfseminnar.
- Iðnaðarráðuneytið skal halda skrá yfir þá sem leyfi hafa til raforkuviðskipta.
+  [Ráðuneytið]^1) skal halda skrá yfir þá sem leyfi hafa til raforkuviðskipta.
+                             ^1)L. 126/2011, 368. gr.
+                  [18. gr. a. Leyfi til að reka raforkumarkað.
+ Leyfi ráðherra þarf til þess að reka raforkumarkað. Slíkt leyfi felur hvorki í
+  sér sérleyfi né önnur sérréttindi til handa leyfishafa. Leyfi verður aðeins
+veitt sjálfstæðum lög- og skattaðila. Umsækjandi skal sýna fram á fjárhagslegan
+    styrkleika og þekkingu á raforkumarkaði til að efna skuldbindingar vegna
+  starfseminnar. Nánar skal kveðið á um skilyrði leyfisveitingar og starfsemi
+                        raforkumarkaðar í reglugerð.]^1)
+                              ^1)L. 19/2011, 12. gr.
                         19. gr. Skyldur sölufyrirtækja.
                         Sölufyrirtæki er m.a. skylt að:
         1. Útvega þá raforku sem er nauðsynleg til að unnt sé að standa við
@@ -602,18 +745,19 @@ dreifikerfið eignarnámi og afhenda það nýjum leyfishafa. Ráðherra getur h
  Orkustofnun skal hafa eftirlit með því að fyrirtæki sem starfa samkvæmt lögum
  þessum fullnægi þeim skilyrðum sem um starfsemina gilda samkvæmt lögum þessum,
    reglugerðum settum samkvæmt þeim, samningi skv. 8. gr. og öðrum heimildum.
-Orkustofnun skal hafa samráð við Samkeppnisstofnun um eftirlit með starfsemi og
-     gjaldskrá flutningsfyrirtækisins og dreifiveitna eftir því sem við á.
+   Orkustofnun skal hafa samráð við [Samkeppniseftirlitið]^1) um eftirlit með
+starfsemi og gjaldskrá flutningsfyrirtækisins og dreifiveitna eftir því sem við
+                                       á.
   Orkustofnun skal hafa samráð við eftirlitsskylda aðila um framkvæmd og þróun
     eftirlitsins. Í því skyni skal starfa sérstök samráðsnefnd sem skipuð er
   fulltrúum eftirlitsskyldra aðila. Orkustofnun skal eiga reglulega fundi með
      samráðsnefndinni. Samráðsnefndin hefur ekki ákvörðunarvald í málefnum
- Orkustofnunar. Nánar skal kveðið á um samráðsnefndina í reglugerð,^1) m.a. um
+ Orkustofnunar. Nánar skal kveðið á um samráðsnefndina í reglugerð,^2) m.a. um
                                  skipan hennar.
     Orkustofnun getur falið faggiltri skoðunarstofu, sbr. lög um vog, mál og
   faggildingu, að framkvæma eftirlit skv. 1. mgr. fyrir sína hönd. Í reglugerð
             skal kveða nánar á um eftirlit faggiltra skoðunarstofa.
-                                 ^1)Rg. 466/2003.
+                      ^1)L. 19/2011, 13. gr. ^2)Rg. 466/2003.
                         25. gr. Heimildir Orkustofnunar.
 Orkustofnun getur krafið eftirlitsskylda aðila um allar upplýsingar og gögn sem
   nauðsynleg eru við framkvæmd eftirlitsins. Skulu gögn og upplýsingar berast
@@ -629,7 +773,7 @@ eftirlitsskylds aðila og lagt hald á gögn þegar ríkar ástæður eru til a�
     skilyrðum leyfis, ákvæðum samnings skv. 8. gr. eða öðrum heimildum. Við
  framkvæmd slíkra aðgerða skal fylgja ákvæðum laga um meðferð [sakamála]^1) um
                              leit og hald á munum.
-                            ^1)[4]L. 88/2008, 234. gr.
+                            ^1)[6]L. 88/2008, 234. gr.
                          26. gr. Úrræði Orkustofnunar.
   Telji Orkustofnun að eftirlitsskyld starfsemi samræmist ekki skilyrðum laga
     þessara, reglugerðum settum samkvæmt þeim, ákvæðum samnings skv. 8. gr.,
@@ -646,7 +790,7 @@ skilyrðum leyfis eða öðrum heimildum getur hún krafist þess að úr verði
  fyrr en úr hefur verið bætt að mati stofnunarinnar. Þá getur Orkustofnun gert
   flutningsfyrirtækinu og dreifiveitum að breyta gjaldskrá sinni að viðlögðum
                                    dagsektum.
-                     27. gr. Eftirlit Samkeppnisstofnunar.
+                 27. gr. Eftirlit [Samkeppniseftirlitsins].^1)
          Samkeppnislög gilda um atvinnustarfsemi sem lög þessi ná til.
  Ef fyrirtæki stundar vinnslu eða sölu á raforku er því óheimilt að niðurgreiða
     þá starfsemi með sérleyfisstarfsemi sem fyrirtækið hefur með höndum eða
@@ -654,6 +798,7 @@ starfsemi sem hefur sambærilega stöðu. Í þeim tilgangi að koma í veg fyri
      niðurgreiðslu er samkeppnisráði heimilt að mæla fyrir um fjárhagslegan
 aðskilnað, þ.m.t. fyrirtækjaaðskilnað milli samkeppnisstarfsemi og starfsemi er
                   nýtur sérleyfis eða hefur sambærilega stöðu.
+                              ^1)L. 19/2011, 14. gr.
             28. gr. Eftirlit með gæðum raforku og afhendingaröryggi.
     Vinnslufyrirtæki, flutningsfyrirtækið og dreifiveitur skulu koma á innra
 eftirliti með gæðum raforku og afhendingaröryggi. [Orkustofnun skal hafa umsjón
@@ -674,8 +819,8 @@ eftirliti með gæðum raforku og afhendingaröryggi. [Orkustofnun skal hafa ums
 Stjórnvaldsákvarðanir sem teknar eru af Orkustofnun á grundvelli laga þessara og
 varða gjaldskrá eða starfsemi flutningsfyrirtækisins eða dreifiveitna sæta kæru
                        til úrskurðarnefndar raforkumála.
- Í nefndinni sitja þrír menn sem skipaðir eru af iðnaðarráðherra og jafnmargir
-      til vara. Formaður og varamaður hans skulu fullnægja hæfisskilyrðum
+Í nefndinni sitja þrír menn sem skipaðir eru af [ráðherra]^1) og jafnmargir til
+        vara. Formaður og varamaður hans skulu fullnægja hæfisskilyrðum
            hæstaréttardómara. Skipunartími nefndarinnar er fjögur ár.
  Kæra til nefndarinnar skal vera skrifleg og skal hún borin fram innan 30 daga
                 frá því að aðila máls var tilkynnt um ákvörðun.
@@ -701,6 +846,7 @@ Nefndin er sjálfstæð í störfum sínum og verður úrskurðum hennar ekki sk
  dómstóla fyrr en niðurstaða hennar liggur fyrir. Þetta gildir þó ekki frá þeim
 tíma þegar sex mánuðir eru liðnir frá því að kæra barst nefndinni án þess að hún
                            hafi lagt úrskurð á málið.
+                             ^1)L. 126/2011, 368. gr.
                                31. gr. Gjaldtaka.
  Til að standa undir kostnaði vegna eftirlits samkvæmt lögum þessum skal greiða
                               gjöld sem hér segir:
@@ -708,7 +854,7 @@ tíma þegar sex mánuðir eru liðnir frá því að kæra barst nefndinni án 
             flutningskerfið sem nemur [0,2 aurum]^1) á hverja kWst.
          2. Dreifiveitur skulu greiða gjald af raforku sem er móttekin frá
  flutningskerfi eða beint frá virkjunum sem nemur [0,5 aurum]^1) á hverja kWst.
-Fyrir 15. september ár hvert skal orkumálastjóri gefa iðnaðarráðherra skýrslu um
+ Fyrir 15. september ár hvert skal orkumálastjóri gefa [ráðherra]^2) skýrslu um
 áætlaðan rekstrarkostnað næsta árs vegna eftirlits á grundvelli laga þessara. Í
   skýrslunni skal jafnframt lagt mat á þróun eftirlitsins undangengin þrjú ár.
  Skýrslunni skal fylgja umsögn samráðsnefndar eftirlitsskyldra aðila, sbr. 24.
@@ -716,7 +862,7 @@ gr., um áætlað rekstrarumfang næsta árs ásamt áliti orkumálastjóra á u
 Til að samráðsnefndin geti gefið umsögn skal Orkustofnun eigi síðar en 15. ágúst
   ár hvert senda henni upplýsingar um áætlað rekstrarumfang ásamt skýringum á
   helstu rekstrarliðum. Ef niðurstaða skýrslunnar gefur tilefni til að breyta
-gjaldtöku skv. 1. mgr. skal iðnaðarráðherra leggja fram frumvarp þar að lútandi
+ gjaldtöku skv. 1. mgr. skal [ráðherra]^2) leggja fram frumvarp þar að lútandi
                                  fyrir Alþingi.
   [Orkustofnun skal annast innheimtu gjalda þessara fyrir ríkissjóð. Gjalddagi
 skal vera 1. mars ár hvert vegna þess almanaksárs og byggjast á rauntölum vegna
@@ -724,13 +870,14 @@ liðins árs. Aðför má gera til fullnustu kröfum um gjaldið án undangengin
                            úrskurðar eða sáttar.]^1)
      Eftirlitsskyldir aðilar skulu greiða kostnað vegna eftirlits faggiltra
              skoðunarstofa, enda sé ekki um úrtakseftirlit að ræða.
-                               ^1)L. 67/2008, 6. gr.
+                  ^1)L. 67/2008, 6. gr. ^2)L. 126/2011, 368. gr.
 
                  VIII. kafli. Almenn ákvæði um leyfisveitingar.
                      32. gr. Framsal leyfisveitingarvalds.
   Ráðherra getur falið Orkustofnun leyfisveitingarvald skv. 1. mgr. 4. gr., 2.
-mgr. 9. gr., 13. gr. og 1. mgr. 18. gr. að hluta eða öllu leyti. Fer Orkustofnun
-                 þá einnig með heimildir ráðherra skv. 36. gr.
+mgr. 9. gr., 13. gr., [1. mgr. 18. gr. og 18. gr. a]^1) að hluta eða öllu leyti.
+         Fer Orkustofnun þá einnig með heimildir ráðherra skv. 36. gr.
+                              ^1)L. 19/2011, 15. gr.
                      33. gr. Gjaldtaka vegna útgáfu leyfa.
   Til að standa undir kostnaði af undirbúningi og útgáfu leyfa samkvæmt lögum
                   þessum skal greiða gjöld til leyfisveitanda:
@@ -770,12 +917,13 @@ að ræða eða ljóst er að leyfishafi getur ekki staðið við skyldur sínar
 
                             IX. kafli. Ýmis ákvæði.
                               37. gr. Yfirstjórn.
-         Iðnaðarráðherra fer með yfirstjórn mála samkvæmt lögum þessum.
+          [Ráðherra]^1) fer með yfirstjórn mála samkvæmt lögum þessum.
 Stjórnvaldsákvarðanir Orkustofnunar, sem ekki verða kærðar til úrskurðarnefndar
-      raforkumála skv. 30. gr., verða kærðar til iðnaðarráðherra. Kæra til
-iðnaðarráðherra skal vera skrifleg og skal hún borin fram innan 30 daga frá því
-   að aðila máls var tilkynnt um ákvörðun. Um meðferð máls fer að öðru leyti
-                       samkvæmt ákvæðum stjórnsýslulaga.
+raforkumála skv. 30. gr., verða kærðar til [ráðherra].^1) Kæra til [ráðherra]^1)
+ skal vera skrifleg og skal hún borin fram innan 30 daga frá því að aðila máls
+  var tilkynnt um ákvörðun. Um meðferð máls fer að öðru leyti samkvæmt ákvæðum
+                                stjórnsýslulaga.
+                             ^1)L. 126/2011, 368. gr.
                  38. gr. Framkvæmdir á landsvæðum í ríkiseign.
 Ráðherra hefur heimild til að semja við flutningsfyrirtækið og þá aðila, sem fá
      leyfi samkvæmt lögum þessum til framkvæmda á eignarlöndum ríkisins, um
@@ -861,7 +1009,7 @@ undir ákvæði þessarar greinar, og um skiptigrundvöll milli mismunandi starf
                                    reglugerð.
                          [43. gr. Aðfararheimild o.fl.
 Gjöld fyrir raforku, flutning og dreifingu, sem innheimt eru ^1) samkvæmt lögum
-  þessum, eru aðfararhæf án dóms eða sáttar skv. 10. tölul. 1. mgr. [5]1. gr.
+  þessum, eru aðfararhæf án dóms eða sáttar skv. 10. tölul. 1. mgr. [7]1. gr.
   aðfararlaga, nr. 90/1989. Heimilt er að stöðva afhendingu raforku ef ekki er
                 staðið í skilum með greiðslu þessara gjalda.]^2)
                    ^1)L. 149/2004, 4. gr. ^2)L. 89/2004, 13. gr.
@@ -874,177 +1022,18 @@ Gjöld fyrir raforku, flutning og dreifingu, sem innheimt eru ^1) samkvæmt lög
      Ráðherra er heimilt að setja nánari ákvæði um framkvæmd laga þessara í
                                  reglugerð.^2)
      ^1)L. 89/2004, 13. gr. ^2)Rg. 513/2003. Rg. 1040/2005, sbr. 364/2008. Rg.
-                            297/2006. Rg. 274/2010.
+                     297/2006. Rg. 274/2010. Rg. 435/2011.
                             [46. gr.]^1) Gildistaka.
        Lög þessi öðlast þegar gildi en koma til framkvæmda 1. júlí 2003.
                               ^1)L. 89/2004, 13. gr.
 
                             Ákvæði til bráðabirgða.
-   I. Raforkuskýrsla skv. 39. gr. laga þessara skal í fyrsta sinn lögð fyrir
-                      Alþingi eigi síðar en á árinu 2005.
+                                     I. ^1)
+                              ^1)L. 19/2011, 16. gr.
     II. Þeir sem við gildistöku laga þessara hafa rétt til að reisa eða reka
   raforkuver halda þeim rétti sínum, enda uppfylli þeir skilyrði laga þessara.
-III. Þeir sem við gildistöku laga þessara hafa rétt til að reisa eða reka kerfi
-til dreifingar raforku halda þeim rétti sínum, enda uppfylli þeir skilyrði laga
-                                    þessara.
-   IV. Til og með 31. desember 2004 geta eingöngu þeir sem kaupa 100 GWst af
-      raforku eða meira á ári keypt raforku af öðrum en dreifiveitu á sínu
-  dreifiveitusvæði. Frá 1. janúar 2005 geta notendur sem eru aflmældir og nota
-   meira afl en 100 kW valið þann raforkusala sem þeir kjósa. [Frá 1. janúar
-2006]^1) skulu allir geta valið þann raforkusala sem þeir kjósa. Dreifiveitum er
- skylt að selja raforku til þeirra notenda sem ekki eiga þess kost að velja sér
-                  raforkusala vegna bráðabirgðaákvæðis þessa.
-[Gjaldskrár dreifiveitna sem giltu 7. apríl 2003 skulu þrátt fyrir 17. gr. halda
-  gildi sínu til 1. janúar 2005. Dreifiveitur geta þó að fenginni staðfestingu
-    Orkustofnunar ákveðið gjaldskrárlækkun. Þá geta dreifiveitur að fenginni
-  staðfestingu Orkustofnunar hækkað gjaldskrá sína í samræmi við breytingar á
-byggingarvísitölu eða sannanlegar og óviðráðanlegar hækkanir á kostnaði sem er í
-   beinum og efnislegum tengslum við starfsemina. Á þessu tímabili skal sama
-gjaldskrá gilda á starfssvæði hverrar dreifiveitu. Ekki er á tímabilinu heimilt
-                 að veita leyfi fyrir dreifbýlisgjaldskrám.]^2)
- [Óheimilt er að greiða niður raforku til kaupenda sem eiga þess kost að velja
- sér orkusala með fjármunum sem fást af sölu til kaupenda sem eru bundnir einum
-   raforkusala á tímabilinu 1. janúar 2005 til 1. janúar 2006. Enn fremur er
-óheimilt að hækka gjald fyrir orku til hinna bundnu kaupenda umfram það tilefni
-sem leiðir af eðlilegum kostnaðarhækkunum. Orkustofnun getur krafist skýringa og
-  gagna um ákvörðun á raforkuverði til hinna bundnu kaupenda. Stofnunin getur
-krafist hins sama telji hún óeðlilegt frávik vera á orkuverði miðað við verð hjá
-öðrum raforkusölum til samsvarandi hóps bundinna raforkukaupenda. Í reglugerð er
-heimilt að kveða á um hámarksverð raforku til hinna bundnu kaupenda, þ.e. þeirra
-               sem ekki eiga kost á að velja sér raforkusala.]^1)
-                   ^1)L. 149/2004, 5. gr. ^2)L. 89/2004, 14. gr.
-  V. Fyrirtæki sem eiga samkvæmt lögunum að halda reikningum vegna mismunandi
- starfsemi aðskildum í bókhaldi skulu fyrir 1. september 2003 skila Orkustofnun
-drögum að ársreikningi miðað við 31. desember 2002 ásamt greinargerð til þess að
-     sýna með hvaða hætti fyrirtækið hyggst uppfylla skilyrði 41. gr. Telji
-  Orkustofnun að ársreikningurinn sé ekki í samræmi við lögin eða reglugerðir
-          settar samkvæmt þeim skal hún mæla fyrir um breytingu þar á.
-   Mat á varanlegum rekstrarfjármunum og undirbúningskostnaði skal byggjast á
-bókfærðu verði eins og það er í árslok 2002 samkvæmt endurskoðuðum ársreikningi.
-Sömu reikningsskilaaðferðum skal beitt við mat þeirra og fyrirtækin hafa beitt á
-                               undanförnum árum.
-VI. Frá gildistöku laga þessara til loka ársins 2009 skal starfa samráðsnefnd um
-   framkvæmd laganna. Hlutverk samráðsnefndarinnar er að [fylgjast með og]^1)
- stuðla að greiðri framkvæmd laganna og virkum skoðanaskiptum þeirra sem lögin
-   varða helst. Nefndin skal skipuð af iðnaðarráðherra og í henni skulu sitja
-   [tíu]^1) fulltrúar. [Þrír skulu kosnir af Alþingi.]^1) Orkustofnun, Samtök
-   atvinnulífsins, Neytendasamtökin og Samband íslenskra sveitarfélaga skulu
-    tilnefna einn fulltrúa hver. Samorka skal tilnefna tvo fulltrúa en einn
-nefndarmanna skal skipaður án tilnefningar og skal hann jafnframt vera formaður
-                                 nefndarinnar.
-                              ^1)L. 89/2004, 15. gr.
- VII. Við gildistöku laga þessara skal iðnaðarráðherra skipa nefnd þar sem eiga
-   sæti fulltrúar allra þingflokka sem sæti eiga á Alþingi. Í nefndinni skulu
-  jafnframt eiga sæti fimm fulltrúar frá Samorku, tveir frá Sambandi íslenskra
-sveitarfélaga og einn frá Alþýðusambandi Íslands, Bandalagi starfsmanna ríkis og
- bæja, Samtökum atvinnulífsins og Neytendasamtökunum. Þá skal fjármálaráðherra
-skipa einn fulltrúa í nefndina og iðnaðarráðherra tvo og skal annar þeirra vera
-                             formaður nefndarinnar.
- Hlutverk nefndarinnar er að gera tillögu um fyrirkomulag flutnings á raforku,
-  þ.m.t. um stærð flutningskerfisins og hvernig rekstri flutningskerfisins og
-    kerfisstjórnunar skuli háttað þannig að öryggi, skilvirkni og hagkvæmni
- kerfisins verði sem best tryggð. Þá skal nefndin móta tillögur um uppbyggingu
- gjaldskrár fyrir flutning raforku. Jafnframt skal nefndin móta tillögur um með
-     hvaða hætti jafna eigi kostnaði vegna flutnings og dreifingar raforku.
-Nefndin skal skila tillögum sínum í formi lagafrumvarps til iðnaðarráðherra eigi
-                          síðar en 31. desember 2003.
- VIII. [Gildistöku ákvæða III. kafla er frestað. Skulu þau taka gildi 1. janúar
-2005 nema annað sé tekið fram í ákvæði þessu. Sama á við um 6. tölul. 3. gr. og
-   3. mgr. 5. gr. laga þessara. Fram að þeim tíma skal ákvæði þetta gilda um
-                               flutning raforku.
- Flutningskerfið á gildistíma þessa ákvæðis er raflínur og mannvirki þeim tengd
-sem flytja raforku á 66, 132 og 220 kV spennu og tilheyrðu Landsvirkjun 7. apríl
-  2003, enn fremur viðbætur Landsvirkjunar eftir þann tíma á 132 kV spennu og
-  hærri spennu til að auka flutninga um þetta kerfi en ekki geislalínur út frá
- kerfinu. Hið sama gildir um línur annarra á þessari spennu sem þeir semja við
-Landsvirkjun um að tilheyri flutningskerfinu. Til að leggja nýjar flutningslínur
-                  þarf Landsvirkjun leyfi iðnaðarráðherra.]^1)
-  Samningur um tengingu við flutningskerfið skal liggja fyrir þegar sótt er um
-     virkjunarleyfi. Virkjun sem tengist dreifikerfi þarf að hafa samið við
-flutningsfyrirtækið um endurgjald fyrir reiðuafl og tengigjald. Skal Orkustofnun
- gæta að því að endurgjaldið taki mið af hlutlægum og gegnsæjum viðmiðum og að
-                               jafnræðis sé gætt.
-Landsvirkjun skal annast flutning raforku og kerfisstjórnun í samræmi við ákvæði
-                              9. gr. laga þessara.
-   Landsvirkjun skal í bókhaldi sínu halda reikningum vegna flutnings raforku
-aðskildum frá reikningum vegna annarrar starfsemi. Sama á við um reikninga vegna
-    kerfisstjórnunar. Flutningur raforku og kerfisstjórnun skal heyra undir
-                               sjálfstæða stjórn.
-     Landsvirkjun skal setja gjaldskrá vegna þjónustu sinnar sem skal birt
-  opinberlega að fenginni staðfestingu Orkustofnunar. Gjaldskráin skal standa
- undir kostnaði sem er í beinum og efnislegum tengslum við flutning raforku og
-    kerfisstjórnun, þ.m.t. kostnaði vegna reiðuafls, viðhalds og afskrifta á
- nauðsynlegum eignum vegna reksturs kerfisins, fjármagnskostnaði, kostnaði við
-[orkutap]^1) og almennum rekstrarkostnaði. Þá er Landsvirkjun heimilt að áskilja
-   sér eðlilega arðsemi af því fjármagni sem bundið er í flutningskerfinu og
-                                kerfisstjórnun.
- Landsvirkjun skal skilgreina gjald fyrir tengingu við flutningskerfið og gjald
-      fyrir mötun annars vegar og úttekt hins vegar í hverjum tengipunkti
-  flutningskerfisins. Sama gjaldskrá skal gilda fyrir mötun og úttekt í öllum
-tengipunktum. [Þó getur stórnotandi samið við flutningsfyrirtækið um endurgjald
-vegna flutnings.]^1) Slíkir samningar verða að byggjast á hlutlægum og gagnsæjum
-viðmiðum og mega ekki að mati Orkustofnunar valda hækkun á kostnaði við flutning
-  hjá öðrum notendum. Standi væntanlegar tekjur vegna nýs viðskiptavinar ekki
-    undir eðlilegum stofn- eða rekstrarkostnaði er heimilt að krefja hann um
-greiðslu viðbótarkostnaðar. Sama á við hafi forsendur viðskipta breyst verulega.
-                              ^1)L. 89/2004, 16. gr.
-   [IX. Arðsemi flutningsfyrirtækis og dreifiveitna. Við setningu tekjuramma
-flutningsfyrirtækisins vegna flutnings raforku til dreifiveitna skal Orkustofnun
-   í upphafi miða við að arðsemi sé helmingur af markaðsávöxtun óverðtryggðra
-  ríkisskuldabréfa til [fimm ára]^1) eða sambærilegra verðbréfa. Sama á við um
-tekjumörk dreifiveitna. Hækka skal arðsemisviðmiðunina á fimm árum í þá ávöxtun
- sem kveðið er á um í 2. tölul. 2. mgr. 12. gr. og 2. tölul. 2. mgr. 17. gr. Þó
- skal hækkun arðsemisviðmiðunar ekki valda meiri hækkun tekjumarka en næst með
-                             hagræðingarkröfu.]^2)
-                   ^1)L. 149/2004, 6. gr. ^2)L. 89/2004, 17. gr.
-    [X. Stofnun flutningsfyrirtækis. Við gildistöku laga þessara skal stofna
-  hlutafélag í eigu ríkisins til að annast flutning raforku og kerfisstjórnun,
-sbr. 1. mgr. 8. gr. laga þessara. Ráðherra skipar félaginu þriggja manna stjórn
- sem koma skal fram fyrir hönd þess við verðmat flutningsvirkja samkvæmt ákvæði
-   til bráðabirgða XI. Stjórn þessi skal sitja þar til endanleg niðurstaða um
-  verðmæti flutningsvirkja liggur fyrir og gengið hefur verið frá samkomulagi
-                       eigenda hlutafjár í félaginu.]^1)
-                              ^1)L. 89/2004, 17. gr.
- [XI. Mat á verðmæti flutningsvirkja. Eigendur þeirra flutningsvirkja sem mynda
-flutningskerfið skv. 6. tölul. 3. gr. laga þessara skulu koma sér saman um mat á
- verðmæti þeirra. Stefnt skal að því að matsverðið sé sem næst endurstofnverði
-  flutningsvirkjanna að frádregnum framreiknuðum afskriftum sem bókfærðar hafa
-verið vegna viðkomandi eignar, auk annarra atriða sem máli kunna að skipta, svo
-      sem sérstakra framlaga sem veitt hafa verið úr opinberum sjóðum til
-fjárfestingar í uppbyggingu raforkukerfisins. Í þessu skyni skal ráðherra skipa
- samninganefnd sem í eiga sæti þrír fulltrúar skipaðir án tilnefningar, þar af
- skal einn vera formaður, tveir fulltrúar skulu tilnefndir af Reykjavíkurborg,
-  einn af Akureyrarbæ og einn af eigendum Hitaveitu Suðurnesja hf. Orkustofnun
- skal vera nefndinni til ráðgjafar og aðstoðar. Samninganefndin skal hafa lokið
-störfum eigi síðar en 1. ágúst 2004. Útlagður kostnaður af störfum nefndarinnar
-greiðist úr ríkissjóði en eigendur skulu bera kostnað af störfum fulltrúa sinna.
-   Ef ekki næst samkomulag í samninganefnd skv. 1. mgr. um verðmat einstakra
- flutningsvirkja skal ráðherra skipa sérstaka matsnefnd sem meta skal verðmæti
-              þeirra að kröfu eiganda viðkomandi flutningsvirkis.
-  Í matsnefndina skal skipa einn lögfræðing, sem verður formaður nefndarinnar,
-    einn endurskoðanda og einn verkfræðing. Um hæfi matsmanna til meðferðar
- einstakra mála skal fara eftir ákvæðum laga um meðferð einkamála eftir því sem
-                                     við á.
- Við mat á verðmæti flutningsvirkja skal matsnefndin miða við endurstofnverð að
-teknu tilliti til afskrifta. [6]Lög nr. 11/1973, um framkvæmd eignarnáms, skulu
-  gilda um störf matsnefndarinnar eftir því sem við á, að frátöldum 2. mgr. 2.
-                        gr., 7. gr., 11. gr. og 15. gr.
-    Matsnefndin getur leitað umsagnar Orkustofnunar um það sem þurfa þykir.
-  Kostnaður af störfum matsnefndarinnar skal greiðast af flutningsfyrirtækinu.
-    Úrskurður matsnefndar skal liggja fyrir eigi síðar en 15. október 2004.
-Ágreiningur um verðmæti flutningsvirkja sem seld verða flutningsfyrirtækinu eða
-lögð inn í það sem hlutafé verður ekki borinn undir dómstóla fyrr en að gengnum
-                             úrskurði matsnefndar.
-   Verði niðurstaða matsnefndar borin undir dómstóla skal flutningsfyrirtækið
- greiða eiganda flutningsvirkja leigu fyrir þau á grundvelli leigufjárhæðar sem
-  Orkustofnun ákveður til bráðabirgða með hliðsjón af niðurstöðu matsnefndar.
-Þegar endanleg niðurstaða um verðmæti flutningsvirkja liggur fyrir skal eigandi
- þeirra tilkynna flutningsfyrirtækinu og Orkustofnun hvort hann velur að leggja
- virkin inn í flutningsfyrirtækið sem hlutafé, selja þau fyrirtækinu eða leigja
- þau til þess. Velji eigandi flutningsvirkja að leigja þau flutningsfyrirtækinu
-   ákveður Orkustofnun leigugjaldið með hliðsjón af endanlegri niðurstöðu um
-                              verðmæti þeirra.]^1)
-                              ^1)L. 89/2004, 17. gr.
+                                  III.XI. ^1)
+                              ^1)L. 19/2011, 16. gr.
     [XII. Takmörkun á heimild til framsals hlutafjár í flutningsfyrirtækinu.
    Eigendum hlutafjár í flutningsfyrirtækinu er einungis heimilt að framselja
  hlutafé sitt til annarra hlutafjáreigenda í fyrirtækinu en ekki til aðila utan
@@ -1054,85 +1043,22 @@ lögð inn í það sem hlutafé verður ekki borinn undir dómstóla fyrr en a�
  þingflokka sem falin skal endurskoðun laga þessara. Endurskoðuninni skal lokið
                           fyrir 31. desember 2010.]^1)
                               ^1)L. 89/2004, 17. gr.
-[XIV. Þrátt fyrir ákvæði 3. mgr. 12. gr. skulu tekjumörk flutningsfyrirtækis og
-  dreifiveitna einungis sett til eins árs í upphafi og gilda fyrir árið 2005.
-    Orkustofnun er heimilt að ákveða í samráði við eftirlitsskylda aðila að
-        tekjumörk fyrir árið 2006 skuli einnig ákveðin til eins árs.]^1)
-                              ^1)L. 149/2004, 7. gr.
-   [XV. Frá gildistöku laga þessara og fram til 1. janúar 2005 er óheimilt að
-uppfæra bókfært verð þeirra fastafjármuna sem um er fjallað í 2. tölul. 2. mgr.
-               12. gr. og 2. tölul. 2. mgr. 17. gr. laganna.]^1)
-                              ^1)L. 149/2004, 7. gr.
+                               [XIV.XV. ^1)]^2)
+                   ^1)L. 19/2011, 16. gr. ^2)L. 149/2004, 7. gr.
     [XVI. [Ákvæði 2.4. málsl. 1. mgr. 14. gr. koma til framkvæmda 1. janúar
                                  2012.]^1)]^2)
                    ^1)L. 148/2010, 1. gr. ^2)L. 30/2009, 1. gr.
 
-                                   [Viðauki.
-  Afhendingarstaðir til dreifiveitna úr flutningskerfi skv. 6. tölul. 3. gr.:
-                                  1. Svartsengi,
-                                    2. Fitjar,
-                          [3. Öldugata í Hafnarfirði],^1)
-                                [4. ]^1) Hamranes,
-                               [5. ]^1) Hnoðraholt,
-                                [6. ]^1) Rauðavatn,
-                                  [7. ]^1) Korpa,
-                               [8. ]^1) Brennimelur,
-                                 [9. ]^1) Akranes,
-                              [10. ]^1) Vatnshamrar,
-                                [11. ]^1) Vegamót,
-                                [12. ]^1) Ólafsvík,
-                             [13. ]^1) Grundarfjörður,
-                               [14. ]^1) Vogaskeið,
-                              [15. ]^1) Glerárskógar,
-                               [16. ]^1) Geiradalur,
-                             [17. ]^1) Tálknafjörður,
-                                 [18. ]^1) Mjólká,
-                              [19. ]^1) Breiðidalur,
-                              [20. ]^1) Bolungarvík,
-                               [21. ]^1) Ísafjörður,
-                               [22. ]^1) Hrútatunga,
-                               [23. ]^1) Laxárvatn,
-                                 [24. ]^1) Blanda,
-                              [25. ]^1) Sauðárkrókur,
-                               [26. ]^1) Varmahlíð,
-                                 [27. ]^1) Dalvík,
-                       [28. ]^1) Rangárvellir við Akureyri,
-                                [29. ]^1) Húsavík,
-                                  [30. ]^1) Laxá,
-                                 [31. ]^1) Krafla,
-                              [32. ]^1) Lindarbrekka,
-                             [33. ]^1) Silfurstjarna,
-                                [34. ]^1) Kópasker,
-                              [35. ]^1) Vopnafjörður,
-                               [36. ]^1) Lagarfoss,
-                               [37. ]^1) Eyvindará,
-                             [38. ]^1) Seyðisfjörður,
-                             [39. ]^1) Neskaupstaður,
-                              [40. ]^1) Eskifjörður,
-                              [41. ]^1) Hryggstekkur,
-                                [42. ]^1) Stuðlar,
-                            [43. ]^1) Fáskrúðsfjörður,
-                               [44. ]^1) Teigarhorn,
-                                 [45. ]^1) Hólar,
-                               [46. ]^1) Prestbakki,
-                                [47. ]^1) Búrfell,
-                              [48. ]^1) Hvolsvöllur,
-                                [49. ]^1) Rimakot,
-                             [50. ]^1) Vestmannaeyjar,
-                                 [51. ]^1) Flúðir,
-                                 [52. ]^1) Hella,
-                                [53. ]^1) Selfoss,
-                               [54. ]^1) Ljósifoss,
-                               [55. ]^1) Hveragerði,
-                            [56. ]^1) Þorlákshöfn.]^2)
-                   ^1)L. 149/2004, 8. gr. ^2)L. 89/2004, 18. gr.
+                               [Viðauki. ^1)]^2)
+                   ^1)L. 19/2011, 17. gr. ^2)L. 89/2004, 18. gr.
 
 References
 
    Visible links
    1. file://2008030.html
    2. file://2008088.html
-   3. file://2008030.html#g12
-   4. file://2008088.html#g234
-   5. file://1989090.html#g1
-   6. file://1973011.html
+   3. file://2011036.html
+   4. file://2011036.html#g32
+   5. file://2005044.html#g15
+   6. file://2008088.html#g234
+   7. file://1989090.html#g1

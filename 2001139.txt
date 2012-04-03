@@ -12,7 +12,9 @@
 Tóku gildi 31. desember 2001. EES-samningurinn: IV. viðauki tilskipun 96/92/EB.
  Breytt með l. 64/2003 (tóku gildi 7. apríl 2003 en komu til framkvæmda 1. júlí
   sama ár), l. 135/2003 (tóku gildi 30. des. 2003), l. 65/2005 (tóku gildi 31.
-              des. 2005) og l. 144/2010 (tóku gildi 1. jan. 2011).
+ des. 2005), l. 144/2010 (tóku gildi 1. jan. 2011), l. 39/2011 (tóku gildi 21.
+ apríl 2011), l. 49/2011 (taka gildi 1. jan. 2012 nema a-liður 3. gr. og 4. gr.
+   sem taka gildi 1. sept. 2013) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
    1. gr. Heimilt er Reykjavíkurborg, Akraneskaupstað, Hafnarfjarðarkaupstað,
    Borgarbyggð, Garðabæ og Borgarfjarðarsveit að stofna sameignarfyrirtæki um
@@ -41,12 +43,11 @@ fyrirtækið nýtur, á grunni ábyrgðar eigenda, í formi hagstæðari lánskj
    Orkuveita Reykjavíkur greiðir skal ákveðið á grundvelli mats óháðs aðila á
    lánakjörum með og án ábyrgðar eigenda og skal gjaldið reiknað af höfuðstól
                           gjaldskyldra skuldbindinga.
- Ákvæði laga um gjaldþrotaskipti, greiðslustöðvun og nauðasamninga, eins og þau
-  eru á hverjum tíma, gilda um Orkuveitu Reykjavíkur. Ábyrgð eigenda Orkuveitu
-        Reykjavíkur verður ekki virk fyrr en að loknum gjaldþrotaskiptum
-                               fyrirtækisins.]^1)
+ [Komi fram beiðni um greiðslustöðvun, nauðasamninga eða gjaldþrotaskipti skulu
+  ákvæði laga um gjaldþrotaskipti, eins og þau eru á hverjum tíma, eiga við um
+Orkuveitu Reykjavíkur með sama hætti og um félag með takmarkaða ábyrgð.]^2)]^1)
     Eiganda er óheimilt að ganga úr fyrirtækinu án samþykkis sameigendanna.
-                              ^1)L. 144/2010, 1. gr.
+                   ^1)L. 144/2010, 1. gr. ^2)L. 39/2011, 1. gr.
 2. gr. Tilgangur Orkuveitu Reykjavíkur er vinnsla og framleiðsla raforku, varma
  og vatns, dreifing og sala afurða fyrirtækisins ásamt hverri þeirri starfsemi
   annarri sem nýtt getur rannsóknir, þekkingu eða búnað fyrirtækisins, sem og
@@ -56,7 +57,7 @@ fjármálastarfsemi samkvæmt ákvörðun stjórnar hverju sinni. Heimilt er Ork
  3. gr. Stjórn fyrirtækisins er skipuð sex mönnum, fimm kjörnum af borgarstjórn
  Reykjavíkur og einum kjörnum af bæjarstjórn Akraness. Borgarstjórn Reykjavíkur
  kýs formann og varaformann stjórnarinnar úr hópi fulltrúa Reykjavíkurborgar. Á
-                 stjórnarfundum vegur atkvæði formanns tvöfalt.
+               stjórnarfundum vegur atkvæði formanns tvöfalt.^1)
     Varamenn, jafnmargir, skulu kjörnir á sama hátt og aðalmenn. Kjörtímabil
      stjórnarinnar er eitt ár í senn, frá aðalfundi Orkuveitu Reykjavíkur á
                    viðkomandi ári til aðalfundar á næsta ári.
@@ -77,6 +78,8 @@ fjármálastarfsemi samkvæmt ákvörðun stjórnar hverju sinni. Heimilt er Ork
  eignaraðila á aðalfundi og skal atkvæðisréttur vera í samræmi við eignarhluta
  hvers þeirra. Heimilt er stjórn fyrirtækisins að bjóða öðrum að sitja aðalfund
                                    félagsins.
+   ^1)Málsgreininni var breytt með l. 49/2011, 1. gr. Breytingin tekur gildi 1.
+                           jan. 2012 skv. 6. gr. s.l.
    4. gr. Stjórn Orkuveitu Reykjavíkur ræður forstjóra er veitir fyrirtækinu
               forstöðu. Forstjóri skal eiga sæti á stjórnarfundum.
    Stjórn Orkuveitu Reykjavíkur fer með málefni fyrirtækisins og annast um að
@@ -103,7 +106,7 @@ og meðferð fjármuna fyrirtækisins. Forstjóri sér um að bókhald fyrirtæk
           Reykjavíkur, Akraneskaupstaðar, Akranesveitu, Borgarbyggðar,
    Borgarfjarðarsveitar og Hitaveitu Borgarness til starfrækslu hita-, vatns-
                                 og/eða rafveitu.
-Iðnaðarráðherra veitir Orkuveitu Reykjavíkur einkaleyfi til starfrækslu hita- og
+ [Ráðherra]^1) veitir Orkuveitu Reykjavíkur einkaleyfi til starfrækslu hita- og
    rafveitu á þeim svæðum sem Orkuveita Reykjavíkur og Akranesveita þjóna við
                              stofnun fyrirtækisins.
  Orkuveita Reykjavíkur yfirtekur skyldu Reykjavíkurborgar og Akraneskaupstaðar
@@ -113,11 +116,12 @@ Iðnaðarráðherra veitir Orkuveitu Reykjavíkur einkaleyfi til starfrækslu hi
  réttindi til reksturs veitna og dreifikerfa sinna ef samningar takast um það.
 Aðrir sem reka orkumannvirki á starfssvæði Orkuveitu Reykjavíkur við gildistöku
                    laga þessara skulu halda þeim rétti sínum.
+                             ^1)L. 126/2011, 336. gr.
  6. gr. Stjórn sameignarfyrirtækisins setur gjaldskrár um verð á seldri orku og
                                vatni til notenda.
  [Gjaldskrár fyrir sölu á heitu vatni öðlast eigi gildi fyrr en þær hafa verið
-staðfestar af iðnaðarráðherra og birtar í Stjórnartíðindum. Gjaldskrá vatnsveitu
-      skal byggð á lögum um vatnsveitur [1]sveitarfélaga, nr. 81/1991.]^1)
+ staðfestar af [ráðherra]^1) og birtar í Stjórnartíðindum. Gjaldskrá vatnsveitu
+      skal byggð á lögum um vatnsveitur [1]sveitarfélaga, nr. 81/1991.]^2)
 Orkuveita Reykjavíkur hefur sjálfstætt reikningshald og tekur sjálf við greiðslu
  fyrir selda orku og öðrum tekjum. Skal tekjunum varið til að standa straum af
   öllum greiðsluskuldbindingum, svo sem afborgunum áhvílandi skulda, vöxtum og
@@ -134,7 +138,7 @@ af orkuöflun, flutningi, dreifingu og sölu. Sameiginlegum kostnaði skal skipt
                                   Reykjavíkur.
  Við rekstur Orkuveitu Reykjavíkur skal þess gætt að samkeppnisrekstur sé ekki
          niðurgreiddur af einkaréttarstarfsemi eða verndaðri starfsemi.
-                              ^1)L. 64/2003, 15. gr.
+                  ^1)L. 126/2011, 336. gr. ^2)L. 64/2003, 15. gr.
  7. gr. Starfsmenn Orkuveitu Reykjavíkur, Akranesveitu, Andakílsárvirkjunar og
  Hitaveitu Borgarness eiga rétt á störfum hjá hinu nýja fyrirtæki og skulu þeim
  boðin störf hjá því, sambærileg þeim er þeir áður gegndu. Umræddir starfsmenn

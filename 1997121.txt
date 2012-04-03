@@ -9,8 +9,9 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-Tóku gildi 1. janúar 1998. Breytt með l. 70/2000 (tóku gildi 26. maí 2000) og l.
-      180/2000 (tóku gildi 11. jan. 2001; EES-samningurinn: XV. viðauki).
+ Tóku gildi 1. janúar 1998. Breytt með l. 70/2000 (tóku gildi 26. maí 2000), l.
+ 180/2000 (tóku gildi 11. jan. 2001; EES-samningurinn: XV. viðauki), l. 20/2011
+     (tóku gildi 12. mars 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
    1. gr. Ríkissjóður má aldrei takast á hendur ábyrgðarskuldbindingar, nema
          heimild sé veitt til þess í lögum. Ríkissjóður má ekki ganga í
@@ -19,14 +20,15 @@ heimila. Um veitingu ríkisábyrgða fer að öðru leyti eftir ákvæðum laga 
   Ákvæði laga þessara gilda einnig um endurlán ríkissjóðs eftir því sem við á.
     Endurlán verða þó ekki veitt aðilum utan B- og C-hluta ríkissjóðs, nema
            sérstaklega sé kveðið á um það í lögum sem ábyrgð heimila.
-  2. gr. Í frumvarpi sem fjármálaráðherra leggur fram um veitingu ríkisábyrgða
-  skal liggja fyrir umsögn Ríkisábyrgðasjóðs samkvæmt [1]lögum nr. 43/1990, um
+ 2. gr. Í frumvarpi sem [ráðherra]^1) leggur fram um veitingu ríkisábyrgða skal
+    liggja fyrir umsögn Ríkisábyrgðasjóðs samkvæmt [1]lögum nr. 43/1990, um
                    Lánasýslu ríkisins, á eftirtöldum þáttum:
                           1. Mat á greiðsluhæfi skuldara.
                  2. Mat á afskriftaþörf vegna áhættu af ábyrgðum.
-          3. Mat á tryggingum sem lagðar verða fram vegna ábyrgðarinnar.
-Fjármálaráðherra er heimilt í reglugerð að ákveða hámark veðsetningarhlutfalls.
+   3. Mat á tryggingum sem lagðar verða fram vegna ábyrgðarinnar. [Ráðherra]^1)
+         er heimilt í reglugerð að ákveða hámark veðsetningarhlutfalls.
            4. Mat á áhrifum ríkisábyrgða á samkeppni á viðkomandi sviði.
+                             ^1)L. 126/2011, 253. gr.
 3. gr. Ríkissjóði er óheimilt að takast á hendur ríkisábyrgð nema að fullnægðum
                             eftirfarandi skilyrðum:
    1. Kveðið sé á um heimild til ríkisábyrgðar í lögum þeim sem ábyrgð heimila.
@@ -44,10 +46,11 @@ Ríkissjóði er óheimilt að takast á hendur ábyrgð fyrir aðila sem er í 
     upphafi lánstíma og rennur það í ríkissjóð. Áhættugjald skal ákveðið af
  Ríkisábyrgðasjóði og taka mið af þeirri áhættu sem talin er vera af ábyrgðinni
          og hvort um einfalda ábyrgð eða sjálfskuldarábyrgð er að ræða.
-Ábyrgðarþegi skal greiða afgreiðslugjald samkvæmt gjaldskrá sem fjármálaráðherra
+ Ábyrgðarþegi skal greiða afgreiðslugjald samkvæmt gjaldskrá sem [ráðherra]^1)
 setur. Skal það taka mið af kostnaði við afgreiðslu og mat á viðkomandi ábyrgð.
               Afgreiðslugjaldið skal renna til Ríkisábyrgðasjóðs.
    Lánveitandi annast innheimtu áhættu- og afgreiðslugjalda hjá ábyrgðarþega.
+                             ^1)L. 126/2011, 253. gr.
  5. gr. Ríkisábyrgðasjóður skal halda afskriftareikning vegna veittra ábyrgða.
 Afskriftareikningur sjóðsins skal á hverjum tíma gefa raunhæfa mynd af áætluðum
    afskriftum allra ábyrgða sjóðsins. Jafnharðan og ákvarðanir eru teknar um
@@ -56,7 +59,7 @@ Afskriftareikningur sjóðsins skal á hverjum tíma gefa raunhæfa mynd af áæ
 Eigi sjaldnar en árlega skal endurmeta áhættu og afskriftaþörf Ríkisábyrgðasjóðs
      vegna ábyrgða og endurlána og á grundvelli þess endurákvarða framlag á
  afskriftareikning. Leiði sú endurskoðun í ljós að varasjóður Ríkisábyrgðasjóðs
- nægi ekki til að mæta þannig metnum skuldbindingum skal fjármálaráðherra gera
+   nægi ekki til að mæta þannig metnum skuldbindingum skal [ráðherra]^1) gera
    Alþingi viðvart og gera tillögu um aðgerðir til að koma jafnvægi á fjárhag
                                    sjóðsins.
  Ríkisábyrgðasjóður skal fylgjast með rekstri þeirra aðila er ríkissjóður hefur
@@ -65,17 +68,23 @@ Eigi sjaldnar en árlega skal endurmeta áhættu og afskriftaþörf Ríkisábyrg
  nauðsynleg teljast til þess að hann geti rækt þetta eftirlit. Verði dráttur á
    afhendingu umbeðinna upplýsinga er ráðherra heimilt að beita dagsektum uns
  gögnin eru komin fram. Um fjárhæð dagsekta skal nánar kveðið á í gjaldskrá er
- fjármálaráðherra setur. Dagsektir þessar skal ákveða með ábyrgðarbréfi, og má
+   [ráðherra]^1) setur. Dagsektir þessar skal ákveða með ábyrgðarbréfi, og má
                             innheimta þær með aðför.
+                             ^1)L. 126/2011, 253. gr.
   6. gr. Bankar, lánasjóðir, lánastofnanir, fyrirtæki og aðrir þeir aðilar sem
   lögum samkvæmt njóta, eða hafa notið, ábyrgðar ríkissjóðs, hvort sem hún er
  tilkomin vegna eignaraðildar ríkissjóðs eða annars, skulu greiða ábyrgðargjald
 af þeim skuldbindingum sínum sem ríkisábyrgð er á. Almennar viðskiptaskuldir og
       eftirlauna- og lífeyrisskuldbindingar skulu þó undanþegnar gjaldinu.
-     [Ábyrgðargjald skv. 1. mgr. nemur 0,0625% á ársfjórðungi af höfuðstól
-gjaldskyldra skuldbindinga eins og hann er að meðaltali á hverju gjaldtímabili,
-                  sbr. 8. gr. Gjaldið rennur í ríkissjóð.]^1)
-                              ^1)L. 180/2000, 1. gr.
+      [Aðilar skv. 1. mgr. skulu greiða í ríkissjóð ábyrgðargjald af þeim
+ skuldbindingum þeirra sem ríkisábyrgð er á. Ábyrgðargjald skal svara að fullu
+  til þeirrar ívilnunar sem viðkomandi aðili nýtur, á grunni ríkisábyrgðar, í
+  formi hagstæðari lánskjara umfram þau kjör sem almennt bjóðast á markaði án
+     ríkisábyrgðar. Ábyrgðargjald samkvæmt málsgrein þessari skal ákveðið á
+grundvelli mats óháðs aðila á lánskjörum með og án ríkisábyrgðar og skal gjaldið
+ reiknað af höfuðstól gjaldskyldra skuldbindinga eins og hann er að meðaltali á
+                     hverju gjaldtímabili, sbr. 8. gr.]^1)
+                               ^1)L. 20/2011, 1. gr.
  7. gr. [Lán sem áhættugjald skv. 4. gr. hefur verið greitt af, skuldbindingar
   vegna innstæðna á innlánsreikningum í innlánsstofnunum, skuldbindingar vegna
    útflutningsábyrgða með ríkisábyrgð, Seðlabanki Íslands, Íbúðalánasjóður og
@@ -100,9 +109,9 @@ gjaldskyldra skuldbindinga eins og hann er að meðaltali á hverju gjaldtímabi
  mánaðar eftir að gjaldtímabili lýkur. Sé ábyrgðargjald ekki greitt á gjalddaga
  skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er skv. [2]10. gr.
                     laga nr. 25/1987, með síðari breytingum.
- 9. gr. Fjármálaráðherra skal með reglugerð^1) setja nánari ákvæði um framkvæmd
-                                 laga þessara.
-                          ^1)Rg. 237/1998, sbr. 557/2001.
+9. gr. [Ráðherra]^1) skal með reglugerð^2) setja nánari ákvæði um framkvæmd laga
+                                    þessara.
+             ^1)L. 126/2011, 253. gr. ^2)Rg. 237/1998, sbr. 557/2001.
                  10. gr. Lög þessi öðlast gildi 1. janúar 1998.
  Ákvæði til bráðabirgða. Eftir gildistöku laga þessara skal fara fram athugun á
    fjárhagsstöðu Ríkisábyrgðasjóðs með það að markmiði að leiða í ljós áhættu

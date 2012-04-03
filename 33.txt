@@ -13,7 +13,7 @@
 
   33.b. Heimildir til fiskveiða og fiskvinnslu o.fl.
 
-     * Lög um stjórn fiskveiða, [7]2006 nr. 116 10. ágúst
+     * Lög um stjórn fiskveiða, [7]nr. 116 10. ágúst 2006
      * Lög um vísindalega verndun fiskimiða landgrunnsins, [8]nr. 44 5. apríl
        1948
      * Lög um fullvinnslu botnfiskafla um borð í veiðiskipum, [9]nr. 54 16.
@@ -85,8 +85,9 @@
      * Lög um fiskrækt, [41]nr. 58 14. júní 2006
      * Lög um varnir gegn fisksjúkdómum, [42]nr. 60 14. júní 2006
      * Lög um Fiskræktarsjóð, [43]nr. 72 11. júní 2008
+     * Lög um skeldýrarækt, [44]nr. 90 23. júní 2011
 
-    [44]Kaflar lagasafns
+    [45]Kaflar lagasafns
 
 References
 
@@ -134,4 +135,5 @@ References
   41. file://2006058.html
   42. file://2006060.html
   43. file://2008072.html
-  44. file://kaflar.html
+  44. file://2011090.html
+  45. file://kaflar.html

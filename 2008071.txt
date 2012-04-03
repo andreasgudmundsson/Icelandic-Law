@@ -1,15 +1,17 @@
 
    --------------------------------------------------------------------------
 
-                                Lög um fiskeldi
+                               Lög um fiskeldi^1)
 
                               2008 nr. 71 11. júní
 
    --------------------------------------------------------------------------
 
+   ^1)Lögunum var breytt með l. 131/2011. Breytingarnar taka gildi 1. jan. 2012.
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                            Tóku gildi 1. júlí 2008.
+ Tóku gildi 1. júlí 2008. Breytt með l. 126/2011 (tóku gildi 30. sept. 2011) og
+                     l. 131/2011 (taka gildi 1. jan. 2012).
 
                 I. kafli. Markmið, gildissvið og skilgreiningar.
                                 1. gr. Markmið.
@@ -92,9 +94,9 @@ undaneldis eru valdir fiskar sem sýna ákjósanlega eiginleika umfram aðra fis
 
                             II. kafli. Stjórnsýsla.
                               4. gr. Stjórnsýsla.
-  Sjávarútvegs- og landbúnaðarráðherra fer með yfirstjórn mála samkvæmt lögum
- þessum, en framkvæmd stjórnsýslunnar er að öðru leyti í höndum Fiskistofu sem
-            hefur eftirlit með því að ákvæðum laganna sé framfylgt.
+   [Ráðherra]^1) fer með yfirstjórn mála samkvæmt lögum þessum, en framkvæmd
+stjórnsýslunnar er að öðru leyti í höndum Fiskistofu sem hefur eftirlit með því
+                        að ákvæðum laganna sé framfylgt.
 Ráðherra skal í samræmi við fyrirmæli einstakra greina laga þessara setja nánari
   ákvæði um framkvæmd þeirra í reglugerð. Við setningu reglugerða skal ávallt
  leitað faglegrar umsagnar Fiskistofu, Matvælastofnunar, Veiðimálastofnunar og
@@ -102,19 +104,21 @@ Ráðherra skal í samræmi við fyrirmæli einstakra greina laga þessara setja
           Landssambands fiskeldisstöðva og Landssambands veiðifélaga.
 Allar fiskeldisstöðvar skulu hafa með sér samtök, Landssamband fiskeldisstöðva,
                 sem gæta sameiginlegra hagsmuna fiskeldismanna.
+                             ^1)L. 126/2011, 483. gr.
                         5. gr. Svæðaskipting fiskeldis.
- Sjávarútvegs- og landbúnaðarráðherra skal, ef vistfræðileg eða hagræn rök mæla
-með því, ákveða samkvæmt lögum þessum skiptingu fiskeldissvæða meðfram ströndum
- landsins. Áður en ákvörðun um slíka svæðaskiptingu er tekin skal ráðherra afla
-   umsagnar umhverfisráðuneytis, Fiskistofu, Matvælastofnunar, Landssambands
-        fiskeldisstöðva, Landssambands veiðifélaga, Veiðimálastofnunar,
+[Ráðherra]^1) skal, ef vistfræðileg eða hagræn rök mæla með því, ákveða samkvæmt
+    lögum þessum skiptingu fiskeldissvæða meðfram ströndum landsins. Áður en
+  ákvörðun um slíka svæðaskiptingu er tekin skal ráðherra afla umsagnar [þess
+ráðuneytis er fer með málefni náttúruverndar],^1) Fiskistofu, Matvælastofnunar,
+ Landssambands fiskeldisstöðva, Landssambands veiðifélaga, Veiðimálastofnunar,
            Hafrannsóknastofnunarinnar og viðkomandi sveitarstjórnar.
+                             ^1)L. 126/2011, 483. gr.
                      6. gr. Staðbundið bann við starfsemi.
-   Sjávarútvegs- og landbúnaðarráðherra getur, að fenginni umsögn Fiskistofu,
- Matvælastofnunar, Veiðimálastofnunar, Hafrannsóknastofnunarinnar og viðkomandi
-  sveitarstjórnar, takmarkað eða bannað fiskeldi eða ákveðnar eldisaðferðir í
-   einstaka fjörðum, flóum eða á svæðum sem teljast sérlega viðkvæm gagnvart
-              starfsemi þeirri sem fram fer samkvæmt lögum þessum.
+     [Ráðherra]^1) getur, að fenginni umsögn Fiskistofu, Matvælastofnunar,
+ Veiðimálastofnunar, Hafrannsóknastofnunarinnar og viðkomandi sveitarstjórnar,
+  takmarkað eða bannað fiskeldi eða ákveðnar eldisaðferðir í einstaka fjörðum,
+  flóum eða á svæðum sem teljast sérlega viðkvæm gagnvart starfsemi þeirri sem
+                        fram fer samkvæmt lögum þessum.
 Við ákvörðun ráðherra skv. 1. mgr. skal taka mið af því að markmið laga þessara
  er m.a. að vernda villta nytjastofna, hvort sem um er að ræða ferskvatnsfiska
       eða sjávarfiska, og hlífa þeim við fisksjúkdómum og öðrum neikvæðum
@@ -125,6 +129,7 @@ Við ákvörðun ráðherra skv. 1. mgr. skal taka mið af því að markmið la
                                 sleppifisk í ár.
   Um skaðabætur vegna tjóns, sem leiðir af banni eða takmörkun samkvæmt grein
              þessari, fer eftir því sem mælt er fyrir um í 18. gr.
+                             ^1)L. 126/2011, 483. gr.
 
                     III. kafli. Rekstrarleyfi til fiskeldis.
                              7. gr. Rekstrarleyfi.
@@ -237,8 +242,8 @@ Fiskistofa skal hafa eftirlit með fiskeldisstöðvum í samræmi við fyrirmæl
 fiski, uppruna hans, sjúkdóma og önnur óhöpp í rekstri, svo og önnur þau atriði
   sem stofnuninni eru nauðsynleg til virks eftirlits samkvæmt lögum þessum. Þá
    skal færð dagbók um starfsemina í fiskeldisstöðvum samkvæmt reglugerð sem
- sjávarútvegs- og landbúnaðarráðherra setur. Fiskistofu skal ætíð vera heimill
-                    aðgangur að eldisstöð og dagbók hennar.
+[ráðherra]^1) setur. Fiskistofu skal ætíð vera heimill aðgangur að eldisstöð og
+                                 dagbók hennar.
   Ráðherra skal í reglugerð mæla nánar fyrir um eftirlitshlutverk Fiskistofu.
 Fiskistofu er heimilt að fela aðilum sem hlotið hafa faggildingu samkvæmt lögum
     um faggildingu o.fl. að annast framkvæmd eftirlitsins samkvæmt sérstökum
@@ -248,12 +253,12 @@ gr. laga um réttindi og skyldur starfsmanna ríkisins, nr. 70/1996, og skal bro
   á henni varða refsingu skv. [2]136. gr. almennra hegningarlaga, nr. 19/1940.
   Fyrir eftirlit Fiskistofu eða faggiltra eftirlitsaðila á hennar vegum skulu
   fiskeldisstöðvar greiða árlegt eftirlitsgjald sem miðast við raunkostnað við
-     eftirlitið samkvæmt gjaldskrá sem sjávarútvegs- og landbúnaðarráðherra
-staðfestir. Eftirlitsgjald skal innheimt með einni greiðslu á ári eigi síðar en
- 1. nóvember ár hvert. Fiskistofa skal annast innheimtu eftirlitsgjaldsins. Ef
-eftirlitsgjald er ekki greitt á eindaga reiknast hæstu lögleyfðir dráttarvextir
-af fjárhæð þess frá gjalddaga til greiðsludags. Eftirlitsgjald má innheimta með
-                                   fjárnámi.
+eftirlitið samkvæmt gjaldskrá sem [ráðherra]^1) staðfestir. Eftirlitsgjald skal
+innheimt með einni greiðslu á ári eigi síðar en 1. nóvember ár hvert. Fiskistofa
+  skal annast innheimtu eftirlitsgjaldsins. Ef eftirlitsgjald er ekki greitt á
+ eindaga reiknast hæstu lögleyfðir dráttarvextir af fjárhæð þess frá gjalddaga
+          til greiðsludags. Eftirlitsgjald má innheimta með fjárnámi.
+                             ^1)L. 126/2011, 483. gr.
 
                      V. kafli. Afturköllun rekstrarleyfis.
                             15. gr. Forsendubrestur.
@@ -317,21 +322,21 @@ notuð vísindatæki og tæknibúnað, m.a. tæki til flutnings sem sannanlega e
   berist smitefni með honum sem valda dýrasjúkdómum. Sækja skal um leyfi fyrir
       innflutningi á notuðum vísindatækjum, tæknibúnaði og eldisbúnaði til
   Matvælastofnunar sem getur heimilað innflutning að fenginni jákvæðri umsögn
-fisksjúkdómanefndar. Sjávarútvegs- og landbúnaðarráðherra skal í reglugerð setja
-nánari fyrirmæli um notkun flutningstækja og búnaðar sem notaður er í starfsemi
-                              rekstrarleyfishafa.
+ fisksjúkdómanefndar. [Ráðherra]^1) skal í reglugerð setja nánari fyrirmæli um
+notkun flutningstækja og búnaðar sem notaður er í starfsemi rekstrarleyfishafa.
+                             ^1)L. 126/2011, 483. gr.
 
                VII. kafli. Reglugerðarheimild, refsiákvæði o.fl.
                         21. gr. Reglugerðarheimild o.fl.
-   Sjávarútvegs- og landbúnaðarráðherra setur nánari reglur um framkvæmd laga
-   þessara með reglugerð.^1) Þar skal m.a. kveðið á um útgáfu rekstrarleyfa,
- merkingar á seiðum í kvíaeldi, fóðurnotkun, endurnýjun eldisbúnaðar, úttekt á
-fiskeldisstöðvum, eftirlit með starfsemi fiskeldisstöðva, flutning eldistegunda
-   milli fiskeldisstöðva, flutning fisks og frjóvgaðra hrogna milli ótengdra
-                                vatnasvæða o.fl.
+ [Ráðherra]^1) setur nánari reglur um framkvæmd laga þessara með reglugerð.^2)
+ Þar skal m.a. kveðið á um útgáfu rekstrarleyfa, merkingar á seiðum í kvíaeldi,
+ fóðurnotkun, endurnýjun eldisbúnaðar, úttekt á fiskeldisstöðvum, eftirlit með
+starfsemi fiskeldisstöðva, flutning eldistegunda milli fiskeldisstöðva, flutning
+           fisks og frjóvgaðra hrogna milli ótengdra vatnasvæða o.fl.
      Fiskistofu er, eftir því sem þörf krefur, heimilt að setja svæðis- eða
                tímabundnar reglur á grundvelli slíkra reglugerða.
-           ^1)Rg. 1254/2008, sbr. 303/2009. Rg. 736/2009, sbr. 10/2011.
+   ^1)L. 126/2011, 483. gr. ^2)Rg. 1254/2008, sbr. 303/2009. Rg. 736/2009, sbr.
+                             10/2011. Rg. 168/2011.
                              22. gr. Um refsingar.
    Það varðar stjórnarmenn og framkvæmdastjóra rekstrarleyfishafa sektum eða
               fangelsi allt að tveimur árum, ef sakir eru miklar:

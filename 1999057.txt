@@ -10,17 +10,17 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. júlí 1999. Breytt með l. 71/2004 (tóku gildi 1. jan. 2005), l.
-173/2006 (tóku gildi 1. júlí 2007), l. 167/2007 (tóku gildi 1. jan. 2008) og l.
-                      162/2010 (tóku gildi 1. jan. 2011).
+ 173/2006 (tóku gildi 1. júlí 2007), l. 167/2007 (tóku gildi 1. jan. 2008), l.
+ 162/2010 (tóku gildi 1. jan. 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
                  I. kafli. Gildissvið, hlutverk og yfirstjórn.
         1. gr. [Lög þessi taka til menntastofnana landbúnaðarins sem eru
         Landbúnaðarháskóli Íslands og Hólaskóli  Háskólinn á Hólum.]^1)
                               ^1)L. 173/2006, 1. gr.
-2. gr. [Menntastofnanir landbúnaðarins lúta yfirstjórn menntamálaráðherra, sbr.
+   2. gr. [Menntastofnanir landbúnaðarins lúta yfirstjórn [ráðherra],^1) sbr.
         einnig [1]lög nr. 63/2006, um háskóla, og [2]lög nr. 80/1996, um
-                              framhaldsskóla.]^1)
-                              ^1)L. 167/2007, 15. gr.
+                              framhaldsskóla.]^2)
+                 ^1)L. 126/2011, 288. gr. ^2)L. 167/2007, 15. gr.
    3. gr. Með búnaðarfræðslu er átt við skipulegt nám og kennslu, rannsóknir,
  fræðslu og aðra leiðsögn er lýtur að vörslu, meðferð, ræktun og nytjun lands,
       annarra jarðargæða og búfjár til framleiðslu matvæla og hráefna til
@@ -37,8 +37,8 @@
         b. að veita endurmenntun á þeim námssviðum sem lög þessi taka til.
                                    4. gr. ^1)
                               ^1)L. 173/2006, 3. gr.
-5. gr. [Menntamálaráðherra]^1) skal setja [reglugerð]^2) um eftirfarandi þætti í
-                    starfsemi menntastofnana landbúnaðarins:
+5. gr. [Ráðherra]^1) skal setja [reglugerð]^2) um eftirfarandi þætti í starfsemi
+                         menntastofnana landbúnaðarins:
         1. Með hvaða hætti þær uppfylla skyldur sínar um eftirlit með gæðum
      kennslunnar, hæfni kennara og hvernig ytra gæðaeftirliti skuli háttað.
    2. Með hvaða hætti þær uppfylla rannsóknarhlutverk sitt, skyldur um eftirlit
@@ -48,7 +48,7 @@
         fyrir sérstaka áfrýjunarnefnd sem hafi endanlegt úrskurðarvald.
                      [4. Verkaskiptingu á milli skólanna.]^2)
                                       ^2)
-                   ^1)L. 167/2007, 16. gr. ^2)L. 71/2004, 3. gr.
+                  ^1)L. 126/2011, 288. gr. ^2)L. 71/2004, 3. gr.
   6. gr. Menntastofnunum landbúnaðarins ber að hafa í starfi sínu samstarf við
 aðra skóla og vísindastofnanir hér á landi og erlendis um menntun og rannsóknir.
                  Um þetta er heimilt að gera sérstaka samninga.
@@ -84,10 +84,9 @@ nemandi hefur staðist próf í öllum námskeiðum og skilað með fullnægjand
      13. gr. [[4]III. kafli laga nr. 63/2006, sem fjallar um námsframboð og
       prófgráður í háskólum, gildir um menntastofnanir landbúnaðarins.]^1)
                               ^1)L. 167/2007, 19. gr.
-14. gr. [Viðmið, útgefin af menntamálaráðherra skv. [5]5. gr. laga nr. 63/2006,
-     gilda um æðri menntun og prófgráður sem menntastofnanir landbúnaðarins
-                                   veita.]^1)
-                              ^1)L. 167/2007, 20. gr.
+14. gr. [Viðmið, útgefin af [ráðherra]^1) skv. [5]5. gr. laga nr. 63/2006, gilda
+  um æðri menntun og prófgráður sem menntastofnanir landbúnaðarins veita.]^2)
+                 ^1)L. 126/2011, 288. gr. ^2)L. 167/2007, 20. gr.
 15. gr. Yfirstjórn hverrar stofnunar skal staðfesta reglur um skráningu nemenda
      í einstakar námsbrautir þar sem nánar er kveðið á um inntökuskilyrði í
                              viðkomandi námsbraut.
@@ -126,9 +125,10 @@ Heimilt er að ráða sérfræðinga að menntastofnunum landbúnaðarins sérst
                                  26. og 33. gr.
                                ^1)L. 71/2004, 4. gr.
        18. gr. Heimilt er að stofna sérstaka rannsóknarsjóði til eflingar
-       rannsóknastarfi stofnananna. Um þá skulu settar skipulagsskrár sem
-      [innanríkisráðherra]^1) staðfestir og þær birtar í Stjórnartíðindum.
-                             ^1)L. 162/2010, 157. gr.
+rannsóknastarfi stofnananna. Um þá skulu settar skipulagsskrár sem [ráðherra er
+        fer með málefni sjóða og stofnana sem starfa samkvæmt staðfestri
+         skipulagsskrá]^1) staðfestir og þær birtar í Stjórnartíðindum.
+                             ^1)L. 126/2011, 288. gr.
 
                    IV. kafli. Endurmenntun og leiðbeiningar.
 19. gr. Við menntastofnanir landbúnaðarins má starfrækja endurmenntunardeildir á
@@ -160,16 +160,16 @@ Rektor er æðsti fulltrúi Landbúnaðarháskóla Íslands gagnvart mönnum og 
                                ^1)L. 71/2004, 6. gr.
                        23. gr. [Í háskólaráði eiga sæti:
                    1. Rektor sem jafnframt er formaður ráðsins.
-                 2. Einn fulltrúi skipaður af landbúnaðarráðherra.
-                3. Einn fulltrúi tilnefndur af menntamálaráðherra.
+    2. Einn fulltrúi skipaður af [ráðherra er fer með málefni landbúnaðar].^1)
+                   3. Einn fulltrúi tilnefndur af [ráðherra].^1)
               4. Tveir fulltrúar tilnefndir af Bændasamtökum Íslands.
               5. Einn fulltrúi tilnefndur af Samtökum atvinnulífsins.
             6. Einn fulltrúi tilnefndur af háskólaráði Háskóla Íslands.
             7. Einn fulltrúi tilnefndur af starfsmönnum stofnunarinnar.
                      8. Einn fulltrúi tilnefndur af nemendum.
-          [Tilnefna skal og skipa bæði aðal- og varamenn í háskólaráð.
-   [Menntamálaráðherra]^1) skipar háskólaráð til þriggja ára í senn.]^2)]^3)
-       ^1)L. 167/2007, 16. gr. ^2)L. 173/2006, 10. gr. ^3)L. 71/2004, 7. gr.
+   [Tilnefna skal og skipa bæði aðal- og varamenn í háskólaráð. [Ráðherra]^1)
+               skipar háskólaráð til þriggja ára í senn.]^2)]^3)
+      ^1)L. 126/2011, 288. gr. ^2)L. 173/2006, 10. gr. ^3)L. 71/2004, 7. gr.
   24. gr. Rektor boðar til funda í háskólaráði. Óski þrír háskólaráðsfulltrúar
   eftir fundi er rektor skylt að boða til hans. Rektor stýrir fundum ráðsins.
   Háskólaráðsfundur er ályktunarbær ef tveir þriðju hlutar atkvæðisbærra manna
@@ -177,12 +177,12 @@ Rektor er æðsti fulltrúi Landbúnaðarháskóla Íslands gagnvart mönnum og 
   sker atkvæði [formanns]^1) úr. Varamenn sitja fundi háskólaráðs í forföllum
                                    aðalmanna.
                                ^1)L. 71/2004, 8. gr.
- 25. gr. [Menntamálaráðherra]^1) skipar rektor til fimm ára [að fenginni umsögn
+      25. gr. [Ráðherra]^1) skipar rektor til fimm ára [að fenginni umsögn
             háskólaráðs].^2) Skal staðan auglýst laus til umsóknar.
  Þann einan má skipa í stöðu rektors sem lokið hefur æðri prófgráðu við háskóla
                        og öðlast hefur stjórnunarreynslu.
                                       ^2)
-                   ^1)L. 167/2007, 16. gr. ^2)L. 71/2004, 9. gr.
+                  ^1)L. 126/2011, 288. gr. ^2)L. 71/2004, 9. gr.
 26. gr. Kennarar við [Landbúnaðarháskóla Íslands]^1) eru prófessorar, dósentar,
  lektorar og stundakennarar. Prófessorar, dósentar og lektorar skulu vera þeir
   einir sem hafa kennslu og rannsóknir að aðalstarfi. Háskólaráð setur nánari
@@ -198,16 +198,16 @@ Kennarar við [Landbúnaðarháskóla Íslands]^1) skulu hafa lokið meistarapr�
                                starfssviði sínu.
   Skipa skal þriggja manna dómnefnd til þess að dæma um hæfi umsækjenda til að
 gegna starfi prófessors, dósents eða lektors. Rektor skipar dómnefnd, einn mann
-   eftir tilnefningu [menntamálaráðuneytis]^2) og tvo menn eftir tilnefningu
- háskólaráðs og skipar rektor annan þeirra formann nefndarinnar. Í dómnefnd má
-  skipa þá eina sem lokið hafa a.m.k. meistaraprófi úr háskóla og skulu a.m.k.
-                   tveir nefndarmanna starfa utan háskólans.
+ eftir tilnefningu [ráðuneytisins]^2) og tvo menn eftir tilnefningu háskólaráðs
+og skipar rektor annan þeirra formann nefndarinnar. Í dómnefnd má skipa þá eina
+      sem lokið hafa a.m.k. meistaraprófi úr háskóla og skulu a.m.k. tveir
+                      nefndarmanna starfa utan háskólans.
   Dómnefnd skal láta uppi rökstutt álit um það hvort ráða megi af vísindagildi
  rita og rannsókna umsækjanda, svo og af námsferli hans og störfum, að hann sé
   hæfur til að gegna starfinu. Engum manni má veita prófessors-, dósents- eða
  lektorsstarf nema meiri hluti dómnefndar hafi látið það álit í ljós að hann sé
                                 til þess hæfur.
-                  ^1)L. 71/2004, 10. gr. ^2)L. 167/2007, 21. gr.
+                  ^1)L. 71/2004, 10. gr. ^2)L. 126/2011, 288. gr.
        28. gr. [Við Landbúnaðarháskóla Íslands skal starfrækja sérstakar
    búnaðarnámsbrautir og sérstakar starfsmenntanámsbrautir á sviði garðyrkju.
  Heimilt er að ráða að búnaðar- og starfsmenntanámsbrautum skólans kennara sem
@@ -241,17 +241,18 @@ ráðningarvald yfir öllum starfsmönnum skólans. Verkefni rektors skulu skilg
                               ^1)L. 173/2006, 11. gr.
                        [31. gr. Í háskólaráði eiga sæti:
                    1. Rektor sem jafnframt er formaður ráðsins.
-                2. Einn fulltrúi tilnefndur af landbúnaðarráðherra.
-                3. Einn fulltrúi tilnefndur af menntamálaráðherra.
+   2. Einn fulltrúi tilnefndur af [ráðherra er fer með málefni landbúnaðar].^1)
+                   3. Einn fulltrúi tilnefndur af [ráðherra].^1)
             4. Einn fulltrúi tilnefndur af háskólaráði Háskóla Íslands.
-               5. Einn fulltrúi tilnefndur af sjávarútvegsráðherra.
-              6. Einn fulltrúi tilnefndur af [innanríkisráðherra].^1)
+      5. Einn fulltrúi tilnefndur af [ráðherra er fer með málefni fiskeldis,
+                       fiskræktar og skeldýraræktar].^1)
+    6. Einn fulltrúi tilnefndur af [ráðherra er fer með sveitarstjórnarmál].^1)
                7. Einn fulltrúi tilnefndur af Félagi tamningamanna.
             8. Einn fulltrúi tilnefndur af starfsmönnum stofnunarinnar.
                      9. Einn fulltrúi tilnefndur af nemendum.
-          Tilnefna skal og skipa bæði aðal- og varamenn í háskólaráð.
-     [Menntamálaráðherra]^2) skipar háskólaráð til þriggja ára í senn.]^3)
-     ^1)L. 162/2010, 224. gr. ^2)L. 167/2007, 16. gr. ^3)L. 173/2006, 11. gr.
+Tilnefna skal og skipa bæði aðal- og varamenn í háskólaráð. [Ráðherra]^1) skipar
+                     háskólaráð til þriggja ára í senn.]^2)
+                 ^1)L. 126/2011, 288. gr. ^2)L. 173/2006, 11. gr.
   [31. gr. a. Rektor boðar til funda í háskólaráði. Óski þrír háskólaráðsmenn
 eftir fundi er rektor skylt að boða til hans. Rektor stýrir fundum háskólaráðs.
  Fundur háskólaráðs er ályktunarbær ef tveir þriðju hlutar atkvæðisbærra manna
@@ -259,11 +260,11 @@ eftir fundi er rektor skylt að boða til hans. Rektor stýrir fundum háskólar
      sker atkvæði rektors úr. Varamenn sitja fundi háskólaráðs í forföllum
                                  aðalmanna.]^1)
                               ^1)L. 173/2006, 11. gr.
- [32. gr. [Menntamálaráðherra]^1) skipar í stöðu rektors Hólaskóla til fimm ára
-  að fenginni umsögn háskólaráðs. Skal staðan auglýst laus til umsóknar. Þann
-  einan má skipa í stöðu rektors sem lokið hefur æðri prófgráðu við háskóla og
-                         öðlast stjórnunarreynslu.]^2)
-                  ^1)L. 167/2007, 16. gr. ^2)L. 173/2006, 11. gr.
+[32. gr. [Ráðherra]^1) skipar í stöðu rektors Hólaskóla til fimm ára að fenginni
+umsögn háskólaráðs. Skal staðan auglýst laus til umsóknar. Þann einan má skipa í
+       stöðu rektors sem lokið hefur æðri prófgráðu við háskóla og öðlast
+                             stjórnunarreynslu.]^2)
+                 ^1)L. 126/2011, 288. gr. ^2)L. 173/2006, 11. gr.
  [33. gr. Kennarar við Hólaskóla eru prófessorar, dósentar, lektorar, aðjunktar
                                og stundakennarar.
   Prófessorar, dósentar og lektorar skulu vera þeir einir sem hafa kennslu og
@@ -283,26 +284,25 @@ jafngilda þekkingu og reynslu að mati dómnefndar. Þeir skulu jafnframt hafa 
                 viðkomandi sviði að mati rektors og háskólaráðs.
   Skipa skal þriggja manna dómnefnd til þess að dæma um hæfi umsækjenda til að
 gegna starfi prófessors, dósents eða lektors. Rektor skipar dómnefnd, einn mann
-   eftir tilnefningu [menntamálaráðuneytis],^1) og tvo menn eftir tilnefningu
- háskólaráðs og skipar rektor annan þeirra formann nefndarinnar. Skal hann hafa
-sama eða æðra hæfi og um er fjallað, verði því við komið. Í dómnefnd má skipa þá
-   eina sem lokið hafa a.m.k. meistaraprófi úr háskóla og skulu a.m.k. tveir
-                       nefndarmanna starfa utan skólans.
+eftir tilnefningu [ráðuneytisins],^1) og tvo menn eftir tilnefningu háskólaráðs
+og skipar rektor annan þeirra formann nefndarinnar. Skal hann hafa sama eða æðra
+  hæfi og um er fjallað, verði því við komið. Í dómnefnd má skipa þá eina sem
+ lokið hafa a.m.k. meistaraprófi úr háskóla og skulu a.m.k. tveir nefndarmanna
+                              starfa utan skólans.
   Dómnefnd skal láta uppi rökstutt álit um það hvort ráða megi af vísindagildi
  rita og rannsókna umsækjanda, svo og af námsferli hans og störfum, að hann sé
                           hæfur til að gegna starfinu.
   Engum manni má veita prófessors-, dósents- eða lektorsstöðu nema meiri hluti
       dómnefndar hafi látið það álit í ljós að hann sé til þess hæfur.]^2)
-                  ^1)L. 167/2007, 21. gr. ^2)L. 173/2006, 11. gr.
+                 ^1)L. 126/2011, 288. gr. ^2)L. 173/2006, 11. gr.
 
                              VII. kafli. Fjárhagur.
     35. gr. Kostnaður við störf menntastofnana landbúnaðarins er greiddur af
   ríkissjóði samkvæmt fjárlögum. Hver stofnun hefur sjálfstæða fjárveitingu á
- fjárlögum. [Menntamálaráðherra]^1) gerir tillögur um fjárveitingar til hverrar
-                                   stofnunar.
-   [Menntamálaráðherra]^1) er heimilt að ákveða að við gjaldtöku sé mætt þeim
-             kostnaði sem rekstur stofnananna hefur í för með sér.
-                              ^1)L. 167/2007, 16. gr.
+fjárlögum. [Ráðherra]^1) gerir tillögur um fjárveitingar til hverrar stofnunar.
+ [Ráðherra]^1) er heimilt að ákveða að við gjaldtöku sé mætt þeim kostnaði sem
+                    rekstur stofnananna hefur í för með sér.
+                             ^1)L. 126/2011, 288. gr.
     36. gr. Menntastofnunum landbúnaðarins er heimilt að afla sértekna með:
                           a. [gjöldum],^1) sbr. 15. gr.,
               b. rekstri þjónustustarfsemi sem tengist skólastöðunum,
@@ -315,11 +315,12 @@ sjálfstæðum rekstrareiningum til styrktar og eflingar meginviðfangsefnum þe
                               ^1)L. 173/2006, 12. gr.
 
                            VIII. kafli. Ýmis ákvæði.
- 37. gr. [Menntamálaráðherra]^1) setur nánari reglur um framkvæmd laga þessara
-                með reglugerðum,^2) starfsreglum og samþykktum.
-   [[Menntamálaráðherra]^1) setur með reglugerð nánari ákvæði um skipulag og
-            starfsemi rannsóknasviðs Landbúnaðarháskóla Íslands.]^3)
-   ^1)L. 167/2007, 16. gr. ^2)Rg. 244/2003. Rg. 320/2003. ^3)L. 71/2004, 14. gr.
+    37. gr. [Ráðherra]^1) setur nánari reglur um framkvæmd laga þessara með
+                  reglugerðum,^2) starfsreglum og samþykktum.
+   [[Ráðherra]^1) setur með reglugerð nánari ákvæði um skipulag og starfsemi
+                 rannsóknasviðs Landbúnaðarháskóla Íslands.]^3)
+    ^1)L. 126/2011, 288. gr. ^2)Rg. 244/2003. Rg. 320/2003. ^3)L. 71/2004, 14.
+                                      gr.
                   38. gr. Lög þessi öðlast gildi 1. júlí 1999.
                                   39. gr. ^1)
                               ^1)L. 71/2004, 15. gr.
@@ -379,11 +380,11 @@ Við gildistöku laga þessara tekur Hólaskóli  Háskólinn á Hólum við �
 [IV. Þeir sem við gildistöku bráðabirgðaákvæðis þessa eru skipaðir í háskólaráð
   Landbúnaðarháskóla Íslands og Hólaskóla halda sætum sínum út skipunartímann,
      nema önnur skipan verði ákveðin. Láti fulltrúi af setu í háskólaráði á
-    skipunartímanum skipar menntamálaráðherra annan í hans stað á grundvelli
-                       tilnefningar eftir því sem við á.
+skipunartímanum skipar [ráðherra]^1) annan í hans stað á grundvelli tilnefningar
+                              eftir því sem við á.
   Ákvæði um háskólaráð og stjórnskipan Landbúnaðarháskóla Íslands og Hólaskóla
-          skulu endurskoðuð með tilliti til rammalaga um háskóla.]^1)
-                              ^1)L. 167/2007, 22. gr.
+          skulu endurskoðuð með tilliti til rammalaga um háskóla.]^2)
+                 ^1)L. 126/2011, 288. gr. ^2)L. 167/2007, 22. gr.
 
 References
 

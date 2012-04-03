@@ -1,15 +1,17 @@
 
    --------------------------------------------------------------------------
 
-                                Lög um mannvirki
+                              Lög um mannvirki^1)
 
                            2010 nr. 160 28. desember
 
    --------------------------------------------------------------------------
 
+   ^1)Lögunum var breytt með l. 131/2011. Breytingarnar taka gildi 1. jan. 2012.
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 1. janúar 2011.
+Tóku gildi 1. janúar 2011. Breytt með l. 126/2011 (tóku gildi 30. sept. 2011) og
+                     l. 131/2011 (taka gildi 1. jan. 2012).
 
                             I. kafli. Almenn ákvæði.
                                 1. gr. Markmið.
@@ -127,11 +129,12 @@ samkvæmt ákvæðum laga þessara og [3]laga nr. 24/2006, um faggildingu o.fl.,
 
                      II. kafli. Stjórnvöld mannvirkjamála.
                          4. gr. Stjórn mannvirkjamála.
-   Umhverfisráðherra fer með yfirstjórn mannvirkjamála samkvæmt lögum þessum.
-            Ráðherra til aðstoðar er Mannvirkjastofnun, sbr. 5. gr.
+[Ráðherra]^1) fer með yfirstjórn mannvirkjamála samkvæmt lögum þessum. Ráðherra
+                 til aðstoðar er Mannvirkjastofnun, sbr. 5. gr.
   Sveitarstjórn ber ábyrgð á að stjórnsýsla og eftirlit byggingarfulltrúa sé í
     samræmi við ákvæði laga þessara. Byggingarfulltrúar annast eftirlit með
               mannvirkjagerð sem fellur undir 1. og 2. mgr. 9. gr.
+                             ^1)L. 126/2011, 538. gr.
                            5. gr. Mannvirkjastofnun.
  Ríkið starfrækir stofnun, Mannvirkjastofnun. Mannvirkjastofnun hefur eftirlit
    með framkvæmd laga þessara og laga um brunavarnir. Stofnunin skal tryggja
@@ -539,13 +542,15 @@ breytingar á hönnunargögnum sem gerðar eru á framkvæmdatíma og byggingary
      d. Innanhússarkitektar og landslagsarkitektar geta fengið löggildingu sem
                    hönnuðir séruppdrátta, hver á sínu sviði.
     e. Rafiðnfræðingar geta fengið löggildingu sem hönnuðir séruppdrátta á sínu
-sviði. Ráðherra setur ákvæði um stærðartakmörkun viðkomandi veitna í reglugerð.
+      sviði. Ráðherra setur ákvæði um stærðartakmörkun viðkomandi veitna í
+                                 reglugerð.^1)
  Listi yfir löggilta hönnuði skal varðveittur í gagnasafni Mannvirkjastofnunar.
+                          ^1)Rg. 717/2011, sbr. 794/2011.
                   26. gr. Skilyrði fyrir löggildingu hönnuða.
            Skilyrði fyrir löggildingu skv. 25. gr. eru eftirfarandi:
-     a. Að umsækjandi hafi hlotið heimild iðnaðarráðherra til starfsheitisins
-   samkvæmt lögum um löggildingu nokkurra starfsheita sérfræðinga í tækni- og
-                          hönnunargreinum, nr. 8/1996.
+       a. Að umsækjandi hafi hlotið heimild [hlutaðeigandi ráðherra]^1) til
+starfsheitisins samkvæmt lögum um löggildingu nokkurra starfsheita sérfræðinga í
+                     tækni- og hönnunargreinum, nr. 8/1996.
      b. Að umsækjandi hafi staðist próf sem Mannvirkjastofnun stendur fyrir að
    undangengnu námskeiði um gildandi lög og reglur á sviði mannvirkjagerðar.
   Jafnframt skal á námskeiðinu fjallað um séríslenskar aðstæður sem taka þarf
@@ -561,6 +566,7 @@ Ráðherra ákveður gjald sem umsækjendur greiða fyrir að þreyta próf skv.
        mgr. Skal fjárhæðin taka mið af kostnaði við námskeið og prófhald.
 Mannvirkjastofnun er heimilt að fela öðrum að annast námskeið og próf fyrir hönd
                                 stofnunarinnar.
+                             ^1)L. 126/2011, 538. gr.
 
                   VI. kafli. Byggingarstjórar og iðnmeistarar.
                            27. gr. Byggingarstjórar.
@@ -857,9 +863,9 @@ er rétt hannað og byggt fullnægt grunnkröfum sem skilgreindar eru í viðauk
 byggingarvöru við tækniákvæði. Framleiðandi eða umboðsmaður hans með staðfestu á
 Evrópska efnahagssvæðinu ber ábyrgð á að samræmismat byggingarvöru fari fram og
                  greiðir allan kostnað af matinu, sbr. 39. gr.
-  Umhverfisráðherra setur reglugerð um samræmismat byggingarvöru á grundvelli
-ákvæða EES-samningsins sem gildi hafa hér á landi. Heimilt er í reglugerðinni að
- gera þá kröfu að framleiðandi hafi innra eftirlitskerfi í verksmiðjunni til að
+ [Ráðherra]^1) setur reglugerð um samræmismat byggingarvöru á grundvelli ákvæða
+ EES-samningsins sem gildi hafa hér á landi. Heimilt er í reglugerðinni að gera
+   þá kröfu að framleiðandi hafi innra eftirlitskerfi í verksmiðjunni til að
  tryggja að framleiðslan sé í samræmi við viðeigandi tækniákvæði eða að gera þá
  kröfu að auk innra eftirlitskerfis framleiðanda hafi tilnefndur aðili eftirlit
     með kerfinu eða vörunni sjálfri, sé mælt svo fyrir í tækniákvæðum fyrir
@@ -869,14 +875,15 @@ staðfestu innan EES rétt til að setja CE-merkið á vöruna, sbr. 43. gr., á
     merkimiða og umbúðir eða meðfylgjandi viðskiptaskjöl. Samræmisvottorð og
 samræmisyfirlýsing vegna byggingarvöru sem markaðssett er á Íslandi skulu vera á
                                    íslensku.
+                             ^1)L. 126/2011, 538. gr.
                            42. gr. Tilnefndur aðili.
      Skoðunar-, prófunar- og vottunarstofur geta óskað eftir því að annast
   samræmismat sem tilnefndir aðilar. Tilnefndur aðili skal hafa faggildingu og
  faglega þekkingu til að meta samræmi viðkomandi byggingarvöru við grunnkröfur
      laga þessara. Um faggildinguna fer samkvæmt [11]lögum nr. 24/2006, um
                   faggildingu o.fl., og ákvæðum laga þessara.
-    Umhverfisráðherra annast tilkynningar um tilnefnda aðila til viðeigandi
-                    stjórnvalda á Evrópska efnahagssvæðinu.
+[Ráðherra]^1) annast tilkynningar um tilnefnda aðila til viðeigandi stjórnvalda
+                          á Evrópska efnahagssvæðinu.
        Tilnefndur aðili skal hafa hlutleysi þriðja aðila og vera án allra
 hagsmunatengsla við viðskiptavini sína og aðra hagsmunahópa. Hann má ekki stunda
                      eftirlit með byggingarvöru á markaði.
@@ -886,6 +893,7 @@ hagsmunatengsla við viðskiptavini sína og aðra hagsmunahópa. Hann má ekki 
              samstarfi tilnefndra aðila á Evrópska efnahagssvæðinu.
 Ráðherra setur í reglugerð nánari ákvæði um kröfur sem gerðar eru til tilnefndra
                                      aðila.
+                             ^1)L. 126/2011, 538. gr.
                            43. gr. Notkun CE-merkis.
          Einungis er heimilt að merkja byggingarvöru með CE-merkinu ef:
                 a. varan samræmist samhæfðum evrópskum stöðlum, eða
@@ -1178,21 +1186,22 @@ Gagnasafnið skal vera innan gagna- og upplýsingakerfis fasteignaskrár Þjóð
 endurgjaldslausan aðgang að þeim hluta gagnasafns Mannvirkjastofnunar sem varðar
                   mannvirki og mannvirkjagerð í umdæmi þeirra.
         62. gr. Um yfirstjórn mannvirkjamála á varnar- og öryggissvæðum.
- Utanríkisráðherra fer með yfirstjórn skipulags- og mannvirkjamála á varnar- og
-   öryggissvæðum eins og þau eru skilgreind í [13]lögum nr. 34/2008, sbr. og
-[14]lög nr. 110/1951, og [15]lögum nr. 176/2006 eftir því sem við getur átt, þar
-                            á meðal um gjaldheimtu.
+  [Ráðherra er fer með málefni varnar- og öryggissvæða]^1) fer með yfirstjórn
+    skipulags- og mannvirkjamála á varnar- og öryggissvæðum eins og þau eru
+ skilgreind í [13]lögum nr. 34/2008, sbr. og [14]lög nr. 110/1951, og [15]lögum
+     nr. 176/2006 eftir því sem við getur átt, þar á meðal um gjaldheimtu.
 Ákvæði laga þessara og reglugerða settra samkvæmt þeim eiga við um mannvirkjamál
 á varnar- og öryggissvæðum, sbr. þó ákvæði 1. mgr. [16]21. gr. laga nr. 34/2008.
-      Mannvirkjastofnun gefur í umboði utanríkisráðherra út byggingar- og
+ Mannvirkjastofnun gefur í umboði [ráðherra, sbr. 1. mgr.],^1) út byggingar- og
   framkvæmdaleyfi og hefur eftirlit með mannvirkjagerð og öðrum leyfisskyldum
   framkvæmdum á varnar- og öryggissvæðum. Gerður skal þjónustusamningur milli
-  Mannvirkjastofnunar og utanríkisráðherra um byggingareftirlit stofnunarinnar
+   Mannvirkjastofnunar og [ráðherrans]^1) um byggingareftirlit stofnunarinnar
                             samkvæmt þessari grein.
-Umhverfisráðherra setur nánari ákvæði um framkvæmd þessarar greinar í reglugerð
-að höfðu samráði við utanríkisráðherra. Heimilt er í reglugerð að gera sérstakar
-   kröfur til mannvirkja á varnar- og öryggissvæðum í samræmi við alþjóðlegar
-                            skuldbindingar Íslands.
+ [Ráðherra]^1) setur nánari ákvæði um framkvæmd þessarar greinar í reglugerð að
+  höfðu samráði við [ráðherra, sbr. 1. mgr.]^1) Heimilt er í reglugerð að gera
+    sérstakar kröfur til mannvirkja á varnar- og öryggissvæðum í samræmi við
+                      alþjóðlegar skuldbindingar Íslands.
+                             ^1)L. 126/2011, 538. gr.
                        63. gr. Þagnar- og trúnaðarskylda.
 Eftirlitsaðilar og aðrir sem starfa samkvæmt ákvæðum laga þessara og reglugerða
   settra samkvæmt þeim eru bundnir þagnarskyldu og trúnaði um atriði sem varða
@@ -1210,7 +1219,7 @@ rökstuddar og þess gætt að einstök atvinnugrein, stofnun eða fyrirtæki b�
       ^1)Sjá nú: Rg. 621/1997. Rg. 737/1997. Rg. 747/1997, sbr. 354/2004. Rg.
    400/1998, sbr. 47/2001 og 420/2002. Rg. 441/1998, sbr. 563/2000, 996/2001,
     133/2002, 425/2002, 1163/2006, 934/2008 og 1016/2010. Rg. 168/2000, sbr.
-                    188/2001. Rg. 730/2000. Augl. 847/2000.
+                           188/2001. Augl. 847/2000.
                        65. gr. Breytingar á öðrum lögum.
                             Ákvæði til bráðabirgða.
         1. Þrátt fyrir ákvæði 8. gr. halda starfandi byggingarfulltrúar við
@@ -1254,10 +1263,10 @@ fram í ákvörðunum framkvæmdastjórnar Evrópusambandsins um hlutverk framle
  og tilnefnds aðila við staðfestingu á samræmi við kröfur. Ef ekki liggja fyrir
  samþykktir frá framkvæmdastjórn Evrópusambandsins um einstaka vöruflokka skal
   höfð hliðsjón af ákvörðunum um hliðstæðar vörur. Nýsköpunarmiðstöð Íslands,
-    Mannvirkjastofnun eða aðrir þar til bærir aðilar sem umhverfisráðuneytið
- viðurkennir skulu gegna samsvarandi hlutverki og tilnefndur aðili vegna ákvæða
-þessa töluliðar. Þessir aðilar annast staðfestingu á samræmi og gefa út vottorð
-                           eða umsögn þar að lútandi.
+Mannvirkjastofnun eða aðrir þar til bærir aðilar sem [ráðuneytið]^1) viðurkennir
+    skulu gegna samsvarandi hlutverki og tilnefndur aðili vegna ákvæða þessa
+ töluliðar. Þessir aðilar annast staðfestingu á samræmi og gefa út vottorð eða
+                             umsögn þar að lútandi.
      9. Starfsmenn Brunamálastofnunar og Skipulagsstofnunar sem vinna að þeim
      verkefnum sem færast 1. janúar 2011 til Mannvirkjastofnunar skulu eiga
    forgangsrétt til starfa hjá Mannvirkjastofnun. Ákvæði [17]7. gr. laga nr.
@@ -1268,6 +1277,7 @@ fram í ákvörðunum framkvæmdastjórnar Evrópusambandsins um hlutverk framle
   gæðastjórnunarkerfi sem Mannvirkjastofnun viðurkennir og hefur eftirlit með.
    11. Krafa 1. mgr. 17. gr. um að eftirlit skuli fara fram í samræmi við ákvæði
                   skoðunarhandbóka tekur gildi 1. janúar 2015.
+                             ^1)L. 126/2011, 538. gr.
 
                              Viðauki. Grunnkröfur.
    Byggingarvara skal henta til bygginga og mannvirkja og (bæði í heild og að

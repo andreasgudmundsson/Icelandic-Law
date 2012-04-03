@@ -19,7 +19,9 @@
  7. okt. 2008), l. 138/2008 (tóku gildi 13. des. 2008), l. 87/2009 (tóku gildi
  20. ágúst 2009), [2]l. 107/2009 (tóku gildi 31. okt. 2009), l. 120/2009 (tóku
   gildi 1. jan. 2010), l. 66/2010 (tóku gildi 1. júlí 2010), l. 152/2010 (tóku
-         gildi 1. jan. 2011) og l. 162/2010 (tóku gildi 1. jan. 2011).
+  gildi 1. jan. 2011), l. 162/2010 (tóku gildi 1. jan. 2011), l. 29/2011 (tóku
+  gildi 9. apríl 2011), l. 126/2011 (tóku gildi 30. sept. 2011) og l. 134/2011
+                           (tóku gildi 1. okt. 2011).
 
                            1. þáttur. Almenn ákvæði.
                       I. kafli. Tilgangur og orðskýringar.
@@ -60,16 +62,17 @@ Byggingarsjóðs ríkisins og Byggingarsjóðs verkamanna (húsbréf og húsnæ�
                              [eða ÍLS-veðbréfi].^1)
    [Lán vegna hjúkrunarheimila eru lán sem Íbúðalánasjóður veitir sveitarfélögum
  til kaupa eða byggingar hjúkrunarheimila á grundvelli samnings um byggingu og
-        leigu hjúkrunarheimila fyrir aldraða milli [ráðuneytisins]^2) og
-fjármálaráðuneytis annars vegar og viðkomandi sveitarfélags hins vegar með veði
-                           í hlutaðeigandi eign.]^3)
-       ^1)L. 57/2004, 1. gr. ^2)L. 162/2010, 19. gr. ^3)L. 120/2009, 20. gr.
+     leigu hjúkrunarheimila fyrir aldraða milli [ráðuneytisins]^2) og [þess
+    ráðuneytis er fer með fjárreiður ríkisins]^3) annars vegar og viðkomandi
+          sveitarfélags hins vegar með veði í hlutaðeigandi eign.]^4)
+   ^1)L. 57/2004, 1. gr. ^2)L. 162/2010, 19. gr. ^3)L. 126/2011, 264. gr. ^4)L.
+                               120/2009, 20. gr.
 
                         2. þáttur. Stjórn húsnæðismála.
                               II. kafli. Skipulag.
                                3. gr. Yfirstjórn.
- [Velferðarráðherra]^1) fer með yfirstjórn þeirra mála sem lög þessi taka til.
-                              ^1)L. 162/2010, 19. gr.
+      [Ráðherra]^1) fer með yfirstjórn þeirra mála sem lög þessi taka til.
+                             ^1)L. 126/2011, 264. gr.
                             4. gr. Íbúðalánasjóður.
     Stofna skal sérstakan lánasjóð er nefnist Íbúðalánasjóður [og lánar til
        íbúðakaupa, nýbygginga eða endurbóta íbúðarhúsnæðis á Íslandi].^1)
@@ -201,8 +204,8 @@ Jafnframt sér húsnæðisnefnd um önnur þau verkefni sem sveitarstjórn felur
 [Íbúðalánasjóði er heimilt að kaupa skuldabréf fjármálafyrirtækja sem tryggð eru
   með veði í íbúðarhúsnæði. Ekki þarf að leita samþykkis skuldara fyrir slíkri
    yfirfærslu. Ráðherra er heimilt að mæla nánar fyrir um slíka yfirfærslu í
-                               reglugerð.^3)]^1)
-        ^1)[4]L. 125/2008, 11. gr. ^2)L. 57/2004, 6. gr. ^3)Rg. 1081/2008.
+                                 reglugerð.]^1)
+                 ^1)[4]L. 125/2008, 11. gr. ^2)L. 57/2004, 6. gr.
                            16. gr. Aðrir lánaflokkar.
  Stjórn Íbúðalánasjóðs er heimilt, að fengnu samþykki [ráðherra],^1) að stofna
   til nýrra lánaflokka. Gert skal ráð fyrir öllum lánaflokkum í fjárhagsáætlun
@@ -228,17 +231,17 @@ Um nánari skilyrði lánveitinga samkvæmt þessari grein fer eftir því sem �
                    ^1)L. 120/2004, 2. gr. ^2)L. 57/2004, 8. gr.
                            19. gr. [ÍLS-veðbréf.]^1)
 [Lán Íbúðalánasjóðs eru greidd út í peningum. Áður en kemur til útgreiðslu láns
-    skal lántaki gefa út ÍLS-veðbréf og þinglýsa því. ÍLS-veðbréf skal vera
- verðtryggt með vísitölu neysluverðs, sbr. lög um vísitölu neysluverðs, og bera
-                             vexti skv. 21. gr.]^1)
+   skal lántaki gefa út ÍLS-veðbréf og þinglýsa því. [ÍLS-veðbréf getur verið
+   verðtryggt með vísitölu neysluverðs, sbr. lög um vísitölu neysluverðs, eða
+             óverðtryggt. Skal það bera vexti skv. 21. gr.]^2)]^1)
  [Lánveiting samkvæmt ÍLS-veðbréfi getur numið allt að 90% af matsverði íbúðar.
    Taka ber tillit til framar áhvílandi lána þannig að ÍLS-veðbréfið sé innan
-     þessara marka. Ráðherra getur með reglugerð^2) ákveðið hámarksfjárhæð
+     þessara marka. Ráðherra getur með reglugerð^3) ákveðið hámarksfjárhæð
   ÍLS-veðbréfa sem miðast við að veðbréfið hvíli á fyrsta veðrétti. Ella skulu
-     uppfærð, framar áhvílandi lán koma til frádráttar hámarksfjárhæð.]^3)
-     ^1)L. 57/2004, 9. gr. ^2)Rg. 522/2004, sbr. 824/2004, 958/2004, 300/2006,
-574/2008, 402/2009 og 1038/2009. Rg. 540/2006, sbr. 156/2007, 587/2007, 575/2008
-                      og 552/2009. ^3)L. 120/2004, 3. gr.
+     uppfærð, framar áhvílandi lán koma til frádráttar hámarksfjárhæð.]^4)
+   ^1)L. 57/2004, 9. gr. ^2)L. 134/2011, 1. gr. ^3)Rg. 522/2004, sbr. 824/2004,
+    958/2004, 300/2006, 574/2008, 402/2009 og 1038/2009. Rg. 540/2006, sbr.
+        156/2007, 587/2007, 575/2008 og 552/2009. ^4)L. 120/2004, 3. gr.
                                20. gr. Matsverð.
  Stjórn Íbúðalánasjóðs setur reglur, sem [ráðherra]^1) staðfestir, um eðlilegt
 matsverð fasteigna sem skulu byggjast á viðmiðun við markaðsverð, brunabótamat,
@@ -250,16 +253,18 @@ matsverð fasteigna sem skulu byggjast á viðmiðun við markaðsverð, brunab�
           kveða nánar á um lánstíma einstakra lánaflokka í reglugerð.
   Fyrsti vaxtadagur ÍLS-veðbréfs er fimm dögum eftir að bréfið er tilbúið til
    afhendingar hjá Íbúðalánasjóði. Frá og með þeim degi greiðir sjóðurinn út
-       höfuðstól keypts ÍLS-veðbréfs án vaxta og verðbóta og að frádregnu
-                                 lántökugjaldi.
+    höfuðstól keypts ÍLS-veðbréfs án vaxta og verðbóta, [ef við á],^1) og að
+                            frádregnu lántökugjaldi.
        Stjórn Íbúðalánasjóðs ákvarðar vexti ÍLS-veðbréfa með hliðsjón af
 fjármögnunarkostnaði í reglulegum útboðum íbúðabréfa og fjármagnskostnaði vegna
        uppgreiddra lána skv. 23. gr. að viðbættu vaxtaálagi skv. 28. gr.
-   Vextir skulu vera óbreytanlegir allan lánstímann. Veðlánaflutningur milli
- fasteigna er heimill. Kveða skal í reglugerð^1) nánar á um hvenær slík heimild
-                   er fyrir hendi og með hvaða skilyrðum.]^2)
-      ^1)Rg. 522/2004, sbr. 1114/2007, 402/2009, 1038/2009 og 439/2010. ^2)L.
-                                57/2004, 10. gr.
+[Vextir af verðtryggðum ÍLS-veðbréfum skulu vera óbreytanlegir allan lánstímann
+en vextir af óverðtryggðum ÍLS-veðbréfum geta verið breytilegir. Íbúðalánasjóður
+ skal setja reglur um vaxtakjör óverðtryggðra lána.]^1) Veðlánaflutningur milli
+ fasteigna er heimill. Kveða skal í reglugerð^2) nánar á um hvenær slík heimild
+                   er fyrir hendi og með hvaða skilyrðum.]^3)
+    ^1)L. 134/2011, 2. gr. ^2)Rg. 522/2004, sbr. 1114/2007, 402/2009, 1038/2009
+                      og 439/2010. ^3)L. 57/2004, 10. gr.
                               22. gr. [Íbúðabréf.
 [Íbúðalánasjóður gefur út íbúðabréf. Íbúðabréf skulu gefin út sem framseljanleg
                       rafrænt eignaskráð verðbréf.]^1)]^2)
@@ -328,8 +333,8 @@ eftirlitið fer samkvæmt ákvæðum laga um opinbert eftirlit með fjármálast
 Íbúðalánasjóði er heimilt að veita sveitarfélögum lán vegna hjúkrunarheimila sem
  nemur allt að 100% af byggingarkostnaði eða kaupverði hjúkrunarheimilis fyrir
 aldraða á grundvelli samnings sem gerður hefur verið milli [ráðuneytisins]^1) og
-   fjármálaráðuneytis annars vegar og viðkomandi sveitarfélags hins vegar um
-                      byggingu og leigu hjúkrunarheimilis.
+ [þess ráðuneytis er fer með fjárreiður ríkisins]^2) annars vegar og viðkomandi
+        sveitarfélags hins vegar um byggingu og leigu hjúkrunarheimilis.
       Lán vegna hjúkrunarheimila skulu tryggð með veði á fyrsta veðrétti í
     hlutaðeigandi hjúkrunarheimili. Lánið er verðtryggt með föstum vöxtum án
       heimildar til uppgreiðslu þess. Lánstíminn má nema allt að 40 árum.
@@ -337,10 +342,11 @@ aldraða á grundvelli samnings sem gerður hefur verið milli [ráðuneytisins]
    allt að 100% byggingarkostnaðar eins og kostnaðurinn er við lánveitingu á
   grundvelli samningsins um byggingu og leigu hjúkrunarheimilis, sbr. 1. mgr.,
    enda séu fullnægjandi tryggingar veittar að mati stjórnar Íbúðalánasjóðs.
-   [Ráðherra]^1) setur með reglugerð^2) frekari ákvæði um skilyrði lána vegna
+   [Ráðherra]^1) setur með reglugerð^3) frekari ákvæði um skilyrði lána vegna
  hjúkrunarheimila, svo sem lánsumsóknir, lánskjör og lánveitingu, þar með talið
-                       lánveitingu á framkvæmdatíma.]^3)
-         ^1)L. 162/2010, 19. gr. ^2)Rg. 355/2010. ^3)L. 120/2009, 21. gr.
+                       lánveitingu á framkvæmdatíma.]^4)
+      ^1)L. 162/2010, 19. gr. ^2)L. 126/2011, 264. gr. ^3)Rg. 355/2010. ^4)L.
+                               120/2009, 21. gr.
                                         ^1)
                               ^1)L. 120/2004, 6. gr.
 
@@ -484,11 +490,12 @@ Málskot til nefndarinnar frestar ekki framkvæmd kærðrar ákvörðunar nema n
    [Ráðherra]^1) skipar fimm manna ráðgjafarnefnd varasjóðs húsnæðismála til
 fjögurra ára í senn. Ráðgjafarnefnd skipa fimm menn og jafnmargir til vara. Þrír
 nefndarmenn ásamt varamönnum skulu skipaðir eftir tilnefningu Sambands íslenskra
- sveitarfélaga, einn ásamt varamanni eftir tilnefningu fjármálaráðherra og einn
- ásamt varamanni af [ráðherra].^1) [Ráðherra]^1) skipar formann nefndarinnar og
-    varamann hans úr hópi aðalmanna. Þóknun nefndarmanna greiðist úr sjóðnum
-  samkvæmt ákvörðun ráðherra auk annars kostnaðar við störf nefndarinnar.]^2)
-                   ^1)L. 162/2010, 19. gr. ^2)L. 86/2002, 1. gr.
+sveitarfélaga, einn ásamt varamanni eftir tilnefningu [þess ráðherra er fer með
+fjárreiður ríkisins]^2) og einn ásamt varamanni af [ráðherra].^1) [Ráðherra]^1)
+     skipar formann nefndarinnar og varamann hans úr hópi aðalmanna. Þóknun
+nefndarmanna greiðist úr sjóðnum samkvæmt ákvörðun ráðherra auk annars kostnaðar
+                          við störf nefndarinnar.]^3)
+      ^1)L. 162/2010, 19. gr. ^2)L. 126/2011, 264. gr. ^3)L. 86/2002, 1. gr.
            44. gr. [Hlutverk ráðgjafarnefndar varasjóðs húsnæðismála.
                          Hlutverk ráðgjafarnefndar er:
    1. Að veita rekstrarframlög til sveitarfélaga vegna hallareksturs félagslegra
@@ -584,17 +591,17 @@ niðurfellingu á hluta af skuldum þeirra við sjóðinn gegn greiðslu á efti
   tengslum við heildarendurskipulagningu á fjármálum viðkomandi. Telji stjórn
  Íbúðalánasjóðs, m.a. með hliðsjón af 1. gr., að hagsmunum sjóðsins verði betur
    borgið með slíkum samningi sendir stjórnin tillögu þess efnis til umsagnar
-  [ráðuneytisins],^3) fjármálaráðuneytis og Ríkisendurskoðunar. Skilyrði fyrir
-    heimild Íbúðalánasjóðs til afskrifta er að þessir aðilar hafi fallist á
-                                 tillöguna.]^6)
+   [ráðuneytisins],^3) [þess ráðuneytis er fer með fjárreiður ríkisins]^6) og
+ Ríkisendurskoðunar. Skilyrði fyrir heimild Íbúðalánasjóðs til afskrifta er að
+                  þessir aðilar hafi fallist á tillöguna.]^7)
 Stjórn Íbúðalánasjóðs skal afla samþykkis varasjóðs viðbótarlána til að afskrifa
-                    útistandandi veðkröfur viðbótarlána.]^7)
-[Ráðherra]^3) setur, að fenginni umsögn stjórnar Íbúðalánasjóðs, reglugerð^8) um
+                    útistandandi veðkröfur viðbótarlána.]^8)
+[Ráðherra]^3) setur, að fenginni umsögn stjórnar Íbúðalánasjóðs, reglugerð^9) um
  nánari framkvæmd innheimtu krafna skv. 1. mgr. og um skilyrði fyrir afskriftum
                             samkvæmt þessari grein.
      ^1)L. 57/2004, 21. gr. ^2)[9]L. 107/2009, 8. gr. ^3)L. 162/2010, 19. gr.
-   ^4)L. 86/2002, 2. gr. ^5)L. 155/2001, 1. gr. ^6)L. 163/2002, 1. gr. ^7)L.
-                        77/2001, 3. gr. ^8)Rg. 359/2010.
+  ^4)L. 86/2002, 2. gr. ^5)L. 155/2001, 1. gr. ^6)L. 126/2011, 264. gr. ^7)L.
+            163/2002, 1. gr. ^8)L. 77/2001, 3. gr. ^9)Rg. 359/2010.
                              48. gr. Greiðsluvandi.
  [Stjórn Íbúðalánasjóðs er heimilt að veita skuldbreytingarlán til allt að [30
   ára]^1) í því skyni að leysa úr tímabundnum greiðsluerfiðleikum hjá lánþegum
@@ -941,6 +948,68 @@ fyrir gjalddaga. Til að jafna fjárstreymi vegna slíkra endurgreiðslna er hei
 Íbúðalánasjóðs um yfirtöku nýs eiganda á þeim lánum sem ætlað er að hvíla áfram
 á eigninni. Að öðrum kosti hefur sjóðurinn heimild til að gjaldfella lánið.]^1)
                               ^1)L. 120/2004, 10. gr.
+   [XIV. Íbúðalánasjóði er heimilt að færa niður veðkröfur sjóðsins á hendur
+  einstaklingum að uppfylltum skilyrðum ákvæðis þessa enda sé uppreiknuð staða
+ veðkrafna 1. janúar 2011 umfram 110% af verðmæti fasteignar í eigu lántaka eða
+     maka hans. Heimild þessi á við um veðkröfur í eigu sjóðsins vegna lána
+    einstaklinga sem var stofnað til vegna kaupa eða byggingar fasteigna 31.
+desember 2008 eða fyrr. Heimildin á einnig við um veðkröfur vegna lána sem veitt
+  hafa verið til skuldbreytinga á framangreindum lánum, sem og veðkröfur vegna
+ lána sem veitt voru með ábyrgð varasjóðs viðbótarlána. Heimildin á ekki við um
+ veðkröfur vegna endurbótalána sem voru umfram verðmæti hinnar veðsettu eignar
+                                við lánveitingu.
+  Heimilt er að færa niður veðkröfur skv. 1. mgr. um allt að 4 millj. kr. hjá
+einstaklingum og um allt að 7 millj. kr. hjá hjónum, sambýlisfólki og einstæðum
+foreldrum enda sé veðkrafan á veðrétti umfram 110% af verðmæti eignar og lántaki
+  eða maki hans eigi ekki aðrar aðfararhæfar eignir með veðrými sem svarar að
+   hluta eða öllu leyti til fyrirhugaðrar niðurfærslu veðkröfu. Sé veðrými á
+ aðfararhæfri eign í eigu lántaka eða maka hans skal lækka niðurfærslu veðkröfu
+                                 sem því nemur.
+   Við verðmat fasteigna samkvæmt ákvæði þessu skal miða við fasteignamat eða
+markaðsverð þeirra, hvort sem er hærra. Telji Íbúðalánasjóður skráð fasteignamat
+  fyrir 2011 ekki gefa rétta mynd af verðmæti eignar skal hann á eigin kostnað
+     afla verðmats löggilts fasteignasala. Sé fasteign ekki fullbyggð skal
+  Íbúðalánasjóður ávallt afla verðmats löggilts fasteignasala á eigin kostnað.
+  Ef uppreiknuð staða kröfunnar 1. janúar 2011 er enn umfram 110% af verðmæti
+   fasteignar í eigu lántaka eða maka hans eftir niðurfærslu skv. 2. mgr. og
+  greiðslubyrði lántaka og maka hans vegna íbúðalána er meiri en nemur 20% af
+  samanlögðum tekjum lántaka og maka hans skv. [40]7. gr. tekjuskattslaga, nr.
+ 90/2003, og fjármagnstekjum fyrir árið 2010 er Íbúðalánasjóði heimilt að færa
+  niður veðkröfur sjóðsins enn frekar að teknu tilliti til aðstæðna lántaka og
+ maka hans, þar á meðal greiðslugetu, tekna, skulda- og eignastöðu, sbr. þó 5.
+ mgr. Við mat á tekjum skal undanskilja úttekt séreignarsparnaðar sem og aðrar
+  óreglulegar tekjur, svo sem einstaka styrki eða sérstakar greiðslur sem geta
+ ekki talist til reglulegra tekna. Hafi lántaki ekki haft neinar launatekjur á
+ árinu 2010, t.d. vegna náms, skal miða við að lágmarkstekjur heimilis séu ekki
+ lægri en sem svarar grunnatvinnuleysisbótum sem eru nú 149.523 kr. á mánuði að
+   viðbættum 8.395 kr. á mánuði fyrir hvert barn á heimilinu yngra en 18 ára.
+Niðurfærsla á veðkröfum sjóðsins á hendur einstaklingum skv. 4. mgr. miðast við
+  að staða veðkröfunnar við niðurfærslu verði aldrei lægri en 110% af verðmæti
+fasteignar eða að greiðslubyrði lántaka og maka hans vegna íbúðalána verði ekki
+ lægri en nemur 18% af samanlögðum tekjum lántaka og maka hans skv. [41]7. gr.
+  tekjuskattslaga, nr. 90/2003, og fjármagnstekjum fyrir árið 2010. Við mat á
+   tekjum skal undanskilja úttekt séreignarsparnaðar sem og aðrar óreglulegar
+tekjur, svo sem einstaka styrki eða sérstakar greiðslur sem geta ekki talist til
+  reglulegra tekna. Heildarfjárhæð niðurfærslu samkvæmt ákvæði þessu getur þó
+aldrei orðið meiri en nemur 15 millj. kr. hjá einstaklingum og 30 millj. kr. hjá
+                 hjónum, sambýlisfólki og einstæðum foreldrum.
+     Lántaki skal sækja um niðurfærslu veðkrafna samkvæmt ákvæði þessu til
+  Íbúðalánasjóðs ef kröfur sjóðsins eru aftast í veðröð íbúðalána sem hvíla á
+   fasteigninni. Sé þörf á niðurfærslu af hálfu fleiri kröfuhafa á grundvelli
+      samkomulags lánveitenda á íbúðalánamarkaði um verklagsreglur í þágu
+ yfirveðsettra heimila miðlar Íbúðalánasjóður upplýsingum til þeirra eða tekur
+    við upplýsingum frá öðrum lánveitendum. Umsókn skulu fylgja öll gögn sem
+ Íbúðalánasjóður telur nauðsynleg. Í umsókn skal umsækjandi staðfesta að allar
+                 upplýsingar séu veittar samkvæmt bestu vitund.
+ Komi síðar í ljós að upplýsingar sem lágu til grundvallar niðurfærslu samkvæmt
+ ákvæði þessu reyndust rangar skal Íbúðalánasjóður afturkalla ákvörðun sína um
+                                  niðurfærslu.
+[Ráðherra]^1) er heimilt að setja nánari reglur í reglugerð um framkvæmd ákvæðis
+þessa, þar á meðal um mat á greiðslubyrði lántaka og maka hans, mat á tekjum og
+                               verðmat fasteigna.
+Íbúðalánasjóði er heimilt að taka við umsóknum á grundvelli ákvæðis þessa til og
+                             með 30. júní 2011.]^2)
+                  ^1)L. 126/2011, 264. gr. ^2)L. 29/2011, 1. gr.
 
 References
 
@@ -984,3 +1053,5 @@ References
   37. file://1993097.html#g58
   38. file://1993097.html#g78
   39. file://1997131.html
+  40. file://2003090.html#g7
+  41. file://2003090.html#g7

@@ -9,7 +9,10 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 1. janúar 2007.
+  Tóku gildi 1. janúar 2007. Breytt með [1]l. 44/2011 (tóku gildi 13. maí 2011
+   nema 1. málsl. 10. gr. sem tekur gildi 1. jan. 2014; EES-samningurinn: XX.
+    viðauki tilskipun 2007/2/EB) og l. 126/2011 (tóku gildi 30. sept. 2011).
+
                                 1. gr. Markmið.
      Markmið laga þessara er að tryggja að ávallt séu til staðfræðilegar og
                    landfræðilegar grunnupplýsingar um Ísland.
@@ -39,18 +42,19 @@ tölvutæku formi og hægt er að setja fram með margs konar hætti á korti. G
   ákveðins samfélags; lands, héraðs, sveitabæjar, þéttbýlisstaðar, húss, götu,
 torgs, vegar, fjalls, dals, stöðuvatns, fjarðar, hafsvæðis, skers, miðs o.s.frv.
                           3. gr. Landmælingar Íslands.
-   Landmælingar Íslands eru ríkisstofnun undir yfirstjórn umhverfisráðherra.
- Aðsetur Landmælinga Íslands er á Akranesi. Hlutverk stofnunarinnar er að vinna
-                    að verkefnum sem tilgreind eru í 4. gr.
+ Landmælingar Íslands eru ríkisstofnun undir yfirstjórn [ráðherra].^1) Aðsetur
+   Landmælinga Íslands er á Akranesi. Hlutverk stofnunarinnar er að vinna að
+                      verkefnum sem tilgreind eru í 4. gr.
   Ráðherra skipar forstjóra Landmælinga Íslands til fimm ára í senn. Forstjóri
                 skal hafa háskólamenntun og reynslu af stjórnun.
  Forstjóri fer með stjórn stofnunarinnar, mótar stefnu í störfum hennar og ber
        ábyrgð á fjárhagslegum rekstri hennar. Forstjóri ræður starfsmenn
                                 stofnunarinnar.
+                             ^1)L. 126/2011, 438. gr.
                       4. gr. Verkefni Landmælinga Íslands.
             Verkefni Landmælinga Íslands samkvæmt lögum þessum eru:
-     1. Að vera umhverfisráðuneytinu til ráðuneytis á fagsviðum sem stofnunin
- starfar á samkvæmt lögum þessum og varðandi stefnumótun á sviði landmælinga og
+   1. Að vera [ráðuneytinu]^1) til ráðuneytis á fagsviðum sem stofnunin starfar
+     á samkvæmt lögum þessum og varðandi stefnumótun á sviði landmælinga og
                           opinberrar grunnkortagerðar.
        2. Uppbygging og viðhald viðmiðana og aðgengilegs landshnitakerfis og
                          hæðarkerfis fyrir allt Ísland.
@@ -69,11 +73,14 @@ torgs, vegar, fjalls, dals, stöðuvatns, fjarðar, hafsvæðis, skers, miðs o.
       6. Skráning og miðlun upplýsinga um landfræðileg gagnasöfn af Íslandi.
     7. Að eiga faglegt samstarf við háskóla, stofnanir, fyrirtæki og alþjóðleg
                  samtök í samræmi við verkefni stofnunarinnar.
+   [8. Að fara með framkvæmd laga um grunngerð fyrir stafrænar landupplýsingar,
+ þ.m.t. að sjá um rekstur, viðhald og tæknilega þróun landupplýsingagáttar.]^2)
+                ^1)L. 126/2011, 438. gr. ^2)[2]L. 44/2011, 16. gr.
                              5. gr. Höfundaréttur.
    Ríkið er eigandi að öllum réttindum sem Landmælingar Íslands hafa öðlast.
  Stofnunin gætir hagsmuna ríkisins á sviði höfunda- og afnotaréttar á öllu því
 efni sem hún hefur eignast, unnið eða gefið út í sambandi við mælingar, kort eða
-    myndir af Íslandi. Um höfundarétt gilda að öðru leyti [1]höfundalög, nr.
+    myndir af Íslandi. Um höfundarétt gilda að öðru leyti [3]höfundalög, nr.
                         73/1972, með síðari breytingum.
                    6. gr. Miðlun upplýsinga og afnotaréttur.
    Landmælingar Íslands miðla upplýsingum og veita aðgang að gögnum sem eru í
@@ -113,4 +120,6 @@ ríkissjóði samkvæmt fjárlögum. Landmælingar Íslands afla sér enn fremur
 References
 
    Visible links
-   1. file://1972073.html
+   1. file://2011044.html
+   2. file://2011044.html#g16
+   3. file://1972073.html

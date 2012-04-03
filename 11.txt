@@ -67,31 +67,26 @@
      * Lög um ríkisábyrgðir, [31]nr. 121 22. desember 1997
      * Lög um heimild fyrir ríkisstjórnina til að ábyrgjast lán vegna
        Vatnsveitu Vestmannaeyja, [32]nr. 15 30. mars 1971
-     * Lög um heimild fyrir fjármálaráðherra f.h. ríkissjóðs til að ábyrgjast
-       lán fyrir Arnarflug hf., [33]nr. 30 15. maí 1984
+     * Lög um heimild fyrir ráðherra f.h. ríkissjóðs til að ábyrgjast lán
+       fyrir Arnarflug hf., [33]nr. 30 15. maí 1984
      * Lög um lántöku Áburðarverksmiðju ríkisins, [34]nr. 49 28. maí 1984
      * Lög um sjálfskuldarábyrgð ríkissjóðs á láni vegna byggingar
        stálvölsunarverksmiðju, [35]nr. 82 1. júlí 1985
-     * Lög um heimild til handa fjármálaráðherra, f.h. ríkissjóðs, til að
-       ábyrgjast skuldabréf vegna fjármögnunar nýrrar starfsemi Íslenskrar
+     * Lög um heimild til handa ráðherra, f.h. ríkissjóðs, til að ábyrgjast
+       skuldabréf vegna fjármögnunar nýrrar starfsemi Íslenskrar
        erfðagreiningar ehf., [36]nr. 87 15. maí 2002
      * Lög um heimild til fjárhagslegrar fyrirgreiðslu úr ríkissjóði í
        tengslum við málshöfðun fyrir erlendum dómstólum vegna íþyngjandi
        stjórnvaldsákvarðana erlendra stjórnvalda á tímabilinu 1. október til
        1. desember 2008, [37]nr. 172 29. desember 2008
-     * Lög um heimild til handa fjármálaráðherra, fyrir hönd ríkissjóðs, til
-       að ábyrgjast lán Tryggingarsjóðs innstæðueigenda og fjárfesta frá
-       breska og hollenska ríkinu til að standa straum af greiðslum til
-       innstæðueigenda hjá Landsbanka Íslands hf., [38]nr. 96 2. september
-       2009
      * Lög um framkvæmd þjóðaratkvæðagreiðslu um gildi laga nr. 1/2010, um
        breytingu á lögum nr. 96/2009, um heimild til handa fjármálaráðherra,
        fyrir hönd ríkissjóðs, til að ábyrgjast lán Tryggingarsjóðs
        innstæðueigenda og fjárfesta frá breska og hollenska ríkinu til að
        standa straum af greiðslum til innstæðueigenda hjá Landsbanka Íslands
-       hf., [39]nr. 4 11. janúar 2010
+       hf., [38]nr. 4 11. janúar 2010
 
-    [40]Kaflar lagasafns
+    [39]Kaflar lagasafns
 
 References
 
@@ -133,6 +128,5 @@ References
   35. file://1985082.html
   36. file://2002087.html
   37. file://2008172.html
-  38. file://2009096.html
-  39. file://2010004.html
-  40. file://kaflar.html
+  38. file://2010004.html
+  39. file://kaflar.html

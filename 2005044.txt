@@ -12,8 +12,9 @@
 Tóku gildi 1. júlí 2005, nema ákvæði til bráðabirgða sem tók gildi 20. maí 2005.
  Breytt með l. 52/2007 (tóku gildi 3. apríl 2007), [1]l. 88/2008 (tóku gildi 1.
 jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008), l. 94/2008 (tóku gildi
-24. júní 2008), l. 87/2009 (tóku gildi 20. ágúst 2009) og l. 98/2009 (tóku gildi
-         1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010).
+ 24. júní 2008), l. 87/2009 (tóku gildi 20. ágúst 2009), l. 98/2009 (tóku gildi
+1. okt. 2009 nema 69. og 70. gr. sem tóku gildi 1. jan. 2010), l. 14/2011 (tóku
+        gildi 3. mars 2011) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
                         I. kafli. Markmið og gildissvið.
  1. gr. Lög þessi hafa það markmið að efla virka samkeppni í viðskiptum og þar
@@ -75,9 +76,9 @@ staðgengdarþjónustu. Staðgengdarvara og staðgengdarþjónusta er vara eða 
                                ^1)L. 94/2008, 1. gr.
 
                             III. kafli. Stjórnsýsla.
- 5. gr. [Efnahags- og viðskiptaráðherra]^1) fer með framkvæmd laga þessara en í
-  umboði hans annast sérstök stofnun, Samkeppniseftirlitið, eftirlit samkvæmt
-       lögum þessum og daglega stjórnsýslu á því sviði sem lögin ná til.
+  5. gr. [Ráðherra]^1) fer með framkvæmd laga þessara en í umboði hans annast
+sérstök stofnun, Samkeppniseftirlitið, eftirlit samkvæmt lögum þessum og daglega
+                   stjórnsýslu á því sviði sem lögin ná til.
   Með yfirstjórn Samkeppniseftirlitsins fer þriggja manna stjórn sem ráðherra
   skipar til fjögurra ára í senn. Þrír varamenn skulu skipaðir með sama hætti.
        Ráðherra skipar formann stjórnar og ákveður þóknun stjórnarmanna.
@@ -86,7 +87,7 @@ staðgengdarþjónustu. Staðgengdarvara og staðgengdarþjónusta er vara eða 
        undir stjórn til samþykktar eða synjunar. Stjórnin skal setja sér
   starfsreglur^2) þar sem m.a. skal kveðið á um hvað teljist til meiri háttar
           ákvarðana. Reglurnar skulu birtar í B-deild Stjórnartíðinda.
-                     ^1)L. 98/2009, 39. gr. ^2)Rgl. 759/2005.
+                    ^1)L. 126/2011, 400. gr. ^2)Rgl. 902/2011.
 6. gr. [Forstjóri Samkeppniseftirlitsins skal ráðinn af stjórn stofnunarinnar og
 setur hún honum starfslýsingu. Kjararáð ákveður starfskjör forstjóra. Forstjóri
        annast daglega stjórnun á starfsemi og rekstri stofnunarinnar.]^1)
@@ -123,7 +124,7 @@ valdasamþjöppunar sem takmarkað geta samkeppni; stofnunin skal birta skýrslu
 gefi nægar ástæður til rannsóknar. Við afgreiðslu mála samkvæmt lögum þessum er
            Samkeppniseftirlitinu heimilt að raða málum í forgangsröð.
    ^1)Rgl. 880/2005, sbr. rgl. 924/2007. Rgl. 890/2005. Rgl. 684/2008, sbr. rgl.
-                                   854/2008.
+                           854/2008 og rgl. 901/2011.
    9. gr. Ákvarðanir Samkeppniseftirlitsins sæta kæru til sérstakrar nefndar,
 áfrýjunarnefndar samkeppnismála. Skrifleg kæra skal berast innan fjögurra vikna
  frá því að aðila máls var tilkynnt um ákvörðunina. Úrskurður áfrýjunarnefndar
@@ -135,6 +136,10 @@ gefi nægar ástæður til rannsóknar. Við afgreiðslu mála samkvæmt lögum 
                                  viðskiptamála.
       Skipunartími áfrýjunarnefndar er hinn sami og skipunartími stjórnar
                             Samkeppniseftirlitsins.
+[Með kæru skal fylgja málskotsgjald, að upphæð 200.000 kr., sem endurgreiðist ef
+  málið vinnst fyrir nefndinni, og rennur gjaldið í ríkissjóð. Áfrýjunarnefnd
+   samkeppnismála tekur kæru ekki til meðferðar nema málskotsgjald fylgi.]^1)
+                               ^1)L. 14/2011, 1. gr.
 
                      IV. kafli. Bann við samkeppnishömlum.
   10. gr. Allir samningar og samþykktir milli fyrirtækja, hvort heldur þær eru
@@ -221,21 +226,28 @@ Samkeppniseftirlitið getur dregið undanþágu til baka eða breytt skilyrðum 
 
                     V. kafli. Eftirlit með samkeppnishömlum.
           16. gr. Samkeppniseftirlitið getur gripið til aðgerða gegn:
-    a. samningum, skilmálum og hvers konar athöfnum sem brjóta í bága við 10.,
-                                11. og 12. gr.,
+       a. samningum, skilmálum og hvers konar athöfnum sem brjóta í bága við
+ [bannákvæði laga þessara, sáttir eða ákvarðanir sem teknar hafa verið samkvæmt
+                               þessum lögum],^1)
    b. athöfnum opinberra aðila að því marki sem þær kunna að hafa skaðleg áhrif
  á samkeppni að því tilskildu að sérlög hafi ekki að geyma sérstakar reglur um
-                     heimild eða skyldu til slíkra athafna.
-  Aðgerðir Samkeppniseftirlitsins geta falið í sér hverjar þær ráðstafanir sem
-   nauðsynlegar eru til að stöðva brot gegn ákvæðum laganna eða bregðast við
-     athöfnum opinberra aðila sem kunna að hafa skaðleg áhrif á samkeppni.
-   Samkeppniseftirlitið getur beitt úrræðum bæði til breytingar á atferli og
-skipulagi, í hlutfalli við það brot sem framið hefur verið og nauðsynlegt telst
-     til að stöðva það í reynd. Þó er einungis heimilt að beita úrræðum til
-breytingar á skipulagi ef sýnt þykir að ekki sé fyrir hendi árangursríkt úrræði
- til breytingar á atferli eða þar sem jafnárangursríkt úrræði til breytingar á
-atferli væri meira íþyngjandi fyrir hlutaðeigandi aðila en úrræði til breytingar
-                                  á skipulagi.
+                     heimild eða skyldu til slíkra athafna,
+   [c. aðstæðum eða háttsemi sem kemur í veg fyrir, takmarkar eða hefur skaðleg
+áhrif á samkeppni almenningi til tjóns. Með aðstæðum er m.a. átt við atriði sem
+   tengjast eiginleikum viðkomandi markaðar, þ.m.t. skipulag eða uppbyggingu
+  fyrirtækja sem á honum starfa. Með háttsemi er átt við hvers konar atferli,
+   þ.m.t. athafnaleysi, sem á einhvern hátt hefur skaðleg áhrif á samkeppni á
+      markaði þrátt fyrir að ekki sé brotið gegn bannákvæðum laganna.]^1)
+ [Aðgerðir Samkeppniseftirlitsins geta falið í sér hverjar þær ráðstafanir sem
+ nauðsynlegar eru til að efla samkeppni, stöðva brot eða bregðast við athöfnum
+          opinberra aðila sem kunna að hafa skaðleg áhrif á samkeppni.
+  Samkeppniseftirlitið getur beitt nauðsynlegum úrræðum bæði til breytingar á
+  atferli og skipulagi vegna þeirra atriða sem tilgreind eru í 1. mgr. í réttu
+hlutfalli við það brot sem framið hefur verið eða þær aðstæður eða háttsemi sem
+um ræðir.]^1) Þó er einungis heimilt að beita úrræðum til breytingar á skipulagi
+   ef sýnt þykir að ekki sé fyrir hendi árangursríkt úrræði til breytingar á
+atferli eða þar sem jafnárangursríkt úrræði til breytingar á atferli væri meira
+   íþyngjandi fyrir hlutaðeigandi aðila en úrræði til breytingar á skipulagi.
  Samkeppniseftirlitinu er heimilt að taka ákvarðanir til bráðabirgða um einstök
                                     mál ef:
    a. sennilegt þykir að sú háttsemi eða þær aðstæður sem til athugunar eru fari
@@ -246,6 +258,7 @@ til röskunar á samkeppni sem verði afstýrt með endanlegri ákvörðun eða 
                            öðru leyti þolir ekki bið.
  Bráðabirgðaákvörðun skal gilda í tiltekinn tíma og má endurnýja hana ef það er
                                talið nauðsynlegt.
+                               ^1)L. 14/2011, 2. gr.
  17. gr. [Samruni telst hafa átt sér stað þegar breyting verður á yfirráðum til
                                    frambúðar:
     a. vegna samruna tveggja eða fleiri fyrirtækja eða hluta úr fyrirtækjum sem
@@ -316,7 +329,7 @@ samruninn hefur áhrif á og rökstutt mat á markaðshlutdeild viðkomandi fyri
      d. Afrit af öllum samningum og öðrum gerningum sem liggja til grundvallar
    samrunanum ásamt afriti af ársreikningum þeirra fyrirtækja sem eru aðilar
                                  samrunans.]^2)
-            ^1)Rgl. 684/2008, sbr. rgl. 854/2008. ^2)L. 94/2008, 3. gr.
+   ^1)Rgl. 684/2008, sbr. rgl. 854/2008 og rgl. 901/2011. ^2)L. 94/2008, 3. gr.
   [17. gr. b. Ef um er að ræða samruna í skilningi a-liðar 1. mgr. 17. gr. eða
  öflun sameiginlegra yfirráða í skilningi c-liðar sömu málsgreinar skulu aðilar
   samrunans eða þeir sem ná sameiginlega yfirráðum, eftir því sem við á, ganga
@@ -405,6 +418,11 @@ Samkeppniseftirlitinu heimilt, með samþykki málsaðila, að ljúka málinu me
             samþykkt og staðfest efni hennar með undirskrift sinni.
     Samkeppniseftirlitið setur nánari reglur um framkvæmd greinarinnar.]^3)
          ^1)L. 94/2008, 4. gr. ^2)L. 94/2008, 5. gr. ^3)L. 52/2007, 1. gr.
+     [17. gr. g. Fyrirtæki sem tilkynnir samruna skv. 17. gr. a skal greiða
+   samrunagjald og nemur gjaldið 250.000 kr. fyrir hverja samrunatilkynningu.
+      Gjaldið er greitt við afhendingu samrunatilkynningar og rennur það í
+                                 ríkissjóð.]^1)
+                               ^1)L. 14/2011, 3. gr.
   18. gr. Ef Samkeppniseftirlitið telur að ákvæði laga og stjórnvaldsfyrirmæla
   stríði gegn markmiði laga þessara og torveldi frjálsa samkeppni í viðskiptum
 skal vekja athygli ráðherra á því áliti. Slíkt álit skal einnig birta almenningi
@@ -563,15 +581,15 @@ ríkissjóði ekki skaðabótaskyldu gagnvart þeim sem ákvörðun beinist að 
                 sig að öðru leyti bíða tjón af afturkölluninni.
  32. gr. Ráðherra er heimilt að fenginni umsögn Samkeppniseftirlitsins að setja
      reglugerð um nánari framkvæmd samkeppnisreglna samningsins um Evrópska
-       efnahagssvæðið og samningsins um eftirlitsstofnun og dómstól EFTA.
-     Fjármálaráðherra er heimilt að setja nánari reglur um framkvæmd reglna
-            EES-samningsins um ríkisaðstoð til aðila hér á landi.^1)
-      ^1)Rg. 593/1993, sbr. 338/1996, 230/1997, 358/1998, 245/1999, 584/2000,
-282/2001, 652/2005, 653/2005, 654/2005 og 655/2005. Rg. 904/2002. Rg. 811/2006.
-   Rg. 812/2006. Rg. 813/2006. Rg. 814/2006. Rg. 815/2006. Rg. 817/2006. Rg.
-818/2006. Rg. 819/2006. Rg. 820/2006. Rg. 821/2006. Rg. 822/2006. Rg. 823/2006.
-   Rg. 824/2006. Rg. 826/2006. Rg. 430/2008. Rg. 925/2010. Rg. 926/2010. Rg.
-                                   927/2010.
+efnahagssvæðið og samningsins um eftirlitsstofnun og dómstól EFTA. [Ráðherra er
+ fer með fjárreiður ríkisins]^1) er heimilt að setja nánari reglur um framkvæmd
+        reglna EES-samningsins um ríkisaðstoð til aðila hér á landi.^2)
+   ^1)L. 126/2011, 400. gr. ^2)Rg. 593/1993, sbr. 338/1996, 230/1997, 358/1998,
+  245/1999, 584/2000, 282/2001, 652/2005, 653/2005, 654/2005 og 655/2005. Rg.
+904/2002. Rg. 811/2006. Rg. 812/2006. Rg. 813/2006. Rg. 814/2006. Rg. 815/2006.
+   Rg. 817/2006. Rg. 818/2006. Rg. 819/2006. Rg. 820/2006. Rg. 821/2006. Rg.
+822/2006. Rg. 823/2006. Rg. 824/2006. Rg. 826/2006. Rg. 430/2008. Rg. 925/2010.
+                          Rg. 926/2010. Rg. 927/2010.
 
                           VIII. kafli. Almenn ákvæði.
  33. gr. Samningar, sem brjóta í bága við bannákvæði laga þessara, eru ógildir.
@@ -594,10 +612,9 @@ ríkissjóði ekki skaðabótaskyldu gagnvart þeim sem ákvörðun beinist að 
                         viðkomandi milliríkjasamningi og
         c. upplýsingarnar og gögnin megi aðeins afhenda öðrum með samþykki
       Samkeppniseftirlitsins og í þeim tilgangi sem samþykkið kveður á um.
-   [Efnahags- og viðskiptaráðherra]^1) getur sett nánari reglur um afhendingu
-Samkeppniseftirlitsins á gögnum og upplýsingum til yfirvalda og stofnana skv. 1.
-                                      mgr.
-                              ^1)L. 98/2009, 39. gr.
+ [Ráðherra]^1) getur sett nánari reglur um afhendingu Samkeppniseftirlitsins á
+          gögnum og upplýsingum til yfirvalda og stofnana skv. 1. mgr.
+                             ^1)L. 126/2011, 400. gr.
  36. gr. Við framkvæmd þessara laga getur Samkeppniseftirlitið birt opinberlega
 upplýsingar um samninga, skilmála og athafnir sem hafa eða er ætlað að hafa þau
                            áhrif að hamla samkeppni.
@@ -665,12 +682,14 @@ Frestur skv. 1. mgr. rofnar þegar Samkeppniseftirlitið tilkynnir aðila um upp
 áfrýjunarnefndar falla dagsektir ekki á fyrr en niðurstaða hennar liggur fyrir.
 40. gr. Ákvörðun Samkeppniseftirlitsins verður ekki borin undir dómstóla fyrr en
                     úrskurður áfrýjunarnefndar liggur fyrir.
-41. gr. Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfðað
- mál til ógildingar hans fyrir dómstólum. Mál skal höfðað innan sex mánaða frá
-  því að aðili fékk vitneskju um ákvörðun áfrýjunarnefndar. Málshöfðun frestar
-ekki gildistöku úrskurðar nefndarinnar né heimild til aðfarar samkvæmt honum. Þó
-skal málshöfðun fyrir dómstólum fresta réttaráhrifum úrskurðar áfrýjunarnefndar
-                um breytingar á skipulagi, sbr. 2. mgr. 16. gr.
+   41. gr. Nú vill aðili, [þ.m.t. Samkeppniseftirlitið],^1) ekki una úrskurði
+     áfrýjunarnefndar og getur hann þá höfðað mál til ógildingar hans fyrir
+ dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili fékk vitneskju um
+    ákvörðun áfrýjunarnefndar. Málshöfðun frestar ekki gildistöku úrskurðar
+  nefndarinnar né heimild til aðfarar samkvæmt honum. Þó skal málshöfðun fyrir
+   dómstólum fresta réttaráhrifum úrskurðar áfrýjunarnefndar um breytingar á
+                        skipulagi, sbr. 2. mgr. 16. gr.
+                               ^1)L. 14/2011, 4. gr.
      [41. gr. a. Hver starfsmaður eða stjórnarmaður fyrirtækis eða samtaka
   fyrirtækja, sem framkvæmir, hvetur til eða lætur framkvæma samráð sem brýtur
 gegn 10. og/eða 12. gr. og varðar þau atriði sem tilgreind eru í 2. og 3. mgr.,

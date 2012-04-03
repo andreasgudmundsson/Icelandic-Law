@@ -11,8 +11,9 @@
 
   Tóku gildi 3. apríl 2002. EES-samningurinn: XI. viðauki tilskipun 97/67/EB.
  Breytt með l. 136/2002 (tóku gildi 1. jan. 2003; EES-samningurinn: XI. viðauki
-tilskipun 97/39/EB), l. 129/2004 (tóku gildi 31. des. 2005) og l. 162/2010 (tóku
-                              gildi 1. jan. 2011).
+ tilskipun 97/39/EB), l. 129/2004 (tóku gildi 31. des. 2005), l. 162/2010 (tóku
+gildi 1. jan. 2011), [1]l. 120/2011 (taka gildi 1. des. 2011; EES-samningurinn:
+ IX. viðauki tilskipun 2007/64/EB) og l. 126/2011 (tóku gildi 30. sept. 2011).
 
                     I. kafli. Gildissvið laganna og markmið.
                                1. gr. Gildissvið.
@@ -84,10 +85,10 @@ Póstþjónusta: Þjónusta sem nær til móttöku og söfnunar, flokkunar, flut
                      með afhendingu hans á ákvörðunarstað.
 
                         III. kafli. Yfirstjórn póstmála.
-          5. gr. [Innanríkisráðherra]^1) fer með yfirstjórn póstmála.
+               5. gr. [Ráðherra]^1) fer með yfirstjórn póstmála.
 Póst- og fjarskiptastofnun veitir leyfi fyrir starfrækslu póstþjónustu og hefur
                eftirlit með póstmálum og framkvæmd laga þessara.
-                             ^1)L. 162/2010, 233. gr.
+                             ^1)L. 126/2011, 339. gr.
 
                              IV. kafli. Alþjónusta.
    6. gr. Íslenska ríkið skal tryggja öllum landsmönnum á jafnræðisgrundvelli
@@ -394,7 +395,7 @@ fjárframlög fyrir settan tíma. [Ráðherra]^1) setur nánari reglur um umsók
 niðurstaða þeirrar endurskoðunar ásamt tillögu um breytt gjaldhlutfall, ef þörf
                         þykir, lögð fyrir [ráðherra].^1)
  Um álagningu og innheimtu jöfnunargjalds fer samkvæmt ákvæðum VIII.XIV. kafla
-     [[1]laga nr. 90/2003, um tekjuskatt],^2) eftir því sem við á og skulu
+     [[2]laga nr. 90/2003, um tekjuskatt],^2) eftir því sem við á og skulu
     innheimtuaðilar standa jöfnunarsjóði Póst- og fjarskiptastofnunar skil á
                         innheimtum gjöldum mánaðarlega.
  Jöfnunargjald má draga frá tekjum greiðanda á því rekstrarári þegar stofn þess
@@ -551,8 +552,9 @@ vörslu póstrekenda skal eiga rétt á skaðabótum jafnháum þeirri trygginga
                         [42. gr.]^1) Fjármunasendingar.
        Póstrekandi ber fulla ábyrgð á því fé sem hann hefur tekið við sem
 fjármunasendingu og skal standa sendanda full skil á verðmæti slíkrar sendingar
-                                  glatist hún.
-                              ^1)L. 136/2002, 3. gr.
+                                glatist hún.^2)
+    ^1)L. 136/2002, 3. gr. ^2)Greininni var breytt með [3]l. 120/2011, 81. gr.
+            Breytingin tekur gildi 1. des. 2011 skv. [4]80. gr. s.l.
                            [43. gr.]^1) Óbeint tjón.
  Skaðabótaskylda skv. [40.42. gr.]^2) nær aðeins til verðmætis þess hlutar sem
 glatast hefur eða rýrnunar sem stafar af skemmdum á sendingunni hjá póstrekanda.
@@ -663,4 +665,7 @@ flokki samkvæmt jöfnunni D+n þar sem D merkir móttökudag og n fjölda virkr
 References
 
    Visible links
-   1. file://2003090.html
+   1. file://2011120.html
+   2. file://2003090.html
+   3. file://2011120.html#g81
+   4. file://2011120.html

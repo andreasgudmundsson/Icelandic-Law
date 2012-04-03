@@ -4,8 +4,9 @@
      * Lög um alferðir, [2]nr. 80 19. maí 1994
      * Lög um skipan ferðamála, [3]nr. 73 24. maí 2005
      * Áfengislög, [4]nr. 75 15. júní 1998
+     * Lög um Framkvæmdasjóð ferðamannastaða, [5]nr. 75 21. júní 2011
 
-    [5]Kaflar lagasafns
+    [6]Kaflar lagasafns
 
 References
 
@@ -14,4 +15,5 @@ References
    2. file://1994080.html
    3. file://2005073.html
    4. file://1998075.html
-   5. file://kaflar.html
+   5. file://2011075.html
+   6. file://kaflar.html
