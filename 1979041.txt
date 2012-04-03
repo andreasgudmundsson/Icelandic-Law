@@ -3,193 +3,192 @@
 
                                   Lög um landhelgi, efnahagslögsögu og landgrunn
 
-                             1979, nr. 41, 1. júní
+                              1979 nr. 41 1. júní
 
    --------------------------------------------------------------------------
 
                                        I.
-
                                    Landhelgi.
-
                                      1. gr.
-           Landhelgi Íslands skal afmörkuð af línu sem alls staðar er 12
-   sjómílur frá grunnlínu sem dregin er milli eftirtalinna staða:
+                Landhelgi Íslands skal afmörkuð af línu sem alls staðar er 12
+               sjómílur frá grunnlínu sem dregin er milli eftirtalinna staða:
 
-   1.  Horn                66°27'4 n.br., 22°24'3 v.lg.
-   2.  Ásbúðarrif          66°08'1 --     20°11'0 --
-   3.  Siglunes            66°11'9 --     18°49'9 --
-   4.  Flatey              66°10'3 --     17°50'3 --
-   5.  Lágey               66°17'8 --     17°06'8 --
-   6.  Rauðinúpur          66°30'7 --     16°32'4 --
-   7.  Rifstangi           66°32'3 --     16°11'8 --
-   8.  Hraunhafnartangi    66°32'2 --     16°01'5 --
-   9.  Langanes            66°22'7 --     14°31'9 --
-   10. Glettinganes        65°30'5 --     13°36'3 --
-   11. Norðfjarðarhorn     65°10'0 --     13°30'8 --
-   12. Gerpir              65°04'7 --     13°29'6 --
-   13. Hólmur              64°58'9 --     13°30'6 --
-   14. Setusker            64°57'7 --     13°31'5 --
-   15. Þursasker           64°54'1 --     13°36'8 --
-   16. Ystiboði            64°35'2 --     14°01'5 --
-   17. Selsker             64°32'8 --     14°07'0 --
-   18. Hvítingar           64°23'9 --     14°28'0 --
-   19. Stokksnes           64°14'1 --     14°58'4 --
-   20. Hrollaugseyjar      64°01'7 --     15°58'7 --
-   21. Tvísker             63°55'7 --     16°11'3 --
-   22. Ingólfshöfði        63°47'8 --     16°38'5 --
-   23. Hvalsíki            63°44'1 --     17°33'5 --
-   24. Meðallandssandur I  63°32'4 --     17°55'6 --
-   25. Meðallandssandur II 63°30'6 --     17°59'9 --
-   26. Mýrnatangi          63°27'4 --     18°11'8 --
-   27. Kötlutangi          63°23'4 --     18°42'8 --
-   28. Lundadrangur        63°23'5 --     19°07'5 --
-   29. Surtsey             63°17'7 --     20°36'2 --
-   30. Eldeyjardrangur     63°43'8 --     22°59'4 --
-   31. Geirfugladrangur    63°40'7 --     23°17'1 --
-   32. Skálasnagi          64°51'3 --     24°02'5 --
-   33. Bjargtangar         65°30'2 --     24°32'1 --
-   34. Kópanes             65°48'4 --     24°06'0 --
-   35. Barði               66°03'7 --     23°47'4 --
-   36. Straumnes           66°25'7 --     23°08'4 --
-   37. Kögur               66°28'3 --     22°55'5 --
-   38. Horn                66°27'9 --     22°28'2 --
+   1.      Horn                    66°27'4     n.br.,     22°24'3    v.lg.
+   2.      Ásbúðarrif              66°08'1               20°11'0    
+   3.      Siglunes                66°11'9               18°49'9    
+   4.      Flatey                  66°10'3               17°50'3    
+   5.      Lágey                   66°17'8               17°06'8    
+   6.      Rauðinúpur              66°30'7               16°32'4    
+   7.      Rifstangi               66°32'3               16°11'8    
+   8.      Hraunhafnartangi        66°32'2               16°01'5    
+   9.      Langanes                66°22'7               14°31'9    
+   10.     Glettinganes            65°30'5               13°36'3    
+   11.     Norðfjarðarhorn         65°10'0               13°30'8    
+   12.     Gerpir                  65°04'7               13°29'6    
+   13.     Hólmur                  64°58'9               13°30'6    
+   14.     Setusker                64°57'7               13°31'5    
+   15.     Þursasker               64°54'1               13°36'8    
+   16.     Ystiboði                64°35'2               14°01'5    
+   17.     Selsker                 64°32'8               14°07'0    
+   18.     Hvítingar               64°23'9               14°28'0    
+   19.     Stokksnes               64°14'1               14°58'4    
+   20.     Hrollaugseyjar          64°01'7               15°58'7    
+   21.     Tvísker                 63°55'7               16°11'3    
+   22.     Ingólfshöfði            63°47'8               16°38'5    
+   23.     Hvalsíki                63°44'1               17°33'5    
+   24.     Meðallandssandur I      63°32'4               17°55'6    
+   25.     Meðallandssandur II     63°30'6               17°59'9    
+   26.     Mýrnatangi              63°27'4               18°11'8    
+   27.     Kötlutangi              63°23'4               18°42'8    
+   28.     Lundadrangur            63°23'5               19°07'5    
+   29.     Surtsey                 63°17'7               20°36'2    
+   30.     Eldeyjardrangur         63°43'8               22°59'4    
+   31.     Geirfugladrangur        63°40'7               23°17'1    
+   32.     Skálasnagi              64°51'3               24°02'5    
+   33.     Bjargtangar             65°30'2               24°32'1    
+   34.     Kópanes                 65°48'4               24°06'0    
+   35.     Barði                   66°03'7               23°47'4    
+   36.     Straumnes               66°25'7               23°08'4    
+   37.     Kögur                   66°28'3               22°55'5    
+   38.     Horn                    66°27'9               22°28'2    
 
-   Landhelgin skal auk þess afmörkuð af línu sem alls staðar er 12 sjómílur
-   frá stórstraumsfjöruborði Kolbeinseyjar (67°08'9 n.br., 18°41'3 v.lg.),
-   Hvalbaks (64°35'8 n.br., 13°16'6 v.lg.) og ystu annesja og skerja
-   Grímseyjar.
-           Hver sjómíla reiknast 1852 metrar.
+     Landhelgin skal auk þess afmörkuð af línu sem alls staðar er 12 sjómílur
+      frá stórstraumsfjöruborði Kolbeinseyjar (67°08'9 n.br., 18°41'3 v.lg.),
+            Hvalbaks (64°35'8 n.br., 13°16'6 v.lg.) og ystu annesja og skerja
+                                                                  Grímseyjar.
+                                           Hver sjómíla reiknast 1852 metrar.
 
                                      2. gr.
            Fullveldisréttur Íslands nær til landhelginnar, hafsbotnsins innan
-   hennar og loftrýmisins yfir henni.
+                                           hennar og loftrýmisins yfir henni.
            Framkvæmd fullveldisréttarins fer eftir íslenskum lögum og ákvæðum
-   alþjóðalaga.
+                                                                 alþjóðalaga.
 
                                       II.
-
                                 Efnahagslögsaga.
-
                                      3. gr.
-           Efnahagslögsaga Íslands er svæði utan landhelgi sem afmarkast af
-   línu sem alls staðar er 200 sjómílur frá grunnlínum landhelginnar, sbr. þó
-   7. gr.
+        Efnahagslögsaga Íslands er svæði utan landhelgi sem afmarkast af línu
+     sem alls staðar er 200 sjómílur frá grunnlínum landhelginnar, sbr. þó 7.
+                                                                          gr.
 
                                      4. gr.
-           Innan efnahagslögsögunnar hefur Ísland:
+                                      Innan efnahagslögsögunnar hefur Ísland:
 
-           a. fullveldisrétt að því er varðar rannsóknir, hagnýtingu, verndun
-           og stjórnun auðlinda, lífrænna og ólífrænna, á hafsbotni og í
-           honum, í hafinu yfir honum svo og aðrar athafnir varðandi
-           efnahagslega nýtingu og rannsóknir innan svæðisins, svo sem
-           framleiðslu orku frá sjávarföllum, straumum og vindi,
-           b. lögsögu að því er varðar:
+   a.
+           fullveldisrétt að því er varðar rannsóknir, hagnýtingu, verndun og
+           stjórnun auðlinda, lífrænna og ólífrænna, á hafsbotni og í honum,
+           í hafinu yfir honum svo og aðrar athafnir varðandi efnahagslega
+           nýtingu og rannsóknir innan svæðisins, svo sem framleiðslu orku
+           frá sjávarföllum, straumum og vindi,
+   b.
+           lögsögu að því er varðar:
 
-                        i. byggingu mannvirkja og afnot af þeim,
-                        ii. vísindalegar rannsóknir,
-                        iii. verndun hafsins,
+                i.
+                        byggingu mannvirkja og afnot af þeim,
+                ii.
+                        vísindalegar rannsóknir,
+                iii.
+                        verndun hafsins,
 
-           c. önnur réttindi og skyldur samkvæmt alþjóðalögum.
+   c.
+           önnur réttindi og skyldur samkvæmt alþjóðalögum.
 
-           Framkvæmd réttinda og skyldna innan efnahagslögsögunnar skal vera
-   samkvæmt sérstökum lögum og í samræmi við milliríkjasamninga, sem Ísland
-   er aðili að.
+            Framkvæmd réttinda og skyldna innan efnahagslögsögunnar skal vera
+     samkvæmt sérstökum lögum og í samræmi við milliríkjasamninga, sem Ísland
+                                                                 er aðili að.
 
                                       III.
-
                                    Landgrunn.
-
                                      5. gr.
-           Landgrunn Íslands nær til hafsbotnsins og neðansjávarsvæða utan
-   landhelgi, sem eru framlenging landssvæðisins, allt að ytri mörkum
-   landgrunnssvæðisins, þó að 200 sjómílna fjarlægð frá grunnlínum
-   landhelginnar þar sem ytri mörk landgrunnssvæðisins ná ekki þeirri
-   fjarlægð, sbr. þó 7. gr.
+              Landgrunn Íslands nær til hafsbotnsins og neðansjávarsvæða utan
+           landhelgi, sem eru framlenging landssvæðisins, allt að ytri mörkum
+              landgrunnssvæðisins, þó að 200 sjómílna fjarlægð frá grunnlínum
+           landhelginnar þar sem ytri mörk landgrunnssvæðisins ná ekki þeirri
+                                                     fjarlægð, sbr. þó 7. gr.
 
                                      6. gr.
            Fullveldisréttur Íslands yfir landgrunninu tekur til rannsóknar og
-   hagnýtingar á ólífrænum auðlindum, sem þar eru, svo og á lífverum, sem á
-   nýtingarstigi eru annaðhvort hreyfingarlausar á hafsbotni eða í honum eða
-   geta ekki hreyft sig án snertingar við hafsbotninn.
-           Stjórnvöld setja reglur^1) um rannsóknir og hagnýtingu auðlinda
-   landgrunnsins.
+     hagnýtingar á ólífrænum auðlindum, sem þar eru, svo og á lífverum, sem á
+    nýtingarstigi eru annaðhvort hreyfingarlausar á hafsbotni eða í honum eða
+                          geta ekki hreyft sig án snertingar við hafsbotninn.
+              Stjórnvöld setja reglur^1) um rannsóknir og hagnýtingu auðlinda
+                                                               landgrunnsins.
 
-   ^1)[2]Rg. 196/1985 (afmörkun landgrunnsins).
+   ^1)Rg. 196/1985 (afmörkun landgrunnsins).
 
                                       IV.
-
                           Afmörkun svæða milli landa.
-
                                      7. gr.
-           Afmörkun efnahagslögsögu og landgrunns milli Íslands og annarra
-   landa skal eftir atvikum ákveðin með samningum við hlutaðeigandi ríki og
-   skulu slíkir samningar háðir samþykki Alþingis.
-           Þar til annað verður ákveðið skulu efnahagslögsaga og landgrunn
+        Afmörkun efnahagslögsögu og landgrunns milli Íslands og annarra landa
+   skal eftir atvikum ákveðin með samningum við hlutaðeigandi ríki og skulu
+   slíkir samningar háðir samþykki Alþingis.
+        Þar til annað verður ákveðið skulu efnahagslögsaga og landgrunn
    Íslands miðuð við 200 sjómílur frá grunnlínum landhelginnar að því
    undanskildu þó að þar sem skemmra er en 400 sjómílur milli grunnlína
    Færeyja og Grænlands annars vegar og Íslands hins vegar skulu
    efnahagslögsaga og landgrunn Íslands afmarkast af miðlínu.
 
                                        V.
-
                             Ráðstafanir gegn mengun.
-
                                      8. gr.
-           Skylt er að forðast allt það sem getur mengað eða á annan hátt
-   spillt hafinu.
-           Íslensk stjórnvöld skulu samkvæmt sérstökum lögum og í samræmi við
+        Skylt er að forðast allt það sem getur mengað eða á annan hátt spillt
+   hafinu.
+        Íslensk stjórnvöld skulu samkvæmt sérstökum lögum og í samræmi við
    milliríkjasamninga sem Ísland er aðili að gera ráðstafanir til að vernda
    hafið gegn mengun og öðrum spjöllum.
 
                                       VI.
-
                             Vísindalegar rannsóknir.
-
                                      9. gr.
-           Vísindalegar rannsóknir í landhelgi, efnahagslögsögu og landgrunni
+        Vísindalegar rannsóknir í landhelgi, efnahagslögsögu og landgrunni
    Íslands skulu háðar samþykki íslenskra stjórnvalda.
-           Að því er varðar rannsóknir innan efnahagslögsögunnar eða á
+        Að því er varðar rannsóknir innan efnahagslögsögunnar eða á
    landgrunninu skal slíkt samþykki að jafnaði veitt, ef umsókn kemur frá
    erlendu ríki eða hlutaðeigandi milliríkjastofnun, enda sé um að ræða
    friðsamlega viðleitni til að efla þekkingu á umhverfi sjávar. Hafna má
    beiðni, meðal annars, ef hún:
 
-           a. stendur í beinu sambandi við rannsókn eða hagnýtingu á lífrænum
+   a.
+           stendur í beinu sambandi við rannsókn eða hagnýtingu á lífrænum
            eða ólífrænum auðlindum,
-           b. hefur í för með sér boranir á landgrunninu, notkun sprengiefna
-           eða skaðlegra efna fyrir umhverfið,
-           c. leiðir til byggingar, starfrækslu eða notkunar mannvirkja.
+   b.
+           hefur í för með sér boranir á landgrunninu, notkun sprengiefna eða
+           skaðlegra efna fyrir umhverfið,
+   c.
+           leiðir til byggingar, starfrækslu eða notkunar mannvirkja.
 
                                     10. gr.
-           Umsókn um leyfi til rannsókna skv. 9. gr. skal lögð fram eigi
-   síðar en sex mánuðum áður en rannsókn hefst og skulu henni fylgja nákvæmar
+        Umsókn um leyfi til rannsókna skv. 9. gr. skal lögð fram eigi síðar
+   en sex mánuðum áður en rannsókn hefst og skulu henni fylgja nákvæmar
    upplýsingar varðandi:
 
-           a. eðli og markmið rannsókna,
-           b. rannsóknaraðferð, þ. á m. nafn, stærð, tegund og gerð skipa og
+   a.
+           eðli og markmið rannsókna,
+   b.
+           rannsóknaraðferð, þ. á m. nafn, stærð, tegund og gerð skipa og
            lýsingu á rannsóknartækjum,
-           c. nákvæma staðsetningu svæða, sem rannsaka á,
-           d. upphaf og lok rannsóknatímabils,
-           e. nafn stofnunar, sem að rannsóknum stendur, nafn forstjóra
-           hennar og framkvæmdastjóra rannsóknaleiðangurs.
-           f. fyrirhugaða þátttöku íslenskra stjórnvalda í rannsóknum.
+   c.
+           nákvæma staðsetningu svæða, sem rannsaka á,
+   d.
+           upphaf og lok rannsóknatímabils,
+   e.
+           nafn stofnunar, sem að rannsóknum stendur, nafn forstjóra hennar
+           og framkvæmdastjóra rannsóknaleiðangurs.
+   f.
+           fyrirhugaða þátttöku íslenskra stjórnvalda í rannsóknum.
 
-           Íslensk stjórnvöld skulu tilkynna afstöðu sína til umsóknarinnar
+        Íslensk stjórnvöld skulu tilkynna afstöðu sína til umsóknarinnar
    innan fjögurra mánaða, ef umsókn er hafnað.
 
                                       VII.
-
                                   Ýmis ákvæði.
-
                                     11. gr.
-           Brot á lögum þessum varða viðurlögum samkvæmt ákvæðum gildandi
-   laga.
+        Brot á lögum þessum varða viðurlögum samkvæmt ákvæðum gildandi laga.
 
                                     12. gr.
-           ...
+
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1979041
-   2. file://ekkitil/ekkitil.html?REGL/1985196
