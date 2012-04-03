@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. nóvember 2007. EES-samningurinn: IX. viðauki tilskipun 2004/39/EB.
+Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi
+            21. júní 2008) og l. 96/2008 (tóku gildi 24. júní 2008).
 
                      I. kafli. Gildissvið og orðskýringar.
                                1. gr. Gildissvið.
@@ -195,11 +196,14 @@ lögum eða eðli máls, nema dómari úrskurði að skylt sé að veita upplýs
        Kauphöll er heimilt að stunda aðra starfsemi en að reka skipulegan
  verðbréfamarkað enda sé hún í eðlilegum tengslum við starfsemi markaðarins og
     gerðar séu fullnægjandi ráðstafanir til að fyrirbyggja hagsmunaárekstra.
+         [Kauphöll er heimilt að hafa milligöngu um eignarskráningar í
+                             verðbréfamiðstöð.]^1)
   Kauphöll er einnig heimilt að stunda þá hliðarstarfsemi að veita aðilum utan
                            markaðarins þjónustu sína.
  Kauphöll skal tilkynna Fjármálaeftirlitinu fyrir fram um fyrirhugaða starfsemi
 samkvæmt þessari grein. Fjármálaeftirlitið getur ákveðið að starfsemi skv. 1. og
                      2. mgr. skuli rekin í sérstöku félagi.
+                               ^1)L. 96/2008, 9. gr.
               15. gr. Starfsemi innan Evrópska efnahagssvæðisins.
 Kauphöll, sem hyggst gera ráðstafanir í öðru ríki á Evrópska efnahagssvæðinu til
     að auðvelda aðilum í viðkomandi ríki þátttöku í viðskiptum á skipulegum
@@ -213,8 +217,9 @@ Kauphöll, sem hyggst gera ráðstafanir í öðru ríki á Evrópska efnahagssv
 Skylt er að veita endurskoðanda aðgang að öllum eignum, bókum og fylgiskjölum og
 öðrum gögnum félagsins og jafnframt skulu stjórn og starfsmenn veita honum allar
                  umbeðnar upplýsingar sem unnt er að láta í té.
-  Endurskoðaður ársreikningur ásamt ársskýrslu skal sendur Fjármálaeftirlitinu
-    innan þriggja mánaða frá lokum reikningsárs á því formi sem það ákveður.
+      Endurskoðaður ársreikningur ásamt [skýrslu stjórnar]^1) skal sendur
+Fjármálaeftirlitinu innan þriggja mánaða frá lokum reikningsárs á því formi sem
+                                  það ákveður.
 Verði endurskoðandi var við verulega ágalla í rekstri eða atriði sem veikt geta
  fjárhagsstöðu kauphallar eða atriði sem leiða til þess að hann mundi synja um
  áritun eða gera fyrirvara, svo og ef endurskoðandi hefur ástæðu til að ætla að
@@ -224,6 +229,7 @@ Verði endurskoðandi var við verulega ágalla í rekstri eða atriði sem veik
               sem er í nánum tengslum við hlutaðeigandi kauphöll.
  Tilkynning endurskoðanda skv. 4. mgr. felur ekki í sér brot gegn þagnarskyldu
                   hvort sem hún er reist á lögum eða samningi.
+                              ^1)L. 96/2008, 10. gr.
                    17. gr. Hagtölugerð og veiting upplýsinga.
 Kauphöll er heimilt, að eigin frumkvæði eða samkvæmt beiðni utanaðkomandi aðila
   og í samræmi við heimildir annarra laga, að vinna og birta hagtölur og aðrar
@@ -536,7 +542,7 @@ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotis
   Tilraun til brots eða hlutdeild í brotum samkvæmt lögum þessum er refsiverð
                  eftir því sem segir í almennum hegningarlögum.
  39. gr. Brot gegn lögum þessum sæta aðeins opinberri rannsókn að undangenginni
-                    kæru Fjármálaeftirlitsins til lögreglu.
+                   kæru Fjármálaeftirlitsins til lögreglu.^1)
     Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur
      Fjármálaeftirlitið hvort mál skuli kært til lögreglu eða því lokið með
        stjórnvaldsákvörðun hjá stofnuninni. Ef brot eru meiri háttar ber
@@ -545,7 +551,7 @@ lýtur að verulegum fjárhæðum, ef verknaður er framinn með sérstaklega v�
     hætti eða við aðstæður sem auka mjög á saknæmi brotsins. Jafnframt getur
   Fjármálaeftirlitið á hvaða stigi rannsóknar sem er vísað máli vegna brota á
      lögum þessum til opinberrar rannsóknar. Gæta skal samræmis við úrlausn
-                               sambærilegra mála.
+                             sambærilegra mála.^1)
 Með kæru Fjármálaeftirlitsins skulu fylgja afrit þeirra gagna sem grunur um brot
   er studdur við. Ákvæði IV.VII. kafla stjórnsýslulaga gilda ekki um ákvörðun
                Fjármálaeftirlitsins um að kæra mál til lögreglu.
@@ -560,6 +566,8 @@ og gögn sem hún hefur aflað og tengjast þeim brotum sem tilgreind eru í 2. 
   Telji ákærandi að ekki séu efni til málshöfðunar vegna ætlaðrar refsiverðrar
     háttsemi sem jafnframt varðar stjórnsýsluviðurlögum getur hann sent eða
      endursent málið til Fjármálaeftirlitsins til meðferðar og ákvörðunar.
+     ^1)Málsgreininni var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [3]232. gr. s.l.
 
                           IX. kafli. Gildistaka o.fl.
  40. gr. Í reglugerð^1) er ráðherra heimilt að setja nánari reglur um framkvæmd
@@ -581,6 +589,6 @@ var tekin upp í samninginn um Evrópska efnahagssvæðið með ákvörðun same
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007110
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=134&mnr=8
-   3. http://www.althingi.is/altext/134/s/8.html
+   1. file://2008088.html
+   2. file://2008088.html#g234
+   3. file://2008088.html

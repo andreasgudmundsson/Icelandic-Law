@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,13 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. október 2004, sjá þó ákvæði 30. gr. Breytt með l. 17/2005 (tóku
  gildi 31. mars 2005), l. 26/2005 (tóku gildi 25. maí 2005), l. 108/2006 (tóku
- gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 143/2006 (tóku gildi 1. jan. 2007)
-                   og l. 167/2007 (tóku gildi 1. jan. 2008).
+gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 143/2006 (tóku gildi 1. jan. 2007),
+l. 167/2007 (tóku gildi 1. jan. 2008) og [1]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
           I. kafli. Heimildir til sölu fasteigna, fyrirtækja og skipa.
    1. gr. Heimild til að hafa milligöngu um eigendaskipti að fasteignum o.fl.
@@ -365,12 +365,14 @@ Nú synjar fasteignasali eftirlitsnefnd um aðgang að starfsstöð sinni, ekki 
 tvísýnu ef leitað er samþykkis hans, og getur þá nefndin óskað aðstoðar lögreglu
  til að hún fái sinnt eftirliti sínu. Hið sama á við ef bókhald eða önnur gögn
  eða skjöl fasteignasala eru í vörslum þriðja manns. Um slíka leit gilda ákvæði
-                   XI. kafla laga um meðferð opinberra mála.
+                  XI. kafla laga um meðferð opinberra mála.^1)
     Nú telur eftirlitsnefnd að fasteignasali hafi gerst brotlegur við almenn
 hegningarlög í störfum sínum, eða sýnt af sér aðra refsiverða háttsemi, og skal
    hún þá tilkynna það lögreglu með formlegum hætti. Nefndin skal halda áfram
   rannsókn sinni og ljúka máli þess fasteignasala er í hlut á þótt lögreglu sé
                   send tilkynning og hún hefji rannsókn máls.
+    ^1)Málsliðnum var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [3]232. gr. s.l.
             22. gr. Agaviðurlög og tímabundin svipting löggildingar.
    Nú telur eftirlitsnefnd Félags fasteignasala að fasteignasali hafi vanrækt
 skyldur sínar, eða hann hafi gerst brotlegur við lög í starfsemi sinni, og skal
@@ -481,7 +483,9 @@ tjón sem viðskiptamaður hans verður fyrir við það að ólokið er frágan
                               28. gr. Refsiákvæði.
 Brot gegn lögum þessum, og reglum settum samkvæmt þeim, varða sektum nema þyngri
  refsing liggi við samkvæmt öðrum lögum. Um slík mál fer eftir lögum um meðferð
-                                opinberra mála.
+                               opinberra mála.^1)
+     ^1)Málsliðurinn var felldur brott með [4]l. 88/2008, 234. gr. Breytingin
+                 tekur gildi 1. jan. 2009 skv. [5]232. gr. s.l.
 
                             VI. kafli. Ýmis ákvæði.
                      29. gr. Réttindi samkvæmt eldri lögum.
@@ -492,7 +496,7 @@ Brot gegn lögum þessum, og reglum settum samkvæmt þeim, varða sektum nema �
   ekki öðlast gildi fyrr en 1. apríl 2005. Hið sama á við um ákvæði er lúta að
    eignarhaldi á rekstri fasteignasölu og félögum sem hafa með höndum rekstur
                                  fasteignasölu.
- Reglugerðir, sem settar hafa verið samkvæmt [4]lögum nr. 54/1997, skulu halda
+ Reglugerðir, sem settar hafa verið samkvæmt [6]lögum nr. 54/1997, skulu halda
  gildi sínu, eftir því sem við getur átt, þar til settar hafa verið reglugerðir
                            samkvæmt lögum þessum.^1)
        ^1)Rg. 520/1987, sbr. 161/1994 og augl. 105/1995; rg. 612/2001, sbr.
@@ -515,7 +519,9 @@ samrýmist ákvæðum 7. gr. um eignarhald á fasteignasölu, og þá öðlast �
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004099
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=462
-   3. http://www.althingi.is/altext/130/s/0670.html
-   4. file://1997054.html
+   1. file://2008088.html
+   2. file://2008088.html#g234
+   3. file://2008088.html
+   4. file://2008088.html#g234
+   5. file://2008088.html
+   6. file://1997054.html

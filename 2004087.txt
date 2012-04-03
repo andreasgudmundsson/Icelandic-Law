@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -9,12 +8,13 @@
    --------------------------------------------------------------------------
 
                               ^1)L. 169/2006, 14. gr.
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. júlí 2005. Breytt með l. 70/2005 (tóku gildi 1. júlí 2005), l.
 126/2005 (tóku gildi 30. des. 2005), l. 136/2005 (tóku gildi 30. des. 2005), l.
-81/2006 (tóku gildi 30. júní 2006), l. 169/2006 (tóku gildi 30. des. 2006) og l.
-                      162/2007 (tóku gildi 1. jan. 2008).
+ 81/2006 (tóku gildi 30. júní 2006), l. 169/2006 (tóku gildi 30. des. 2006), l.
+  162/2007 (tóku gildi 1. jan. 2008) og [1]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
           I. kafli. Vörugjald af olíu, gjaldskylda og fjárhæð gjalds.
   1. gr. Greiða skal í ríkissjóð vörugjald af gas- og dísilolíu sem flokkast í
@@ -77,7 +77,7 @@ borkranabifreiðar, steypuhræribifreiðar, götuhreinsibifreiðar, holræsabifr
 mgr. er að í olíuna hafi verið bætt litar- og merkiefnum, sbr. 5. gr.]^1) Litaða
   olíu má ekki nota sem eldsneyti í öðrum tilvikum en lýst er í 1. mgr. Litar-
         og/eða merkiefni má hvorki fjarlægja að öllu leyti né að hluta.
-  [Óheimilt er að nota litaða olíu á skráningarskyld ökutæki, sbr. [4]63. gr.
+  [Óheimilt er að nota litaða olíu á skráningarskyld ökutæki, sbr. [2]63. gr.
 umferðarlaga, nr. 50/1987, önnur en dráttarvélar skv. [5. tölul.]^4) 1. mgr. og
                ökutæki skv. [7., 8. og 9. tölul.]^4) 1. mgr.]^2)
 [Eigendum ökutækja skv. [7. tölul.]^4) 1. mgr. er heimilt að skrá umrædd ökutæki
@@ -90,7 +90,7 @@ umferðarlaga, nr. 50/1987, önnur en dráttarvélar skv. [5. tölul.]^4) 1. mgr
 reglugerð,^5) þ.m.t. hvaða ökutæki falla undir [7., 8. og 9. tölul.]^4) 1. mgr.
   og um fyrirkomulag skráningar ökutækja skv. [7. og 8. tölul.]^4) 1. mgr.]^2)
      ^1)L. 169/2006, 1. gr. ^2)L. 136/2005, 1. gr. ^3)L. 81/2006, 1. gr. ^4)L.
-                162/2007, 2. gr. ^5)Rg. 274/2006, sbr. 415/2007.
+          162/2007, 2. gr. ^5)Rg. 274/2006, sbr. 415/2007 og 338/2008.
 5. gr. Þeir sem gjaldskyldir eru skv. 3. gr. og óska eftir að fá heimild til að
 bæta litar- og/eða merkiefnum í gas- og dísilolíu vegna sölu eða afhendingar án
 gjalds, sbr. 4. gr., skulu senda umsókn til ríkisskattstjóra. Einungis þeim sem
@@ -106,7 +106,7 @@ Aðeins má lita olíu í búnaði sem viðurkenndur hefur verið af Löggilding
    Fjármálaráðherra skal í reglugerð^2) kveða á um gerð og samsetningu litar-
       og/eða merkiefnis, litunarbúnað og framkvæmd litunar að öðru leyti.
                       ^1)L. 136/2005, 2. gr. ^2)Rg. 283/2005.
- 6. gr. Þeim sem hafa einkaleyfi til fólksflutninga skv. 1. mgr. [5]7. gr. laga
+ 6. gr. Þeim sem hafa einkaleyfi til fólksflutninga skv. 1. mgr. [3]7. gr. laga
  nr. 73/2001, um fólksflutninga, vöruflutninga og efnisflutninga á landi, skulu
       endurgreidd 80% olíugjalds af olíu vegna rekstrar almenningsvagna í
   áætlunarferðum. Reglur^1) um endurgreiðslu samkvæmt þessari málsgrein skulu
@@ -144,7 +144,7 @@ sölureikninga gilda ákvæði bókhaldslaga. Við afhendingu á litaðri olíu 
  sem greinir í 1. mgr. 4. gr. skal tilgreina á sölureikningi að um gjaldfrjálsa
                             litaða olíu sé að ræða.
  Við staðgreiðslusölu smásöluverslana og hliðstæðra aðila er ekki skylt að gefa
- út sölureikning, sbr. 1. mgr. [6]21. gr. laga nr. 50/1988, um virðisaukaskatt.
+ út sölureikning, sbr. 1. mgr. [4]21. gr. laga nr. 50/1988, um virðisaukaskatt.
  8. gr. Þeir sem eiga rétt á endurgreiðslu olíugjalds skv. 1. mgr. 6. gr. skulu
  halda í bókhaldi sínu skrá yfir akstur ökutækja. Jafnframt skulu þeir halda í
  bókhaldi sínu reikninga og skrár yfir olíukaup og olíunotkun og annað sem máli
@@ -226,7 +226,7 @@ Ríkisskattstjóri skal að jafnaði innan tveggja mánaða frá lokum þess fre
    2. eftirvögnum sem skráðir eru hér á landi, eru 5.000 kg eða meira að leyfðri
   heildarþyngd og dregnir eru af dráttarvélum. Skrá ber umrædda eftirvagna sem
    dregnir eru af dráttarvélum hjá Umferðarstofu. Undanþegnir gjaldskyldu eru
-eftirvagnar sem taldir eru upp í 3. málsl. 1. mgr. [7]63. gr. umferðarlaga, nr.
+eftirvagnar sem taldir eru upp í 3. málsl. 1. mgr. [5]63. gr. umferðarlaga, nr.
                       50/1987, með síðari breytingum.]^1)
      Gjaldskylda samkvæmt þessu ákvæði hvílir á skráðum eiganda ökutækis á
     álestrardegi eða afskráningardegi hafi ökutæki verið afskráð. Hafi orðið
@@ -414,7 +414,7 @@ rétta álagningu á, er þó eigi heimilt að ákvarða honum gjald nema vegna 
                                       ^3)
  Við endurákvörðun oftekinna gjalda samkvæmt lögum þessum skal greiða gjaldanda
    vexti, sem skulu vera jafnháir tveimur þriðju hlutum vaxta sem Seðlabanki
-Íslands ákveður og birtir skv. 1. málsl. [8]4. gr. laga nr. 38/2001, um vexti og
+Íslands ákveður og birtir skv. 1. málsl. [6]4. gr. laga nr. 38/2001, um vexti og
       verðtryggingu, frá þeim tíma sem greiðslan átti sér stað og þar til
                             endurgreiðslan fer fram.
 Ákvörðun tollstjóra skv. 3. tölul. 1. mgr. 13. gr. er kæranleg til hans innan 30
@@ -502,10 +502,10 @@ Gera má lögaðila sekt fyrir brot á lögum þessum óháð því hvort broti�
        til saknæms verknaðar fyrirsvarsmanns eða starfsmanns lögaðilans.
                                       ^2)
                    ^1)L. 169/2006, 3. gr. ^2)L. 169/2006, 8. gr.
-                             [20. gr. Málsmeðferð.
+                            [20. gr. Málsmeðferð.^1)
 Yfirskattanefnd úrskurðar sektir skv. 19. gr. nema máli sé vísað til opinberrar
 rannsóknar og dómsmeðferðar skv. 2. mgr. Um meðferð mála hjá nefndinni fer eftir
-        [9]lögum nr. 30/1992, um yfirskattanefnd, með síðari breytingum.
+        [7]lögum nr. 30/1992, um yfirskattanefnd, með síðari breytingum.
  Skattrannsóknarstjóri ríkisins kemur fram af hálfu hins opinbera þegar nefndin
         úrskurðar sektir. Úrskurðir nefndarinnar eru fullnaðarúrskurðir.
   Skattrannsóknarstjóri ríkisins getur vísað máli til opinberrar rannsóknar af
@@ -532,12 +532,13 @@ Skattkröfu má hafa uppi í opinberu máli sem kann að vera höfðað vegna br
              Sektir fyrir brot gegn lögum þessum renna í ríkissjóð.
   Vararefsing fylgir ekki sektarákvörðunum skattyfirvalda. Um innheimtu sekta
    skattyfirvalda gilda sömu reglur og um innheimtu virðisaukaskatts samkvæmt
-       [10]lögum nr. 50/1988, um virðisaukaskatt, með síðari breytingum.
+        [8]lögum nr. 50/1988, um virðisaukaskatt, með síðari breytingum.
         Sök skv. 19. gr. fyrnist á sex árum. Fari fram rannsókn af hálfu
  skattrannsóknarstjóra ríkisins eða ríkislögreglustjóra gegn aðila sem sökunaut
 miðast fyrningarfrestur við upphaf rannsóknar enda verði ekki óeðlilegar tafir á
-                   rannsókn máls eða ákvörðun refsingar.]^1)
-                              ^1)L. 169/2006, 9. gr.
+                   rannsókn máls eða ákvörðun refsingar.]^2)
+   ^1)Greininni var breytt með [9]l. 88/2008, 234. gr. Breytingin tekur gildi 1.
+            jan. 2009 skv. [10]232. gr. s.l. ^2)L. 169/2006, 9. gr.
  21. gr. Við aðalskoðun bifreiðar ár hvert skal eigandi hennar eða umráðamaður
     færa sönnur á að greitt hafi verið af henni kílómetragjald [og sérstakt
  kílómetragjald]^1) sem fallið er í eindaga á skoðunardegi. Að öðrum kosti skal
@@ -620,13 +621,13 @@ tækis, kg              gjald, kr.        tækis, kg             gjald, kr.
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004087
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=849
-   3. http://www.althingi.is/altext/130/s/1306.html
-   4. file://1987050.html#g63
-   5. file://2001073.html#g7
-   6. file://1988050.html#g21
-   7. file://1987050.html#g63
-   8. file://2001038.html#g4
-   9. file://1992030.html
-  10. file://1988050.html
+   1. file://2008088.html
+   2. file://1987050.html#g63
+   3. file://2001073.html#g7
+   4. file://1988050.html#g21
+   5. file://1987050.html#g63
+   6. file://2001038.html#g4
+   7. file://1992030.html
+   8. file://1988050.html
+   9. file://2008088.html#g234
+  10. file://2008088.html

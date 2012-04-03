@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                            Tóku gildi 1. júlí 2006.
+Tóku gildi 1. júlí 2006. Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009 nema
+ brbákv. VII sem tók gildi 21. júní 2008) og [2]l. 112/2008 (tóku gildi 1. okt.
+ 2008 nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; koma til framkvæmda
+                      skv. fyrirmælum í 2. mgr. 56. gr.).
 
                  I. kafli. Gildissvið, markmið og orðskýringar.
                                1. gr. Gildissvið.
@@ -147,11 +149,13 @@ annars fylgja vottorð fyrrverandi vinnuveitanda, staðfesting um stöðvun reks
              forráðamaður samþykkja umsóknina með undirritun sinni.
     Umsókn um atvinnuleysisbætur felur jafnframt í sér umsókn um þátttöku í
             vinnumarkaðsaðgerðum, sbr. lög um vinnumarkaðsaðgerðir.
-  Skattyfirvöld, Tryggingastofnun ríkisins, Innheimtustofnun sveitarfélaga og
- hlutaðeigandi lífeyrissjóðir skulu láta Vinnumálastofnun í té upplýsingar sem
-                  nauðsynlegar eru við framkvæmd laga þessara.
+    Skattyfirvöld, Tryggingastofnun ríkisins, [sjúkratryggingastofnunin],^1)
+   Innheimtustofnun sveitarfélaga og hlutaðeigandi lífeyrissjóðir skulu láta
+   Vinnumálastofnun í té upplýsingar sem nauðsynlegar eru við framkvæmd laga
+                                    þessara.
     Vinnumálastofnun er heimilt að óska eftir umsögn frá öðrum aðilum vegna
              einstakra umsókna þegar ástæða er til að mati hennar.
+                            ^1)[3]L. 112/2008, 68. gr.
                  10. gr. Tilkynning um að atvinnuleit sé hætt.
 Sá sem telst tryggður samkvæmt lögum þessum skal tilkynna til Vinnumálastofnunar
  án ástæðulausrar tafar þegar hann hættir virkri atvinnuleit. Tilkynningin skal
@@ -597,7 +601,7 @@ ríkisstjórnar, að breyta fjárhæð grunnatvinnuleysisbóta og hámarki tekju
   atvinnuleysisbóta til hækkunar ef verulegar breytingar verða á launaþróun og
  þjóðhagsforsendum frá afgreiðslu fjárlaga. Þegar áðurgreind skilyrði leiða til
    hækkunar á fjárhæðum skal félagsmálaráðherra breyta þeim með reglugerð.^1)
-                         ^1)Rg. 548/2006, sbr. 1253/2007.
+                   ^1)Rg. 548/2006, sbr. 1253/2007 og 294/2008.
        34. gr. Atvinnuleysisbætur vegna framfærsluskyldu gagnvart börnum.
 Sá sem telst tryggður skv. III. eða IV. kafla og hefur framfærsluskyldu gagnvart
  börnum yngri en 18 ára skal eiga rétt á 4% af óskertum grunnatvinnuleysisbótum
@@ -628,7 +632,7 @@ Frítekjumarkið skal vera 52.000 kr. á mánuði. Fjárhæð frítekjumarksins 
   breytingar verða á launaþróun og þjóðhagsforsendum frá afgreiðslu fjárlaga.
   Þegar áðurgreind skilyrði leiða til hækkunar á fjárhæð frítekjumarksins skal
                félagsmálaráðherra breyta henni með reglugerð.^1)
-                         ^1)Rg. 548/2006, sbr. 1253/2007.
+                   ^1)Rg. 548/2006, sbr. 1253/2007 og 294/2008.
                       37. gr. Uppsöfnun og vernd réttinda.
         Sá sem fær greiddar atvinnuleysisbætur greiðir að lágmarki 4% af
             atvinnuleysisbótum skv. 32. og 33. gr. í lífeyrissjóð og
@@ -730,7 +734,7 @@ Greiðslur atvinnuleysisbóta falla þá niður frá og með brottfarardegi og h
 Fríverslunarsamtaka Evrópu, Norðurlandasamnings um almannatryggingar og samnings
      milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerkur og
                        heimastjórnar Færeyja hins vegar.
-                                 ^1)Rg. 514/2007.
+                   ^1)Rg. 514/2007, rg. 646/2008, rg. 647/2008.
      43. gr. Lengd þess tímabils sem atvinnuleysisbætur eru greiddar vegna
                        atvinnuleitar í öðru aðildarríki.
 Vinnumálastofnun er heimilt að greiða atvinnuleysisbætur skv. 42. gr. samfellt í
@@ -825,8 +829,9 @@ vinnustöðvunin stendur yfir á fyrstu fjórum vikunum frá því að Vinnumál
   Ákvæði 2. mgr. á þó ekki við þegar verkfall eða verkbann tekur einungis til
                starfa í viðkomandi starfsgrein á afmörkuðu svæði.
                        51. gr. Ósamrýmanlegar greiðslur.
-        Hver sá sem nýtur slysa- eða sjúkradagpeninga samkvæmt lögum um
-  almannatryggingar telst ekki tryggður samkvæmt lögum þessum á sama tímabili.
+   Hver sá sem nýtur [slysadagpeninga samkvæmt lögum um almannatryggingar eða
+  sjúkradagpeninga samkvæmt lögum um sjúkratryggingar]^1) telst ekki tryggður
+                     samkvæmt lögum þessum á sama tímabili.
  Hver sá sem nýtur greiðslna úr Fæðingarorlofssjóði samkvæmt lögum um fæðingar-
   og foreldraorlof telst ekki tryggður samkvæmt lögum þessum á sama tímabili.
 Hver sá sem nýtur greiðslna samkvæmt lögum um greiðslur til foreldra langveikra
@@ -837,6 +842,7 @@ Hver sá sem hefur fengið greitt út ótekið orlof við starfslok eða fær gr
  þær greiðslur eiga við um. Við umsókn um atvinnuleysisbætur skal hinn tryggði
        taka fram hvenær hann ætlar að taka út orlof sitt fyrir lok næsta
                                 orlofstímabils.
+                            ^1)[9]L. 112/2008, 68. gr.
                                   52. gr. Nám.
 Hver sá sem stundar nám, sbr. c-lið 3. gr., telst ekki tryggður á sama tímabili
          enda er námið ekki hluti vinnumarkaðsaðgerða samkvæmt ákvörðun
@@ -983,8 +989,10 @@ viðurlagatíma skv. 1. mgr. stendur falla viðurlögin niður eftir að hinn tr
 Sá sem aflar sér eða reynir að afla sér atvinnuleysisbóta samkvæmt lögum þessum
 með svikum getur misst rétt sinn samkvæmt lögum þessum í allt að tvö ár og þurft
                                 að sæta sektum.
-      Um meðferð slíkra mála fer samkvæmt lögum um meðferð opinberra mála.
+    Um meðferð slíkra mála fer samkvæmt lögum um meðferð opinberra mála.^1)
                         Sektir skulu renna í ríkissjóð.
+   ^1)Málsgreinin var felld brott með [10]l. 88/2008, 233. gr. Breytingin tekur
+                   gildi 1. jan. 2009 skv. [11]232. gr. s.l.
                 61. gr. Ítrekunaráhrif fyrri viðurlagaákvarðana.
 Sá sem hefur sætt viðurlögum skv. 57.59. gr. eða biðtíma skv. 54. og 55. gr. og
 eitthvert þeirra tilvika sem þar greinir á sér stað að nýju á sama tímabili skv.
@@ -1021,7 +1029,7 @@ Atvinnuleysistryggingasjóðs, að veita styrki úr Atvinnuleysistryggingasjóð
                           64. gr. Reglugerðarheimild.
 Félagsmálaráðherra er heimilt að setja reglugerð,^1) að fenginni umsögn stjórnar
          Atvinnuleysistryggingasjóðs, um nánari framkvæmd laga þessara.
-                                 ^1)Rg. 514/2007.
+                   ^1)Rg. 514/2007, rg. 646/2008, rg. 647/2008.
                               65. gr. Gildistaka.
                       Lög þessi öðlast gildi 1. júlí 2006.
 
@@ -1043,8 +1051,8 @@ frá skráningu hjá svæðisvinnumiðlun að teknu tilliti til starfstímabila 
     III. Lög þessi skulu gilda að öllu leyti um þann sem hefur verið skráður
  atvinnulaus fyrir 1. júlí 2006 en hefur starfað samfellt í a.m.k. sex mánuði á
  innlendum vinnumarkaði áður en hann sækir aftur um atvinnuleysisbætur í fyrsta
-skiptið eftir þann tíma. Er þá ekki litið til fyrra bótatímabils hans skv. [9]9.
-               gr. laga nr. 12/1997, um atvinnuleysistryggingar.
+   skiptið eftir þann tíma. Er þá ekki litið til fyrra bótatímabils hans skv.
+            [12]9. gr. laga nr. 12/1997, um atvinnuleysistryggingar.
             IV. Þrátt fyrir ákvæði 1. mgr. 37. gr. um 8% mótframlag
 Atvinnuleysistryggingasjóðs í lífeyrissjóð verður mótframlag sjóðsins 7% til 31.
                                  desember 2006.
@@ -1052,12 +1060,15 @@ Atvinnuleysistryggingasjóðs í lífeyrissjóð verður mótframlag sjóðsins 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006054
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=742
-   3. http://www.althingi.is/altext/132/s/1078.html
+   1. file://2008088.html
+   2. file://2008112.html
+   3. file://2008112.html
    4. file://1980055.html#g1
    5. file://2003090.html
    6. file://2003090.html#g111
    7. file://2001038.html#g8
    8. file://2003088.html
-   9. file://1997012.html
+   9. file://2008112.html
+  10. file://2008088.html#g233
+  11. file://2008088.html
+  12. file://1997012.html

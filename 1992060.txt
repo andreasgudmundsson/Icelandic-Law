@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,9 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
- Tóku gildi 1. janúar 1993. Breytt með [4]l. 93/1996 (tóku gildi 1. jan. 1997),
+ Tóku gildi 1. janúar 1993. Breytt með [1]l. 93/1996 (tóku gildi 1. jan. 1997),
 l. 83/1997 (tóku gildi 6. júní 1997), l. 169/1998 (tóku gildi 11. jan. 1999), l.
   92/2002 (tóku gildi 31. maí 2002) og l. 164/2002 (tóku gildi 1. jan. 2003).
 
@@ -131,7 +130,7 @@ háð því að fyrir liggi samningur um rekstur náttúrustofu, sbr. 9. gr. Í 
       d. að veita ráðgjöf, sinna rannsóknum og sjá um vöktun gegn greiðslu á
     verksviði stofunnar að beiðni sveitarfélaga, ríkis eða stofnana þeirra,
                   einstaklinga, fyrirtækja eða annarra aðila,
-        e. að annast almennt eftirlit með náttúru landsins, sbr. [5]7. gr.
+        e. að annast almennt eftirlit með náttúru landsins, sbr. [2]7. gr.
 náttúruverndarlaga, nr. 44/1999, einkum í þeim landshluta þar sem náttúrustofan
      starfar; [Umhverfisstofnun]^1) skal gera samning um slíkt eftirlit við
                 náttúrustofur sem staðfestur er af ráðherra.]^2)
@@ -180,8 +179,5 @@ Nú leiðir rannsókn í ljós verðmæti sem áður voru ókunn og ber þá ran
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1992060
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=115&mnr=203
-   3. http://www.althingi.is/altext/115/s/0228.html
-   4. file://1996093.html
-   5. file://1999044.html#g7
+   1. file://1996093.html
+   2. file://1999044.html#g7

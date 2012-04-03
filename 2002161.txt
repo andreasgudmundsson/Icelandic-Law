@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. janúar 2003. EES-samningurinn: IX. viðauki tilskipun 85/611/EBE,
 86/635/EBE, 93/22/EBE, 95/26/EB, 2000/12/EB og 2000/43/EB. Breytt með l. 4/2004
@@ -17,8 +16,10 @@
   viðauki tilskipun 2002/87/EB og 2001/24/EB), l. 67/2006 (tóku gildi 24. júní
  2006), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 170/2006
  (tóku gildi 1. jan. 2007), l. 55/2007 (tóku gildi 3. apríl 2007), l. 111/2007
-(tóku gildi 1. nóv. 2007; EES-samningurinn: IX. viðauki tilskipun 2004/39/EB) og
-                    l. 144/2007 (tóku gildi 29. des. 2007).
+ (tóku gildi 1. nóv. 2007; EES-samningurinn: IX. viðauki tilskipun 2004/39/EB),
+ l. 144/2007 (tóku gildi 29. des. 2007), [1]l. 88/2008 (taka gildi 1. jan. 2009
+nema brbákv. VII sem tók gildi 21. júní 2008) og l. 96/2008 (tóku gildi 24. júní
+                                     2008).
 
                              I. kafli. Gildissvið.
   1. gr. Lög þessi gilda um innlend fjármálafyrirtæki og um starfsemi erlendra
@@ -714,7 +715,7 @@ yfir hinum eða ef tvö eða fleiri félög eru beint eða óbeint undir yfirrá
        9. Eignarhald, stjórnarsetu eða aðra þátttöku umsækjanda í starfsemi
                                    lögaðila.
      10. Refsingar sem umsækjandi hefur verið dæmdur til að sæta og hvort hann
-                            sæti opinberri rannsókn.
+                          sæti opinberri rannsókn.^1)
                    11. Náin tengsl umsækjanda við aðra lögaðila.
    12. Annað sem Fjármálaeftirlitið fer fram á að vita og máli skiptir við mat á
                         hæfi eigenda virkra eignarhluta.
@@ -723,6 +724,8 @@ sjálfan, stjórnarmenn hans, framkvæmdastjóra og þá einstaklinga og lögað
       eiga virkan eignarhlut í lögaðilanum. Skal þá enn fremur upplýst um
 endurskoðanda lögaðilans. Skulu upplýsingarnar studdar gögnum eftir því sem það
                                      á við.
+    ^1)Töluliðnum var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [3]232. gr. s.l.
                          42. gr. Mat á hæfi umsækjanda.
      Fjármálaeftirlitið leggur mat á hvort umsækjandi sé hæfur til að eiga
 eignarhlutinn með tilliti til heilbrigðs og trausts reksturs fjármálafyrirtækis.
@@ -741,7 +744,7 @@ samskipta umsækjanda við Fjármálaeftirlitið eða önnur stjórnvöld, til �
      6. Hvort umsækjandi hefur gefið Fjármálaeftirlitinu umbeðnar upplýsingar
             ásamt fylgigögnum og þær upplýsingar hafa reynst réttar.
    7. Refsingum sem umsækjandi hefur verið dæmdur til að sæta og hvort hann sæti
-                              opinberri rannsókn.
+                             opinberri rannsókn.^1)
    8. Ef um virkan eignarhlut í sparisjóði er að ræða skal Fjármálaeftirlitið að
     auki leggja mat á hvort eignarhaldið samrýmist skilyrðum 2. mgr. 70. gr.
   [Sé umsækjandi fjármálafyrirtæki eða vátryggingafélag með starfsleyfi í öðru
@@ -752,8 +755,9 @@ ríki innan Evrópska efnahagssvæðisins, móðurfyrirtæki slíks aðila, eins
  eignarhlut hafa samráð við lögbær yfirvöld þess ríkis í samræmi við ákvæði um
      mat á umsókn um starfsleyfi, sbr. 2. og 3. mgr. 2. gr. Samráð samkvæmt
  framangreindu gildir jafnframt um viðvarandi eftirlit með því að hæfisskilyrði
-                               séu uppfyllt.]^1)
-                              ^1)L. 130/2004, 4. gr.
+                               séu uppfyllt.]^2)
+    ^1)Töluliðnum var breytt með [4]l. 88/2008, 234. gr. Breytingin tekur gildi
+           1. jan. 2009 skv. [5]232. gr. s.l. ^2)L. 130/2004, 4. gr.
                           43. gr. Afgreiðsla umsóknar.
  Telji Fjármálaeftirlitið umsækjanda ekki hæfan til þess að eiga eignarhlutinn
 með tilliti til heilbrigðs og trausts reksturs fjármálafyrirtækis skal það synja
@@ -1092,8 +1096,8 @@ Stjórnin kýs sér formann úr sínum hópi. Heimilt er að kjósa varamenn, ja
   framkvæmd þannig að sparisjóðurinn sameinist hlutafélagi sem sparisjóðurinn
 hefur áður stofnað í því skyni að taka við rekstri sparisjóðsins og öllum eignum
                  hans og skuldum, réttindum og skuldbindingum.
-Ákvæði 1. málsl. 2. mgr. [4]3. gr. laga nr. 2/1995, um hlutafélög, gilda ekki um
-fjölda stofnenda í hlutafélagi skv. 1. mgr. Ákvæði 1. mgr. [5]20. gr. sömu laga
+Ákvæði 1. málsl. 2. mgr. [6]3. gr. laga nr. 2/1995, um hlutafélög, gilda ekki um
+fjölda stofnenda í hlutafélagi skv. 1. mgr. Ákvæði 1. mgr. [7]20. gr. sömu laga
 um lágmarksfjölda hluthafa gilda ekki um hlutafélag skv. 1. mgr. fram að því að
            breyting sparisjóðs í hlutafélag skv. 1. mgr. á sér stað.
 Við breytingu sparisjóðs í hlutafélag samkvæmt þessari grein heldur starfsleyfi
@@ -1125,7 +1129,7 @@ nemur samtals af áætluðu markaðsvirði sparisjóðsins. Markaðsvirði spari
  hlutafjár sparisjóðsins eftir breytingu hans í hlutafélag sem ekki gengur til
 stofnfjáreigenda samkvæmt framansögðu skal verða eign sjálfseignarstofnunar sem
                           sett er á stofn skv. 76. gr.
-Ákvæði 120.128. gr. og ákvæði [6]131. gr. laga nr. 2/1995, um hlutafélög, skulu
+Ákvæði 120.128. gr. og ákvæði [8]131. gr. laga nr. 2/1995, um hlutafélög, skulu
   að öðru leyti og eftir því sem við getur átt gilda um breytingu sparisjóðs í
            hlutafélag samkvæmt undanfarandi ákvæðum þessarar greinar.
     75. gr. Atkvæðaréttur í sparisjóði sem breytt hefur verið í hlutafélag.
@@ -1170,7 +1174,7 @@ hlutafélagavæðingu skv. 73. gr. laganna, sbr. 5. gr. l. 4/2004. ^2)L. 129/200
 Sparisjóðum, sem starfandi eru við gildistöku laga þessara með eigið fé lægra en
 það stofnfé sem mælt er fyrir um í 14. gr., er heimilt að halda áfram starfsemi
   sinni, enda fari eigið fé þeirra ekki niður fyrir þá fjárhæð sem það nam við
- gildistöku [7]laga nr. 43/1993, um viðskiptabanka og sparisjóði. Fari eigið fé
+ gildistöku [9]laga nr. 43/1993, um viðskiptabanka og sparisjóði. Fari eigið fé
      niður fyrir framangreind mörk er Fjármálaeftirlitinu heimilt að veita
   hlutaðeigandi sparisjóði hæfilegan frest til úrbóta. Uppfylli sparisjóðurinn
    ekki skilyrðin um eigið fé að liðnum veittum fresti skal starfsleyfi hans
@@ -1353,15 +1357,15 @@ Fjármálaeftirlitinu er heimilt að ákveða í reglum^5) að aðrir liðir en 
      lánveitingu er á því byggð og lánshæfismatið jafnframt notað við mat á
      lánaáhættu í útreikningi á áhættugrunni samkvæmt innramatsaðferð.]^4)
        ^1)Rgl. 530/2004, sbr. rgl. 177/2006. ^2)L. 111/2007, 10. gr. ^3)Rgl.
- 215/2007. ^4)L. 170/2006, 6. gr. Fjármálafyrirtækjum, öðrum en þeim sem fengið
- hafa leyfi til að beita innramatsaðferð við mat á áhættuþáttum, er heimilt við
- útreikning á eigin fé og áhættugrunni á tímabilinu 1. janúar til 31. desember
- 2007 að beita þeim ákvæðum sem giltu um eigið fé og áhættugrunn í árslok 2006,
-sbr. l. 170/2006, brbákv. I. Eiginfjárkrafa fjármálafyrirtækis, sem fengið hefur
- leyfi til að beita innramatsaðferð við mat á lánaáhættu eða þróaðri aðferð við
-mat á rekstraráhættu, skal á árunum 2007, 2008 og 2009 að lágmarki nema, í sömu
-    röð, 95%, 90% og 80% af þeirri eiginfjárkröfu sem ákvæðin um eigið fé og
-    áhættugrunn, sem í gildi voru í árslok 2006, hefðu leitt af sér, sbr. l.
+ 215/2007, rgl. 920/2008. ^4)L. 170/2006, 6. gr. Fjármálafyrirtækjum, öðrum en
+þeim sem fengið hafa leyfi til að beita innramatsaðferð við mat á áhættuþáttum,
+er heimilt við útreikning á eigin fé og áhættugrunni á tímabilinu 1. janúar til
+ 31. desember 2007 að beita þeim ákvæðum sem giltu um eigið fé og áhættugrunn í
+árslok 2006, sbr. l. 170/2006, brbákv. I. Eiginfjárkrafa fjármálafyrirtækis, sem
+fengið hefur leyfi til að beita innramatsaðferð við mat á lánaáhættu eða þróaðri
+ aðferð við mat á rekstraráhættu, skal á árunum 2007, 2008 og 2009 að lágmarki
+nema, í sömu röð, 95%, 90% og 80% af þeirri eiginfjárkröfu sem ákvæðin um eigið
+ fé og áhættugrunn, sem í gildi voru í árslok 2006, hefðu leitt af sér, sbr. l.
                     170/2006, brbákv. II. ^5)Rgl. 156/2005.
                         85. gr. Frádráttur frá eigin fé.
       [Frá eiginfjárgrunni skv. 4. mgr. 84. gr. skal draga bókfært virði á
@@ -1384,7 +1388,7 @@ bráðabirgðaráðstöfun og ætluð sem fjárhagsaðstoð við endurskipulagni
                            hlutaðeigandi fyrirtækis.
   Eignarhlutir og víkjandi kröfur í vátryggingafélögum og eignarhaldsfélögum á
   vátryggingasviði, svo og liðir sem taldir eru upp í 4. og 5. tölul. 1. mgr.
-   [8]29. gr. laga nr. 60/1994 og fjármálafyrirtækið á í krafti hlutdeildar í
+  [10]29. gr. laga nr. 60/1994 og fjármálafyrirtækið á í krafti hlutdeildar í
       fyrrgreindum félögum, dragast frá [eiginfjárgrunni skv. 84. gr.]^1)
 Frádrátturinn sem tengist eignarhlutum í vátryggingafélögum takmarkast þó við þá
          fjárhæð sem samsvarar hlutdeild í lágmarksgjaldþoli viðkomandi
@@ -1506,7 +1510,7 @@ Fjármálaeftirlitið skal sjá til þess í samráði við Félag löggiltra en
  endurskoðunarvenju við endurskoðun hjá fjármálafyrirtækjum. Fjármálaeftirlitið
                setur reglur^1) um endurskoðun fjármálafyrirtækja.
         Að öðru leyti en fram kemur í lögum þessum gilda um endurskoðun
-fjármálafyrirtækja ákvæði [9]VII. kafla laga nr. 144/1994, um ársreikninga, með
+fjármálafyrirtækja ákvæði [11]VII. kafla laga nr. 144/1994, um ársreikninga, með
                               áorðnum breytingum.
   Ákvæði 1. mgr. eiga einnig við um dótturfyrirtæki fjármálafyrirtækis, svo og
  eignarhaldsfélag á fjármálasviði eða blandað eignarhaldsfélag skv. 97. gr. og
@@ -1590,8 +1594,8 @@ gætu haft áhrif á áður fengin réttindi þriðja aðila, þ.m.t. ráðstafa
    í sér hugsanlega greiðslustöðvun, frestun fullnusturáðstafana eða lækkun á
   kröfum. Sé lánastofnun með höfuðstöðvar á Íslandi er með endurskipulagningu
      fjárhags átt við heimild til greiðslustöðvunar og heimild til að leita
-    nauðasamnings samkvæmt lögum um gjaldþrotaskipti o.[10]fl., nr. 21/1991.
- Lög um gjaldþrotaskipti o.[11]fl., nr. 21/1991, gilda um heimild lánastofnunar
+    nauðasamnings samkvæmt lögum um gjaldþrotaskipti o.[12]fl., nr. 21/1991.
+ Lög um gjaldþrotaskipti o.[13]fl., nr. 21/1991, gilda um heimild lánastofnunar
  til að leita greiðslustöðvunar og nauðasamnings og framkvæmd slíkra ráðstafana
                enda sé ekki á annan veg mælt í lögum þessum.]^1)
                               ^1)L. 130/2004, 9. gr.
@@ -1689,7 +1693,7 @@ eftirlitsstjórnvöldum í þeim ríkjum um beiðnina. Dómstólar skulu leitast
 samþykki hana og]^2) hún hljóti samþykki minnst ^2/3 hluta greiddra atkvæða, svo
 og samþykki hluthafa eða stofnfjáreigenda sem ráða yfir minnst ^2/3 hlutum þess
 hlutafjár eða stofnfjár sem farið er með atkvæði fyrir á fundi stofnfjáreigenda.
-                  ^1)L. 130/2004, 9. gr. ^2)L. 139/2004, 10. gr.
+                  ^1)L. 130/2004, 9. gr. ^2)L. 130/2004, 10. gr.
                   [102. gr.]^1) Úrskurður héraðsdóms um slit.
  Þegar skylt er að slíta fjármálafyrirtæki skv. 1. tölul. 2. mgr. [101. gr.]^2)
  eða þegar Fjármálaeftirlitið telur, í tilvikum sem eiga undir 2. eða 3. tölul.
@@ -1758,35 +1762,40 @@ aðsetur og staðfestu í því ríki og tekur þá ákvörðunin sjálfkrafa ti
                   ^1)L. 108/2006, 83. gr. ^2)L. 130/2004, 11. gr.
                                 [C.]^1) Samruni.
                               ^1)L. 130/2004, 9. gr.
-   [106. gr.]^1) Samruni fjármálafyrirtækis við annað fyrirtæki eða einstaka
-  rekstrarhluta þess er aðeins heimill að ákvörðun þar að lútandi hafi hlotið
-samþykki hluthafafundar eða fundar stofnfjáreigenda í yfirtekna fyrirtækinu með
- minnst ^2/3 hluta greiddra atkvæða og samþykki hluthafa eða stofnfjáreigenda í
-   yfirtekna fyrirtækinu sem ráða yfir minnst ^2/3 hlutum þess hlutafjár eða
-      stofnfjár sem farið er með atkvæði fyrir á hluthafafundum eða fundum
-    stofnfjáreigenda, svo og að fengnu samþykki Fjármálaeftirlitsins. Ef hið
-   yfirtekna fyrirtæki er alfarið í eigu yfirtökufélags þarf ekki að koma til
-   atkvæðagreiðslu skv. 1. málsl. þessarar málsgreinar í yfirtekna félaginu.
- [Samruni sparisjóðs við annað fyrirtæki eða einstaka rekstrarhluta þess er því
-  aðeins heimill að sparisjóðnum hafi áður verið breytt í hlutafélag samkvæmt
-    ákvæðum VIII. kafla, nema þegar um er að ræða samruna tveggja eða fleiri
-    sparisjóða sem ekki hefur verið breytt í hlutafélag eða hlutafélög.]^2)
+[106. gr.]^1) [Samruni fjármálafyrirtækis við annað fyrirtæki er aðeins heimill
+   að fengnu samþykki Fjármálaeftirlitsins. Yfirfærsla einstaka rekstrarhluta
+   fjármálafyrirtækis til annars fyrirtækis með öðrum hætti, svo sem sölu, er
+ einnig háð samþykki Fjármálaeftirlitsins. Með rekstrarhluta er í ákvæði þessu
+        átt við starfhæfa einingu innan fjármálafyrirtækis, t.d. útibú.
+Samruni fjármálafyrirtækis við annað fyrirtæki er aðeins heimill ef ákvörðun þar
+ að lútandi hefur hlotið samþykki hluthafafundar eða fundar stofnfjáreigenda í
+   yfirtekna fyrirtækinu með minnst ^2/3 hlutum greiddra atkvæða og samþykki
+hluthafa eða stofnfjáreigenda í yfirtekna fyrirtækinu sem ráða yfir minnst ^2/3
+      hlutum þess hlutafjár eða stofnfjár sem farið er með atkvæði fyrir á
+   hluthafafundum eða fundum stofnfjáreigenda. Ef hið yfirtekna fyrirtæki er
+  alfarið í eigu yfirtökufélags þarf ekki að koma til atkvæðagreiðslu skv. 1.
+             málsl. þessarar málsgreinar í yfirtekna félaginu.]^2)
+ [Samruni sparisjóðs við annað fyrirtæki er því aðeins heimill að sparisjóðnum
+hafi áður verið breytt í hlutafélag samkvæmt ákvæðum VIII. kafla, nema þegar um
+ er að ræða samruna tveggja eða fleiri sparisjóða sem ekki hefur verið breytt í
+                         hlutafélag eða hlutafélög.]^2)
   Um samruna fjármálafyrirtækja gilda að öðru leyti ákvæði laga um hlutafélög
          eftir því sem við getur átt og samningar hlutaðeigandi aðila.
     Fjármálafyrirtæki, sem er slitið vegna samruna, er ekki skylt að gefa út
     innköllun til lánardrottna eða halda eignum sínum aðgreindum. Breyting á
   eignaskráningu í veðmálabókum vegna samruna fjármálafyrirtækja er undanþegin
                                 stimpilgjöldum.
-Fjármálaeftirlitið skal auglýsa samruna fjármálafyrirtækja í Lögbirtingablaði. Í
-    auglýsingu skal tilgreina hvenær samruni tekur gildi, nöfn hlutaðeigandi
-  fyrirtækja, frest til að gera athugasemdir við yfirfærslu innlánsreikninga,
-hugsanlegar breytingar á greiðslustöðum skuldaskjala og annað sem kunngera þarf
-                          viðskiptamönnum sérstaklega.
+      [Fjármálaeftirlitið skal auglýsa samruna og yfirfærslu rekstrarhluta
+   fjármálafyrirtækja í Lögbirtingablaði. Í auglýsingu skal tilgreina hvenær
+samruninn eða yfirfærslan tekur gildi, nöfn hlutaðeigandi fyrirtækja, frest til
+ að gera athugasemdir við yfirfærslu innlánsreikninga, hugsanlegar breytingar á
+     greiðslustöðum skuldaskjala og annað sem kunngera þarf viðskiptamönnum
+                                sérstaklega.]^2)
 Við samruna tveggja eða fleiri fjármálafyrirtækja skal eigið fé, sem verður til
  við samruna, ekki vera lægra en samanlagt eigið fé hlutaðeigandi fyrirtækja á
 þeim tíma sem samruni átti sér stað, enda hafi lágmarki skv. 14. gr. ekki verið
                                       náð.
-                   ^1)L. 130/2004, 11. gr. ^2)L. 4/2004, 4. gr.
+                  ^1)L. 130/2004, 11. gr. ^2)L. 96/2008, 11. gr.
 
                              XIII. kafli. Eftirlit.
                         A. Almennar eftirlitsheimildir.
@@ -1886,7 +1895,7 @@ Fjármálaeftirlitið setur. Fari enginn eftirlitsskyldur aðili fyrir samstæð
   en starfsemi samstæðunnar fer aðallega fram á fjármála- eða vátryggingasviði
  samkvæmt skilgreiningu í reglum sem Fjármálaeftirlitið setur, telst samstæðan
 vera fjármálasamsteypa. Sérhverja undirsamstæðu sem uppfyllir skilyrði 2. málsl.
-  skal líta á sem fjármálasamsteypu. Fjármálaeftirlitið setur nánari reglur um
+skal líta á sem fjármálasamsteypu. Fjármálaeftirlitið setur nánari reglur^3) um
           skilgreiningu á fjármálasamsteypum og eftirlit með þeim.]^2)
  Fjármálaeftirlitið getur ákveðið að ákvæði 1. mgr. þessarar greinar og [9. og
     10. mgr. 97. gr.]^2) gildi einnig fyrir önnur tilvik þegar um er að ræða
@@ -1899,7 +1908,7 @@ fyrirtæki sem fjármálafyrirtæki hefur eignast tímabundið hlut í, annaðhv
                  getur þó ákveðið að umrædd ákvæði skuli gilda.
   Fjármálaeftirlitið getur veitt undanþágu frá ákvæðum 1. og 2. mgr. þessarar
                      greinar og [9. og 10. mgr. 97. gr.]^2)
-                  ^1)L. 130/2004, 11. gr. ^2)L. 130/2004, 15. gr.
+         ^1)L. 130/2004, 11. gr. ^2)L. 130/2004, 15. gr. ^3)Rgl. 920/2008.
 
                              XIV. kafli. Viðurlög.
                        [110. gr.]^1) [Stjórnvaldssektir.
@@ -2043,7 +2052,7 @@ Heimilt er að gera upptækan með dómi beinan eða óbeinan hagnað sem hlotis
                eftir því sem segir í almennum hegningarlögum.]^1)
                               ^1)L. 55/2007, 10. gr.
      [112. gr. d. Brot gegn lögum þessum sæta aðeins opinberri rannsókn að
-             undangenginni kæru Fjármálaeftirlitsins til lögreglu.
+            undangenginni kæru Fjármálaeftirlitsins til lögreglu.^1)
     Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur
      Fjármálaeftirlitið hvort mál skuli kært til lögreglu eða því lokið með
        stjórnvaldsákvörðun hjá stofnuninni. Ef brot eru meiri háttar ber
@@ -2052,7 +2061,7 @@ lýtur að verulegum fjárhæðum, ef verknaður er framinn með sérstaklega v�
     hætti eða við aðstæður sem auka mjög á saknæmi brotsins. Jafnframt getur
   Fjármálaeftirlitið á hvaða stigi rannsóknar sem er vísað máli vegna brota á
      lögum þessum til opinberrar rannsóknar. Gæta skal samræmis við úrlausn
-                               sambærilegra mála.
+                             sambærilegra mála.^1)
 Með kæru Fjármálaeftirlitsins skulu fylgja afrit þeirra gagna sem grunur um brot
   er studdur við. Ákvæði IV.VII. kafla stjórnsýslulaga gilda ekki um ákvörðun
                Fjármálaeftirlitsins um að kæra mál til lögreglu.
@@ -2066,8 +2075,9 @@ og gögn sem hún hefur aflað og tengjast þeim brotum sem tilgreind eru í 2. 
                rannsókn þeirra brota sem tilgreind eru í 2. mgr.
   Telji ákærandi að ekki séu efni til málshöfðunar vegna ætlaðrar refsiverðrar
     háttsemi sem jafnframt varðar stjórnsýsluviðurlögum getur hann sent eða
-   endursent málið til Fjármálaeftirlitsins til meðferðar og ákvörðunar.]^1)
-                              ^1)L. 55/2007, 10. gr.
+   endursent málið til Fjármálaeftirlitsins til meðferðar og ákvörðunar.]^2)
+     ^1)Málsgreininni var breytt með [14]l. 88/2008, 234. gr. Breytingin tekur
+        gildi 1. jan. 2009 skv. [15]232. gr. s.l. ^2)L. 55/2007, 10. gr.
 
                             XV. kafli. Ýmis ákvæði.
                      [113. gr.]^1) Nafnskráning reikninga.
@@ -2092,9 +2102,9 @@ innlánsskilríki eða viðtökuskírteini afhent úr hlutaðeigandi fyrirtæki,
        af skuldabréfum þeirra og framsöl skulu undanþegin stimpilgjaldi.
                               ^1)L. 130/2004, 11. gr.
         [116. gr.]^1) Undanþegnir sjóðir og undanþága frá rekstrarformi.
-   Þrátt fyrir starfsheimildir Hafnabótasjóðs samkvæmt [12]lögum nr. 23/1994,
- hafnalögum, Íbúðalánasjóðs samkvæmt [13]lögum nr. 44/1998, um húsnæðismál, og
- Ferðamálasjóðs samkvæmt [14]lögum nr. 117/1994, um skipulag ferðamála, teljast
+   Þrátt fyrir starfsheimildir Hafnabótasjóðs samkvæmt [16]lögum nr. 23/1994,
+ hafnalögum, Íbúðalánasjóðs samkvæmt [17]lögum nr. 44/1998, um húsnæðismál, og
+ Ferðamálasjóðs samkvæmt [18]lögum nr. 117/1994, um skipulag ferðamála, teljast
         þessir sjóðir ekki til fjármálafyrirtækja samkvæmt lögum þessum.
 Opinberir fjárfestingarlánasjóðir sem starfandi eru við gildistöku laga þessara
          eru undanþegnir skilyrði 13. gr. um að starfa sem hlutafélög.
@@ -2114,7 +2124,7 @@ sameiginlega fjárfestingu í framseljanlegum verðbréfum, 95/26/EB um breyting
                   ^1)L. 130/2004, 11. gr. ^2)L. 111/2007, 12. gr.
                            [118. gr.]^1) Gildistaka.
  Lög þessi öðlast gildi 1. janúar 2003. Með fjármálagerningum í lögum þessum er
-        átt við verðbréf samkvæmt skilgreiningu [15]laga nr. 13/1996, um
+        átt við verðbréf samkvæmt skilgreiningu [19]laga nr. 13/1996, um
                               verðbréfaviðskipti.
                               ^1)L. 130/2004, 11. gr.
                                  [119. gr.]^1)
@@ -2129,7 +2139,7 @@ verðbréfamiðlanir skulu halda starfsleyfi sínu við gildistöku laga þessar
 skulu innan sex mánaða tilkynna Fjármálaeftirlitinu hvaða starfsemi skv. 3. gr.
   og IV. kafla þau stunda við gildistöku laganna. Tilkynningin skal vera á því
                    formi sem Fjármálaeftirlitið óskar eftir.
-    Lánastofnanir, sem hafa starfsleyfi samkvæmt [16]lögum nr. 123/1993, um
+    Lánastofnanir, sem hafa starfsleyfi samkvæmt [20]lögum nr. 123/1993, um
 lánastofnanir aðrar en viðskiptabanka og sparisjóði, skulu hafa starfsleyfi sem
                       lánafyrirtæki samkvæmt lögum þessum.
     Starfandi fjármálafyrirtæki skv. 1. mgr. er óheimilt að hefja síðar nýja
@@ -2144,19 +2154,23 @@ lánastofnanir aðrar en viðskiptabanka og sparisjóði, skulu hafa starfsleyfi
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002161
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=215
-   3. http://www.althingi.is/altext/128/s/0218.html
-   4. file://1995002.html#g3
-   5. file://1995002.html#g20
-   6. file://1995002.html#g131
-   7. file://1993043.html
-   8. file://1994060.html#g29
-   9. file://1994144.html
-  10. file://1991021.html
-  11. file://1991021.html
-  12. file://1994023.html
-  13. file://1998044.html
-  14. file://1994117.html
-  15. file://1996013.html
-  16. file://1993123.html
+   1. file://2008088.html
+   2. file://2008088.html#g234
+   3. file://2008088.html
+   4. file://2008088.html#g234
+   5. file://2008088.html
+   6. file://1995002.html#g3
+   7. file://1995002.html#g20
+   8. file://1995002.html#g131
+   9. file://1993043.html
+  10. file://1994060.html#g29
+  11. file://1994144.html
+  12. file://1991021.html
+  13. file://1991021.html
+  14. file://2008088.html#g234
+  15. file://2008088.html
+  16. file://1994023.html
+  17. file://1998044.html
+  18. file://1994117.html
+  19. file://1996013.html
+  20. file://1993123.html

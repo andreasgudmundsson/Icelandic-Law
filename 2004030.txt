@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. janúar 2006. Breytt með l. 118/2005 (tóku gildi 1. jan. 2006) og
                     l. 156/2007 (tóku gildi 29. des. 2007).
@@ -413,9 +412,9 @@ Vátrygging á fasteign er til hagsbóta fyrir vátryggingartakann og fyrir rét
  að þinglýstum eignarrétti, veðrétti eða öðrum þinglýstum tryggingarréttindum í
                                    eigninni.
    Um vátryggingu lausafjár, sem hægt er að skrá sérstaklega í lausafjárbók,
- skipabók og bifreiðabók, sbr. 2.4. tölul. 1. mgr. [4]8. gr. þinglýsingalaga,
-  nr. 39/1978, rekstrartækja, sbr. 2. mgr. [5]24. gr. laga um samningsveð, nr.
-75/1997, og vörubirgða, sbr. 2. mgr. [6]33. gr. sömu laga, gilda ákvæði 2. mgr.
+ skipabók og bifreiðabók, sbr. 2.4. tölul. 1. mgr. [1]8. gr. þinglýsingalaga,
+  nr. 39/1978, rekstrartækja, sbr. 2. mgr. [2]24. gr. laga um samningsveð, nr.
+75/1997, og vörubirgða, sbr. 2. mgr. [3]33. gr. sömu laga, gilda ákvæði 2. mgr.
         einnig ef réttindum er þinglýst eða þau skráð í viðkomandi skrá.
             Heimilt er að víkja frá ákvæði 1.3. mgr. með samningi.
                              40. gr. Eigendaskipti.
@@ -554,7 +553,7 @@ eru í 1. mgr. 47. gr. getur hann ekki krafist vaxta fyrir þann tíma sem líð
    stað og skal þá krafan bera vexti samkvæmt framansögðu sem miðast við það
                                    tímamark.
   Almennir vextir samkvæmt þessari grein skulu vera hinir sömu og greiða ber á
-    skaðabætur samkvæmt [7]lögum um vexti og verðtryggingu, nr. 38/2001. Um
+    skaðabætur samkvæmt [4]lögum um vexti og verðtryggingu, nr. 38/2001. Um
                dráttarvexti gilda reglur III. kafla þeirra laga.
     Vexti skal greiða þótt greiðsla félagsins í heild verði með því hærri en
  vátryggingarfjárhæðin. Í vátryggingarskilmálum skal vakin athygli á rétti til
@@ -578,7 +577,7 @@ tilkynningu sem greinir í 2. mgr. 51. gr. fyrnist krafan fyrst þegar sá frest
                          líður sem þar er tilgreindur.
  Í ábyrgðartryggingum fyrnist ábyrgð félagsins samkvæmt sömu reglum og gilda um
                           fyrningu skaðabótaábyrgðar.
-  Að öðru leyti gilda ákvæði [8]laga nr. 14/1905, um fyrning skulda og annarra
+  Að öðru leyti gilda ákvæði [5]laga nr. 14/1905, um fyrning skulda og annarra
  kröfuréttinda. Fresturinn skv. 3. málsl. 1. mgr. framlengist þó ekki í samræmi
                         við 15. gr. síðastgreindra laga.
 
@@ -728,7 +727,7 @@ kvörtunar- eða ágreiningsmála er tengjast vátryggingarsamningum, svo og um 
                 hlutaðeigandi til að skjóta málum til dómstóla.
                        65. gr. Sérstök upplýsingaskylda.
  Áður en vátryggingarsamningur er gerður í greinaflokkum líftrygginga og öðrum
-   sem leyfi er veitt fyrir skv. [9]23. gr. laga um vátryggingastarfsemi, nr.
+   sem leyfi er veitt fyrir skv. [6]23. gr. laga um vátryggingastarfsemi, nr.
 60/1994, og á samningstímanum skal, þegar skuldbinding kemst á hér á landi, sbr.
       8. gr. síðastgreindra laga, vátryggingartaki upplýstur á íslensku um
                               eftirfarandi atriði:
@@ -1185,9 +1184,9 @@ maka hans, hvort sem viðkomandi var í hjúskap eða staðfestri samvist.]^1) �
 og sæng eða lögskilnaðar, eða kveðinn upp dómur um það eða hjúskapurinn ógiltur,
         þótt slík úrlausn sé ekki endanleg eða hafi öðlast réttaráhrif.
    Vátryggingarfjárhæð, eða hluti hennar, sem fellur til maka, telst ekki til
-      þeirra eigna sem skipta á að jöfnu eftir 93. gr., sbr. [10]103. gr.
+       þeirra eigna sem skipta á að jöfnu eftir 93. gr., sbr. [7]103. gr.
  hjúskaparlaga, nr. 31/1993, ef eftirlifandi maki yfirtekur ekki búið óskipt í
-                samræmi við II. kafla [11]erfðalaga, nr. 8/1962.
+                samræmi við II. kafla [8]erfðalaga, nr. 8/1962.
 Vátryggingarfjárhæð, eða hluti hennar, sem fellur ekki til maka samkvæmt ákvæði
        2. mgr., fellur til erfingja samkvæmt lögum eða erfðaskrá. Nú sat
         vátryggingartaki í óskiptu búi skv. II. kafla erfðalaga og telst
@@ -1306,12 +1305,12 @@ skuldheimtumenn maka er maki vátryggðs öðlast rétt til fjárhæðarinnar þ
                               kemur til greiðslu.
     Við lífeyristryggingu geta skuldheimtumenn þess er lífeyris nýtur leitað
    fullnustu í lífeyrisgreiðslum til hans með þeim takmörkunum sem leiðir af
-                ákvæðum [12]47. gr. laga um aðför, nr. 90/1989.
+                 ákvæðum [9]47. gr. laga um aðför, nr. 90/1989.
           111. gr. Riftun iðgjaldagreiðslu við gjaldþrotaskipti o.fl.
 Þrotabú vátryggingartaka, skuldari ef nauðasamningur kemst á og skuldafrágöngubú
   geta krafist endurgjalds af félaginu fyrir greiðslu iðgjalds sem innt er af
 hendi á síðustu þremur árum fyrir frestdag skv. 2. gr. laga um gjaldþrotaskipti
-o.[13]fl., nr. 21/1991, að því leyti sem iðgjaldsgreiðslan, þegar hún fór fram,
+o.[10]fl., nr. 21/1991, að því leyti sem iðgjaldsgreiðslan, þegar hún fór fram,
  var bersýnilega ósanngjörn miðað við fjárhagsstöðu vátryggingartakans og atvik
 að öðru leyti. Endurgjaldið á að nema aukningu á verðmæti vátryggingarinnar sem
  á rætur að rekja til hinnar bersýnilega ósanngjörnu iðgjaldagreiðslu. Greiðsla
@@ -1355,11 +1354,11 @@ beiðni þess sem samkvæmt líftryggingarskrá er tilgreindur sem vátryggingar
 Tilkynning vátryggingartaka skv. 1. mgr. 102. gr. telst beiðni um skráningu eða
                                 um að afmá hana.
    Sé bú vátryggingartaka tekið til opinberra skipta skal það skráð að kröfu
-skiptastjóra, sbr. 54. gr. laga um skipti á dánarbúum o.[14]fl., nr. 20/1991. Ef
+skiptastjóra, sbr. 54. gr. laga um skipti á dánarbúum o.[11]fl., nr. 20/1991. Ef
 heimild til að leita nauðasamnings hefur verið veitt, eða ef bú vátryggingartaka
  hefur verið tekið til gjaldþrotaskipta, skal skrá búið að kröfu tilsjónarmanns
 eða skiptastjóra, sbr. 43. og 87. gr. laga um gjaldþrotaskipti o.fl. Hið sama á
-    við ef vátryggingartaki er sviptur lögræði, sbr. [15]58. og [16]67. gr.
+    við ef vátryggingartaki er sviptur lögræði, sbr. [12]58. og [13]67. gr.
                            lögræðislaga, nr. 71/1997.
 Krafa um skráninguna skal færð í dagbók sama dag og hún kemur til félagsins og í
                         skrána eins fljótt og kostur er.
@@ -1458,7 +1457,7 @@ fyrir þann tíma sem líður vegna þess. Hið sama á við ef eigandi réttar 
   Nú er krafa um bætur miðuð við verðlag eftir að vátryggingaratburður varð og
   skal þá krafan bera vexti samkvæmt framansögðu sem miðast við það tímamark.
   Almennir vextir samkvæmt þessari grein skulu vera hinir sömu og greiða ber á
-    skaðabætur samkvæmt [17]lögum um vexti og verðtryggingu, nr. 38/2001. Um
+    skaðabætur samkvæmt [14]lögum um vexti og verðtryggingu, nr. 38/2001. Um
                dráttarvexti gilda reglur III. kafla þeirra laga.
     Vexti skal greiða þótt greiðsla félagsins í heild verði með því hærri en
   vátryggingarfjárhæð. Í vátryggingarskilmálum skal vekja athygli á rétti til
@@ -1474,7 +1473,7 @@ Hafni félagið kröfu um bætur í heild eða að hluta glatar sá sem rétt á
      úrskurðarnefnd skv. 141. gr. innan árs frá því að hann fékk skriflega
 tilkynningu um höfnunina. Í tilkynningu félagsins verður að koma fram hver lengd
 frestsins sé og hvernig honum verði slitið og lögfylgjur þess að það verði ekki
-  gert. [18]Lög um fyrning skulda og annarra kröfuréttinda, nr. 14/1905, gilda
+  gert. [15]Lög um fyrning skulda og annarra kröfuréttinda, nr. 14/1905, gilda
                  eftir því sem við getur átt um slit á frestum.
                                125. gr. Fyrning.
 Krafa um vátryggingarfjárhæð samkvæmt höfuðstólstryggingum fyrnist á tíu árum og
@@ -1490,9 +1489,9 @@ sem síðasta lífeyrisgreiðsla var innt af hendi. Hafi ekki verið inntar af h
  neinar greiðslur hefst fresturinn á þeim degi er rétthafinn gat krafist fyrstu
 greiðslu. Krafa um gjaldfallnar greiðslur fyrnist auk þess að liðnum fjórum árum
                                  frá gjalddaga.
-Að öðru leyti gilda reglur [19]laga um fyrning skulda og annarra kröfuréttinda,
+Að öðru leyti gilda reglur [16]laga um fyrning skulda og annarra kröfuréttinda,
  nr. 14/1905. Frestur sá sem tilgreindur er í 3. málsl. 1. mgr. framlengist þó
-                       ekki skv. [20]15. gr. þeirra laga.
+                       ekki skv. [17]15. gr. þeirra laga.
 
                 XIX. kafli. Sérstakar reglur um hópvátryggingar.
                    126. gr. Tengsl við önnur ákvæði laganna.
@@ -1640,7 +1639,7 @@ lífeyristryggingu ekki teljast ósanngjörn að því marki sem hún kom eða g
   og er með því átt við úrskurðarnefnd í vátryggingamálum sem starfar samkvæmt
    samningi milli viðskiptaráðherra, Neytendasamtakanna og Sambands íslenskra
    tryggingafélaga, svo og samþykktum fyrir hana. Formaður nefndarinnar skal
-  fullnægja skilyrðum til þess að vera dómari skv. 2. mgr. [21]12. gr. laga um
+  fullnægja skilyrðum til þess að vera dómari skv. 2. mgr. [18]12. gr. laga um
                              dómstóla, nr. 15/1998.
  Úrskurðarnefnd í vátryggingamálum skal kveða upp rökstudda úrskurði og verður
 þeim ekki skotið til stjórnvalda, en heimilt er aðilum máls að leggja ágreining
@@ -1735,24 +1734,21 @@ vátryggingarsamninga sem eru endurnýjaðir eða framlengdir frá og með þeim
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004030
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=204
-   3. http://www.althingi.is/altext/130/s/0215.html
-   4. file://1978039.html#g8
-   5. file://1997075.html#g24
-   6. file://1997075.html#g33
-   7. file://2001038.html
-   8. file://1905014.html
-   9. file://1994060.html#g23
-  10. file://1993031.html#g103
-  11. file://1962008.html
-  12. file://1989090.html#g47
-  13. file://1991021.html
-  14. file://1991020.html
-  15. file://1997071.html#g58
-  16. file://1997071.html#g67
-  17. file://2001038.html
-  18. file://1905014.html
-  19. file://1905014.html
-  20. file://1905014.html
-  21. file://1998015.html#g12
+   1. file://1978039.html#g8
+   2. file://1997075.html#g24
+   3. file://1997075.html#g33
+   4. file://2001038.html
+   5. file://1905014.html
+   6. file://1994060.html#g23
+   7. file://1993031.html#g103
+   8. file://1962008.html
+   9. file://1989090.html#g47
+  10. file://1991021.html
+  11. file://1991020.html
+  12. file://1997071.html#g58
+  13. file://1997071.html#g67
+  14. file://2001038.html
+  15. file://1905014.html
+  16. file://1905014.html
+  17. file://1905014.html
+  18. file://1998015.html#g12

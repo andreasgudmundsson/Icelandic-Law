@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,13 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 20. maí 1994. EES-samningurinn: IX. viðauki tilskipun 73/239/EBE og
  92/49/EBE. Breytt með l. 150/1994 (tóku gildi 31. des. 1994), l. 10/1995 (tóku
  gildi 1. mars 1995), l. 131/1996 (tóku gildi 19. des. 1996), l. 34/1999 (tóku
-         gildi 30. mars 1999) og l. 40/2000 (tóku gildi 26. maí 2000).
+ gildi 30. mars 1999), l. 40/2000 (tóku gildi 26. maí 2000) og l. 83/2008 (taka
+         gildi 1. jan. 2009 nema 22. gr. sem tók gildi 20. júní 2008).
 
 1. gr. [Húseigendum er skylt að brunatryggja allar húseignir. Húseignir samkvæmt
        lögum þessum eru hvers konar byggingar sem ætlaðar eru til íbúðar,
@@ -31,14 +31,15 @@ vikum eftir að byggingu þeirra lauk eða þær hafa verið teknar í notkun. E
  vátryggingafélag ekki taka gilda uppsögn nema henni fylgi staðfesting á að nýr
                  eigandi hafi stofnað til brunatryggingar.]^1)
                                ^1)L. 34/1999, 1. gr.
-2. gr. [Vátryggingarfjárhæð húseignar skv. 1. mgr. 1. gr. skal nema fullu verði
-  eignarinnar eftir virðingu. Fasteignamat ríkisins annast virðingu húseignar
-  samkvæmt matskerfi og verklagsreglum stofnunarinnar. Heiti þeirrar gerðar er
-brunabótamat. Er markmið matsins að finna vátryggingarverðmæti húseignarinnar á
-  þeim tíma er virðing fer fram. Skal matið taka til þeirra efnislegu verðmæta
-  húseignarinnar sem eyðilagst geta af eldi og miðast við byggingarkostnað að
-teknu tilliti til aldurs, slits, viðhalds og ástands eignar að öðru leyti. Matið
-        skal skrá í [Landskrá fasteigna]^1) þar sem því skal viðhaldið.
+  2. gr.^1) [Vátryggingarfjárhæð húseignar skv. 1. mgr. 1. gr. skal nema fullu
+    verði eignarinnar eftir virðingu. Fasteignamat ríkisins annast virðingu
+  húseignar samkvæmt matskerfi og verklagsreglum stofnunarinnar. Heiti þeirrar
+    gerðar er brunabótamat. Er markmið matsins að finna vátryggingarverðmæti
+   húseignarinnar á þeim tíma er virðing fer fram. Skal matið taka til þeirra
+   efnislegu verðmæta húseignarinnar sem eyðilagst geta af eldi og miðast við
+byggingarkostnað að teknu tilliti til aldurs, slits, viðhalds og ástands eignar
+   að öðru leyti. Matið skal skrá í [Landskrá fasteigna]^2) þar sem því skal
+                                   viðhaldið.
 Fasteignamat ríkisins getur endurmetið skyldutryggðar húseignir þegar stofnunin
 sér ástæðu til. Skal húseiganda tilkynnt um fyrirhugaða breytingu á mati. Vilji
  húseigandi ekki una breyttu mati samkvæmt þessari málsgrein skal hann tilkynna
@@ -67,7 +68,7 @@ Séu húseignir á eyðijörðum nýttar sem sumarhús eða til annarrar dægrad
                  fulltrúa hans, kost á því að vera viðstaddur.
    Fasteignamati ríkisins er heimilt að reikna brunabótamat án skoðunar. Skal
  útreikningur þessi gerður á grundvelli upplýsinga sem fyrir liggja í [Landskrá
-fasteigna]^1) og í öðrum þeim gögnum sem hún kann að hafa yfir að ráða. Áður en
+fasteigna]^2) og í öðrum þeim gögnum sem hún kann að hafa yfir að ráða. Áður en
  mat samkvæmt þessari málsgrein tekur gildi skal húseiganda gefinn kostur á því
     að gera athugasemdir við matið. Hafi hann eigi komið athugasemdum sínum
     sannanlega á framfæri við Fasteignamat ríkisins innan fjögurra vikna frá
@@ -75,8 +76,9 @@ fasteigna]^1) og í öðrum þeim gögnum sem hún kann að hafa yfir að ráða
       Vátryggingarfjárhæð breytist til samræmis við breytingar á vísitölu
                 byggingarkostnaðar hinna ýmsu tegunda húseigna.
    Í reglugerð skal kveða nánar á um tilhögun brunabótamats samkvæmt þessari
-                                   grein.]^2)
-                    ^1)L. 40/2000, 1. gr. ^2)L. 34/1999, 2. gr.
+                                   grein.]^3)
+     ^1)Greininni var breytt með l. 83/2008, 24. gr. Breytingin tekur gildi 1.
+    jan. 2009 skv. 23. gr. s.l. ^2)L. 40/2000, 1. gr. ^3)L. 34/1999, 2. gr.
 3. gr. Bætur fyrir tjón á húseign má aðeins greiða til þess að gera við húseign
 sem skemmst hefur við bruna eða til endurbyggingar. Vátryggjanda er skylt að sjá
         til þess áður en bætur eru greiddar að þeim sé réttilega varið.
@@ -93,11 +95,12 @@ Nú verður brunatjón meira en helmingur brunabótamatsverðs og sveitarstjórn
  fjarlægt og er henni þá heimilt að leysa húsið til sín. Greiðir hún þá mismun
   þann sem er á brunabótum og heildarmatsverði hússins. [Ef sveitarstjórn eða
  eigandi telja brunabótamatsverð ekki rétt getur hvor um sig krafist endurmats
-    Fasteignamats ríkisins og skal þá miða greiðslu við endurmatsverðið.]^1)
+  Fasteignamats ríkisins og skal þá miða greiðslu við endurmatsverðið.]^1)^3)
   [Ágreiningi um bótafjárhæð skv. 2. mgr. eða um endurmatsverð skv. 3. mgr. er
    heimilt að skjóta til gerðardóms sem ráðherra vátryggingamála setur nánari
   ákvæði um í reglugerð. Kostnað við úrskurð ber sá er gerð gengur á móti.]^1)
-                   ^1)L. 34/1999, 3. gr. ^2)L. 150/1994, 2. gr.
+   ^1)L. 34/1999, 3. gr. ^2)L. 150/1994, 2. gr. ^3)Málsgreininni var breytt með
+   l. 83/2008, 24. gr. Breytingin tekur gildi 1. jan. 2009 skv. 23. gr. s.l.
   [[4. gr.]^1) Hafi brunatrygging húss, sem tekin hefur verið, fallið niður af
        ástæðum sem húseiganda verður ekki um kennt ber Sambandi íslenskra
      tryggingafélaga að bæta honum tjón á húseign hans af völdum eldsvoða.
@@ -152,10 +155,3 @@ fjárnáms. Önnur gjöld og skattar samkvæmt þessari málsgrein eru brunavarn
      umsýslugjaldi til Fasteignamats ríkisins eigi síðar en 45 dögum eftir
                                  gjalddaga.]^1)
                                ^1)L. 40/2000, 3. gr.
-
-References
-
-   Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1994048
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=117&mnr=577
-   3. http://www.althingi.is/altext/117/s/0896.html

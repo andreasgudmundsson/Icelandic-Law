@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -9,13 +8,13 @@
    --------------------------------------------------------------------------
 
  Upphaflega l. 46/1985. Tóku gildi 1. júlí 1985. Endurútgefin, sbr. 22. gr. l.
-112/1992, sem [2]l. 99/1993. Breytt með l. 126/1993 (tóku gildi 30. des. 1993),
+112/1992, sem [1]l. 99/1993. Breytt með l. 126/1993 (tóku gildi 30. des. 1993),
 l. 129/1993 (tóku gildi 30. des. 1993), l. 34/1994 (tóku gildi 2. maí 1994), l.
  85/1994 (tóku gildi 3. júní 1994), l. 141/1994 (tóku gildi 31. des. 1994), l.
   87/1995 (tóku gildi 1. júlí 1995), l. 99/1995 (tóku gildi 5. júlí 1995), l.
  121/1995 (tóku gildi 30. nóv. 1995), l. 124/1995 (tóku gildi 6. des. 1995, sjá
  þó 21. gr.), l. 147/1995 (tóku gildi 1. jan. 1996), l. 77/1997 (tóku gildi 6.
-  júní 1997), [3]l. 84/1997 (tóku gildi 1. jan. 1998; komu til framkvæmda skv.
+  júní 1997), [2]l. 84/1997 (tóku gildi 1. jan. 1998; komu til framkvæmda skv.
  fyrirmælum í 7. gr.), l. 69/1998 (tóku gildi 24. júní 1998, sjá þó ákvæði til
      bráðabirgða), l. 130/1998 (tóku gildi 3. des. 1998, sjá þó ákvæði til
  bráðabirgða), l. 112/1999 (tóku gildi 1. jan. 2000), l. 88/2000 (tóku gildi 1.
@@ -26,7 +25,8 @@ gildi 21. maí 2002), l. 101/2002 (tóku gildi 6. júní 2002 og gilda til 31. d
  sept. 2005), l. 85/2004 (tóku gildi 18. júní 2004), l. 76/2005 (tóku gildi 1.
   jan. 2006), l. 119/2005 (tóku gildi 1. jan. 2006), l. 16/2007 (tóku gildi 3.
    mars 2007), l. 58/2007 (tóku gildi 1. jan. 2008; koma til framkvæmda skv.
-        fyrirmælum í 24. gr.) og l. 167/2007 (tóku gildi 1. jan. 2008).
+ fyrirmælum í 24. gr.), l. 167/2007 (tóku gildi 1. jan. 2008) og [3]l. 88/2008
+    (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                  I. kafli. Tilgangur laganna og orðaskýringar.
                        1. gr. Tilgangur þessara laga er:
@@ -358,7 +358,7 @@ verðmiðlunargjöldum, verðskerðingargjöldum og verðjöfnunargjaldi samkvæ
  28. gr. Afurðastöð er skylt að haga greiðslum til framleiðanda fyrir innlagðar
  búvörur í samræmi við ákvæði þessara laga og þeirra samninga og ákvarðana sem
                          teknar eru með heimild í þeim.
-     29. gr. [Nú er ákveðið það magn mjólkur sem framleiðendum eru tryggðar
+   29. gr.^1) [Nú er ákveðið það magn mjólkur sem framleiðendum eru tryggðar
  beingreiðslur fyrir samkvæmt heimild í 30. gr. og verð hennar til framleiðanda
  er ákveðið skv. 8. gr. og er þá afurðastöð skylt að greiða framleiðanda fullt
  verð innan greiðslumarks samkvæmt gildandi verðlagsgrundvelli á innleggsdegi,
@@ -368,15 +368,45 @@ mánaðar eftir innleggsmánuð. Heimilt er að semja um annan hátt á greiðsl
  Taki mjólkursamlag við mjólk umfram greiðslumark framleiðanda sem verður utan
     heildargreiðslumarks við lokauppgjör skal samsvarandi magn mjólkurafurða
  markaðsfært erlendis á ábyrgð mjólkursamlags og framleiðanda. [Framkvæmdanefnd
- búvörusamninga]^1) getur þó heimilað sölu þeirra innan lands ef gengið hefur á
+ búvörusamninga]^2) getur þó heimilað sölu þeirra innan lands ef gengið hefur á
   birgðir og skortur á mjólkurvörum er því fyrirsjáanlegur. Um greiðsluskyldu
   afurðastöðva fyrir innlegg umfram greiðslumark mjólkur, en innan efri marka
-þess, fer eftir gildandi samningum [sjávarútvegs- og landbúnaðarráðherra]^2) og
+þess, fer eftir gildandi samningum [sjávarútvegs- og landbúnaðarráðherra]^3) og
             Bændasamtaka Íslands skv. a-lið 1. mgr. 30. gr. laganna.
-                                      ^3)
-                                    ^1)]^4)
-    ^1)L. 112/1999, 11. gr. ^2)L. 167/2007, 56. gr. ^3)L. 58/2007, 2. gr. ^4)L.
-                               124/1995, 10. gr.
+ [Við kaup á kindakjöti frá framleiðendum eða samkomulag um að annast sölu þess
+  skal tilgreina hvort kjötið sé til sölu innan lands eða til útflutnings, en
+   greiðslur fyrir kindakjöt skulu vera óháðar greiðslumarki lögbýlisins.]^4)
+   [Landbúnaðarráðherra skal fyrir 1. september ár hvert, að fengnum tillögum
+Bændasamtaka Íslands, ákveða það hlutfall kindakjöts sem flytja skal á erlendan
+  markað. Ákvörðun þessi getur gilt fyrir allt að tólf mánaða framleiðslu- og
+                                  sölutímabil.
+ Sláturleyfishafa er skylt að leggja til kjöt til útflutnings samkvæmt ákvörðun
+ landbúnaðarráðherra, semja um skipti á kjöti við sláturleyfishafa með heimild
+  til útflutnings eða gera verktakasamning við útflutningshús um slátrun þess
+    hluta innleggs hússins sem flytja þarf úr landi. Sé þess ekki kostur er
+       sláturleyfishafa skylt að greiða vegna útflutningskvaðar gjald sem
+   landbúnaðarráðherra auglýsir fyrir 1. september ár hvert og skal svara til
+ mismunar á áætluðu heildsöluverði og viðmiðunarverði sem miðast við meðalverð
+við útflutning á undangengnum tólf mánuðum. Landbúnaðarráðherra skal, að fengnum
+  tillögum Bændasamtaka Íslands og Landssamtaka sláturleyfishafa, setja nánari
+    reglur um skipulag útflutnings svo að erlendir markaðir nýtist sem best.
+       Allir sauðfjárframleiðendur skulu taka þátt í útflutningi eða sæta
+ útflutningsuppgjöri vegna útflutningskvaðar fyrir sama hlutfall af framleiðslu
+ sinni að undanskildu því magni sem framleiðandi tekur til eigin nota samkvæmt
+ heimild í reglugerð. Undanþegnir útflutningsuppgjöri eru þó þeir framleiðendur
+sem hafa 0,7 vetrarfóðraðar kindur eða minna á hvert ærgildi greiðslumarks enda
+ liggi fyrir fullnægjandi staðfesting um ásetning. Eru þeir þá skuldbundnir til
+ að leggja aðeins inn afurðir þess fjár. Þetta hlutfall skal taka breytingum í
+ samræmi við breytingar á sölu kindakjöts á innlendum markaði reiknað frá 7.000
+ tonna árlegri sölu. Þá getur landbúnaðarráðherra ákveðið, að fenginni tillögu
+Bændasamtaka Íslands, að kjöt af sauðfé sem slátrað er á ákveðnum tímabilum utan
+           haustsláturtíðar verði undanþegið útflutningsuppgjöri.]^5)
+                                    ^2)]^6)
+       ^1)3.6. mgr. greinarinnar voru felldar brott með l. 58/2007, 2. gr.
+Breytingin tók gildi 1. jan. 2008 skv. 1. mgr. 24. gr. s.l. en kemur þó ekki til
+   framkvæmda fyrr en 1. júní 2009 skv. 2. mgr. 24. gr. s.l., sbr. ákvæði til
+  bráðabirgða U þessara laga. ^2)L. 112/1999, 11. gr. ^3)L. 167/2007, 56. gr.
+      ^4)L. 69/1998, 9. gr. ^5)L. 88/2000, 3. gr. ^6)L. 124/1995, 10. gr.
 
                   VII. kafli. Um stjórn búvöruframleiðslunnar.
    30. gr. Til þess að hafa stjórn á framleiðslu búvara þannig að hún verði í
@@ -414,7 +444,8 @@ kaupendum fóðurs fé úr fóðursjóði sem samsvarar tollum þeim sem þeir h
                 Ríkisendurskoðun endurskoða reikninga sjóðsins.
  Ráðherra setur reglugerð^4) um starfsemi fóðursjóðs og tilhögun greiðslna.]^5)
     ^1)L. 16/2007, 2. gr. ^2)L. 167/2007, 56. gr. ^3)L. 112/1999, 4. gr. ^4)Rg.
-  589/1995. Rg. 430/1996. Rg. 431/1996, sbr. 508/2006. ^5)L. 87/1995, 15. gr.
+589/1995. Rg. 430/1996. Rg. 431/1996, sbr. 508/2006 og 381/2008. ^5)L. 87/1995,
+                                    15. gr.
                                   32. gr. ^1)
                               ^1)L. 87/1995, 16. gr.
 33. gr. [Eftirstöðvar tekna fóðursjóðs eftir greiðslur samkvæmt ákvæðum 31. gr.
@@ -524,7 +555,7 @@ ef sauðfjárbóndi gefur rangar upplýsingar um ásettan fjölda sauðfjár eð
 desember 2013 uppfylla skilyrði um gæðastýrða framleiðslu eiga rétt á sérstakri
     gæðastýringargreiðslu úr ríkissjóði. Gæðastýringargreiðslu skal greiða á
  tiltekna gæðaflokka dilkakjöts frá framleiðendum sem uppfylla nánari skilyrði
-       reglugerðar sem ráðherra setur um gæðastýrða sauðfjárframleiðslu.
+      reglugerðar^1) sem ráðherra setur um gæðastýrða sauðfjárframleiðslu.
 Með gæðastýrðri sauðfjárframleiðslu er átt við framleiðslu á dilkakjöti samkvæmt
  kröfum um velferð búfjár, sjálfbæra landnýtingu og hollustu afurða. Gæðastýrð
      sauðfjárframleiðsla skal m.a. ná til landnota, aðbúnaðar og umhverfis,
@@ -534,9 +565,9 @@ Með gæðastýrðri sauðfjárframleiðslu er átt við framleiðslu á dilkakj
 annast eftirlit með skráningu í sérstaka gæðahandbók þar sem m.a. þau atriði sem
   tilgreind eru í 2. mgr. koma fram. [Ráðherra er heimilt að gera samninga við
 ríkisstofnanir og/eða einkaaðila um að annast verkefni við úttekt og eftirlit á
-      landi sem nýtt er við gæðastýrða framleiðslu.]^1) [Sjávarútvegs- og
-landbúnaðarráðherra]^2) getur falið [Matvælastofnun]^2) ^1) stjórnsýsluverkefni
-           vegna gæðastýringar eftir nánari ákvörðun í reglugerð. ^1)
+      landi sem nýtt er við gæðastýrða framleiðslu.]^2) [Sjávarútvegs- og
+landbúnaðarráðherra]^3) getur falið [Matvælastofnun]^3) ^2) stjórnsýsluverkefni
+           vegna gæðastýringar eftir nánari ákvörðun í reglugerð. ^2)
  Nánari fyrirmæli um framkvæmd og skilyrði gæðastýringargreiðslna skal ráðherra
  setja í reglugerð. Í reglugerðinni skal m.a. kveðið á um landnýtingarskilyrði,
 gæðakerfi, tilkynningar og fresti, kæruheimildir, eftirlits- og úttektaraðila og
@@ -546,8 +577,9 @@ skal aflað umsagnar Bændasamtaka Íslands um hana. Hafi umsögn ekki borist in
                         reglugerðina án frekara samráðs.
     Réttur framleiðenda til gæðastýringargreiðslna skv. 1. mgr. fellur niður
   uppfylli þeir ekki skilyrði um gæðastýrða sauðfjárframleiðslu samkvæmt lögum
-                            þessum og reglugerð.]^3)
-       ^1)L. 167/2007, 27. gr. ^2)L. 167/2007, 56. gr. ^3)L. 58/2007, 8. gr.
+                            þessum og reglugerð.]^4)
+       ^1)Rg. 10/2008. ^2)L. 167/2007, 27. gr. ^3)L. 167/2007, 56. gr. ^4)L.
+                                58/2007, 8. gr.
                                 42.49. gr. ^1)
                              ^1)L. 58/2007, 9.16. gr.
  [50. gr.]^1) [Allir þeir sem hafa greiðslumark til ráðstöfunar eða hagnýtingar
@@ -558,7 +590,7 @@ um greiðslumark lögbýla, beingreiðslur, framkvæmd og tilhögun þeirra, fr�
     ásetningshlutfalli, jöfnunargreiðslur, kaup ríkissjóðs á greiðslumarki,
                      aðilaskipti að greiðslumarki o.fl.]^5)
    ^1)L. 101/2002, 4. gr. ^2)L. 124/1995, 18. gr. ^3)L. 167/2007, 56. gr. ^4)Rg.
-    23/1996, rg. 399/2000, rg. 19/2001, sbr. 59/2003. ^5)L. 88/2000, 11. gr.
+           23/1996, rg. 399/2000, rg. 11/2008. ^5)L. 88/2000, 11. gr.
 
         X. kafli. [Um framleiðslu og greiðslumark mjólkur 20052012.]^1)
                                ^1)L. 61/2004, 6. gr.
@@ -658,8 +690,8 @@ mánaðarlega og skal framkvæmdanefnd búvörusamninga ákveða nánar greiðsl
 og fráviksmörk beingreiðslu fyrir upphaf hvers verðlagsárs, að fengnum tillögum
                             Landssambands kúabænda.
                                     ^4)]^5)
-       ^1)L. 101/2002, 4. gr. ^2)L. 167/2007, 56. gr. ^3)Rg. 567/2006, sbr.
-             882/2006. ^4)L. 61/2005, 5. gr. ^5)L. 69/1998, 15. gr.
+   ^1)L. 101/2002, 4. gr. ^2)L. 167/2007, 56. gr. ^3)Rg. 567/2006, sbr. 882/2006
+           og 208/2008. ^4)L. 61/2005, 5. gr. ^5)L. 69/1998, 15. gr.
                                 [56. gr.]^1) ^2)
 Allir þeir sem hafa fullvirðisrétt/greiðslumark til ráðstöfunar eða hagnýtingar
 eða hafa með höndum framleiðslu mjólkur eru háðir þeim breytingum á réttarstöðu
@@ -861,8 +893,31 @@ og er honum þá skylt að fullnægja ákvæðum laga og annarra ákvarðana yfi
                    ^1)L. 101/2002, 4. gr. ^2)L. 85/2004, 2. gr.
                               [72.73. gr.]^1) ^2)
                    ^1)L. 101/2002, 4. gr. ^2)L. 69/1998, 18. gr.
-                                [74. gr.]^1) ^2)
-                   ^1)L. 101/2002, 4. gr. ^2)L. 58/2007, 21. gr.
+    [74. gr.]^1)^2) [Bændasamtök Íslands]^3) og sláturleyfishafar skulu gera
+    samkomulag um verkaskiptingu á milli sláturleyfishafa vegna slátrunar og
+verkunar sauðfjár- og stórgripaafurða til sölu á erlenda markaði með tilliti til
+   mismunandi heimilda þeirra til slátrunar og verkunar á þessum búvörum til
+ útflutnings og þess að sala hvers sláturleyfishafa á innlendum markaði miðist
+við hlutfall heimilaðrar framleiðslu skv. 30. gr. þeirra framleiðenda sem eru í
+                        viðskiptum hjá sláturleyfishafa.
+Heimilt er að gera slíkt samkomulag til tiltekins tíma og skal aðilum heimilt að
+ óska endurskoðunar á því vegna breyttra aðstæðna, eftir því sem nánar er tekið
+til í samkomulaginu. Samkomulagið öðlast ekki gildi fyrr en landbúnaðarráðherra
+                              hefur staðfest það.
+  Nú næst ekki slíkt samkomulag sem um ræðir í 1. mgr. eða ráðherra neitar að
+    staðfesta það og skal ráðherra þá úrskurða framangreinda verkaskiptingu.
+Úrskurður þessi skal vera tímabundinn og má gilda í allt að tvö ár. Aðilum er á
+ þessu tímabili frjálst að gera með sér samkomulag skv. 1. mgr. er komi í stað
+ úrskurðar ráðherra. Í slíkum úrskurði er heimilt að kveða á um magn og verkun
+        þessara búvara og skiptingu þeirra til sölu innan lands og utan.
+Brjóti sláturleyfishafi gegn samkomulagi eða úrskurði samkvæmt þessari grein er
+ráðherra heimilt að svipta viðkomandi sláturleyfi samkvæmt [[19]lögum nr. 96 27.
+maí 1997, um eldi og heilbrigði sláturdýra, slátrun, vinnslu, heilbrigðisskoðun
+                        og gæðamat á sláturafurðum].^4)
+     ^1)L. 101/2002, 4. gr. ^2)Greinin var felld brott með l. 58/2007, 21. gr.
+Breytingin tók gildi 1. jan. 2008 skv. 1. mgr. 24. gr. s.l. en kemur þó ekki til
+   framkvæmda fyrr en 1. júní 2009 skv. 2. mgr. 24. gr. s.l., sbr. ákvæði til
+   bráðabirgða U þessara laga. ^3)L. 112/1999, 4. gr. ^4)L. 88/2000, 14. gr.
   [75. gr.]^1) [Styrktarsjóður sá sem varð til vegna tekna af sölu og leigu á
     eignum, ásamt sjóðum Grænmetisverslunar landbúnaðarins, skal sameinaður
     Framleiðnisjóði landbúnaðarins og lúta þeim lögum og reglum sem um hann
@@ -900,15 +955,17 @@ landbúnaðarins á hverjum tíma. Þá skulu samtökin gera áætlanir um framl
                     nánari ákvæði um framkvæmd laga þessara.
    ^1)L. 101/2002, 4. gr. ^2)L. 167/2007, 56. gr. ^3)Rg. 224/1994, rg. 373/1993,
    rg. 60/1994, sbr. 660/1994; rg. 407/1997, sbr. 617/1997; rg. 522/1997, rg.
-523/1997, rg. 524/1998, sbr. 488/1999, 615/2001 og 777/2001; rg. 651/2001, sbr.
-                             726/2004 og 807/2006.
+   523/1997, rg. 524/1998, sbr. 488/1999, 615/2001, 777/2001 og 792/2008; rg.
+                      651/2001, sbr. 726/2004 og 807/2006.
  [82. gr.]^1) Með mál út af brotum gegn lögum þessum og reglugerðum, sem settar
  verða samkvæmt þeim, skal farið sem opinber mál. Varða brot sektum nema þyngri
-                    refsing liggi við samkvæmt öðrum lögum.
-Ef aðili, sem samkvæmt lögum þessum er skylt að gefa [Matvælastofnun]^2) skýrslu
+                   refsing liggi við samkvæmt öðrum lögum.^2)
+Ef aðili, sem samkvæmt lögum þessum er skylt að gefa [Matvælastofnun]^3) skýrslu
 eða upplýsingar, tregðast við að láta þær í té má beita dagsektum frá 1005.000
                 kr., eftir því sem nánar er ákveðið í reglugerð.
-                  ^1)L. 101/2002, 4. gr. ^2)L. 167/2007, 56. gr.
+    ^1)L. 101/2002, 4. gr. ^2)Málsgreininni var breytt með [20]l. 88/2008, 234.
+ gr. Breytingin tekur gildi 1. jan. 2009 skv. [21]232. gr. s.l. ^3)L. 167/2007,
+                                    56. gr.
 [83. gr.]^1) Ákvæði laga þessara um greiðslumark og beinar greiðslur ríkissjóðs
  til framleiðenda mjólkur og sauðfjárafurða á lögbýlum falla úr gildi 31. ágúst
    1998 nema samningur hafi verið gerður á grundvelli a-liðar 1. mgr. 30. gr.
@@ -930,7 +987,7 @@ landbúnaðarhráefnum, sem jafnframt eru framleiddar hér á landi og sem heimi
                                  innflutnings.
    1.2. Samkvæmt IV. kafla laga þessara ef verð er ákveðið og birt í samræmi við
                                   þær reglur.
-       1.3. Í samræmi við reglur [19]6. gr. laga nr. 97/1987, um vörugjald.
+       1.3. Í samræmi við reglur [22]6. gr. laga nr. 97/1987, um vörugjald.
         2. Erlent viðmiðunarverð skal ákveðið þannig eftir því sem við á um
                            hlutaðeigandi innflutning:
    2.1. Viðmiðunarverð sem lagt er til grundvallar samkvæmt verðjöfnunarákvæðum
@@ -966,7 +1023,7 @@ fríverslunar- og milliríkjasamninga. Verðjöfnunargjöld má leggja á sem kr
 verðjöfnunargjöld skulu gilda eftir því sem við geta átt ákvæði tollalaga, [nr.
                       88/2005],^5) með síðari breytingum.
  Heimild [sjávarútvegs- og landbúnaðarráðherra]^2) samkvæmt þessari grein skal
-    koma í stað heimildar fjármálaráðherra skv. [[20]139. gr. tollalaga, nr.
+    koma í stað heimildar fjármálaráðherra skv. [[23]139. gr. tollalaga, nr.
  88/2005],^5) með síðari breytingum, að því er varðar þær vörur sem grein þessi
                                  tekur til.]^6)
    ^1)L. 101/2002, 4. gr. ^2)L. 167/2007, 56. gr. ^3)Um viðauka þessa vísast til
@@ -1067,12 +1124,12 @@ samningunum að þeir bændur sem hyggjast hefja sauðfjárrækt að nýju megi 
                                 kvöð.]^14)]^19)
     [U. Frá og með 1. janúar 2008 skal undanþága framleiðenda sem hafa haft 0,7
        vetrarfóðraðar kindur eða minna á hvert ærgildi greiðslumarks frá
-    útflutningsskyldu skv. 6. mgr. [21]29. gr. laga nr. 99/1993 falla niður.
+    útflutningsskyldu skv. 6. mgr. [24]29. gr. laga nr. 99/1993 falla niður.
   Framleiðendur, er undanþegnir verða útflutningsskyldu haustið 2007, bera þó
                  helming álagðrar útflutningsskyldu árið 2008.
-   Frá og með 1. júní 2009 fellur útflutningsskylda kindakjöts skv. [22]29. gr.
+   Frá og með 1. júní 2009 fellur útflutningsskylda kindakjöts skv. [25]29. gr.
 laga nr. 99/1993 brott. Fram til 1. júní 2009 gilda ákvæði 3.6. mgr. 29. gr. og
-               [23]74. gr. laga nr. 99/1993, eftir því sem við á.
+               [26]74. gr. laga nr. 99/1993, eftir því sem við á.
    Ú. Réttur til jöfnunargreiðslna, eins og þær eru skilgreindar í 40. gr. laga
    nr. 99/ 1993, sbr. 9. gr. laga nr. 88/2000, sem úthlutað var frá og með 1.
   janúar 2001 fellur niður frá og með 1. janúar 2008. Í stað jöfnunargreiðslna
@@ -1094,9 +1151,9 @@ brbákv., sbr. l. 124/1995, 21. gr. ^10)L. 124/1995, brbákv. I. ^11)L. 124/1995
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993099
-   2. file://1993099.html
-   3. file://1997084.html
+   1. file://1993099.html
+   2. file://1997084.html
+   3. file://2008088.html
    4. file://2004081.html#g2
    5. file://1966030.html
    6. file://2002103.html#g11
@@ -1112,8 +1169,11 @@ References
   16. file://1997096.html
   17. file://1990057.html
   18. file://1997084.html
-  19. file://1987097.html#g6
-  20. file://2005088.html#g139
-  21. file://1993099.html#g29
-  22. file://1993099.html#g29
-  23. file://1993099.html#g74
+  19. file://1997096.html
+  20. file://2008088.html#g234
+  21. file://2008088.html
+  22. file://1987097.html#g6
+  23. file://2005088.html#g139
+  24. file://1993099.html#g29
+  25. file://1993099.html#g29
+  26. file://1993099.html#g74

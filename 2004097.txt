@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                           Tóku gildi 1. október 2004.
 
@@ -123,7 +122,7 @@ til framkvæmda á ráðstöfunum sem þeim er skylt að hlutast til um samkvæm
 viðkomandi sveitarstjórnum og öðrum hagsmunaaðilum um hvaða landsvæði áformað er
                       að friðlýsa samkvæmt framangreindu.
        Að öðru leyti skal um friðlýsingu þessara svæða fara eftir ákvæðum
-[4]náttúruverndarlaga, nr. 44/1999. Skal friðlýsingu samkvæmt ákvæði þessu vera
+[1]náttúruverndarlaga, nr. 44/1999. Skal friðlýsingu samkvæmt ákvæði þessu vera
                           lokið fyrir 1. janúar 2008.
 
                                 Fylgiskjal I.^1)
@@ -135,7 +134,4 @@ viðkomandi sveitarstjórnum og öðrum hagsmunaaðilum um hvaða landsvæði á
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004097
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=564
-   3. http://www.althingi.is/altext/130/s/0843.html
-   4. file://1999044.html
+   1. file://1999044.html

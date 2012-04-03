@@ -1,23 +1,23 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
-                         Lög um meðferð opinberra mála
+                        Lög um meðferð opinberra mála^1)
 
                               1991 nr. 19 26. mars
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+           ^1)Falla úr gildi 1. janúar 2009 skv. [1]l. 88/2008, 233. gr.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. júlí 1992, að undanskildum 1. og 3. mgr. 29. gr. sem tóku gildi
-17. apríl 1990 (á að vera 17. apríl 1991). Breytt með [4]l. 91/1991 (tóku gildi
+17. apríl 1990 (á að vera 17. apríl 1991). Breytt með [2]l. 91/1991 (tóku gildi
  1. júlí 1992), l. 92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi
  9. jan. 1992), l. 38/1993 (tóku gildi 7. maí 1993), l. 37/1994 (tóku gildi 1.
  júlí 1994), l. 84/1996 (tóku gildi 1. júlí 1997), l. 136/1996 (tóku gildi 30.
 des. 1996), l. 57/1997 (tóku gildi 1. júlí 1997), l. 83/1997 (tóku gildi 6. júní
-  1997), [5]l. 15/1998 (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi 3.
- apríl 1998), l. 31/1998 (tóku gildi 29. apríl 1998), [6]l. 61/1998 (tóku gildi
+  1997), [3]l. 15/1998 (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi 3.
+ apríl 1998), l. 31/1998 (tóku gildi 29. apríl 1998), [4]l. 61/1998 (tóku gildi
  1. jan. 1999), l. 82/1998 (tóku gildi 1. okt. 1998), l. 36/1999 (tóku gildi 1.
 maí 1999), l. 94/2000 (tóku gildi 6. júní 2000), l. 27/2001 (tóku gildi 16. maí
   2001), l. 86/2004 (tóku gildi 18. júní 2004), l. 81/2005 (tóku gildi 9. júní
@@ -62,12 +62,12 @@ maí 1999), l. 94/2000 (tóku gildi 6. júní 2000), l. 27/2001 (tóku gildi 16.
  Dómsformaður stýrir dómi, kveður einn upp úrskurði, skipar verjanda, gefur út
  fyrirkall og tilkynningar, sér um afgreiðslu dómsgerða og kemur fram út á við
                               fyrir hönd dómsins.
-    ^1)[7]L. 15/1998, 36. gr. ^2)L. 37/1994, 1. gr. ^3)[8]L. 91/1991, 161. gr.
+    ^1)[5]L. 15/1998, 36. gr. ^2)L. 37/1994, 1. gr. ^3)[6]L. 91/1991, 161. gr.
 6. gr. Dómari víkur sæti í máli samkvæmt lögum þessum ef svo stendur á sem segir
   í [lögum um meðferð einkamála].^1) Enn fremur skal dómari víkja sæti í máli
   eftir útgáfu ákæru ef hann hefur úrskurðað mann, sem ákærður er í málinu, í
                       gæsluvarðhald skv. 2. mgr. 103. gr.
-                            ^1)[9]L. 91/1991, 161. gr.
+                            ^1)[7]L. 91/1991, 161. gr.
 
                      III. kafli. Þinghöld, birtingar o.fl.
  7. gr. 1. Dómþing skulu haldin á reglulegum þingstöðum og í dómsölum ef kostur
@@ -191,7 +191,7 @@ athugasemdum. Dómari segir fyrir um hvað skuli skráð í þingbók, en heimil
 skráningu og varðveislu lögreglu á upplýsingum um brotaferil einstakra manna eða
                        atriði sem varða einkahagi þeirra.
     ^1)Rg. 569/1999, sbr. 451/2007 og 716/2007. ^2)Rg. 395/1997, rg. 322/2001,
-                                 sbr. 926/2004.
+                           sbr. 926/2004 og 362/2008.
   20. gr. [1. Ákærur, fyrirköll, kvaðningar og aðrar tilkynningar í opinberum
 málum skulu birtar af einum lögreglumanni eða öðrum starfsmanni lögreglustjóra,
  fangaverði eða öðrum starfsmanni Fangelsismálastofnunar eða stefnuvotti, nema
@@ -841,7 +841,7 @@ rannsókn, svo sem blóðrannsókn og annarri læknisskoðun, efnafræðilegri r
  nauðsynlegt. Einnig skal framkvæma réttarkrufningu, ef nauðsyn þykir, og skal
     leita úrskurðar dómara um krufningu nema nánasti venslamaður eða nánustu
                         venslamenn hins látna leyfi.]^1)
-                            ^1)[10]L. 61/1998, 17. gr.
+                             ^1)[8]L. 61/1998, 17. gr.
   71. gr. 1. Rannsökuð skulu þau atriði sem varða sakborning sjálfan, svo sem:
        a. aldur hans og skal, ef kostur er, sanna hann með fæðingarvottorði,
    b. persónulegar aðstæður hans, svo sem fjölskyldu- og heimilishagi, menntun,
@@ -1301,7 +1301,7 @@ gr. almennra hegningarlaga segir og ætla verður að ekki yrði um frekari refs
                                  málshöfðunar.
 3. Ef ríkissaksóknari telur ástæðu til að falla frá saksókn, en telur vafa leika
 á heimild sinni til þess getur hann óskað eftir að dómsmálaráðherra geri tillögu
-    til forseta Íslands um niðurfall saksóknar samkvæmt ákvæðum [11]29. gr.
+     til forseta Íslands um niðurfall saksóknar samkvæmt ákvæðum [9]29. gr.
                                  stjórnarskrár.
    4. [Í málum þar sem lögreglustjóri fer með ákæruvald getur hann fallið frá
   saksókn. Ef hann telur ástæðu til að falla frá saksókn skv. 2. mgr. en vafa
@@ -1826,7 +1826,7 @@ fyrir flutning máls. Frá þessu getur Hæstiréttur vikið ef sérstaklega ste
     enda séu aðilar á það sáttir að ný gögn komi fram með skemmri fyrirvara.
 Ríkissaksóknara er þó jafnan heimilt að leggja fram nýtt sakavottorð ákærða við
                             upphaf málflutnings.]^2)
-                 ^1)[12]L. 15/1998, 36. gr. ^2)L. 37/1994, 15. gr.
+                 ^1)[10]L. 15/1998, 36. gr. ^2)L. 37/1994, 15. gr.
  156. gr. 1. [Hæstiréttur getur kveðið upp dóm um frávísun máls frá Hæstarétti
  vegna galla á málatilbúnaði þar fyrir dómi án þess að málflutningur fari áður
  fram. Á sama hátt getur Hæstiréttur ómerkt héraðsdóm ef verulegir gallar hafa
@@ -1895,7 +1895,7 @@ málsins í héraði í þeim mæli að munnleg sönnunarfærsla geti farið þa
                     þörfum og leyst verði úr máli á ný.]^1)
                               ^1)L. 37/1994, 19. gr.
                                   160. gr. ^1)
-                            ^1)[13]L. 15/1998, 35. gr.
+                            ^1)[11]L. 15/1998, 35. gr.
 161. gr. Nú þykir sækjandi eða verjandi hafa gerst sekur um vanrækslu eða önnur
    glöp í undirbúningi eða flutningi opinbers máls fyrir Hæstarétti og getur
               rétturinn þá gert honum sekt sem renni í ríkissjóð.
@@ -2143,16 +2143,14 @@ endurupptöku eða ekki. Ef orðið er við beiðni um endurupptöku máls sem d
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1991019
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=113&mnr=98
-   3. http://www.althingi.is/altext/113/s/0101.html
-   4. file://1991091.html
+   1. file://2008088.html#g233
+   2. file://1991091.html
+   3. file://1998015.html
+   4. file://1998061.html
    5. file://1998015.html
-   6. file://1998061.html
-   7. file://1998015.html
-   8. file://1991091.html#g161
-   9. file://1991091.html#g161
-  10. file://1998061.html#g17
-  11. file://1944033.html#g29
-  12. file://1998015.html
-  13. file://1998015.html
+   6. file://1991091.html#g161
+   7. file://1991091.html#g161
+   8. file://1998061.html#g17
+   9. file://1944033.html#g29
+  10. file://1998015.html
+  11. file://1998015.html

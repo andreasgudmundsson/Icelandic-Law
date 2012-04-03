@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 9. mars 1995. Breytt með l. 136/2003 (tóku gildi 30. des. 2003) og l.
                       152/2007 (tóku gildi 1. jan. 2008).
@@ -96,7 +95,7 @@ fremst haldin á þeim tíma sem vinnslustöðvun varir. Verði því með engu 
 tímabundinni vinnslustöðvun í samræmi við ákvæði kjarasamninga um kauptryggingu
   verkafólks í fiskvinnslu, sbr. einnig 2. gr., er heimilt að sækja um mismun
 fastra dagvinnulauna og tekjutengdra atvinnuleysisbóta sem hann ætti ella rétt á
- skv. [4]32. gr. laga nr. 54/2006, um atvinnuleysistryggingar, hefði hann skráð
+ skv. [1]32. gr. laga nr. 54/2006, um atvinnuleysistryggingar, hefði hann skráð
    sig án atvinnu hjá Vinnumálastofnun þann tíma sem vinnslustöðvunin varir.
    Skilyrði er að starfsmaður hafi fengið greidd föst laun fyrir dagvinnu frá
  vinnuveitanda í tímabundinni vinnslustöðvun í tíu virka daga samtals eftir 1.
@@ -116,7 +115,4 @@ síðar eða ef umsókn berst síðar skulu greiðslur inntar af hendi fyrsta da
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995051
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=118&mnr=447
-   3. http://www.althingi.is/altext/118/s/0765.html
-   4. file://2006054.html#g32
+   1. file://2006054.html#g32

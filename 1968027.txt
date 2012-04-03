@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-                        [2]Ferill málsins á Alþingi.
+                          Ferill málsins á Alþingi.
 
   Tóku gildi 1. júlí 1968. Breytt með l. 134/1996 (tóku gildi 30. des. 1996).
 
@@ -25,7 +24,7 @@
    [Þar sem ákveðið er að leggja starfsmanni til húsnæði skal gera skriflegan
 húsaleigusamning á þar til gerðu eyðublaði, útgefnu af fjármálaráðuneyti. Slíkur
 leigumáli fellur niður án sérstakrar uppsagnar ef um leigjanda eiga við einhver
-   þau atvik sem upp eru talin í [3]25. gr. laga nr. 70/1996, um réttindi og
+   þau atvik sem upp eru talin í [1]25. gr. laga nr. 70/1996, um réttindi og
   skyldur starfsmanna ríkisins. Jafnframt fellur leigumáli niður án sérstakrar
 uppsagnar ef leigjandi segir starfinu upp eða er sagt upp á grundvelli gagnkvæms
    uppsagnarfrests í ráðningarsamningi eða vegna þess að fyrir fram umsömdum
@@ -58,7 +57,7 @@ uppsagnar ef leigjandi segir starfinu upp eða er sagt upp á grundvelli gagnkv�
   er sett verður skv. 11. gr., skal selja þegar í stað er núverandi leigutakar
   þess hverfa úr því eða láta af störfum. Heimilt er þó að fresta sölu ef slík
                 frestun er bersýnilega hagkvæm fyrir ríkissjóð.
-Sala fasteigna skv. 1. mgr. þessarar greinar skal fara eftir ákvæðum [4]laga nr.
+Sala fasteigna skv. 1. mgr. þessarar greinar skal fara eftir ákvæðum [2]laga nr.
  52/1987, um opinber innkaup, með síðari breytingum, og reglum settum samkvæmt
                                    þeim.]^1)
                               ^1)L. 134/1996, 3. gr.
@@ -85,7 +84,5 @@ sett verður skv. 11. gr., skal nánar kveðið á um framkvæmd þessa. Með sa
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1968027
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=88&mnr=139
-   3. file://1996070.html#g25
-   4. file://1987052.html
+   1. file://1996070.html#g25
+   2. file://1987052.html

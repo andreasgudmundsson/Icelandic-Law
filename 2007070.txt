@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                            Tóku gildi 5. apríl 2007.
 
@@ -76,7 +75,8 @@ skipar formann og varaformann Æskulýðsráðs án tilnefningar. Skipunartími 
               4. Samstarfsverkefni æskulýðsfélaga og æskulýðssamtaka.
     Ráðherra úthlutar styrkjum úr Æskulýðssjóði að fengnum tillögum stjórnar
                                    sjóðsins.
-    Ráðherra er heimilt að setja nánari reglur um úthlutun úr Æskulýðssjóði.
+  Ráðherra er heimilt að setja nánari reglur^1) um úthlutun úr Æskulýðssjóði.
+                                 ^1)Rgl. 60/2008.
 
                   IV. kafli. Starfsskilyrði í æskulýðsstarfi.
    10. gr. Miða skal við að þeir sem starfa með eða hafa umsjón með börnum og
@@ -87,7 +87,7 @@ skipar formann og varaformann Æskulýðsráðs án tilnefningar. Skipunartími 
                                annarra vímuefna.
 Óheimilt er að ráða til starfa hjá aðilum, sem 2. gr. tekur til og sinna börnum
  og ungmennum undir 18 ára aldri í æskulýðsstarfi, einstaklinga sem hlotið hafa
-   refsidóm vegna brota á ákvæðum XXII. kafla almennra [4]hegningarlaga, nr.
+   refsidóm vegna brota á ákvæðum XXII. kafla almennra [1]hegningarlaga, nr.
   19/1940. Sama gildir um þá sem hlotið hafa refsidóm fyrir brot gegn lögum um
   ávana- og fíkniefni, nr. 65/1974, á síðastliðnum fimm árum. Ákvæði þetta nær
 einnig til þeirra sem falin er umsjón með börnum og ungmennum undir 18 ára aldri
@@ -128,7 +128,4 @@ Sambands íslenskra sveitarfélaga. Ráðherra skipar tvo fulltrúa án tilnefni
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007070
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=409
-   3. http://www.althingi.is/altext/133/s/460.html
-   4. file://1940019.html
+   1. file://1940019.html

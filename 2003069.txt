@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,11 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 25. júlí 2003. EES-samningurinn: XI. viðauki tilskipun 90/388/EB,
  2002/19/EB, 2002/20/EB, 2002/21/EB og 2002/22/EB. Breytt með l. 172/2006 (tóku
-                              gildi 1. jan. 2007).
+gildi 1. jan. 2007), [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem
+       tók gildi 21. júní 2008) og l. 117/2008 (tóku gildi 1. okt. 2008).
 
                             1. gr. Yfirstjórn o.fl.
  Póst- og fjarskiptastofnun hefur umsjón með framkvæmd fjarskipta- og póstmála
@@ -89,7 +89,11 @@ Póst- og fjarskiptastofnun hefur eftirlit með starfsemi fjarskiptafyrirtækja 
         5. gr. Eftirlitsúrræði Póst- og fjarskiptastofnunar og viðurlög.
 Póst- og fjarskiptastofnun getur krafið þá sem stunda starfsemi sem fellur undir
  lög um fjarskipti og póstþjónustu um allar upplýsingar sem nauðsynlegar þykja
-                          við athugun einstakra mála.
+við athugun einstakra mála. [Í tengslum við eftirlit og athuganir mála samkvæmt
+      ákvæðum laga um fjarskipti og laga um póstþjónustu sem ekki snúa að
+ fjarskiptafyrirtækjum eða póstrekendum er einstaklingum og lögaðilum skylt að
+  láta Póst- og fjarskiptastofnun í té allar upplýsingar og gögn sem hún telur
+                                nauðsynleg.]^1)
   Póst- og fjarskiptastofnun getur krafið fjarskiptafyrirtæki um upplýsingar í
        sambandi við almenna heimild, réttindi eða sérstakar kvaðir, m.a.:
    a. vegna kerfisbundinnar eða tilfallandi könnunar á því að hlítt sé skilyrðum
@@ -127,7 +131,7 @@ Póst- og fjarskiptastofnun getur við rannsókn máls gert nauðsynlegar athuga
  rekstrarleyfishafa í póstþjónustu og lagt hald á gögn þegar ríkar ástæður eru
  til að ætla að brotið hafi verið gegn lögum þessum, lögum um fjarskipti, lögum
  um póstþjónustu eða reglum eða ákvörðunum stofnunarinnar. Við þessar aðgerðir
-  skal fylgja ákvæðum laga um meðferð opinberra mála um leit og hald á munum.
+ skal fylgja ákvæðum laga um meðferð opinberra mála um leit og hald á munum.^2)
   Vanræki fjarskiptafyrirtæki eða póstrekandi skyldur sínar eða uppfylli ekki
   kröfur sem Póst- og fjarskiptastofnun gerir um úrbætur innan hæfilegs frests
 getur stofnunin svipt viðkomandi réttindum til tíðna og númera eða rekstrarleyfi
@@ -139,6 +143,8 @@ fjarskiptafyrirtækis eða póstrekanda sem starfar án heimildar eða uppfyllir
                            þessu skyni, sbr. 12. gr.
 Samgönguráðherra setur í reglugerð nánari ákvæði um framkvæmd eftirlits Póst- og
                               fjarskiptastofnunar.
+    ^1)L. 117/2008, 1. gr. ^2)Málsliðnum var breytt með [2]l. 88/2008, 234. gr.
+           Breytingin tekur gildi 1. jan. 2009 skv. [3]232. gr. s.l.
                           6. gr. Umsögn hagsmunaaðila.
   Áður en Póst- og fjarskiptastofnun tekur ákvörðun sem hefur veruleg áhrif á
     viðkomandi fjarskiptamarkað skal stofnunin veita hagsmunaaðilum rétt til
@@ -242,19 +248,41 @@ farið.]^1) Eru slíkar sektir aðfararhæfar skv. 5. tölul. 1. mgr. [4]1. gr. 
 úrskurðarnefndar fjarskipta- og póstmála. Skal kæran berast úrskurðarnefnd innan
      fjögurra vikna frá því að viðkomandi varð kunnugt um ákvörðun Póst- og
  fjarskiptastofnunar. Í úrskurðarnefnd fjarskipta- og póstmála sitja þrír menn
-    sem skipaðir eru af samgönguráðherra og jafnmargir til vara, allir eftir
-tilnefningu Hæstaréttar. Formaður og varaformaður skulu fullnægja hæfisskilyrðum
-hæstaréttardómara. Skipunartími nefndarinnar er fjögur ár. Nefndinni er heimilt
-                           að kveðja til sérfræðinga.
-Úrskurður nefndarinnar skal að jafnaði liggja fyrir innan átta vikna frá því að
-                               kæra berst henni.
- Úrskurðir nefndarinnar skulu vera endanlegir á stjórnsýslustigi. Nú vill aðili
-ekki una úrskurði nefndarinnar og getur hann þá borið úrskurðinn undir dómstóla,
-en slíkt mál skal höfða innan sex mánaða frá því að viðkomandi fékk vitneskju um
-úrskurð nefndarinnar. Málshöfðun frestar ekki gildistöku úrskurða nefndarinnar.
- Ákvörðun Póst- og fjarskiptastofnunar verður ekki borin undir dómstóla fyrr en
-       niðurstaða úrskurðarnefndar fjarskipta- og póstmála liggur fyrir.
-  Um starfshætti nefndarinnar, málsmeðferð o.fl. skal mælt fyrir í reglugerð.
+  sem skipaðir eru af samgönguráðherra og jafnmargir til vara ^1) Formaður og
+  varaformaður skulu fullnægja hæfisskilyrðum hæstaréttardómara. Skipunartími
+   nefndarinnar er fjögur ár. Nefndinni er heimilt að kveðja til sérfræðinga.
+ Úrskurður nefndarinnar skal að jafnaði liggja fyrir innan [tólf]^1) vikna frá
+                            því að kæra berst henni.
+[Nú vill aðili ekki una úrskurði nefndarinnar og getur hann þá borið úrskurðinn
+ undir dómstóla, en slíkt mál skal höfða innan sex mánaða frá því að viðkomandi
+   fékk vitneskju um úrskurð nefndarinnar. Póst- og fjarskiptastofnun getur í
+  undantekningartilfellum borið úrskurð nefndarinnar undir dómstóla enda liggi
+      fyrir samþykki ráðherra. Málshöfðun frestar ekki gildistöku úrskurða
+                                 nefndarinnar.
+ Aðili getur borið ákvörðun Póst- og fjarskiptastofnunar undir dómstóla án þess
+að mál sé fyrst borið undir úrskurðarnefnd. Slíkt mál skal höfðað innan þriggja
+    mánaða frá því að viðkomandi fékk vitneskju um ákvörðun stofnunarinnar.
+  Málshöfðun frestar ekki réttaráhrifum ákvarðana stofnunarinnar. Málskot til
+ dómstóla hindrar að úrskurðarnefnd sé heimilt að taka kæru til málsmeðferðar.
+     Taka skal gjald vegna málskots fjarskiptafyrirtækja og póstrekenda til
+  úrskurðarnefndar og málsmeðferðar fyrir nefndinni. Gjaldið skal taka mið af
+    kostnaði vegna þóknunar nefndarmanna, reksturs málsins fyrir nefndinni,
+starfsaðstöðu, sérfræðiaðstoðar og gagnaöflunar. Tapist mál í grundvallaratriðum
+ skal sá málsaðili sem tapar að jafnaði greiða málskostnað. Nefndin kveður á um
+  fjárhæð og skiptingu gjalds í úrskurðarorðum sínum. Ekki er heimilt að gera
+ notendum fjarskipta- og póstþjónustu eða Póst- og fjarskiptastofnun að greiða
+ gjald samkvæmt ákvæði þessu. Gjöld samkvæmt þessari grein eru aðfararhæf.]^1)
+ [Þóknun úrskurðarnefndar vegna málskots notenda fjarskipta- og póstþjónustu og
+     málsmeðferðar fyrir nefndinni skal ákveðin af ráðherra og greiðist úr
+   ríkissjóði. Úrskurðarnefnd getur að fengnu samþykki samgönguráðherra ráðið
+nefndinni starfslið, kallað sérfróða menn sér til aðstoðar eða falið sjálfstætt
+            starfandi aðila að sjá um skrifstofuhald fyrir nefndina.
+   Um starfshætti úrskurðarnefndarinnar, starfslið, sérfræðiaðstoð og umfang
+   hennar, skrifstofuhald, starfsstöð, málsmeðferð, birtingu og aðfararhæfi,
+  frestun réttaráhrifa, útgáfu úrskurða nefndarinnar, málskotsgjöld og kostnað
+     lögaðila, skiptingu kostnaðar og aðra þætti er lúta að starfsumhverfi
+        nefndarinnar skal mælt fyrir í reglugerð sem ráðherra setur.]^1)
+                              ^1)L. 117/2008, 2. gr.
                             14. gr. Gjaldtaka o.fl.
   Fyrir útgáfu rekstrarleyfa fyrir póstþjónustu greiðist gjald til ríkissjóðs
             samkvæmt [5]lögum nr. 88/1991, um aukatekjur ríkissjóðs.
@@ -399,8 +427,8 @@ fyrir heimild til að nota tíðnir til tilrauna greiðast 50.000 kr. Gjöld sam
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003069
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=600
-   3. http://www.althingi.is/altext/128/s/0961.html
+   1. file://2008088.html
+   2. file://2008088.html#g234
+   3. file://2008088.html
    4. file://1989090.html#g1
    5. file://1991088.html

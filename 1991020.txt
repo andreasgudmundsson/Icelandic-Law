@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-   Tóku gildi 1. júlí 1992. Breytt með l. 65/2006 (tóku gildi 27. júní 2006).
+  Tóku gildi 1. júlí 1992. Breytt með l. 65/2006 (tóku gildi 27. júní 2006) og
+ [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+                                     2008).
 
                   1. þáttur. Almenn ákvæði um skipti dánarbúa.
                   I. kafli. Lögsaga við skipti dánarbúa o.fl.
@@ -44,7 +45,7 @@ slíkan dvalarstað átt þá í því umdæmi þar sem hann lést. Hafi maki l�
         dómsmálaráðherra um það í hverju umdæmi skiptin geti farið fram.
 4. gr. Dómsmál verður ekki höfðað í héraði gegn dánarbúi nema svo sé fyrir mælt
    í lögum eða um opinbert mál sé að ræða og krafist sé refsiviðurlaga sem má
-  ákvarða á hendur dánarbúi. Má þá höfða málið í þeirri þinghá þar sem skiptin
+ákvarða á hendur dánarbúi.^1) Má þá höfða málið í þeirri þinghá þar sem skiptin
                                    fara fram.
 Halda má máli til dóms sem hefur verið höfðað á hendur þeim látna en dómur ekki
  gengið í fyrir lát hans ef þær skyldur, sem málið varðar, falla á dánarbúið og
@@ -53,6 +54,8 @@ Halda má máli til dóms sem hefur verið höfðað á hendur þeim látna en d
       Kröfu um aðför, kyrrsetningu, lögbann, löggeymslu, nauðungarsölu eða
   gjaldþrotaskipti verður ekki komið fram gegn dánarbúi nema að því leyti sem
                           heimilað er í lögum þessum.
+    ^1)Málsliðnum var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [3]232. gr. s.l.
 
            II. kafli. Tilkynning um andlát og fyrstu aðgerðir skipta.
 5. gr. Þegar maður er látinn og skipti eftir hann fara fram hér á landi skal svo
@@ -2119,8 +2122,8 @@ mál hefur ekki verið þingfest í skiptarétti til að leiða ágreininginn ti
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1991020
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=113&mnr=104
-   3. http://www.althingi.is/altext/113/s/0108.html
+   1. file://2008088.html
+   2. file://2008088.html#g234
+   3. file://2008088.html
    4. file://1962008.html#g56
    5. file://1962008.html#g56

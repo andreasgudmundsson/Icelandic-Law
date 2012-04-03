@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 24. júní 1998. Breytt með l. 18/2002 (tóku gildi 3. apríl 2002).
 
@@ -45,7 +44,7 @@ frá með rökstuðningi. Hið sama gildir ef ljóst þykir að álitsbeiðandi 
  4. gr. Þegar ríkisskattstjóri hefur lokið við gerð bindandi álits sendir hann
  það til álitsbeiðanda og viðkomandi skattyfirvalds. Álitið skal vera rökstutt.
        5. gr. Álitsbeiðandi getur kært bindandi álit ríkisskattstjóra til
-yfirskattanefndar. Um kærufrest, efni kæru og málsmeðferð fer eftir [4]lögum nr.
+yfirskattanefndar. Um kærufrest, efni kæru og málsmeðferð fer eftir [1]lögum nr.
                           30/1992, um yfirskattanefnd.
  Álitsbeiðanda og fjármálaráðherra er heimilt að bera úrskurð yfirskattanefndar
    skv. 1. mgr. undir dómstóla enda sé það gert innan eins mánaðar frá því að
@@ -76,7 +75,4 @@ skattlagningu álitsbeiðanda. Álitið er ekki bindandi fyrir skattyfirvöld a�
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998091
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=552
-   3. http://www.althingi.is/altext/122/s/0941.html
-   4. file://1992030.html
+   1. file://1992030.html

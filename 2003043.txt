@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,11 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
- Tóku gildi 1. júlí 2003. Breytt með l. 23/2004 (tóku gildi 11. maí 2004) og l.
+  Tóku gildi 1. júlí 2003. Breytt með l. 23/2004 (tóku gildi 11. maí 2004), l.
 46/2006 (tóku gildi 1. jan. 2007 nema 6. gr. og ákvæði til bráðabirgða sem tóku
-                             gildi 16. júní 2006).
+ gildi 16. júní 2006) og [1]l. 82/2008 (tóku gildi 1. júní 2008, birt í Stjtíð.
+                                19. júní 2008).
 
                     I. kafli. Gildissvið og skilgreiningar.
                                1. gr. Gildissvið.
@@ -25,17 +25,17 @@
              tekur þátt í björgun, björgunaræfingum, leit og gæslu.
      Með stjórnvöldum er átt við öll stjórnvöld sem lögum samkvæmt fara með
  yfirstjórn björgunar- og leitarmála á hverjum tíma. Þau stjórnvöld sem nú eiga
-        hlut að björgunarmálum eru dómsmálaráðuneyti, samgönguráðuneyti,
-almannavarnaráð, almannavarnanefndir, Flugmálastjórn, rannsóknarnefnd flugslysa,
- Landhelgisgæslan, ríkislögreglustjóri, [lögreglustjórinn á höfuðborgarsvæðinu,
-      lögreglustjórinn á Suðurnesjum],^1) sýslumenn sem lögreglustjórar og
-                              slökkviliðsstjórar.
+hlut að björgunarmálum eru dómsmálaráðuneyti, samgönguráðuneyti, [almannavarna-
+  og öryggismálaráð],^1) almannavarnanefndir, Flugmálastjórn, rannsóknarnefnd
+     flugslysa, Landhelgisgæslan, ríkislögreglustjóri, [lögreglustjórinn á
+     höfuðborgarsvæðinu, lögreglustjórinn á Suðurnesjum],^2) sýslumenn sem
+                     lögreglustjórar og slökkviliðsstjórar.
   Með björgun er átt við björgun manna eða verðmæta frá yfirvofandi hættu eða
                                      tjóni.
                Með leit er átt við leit að mönnum eða verðmætum.
   Með gæslu er átt við aðstoð við að gæta manna og verðmæta á svæðum sem lokað
                         hefur verið vegna hættuástands.
-                              ^1)L. 46/2006, 10. gr.
+                 ^1)[2]L. 82/2008, 35. gr. ^2)L. 46/2006, 10. gr.
 
     II. kafli. Hlutverk, réttindi, skyldur og tryggingar björgunarsveita og
                              björgunarsveitarmanna.
@@ -72,6 +72,5 @@ Dómsmálaráðherra setur í reglugerð^1) nánari reglur um vátryggingarskyld
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003043
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=375
-   3. http://www.althingi.is/altext/128/s/0427.html
+   1. file://2008082.html
+   2. file://2008082.html#g35

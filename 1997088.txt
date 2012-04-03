@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,11 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 6. júní 1997; komu til framkvæmda skv. fyrirmælum í 52. gr. Breytt
  með l. 51/2002 (tóku gildi 1. júlí 2002), l. 95/2002 (tóku gildi 31. maí 2002)
-    og [4]l. 23/2006 (tóku gildi 3. maí 2006; EES-samningurinn: XX. viðauki
+    og [1]l. 23/2006 (tóku gildi 3. maí 2006; EES-samningurinn: XX. viðauki
                              tilskipun 2003/4/EB).
 
                            I. kafli. Ríkisreikningur.
@@ -20,7 +19,7 @@
   1. gr. Bókhaldi ríkisaðila skal hagað á skýran og aðgengilegan hátt og skulu
 reikningsskil gefa glögga mynd af rekstri þeirra og efnahag. Að svo miklu leyti
    sem ekki er sérstaklega mælt fyrir á annan veg í lögum þessum gilda ákvæði
-[5]laga nr. 145/1994, um bókhald, og [6]laga nr. 144/1994, um ársreikninga, svo
+[2]laga nr. 145/1994, um bókhald, og [3]laga nr. 144/1994, um ársreikninga, svo
                   og góðar bókhalds- og reikningsskilavenjur.
                                   Ríkisaðilar.
 2. gr. Ríkisaðilar eru þeir sem fara með ríkisvald og þær stofnanir og fyrirtæki
@@ -290,8 +289,8 @@ taka ákvarðanir um réttindi og skyldur manna nema sérstök heimild sé til �
       við verkefnið sé ekki umtalsverður hluti heildarútgjalda stofnunar.
    Verktaki og starfsmenn hans skulu bundnir þagnarskyldu um það sem þeir fá
      vitneskju um við framkvæmd rekstrarverkefnisins og leynt á að fara. Um
- þagnarskylduna gilda ákvæði [7]18. gr. laga um réttindi og skyldur starfsmanna
-  ríkisins, nr. 70/1996, og skal brot á henni varða refsingu skv. [8]136. gr.
+ þagnarskylduna gilda ákvæði [4]18. gr. laga um réttindi og skyldur starfsmanna
+  ríkisins, nr. 70/1996, og skal brot á henni varða refsingu skv. [5]136. gr.
                       almennra hegningarlaga, nr. 19/1940.
    Í samningi um rekstrarverkefni samkvæmt þessari grein skal m.a. skilgreina
 umfang og gæði þeirrar þjónustu sem ríkissjóður kaupir, samningstíma, greiðslur
@@ -310,7 +309,7 @@ Uppsagnarfrestur samnings skal stystur vera þrír mánuðir. Fjármálaráðher
   fjárlagaárinu og áætlun um kostnað sem af þeim hlýst næstu þrjú fjárlagaár.
   Jafnframt skal gera grein fyrir markmiðum og ávinningi ríkisins af áformuðum
                                    samningum.
-                    ^1)[9]L. 23/2006, 18. gr. ^2)Rg. 343/2006.
+                    ^1)[6]L. 23/2006, 18. gr. ^2)Rg. 343/2006.
          Eignir keyptar nauðungarsölu og ráðstöfun þeirra hjá A-hluta.
 31. gr. Ríkisaðilar í A-hluta geta án sérstakrar lagaheimildar keypt eignir við
       nauðungarsölu á grundvelli veðréttar eða skilmála að baki áfallinna
@@ -448,7 +447,7 @@ fjármálaráðherra, taka ákvarðanir skv. 2. mgr. 29. gr., 32. gr., 2. mgr. 3
     51. gr. Fjármálaráðherra er heimilt með reglugerð^1) að kveða nánar á um
                             framkvæmd laga þessara.
     ^1)Rg. 530/1975, sbr. 208/1987; rg. 533/1975, rg. 206/2003, rg. 1061/2004,
-                                 rg. 214/2006.
+                                 rg. 430/2008.
                                   Gildistaka.
  52. gr. Lög þessi öðlast þegar gildi og koma til framkvæmda við gerð frumvarps
       til fjárlaga fyrir árið 1998 og uppgjör ríkisreiknings fyrir það ár.
@@ -457,12 +456,9 @@ fjármálaráðherra, taka ákvarðanir skv. 2. mgr. 29. gr., 32. gr., 2. mgr. 3
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997088
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=100
-   3. http://www.althingi.is/altext/121/s/0103.html
-   4. file://2006023.html
-   5. file://1994145.html
-   6. file://1994144.html
-   7. file://1996070.html#g18
-   8. file://1940019.html#g136
-   9. file://2006023.html#g18
+   1. file://2006023.html
+   2. file://1994145.html
+   3. file://1994144.html
+   4. file://1996070.html#g18
+   5. file://1940019.html#g136
+   6. file://2006023.html#g18

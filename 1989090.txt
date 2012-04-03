@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,14 +7,15 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-Tóku gildi 1. júlí 1992. Breytt með [4]l. 19/1991 (tóku gildi 1. júlí 1992 nema
-1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), [5]l. 90/1991 (tóku gildi
- 1. júlí 1992), [6]l. 91/1991 (tóku gildi 1. júlí 1992), l. 92/1991 (tóku gildi
-  1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), [7]l. 90/1996 (tóku
- gildi 1. júlí 1997) og [8]l. 15/1998 (tóku gildi 1. júlí 1998 nema 38. gr. sem
-                           tók gildi 3. apríl 1998).
+Tóku gildi 1. júlí 1992. Breytt með [1]l. 19/1991 (tóku gildi 1. júlí 1992 nema
+1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), [2]l. 90/1991 (tóku gildi
+ 1. júlí 1992), [3]l. 91/1991 (tóku gildi 1. júlí 1992), l. 92/1991 (tóku gildi
+  1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992), [4]l. 90/1996 (tóku
+gildi 1. júlí 1997), [5]l. 15/1998 (tóku gildi 1. júlí 1998 nema 38. gr. sem tók
+gildi 3. apríl 1998) og [6]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII
+                         sem tók gildi 21. júní 2008).
 
                     I. þáttur. Almenn skilyrði fyrir aðför.
                         1. kafli. Aðfararheimildir o.fl.
@@ -50,7 +50,7 @@ málskostnaði eða innheimtukostnaði, endurgjaldi kostnaðar af gerðinni sjá
                væntanlegum kostnaði af frekari fullnustuaðgerðum.
    Um heimild til útburðargerða og innsetningargerða án undangengins dóms eða
                   réttarsáttar fer eftir fyrirmælum 12. kafla.
-                            ^1)[9]L. 91/1991, 161. gr.
+                            ^1)[7]L. 91/1991, 161. gr.
   2. gr. Sá getur krafist aðfarargerðar, sem aðfararheimild ber með sér að sé
    rétthafi hennar, svo og sá, sem nýtur handveðréttar í aðfararhæfri kröfu.
    3. gr. Aðfarar má krefjast hjá þeim, sem skylda hvílir á samkvæmt hljóðan
@@ -74,7 +74,7 @@ reglum laga um hæfi dómara til að fara með einkamál í héraði, eftir þv�
      skal þeim beint að héraðsdómstólnum, sem hefur dómsvald í umdæmi þess
 sýslumanns, sem fer með viðkomandi aðfarargerð, nema annað sé sérstaklega tekið
                                      fram.
-                            ^1)[10]L. 19/1991, 195. gr.
+                            ^1)[8]L. 19/1991, 195. gr.
 
                            2. kafli. Aðfararfrestur.
 5. gr. Aðför má gera eftir dómi eða úrskurði, þegar liðnir eru fimmtán dagar frá
@@ -91,7 +91,7 @@ Ef aðfararheimild hefur verið áfrýjað að liðnum almennum áfrýjunarfrest
  gerðarþoli gert þá kröfu við aðfarargerð, að henni verði frestað meðan mál er
   rekið fyrir æðra dómi, ef ekki er kveðið á annan hátt á um áhrif málskots í
    lögum, dómnum eða úrskurðinum. Með slíka kröfu skal farið að hætti 26. gr.
-                            ^1)[11]L. 91/1991, 161. gr.
+                            ^1)[9]L. 91/1991, 161. gr.
  6. gr. Aðför má gera eftir réttarsátt eða sátt, gerðri fyrir yfirvaldi, þegar
  krafa samkvæmt henni er komin í gjalddaga. Ef enginn gjalddagi er tiltekinn í
   sátt, má gera aðför samkvæmt henni að liðnum fimmtán dögum frá gerð hennar.
@@ -148,7 +148,7 @@ greiðsluáskorun hafi verið beint til gerðarþola skv. 7. eða 8. gr., ef vi�
                             héraðsdómara í tvíriti.
  Heimilt er gerðarbeiðanda að beina aðfararbeiðni til héraðsdómara, ef hann svo
                 kýs, þótt ákvæði 1. mgr. eigi ekki við um hana.
-                            ^1)[12]L. 15/1998, 35. gr.
+                            ^1)[10]L. 15/1998, 35. gr.
 12. gr. Héraðsdómari skal taka aðfararbeiðni, sem honum berst, til athugunar svo
                           fljótt sem við verður komið.
   Telji héraðsdómari skilyrðum til aðfarar fullnægt samkvæmt framkomnum gögnum
@@ -298,7 +298,7 @@ sýslumanni rétt að fara þangað, sem gerðarþoli hefur heimili eða skráð
 fyrirmæli laga þessara ekki í vegi þeirra málaloka. Eigi gerðarþoli hvergi skráð
     heimili eða aðsetur hér á landi, má þegar svo stendur á ljúka gerðinni á
                              starfstofu sýslumanns.
-                            ^1)[13]L. 90/1996, 43. gr.
+                            ^1)[11]L. 90/1996, 43. gr.
 25. gr. Aðfarargerð byrjar með því að sýslumaður kynnir gerðarþola eða málsvara
   hans málavexti og fyrirliggjandi gögn, og skorar á hann að fullnægja þeirri
  skyldu, sem aðfarar er krafist fyrir. Verði gerðarþoli eða málsvari hans ekki
@@ -355,7 +355,7 @@ sem sýslumaður telur óhjákvæmilegar til framgangs hennar, er sýslumanni he
  [Lögreglu]^1) er skylt að veita sýslumanni atbeina í þessu skyni samkvæmt boði
  hans. Ef grunur leikur á að gerðarþoli sé með refsiverðum hætti að fyrirbyggja
  fullnustu kröfu gerðarbeiðanda með synjun sinni um að veita upplýsingar, skal
-             farið eftir fyrirmælum laga um meðferð opinberra mála.
+           farið eftir fyrirmælum laga um meðferð opinberra mála.^2)
  Ef gerðarþoli færist undan að veita upplýsingar með þeim hætti, sem í 1. mgr.
      segir, er sýslumanni heimilt að ákveða honum dagsektir samkvæmt kröfu
      gerðarbeiðanda. Skulu þær renna til gerðarbeiðanda og falla á, þar til
@@ -365,7 +365,8 @@ mgr. 1. gr. Dagsektum verður ekki beitt, meðan gerðarþoli sætir frelsissker
                                   skv. 1. mgr.
    Ef aðför beinist að öðrum en einstaklingi, má neyta heimilda 1. og 2. mgr.
                       gagnvart fyrirsvarsmanni gerðarþola.
-                            ^1)[14]L. 90/1996, 43. gr.
+   ^1)[12]L. 90/1996, 43. gr. ^2)Málsliðnum var breytt með [13]l. 88/2008, 234.
+         gr. Breytingin tekur gildi 1. jan. 2009 skv. [14]232. gr. s.l.
 30. gr. Samkvæmt boði sýslumanns er gerðarþola eða þeim, sem málstað hans getur
 tekið skv. 2. mgr. 24. gr., skylt að veita aðgang að húsakynnum hans og lokuðum
 hirslum hans, ef gerðarbeiðandi krefst og sýslumaður telur það nauðsynlegt vegna
@@ -388,7 +389,9 @@ að brjóta upp húsakynni gerðarþola og læstar hirslur. Meðan slíkur úrsk
   sýslumanni þó heimilt samkvæmt kröfu gerðarbeiðanda að brjóta upp húsakynni
  gerðarþola eða læstar hirslur án undangengins úrskurðar héraðsdómara. Að öðru
  leyti skal beita reglum laga um húsleit við rannsókn opinberra mála, eftir því
-                               sem við getur átt.
+                             sem við getur átt.^1)
+   ^1)Málsliðnum var breytt með [15]l. 88/2008, 234. gr. Breytingin tekur gildi
+                      1. jan. 2009 skv. [16]232. gr. s.l.
 31. gr. Ef rökstudd ástæða þykir til að ætla að gerðarþoli kunni að hafa geymda
  fjármuni á sér eða muni eða gögn, sem máli geta skipt um framgang gerðarinnar,
  getur sýslumaður að kröfu gerðarbeiðanda skorað á gerðarþola að heimila leit á
@@ -398,9 +401,11 @@ Ef gerðarþoli verður ekki við áskorun skv. 1. mgr., er sýslumanni rétt a�
    sýslumanni án tafar að greina héraðsdómara frá ákvörðun sinni og krefjast
 úrskurðar hans um heimild til að leit fari fram á gerðarþola. Beita skal að öðru
 leyti reglum laga um leit á manni við rannsókn opinberra mála, eftir því sem við
-                                   getur átt.
+                                 getur átt.^1)
    Ef aðför beinist að öðrum en einstaklingi, má neyta heimilda 1. og 2. mgr.
                       gagnvart fyrirsvarsmanni gerðarþola.
+   ^1)Málsliðnum var breytt með [17]l. 88/2008, 234. gr. Breytingin tekur gildi
+                      1. jan. 2009 skv. [18]232. gr. s.l.
  32. gr. Aðfararbeiðni og gögn um aðfararheimild skulu lögð fram við gerðina og
   merkt með áframhaldandi númeraröð. Einnig skulu lögð fram þau gögn, sem máli
    geta skipt um réttindi aðilanna og um framgang gerðarinnar að öðru leyti.
@@ -663,7 +668,7 @@ skv. 56. gr. Ekki haggast af þeim sökum gildi umráðasviptingar, sem farið h
   hins fjárnumda hefur ekki verið krafist innan árs frá því fjárnámið var gert
 vegna réttarágreinings um það eða vegna réttinda þriðja manns, og gerðarbeiðandi
       krefst hennar innan þriggja mánaða frá því slík hindrun er úr vegi.
-                            ^1)[15]L. 90/1991, 91. gr.
+                            ^1)[19]L. 90/1991, 91. gr.
  61. gr. Að því leyti, sem lög þessi kveða ekki sérstaklega á um annað, fer um
   nauðsyn tryggingarráðstafana fyrir rétti samkvæmt fjárnámi og um stöðu þess
           réttar gagnvart öðrum réttindum eftir almennum reglum laga.
@@ -1017,18 +1022,22 @@ farið fram fyrir 1. júlí 1992, skal farið eftir reglum eldri laga þótt kom
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1989090
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=111&mnr=111
-   3. http://www.althingi.is/altext/111/s/0114.html
-   4. file://1991019.html
-   5. file://1991090.html
-   6. file://1991091.html
-   7. file://1996090.html
-   8. file://1998015.html
+   1. file://1991019.html
+   2. file://1991090.html
+   3. file://1991091.html
+   4. file://1996090.html
+   5. file://1998015.html
+   6. file://2008088.html
+   7. file://1991091.html#g161
+   8. file://1991019.html
    9. file://1991091.html#g161
-  10. file://1991019.html
-  11. file://1991091.html#g161
-  12. file://1998015.html
-  13. file://1996090.html#g43
-  14. file://1996090.html#g43
-  15. file://1991090.html#g91
+  10. file://1998015.html
+  11. file://1996090.html#g43
+  12. file://1996090.html#g43
+  13. file://2008088.html#g234
+  14. file://2008088.html
+  15. file://2008088.html#g234
+  16. file://2008088.html
+  17. file://2008088.html#g234
+  18. file://2008088.html
+  19. file://1991090.html#g91

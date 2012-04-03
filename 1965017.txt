@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,14 @@
 
    --------------------------------------------------------------------------
 
-                        [2]Ferill málsins á Alþingi.
+                          Ferill málsins á Alþingi.
 
 Tóku gildi 1. september 1965. Breytt með l. 54/1975 (tóku gildi 11. júní 1975),
 l. 42/1982 (tóku gildi 24. maí 1982), l. 10/1983 (tóku gildi 25. mars 1983), l.
  108/1988 (tóku gildi 1. jan. 1989), l. 73/1996 (tóku gildi 19. júní 1996), l.
-  83/1997 (tóku gildi 6. júní 1997) og l. 167/2007 (tóku gildi 1. jan. 2008).
+  83/1997 (tóku gildi 6. júní 1997), l. 167/2007 (tóku gildi 1. jan. 2008) og
+ [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+                                     2008).
 
                           I. kafli. Markmið og stjórn.
                        1. gr. Tilgangur þessara laga er:
@@ -70,7 +71,7 @@ græðslu eyddra og vangróinna landa. Landgræðslustjóri skal kanna eða lát
      Áður en aflað er umráðaréttar yfir landi samkvæmt þessari grein, skal
 landgræðslustjóri senda [umhverfisráðuneytinu]^3) rökstuddar tillögur um málið.
                 Ráðuneytið tekur síðan ákvörðun um framkvæmdina.
-        ^1)Nú [3]l. 11/1973. ^2)L. 73/1996, 8. gr. ^3)L. 167/2007, 23. gr.
+        ^1)Nú [2]l. 11/1973. ^2)L. 73/1996, 8. gr. ^3)L. 167/2007, 23. gr.
         8. gr. [Heimilt er Landgræðslu ríkisins að styrkja sveitarfélög,
          upprekstrarfélög eða einstaklinga til uppgræðslu, jarðvegs- og
        gróðurverndaraðgerða, svo sem til að koma upp girðingum í kringum
@@ -115,7 +116,7 @@ fylgt ákvæðum laga nr. 40 frá 5. apríl 1948^1) við söluna. Hafi sveitarf�
    landgræðslustjóri krefst þess. Hann setur reglur um meðferð landsins og er
   kaupendum og síðari eigendum skylt að hlíta þeim. Skal þinglýsa reglunum sem
                                 kvöð á jörðinni.
-                               ^1)Nú [4]l. 81/2004.
+                               ^1)Nú [3]l. 81/2004.
  14. gr. Hefjist uppblástur eða landskemmdir að nýju á landi, sem afhent hefur
 verið eða selt samkvæmt 12. og 13. gr., er landeiganda skylt að græða það aftur
   á sinn kostnað, nema uppblásturinn og skemmdirnar séu ekki meðferð hans eða
@@ -207,7 +208,7 @@ samráði við sveitarstjórn þá, sem hlut á að máli, ákvarðað tímabund
        á beitarálagi þar til fullnægjandi gróðurverndaraðgerðir, að mati
   gróðurverndarnefndar og Landgræðslu ríkisins, hafa verið gerðar eða ítala er
                            komin til framkvæmda.]^2)
-                     ^1)Nú [5]l. 6/1986. ^2)L. 42/1982, 2. gr.
+                     ^1)Nú [4]l. 6/1986. ^2)L. 42/1982, 2. gr.
     24. gr. Verði búandi að skerða bústofn sinn verulega vegna ítölu, skulu
  gróðurverndarnefnd og landgræðslan vera honum til ráðuneytis, hverra úrræða sé
                helst að leita til að koma í veg fyrir tekjumissi.
@@ -341,14 +342,16 @@ Rannsóknastofnun landbúnaðarins ber í samvinnu við Landgræðslu ríkisins 
                             VI. kafli. Önnur ákvæði.
   43. gr. Brot gegn lögum þessum varða sektum til ríkissjóðs ,^1) nema þyngri
     refsing liggi við að öðrum lögum. Mál út af þeim skal fara með að hætti
-                                opinberra mála.
-                              ^1)L. 10/1983, 40. gr.
+                               opinberra mála.^2)
+    ^1)L. 10/1983, 40. gr. ^2)Málsliðurinn var felldur brott með [5]l. 88/2008,
+       233. gr. Breytingin tekur gildi 1. jan. 2009 skv. [6]232. gr. s.l.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1965017
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=85&mnr=104
-   3. file://1973011.html
-   4. file://2004081.html
-   5. file://1986006.html
+   1. file://2008088.html
+   2. file://1973011.html
+   3. file://2004081.html
+   4. file://1986006.html
+   5. file://2008088.html#g233
+   6. file://2008088.html

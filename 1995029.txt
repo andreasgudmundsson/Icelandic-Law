@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. janúar 1996. Breytt með l. 131/2002 (tóku gildi 1. janúar 2003).
 
@@ -21,10 +20,10 @@ Stjórnvöld skulu hafa frumkvæði að slíkum endurgreiðslum þegar þeim ver
                                     Vextir.
   2. gr. [Við endurgreiðslu oftekinna skatta og gjalda skv. 1. gr. skal greiða
    gjaldanda vexti, sem skulu vera þeir sömu og Seðlabanki Íslands ákveður og
- birtir skv. 1. mgr. [4]8. gr. laga nr. 38/2001, um vexti og verðtryggingu, af
+ birtir skv. 1. mgr. [1]8. gr. laga nr. 38/2001, um vexti og verðtryggingu, af
   því fé sem oftekið var frá þeim tíma sem greiðslan átti sér stað og þar til
                             endurgreiðsla fer fram.
-Þrátt fyrir ákvæði 1. mgr. skal greiða dráttarvexti skv. 1. mgr. [5]6. gr. laga
+Þrátt fyrir ákvæði 1. mgr. skal greiða dráttarvexti skv. 1. mgr. [2]6. gr. laga
      nr. 38/2001 frá þeim tíma er gjaldandi sannanlega lagði fram kröfu um
                 endurgreiðslu ofgreiddra skatta eða gjalda.]^1)
  Vextir skv. 1. mgr. skulu þó ekki greiddir ef endurgreiðsla fer fram innan 30
@@ -54,8 +53,5 @@ Fjárhæðin ásamt vöxtum skal koma til frádráttar skuld fyrir næsta gjalda
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995029
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=118&mnr=406
-   3. http://www.althingi.is/altext/118/s/0652.html
-   4. file://2001038.html#g8
-   5. file://2001038.html#g6
+   1. file://2001038.html#g8
+   2. file://2001038.html#g6

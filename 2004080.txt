@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-   Tóku gildi 1. júlí 2004. Breytt með l. 50/2006 (tóku gildi 1. júlí 2006).
+  Tóku gildi 1. júlí 2004. Breytt með l. 50/2006 (tóku gildi 1. júlí 2006) og
+ [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+                                     2008).
 
               I. kafli. Gildissvið, skilgreiningar og yfirstjórn.
                                1. gr. Gildissvið.
@@ -148,7 +149,7 @@ er jarðareiganda skylt að veita leyfi til framkvæmda og samþykkja kaupskyldu
                         16. gr. Greiðsla jarðarafgjalda.
   Ábúandi skal greiða jarðarafgjöld á gjalddaga. Hafi ábúandi ekki gert skil á
  jarðarafgjaldi innan 30 sólarhringa frá gjalddaga er jarðareiganda heimilt að
-krefjast dráttarvaxta samkvæmt [4]lögum nr. 38/2001, um vexti og verðtryggingu.
+krefjast dráttarvaxta samkvæmt [2]lögum nr. 38/2001, um vexti og verðtryggingu.
                           17. gr. Viðhaldsskylda o.fl.
   Ábúanda er skylt að halda við húsum, öðrum mannvirkjum, ræktun og hlunnindum
  þannig að þau rýrni ekki umfram eðlilega fyrningu að mati úttektarmanna, sbr.
@@ -202,7 +203,7 @@ aðgangur að jörðinni og mannvirkjum hennar þegar ábúandi er þar ekki vi�
        Falli ábúandi frá á ábúðartímanum heldur maki hans ábúðarréttinum.
                   26. gr. Réttur til ábúðar við skilnað hjóna.
   Ef hjón, annað eða bæði, hafa ábúðarrétt á jörð og hjúskap þeirra lýkur skal
- fara um ábúðarréttindin í samræmi við ákvæði [5]hjúskaparlaga, nr. 31/1993, ef
+ fara um ábúðarréttindin í samræmi við ákvæði [3]hjúskaparlaga, nr. 31/1993, ef
   hjónin koma sér ekki saman um hvort þeirra skuli hljóta ábúðarréttindin. Það
  hjóna sem aðallega hefur atvinnu sína af landbúnaðarstarfsemi á jörðinni skal
    hafa forgang til áframhaldandi ábúðar á jörðinni án tillits til þess hvort
@@ -378,7 +379,7 @@ nefndarmenn staðfesta matsgerðir með undirritun sinni. Yfirmatsnefnd skal ski
  ábúðarlok. Eftirstöðvar kaupverðsins skal jarðareigandi greiða með skuldabréfi
   til að hámarki tveggja ára. Fjárhæð skuldabréfsins skal verðtryggð samkvæmt
 byggingarvísitölu miðað við grunnvísitölu við ábúðarlok til greiðsludags og bera
-     vexti samkvæmt ákvæðum [6]laga nr. 38/2001, um vexti og verðtryggingu.
+     vexti samkvæmt ákvæðum [4]laga nr. 38/2001, um vexti og verðtryggingu.
             46. gr. Frágangur og skil ábúðarjarðar, mannvirkja o.fl.
    Á umsömdum eða lögbundnum tíma við ábúðarlok skal ábúandi skila ábúðarjörð
 sinni, ásamt öllum mannvirkjum og tilheyrandi fylgifé, í ekki lakara ástandi en
@@ -397,7 +398,9 @@ hann tók við henni að teknu tilliti til eðlilegrar notkunar og viðhalds. Á
                                49. gr. Refsingar.
  Brot gegn lögum þessum, reglugerðum og öðrum stjórnvaldsreglum settum samkvæmt
 heimild í þeim varða sektum. Með mál út af brotum skal farið að hætti opinberra
-                                     mála.
+                                    mála.^1)
+     ^1)Málsliðurinn var felldur brott með [5]l. 88/2008, 233. gr. Breytingin
+                 tekur gildi 1. jan. 2009 skv. [6]232. gr. s.l.
                               50. gr. Gildistaka.
                       Lög þessi öðlast gildi 1. júlí 2004.
 
@@ -444,12 +447,12 @@ Framangreindar reglur gilda aðeins við ábúðarlok þeirra ábúenda sem hafa
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004080
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=782
-   3. http://www.althingi.is/altext/130/s/1193.html
+   1. file://2008088.html
+   2. file://2001038.html
+   3. file://1993031.html
    4. file://2001038.html
-   5. file://1993031.html
-   6. file://2001038.html
+   5. file://2008088.html#g233
+   6. file://2008088.html
    7. file://1976064.html
    8. file://1976064.html
    9. file://1976064.html

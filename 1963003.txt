@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,13 +7,14 @@
 
    --------------------------------------------------------------------------
 
-                        [2]Ferill málsins á Alþingi.
+                          Ferill málsins á Alþingi.
 
-Tóku gildi 18. mars 1963. Breytt með [3]l. 19/1991 (tóku gildi 1. júlí 1992 nema
-1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), [4]l. 91/1991 (tóku gildi
+Tóku gildi 18. mars 1963. Breytt með [1]l. 19/1991 (tóku gildi 1. júlí 1992 nema
+1. og 3. mgr. 29. gr. sem tóku gildi 17. apríl 1991), [2]l. 91/1991 (tóku gildi
  1. júlí 1992), l. 92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi
-9. jan. 1992), [5]l. 15/1998 (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi
-            3. apríl 1998) og l. 82/1998 (tóku gildi 1. okt. 1998).
+9. jan. 1992), [3]l. 15/1998 (tóku gildi 1. júlí 1998 nema 38. gr. sem tók gildi
+  3. apríl 1998), l. 82/1998 (tóku gildi 1. okt. 1998) og [4]l. 88/2008 (taka
+       gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
   1. gr. Landsdómur fer með og dæmir mál þau, er Alþingi ákveður að höfða gegn
                     ráðherrum út af embættisrekstri þeirra.
@@ -69,7 +69,7 @@ samviskusemi og óhlutdrægni í hvívetna og svo sem hann veit helst að lögum
   10. gr. [Skrifstofustjóri Hæstaréttar]^1) er dómritari við landsdóm. Sé hann
   forfallaður, setur dómsforseti mann utan dómsins til að gegna ritarastarfi.
           Dómsforseti ræður og dómritara aðstoðarmann, ef þurfa þykir.
-                             ^1)[6]L. 15/1998, 36. gr.
+                             ^1)[5]L. 15/1998, 36. gr.
  11. gr. Landsdómur skal að jafnaði koma saman í Reykjavík. Þó getur landsdómur
    ákveðið að koma saman og heyja dómþing annars staðar, ef ástæða þykir til.
  12. gr. Dómþing landsdóms skulu háð í heyranda hljóði. Landsdómi er þó rétt að
@@ -124,11 +124,12 @@ nauðsynlegt þykir, að rannsókn ákveðinna atriða eða öflun tiltekinna ga
 23. gr. Samkvæmt tilmælum saksóknara Alþingis og að fullnægðum skilyrðum laga um
   meðferð opinberra mála ^1) getur landsdómur úrskurðað, að lagt skuli hald á
  muni, sem ætla má, að hafi sönnunargildi í málinu, að húsleit skuli gerð og að
-                         ákærður skuli tekinn í gæslu.
+                        ákærður skuli tekinn í gæslu.^2)
 Nú telur saksóknari brýna þörf slíkra aðgerða, áður en landsdómur kemur saman og
  getur þá dómsforseti tekið um þær ákvörðun til bráðabirgða, en úrskurður hans
               skal borinn undir landsdóm svo fljótt sem verða má.
-                            ^1)[7]L. 19/1991, 194. gr.
+     ^1)[6]L. 19/1991, 194. gr. ^2)Málsgreininni var breytt með [7]l. 88/2008,
+       234. gr. Breytingin tekur gildi 1. jan. 2009 skv. [8]232. gr. s.l.
 24. gr. Að liðnum fresti þeim, sem til er tekinn samkvæmt 18. og 19. gr., kemur
   landsdómur saman á tilgreindum stað og tíma, og er þá settur af dómsforseta.
          Þingfestir saksóknari þá málið, leggur fram stefnu með árituðu
@@ -137,8 +138,9 @@ dómprófum þeim, sem þegar kunna að hafa farið fram, og önnur þau sakarg�
   fyrir hendi eru og unnt er að leggja fram á dómþingi. Enn fremur leggur hann
   fram nafnaskrá þeirra manna, sem óskað er eftir að skýrsla sé af tekin fyrir
 landsdómi. Ákæruskjal skal eftir því sem við á fullnægja fyrirmælum ^1) laga ^1)
-                           um meðferð opinberra mála.
-                            ^1)[8]L. 19/1991, 194. gr.
+                         um meðferð opinberra mála.^2)
+   ^1)[9]L. 19/1991, 194. gr. ^2)Málsliðnum var breytt með [10]l. 88/2008, 234.
+         gr. Breytingin tekur gildi 1. jan. 2009 skv. [11]232. gr. s.l.
 25. gr. Af skjölum þeim, er greinir í 24. gr., skal verjanda fengið endurrit, og
  á hann rétt á hæfilegum fresti til að kynna sér þau og til að leggja fram sín
 gögn og greinargerð. Landsdómur ákveður á þessu dómþingi, hvenær næsta þinghald
@@ -166,13 +168,16 @@ Nú óska málsaðilar, annar hvor eða báðir, eftir frekari fresti til gagnas
 29. gr. Nú óskar annar hvor málsaðili síðar að bera fyrir sig önnur sakargögn en
  þau, sem hann hefur lagt fram eða getið er á skrá hans eða í greinargerð, eða
  hann óskar að afla einhvers sönnunargagns á annan hátt en þar er til tekið, og
-      er það þá því aðeins hægt, að gagnaðili samþykki eða dómurinn leyfi.
+    er það þá því aðeins hægt, að gagnaðili samþykki eða dómurinn leyfi.^1)
+     ^1)Greinin var felld brott með [12]l. 88/2008, 234. gr. Breytingin tekur
+                   gildi 1. jan. 2009 skv. [13]232. gr. s.l.
   30. gr. Forseti á, er þess er krafist af öðrum hvorum málsaðila, að gefa út
     stefnu til vitna þeirra, er leiða á fyrir landsdómnum. Um stefnufrest og
                      stefnubirtingu gilda almennar reglur.
   31. gr. Um vitni og vitnaskyldu fyrir landsdómi fer, eftir því sem við getur
-              átt, eftir almennum reglum um vitni í refsimálum ^1)
-                            ^1)[9]L. 19/1991, 194. gr.
+            átt, eftir almennum reglum um vitni í refsimálum ^1)^2)
+   ^1)[14]L. 19/1991, 194. gr. ^2)Greininni var breytt með [15]l. 88/2008, 234.
+         gr. Breytingin tekur gildi 1. jan. 2009 skv. [16]232. gr. s.l.
  32. gr. Að loknum málatilbúnaði samkvæmt 28. gr. hefst sókn máls og vörn fyrir
 landsdómi. Gerir saksóknari fyrst stutta grein fyrir málsatvikum og sakargögnum
       þeim, er hann hyggst styðja ákæru við. Því næst spyr hann ákærðan um
@@ -185,7 +190,9 @@ Sé mál höfðað gegn tveim mönnum eða fleiri, ákveður dómsforseti í hva
                               yfirheyrður að nýju.
  Engum þvingunaraðgerðum má beita við ákærðan til þess að fá hann til að svara.
 Mál verður jafnt tekið til meðferðar og dæmt, þó að ákærður mæti ekki eða neiti
-                             alveg að gefa skýrslu.
+                           alveg að gefa skýrslu.^1)
+     ^1)Málsliðurinn var felldur brott með [17]l. 88/2008, 234. gr. Breytingin
+                tekur gildi 1. jan. 2009 skv. [18]232. gr. s.l.
 33. gr. Nú er fengin skýlaus játning ákærðs, og ákveður þá landsdómur að hverju
                       leyti þörf sé frekari sönnunargagna.
 34. gr. Þegar lokið er prófun ákærðs, flytur saksóknari fram sakargögn og leiðir
@@ -268,19 +275,31 @@ Beiðni um endurupptöku skal senda forseta landsdóms, er kveður dóminn saman
                      málsins samkvæmt ákvæðum laga þessara.
  51. gr. Að því leyti, sem eigi er á annan veg mælt í lögum þessum, skal, eftir
  því sem við getur átt, beita ákvæðum laga um meðferð einkamála ^1) um meðferð
-                             máls fyrir landsdómi.
-                            ^1)[10]L. 91/1991, 160. gr.
+                            máls fyrir landsdómi.^2)
+   ^1)[19]L. 91/1991, 160. gr. ^2)Greininni var breytt með [20]l. 88/2008, 234.
+         gr. Breytingin tekur gildi 1. jan. 2009 skv. [21]232. gr. s.l.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1963003
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=83&mnr=3
-   3. file://1991019.html
-   4. file://1991091.html
+   1. file://1991019.html
+   2. file://1991091.html
+   3. file://1998015.html
+   4. file://2008088.html
    5. file://1998015.html
-   6. file://1998015.html
-   7. file://1991019.html#g194
-   8. file://1991019.html#g194
+   6. file://1991019.html#g194
+   7. file://2008088.html#g234
+   8. file://2008088.html
    9. file://1991019.html#g194
-  10. file://1991091.html#g160
+  10. file://2008088.html#g234
+  11. file://2008088.html
+  12. file://2008088.html#g234
+  13. file://2008088.html
+  14. file://1991019.html#g194
+  15. file://2008088.html#g234
+  16. file://2008088.html
+  17. file://2008088.html#g234
+  18. file://2008088.html
+  19. file://1991091.html#g160
+  20. file://2008088.html#g234
+  21. file://2008088.html

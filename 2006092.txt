@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                            Tóku gildi 18. ágúst 2006.
 
@@ -17,7 +16,7 @@
  Ákvæði reglugerðar ráðsins (EB) nr. 1435/2003 frá 22. júlí 2003, um samþykktir
  fyrir evrópsk samvinnufélög (SCE), skulu hafa lagagildi hér á landi í samræmi
   við bókun 1 um altæka aðlögun að samningnum um Evrópska efnahagssvæðið, sbr.
-   [4]lög nr. 2/1993, um Evrópska efnahagssvæðið, þar sem bókunin er lögfest.
+   [1]lög nr. 2/1993, um Evrópska efnahagssvæðið, þar sem bókunin er lögfest.
             Reglugerðin er prentuð sem fylgiskjal með lögum þessum.
 Í samræmi við reglugerð um evrópsk samvinnufélög eru í lögum þessum sett nánari
 ákvæði um þau félög. Ná þau ákvæði aðeins til evrópskra samvinnufélaga sem skráð
@@ -97,8 +96,8 @@ fyrirtækinu kost á að tjá sig eða bæta úr annmörkum innan tiltekins fres
    fyrir stofnun evrópsks samvinnufélags með samruna þegar skráin hefur gefið
   samvinnufélagi leyfi til að hrinda í framkvæmd annaðhvort lögmætri ákvörðun
      félagsfundar eða ákvörðun stjórnar um að taka þátt í stofnun evrópsks
-samvinnufélags með samruna skv. [5]X. kafla laga nr. 22/1991, um samvinnufélög,
-     eða [6]XIV. kafla laga nr. 2/1995, um hlutafélög, eftir því sem við á.
+samvinnufélags með samruna skv. [2]X. kafla laga nr. 22/1991, um samvinnufélög,
+     eða [3]XIV. kafla laga nr. 2/1995, um hlutafélög, eftir því sem við á.
                  8. gr. Réttur til úrsagnar úr yfirtökufélagi.
 Hafi félagsmaður í félagi lagst gegn stofnun evrópsks samvinnufélags með samruna
    getur hann sagt sig úr yfirtökufélaginu leiði samruninn til þess að skráð
@@ -291,7 +290,7 @@ Krafa skv. 1. mgr. skal send til framkvæmdastjórnar evrópsks samvinnufélags 
                    26. gr. Stjórnvald boðar til félagsfundar.
  Sé eigi boðað til félagsfundar í evrópsku samvinnufélagi samkvæmt reglugerð um
      evrópsk samvinnufélög, félagssamþykktum eða ákvörðun félagsfundar skal
-viðkomandi stjórnvald boða til félagsfundar skv. [7]19. gr. laga nr. 22/1991, um
+viðkomandi stjórnvald boða til félagsfundar skv. [4]19. gr. laga nr. 22/1991, um
 samvinnufélög, hafi krafa þar að lútandi borist frá framkvæmdastjórnarmanni eða
    eftirlitsstjórnarmanni í evrópsku samvinnufélagi með tvíþættu stjórnkerfi,
        stjórnarmanni í evrópsku samvinnufélagi með einþættu stjórnkerfi,
@@ -306,7 +305,7 @@ með sérstakri ákvörðun. Skráin skal síðan gefa félaginu fyrirmæli um a
   annmarkanum innan hæfilegs frests. Í fyrirmælunum skal felast viðvörun um að
          krafist verði skipta á félaginu bæti það eigi úr annmarkanum.
  Fari evrópskt samvinnufélag ekki að fyrirmælum skv. 1. mgr. skal ráðherra gera
- kröfu um að félagið verði tekið til skipta skv. [8]62. gr. a laga nr. 22/1991,
+ kröfu um að félagið verði tekið til skipta skv. [5]62. gr. a laga nr. 22/1991,
                                um samvinnufélög.
                                 28. gr. Málskot.
    Ákvörðun samvinnufélagaskrár varðandi skráningu evrópsks samvinnufélags er
@@ -321,7 +320,7 @@ heimilt að leggja fyrir héraðsdóm innan tveggja mánaða frá ákvörðunard
 gr. varðandi flutning fyrir héraðsdóm innan eins mánaðar frá því að félagið fékk
                            vitneskju um ákvörðunina.
                                29. gr. Viðurlög.
-  Ákvæði [9]XIV. kafla laga nr. 22/1991, um samvinnufélög, varðandi refsingar
+  Ákvæði [6]XIV. kafla laga nr. 22/1991, um samvinnufélög, varðandi refsingar
   o.fl. gilda m.a. um stjórnendur evrópskra samvinnufélaga sem skráð eru hér á
                                      landi.
                               30. gr. Gildistaka.
@@ -1792,12 +1791,9 @@ víkja frá eða eru til fyllingar þessum lögum jafnvel þótt slík ákvæði
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006092
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=594
-   3. http://www.althingi.is/altext/132/s/878.html
-   4. file://1993002.html
-   5. file://1991022.html
-   6. file://1995002.html
-   7. file://1991022.html#g19
-   8. file://1991022.html#g62a
-   9. file://1991022.html
+   1. file://1993002.html
+   2. file://1991022.html
+   3. file://1995002.html
+   4. file://1991022.html#g19
+   5. file://1991022.html#g62a
+   6. file://1991022.html

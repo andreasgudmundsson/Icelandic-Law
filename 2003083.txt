@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                             Tóku gildi 1. júní 2003.
 
@@ -48,7 +47,7 @@ meðferðarleiðir sem miða að því að draga úr áhrifum röskunarinnar. Ei
 
                             III. kafli Frumgreining.
 3. gr. Áður en til tilvísunar til Greiningar- og ráðgjafarstöðvar ríkisins kemur
-  skal hafa farið fram frumgreining skv. [4]17. og [5]18. gr. laga um málefni
+  skal hafa farið fram frumgreining skv. [1]17. og [2]18. gr. laga um málefni
                              fatlaðra, nr. 59/1992.
    Frumgreining getur einkum farið fram hjá eftirtöldum aðilum: Barnadeildum
     sjúkrahúsa, sérfræðiþjónustu grunnskóla, ráðgjafar- og sálfræðiþjónustu
@@ -104,7 +103,7 @@ fræðsluefnis og faglega aðstoð og ráðgjöf til samstarfsaðila, sbr. 5., 7
    Greiningar- og ráðgjafarstöð ríkisins getur með sérstökum samningum, gegn
     greiðslu, annast sérfræðiþjónustu grunnskóla, sbr. 2. gr. reglugerðar um
   sérfræðiþjónustu skóla, nr. 386/1996, svo og ráðgjafar- og sálfræðiþjónustu
-leikskóla, sbr. [6]16. gr. laga um leikskóla, nr. 78/1994, fyrir sveitarfélögin.
+leikskóla, sbr. [3]16. gr. laga um leikskóla, nr. 78/1994, fyrir sveitarfélögin.
     7. gr. Starfsfólki Greiningar- og ráðgjafarstöðvar ríkisins ber að gæta
        þagnarskyldu um atvik er varða lögmæta einkahagsmuni skjólstæðinga
 stofnunarinnar eða aðstandenda þeirra sem því verða kunn í starfi. Þagnarskyldan
@@ -142,9 +141,6 @@ sér þjónustu við fatlaða, sérfræðiþjónustu skóla, ráðgjafarþjónus
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003083
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=538
-   3. http://www.althingi.is/altext/128/s/0883.html
-   4. file://1992059.html#g17
-   5. file://1992059.html#g18
-   6. file://1994078.html#g16
+   1. file://1992059.html#g17
+   2. file://1992059.html#g18
+   3. file://1994078.html

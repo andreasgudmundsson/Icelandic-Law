@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. júlí 2007. EES-samningurinn: IX. viðauki tilskipun 2003/41/EB.
 
@@ -55,10 +54,10 @@ eftirlaunagreiðslum á grundvelli iðgjaldagreiðslna í samræmi við ákvæð
               að semja um aðild að starfstengdum eftirlaunasjóðum.
          4. gr. Skilyrði fyrir starfsemi starfstengds eftirlaunasjóðs.
      Fjármálaráðuneytið veitir starfstengdum eftirlaunasjóði starfsleyfi að
-   uppfylltum sömu skilyrðum og koma fram í [4]V. kafla laga nr. 129/1997, um
+   uppfylltum sömu skilyrðum og koma fram í [1]V. kafla laga nr. 129/1997, um
           skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða.
- Ákvæði 18. gr. og IV. og VI.[5]X. kafla laga nr. 129/1997 gilda um starfsemi
-starfstengdra eftirlaunasjóða nema annað komi fram í lögum þessum. Ákvæði [6]36.
+ Ákvæði 18. gr. og IV. og VI.[2]X. kafla laga nr. 129/1997 gilda um starfsemi
+starfstengdra eftirlaunasjóða nema annað komi fram í lögum þessum. Ákvæði [3]36.
 gr. laga nr. 129/1997 gildir þó ekki um starfsemi starfstengdra eftirlaunasjóða.
   Starfstengdur eftirlaunasjóður skal vera skráður hjá Fjármálaeftirlitinu og
   háður eftirliti þess. Starfstengdur eftirlaunasjóður skal takmarka starfsemi
@@ -109,7 +108,7 @@ aðildarfyrirtæki ber líffræðilega áhættu eða þar sem gefið er loforð 
               7. gr. Upplýsingaskylda starfstengdra lífeyrissjóða.
       Starfstengdur lífeyrissjóður skal veita sjóðfélögum og lífeyrisþegum
                  eftirfarandi upplýsingar óski þeir eftir því:
-      a. upplýsingar um meginefni fjárfestingarstefnu skv. [7]37. gr. laga um
+      a. upplýsingar um meginefni fjárfestingarstefnu skv. [4]37. gr. laga um
  skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða, nr. 129/1997, þar
   sem fram koma a.m.k. upplýsingar um aðferðir sjóðsins við mælingar á áhættu,
 aðferðir við áhættustjórnun og markmið um eignasamsetningu með tilliti til eðlis
@@ -153,7 +152,7 @@ skyni að koma í veg fyrir háttsemi sem er talin andstæð ákvæðum laga þe
  eftirlaunasjóðs reynist sjóðurinn ekki gjaldhæfur að mati Fjármálaeftirlitsins
           eða eigi stofnunin ekki skyldubundinn varasjóð, sbr. 6. gr.
                               10. gr. Refsiákvæði.
-      Um brot gegn lögum þessum fer skv. [8]55. gr. laga nr. 129/1997, um
+      Um brot gegn lögum þessum fer skv. [5]55. gr. laga nr. 129/1997, um
           skyldutryggingu lífeyrisréttinda og starfsemi lífeyrissjóða.
                           11. gr. Reglugerðarheimild.
 Fjármálaráðherra er heimilt að kveða nánar á um framkvæmd laganna með reglugerð.
@@ -1051,11 +1050,8 @@ Tilskipuninni var breytt með tilskipun 2000/28/EB (Stjtíð. EB L 275, 27.10.20
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007078
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=568
-   3. http://www.althingi.is/altext/133/s/844.html
-   4. file://1997129.html
-   5. file://1997129.html
-   6. file://1997129.html#g36
-   7. file://1997129.html#g37
-   8. file://1997129.html#g55
+   1. file://1997129.html
+   2. file://1997129.html
+   3. file://1997129.html#g36
+   4. file://1997129.html#g37
+   5. file://1997129.html#g55

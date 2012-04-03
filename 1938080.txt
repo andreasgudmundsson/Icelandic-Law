@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -9,8 +8,8 @@
    --------------------------------------------------------------------------
 
  Tóku gildi 3. september 1938. Breytt með l. 70/1954 (tóku gildi 7. maí 1954),
-[2]l. 33/1978 (tóku gildi 1. júní 1978), l. 10/1983 (tóku gildi 25. mars 1983),
-[3]l. 91/1991 (tóku gildi 1. júlí 1992), l. 75/1996 (tóku gildi 19. júní 1996),
+[1]l. 33/1978 (tóku gildi 1. júní 1978), l. 10/1983 (tóku gildi 25. mars 1983),
+[2]l. 91/1991 (tóku gildi 1. júlí 1992), l. 75/1996 (tóku gildi 19. júní 1996),
  l. 83/1997 (tóku gildi 6. júní 1997) og l. 20/2001 (tóku gildi 16. maí 2001).
 
    I. kafli. Um réttindi stéttarfélaga og afstöðu þeirra til atvinnurekenda.
@@ -439,7 +438,7 @@ fyrir hvern dómara, og sér formaður um, að öll afrit verði send dómurum �
                    fyrirvara stefndur getur mætt á dómþingi.
 Stefnandi sér um birtingu, og skal stefna birt af [stefnuvotti]^1) á venjulegan
                                    hátt. ^1)
-                            ^1)[4]L. 91/1991, 161. gr.
+                            ^1)[3]L. 91/1991, 161. gr.
          52. gr. Mál skal flytja munnlega. Þó má flytja mál skriflega:
                     1. Ef stefndur hvorki mætir né lætur mæta.
       2. Ef málsaðiljar eða umboðsmenn þeirra óska og dómurinn álítur, að mál
@@ -463,7 +462,7 @@ Stefnandi sér um birtingu, og skal stefna birt af [stefnuvotti]^1) á venjulega
 Dómurinn getur enn fremur útnefnt skoðunar- og matsmenn til að framkvæma ákveðna
      skoðunargerð eða matsgerð, og gilda um það almennar reglur [um meðferð
                                  einkamála].^1)
-                            ^1)[5]L. 91/1991, 161. gr.
+                            ^1)[4]L. 91/1991, 161. gr.
  60. gr. Dómurinn getur dæmt vitni, skoðunar- og matsmenn og aðra, sem löglega
  eru kallaðir til að mæta fyrir dómnum, í sektir eftir sömu reglum og almennir
                                    dómstólar.
@@ -497,7 +496,7 @@ er tekið til úrskurðar. Sama gildir í vitna- og matsmálum, eftir því sem 
     3. [Úrskurð um skyldu til að bera vitni, um eiðvinning og réttarfarssektir
                             skv. 60. og 63. gr.]^2)
           [4. Ákvörðun um að gera aðila að greiða sektir skv. 65. gr.]^2)
-                 ^1)[6]L. 91/1991, 161. gr. ^2)L. 20/2001, 3. gr.
+                 ^1)[5]L. 91/1991, 161. gr. ^2)L. 20/2001, 3. gr.
 68. gr. Formaður gefur út dómsgerðir Félagsdóms í nafni dómsins og með innsigli
           hans undir. Ritlaun skal greiða samkvæmt venjulegum reglum.
 69. gr. Um þau atriði viðvíkjandi meðferð mála, sem ekki er kveðið á um í þessum
@@ -514,9 +513,8 @@ ríkissjóð, og má innheimta þær sem fjárkröfur á venjulegan hátt, en um
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1938080
-   2. file://1978033.html
-   3. file://1991091.html
+   1. file://1978033.html
+   2. file://1991091.html
+   3. file://1991091.html#g161
    4. file://1991091.html#g161
    5. file://1991091.html#g161
-   6. file://1991091.html#g161

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-   Tóku gildi 9. júní 2005. Breytt með l. 44/2006 (tóku gildi 15. júní 2006).
+  Tóku gildi 9. júní 2005. Breytt með l. 44/2006 (tóku gildi 15. júní 2006) og
+ [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+                                     2008).
 
       1. gr. Lög þessi taka til starfsemi uppboðsmarkaða fyrir sjávarafla.
 Sjávarútvegsráðherra veitir leyfi til reksturs uppboðsmarkaðar fyrir sjávarafla.
@@ -52,10 +53,10 @@ sem hafa ríkisfang og búsettir eru í aðildarríki Evrópska efnahagssvæðis
 íslenskan lögaðila sem erlendur aðili á hlut í skal auk þess fullnægt skilyrðum
              laga um fjárfestingu erlendra aðila í atvinnurekstri.
                                ^1)L. 44/2006, 1. gr.
-  4. gr. Um húsnæði og búnað uppboðsmarkaðar og meðferð afla gilda [4]lög nr.
+  4. gr. Um húsnæði og búnað uppboðsmarkaðar og meðferð afla gilda [2]lög nr.
    55/1998, um meðferð, vinnslu og dreifingu sjávarafurða, og reglur settar á
                   grundvelli þeirra laga eftir því sem við á.
-  Um vigtun afla gilda ákvæði [5]laga nr. 57/1996, um umgengni um nytjastofna
+  Um vigtun afla gilda ákvæði [3]laga nr. 57/1996, um umgengni um nytjastofna
    sjávar, og reglur sem settar eru á grundvelli þeirra eftir því sem við á.
 5. gr. Ráðherra skal í reglugerð^1) kveða á um útgáfu rekstrarleyfa og starfsemi
 uppboðsmarkaða, þar á meðal um gagnsæi viðskipta, birtingu uppboðsskilmála og um
@@ -63,7 +64,7 @@ uppboðsmarkaða, þar á meðal um gagnsæi viðskipta, birtingu uppboðsskilm�
                                 uppboðsmarkaða.
                           ^1)Rg. 646/2007, sbr. 774/2007.
    6. gr. Leyfishafar skulu standa skil á uppboðsandvirði hins selda afla til
-   seljenda og sjá um skil á greiðslum samkvæmt ákvæðum [6]II. kafla laga nr.
+   seljenda og sjá um skil á greiðslum samkvæmt ákvæðum [4]II. kafla laga nr.
       24/1986, um skiptaverðmæti og greiðslumiðlun innan sjávarútvegsins.
  Leyfishafi skal krefjast greiðslutrygginga af kaupanda sé ekki um staðgreiðslu
                                     að ræða.
@@ -72,25 +73,27 @@ Við skiptingu greiðslna samkvæmt þessari grein skal miða við uppboðsandvi
  Leyfishafa er heimilt að fela reiknistofu uppboðsmarkaða þann hluta starfsemi
                   sinnar sem mælt er fyrir um í þessari grein.
    7. gr. Um sjávarafla, sem seldur er á uppboðsmarkaði, gilda ekki ákvæði um
-  lágmarksverð samkvæmt [7]lögum nr. 43/1985, um Verðlagsráð sjávarútvegsins.
+  lágmarksverð samkvæmt [5]lögum nr. 43/1985, um Verðlagsráð sjávarútvegsins.
  8. gr. Leyfishafi skal hafa í þjónustu sinni a.m.k. einn starfsmann sem sér um
  framkvæmd uppboðs, uppboðsstjóra, og skal hann hafa löggildingu til starfans.
                     Sjávarútvegsráðherra veitir löggildingu.
   Uppboðsstjórar mega hvorki gera boð á uppboði sjálfir né láta aðra gera það
                                 fyrir sína hönd.
  9. gr. Með brot gegn lögum þessum eða reglum settum samkvæmt þeim skal fara að
- hætti opinberra mála. Brot gegn ákvæðum laga þessara og reglum settum samkvæmt
-þeim varða sektum hvort sem þau eru framin af ásetningi eða gáleysi og fangelsi
-    allt að tveimur árum sé um stórfellt eða ítrekað ásetningsbrot að ræða.
+    hætti opinberra mála.^1) Brot gegn ákvæðum laga þessara og reglum settum
+samkvæmt þeim varða sektum hvort sem þau eru framin af ásetningi eða gáleysi og
+fangelsi allt að tveimur árum sé um stórfellt eða ítrekað ásetningsbrot að ræða.
+     ^1)Málsliðurinn var felldur brott með [6]l. 88/2008, 233. gr. Breytingin
+                 tekur gildi 1. jan. 2009 skv. [7]232. gr. s.l.
                      10. gr. Lög þessi öðlast þegar gildi.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2005079
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=677
-   3. http://www.althingi.is/altext/131/s/1030.html
-   4. file://1998055.html
-   5. file://1996057.html
-   6. file://1986024.html
-   7. file://1985043.html
+   1. file://2008088.html
+   2. file://1998055.html
+   3. file://1996057.html
+   4. file://1986024.html
+   5. file://1985043.html
+   6. file://2008088.html#g233
+   7. file://2008088.html

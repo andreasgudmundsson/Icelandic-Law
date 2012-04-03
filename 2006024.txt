@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                             Tóku gildi 3. maí 2006.
 
@@ -90,7 +89,7 @@ getur faggildingarsvið fellt niður faggildingu ef skilyrði fyrir veitingu hen
 eru ekki lengur uppfyllt eða faggiltur aðili hefur stórfellt eða ítrekað brotið
 ákvæði laga, reglugerðar, staðla og reglna sem gilda um faggildingu eða skilyrði
   þau sem sett hafa verið fyrir faggildingu hans. Um málsmeðferð fer samkvæmt
-    ákvæðum [4]stjórnsýslulaga, nr. 37/1993. Ber faggiltum aðila þá að skila
+    ákvæðum [1]stjórnsýslulaga, nr. 37/1993. Ber faggiltum aðila þá að skila
                leyfisbréfi sínu tafarlaust til faggildingarsviðs.
  Faggildingarsviði ber að birta tilkynningu um það opinberlega þegar leyfi til
                           faggildingar er fellt niður.
@@ -173,14 +172,11 @@ halda leyndum öllum þeim atriðum sem þeir hafa fengið vitneskju um við fra
                      17. gr. Lög þessi öðlast þegar gildi.
       Ákvæði til bráðabirgða. Við gildistöku laga þessara skal starfsmanni
    Neytendastofu boðið annað starf hjá faggildingarsviði Einkaleyfastofu. Við
-ráðstöfun starfsins þarf ekki að gæta [5]7. gr. laga nr. 70/1996, um réttindi og
+ráðstöfun starfsins þarf ekki að gæta [2]7. gr. laga nr. 70/1996, um réttindi og
                          skyldur starfsmanna ríkisins.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006024
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=361
-   3. http://www.althingi.is/altext/132/s/403.html
-   4. file://1993037.html
-   5. file://1996070.html#g7
+   1. file://1993037.html
+   2. file://1996070.html#g7

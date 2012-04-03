@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 18. júní 1998, sjá þó 34. gr. EES-samningurinn: I. viðauki tilskipun
 91/492/EBE, 91/493/EBE og 92/48/EBE. Breytt með l. 121/1998 (tóku gildi 30. okt.
@@ -19,7 +18,8 @@ EES-samningurinn: I. viðauki tilskipun 85/73/EBE, 90/425/EBE og 91/493/EBE), l.
     91/2000 (tóku gildi 6. júní 2000; EES-samningurinn: I. viðauki tilskipun
         91/493/EBE og 92/48/EBE), l. 79/2001 (tóku gildi 15. júní 2001;
   EES-samningurinn: I. viðauki tilskipun 90/425/EBE og 91/496/EBE), l. 40/2004
-      (tóku gildi 26. maí 2004) og l. 167/2007 (tóku gildi 1. jan. 2008).
+   (tóku gildi 26. maí 2004), l. 167/2007 (tóku gildi 1. jan. 2008) og [1]l.
+88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                             I. kafli. Almenn ákvæði.
 1. gr. Tilgangur laga þessara er að tryggja neytendum að íslenskar sjávarafurðir
@@ -139,14 +139,14 @@ fylgiskjölum. Merkingar skulu að öðru leyti vera í samræmi við kröfur se
 
                     III. kafli. Leyfisveitingar og eftirlit.
   14. gr. [Allar vinnslustöðvar, þar með talin vinnsluskip sem leyfi hafa til
- veiða í atvinnuskyni, sbr. [4]lög nr. 38/1990, um stjórn fiskveiða, skulu hafa
+ veiða í atvinnuskyni, sbr. [2]lög nr. 38/1990, um stjórn fiskveiða, skulu hafa
   tölusett vinnsluleyfi til staðfestingar því að fullnægt sé settum skilyrðum.
      Sama gildir um fiskmjölsverksmiðjur, framleiðslustöðvar dýrafóðurs úr
 sjávarafurðum og stöðvar þar sem slátrun, vinnsla eða pökkun hafbeitar-, vatna-
   og eldisfisks fer fram. Ráðherra getur í reglugerð^1) sett nánari reglur um
   búnað vinnslustöðva þar sem slátrun á eldisfiski fer fram og um eftirlit með
                            slátrun á eldisfiski.]^2)
-  Fiskiskip sem leyfi hafa til veiða í atvinnuskyni, sbr. [5]lög nr. 38/1990,
+  Fiskiskip sem leyfi hafa til veiða í atvinnuskyni, sbr. [3]lög nr. 38/1990,
     önnur en vinnsluskip, svo og fiskmarkaðir sem aðeins selja sjávarafla í
                        heildsölu, skulu hafa starfsleyfi.
 [Matvælastofnun]^3) veitir vinnsluleyfi og starfsleyfi samkvæmt þessari grein að
@@ -375,7 +375,9 @@ nauðsynlegar upplýsingar eða aðstoð við framkvæmd eftirlits eða skoðun,
 32. gr. Fyrir brot á ákvæðum laga þessara eða reglugerða settra með stoð í þeim
  sem framin eru af ásetningi eða gáleysi skal refsa með sektum eða fangelsi ef
                                miklar sakir eru.
-       33. gr. Rannsókn brota á lögum þessum fer að hætti opinberra mála.
+     33. gr. Rannsókn brota á lögum þessum fer að hætti opinberra mála.^1)
+   ^1)Greinin var felld brott með [4]l. 88/2008, 233. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [5]232. gr. s.l.
                       34. gr. Lög þessi öðlast þegar gildi
       Þrátt fyrir 1. mgr. taka IV. og V. kafli þessara laga um innflutning
           sjávarafurða og landamærastöðvar gildi [1. janúar 1999].^1)
@@ -390,8 +392,8 @@ nauðsynlegar upplýsingar eða aðstoð við framkvæmd eftirlits eða skoðun,
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998055
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=544
-   3. http://www.althingi.is/altext/122/s/0929.html
-   4. file://1990038.html
-   5. file://1990038.html
+   1. file://2008088.html
+   2. file://1990038.html
+   3. file://1990038.html
+   4. file://2008088.html#g233
+   5. file://2008088.html

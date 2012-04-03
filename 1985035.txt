@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,14 +7,15 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. júlí 1985. Breytt með l. 53/1990 (tóku gildi 31. maí 1990), l.
   92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992),
-[4]l. 50/1993 (tóku gildi 1. júlí 1993), l. 7/1996 (tóku gildi 1. okt. 1996), l.
+[1]l. 50/1993 (tóku gildi 1. júlí 1993), l. 7/1996 (tóku gildi 1. okt. 1996), l.
 82/1998 (tóku gildi 1. okt. 1998), 31/2003 (tóku gildi skv. fyrirmælum í 4. gr.;
-   EES-samningurinn: XVIII. viðauki tilskipun 93/104/EB og 1999/63/EB) og l.
-                      59/2003 (tóku gildi 7. apríl 2003).
+EES-samningurinn: XVIII. viðauki tilskipun 93/104/EB og 1999/63/EB), l. 59/2003
+   (tóku gildi 7. apríl 2003) og [2]l. 88/2008 (taka gildi 1. jan. 2009 nema
+                   brbákv. VII sem tók gildi 21. júní 2008).
 
                             I. kafli. Almenn ákvæði.
   1. gr. Lög þessi gilda um alla sjómenn á íslenskum skipum. Samgönguráðherra
@@ -587,7 +587,7 @@ Skipverji, sem ekki kemst til skips af ástæðum sem útgerðarmanni verður ek
     launum fyrir hálfan uppsagnarfrest eða helming þess tíma sem eftir er af
 uppsagnarfrestinum, þó aldrei lægri fjárhæð á fiskiskipum en sem nemur sjö daga
             kauptryggingu en föstum launum í sjö daga á kaupskipum.
-                             ^1)[5]L. 50/1993, 29. gr.
+                             ^1)[3]L. 50/1993, 29. gr.
                         6. Viðurværi skipverja og aðbúð.
       61. gr. Skipstjóri skal sjá um að skipverjar fái nægan mat og góðan.
              Samgönguráðherra getur sett nánari reglur um það efni.
@@ -720,7 +720,7 @@ Ef skip er statt erlendis og ágreiningur rís út af reikningsgerð skipstjóra
                                1. Almenn ákvæði.
    73. gr. Refsiákvæðum þessa kafla skal því aðeins beitt að aðrar og þyngri
               refsingar liggi eigi við broti samkvæmt öðrum lögum.
-Ákvæði 2. tölul. [6]4. gr. almennra hegningarlaga, nr. 19/1940, eiga við um brot
+Ákvæði 2. tölul. [4]4. gr. almennra hegningarlaga, nr. 19/1940, eiga við um brot
                                 á lögum þessum.
     74. gr. [Yfirsjónir þær, sem ræðir um í 1. mgr. 80. gr., skulu eigi sæta
 opinberri málssókn nema skipstjóri eða útgerðarmaður krefjist þess.]^1) Krafa um
@@ -733,8 +733,9 @@ málssókn skal gerð svo fljótt sem unnt er og í síðasta lagi áður en ár
          eigi fella niður málssókn fyrr en leitað hefur verið umsagnar
                              samgönguráðuneytisins.
 Um rannsókn og málsmeðferð út af brotum samkvæmt ákvæðum þessa kafla fer annars
-                            að hætti opinberra mála.
-                               ^1)L. 53/1990, 1. gr.
+                          að hætti opinberra mála.^2)
+     ^1)L. 53/1990, 1. gr. ^2)Greininni var breytt með [5]l. 88/2008, 234. gr.
+           Breytingin tekur gildi 1. jan. 2009 skv. [6]232. gr. s.l.
 75. gr. Skipstjóri eða sá, sem kemur í hans stað, framkvæmir ef nauðsyn ber til
  og eftir því sem við verður komið frumrannsókn á meintum brotum skipverja. Ef
  unnt er skulu tveir óvilhallir vottar vera viðstaddir rannsóknina og sé annar
@@ -834,9 +835,9 @@ refsing annarra samblástursmanna, ef þeir hafa beitt líkamlegu ofbeldi eða m
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1985035
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=107&mnr=146
-   3. http://www.althingi.is/altext/107/s/pdf/0151.pdf
-   4. file://1993050.html
-   5. file://1993050.html#g29
-   6. file://1940019.html#g4
+   1. file://1993050.html
+   2. file://2008088.html
+   3. file://1993050.html#g29
+   4. file://1940019.html#g4
+   5. file://2008088.html#g234
+   6. file://2008088.html

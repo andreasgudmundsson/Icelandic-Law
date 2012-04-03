@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 30. maí 2005. EES-samningurinn: XII. viðauki tilskipun 2002/47/EB.
 
@@ -26,16 +25,16 @@ Alþjóðalánastofnunin, Þróunarbanki Ameríkuríkja, Þróunarbanki Asíu, �
             Alþjóðagjaldeyrissjóðurinn og Fjárfestingarbanki Evrópu.
        3. Eftirfarandi starfsleyfisskyldar stofnanir sem háðar eru opinberu
                                    eftirliti:
-   a. fjármálafyrirtæki, sbr. [4]4. gr. laga nr. 161/2002, um fjármálafyrirtæki,
-       b. vátryggingafélög og líftryggingafélög, sbr. [5]lög nr. 60/1994, um
+   a. fjármálafyrirtæki, sbr. [1]4. gr. laga nr. 161/2002, um fjármálafyrirtæki,
+       b. vátryggingafélög og líftryggingafélög, sbr. [2]lög nr. 60/1994, um
                              vátryggingastarfsemi,
-         c. verðbréfasjóðir, sbr. 1. tölul. [6]2. gr. laga nr. 30/2003, um
+         c. verðbréfasjóðir, sbr. 1. tölul. [3]2. gr. laga nr. 30/2003, um
                      verðbréfasjóði og fjárfestingarsjóði,
            d. lánastofnanir, fjárfestingarfyrirtæki, fjármálastofnanir,
  vátryggingafélög, líftryggingafélög, fyrirtæki um sameiginlega fjárfestingu í
 framseljanlegum verðbréfum og rekstrarfélög verðbréfasjóða sem hafa staðfestu og
               starfsleyfi í öðru ríki á Evrópska efnahagssvæðinu.
-     4. Milligönguaðili, uppgjörsaðili og greiðslujöfnunarstöð, sbr. [7]2. gr.
+     4. Milligönguaðili, uppgjörsaðili og greiðslujöfnunarstöð, sbr. [4]2. gr.
   laga nr. 90/1999, um öryggi greiðslufyrirmæla í greiðslukerfum, sambærilegar
   stofnanir sem starfa samkvæmt landslögum í tengslum við markaði með staðlaða
 framvirka samninga, valrétti og afleiður, og sambærilegar erlendar stofnanir sem
@@ -48,7 +47,7 @@ framvirka samninga, valrétti og afleiður, og sambærilegar erlendar stofnanir 
                 Merking hugtaka í lögum þessum er sem hér segir:
           1. Fjármálagerningur: Verðbréf, afleiður, hlutdeildarskírteini,
  peningamarkaðsskjöl og framseljanleg veðréttindi í fasteignum og lausafé, sbr.
-  2. tölul. [8]2. gr. laga nr. 33/2003, um verðbréfaviðskipti, að undanskildum
+  2. tölul. [5]2. gr. laga nr. 33/2003, um verðbréfaviðskipti, að undanskildum
     eigin hlutabréfum tryggingarveitanda, hlutabréfum hans í móðurfélagi eða
   dótturfélagi og óskráðum hlutabréfum hans í félögum sem eingöngu er ætlað að
                                 eiga fasteignir.
@@ -165,7 +164,7 @@ Fjárhagslegum tryggingum, viðbótartryggingum og staðgöngutryggingum verður
        fjárhagslegrar tryggingar, verðmat fjárskuldbindinga og fullnustu
  fjárskuldbindinga má víkja til hliðar í heild eða að hluta, eða breyta, ef það
  yrði talið ósanngjarnt eða andstætt góðri viðskiptavenju að bera ákvæðið fyrir
-     sig, sbr. [9]36. gr. laga nr. 7/1936, um samningsgerð, umboð og ógilda
+     sig, sbr. [6]36. gr. laga nr. 7/1936, um samningsgerð, umboð og ógilda
                                   löggerninga.
                          10. gr. Sérregla um lagaskil.
    Nú felur samningur um fjárhagslega tryggingarráðstöfun í sér veðsetningu á
@@ -187,12 +186,9 @@ Fjárhagslegum tryggingum, viðbótartryggingum og staðgöngutryggingum verður
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2005046
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=667
-   3. http://www.althingi.is/altext/131/s/1015.html
-   4. file://2002161.html#g4
-   5. file://1994060.html
-   6. file://2003030.html#g2
-   7. file://1999090.html#g2
-   8. file://2003033.html
-   9. file://1936007.html#g36
+   1. file://2002161.html#g4
+   2. file://1994060.html
+   3. file://2003030.html#g2
+   4. file://1999090.html#g2
+   5. file://2003033.html
+   6. file://1936007.html#g36

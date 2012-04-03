@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,10 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-   Tóku gildi 1. júlí 2006. Breytt með l. 167/2007 (tóku gildi 1. jan. 2008).
+Tóku gildi 1. júlí 2006. Breytt með l. 167/2007 (tóku gildi 1. jan. 2008) og l.
+                       81/2008 (tóku gildi 1. júlí 2008).
 
          I. kafli. Markmið, gildissvið, skilgreiningar og stjórnsýsla.
                                 1. gr. Markmið.
@@ -20,8 +20,8 @@ Markmið laga þessara er að vernda lífríki vatna, vatnafisk og lagardýr sem
                                2. gr. Gildissvið.
     Lög þessi taka til vatnafisks og innflutnings fisks og hrogna á íslenskt
   forráðasvæði. Við framkvæmd laganna skal gætt samræmis við framkvæmd laga um
-lax- og silungsveiði, laga um fiskrækt, laga um eldi vatnafiska og laga um eldi
-                              nytjastofna sjávar.
+        lax- og silungsveiði, laga um fiskrækt [og laga um fiskeldi].^1)
+                               ^1)L. 81/2008, 6. gr.
                              3. gr. Skilgreiningar.
  Í lögum þessum, reglugerðum og reglum, settum á grundvelli þeirra, er merking
                              hugtaka sem hér segir:
@@ -88,7 +88,7 @@ séu fisksjúkdómarannsóknir og gera tillögur til ráðherra um aðferðir ti
              II. kafli. Um innflutning á lifandi fiski og hrognum.
                  5. gr. Innflutningur lifandi ferskvatnsfiska.
  Um innflutning lifandi laxfiska og annarra fiska er lifa í ósöltu vatni, óháð
-þroskastigi, þ.m.t. hrogna og svilja, gilda ákvæði 2. og 3. mgr. [4]2. gr. laga
+þroskastigi, þ.m.t. hrogna og svilja, gilda ákvæði 2. og 3. mgr. [1]2. gr. laga
   nr. 54/1990, um innflutning dýra. Óheimilt er að sleppa í veiðivatn lifandi
     fiskum, lagardýrum eða vatnaplöntum sem fluttar hafa verið til landsins.
                        6. gr. Um innflutning skrautfiska.
@@ -159,22 +159,21 @@ eða gáleysi fyrirmæli [Matvælastofnunar]^1) skv. 9. gr. um bann við innflut
                       Lög þessi öðlast gildi 1. júlí 2006.
 Ákvæði til bráðabirgða. Frá gildistöku laga þessara og til loka ársins 2010 skal
  starfa samráðsnefnd um framkvæmd þeirra, laga um lax- og silungsveiði, laga um
-    Veiðimálastofnun, laga um fiskrækt og laga um eldi vatnafiska. Hlutverk
+     Veiðimálastofnun, laga um fiskrækt og laga um [fiskeldi].^1) Hlutverk
    samráðsnefndar er að fylgjast með og stuðla að greiðri framkvæmd og virkum
        skoðanaskiptum þeirra er lögin varða helst. Nefndin skal skipuð af
-  [sjávarútvegs- og landbúnaðarráðherra]^1) og í henni sitja ellefu fulltrúar
+ [sjávarútvegs- og landbúnaðarráðherra]^2) og í henni sitja [tólf]^1) fulltrúar
    tilnefndir af eftirtöldum aðilum: Landssambandi veiðifélaga, Landssambandi
  stangaveiðifélaga, Landssambandi fiskeldisstöðva, Félagi eigenda sjávarjarða,
-     fisksjúkdómanefnd, Veiðimálastofnun, [Matvælastofnun],^1) Fiskistofu,
-    umhverfisráðuneyti og sjávarútvegsráðuneyti. Þá skipar [sjávarútvegs- og
-   landbúnaðarráðherra]^1) einn nefndarmann án tilnefningar og skal hann vera
-                             formaður nefndarinnar.
-                              ^1)L. 167/2007, 79. gr.
+     fisksjúkdómanefnd, Veiðimálastofnun, [Matvælastofnun],^2) Fiskistofu,
+       umhverfisráðuneyti, [Hafrannsóknastofnuninni og Sambandi íslenskra
+  sveitarfélaga].^1) Þá skipar [sjávarútvegs- og landbúnaðarráðherra]^2) einn
+   nefndarmann án tilnefningar og skal hann vera formaður nefndarinnar. [Sker
+           atkvæði formanns úr ef ágreiningur verður í nefndinni.]^1)
+                 ^1)[2]L. 82/2008, 7. gr. ^2)L. 167/2007, 79. gr.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006060
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=596
-   3. http://www.althingi.is/altext/132/s/880.html
-   4. file://1990054.html#g2
+   1. file://1990054.html#g2
+   2. file://2008082.html#g7

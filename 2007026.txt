@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -9,9 +8,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 29. mars 2007.
+Tóku gildi 29. mars 2007. Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009 nema
+                   brbákv. VII sem tók gildi 21. júní 2008).
+
  1. gr. Forsætisráðherra er heimilt að setja á fót nefnd til að kanna starfsemi
    vist- og meðferðarheimila fyrir börn. Heimild þessi tekur ekki til þeirra
             stofnana sem starfandi eru við gildistöku laga þessara.
@@ -47,7 +48,9 @@ spurningu ef ætla má að í svari hans geti falist játning eða bending um a�
 hafi framið refsiverðan verknað eða að það gæti orðið honum til mannorðsspjalla.
   Sá sem vísvitandi gefur nefndinni rangar eða villandi upplýsingar skal sæta
   sektum eða fangelsi allt að fjórum mánuðum. Um slík mál skal farið að hætti
-                                opinberra mála.
+                               opinberra mála.^1)
+     ^1)Málsliðurinn var felldur brott með [2]l. 88/2008, 233. gr. Breytingin
+                 tekur gildi 1. jan. 2009 skv. [3]232. gr. s.l.
                     4. gr. Fundir nefndarinnar eru lokaðir.
 Nefndarmenn og starfsmenn hennar eru bundnir þagnarskyldu um hvaðeina er varðar
  einkalíf manna sem þeir fá upplýsingar um við störf nefndarinnar. Þagnarskylda
@@ -67,8 +70,8 @@ Skal þar einkum kveðið á um það til hvaða starfsemi könnun nefndarinnar 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007026
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=668
-   3. http://www.althingi.is/altext/133/s/1019.html
+   1. file://2008088.html
+   2. file://2008088.html#g233
+   3. file://2008088.html
    4. file://1996050.html
    5. file://1993037.html

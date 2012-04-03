@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 17. apríl 2007 nema 2. og 3. málsl. 2. mgr. 19. gr. sem tóku gildi 1.
        janúar 2008. EES-samningurinn: XVI. viðauki tilskipun 2004/18/EB.
@@ -198,7 +197,7 @@ Ráðherra skal í reglugerð^1) mæla fyrir um innkaup þeirra aðila sem grein
    mgr., til samræmis við skuldbindingar íslenska ríkisins á sviði opinberra
         innkaupa samkvæmt samningnum um Evrópska efnahagssvæðið og öðrum
                               milliríkjasamningum.
-                                 ^1)Rg. 755/2007.
+                          ^1)Rg. 755/2007, sbr. 916/2008.
                       8. gr. Samningar á sviði fjarskipta.
   Lögin taka ekki til samninga sem hafa það að meginmarkmiði að stofna til eða
     reka almennt fjarskiptanet eða bjóða almenningi eina eða fleiri tegundir
@@ -1212,7 +1211,7 @@ sér efni tilboða eða þátttökutilkynninga eftir að tilboðsfrestur eða fr
       þátttökutilkynninga, þar á meðal upplýsingar um dulkóðun, skulu vera
   aðgengilegar öllum áhugasömum aðilum. Þessi tæki skulu einnig fullnægja þeim
               kröfum sem fram koma í X. viðauka tilskipunarinnar.
-   b. Heimilt er í samræmi við [4]lög um rafrænar undirskriftir, nr. 28/2001, að
+   b. Heimilt er í samræmi við [1]lög um rafrænar undirskriftir, nr. 28/2001, að
           gera kröfu um að tilboði fylgi fullgild rafræn undirskrift.
    c. Áður en tilboðsfrestur eða frestur til að skila þátttökutilkynningu rennur
  út skulu bjóðendur eða þátttakendur leggja fram þau gögn sem greinir í 47.52.
@@ -1417,13 +1416,13 @@ viðmiðunarfjárhæðir vegna hönnunarsamkeppni, sbr. 67. gr. tilskipunarinnar
 verið gerðar skv. 78. gr. tilskipunarinnar, enda hafi hlutaðeigandi gerðir verið
  teknar upp í EES-samninginn. Endurskoða skal viðmiðunarfjárhæðir á tveggja ára
                      fresti, í fyrsta sinn 31. janúar 2008.
- Ráðherra setur með reglugerð reglur um útboðsauglýsingar og aðrar tilkynningar
-vegna innkaupa á Evrópska efnahagssvæðinu til samræmis við þær gerðir sem vísað
-    er til í XVI. viðauka við EES-samninginn. Ráðherra er einnig heimilt með
-  reglugerð að setja nánari reglur um opinber innkaup yfir viðmiðunarfjárhæðum
-       skv. 1. mgr., enda samræmist þær ákvæðum tilskipunarinnar og öðrum
-           skuldbindingum íslenska ríkisins samkvæmt EES-samningnum.
-                                 ^1)Rg. 807/2007.
+      Ráðherra setur með reglugerð^2) reglur um útboðsauglýsingar og aðrar
+  tilkynningar vegna innkaupa á Evrópska efnahagssvæðinu til samræmis við þær
+ gerðir sem vísað er til í XVI. viðauka við EES-samninginn. Ráðherra er einnig
+      heimilt með reglugerð að setja nánari reglur um opinber innkaup yfir
+viðmiðunarfjárhæðum skv. 1. mgr., enda samræmist þær ákvæðum tilskipunarinnar og
+        öðrum skuldbindingum íslenska ríkisins samkvæmt EES-samningnum.
+                 ^1)Rg. 807/2007. ^2)Rg. 1300/2007, rg. 411/2008.
        79. gr. Framkvæmd opinberra innkaupa yfir viðmiðunarfjárhæðum EES.
   Við framkvæmd opinberra innkaupa yfir viðmiðunarfjárhæðum skv. 78. gr. skal
 fylgja ákvæðum 35.43. gr. tilskipunarinnar og þeim reglum sem þar er vísað til,
@@ -1603,7 +1602,7 @@ nefndarinnar. Þegar nefndarmenn eru eigi sammála um niðurstöðu ræður meir
  Kærunefnd skal kveða upp úrskurð um kæru eins fljótt og auðið er og eigi síðar
 en einum mánuði eftir að henni hafa borist athugasemdir kæranda skv. 3. mgr. ef
                                því er að skipta.
-Um meðferð kærumála fyrir nefndinni fer að öðru leyti eftir [5]stjórnsýslulögum,
+Um meðferð kærumála fyrir nefndinni fer að öðru leyti eftir [2]stjórnsýslulögum,
                                   nr. 37/1993.
        96. gr. Stöðvun innkaupaferlis eða samningsgerðar um stundarsakir.
  Nú telur nefndin að verulegar líkur séu á því að brotið hafi verið gegn lögum
@@ -1676,14 +1675,14 @@ samninginn um Evrópska efnahagssvæðið með ákvörðun sameiginlegu EES-nefn
   nr. 68/2006 sem birt var 7. september 2006 í EES-viðbæti við Stjórnartíðindi
                          Evrópusambandsins nr. 44/2006.
             103. gr. Afstaða stjórnsýslulaga til opinberra innkaupa.
- Ákvæði II. kafla [6]stjórnsýslulaga, nr. 37/1993, um hæfi gilda um ákvarðanir
+ Ákvæði II. kafla [3]stjórnsýslulaga, nr. 37/1993, um hæfi gilda um ákvarðanir
 sem teknar eru samkvæmt lögum þessum. Að öðru leyti gilda stjórnsýslulög ekki um
                 ákvarðanir sem teknar eru samkvæmt lögum þessum.
           104. gr. Almenn heimild til setningar stjórnvaldsfyrirmæla.
 Fjármálaráðherra er heimilt að setja reglugerð um nánari framkvæmd laga þessara.
                   105. gr. Lagaskil vegna opinberra innkaupa.
   Um innkaup sem hafa verið auglýst fyrir gildistöku laga þessara fer samkvæmt
-   [7]lögum nr. 94/2001, um opinber innkaup. Miða skal við opinbera birtingu
+   [4]lögum nr. 94/2001, um opinber innkaup. Miða skal við opinbera birtingu
 útboðsauglýsingar eða áætlaða móttöku þátttakenda á tilkynningu ef um er að ræða
       innkaupaferli þar sem útboðsauglýsingar eru ekki birtar opinberlega.
            106. gr. Lagaskil vegna starfsemi kærunefndar útboðsmála.
@@ -4245,10 +4244,7 @@ Tilskipuninni var breytt með tilskipun Evrópuþingsins og ráðsins 2001/97/EB
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007084
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=277
-   3. http://www.althingi.is/altext/133/s/287.html
-   4. file://2001028.html
-   5. file://1993037.html
-   6. file://1993037.html
-   7. file://2001094.html
+   1. file://2001028.html
+   2. file://1993037.html
+   3. file://1993037.html
+   4. file://2001094.html

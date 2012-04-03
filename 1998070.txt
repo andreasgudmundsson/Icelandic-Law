@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,14 +7,15 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 24. júní 1998. Breytt með l. 53/2003 (tóku gildi 7. apríl 2003), l.
   79/2004 (tóku gildi 1. jan. 2005) og l. 67/2005 (tóku gildi 1. sept. 2005).
 
                             I. kafli. Almenn ákvæði.
                              1. gr. Skilgreiningar.
-   1. Jarðabætur eru hvers konar framkvæmdir og umbætur á jörð sem stuðla að
+
+     1. Jarðabætur eru hvers konar framkvæmdir og umbætur á jörð sem stuðla að
    framförum í búrekstri, þar með talin ræktun og aðrar landbætur, endurheimt
             landgæða og gerð rekstrarbygginga og endurbætur á þeim.
     2. Búfjárrækt er starfsemi sem með skipulegu kynbótastarfi og bættri fóðrun
@@ -218,7 +218,7 @@ laga þessara gilda um framkvæmdir sem hafa verið teknar út og samþykktar á
     reglugerð nr. 417/1991. Heimilt er að greiða mishátt hlutfall eftir eðli
            framkvæmda, samkvæmt nánari ákvörðun landbúnaðarráðherra.
           b. Skýrt verði kveðið á um í samningum þessum að um sé að ræða
-fullnaðaruppgjör vegna framkvæmda sem gátu notið framlags samkvæmt [4]lögum nr.
+fullnaðaruppgjör vegna framkvæmda sem gátu notið framlags samkvæmt [1]lögum nr.
       56/1987, með síðari breytingum, sbr. einnig reglugerð nr. 417/1991.
  Ríkissjóður mun verja 50 millj. kr. hvert ár á fjárlögum áranna 1998, 1999 og
 2000 til efnda á samningum landbúnaðarráðherra og 35 millj. kr. á árunum 2001 og
@@ -227,7 +227,4 @@ fullnaðaruppgjör vegna framkvæmda sem gátu notið framlags samkvæmt [4]lög
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998070
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=368
-   3. http://www.althingi.is/altext/122/s/0599.html
-   4. file://1987056.html
+   1. file://1987056.html

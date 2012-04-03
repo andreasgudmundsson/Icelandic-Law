@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,13 +7,14 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. janúar 1999. Breytt með l. 82/1998 (tóku gildi 1. okt. 1998), l.
   76/2002 (tóku gildi 17. maí 2002), l. 94/2002 (tóku gildi 1. des. 2002), l.
   117/2005 (tóku gildi 1. jan. 2006; EES-samningurinn: XVII. viðauki tilskipun
-  2001/84/EB), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006) og l.
-                      24/2007 (tóku gildi 29. mars 2007).
+   2001/84/EB), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l.
+  24/2007 (tóku gildi 29. mars 2007) og [1]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                             I. kafli. Almenn ákvæði.
  1. gr. Lög þessi taka til verslunar í atvinnuskyni hvort sem hún er gerð fyrir
@@ -244,12 +244,12 @@ Uppboð eru opin almenningi og skulu munir vera til sýnis og skoðunar í hæfi
                 styrkja eða starfslauna handa myndlistarmönnum.
 Menntamálaráðherra getur sett nánari reglur um fylgiréttargjald og kveðið þar á
         um viðurlög við brotum á reglunum, sbr. 24. gr. Um undanþágu frá
-  virðisaukaskatti vegna sölu á listmunauppboði vísast til [4]4. gr. laga nr.
+  virðisaukaskatti vegna sölu á listmunauppboði vísast til [2]4. gr. laga nr.
                         50/1988, um virðisaukaskatt.]^1)
                               ^1)L. 117/2005, 2. gr.
 
                         VI. kafli. Viðurlög við brotum.
-      24. gr. [Með brot á lögum þessum skal farið að hætti opinberra mála.
+    24. gr.^1) [Með brot á lögum þessum skal farið að hætti opinberra mála.
          Sá sem vanrækir tilkynningar til firmaskrár, hlutafélagaskrár,
  samvinnufélagaskrár eða skrár á grundvelli löggjafar um sjálfseignarstofnanir,
   eftir því sem við á, skal sæta sektum nema þyngri refsing liggi við samkvæmt
@@ -267,8 +267,9 @@ Brot á samþykktum sveitarstjórna, sem settar verða samkvæmt lögum þessum,
  brots í starfi sínu og ber lögaðilinn þá ábyrgð á greiðslu sektar ef innheimta
 hefur orðið árangurslaus hjá sökunaut sjálfum. Ef ekki er ákvæði í refsidómi um
 ábyrgð lögaðila verður sektin því aðeins innheimt með aðför hjá honum að dæmt sé
-                  um skyldu hans í sérstöku opinberu máli.]^1)
-                               ^1)L. 94/2002, 9. gr.
+                  um skyldu hans í sérstöku opinberu máli.]^2)
+   ^1)Greininni var breytt með [3]l. 88/2008, 234. gr. Breytingin tekur gildi 1.
+             jan. 2009 skv. [4]232. gr. s.l. ^2)L. 94/2002, 9. gr.
 
                           VII. kafli. Gildistaka o.fl.
  25. gr. Viðskiptaráðherra fer með framkvæmd laga þessara. Honum er heimilt með
@@ -285,8 +286,8 @@ skrá viðkomandi verslunarstarfsemi hjá [skráningaraðila]^1) í samræmi vi�
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998028
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=151
-   3. http://www.althingi.is/altext/122/s/0151.html
-   4. file://1988050.html#g4
+   1. file://2008088.html
+   2. file://1988050.html#g4
+   3. file://2008088.html#g234
+   4. file://2008088.html
    5. file://1991088.html#g13

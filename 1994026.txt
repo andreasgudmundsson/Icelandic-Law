@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. janúar 1995. Breytt með l. 136/1995 (tóku gildi 29. des. 1995), l.
- 127/1996 (tóku gildi 19. des. 1996) og l. 135/1998 (tóku gildi 30. des. 1998).
+ 127/1996 (tóku gildi 19. des. 1996), l. 135/1998 (tóku gildi 30. des. 1998) og
+ l. 83/2008 (taka gildi 1. jan. 2009 nema 22. gr. sem tók gildi 20. júní 2008).
 
                    I. kafli. Gildissvið, skilgreiningar o.fl.
                       Gildissvið. Hugtakið fjöleignarhús.
@@ -225,7 +225,7 @@ Séu gerðar breytingar á fjöleignarhúsi eða innbyrðis eignatilfærslur sem
      eða raska eignaskiptayfirlýsingu og eignarhlutföllum skulu eigendur án
   ástæðulauss dráttar gera nýja eignaskiptayfirlýsingu og láta þinglýsa henni.
 [Þegar um er að ræða fjöleignarhús með félagslegum íbúðum sem falla undir ákvæði
-V. og [4]VI. kafla laga nr. 97/1993,^2) um Húsnæðisstofnun ríkisins, með síðari
+V. og [1]VI. kafla laga nr. 97/1993,^2) um Húsnæðisstofnun ríkisins, með síðari
        breytingum, skulu viðkomandi húsnæðisnefndir láta gera og þinglýsa
          eignaskiptayfirlýsingu fyrir húsið eigendum að kostnaðarlausu.
  Telji eigandi rétti sínum hallað með eignaskiptayfirlýsingu skv. 8. mgr. getur
@@ -234,7 +234,7 @@ hann nýtt sér heimildir og úrræði þau sem mælt er fyrir um í 18. gr. Kom
  þannig að nauðsynlegt er að gera breytingar á eignaskiptayfirlýsingunni, skal
 húsnæðisnefndin bera kostnaðinn af því. Einnig skal nefndin þá greiða viðkomandi
           eiganda kostnað sem hann hefur sannanlega haft af þessu.]^1)
-                    ^1)L. 136/1995, 1. gr. ^2)Nú [5]l. 44/1998.
+                    ^1)L. 136/1995, 1. gr. ^2)Nú [2]l. 44/1998.
                          [Gerð eignaskiptayfirlýsinga.
        16. gr. a. Eftir 1. júní 1996 mega þeir einir taka að sér að gera
         eignaskiptayfirlýsingar sem fengið hafa til þess sérstakt leyfi
@@ -289,7 +289,7 @@ leyfishafa og önnur atriði hér viðvíkjandi. Skal ráðherra í því efni h
                                      allra.
  Til viðbótar ofangreindum atriðum skal ávallt geta glögglega um sérgreiningar,
  auðkenni og merkingar, sem eign eða eignarhluti hefur í fasteignaskrá samkvæmt
-                         reglum Fasteignamats ríkisins.
+                       reglum Fasteignamats ríkisins.^1)
 Eignaskiptayfirlýsingu skal fylgja til þinglýsingar teikning af fjöleignarhúsinu
 og lóðaruppdráttur þar sem sýnd eru, eftir því sem frekast verður við komið, þau
     atriði sem tiltekin eru í 1. mgr. Teikningar og uppdrættir skulu vera í
@@ -297,11 +297,13 @@ og lóðaruppdráttur þar sem sýnd eru, eftir því sem frekast verður við k
      Eignaskiptayfirlýsingu, ásamt teikningum og öðrum gögnum, skal afhenda
   byggingarfulltrúa til staðfestingar og er honum skylt að senda Fasteignamati
  ríkisins afrit af henni. Skal byggingarfulltrúi leita álits stofnunarinnar ef
-                        vafi leikur á um greinitölur ^1)
+                      vafi leikur á um greinitölur ^2)^1)
 Nánari reglur um grundvöll, gerð, efni, form og frágang eignaskiptayfirlýsinga,
 teikninga og uppdrátta og stærðarútreikninga samkvæmt grein þessari skulu settar
-                    af félagsmálaráðherra með reglugerð.^2)
-              ^1)L. 136/1995, 3. gr. ^2)Rg. 910/2000, sbr. 1110/2007.
+                    af félagsmálaráðherra með reglugerð.^3)
+   ^1)Málsgreininni var breytt með l. 83/2008, 24. gr. Breytingin tekur gildi 1.
+    jan. 2009 skv. 23. gr. s.l. ^2)L. 136/1995, 3. gr. ^3)Rg. 910/2000, sbr.
+                                   1110/2007.
              Breytingar á eignaskiptayfirlýsingu og hlutfallstölum.
 18. gr. [Allir eigendur skulu eiga þess kost að vera með í ráðum um breytingar á
 þinglýstri eignaskiptayfirlýsingu og hlutfallstölum. Er samþykki allra eigenda,
@@ -852,8 +854,8 @@ búsetu og dvöl í húsinu og skipa honum að flytja á brott með fyrirvara, s
  Ef hinn brotlegi sinnir ekki kröfum húsfélagsins skv. 3. og 4. mgr. getur það
       framfylgt þeim með lögsókn, eftir atvikum lögbanni og/eða útburði án
   undangengins dóms. Á grundvelli dóms um skyldu hins brotlega til sölu eignar
-getur húsfélagið krafist þess að hún verði seld nauðungarsölu samkvæmt [6]lögum
-                nr. 90/1991, sbr. 3. mgr. [7]8. gr. þeirra laga.
+getur húsfélagið krafist þess að hún verði seld nauðungarsölu samkvæmt [3]lögum
+                nr. 90/1991, sbr. 3. mgr. [4]8. gr. þeirra laga.
 Ef brot og ónæði bitnar aðallega eða eingöngu á einstökum eða fáum eigendum, en
 húsfélagið vill eigi beita úrræðum þeim sem í fyrri málsgreinum þessarar greinar
       felast, þá geta þeir sem misgert er við (einn eða fleiri) án atbeina
@@ -1118,11 +1120,11 @@ Kostnaður við kynningu og ráðgjöf skv. 1. og 2. mgr. greiðist úr ríkissj
 79. gr. Félagsmálaráðherra skipar kærunefnd fjöleignarhúsamála til þriggja ára í
    senn. Nefndarmenn skulu vera þrír og skulu a.m.k. tveir vera lögfræðingar.
 Tvo nefndarmenn skipar ráðherra án tilnefningar, annan sem formann og skal hann
- fullnægja almennum skilyrðum héraðsdómara skv. 1.7. tölul. 1. mgr. [8]5. gr.
+ fullnægja almennum skilyrðum héraðsdómara skv. 1.7. tölul. 1. mgr. [5]5. gr.
    laga nr. 92/1989.^1) Einn nefndarmaður skal skipaður eftir tilnefningu frá
   Húseigendafélaginu. Varamenn skulu vera jafnmargir og skipaðir á sama hátt.
             Kostnaður við störf kærunefndar greiðist úr ríkissjóði.
-                               ^1)Nú [9]l. 15/1998.
+                               ^1)Nú [6]l. 15/1998.
                 Nánar um kærunefndina, verkefni, valdsvið o.fl.
   80. gr. Greini eigendur fjöleignarhúsa á um réttindi sín og skyldur samkvæmt
  lögum þessum geta þeir, einn eða fleiri, leitað til kærunefndarinnar og óskað
@@ -1159,12 +1161,9 @@ húsfélög nota til undirbúnings og gerðar eignaskiptayfirlýsinga og hlutað
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1994026
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=117&mnr=143
-   3. http://www.althingi.is/altext/117/s/0159.html
-   4. file://1993097.html
-   5. file://1998044.html
-   6. file://1991090.html
-   7. file://1991090.html#g8
-   8. file://1989092.html#g5
-   9. file://1998015.html
+   1. file://1993097.html
+   2. file://1998044.html
+   3. file://1991090.html
+   4. file://1991090.html#g8
+   5. file://1989092.html#g5
+   6. file://1998015.html

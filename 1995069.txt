@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. janúar 1996. Lögin gilda um tjón sem leiðir af brotum sem framin
  voru 1. janúar 1993 og síðar. Breytt með l. 144/1995 (tóku gildi 1. jan. 1996;
@@ -107,7 +106,8 @@ með þeirri fjárhæð sem ákveðin var í dóminum, sbr. þó ákvæði 7. gr
   Nefndarmenn og varamenn þeirra skulu fullnægja skilyrðum laga til að hljóta
   skipun í embætti héraðsdómara. Um hæfi nefndarmanna til að fara með mál skal
                 fara eftir reglum laga um sérstakt hæfi dómara.
-         Dómsmálaráðherra setur reglugerð um starfsháttu nefndarinnar.
+        Dómsmálaráðherra setur reglugerð^1) um starfsháttu nefndarinnar.
+                                 ^1)Rg. 280/2008.
  14. gr. Bótanefnd er heimilt að krefja tjónþola um hvers konar upplýsingar sem
   hún telur þörf á við meðferð umsóknar hans, þar á meðal er henni heimilt að
 kveðja tjónþola á fund nefndarinnar. Jafnframt er nefndinni heimilt að krefjast
@@ -149,10 +149,3 @@ um hvort endurkrefja skuli tjónvald vegna bóta sem ríkissjóður hefur greitt
   Dómsmálaráðherra skal á ári hverju til ársloka 2000 gera Alþingi grein fyrir
                 þeim útgjöldum sem lög þessi hafa í för með sér.
                               ^1)L. 144/1995, 20. gr.
-
-References
-
-   Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1995069
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=118&mnr=411
-   3. http://www.althingi.is/altext/118/s/0659.html

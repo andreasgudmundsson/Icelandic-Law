@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,10 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 15. mars 2002.
+Tóku gildi 15. mars 2002. Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009 nema
+                   brbákv. VII sem tók gildi 21. júní 2008).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -69,7 +69,7 @@ bifreiða og tæknibúnað. Vegagerðinni er heimilt að setja í reglur gæðas
                             4. gr. Stjórnsýslukæra.
  Ákvörðunum Vegagerðarinnar og leigubifreiðastöðva samkvæmt lögum þessum verður
                           skotið til samgönguráðherra.
-       Um málsmeðferð fer eftir ákvæðum [4]stjórnsýslulaga, nr. 37/1993.
+       Um málsmeðferð fer eftir ákvæðum [2]stjórnsýslulaga, nr. 37/1993.
 
                           II. kafli. Leyfisveitingar.
                       5. gr. Skilyrði fyrir atvinnuleyfi.
@@ -168,10 +168,12 @@ heimilt að nýta atvinnuleyfi hans í allt að þrjá mánuði eftir andlát le
                       11. gr. Refsingar. Svipting leyfis.
 Brot gegn lögum þessum og reglugerðum settum samkvæmt þeim geta varðað sektum og
 leyfissviptingu, nema þyngri refsing liggi við eftir öðrum lögum, og skal farið
-              með mál út af slíkum brotum að hætti opinberra mála.
+            með mál út af slíkum brotum að hætti opinberra mála.^1)
    Við alvarleg eða ítrekuð brot er Vegagerðinni heimilt að svipta viðkomandi
  atvinnuleyfi. Slík svipting tekur gildi þegar í stað og gildir þar til úrlausn
                       hefur fengist í málinu skv. 1. mgr.
+     ^1)Málsgreininni var breytt með [3]l. 88/2008, 233. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [4]232. gr. s.l.
                               12. gr. Leyfisgjöld.
 Greiða skal 10.000 kr. árlegt gjald fyrir hvert atvinnuleyfi sem í gildi er. Að
                      auki skulu eftirtalin gjöld innheimt:
@@ -202,7 +204,7 @@ leigubifreiðar innan sveitarfélagsins, sbr. 4. mgr. 2. gr. Gjöldin skulu stan
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001134
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=167
-   3. http://www.althingi.is/altext/127/s/0168.html
-   4. file://1993037.html
+   1. file://2008088.html
+   2. file://1993037.html
+   3. file://2008088.html#g233
+   4. file://2008088.html

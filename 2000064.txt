@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 26. maí 2000. Breytt með l. 76/2002 (tóku gildi 17. maí 2002), l.
  26/2006 (tóku gildi 3. maí 2006) og l. 108/2006 (tóku gildi 1. nóv. 2006 skv.
@@ -96,7 +95,7 @@ greina helstu atriði varðandi leigu ökutækisins eftir því sem nánar skal 
                  kveðið á um skyldu bílaleigna til að nota það.
   [Leigusamningur milli bílaleigu og leigutaka skal að jafnaði takmarkast við
 þrjár vikur ef ökutæki sem leigt er hefur notið lægri vörugjalda, sbr. 5. tölul.
-2. mgr. 5. gr. laga um vörugjald af ökutækjum, eldsneyti o.[4]fl., nr. 29/1993,
+2. mgr. 5. gr. laga um vörugjald af ökutækjum, eldsneyti o.[1]fl., nr. 29/1993,
    með síðari breytingum. Ef ökutæki hefur ekki notið lægri vörugjalda eða 15
  mánuðir eru liðnir frá nýskráningu ökutækis sem notið hefur lægri vörugjalda,
     sbr. 1. málsl., er bílaleigu heimilt að leigja það til lengri tíma.]^1)
@@ -133,7 +132,7 @@ Nú rekur aðili starfsemi sem starfsleyfi þarf til samkvæmt lögum þessum á
                                ^1)L. 26/2006, 6. gr.
                            [10. gr. Stjórnsýslukæra.
        Ákvörðunum Vegagerðarinnar samkvæmt lögum þessum verður skotið til
-   samgönguráðherra. Um málsmeðferð fer eftir ákvæðum [5]stjórnsýslulaga, nr.
+   samgönguráðherra. Um málsmeðferð fer eftir ákvæðum [2]stjórnsýslulaga, nr.
                                   37/1993.]^1)
                                ^1)L. 26/2006, 7. gr.
                          [11. gr.]^1) Gildistaka o.fl.
@@ -146,8 +145,5 @@ Nú rekur aðili starfsemi sem starfsleyfi þarf til samkvæmt lögum þessum á
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000064
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=570
-   3. http://www.althingi.is/altext/125/s/0872.html
-   4. file://1993029.html
-   5. file://1993037.html
+   1. file://1993029.html
+   2. file://1993037.html

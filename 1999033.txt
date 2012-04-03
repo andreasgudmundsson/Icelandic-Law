@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. nóvember 1999. Breytt með l. 76/2002 (tóku gildi 17. maí 2002), l.
  35/2003 (tóku gildi 1. júlí 2003), l. 49/2003 (tóku gildi 7. apríl 2003) og l.
@@ -342,7 +341,7 @@ Láti fulltrúaráðið eða stjórnin undir höfuð leggjast að gera breytinga
 tilvikum eftir að ráðherra hefur veitt hæfilegan frest til þess er honum heimilt
                              að breyta samþykktum.
  Sé stofnun leyst upp eða hún sameinuð annarri stofnun skal farið eftir ákvæðum
-  [4]XIII. kafla laga nr. 138/1994, um einkahlutafélög, sbr. einnig XIV. kafla
+  [1]XIII. kafla laga nr. 138/1994, um einkahlutafélög, sbr. einnig XIV. kafla
                     sömu laga, eftir því sem við getur átt.
 
                               IX. kafli. Skráning.
@@ -474,7 +473,4 @@ réttilega framkvæmd. Ráðherra er heimilt að breyta ákvæðum samþykkta st
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999033
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=123&mnr=135
-   3. http://www.althingi.is/altext/123/s/0135.html
-   4. file://1994138.html
+   1. file://1994138.html

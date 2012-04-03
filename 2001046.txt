@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,13 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
    Tóku gildi 1. október 2001, sjá þó 60. gr. EES-samningurinn: XVII. viðauki
 tilskipun 98/71/EB. Breytt með l. 76/2002 (tóku gildi 17. maí 2002), l. 54/2004
  (tóku gildi 14. júní 2004), l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C
-               1/2006) og l. 167/2007 (tóku gildi 1. jan. 2008).
+ 1/2006), l. 167/2007 (tóku gildi 1. jan. 2008) og [1]l. 88/2008 (taka gildi 1.
+            jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                             I. kafli. Almenn ákvæði.
 1. gr. Hönnuður eða sá sem sækir rétt sinn til hans getur með skráningu samkvæmt
@@ -332,7 +332,9 @@ notið hagnaðar af brotinu. Lögaðili ber ábyrgð á greiðslu sektar sem sta
                             starfi hjá lögaðilanum.
     Sókn sakar á sá sem misgert er við. Þó sæta brot skv. 2. málsl. 1. mgr.
   opinberri ákæru ef sá krefst þess sem misgert er við. Skulu slík mál rekin í
-                   samræmi við lög um meðferð opinberra mála.
+                 samræmi við lög um meðferð opinberra mála.^1)
+     ^1)Málsgreininni var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [3]232. gr. s.l.
  38. gr. Sá sem af ásetningi eða gáleysi brýtur gegn hönnunarrétti skal greiða
 hæfilegt endurgjald fyrir hagnýtingu hönnunar og skaðabætur fyrir annað tjón sem
                       brot hans hefur haft í för með sér.
@@ -449,8 +451,8 @@ formskilyrðum og jafnvel efnisskilyrðum venjulegra umsókna, alþjóðlegra um
                                þjónustuverkefni.
  Gjöld samkvæmt lögum þessum renna beint til Einkaleyfastofunnar og innheimtir
                                   hún gjöldin.
-     ^1)L. 167/2007, 88. gr. ^2)Rg. 41/2000, sbr. 110/2003; rg. 706/2001, sbr.
-          531/2004; rg. 916/2001, sbr. 15/2003, 898/2003 og 540/2004.
+    ^1)L. 167/2007, 88. gr. ^2)Rg. 706/2001, sbr. 531/2004; rg. 916/2001, sbr.
+                  15/2003, 898/2003 og 540/2004; rg. 275/2008.
 
                      X. kafli. Alþjóðleg skráning hönnunar.
     54. gr. Með alþjóðlegri skráningu hönnunar er átt við skráningu hönnunar
@@ -508,6 +510,6 @@ laga þessara gert umtalsverðar ráðstafanir til að hagnýta hönnun getur me
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001046
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=505
-   3. http://www.althingi.is/altext/126/s/0792.html
+   1. file://2008088.html
+   2. file://2008088.html#g234
+   3. file://2008088.html

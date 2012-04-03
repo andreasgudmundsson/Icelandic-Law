@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                     Tóku gildi 16. maí 2001, sjá þó 10. gr.
 
@@ -56,7 +55,7 @@ rétt á að gera gerðardóminum grein fyrir sjónarmiðum sínum. Skal gerðar
                             Ákvæði til bráðabirgða.
  I. Þar til ákvörðun gerðardóms skv. 2. og 3. gr. liggur fyrir eða kjaradeilan
 leysist með öðrum hætti skal til bráðabirgða fara með kjaramál fiskimanna sem um
-   ræðir í 1. gr. samkvæmt fyrirkomulagi því sem komið var á með [4]lögum nr.
+   ræðir í 1. gr. samkvæmt fyrirkomulagi því sem komið var á með [1]lögum nr.
   10/1998, um kjaramál fiskimanna. Endanlegt uppgjör fari fram þegar ákvörðun
                    gerðardóms eða nýr samningur liggur fyrir.
                                     II.III.
@@ -64,7 +63,4 @@ leysist með öðrum hætti skal til bráðabirgða fara með kjaramál fiskiman
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2001034
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=126&mnr=737
-   3. http://www.althingi.is/altext/126/s/1307.html
-   4. file://1998010.html
+   1. file://1998010.html

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 3. apríl 2007. EES-samningurinn: XIX. viðauki reglugerð 2006/2004.
 
@@ -16,7 +15,7 @@
  október 2004 um samvinnu milli innlendra yfirvalda sem bera ábyrgð á framkvæmd
    laga um neytendavernd (reglugerð um samvinnu um neytendavernd) skulu hafa
 lagagildi hér á landi í samræmi við bókun 1 um altæka aðlögun við samninginn um
-Evrópska efnahagssvæðið, sbr. [4]lög nr. 2/1993, um Evrópska efnahagssvæðið, þar
+Evrópska efnahagssvæðið, sbr. [1]lög nr. 2/1993, um Evrópska efnahagssvæðið, þar
 sem bókunin er lögfest. Reglugerðin er prentuð sem fylgiskjal með lögum þessum.
       2. gr. Lög þessi gilda um innbyrðis aðstoð stjórnvalda aðildarríkja
   EES-samningsins vegna brota á þeim ákvæðum um neytendavernd sem falla undir
@@ -665,7 +664,4 @@ tilskipun 2002/65/EB (Stjtíð. EB L 271, 9.10.2002, bls. 16). ^(10)Í tilskipun
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007056
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=616
-   3. http://www.althingi.is/altext/133/s/916.html
-   4. file://1993002.html
+   1. file://1993002.html

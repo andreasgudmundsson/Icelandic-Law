@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,11 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-  Tóku gildi 1. júlí 1997. Breytt með [4]l. 77/2000 (tóku gildi 1. jan. 2001),
- [5]l. 40/2007 (tóku gildi 1. sept. 2007) og [6]l. 41/2007 (tóku gildi 1. sept.
-                                     2007).
+  Tóku gildi 1. júlí 1997. Breytt með [1]l. 77/2000 (tóku gildi 1. jan. 2001),
+  [2]l. 40/2007 (tóku gildi 1. sept. 2007), [3]l. 41/2007 (tóku gildi 1. sept.
+2007) og [4]l. 112/2008 (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók
+ gildi 25. sept. 2008; koma til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.).
 
                               I. kafli. Inngangur.
                                     Markmið.
@@ -26,8 +26,8 @@ gagnvart heilbrigðisþjónustunni og styðja trúnaðarsambandið sem ríkja be
                                 Skilgreiningar.
                 2. gr. Sjúklingur: Notandi heilbrigðisþjónustu.
  [Heilbrigðisstarfsmaður: Einstaklingur sem starfar við heilbrigðisþjónustu og
-hefur hlotið leyfi heilbrigðis- og tryggingamálaráðherra til að nota starfsheiti
-                       löggiltrar heilbrigðisstéttar.]^1)
+     hefur hlotið leyfi [landlæknis]^1) til að nota starfsheiti löggiltrar
+                            heilbrigðisstéttar.]^2)
        Meðferð: Rannsókn, aðgerð eða önnur þjónusta sem læknir eða annar
 heilbrigðisstarfsmaður veitir til að greina, lækna, endurhæfa, hjúkra eða annast
                                    sjúkling.
@@ -35,7 +35,7 @@ heilbrigðisstarfsmaður veitir til að greina, lækna, endurhæfa, hjúkra eða
 kleift að bæta heilsu og lækna sjúkdóma. Mat vísindasiðanefndar eða siðanefndar
     skv. 29. gr. á rannsókninni verður að hafa leitt í ljós að vísindaleg og
              siðfræðileg sjónarmið mæli ekki gegn framkvæmd hennar.
-                             ^1)[7]L. 41/2007, 24. gr.
+               ^1)[5]L. 112/2008, 63. gr. ^2)[6]L. 41/2007, 24. gr.
                            Gæði heilbrigðisþjónustu.
  3. gr. Sjúklingur á rétt á fullkomnustu heilbrigðisþjónustu sem á hverjum tíma
                                er völ á að veita.
@@ -45,12 +45,13 @@ og bestu þekkingu sem völ er á. Heilbrigðisstarfsmaður skal leitast við a�
     Sjúklingur á rétt á samfelldri þjónustu og að samstarf ríki milli allra
                heilbrigðisstarfsmanna og stofnana sem hana veita.
                  Aðgangur að upplýsingum um réttindi sjúklinga.
-  4. gr. Heilbrigðis- og tryggingamálaráðuneytið skal sjá til þess að til séu
-    upplýsingar um réttindi sjúklinga, sjúklingafélög og almannatryggingar.
+ 4. gr. [Heilbrigðisráðuneytið]^1) skal sjá til þess að til séu upplýsingar um
+          réttindi sjúklinga, sjúklingafélög og [sjúkratryggingar].^1)
  Heilbrigðisstofnanir og sjálfstætt starfandi heilbrigðisstarfsmenn skulu hafa
 þessar upplýsingar aðgengilegar sjúklingum í húsakynnum sínum og á starfsstofum.
     Jafnframt skal leitast við að veita almenningi upplýsingar um orsakir og
                  afleiðingar sjúkdóma hjá börnum og fullorðnum.
+                            ^1)[7]L. 112/2008, 63. gr.
 
                       II. kafli. Upplýsingar og samþykki.
                       Upplýsingar um heilsufar og meðferð.
@@ -283,20 +284,20 @@ Sjúklingur skal fá skrifleg svör við athugasemdum sínum og kvörtunum eins 
 heilbrigðissviði. Þar skulu m.a. vera ákvæði um vísindasiðanefnd og siðanefndir
 skv. 4. mgr. 2. gr. Þá er ráðherra heimilt að setja reglugerð um framkvæmd laga
                                     þessara.
-                                 ^1)Rg. 552/1999.
+                                 ^1)Rg. 286/2008.
                                   Gildistaka.
                   30. gr. Lög þessi öðlast gildi 1. júlí 1997.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997074
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=260
-   3. http://www.althingi.is/altext/121/s/0492.html
-   4. file://2000077.html
-   5. file://2007040.html
-   6. file://2007041.html
-   7. file://2007041.html#g24
+   1. file://2000077.html
+   2. file://2007040.html
+   3. file://2007041.html
+   4. file://2008112.html
+   5. file://2008112.html
+   6. file://2007041.html#g24
+   7. file://2008112.html
    8. file://2000077.html#g46
    9. file://2007040.html#g39
   10. file://2007041.html#g24

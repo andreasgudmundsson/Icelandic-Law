@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 10. desember 1999. EES-samningurinn: IX. viðauki tilskipun 98/26/EB.
 
@@ -24,10 +23,10 @@ Tóku gildi 10. desember 1999. EES-samningurinn: IX. viðauki tilskipun 98/26/EB
                                      3. gr.
                                     2. Stofnun:
       a. Viðskiptabanki eða sparisjóður sem hlotið hefur starfsleyfi samkvæmt
-            [4]lögum nr. 113/1996, um viðskiptabanka og sparisjóði.
-   b. Fyrirtæki sem hlotið hefur starfsleyfi samkvæmt [5]lögum nr. 123/1993, um
+            [1]lögum nr. 113/1996, um viðskiptabanka og sparisjóði.
+   b. Fyrirtæki sem hlotið hefur starfsleyfi samkvæmt [2]lögum nr. 123/1993, um
               lánastofnanir aðrar en viðskiptabanka og sparisjóði.
-        c. Fyrirtæki í verðbréfaþjónustu samkvæmt [6]lögum nr. 13/1996, um
+        c. Fyrirtæki í verðbréfaþjónustu samkvæmt [3]lögum nr. 13/1996, um
                               verðbréfaviðskipti.
    d. Deild eða deildir í stofnun, sbr. ac-lið hér að framan, sem ekki teljast
  sérstakar persónur að lögum en tilheyra eftirlitsskyldri erlendri stofnun sem
@@ -136,9 +135,6 @@ hefur lögmætra hagsmuna að gæta um það í hvaða greiðslukerfi hann tekur
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999090
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=23
-   3. http://www.althingi.is/altext/125/s/0023.html
-   4. file://1996113.html
-   5. file://1993123.html
-   6. file://1996013.html
+   1. file://1996113.html
+   2. file://1993123.html
+   3. file://1996013.html

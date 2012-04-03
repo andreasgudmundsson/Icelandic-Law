@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. júlí 2007 nema 1. tölul. ákvæðis til bráðabirgða sem tók gildi 1.
          janúar 2007. Breytt með l. 167/2007 (tóku gildi 1. jan. 2008).
@@ -51,7 +50,7 @@ nýja bygging er annarrar tegundar eða til annarrar notkunar en hið eldra hús
                        4. gr. Fjárhæð gatnagerðargjalds.
  Gatnagerðargjald er 15% af byggingarkostnaði fermetra í vísitöluhúsi fjölbýlis
 eins og hann er hverju sinni samkvæmt útreikningum Hagstofu Íslands á grundvelli
-  [4]laga nr. 42/1987, um vísitölu byggingarkostnaðar, nema sveitarstjórn hafi
+  [1]laga nr. 42/1987, um vísitölu byggingarkostnaðar, nema sveitarstjórn hafi
             mælt fyrir um lægra gjald í samþykkt sinni, sbr. 2. mgr.
     Sveitarstjórn skal í samþykkt sinni, sbr. 12. gr., ákveða hundraðshluta
   gatnagerðargjalds sem leggst á gjaldstofn þann sem mælt er fyrir um í 3. gr.
@@ -115,7 +114,7 @@ Gatnagerðargjald skv. b-lið 2. mgr. 3. gr. og 5. mgr. 3. gr. fellur í gjaldda
 eindaga gatnagerðargjalds með öðrum hætti. Sveitarstjórn er heimilt að mæla svo
  fyrir í samþykkt sinni að gjaldið skuli innheimt á fleiri en einum gjalddaga.
                  8. gr. Innheimta vangreidds gatnagerðargjalds.
-Gatnagerðargjald ber dráttarvexti samkvæmt ákvæðum [5]laga nr. 38/2001, um vexti
+Gatnagerðargjald ber dráttarvexti samkvæmt ákvæðum [2]laga nr. 38/2001, um vexti
                         og verðtryggingu, frá gjalddaga.
 Gatnagerðargjald, ásamt áföllnum vöxtum og kostnaði, er tryggt með lögveðsrétti
    í viðkomandi fasteign með forgangsrétti fyrir hvers konar samningsveði og
@@ -134,14 +133,14 @@ er afturkölluð eða ógilt eða lóð er skilað. Sama gildir um gatnagerðarg
      því að byggingarleyfishafi hefur sannanlega krafist greiðslu. Fjárhæð
  gatnagerðargjalds sem greidd var skal verðbætt miðað við vísitölu neysluverðs
 frá greiðsludegi til endurgreiðsludags. Við greiðsludrátt reiknast dráttarvextir
- á fjárhæðina samkvæmt ákvæðum [6]laga nr. 38/2001, um vexti og verðtryggingu,
+ á fjárhæðina samkvæmt ákvæðum [3]laga nr. 38/2001, um vexti og verðtryggingu,
                                  frá gjalddaga.
                     10. gr. Um ráðstöfun gatnagerðargjalds.
 Sveitarstjórn skal verja gatnagerðargjaldi til gatnagerðar í sveitarfélaginu og
  til viðhalds gatna og annarra gatnamannvirkja. Ráðstöfun til viðhalds er óháð
                                eignarhaldi gatna.
  Um skyldu sveitarstjórnar til gatnagerðar og viðhalds gatna fer eftir ákvæðum
-                  skipulags- og [7]byggingarlaga, nr. 73/1997.
+                  skipulags- og [4]byggingarlaga, nr. 73/1997.
                               11. gr. Kæruheimild.
    Aðili máls getur skotið ákvörðun sveitarstjórnar samkvæmt lögum þessum til
  úrskurðar [samgönguráðherra].^1) Kærufrestur er þrír mánuðir frá því að aðili
@@ -164,8 +163,8 @@ Um álagningu og innheimtu gatnagerðargjalds sem gjaldfallið er í tíð eldri
                             fer samkvæmt þeim lögum.
                             Ákvæði til bráðabirgða.
     1. Þrátt fyrir ákvæði 2. málsl. 1. mgr. 13. gr. skal 1. tölul. ákvæðis til
- bráðabirgða við [8]lög um gatnagerðargjald, nr. 17/1996, gilda um innheimtu og
- álagningu gatnagerðargjalda vegna framkvæmda á grundvelli 3. og [9]4. gr. laga
+ bráðabirgða við [5]lög um gatnagerðargjald, nr. 17/1996, gilda um innheimtu og
+ álagningu gatnagerðargjalda vegna framkvæmda á grundvelli 3. og [6]4. gr. laga
   nr. 51/1974, um gatnagerðargjöld, sem lokið er við fyrir 31. desember 2009.
        Ákvæði þetta gildir aðeins um lóðir sem úthlutað var eða veitt var
                      byggingarleyfi á fyrir 1. janúar 1997.
@@ -178,12 +177,9 @@ Um álagningu og innheimtu gatnagerðargjalds sem gjaldfallið er í tíð eldri
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006153
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=219
-   3. http://www.althingi.is/altext/133/s/220.html
-   4. file://1987042.html
-   5. file://2001038.html
-   6. file://2001038.html
-   7. file://1997073.html
-   8. file://1996017.html
-   9. file://1974051.html
+   1. file://1987042.html
+   2. file://2001038.html
+   3. file://2001038.html
+   4. file://1997073.html
+   5. file://1996017.html
+   6. file://1974051.html

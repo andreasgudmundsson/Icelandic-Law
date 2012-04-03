@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. janúar 1998. Breytt með l. 70/2000 (tóku gildi 26. maí 2000) og l.
       180/2000 (tóku gildi 11. jan. 2001; EES-samningurinn: XV. viðauki).
@@ -21,7 +20,7 @@ heimila. Um veitingu ríkisábyrgða fer að öðru leyti eftir ákvæðum laga 
     Endurlán verða þó ekki veitt aðilum utan B- og C-hluta ríkissjóðs, nema
            sérstaklega sé kveðið á um það í lögum sem ábyrgð heimila.
   2. gr. Í frumvarpi sem fjármálaráðherra leggur fram um veitingu ríkisábyrgða
-  skal liggja fyrir umsögn Ríkisábyrgðasjóðs samkvæmt [4]lögum nr. 43/1990, um
+  skal liggja fyrir umsögn Ríkisábyrgðasjóðs samkvæmt [1]lögum nr. 43/1990, um
                    Lánasýslu ríkisins, á eftirtöldum þáttum:
                           1. Mat á greiðsluhæfi skuldara.
                  2. Mat á afskriftaþörf vegna áhættu af ábyrgðum.
@@ -99,7 +98,7 @@ gjaldskyldra skuldbindinga eins og hann er að meðaltali á hverju gjaldtímabi
     Ábyrgðargjaldi skv. 6. og 7. gr. skal skila, ásamt skýrslu skv. 2. mgr.,
 ársfjórðungslega eftir á. Gjalddagi vegna hvers ársfjórðungs er 15. dagur næsta
  mánaðar eftir að gjaldtímabili lýkur. Sé ábyrgðargjald ekki greitt á gjalddaga
- skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er skv. [5]10. gr.
+ skal greiða ríkissjóði dráttarvexti af því sem gjaldfallið er skv. [2]10. gr.
                     laga nr. 25/1987, með síðari breytingum.
  9. gr. Fjármálaráðherra skal með reglugerð^1) setja nánari ákvæði um framkvæmd
                                  laga þessara.
@@ -114,8 +113,5 @@ gjaldskyldra skuldbindinga eins og hann er að meðaltali á hverju gjaldtímabi
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997121
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=99
-   3. http://www.althingi.is/altext/122/s/0099.html
-   4. file://1990043.html
-   5. file://1987025.html
+   1. file://1990043.html
+   2. file://1987025.html

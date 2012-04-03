@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,13 +7,13 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 30. desember 1999. Breytt með l. 158/2000 (tóku gildi 1. jan. 2001),
-[4]l. 34/2001 (tóku gildi 16. maí 2001), l. 144/2001 (tóku gildi 1. jan. 2002),
- [5]l. 37/2002 (tóku gildi 7. maí 2002), l. 157/2002 (tóku gildi 1. jan. 2003),
+[1]l. 34/2001 (tóku gildi 16. maí 2001), l. 144/2001 (tóku gildi 1. jan. 2002),
+ [2]l. 37/2002 (tóku gildi 7. maí 2002), l. 157/2002 (tóku gildi 1. jan. 2003),
  l. 137/2003 (tóku gildi 1. jan. 2004), l. 134/2004 (tóku gildi 1. jan. 2005),
-[6]l. 32/2005 (tóku gildi 25. maí 2005; EES-samningurinn: IX. viðauki tilskipun
+[3]l. 32/2005 (tóku gildi 25. maí 2005; EES-samningurinn: IX. viðauki tilskipun
  2002/92/EB), l. 130/2005 (tóku gildi 1. jan. 2006), l. 168/2006 (tóku gildi 1.
               jan. 2007) og l. 154/2007 (tóku gildi 1. jan. 2008).
 
@@ -267,9 +266,6 @@ Eftirlitsgjald vegna fyrsta starfsárs nýs eftirlitsskylds aðila skal miðast 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999099
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=200
-   3. http://www.althingi.is/altext/125/s/0233.html
-   4. file://2001034.html
-   5. file://2002037.html
-   6. file://2005032.html
+   1. file://2001034.html
+   2. file://2002037.html
+   3. file://2005032.html

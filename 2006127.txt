@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -9,7 +8,7 @@ Lög um rétt nefndar samkvæmt ályktun Alþingis til aðgangs að opinberum g�
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                           Tóku gildi 13. október 2006.
   1. gr. Nefnd, sem skipuð var af forsætisráðherra 22. júní 2006 á grundvelli
@@ -25,7 +24,7 @@ Nefndarmenn og starfsmaður nefndarinnar skv. 1. mgr. eru bundnir þagnarskyldu 
     viðkvæmar einkalífsupplýsingar sem þeir komast að í starfi sínu á vegum
 nefndarinnar. Hið sama gildir um upplýsingar um öryggismál Íslands sem varða enn
                  þá virka öryggis- eða varnarhagsmuni Íslands.
-        [4]Upplýsingalög, nr. 50/1996, gilda ekki um störf nefndarinnar.
+        [1]Upplýsingalög, nr. 50/1996, gilda ekki um störf nefndarinnar.
  Formaður nefndarinnar, sbr. 1. mgr. þessarar greinar, skal á starfstíma hennar
  gera forseta Alþingis og formönnum þingflokka grein fyrir framvindu verksins,
            sbr. síðari málsgrein ályktunar Alþingis frá 3. júní 2006.
@@ -34,7 +33,4 @@ nefndarinnar. Hið sama gildir um upplýsingar um öryggismál Íslands sem var�
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006127
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=27
-   3. http://www.althingi.is/altext/133/s/27.html
-   4. file://1996050.html
+   1. file://1996050.html

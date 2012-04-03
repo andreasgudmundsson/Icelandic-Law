@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                            Tóku gildi 1. janúar 2008.
 
@@ -49,7 +48,7 @@ félagsmenn bera beina, óskipta og ótakmarkaða ábyrgð á skuldbindingum fé
                  3. nöfn, kennitölur og heimilisföng félagsmanna;
                                4. tilgang félagsins;
       5. hvort félagið skuli vera sjálfstæður skattaðili í samræmi við ákvæði
-                      [4]laga um tekjuskatt, nr. 90/2003;
+                      [1]laga um tekjuskatt, nr. 90/2003;
     6. hvort félagsmenn skuli greiða framlag til félagsins og þá verðmæti þess;
                            7. dagsetningu undirritunar.
    Félagssamningi verður breytt með samþykki allra félagsmanna og skriflegri
@@ -410,7 +409,7 @@ firmaskrá skipa skilanefnd að kröfu stjórnarmanns eða félagsmanns sem ekki
  greitt atkvæði með ákvörðun félagsfundar. Félagsmaður eða stjórnarmaður getur
   einnig borið kjör á skilanefndarmönnum undir firmaskrá sem getur skipað aðra
                      menn í skilanefnd sé ástæða til þess.
- Félagsmaður getur krafist opinberra skipta skv. [5]XV. kafla laga nr. 20/1991,
+ Félagsmaður getur krafist opinberra skipta skv. [2]XV. kafla laga nr. 20/1991,
                           um skipti á dánarbúum o.fl.
                               40. gr. Skilanefnd.
 Sé skilanefnd kosin skulu stjórn og framkvæmdastjórar láta af störfum hafi komið
@@ -450,7 +449,7 @@ skiptin leggja fram á félagsfundi til staðfestingar skriflega úthlutunarger�
     Rísi ágreiningur við meðferð skilanefndar eða annarra sem annast skipti
 félagsins getur skilanefnd eða aðrir er annast skipti beint ágreiningsefninu til
     héraðsdómara í samræmi við reglur XVII. kafla laga um skipti á dánarbúum
-                             o.[6]fl., nr. 20/1991.
+                             o.[3]fl., nr. 20/1991.
                         43. gr. Ábyrgð eftir félagsslit.
     Eftir slit sameignarfélags bera félagsmenn sömu ábyrgð og áður gagnvart
   kröfuhöfum félagsins sem ekki hafa fengið kröfur sínar greiddar við skipti.
@@ -570,9 +569,6 @@ Ráðherra getur með reglugerð sett nánari ákvæði um framkvæmd laga þess
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007050
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=79
-   3. http://www.althingi.is/altext/133/s/79.html
-   4. file://2003090.html
-   5. file://1991020.html
-   6. file://1991020.html
+   1. file://2003090.html
+   2. file://1991020.html
+   3. file://1991020.html

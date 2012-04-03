@@ -10,8 +10,8 @@
 References
 
    Visible links
-   1. http://www.althingi.is/lagas/135a/1981044.html
-   2. http://www.althingi.is/lagas/135a/1997071.html
-   3. http://www.althingi.is/lagas/135a/2000077.html
-   4. http://www.althingi.is/lagas/135a/1996045.html
+   1. file://1981044.html
+   2. file://1997071.html
+   3. file://2000077.html
+   4. file://1996045.html
    5. file://kaflar.html

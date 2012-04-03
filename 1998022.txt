@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,14 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-  Tóku gildi 8. apríl 1998. Breytt með l. 22/2007 (tóku gildi 29. mars 2007).
+ Tóku gildi 8. apríl 1998. Breytt með l. 22/2007 (tóku gildi 29. mars 2007) og
+ [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+                                     2008).
 
  1. gr. Fiskveiðar og vinnslu sjávarafla um borð í skipum í fiskveiðilandhelgi
-     Íslands, eins og hún er skilgreind í [4]lögum nr. 79/1997, um veiðar í
+     Íslands, eins og hún er skilgreind í [2]lögum nr. 79/1997, um veiðar í
        fiskveiðilandhelgi Íslands, mega eftirtaldir aðilar einir stunda:
                1. Íslenskir ríkisborgarar og aðrir íslenskir aðilar.
       2. Íslenskir lögaðilar sem að öllu leyti eru í eigu íslenskra aðila eða
@@ -88,10 +89,10 @@ sækir til viðkomandi hafnar. Landhelgisgæslan skal tilkynna Fiskistofu megi �
   5. gr. Um veiðar erlendra skipa í fiskveiðilandhelginni skulu, ef ekki er um
 annað samið í milliríkjasamningum, gilda ákvæði laga og reglugerða sem gilda um
       veiðar íslenskra skipa í fiskveiðilandhelginni varðandi veiðarfæri,
-friðunarsvæði og veiðitíma, sbr. [5]8.[6]14. gr. laga nr. 79/1997, um veiðar í
+friðunarsvæði og veiðitíma, sbr. [3]8.[4]14. gr. laga nr. 79/1997, um veiðar í
 fiskveiðilandhelgi Íslands, nýtingu nytjastofna og eftirlit með fiskveiðum, þar
-með talda færslu afladagbóka, sbr. [7]2., [8]9. og [9]13. gr. laga nr. 57/1996,
- um umgengni um nytjastofna sjávar, og 15. og [10]17. gr. laga nr. 38/1990, um
+með talda færslu afladagbóka, sbr. [5]2., [6]9. og [7]13. gr. laga nr. 57/1996,
+  um umgengni um nytjastofna sjávar, og 15. og [8]17. gr. laga nr. 38/1990, um
  stjórn fiskveiða. Þá skulu gilda ákvæði laga og reglugerða sem gilda um vigtun
 sjávarafla í íslenskum höfnum landi erlend veiðiskip afla sínum hér á landi. Að
     öðru leyti skulu gilda um veiðar erlendra skipa í fiskveiðilandhelginni
@@ -126,7 +127,7 @@ leyfi til erlendra skipa sem notuð hafa verið til brota gegn lögum þessum, �
 reglur sem lúta að eftirliti með veiðum erlendra skipa, svo sem um vigtun afla,
 færslu afladagbóka, tilkynningar til stjórnvalda, fjareftirlit og skyldu til að
  sigla inn í og út úr fiskveiðilandhelgi Íslands á tilteknum athugunarstöðvum.
-                          ^1)Rg. 175/1999, rg. 151/2001.
+                   ^1)Rg. 175/1999, rg. 151/2001, sbr. 52/2008.
    10. gr. Ákvæði 11.15. gr. eiga við sé brotið gegn lögum þessum eða reglum
 settum samkvæmt þeim nema þyngri refsing liggi við brotinu samkvæmt öðrum lögum
                     eða reglugerðum settum með stoð í þeim.
@@ -167,20 +168,22 @@ með stoð í lögum þessum eða í samræmi við ákvæði annarra laga sem v�
             mati, fyrir greiðslu sektar, sakarkostnaðar og upptöku.
   Til tryggingar greiðslu sektar, sakarkostnaðar og upptöku skal vera lögveð í
                                     skipinu.
-     Mál út af brotum gegn lögum þessum skulu sæta meðferð opinberra mála.
+    Mál út af brotum gegn lögum þessum skulu sæta meðferð opinberra mála.^1)
       Sektarfé samkvæmt lögum þessum skal renna í Landhelgissjóð Íslands.
+    ^1)Málsgreinin var felld brott með [9]l. 88/2008, 233. gr. Breytingin tekur
+                   gildi 1. jan. 2009 skv. [10]232. gr. s.l.
                      16. gr. Lög þessi öðlast þegar gildi.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998022
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=340
-   3. http://www.althingi.is/altext/122/s/0429.html
-   4. file://1997079.html
-   5. file://1997079.html#g8
-   6. file://1997079.html#g14
-   7. file://1996057.html#g2
-   8. file://1996057.html#g9
-   9. file://1996057.html#g13
-  10. file://1990038.html
+   1. file://2008088.html
+   2. file://1997079.html
+   3. file://1997079.html#g8
+   4. file://1997079.html#g14
+   5. file://1996057.html#g2
+   6. file://1996057.html#g9
+   7. file://1996057.html#g13
+   8. file://1990038.html
+   9. file://2008088.html#g233
+  10. file://2008088.html

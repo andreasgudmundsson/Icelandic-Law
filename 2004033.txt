@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,10 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. október 2004, sjá þó 29. gr. Breytt með l. 114/2004 (tóku gildi
-          13. nóv. 2004) og [4]l. 68/2006 (tóku gildi 30. júní 2006).
+          13. nóv. 2004) og [1]l. 68/2006 (tóku gildi 30. júní 2006).
 
                 I. kafli. Markmið, gildissvið og skilgreiningar.
                                 1. gr. Markmið.
@@ -150,7 +149,7 @@ eftirlit með búnaði skipa vegna mengunarvarna, sbr. lög um eftirlit með ski
  sveitarfélaganna, Landhelgisgæsla Íslands, hafnarstjórnir, ríkislögreglustjóri
  og Geislavarnir ríkisins eru ráðherra til ráðgjafar um þau atriði sem að lögum
                   þessum lúta og heyra undir starfsemi þeirra.
-                             ^1)[5]L. 68/2006, 10. gr.
+                             ^1)[2]L. 68/2006, 10. gr.
 
                  III. kafli. Framkvæmd almennra ákvæða laganna.
                  6. gr. Reglugerðir um verndun hafs og stranda.
@@ -536,7 +535,7 @@ Rísi ágreiningur um það hvort um bráðamengun samkvæmt lögum þessum sé 
                            honum berst mál í hendur.
                         29. gr. Gildistaka og lagaskil.
   Lög þessi öðlast gildi 1. október 2004. Reglugerðir settar samkvæmt ákvæðum
- [[6]laga nr. 32/1986] halda gildi sínu að svo miklu leyti sem þær ganga ekki í
+ [[3]laga nr. 32/1986] halda gildi sínu að svo miklu leyti sem þær ganga ekki í
                         bága við ákvæði þessara laga.^1)
  Þrátt fyrir ákvæði 1. mgr. skulu ákvæði 16., 17. og 18. gr. ekki öðlast gildi
                             fyrr en 1. janúar 2006.
@@ -559,13 +558,11 @@ stundar rafgreiningu alkalíklóríða). Rg. 802/1999 (um losunarmörk, umhverfi
   losunarmörk, umhverfismörk og gæðamarkmið fyrir losun á hexaklórsýklóhexani
   (HCH) í yfirborðsvatn). Rg. 804/1999 (um varnir gegn mengun vatns af völdum
  köfnunarefnissambanda frá landbúnaði og öðrum atvinnurekstri), sbr. 592/2001.
- Rg. 809/1999 (um olíuúrgang). Rg. 619/2000 (um bann við notkun gróðurhindrandi
-  efna sem í eru kvikasilfurssambönd, arsensambönd og lífræn tinsambönd), sbr.
-878/2002. Rg. 828/2003 (um hollustuhætti og mengunarvarnir á varnarsvæðum). Rg.
-824/2005 (um takmörkun á notkun skaðlegra gróðurhindrandi efna og/eða búnaðar á
-      skip). Rg. 1078/2005 (um tryggingar skipa og starfsemi á landi vegna
-   bráðamengunar). Rg. 672/2006 (um vaktstöð siglinga og eftirlit með umferð
-                                    skipa).
+Rg. 809/1999 (um olíuúrgang). Rg. 828/2003 (um hollustuhætti og mengunarvarnir á
+  varnarsvæðum). Rg. 824/2005 (um takmörkun á notkun skaðlegra gróðurhindrandi
+ efna og/eða búnaðar á skip). Rg. 1078/2005 (um tryggingar skipa og starfsemi á
+ landi vegna bráðamengunar). Rg. 672/2006 (um vaktstöð siglinga og eftirlit með
+                                 umferð skipa).
 
                             Ákvæði til bráðabirgða.
   I. Umhverfisráðherra skal í samvinnu við Umhverfisstofnun, samgönguráðherra,
@@ -653,9 +650,6 @@ efnum undanskildum sem eru líffræðilega óskaðleg eða breytast fljótt í s
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004033
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=130&mnr=162
-   3. http://www.althingi.is/altext/130/s/0164.html
-   4. file://2006068.html
-   5. file://2006068.html#g10
-   6. file://1986032.html
+   1. file://2006068.html
+   2. file://2006068.html#g10
+   3. file://1986032.html

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                            Tóku gildi 30. júní 2006.
       1. gr. Ríkisstjórninni er heimilt að stofna hlutafélag, sem nefnist
@@ -33,16 +32,16 @@
      hvert. Sjávarútvegsráðherra fer með eignarhlut ríkissjóðs í félaginu.
    5. gr. Þegar starfsemi Rannsóknastofnunar fiskiðnaðarins, Matvælarannsókna
 Keldnaholti og rannsóknastofu Umhverfisstofnunar verður lögð niður, sbr. 1. gr.,
-  fer um réttindi og skyldur starfsmanna þeirra eftir [4]lögum nr. 70/1996, um
-réttindi og skyldur starfsmanna ríkisins, með síðari breytingum, og [5]lögum nr.
+  fer um réttindi og skyldur starfsmanna þeirra eftir [1]lögum nr. 70/1996, um
+réttindi og skyldur starfsmanna ríkisins, með síðari breytingum, og [2]lögum nr.
  72/2002, um réttarstöðu starfsmanna við aðilaskipti að fyrirtækjum, eftir því
      sem við á. Félagið skal bjóða störf öllum starfsmönnum framangreindra
                                  ríkisstofnana.
 Um biðlaunarétt, sem kann að hafa fylgt störfum í framangreindum ríkisstofnunum,
- gilda ákvæði [6]laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins.
+ gilda ákvæði [3]laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins.
      6. gr. Starfsmaður Rannsóknastofnunar fiskiðnaðarins, Matvælarannsókna
 Keldnaholti eða rannsóknastofu Umhverfisstofnunar, sem hefur áunnið sér rétt til
- lífeyrisgreiðslna skv. [7]24. gr. laga nr. 1/1997, um Lífeyrissjóð starfsmanna
+ lífeyrisgreiðslna skv. [4]24. gr. laga nr. 1/1997, um Lífeyrissjóð starfsmanna
    ríkisins, og ræðst til starfa hjá hlutafélaginu með minnst þriggja mánaða
  uppsagnarfresti í hálft starf eða meira getur ekki hafið töku lífeyris fyrr en
                            hann lætur af því starfi.
@@ -72,10 +71,7 @@ fiskiðnaðarins sem lögaðila án starfsemi vegna uppgjörs og aðildar að sa
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006068
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=387
-   3. http://www.althingi.is/altext/132/s/469.html
-   4. file://1996070.html
-   5. file://2002072.html
-   6. file://1996070.html
-   7. file://1997001.html#g24
+   1. file://1996070.html
+   2. file://2002072.html
+   3. file://1996070.html
+   4. file://1997001.html#g24

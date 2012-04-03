@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 24. maí 1982. Breytt með l. 95/2002 (tóku gildi 31. maí 2002) og l.
                        7/2007 (tóku gildi 3. febr. 2007).
@@ -85,9 +84,9 @@ fjárlög eru undirbúin og afgreidd og fjárhagsáætlanir viðkomandi sveitarf
                                ^1)L. 95/2002, 6. gr.
 10. gr. Sinfóníuhljómsveit Íslands skal árlega fara í tónleikaferðir um landið.
  Gera skal sérstaka fjárhagsáætlun vegna ferðanna. Hluti skemmtanaskatts (10%)
-  samkvæmt [4]7. gr. laga nr. 58/1970^1) um skemmtanaskatt rennur til greiðslu
+  samkvæmt [1]7. gr. laga nr. 58/1970^1) um skemmtanaskatt rennur til greiðslu
                               kostnaðar ferðanna.
-               ^1)[5]L. 58/1970 voru felld úr gildi með l. 93/1998.
+               ^1)[2]L. 58/1970 voru felld úr gildi með l. 93/1998.
     11. gr. Menntamálaráðuneytið getur í reglugerð^1) sett nánari ákvæði um
                             framkvæmd laga þessara.
                                  ^1)Rg. 196/1991.
@@ -95,8 +94,5 @@ fjárlög eru undirbúin og afgreidd og fjárhagsáætlanir viðkomandi sveitarf
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1982036
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=104&mnr=3
-   3. http://www.althingi.is/altext/104/s/pdf/0003.pdf
-   4. file://1970058.html
-   5. file://1970058.html
+   1. file://1970058.html
+   2. file://1970058.html

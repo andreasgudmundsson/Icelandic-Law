@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-Tóku gildi 17. maí 2002. Breytt með l. 58/2004 (tóku gildi 15. júní 2004) og l.
-                      86/2006 (tóku gildi 30. júní 2006).
+ Tóku gildi 17. maí 2002. Breytt með l. 58/2004 (tóku gildi 15. júní 2004), l.
+ 86/2006 (tóku gildi 30. júní 2006) og l. 83/2008 (taka gildi 1. jan. 2009 nema
+                     22. gr. sem tók gildi 20. júní 2008).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -28,7 +28,7 @@ telst íbúðarhúsnæði samkvæmt lögum þessum. [Þurfi umsækjandi að hald
  eitt heimili vegna starfa, eigin náms eða náms fjölskyldu er heimilt að greiða
  niður húshitunarkostnað óháð því hvar lögheimili er skráð. Umsækjandi þarf að
    staðfesta þörf sína til þess að halda fleiri en eitt heimili með opinberu
-          vottorði eða öðrum gögnum sem Orkustofnun metur nægileg.]^1)
+        vottorði eða öðrum gögnum sem Orkustofnun metur nægileg.]^1)^2)
     Veitusvæði hitaveitu er það svæði þar sem hitaveita hefur einkaleyfi til
                            dreifingar á heitu vatni.
  Kynt hitaveita er samkvæmt lögum þessum veita sem notar rafmagn eða eldsneyti
@@ -36,7 +36,8 @@ telst íbúðarhúsnæði samkvæmt lögum þessum. [Þurfi umsækjandi að hald
      Rafhitun telst bein hitun með raforku hvort sem um er að ræða þilofna,
   hitastrengi eða vatnshitakerfi þar sem rafmagn er notað til að hita vatnið.
         Raforkunotkun varmadælu er í þessum lögum flokkuð með rafhitun.
-                               ^1)L. 58/2004, 1. gr.
+     ^1)L. 58/2004, 1. gr. ^2)Málsgreininni var breytt með l. 83/2008, 24. gr.
+             Breytingin tekur gildi 1. jan. 2009 skv. 23. gr. s.l.
 
                   II. kafli. Niðurgreiðsla á orku til hitunar.
                         4. gr. Skilyrði niðurgreiðslna.
@@ -55,11 +56,12 @@ telst íbúðarhúsnæði samkvæmt lögum þessum. [Þurfi umsækjandi að hald
 íbúðarhúsnæði hjá Fasteignamati ríkisins þótt þar sé ekki föst búseta. Heimildin
 nær til þess að greiða niður orkumagn sem svarar til fjórðungs af því orkumagni
  sem niðurgreitt er vegna þeirra íbúða sem njóta niðurgreiðslna á grundvelli 1.
-                                      mgr.
+                                    mgr.^1)
 Kostnaður við hitun kirkna, bænahúsa trúfélaga, safna, félagsheimila og húsnæðis
-      björgunarsveita skal greiddur niður á sama hátt og hitun íbúða.]^1)
+      björgunarsveita skal greiddur niður á sama hátt og hitun íbúða.]^2)
       Ekki skal greiða niður raforkukostnað vegna dælingar á heitu vatni.
-                               ^1)L. 58/2004, 2. gr.
+   ^1)Málsgreininni var breytt með l. 83/2008, 24. gr. Breytingin tekur gildi 1.
+               jan. 2009 skv. 23. gr. s.l. ^2)L. 58/2004, 2. gr.
                         5. gr. Umsókn um niðurgreiðslur.
       [Eigandi eða umráðamaður íbúðar]^1) getur sótt um niðurgreiðslu til
      Orkustofnunar sem ákveður á hvaða formi umsóknir skulu sendar og hvaða
@@ -105,7 +107,10 @@ raforku og eldsneyti. Ef notuð er varmadæla skal hámarksfjöldi kWst vera ^1/
   Ársnotkun íbúðar á olíu til hitunar skal áætluð af Orkustofnun út frá notkun
 húsnæðisins og skráðri stærð þess í Landskrá fasteigna. Orkustofnun getur farið
  fram á að fá upplýsingar frá íbúðareiganda um olíukaup til húshitunar og annað
-sem snýr að notkun húsnæðisins og nauðsynlegt er vegna framkvæmdar laga þessara.
+    sem snýr að notkun húsnæðisins og nauðsynlegt er vegna framkvæmdar laga
+                                  þessara.^1)
+     ^1)Greininni var breytt með l. 83/2008, 24. gr. Breytingin tekur gildi 1.
+                          jan. 2009 skv. 23. gr. s.l.
 9. gr. Framkvæmd niðurgreiðslna á raforku og heitu vatni frá kyntum hitaveitum.
  Dreifiveitur raforku og kyntar hitaveitur skulu draga upphæð niðurgreiðslu frá
   gjaldi notanda fyrir þjónustu veitunnar og skal notandinn fá upplýsingar um
@@ -251,10 +256,3 @@ varmadælu til húshitunar á þeim lághitasvæðum landsins þar sem möguleik
 landsbyggðinni. Í þessu skyni skal heimilt á þessu tímabili að verja allt að 10
    millj. kr. árlega af þeirri fjárveitingu sem ákveðin er til niðurgreiðslu
                                   rafhitunar.
-
-References
-
-   Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002078
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=640
-   3. http://www.althingi.is/altext/127/s/1034.html

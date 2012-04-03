@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                             Tóku gildi 1. júlí 2007.
 
@@ -438,8 +437,8 @@ Lögreglustjóri skal jafnframt slíta samkomu sem fram fer á grundvelli 17. gr
                             Ákvæði til bráðabirgða.
                I. Veitinga-, áfengisveitinga- og skemmtanaleyfi.
    Leyfishafar sem hafa í gildi leyfi til sölu veitinga og gistingar samkvæmt
-    [4]lögum nr. 67/1985, áfengissöluleyfi skv. V. kafla á[5]fengislaga, nr.
-  75/1998, og skemmtanaleyfi samkvæmt reglugerð nr. 587/1987, sbr. [6]lög nr.
+    [1]lögum nr. 67/1985, áfengissöluleyfi skv. V. kafla á[2]fengislaga, nr.
+  75/1998, og skemmtanaleyfi samkvæmt reglugerð nr. 587/1987, sbr. [3]lög nr.
   120/1947, geta sótt um og fengið endurnýjað rekstrarleyfi skv. 13. gr. þegar
     einhver framangreindra leyfa renna út, þó ekki síðar en tveimur árum frá
     gildistöku laga þessara. Að þeim tíma liðnum þarf leyfishafi að sækja um
@@ -462,9 +461,6 @@ Innheimtumanni ríkissjóðs er heimilt að fella niður tryggingar sem grundval
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007085
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=588
-   3. http://www.althingi.is/altext/133/s/873.html
-   4. file://1985067.html
-   5. file://1998075.html
-   6. file://1947120.html
+   1. file://1985067.html
+   2. file://1998075.html
+   3. file://1947120.html

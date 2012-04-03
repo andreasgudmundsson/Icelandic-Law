@@ -12,10 +12,10 @@
 References
 
    Visible links
-   1. http://www.althingi.is/lagas/135a/1993037.html
-   2. http://www.althingi.is/lagas/135a/1997085.html
-   3. http://www.althingi.is/lagas/135a/1989086.html
-   4. http://www.althingi.is/lagas/135a/1996050.html
-   5. http://www.althingi.is/lagas/135a/2006023.html
-   6. http://www.althingi.is/lagas/135a/2006127.html
+   1. file://1993037.html
+   2. file://1997085.html
+   3. file://1989086.html
+   4. file://1996050.html
+   5. file://2006023.html
+   6. file://2006127.html
    7. file://kaflar.html

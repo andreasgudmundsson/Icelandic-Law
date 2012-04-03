@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. janúar 1986. Breytt með l. 83/1997 (tóku gildi 6. júní 1997), l.
-  7/1999 (tóku gildi 5. mars 1999) og [4]l. 47/2006 (tóku gildi 1. júlí 2006).
+  7/1999 (tóku gildi 5. mars 1999), [1]l. 47/2006 (tóku gildi 1. júlí 2006) og
+ [2]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+                                     2008).
 
        1. gr. Embætti ríkislögmanns er sjálfstæð stofnun og heyrir undir
                               [stjórnarráðið].^1)
@@ -26,13 +27,14 @@ Ráðherrar geta óskað lögfræðilegs álits hans um einstök málefni og að
  höfðuð eru á hendur ríkinu og sókn þeirra einkamála sem ríkið höfðar á hendur
                                      öðrum.
 Ríkislögmaður gerir fyrir hönd ríkisins kröfur einkaréttarlegs eðlis í opinberum
-                                     málum.
+                                   málum.^2)
         Utan starfssviðs ríkislögmanns falla dómsmál sem ríkisbankar eða
  fjárfestingarlánasjóðir í eigu ríkisins eiga aðild að. Enn fremur dómsmál til
  innheimtu opinberra gjalda, orlofsfjár, viðskiptaskulda eða hliðstæðra krafna
    nema ráðherra, sem hlut á að máli, óski atbeina ríkislögmanns við meðferð
    einstakra mála. Hið sama gildir um mál sem rekin eru fyrir [kjararáði].^1)
-                             ^1)[5]L. 47/2006, 13. gr.
+   ^1)[3]L. 47/2006, 13. gr. ^2)Málsgreininni var breytt með [4]l. 88/2008, 234.
+         gr. Breytingin tekur gildi 1. jan. 2009 skv. [5]232. gr. s.l.
      3. gr. Við embætti ríkislögmanns starfa auk hans ^1) lögfræðingar sem
   ríkislögmaður getur falið einstök mál sem embættið hefur til meðferðar enda
               fullnægi þeir lagaskilyrðum til að flytja slík mál.
@@ -40,15 +42,16 @@ Ríkislögmaður gerir fyrir hönd ríkisins kröfur einkaréttarlegs eðlis í 
 embættisins meðferð einstakra mála að fengnu samþykki þeirrar ríkisstofnunar sem
                                 hlut á að máli.
                               ^1)L. 83/1997, 46. gr.
-4. gr. Ráðherra getur með reglugerð kveðið nánar á um framkvæmd laga þessara, þ.
-      á m. um skiptingu kostnaðar af málefnum sem ríkislögmanni eru falin.
+4. gr. Ráðherra getur með reglugerð^1) kveðið nánar á um framkvæmd laga þessara,
+    þ. á m. um skiptingu kostnaðar af málefnum sem ríkislögmanni eru falin.
+                                 ^1)Rg. 111/2008.
                  5. gr. Lög þessi öðlast gildi 1. janúar 1986.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1985051
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=107&mnr=475
-   3. http://www.althingi.is/altext/107/s/pdf/0824.pdf
-   4. file://2006047.html
-   5. file://2006047.html#g13
+   1. file://2006047.html
+   2. file://2008088.html
+   3. file://2006047.html#g13
+   4. file://2008088.html#g234
+   5. file://2008088.html

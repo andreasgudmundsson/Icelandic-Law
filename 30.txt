@@ -19,15 +19,15 @@
 References
 
    Visible links
-   1. http://www.althingi.is/lagas/135a/1994060.html
-   2. http://www.althingi.is/lagas/135a/2004030.html
-   3. http://www.althingi.is/lagas/135a/1943020.html
-   4. http://www.althingi.is/lagas/135a/1944002.html
-   5. http://www.althingi.is/lagas/135a/1947043.html
-   6. http://www.althingi.is/lagas/135a/1976017.html
-   7. http://www.althingi.is/lagas/135a/1992055.html
-   8. http://www.althingi.is/lagas/135a/1994048.html
-   9. http://www.althingi.is/lagas/135a/1994068.html
-  10. http://www.althingi.is/lagas/135a/1995146.html
-  11. http://www.althingi.is/lagas/135a/2005032.html
+   1. file://1994060.html
+   2. file://2004030.html
+   3. file://1943020.html
+   4. file://1944002.html
+   5. file://1947043.html
+   6. file://1976017.html
+   7. file://1992055.html
+   8. file://1994048.html
+   9. file://1994068.html
+  10. file://1995146.html
+  11. file://2005032.html
   12. file://kaflar.html

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. júlí 2005, nema ákvæði til bráðabirgða sem tók gildi 20. maí 2005.
-               Breytt með l. 52/2007 (tóku gildi 3. apríl 2007).
+ Breytt með l. 52/2007 (tóku gildi 3. apríl 2007), [1]l. 88/2008 (taka gildi 1.
+  jan. 2009 nema brbákv. VII sem tók gildi 21. júní 2008) og l. 94/2008 (tóku
+                             gildi 24. júní 2008).
 
                         I. kafli. Markmið og gildissvið.
  1. gr. Lög þessi hafa það markmið að efla virka samkeppni í viðskiptum og þar
@@ -57,15 +58,7 @@ staðgengdarþjónustu. Staðgengdarvara og staðgengdarþjónusta er vara eða 
           sem að fullu eða verulegu leyti getur komið í stað annarrar.
     6. Neytandi er einstaklingur sem kaupir vöru eða þjónustu gegn endurgjaldi,
                    enda séu kaupin ekki gerð í atvinnuskyni.
-          7. Samruni samkvæmt lögum þessum telst hafa átt sér stað þegar:
-       a. tvö eða fleiri fyrirtæki, sem áður störfuðu sjálfstætt, sameinast,
-                     b. fyrirtæki tekur yfir annað fyrirtæki,
-    c. eigendur með yfirráð í einu eða fleiri fyrirtækjum ná beinum eða óbeinum
-            yfirráðum í einu eða fleiri fyrirtækjum til viðbótar eða
-       d. fyrirtæki stofna fyrirtæki um sameiginlegt verkefni sem varir til
-  frambúðar sem sjálfstæð efnahagseining og veldur því ekki að aðilar sem hlut
- eiga að máli samræmi samkeppni sín á milli eða milli sín og hins sameiginlega
-                                   verkefnis.
+                                      7. ^1)
      8. Sölustig framleiðslu ber að líta á sem eitt sölustig, heildsölu annað
                      sölustig, smásölu hið þriðja o.s.frv.
    9. Vara er samkvæmt lögum þessum fasteignir og lausafé, þ.m.t. skip, loftför,
@@ -73,17 +66,12 @@ staðgengdarþjónustu. Staðgengdarvara og staðgengdarþjónusta er vara eða 
      10. Verð er andvirði vöru og þjónustu, þ.e. hvers konar endurgreiðsla án
  tillits til þess hvort notað er annað heiti, svo sem endurgjald, laun, þóknun,
               frakt, flutningsgjald, taxti, leiga eða því um líkt.
-    11. Yfirráð samkvæmt lögum þessum eru yfirráð sem gera aðila kleift að hafa
-  afgerandi áhrif á rekstur og stjórnun fyrirtækis, annaðhvort sér í lagi eða
-  sameiginlega með öðrum, hvort sem þau áhrif eru til komin vegna þess að hann
-                                     getur:
-   a. haft áhrif á skipun stjórnar, atkvæðagreiðslu eða ákvarðanir fyrirtækisins
-                                      eða
-             b. notað eða ráðstafað eignum eða hluta eigna fyrirtækis.
+                                      11. ^1)
         12. Þjónusta er hvers konar fyrirgreiðsla, vinna eða þjónusta gegn
                endurgjaldi, nema launuð vinna í þjónustu annarra.
           Rísi ágreiningur um hvað falla skuli undir hugtök þessi sker
                     Samkeppniseftirlitið úr þeim ágreiningi.
+                               ^1)L. 94/2008, 1. gr.
 
                             III. kafli. Stjórnsýsla.
 5. gr. Viðskiptaráðherra fer með framkvæmd laga þessara en í umboði hans annast
@@ -132,7 +120,8 @@ valdasamþjöppunar sem takmarkað geta samkeppni; stofnunin skal birta skýrslu
  Samkeppniseftirlitið tekur ákvörðun um það hvort erindi sem berst stofnuninni
 gefi nægar ástæður til rannsóknar. Við afgreiðslu mála samkvæmt lögum þessum er
            Samkeppniseftirlitinu heimilt að raða málum í forgangsröð.
-               ^1)Rgl. 880/2005, sbr. rgl. 924/2007; rgl. 890/2005.
+   ^1)Rgl. 880/2005, sbr. rgl. 924/2007; rgl. 890/2005, rgl. 684/2008, sbr. rgl.
+                                   854/2008.
    9. gr. Ákvarðanir Samkeppniseftirlitsins sæta kæru til sérstakrar nefndar,
 áfrýjunarnefndar samkeppnismála. Skrifleg kæra skal berast innan fjögurra vikna
  frá því að aðila máls var tilkynnt um ákvörðunina. Úrskurður áfrýjunarnefndar
@@ -255,57 +244,165 @@ til röskunar á samkeppni sem verði afstýrt með endanlegri ákvörðun eða 
                            öðru leyti þolir ekki bið.
  Bráðabirgðaákvörðun skal gilda í tiltekinn tíma og má endurnýja hana ef það er
                                talið nauðsynlegt.
-17. gr. Telji Samkeppniseftirlitið að samruni hindri virka samkeppni með því að
-   markaðsráðandi staða, eins eða fleiri fyrirtækja, verði til eða slík staða
-      styrkist getur stofnunin ógilt samruna sem þegar hefur átt sér stað.
-  Samkeppniseftirlitið getur einnig sett slíkum samruna skilyrði sem verður að
-         uppfylla innan tilskilins tíma. Við mat á lögmæti samruna skal
-  Samkeppniseftirlitið taka tillit til þess að hvaða marki alþjóðleg samkeppni
-hefur áhrif á samkeppnisstöðu hins sameinaða fyrirtækis. Enn fremur skal við mat
- á lögmæti samruna taka tillit til þess hvort markaður er opinn eða aðgangur að
-                              honum er hindraður.
-   Ákvæði 1. mgr. tekur einungis til samruna þar sem sameiginleg heildarvelta
-viðkomandi fyrirtækja er 1 milljarður kr. eða meira. Telja skal með veltu móður-
-  og dótturfélaga, fyrirtækja innan sömu fyrirtækjasamstæðu og fyrirtækja sem
- aðilar samrunans hafa bein eða óbein yfirráð yfir. Þá skulu a.m.k. tvö af þeim
-  fyrirtækjum sem aðild eiga að samrunanum hafa a.m.k. 50 millj. kr. ársveltu
-                   hvert um sig til að 1. mgr. taki til hans.
-  Tilkynna skal Samkeppniseftirlitinu um samruna sem fellur undir 1. mgr. eigi
-     síðar en einni viku eftir að samningi um hann er lokið eða tilkynnt er
-     opinberlega um yfirtökuboð eða að tiltekinn aðili hafi náð yfirráðum í
-fyrirtæki. Frestur hefst þegar eitt af þessu hefur gerst. Í tilkynningunni skal
-     veita upplýsingar um samrunann og um þau fyrirtæki sem honum tengjast.
-     Samkeppniseftirlitið setur reglur^1) þar sem nánar eru tilgreindar þær
-  upplýsingar sem fram verða að koma í tilkynningu, þar á meðal um markaði sem
-      samruninn hefur áhrif á og um önnur nauðsynleg atriði við athugun á
-                         samkeppnislegum áhrifum hans.
-Samkeppniseftirlitið skal tilkynna viðkomandi fyrirtækjum innan þrjátíu daga ef
-  það telur ástæðu til frekari rannsóknar á samkeppnislegum áhrifum samrunans.
- Frestur þessi byrjar að líða þegar Samkeppniseftirlitinu berst tilkynning sem
- uppfyllir skilyrði 3. mgr. og reglna sem settar eru samkvæmt ákvæðinu. Berist
+ 17. gr. [Samruni telst hafa átt sér stað þegar breyting verður á yfirráðum til
+                                   frambúðar:
+    a. vegna samruna tveggja eða fleiri fyrirtækja eða hluta úr fyrirtækjum sem
+                           áður störfuðu sjálfstætt,
+                  b. þegar fyrirtæki tekur yfir annað fyrirtæki,
+    c. vegna þess að einn eða fleiri aðilar, sem þegar hafa yfirráð yfir a.m.k.
+einu fyrirtæki, eða eitt eða fleiri fyrirtæki ná beinum eða óbeinum yfirráðum, í
+  heild eða að hluta, yfir einu eða fleiri fyrirtækjum til viðbótar með því að
+            kaupa verðbréf eða eignir, með samningi eða öðrum hætti,
+    d. með stofnun fyrirtækis um sameiginlegt verkefni sem gegnir til frambúðar
+                 allri starfsemi sjálfstæðrar efnahagseiningar.
+ Yfirráð skv. 1. mgr. skapast af rétti, með samningum eða með einhverjum öðrum
+ hætti sem annaðhvort sérstaklega eða samanlagt, og með hliðsjón af staðreyndum
+eða lagalegum atriðum sem við eiga, gerir aðila kleift að hafa afgerandi áhrif á
+                             fyrirtæki, einkum með:
+    a. eignarhaldi eða rétti til að nota eignir fyrirtækis, allar eða að hluta,
+          b. rétti eða samningum sem veita afgerandi áhrif á samsetningu,
+              atkvæðagreiðslu eða ákvarðanir stofnana fyrirtækis.
+                           Yfirráð öðlast aðilar sem:
+      a. eru rétthafar eða eiga tilkall til réttar samkvæmt samningum þar að
+                                  lútandi, eða
+   b. þrátt fyrir að vera ekki handhafar slíks réttar eða eiga ekki tilkall til
+      réttar samkvæmt slíkum samningum hafa möguleika til að beita slíkum
+                                 réttindum.]^1)
+                               ^1)L. 94/2008, 2. gr.
+   [17. gr. a. Tilkynna skal um samruna sem uppfyllir eftirfarandi skilyrði:
+     a. Sameiginleg heildarvelta viðkomandi fyrirtækja er 2 milljarðar kr. eða
+                              meira á Íslandi, og
+   b. að minnsta kosti tvö af þeim fyrirtækjum sem aðild eiga að samrunanum hafa
+             a.m.k. 200 millj. kr. ársveltu á Íslandi hvert um sig.
+Telja skal með veltu skv. 1. mgr. veltu móður- og dótturfélaga, fyrirtækja innan
+ sömu fyrirtækjasamstæðu og fyrirtækja sem aðilar samrunans hafa bein eða óbein
+                                 yfirráð yfir.
+Tilkynna skal Samkeppniseftirlitinu um samruna áður en hann kemur til framkvæmda
+en eftir að samningur um hann er gerður, tilkynnt er opinberlega um yfirtökuboð
+eða yfirráða í fyrirtæki er aflað. Samruni sem fellur undir ákvæði laga þessara
+  skal ekki koma til framkvæmda á meðan Samkeppniseftirlitið fjallar um hann.
+ Samkeppniseftirlitið getur samkvæmt beiðni veitt undanþágu frá því að samruni
+ komi ekki til framkvæmda á meðan Samkeppniseftirlitið fjallar um hann, enda sé
+sýnt fram á að tafir á framkvæmd samrunans geti skaðað viðkomandi fyrirtæki eða
+    viðskiptaaðila þess og að samkeppni sé stefnt í hættu. Beiðnin skal vera
+skrifleg og rökstudd. Undanþágu er heimilt að binda skilyrðum í þeim tilgangi að
+                            tryggja virka samkeppni.
+Í tilkynningu um samruna skal veita upplýsingar um hann, þau fyrirtæki sem honum
+  tengjast, um viðkomandi markaði og um önnur nauðsynleg atriði við athugun á
+samkeppnislegum áhrifum samrunans. Samkeppniseftirlitið setur reglur^1) þar sem
+  nánar eru tilgreindar þær upplýsingar sem fram verða að koma í tilkynningu.
+      Heimilt er að tilkynna samruna með styttri tilkynningu þegar eitt af
+                      eftirfarandi skilyrðum er uppfyllt:
+         a. Þeir markaðir þar sem áhrifa samrunans gætir eru ekki tengdir.
+     b. Tveir eða fleiri aðilar samrunans starfa á sama vöru- og landfræðilega
+markaði (láréttur samruni) og markaðshlutdeild þeirra samanlagt er minni en 20%.
+   c. Tveir eða fleiri aðilar samrunans starfa á vörumörkuðum sem eru á efra eða
+     neðra sölustigi miðað við markað þar sem annar aðili samrunans starfar
+       (lóðréttur samruni) og markaðshlutdeild hvers þeirra eða samanlögð
+                    markaðshlutdeild þeirra er minni en 30%.
+      d. Um er að ræða samruna í skilningi d-liðar 1. mgr. 17. gr. sem hefur
+                          takmörkuð áhrif hér á landi.
+    e. Aðili sem hafði yfirráð yfir fyrirtæki ásamt öðrum nær fullum yfirráðum
+                                   yfir því.
+           Styttri tilkynningu skulu fylgja eftirfarandi upplýsingar:
+    a. Yfirlit yfir þau fyrirtæki sem samrunaaðilar hafa bein eða óbein yfirráð
+                                     yfir.
+     b. Lýsing á þeim vöru- eða þjónustumörkuðum og landfræðilegu mörkuðum sem
+samruninn hefur áhrif á og rökstutt mat á markaðshlutdeild viðkomandi fyrirtækja
+                                á þeim mörkuðum.
+               c. Rökstutt mat á samkeppnislegum áhrifum samrunans.
+     d. Afrit af öllum samningum og öðrum gerningum sem liggja til grundvallar
+   samrunanum ásamt afriti af ársreikningum þeirra fyrirtækja sem eru aðilar
+                                 samrunans.]^2)
+            ^1)Rgl. 684/2008, sbr. rgl. 854/2008. ^2)L. 94/2008, 3. gr.
+  [17. gr. b. Ef um er að ræða samruna í skilningi a-liðar 1. mgr. 17. gr. eða
+ öflun sameiginlegra yfirráða í skilningi c-liðar sömu málsgreinar skulu aðilar
+  samrunans eða þeir sem ná sameiginlega yfirráðum, eftir því sem við á, ganga
+                   sameiginlega frá tilkynningu um samrunann.
+  Eignist fyrirtæki ráðandi hlut í öðru fyrirtæki skal fyrirtækið sem stóð að
+ yfirtökunni ganga frá tilkynningu um samruna. Sé um yfirtökuboð í fyrirtæki að
+                   ræða skal bjóðandi ganga frá tilkynningu.
+Telji Samkeppniseftirlitið verulegar líkur á að samruni, sem þegar hefur átt sér
+  stað og uppfyllir ekki skilyrði a- og b-liðar 1. mgr. 17. gr. a, geti dregið
+umtalsvert úr virkri samkeppni er stofnuninni heimilt að krefja samrunaaðila um
+ tilkynningu um samrunann ef sameiginleg heildarvelta viðkomandi fyrirtækja er
+   meiri en einn milljarður króna á ári. Eftir að krafa hefur verið sett fram
+        byrjar frestur skv. 17. gr. d að líða fyrsta virka dag eftir að
+   Samkeppniseftirlitinu berst tilkynning sem uppfyllir skilyrði 17. gr. a og
+                    reglna sem settar eru samkvæmt ákvæðinu.
+ Ef aðilar samruna sem uppfyllir ekki skilyrði a- og b-liðar 1. mgr. 17. gr. a
+ greina Samkeppniseftirlitinu frá því skriflega að samruninn hafi átt sér stað
+skal Samkeppniseftirlitið innan 15 virkra daga ákveða hvort beita skuli heimild
+                                  skv. 3. mgr.
+ Um málsmeðferð og heimildir Samkeppniseftirlitsins til íhlutunar vegna samruna
+ sem krafist er tilkynningar um fer að öðru leyti eftir ákvæðum 17. gr. a  17.
+                                   gr. e.]^1)
+                               ^1)L. 94/2008, 3. gr.
+[17. gr. c. Telji Samkeppniseftirlitið að samruni hindri virka samkeppni með því
+  að markaðsráðandi staða eins eða fleiri fyrirtækja verði til eða slík staða
+ styrkist, eða verði til þess að samkeppni á markaði raskist að öðru leyti með
+  umtalsverðum hætti, getur stofnunin ógilt samruna. Jafnframt skal við mat á
+ lögmæti samruna taka tillit til tækni- og efnahagsframfara að því tilskildu að
+ þær séu neytendum til hagsbóta og hindri ekki samkeppni. Samkeppniseftirlitið
+     getur einnig sett slíkum samruna skilyrði sem verður að uppfylla innan
+tilskilins tíma. Við mat á lögmæti samruna skal Samkeppniseftirlitið taka tillit
+ til þess að hvaða marki alþjóðleg samkeppni hefur áhrif á samkeppnisstöðu hins
+sameinaða fyrirtækis. Enn fremur skal við mat á lögmæti samruna taka tillit til
+      þess hvort markaður er opinn eða aðgangur að honum er hindraður.]^1)
+                               ^1)L. 94/2008, 3. gr.
+ [17. gr. d. Samkeppniseftirlitið skal innan 25 virkra daga tilkynna þeim aðila
+ sem sent hefur stofnuninni samrunatilkynningu ef hún telur ástæðu til frekari
+   rannsóknar á samkeppnislegum áhrifum samruna. Frestur þessi byrjar að líða
+ fyrsta virka dag eftir að Samkeppniseftirlitinu barst tilkynning sem uppfyllir
+ skilyrði 6. mgr. 17. gr. a og reglna sem settar eru samkvæmt ákvæðinu. Berist
 tilkynning frá Samkeppniseftirlitinu skv. 1. málsl. ekki innan tilskilins frests
-getur Samkeppniseftirlitið ekki ógilt samrunann. Ákvörðun um ógildingu skal taka
-eigi síðar en þremur mánuðum eftir að tilkynning skv. 1. málsl. hefur verið send
-                            viðkomandi fyrirtækjum.
-  Til þess að tryggja að hugsanleg ákvörðun skv. 1. mgr. nái að fullu fram að
-ganga getur Samkeppniseftirlitið gripið til íhlutunar í samruna til bráðabirgða.
- Íhlutun getur falist í banni til bráðabirgða gegn því að láta samruna koma til
-     framkvæmda þar til endanleg niðurstaða samkeppnisyfirvalda á athugun á
-       samrunanum liggur fyrir eða öðrum ráðstöfunum sem hafa sömu áhrif.
-Ákveði Samkeppniseftirlitið að ógilda samruna getur stofnunin, samhliða ákvörðun
-á grundvelli 1. mgr. eða með sérstakri ákvörðun, mælt fyrir um að fyrirtæki eða
- eignir sem sameinaðar hafa verið verði aðskildar eða sameiginlegri stjórn hætt
-eða að gripið verði til annarra viðeigandi aðgerða til að skapa að nýju skilyrði
-                            fyrir virkri samkeppni.
-                                 ^1)Rgl. 881/2005.
- [17. gr. a. Hafi fyrirtæki eða samtök fyrirtækja gerst brotleg við ákvæði laga
-      þessara eða ákvarðanir Samkeppniseftirlitsins á grundvelli þeirra er
+ getur Samkeppniseftirlitið ekki ógilt samrunann. Ákvörðun um ógildingu samruna
+skal taka eigi síðar en 70 virkum dögum eftir að tilkynning skv. 1. málsl. hefur
+   verið send þeim aðila sem tilkynnti um samruna. Ef nauðsynlegt er að afla
+ frekari upplýsinga er Samkeppniseftirlitinu heimilt að framlengja þennan frest
+                           um allt að 20 virka daga.
+Berist styttri samrunatilkynning getur Samkeppniseftirlitið innan 15 virkra daga
+frá móttöku hennar krafist lengri tilkynningar ef skilyrði 6. mgr. 17. gr. a eru
+   ekki uppfyllt eða slíkt þykir nauðsynlegt til að meta samkeppnisleg áhrif
+ samrunans. Í slíkum tilvikum byrjar frestur skv. 1. mgr. að líða þegar lengri
+                               tilkynning berst.
+   Taki Samkeppniseftirlitið ekki ákvörðun um ógildingu samruna eða setningu
+   skilyrða fyrir samruna innan fresta samkvæmt þessari grein getur stofnunin
+               hvorki ógilt samrunann né sett honum skilyrði.]^1)
+                               ^1)L. 94/2008, 3. gr.
+   [17. gr. e. Ákveði Samkeppniseftirlitið að hafna samruna getur stofnunin,
+samhliða ákvörðun á grundvelli 17. gr. c eða með sérstakri ákvörðun, mælt fyrir
+    um að fyrirtæki eða eignir sem sameinaðar hafa verið verði aðskildar eða
+sameiginlegri stjórn hætt eða að gripið verði til annarra viðeigandi aðgerða til
+               að skapa að nýju skilyrði fyrir virkri samkeppni.
+Ef áfrýjunarnefnd samkeppnismála eða dómstóll ógildir ákvörðun um höfnun samruna
+    eða um setningu skilyrða fyrir samruna vegna formgalla á málsmeðferð er
+    Samkeppniseftirlitinu heimilt að taka samrunann til skoðunar að nýju. Ef
+breytingar hafa orðið á markaðsaðstæðum skulu tilkynnendur þegar í stað afhenda
+  Samkeppniseftirlitinu nýja samrunatilkynningu. Hafi engar slíkar breytingar
+     orðið skulu þeir gera Samkeppniseftirlitinu grein fyrir því án tafar.
+Samkeppniseftirlitið skal taka ákvörðun um höfnun samruna eða setningu skilyrða
+fyrir samruna í máli sem hefur verið endurupptekið eigi síðar en 30 virkum dögum
+       eftir að endanleg niðurstaða liggur fyrir um ógildingu ákvörðunar
+                                stofnunarinnar.
+   Hafi Samkeppniseftirlitið komist að þeirri niðurstöðu að samruni hafi ekki
+       raskað samkeppni eða heimilað samruna með setningu skilyrða getur
+              Samkeppniseftirlitið afturkallað slíka ákvörðun ef:
+     a. ákvörðunin er byggð á röngum upplýsingum sem einhver samrunaaðila ber
+            ábyrgð á eða þegar hún er fengin fram með blekkingum eða
+   b. hlutaðeigandi fyrirtæki brjóta gegn skilyrðum sem samruna hafa verið sett.
+Ef ákvörðun er afturkölluð skv. 3. mgr. skal Samkeppniseftirlitið leggja að nýju
+  mat á viðkomandi samruna og beita heimildum 17. gr. c ef þurfa þykir. Ákvæði
+       laganna um málsmeðferð og tímafresti gilda ekki í slíku máli.]^1)
+                               ^1)L. 94/2008, 3. gr.
+ [[17. gr. f.]^1) Hafi fyrirtæki eða samtök fyrirtækja gerst brotleg við ákvæði
+   laga þessara eða ákvarðanir Samkeppniseftirlitsins á grundvelli þeirra er
 Samkeppniseftirlitinu heimilt, með samþykki málsaðila, að ljúka málinu með sátt.
  Sama gildir ef um er að ræða samruna sem hindrar virka samkeppni, sbr. 17. gr.
-  Sátt er bindandi fyrir málsaðila þegar hann hefur samþykkt og staðfest efni
-                         hennar með undirskrift sinni.
-    Samkeppniseftirlitið setur nánari reglur um framkvæmd greinarinnar.]^1)
-                               ^1)L. 52/2007, 1. gr.
+[og 17. gr. a  17. gr. e].^2) Sátt er bindandi fyrir málsaðila þegar hann hefur
+            samþykkt og staðfest efni hennar með undirskrift sinni.
+    Samkeppniseftirlitið setur nánari reglur um framkvæmd greinarinnar.]^3)
+         ^1)L. 94/2008, 4. gr. ^2)L. 94/2008, 5. gr. ^3)L. 52/2007, 1. gr.
   18. gr. Ef Samkeppniseftirlitið telur að ákvæði laga og stjórnvaldsfyrirmæla
   stríði gegn markmiði laga þessara og torveldi frjálsa samkeppni í viðskiptum
 skal vekja athygli ráðherra á því áliti. Slíkt álit skal einnig birta almenningi
@@ -332,7 +429,9 @@ Samkeppniseftirlitið getur einnig lagt skyldu á þá aðila sem um getur í 1.
  ástæður eru til að ætla að brotið hafi verið gegn lögum þessum eða ákvörðunum
                               samkeppnisyfirvalda.
 Við framkvæmd aðgerða skal fylgja ákvæðum laga um meðferð opinberra mála um leit
-                                og hald á munum.
+                              og hald á munum.^1)
+     ^1)Málsgreininni var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [3]232. gr. s.l.
 
   VII. kafli. Framkvæmd samkeppnisreglna o.fl. samkvæmt samningnum um Evrópska
                                 efnahagssvæðið.
@@ -397,11 +496,11 @@ sem gætu haft áhrif á viðskipti milli aðila að EES-samningnum, skulu þau 
                              samstilltar aðgerðir.
    Ef Samkeppniseftirlitið, áfrýjunarnefnd samkeppnismála eða dómstólar beita
 ákvæðum laga þessara vegna misnotkunar á markaðsráðandi stöðu sem bönnuð er skv.
-    54. gr. EES- samningsins skulu þau einnig beita 54. gr. EES-samningsins.
+    54. gr. EES-samningsins skulu þau einnig beita 54. gr. EES-samningsins.
 Samkeppniseftirlitið og áfrýjunarnefnd samkeppnismála skulu ekki banna samninga,
   ákvarðanir samtaka fyrirtækja og samstilltar aðgerðir sem gætu haft áhrif á
 viðskipti milli aðila að EES-samningnum, en hamla ekki samkeppni í skilningi 1.
-mgr. 53. gr. EES- samningsins, uppfylla skilyrði 3. mgr. 53. gr. EES-samningsins
+mgr. 53. gr. EES-samningsins, uppfylla skilyrði 3. mgr. 53. gr. EES-samningsins
 eða falla undir hópundanþágu um beitingu 3. mgr. 53. gr. EES-samningsins. Ákvæði
      þessarar málsgreinar koma ekki í veg fyrir að Samkeppniseftirlitið og
   áfrýjunarnefnd samkeppnismála geti beitt strangari löggjöf þar sem einhliða
@@ -409,17 +508,18 @@ eða falla undir hópundanþágu um beitingu 3. mgr. 53. gr. EES-samningsins. Á
                             fyrir slíkar ákvarðanir.
   Með fyrirvara um almennar meginreglur og önnur ákvæði EES-samningsins gildir
 grein þessi hvorki þegar Samkeppniseftirlitið, áfrýjunarnefnd samkeppnismála og
- dómstólar beita 17. gr. laga þessara né heldur kemur það í veg fyrir beitingu
-ákvæða þar sem í meginatriðum eru ríkjandi önnur markmið en þau sem er að finna
-                       í 53. og 54. gr. EES-samningsins.
+ dómstólar beita 17. gr. [eða 17. gr. a  17. gr. e]^1) laga þessara né heldur
+kemur það í veg fyrir beitingu ákvæða þar sem í meginatriðum eru ríkjandi önnur
+        markmið en þau sem er að finna í 53. og 54. gr. EES-samningsins.
+                               ^1)L. 94/2008, 6. gr.
 27. gr. Þegar dómstóll fjallar um samninga, ákvarðanir eða aðgerðir skv. 53. og
-  54. gr. EES- samningsins í máli sem Eftirlitsstofnun EFTA hefur þegar tekið
+   54. gr. EES-samningsins í máli sem Eftirlitsstofnun EFTA hefur þegar tekið
  ákvörðun í má úrlausn hans ekki brjóta í bága við þá ákvörðun. Enn fremur skal
 hann forðast að leysa úr máli á annan veg en þann sem Eftirlitsstofnun EFTA kann
   að gera í máli sem hún hefur til meðferðar. Dómstóllinn getur í þessu skyni
                             frestað meðferð málsins.
 Ákvæði 1. mgr. hefur ekki áhrif á heimild dómstóls til að leita eftir ráðgefandi
-  áliti EFTA- dómstólsins skv. 34. gr. samnings milli EFTA-ríkjanna um stofnun
+  áliti EFTA-dómstólsins skv. 34. gr. samnings milli EFTA-ríkjanna um stofnun
                         eftirlitsstofnunar og dómstóls.
    28. gr. Samkeppniseftirlitið getur að eigin frumkvæði komið að skriflegum
   athugasemdum í dómsmáli vegna beitingar 53. og 54. gr. EES-samningsins. Með
@@ -432,18 +532,19 @@ athugasemdum. Með leyfi dómstólsins getur Eftirlitsstofnunin þá jafnframt k
     Samkeppniseftirlitinu og Eftirlitsstofnun EFTA er heimilt, þó aðeins til
 undirbúnings athugasemdum sínum, að óska eftir að viðeigandi dómstóll sendi þeim
       eða tryggi sendingu skjala sem teljast nauðsynleg til að meta málið.
-   29. gr. Ákvæðum 17. gr. laga þessara verður beitt með þeim takmörkunum sem
-leiðir af ákvæðum EES-samningsins um eftirlit með samfylkingum fyrirtækja, sbr.
-57. gr. meginmáls samningsins, bókun 21 og 24 með honum og viðauka XIV við hann,
-svo og XIII. og XIV. kafla III. hluta bókunar 4 með samningi milli EFTA-ríkjanna
-                   um stofnun eftirlitsstofnunar og dómstóls.
+29. gr. Ákvæðum 17. gr. [og 17. gr. a  17. gr. e]^1) laga þessara verður beitt
+   með þeim takmörkunum sem leiðir af ákvæðum EES-samningsins um eftirlit með
+samfylkingum fyrirtækja, sbr. 57. gr. meginmáls samningsins, bókun 21 og 24 með
+ honum og viðauka XIV við hann, svo og XIII. og XIV. kafla III. hluta bókunar 4
+  með samningi milli EFTA-ríkjanna um stofnun eftirlitsstofnunar og dómstóls.
+                               ^1)L. 94/2008, 5. gr.
 30. gr. Hafi ríkisaðstoð, sem 61. gr. EES-samningsins tekur til, verið tilkynnt
    Eftirlitsstofnun EFTA geta íslensk stjórnvöld ekki úrskurðað um það hvort
     aðstoðin sé í samræmi við leyfilegan opinberan fjárhagsstuðning fyrr en
     Eftirlitsstofnunin hefur tilkynnt um álit sitt á málinu. Sama gildir um
    fjárhagsaðstoð úr sveitarsjóði sem fallið getur undir 61. gr. samningsins.
 31. gr. Sveitarfélag, sem hyggst veita fyrirtæki aðstoð af því tagi sem um getur
-    í 61. gr. EES- samningsins, skal tilkynna Samkeppniseftirlitinu um hina
+     í 61. gr. EES-samningsins, skal tilkynna Samkeppniseftirlitinu um hina
                               fyrirhuguðu aðstoð.
 Telji Eftirlitsstofnun EFTA að aðstoð, sem sveitarstjórn hefur tekið ákvörðun um
 að veita, brjóti gegn 61. gr. EES-samningsins skal Samkeppniseftirlitið tilkynna
@@ -465,10 +566,10 @@ ríkissjóði ekki skaðabótaskyldu gagnvart þeim sem ákvörðun beinist að 
      Fjármálaráðherra er heimilt að setja nánari reglur um framkvæmd reglna
             EES-samningsins um ríkisaðstoð til aðila hér á landi.^1)
       ^1)Rg. 593/1993, sbr. 338/1996, 230/1997, 358/1998, 245/1999, 584/2000,
-282/2001, 652/2005, 653/2005, 654/2005 og 655/2005; rg. 904/2002, rg. 214/2006,
-   rg. 811/2006, rg. 812/2006, rg. 813/2006, rg. 814/2006, rg. 815/2006, rg.
-816/2006, rg. 817/2006, rg. 818/2006, rg. 819/2006, rg. 820/2006, rg. 821/2006,
-     rg. 822/2006, rg. 823/2006, rg. 824/2006, rg. 825/2006, rg. 826/2006.
+282/2001, 652/2005, 653/2005, 654/2005 og 655/2005; rg. 904/2002, rg. 811/2006,
+   rg. 812/2006, rg. 813/2006, rg. 814/2006, rg. 815/2006, rg. 816/2006, rg.
+817/2006, rg. 818/2006, rg. 819/2006, rg. 820/2006, rg. 821/2006, rg. 822/2006,
+     rg. 823/2006, rg. 824/2006, rg. 825/2006, rg. 826/2006, rg. 430/2008.
 
                           VIII. kafli. Almenn ákvæði.
  33. gr. Samningar, sem brjóta í bága við bannákvæði laga þessara, eru ógildir.
@@ -508,12 +609,13 @@ upplýsingar um samninga, skilmála og athafnir sem hafa eða er ætlað að haf
      d. skilyrðum sem samkeppnisyfirvöld hafa sett fyrir veitingu undanþágu á
                               grundvelli 15. gr.,
      e. ráðstöfunum, aðgerðum eða bráðabirgðaákvörðunum á grundvelli 16. gr.,
-   f. íhlutun, fyrirmælum eða skilyrðum samkeppnisyfirvalda á grundvelli 1., 5.
-                              og 6. mgr. 17. gr.,
-                    g. tilkynningarskyldu skv. 3. mgr. 17. gr.,
-          h. sátt milli Samkeppniseftirlitsins og aðila, sbr. 17. gr. a,
+   f. ^1) fyrirmælum eða skilyrðum samkeppnisyfirvalda á grundvelli [4. mgr. 17.
+                   gr. a, 17. gr. c og 1. mgr. 17. gr. e],^1)
+    g. [banni við að samruni komi til framkvæmda og tilkynningarskyldu skv. 17.
+               gr. a, 3. mgr. 17. gr. b og 2. mgr. 17. gr. e],^1)
+        h. sátt milli Samkeppniseftirlitsins og aðila, sbr. [17. gr. f],^1)
          i. skyldu til að veita upplýsingar og afhenda gögn skv. 19. gr.,
-                 j. banni skv. 53. og 54. gr. EES-samningsins.^1)
+                 j. banni skv. 53. og 54. gr. EES-samningsins.^2)
 Sektir geta numið allt að 10% af heildarveltu síðasta rekstrarárs hjá hverju því
    fyrirtæki eða samtökum fyrirtækja sem aðild eiga að broti. Ef brot samtaka
  fyrirtækja tengjast starfsemi aðila þeirra skal fjárhæð sektar ekki vera hærri
@@ -536,11 +638,11 @@ frá sektarákvörðun hafi fyrirtæki verið fyrst til að láta Samkeppnisefti
   eftirlitsins geta leitt til rannsóknar eða sönnunar á broti og að uppfylltum
        nánari skilyrðum sem Samkeppniseftirlitið mælir fyrir um í reglum.
     Ákvörðun Samkeppniseftirlitsins um sektir má skjóta til áfrýjunarnefndar
-                              samkeppnismála.]^2)
-      ^1)Samkeppniseftirlitið leggur stjórnvaldssektir á fyrirtæki eða samtök
-fyrirtækja sem brjóta gegn fyrirmælum eða skilyrðum sem gefin voru á grundvelli
-   [5]laga nr. 8/1993, með síðari breytingum, skv. l. 52/2007, brbákv. ^2)L.
-                                52/2007, 2. gr.
+                              samkeppnismála.]^3)
+     ^1)L. 94/2008, 7. gr. ^2)Samkeppniseftirlitið leggur stjórnvaldssektir á
+  fyrirtæki eða samtök fyrirtækja sem brjóta gegn fyrirmælum eða skilyrðum sem
+   gefin voru á grundvelli [5]laga nr. 8/1993, með síðari breytingum, skv. l.
+                     52/2007, brbákv. ^3)L. 52/2007, 2. gr.
   [37. gr. a. Heimild Samkeppniseftirlitsins til að leggja á stjórnvaldssektir
  samkvæmt lögum þessum fellur niður þegar sjö ár eru liðin frá því að háttsemi
                                      lauk.
@@ -602,7 +704,7 @@ Gera má lögaðila sekt samkvæmt ákvæðum II. kafla A almennra hegningarlaga
                  brot skv. 1. og 2. mgr. þessarar greinar.]^1)
                                ^1)L. 52/2007, 4. gr.
 42. gr. [Brot gegn lögum þessum sæta aðeins opinberri rannsókn að undangenginni
-                   kæru Samkeppniseftirlitsins til lögreglu.
+                  kæru Samkeppniseftirlitsins til lögreglu.^1)
     Varði meint brot á lögum þessum bæði stjórnvaldssektum og refsingu metur
  Samkeppniseftirlitið með tilliti til grófleika brots og réttarvörslusjónarmiða
   hvort sá hluti málsins sem varðar refsiábyrgð einstaklings skuli kærður til
@@ -626,32 +728,36 @@ Lögreglu og ákæruvaldi er heimilt að láta Samkeppniseftirlitinu í té uppl
   Lögreglu er heimilt að taka þátt í aðgerðum Samkeppniseftirlitsins sem varða
                  rannsókn þeirra brota sem falla undir 2. mgr.
 Ákærandi getur sent mál sem varðar brot á samkeppnislögum og gögn því tengd til
-            Samkeppniseftirlitsins til meðferðar og ákvörðunar.]^1)
-                               ^1)L. 52/2007, 5. gr.
+            Samkeppniseftirlitsins til meðferðar og ákvörðunar.]^2)
+     ^1)Málsgreininni var breytt með [6]l. 88/2008, 234. gr. Breytingin tekur
+         gildi 1. jan. 2009 skv. [7]232. gr. s.l. ^2)L. 52/2007, 5. gr.
   [42. gr. a. Samkeppniseftirlitinu er heimilt að takmarka aðgang málsaðila að
 gögnum er tengjast rannsókn á meintum refsiverðum brotum á lögum þessum ef hætta
   er á að slíkur aðgangur torveldi opinbera rannsókn. Þeirri takmörkun skal þó
 ávallt aflétt tímanlega áður en Samkeppniseftirlitið tekur endanlega ákvörðun í
-                                    málinu.
+                                   málinu.^1)
  Ekki er heimilt að nota upplýsingar sem fyrirsvarsmaður fyrirtækis hefur veitt
 Samkeppniseftirlitinu sem sönnunargagn í opinberu máli sem höfðað er gegn honum
-                 vegna brota sem tilgreind eru í 41. gr. a.]^1)
-                               ^1)L. 52/2007, 6. gr.
+               vegna brota sem tilgreind eru í 41. gr. a.^1)]^2)
+     ^1)Málsgreininni var breytt með [8]l. 88/2008, 234. gr. Breytingin tekur
+         gildi 1. jan. 2009 skv. [9]232. gr. s.l. ^2)L. 52/2007, 6. gr.
   43. gr. Ákvarðanir Samkeppniseftirlitsins um að leggja stjórnvaldssektir eða
    dagsektir á fyrirtæki eða samtök fyrirtækja eða mæla fyrir um ógildingu á
-   samruna fyrirtækja, sbr. 17. gr., eru aðfararhæfar, svo og sakarkostnaður.
+       samruna fyrirtækja, sbr. [17. gr. c],^1) eru aðfararhæfar, svo og
+                                sakarkostnaður.
      Málskot til áfrýjunarnefndar samkeppnismála frestar aðför en úrskurðir
                          nefndarinnar eru aðfararhæfir.
  Við aðför samkvæmt ákvörðunum Samkeppniseftirlitsins eða áfrýjunarnefndar skal
     kveðja gerðarþola fyrir héraðsdóm og um málsmeðferð fara skv. 13. kafla
                                   aðfararlaga.
+                               ^1)L. 94/2008, 8. gr.
 
                              X. kafli. Gildistaka.
                   44. gr. Lög þessi öðlast gildi 1. júlí 2005.
 Ákvæði til bráðabirgða. Starfsmönnum Samkeppnisstofnunar skal boðið annað starf
 hjá þeim stofnunum er taka við verkefnum Samkeppnisstofnunar 1. júlí 2005, þ.e.
  Samkeppniseftirliti og Neytendastofu. Við ráðstöfun þeirra starfa þarf ekki að
- gæta [6]7. gr. laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins.
+ gæta [10]7. gr. laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins.
   Viðskiptaráðherra er heimilt að skipa þegar stjórn Samkeppniseftirlitsins og
  skal stjórnin hafa heimild til að undirbúa gildistöku laganna, þ.m.t. að bjóða
 starfsmönnum Samkeppnisstofnunar annað starf hjá Samkeppniseftirlitinu, sbr. 1.
@@ -660,9 +766,13 @@ starfsmönnum Samkeppnisstofnunar annað starf hjá Samkeppniseftirlitinu, sbr. 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2005044
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=590
-   3. http://www.althingi.is/altext/131/s/0883.html
+   1. file://2008088.html
+   2. file://2008088.html#g234
+   3. file://2008088.html
    4. file://1993002.html
    5. file://1993008.html
-   6. file://1996070.html#g7
+   6. file://2008088.html#g234
+   7. file://2008088.html
+   8. file://2008088.html#g234
+   9. file://2008088.html
+  10. file://1996070.html#g7

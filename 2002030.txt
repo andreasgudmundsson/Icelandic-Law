@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,10 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 16. apríl 2002. EES-samningurinn: XI. viðauki tilskipun 2000/31/EB.
- Breytt með [4]l. 62/2005 (tóku gildi 1. júlí 2005), l. 108/2006 (tóku gildi 1.
+ Breytt með [1]l. 62/2005 (tóku gildi 1. júlí 2005), l. 108/2006 (tóku gildi 1.
     nóv. 2006 skv. augl. C 1/2006) og l. 34/2007 (tóku gildi 30. mars 2007).
 
                             I. kafli. Almenn ákvæði.
@@ -269,7 +268,7 @@ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfð
  ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili
     fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki
          gildistöku úrskurðar nefndarinnar né heimild til aðfarar.]^2)
-                  ^1)[5]L. 62/2005, 13. gr. ^2)L. 34/2007, 6. gr.
+                  ^1)[2]L. 62/2005, 13. gr. ^2)L. 34/2007, 6. gr.
                               20. gr. Tengiliður.
 Viðskiptaráðuneytið skal vera tengiliður vegna samstarfs við önnur aðildarríki á
  Evrópska efnahagssvæðinu um rafræn viðskipti. Þá skal viðskiptaráðuneytið vera
@@ -300,8 +299,5 @@ viðskipta, í tengslum við upplýsingasamfélagið á innri markaðnum (tils
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002030
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=489
-   3. http://www.althingi.is/altext/127/s/0774.html
-   4. file://2005062.html
-   5. file://2005062.html#g13
+   1. file://2005062.html
+   2. file://2005062.html#g13

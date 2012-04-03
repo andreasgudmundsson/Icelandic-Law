@@ -56,27 +56,27 @@
 References
 
    Visible links
-   1. http://www.althingi.is/lagas/135a/2001107.html
-   2. http://www.althingi.is/lagas/135a/2001104.html
-   3. http://www.althingi.is/lagas/135a/2001105.html
-   4. http://www.althingi.is/lagas/135a/2001106.html
-   5. http://www.althingi.is/lagas/135a/1959041.html
-   6. http://www.althingi.is/lagas/135a/1988058.html
-   7. http://www.althingi.is/lagas/135a/2007035.html
-   8. http://www.althingi.is/lagas/135a/1982035.html
-   9. http://www.althingi.is/lagas/135a/1984097.html
-  10. http://www.althingi.is/lagas/135a/1985066.html
-  11. http://www.althingi.is/lagas/135a/1994071.html
-  12. http://www.althingi.is/lagas/135a/1997036.html
-  13. http://www.althingi.is/lagas/135a/2002020.html
-  14. http://www.althingi.is/lagas/135a/2007091.html
-  15. http://www.althingi.is/lagas/135a/1998138.html
-  16. http://www.althingi.is/lagas/135a/1982036.html
-  17. http://www.althingi.is/lagas/135a/1985075.html
-  18. http://www.althingi.is/lagas/135a/2004076.html
-  19. http://www.althingi.is/lagas/135a/1999043.html
-  20. http://www.althingi.is/lagas/135a/2001137.html
-  21. http://www.althingi.is/lagas/135a/1970107.html
-  22. http://www.althingi.is/lagas/135a/1991035.html
-  23. http://www.althingi.is/lagas/135a/1998046.html
+   1. file://2001107.html
+   2. file://2001104.html
+   3. file://2001105.html
+   4. file://2001106.html
+   5. file://1959041.html
+   6. file://1988058.html
+   7. file://2007035.html
+   8. file://1982035.html
+   9. file://1984097.html
+  10. file://1985066.html
+  11. file://1994071.html
+  12. file://1997036.html
+  13. file://2002020.html
+  14. file://2007091.html
+  15. file://1998138.html
+  16. file://1982036.html
+  17. file://1985075.html
+  18. file://2004076.html
+  19. file://1999043.html
+  20. file://2001137.html
+  21. file://1970107.html
+  22. file://1991035.html
+  23. file://1998046.html
   24. file://kaflar.html

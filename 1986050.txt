@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,11 +7,13 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 21. maí 1986. Breytt með l. 61/1985 (tóku gildi 11. júlí 1985), l.
- 83/1997 (tóku gildi 6. júní 1997), l. 82/1998 (tóku gildi 1. okt. 1998), [4]l.
-  60/2006 (tóku gildi 1. júlí 2006) og l. 167/2007 (tóku gildi 1. jan. 2008).
+ 83/1997 (tóku gildi 6. júní 1997), l. 82/1998 (tóku gildi 1. okt. 1998), [1]l.
+  60/2006 (tóku gildi 1. júlí 2006), l. 167/2007 (tóku gildi 1. jan. 2008) og
+ [2]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi 21. júní
+                                     2008).
 
                               I. kafli. Tilgangur.
 1. gr. Tilgangur laga þessara er að efla innlendar rannsóknir á fisksjúkdómum og
@@ -27,10 +28,10 @@ Deildin lætur fiskeldisstöðvum í té vottorð um heilsufar fisks í stöðin
 því sem reglubundið eftirlit, sbr. lög [um varnir gegn fisksjúkdómum]^1) og lög
   nr. 61/1985,^2) og rannsóknir og önnur starfsemi deildarinnar samkvæmt lögum
                             þessum gefa tilefni til.
-   ^1)[5]L. 60/2006, 13. gr. ^2)L. 61/1985 breyttu þágildandi [6]l. 77/1981, um
+   ^1)[3]L. 60/2006, 13. gr. ^2)L. 61/1985 breyttu þágildandi [4]l. 77/1981, um
                                    dýralækna.
     3. gr. [Forstöðumaður Tilraunastöðvar Háskóla Íslands í meinafræði ræður
-   deildarstjóra Rannsóknadeildar fisksjúkdóma, sbr. [7]lög nr. 67/1990.]^1)
+   deildarstjóra Rannsóknadeildar fisksjúkdóma, sbr. [5]lög nr. 67/1990.]^1)
 Deildarstjóri sér um stjórn deildarinnar og markar henni stefnu og starfssvið í
  samræmi við lög og reglur og sér um tengsl við þá er varnir gegn fisksjúkdómum
   varða. Hann annast gerð starfs- og fjárhagsáætlunar og ber ábyrgð á fjárhag
@@ -125,19 +126,21 @@ Kostnaður við rannsóknir í klak- og eldisstöð, sem sett hefur verið í s�
                                     17. gr.
 18. gr. Fyrir brot gegn lögum þessum, reglugerðum og fyrirmælum gefnum samkvæmt
 þeim skal refsa með sektum en með [fangelsi allt að 2 árum]^1) séu sakir miklar.
-             Með mál vegna brota skal fara að hætti opinberra mála.
-                              ^1)L. 82/1998, 182. gr.
+           Með mál vegna brota skal fara að hætti opinberra mála.^2)
+     ^1)L. 82/1998, 182. gr. ^2)Málsgreinin var felld brott með [6]l. 88/2008,
+       233. gr. Breytingin tekur gildi 1. jan. 2009 skv. [7]232. gr. s.l.
                      19. gr. Lög þessi öðlast þegar gildi.
-                           Ákvæði til bráðabirgða. 1.
+                            Ákvæði til bráðabirgða.
+                                        1.
            2. Lög þessi skulu endurskoðuð innan fimm ára frá gildistöku.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1986050
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=108&mnr=431
-   3. http://www.althingi.is/altext/108/s/pdf/0791.pdf
-   4. file://2006060.html
-   5. file://2006060.html#g13
-   6. file://1981077.html
-   7. file://1990067.html
+   1. file://2006060.html
+   2. file://2008088.html
+   3. file://2006060.html#g13
+   4. file://1981077.html
+   5. file://1990067.html
+   6. file://2008088.html#g233
+   7. file://2008088.html

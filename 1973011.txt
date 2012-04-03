@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,16 +7,17 @@
 
    --------------------------------------------------------------------------
 
-                        [2]Ferill málsins á Alþingi.
+                          Ferill málsins á Alþingi.
 
-Tóku gildi 14. maí 1973. Breytt með [3]l. 91/1991 (tóku gildi 1. júlí 1992), l.
- 92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992) og
-                    [4]l. 61/2006 (tóku gildi 1. júlí 2006).
+Tóku gildi 14. maí 1973. Breytt með [1]l. 91/1991 (tóku gildi 1. júlí 1992), l.
+  92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992),
+ [2]l. 61/2006 (tóku gildi 1. júlí 2006) og l. 83/2008 (taka gildi 1. jan. 2009
+                   nema 22. gr. sem tók gildi 20. júní 2008).
 
  1. gr. Við ákvörðun bóta vegna eignarnáms, sem heimilað er í lögum, skal gætt
  ákvæða laga þessara. Sama á við bætur og annað endurgjald, sem lögum samkvæmt
  skal ákvarða í samræmi við lög um framkvæmd eignarnáms. Í engu skal þó haggað
-   ákvæðum laga ^1) um lax- og silungsveiði, né [5]vatnalaga, nr. 15/1923. Um
+   ákvæðum laga ^1) um lax- og silungsveiði, né [3]vatnalaga, nr. 15/1923. Um
   eignarnám til öflunar vatnsréttinda og aðstöðu til nýtingar þeirra samkvæmt
 öðrum lögum skal og fara eftir ákvæðum vatnalaga. Þá skulu einnig haldast ákvæði
  loftferðalaga, skipulagslaga, náttúruverndarlaga og vegalaga um fresti til að
@@ -27,7 +27,7 @@ Tóku gildi 14. maí 1973. Breytt með [3]l. 91/1991 (tóku gildi 1. júlí 1992
       Eignarnámsþoli: Eigandi verðmætis, sem eignarnám beinist að, eða annar
                 rétthafi, sem getur átt rétt til eignarnámsbóta.
              Heimildarlög: Lög, sem heimila eða fyrirskipa eignarnám.
-                             ^1)[6]L. 61/2006, 57. gr.
+                             ^1)[4]L. 61/2006, 57. gr.
  2. gr. Matsnefnd eignarnámsbóta sker úr ágreiningi um eignarnámsbætur og annað
         endurgjald, sem ákveða á samkvæmt lögum um framkvæmd eignarnáms.
 Ráðherra skipar formann matsnefndar til fimm ára í senn og annan til vara. Þeir
@@ -35,7 +35,7 @@ Ráðherra skipar formann matsnefndar til fimm ára í senn og annan til vara. �
  formaður tvo eða fjóra hæfa og óvilhalla menn. Um hæfi matsmanns til meðferðar
   einstaks máls skal fara eftir ákvæðum ^1) laga ^1) um meðferð einkamála ^1)
          eftir því sem við getur átt. Afl atkvæða ræður matsniðurstöðu.
-                            ^1)[7]L. 91/1991, 160. gr.
+                            ^1)[5]L. 91/1991, 160. gr.
      3. gr. Ef eigi leiðir annað af heimildarlögum, má með eignarnámi afla
    eignarréttar að landi og mannvirkjum ásamt því, sem þeim fylgir, skerða um
  ákveðinn tíma eða fyrir fullt og allt eignarrétt eða takmörkuð eignarréttindi
@@ -131,16 +131,17 @@ lauk, sem voru tilefni eignarnámsins. Sama gildir um bótakröfur eignarnámsþ
   meðal ágreining um fjárhæð eignarnámsbóta, en um síðastgreint atriði þó ekki
                    fyrr en úrlausn matsnefndar liggur fyrir.
 18. gr. Formaður matsnefndar varðveitir matsúrskurði og sér um útgáfu þeirra eða
- útdrátta úr þeim. Jafnan skal senda fasteignamati ríkisins afrit matsúrskurða.
+        útdrátta úr þeim. Jafnan skal senda fasteignamati ríkisins afrit
+                                matsúrskurða.^1)
+     ^1)Greininni var breytt með l. 83/2008, 24. gr. Breytingin tekur gildi 1.
+                          jan. 2009 skv. 23. gr. s.l.
                      19. gr. Lög þessi öðlast þegar gildi.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1973011
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=93&mnr=23
-   3. file://1991091.html
-   4. file://2006061.html
-   5. file://1923015.html
-   6. file://2006061.html#g57
-   7. file://1991091.html#g160
+   1. file://1991091.html
+   2. file://2006061.html
+   3. file://1923015.html
+   4. file://2006061.html#g57
+   5. file://1991091.html#g160

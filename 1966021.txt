@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,10 @@
 
    --------------------------------------------------------------------------
 
-                        [2]Ferill málsins á Alþingi.
+                          Ferill málsins á Alþingi.
 
- Tóku gildi 6. maí 1966. Breytt með l. 79/1975 (tóku gildi 1. jan. 1976), [3]l.
-20/1991 (tóku gildi 1. júlí 1992), [4]l. 90/1991 (tóku gildi 1. júlí 1992) og l.
+ Tóku gildi 6. maí 1966. Breytt með l. 79/1975 (tóku gildi 1. jan. 1976), [1]l.
+20/1991 (tóku gildi 1. júlí 1992), [2]l. 90/1991 (tóku gildi 1. júlí 1992) og l.
   92/1991 (tóku gildi 1. júlí 1992 nema 103. gr. sem tók gildi 9. jan. 1992).
 
                                    I. kafli.
@@ -85,7 +84,7 @@ sáttmálaríki, og er rétt að skrásetja eignarrétt samkvæmt skilríki um, 
  loftfarið eða hafi hann eignast loftfarið á annan hátt, samkvæmt skilríki, er
    [sýslumaður]^2) metur gilt, að hann hafi eignast loftfarið með tilgreindum
                                      hætti.
-                 ^1)[5]L. 20/1991, 136. gr. ^2)L. 92/1991, 45. gr.
+                 ^1)[3]L. 20/1991, 136. gr. ^2)L. 92/1991, 45. gr.
       10. gr. Rétt er, að skrásetning annarra réttinda fari fram samkvæmt:
      1. skjali, er varðar réttindin og tjáist vera útgefið af réttbærum aðilja
 eftir réttindaskránni til að ráðstafa réttinum, eða framsali hans, sé um veðrétt
@@ -107,7 +106,7 @@ Nú hefur eigi verið kveðið á um veðréttindi þau, sem í 5. gr. getur, n�
       Nú eignast ólögráða maður loftfar fyrir arf eða á annan hátt, og ber
                 lögráðamanni að tilkynna það til skrásetningar.
          Í tilkynningu skal tilgreina fæðingardag hins ólögráða manns.
-               ^1)[6]L. 90/1991, 91. gr. ^2)[7]L. 20/1991, 136. gr.
+               ^1)[4]L. 90/1991, 91. gr. ^2)[5]L. 20/1991, 136. gr.
  12. gr. Nú tálmar ekkert skrásetningu hins tilkynnta skjals, og skal skrásetja
                  það í réttindaskrá og árita um skrásetninguna.
 Nú greinir skjal eigi stöðu rétthafa í réttindastiga eða greinir hana þannig, að
@@ -288,10 +287,8 @@ lagaaðgerða, sem heimilaðar eru í lögum um toll og loftferðir og svo komu 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1966021
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=86&mnr=37
-   3. file://1991020.html
-   4. file://1991090.html
+   1. file://1991020.html
+   2. file://1991090.html
+   3. file://1991020.html#g136
+   4. file://1991090.html#g91
    5. file://1991020.html#g136
-   6. file://1991090.html#g91
-   7. file://1991020.html#g136

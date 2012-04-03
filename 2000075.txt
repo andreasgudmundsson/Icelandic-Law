@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
- Tóku gildi 1. janúar 2001. Breytt með l. 164/2002 (tóku gildi 1. jan. 2003) og
-                     l. 67/2007 (tóku gildi 4. apríl 2007).
+Tóku gildi 1. janúar 2001. Breytt með l. 164/2002 (tóku gildi 1. jan. 2003), l.
+  67/2007 (tóku gildi 4. apríl 2007) og [1]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                 I. kafli. Markmið, gildissvið og skilgreiningar.
                                 1. gr. Markmið.
@@ -317,7 +317,7 @@ hjá Brunamálastofnun áður en varan er sett á markað hér á landi. Kostna�
         Brunamálastofnun sker úr um ágreining vegna notkunarsviðs vöru.
 Telji Brunamálastofnun að vara fullnægi ekki kröfum skv. 1. mgr. er stofnuninni
        heimilt að banna sölu hennar. Um málsmeðferð Brunamálastofnunar og
- réttarfarsúrræði vegna sölubanns fer eftir ákvæðum IV. og [4]V. kafla laga nr.
+ réttarfarsúrræði vegna sölubanns fer eftir ákvæðum IV. og [2]V. kafla laga nr.
     134/1995, um öryggi vöru og opinbera markaðsgæslu, eftir því sem við á.
 
               VII. kafli. Tilkynningar um eldsvoða og rannsóknir.
@@ -327,11 +327,13 @@ Telji Brunamálastofnun að vara fullnægi ekki kröfum skv. 1. mgr. er stofnuni
                            27. gr. Lögreglurannsókn.
    Lögregla rannsakar eldsvoða þegar eftir brunatjón samkvæmt ákvæðum laga um
 meðferð opinberra mála og kveður til sérfróða menn eftir því sem hún telur þörf
-á. Hún tilkynnir Brunamálastofnun og Löggildingarstofu um eldsvoðann og rannsókn
-                                     sína.
+   á.^1) Hún tilkynnir Brunamálastofnun og Löggildingarstofu um eldsvoðann og
+                                 rannsókn sína.
        Að lokinni rannsókn sendir lögreglan afrit af rannsóknargögnum til
  Brunamálastofnunar, hlutaðeigandi slökkviliðsstjóra og vátryggingafélags nema
                        öðruvísi sé mælt fyrir um í lögum.
+    ^1)Málsliðnum var breytt með [3]l. 88/2008, 234. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [4]232. gr. s.l.
                       28. gr. Rannsókn Brunamálastofnunar.
    Verði manntjón eða mikið eignatjón í eldsvoða skal Brunamálastofnun, óháð
  lögreglurannsókn, rannsaka eldsvoðann, kröfur eldvarnaeftirlits og hvernig að
@@ -494,7 +496,7 @@ skv. 31. gr. Þótt ekki fáist leyfi fyrir búsetu í húsnæðinu á eigandi m
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000075
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=485
-   3. http://www.althingi.is/altext/125/s/0765.html
-   4. file://1995134.html
+   1. file://2008088.html
+   2. file://1995134.html
+   3. file://2008088.html#g234
+   4. file://2008088.html

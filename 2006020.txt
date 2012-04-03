@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Taka gildi 1. nóvember 2008. Breytt með l. 31/2007 (taka gildi 1. nóv. 2008), l.
- 133/2007 (tóku gildi 27. okt. 2007) og l. 167/2007 (tóku gildi 1. jan. 2008).
+133/2007 (tóku gildi 27. okt. 2007), l. 167/2007 (tóku gildi 1. jan. 2008) og l.
+  58/2008 (tóku gildi 11. júní 2008; koma til framkvæmda skv. fyrirmælum í 12.
+                                     gr.).
 
                         I. kafli. Markmið og gildissvið.
                                 1. gr. Markmið.
@@ -115,6 +116,25 @@ tiltölulegan þátt í kostnaði öllum af þeim ef talið verður að fasteign
            verða meira hagræði af framkvæmdunum en kostnaðinum nemur.
   Ef ekki verður samkomulag um framkvæmd eða umsjón verksins eða um skiptingu
             kostnaðar skal skorið úr með mati dómkvaddra matsmanna.
+  [9. gr. a. Takmarkanir á varanlegu framsali opinberra aðila á eignarrétti á
+                                     vatni.
+Ríki, sveitarfélögum og fyrirtækjum, sem alfarið eru í eigu þeirra, er óheimilt
+ að framselja beint eða óbeint og með varanlegum hætti eignarrétt að vatni sem
+                  hefur að geyma virkjanlegt afl umfram 10 MW.
+     Þrátt fyrir ákvæði 1. mgr. er heimilt að framselja réttindi til ríkis,
+  sveitarfélags eða félags sem alfarið er í eigu ríkis og/eða sveitarfélaga og
+      sérstaklega er stofnað til að fara með eignarhald þessara réttinda.
+Ríki, sveitarfélögum og félögum í þeirra eigu, sbr. 2. mgr., er heimilt að veita
+   tímabundið afnotarétt að réttindum skv. 1. mgr. til allt að 65 ára í senn.
+  Handhafi tímabundins afnotaréttar skal eiga rétt á viðræðum um framlengingu
+            réttarins þegar helmingur umsamins afnotatíma er liðinn.
+ Við ákvörðun um það hverjum skuli veittur afnotaréttur skal gæta jafnræðis. Þá
+      skal gæta þess að ákvörðunin stuðli að hagkvæmri nýtingu auðlinda og
+                          fjárfestinga í mannvirkjum.
+  Forsætisráðherra skal semja um endurgjald (leigu) fyrir afnotarétt réttinda
+ undir yfirráðum ríkisins skv. 3. mgr. Um ráðstöfun og endurgjald fyrir nýtingu
+      réttinda í þjóðlendum fer samkvæmt ákvæðum laga þar að lútandi.]^1)
+                               ^1)L. 58/2008, 1. gr.
 
                         III. kafli. Landamerki í vötnum.
                        10. gr. Landamerki í vatnsföllum.
@@ -357,7 +377,7 @@ tíma hlutdeild í stofnkostnaði, þau gjöld sem á félögum hvíla og með s
    vatnsnýtingar, þar á meðal framkvæmdir sem ekki eru leyfisskyldar samkvæmt
                             þessum lögum eða öðrum.
 Ekki er þó skylt að senda tilkynningu skv. 1. mgr. þegar [Matvælastofnun]^1) er
- send skrifleg umsókn um framkvæmd í eða við veiðivatn skv. [4]VII. kafla laga
+ send skrifleg umsókn um framkvæmd í eða við veiðivatn skv. [1]VII. kafla laga
 nr. 76/1970, um lax- og silungsveiði, með síðari breytingum. [Matvælastofnun]^1)
   skal þegar henni berst umsókn um leyfi fyrir framkvæmdum þegar í stað senda
                  Orkustofnun afrit af öllum slíkum umsóknum.^2)
@@ -425,7 +445,7 @@ koma til frádráttar sérhagur viðkomandi fasteignar af framkvæmdum. Að öð
                         sönnuð á starfsmann lögaðilans.
                               42. gr. Gildistaka.
                  [Lög þessi öðlast gildi 1. nóvember 2008.]^1)
-  Leyfi, sem veitt eru samkvæmt [5]vatnalögum, nr. 15/1923, og eru í gildi við
+  Leyfi, sem veitt eru samkvæmt [2]vatnalögum, nr. 15/1923, og eru í gildi við
                    gildistöku laga þessara, halda gildi sínu.
  Um vatnafélög sem starfrækt eru við gildistöku laga þessara skulu gilda ákvæði
  VIII. kafla laga þessara og samþykktir félagsins eftir því sem við getur átt.
@@ -437,8 +457,5 @@ koma til frádráttar sérhagur viðkomandi fasteignar af framkvæmdum. Að öð
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006020
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=268
-   3. http://www.althingi.is/altext/132/s/281.html
-   4. file://1970076.html
-   5. file://1923015.html
+   1. file://1970076.html
+   2. file://1923015.html

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 11. maí 1998. Breytt með l. 36/2000 (tóku gildi 26. maí 2000) og l.
                       159/2000 (tóku gildi 29. des. 2000).
 
-   1. gr. Ákvæði [4]5. gr. laga nr. 151 27. desember 1996, um fiskveiðar utan
+   1. gr. Ákvæði [1]5. gr. laga nr. 151 27. desember 1996, um fiskveiðar utan
     lögsögu Íslands, gilda ekki um úthlutun veiðiheimilda úr norsk-íslenska
                                 síldarstofninum.
 2. gr. Á árunum 1998, 1999, [2000 og 2001]^1) skulu eftirfarandi reglur gilda um
@@ -39,7 +38,7 @@ reglum fyrri málsliðar b-liðar. Tilkynna skal Fiskistofu fyrir fram um flutni
   lögsögu annarra. Þá getur ráðherra ákveðið að endurúthluta skuli afla eftir
    tiltekinn tíma sýnist það nauðsynlegt til að fullnýta leyfðan heildarafla
                                 íslenskra skipa.
-    e. Að öðru leyti gilda á þessu tímabili ákvæði [5]laga nr. 151 27. desember
+    e. Að öðru leyti gilda á þessu tímabili ákvæði [2]laga nr. 151 27. desember
      1996, um fiskveiðar utan lögsögu Íslands, um veiðar úr norsk-íslenska
                   síldarstofninum eftir því sem við getur átt.
                    ^1)L. 159/2000, 1. gr. ^2)L. 36/2000, 1. gr.
@@ -51,8 +50,5 @@ reglum fyrri málsliðar b-liðar. Tilkynna skal Fiskistofu fyrir fram um flutni
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998038
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=642
-   3. http://www.althingi.is/altext/122/s/1105.html
-   4. file://1996151.html#g5
-   5. file://1996151.html
+   1. file://1996151.html#g5
+   2. file://1996151.html

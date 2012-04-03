@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. janúar 2001. EES-samningurinn: XI. viðauki tilskipun 95/46/EB,
 XIX. viðauki tilskipun 97/7/EB og XI. viðauki tilskipun 97/66/EB. Breytt með l.
    90/2001 (tóku gildi 15. júní 2001; EES-samningurinn: XI. viðauki tilskipun
-95/46/EB), [4]l. 30/2002 (tóku gildi 16. apríl 2002), l. 81/2002 (tóku gildi 17.
+95/46/EB), [1]l. 30/2002 (tóku gildi 16. apríl 2002), l. 81/2002 (tóku gildi 17.
  maí 2002; EES-samningurinn: XI. viðauki tilskipun 95/46/EB), l. 46/2003 (tóku
 gildi 7. apríl 2003) l. 72/2003 (tóku gildi 10. apríl 2003) og l. 50/2006 (tóku
                               gildi 1. júlí 2006).
@@ -488,7 +487,7 @@ Viðtakandi markpósts á rétt á að fá vitneskju um hvaðan þær upplýsing
   skoðanakannanir. Persónuvernd er heimilt að undanþiggja vísindarannsóknir og
  hliðstæðar rannsóknir slíkum takmörkunum, enda þyki ljóst að slíkt geti skert
              til muna áreiðanleika niðurstöðu rannsóknarinnar.]^4)
-      ^1)L. 50/2006, 23. gr. ^2)Rgl. 36/2005. ^3)[5]L. 30/2002, 23. gr. ^4)L.
+      ^1)L. 50/2006, 23. gr. ^2)Rgl. 36/2005. ^3)[2]L. 30/2002, 23. gr. ^4)L.
                                 90/2001, 8. gr.
 
                 V. kafli. Flutningur persónuupplýsinga úr landi.
@@ -536,9 +535,9 @@ slíku. Getur stofnunin t.d. áskilið að ábyrgðaraðili hafi gert við viðt
  skriflegan samning sem hafi að geyma tiltekin stöðluð samningsákvæði í samræmi
 við ákvörðun sem Persónuvernd hefur auglýst í Stjórnartíðindum, að teknu tilliti
  til ákvarðana framkvæmdastjórnar Evrópubandalagsins, sbr. 2. mgr. 29. gr. laga
-  þessara. Að öðru leyti getur Persónuvernd sett nánari fyrirmæli um flutning
+ þessara. Að öðru leyti getur Persónuvernd sett nánari fyrirmæli^2) um flutning
                         persónuupplýsinga úr landi.]^1)
-                              ^1)L. 90/2001, 10. gr.
+                     ^1)L. 90/2001, 10. gr. ^2)Rgl. 712/2008.
 
                VI. kafli. Tilkynningarskylda, leyfisskylda o.fl.
                           31. gr. Tilkynningarskylda.
@@ -556,7 +555,7 @@ tilkynningarskyldu getur Persónuvernd sett fyrirmæli, þar á meðal um þau a
     sem talin eru í 2. mgr. 35. gr. Persónuvernd getur einnig mælt fyrir um
 ráðstafanir til að draga úr óhagræði sem slík vinnsla persónuupplýsinga kann að
                      hafa í för með sér fyrir hinn skráða.
-              ^1)Rgl. 698/2004, sbr. rgl. 836/2006 og rgl. 1042/2006.
+                                 ^1)Rgl. 712/2008.
                            32. gr. Efni tilkynninga.
    Í tilkynningu til Persónuverndar skv. 31. gr. skal tilgreina eftirfarandi
                                     atriði:
@@ -582,7 +581,7 @@ ráðstafanir til að draga úr óhagræði sem slík vinnsla persónuupplýsing
 upplýsingum nema henni hafi áður verið tilkynnt um breytta vinnslu. Persónuvernd
 getur mælt fyrir um ráðstafanir til að tryggja gæði og áreiðanleika tilkynninga
      og ákveðið mismunandi tilkynningarfrest eftir tegund og eðli vinnslu.
-   ^1)L. 81/2002, 4. gr. ^2)Rgl. 698/2004, sbr. rgl. 836/2006 og rgl. 1042/2006.
+                      ^1)L. 81/2002, 4. gr. ^2)Rgl. 712/2008.
                           33. gr. Leyfisskyld vinnsla.
 Sé um að ræða vinnslu almennra eða viðkvæmra persónuupplýsinga sem getur falið í
 sér sérstaka hættu á að farið verði í bága við réttindi og frelsi skráðra aðila
@@ -590,8 +589,7 @@ sér sérstaka hættu á að farið verði í bága við réttindi og frelsi skr
    verið athuguð af stofnuninni og samþykkt með útgáfu sérstakrar heimildar.
 Persónuvernd getur ákveðið^2) að slík leyfisskylda falli brott þegar settar hafa
   verið almennar reglur og öryggisstaðlar sem fylgja skuli við slíka vinnslu.
-     ^1)Rgl. 698/2004, sbr. rgl. 836/2006 og rgl. 1042/2006. ^2)Rgl. 170/2001,
-                              sbr. rgl. 157/2003.
+              ^1)Rgl. 712/2008. ^2)Rgl. 170/2001, sbr. rgl. 157/2003.
                     34. gr. Forsendur leyfisveitingar o.fl.
 Ábyrgðaraðila má aðeins veita leyfi skv. 33. gr., eða einstakar aðrar heimildir
     samkvæmt lögum þessum, ef líklegt er að hann geti fullnægt skyldum sínum
@@ -698,7 +696,7 @@ til að skoða myndir sem teknar hafa verið af honum. Persónuvernd setur jafnf
    afhendingu þess í öðrum tilvikum en þeim sem mælt er fyrir um í 2. mgr. 9.
                                     gr.]^5)
        ^1)L. 90/2001, 11. gr. ^2)Rgl. 340/2003. ^3)Augl. 1001/2001. ^4)Rgl.
-                        837/2006. ^5)L. 81/2002, 5. gr.
+              837/2006, sbr. rgl. 394/2008. ^5)L. 81/2002, 5. gr.
               38. gr. Aðgangur Persónuverndar að upplýsingum o.fl.
 Persónuvernd getur krafið ábyrgðaraðila, vinnsluaðila og þá sem starfa á þeirra
       vegum um allar þær upplýsingar og skriflegar skýringar sem henni eru
@@ -793,7 +791,7 @@ um eftirlit Persónuverndar með rafrænni vinnslu persónuupplýsinga hjá lög
 Þá skal í reglugerð kveða nánar á um starfsemi þeirra sem nota nafnalista, vinna
 nafnáritanir, þar á meðal við markaðssetningarstarfsemi, og við gerð markaðs- og
                                 skoðanakannana.
-                 ^1)Rg. 246/2001. ^2)Rg. 322/2001, sbr. 926/2004.
+           ^1)Rg. 246/2001. ^2)Rg. 322/2001, sbr. 926/2004 og 362/2008.
                               46. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 2001.
  Ákvæði til bráðabirgða. Þegar er lög þessi hafa verið birt skal ráðherra skipa
@@ -802,7 +800,7 @@ stjórn og auglýsa embætti forstjóra Persónuverndar laust til umsóknar. Eft
    annast undirbúning að gildistöku laganna og sinna stjórnsýslu skv. 2. mgr.
 Þrátt fyrir 1. mgr. 46. gr. skal Persónuvernd þegar er stjórn hennar hefur verið
        skipuð taka að sér eftirlit með því að meðferð persónuupplýsinga í
-  Schengen-upplýsingakerfinu á Íslandi sé í samræmi við [6]lög nr. 16/2000, um
+  Schengen-upplýsingakerfinu á Íslandi sé í samræmi við [3]lög nr. 16/2000, um
                       Schengen-upplýsingakerfið á Íslandi.
  Sérhver ábyrgðaraðili sem beitir rafrænni tækni við vinnslu persónuupplýsinga
  við gildistöku laganna skal á þar til gerðu eyðublaði tilkynna Persónuvernd um
@@ -814,9 +812,6 @@ Leyfi sem tölvunefnd hefur gefið út skulu halda gildi, enda fari þau ekki í
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000077
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=280
-   3. http://www.althingi.is/altext/125/s/0399.html
-   4. file://2002030.html
-   5. file://2002030.html#g23
-   6. file://2000016.html
+   1. file://2002030.html
+   2. file://2002030.html#g23
+   3. file://2000016.html

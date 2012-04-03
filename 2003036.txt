@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                            Tóku gildi 3. apríl 2003.
 1. gr. Hugtökin staðall, alþjóðlegur staðall, stöðlun, tækniforskrift og sammæli
@@ -51,7 +50,7 @@ hönd og fer með atkvæði landsins á þeim vettvangi. Heimilt er þó ráðin
     Íslands sjá til þess að á hverjum tíma séu til eintök af öllum gildandi
                                íslenskum stöðlum.
   7. gr. Til að standa straum af starfsemi Staðlaráðs Íslands rennur hluti af
- gjaldstofni tryggingagjalds samkvæmt [4]lögum nr. 113/1990, um tryggingagjald,
+ gjaldstofni tryggingagjalds samkvæmt [1]lögum nr. 113/1990, um tryggingagjald,
  með síðari breytingum, til Staðlaráðs Íslands. Aðrar tekjur Staðlaráðs Íslands
   eru m.a. aðildargjöld, sem ráðið ákveður, tekjur af verkefnum fyrir opinbera
                       aðila og sala á stöðlum og þjónustu.
@@ -64,7 +63,4 @@ hönd og fer með atkvæði landsins á þeim vettvangi. Heimilt er þó ráðin
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003036
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=461
-   3. http://www.althingi.is/altext/128/s/0699.html
-   4. file://1990113.html
+   1. file://1990113.html

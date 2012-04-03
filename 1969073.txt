@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,9 @@
 
    --------------------------------------------------------------------------
 
-                        [2]Ferill málsins á Alþingi.
+                          Ferill málsins á Alþingi.
 
- Tóku gildi 1. janúar 1970. Breytt með [3]l. 12/1986 (tóku gildi 1. jan. 1987),
+ Tóku gildi 1. janúar 1970. Breytt með [1]l. 12/1986 (tóku gildi 1. jan. 1987),
 l. 3/1990 (tóku gildi 23. febr. 1990), l. 14/1991 (tóku gildi 4. apríl 1991), l.
  83/1997 (tóku gildi 6. júní 1997), l. 121/1999 (tóku gildi 30. des. 1999), l.
   109/2007 (tóku gildi 28. júní 2007 nema ae-liður 1. gr. og 2. gr. sem tóku
@@ -55,7 +54,7 @@ gætt, að ráðuneyti lúti málefni, sem eðli sínu samkvæmt eiga þar heima
                                       gr.
       Nú þykir vafi á leika, undir hvert ráðuneyti málefni heyri, og sker
                             forsætisráðherra þá úr.
-      ^1)Rg. A 3/2004, sbr. rg. A 118/2006, rg. A 123/2006 og rg. A 125/2006.
+                                ^1)Rg. A 177/2007.
 9. gr. Ráðuneyti hefur eftirlit með starfrækslu stofnana, sem undir það ber, og
                         eignum á vegum þeirra stofnana.
 [Ráðherra kveður á um aðsetur stofnunar sem undir hann heyrir, nema á annan veg
@@ -79,7 +78,7 @@ Slíka skipan sem í 5. mgr.^3) greinir getur forsætisráðherra afnumið, er n
                                       ^1)
  [Nú er starfsmaður ráðuneytis ráðinn deildarstjóri og þarf þá eigi að auglýsa
   stöðuna sem hann er fluttur í.]^1) [Sama á við ef starfsmanni, sem ráðinn er
- ótímabundið, sbr. 1. mgr. [4]41. gr. laga nr. 70/1996, um réttindi og skyldur
+ ótímabundið, sbr. 1. mgr. [2]41. gr. laga nr. 70/1996, um réttindi og skyldur
 starfsmanna ríkisins, er boðið annað starf innan Stjórnarráðsins. Í reglum, sem
       forsætisráðherra setur, skal mæla fyrir um tilhögun auglýsinga innan
      Stjórnarráðsins um laus störf og önnur atriði er varða framkvæmd þessa
@@ -98,7 +97,7 @@ ráðuneyta fulltrúar, bókarar og ritarar eftir ákvörðun ráðherra. [Heimi
  [14. gr. Nú flytjast stjórnarmálefni milli ráðuneyta, sbr. 8. gr., og skal þá
  bjóða hlutaðeigandi starfsmönnum að sinna þeim áfram í því ráðuneyti er tekur
 við málefninu. Við flutninginn verða ekki breytingar á starfskjörum starfsmanna.
-Ákvæði [5]7. gr. laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins,
+Ákvæði [3]7. gr. laga nr. 70/1996, um réttindi og skyldur starfsmanna ríkisins,
            eiga ekki við um ráðstöfun starfa samkvæmt þessari grein.
   [Nú flytjast stjórnarmálefni milli ráðuneyta, sbr. 8. gr., og skal þá ljúka
 meðferð ólokinna stjórnsýslumála í því ráðuneyti sem við málefni tekur.]^1)]^2)
@@ -119,8 +118,6 @@ til fyrra starfs síns eða annars starfs eigi lakara að föstum launum í þj�
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1969073
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=89&mnr=2
-   3. file://1986012.html
-   4. file://1996070.html#g41
-   5. file://1996070.html#g7
+   1. file://1986012.html
+   2. file://1996070.html#g41
+   3. file://1996070.html#g7

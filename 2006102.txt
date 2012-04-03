@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -9,7 +8,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
       Tóku gildi 30. júní 2006 nema 14. gr. sem tók gildi 1. janúar 2007.
                     1. gr. Heimild til að stofna hlutafélag.
@@ -46,7 +45,7 @@ félögum og fyrirtækjum. Félaginu skal vera heimilt að gera hvers konar samn
    við aðra aðila til að ná tilgangi sínum á sem hagkvæmastan hátt. Tilgangi
                   félagsins skal nánar lýst í samþykktum þess.
                      6. gr. Frávik frá lögum um hlutafélög.
-Ákvæði 2. mgr. 3. gr., 1. mgr. 20. gr. og 2. tölul. 1. mgr. [4]107. gr. laga nr.
+Ákvæði 2. mgr. 3. gr., 1. mgr. 20. gr. og 2. tölul. 1. mgr. [1]107. gr. laga nr.
     2/1995, um hlutafélög, gilda ekki um tölu stofnenda og fjölda hluthafa í
   félaginu og ekki skal heldur ákvæði 2. mgr. 14. gr. hlutafélagalaga gilda um
   félagið. Um mat á stofnfé félagsins fer skv. 2. mgr. 3. gr. laga þessara. Að
@@ -55,8 +54,8 @@ félögum og fyrirtækjum. Félaginu skal vera heimilt að gera hvers konar samn
                           7. gr. Réttindi starfsmanna.
      Við niðurlagningu starfsemi flugleiðsöguþjónustu og flugvallareksturs
  Flugmálastjórnar Íslands, sbr. 9. gr., fer um réttindi og skyldur starfsmanna
-  eftir [5]lögum um réttindi og skyldur starfsmanna ríkisins, nr. 70/1996, með
-  síðari breytingum, og [6]lögum um réttarstöðu starfsmanna við aðilaskipti að
+  eftir [2]lögum um réttindi og skyldur starfsmanna ríkisins, nr. 70/1996, með
+  síðari breytingum, og [3]lögum um réttarstöðu starfsmanna við aðilaskipti að
                  fyrirtækjum, nr. 72/2002, eftir því sem við á.
                      8. gr. Stofnfundur og stofnyfirlýsing.
     Á stofnfundi skal leggja fram til afgreiðslu drög að stofnyfirlýsingu og
@@ -102,9 +101,6 @@ Stjórn félagsins skal setja þjónustugjaldskrá fyrir félagið. Heimilt er m
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006102
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=708
-   3. http://www.althingi.is/altext/132/s/1044.html
-   4. file://1995002.html#g107
-   5. file://1996070.html
-   6. file://2002072.html
+   1. file://1995002.html#g107
+   2. file://1996070.html
+   3. file://2002072.html

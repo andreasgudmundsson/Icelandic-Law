@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,11 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. júlí 1993. Breytt með l. 42/1996 (tóku gildi 1. júlí 1996), l.
-  149/1997 (tóku gildi 14. jan. 1998), l. 37/1999 (tóku gildi 1. maí 1999) og
-                   [4]l. 111/2000 (tóku gildi 1. jan. 2001).
+149/1997 (tóku gildi 14. jan. 1998), l. 37/1999 (tóku gildi 1. maí 1999), [1]l.
+  111/2000 (tóku gildi 1. jan. 2001) og [2]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                        I. kafli. Bætur fyrir líkamstjón.
                        Líkamstjón sem veldur ekki dauða.
@@ -43,7 +43,7 @@ frá lífeyrissjóði, greiðslur frá sjúkrasjóði],^1) dagpeninga og aðrar 
                    frá fjárhæðum þeim sem greinir í 1. málsl.
 [Um greiðslur frá þriðja manni fer eftir ákvæðum 1., 3., 4. og 5. málsl. 4. mgr.
                                    5. gr.]^2)
-                 ^1)L. 37/1999, 2. gr. ^2)[5]L. 111/2000, 24. gr.
+                 ^1)L. 37/1999, 2. gr. ^2)[3]L. 111/2000, 24. gr.
                                Varanlegur miski.
 4. gr. [Þegar fjárhæð bóta fyrir varanlegan miska er ákveðin skal litið til þess
      hvers eðlis og hversu miklar afleiðingar tjóns eru frá læknisfræðilegu
@@ -91,7 +91,7 @@ dragast frá skaðabótakröfu hans á hendur vinnuveitanda þeim sem slysatrygg
  miðað við 4,5% ársafvöxtun. Aðrar greiðslur sem tjónþoli fær frá þriðja manni
 vegna líkamstjóns, svo sem lífeyrissjóði eða vátryggingafélagi, dragast ekki frá
                               skaðabótakröfu.]^1)
-                 ^1)L. 37/1999, 4. gr. ^2)[6]L. 111/2000, 24. gr.
+                 ^1)L. 37/1999, 4. gr. ^2)[4]L. 111/2000, 24. gr.
    6. gr. [Bætur fyrir varanlega örorku skal meta til fjárhæðar á grundvelli
   örorkustigs tjónþola skv. 5. gr., árslauna hans skv. 7. gr. og eftirfarandi
 töflu, þannig að margfölduð séu saman örorkustig, árslaun og stuðull töflunnar í
@@ -184,8 +184,8 @@ m.a. vera heimild fyrir nefndina til þess að kveðja lækna og aðra sérfró�
   til starfa í þágu nefndarinnar og jafnframt ákveðið hvernig staðið skuli að
  birtingu helstu álitsgerða hennar. Í reglugerð skal og kveða á um gjald fyrir
                          álitsgerðir nefndarinnar.]^2)
-   ^1)Rg. 335/1993, sbr. 19/1996, 549/1996, 594/2001 og 338/2005. ^2)L. 37/1999,
-                                     9. gr.
+     ^1)Rg. 335/1993, sbr. 19/1996, 549/1996, 594/2001, 338/2005 og 183/2008.
+                             ^2)L. 37/1999, 9. gr.
                                  Endurupptaka.
 11. gr. Að kröfu tjónþola er heimilt að taka upp að nýju ákvörðun um bætur fyrir
  varanlegan miska eða örorkubætur. Skilyrði endurupptöku er að ófyrirsjáanlegar
@@ -244,11 +244,13 @@ bera vexti frá upphafsdegi metinnar örorku skv. 5. gr. Vextirnir skulu nema 4,
                               viðurkennd eða dæmd.
    Krafa um bætur fyrir þjáningar eða varanlegan miska erfist hafi hún verið
  viðurkennd, einkamál verið höfðað til heimtu hennar eða viðurkenningar eða hún
-                  hefur verið gerð fyrir dómi í opinberu máli.
+                hefur verið gerð fyrir dómi í opinberu máli.^1)
 Bætur, sem greindar eru í 1. mgr. og telja má að ekki hafi verið eytt, koma ekki
    til skipta við fjárslit milli hjóna. Bæturnar teljast hjúskapareign þegar
          eigandi bótanna andast nema þær séu séreign samkvæmt kaupmála.
    Reglur 1. og 3. mgr. eiga ekki við um bætur fyrir tímabundið atvinnutjón.
+     ^1)Málsgreininni var breytt með [5]l. 88/2008, 234. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [6]232. gr. s.l.
 
         II. kafli. Skaðabótaábyrgð vegna tjóns sem vátrygging tekur til.
      19. gr. Skaðabótaréttur stofnast ekki vegna tjóns sem munatrygging eða
@@ -344,10 +346,10 @@ og hún var 1. júlí 1993 (3282) og taka þær sömu breytingum og mælt er fyr
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993050
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=116&mnr=326
-   3. http://www.althingi.is/altext/116/s/0596.html
-   4. file://2000111.html
-   5. file://2000111.html#g24
-   6. file://2000111.html#g24
+   1. file://2000111.html
+   2. file://2008088.html
+   3. file://2000111.html#g24
+   4. file://2000111.html#g24
+   5. file://2008088.html#g234
+   6. file://2008088.html
    7. file://1995012.html

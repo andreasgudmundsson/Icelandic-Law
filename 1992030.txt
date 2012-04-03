@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,13 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. október 1992. Breytt með l. 111/1992 (tóku gildi 1. jan. 1993),
- [4]l. 37/1993 (tóku gildi 1. jan. 1994), l. 31/1995 (tóku gildi 1. jan. 1996),
- l. 37/1995 (tóku gildi 9. mars 1995), l. 96/1998 (tóku gildi 24. júní 1998) og
-                    l. 129/2004 (tóku gildi 31. des. 2005).
+ [1]l. 37/1993 (tóku gildi 1. jan. 1994), l. 31/1995 (tóku gildi 1. jan. 1996),
+l. 37/1995 (tóku gildi 9. mars 1995), l. 96/1998 (tóku gildi 24. júní 1998), l.
+ 129/2004 (tóku gildi 31. des. 2005) og [2]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                                  Upphafsákvæði.
  1. gr. Ágreiningsmál um ákvörðun skatta, gjalda og skattstofna, þar með talin
@@ -31,12 +31,12 @@ skrifstofuhúsnæði, lögum um frádrátt frá skattskyldum tekjum vegna fjárf
 almannatryggingar er varða skattákvörðun og öllum öðrum lögum um skattákvörðun.
       Yfirskattanefnd skal úrskurða kærur um öll gjöld sem skattstjórar og
                    ríkisskattstjóri úrskurða um skv. 1. mgr.
- Yfirskattanefnd skal úrskurða um sektir skv. [109., sbr. 110. gr., [5]laga nr.
-90/2003, um tekjuskatt],^1) skv. 30. gr., sbr. 31. gr., [6]laga nr. 45/1987, um
+ Yfirskattanefnd skal úrskurða um sektir skv. [109., sbr. 110. gr., [3]laga nr.
+90/2003, um tekjuskatt],^1) skv. 30. gr., sbr. 31. gr., [4]laga nr. 45/1987, um
  staðgreiðslu opinberra gjalda, með síðari breytingum, [skv. 40. gr., sbr. 41.
-   gr., [7]laga nr. 50/1988, um virðisaukaskatt, með síðari breytingum, skv.
-  38.40. gr., sbr. 41. gr., [8]laga nr. 145/1994, um bókhald, og skv. 84.87.
-         gr., sbr. 88. gr., [9]laga nr. 144/1994, um ársreikninga].^2)
+   gr., [5]laga nr. 50/1988, um virðisaukaskatt, með síðari breytingum, skv.
+  38.40. gr., sbr. 41. gr., [6]laga nr. 145/1994, um bókhald, og skv. 84.87.
+         gr., sbr. 88. gr., [7]laga nr. 144/1994, um ársreikninga].^2)
                    ^1)L. 129/2004, 93. gr. ^2)L. 37/1995, 8. gr.
                                      Aðild.
   3. gr. Skattaðilum er heimilt að skjóta til yfirskattanefndar kæruúrskurðum
@@ -62,7 +62,7 @@ Reykjavík. Nefndinni er þó heimilt að ákveða málflutning og úrskurða um
  kæranda að bæta úr annmörkum innan hæfilegs frests. Verði kærandi ekki við því
                    skal yfirskattanefnd vísa kærunni frá.]^1)
      [Kæra til yfirskattanefndar frestar ekki réttaráhrifum ákvörðunar.]^2)
-                 ^1)L. 96/1998, 1. gr. ^2)[10]L. 37/1993, 36. gr.
+                  ^1)L. 96/1998, 1. gr. ^2)[8]L. 37/1993, 36. gr.
                                   Gagnaöflun.
  6. gr. Yfirskattanefnd skal tafarlaust senda ríkisskattstjóra kæru skattaðila
        ásamt endurriti af þeim gögnum er kunna að fylgja kæru hans. Hafi
@@ -114,7 +114,7 @@ hluta eða öllu leyti, enda hafi hann haft uppi slíka kröfu við meðferð m�
                                   Nefndarmenn.
  9. gr. Í yfirskattanefnd skulu sitja sex menn sem skipaðir skulu til sex ára í
      senn og skulu fjórir nefndarmannanna hafa starfið að aðalstarfi. Skulu
-nefndarmenn fullnægja skilyrðum sem sett eru í [[11]85. gr. laga nr. 90/2003, um
+nefndarmenn fullnægja skilyrðum sem sett eru í [[9]85. gr. laga nr. 90/2003, um
 tekjuskatt],^1) um embættisgengi skattstjóra. Fjármálaráðherra skipar formann og
  varaformann úr hópi þeirra nefndarmanna sem hafa starfið að aðalstarfi. Báðir
  skulu uppfylla skilyrði sem sett eru um embættisgengi héraðsdómara. Ætíð skal
@@ -145,7 +145,7 @@ sérfróða aðila ef hún telur þörf á. Skulu þeir aðilar starfa með yfir
      hefur sætt efnisúrlausn hjá skattstjóra skal nefndin senda kæruna til
  skattstjóra til uppkvaðningar nýs úrskurðar. Nefndin skal tilkynna skattaðila,
               umboðsmanni hans og ríkisskattstjóra um þá ákvörðun.
-   Með slíkt mál skal skattstjóri fara skv. 99. gr. [[12]laga nr. 90/2003, um
+   Með slíkt mál skal skattstjóri fara skv. 99. gr. [[10]laga nr. 90/2003, um
  tekjuskatt],^1) og ljúka úrskurði innan tveggja mánaða frá því að honum barst
                     málið til meðferðar frá yfirskattanefnd.
                               ^1)L. 129/2004, 95. gr.
@@ -156,7 +156,7 @@ umsagnar skv. 6. gr. upplýsingar eða gögn sem ekki hafa legið fyrir skattstj
   við hina kærðu skattákvörðun en ríkisskattstjóri telur að eigi að leiða til
    verulega breyttrar niðurstöðu í málinu er ríkisskattstjóra heimilt að gefa
  skattaðila kost á því að honum verði gerður skattur að nýju, sbr. 3. mgr. 101.
-  gr. [[13]laga nr. 90/2003, um tekjuskatt],^1) með þeim áhrifum að kæran til
+  gr. [[11]laga nr. 90/2003, um tekjuskatt],^1) með þeim áhrifum að kæran til
   yfirskattanefndar teljist afturkölluð. Í tilkynningu um þetta til skattaðila
    skal tilgreina þær breytingar sem af endurákvörðun mundi leiða. Veita skal
 skattaðila 15 daga frest til að fara fram á endurákvörðun á þessum grundvelli og
@@ -226,10 +226,11 @@ dómsmeðferðar. Við meðferð máls skal gæta ákvæða laga um meðferð op
 sekta og annast kröfugerð í sektarmálum. Úrskurðir nefndarinnar um sektarfjárhæð
 eru fullnaðarúrskurðir. Sektir skulu renna í ríkissjóð, nema vegna brota á lögum
    um tekjustofna sveitarfélaga, en þá skal sektarfjárhæð renna í viðkomandi
-                                  sveitarsjóð.
+                                sveitarsjóð.^2)
    Um innheimtu sekta gilda sömu reglur og um innheimtu vanskilafjár og álags
             samkvæmt lögum sem talin eru upp í 2. gr. laga þessara.
-                              ^1)L. 111/1992, 27. gr.
+   ^1)L. 111/1992, 27. gr. ^2)Málsgreininni var breytt með [12]l. 88/2008, 234.
+         gr. Breytingin tekur gildi 1. jan. 2009 skv. [13]232. gr. s.l.
                                   Gildistaka.
              23. gr. Yfirskattanefnd skal hefja störf 1. júlí 1992.
                             Ákvæði til bráðabirgða.
@@ -238,16 +239,16 @@ eru fullnaðarúrskurðir. Sektir skulu renna í ríkissjóð, nema vegna brota 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1992030
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=115&mnr=464
-   3. http://www.althingi.is/altext/115/s/0722.html
-   4. file://1993037.html
-   5. file://2003090.html
-   6. file://1987045.html
-   7. file://1988050.html
-   8. file://1994145.html
-   9. file://1994144.html
-  10. file://1993037.html#g36
-  11. file://2003090.html#g85
-  12. file://2003090.html
-  13. file://2003090.html
+   1. file://1993037.html
+   2. file://2008088.html
+   3. file://2003090.html
+   4. file://1987045.html
+   5. file://1988050.html
+   6. file://1994145.html
+   7. file://1994144.html
+   8. file://1993037.html#g36
+   9. file://2003090.html#g85
+  10. file://2003090.html
+  11. file://2003090.html
+  12. file://2008088.html#g234
+  13. file://2008088.html

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                            Tóku gildi 1. janúar 2007.
                                 1. gr. Markmið.
@@ -74,7 +73,7 @@ torgs, vegar, fjalls, dals, stöðuvatns, fjarðar, hafsvæðis, skers, miðs o.
    Ríkið er eigandi að öllum réttindum sem Landmælingar Íslands hafa öðlast.
  Stofnunin gætir hagsmuna ríkisins á sviði höfunda- og afnotaréttar á öllu því
 efni sem hún hefur eignast, unnið eða gefið út í sambandi við mælingar, kort eða
-    myndir af Íslandi. Um höfundarétt gilda að öðru leyti [4]höfundalög, nr.
+    myndir af Íslandi. Um höfundarétt gilda að öðru leyti [1]höfundalög, nr.
                         73/1972, með síðari breytingum.
                    6. gr. Miðlun upplýsinga og afnotaréttur.
    Landmælingar Íslands miðla upplýsingum og veita aðgang að gögnum sem eru í
@@ -103,7 +102,8 @@ ríkissjóði samkvæmt fjárlögum. Landmælingar Íslands afla sér enn fremur
 8. gr. Skylt er að heimila þá för um landareign og uppsetningu mælingapunkta sem
   nauðsynleg getur talist við framkvæmd laga þessara. Ber að sýna landeiganda
                  tillitssemi og valda ekki ónæði að þarflausu.
-         9. gr. Ráðherra setur nánari reglur um framkvæmd laga þessara.
+       9. gr. Ráðherra setur nánari reglur^1) um framkvæmd laga þessara.
+                          ^1)Rg. 685/2008, sbr. 696/2008.
                  10. gr. Lög þessi öðlast gildi 1. janúar 2007.
 Ákvæði til bráðabirgða. Fyrir 1. janúar 2007 skal bjóða út lager prentaðra korta
  og geisladiska Landmælinga Íslands og réttindi honum tengd. Þó skal ekki bjóða
@@ -113,7 +113,4 @@ ríkissjóði samkvæmt fjárlögum. Landmælingar Íslands afla sér enn fremur
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2006103
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=132&mnr=668
-   3. http://www.althingi.is/altext/132/s/978.html
-   4. file://1972073.html
+   1. file://1972073.html

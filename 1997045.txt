@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,11 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. júní 1997. Breytt með l. 67/1998 (tóku gildi 24. júní 1998), l.
-82/1998 (tóku gildi 1. okt. 1998), l. 13/2000 (tóku gildi 28. apríl 2000) og l.
-                      54/2004 (tóku gildi 14. júní 2004).
+ 82/1998 (tóku gildi 1. okt. 1998), l. 13/2000 (tóku gildi 28. apríl 2000), l.
+  54/2004 (tóku gildi 14. júní 2004) og [1]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                             I. kafli. Almenn ákvæði.
   1. gr. Einstaklingar og lögaðilar geta öðlast einkarétt á vörumerki samkvæmt
@@ -382,7 +382,9 @@ hlutaðeigandi eða hann annars ræður yfir. Ef nauðsyn ber til má ákveða a
 skuli vöruna eða afhenda hana þeim er misgert var við gegn bótum eða án þeirra.
  45. gr. Rétt til að höfða mál skv. 43. og 44. gr. hefur sá sem telur hagsmuni
  sína skerta. Mál þessi skulu rekin sem almenn einkamál, en kröfur skv. 43. gr.
-                er einnig heimilt að setja fram í opinberu máli.
+              er einnig heimilt að setja fram í opinberu máli.^1)
+    ^1)Málsliðnum var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [3]232. gr. s.l.
     46. gr. Hafi leyfi verið veitt til notkunar á vörumerki er leyfissali og
         leyfishafi, hvor um sig, réttur sóknaraðili í málum um brot gegn
             vörumerkjaréttinum, enda hafi ekki verið um annað samið.
@@ -518,7 +520,7 @@ mánaða frá þeim degi sem Einkaleyfastofan eða áfrýjunarnefnd tók ákvör
 fyrir umsóknir, endurnýjanir, afgreiðslur, endurrit, áfrýjanir o.fl.]^2) Þá skal
          ráðherra setja nánari ákvæði^3) um áfrýjun og áfrýjunarnefnd.
        ^1)Rg. 310/1997, sbr. 528/2004; rg. 916/2001, sbr. 15/2003, 898/2003,
-  540/2004 og 1057/2007. ^2)L. 13/2000, 3. gr. ^3)Rg. 41/2000, sbr. 110/2003.
+         540/2004 og 1057/2007. ^2)L. 13/2000, 3. gr. ^3)Rg. 275/2008.
   66. gr. Lög þessi raska ekki gildi eldri vörumerkjaskráninga þótt vörumerkin
    fullnægi ekki skilyrðum laganna til þess að verða skráð sem ný vörumerki.
   Um vörumerki sem skráð eru samkvæmt eldri lögum kemur tilgreining á vöru eða
@@ -529,6 +531,6 @@ fyrir umsóknir, endurnýjanir, afgreiðslur, endurrit, áfrýjanir o.fl.]^2) Þ
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997045
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=233
-   3. http://www.althingi.is/altext/121/s/0338.html
+   1. file://2008088.html
+   2. file://2008088.html#g234
+   3. file://2008088.html

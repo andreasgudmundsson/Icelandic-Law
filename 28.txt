@@ -43,8 +43,8 @@
        2002
      * Lög um vörur unnar úr eðalmálmum, [21]nr. 77 8. maí 2002
      * Lög um staðla og Staðlaráð Íslands, [22]nr. 36 20. mars 2003
-     * Lög um eftirlit með óréttmætum viðskiptaháttum og gagnsæi markaðarins,
-       [23]nr. 57 20. maí 2005
+     * Lög um eftirlit með viðskiptaháttum og markaðssetningu, [23]nr. 57 20.
+       maí 2005
      * Lög um Neytendastofu og talsmann neytenda, [24]nr. 62 20. maí 2005
      * Lög um faggildingu o.fl., [25]nr. 24 12. apríl 2006
      * Lög um mælingar, mæligrunna og vigtarmenn, [26]nr. 91 14. júní 2006
@@ -56,31 +56,31 @@
 References
 
    Visible links
-   1. http://www.althingi.is/lagas/135a/1998028.html
-   2. http://www.althingi.is/lagas/135a/1969063.html
-   3. http://www.althingi.is/lagas/135a/1992103.html
-   4. http://www.althingi.is/lagas/135a/2000064.html
-   5. http://www.althingi.is/lagas/135a/2004099.html
-   6. http://www.althingi.is/lagas/135a/1994072.html
-   7. http://www.althingi.is/lagas/135a/1995093.html
-   8. http://www.althingi.is/lagas/135a/1995134.html
-   9. http://www.althingi.is/lagas/135a/2000051.html
-  10. http://www.althingi.is/lagas/135a/1952104.html
-  11. http://www.althingi.is/lagas/135a/1988004.html
-  12. http://www.althingi.is/lagas/135a/2002160.html
-  13. http://www.althingi.is/lagas/135a/1992088.html
-  14. http://www.althingi.is/lagas/135a/1854154.html
-  15. http://www.althingi.is/lagas/135a/2005044.html
-  16. http://www.althingi.is/lagas/135a/1979013.401.html
-  17. http://www.althingi.is/lagas/135a/1994121.html
-  18. http://www.althingi.is/lagas/135a/2000085.html
-  19. http://www.althingi.is/lagas/135a/2001028.html
-  20. http://www.althingi.is/lagas/135a/2002030.html
-  21. http://www.althingi.is/lagas/135a/2002077.html
-  22. http://www.althingi.is/lagas/135a/2003036.html
-  23. http://www.althingi.is/lagas/135a/2005057.html
-  24. http://www.althingi.is/lagas/135a/2005062.html
-  25. http://www.althingi.is/lagas/135a/2006024.html
-  26. http://www.althingi.is/lagas/135a/2006091.html
-  27. http://www.althingi.is/lagas/135a/2007056.html
+   1. file://1998028.html
+   2. file://1969063.html
+   3. file://1992103.html
+   4. file://2000064.html
+   5. file://2004099.html
+   6. file://1994072.html
+   7. file://1995093.html
+   8. file://1995134.html
+   9. file://2000051.html
+  10. file://1952104.html
+  11. file://1988004.html
+  12. file://2002160.html
+  13. file://1992088.html
+  14. file://1854154.html
+  15. file://2005044.html
+  16. file://1979013.401.html
+  17. file://1994121.html
+  18. file://2000085.html
+  19. file://2001028.html
+  20. file://2002030.html
+  21. file://2002077.html
+  22. file://2003036.html
+  23. file://2005057.html
+  24. file://2005062.html
+  25. file://2006024.html
+  26. file://2006091.html
+  27. file://2007056.html
   28. file://kaflar.html

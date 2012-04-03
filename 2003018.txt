@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                             Tóku gildi 1. júlí 2003.
                                 1. gr. Markmið.
@@ -74,7 +73,7 @@ Hlutverk áfengis- og vímuvarnaráðs er að efla og styrkja áfengis- og vímu
 Ráðið skal stuðla að samvinnu og samræmingu milli þeirra sem starfa að áfengis-
        og vímuvörnum, svo sem heilsugæslu og annarra heilbrigðisstofnana,
   sveitarstjórna, löggæslu, menntakerfis, refsivörslukerfis og félagasamtaka.
-Lýðheilsustöð skal ráðstafa fé úr Forvarnasjóði skv. [4]7. gr. laga nr. 96/1995,
+Lýðheilsustöð skal ráðstafa fé úr Forvarnasjóði skv. [1]7. gr. laga nr. 96/1995,
    um gjald af áfengi og tóbaki, til verkefna á sviði áfengis- og vímuvarna í
       samráði við ráðherra að fengnum tillögum áfengis- og vímuvarnaráðs.
 Heilbrigðis- og tryggingamálaráðherra skal setja reglugerð^1) þar sem kveðið er
@@ -115,7 +114,4 @@ Fjármálaráðuneytið skal hafa samráð við tóbaksvarnaráð um stefnumörk
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2003018
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=421
-   3. http://www.althingi.is/altext/128/s/0530.html
-   4. file://1995096.html#g7
+   1. file://1995096.html#g7

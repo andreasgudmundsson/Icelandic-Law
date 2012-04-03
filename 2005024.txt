@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,10 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                         Tóku gildi 1. september 2005.
+Tóku gildi 1. september 2005. Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                             I. kafli. Almenn ákvæði.
 1. gr. Ákvæði laga þessara taka til slysa og atvika sem tengjast umferð ökutækja
@@ -24,8 +24,10 @@ Samgönguráðherra skal í reglugerð tilgreina nánar hvað fellur undir umfer
 í ljós orsakir umferðarslyss til að koma í veg fyrir að sams konar umferðarslys
   verði aftur og draga úr afleiðingum sambærilegra slysa og stuðla með því að
                            auknu öryggi í umferðinni.
- Rannsókn umferðarslysa samkvæmt [4]lögum þessum er óháð rannsókn umferðarslysa
-             samkvæmt lögum um meðferð opinberra mála, nr. 19/1991.
+ Rannsókn umferðarslysa samkvæmt [2]lögum þessum er óháð rannsókn umferðarslysa
+           samkvæmt lögum um meðferð opinberra mála, nr. 19/1991.^1)
+     ^1)Málsgreininni var breytt með [3]l. 88/2008, 234. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [4]232. gr. s.l.
 
                   II. kafli. Skipulag umferðarslysarannsókna.
       3. gr. Rannsóknarnefnd umferðarslysa skal starfa sjálfstætt og óháð
@@ -76,7 +78,9 @@ svo miklu leyti sem slíkt er talið nauðsynlegt til verndar veigameiri hagsmun
       Hafi lögregla tekið ökutæki, hluta þess eða önnur gögn sem tengjast
   umferðarslysi í sínar vörslur á grundvelli laga um meðferð opinberra mála er
 rannsóknarstjóra heimilt að krefjast þess að slíkt verði ekki afhent eiganda eða
-         lögmætum rétthafa nema að höfðu samráði við rannsóknarstjóra.
+        lögmætum rétthafa nema að höfðu samráði við rannsóknarstjóra.^1)
+     ^1)Málsgreininni var breytt með [6]l. 88/2008, 234. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [7]232. gr. s.l.
   10. gr. Rannsóknarnefnd umferðarslysa er heimilt við rannsókn mála að leita
 eftir upplýsingum varðandi ökutæki, ökumenn, farþega, vitni og annað sem kann að
  skipta máli varðandi rannsóknina. Heimild þessi nær til öflunar upplýsinga og
@@ -87,7 +91,7 @@ læknum og öðru heilbrigðisstarfsfólki. Er þessum aðilum skylt að láta n
     persónuupplýsinga á borð við sjúkra- og krufningarskýrslur, auk annarra
        upplýsinga sem nefndin telur nauðsynlegar í þágu rannsóknar máls.
   Meðferð og vinnsla nefndarinnar á persónuupplýsingum skal vera í samræmi við
-       [6]lög um persónuvernd og meðferð persónuupplýsinga, nr. 77/2000.
+       [8]lög um persónuvernd og meðferð persónuupplýsinga, nr. 77/2000.
 Rannsóknarstjóra og rannsóknarnefnd umferðarslysa er heimilt að taka skýrslur af
 ökumanni, farþegum og hverjum öðrum sem ætla má að kunni að geta veitt vitneskju
                  er stuðli að því að leiða í ljós orsök slyss.
@@ -135,15 +139,17 @@ aðilum þeim sem sérlega ríkra hagsmuna hafa að gæta að mati nefndarinnar 
  2. mgr. beina tilvísun til trúnaðargagna sem hún aflar í tengslum við rannsókn
 máls, svo og gagna sem aflað hefur verið hjá lögreglu, sé rannsókn opinbers máls
    ekki lokið nema að því leyti sem óhjákvæmilegt er talið vegna greiningar á
-  orsökum umferðarslyss. Nöfn aðila er tengjast umferðarslysi skulu jafnframt
+ orsökum umferðarslyss.^1) Nöfn aðila er tengjast umferðarslysi skulu jafnframt
                          afmáð úr skýrslu nefndarinnar.
  Í skýrslum rannsóknarnefndar umferðarslysa skal ekki leitast við að skipta sök
                                   eða ábyrgð.
+    ^1)Málsliðnum var breytt með [9]l. 88/2008, 234. gr. Breytingin tekur gildi
+                      1. jan. 2009 skv. [10]232. gr. s.l.
       13. gr. Óheimilt er rannsóknarnefnd umferðarslysa að veita aðgang að
   trúnaðargögnum þeim sem nefndin aflar í tengslum við rannsókn einstakra mála
 nema að því marki sem slíkt reynist nauðsynlegt vegna umsagna aðila um skýrslur
        rannsóknarnefndar umferðarslysa. Eru slík gögn undanþegin ákvæðum
-                        [7]upplýsingalaga, nr. 50/1996.
+                        [11]upplýsingalaga, nr. 50/1996.
 Til trúnaðargagna í skilningi 1. mgr. teljast m.a. heilsufarslegar upplýsingar,
 álitsgerðir sem aflað hefur verið í tengslum við rannsókn máls og skýrslur vitna
                                og annarra aðila.
@@ -153,7 +159,9 @@ Til trúnaðargagna í skilningi 1. mgr. teljast m.a. heilsufarslegar upplýsing
   starfa í þeirra þágu við að veita umsögn upplýsingar um eða aðgang að slíkum
                                     gögnum.
   14. gr. Skýrslum rannsóknarnefndar umferðarslysa um rannsókn einstakra slysa
-             skal ekki beitt sem sönnunargögnum í opinberum málum.
+            skal ekki beitt sem sönnunargögnum í opinberum málum.^1)
+    ^1)Greininni var breytt með [12]l. 88/2008, 234. gr. Breytingin tekur gildi
+                      1. jan. 2009 skv. [13]232. gr. s.l.
 
                        V. kafli. Endurupptaka mála o.fl.
   15. gr. Rannsóknarnefnd umferðarslysa getur endurupptekið mál þótt rannsókn
@@ -175,16 +183,22 @@ nefndarinnar sé lokið, sbr. 12. gr., ef fram koma ný og mikilvæg gögn að h
                                  ^1)Rg. 702/2005.
                 17. gr. Lög þessi taka gildi 1. september 2005.
    Ákvæði til bráðabirgða. Skipunartíma rannsóknarnefndar umferðarslysa skv.
-  [8]115. gr. a umferðarlaga, nr. 50/1987, lýkur við gildistöku laga þessara.
+  [14]115. gr. a umferðarlaga, nr. 50/1987, lýkur við gildistöku laga þessara.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2005024
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=236
-   3. http://www.althingi.is/altext/131/s/0242.html
-   4. file://1991019.html
+   1. file://2008088.html
+   2. file://1991019.html
+   3. file://2008088.html#g234
+   4. file://2008088.html
    5. file://1993037.html
-   6. file://2000077.html
-   7. file://1996050.html
-   8. file://1987050.html#g115a
+   6. file://2008088.html#g234
+   7. file://2008088.html
+   8. file://2000077.html
+   9. file://2008088.html#g234
+  10. file://2008088.html
+  11. file://1996050.html
+  12. file://2008088.html#g234
+  13. file://2008088.html
+  14. file://1987050.html#g115a

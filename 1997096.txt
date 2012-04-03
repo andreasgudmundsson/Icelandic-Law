@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -9,11 +8,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. júlí 1997. Breytt með l. 82/1998 (tóku gildi 1. okt. 1998), l.
- 82/2002 (tóku gildi 1. júní 2002), l. 76/2005 (tóku gildi 1. jan. 2006) og l.
-                      167/2007 (tóku gildi 1. jan. 2008).
+  82/2002 (tóku gildi 1. júní 2002), l. 76/2005 (tóku gildi 1. jan. 2006), l.
+  167/2007 (tóku gildi 1. jan. 2008) og [1]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                      I. kafli. Tilgangur, gildissvið o.fl.
 1. gr. Tilgangur laga þessara er að tryggja svo sem kostur er gæði, heilnæmi og
@@ -130,8 +130,9 @@ um flutning sláturafurða á markað, útbúnað flutningatækja og meðferð a
    e. geymslu, meðferð og ráðstöfun á sýktum sláturafurðum og sláturúrgangi,^5)
              f. lágmarksreglur varðandi innra eftirlit sláturhúsa.^6)
    ^1)L. 167/2007, 65. gr. ^2)Rg. 650/2001, rg. 730/2003. ^3)Rg. 653/2001, sbr.
-866/2002, 580/2003, 639/2003, 480/2004, 578/2005, 91/2007, 798/2007, 965/2007 og
-          1218/2007. ^4)Rg. 461/2003. ^5)Rg. 820/2007. ^6)Rg. 40/1999.
+ 866/2002, 580/2003, 639/2003, 480/2004, 578/2005, 91/2007, 798/2007, 965/2007,
+  1218/2007, 124/2008, 196/2008, 443/2008 og 569/2008. ^4)Rg. 461/2003. ^5)Rg.
+                    820/2007, sbr. 679/2008. ^6)Rg. 40/1999.
 11. gr. Heilbrigðisskoðun skal fara fram á öllum sláturdýrum áður en slátrun fer
    fram og mega ekki líða meira en 12 klukkustundir frá þeirri skoðun og til
     slátrunar. Þó þarf slík skoðun ekki að fara fram ef upplýsingar um eldi,
@@ -186,10 +187,10 @@ upptöku og eyðingu á vörum sem ekki uppfylla þær kröfur sem gerðar eru �
     [Sjávarútvegs- og landbúnaðarráðherra]^2) setur reglugerð^3) um slátrun,
      kælingu, frystingu, hlutun, brytjun, pökkun, flutning og aðra meðferð
                                  sláturafurða.
-   ^1)Rg. 820/2007. ^2)L. 167/2007, 65. gr. ^3)Rg. 160/1984, rg. 484/1998, sbr.
+   ^1)Rg. 820/2007, sbr. 679/2008. ^2)L. 167/2007, 65. gr. ^3)Rg. 484/1998, sbr.
 723/1999, 635/2000, 724/2001, 786/2001 og 709/2003; rg. 653/2001, sbr. 866/2002,
-     580/2003, 639/2003, 480/2004, 578/2005, 91/2007, 798/2007, 965/2007 og
-                            1218/2007; rg. 461/2003.
+580/2003, 639/2003, 480/2004, 578/2005, 91/2007, 798/2007, 965/2007, 1218/2007,
+                 196/2008, 443/2008 og 569/2008; rg. 461/2003.
 
                         V. kafli. Gæðamat sláturafurða.
  15. gr. Kjötmatsmenn skulu meta allar sláturafurðir sem fluttar eru á erlendan
@@ -239,8 +240,9 @@ heimill aðgangur að húsnæði og fyrirtækjum þar sem sláturdýr eða afur�
                      VII. kafli. Refsiákvæði og gildistaka.
 21. gr. Brot gegn lögum þessum, reglugerðum og fyrirmælum, settum samkvæmt þeim,
        varða sektum eða [fangelsi allt að 2 árum]^1) ef sakir eru miklar.
-            Með mál vegna brota skal farið að hætti opinberra mála.
-                              ^1)L. 82/1998, 240. gr.
+           Með mál vegna brota skal farið að hætti opinberra mála.^2)
+     ^1)L. 82/1998, 240. gr. ^2)Málsgreinin var felld brott með [2]l. 88/2008,
+       233. gr. Breytingin tekur gildi 1. jan. 2009 skv. [3]232. gr. s.l.
                   22. gr. Lög þessi öðlast gildi 1. júlí 1997.
 
                             Ákvæði til bráðabirgða.
@@ -253,7 +255,7 @@ heimill aðgangur að húsnæði og fyrirtækjum þar sem sláturdýr eða afur�
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997096
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=477
-   3. http://www.althingi.is/altext/121/s/0804.html
+   1. file://2008088.html
+   2. file://2008088.html#g233
+   3. file://2008088.html
    4. file://1966030.html

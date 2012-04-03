@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-                        [2]Ferill málsins á Alþingi.
+                          Ferill málsins á Alþingi.
 
   Tóku gildi 27. maí 1977. Breytt með l. 45/1982 (tóku gildi 24. maí 1982), l.
   95/1984 (tóku gildi 13. júní 1984), l. 28/1989 (tóku gildi 23. maí 1989), l.
@@ -58,7 +57,7 @@ Tala hluthafa í félaginu skal óháð takmörkunum í almennum hlutafélagalö
  og réttur hluthafa til að neyta atkvæðisréttar fyrir allt atkvæðisbært hlutafé
                                      sitt.
                    Hlutabréf í félaginu skulu hljóða á nafn.
-                                ^1)Nú [3]l. 2/1995.
+                                ^1)Nú [1]l. 2/1995.
 5. gr. Fulltrúar í stjórn hlutafélagsins skulu skipaðir eða kjörnir á aðalfundi
                     til árs í senn, svo og varamenn þeirra.
    Fulltrúar í stjórn félagsins mega vera erlendir ríkisborgarar og búsettir
@@ -120,7 +119,7 @@ rekstrarútgjöldum þess næstliðið almanaksár samkvæmt ákvæðum skattala
  félagsins sem heild og kemur í stað aðstöðugjalds á þann rekstur skv. V. kafla
  laga nr. 8/1972, um tekjustofna sveitarfélaga,^3) og annarra gjalda, er leysa
                          kynnu aðstöðugjaldið af hólmi.
-         ^1)L. 129/2004, 41. gr. ^2)Nú [4]l. 90/2003. ^3)Nú [5]l. 4/1995.
+         ^1)L. 129/2004, 41. gr. ^2)Nú [2]l. 90/2003. ^3)Nú [3]l. 4/1995.
  8. gr. Um skattskyldu erlendra aðila, sem kvaddir eru til samvinnu samkvæmt 2.
    gr. laganna og eiga hlut í félaginu eða láta því í té tæknilega aðstoð eða
          aðstoð við sölu á afurðum þess, skal fara eftir ákvæðum þeirra
@@ -197,8 +196,6 @@ síðari lög og reglugerðir hér á landi varðandi mengunarvarnir og náttúr
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1977018
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=98&mnr=129
-   3. file://1995002.html
-   4. file://2003090.html
-   5. file://1995004.html
+   1. file://1995002.html
+   2. file://2003090.html
+   3. file://1995004.html

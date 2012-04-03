@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,13 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. janúar 1993. Breytt með l. 10/1995 (tóku gildi 1. mars 1995), l.
   35/1995 (tóku gildi 9. mars 1995), l. 36/1995 (tóku gildi 9. mars 1995), l.
- 84/1998 (tóku gildi 1. jan. 1999), l. 44/2003 (tóku gildi 3. apríl 2003) og l.
-                      129/2004 (tóku gildi 31. des. 2005).
+  84/1998 (tóku gildi 1. jan. 1999), l. 44/2003 (tóku gildi 3. apríl 2003), l.
+129/2004 (tóku gildi 31. des. 2005), bbl. 62/2008 (tóku gildi 11. júní 2008) og
+                     l. 119/2008 (tóku gildi 1. okt. 2008).
 
                               Hlutverk og stjórn.
  1. gr. Hlutverk Viðlagatryggingar Íslands er að vátryggja gegn tjóni af völdum
@@ -42,7 +42,7 @@ gr.],^1) en [ráðherra]^2) skipar einn og skal hann vera formaður. Varamenn sk
   vátryggingafélagi sem starfsleyfi hefur hér á landi. Vátryggingarskyldan nær
 einnig til lausafjár sem vátryggt er almennri samsettri vátryggingu er innifelur
   brunatryggingu, enda flokkist slík vátrygging undir eignatryggingar samkvæmt
- [[4]22. gr. laga nr. 60/1994, um vátryggingastarfsemi].^1) Sé brunatrygging á
+ [[1]22. gr. laga nr. 60/1994, um vátryggingastarfsemi].^1) Sé brunatrygging á
 lausafé innifalin í aláhættutryggingu (all risks vátryggingu) eða sértryggingu,
   t.d. fiskeldistryggingu, skal lausaféð ekki viðlagatryggt, nema með sérstöku
                        samþykki stjórnar stofnunarinnar.
@@ -80,17 +80,15 @@ skemmdum af náttúruhamförum en ella, er óheimilt að viðlagatryggja hvort s
       2. Ráðherra setur að fengnum tillögum stjórnar stofnunarinnar reglur um
     ákvörðun vátryggingarfjárhæðar fyrir aðra muni, sbr. 2. mgr. 5. gr. ^1)
                                ^1)L. 35/1995, 4. gr.
-                            Eigin áhætta vátryggðs.
-   10. gr. Eigin áhætta vátryggðs skal vera 5% af hverju tjóni, þó eigi lægri
+                          [Eigin áhætta vátryggðs.]^1)
+                              ^1)L. 119/2008, 1. gr.
+  10. gr. [Eigin áhætta vátryggðs skal vera 5% af hverju tjóni, þó eigi lægri
                              fjárhæð en hér segir:
-    1. Lágmark eigin áhættu vegna muna, sem vátryggðir eru skv. 1. mgr. 5. gr.,
-                                 er 40.000 kr.
-    2. Lágmark eigin áhættu vegna muna, sem vátryggðir eru skv. 2. mgr. 5. gr.,
-                                 er 400.000 kr.
-                                      3. ^1)
-   Ofangreindar lágmarksfjárhæðir skulu umreiknast til samræmis við gildandi
-                  vísitölu byggingarkostnaðar á hverjum tíma.
-                               ^1)L. 35/1995, 5. gr.
+        1. Vegna lausafjár, sem vátryggt er skv. 1. mgr. 5. gr., 20.000 kr.
+       2. Vegna húseigna, sem vátryggðar eru skv. 1. mgr. 5. gr., 85.000 kr.
+    3. Vegna mannvirkja, sem vátryggð eru skv. 2. mgr. 5. gr., 850.000 kr.]^1)
+   ^1)L. 119/2008, 1. gr. Ákvæðin taka til tjóna sem verða frá 25. maí 2008 skv.
+                                  2. gr. s.l.
                                     Iðgjöld.
                 11. gr. Árleg iðgjöld skal reikna sem hér segir:
             1. Af munum, sem vátryggðir eru skv. 1. mgr. 5. gr., 0,25.
@@ -130,7 +128,7 @@ hvort gera þurfi sérstakar ráðstafanir til björgunar vátryggðra muna eða
                               Vátryggingarstaður.
  14. gr. Sé vátryggður hlutur annars staðar en greint var er vátrygging á honum
 var tekin þegar vátryggingaratburð ber að höndum skal réttur til bóta fara eftir
-ákvæðum [5]83. gr. laga nr. 20/1954, um vátryggingarsamninga, eftir því sem við
+ákvæðum [2]83. gr. laga nr. 20/1954, um vátryggingarsamninga, eftir því sem við
         á. Ákvæði 83. gr. um 10.000 kr. hámark bóta skal þó ekki beita.
 Reglur 1. mgr. eiga við án tillits til ákvæða í brunatryggingarsamningi um bætur
             fyrir skemmdir á munum sem eru utan vátryggingarstaðar.
@@ -149,7 +147,7 @@ Reglur 1. mgr. eiga við án tillits til ákvæða í brunatryggingarsamningi um
 eða andstætt fyrirmælum í settum rétti og ljóst er að tjón hefur hlotist af eða
                         orðið víðtækara af þessum sökum.
  17. gr. Vátryggingabætur skulu inntar af hendi svo fljótt sem unnt er, sbr. 1.
-        og 2. mgr. [6]24. gr. laga nr. 20/1954, um vátryggingarsamninga.
+        og 2. mgr. [3]24. gr. laga nr. 20/1954, um vátryggingarsamninga.
       18. gr. Heildargreiðsluskylda Viðlagatryggingar Íslands vegna hvers
  vátryggingaratburðar takmarkast við 7,5 af samanlögðum vátryggingarfjárhæðum
      sem í gildi eru við upphaf vátryggingaratburðarins. Frá 1. janúar 1994
@@ -209,7 +207,7 @@ ekki saman um oddamann og skal þá fara eftir lögum um samningsbundna gerðard
                                     I. ]^1)
                                ^1)L. 35/1995, 8. gr.
  [II. Á árunum 199599 skal innheimta 10% álag á iðgjöld skv. 10. gr. Tekjur af
-   þessu álagi á iðgjöld skulu renna í ofanflóðasjóð, sbr. [7]10. gr. laga um
+   þessu álagi á iðgjöld skulu renna í ofanflóðasjóð, sbr. [4]10. gr. laga um
  varnir gegn snjóflóðum og skriðuföllum, nr. 28/1985. Um innheimtu þessa gjalds
                               fer skv. 10. gr.]^1)
                                ^1)L. 36/1995, 1. gr.
@@ -217,10 +215,7 @@ ekki saman um oddamann og skal þá fara eftir lögum um samningsbundna gerðard
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1992055
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=115&mnr=127
-   3. http://www.althingi.is/altext/115/s/0133.html
-   4. file://1994060.html#g22
-   5. file://1954020.html
-   6. file://1954020.html
-   7. file://1985028.html
+   1. file://1994060.html#g22
+   2. file://1954020.html
+   3. file://1954020.html
+   4. file://1985028.html

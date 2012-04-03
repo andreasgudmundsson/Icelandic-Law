@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,15 +7,18 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                         Tóku gildi 1. september 2007.
+ Tóku gildi 1. september 2007. Breytt með l. 12/2008 (tóku gildi 1. apríl 2008)
+og [1]l. 112/2008 (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi
+    25. sept. 2008; koma til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.).
 
             I. kafli. Markmið, skipun landlæknis og skilgreiningar.
                            1. gr. Embætti landlæknis.
-      Starfrækja skal embætti landlæknis undir yfirstjórn heilbrigðis- og
-tryggingamálaráðherra með það að markmiði að tryggja gæði heilbrigðisþjónustu og
-                        stuðla að heilbrigði landsmanna.
+Starfrækja skal embætti landlæknis undir yfirstjórn [heilbrigðisráðherra]^1) með
+  það að markmiði að tryggja gæði heilbrigðisþjónustu og stuðla að heilbrigði
+                                  landsmanna.
+                               ^1)L. 12/2008, 1. gr.
                            2. gr. Skipun landlæknis.
 Ráðherra skipar landlækni til fimm ára í senn að fengnu mati nefndar skv. 9. gr.
   laga um heilbrigðisþjónustu. Hann skal hafa sérfræðimenntun í læknisfræði og
@@ -31,12 +33,13 @@ Ráðherra skipar landlækni til fimm ára í senn að fengnu mati nefndar skv. 
     skyni að efla heilbrigði, fyrirbyggja, greina eða meðhöndla sjúkdóma eða
                               endurhæfa sjúklinga.
    2. Heilbrigðisstarfsmaður: Einstaklingur sem starfar við heilbrigðisþjónustu
-    og hlotið hefur leyfi heilbrigðis- og tryggingamálaráðherra til að nota
-                   starfsheiti löggiltrar heilbrigðisstéttar.
+    og hlotið hefur leyfi [landlæknis]^1) til að nota starfsheiti löggiltrar
+                              heilbrigðisstéttar.
        3. Heilbrigðisstofnun: Stofnun þar sem heilbrigðisþjónusta er veitt.
     4. Starfsstofur heilbrigðisstarfsmanna: Starfsstöðvar sjálfstætt starfandi
      heilbrigðisstarfsmanna þar sem heilbrigðisþjónusta er veitt með eða án
                            greiðsluþátttöku ríkisins.
+                               ^1)L. 12/2008, 2. gr.
 
                         II. kafli. Hlutverk landlæknis.
                           4. gr. Hlutverk landlæknis.
@@ -47,15 +50,18 @@ Ráðherra skipar landlækni til fimm ára í senn að fengnu mati nefndar skv. 
                  c. að hafa eftirlit með heilbrigðisstarfsmönnum,
         d. að hafa eftirlit með lyfjaávísunum og fylgjast með og stuðla að
                       skynsamlegri lyfjanotkun landsmanna,
-       e. að safna og vinna upplýsingar um heilsufar og heilbrigðisþjónustu,
-                     f. að fylgjast með heilbrigði landsmanna,
-                g. að vinna að gæðaþróun innan heilbrigðisþjónustu,
-            h. að sinna kvörtunum almennings vegna heilbrigðisþjónustu,
-   i. að stuðla að því að menntun heilbrigðisstarfsmanna sé í samræmi við kröfur
-                    heilbrigðisþjónustunnar á hverjum tíma,
-              j. að stuðla að rannsóknum á sviði heilbrigðisþjónustu,
-          k. að sinna öðrum verkefnum sem honum eru falin samkvæmt lögum,
+      [e. að veita starfsleyfi til einstaklinga sem uppfylla skilyrði laga og
+      reglugerða til notkunar starfsheita löggiltra heilbrigðisstétta],^1)
+    [f. ]^1) að safna og vinna upplýsingar um heilsufar og heilbrigðisþjónustu,
+                  [g. ]^1) að fylgjast með heilbrigði landsmanna,
+             [h. ]^1) að vinna að gæðaþróun innan heilbrigðisþjónustu,
+         [i. ]^1) að sinna kvörtunum almennings vegna heilbrigðisþjónustu,
+   [j. ]^1) að stuðla að því að menntun heilbrigðisstarfsmanna sé í samræmi við
+                 kröfur heilbrigðisþjónustunnar á hverjum tíma,
+           [k. ]^1) að stuðla að rannsóknum á sviði heilbrigðisþjónustu,
+       [l. ]^1) að sinna öðrum verkefnum sem honum eru falin samkvæmt lögum,
                   stjórnvaldsfyrirmælum eða ákvörðun ráðherra.
+                               ^1)L. 12/2008, 3. gr.
                  5. gr. Fyrirmæli, leiðbeiningar og ábendingar.
  Landlæknir getur gefið heilbrigðisstofnunum og heilbrigðisstarfsmönnum almenn
   fagleg fyrirmæli um vinnulag, aðgerðir og viðbrögð af ýmsu tagi sem þeim er
@@ -83,22 +89,24 @@ tegund heilbrigðisþjónustu, starfsmenn, búnað, tæki og húsnæði. Landlæ
         rekstri heilbrigðisþjónustu hætt skal tilkynna landlækni um það.
  Landlæknir staðfestir hvort fyrirhugaður rekstur heilbrigðisþjónustu uppfyllir
  faglegar kröfur og önnur skilyrði í heilbrigðislöggjöf. Hið sama gildir þegar
-  ráðherra endurnýjar samninga við heilbrigðisstofnanir. Óheimilt er að hefja
- starfsemi á sviði heilbrigðisþjónustu nema staðfesting landlæknis liggi fyrir.
-Landlækni er heimilt að gera frekari kröfur sé það talið nauðsynlegt vegna eðlis
-þeirrar starfsemi sem um er að ræða. Staðfesting landlæknis verður jafnframt að
-             liggja fyrir við meiri háttar breytingar skv. 2. mgr.
+       ráðherra [eða sjúkratryggingastofnunin]^2) endurnýjar samninga við
+heilbrigðisstofnanir. Óheimilt er að hefja starfsemi á sviði heilbrigðisþjónustu
+ nema staðfesting landlæknis liggi fyrir. Landlækni er heimilt að gera frekari
+kröfur sé það talið nauðsynlegt vegna eðlis þeirrar starfsemi sem um er að ræða.
+    Staðfesting landlæknis verður jafnframt að liggja fyrir við meiri háttar
+                            breytingar skv. 2. mgr.
     Heimilt er að skjóta synjun landlæknis um staðfestingu skv. 3. mgr. til
  ráðherra. Sama á við um ákvörðun landlæknis um að gera frekari kröfur skv. 3.
  mgr. Sé um að ræða heilbrigðisþjónustu sem ríkið hyggst reka hefur ráðherra þó
 ávallt úrskurðarvald um það hvort skilyrði laga og faglegar kröfur skv. 1. mgr.
                                 eru uppfylltar.
   Landlæknir heldur skrá yfir rekstraraðila í heilbrigðisþjónustu og skal hann
-           tilkynna ráðherra um allar breytingar sem verða á skránni.
+  tilkynna ráðherra [og sjúkratryggingastofnuninni]^2) um allar breytingar sem
+                                verða á skránni.
   Fyrir úttekt landlæknis skv. 2. mgr. og staðfestingu hans á því að faglegar
  kröfur séu uppfylltar, sbr. 3. mgr., er heimilt að taka gjald samkvæmt nánari
                     ákvæðum í reglugerð sem ráðherra setur.
-                                 ^1)Rg. 786/2007.
+                    ^1)Rg. 786/2007. ^2)[2]L. 112/2008, 64. gr.
                     7. gr. Eftirlit með heilbrigðisþjónustu.
   Landlæknir skal hafa reglubundið eftirlit með því að heilbrigðisþjónusta sem
  veitt er hér á landi uppfylli faglegar kröfur og ákvæði heilbrigðislöggjafar á
@@ -118,7 +126,7 @@ skýra ráðherra frá málinu og gera tillögur um hvað gera skuli. Getur rá�
                                hálfu landlæknis.
                                  ^1)Rg. 786/2007.
                     8. gr. Skýrslugerð og heilbrigðisskrár.
-  Landlæknir skal, í samræmi við reglugerð sem ráðherra setur, skipuleggja og
+ Landlæknir skal, í samræmi við reglugerð^1) sem ráðherra setur, skipuleggja og
 halda skrár á landsvísu um heilsufar, sjúkdóma, slys, lyfjaávísanir, fæðingar og
    starfsemi og árangur heilbrigðisþjónustunnar. Tilgangur skránna er að afla
  þekkingar um heilsufar og heilbrigðisþjónustu, hafa eftirlit með þjónustunni,
@@ -140,7 +148,7 @@ notkunar við áætlanagerð, stefnumótun og önnur verkefni ráðuneytisins og
                         7. Samskiptaskrá heilsugæslustöðva.
                 8. Samskiptaskrá sjálfstætt starfandi sérfræðinga.
  Persónuauðkenni í skrám landlæknis skv. 2. mgr. skulu dulkóðuð. Ráðherra mælir
-    nánar fyrir um það í reglugerð, að fenginni umsögn Persónuverndar, hvaða
+  nánar fyrir um það í reglugerð,^1) að fenginni umsögn Persónuverndar, hvaða
 persónuupplýsingar og heilsufarsupplýsingar megi færa í skrárnar og um dulkóðun
               þeirra og í hvaða tilvikum heimilt sé að afkóða þær.
          Landlæknir er ábyrgðarmaður þeirra skráa sem hann skipuleggur.
@@ -151,14 +159,14 @@ persónuupplýsingar og heilsufarsupplýsingar megi færa í skrárnar og um dul
  heilbrigðisþjónustu fyrirmæli um lágmarksskráningu upplýsinga í þessu skyni og
    hvernig staðið skuli að skráningu og miðlun upplýsinganna til embættisins.
 Fyrirmæli landlæknis skulu lögð fyrir ráðherra til staðfestingar og birt. Aðrar
-   stofnanir sem heyra undir heilbrigðis- og tryggingamálaráðuneytið og safna
-upplýsingum á heilbrigðissviði, svo sem Lyfjastofnun, Tryggingastofnun ríkisins
-  og Lýðheilsustöð, skulu jafnframt veita landlækni aðgang að upplýsingum sem
- aflað er í starfsemi þeirra og eru nauðsynlegar til að halda heilbrigðisskrár
-   skv. 1. og 2. mgr. eða til að sinna eftirliti samkvæmt lögum þessum. Skulu
-   þessar stofnanir hafa samráð við landlækni við söfnun og skráningu þessara
- upplýsinga og miðlun þeirra til landlæknis. Upplýsingar samkvæmt ákvæði þessu
-                    skulu veittar landlækni án endurgjalds.
+  stofnanir sem heyra undir [heilbrigðisráðuneytið]^2) og safna upplýsingum á
+  heilbrigðissviði, svo sem Lyfjastofnun, [sjúkratryggingastofnunin]^3) ^2) og
+ Lýðheilsustöð, skulu jafnframt veita landlækni aðgang að upplýsingum sem aflað
+er í starfsemi þeirra og eru nauðsynlegar til að halda heilbrigðisskrár skv. 1.
+og 2. mgr. eða til að sinna eftirliti samkvæmt lögum þessum. [Hið sama gildir um
+Tryggingastofnun ríkisins.]^2) Skulu þessar stofnanir hafa samráð við landlækni
+  við söfnun og skráningu þessara upplýsinga og miðlun þeirra til landlæknis.
+   Upplýsingar samkvæmt ákvæði þessu skulu veittar landlækni án endurgjalds.
  Landlæknir getur, með leyfi ráðherra, falið heilbrigðisstofnunum og sjálfstætt
 starfandi heilbrigðisstarfsmönnum, eða öðrum aðilum, umsjón tiltekinna skráa sem
 hann skipuleggur skv. 1. og 2. mgr. Gera skal skriflegan samning um slíkar skrár
@@ -175,8 +183,9 @@ veita honum allar upplýsingar sem hann þarf á að halda vegna lögboðins hlu
    Söfnun og meðferð upplýsinga samkvæmt ákvæði þessu skal vera í samræmi við
 ákvæði laga um persónuvernd og meðferð persónuupplýsinga og skal uppfylla kröfur
      Persónuverndar um öryggi persónuupplýsinga í skrám á heilbrigðissviði.
-       Ráðherra getur með reglugerð sett nánari ákvæði um gerð og vinnslu
+     Ráðherra getur með reglugerð^1) sett nánari ákvæði um gerð og vinnslu
        heilbrigðisskráa, miðlun upplýsinga og útgáfu heilbrigðisskýrslna.
+         ^1)Rg. 548/2008. ^2)L. 12/2008, 4. gr. ^3)[3]L. 112/2008, 64. gr.
                         9. gr. Skráning óvæntra atvika.
  Heilbrigðisstofnanir, sjálfstætt starfandi heilbrigðisstarfsmenn og aðrir sem
   veita heilbrigðisþjónustu skulu halda skrá um óvænt atvik í þeim tilgangi að
@@ -265,54 +274,57 @@ sjúkling til skoðunar ef sérstök ástæða þykir til. Um meðferð kvartana
      landlæknis, sem veitt eru án áminningar, skal landlæknir áminna hann.
   Við veitingu áminningar skal gætt ákvæða stjórnsýslulaga. Áminning skal vera
    skrifleg og rökstudd og ætíð veitt vegna tilgreinds atviks eða tilgreindra
-  atvika. Áminning skal veitt án ástæðulauss dráttar. Landlæknir sendir afrit
-                            áminningar til ráðherra.
+            atvika. Áminning skal veitt án ástæðulauss dráttar. ^1)
       Ákvörðun landlæknis um veitingu áminningar sætir kæru til ráðherra.
+                               ^1)L. 12/2008, 5. gr.
                   15. gr. Svipting og brottfall starfsleyfis.
-Komi áminning heilbrigðisstarfsmanns skv. 14. gr. ekki að haldi ber landlækni að
-skýra ráðherra frá málinu og gera tillögur um hvað gera skuli. Getur ráðherra þá
-    ákveðið að viðkomandi skuli sviptur starfsleyfi að fullu eða tímabundið.
-   Ráðherra getur svipt heilbrigðisstarfsmann starfsleyfi, án undangenginnar
- áminningar að fenginni tillögu landlæknis, ef viðkomandi er talinn ófær um að
-   gegna starfi sínu svo forsvaranlegt sé, svo sem vegna alvarlegra andlegra
-      erfiðleika, andlegs eða líkamlegs heilsubrests, neyslu fíkniefna eða
-sambærilegra efna, misnotkunar áfengis eða skorts á faglegri hæfni. Sama gildir
-ef heilbrigðisstarfsmaður brýtur alvarlega gegn starfsskyldum sínum, svo sem með
-     því að gefa út röng og villandi vottorð, með því að veita umsagnir að
-  órannsökuðu máli, með því að gefa út ranga og villandi reikninga, með því að
- rjúfa þagnarskyldu sem á honum hvílir, með því að sýna alvarlegt hirðuleysi í
-           störfum sínum eða með öðru atferli sem fer í bága við lög.
-Séu skilyrði sviptingar starfsleyfis fyrir hendi er ráðherra heimilt að fenginni
-tillögu landlæknis að takmarka starfsréttindi tímabundið. Gera skal skýra grein
-fyrir í hverju takmarkanir eru fólgnar, hver gildistíminn skuli vera og hvernig
-                            eftirliti skuli háttað.
+   [Komi áminning landlæknis skv. 14. gr. ekki að haldi getur hann ákveðið að
+       viðkomandi skuli sviptur starfsleyfi að fullu eða tímabundið.]^1)
+  [Landlæknir getur svipt heilbrigðisstarfsmann starfsleyfi án undangenginnar
+    áminningar]^1) ef viðkomandi er talinn ófær um að gegna starfi sínu svo
+  forsvaranlegt sé, svo sem vegna alvarlegra andlegra erfiðleika, andlegs eða
+  líkamlegs heilsubrests, neyslu fíkniefna eða sambærilegra efna, misnotkunar
+   áfengis eða skorts á faglegri hæfni. Sama gildir ef heilbrigðisstarfsmaður
+ brýtur alvarlega gegn starfsskyldum sínum, svo sem með því að gefa út röng og
+villandi vottorð, með því að veita umsagnir að órannsökuðu máli, með því að gefa
+   út ranga og villandi reikninga, með því að rjúfa þagnarskyldu sem á honum
+   hvílir, með því að sýna alvarlegt hirðuleysi í störfum sínum eða með öðru
+                        atferli sem fer í bága við lög.
+ Séu skilyrði sviptingar starfsleyfis fyrir hendi er [landlækni heimilt]^1) að
+    takmarka starfsréttindi tímabundið. Gera skal skýra grein fyrir í hverju
+takmarkanir eru fólgnar, hver gildistíminn skuli vera og hvernig eftirliti skuli
+                                    háttað.
     Málsmeðferð við töku ákvörðunar um sviptingu starfsleyfis eða takmörkun
                starfsleyfis fer samkvæmt ákvæðum stjórnsýslulaga.
 Séu ríkar ástæður til að ætla að skilyrði fyrir sviptingu starfsleyfis séu fyrir
   hendi og að töf á sviptingu geti haft hættu í för með sér fyrir sjúklinga er
  landlækni þó heimilt að svipta heilbrigðisstarfsmann starfsleyfi þegar í stað
-    þar til endanleg ákvörðun í málinu skv. 1. og 2. mgr. hefur verið tekin.
-    Landlæknir skal tilkynna ráðherra um bráðabirgðasviptingu án tafar. Hafi
- ráðherra ekki tekið endanlega ákvörðun um sviptingu skv. 1. mgr. innan þriggja
-                    mánaða fellur bráðabirgðasvipting niður.
+  þar til endanleg ákvörðun í málinu skv. 1. og 2. mgr. hefur verið tekin. ^1)
+  Hafi [landlæknir]^1) ekki tekið endanlega ákvörðun um sviptingu skv. 1. mgr.
+             innan þriggja mánaða fellur bráðabirgðasvipting niður.
+[Ákvörðun landlæknis um sviptingu starfsleyfis eða takmörkun starfsleyfis sætir
+                             kæru til ráðherra.]^1)
  Byggi heilbrigðisstarfsmaður starfsréttindi sín hér á landi á starfsleyfi sem
  útgefið er í öðru landi falla starfsréttindi hans hér á landi niður ef hann er
                         sviptur starfsleyfi í því landi.
  Starfsréttindi heilbrigðisstarfsmanns falla niður sé hann sviptur lögræði eða
     hann uppfyllir ekki lengur þau skilyrði sem krafist var þegar hann fékk
                                 starfsréttindi.
+                               ^1)L. 12/2008, 6. gr.
                           16. gr. Afsal starfsleyfis.
 Heilbrigðisstarfsmaður getur afsalað sér starfsleyfi með skriflegri tilkynningu
- til ráðherra. Það kemur þó ekki í veg fyrir að veitt sé áminning skv. 14. gr.,
-  þegar það á við, né formlega sviptingu skv. 15. gr. ef um er að ræða brot í
+til [landlæknis].^1) Það kemur þó ekki í veg fyrir að veitt sé áminning skv. 14.
+gr., þegar það á við, né formlega sviptingu skv. 15. gr. ef um er að ræða brot í
                        starfi sem varðað geta sviptingu.
+                               ^1)L. 12/2008, 7. gr.
                        17. gr. Endurveiting starfsleyfis.
- Ráðherra getur að tillögu landlæknis veitt heilbrigðisstarfsmanni, sem sviptur
-hefur verið starfsleyfi eða hefur afsalað sér því, starfsleyfi að nýju enda hafi
-   viðkomandi sýnt fram á að hann uppfylli skilyrði laga fyrir endurveitingu
- starfsleyfis og að þær ástæður sem leiddu til sviptingar eða afsals eigi ekki
-    lengur við. Ráðherra getur ákveðið að endurveitt starfsleyfi skuli vera
-                     tímabundið eða takmarkað, sbr. 15. gr.
+  [Landlæknir getur]^1) veitt heilbrigðisstarfsmanni, sem sviptur hefur verið
+starfsleyfi eða hefur afsalað sér því, starfsleyfi að nýju enda hafi viðkomandi
+ sýnt fram á að hann uppfylli skilyrði laga fyrir endurveitingu starfsleyfis og
+   að þær ástæður sem leiddu til sviptingar eða afsals eigi ekki lengur við.
+ [Landlæknir]^1) getur ákveðið að endurveitt starfsleyfi skuli vera tímabundið
+                          eða takmarkað, sbr. 15. gr.
+                               ^1)L. 12/2008, 8. gr.
 
                            IV. kafli. Ávísanir lyfja.
                       18. gr. Eftirlit með ávísunum lyfja.
@@ -328,11 +340,10 @@ til sérstaks eftirlits með ávísunum á lyf og þá einkum á ávana- og fík
                   19. gr. Svipting réttar til að ávísa lyfjum.
   Verði læknir eða tannlæknir uppvís að því að ávísa lyfjum í bága við lög eða
 stjórnvaldsfyrirmæli eða þannig að óhæfilegt megi teljast skal landlæknir áminna
-hann. Komi áminning landlæknis skv. 14. gr. ekki að haldi ber landlækni að skýra
-   ráðherra frá málinu og gera tillögur um hvað gera skuli. Getur ráðherra þá
-ákveðið að svipta viðkomandi lækni eða tannlækni leyfi til þess að ávísa lyfjum,
-     öllum eða einstökum flokkum, enda þyki ekki ástæða til að svipta hann
-                            starfsleyfi skv. 15. gr.
+hann. [Komi áminning landlæknis skv. 14. gr. ekki að haldi getur hann ákveðið að
+svipta viðkomandi lækni eða tannlækni leyfi til þess að ávísa lyfjum, öllum eða
+einstökum flokkum, enda þyki ekki ástæða til að svipta hann starfsleyfi skv. 15.
+                                  gr.]^1) ^1)
  Málsmeðferð við töku ákvörðunar um sviptingu réttar til þess að ávísa lyfjum,
        öllum eða einstökum flokkum, fer samkvæmt ákvæðum stjórnsýslulaga.
  Séu ríkar ástæður til að ætla að skilyrði fyrir sviptingu réttar til að ávísa
@@ -340,21 +351,25 @@ lyfjum séu fyrir hendi og talið að töf á sviptingu geti haft hættu í för
  fyrir sjúklinga er landlækni heimilt, án undangenginnar áminningar, að svipta
   lækni eða tannlækni rétti til að ávísa lyfjum, öllum eða einstökum flokkum,
 þegar í stað, þar til tekin hefur verið endanleg ákvörðun í málinu skv. 1. mgr.
-    Landlæknir skal tilkynna ráðherra um bráðabirgðasviptingu án tafar. Hafi
- ráðherra ekki tekið endanlega ákvörðun um sviptingu skv. 1. mgr. innan þriggja
-                    mánaða fellur bráðabirgðasvipting niður.
+^1) Hafi [landlæknir]^1) ekki tekið endanlega ákvörðun um sviptingu skv. 1. mgr.
+             innan þriggja mánaða fellur bráðabirgðasvipting niður.
+  [Ákvörðun landlæknis um sviptingu réttar til að ávísa lyfjum sætir kæru til
+                                 ráðherra.]^1)
+                               ^1)L. 12/2008, 9. gr.
                 20. gr. Endurveiting réttar til að ávísa lyfjum.
- Ráðherra getur að tillögu landlæknis afturkallað sviptingu réttar skv. 19. gr.
-til að ávísa lyfjum, öllum eða einstökum flokkum, enda hafi viðkomandi sýnt fram
-        á að þær ástæður sem leiddu til sviptingar eigi ekki við lengur.
+  [Landlæknir getur]^1) afturkallað sviptingu réttar skv. 19. gr. til að ávísa
+  lyfjum, öllum eða einstökum flokkum, enda hafi viðkomandi sýnt fram á að þær
+            ástæður sem leiddu til sviptingar eigi ekki við lengur.
+                              ^1)L. 12/2008, 10. gr.
 
                              V. kafli. Ýmis ákvæði.
                              21. gr. Tilkynningar.
  Tilkynna skal sviptingu, afsal eða takmörkun starfsleyfis og sviptingu réttar
 til að ávísa lyfjum, svo og endurveitingu þessara réttinda, sbr. 15.17. gr. og
-  19. og 20. gr., til landlæknis, Tryggingastofnunar ríkisins, Lyfjastofnunar,
+  19. og 20. gr., til ^1) [sjúkratryggingastofnunarinnar],^2) Lyfjastofnunar,
 vinnuveitenda og annarra þeirra sem málið kann að varða, svo og til þeirra ríkja
                 sem Íslandi er að þjóðarétti skylt að tilkynna.
+                 ^1)L. 12/2008, 11. gr. ^2)[4]L. 112/2008, 64. gr.
                                22. gr. Reglugerð.
  Ráðherra getur með reglugerð^1) sett nánari ákvæði um framkvæmd laga þessara.
                                  ^1)Rg. 990/2007.
@@ -365,6 +380,7 @@ vinnuveitenda og annarra þeirra sem málið kann að varða, svo og til þeirra
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007041
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=273
-   3. http://www.althingi.is/altext/133/s/282.html
+   1. file://2008112.html
+   2. file://2008112.html
+   3. file://2008112.html
+   4. file://2008112.html

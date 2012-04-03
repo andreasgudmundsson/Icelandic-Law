@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -9,9 +8,10 @@
    --------------------------------------------------------------------------
 
 Upphaflega l. 30/1993. Tóku gildi 1. október 1993. Endurútgefin, sbr. 15. gr. l.
-101/1994, sem [2]l. 121/1994. Breytt með l. 179/2000 (tóku gildi 11. jan. 2001;
-EES-samningurinn: tilskipun 87/102/EBE), [3]l. 62/2005 (tóku gildi 1. júlí 2005)
-                   og l. 34/2007 (tóku gildi 30. mars 2007).
+101/1994, sem [1]l. 121/1994. Breytt með l. 179/2000 (tóku gildi 11. jan. 2001;
+   EES-samningurinn: tilskipun 87/102/EBE), [2]l. 62/2005 (tóku gildi 1. júlí
+2005), l. 34/2007 (tóku gildi 30. mars 2007) og l. 63/2008 (tóku gildi 12. júní
+                                     2008).
 
                     I. kafli. Gildissvið og hugtök laganna.
 1. gr. Lög þessi taka til lánssamninga sem lánveitandi gerir í atvinnuskyni við
@@ -47,7 +47,11 @@ samningstímanum. Í þeim tilvikum skal neytandi upplýstur um það með hvað
   að munnlegri beiðni neytanda að breyta yfirdráttarheimild á tékkareikningi.
 Heimilt er að kveða nánar á um framkvæmd upplýsingaskyldu samkvæmt þessari grein
                 í reglugerð sem ráðherra setur, sbr. 13. gr.]^1)
-                              ^1)L. 179/2000, 2. gr.
+     [Fjármálafyrirtæki er ekki heimilt að innheimta kostnað vegna óheimils
+    yfirdráttar af tékkareikningi ef slík gjaldtaka á ekki stoð í samningi.
+ Kostnaður vegna óheimils yfirdráttar skal vera hóflegur og endurspegla kostnað
+                           vegna yfirdráttarins.]^2)
+                   ^1)L. 179/2000, 2. gr. ^2)L. 63/2008, 1. gr.
               4. gr. Merking orða í lögum þessum er sem hér segir:
     a. Neytandi er einstaklingur sem á lánsviðskipti sem lög þessi ná til, enda
                 séu þau ekki gerð í atvinnuskyni af hans hálfu.
@@ -90,6 +94,17 @@ Heimilt er að kveða nánar á um framkvæmd upplýsingaskyldu samkvæmt þessa
   breytingarnar geta orðið. Ef ekki er unnt að reikna út árlega hlutfallstölu
   kostnaðar skal lánveitandi þess í stað skýra neytanda frá því hverjir vextir
   eru, hvaða gjöld falla á lánið og við hvaða aðstæður breytingar geti orðið.
+ [Breytingar á gjaldtöku vegna lánssamninga samkvæmt lögum þessum skal tilkynna
+að lágmarki einni viku áður en þær taka gildi ef þær eru ekki til hagsbóta fyrir
+     neytendur. Lánveitandi telst uppfylla skilyrði þessarar málsgreinar ef
+        upplýsingar eru veittar með eftirfarandi hætti að vali neytanda:
+      a. á vefsíðu á vegum lánveitanda, enda hafi neytanda verið tilkynnt um
+veffang vefsetursins og hvar hægt sé að nálgast umræddar upplýsingar á því, eða
+                      b. í netbanka á vegum lánveitanda, eða
+                                c. með tölvupósti.
+  Þrátt fyrir ákvæði 1. og 2. málsl. þessarar málsgreinar getur neytandi óskað
+eftir því að upplýsingar samkvæmt þessari málsgrein verði veittar skriflega.]^1)
+                               ^1)L. 63/2008, 2. gr.
                         Útreikningur á lántökukostnaði.
   7. gr. Heildarlántökukostnaður felur í sér allan kostnað af láninu, þar með
       talda vexti og önnur gjöld sem neytandi skal greiða af því, með þeim
@@ -179,6 +194,22 @@ endurgreiðslu eða lækkunar á gjöldum sem eru óháð því hvenær greiðsl
 Ákvæði 1. mgr. á ekki við um greiðslu sem innt er af hendi fyrir gjalddaga þegar
    hún tengist ekki uppgreiðslu láns fyrir umsaminn lokagjalddaga eða annarri
                      breytingu á umsömdum afborgunum láns.
+ [16. gr. a. Lánveitanda er óheimilt að krefjast greiðslu uppgreiðslugjalds af
+láni í íslenskum krónum með breytilegum vöxtum sem greitt er upp fyrir þann tíma
+sem umsaminn er, ef upphaflegur höfuðstóll lánsins er að jafnvirði 50 millj. kr.
+                                   eða minna.
+   Lánveitandi getur ekki krafist uppgreiðslugjalds ef ástæða uppgreiðslu er
+                        gjaldfelling láns af hans hálfu.
+  Í þeim tilvikum sem heimilt er að semja um uppgreiðslugjald skal kveðið á um
+slíkt í lánssamningi. Tilgreina skal upplýsingar um hvernig uppgreiðslugjald er
+                reiknað út og hvenær slíkur kostnaður fellur á.
+Í þeim tilvikum sem heimilt er að semja um uppgreiðslugjald má fjárhæð gjaldsins
+  að hámarki vera það tjón sem lánveitandi verður fyrir vegna uppgreiðslunnar
+  fyrir þann tíma sem umsaminn er. Ef kveðið er á um heimild til endurskoðunar
+ vaxta í lánssamningi með föstum vöxtum skal miða útreikning uppgreiðslugjalds
+  við tímann fram að næsta endurskoðunardegi vaxta. Ráðherra skal setja nánari
+              reglur um útreikning á tjóni vegna uppgreiðslu.]^1)
+                               ^1)L. 63/2008, 3. gr.
 
                        IV. kafli. Framsal kröfuréttinda.
    17. gr. Ef lánveitandi framselur kröfurétt sinn samkvæmt láni sem veitt er
@@ -196,8 +227,10 @@ samkvæmt lögum þessum til þriðja aðila getur neytandi haldið uppi sömu m
  viðskiptabréfs, skal taka tryggingu vegna hugsanlegrar vanefndakröfu neytanda
            vegna þeirra viðskipta sem að baki viðskiptabréfi standa.
   Tryggingarfjárhæð innan hvers tryggingartímabils, sem er eitt ár, skal nema
-5.000.000 kr. Neytandi skal gera kröfu um greiðslu tryggingarfjár innan eins árs
-  frá afhendingu vöru eða þjónustu. Séu kröfuhafar fleiri en einn fer um rétt
+5.000.000 kr. [Neytandi skal gera kröfu um greiðslu tryggingarfjár innan tveggja
+ára frá afhendingu vöru eða þjónustu, eða innan fimm ára þegar um ræðir söluhlut
+ sem ætlaður er verulega lengri endingartími en almennt gerist um söluhluti frá
+ því að honum var veitt viðtaka.]^1) Séu kröfuhafar fleiri en einn fer um rétt
  þeirra til tryggingarfjárins eftir röð krefjenda. Að gengnum fullnaðardómi eða
  að gerðri réttarsátt um vanefnd og þegar ljóst er að seljandi getur ekki efnt
        skyldu sína samkvæmt dóminum eða sáttinni skal neytanda greitt af
@@ -208,6 +241,7 @@ samkvæmt lögum þessum til þriðja aðila getur neytandi haldið uppi sömu m
  viðskipta er það takmarkað að lægri tryggingarfjárhæð veitir nægjanlega vernd.
 Nú hefur seljandi ekki gilda tryggingu samkvæmt grein þessari og getur kaupandi
          þá borið fram mótbárur svo sem bréfið væri ekki viðskiptabréf.
+                               ^1)L. 63/2008, 4. gr.
 
       V. kafli. Kaup með eignarréttarfyrirvara og endurheimt eignarréttar.
   19. gr. Ef söluhlutur er seldur með eignarréttarfyrirvara getur lánveitandi
@@ -261,13 +295,13 @@ Nú vill aðili ekki una úrskurði áfrýjunarnefndar og getur hann þá höfð
  ógildingar fyrir dómstólum. Mál skal höfðað innan sex mánaða frá því að aðili
     fékk vitneskju um úrskurð áfrýjunarnefndarinnar. Málshöfðun frestar ekki
          gildistöku úrskurðar nefndarinnar né heimild til aðfarar.]^2)
-                  ^1)[4]L. 62/2005, 13. gr. ^2)L. 34/2007, 2. gr.
+                  ^1)[3]L. 62/2005, 13. gr. ^2)L. 34/2007, 2. gr.
  26. gr. [Neytendastofa]^1) getur bannað athafnir sem brjóta í bága við ákvæði
 laga þessara. Banni má fylgja ákvörðun um dagsektir sem kemur til framkvæmda ef
   bannið er brotið. Dagsektir geta numið frá 10.000 kr. til 100.000 kr. á dag.
  Áður en til banns kemur skv. 1. mgr. getur [Neytendastofa]^1) lokið málinu með
            sátt. Hafi sátt komist á gildir hún sem bann skv. 1. mgr.
-                             ^1)[5]L. 62/2005, 13. gr.
+                             ^1)[4]L. 62/2005, 13. gr.
 27. gr. Brot á lögum þessum getur valdið skaðabótaskyldu í samræmi við almennar
                             reglur skaðabótaréttar.
  Gera má lögaðila að greiða bætur þó svo að sök sannist ekki á neinn tiltekinn
@@ -286,8 +320,7 @@ starfsmann lögaðilans ef sýnt þykir að einhver starfsmaður lögaðilans ha
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1994121
-   2. file://1994121.html
-   3. file://2005062.html
+   1. file://1994121.html
+   2. file://2005062.html
+   3. file://2005062.html#g13
    4. file://2005062.html#g13
-   5. file://2005062.html#g13

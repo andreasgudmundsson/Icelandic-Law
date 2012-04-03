@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,10 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 1. janúar 1998.
+  Tóku gildi 1. janúar 1998. Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009
+                 nema brbákv. VII sem tók gildi 21. júní 2008).
 
                                I. kafli. Lögræði.
                                     Lögræði.
@@ -117,7 +117,7 @@ varnaraðila né fastan dvalarstað skal bera kröfu fram við héraðsdóm Reyk
     2. Dómari tekur kröfu um lögræðissviptingu fyrir svo fljótt sem unnt er.
 3. Dómari skipar varnaraðila verjanda samkvæmt ákvæðum laga um meðferð opinberra
  mála eftir að hafa gefið honum kost á að bera fram ósk um hver skipaður verði,
-   nema slíkt sé augsýnilega tilgangslaust. Óskylt er þó að skipa verjanda ef
+ nema slíkt sé augsýnilega tilgangslaust.^1) Óskylt er þó að skipa verjanda ef
 varnaraðili hefur sjálfur ráðið sér lögmann til þess að gæta réttar síns. Dómari
          getur einnig skipað sóknaraðila talsmann, óski hann eftir því.
   4. Dómari skal eftir að rannsókn máls er lokið gefa aðilum kost á að flytja
@@ -125,6 +125,8 @@ varnaraðili hefur sjálfur ráðið sér lögmann til þess að gæta réttar s
  5. Þinghöld í máli til sviptingar lögræðis skulu fara fram fyrir luktum dyrum.
  6. Dómara ber að hraða meðferð máls til sviptingar lögræðis svo sem kostur er.
      7. Sóknaraðili getur afturkallað kröfu sína á hvaða stigi máls sem er.
+    ^1)Málsliðnum var breytt með [2]l. 88/2008, 234. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [3]232. gr. s.l.
                                  Rannsókn máls.
    11. gr. 1. Dómara ber að tryggja að mál sé nægjanlega upplýst áður en hann
                    kveður upp úrskurð um sviptingu lögræðis.
@@ -405,7 +407,7 @@ og ef svo er hver það eigi að vera. Ráðgjafi skal aðstoða við kröfuger�
   31. gr. 1. Dómari skal taka kröfu skv. 30. gr. fyrir án tafar. Dómari skipar
 þeim er kröfu ber fram talsmann samkvæmt ákvæðum laga um meðferð opinberra mála
  um verjendur og skal gefa honum kost á að bera fram ósk um hver skipaður verði
-                       hafi sú ósk ekki þegar komið fram.
+                     hafi sú ósk ekki þegar komið fram.^1)
    2. Ef krafist er niðurfellingar nauðungarvistunar skv. 2. mgr. 19. gr. eða
  ákvörðunar um þvingaða lyfjagjöf eða meðferð skv. 28. gr. skal dómari tilkynna
  yfirlækni viðkomandi deildar um kröfuna. Skal yfirlæknirinn þegar í stað láta
@@ -424,6 +426,8 @@ sem dvelur nauðugur í sjúkrahúsi samkvæmt ákvörðun læknis, og sú ákv�
 verið borin undir dómstól, skal ráðuneytið án tafar tilkynna viðkomandi dómstóli
  um kröfuna og um lyktir málsins er það hefur hlotið afgreiðslu í ráðuneytinu.
     Meðferð máls fyrir dómi frestar ekki málsmeðferð í dómsmálaráðuneytinu.
+    ^1)Málsliðnum var breytt með [4]l. 88/2008, 234. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [5]232. gr. s.l.
                     Réttur nauðungarvistaðs manns til bóta.
 32. gr. 1. Dæma skal bætur úr ríkissjóði vegna nauðungarvistunar sjálfráða manns
  ef lögmæt skilyrði hefur brostið til slíkrar aðgerðar, hún hefur staðið lengur
@@ -943,7 +947,9 @@ geymslu frá hinum ólögráða manni má færa niður bætur úr hendi hans eft
                        ólögráða manns og annarra atvika.
    3. Nú sannast í opinberu máli að hinn ólögráða maður hefur gerst sekur um
 refsivert athæfi í sambandi við gerð samnings eða framkvæmd og skal hann þá bæta
-                          tjón eftir almennum reglum.
+                         tjón eftir almennum reglum.^1)
+     ^1)Málsgreininni var breytt með [6]l. 88/2008, 234. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [7]232. gr. s.l.
     Fullnusta í eignum sem fjárræðissvipting skv. 2. mgr. 5. gr. tekur til.
   79. gr. Nú stofnar maður, sem sviptur hefur verið fjárræði að því er varðar
  tilteknar eignir skv. 2. mgr. 5. gr. laga þessara, til skulda eða tekur á sig
@@ -983,9 +989,9 @@ refsivert athæfi í sambandi við gerð samnings eða framkvæmd og skal hann �
                                     86. gr.
                                    Lagaskil.
                                    87. gr. 1.
- 2. Skyldur lögráðamanna, sem skipaðir hafa verið samkvæmt ákvæðum [4]laga nr.
+ 2. Skyldur lögráðamanna, sem skipaðir hafa verið samkvæmt ákvæðum [8]laga nr.
           68/1984 eða eldri laga, eru þær sem greinir í lögum þessum.
-Ákvæði til bráðabirgða. Þeir sem öðlast hafa sjálfræði samkvæmt ákvæðum [5]laga
+Ákvæði til bráðabirgða. Þeir sem öðlast hafa sjálfræði samkvæmt ákvæðum [9]laga
      nr. 68/1984 við gildistöku laga þessara halda sjálfræði sínu. Þeir sem
 ósjálfráða eru fyrir æsku sakir við gildistöku laganna öðlast sjálfræði samkvæmt
                                  ákvæði 1. gr.
@@ -993,8 +999,12 @@ refsivert athæfi í sambandi við gerð samnings eða framkvæmd og skal hann �
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1997071
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=121&mnr=410
-   3. http://www.althingi.is/altext/121/s/0707.html
-   4. file://1984068.html
-   5. file://1984068.html
+   1. file://2008088.html
+   2. file://2008088.html#g234
+   3. file://2008088.html
+   4. file://2008088.html#g234
+   5. file://2008088.html
+   6. file://2008088.html#g234
+   7. file://2008088.html
+   8. file://1984068.html
+   9. file://1984068.html

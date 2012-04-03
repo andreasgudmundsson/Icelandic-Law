@@ -13,16 +13,18 @@
      * Lög um ársreikninga, [4]nr. 3 17. janúar 2006
      * Lög um bókhald, [5]nr. 145 29. desember 1994
      * Lög um endurskoðendur, [6]nr. 18 17. apríl 1997
+     * Lög um endurskoðendur, [7]nr. 79 12. júní 2008
 
-    [7]Kaflar lagasafns
+    [8]Kaflar lagasafns
 
 References
 
    Visible links
-   1. http://www.althingi.is/lagas/135a/1928071.html
-   2. http://www.althingi.is/lagas/135a/1991034.html
-   3. http://www.althingi.is/lagas/135a/1977017.html
-   4. http://www.althingi.is/lagas/135a/2006003.html
-   5. http://www.althingi.is/lagas/135a/1994145.html
-   6. http://www.althingi.is/lagas/135a/1997018.html
-   7. file://kaflar.html
+   1. file://1928071.html
+   2. file://1991034.html
+   3. file://1977017.html
+   4. file://2006003.html
+   5. file://1994145.html
+   6. file://1997018.html
+   7. file://2008079.html
+   8. file://kaflar.html

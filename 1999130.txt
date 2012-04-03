@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 11. júlí 2000. Breytt með l. 65/2006 (tóku gildi 27. júní 2006), l.
-  69/2006 (tóku gildi 30. júní 2006) og l. 143/2006 (tóku gildi 1. jan. 2007).
+69/2006 (tóku gildi 30. júní 2006), l. 143/2006 (tóku gildi 1. jan. 2007) og l.
+                       51/2008 (tóku gildi 7. júní 2008).
 
                I. kafli. Ættleiðingar og lagaskilyrði fyrir þeim.
                          1. gr. Leyfi til ættleiðingar.
@@ -240,12 +240,15 @@ Dómsmálaráðherra getur sett reglugerð sem kveður á um framkvæmd samnings
                  31. gr. Umsögn varðandi umsókn um forsamþykki.
     [Leita skal umsagnar barnaverndarnefndar um umsókn um forsamþykki til að
 ættleiða erlent barn nema augljóst sé að skilyrði fyrir útgáfu forsamþykkis séu
-                               ekki uppfyllt.]^1)
+ ekki uppfyllt.]^1) [Þó er ekki skylt að leita umsagnar barnaverndarnefndar ef
+  umsækjendur hafa fengið útgefið forsamþykki á síðustu fjórum árum og umsókn
+þeirra um ættleiðingu er til umfjöllunar hjá erlendu ættleiðingaryfirvaldi nema
+         hagir umsækjenda hafi breyst verulega að mati sýslumanns.]^2)
 Leita skal umsagnar barnaverndarnefndar varðandi umsókn um forsamþykki í umdæmi
                             þar sem umsækjendur búa.
       Enn fremur má leita umsagnar ættleiðingarnefndar til viðbótar umsögn
              barnaverndarnefndar ef ástæða þykir til, sbr. 17. gr.
-                               ^1)L. 69/2006, 7. gr.
+                    ^1)L. 69/2006, 7. gr. ^2)L. 51/2008, 1. gr.
                           32. gr. Útgáfa forsamþykkis.
   Að fenginni umsögn barnaverndarnefndar og ættleiðingarnefndar, ef því er að
  skipta, og að uppfylltum ^1) lögmæltum skilyrðum tekur [sýslumaður]^2) afstöðu
@@ -255,13 +258,13 @@ að ættleiða barn frá tilteknu erlendu ríki, að væntanlegt kjörbarn fái 
   hér á landi til frambúðar og að íslensk stjórnvöld taki ábyrgð á barninu frá
      þeim tíma sem það yfirgefur heimaland sitt eins og væri það íslenskur
                                  ríkisborgari.
-Forsamþykki skal ekki gilda lengur en í tvö ár frá útgáfudegi. [Heimilt er þó að
-framlengja gildistíma forsamþykkis einu sinni í allt að 12 mánuði ef sérstaklega
-                                 stendur á.]^1)
+[Forsamþykki skal ekki gilda lengur en í þrjú ár frá útgáfudegi.]^3) [Heimilt er
+   þó að framlengja gildistíma forsamþykkis einu sinni í allt að 12 mánuði ef
+                           sérstaklega stendur á.]^1)
     [Sýslumanni]^2) er heimilt að afturkalla forsamþykki, enda telji hann að
 aðstæður umsækjenda hafi breyst verulega frá útgáfu þess eða upplýsingar er máli
                            skipta hafi reynst rangar.
-                   ^1)L. 69/2006, 8. gr. ^2)L. 143/2006, 12. gr.
+        ^1)L. 69/2006, 8. gr. ^2)L. 143/2006, 12. gr. ^3)L. 51/2008, 2. gr.
                          33. gr. Synjun um forsamþykki.
 Ef synjað er um forsamþykki skal það gert með úrskurði á sama hátt og greinir í
                                     20. gr.
@@ -334,14 +337,11 @@ Dómsmálaráðherra getur ákveðið að víkja megi frá einstökum ákvæðum
      Lög þessi taka gildi þegar sex mánuðir eru liðnir frá birtingu þeirra.
                                43. gr. Lagaskil.
        Úr ættleiðingarumsóknum og umsóknum um forsamþykki sem borist hafa
- dómsmálaráðuneytinu fyrir gildistöku laga þessara skal leysa samkvæmt [4]lögum
+ dómsmálaráðuneytinu fyrir gildistöku laga þessara skal leysa samkvæmt [1]lögum
   nr. 15/1978. Ef umsækjendur óska þess er þó heimilt að beita reglum þessara
                                      laga.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999130
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=68
-   3. http://www.althingi.is/altext/125/s/0068.html
-   4. file://1978015.html
+   1. file://1978015.html

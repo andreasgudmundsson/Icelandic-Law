@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,13 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. janúar 1994. Breytt með l. 36/1999 (tóku gildi 1. maí 1999), l.
   83/2000 (tóku gildi 2. júní 2000 nema 1. gr. sem tók gildi 1. jan. 2001), l.
-49/2002 (tóku gildi 6. maí 2002), l. 51/2003 (tóku gildi 7. apríl 2003) og [4]l.
-                       76/2003 (tóku gildi 1. nóv. 2003).
+ 49/2002 (tóku gildi 6. maí 2002), l. 51/2003 (tóku gildi 7. apríl 2003), [1]l.
+76/2003 (tóku gildi 1. nóv. 2003) og [2]l. 88/2008 (taka gildi 1. jan. 2009 nema
+                   brbákv. VII sem tók gildi 21. júní 2008).
 
                          I. kafli. Gildissvið laganna.
                                1. gr. Gildissvið.
@@ -135,10 +135,11 @@ vandkvæðum bundið. Forsætisráðherra er heimilt að ákveða með sérstakr
  hvað greiða skuli fyrir afrit og ljósrit sem veitt eru samkvæmt þessari grein.
   Lagaákvæði um þagnarskyldu takmarka ekki skyldu til þess að veita aðgang að
                          gögnum samkvæmt þessari grein.
- Ákvæði þessarar greinar taka ekki til rannsóknar og saksóknar í opinberu máli.
-  Þó [geta sakborningur og brotaþoli]^1) krafist þess að fá að kynna sér gögn
-  málsins eftir að það hefur verið fellt niður eða því lokið með öðrum hætti.
-                              ^1)L. 36/1999, 48. gr.
+    Ákvæði þessarar greinar taka ekki til rannsóknar og saksóknar í opinberu
+máli.^1) Þó [geta sakborningur og brotaþoli]^2) krafist þess að fá að kynna sér
+gögn málsins eftir að það hefur verið fellt niður eða því lokið með öðrum hætti.
+    ^1)Málsliðnum var breytt með [3]l. 88/2008, 234. gr. Breytingin tekur gildi
+           1. jan. 2009 skv. [4]232. gr. s.l. ^2)L. 36/1999, 48. gr.
                     16. gr. Gögn undanþegin upplýsingarétti.
             Réttur aðila máls til aðgangs að gögnum tekur ekki til:
    1. Fundargerða ríkisráðs og ríkisstjórnar, minnisgreina á ráðherrafundum eða
@@ -389,7 +390,7 @@ kynna sér efni þeirra. Stjórnvald skal að eigin frumkvæði staðfesta að �
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1993037
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=116&mnr=313
-   3. http://www.althingi.is/altext/116/s/0505.html
-   4. file://2003076.html
+   1. file://2003076.html
+   2. file://2008088.html
+   3. file://2008088.html#g234
+   4. file://2008088.html

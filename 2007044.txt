@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 31. mars 2007. EES-samningurinn: XVIII. viðauki tilskipun 2003/72/EB.
+Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi
+                                21. júní 2008).
 
                         I. kafli. Markmið og gildissvið.
                             1. gr. Markmið laganna.
@@ -43,7 +44,7 @@ starfsmennirnir sjálfir, eftir því sem við á, skulu uppfylla þær skuldbin
   sem og aðrir lögaðilar sem hafa verið stofnaðir samkvæmt íslenskum lögum og
    heyra undir þau, sem eiga beinan þátt í að stofna evrópskt samvinnufélag.
      3. Dótturfyrirtæki: Fyrirtæki sem lögaðili, sem tekur þátt, eða evrópskt
- samvinnufélag hefur ráðandi aðstöðu gagnvart samkvæmt skilgreiningu [4]5. gr.
+ samvinnufélag hefur ráðandi aðstöðu gagnvart samkvæmt skilgreiningu [2]5. gr.
             laga um evrópsk samstarfsráð í fyrirtækjum, nr. 61/1999.
        4. Hlutaðeigandi dótturfyrirtæki eða starfsstöð: Dótturfyrirtæki eða
 starfsstöð lögaðila, sem tekur þátt, sem fyrirhugað er að verði dótturfyrirtæki
@@ -442,7 +443,7 @@ með sömu réttindi og skyldur og fulltrúar félagsaðila samvinnufélagsins, 
          V. kafli. Þátttaka í félagsfundi eða svæða- eða deildarfundum.
                      21. gr. Tilvik þar sem þátttaka á við.
     Með fyrirvara um þær takmarkanir sem mælt er fyrir um í 4. mgr. 59. gr.
- reglugerðar ráðsins (EB) nr. 1435/2003, sbr. lög um evrópsk [5]samvinnufélög,
+ reglugerðar ráðsins (EB) nr. 1435/2003, sbr. lög um evrópsk [3]samvinnufélög,
   nr. 92/2006, eiga starfsmenn evrópsks samvinnufélags og/eða fulltrúar þeirra
   rétt til þátttöku í félagsfundum eða í svæða- eða deildarfundum, ef þeir eru
            haldnir, og til að greiða atkvæði í eftirfarandi tilvikum:
@@ -481,7 +482,7 @@ samvinnufélagsins, meðal annars varðandi greiðslu launa til fulltrúa sem st
  hjá lögaðila, sem tekur þátt, evrópska samvinnufélaginu eða dótturfyrirtækjum
    þess eða starfsstöðvum fyrir þann tíma sem þeir þurfa að vera fjarverandi.
   Fulltrúar starfsmanna sem starfa samkvæmt málsmeðferð um upplýsingamiðlun og
-samráð skulu njóta sams konar réttarverndar og trúnaðarmenn samkvæmt [6]lögum um
+samráð skulu njóta sams konar réttarverndar og trúnaðarmenn samkvæmt [4]lögum um
          stéttarfélög og vinnudeilur, nr. 80/1938, eftir því sem við á.
                              24. gr. Þagnarskylda.
 Fulltrúum í sérstöku samninganefndinni og fulltrúanefndinni og sérfræðingum sem
@@ -520,10 +521,12 @@ félagið sönnunarbyrði fyrir því að breytingarnar séu tilkomnar af öðru
  trúnaðarupplýsingar sem þeim hafa verið veittar skulu dæmdir til fésekta nema
                  þyngri refsing liggi við samkvæmt öðrum lögum.
    Brot sem framin eru í starfsemi lögaðila gegn 4., 17., 23. og 26. gr. laga
- þessara varða lögaðila sektum, sbr. II. kafla A almennra [7]hegningarlaga, nr.
+ þessara varða lögaðila sektum, sbr. II. kafla A almennra [5]hegningarlaga, nr.
  19/1940, ef brotið er framið af ásetningi og það er til þess fallið að svipta
  starfsmenn evrópsks samvinnufélags rétti sem varinn er samkvæmt þessum lögum.
-            Með mál út af brotum skal farið að hætti opinberra mála.
+          Með mál út af brotum skal farið að hætti opinberra mála.^1)
+    ^1)Málsgreinin var felld brott með [6]l. 88/2008, 233. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [7]232. gr. s.l.
                               28. gr. Ágreiningur.
   Unnt er að skjóta til dómstóla ágreiningi sem varðar framkvæmd þessara laga,
 þ.m.t. ágreiningi um rétt fulltrúa starfsmanna til að fá í hendur upplýsingar og
@@ -562,11 +565,11 @@ Lög þessi, sem eru sett til innleiðingar á tilskipun ráðsins 2003/72/EB, f
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007044
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=450
-   3. http://www.althingi.is/altext/133/s/591.html
-   4. file://1999061.html#g5
-   5. file://2006092.html
-   6. file://1938080.html
-   7. file://1940019.html
+   1. file://2008088.html
+   2. file://1999061.html#g5
+   3. file://2006092.html
+   4. file://1938080.html
+   5. file://1940019.html
+   6. file://2008088.html#g233
+   7. file://2008088.html
    8. file://1999061.html#g5

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,9 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 1. janúar 2001.
+ Tóku gildi 1. janúar 2001. Breytt með l. 27/2008 (tóku gildi 19. apríl 2008).
 
                             I. kafli. Almenn ákvæði.
                                 1. gr. Markmið.
@@ -30,9 +29,11 @@
   er átt við vörslu í allt að fimm ár, nema vísindasiðanefnd veiti heimild til
  vörslu í lengri tíma. Sé óskað eftir varðveislu slíkra sýna til frambúðar skal
                            vista þau í lífsýnasafni.
-          Lögin gilda ekki um geymslu kynfrumna og fósturvísa samkvæmt
-tæknifrjóvgunarlögum, líffæra samkvæmt lögum um brottnám líffæra eða líkamsleifa
-                            samkvæmt þjóðminjalögum.
+     Lögin gilda ekki um geymslu kynfrumna og fósturvísa samkvæmt [lögum um
+           tæknifrjóvgun og notkun kynfrumna og fósturvísa manna til
+    stofnfrumurannsókna],^1) líffæra samkvæmt lögum um brottnám líffæra eða
+                      líkamsleifa samkvæmt þjóðminjalögum.
+                              ^1)L. 27/2008, 11. gr.
                              3. gr. Skilgreiningar.
             Í lögum þessum hafa eftirfarandi orð svofellda merkingu:
    1. Lífsýni: Lífrænt efni úr mönnum, lifandi eða látnum, sem veitt getur um þá
@@ -226,10 +227,3 @@ landlæknisembættinu að annast ítarlega kynningu meðal almennings á lífsý
    2. Heimilt er að vista lífsýni sem aflað var fyrir gildistöku laga þessara í
  lífsýnasafni, nema lífsýnisgjafi lýsi sig mótfallinn því. Að öðru leyti gilda
        ákvæði laganna um vörslu, meðferð og notkun fyrrgreindra lífsýna.
-
-References
-
-   Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000110
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=534
-   3. http://www.althingi.is/altext/125/s/0835.html

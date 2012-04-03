@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,12 +7,12 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 1. júní 1998. Breytt með l. 100/1998 (tóku gildi 10. júlí 1998), l.
  123/1998 (tóku gildi 3. des. 1998), l. 74/2003 (tóku gildi 10. apríl 2003), l.
-69/2004 (tóku gildi 18. júní 2004), [4]l. 136/2004 (tóku gildi 1. jan. 2005), l.
-23/2005 (tóku gildi 25. maí 2005), [5]l. 150/2006 (tóku gildi 30. des. 2006) og
+69/2004 (tóku gildi 18. júní 2004), [1]l. 136/2004 (tóku gildi 1. jan. 2005), l.
+23/2005 (tóku gildi 25. maí 2005), [2]l. 150/2006 (tóku gildi 30. des. 2006) og
                      l. 167/2007 (tóku gildi 1. jan. 2008).
 
                             I. kafli. Almenn ákvæði.
@@ -760,7 +759,7 @@ opinbera aðila til að veita lögákveðna þjónustu en innbyrðis skal ábyrg
  [Prókúruhafa sveitarsjóðs er heimilt fyrir hönd sveitarfélags að ábyrgjast með
    framsalsáritun greiðslu viðskiptaskjala sem sveitarfélagið hefur eignast á
             eðlilegan hátt í tengslum við daglegan rekstur þess.]^5)
-    ^1)[6]L. 150/2006, 5. gr. ^2)[7]L. 136/2004, 11. gr. ^3)L. 167/2007, 1. gr.
+    ^1)[3]L. 150/2006, 5. gr. ^2)[4]L. 136/2004, 11. gr. ^3)L. 167/2007, 1. gr.
                      ^4)Rg. 123/2006. ^5)L. 69/2004, 5. gr.
 
              [VII. kafli. Eftirlit með fjármálum sveitarfélaga.]^1)
@@ -1084,7 +1083,7 @@ Við framkvæmd atkvæðagreiðslu skv. 5. mgr. skal farið eftir meginreglum la
                             Ákvæði til bráðabirgða.
 I. Vegna ákvæðis 1. mgr. 1. gr. laganna skal þeim hlutum landsins, þar með talið
   jöklum, sem ekki hefur þegar verið skipað innan staðarmarka sveitarfélaga á
-   grundvelli 1. eða [8]3. gr. sveitarstjórnarlaga, nr. 8/1986, skipað innan
+   grundvelli 1. eða [5]3. gr. sveitarstjórnarlaga, nr. 8/1986, skipað innan
                staðarmarka sveitarfélaga með eftirfarandi hætti:
 Eignarlandi skal skipað innan staðarmarka sama sveitarfélags og sú jörð sem það
        hefur áður tilheyrt nema fyrir liggi sérstakar heimildir um annað.
@@ -1153,7 +1152,7 @@ sveitarfélaga fái næga kynningu meðal íbúa fyrir kjördag. Samstarfsnefndi
  koma saman eins fljótt og unnt er til að taka ákvörðun um kjördag og tilkynna
           ráðuneytinu niðurstöðu sína eigi síðar en 20. maí 2005.]^1)
    Um framkvæmd atkvæðagreiðslu, kosningarrétt og gerð kjörskrár gilda ákvæði
-  [9]laga um kosningar til sveitarstjórna, nr. 5/1998, með síðari breytingum,
+  [6]laga um kosningar til sveitarstjórna, nr. 5/1998, með síðari breytingum,
                               eftir því sem við á.
    Yfirkjörstjórn í hverju sveitarfélagi annast framkvæmd atkvæðagreiðslu og
   talningu atkvæða en samstarfsnefnd hefur eftirlit með talningu og tilkynnir
@@ -1195,12 +1194,9 @@ Sameining sveitarfélaga samkvæmt þessu ákvæði skal taka gildi 9. júní 20
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998045
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=288
-   3. http://www.althingi.is/altext/122/s/0359.html
+   1. file://2004136.html
+   2. file://2006150.html
+   3. file://2006150.html#g5
    4. file://2004136.html
-   5. file://2006150.html
-   6. file://2006150.html#g5
-   7. file://2004136.html
-   8. file://1986008.html
-   9. file://1998005.html
+   5. file://1986008.html
+   6. file://1998005.html

@@ -13,9 +13,9 @@
 References
 
    Visible links
-   1. http://www.althingi.is/lagas/135a/1993031.html
-   2. http://www.althingi.is/lagas/135a/1996087.html
-   3. http://www.althingi.is/lagas/135a/1999130.html
-   4. http://www.althingi.is/lagas/135a/1931029.html
-   5. http://www.althingi.is/lagas/135a/2006152.html
+   1. file://1993031.html
+   2. file://1996087.html
+   3. file://1999130.html
+   4. file://1931029.html
+   5. file://2006152.html
    6. file://kaflar.html

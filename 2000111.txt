@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,29 +7,31 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
- Tóku gildi 1. janúar 2001. Breytt með l. 176/2000 (tóku gildi 1. jan. 2001) og
-                     l. 160/2007 (tóku gildi 1. jan. 2008).
+Tóku gildi 1. janúar 2001. Breytt með l. 176/2000 (tóku gildi 1. jan. 2001), l.
+ 160/2007 (tóku gildi 1. jan. 2008) og [1]l. 112/2008 (tóku gildi 1. okt. 2008
+ nema 12. tölul. 59. gr. sem tók gildi 25. sept. 2008; koma til framkvæmda skv.
+                         fyrirmælum í 2. mgr. 56. gr.).
 
                          Sjúklingar sem lögin taka til.
 1. gr. Rétt til bóta samkvæmt lögum þessum eiga sjúklingar, sbr. 2. gr. laga um
  réttindi sjúklinga, sem verða fyrir líkamlegu eða geðrænu tjóni hér á landi í
   tengslum við rannsókn eða sjúkdómsmeðferð á sjúkrahúsi, heilsugæslustöð eða
  annarri heilbrigðisstofnun, í sjúkraflutningum eða hjá heilbrigðisstarfsmanni
-sem starfar sjálfstætt og hlotið hefur löggildingu [heilbrigðisráðherra]^1) til
- starfans. Sama á við um þá sem missa framfæranda við andlát slíkra sjúklinga.
+sem starfar sjálfstætt og hlotið hefur löggildingu [landlæknis]^1) til starfans.
+      Sama á við um þá sem missa framfæranda við andlát slíkra sjúklinga.
    Sjúklingar sem brýn nauðsyn er að vista á erlendu sjúkrahúsi eða á annarri
- heilbrigðisstofnun erlendis, sbr. 35. gr. almannatryggingalaga, og verða fyrir
-   líkamlegu eða geðrænu tjóni í tengslum við rannsókn eða sjúkdómsmeðferð á
-viðkomandi stofnun eiga rétt á bótum samkvæmt lögum þessum, að frádregnum bótum
-               sem þeir kunna að eiga rétt á í hinu erlenda ríki.
+  heilbrigðisstofnun erlendis, sbr. [23. gr. laga um sjúkratryggingar],^1) og
+      verða fyrir líkamlegu eða geðrænu tjóni í tengslum við rannsókn eða
+sjúkdómsmeðferð á viðkomandi stofnun eiga rétt á bótum samkvæmt lögum þessum, að
+      frádregnum bótum sem þeir kunna að eiga rétt á í hinu erlenda ríki.
        Þeir sem gangast undir læknisfræðilega tilraun sem ekki er liður í
   sjúkdómsgreiningu eða meðferð á sjúkdómi þess er í hlut á eiga sama rétt og
        sjúklingar samkvæmt lögum þessum nema annars sé getið sérstaklega.
     Þeir sem gefa vef, líffæri, blóð eða annan líkamsvökva eiga sama rétt og
        sjúklingar samkvæmt lögum þessum nema annars sé getið sérstaklega.
-                              ^1)L. 160/2007, 12. gr.
+                            ^1)[2]L. 112/2008, 61. gr.
                          Tjónsatvik sem lögin taka til.
  2. gr. Bætur skal greiða án tillits til þess hvort einhver ber skaðabótaábyrgð
 samkvæmt reglum skaðabótaréttarins, enda megi að öllum líkindum rekja tjónið til
@@ -96,15 +97,15 @@ starfsmaður bótaábyrgð gagnvart sjúklingi samkvæmt reglum skaðabótarétt
       b. sjúkrahús, hvort sem þau eru rekin af ríki, sveitarfélagi eða öðrum,
    c. aðrar heilbrigðisstofnanir, án tillits til þess hver ber ábyrgð á rekstri,
      d. heilbrigðisstarfsmenn sem starfa sjálfstætt og hafa hlotið löggildingu
-  [heilbrigðisráðherra]^1) til starfans, án tillits til þess hvort þeir veita
+       [landlæknis]^1) til starfans, án tillits til þess hvort þeir veita
 heilbrigðisþjónustu sem sjúklingur greiðir að fullu sjálfur eða sem greidd er af
- sjúkratryggingum samkvæmt samningi [á grundvelli [4]44. gr. laga nr. 100/2007,
-                           um almannatryggingar],^1)
-    e. Tryggingastofnun ríkisins vegna sjúklinga sem brýn nauðsyn er að vista á
-erlendu sjúkrahúsi eða annarri heilbrigðisstofnun erlendis, sbr. 2. mgr. 1. gr.,
-                                       og
+           sjúkratryggingum samkvæmt samningi [á grundvelli [laga um
+                           sjúkratryggingar]^1)],^2)
+   e. [sjúkratryggingastofnunin]^1) vegna sjúklinga sem brýn nauðsyn er að vista
+ á erlendu sjúkrahúsi eða annarri heilbrigðisstofnun erlendis, sbr. 2. mgr. 1.
+                                    gr., og
                         f. þeir sem annast sjúkraflutninga.
-                              ^1)L. 160/2007, 13. gr.
+                ^1)[3]L. 112/2008, 61. gr. ^2)L. 160/2007, 13. gr.
                               Vátryggingarskylda.
      10. gr. Bótaskyldir aðilar skv. 9. gr. skulu tryggðir með vátryggingu
  (sjúklingatryggingu) hjá vátryggingafélagi sem hefur starfsleyfi hér á landi,
@@ -118,8 +119,9 @@ vátryggingarskyldu. Heimilt er ráðherra að binda starfsleyfi heilbrigðissto
                                  Eigin áhætta.
 11. gr. Heilsugæslustöðvar, sjúkrahús og aðrar heilbrigðisstofnanir sem ríkið á
 í heild eða að hluta eru undanþegin vátryggingarskyldu skv. 10. gr. Sama gildir
-um Tryggingastofnun ríkisins og þá sem annast sjúkraflutninga á vegum ríkisins.
-              Þeim er þó heimilt að kaupa vátryggingu skv. 10. gr.
+   um [sjúkratryggingastofnunina]^1) og þá sem annast sjúkraflutninga á vegum
+         ríkisins. Þeim er þó heimilt að kaupa vátryggingu skv. 10. gr.
+                            ^1)[4]L. 112/2008, 61. gr.
                     Meðferð bótamála hjá vátryggingafélögum.
  12. gr. Kröfu um bætur samkvæmt lögum þessum vegna tjóns hjá öðrum en þeim sem
       11. gr. tekur til skal beina til vátryggingafélags hins bótaskylda.
@@ -129,41 +131,49 @@ um Tryggingastofnun ríkisins og þá sem annast sjúkraflutninga á vegum ríki
    Meðferð bótamála þegar hinn bótaskyldi er undanþeginn vátryggingarskyldu.
 13. gr. Kröfu um bætur samkvæmt lögum þessum vegna tjóns hjá þeim sem hafa nýtt
     sér heimild til að kaupa ekki vátryggingu, sbr. 11. gr., skal beina til
-                          Tryggingastofnunar ríkisins.
-                 Sjúklingatrygging Tryggingastofnunar ríkisins.
- 14. gr. Tryggingastofnun ríkisins skal annast sjúklingatryggingu vegna þeirra
-     sem hafa nýtt sér heimild til að kaupa ekki vátryggingu, sbr. 11. gr.
+                      [sjúkratryggingastofnunarinnar].^1)
+                            ^1)[5]L. 112/2008, 61. gr.
+             Sjúklingatrygging [sjúkratryggingastofnunarinnar].^1)
+                            ^1)[6]L. 112/2008, 61. gr.
+14. gr. [Sjúkratryggingastofnunin, sbr. lög um sjúkratryggingar],^1) skal annast
+  sjúklingatryggingu vegna þeirra sem hafa nýtt sér heimild til að kaupa ekki
+                           vátryggingu, sbr. 11. gr.
   Ráðherra setur reglugerð um starfsemi og málsmeðferð sjúklingatrygginga hjá
-                           Tryggingastofnun ríkisins.
-                   Málsmeðferð hjá Tryggingastofnun ríkisins.
-15. gr. Tryggingastofnun ríkisins aflar gagna eftir því sem þurfa þykir og getur
- m.a. aflað skýrslna fyrir héraðsdómi þar sem skýrslugjafi býr. Stofnunin getur
-       krafið heilsugæslustöðvar, sjúkrahús, aðrar heilbrigðisstofnanir,
+                        [sjúkratryggingastofnuninni].^1)
+                            ^1)[7]L. 112/2008, 61. gr.
+                Málsmeðferð hjá [sjúkratryggingastofnuninni].^1)
+                            ^1)[8]L. 112/2008, 61. gr.
+ 15. gr. [Sjúkratryggingastofnunin]^1) aflar gagna eftir því sem þurfa þykir og
+ getur m.a. aflað skýrslna fyrir héraðsdómi þar sem skýrslugjafi býr. Stofnunin
+    getur krafið heilsugæslustöðvar, sjúkrahús, aðrar heilbrigðisstofnanir,
      heilbrigðisstarfsmenn sem starfa sjálfstætt og hlotið hafa löggildingu
- [heilbrigðisráðherra],^1) svo og þá sem annast sjúkraflutninga, um hvers konar
-   gögn, þar á meðal sjúkraskýrslur sem hún telur máli skipta um meðferð máls
-                               samkvæmt lögunum.
-Að gagnaöflun lokinni tekur Tryggingastofnun ríkisins afstöðu til bótaskyldu og
-                             ákveður fjárhæð bóta.
+[landlæknis],^1) svo og þá sem annast sjúkraflutninga, um hvers konar gögn, þar
+   á meðal sjúkraskýrslur sem hún telur máli skipta um meðferð máls samkvæmt
+                                    lögunum.
+Að gagnaöflun lokinni tekur [sjúkratryggingastofnunin]^1) afstöðu til bótaskyldu
+                            og ákveður fjárhæð bóta.
  Starfsmenn stofnunarinnar sem fjalla um málefni sjúklinga eða annarra tjónþola
  skulu gæta fyllstu þagmælsku um allar persónuupplýsingar sem þeir komast að í
                          starfi eða í tengslum við það.
-                              ^1)L. 160/2007, 12. gr.
-16. gr. Tryggingastofnun ríkisins tilkynnir öllum hlutaðeigandi niðurstöðu sína
-   í hverju máli. Niðurstöðu má skjóta til úrskurðarnefndar almannatrygginga
+                            ^1)[9]L. 112/2008, 61. gr.
+ 16. gr. [Sjúkratryggingastofnunin]^1) tilkynnir öllum hlutaðeigandi niðurstöðu
+ sína í hverju máli. Niðurstöðu má skjóta til úrskurðarnefndar almannatrygginga
                       samkvæmt lögum um almannatryggingar.
+                            ^1)[10]L. 112/2008, 61. gr.
                        Ársskýrsla um sjúklingatryggingu.
-      17. gr. Tryggingastofnun ríkisins skal árlega taka saman skýrslu til
-[heilbrigðisráðherra]^1) um störf vegna sjúklingatryggingarinnar og þau mál sem
+    17. gr. [Sjúkratryggingastofnunin]^1) skal árlega taka saman skýrslu til
+[heilbrigðisráðherra]^2) um störf vegna sjúklingatryggingarinnar og þau mál sem
 hún afgreiðir. Jafnframt skal upplýsa í ársskýrslu stofnunarinnar, eftir því sem
          kostur er, um málsmeðferð vátryggingafélaga á bótakröfum vegna
          sjúklingatryggingar. Skýrslan skal vera aðgengileg almenningi.
-                              ^1)L. 160/2007, 12. gr.
-                 Upplýsingaskylda Tryggingastofnunar ríkisins.
-18. gr. Tryggingastofnun ríkisins er skylt að kynna fyrir almenningi ákvæði laga
- þessara um sjúklingatryggingu. Í þeim upplýsingum skal m.a. koma fram að sé um
-    að ræða sjálfstætt starfandi heilbrigðisstarfsmenn skuli beina kröfu til
-                               vátryggingafélaga.
+                ^1)[11]L. 112/2008, 61. gr. ^2)L. 160/2007, 12. gr.
+              Upplýsingaskylda [sjúkratryggingastofnunarinnar].^1)
+                            ^1)[12]L. 112/2008, 61. gr.
+   18. gr. [Sjúkratryggingastofnuninni]^1) er skylt að kynna fyrir almenningi
+  ákvæði laga þessara um sjúklingatryggingu. Í þeim upplýsingum skal m.a. koma
+  fram að sé um að ræða sjálfstætt starfandi heilbrigðisstarfsmenn skuli beina
+                          kröfu til vátryggingafélaga.
+                            ^1)[13]L. 112/2008, 61. gr.
                                   Ýmis ákvæði.
 19. gr. Kröfur um bætur samkvæmt lögum þessum fyrnast þegar fjögur ár eru liðin
          frá því að tjónþoli fékk eða mátti fá vitneskju um tjón sitt.
@@ -184,15 +194,23 @@ hún afgreiðir. Jafnframt skal upplýsa í ársskýrslu stofnunarinnar, eftir �
                            Breytingar á öðrum lögum.
                                     23. gr.
                                     24. gr.
-   [Ákvæði til bráðabirgða. Hvarvetna í lögum þessum þar sem Tryggingastofnun
-ríkisins er falið að annast framkvæmd sjúklingatryggingar skal það gert í umboði
-                            heilbrigðisráðherra.]^1)
-                              ^1)L. 160/2007, 15. gr.
+                        [Ákvæði til bráðabirgða. ^1)]^2)
+                ^1)[14]L. 112/2008, 61. gr. ^2)L. 160/2007, 15. gr.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000111
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=535
-   3. http://www.althingi.is/altext/125/s/0836.html
-   4. file://2007100.html#g44
+   1. file://2008112.html
+   2. file://2008112.html
+   3. file://2008112.html
+   4. file://2008112.html
+   5. file://2008112.html
+   6. file://2008112.html
+   7. file://2008112.html
+   8. file://2008112.html
+   9. file://2008112.html
+  10. file://2008112.html
+  11. file://2008112.html
+  12. file://2008112.html
+  13. file://2008112.html
+  14. file://2008112.html

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-Tóku gildi 1. júní 2002, sjá þó 101. gr. Breytt með [4]l. 62/2006 (tóku gildi 1.
-                                  júlí 2006).
+Tóku gildi 1. júní 2002, sjá þó 101. gr. Breytt með [1]l. 62/2006 (tóku gildi 1.
+ júlí 2006) og [2]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók
+                             gildi 21. júní 2008).
 
                     I. kafli. Markmið barnaverndarlaga o.fl.
                    1. gr. Réttindi barna og skyldur foreldra.
@@ -287,7 +287,9 @@ lögregla, þegar hún fær slíkt mál til meðferðar, tilkynna það barnaver
  Um skýrslutökur af börnum sem brotaþolum, sakborningum eða vitnum í opinberum
  málum, hvort heldur sem er á rannsóknarstigi eða við meðferð máls fyrir dómi,
 gilda ákvæði laga um meðferð opinberra mála og reglugerða sem settar hafa verið
-                                með stoð í þeim.
+                              með stoð í þeim.^1)
+     ^1)Málsgreininni var breytt með [3]l. 88/2008, 234. gr. Breytingin tekur
+                    gildi 1. jan. 2009 skv. [4]232. gr. s.l.
                          19. gr. Nafnleynd tilkynnanda.
      Hver sá sem tilkynnir til barnaverndarnefndar skal segja á sér deili.
  Ef tilkynnandi skv. 16. gr. óskar nafnleyndar gagnvart öðrum en nefndinni skal
@@ -551,7 +553,9 @@ annarra slíkra stofnana eða staða þar sem börn koma saman eða dveljast um 
 öðrum hætti í samband við barn. Enn fremur er með sama hætti heimilt að krefjast
 þess að manni verði bönnuð dvöl á heimili ef nefndin telur það nauðsynlegt vegna
    hagsmuna barns. Um málsmeðferð gilda að öðru leyti ákvæði laga um meðferð
-                        opinberra mála um nálgunarbann.
+                       opinberra mála um nálgunarbann.^1)
+    ^1)Málsliðnum var breytt með [6]l. 88/2008, 234. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [7]232. gr. s.l.
 
                VIII. kafli. Málsmeðferð fyrir barnaverndarnefnd.
                       38. gr. Gildissvið stjórnsýslulaga.
@@ -1204,7 +1208,7 @@ tilkynna um keppnina til Barnaverndarstofu. Ráðherra getur sett nánari reglur
    Börnum yngri en 18 ára er óheimilt að taka þátt í nektarsýningum eða öðrum
  sýningum af kynferðislegum toga. Skipuleggjendur slíkra sýninga bera ábyrgð á
              því að þátttakendur í þeim hafi náð tilskildum aldri.
-                             ^1)[6]L. 62/2006, 7. gr.
+                             ^1)[8]L. 62/2006, 7. gr.
                    94. gr. Skyldur foreldra og forráðamanna.
  Foreldrar eða forráðamenn barna skulu sjá til þess að börn hlíti ákvæðum þessa
    kafla um útivistartíma, þátttöku í sýningum og skemmtunum og fyrirsætu- og
@@ -1272,9 +1276,11 @@ hefur ekki verið skotið til barnaverndarráðs eða úrskurðinum hefur verið
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002080
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=318
-   3. http://www.althingi.is/altext/127/s/0403.html
-   4. file://2006062.html
+   1. file://2006062.html
+   2. file://2008088.html
+   3. file://2008088.html#g234
+   4. file://2008088.html
    5. file://1940019.html
-   6. file://2006062.html#g7
+   6. file://2008088.html#g234
+   7. file://2008088.html
+   8. file://2006062.html#g7

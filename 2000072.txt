@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,11 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                             Tóku gildi 2. júní 2000.
   1. gr. Til að standa straum af fjárframlögum vegna alþjónustu árið 2000 skal
-  innheimta jöfnunargjald skv. [4]15. gr. laga um fjarskipti, nr. 107/1999, af
+  innheimta jöfnunargjald skv. [1]15. gr. laga um fjarskipti, nr. 107/1999, af
  gjaldskyldri veltu ársins. Gjaldið skal nema 0,18% af bókfærðri veltu eins og
 hún er skilgreind í 2. mgr. 15. gr. laga um fjarskipti. Heimilt er að ákveða að
   greitt skuli fyrir fram árið 2000 upp í væntanlega álagningu jöfnunargjalds.
@@ -21,7 +20,4 @@ hún er skilgreind í 2. mgr. 15. gr. laga um fjarskipti. Heimilt er að ákveð
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000072
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=125&mnr=468
-   3. http://www.althingi.is/altext/125/s/0747.html
-   4. file://1999107.html
+   1. file://1999107.html

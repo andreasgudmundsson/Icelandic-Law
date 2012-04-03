@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,13 +7,13 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
                            Tóku gildi 1. janúar 2005.
  1. gr. Ákvæði reglugerðar Evrópuþingsins og ráðsins (EB) nr. 2560/2001 frá 19.
  desember 2001, um greiðslur yfir landamæri í evrum, skulu hafa lagagildi hér á
     landi í samræmi við bókun 1 um altæka aðlögun við samninginn um Evrópska
-  efnahagssvæðið, sbr. [4]lög nr. 2/1993, um Evrópska efnahagssvæðið, þar sem
+  efnahagssvæðið, sbr. [1]lög nr. 2/1993, um Evrópska efnahagssvæðið, þar sem
  bókunin er lögfest. Reglugerðin um greiðslur yfir landamæri í evrum er prentuð
                         sem fylgiskjal með lögum þessum.
     2. gr. Viðskiptaráðherra er heimilt að setja reglugerð um greiðslur yfir
@@ -238,7 +237,4 @@ frá 13. desember 2001. ^(5)Stjtíð. EB L 43, 14.2.1997, bls. 25. ^(6)ISO-stað
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2004146
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=131&mnr=212
-   3. http://www.althingi.is/altext/131/s/0214.html
-   4. file://1993002.html
+   1. file://1993002.html

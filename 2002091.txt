@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,9 +7,9 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-Tóku gildi 31. maí 2002. Breytt með [4]l. 61/2006 (tóku gildi 1. júlí 2006), l.
+Tóku gildi 31. maí 2002. Breytt með [1]l. 61/2006 (tóku gildi 1. júlí 2006), l.
   31/2007 (taka gildi 1. nóv. 2008) og l. 167/2007 (tóku gildi 1. jan. 2008).
 
                I. kafli. Tilgangur, skilgreiningar og yfirstjórn.
@@ -60,7 +59,7 @@ Vilji landeigandi eða veiðifélag gera athugasemd við fyrirhugaða framkvæmd
     Landgræðsla ríkisins skal hafa samráð við viðkomandi búnaðarsamband eða
   héraðsráðunauta um forgangsröðun fyrirhleðsluverkefna. Hún getur einnig haft
   samráð við þessa aðila um eftirlit með framkvæmdum og viðhald fyrirhleðslna.
-                 ^1)L. 167/2007, 32. gr. ^2)[5]L. 61/2006, 57. gr.
+                 ^1)L. 167/2007, 32. gr. ^2)[2]L. 61/2006, 57. gr.
                      7. gr. Framkvæmdir við fyrirhleðslur.
     Þegar fyrirhugaðar eru umfangsmiklar framkvæmdir við fyrirhleðslur skal
 Vegagerðin hafa umsjón með verkfræðilegum undirbúningi og framkvæmdum í samráði
@@ -103,7 +102,7 @@ Ef framkvæmdir við fyrirhleðslur valda bótaskyldu tjóni skal greiða skaða
                               ^1)L. 167/2007, 32. gr.
                         11. gr. Ágreiningsmál og kærur.
 Ef ágreiningur rís um framkvæmd þessara laga sker [umhverfisráðherra]^1) úr. Sú
-         málsmeðferð fer eftir ákvæðum [6]stjórnsýslulaga, nr. 37/1993.
+         málsmeðferð fer eftir ákvæðum [3]stjórnsýslulaga, nr. 37/1993.
                               ^1)L. 167/2007, 32. gr.
                             12. gr. Gildistaka o.fl.
                          Lög þessi öðlast þegar gildi.
@@ -111,9 +110,6 @@ Ef ágreiningur rís um framkvæmd þessara laga sker [umhverfisráðherra]^1) �
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002091
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=504
-   3. http://www.althingi.is/altext/127/s/0796.html
-   4. file://2006061.html
-   5. file://2006061.html#g57
-   6. file://1993037.html
+   1. file://2006061.html
+   2. file://2006061.html#g57
+   3. file://1993037.html

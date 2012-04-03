@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 19. desember 1990. Breytt með l. 129/2004 (tóku gildi 31. des. 2005).
 
@@ -19,7 +18,7 @@ Finnlands, Íslands, Noregs og Svíþjóðar um stofnun norræns fjármögnunarf
   og viðskiptamála,^1) svo og annarra laga er setja kunna hömlur á greiðslur í
  erlendum gjaldeyri eða gjaldeyrisviðskipti, að svo miklu leyti sem slík ákvæði
      hindra eða torvelda starfsemi félagsins eða efndir skuldbindinga þess.
-                               ^1)Nú [4]l. 87/1992.
+                               ^1)Nú [1]l. 87/1992.
 3. gr. Félagið skal undanþegið aðstöðugjaldi, landsútsvari [og tekjuskatti],^1)
 svo og öðrum gjöldum sem lögð kunna að vera á tekjur, eignir eða veltu til ríkis
                                eða sveitarfélaga.
@@ -31,7 +30,4 @@ svo og öðrum gjöldum sem lögð kunna að vera á tekjur, eignir eða veltu t
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1990102
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=113&mnr=44
-   3. http://www.althingi.is/altext/113/s/0044.html
-   4. file://1992087.html
+   1. file://1992087.html

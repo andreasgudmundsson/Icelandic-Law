@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,7 +7,7 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
     Tóku gildi 30. desember 2002. EES-samningurinn: XVII. viðauki tilskipun
          89/104/EBE. Breytt með l. 167/2007 (tóku gildi 1. jan. 2008).
@@ -20,7 +19,7 @@ Stjórnvöld, stofnanir, félög eða samtök, sem hafa eftirlit með eða ákve
  auðkennis fyrir þær vörur eða þjónustu sem eftirlitið eða staðlarnir taka til.
             Auðkenni þau sem lög þessi taka til nefnast félagamerki.
  2. gr. Að svo miklu leyti sem annað leiðir ekki af ákvæðum laga þessara gilda
- ákvæði [4]laga um vörumerki, nr. 45/1997, um félagamerki eftir því sem við á.
+ ákvæði [1]laga um vörumerki, nr. 45/1997, um félagamerki eftir því sem við á.
 3. gr. Auðkenni eða upplýsingar, sem í viðskiptum gefa til kynna landfræðilegan
  uppruna vöru eða þjónustu, geta talist félagamerki þrátt fyrir ákvæði 1. mgr.
   13. gr. laga um vörumerki. Slíkt merki veitir eiganda þess ekki rétt til að
@@ -70,8 +69,8 @@ færslu, útgáfu skráningarskírteina og efni þeirra og meðferð andmælamá
 málefna sem tengjast félagamerkjum og við þjónustu sem veitt er, m.a. í tengslum
   við umsóknir og skráningu félagamerkja, útskriftir úr skrám, afgreiðslur og
                                    endurrit.
-     ^1)L. 167/2007, 89. gr. ^2)Rg. 41/2000, sbr. 110/2003; rg. 916/2001, sbr.
-                        15/2003, 898/2003 og 1057/2007.
+   ^1)L. 167/2007, 89. gr. ^2)Rg. 916/2001, sbr. 15/2003, 898/2003 og 1057/2007,
+                                 rg. 275/2008.
   10. gr. Sá sem af ásetningi brýtur gegn félagamerkjarétti skal sæta sektum.
        Eftir atvikum getur refsing verið fangelsi í allt að þrjá mánuði.
  Sektir samkvæmt lögum þessum má gera jafnt lögaðila sem einstaklingi. Lögaðila
@@ -88,7 +87,4 @@ hagsbóta fyrir lögaðilann eða hann hefur hagnast á brotinu. Lögaðili ber 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002155
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=128&mnr=346
-   3. http://www.althingi.is/altext/128/s/0382.html
-   4. file://1997045.html
+   1. file://1997045.html

@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,19 +7,21 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
   Tóku gildi 1. janúar 2003. Breytt með l. 84/2003 (tóku gildi 10. apríl 2003;
   EES-samningurinn: V eða VIII. viðauki), l. 19/2004 (tóku gildi 1. maí 2004),
-[4]l. 139/2005 (tóku gildi 30. des. 2005), l. 21/2006 (tóku gildi 1. maí 2006),
- l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006) og l. 106/2007 (tóku
-                             gildi 27. júní 2007).
+[1]l. 139/2005 (tóku gildi 30. des. 2005), l. 21/2006 (tóku gildi 1. maí 2006),
+  l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 106/2007 (tóku
+gildi 27. júní 2007) og l. 78/2008 (tóku gildi 1. ágúst 2008; EES-samningurinn:
+                       V. viðauki tilskipun 2004/38/EB).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
   Ákvæði laga þessara gilda um heimild útlendinga til atvinnu hér á landi. Um
           undanþágu frá kröfu um atvinnuleyfi gilda ákvæði III. kafla.
-      Íslenskir ríkisborgarar geta einnig borið skyldur samkvæmt lögunum.
+                                      ^1)
+                               ^1)L. 78/2008, 1. gr.
                                2. gr. Tilgangur.
 Lögin gefa heimild til að veita atvinnuleyfi vegna starfa útlendinga hér á landi
                  í samræmi við stefnu stjórnvalda hverju sinni.
@@ -28,25 +29,19 @@ Lögunum er einnig ætlað að tryggja réttaröryggi útlendinga sem koma til l
 í atvinnuskyni og kveða á um rétt útlendinga til atvinnu hér á landi að ákveðnum
                              skilyrðum fullnægðum.
                               3. gr. Orðskýringar.
-                 Merking orða í lögum þessum er sem hér segir:
-   1. Atvinnuleyfi: Leyfi sem félagsmálaráðherra veitir útlendingi til að starfa
-         hér á landi eða atvinnurekanda til að ráða útlending í starf.
-   2. Tímabundið atvinnuleyfi: Tímabundið leyfi veitt atvinnurekanda til að ráða
-                             útlending til starfa.
-   3. Atvinnuleyfi til sérhæfðra starfsmanna: Tímabundið leyfi veitt útlendingi
-                           vegna sérhæfðra verkefna.
-    4. Óbundið atvinnuleyfi: Ótímabundið leyfi veitt útlendingi til að vinna á
-                                    Íslandi.
-     5. Atvinnuleyfi vegna námsdvalar og vistráðningar: Atvinnuleyfi erlendra
-   námsmanna í íslenskum skólum eða vegna samninga um vistráðningu á heimili.
-   6. Atvinnurekandi: Einstaklingur eða fyrirtæki sem er með atvinnurekstur hér
+                 [Merking orða í lögum þessum er sem hér segir:
+   1. Tímabundið atvinnuleyfi: Leyfi veitt útlendingi til að starfa tímabundið á
+              innlendum vinnumarkaði hjá tilteknum atvinnurekanda.
+    2. Óbundið atvinnuleyfi: Leyfi veitt útlendingi til að starfa ótímabundið á
+                            innlendum vinnumarkaði.
+   3. Atvinnurekandi: Einstaklingur eða fyrirtæki sem er með atvinnurekstur hér
   á landi án tillits til þess hvernig rekstrarformi og eignarhaldi er háttað.
-    7. [Búsetuleyfi: Leyfi sem felur í sér rétt til ótímabundinnar dvalar skv.
-                        15. gr. laga um útlendinga.]^1)
-     8. Útlendingur: Einstaklingur sem ekki hefur íslenskan ríkisborgararétt.
-    9. Nánustu aðstandendur: Maki, sambúðarmaki, samvistarmaki, niðjar yngri en
-              18 ára og ættmenni útlendings eða maka að feðgatali.
-                               ^1)L. 84/2003, 1. gr.
+     4. Búsetuleyfi: Heimild veitt útlendingi til ótímabundinnar dvalar hér á
+                      landi samkvæmt lögum um útlendinga.
+     5. Útlendingur: Einstaklingur sem ekki hefur íslenskan ríkisborgararétt.
+      6. Nánustu aðstandendur: Einstaklingar sem teljast nánustu aðstandendur
+                       samkvæmt lögum um útlendinga.]^1)
+                               ^1)L. 78/2008, 2. gr.
                            4. gr. Framkvæmd laganna.
     Félagsmálaráðherra fer með yfirstjórn mála samkvæmt lögunum og setur með
                 reglugerð^1) nánari ákvæði um framkvæmd þeirra.
@@ -60,82 +55,234 @@ Atvinnuleyfi veitir rétt til að vinna hér á landi samkvæmt þeim lögum og 
 Leyfi samkvæmt lögum þessum er heimilt að binda skilyrðum öðrum en þeim er koma
        fram í lögum þessum og ráðherra telur nauðsynleg vegna mikilvægra
                                 almannahagsmuna.
-  Vinnumálastofnun skal gefa út atvinnuleyfi samkvæmt nánari ákvæðum sem sett
-                             skulu í reglugerð.^1)
-                                 ^1)Rg. 339/2005.
+    [Félagsmálaráðherra getur sett nánari reglur^1) um veitingu atvinnuleyfa
+          samkvæmt lögum þessum í samræmi við stefnu stjórnvalda.]^2)
+                      ^1)Rg. 339/2005. ^2)L. 78/2008, 3. gr.
  6. gr. Óheimilt er að veita útlendingi atvinnuleyfi sem dvelst hér á landi án
    dvalarleyfis eða hefur verið gert að fara af landi brott samkvæmt lögum um
-útlendinga. Sé þessu skilyrði ekki fullnægt og útlendingurinn dvelst í landinu á
- grundvelli bráðabirgðadvalarleyfis samkvæmt lögum um útlendinga má veita honum
-tímabundið atvinnuleyfi að uppfylltum skilyrðum 3. mgr. 7. gr. og 1. mgr. 8. gr.
+                                útlendinga. ^1)
 Óheimilt er hverjum manni, félagi eða stofnun, sem rekur atvinnu eða starfrækir
   fyrirtæki, hverju nafni sem það nefnist, að ráða útlending til starfa, hvort
-heldur er um langan tíma eða skamman, eða hlutast til um að útlendingur flytjist
-                   til landsins í því skyni án atvinnuleyfis.
-Útlendingi er óheimilt að ráða sig í vinnu eða starfa sjálfstætt nema leyfi hafi
-                       verið veitt samkvæmt lögum þessum.
-                        7. gr. Tímabundið atvinnuleyfi.
-   Tímabundið atvinnuleyfi er veitt atvinnurekanda til að ráða útlending til
-  starfa. Skilyrði þess að atvinnuleyfi megi veita samkvæmt þessari grein eru
-                                 eftirfarandi:
-      a. Að kunnáttumenn verði ekki fengnir innan lands, atvinnuvegi landsins
-  skorti vinnuafl eða aðrar sérstakar ástæður mæli með leyfisveitingu. Áður en
-atvinnuleyfi er veitt ber atvinnurekanda að hafa leitað til svæðisvinnumiðlunar
-   eftir vinnuafli, nema slík leit verði fyrirsjáanlega árangurslaus að mati
-                              Vinnumálastofnunar.
-   b. Að fyrir liggi umsögn stéttarfélags á staðnum í hlutaðeigandi starfsgrein
-eða viðkomandi landssambands. Umsögn skal liggja fyrir innan 14 daga frá móttöku
- umsagnaraðila á umsókn um atvinnuleyfi. Þó er heimilt í sérstökum tilvikum að
-     víkja frá þessu skilyrði þegar ekki er til að dreifa stéttarfélagi eða
-                   landssambandi í hlutaðeigandi starfsgrein.
-    c. Að fyrir liggi undirskrifaður ráðningarsamningur til tiltekins tíma eða
-    verkefnis sem tryggi starfsmanni laun og önnur starfskjör til jafns við
-        heimamenn, sbr. lög um starfskjör launafólks og skyldutryggingu
-                               lífeyrisréttinda.
-    d. Að atvinnurekandi sjúkratryggi erlendan starfsmann þannig að hann njóti
-               verndar til jafns við ákvæði almannatryggingalaga.
-       e. Að atvinnurekandi ábyrgist greiðslu á heimflutningi starfsmanns að
-starfstíma loknum ef starfsmaður verður óvinnufær um lengri tíma vegna veikinda
-  eða slysa og ef um er að ræða ráðningarslit sem starfsmaður á ekki sök á. Í
-        ráðningarsamningi komi fram til hvaða lands heimflutningur nær.
-            f. Að lagt hafi verið fram fullnægjandi heilbrigðisvottorð.
-Heimilt er að veita tímabundið atvinnuleyfi vegna nánustu aðstandenda útlendings
- sem fengið hefur búsetuleyfi og óbundið atvinnuleyfi. Skilyrði er að áður hafi
-verið veitt dvalarleyfi samkvæmt ákvæðum laga um útlendinga um dvalarleyfi fyrir
-aðstandendur. Við veitingu leyfis samkvæmt þessari málsgrein er heimilt að víkja
-                      frá skilyrðum a- og e-liðar 1. mgr.
-Heimilt er að veita tímabundið atvinnuleyfi vegna útlendings, sem sótt hefur um
-    hæli, þar til ákvörðun hefur verið tekin um hælisumsóknina, svo og vegna
- útlendings, sem fengið hefur endanlega synjun um hæli eða dvalarleyfi, þar til
-   brottvísun kemur til framkvæmda, ef rík mannúðarsjónarmið standa til þess.
-Skilyrði er að áður hafi útlendingi verið veitt bráðabirgðadvalarleyfi samkvæmt
- lögum um útlendinga. Við veitingu leyfis samkvæmt þessari málsgrein er heimilt
-                að víkja frá skilyrðum a-, b- og e-liðar 1. mgr.
-[Óheimilt er að veita dvalar- og atvinnuleyfi samkvæmt lögum þessum vegna starfa
-                             hjá starfsmannaleigum.
-   Félagsmálaráðherra getur með reglugerð^1) sett nánari ákvæði um tímabundin
-                               atvinnuleyfi.]^2)
-                    ^1)Rg. 339/2005. ^2)[5]L. 139/2005, 16. gr.
-  8. gr. Tímabundið atvinnuleyfi skal liggja fyrir áður en útlendingur kemur í
-       fyrsta skipti til starfa á Íslandi. Frá þessu má þó víkja ef ríkar
-sanngirnisástæður eru fyrir hendi, einnig ef skilyrði skv. 1. mgr. 6. gr. og 3.
-                          mgr. 7. gr. eru fyrir hendi.
-  Atvinnuleyfi sem veitt er í fyrsta skipti skal eigi veitt til lengri tíma en
-   eins árs. Heimilt er að framlengja það um allt að tvö ár í senn, enda séu
-           uppfyllt skilyrði sem fram koma í ac-liðum 1. mgr. 7. gr.
-    Hafi ríki gert samning við Ísland um atvinnuréttindi er heimilt að veita
- útlendingi frá því ríki atvinnuleyfi til lengri tíma en greinir í 2. mgr. Hið
-   sama gildir ef ríki er aðili að alþjóðasamningum um félagsleg réttindi sem
-                             Ísland hefur fullgilt.
-                  9. gr. Íslenskukennsla og samfélagsfræðsla.
+ heldur er um langan tíma eða skamman, [sbr. þó 4. og 5. mgr. 19. gr.],^1) eða
+       hlutast til um að útlendingur flytjist til landsins í því skyni án
+                                 atvinnuleyfis.
+   [Útlendingi er óheimilt að starfa hér á landi við eigin atvinnurekstur eða
+         sjálfstæða starfsemi nema á grundvelli óbundins atvinnuleyfis.
+Útlendingi er óheimilt að ráða sig til starfa hér á landi nema leyfi hafi verið
+         veitt samkvæmt lögum þessum, sbr. þó 4. og 5. mgr. 19. gr.]^1)
+                               ^1)L. 78/2008, 4. gr.
+               7. gr. [Almenn skilyrði tímabundins atvinnuleyfis.
+   Heimilt er að veita tímabundið atvinnuleyfi skv. 8.12. gr. og 16. gr. ef
+                    eftirfarandi skilyrðum er m.a. fullnægt:
+       a. Starfsfólk fáist hvorki á innlendum vinnumarkaði né innan Evrópska
+ efnahagssvæðisins, EFTA-ríkja eða Færeyja eða aðrar sérstakar ástæður mæli með
+ leyfisveitingu. Áður en leyfi er veitt ber atvinnurekanda að hafa leitað eftir
+ starfsfólki með aðstoð Vinnumálastofnunar, nema slík leit verði fyrirsjáanlega
+                      árangurslaus að mati stofnunarinnar.
+        b. Fyrir liggi umsögn stéttarfélags eða landssambands launafólks í
+ hlutaðeigandi starfsgrein. Umsögn skal liggja fyrir innan sjö daga frá móttöku
+afrits umsóknar um atvinnuleyfi og ráðningarsamnings. Þó er heimilt að víkja frá
+ þessu skilyrði þegar ekki er til að dreifa heildarsamtökum eða landssambandi í
+                           hlutaðeigandi starfsgrein.
+    c. Fyrir liggi undirritaður ráðningarsamningur til tiltekins tíma eða vegna
+  verkefnis milli atvinnurekanda og útlendings sem tryggi útlendingnum laun og
+     önnur starfskjör til jafns við heimamenn í samræmi við gildandi lög og
+   kjarasamninga þar um. Þegar um er að ræða störf sem falla utan gildissviðs
+ kjarasamninga skal tryggja útlendingnum laun og önnur starfskjör til jafns við
+                                   heimamenn.
+    d. Fyrir liggi að atvinnurekandi hafi sjúkratryggt útlending samkvæmt lögum
+                                 um útlendinga.
+   e. Atvinnurekandi ábyrgist greiðslu á heimflutningi útlendings að starfstíma
+   loknum, ef um er að ræða ráðningarslit sem starfsmaður á ekki sök á eða ef
+    útlendingur verður óvinnufær um lengri tíma vegna veikinda eða slysa. Í
+      ráðningarsamningi skal koma fram til hvaða lands heimflutningur nær.
+    Óheimilt er að veita atvinnuleyfi samkvæmt lögum þessum vegna starfa hjá
+                             starfsmannaleigum.]^1)
+                               ^1)L. 78/2008, 5. gr.
+   8. gr. [Tímabundið atvinnuleyfi vegna starfs sem krefst sérfræðiþekkingar.
+ Heimilt er að veita tímabundið atvinnuleyfi vegna tiltekins starfs hér á landi
+  sem krefst sérfræðiþekkingar. Skilyrði fyrir veitingu atvinnuleyfis samkvæmt
+                      ákvæði þessu eru m.a. eftirfarandi:
+                 a. skilyrði ae-liða 1. mgr. 7. gr. séu uppfyllt,
+     b. útlendingur hafi gert ráðningarsamning við atvinnurekanda um að gegna
+tilteknu starfi sem krefst sérfræðiþekkingar enda sé ekki um að ræða tímabundið
+                                   verkefni,
+    c. sérfræðiþekking útlendingsins sé nauðsynleg hlutaðeigandi fyrirtæki, og
+       d. sérfræðiþekking útlendingsins feli í sér háskóla-, iðn-, list- eða
+tæknimenntun sem viðurkennd er hér á landi. Vinnumálastofnun óskar staðfestingar
+á menntun útlendingsins með viðeigandi skilríkjum í samræmi við íslenskar reglur
+                       telji stofnunin slíkt nauðsynlegt.
+    Enn fremur er Vinnumálastofnun í undantekningartilvikum heimilt að veita
+ tímabundið atvinnuleyfi samkvæmt ákvæði þessu ef viðkomandi útlendingur hefur
+      yfir að ráða sérþekkingu sem jafna má við menntun skv. d-lið 1. mgr.
+   Vinnumálastofnun óskar staðfestingar á sérþekkingu í samræmi við íslenskar
+ reglur telji stofnunin slíkt nauðsynlegt. Að öðru leyti gildir ákvæði 1. mgr.
+ Þegar um er að ræða umsókn um atvinnuleyfi samkvæmt ákvæði þessu vegna starfs
+ sem krefst háskólamenntunar er Vinnumálastofnun heimilt að víkja frá skilyrði
+                   a-liðar 1. mgr. 7. gr., sbr. a-lið 1. mgr.
+Atvinnuleyfi samkvæmt ákvæði þessu sem veitt er í fyrsta skipti skal eigi veitt
+     til lengri tíma en eins árs en þó aldrei til lengri tíma en sem nemur
+  ráðningartímanum samkvæmt ráðningarsamningi. Heimilt er að framlengja það um
+allt að tvö ár í senn enda séu uppfyllt skilyrði 1. mgr. Við framlengingu þurfa
+  skilyrði a-, d- og e-liðar 1. mgr. 7. gr., sbr. a-lið 1. mgr., ekki að vera
+     uppfyllt. Enn fremur er það skilyrði framlengingar atvinnuleyfisins að
+  atvinnurekandi hafi staðið skil á staðgreiðslu skatta sem og tryggingagjaldi
+                   lögum samkvæmt vegna starfa útlendingsins.
+  Dveljist útlendingur hér á landi á grundvelli dvalarleyfis samkvæmt lögum um
+útlendinga er heimilt að sækja um atvinnuleyfi samkvæmt ákvæði þessu þegar hann
+                             er staddur á landinu.
+      Atvinnuleyfi samkvæmt ákvæði þessu getur orðið grundvöllur óbundins
+                         atvinnuleyfis skv. 17. gr.]^1)
+                               ^1)L. 78/2008, 6. gr.
+           [9. gr. Tímabundið atvinnuleyfi vegna skorts á vinnuafli.
+ Heimilt er að veita tímabundið atvinnuleyfi vegna tiltekins starfs hér á landi
+    þegar starfsfólk fæst hvorki á innlendum vinnumarkaði né innan Evrópska
+    efnahagssvæðisins, í EFTA-ríkjum eða í Færeyjum. Skilyrði fyrir veitingu
+  atvinnuleyfis samkvæmt ákvæði þessu eru m.a. að skilyrði 1. mgr. 7. gr. séu
+                                   uppfyllt.
+ Vinnumálastofnun er heimilt að víkja frá skilyrði a-liðar 1. mgr. 7. gr. þegar
+atvinnurekandi sendir starfsmann sinn tímabundið til starfa við starfsstöð sína
+    hér á landi enda er um að ræða starfsmann atvinnurekanda með ótímabundna
+   ráðningu sem stjórnandi eða sérfræðingur, sbr. 8. gr., við starfsstöð hans
+  erlendis. Vinnumálastofnun óskar eftir rökstuðningi atvinnurekanda varðandi
+nauðsyn þess að viðkomandi útlendingur komi til starfa við starfsstöð hans hér á
+                    landi telji stofnunin slíkt nauðsynlegt.
+Atvinnuleyfi samkvæmt ákvæði þessu sem veitt er í fyrsta skipti skal eigi veitt
+     til lengri tíma en eins árs en þó aldrei til lengri tíma en sem nemur
+     ráðningartímanum samkvæmt ráðningarsamningi. Heimilt er að framlengja
+atvinnuleyfið í allt að eitt ár til viðbótar enda séu skilyrði 1. mgr. uppfyllt.
+Við framlengingu þarf skilyrði d-liðar 1. mgr. 7. gr. ekki að vera uppfyllt. Enn
+  fremur er það skilyrði framlengingar atvinnuleyfisins að atvinnurekandi hafi
+ staðið skil á staðgreiðslu skatta sem og tryggingagjaldi lögum samkvæmt vegna
+                             starfa útlendingsins.
+Heimilt er að veita framlengingu til lengri tíma en skv. 3. mgr. þegar um er að
+ ræða skýrt afmarkaða og tímabundna verkframkvæmd sem tekur lengri tíma en þar
+   greinir. Er þá heimilt að framlengja tímabundið atvinnuleyfi vegna starfa
+     útlendings við verkframkvæmdina þar til henni lýkur. Þegar sótt er um
+   framlengingu á tímabundnu atvinnuleyfi vegna slíkra verkframkvæmda þarf að
+ fylgja með áætlun um hvenær verkframkvæmdinni er ætlað að ljúka. Að öðru leyti
+                           eiga við skilyrði 3. mgr.
+Óheimilt er að veita útlendingi sem haft hefur tímabundið atvinnuleyfi samkvæmt
+  ákvæði þessu leyfi samkvæmt ákvæðinu að nýju fyrr en að lokinni tveggja ára
+samfelldri dvöl erlendis frá lokum gildistíma leyfisins. Þetta ákvæði á þó ekki
+ við þegar útlendingur starfar hér á landi skemur en sex mánuði á hverjum tólf
+      mánuðum eða þegar útlendingur skiptir um atvinnurekanda skv.16. gr.
+    Atvinnuleyfi samkvæmt ákvæði þessu getur ekki orðið grundvöllur óbundins
+                         atvinnuleyfis skv. 17. gr.]^1)
+                               ^1)L. 78/2008, 7. gr.
+              [10. gr. Tímabundið atvinnuleyfi fyrir íþróttafólk.
+   Heimilt er að veita tímabundið atvinnuleyfi vegna starfa íþróttafólks hjá
+íþróttafélagi innan Íþrótta- og Ólympíusambands Íslands. Skilyrði fyrir veitingu
+atvinnuleyfis samkvæmt ákvæði þessu eru m.a. að skilyrði ce-liða 1. mgr. 7. gr.
+                                 séu uppfyllt.
+Atvinnuleyfi samkvæmt ákvæði þessu sem veitt er í fyrsta skipti skal eigi veitt
+     til lengri tíma en eins árs en þó aldrei til lengri tíma en sem nemur
+     ráðningartímanum samkvæmt ráðningarsamningi. Heimilt er að framlengja
+ atvinnuleyfið um allt að tvö ár í senn enda séu skilyrði 1. mgr. uppfyllt. Við
+  framlengingu þarf skilyrði d-liðar 1. mgr. 7. gr. ekki að vera uppfyllt. Enn
+fremur er það skilyrði framlengingar atvinnuleyfisins að viðkomandi íþróttafélag
+  hafi staðið skil á staðgreiðslu skatta sem og tryggingagjaldi lögum samkvæmt
+                          vegna starfa útlendingsins.
+    Atvinnuleyfi samkvæmt ákvæði þessu getur ekki orðið grundvöllur óbundins
+                         atvinnuleyfis skv. 17. gr.]^1)
+                               ^1)L. 78/2008, 7. gr.
+           [11. gr. Tímabundið atvinnuleyfi vegna sérstakra ástæðna.
+Heimilt er að veita tímabundið atvinnuleyfi vegna tiltekins starfs hér á landi í
+     undantekningartilvikum þegar eftirfarandi skilyrði eru m.a. uppfyllt:
+     a. útlendingi hafi áður verið veitt bráðabirgðadvalarleyfi, dvalarleyfi á
+grundvelli mannúðarsjónarmiða samkvæmt lögum um útlendinga eða dvalarleyfi skv.
+                     3. mgr. 11. gr. laga um útlendinga, og
+              b. skilyrði c- og d-liðar 1. mgr. 7. gr. séu uppfyllt.
+Atvinnuleyfi samkvæmt ákvæði þessu sem veitt er í fyrsta skipti skal eigi veitt
+til lengri tíma en eins árs en þó aldrei til lengri tíma en sem nemur gildistíma
+   dvalarleyfis eða ráðningartíma samkvæmt ráðningarsamningi sé ráðningartími
+    skemmri en gildistími dvalarleyfis. Heimilt er að framlengja tímabundið
+ atvinnuleyfi um allt að eitt ár í senn enda séu skilyrði 1. mgr. uppfyllt. Við
+framlengingu þurfa skilyrði d-liðar 1. mgr. 7. gr., sbr. b-lið 1. mgr., ekki að
+  vera uppfyllt. Enn fremur er það skilyrði framlengingar atvinnuleyfisins að
+  atvinnurekandi hafi staðið skil á staðgreiðslu skatta sem og tryggingagjaldi
+                   lögum samkvæmt vegna starfa útlendingsins.
+  Dveljist útlendingur hér á landi á grundvelli dvalarleyfis samkvæmt lögum um
+útlendinga er heimilt að sækja um atvinnuleyfi samkvæmt ákvæði þessu þegar hann
+                             er staddur á landinu.
+    Atvinnuleyfi samkvæmt ákvæði þessu sem tengist dvalarleyfi á grundvelli
+    mannúðarsjónarmiða, sbr. a-lið 1. mgr., getur orðið grundvöllur óbundins
+                         atvinnuleyfis skv. 17. gr.]^1)
+                               ^1)L. 78/2008, 7. gr.
+      [12. gr. Tímabundið atvinnuleyfi á grundvelli fjölskyldusameiningar.
+  Heimilt er að veita tímabundið atvinnuleyfi vegna starfa nánustu aðstandenda
+  útlendings sem hefur tímabundið atvinnuleyfi skv. 8. gr. laganna, tímabundið
+ atvinnuleyfi sem tengist dvalarleyfi á grundvelli mannúðarsjónarmiða skv. 11.
+gr. laganna eða óbundið atvinnuleyfi að uppfylltum skilyrðum 1. mgr. 7. gr. Við
+    veitingu atvinnuleyfis samkvæmt ákvæði þessu er þó heimilt að víkja frá
+skilyrðum a-, b- og e-liðar 1. mgr. 7. gr. Skilyrði er að áður hafi verið veitt
+      dvalarleyfi samkvæmt ákvæðum laga um útlendinga um dvalarleyfi fyrir
+                                 aðstandendur.
+  Heimilt er að veita tímabundið atvinnuleyfi vegna starfa útlendings sem náð
+hefur 18 ára aldri hafi hann dvalið hér á landi á grundvelli dvalarleyfis fyrir
+ aðstandendur eða búsetuleyfis samkvæmt lögum um útlendinga fyrir 18 ára aldur,
+   að uppfylltum skilyrðum 1. mgr. 7. gr. Við veitingu atvinnuleyfis samkvæmt
+ ákvæði þessu er þó heimilt að víkja frá skilyrðum a-, b- og e-liðar 1. mgr. 7.
+ gr. Skilyrði er að áður hafi verið veitt dvalarleyfi samkvæmt ákvæðum laga um
+                 útlendinga um dvalarleyfi fyrir aðstandendur.
+  Atvinnuleyfi skv. 1. mgr. skal eigi veitt til lengri tíma en eins árs en þó
+aldrei til lengri tíma en sem nemur gildistíma dvalarleyfis nánasta aðstandanda
+    eða ráðningartíma samkvæmt ráðningarsamningi sé ráðningartími skemmri en
+gildistími dvalarleyfis. Heimilt er að framlengja það um allt að eitt ár í senn
+með sömu takmörkunum og þegar leyfið er veitt í fyrsta skipti enda séu skilyrði
+1. mgr. uppfyllt. Við framlengingu þarf skilyrði d-liðar 1. mgr. 7. gr. ekki að
+  vera uppfyllt. Enn fremur er það skilyrði framlengingar atvinnuleyfisins að
+  atvinnurekandi hafi staðið skil á staðgreiðslu skatta sem og tryggingagjaldi
+                   lögum samkvæmt vegna starfa hlutaðeigandi.
+ Ef hjúskap, staðfestri samvist eða sambúð er slitið vegna þess að útlendingur
+   eða barn hans hefur sætt misnotkun eða ofbeldi í sambandinu er heimilt að
+ framlengja atvinnuleyfi samkvæmt ákvæði þessu. Skilyrði er að áður hafi verið
+endurnýjað dvalarleyfi skv. 6. mgr. [2]13. gr. laga um útlendinga, nr. 96/2002.
+    Dveljist nánasti aðstandandi hér á landi á grundvelli dvalarleyfis fyrir
+ aðstandendur samkvæmt lögum um útlendinga er heimilt að sækja um atvinnuleyfi
+             samkvæmt ákvæði þessu þegar hann er staddur á landinu.
+      Atvinnuleyfi samkvæmt ákvæði þessu getur orðið grundvöllur óbundins
+   atvinnuleyfis skv. 2. mgr. 17. gr. hafi útlendingi sem nánasti aðstandandi
+          leiðir heimildir sínar af verið veitt óbundið atvinnuleyfi.
+ Börn sem dveljast hér á landi á grundvelli dvalarleyfis fyrir aðstandendur eða
+búsetuleyfis samkvæmt lögum um útlendinga er tímabundið heimilt að starfa hér á
+                 landi án atvinnuleyfa að átján ára aldri.]^1)
+                               ^1)L. 78/2008, 7. gr.
+                  [13. gr. Tímabundið atvinnuleyfi vegna náms.
+Heimilt er að veita tímabundið atvinnuleyfi vegna starfa útlendings sem stundar
+nám hér á landi. Skilyrði fyrir veitingu atvinnuleyfis samkvæmt ákvæði þessu eru
+                               m.a. eftirfarandi:
+             a. skilyrði c- og d-liðar 1. mgr. 7. gr. séu uppfyllt og
+      b. útlendingi hafi verið veitt dvalarleyfi vegna náms samkvæmt lögum um
+                                  útlendinga.
+ Atvinnuleyfi sem veitt er samkvæmt ákvæði þessu skal að jafnaði ekki veitt til
+   lengri tíma en sex mánaða í senn en þó aldrei til lengri tíma en sem nemur
+ gildistíma dvalarleyfis vegna náms samkvæmt lögum um útlendinga. Heimilt er að
+ framlengja það meðan á námstíma stendur og skilyrðum 1. mgr. er fullnægt. Enn
+  fremur er það skilyrði framlengingar atvinnuleyfisins að atvinnurekandi hafi
+ staðið skil á staðgreiðslu skatta sem og tryggingagjaldi lögum samkvæmt vegna
+                             starfa útlendingsins.
+Þegar útlendingur hefur lokið námi við íslenskan skóla sem felur í sér háskóla-,
+ iðn-, list- eða tæknimenntun er heimilt að veita atvinnuleyfi skv. 1. mgr. 8.
+ gr. vegna tiltekins starfs er tengist menntun hans. Er þá heimilt að víkja frá
+       skilyrðum d- og e-liðar 1. mgr. 7. gr., sbr. a-lið 1. mgr. 8. gr.
+  Dveljist útlendingur hér á landi á grundvelli dvalarleyfis samkvæmt lögum um
+útlendinga er heimilt að sækja um atvinnuleyfi samkvæmt ákvæði þessu þegar hann
+                             er staddur á landinu.
+    Atvinnuleyfi samkvæmt ákvæði þessu getur ekki orðið grundvöllur óbundins
+                         atvinnuleyfis skv. 17. gr.]^1)
+                               ^1)L. 78/2008, 7. gr.
+               [14. gr.]^1) Íslenskukennsla og samfélagsfræðsla.
      Atvinnurekandi og stéttarfélag skulu veita starfsmanni með tímabundið
      atvinnuleyfi upplýsingar um grunnnámskeið í íslensku fyrir útlendinga,
   samfélagsfræðslu og aðra þá fræðslu sem honum og fjölskyldu hans stendur til
                                      boða.
-                10. gr. Atvinnuleyfi til sérhæfðra starfsmanna.
+                               ^1)L. 78/2008, 7. gr.
+  [15. gr.]^1) [Tímabundið atvinnuleyfi til sérhæfðra starfsmanna á grundvelli
+                             þjónustusamninga.]^2)
   Heimilt er við sérstakar aðstæður að veita útlendingi, sem fyrirhugað er að
 senda hingað til lands á vegum fyrirtækis sem ekki hefur starfsstöð hér á landi,
-   tímabundið atvinnuleyfi, að uppfylltum skilyrðum cf-liðar 1. mgr. 7. gr.
+        tímabundið atvinnuleyfi, að uppfylltum skilyrðum [ce-liðar]^2)
 Þjónustusamningur við fyrirtæki hér á landi skal liggja fyrir. Í samningnum skal
      m.a. koma fram að skilyrði viðskiptanna sé að starfsmaður hins erlenda
                          fyrirtækis annist þjónustuna.
@@ -143,75 +290,151 @@ senda hingað til lands á vegum fyrirtækis sem ekki hefur starfsstöð hér á
                    mánaða á grundvelli sama þjónustusamnings.
 Atvinnuleyfi veitt samkvæmt þessari grein skal liggja fyrir áður en útlendingur
                               kemur til landsins.
-                         11. gr. Óbundið atvinnuleyfi.
-     Heimilt er að veita útlendingi óbundið atvinnuleyfi. Skilyrði þess að
-        atvinnuleyfi megi veita samkvæmt þessari grein eru eftirfarandi:
-      a. að hann hafi átt lögheimili og dvalið samfellt á Íslandi í þrjú ár,
-    b. að hann hafi öðlast búsetuleyfi á Íslandi samkvæmt lögum um útlendinga,
-                   c. að áður hafi verið veitt leyfi skv. 7. gr.
-  Víkja má frá skilyrðum 1. mgr. ef íslenskur ríkisborgari fær lögskilnað eða
-   slítur sambúð eða samvist við erlendan maka sinn. Þarf hjúskapur, staðfest
-samvist eða skráð sambúð að hafa varað í a.m.k. tvö ár og erlendi makinn þarf að
-   hafa átt lögheimili hér á landi samfellt í a.m.k. sama tíma. Enn fremur er
-heimilt að víkja frá skilyrðum 1. mgr. vegna erlends maka ef um andlát íslensks
-maka er að ræða eða í hlut á maki útlendings sem hefur óbundið atvinnuleyfi eða
-                           börn hans 18 ára og eldri.
-Víkja má frá skilyrði c-liðar 1. mgr. ef um er að ræða útlending sem verið hefur
-             í námi hér á landi að lágmarki í þrjú ár og lokið því.
-   Heimilt er að veita útlendingi, sem hefur fengið landvist hér á landi sem
-                       flóttamaður, óbundið atvinnuleyfi.
-     Leyfi samkvæmt þessari grein gildir meðan útlendingur hefur lögheimili
-                                   hérlendis.
-                     12. gr. Atvinnuleyfi vegna námsdvalar.
-   Heimilt er að veita útlendingi, sem stundar fullt nám hér á landi samkvæmt
- vottorði frá hlutaðeigandi skóla, leyfi til að stunda vinnu sem hluta af námi,
-           með námi eða í námsleyfum, enda sé námsframvinda eðlileg.
-       Skilyrði fyrir veitingu leyfis samkvæmt þessari grein er framvísun
-innritunarvottorðs hlutaðeigandi skóla. Leyfi skal ekki veitt til lengri tíma en
- sex mánaða í senn. Heimilt er að framlengja atvinnuleyfi vegna námsdvalar gegn
-                innritunarvottorði og vottorði um námsframvindu.
-   Skilyrði þess að atvinnuleyfi sé veitt á grundvelli þessarar greinar er að
-          útlendingur hafi lagt fram fullnægjandi heilbrigðisvottorð.
-  Í reglugerð^1) skal kveðið nánar á um atvinnuleyfi vegna námsdvalar, þ.m.t.
-                           hámarksvinnustundafjölda.
-                                 ^1)Rg. 339/2005.
-                   13. gr. Atvinnuleyfi vegna vistráðningar.
- Heimilt er að veita leyfi til að ráða útlending á aldrinum 1826 ára í vist á
-                               íslenskt heimili.
-  Skilyrði fyrir veitingu leyfis er að fyrir liggi skriflegur samningur milli
- aðila þar sem fram kemur m.a. gildistími samnings, hlunnindi að því er varðar
- fæði og húsnæði, daglegur vinnutími, daglegur og vikulegur hvíldartími, réttur
-til að stunda nám og ákvæði um sjúkra- og slysatryggingar. Fæði og húsnæði skal
-                                 vera ókeypis.
-   Skilyrði þess að atvinnuleyfi sé veitt á grundvelli þessarar greinar er að
-          útlendingur hafi lagt fram fullnægjandi heilbrigðisvottorð.
-  Óheimilt er að veita leyfi til ráðningar sama einstaklings skv. 1. mgr. til
-                            lengri tíma en eins árs.
-      Vinnumálastofnun skal gefa út nauðsynleg eyðublöð vegna samninga um
-vistráðningu. Á eyðublaðið skal prenta upplýsingar um ábyrgð þess sem ræður til
- sín útlending í vist, m.a. í sambandi við sjúkra- og slysatryggingar og önnur
-                                   hlunnindi.
- Vinnumálastofnun skal ákveða upphæð vasapeninga sem greiða skal útlendingi sem
-                     ráðinn hefur verið í vist skv. 1. mgr.
-  Vinnumálastofnun er heimilt að fela stofnun eða fyrirtæki alla milligöngu og
-                      eftirlit með ráðningum skv. 1. mgr.
-          Nánar skal kveða á um skilyrði þessa ákvæðis í reglugerð.^1)
-                                 ^1)Rg. 339/2005.
+   [Atvinnuleyfi samkvæmt ákvæði þessu getur ekki orðið grundvöllur óbundins
+                         atvinnuleyfis skv. 17. gr.]^2)
+                    ^1)L. 78/2008, 7. gr. ^2)L. 78/2008, 8. gr.
+                          [16. gr. Nýr atvinnurekandi.
+  Heimilt er að veita nýtt tímabundið atvinnuleyfi samkvæmt ákvæðum 8.13. gr.
+ eftir því sem við á vegna tiltekins starfs útlendings hjá öðrum atvinnurekanda
+ en þeim er fyrra leyfið var skilyrt við. Útlendingi er óheimilt að hefja störf
+hjá hinum nýja atvinnurekanda áður en atvinnuleyfi hefur verið veitt, sbr. þó 4.
+mgr. 19. gr. Tímabundið atvinnuleyfi sem gefið er út samkvæmt ákvæði þessu skal
+    aldrei hafa lengri gildistíma en fyrra leyfi og samanlagður starfstími á
+grundvelli tímabundinna atvinnuleyfa skv. 9. gr. skal aldrei vera lengri en tvö
+                                      ár.
+Yfirlýsing um ráðningarslit milli útlendings og fyrri atvinnurekanda skal fylgja
+ með umsókn skv. 1. mgr. ásamt skriflegum ráðningarsamningi milli útlendings og
+                         hins nýja atvinnurekanda.]^1)
+                              ^1)L. 78/2008, 10. gr.
+                         [17. gr. Óbundið atvinnuleyfi.
+Heimilt er að veita útlendingi óbundið atvinnuleyfi þegar eftirfarandi skilyrði
+                                 eru uppfyllt:
+       a. útlendingur hafi öðlast búsetuleyfi hér á landi samkvæmt lögum um
+                                  útlendinga,
+         b. fyrir liggi skriflegur ráðningarsamningur milli útlendings og
+                               atvinnurekanda, og
+    c. útlendingi hafi áður verið veitt tímabundið atvinnuleyfi skv. 8. gr. eða
+tímabundið atvinnuleyfi sem tengist dvalarleyfi á grundvelli mannúðarsjónarmiða
+                                  skv. 11. gr.
+Heimilt er að veita nánasta aðstandanda útlendings með óbundið atvinnuleyfi sem
+         uppfyllir skilyrði a- og b-liðar 1. mgr. óbundið atvinnuleyfi.
+  Heimilt er að veita börnum sem hafa öðlast búsetuleyfi hér á landi samkvæmt
+  lögum um útlendinga fyrir átján ára aldur óbundið atvinnuleyfi við átján ára
+                                     aldur.
+   Óbundið atvinnuleyfi fellur niður þegar útlendingur hefur dvalist erlendis
+  samfellt lengur en átján mánuði. Vinnumálastofnun tekur ákvörðun um að fella
+   leyfi úr gildi. Vinnumálastofnun er þó heimilt að fenginni umsókn að veita
+     undanþágu frá tímamörkum 1. málsl. þannig að útlendingur haldi óbundnu
+               atvinnuleyfi þrátt fyrir lengri dvöl erlendis.]^1)
+                              ^1)L. 78/2008, 10. gr.
+     [18. gr. Tímabundin atvinnuleyfi á grundvelli samninga við önnur ríki.
+    Heimilt er að veita tímabundið atvinnuleyfi til maka, samvistarmaka eða
+ sambúðarmaka erlends sendimanns og barna hans undir 21 árs aldri á grundvelli
+  samnings íslenskra stjórnvalda þar að lútandi við önnur ríki enda hafi maki,
+   samvistarmaki eða sambúðarmaki eða börn hans gilt dvalarleyfi á grundvelli
+                              þjóðréttarsamnings.
+Heimilt er að veita útlendingum á aldrinum 18 til 26 ára tímabundin atvinnuleyfi
+hér á landi að hámarki til eins árs á grundvelli samninga íslenskra stjórnvalda
+við önnur ríki um störf ríkisborgara þeirra hér á landi í þeim tilgangi að kynna
+sér landið og menningu þess. Tímabundið atvinnuleyfi á grundvelli slíks samnings
+     er ekki skilyrt við störf hjá tilteknum atvinnurekanda. Skilyrði er að
+útlendingnum hafi ekki áður verið veitt atvinnuleyfi á grundvelli slíks samnings
+           hér á landi. Óheimilt er að framlengja slík atvinnuleyfi.
+   Félagsmálaráðherra er heimilt að setja nánari skilyrði fyrir atvinnuleyfum
+                     samkvæmt ákvæði þessu í reglugerð.]^1)
+                              ^1)L. 78/2008, 10. gr.
+                   [19. gr. Meðferð umsóknar um atvinnuleyfi.
+  Atvinnurekandi sem óskar eftir að ráða útlending tímabundið til starfa skal
+sækja um tímabundið atvinnuleyfi til Vinnumálastofnunar fyrir hönd útlendingsins
+áður en útlendingurinn kemur til landsins í fyrsta skipti til starfa nema kveðið
+  sé á um annað í lögum þessum. Hið sama á við þegar útlendingur hefur dvalist
+erlendis í a.m.k. sex mánuði frá þeim tíma er áður útgefið atvinnuleyfi féll úr
+gildi enda hafi honum ekki verið veitt leyfi Útlendingastofnunar til að dveljast
+ hér á landi. Umsóknin skal vera skrifleg á þar til gerðum eyðublöðum og skulu
+ atvinnurekandi og útlendingur undirrita hana. Umsókninni skulu fylgja öll þau
+   gögn og vottorð sem Vinnumálastofnun gerir kröfu um til staðfestingar á að
+    uppfyllt séu þau skilyrði sem lög og reglugerðir kveða á um, þar á meðal
+   skriflegur ráðningarsamningur milli útlendings og atvinnurekanda sem báðir
+                            aðilar hafa undirritað.
+     Vinnumálastofnun er heimilt að taka til meðferðar umsókn um tímabundið
+  atvinnuleyfi á grundvelli 8. gr. og 2. mgr. 9. gr. á undan öðrum umsóknum um
+     atvinnuleyfi sem hafa borist stofnuninni enda liggi fyrir undirritaður
+             ráðningarsamningur milli atvinnurekanda og útlendings.
+ Atvinnurekandi sem óskar eftir að framlengja ráðningu útlendings skal sækja um
+ framlengingu tímabundins atvinnuleyfis fyrir hönd útlendingsins eigi síðar en
+fjórum vikum áður en fyrra leyfi fellur úr gildi. Umsóknin skal vera skrifleg á
+þar til gerðum eyðublöðum og skulu atvinnurekandi og útlendingur undirrita hana.
+Umsókninni skulu fylgja öll þau gögn og vottorð sem Vinnumálastofnun gerir kröfu
+um til staðfestingar á að uppfyllt séu þau skilyrði sem lög og reglugerðir kveða
+      á um, þar á meðal skriflegur ráðningarsamningur milli útlendings og
+                atvinnurekanda sem báðir aðilar hafa undirritað.
+   Útlendingi, sem hefur gilt dvalarleyfi á grundvelli laga um útlendinga, er
+  heimilt að halda starfi sínu áfram á afgreiðslutíma umsóknar um framlengingu
+   tímabundins atvinnuleyfis enda hafi umsóknin borist Vinnumálastofnun innan
+frestsins skv. 3. mgr. Hafi umsókn borist síðar tekur Vinnumálastofnun ákvörðun
+    um heimild útlendingsins til að halda starfi sínu áfram á afgreiðslutíma
+   umsóknar enda liggi fyrir ákvörðun Útlendingastofnunar um að útlendingi sé
+      heimilt að dvelja hér á landi á þeim tíma. Hið sama gildir þegar nýr
+  atvinnurekandi sækir um tímabundið atvinnuleyfi fyrir útlending skv. 16. gr.
+                          eftir því sem við getur átt.
+Útlendingur skal sækja um óbundið atvinnuleyfi skv. 17. gr. eigi síðar en fjórum
+vikum áður en fyrra leyfi fellur úr gildi. Umsóknin skal vera skrifleg á þar til
+      gerðum eyðublöðum og skulu fylgja henni öll þau gögn og vottorð sem
+Vinnumálastofnun gerir kröfu um til staðfestingar á að uppfyllt séu þau skilyrði
+  sem lög og reglugerðir kveða á um, þar á meðal skriflegur ráðningarsamningur
+milli umsækjanda og atvinnurekanda sem báðir hafa undirritað. Hafi umsókn borist
+ síðar tekur Vinnumálastofnun ákvörðun um heimildir útlendingsins til að halda
+     starfi sínu áfram á afgreiðslutíma umsóknar enda liggi fyrir ákvörðun
+ Útlendingastofnunar um að útlendingi sé heimilt að dveljast hér á landi á þeim
+                                     tíma.
+ Heimilt er að synja um veitingu atvinnuleyfis vegna starfa hjá atvinnurekanda
+ sem áður hefur gerst sekur um að hafa ráðið útlending til starfa án tilskilins
+atvinnuleyfis samkvæmt lögum þessum þrátt fyrir að skilyrði þeirra séu uppfyllt.
+Hið sama gildir um útlending sem hefur gerst sekur um að ráða sig til starfa án
+                tilskilins atvinnuleyfis samkvæmt lögum þessum.
+ Þegar Vinnumálastofnun hefur tekið efnislega ákvörðun á grundvelli umsóknar um
+     atvinnuleyfi samkvæmt lögum þessum skal stofnunin tilkynna um það til
+                     Útlendingastofnunar og aðila máls.]^1)
+                              ^1)L. 78/2008, 10. gr.
+                         [20. gr. Útgáfa atvinnuleyfa.
+   Atvinnuleyfi er gefið út á nafn útlendingsins eftir að hann er kominn til
+  landsins og er útlendingurinn handhafi leyfisins. Tímabundið atvinnuleyfi er
+ skilyrt við starf hjá tilteknum atvinnurekanda, sbr. þó 2. mgr. 18. gr., og er
+ útlendingi óheimilt að hefja störf hjá öðrum atvinnurekanda áður en nýtt leyfi
+    hefur verið gefið út, sbr. þó 4. mgr. 19. gr. Í skilríkjum um tímabundið
+ atvinnuleyfi skal m.a. koma fram nafn og kennitala útlendings, ríkisfang hans,
+nafn atvinnurekanda og gildistími leyfisins. Sömu upplýsingar skulu koma fram í
+skilríkjum um óbundið atvinnuleyfi en þar skal þó ekki tilgreina atvinnurekanda
+                                  útlendings.
+    Útlendingur skal hafa skilríki skv. 1. mgr. ávallt meðferðis og sýna þau
+                            krefjist lögregla þess.
+ Félagsmálaráðherra getur sett nánari reglur í reglugerð um útgáfu atvinnuleyfa
+samkvæmt ákvæði þessu í samræmi við stefnu stjórnvalda hverju sinni, svo sem um
+     samstarf Vinnumálastofnunar og Útlendingastofnunar, að fenginni umsögn
+                             dómsmálaráðherra.]^1)
+                              ^1)L. 78/2008, 10. gr.
+                              [21. gr. Starfslok.
+   Atvinnurekandi skal tilkynna Vinnumálastofnun þegar útlendingur sem hefur
+tímabundið atvinnuleyfi samkvæmt lögum þessum lætur af störfum hjá honum áður en
+                      gildistími leyfisins er liðinn.]^1)
+                              ^1)L. 78/2008, 10. gr.
 
                           III. kafli. Undanþáguákvæði.
-           14. gr. Eftirtaldir eru undanþegnir kröfu um atvinnuleyfi:
-    [a. Ríkisborgarar í aðildarríkjum samningsins um Evrópska efnahagssvæðið og
- stofnsamnings Fríverslunarsamtaka Evrópu, Færeyingar og aðrir útlendingar sem
-   falla undir reglur samningsins um Evrópska efnahagssvæðið og stofnsamnings
- Fríverslunarsamtaka Evrópu með þeim takmörkunum sem þar greinir og nánar skal
-                          kveðið á um í reglugerð.]^1)
-    [b. ]^2) Útlendingar sem hafa verið íslenskir ríkisborgarar frá fæðingu en
+        [22. gr.]^1) Eftirtaldir eru undanþegnir kröfu um atvinnuleyfi:
+     [a. Ríkisborgarar í aðildarríkjum samningsins um Evrópska efnahagssvæðið,
+stofnsamnings Fríverslunarsamtaka Evrópu og samnings milli ríkisstjórnar Íslands
+ annars vegar og ríkisstjórnar Danmerkur og heimastjórnar Færeyja hins vegar og
+   aðrir útlendingar sem falla undir reglur framangreindra samninga, með þeim
+     takmörkunum sem þar greinir og nánar skal kveðið á um í reglugerð.]^2)
+    [b. ]^3) Útlendingar sem hafa verið íslenskir ríkisborgarar frá fæðingu en
                      hafa misst íslenskan ríkisborgararétt.
-      [c. ]^2) Erlendir makar íslenskra ríkisborgara og börn þeirra að 18 ára
-                                     aldri.
-          [d. ]^2) Útlendingar í einkaþjónustu sendimanna erlendra ríkja.
-                   ^1)L. 108/2006, 10. gr. ^2)L. 84/2003, 2. gr.
-  15. gr. Eftirtaldir útlendingar eru undanþegnir kröfu um atvinnuleyfi vegna
+    [c. ]^3) [Erlendir makar eða samvistarmakar íslenskra ríkisborgara og börn
+      þeirra að átján ára aldri sem eru í forsjá og á framfæri þeirra.]^2)
+          [d. ]^3) Útlendingar í einkaþjónustu sendimanna erlendra ríkja.
+   [e. Útlendingar sem hafa fengið dvalarleyfi sem flóttamenn samkvæmt lögum um
+                                útlendinga.]^2)
+        ^1)L. 78/2008, 10. gr. ^2)L. 78/2008, 11. gr. ^3)L. 84/2003, 2. gr.
+[23. gr.]^1) Eftirtaldir útlendingar eru undanþegnir kröfu um atvinnuleyfi vegna
                 vinnu í allt að fjórar vikur á ári hér á landi:
    a. Vísindamenn og fyrirlesarar að því leyti sem varðar kennslu eða hliðstæða
                                    starfsemi.
@@ -228,29 +451,54 @@ vistráðningu. Á eyðublaðið skal prenta upplýsingar um ábyrgð þess sem 
                         ekki hafa starfsstöð á Íslandi.
    g. Starfsmenn, ráðgjafar og leiðbeinendur sem vinna að sérhæfðri samsetningu,
                    uppsetningu, eftirliti eða viðgerð tækja.
-Ráðherra getur sett reglur^1) sem skilgreina nánar einstök störf sem falla undir
+Ráðherra getur sett reglur^2) sem skilgreina nánar einstök störf sem falla undir
                        undanþágu samkvæmt þessari grein.
-                                 ^1)Rg. 339/2005.
+                      ^1)L. 78/2008, 10. gr. ^2)Rg. 339/2005.
 
                IV. kafli. Afturköllun atvinnuleyfis og viðurlög.
-                              16. gr. Afturköllun.
-   Vinnumálastofnun er heimilt að afturkalla atvinnuleyfi ef útlendingur eða
+                           [24. gr.]^1) Afturköllun.
+   [Vinnumálastofnun er heimilt að afturkalla atvinnuleyfi ef útlendingur eða
 atvinnurekandi hefur við umsókn, gegn betri vitund, veitt rangar upplýsingar eða
-  leynt atvikum sem hefðu getað haft verulega þýðingu við leyfisveitinguna eða
-ekki er lengur fullnægt skilyrðum fyrir veitingu atvinnuleyfis eða það leiðir að
-                   öðru leyti af almennum stjórnsýslureglum.
-                        [16. gr. a. Meðferð upplýsinga.
+ leynt atvikum sem hefðu getað haft verulega þýðingu við leyfisveitinguna. Enn
+ fremur er Vinnumálastofnun heimilt að afturkalla atvinnuleyfi þegar skilyrðum
+fyrir veitingu atvinnuleyfis samkvæmt lögum þessum er ekki lengur fullnægt, svo
+  sem þegar útlendingur hefur starfað hjá öðrum atvinnurekanda en atvinnuleyfi
+         hans er skilyrt við, eða það leiðir að öðru leyti af almennum
+                             stjórnsýslureglum.]^2)
+                   ^1)L. 78/2008, 10. gr. ^2)L. 78/2008, 11. gr.
+                        [25. gr.]^1) Meðferð upplýsinga.
+ [Vinnumálastofnun og lögreglu er heimil vinnsla persónuupplýsinga, þar á meðal
+þeirra sem viðkvæmar geta talist, að því marki sem slík vinnsla telst nauðsynleg
+                             við framkvæmd laganna.
+Að því marki sem nauðsynlegt er til að tryggja að útlendingar starfi löglega hér
+    á landi er heimilt við vinnslu persónuupplýsinga að samkeyra upplýsingar
+Vinnumálastofnunar, Útlendingastofnunar, lögreglu, skattyfirvalda og þjóðskrár.
+   Slíkar samkeyrslur skulu gerðar án þess að upplýsingar úr skrám einstakra
+stofnana séu sendar öðrum stofnunum umfram það sem nauðsynlegt er til skoðunar á
+       fyrir fram skilgreindu athugunarefni. Að öðru leyti fer um meðferð
+ persónuupplýsinga samkvæmt lögum um persónuvernd og meðferð persónuupplýsinga.
 Fái Vinnumálastofnun upplýsingar sem gefa til kynna að brotið sé gegn íslenskum
         lögum og reglum er stofnuninni heimilt að afhenda hlutaðeigandi
-       eftirlitsstjórnvaldi eða lögreglu, eftir atvikum, upplýsingarnar.
- Heimilt er við vinnslu upplýsinga að samkeyra upplýsingar Vinnumálastofnunar,
- Útlendingastofnunar, lögreglu og skattyfirvalda í þeim tilgangi að kanna hvort
-atvinnurekendur sem hafa ráðið útlendinga til starfa hafi farið að lögum þessum
-  enda sé um að ræða afmörkuð verkefni en ekki viðvarandi samkeyrslu. Að öðru
-leyti fer um meðferð persónuupplýsinga samkvæmt lögum um persónuvernd og meðferð
-                             persónuupplýsinga.]^1)
-                               ^1)L. 21/2006, 2. gr.
-                              17. gr. Refsiákvæði.
+     eftirlitsstjórnvaldi eða lögreglu, eftir atvikum, upplýsingarnar.]^1)
+                              ^1)L. 78/2008, 13. gr.
+               [26. gr. Eftirlit Vinnumálastofnunar og lögreglu.
+Lögregla og Vinnumálastofnun hafa eftirlit með framkvæmd laganna. Atvinnurekandi
+ skal veita lögreglu og Vinnumálastofnun aðgang að skjölum eða öðrum gögnum sem
+   nauðsynleg eru til að sýna fram á að ekki hafi verið brotið gegn lögunum.
+Útlendingur og atvinnurekandi skulu gefa allar aðrar nauðsynlegar upplýsingar í
+                            tengslum við eftirlitið.
+Lögreglu skal veittur aðgangur að vinnustöðvum atvinnurekanda í þeim tilgangi að
+ kanna hvort atvinnurekandi og útlendingur sem starfar hjá honum fari að lögum
+              þessum. Lögreglan skal sýna skilríki um starf sitt.
+   Útlendingur skal að kröfu lögreglu sýna skilríki um að honum sé heimilt að
+starfa hér á landi og, ef þörf er á, veita upplýsingar svo að ljóst sé hver hann
+    er, m.a. til að sýna fram á að hann sé undanþeginn kröfu um atvinnuleyfi
+                       samkvæmt lögum þessum þegar við á.
+   Lögreglu er heimilt að krefja aðra starfsmenn sem starfa eða hafa starfað
+    einhvern tíma á síðustu þremur mánuðum hjá viðkomandi atvinnurekanda um
+            nauðsynlegar upplýsingar í tengslum við eftirlitið.]^1)
+                              ^1)L. 78/2008, 14. gr.
+                           [27. gr.]^1) Refsiákvæði.
           Það varðar sektum eða fangelsi allt að sex mánuðum ef maður:
       a. af ásetningi eða gáleysi brýtur gegn lögum þessum eða reglum settum
                                samkvæmt þeim eða
@@ -275,46 +523,65 @@ leyti fer um meðferð persónuupplýsinga samkvæmt lögum um persónuvernd og 
                         kafla A almennra hegningarlaga.
 Tilraun eða hlutdeild í brotum á lögum þessum er refsiverð eftir því sem segir í
                        III. kafla almennra hegningarlaga.
-                            18. gr. Heimflutningur.
+                              ^1)L. 78/2008, 14. gr.
+                          [28. gr.]^1) Heimflutningur.
  Sá sem hefur milligöngu um að útlendingur flytjist til landsins í atvinnuskyni
    án tilskilinna leyfa, sbr. b- og c-lið 2. mgr. 17. gr., skal greiða allan
                    kostnað við að flytja útlending úr landi.
+                              ^1)L. 78/2008, 14. gr.
 
           V. kafli. Samráð Vinnumálastofnunar og Útlendingastofnunar.
-                             19. gr. Samráðsnefnd.
+                           [29. gr.]^1) Samráðsnefnd.
  Vinnumálastofnun og Útlendingastofnun skulu koma á fót sérstakri samráðsnefnd
                         vegna framkvæmdar laga þessara.
   Samráðsnefndin skal skipuð fjórum mönnum og skipar hvor stofnunin tvo menn í
  nefndina. Skipunartími nefndarinnar er tvö ár. Samráðsnefndin velur formann úr
      hópi nefndarmanna. Skal formaður annast boðun funda og stjórn þeirra.
-20. gr. Vinnumálastofnun skal tilkynna allar atvinnuleyfisveitingar og synjanir
-                            til Útlendingastofnunar.
+                              ^1)L. 78/2008, 14. gr.
+  [30. gr.]^1) Vinnumálastofnun skal tilkynna allar atvinnuleyfisveitingar og
+                       synjanir til Útlendingastofnunar.
 Útlendingastofnun skal í samráði við Vinnumálastofnun gefa út skírteini þar sem
    m.a. komi fram upplýsingar um dvalarleyfi og réttindi útlendingsins til að
  stunda vinnu á Íslandi. Þar skulu einnig vera nauðsynlegar persónuupplýsingar.
 Heimilt er að krefja umsækjanda um atvinnuleyfi um endurgjald fyrir skírteinið.
     Endurgjaldið skal ekki vera hærra en sem nemur kostnaði við útgáfu þess.
+                              ^1)L. 78/2008, 14. gr.
 
                             VI. kafli. Málsmeðferð.
-                    21. gr. Almennar reglur um málsmeðferð.
+                  [31. gr.]^1) Almennar reglur um málsmeðferð.
     Stjórnsýslulögin gilda um meðferð mála nema annað leiði af lögum þessum.
-                               22. gr. Málshraði.
+                              ^1)L. 78/2008, 14. gr.
+                            [32. gr.]^1) Málshraði.
 Vinnumálastofnun skal taka ákvörðun um hvort orðið er við umsókn um atvinnuleyfi
 svo fljótt sem verða má og eigi síðar en tveimur mánuðum eftir að umsókn berst.
 Þegar fyrirsjáanlegt er að afgreiðsla máls muni tefjast ber að skýra aðila máls
   frá því. Skal þá upplýst um ástæðu tafanna og hvenær ákvörðunar er að vænta.
-                          23. gr. Leiðbeiningarskylda.
+                              ^1)L. 78/2008, 14. gr.
+                       [33. gr.]^1) Leiðbeiningarskylda.
 Í máli er varðar synjun eða afturköllun atvinnuleyfis skal stjórnvald leiðbeina
                 útlendingi um kæruheimild skv. 24. gr. laganna.
-                              24. gr. Kæruheimild.
-Ákvörðun Vinnumálastofnunar um synjun eða afturköllun atvinnuleyfis má kæra til
-                             félagsmálaráðuneytis.
- Nú vill umsækjandi nýta sér kæruheimild og er kærufrestur fjórar vikur frá því
- að tilkynning barst um ákvörðun Vinnumálastofnunar. Að öðru leyti fer um kæru
-              skv. VII. kafla stjórnsýslulaga um stjórnsýslukæru.
+                              ^1)L. 78/2008, 14. gr.
+                           [34. gr.]^1) Kæruheimild.
+    [Atvinnurekanda og útlendingi er sameiginlega heimilt að kæra ákvarðanir
+   Vinnumálastofnunar um synjun eða afturköllun tímabundins atvinnuleyfis til
+félagsmálaráðuneytis og skulu þeir báðir undirrita stjórnsýslukæruna. Þeir geta
+ þó veitt öðrum umboð sitt til að fara með málið fyrir sína hönd. Útlendingi er
+  heimilt að kæra ákvarðanir stofnunarinnar um synjun eða afturköllun óbundins
+                                 atvinnuleyfis.
+      Kærufrestur er fjórar vikur frá því að tilkynning barst um ákvörðun
+  Vinnumálastofnunar. Kæra telst fram komin innan kærufrests ef bréf sem hefur
+  hana að geyma hefur borist ráðuneytinu eða verið afhent póstþjónustu áður en
+                             fresturinn er liðinn.
+Stjórnsýslukæra frestar ekki réttaráhrifum ákvörðunar Vinnumálastofnunar og skal
+ útlendingur dveljast erlendis meðan á afgreiðslu kæru stendur enda hafi honum
+    ekki verið veitt leyfi Útlendingastofnunar til að dveljast hér á landi.
+Félagsmálaráðuneytið skal leitast við að kveða upp úrskurð innan tveggja mánaða
+                frá því að ráðuneytinu berst mál til úrskurðar.
+     Að öðru leyti fer um málsmeðferð samkvæmt ákvæðum stjórnsýslulaga.]^2)
+                   ^1)L. 78/2008, 14. gr. ^2)L. 78/2008, 15. gr.
 
                      VII. kafli. Ýmis ákvæði og gildistaka.
-                            25. gr. Samstarfsnefnd.
+                          [35. gr.]^1) Samstarfsnefnd.
      Félagsmálaráðherra skal skipa samstarfsnefnd sem í eiga sæti fulltrúar
    Vinnumálastofnunar, Útlendingastofnunar, Alþýðusambands Íslands og Samtaka
   atvinnulífsins. Félagsmálaráðherra skipar formann án tilnefningar. Varamenn
@@ -323,7 +590,13 @@ svo fljótt sem verða má og eigi síðar en tveimur mánuðum eftir að umsók
              a. vegna almennra álitamála varðandi útgáfu atvinnuleyfa,
      b. þegar beiðnir berast til Vinnumálastofnunar um atvinnuleyfi fyrir hópa
                                   útlendinga.
-                 26. gr. Lög þessi öðlast gildi 1. janúar 2003.
+                              ^1)L. 78/2008, 14. gr.
+                       [36. gr. Gildi milliríkjasamninga.
+  Við framkvæmd laga þessara skal hafa hliðsjón af efni milliríkjasamninga um
+             atvinnuréttindi útlendinga sem Ísland er aðili að.]^1)
+                              ^1)L. 78/2008, 16. gr.
+              [37. gr.]^1) Lög þessi öðlast gildi 1. janúar 2003.
+                              ^1)L. 78/2008, 16. gr.
 
                             [Ákvæði til bráðabirgða.
     I. [Þrátt fyrir ákvæði a-liðar 14. gr. skal atvinnurekandi tilkynna til
@@ -356,12 +629,20 @@ sem útlendingur skv. 1. mgr. starfar á afrit af ráðningarsamningi útlending
   ríkisborgara Búlgaríu og Rúmeníu til að starfa hér á landi fyrr en 1. janúar
        2009, sbr. þó 36. gr. samningsins um Evrópska efnahagssvæðið.]^1)
                               ^1)L. 106/2007, 4. gr.
+[III. Tímabundin atvinnuleyfi sem veitt hafa verið fyrir gildistöku laga þessara
+   halda gildi sínu á gildistíma þeirra. Heimilt er að framlengja tímabundin
+     atvinnuleyfi sem veitt voru fyrir gildistöku laganna að sömu skilyrðum
+ uppfylltum og giltu um veitingu upphaflega leyfisins. Tímabundin atvinnuleyfi
+   sem gátu verið grundvöllur óbundins atvinnuleyfis skv. [3]11. gr. laga nr.
+  97/2002, um atvinnuréttindi útlendinga, fyrir gildistíð þessara laga, skulu
+    áfram teljast grundvöllur óbundins atvinnuleyfis samkvæmt lögum þessum.
+ Óbundin atvinnuleyfi sem veitt hafa verið fyrir gildistöku laga þessara halda
+                                gildi sínu.]^1)
+                              ^1)L. 78/2008, 17. gr.
 
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2002097
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=127&mnr=204
-   3. http://www.althingi.is/altext/127/s/0229.html
-   4. file://2005139.html
-   5. file://2005139.html#g16
+   1. file://2005139.html
+   2. file://2002096.html#g13
+   3. file://2002097.html#g11

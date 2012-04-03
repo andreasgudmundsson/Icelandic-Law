@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,10 +7,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-Tóku gildi 1. júlí 1998, sjá þó 34. gr. Breytt með [4]l. 47/2006 (tóku gildi 1.
-                                  júlí 2006).
+Tóku gildi 1. júlí 1998, sjá þó 34. gr. Breytt með [1]l. 47/2006 (tóku gildi 1.
+ júlí 2006) og [2]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók
+                             gildi 21. júní 2008).
 
                           I. kafli. Dómstólaskipanin.
 1. gr. Hæstiréttur Íslands er æðsti dómstóll ríkisins. Hann er áfrýjunardómstóll
@@ -238,7 +238,7 @@ Ráðherra skipar til sama tíma nýjan mann í dómstólaráð ef sá sem hann 
   Dómstólaráð kýs sér formann frá byrjun hvers árs að telja. Það ákveður hvar
                             starfsemi þess fer fram.
             [Kjararáð]^1) ákveður þóknun fyrir setu í dómstólaráði.
-                             ^1)[5]L. 47/2006, 13. gr.
+                             ^1)[3]L. 47/2006, 13. gr.
  14. gr. Auk þess sem mælt er fyrir um í öðrum ákvæðum þessara laga er hlutverk
                           dómstólaráðs sem hér segir:
      1. Að fara með á sína ábyrgð fjárreiður héraðsdómstóla, gera tillögur til
@@ -417,7 +417,7 @@ dómsmálaráðherra þrjá menn til að sitja í nefnd um dómarastörf, svo og
   Úrlausnum nefndar um dómarastörf verður ekki skotið til annars stjórnvalds.
     Nefnd um dómarastörf skal hafa eftir þörfum samvinnu við dómstólaráð um
       starfsemi sína. [Kjararáð]^1) ákveður þóknun fyrir setu í nefndinni.
-                             ^1)[6]L. 47/2006, 13. gr.
+                             ^1)[4]L. 47/2006, 13. gr.
    24. gr. Dómarar eru sjálfstæðir í dómstörfum og leysa þau af hendi á eigin
    ábyrgð. Við úrlausn máls fara þeir eingöngu eftir lögum og lúta þar aldrei
 boðvaldi annarra. Dómsathöfn verður ekki endurskoðuð af öðrum nema með málskoti
@@ -429,7 +429,7 @@ forstöðumanns dómstóls um önnur atriði varðandi störf sín en meðferð 
 Dómurum ber að leitast við að halda við þekkingu sinni í lögum. Þeim skal eftir
          föngum gefinn kostur á leyfi og stuðningi til endurmenntunar.
      25. gr. [Kjararáð]^1) ákveður laun dómara fyrir embættisstörf þeirra.
-                             ^1)[7]L. 47/2006, 13. gr.
+                             ^1)[5]L. 47/2006, 13. gr.
    26. gr. Dómara er óheimilt að taka að sér starf eða eiga hlut í félagi eða
 atvinnufyrirtæki ef slíkt fær ekki samrýmst stöðu hans eða leiðir af sér hættu á
             að hann geti ekki sinnt embættisstarfi sínu sem skyldi.
@@ -491,7 +491,8 @@ dómsmálaráðherra fyrir hönd ríkisins til að fá hana fellda úr gildi, en
   verður einnig veitt lausn frá embætti um stundarsakir ef hann missir almenn
  hæfisskilyrði til að gegna því. Það sama gildir jafnframt ef opinber rannsókn
  beinist að dómara eða opinbert mál er höfðað á hendur honum og áfellisdómur um
- sakirnar sem hann er borinn yrði til þess að hann missti almenn hæfisskilyrði.
+        sakirnar sem hann er borinn yrði til þess að hann missti almenn
+                               hæfisskilyrði.^1)
  Forseti Íslands veitir dómara við Hæstarétt lausn frá embætti um stundarsakir
 samkvæmt tillögu dómsmálaráðherra, en ráðherra veitir héraðsdómara slíka lausn.
  Áður en lausn er veitt um stundarsakir skal ráðherra afla skriflegrar umsagnar
@@ -507,8 +508,10 @@ til opinberri rannsókn lýkur með ákvörðun um að hlutaðeigandi dómari ve
  sóttur til sakar, sex mánuðir eru liðnir án þess að ákæra sé gefin út á hendur
  honum eða opinberu máli lýkur með endanlegum dómi um sýknu hans en annars þar
      til tvær vikur eru liðnar frá því að endanlegur dómur hefur gengið um
-                               sakfellingu hans.
+                              sakfellingu hans.^1)
    Dómari heldur fullum embættislaunum meðan á lausn um stundarsakir stendur.
+    ^1)Málsliðnum var breytt með [6]l. 88/2008, 234. gr. Breytingin tekur gildi
+                       1. jan. 2009 skv. [7]232. gr. s.l.
 30. gr. Þegar dómara hefur verið veitt lausn frá embætti um stundarsakir höfðar
     dómsmálaráðherra fyrir hönd ríkisins mál á hendur honum fyrir héraðsdómi
  Reykjavíkur með kröfu um að honum verði vikið úr embætti með dómi. Um rekstur
@@ -621,11 +624,11 @@ tvö eða fleiri sveitarfélög sem hvort eða hvert heyra til síns dómumdæmi
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998015
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=122&mnr=176
-   3. http://www.althingi.is/altext/122/s/0176.html
-   4. file://2006047.html
+   1. file://2006047.html
+   2. file://2008088.html
+   3. file://2006047.html#g13
+   4. file://2006047.html#g13
    5. file://2006047.html#g13
-   6. file://2006047.html#g13
-   7. file://2006047.html#g13
+   6. file://2008088.html#g234
+   7. file://2008088.html
    8. file://1989092.html#g5

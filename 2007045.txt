@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -9,9 +8,11 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
  Tóku gildi 31. mars 2007. EES-samningurinn: XVIII. viðauki tilskipun 96/71/EB.
+Breytt með [1]l. 88/2008 (taka gildi 1. jan. 2009 nema brbákv. VII sem tók gildi
+                                21. júní 2008).
 
                                1. gr. Gildissvið.
   Lög þessi gilda um fyrirtæki sem hefur staðfestu í öðru ríki innan Evrópska
@@ -49,17 +50,17 @@ samnings milli ríkisstjórnar Íslands annars vegar og ríkisstjórnar Danmerku
   gildir eftirfarandi löggjöf um starfskjör hans og reglur settar á grundvelli
      hennar, án tillits til erlendrar löggjafar sem að öðru leyti gildir um
                ráðningarsamband hans og hlutaðeigandi fyrirtækis:
-        1. [4]Lög nr. 55/1980, um starfskjör launafólks og skyldutryggingu
+        1. [2]Lög nr. 55/1980, um starfskjör launafólks og skyldutryggingu
  lífeyrisréttinda, 1. gr., með síðari breytingum, að því er varðar lágmarkslaun
 og aðra launaþætti, yfirvinnugreiðslur, réttindi til orlofs, hámarksvinnutíma og
                               lágmarkshvíldartíma.
-   2. [5]Lög nr. 46/1980, um aðbúnað, hollustuhætti og öryggi á vinnustöðum, með
+   2. [3]Lög nr. 46/1980, um aðbúnað, hollustuhætti og öryggi á vinnustöðum, með
                                síðari breytingum.
-              3. [6]Lög nr. 30/1987, um orlof, með síðari breytingum.
-               4. [7]Lög nr. 47/2003, um eftirlit með skipum, 4. gr.
-                 5. [8]Lög nr. 60/1998, um loftferðir, VI. kafli.
-     6. [9]Lög nr. 95/2000, um fæðingar- og foreldraorlof, 11., 29. og 30. gr.
-    7. [10]Lög nr. 96/2000, um jafna stöðu og jafnan rétt kvenna og karla, auk
+              3. [4]Lög nr. 30/1987, um orlof, með síðari breytingum.
+               4. [5]Lög nr. 47/2003, um eftirlit með skipum, 4. gr.
+                 5. [6]Lög nr. 60/1998, um loftferðir, VI. kafli.
+     6. [7]Lög nr. 95/2000, um fæðingar- og foreldraorlof, 11., 29. og 30. gr.
+     7. [8]Lög nr. 96/2000, um jafna stöðu og jafnan rétt kvenna og karla, auk
                       annarra ákvæða um bann við mismunun.
   Ákvæði 1. mgr. gildir með fyrirvara um betri starfskjör starfsmanns samkvæmt
   ráðningarsamningi við hlutaðeigandi fyrirtæki eða samkvæmt kjarasamningi eða
@@ -74,7 +75,7 @@ og aðra launaþætti, yfirvinnugreiðslur, réttindi til orlofs, hámarksvinnut
 Starfsmaður vinnur sér inn rétt með vinnu hér á landi hjá sama fyrirtæki þannig
  að fyrir hvern unninn mánuð fyrstu tólf mánuðina greiðast tveir dagar á föstum
    launum. Starfi starfsmaður lengur en eitt ár hér á landi skal um ávinnslu
-veikindaréttar og launagreiðslur fara skv. [11]5. gr. laga nr. 19/1979, um rétt
+ veikindaréttar og launagreiðslur fara skv. [9]5. gr. laga nr. 19/1979, um rétt
    verkafólks til uppsagnarfrests frá störfum og til launa vegna sjúkdóms- og
                                  slysaforfalla.
 Veikindarétturinn er heildarréttur á hverju tólf mánaða tímabili án tillits til
@@ -209,7 +210,7 @@ tólf mánuðum skal hafa fulltrúa hér á landi. Ekki er skylt að tilnefna fu
                    Vinnumálastofnunar án ástæðulausrar tafar.
    Fulltrúi fyrirtækisins kemur fram fyrir hönd þess og ber ábyrgð á að veita
    stjórnvöldum upplýsingar samkvæmt lögum þessum sem og þær upplýsingar sem
-   fyrirtækinu er skylt að veita á grundvelli [12]2. gr. laga nr. 55/1980, um
+   fyrirtækinu er skylt að veita á grundvelli [10]2. gr. laga nr. 55/1980, um
      starfskjör launafólks og skyldutryggingu lífeyrisréttinda, með síðari
 breytingum. Enn fremur skal hann hafa umboð til að taka við stjórnvaldsákvörðun
    eða eftir atvikum stefnu þannig að bindandi sé að lögum fyrir fyrirtækið.
@@ -287,7 +288,9 @@ Félagsmálaráðuneytið skal leitast við að kveða upp úrskurð innan tvegg
                  þyngri refsing liggi við samkvæmt öðrum lögum.
                            Sektir renna í ríkissjóð.
 Með mál er varða brot á lögum þessum eða reglugerðum settum samkvæmt þeim fer að
-                             hætti opinberra mála.
+                            hætti opinberra mála.^1)
+   ^1)Málsgreinin var felld brott með [11]l. 88/2008, 233. gr. Breytingin tekur
+                   gildi 1. jan. 2009 skv. [12]232. gr. s.l.
                           19. gr. Reglugerðarheimild.
    Félagsmálaráðherra er heimilt að setja reglugerð um nánari framkvæmd laga
   þessara, þar á meðal um samstarf og veitingu upplýsinga milli þar til bærra
@@ -309,15 +312,15 @@ stofnana innan aðildarríkja að samningnum um Evrópska efnahagssvæðið, EFT
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007045
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=541
-   3. http://www.althingi.is/altext/133/s/810.html
-   4. file://1980055.html
-   5. file://1980046.html
-   6. file://1987030.html
-   7. file://2003047.html
-   8. file://1998060.html
-   9. file://2000095.html
-  10. file://2000096.html
-  11. file://1979019.html#g5
-  12. file://1980055.html#g2
+   1. file://2008088.html
+   2. file://1980055.html
+   3. file://1980046.html
+   4. file://1987030.html
+   5. file://2003047.html
+   6. file://1998060.html
+   7. file://2000095.html
+   8. file://2000096.html
+   9. file://1979019.html#g5
+  10. file://1980055.html#g2
+  11. file://2008088.html#g233
+  12. file://2008088.html

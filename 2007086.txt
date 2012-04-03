@@ -1,4 +1,3 @@
-                                    dálkum.
 
    --------------------------------------------------------------------------
 
@@ -8,13 +7,16 @@
 
    --------------------------------------------------------------------------
 
-              [2]Ferill málsins á Alþingi.   [3]Frumvarp til laga.
+                 Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 1. janúar 2008.
+Tóku gildi 1. janúar 2008. Breytt með l. 61/2008 (tóku gildi 11. júní 2008 nema
+1. gr., 3. gr. og a-liður 6. gr. sem taka gildi 1. jan. 2009 og b- og c-liður 6.
+gr. sem tóku gildi 1. jan. 2008; koma til framkvæmda skv. fyrirmælum í 11. gr.).
+
 1. gr. Hlutafélög og einkahlutafélög, sem skattskyld eru skv. 1. tölul. 1. mgr.
- [4]2. gr. laga nr. 90/2003, um tekjuskatt, og gera út kaupskip sem skráð eru á
+ [1]2. gr. laga nr. 90/2003, um tekjuskatt, og gera út kaupskip sem skráð eru á
  íslenska alþjóðlega skipaskrá (IIS), geta ákveðið að greiða af kaupskipaútgerð
-   sinni skatt samkvæmt lögum þessum í stað tekjuskatts samkvæmt [5]lögum nr.
+   sinni skatt samkvæmt lögum þessum í stað tekjuskatts samkvæmt [2]lögum nr.
                                     90/2003.
  Með kaupskipi samkvæmt lögum þessum er átt við hvert það skip sem flytur farm
   eða farþega gegn endurgjaldi í siglingum milli landa og farmflutningum innan
@@ -84,7 +86,8 @@ samkvæmt lögum um tekjuskatt. Skipting söluverðs milli rekstrarþátta skal 
                   1. Til og með 25.000 NT: 30 kr. á hver 100 NT.
                       2. Frá 25.001 NT: 10 kr. á hver 100 NT.
            Frá skattstofni skv. 1. mgr. heimilast enginn frádráttur.
-                     Skattur skal nema 18% af skattstofni.
+                   Skattur skal nema [15%]^1) af skattstofni.
+                              ^1)L. 61/2008, 10. gr.
  7. gr. Útgerðarfélög sem greiða skatt samkvæmt lögum þessum skulu halda tekjum
    og gjöldum af kaupskipaútgerð aðgreindum frá tekjum og gjöldum af annarri
                      starfsemi í bókhaldi og ársreikningum.
@@ -136,7 +139,7 @@ stofnverði varanlegra rekstrarfjármuna í kaupskipaútgerð sem keyptir eru á
  15. gr. Um álagningu og innheimtu skatts samkvæmt lögum þessum skal fara eftir
                 ákvæðum laga um tekjuskatt, sbr. IX.XIV. kafla.
 16. gr. Hlutafélög og einkahlutafélög, sem skattskyld eru skv. 1. tölul. 1. mgr.
-[6]2. gr. laga nr. 90/2003, um tekjuskatt, og gera út kaupskip, sbr. 3. gr., sem
+[3]2. gr. laga nr. 90/2003, um tekjuskatt, og gera út kaupskip, sbr. 3. gr., sem
  skráð eru á íslenska alþjóðlega skipaskrá (IIS), skulu fá styrk sem svarar til
   90% af réttilega ákvarðaðri fjárhæð tekjuskatts og útsvars í staðgreiðslu af
 launum áhafna á viðkomandi kaupskipum, að teknu tilliti til persónuafsláttar og
@@ -157,9 +160,6 @@ skiptingar samkvæmt lögum um staðgreiðslu opinberra gjalda, lögum um tekjus
 References
 
    Visible links
-   1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2007086
-   2. http://www.althingi.is/dba-bin/ferill.pl?ltg=133&mnr=660
-   3. http://www.althingi.is/altext/133/s/1002.html
-   4. file://2003090.html#g2
-   5. file://2003090.html
-   6. file://2003090.html#g2
+   1. file://2003090.html#g2
+   2. file://2003090.html
+   3. file://2003090.html#g2
