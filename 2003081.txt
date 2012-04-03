@@ -703,7 +703,8 @@ eða lýkur innan Evrópska efnahagssvæðisins, sé ekki hærra en hámarksver�
 að fylgjast með gagnaflutningsnotkun sinni á grundvelli verðs og magns og veita
        þeim kost á að velja efstu mörk fyrir slíka þjónustu yfir ákveðið
                                 tímabil.]^1)]^3)
-          ^1)L. 145/2009, 3. gr. ^2)Rg. 1046/2008. ^3)L. 118/2008, 3. gr.
+    ^1)L. 145/2009, 3. gr. ^2)Rg. 1046/2008, sbr. 183/2010. ^3)L. 118/2008, 3.
+                                      gr.
         36. gr. Aðskilnaður sérleyfisstarfsemi frá fjarskiptastarfsemi.
  Fjarskiptafyrirtæki eða fyrirtækjasamstæður sem reka almenn fjarskiptanet eða
 veita almenna fjarskiptaþjónustu og njóta einka- eða sérréttinda á öðru sviði en
@@ -756,7 +757,7 @@ sínum, þeim að kostnaðarlausu og ef þeir þess óska, sýnilegt hvenær þe
       hlýst af því að hringja úr tal- og farsímaneti þeirra í net annarra
   fjarskiptafyrirtækja hér á landi. Slíkar upplýsingar skulu uppfærðar eins og
                                 þörf krefur.]^4)
-   ^1)Rgl. 949/2008. ^2)L. 39/2007, 4. gr. ^3)L. 78/2005, 6. gr. ^4)L. 118/2008,
+   ^1)Rgl. 617/2010. ^2)L. 39/2007, 4. gr. ^3)L. 78/2005, 6. gr. ^4)L. 118/2008,
                                      4. gr.
                       38. gr. Reikningar áskrifenda o.fl.
    Áskrifendur [tal- og farsímaþjónustu]^1) eiga rétt á að fá reikninga fyrir
@@ -796,12 +797,12 @@ má rekja til línubilana, bilana í stöðvum eða annarra ástæðna. Ábyrgð
 er þó bundin við að tjónið verði ekki rakið til stórfelldra mistaka starfsmanna
                                  fyrirtækisins.
                              41. gr. Gæði þjónustu.
- Póst- og fjarskiptastofnun getur gefið út reglur um gæði fjarskiptaþjónustu og
-framsetningu upplýsinga sem birtar eru svo að notendur hafi aðgang að ítarlegum,
-                samanburðarhæfum og auðskiljanlegum upplýsingum.
+ Póst- og fjarskiptastofnun getur gefið út reglur^1) um gæði fjarskiptaþjónustu
+    og framsetningu upplýsinga sem birtar eru svo að notendur hafi aðgang að
+          ítarlegum, samanburðarhæfum og auðskiljanlegum upplýsingum.
  [Fjarskiptafyrirtæki skulu viðhafa ráðstafanir til að stuðla að bættri vernd,
 virkni og gæðum IP-fjarskiptaþjónustu. Er Póst- og fjarskiptastofnun heimilt að
-     setja reglur^1) um slíkar ráðstafanir þar sem nánar er mælt fyrir um:
+     setja reglur^2) um slíkar ráðstafanir þar sem nánar er mælt fyrir um:
                a. lágmarksgrunnþjónustu og mismunandi þjónustustig,
                           b. ákvæði í þjónustusamningum,
          c. leiðir er auðvelda mat á gæðum þjónustunnar og verðsamanburð,
@@ -809,8 +810,8 @@ virkni og gæðum IP-fjarskiptaþjónustu. Er Póst- og fjarskiptastofnun heimil
                              IP-fjarskiptaþjónustu,
               e. vernd og stjórnun IP-fjarskiptaneta og IP-umferðar,
                              f. vernd notendatenginga,
-               g. ferli við meðhöndlun öryggisatvika og umbætur.]^2)
-                     ^1)Rgl. 1223/2007. ^2)L. 39/2007, 6. gr.
+               g. ferli við meðhöndlun öryggisatvika og umbætur.]^3)
+            ^1)Rgl. 220/2010. ^2)Rgl. 1223/2007. ^3)L. 39/2007, 6. gr.
 
            IX. kafli. Vernd persónuupplýsinga og friðhelgi einkalífs.
                           42. gr. Gögn um fjarskipti.
@@ -1011,7 +1012,8 @@ Fjarskiptafyrirtæki sem falin hefur verið alþjónusta skulu að beiðni áskr
  Fjarskiptafyrirtæki sem reka almenna [tal- og farsímaþjónustu]^1) skulu bjóða
   notendum númerabirtingu í samræmi við ákvæði laga um persónuvernd. Póst- og
     fjarskiptastofnun skal setja reglur^2) um fyrirkomulag númerabirtingar.
-             ^1)L. 118/2008, 7. gr. ^2)Rgl. 629/2008, sbr. 1068/2008.
+       ^1)L. 118/2008, 7. gr. ^2)Rgl. 629/2008, sbr. rgl. 1068/2008 og rgl.
+                                   463/2010.
                            52. gr. Númeraflutningur.
   Notendum almennrar talsímaþjónustu, að meðtalinni farsímaþjónustu, skal vera
    unnt að halda símanúmerum sínum óháð því hvaða fjarskiptafyrirtæki veitir
@@ -1021,7 +1023,7 @@ Fjarskiptafyrirtæki sem falin hefur verið alþjónusta skulu að beiðni áskr
                      af kostnaði ásamt hæfilegri álagningu.
   Póst- og fjarskiptastofnun getur sett nánari reglur^1) um númeraflutning og
      tímasetningar í því sambandi og sker úr ágreiningi um framkvæmd hans.
-                                 ^1)Rgl. 949/2008.
+                                 ^1)Rgl. 617/2010.
                          53. gr. Forval og fast forval.
 Fyrirtæki sem hafa [umtalsverðan markaðsstyrk]^1) í tengingum við almenna fasta
   talsímanetið skulu gera áskrifendum sínum mögulegt að fá aðgang að þjónustu
@@ -1038,7 +1040,7 @@ Póst- og fjarskiptastofnun skal tryggja að gjöld fyrir aðgang og samtengingu
                               hæfilegri álagningu.
    Póst- og fjarskiptastofnun er heimilt að setja reglur^2) um forval og fast
                                     forval.
-                     ^1)L. 78/2005, 12. gr. ^2)Rgl. 280/2002.
+                     ^1)L. 78/2005, 12. gr. ^2)Rgl. 655/2010.
                         54. gr. Verndun talsímanetsins.
 Fyrirtæki sem bjóða [almenna tal- og farsímaþjónustu]^1) skulu gera nauðsynlegar
 ráðstafanir sem miða að því að [almenna tal- og farsímanetið og almenna tal- og

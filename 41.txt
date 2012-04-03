@@ -12,8 +12,10 @@
        [7]nr. 62 13. júní 2006
      * Lög um skipan nefndar til að kanna starfsemi vist- og meðferðarheimila
        fyrir börn, [8]nr. 26 23. mars 2007
+     * Lög um sanngirnisbætur fyrir misgjörðir á stofnunum eða heimilum sem
+       falla undir lög nr. 26/2007, [9]nr. 47 28. maí 2010
 
-    [9]Kaflar lagasafns
+    [10]Kaflar lagasafns
 
 References
 
@@ -26,4 +28,5 @@ References
    6. file://2002080.html
    7. file://2006062.html
    8. file://2007026.html
-   9. file://kaflar.html
+   9. file://2010047.html
+  10. file://kaflar.html

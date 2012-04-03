@@ -9,7 +9,9 @@
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                           Tóku gildi 23. apríl 2009.
+ Tóku gildi 23. apríl 2009. Breytt með l. 46/2010 (tóku gildi 29. maí 2010) og
+                    [1]l. 77/2010 (tóku gildi 1. júlí 2010).
+
   1. gr. Bjargráðasjóður er sjálfstæð stofnun, að jöfnu í sameign ríkisins og
  Bændasamtaka Íslands. Eignaraðilar bera ekki ábyrgð á skuldbindingum sjóðsins
            umfram árleg, óafturkræf framlög sín til hans skv. 5. gr.
@@ -28,12 +30,12 @@ Stjórnin ræður framkvæmdastjóra og annað starfslið sjóðsins og ákveðu
 Halda skal bókhaldi hvorrar deildar um sig aðgreindu. Rekstrarkostnaður sjóðsins
                         greiðist úr almennri deild hans.
                    5. gr. Árlegar tekjur Bjargráðasjóðs eru:
-   a. tekjur af búnaðargjaldi skv. [1]6. gr. laga um búnaðargjald, nr. 84/1997,
+   a. tekjur af búnaðargjaldi skv. [2]6. gr. laga um búnaðargjald, nr. 84/1997,
                með síðari breytingum, og viðauka með þeim lögum,
-     b. framlag ríkissjóðs allt að 80 millj. kr. á ári eftir því sem nánar er
-                            kveðið á um í fjárlögum,
+     b. framlag ríkissjóðs ^1) eftir því sem nánar er kveðið á um í fjárlögum,
                              c. vextir af fé sjóðsins,
                                  d. aðrar tekjur.
+                               ^1)L. 46/2010, 1. gr.
               6. gr. Tekjur sjóðsins skiptast þannig milli deilda:
    a. í almenna deild sjóðsins rennur framlag ríkissjóðs skv. b-lið 5. gr., svo
                             og vaxtatekjur sjóðsins,
@@ -41,11 +43,11 @@ Halda skal bókhaldi hvorrar deildar um sig aðgreindu. Rekstrarkostnaður sjó�
      c. stjórn sjóðsins ákveður í hvora deild tekjur skv. d-lið 5. gr. renna.
      7. gr. Framlag ríkissjóðs greiðist með jöfnum, mánaðarlegum greiðslum.
  Fjármálaráðherra stendur skil á hlut Bjargráðasjóðs í búnaðargjaldi í samræmi
-                við [2]6. gr. laga um búnaðargjald, nr. 84/1997.
+                við [3]6. gr. laga um búnaðargjald, nr. 84/1997.
 8. gr. Hlutverk almennrar deildar sjóðsins er að veita einstaklingum og félögum
   fjárhagsaðstoð til að bæta meiri háttar beint tjón af völdum náttúruhamfara:
       a. á gjaldskyldum fasteignum samkvæmt skilgreiningu laga um tekjustofna
-    sveitarfélaga, sbr. lög um Fasteignaskrá Íslands, og girðingum, túnum og
+    sveitarfélaga, sbr. lög um [Þjóðskrá Íslands],^1) og girðingum, túnum og
                      rafmagnslínum er tengjast landbúnaði,
                 b. á heyi sem notað er við landbúnaðarframleiðslu,
    c. vegna uppskerubrests af völdum óvenjulegra kulda, þurrka, óþurrka og kals.
@@ -57,6 +59,7 @@ eða umsjónarmanns verður um kennt, eðlilegar varnir ekki verið við hafðar
 Ekki verður veitt fjárhagsaðstoð vegna tjóns á stærri mannvirkjum, svo sem orku-
          og hafnarmannvirkjum, sjóvarnargörðum, fiskeldismannvirkjum og
                                skipasmíðastöðvum.
+                             ^1)[4]L. 77/2010, 5. gr.
 9. gr. Hlutverk búnaðardeildar er að bæta meiri háttar tjón hjá einstaklingum og
    félögum vegna sjúkdóma, óvenjulegs veðurfars og slysa þegar ásetningi eða
 gáleysi eiganda eða umsjónarmanns verður eigi um kennt og eðlilegar varnir hafa
@@ -77,7 +80,7 @@ Stjórn sjóðsins er enn fremur heimilt að styrkja fyrirbyggjandi aðgerðir t
  Stjórn sjóðsins er heimilt að setja sér nánari vinnureglur um veitingu styrkja
                             samkvæmt þessari grein.
  Forsenda styrkveitinga úr sjóðnum er að skil hafi verið gerð á búnaðargjaldi í
-                    samræmi við ákvæði [3]laga nr. 84/1997.
+                    samræmi við ákvæði [5]laga nr. 84/1997.
 11. gr. Nú er um að tefla almennt bótaskylt tjón í einu byggðarlagi eða fleirum
  og getur þá stjórn Bjargráðasjóðs skipað nefnd til þess að rannsaka tjónið og
            gera tillögur til stjórnar sjóðsins um aðstoð vegna þess.
@@ -136,6 +139,8 @@ gæta skal þess að greiðslur á þessum grundvelli skerði ekki hlut sveitarf
 References
 
    Visible links
-   1. file://1997084.html#g6
+   1. file://2010077.html
    2. file://1997084.html#g6
-   3. file://1997084.html
+   3. file://1997084.html#g6
+   4. file://2010077.html#g5
+   5. file://1997084.html

@@ -10,7 +10,8 @@ Lög um menntun og ráðningu kennara og skólastjórnenda við leikskóla, grun
 
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
-                            Tóku gildi 1. júlí 2008.
+  Tóku gildi 1. júlí 2008. Breytt með [1]l. 26/2010 (tóku gildi 1. júlí 2010;
+             EES-samningurinn: VII. viðauki tilskipun 2005/36/EB).
 
                              I. kafli. Gildissvið.
                                1. gr. Gildissvið.
@@ -29,7 +30,7 @@ opinberra aðila eða aðra hliðstæða skóla hefur sá einn sem til þess hef
  Leyfi til þess að nota starfsheitið leikskólakennari má aðeins veita þeim sem
                                   lokið hefur:
       1. meistaraprófi frá háskóla sem hlotið hefur viðurkenningu ráðherra á
-     grundvelli [1]laga um háskóla, nr. 63/2006, á fræðasviði sem ráðherra
+     grundvelli [2]laga um háskóla, nr. 63/2006, á fræðasviði sem ráðherra
                  viðurkennir til kennslu á leikskólastigi; eða
        2. öðru námi sem jafngildir meistaraprófi skv. 1. tölul. og ráðherra
                    viðurkennir til kennslu á leikskólastigi.
@@ -40,7 +41,7 @@ opinberra aðila eða aðra hliðstæða skóla hefur sá einn sem til þess hef
  Leyfi til þess að nota starfsheitið grunnskólakennari má aðeins veita þeim sem
                                   lokið hefur:
       1. meistaraprófi frá háskóla sem hlotið hefur viðurkenningu ráðherra á
-     grundvelli [2]laga um háskóla, nr. 63/2006, á fræðasviði sem ráðherra
+     grundvelli [3]laga um háskóla, nr. 63/2006, á fræðasviði sem ráðherra
                  viðurkennir til kennslu á grunnskólastigi; eða
        2. öðru námi sem jafngildir meistaraprófi skv. 1. tölul. og ráðherra
                  viðurkennir til kennslu á grunnskólastigi; eða
@@ -59,7 +60,7 @@ tilgreina kennslugrein/ar eða sérsvið viðkomandi framhaldsskólakennara samk
  Leyfi til þess að nota starfsheitið framhaldsskólakennari má aðeins veita þeim
                                 sem lokið hefur:
       1. meistaraprófi frá háskóla sem hlotið hefur viðurkenningu ráðherra á
-   grundvelli [3]laga nr. 63/2006, á fræðasviði sem ráðherra viðurkennir til
+   grundvelli [4]laga nr. 63/2006, á fræðasviði sem ráðherra viðurkennir til
                        kennslu á framhaldsskólastigi; eða
        2. öðru námi sem jafngildir meistaraprófi skv. 1. tölul. og ráðherra
                viðurkennir til kennslu á framhaldsskólastigi; eða
@@ -72,17 +73,18 @@ námssviði, enda komi slík sérhæfing fram í leyfisbréfi. Skal menntun a.m.
      270300 námseiningar, þar af að lágmarki 60 námseiningar í kennslu- og
                                  uppeldisfræði.
      6. gr. Réttindi sem aflað er í ríki innan EES eða í aðildarríki EFTA.
-        Menntamálaráðherra skal staðfesta leyfi til að nota starfsheitið
- leikskólakennari, grunnskólakennari eða framhaldsskólakennari samkvæmt umsókn
-ríkisborgara frá ríki innan Evrópska efnahagssvæðisins ef viðkomandi leggur fram
-   vottorð um viðurkennd kennsluréttindi í ríki innan svæðisins í samræmi við
-   skilyrði tilskipunar 89/48/EBE, sbr. [4]lög um viðurkenningu á menntun og
-                          prófskírteinum, nr. 83/1993.
+[Mennta- og menningarmálaráðherra skal staðfesta leyfi til að nota starfsheitið
+  leikskólakennari, grunnskólakennari og framhaldsskólakennari samkvæmt umsókn
+     ríkisborgara frá ríki innan Evrópska efnahagssvæðisins eða Færeyjum ef
+   viðkomandi leggur fram vottorð um viðurkennd kennsluréttindi í ríki innan
+    svæðisins eða Færeyjum í samræmi við skilyrði tilskipunar 2005/36/EB um
+                 viðurkenningu á faglegri menntun og hæfi.]^1)
 Samkvæmt umsókn frá ríkisborgara aðildarríkis stofnsamnings Fríverslunarsamtaka
 Evrópu skal ráðherra staðfesta leyfi til að nota starfsheitið leikskólakennari,
 grunnskólakennari eða framhaldsskólakennari með sömu skilyrðum og tilgreind eru
  í 1. mgr., enda leggi viðkomandi fram vottorð um viðurkennd kennsluréttindi í
                             aðildarríki samtakanna.
+                             ^1)[5]L. 26/2010, 12. gr.
                                7. gr. Matsnefnd.
       Leiki vafi á hvort umsækjandi um leyfi til þess að nota starfsheitið
   leikskólakennari, grunnskólakennari eða framhaldsskólakennari fullnægi þeim
@@ -100,7 +102,7 @@ Menntamálaráðherra setur reglugerð^1) þar sem inntak menntunar leik-, grunn
 framhaldsskólakennara er nánar skilgreint með tilliti til lágmarkskrafna um vægi
                   kennslu- og uppeldisfræða og vægi faggreina.
      Með námseiningum er í lögum þessum átt við ECTS-einingar eða staðlaðar
-               námseiningar, sbr. [5]lög nr. 63/2006, um háskóla.
+               námseiningar, sbr. [6]lög nr. 63/2006, um háskóla.
                                  ^1)Rg. 872/2009.
 
              III. kafli. Starfsréttindi og ráðningar í leikskólum.
@@ -210,7 +212,8 @@ bráðabirgða, þó aldrei lengur en til eins árs í senn. Undanþágunefnd er
  með þriggja mánaða gagnkvæmum uppsagnarfresti sem er þó einn mánuður á fyrstu
      þremur mánuðum í starfi. Slíkur starfsmaður má ekki bera starfsheitið
    grunnskólakennari og ekki má endurráða hann án undangenginnar auglýsingar.
-          Starfsreglur undanþágunefndar skal ákveða nánar í reglugerð.
+        Starfsreglur undanþágunefndar skal ákveða nánar í reglugerð.^1)
+                                 ^1)Rg. 440/2010.
                      19. gr. Undanþágunefnd framhaldsskóla.
 Menntamálaráðherra skipar undanþágunefnd framhaldsskóla til fjögurra ára í senn.
        Nefndin skal skipuð þremur fulltrúum, einum fulltrúa tilnefndum af
@@ -239,7 +242,8 @@ til að lausráða annan einstakling sem hefur sérmenntun í auglýstri kennslu
   gagnkvæmum uppsagnarfresti sem er þó einn mánuður á fyrstu þremur mánuðum í
  starfi. Slíkur starfsmaður má ekki bera starfsheitið framhaldsskólakennari og
              ekki má endurráða hann án undangenginnar auglýsingar.
-          Starfsreglur undanþágunefndar skal ákveða nánar í reglugerð.
+        Starfsreglur undanþágunefndar skal ákveða nánar í reglugerð.^1)
+                                 ^1)Rg. 669/2010.
 
                            VII. kafli. Almenn ákvæði.
                 20. gr. Mat á umsóknum og forgangur til starfs.
@@ -307,19 +311,20 @@ Ráðherra er heimilt að setja nánari fyrirmæli um útgáfu leyfisbréfa í r
  Ákvæði til bráðabirgða. Við gildistöku laga þessara skulu gefin út leyfisbréf
  til handa leik-, grunn- og framhaldsskólakennurum sem til þess eiga tilkall og
           ekki hafa þegar fengið slík bréf, enda óski þeir eftir því.
- Starfsmenn sem ráðnir hafa verið án kennaramenntunar, sbr. 1. mgr. [6]12. gr.
+ Starfsmenn sem ráðnir hafa verið án kennaramenntunar, sbr. 1. mgr. [7]12. gr.
  laga nr. 78/1994, um leikskóla, skulu þrátt fyrir ákvæði 1. mgr. 9. gr. halda
    starfi sínu. Um réttarstöðu þeirra að öðru leyti fer samkvæmt fyrirmælum í
-       ráðningarsamningum og/eða kjarasamningum, sbr. 1. mgr. [7]57. gr.
+       ráðningarsamningum og/eða kjarasamningum, sbr. 1. mgr. [8]57. gr.
                        sveitarstjórnarlaga, nr. 45/1998.
 
 References
 
    Visible links
-   1. file://2006063.html
+   1. file://2010026.html
    2. file://2006063.html
    3. file://2006063.html
-   4. file://1993083.html
-   5. file://2006063.html
-   6. file://1994078.html
-   7. file://1998045.html#g57
+   4. file://2006063.html
+   5. file://2010026.html#g12
+   6. file://2006063.html
+   7. file://1994078.html
+   8. file://1998045.html#g57

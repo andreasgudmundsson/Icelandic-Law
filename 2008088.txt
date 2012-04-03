@@ -14,8 +14,8 @@ með l. 156/2008 (tóku gildi 31. des. 2008), l. 70/2009 (tóku gildi 30. júní
  nema 1.3. gr., 12.26. gr. og brbákv. V og VI sem tóku gildi 1. júlí 2009, 4.
 gr. sem tók gildi 1. sept. 2009 og brbákv. IV sem tók gildi 16. júní 2009; komu
   til framkvæmda skv. fyrirmælum í 29. gr., sbr. og l. 97/2009 (tóku gildi 3.
- sept. 2009)), l. 80/2009 (tóku gildi 7. ágúst 2009) og l. 123/2009 (tóku gildi
-                                30. des. 2009).
+sept. 2009)), l. 80/2009 (tóku gildi 7. ágúst 2009), l. 123/2009 (tóku gildi 30.
+              des. 2009) og l. 52/2010 (tóku gildi 12. júní 2010).
 
                 1. þáttur. Almennar reglur um meðferð sakamála.
                I. kafli. Gildissvið laganna og dómendur í héraði.
@@ -484,13 +484,14 @@ gr. getur hann leitað atbeina dómara og óskað eftir því að honum verði s
          ellegar rannsókn er hætt eða mál fellt niður með öðrum hætti.
  Nú er héraðsdómi áfrýjað og fer þá um skipun verjanda fyrir Hæstarétti skv. 5.
                                  mgr. 201. gr.
-   32. gr. Sakborningi er á öllum stigum opinbers máls heimilt að ráða á sinn
-                  kostnað lögmann til að gæta hagsmuna sinna.
+ 32. gr. Sakborningi er á öllum stigum ^1) máls heimilt að ráða á sinn kostnað
+                      lögmann til að gæta hagsmuna sinna.
  Lögmaður sem sakborningur hefur ráðið sér án atbeina dómara eða lögreglu hefur
 sömu réttindi og skyldur og verjandi eftir því sem við á. Meðan á rannsókn máls
   stendur má þó takmarka rétt hans til að ræða við sakborning, vera viðstaddur
  skýrslutöku, kynna sér gögn og fylgjast með framvindu rannsóknar ef hætta er á
                            að hún torveldist við það.
+                               ^1)L. 52/2010, 3. gr.
     33. gr. Dómara eða lögreglu ber, þegar skylt er eða heimilt að skipa eða
        tilnefna sakborningi verjanda, að vekja athygli hans á þeim rétti.
             Verjandi skal skipaður eða tilnefndur úr hópi lögmanna.
@@ -1054,8 +1055,8 @@ að hann hafi framið brot sem varðað getur fangelsisrefsingu að lögum. Enn 
              nema fyrir liggi ótvírætt samþykki þess sem í hlut á.
 79. gr. Lögregla stýrir húsleit og framkvæmir líkamsleit samkvæmt ákvæðum þessa
  kafla. Líkamsleit skal gerð af lögreglumanni sem er sama kyns og sá sem leitað
- er á. Leit skv. 2. mgr. 76. gr. og læknisrannsókn, þar með talin geðrannsókn,
-    skal framkvæmd af lækni eða öðrum sem hefur til þess tilskilda menntun.
+er á. Leit skv. 2. mgr. 76. gr. og [líkamsrannsókn, einnig]^1) geðrannsókn, skal
+       framkvæmd af lækni eða öðrum sem hefur til þess tilskilda menntun.
  Eiganda eða umráðamanni húsakynna eða farartækis, þar sem leit fer fram, skal
 kynnt heimild til húsleitar og veittur kostur á að vera viðstaddur hana ef unnt
  er. Sé hann fjarri skulu til kvaddir heimilismenn hans eða starfsmenn sem þar
@@ -1065,6 +1066,7 @@ kynnt heimild til húsleitar og veittur kostur á að vera viðstaddur hana ef u
  Við leit og líkamsrannsókn skal gæta þeirrar varfærni og hlífðar sem samræmist
         markmiði hennar. Ekki skal gera húsleit að næturþeli nema brýnir
                         rannsóknarhagsmunir séu í húfi.
+                               ^1)L. 52/2010, 4. gr.
 
                XI. kafli. Símahlustun og önnur sambærileg úrræði.
  80. gr. Með þeim skilyrðum sem greind eru í 1. mgr. 83. gr. og 1. mgr. 84. gr.
@@ -2527,9 +2529,9 @@ Skal þá dómari ákveða ákærða viðurlög skv. 182. gr. eða leggja á þa
    c. synjun um að láta af hendi afrit af gögnum eða veita leyfi til að hlýða á
                              upptöku úr þinghaldi,
       d. atriði varðandi réttindi sakbornings, verjanda hans eða lögmanns við
-                                 rannsókn máls,
+     rannsókn máls, [svo og skipun verjanda eða synjun um skipun hans],^1)
    e. atriði varðandi réttindi brotaþola eða réttargæslumanns hans við rannsókn
-                                     máls,
+      máls, [svo og skipun réttargæslumanns eða synjun um skipun hans],^1)
    f. atriði varðandi skýrslutöku af sakborningi, brotaþola eða öðrum vitnum við
                                  rannsókn máls,
          g. heimild til að leggja hald á muni eða hvort því verði aflétt,
@@ -2567,6 +2569,7 @@ Eftir að aðalmeðferð máls er hafin verður úrskurði héraðsdómara ekki 
                                     gengið.
  Nú hefur úrskurður verið kærður og svo fer sem í 3. mgr. segir eftir þann tíma
   en áður en dómur er felldur í kærumálinu og skal þá vísa því frá Hæstarétti.
+                               ^1)L. 52/2010, 5. gr.
  193. gr. Héraðsdómari leiðbeinir þeim sem ekki nýtur aðstoðar lögmanns um rétt
                       til að kæra úrskurð og um kærufrest.
      Nú vill maður kæra úrskurð og skal hann þá lýsa því yfir innan þriggja

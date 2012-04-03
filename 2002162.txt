@@ -18,8 +18,8 @@ Tóku gildi 1. janúar 2003. EES-samningurinn: II. viðauki tilskipun 94/62/EB, 
  ágúst 2006), l. 15/2007 (tóku gildi 1. mars 2007), l. 46/2007 (tóku gildi 31.
  mars 2007), l. 153/2007 (tóku gildi 1. jan. 2008), l. 73/2008 (tóku gildi 14.
     júní 2008; EES-samningurinn: XX. viðauki tilskipun 2002/96/EB, tilskipun
- 2003/108/EB), l. 135/2009 (tóku gildi 1. jan. 2010) og l. 136/2009 (tóku gildi
-                                 1. jan. 2010).
+2003/108/EB), l. 135/2009 (tóku gildi 1. jan. 2010), l. 136/2009 (tóku gildi 1.
+              jan. 2010) og l. 69/2010 (tóku gildi 1. júlí 2010).
 
                       I. kafli. Markmið og skilgreiningar.
                                 1. gr. Markmið.
@@ -127,11 +127,11 @@ bifreiðar samkvæmt málsgrein þessari er 1. júlí ár hvert. Um innheimtu gj
 virðisaukaskatti á hverja umbúðaeiningu, sbr. viðauka III, við móttöku á notuðum
                   úrvinnslugjaldsskyldum drykkjarvöruumbúðum.
          [7. gr. a. Úrvinnslugjald á pappa-, pappírs- og plastumbúðir.
- [Úrvinnslugjald skal leggja á umbúðir gerðar úr pappa og pappír, 7 kr./kg, og
- umbúðir gerðar úr plasti, 3 kr./kg.]^1) Úrvinnslugjald skal leggja á hvort sem
-     umbúðir eru einar sér eða utan um vörur sem fluttar eru til landsins.
+[Úrvinnslugjald skal leggja á umbúðir gerðar úr pappa og pappír, [12 kr./kg],^1)
+  og umbúðir gerðar úr plasti, [5 kr./kg].^1)]^2) Úrvinnslugjald skal leggja á
+hvort sem umbúðir eru einar sér eða utan um vörur sem fluttar eru til landsins.
   Úrvinnslugjald skal lagt á samkvæmt upplýsingum gjaldskylds aðila um þyngd,
-    tegund og samsetningu umbúða, sbr. þó [4. mgr.]^2) Þetta á einnig við um
+    tegund og samsetningu umbúða, sbr. þó [4. mgr.]^3) Þetta á einnig við um
                                samsettar umbúðir.
 [Úrvinnslusjóður ákveður, í samræmi við áætlun sína um að ná tölulegum markmiðum
     um endurnýtingu og endurvinnslu, fyrir hvaða tegundir umbúðaúrgangs sem
@@ -140,21 +140,21 @@ virðisaukaskatti á hverja umbúðaeiningu, sbr. viðauka III, við móttöku �
  hjá birgjum eru undanþegnar úrvinnslugjaldi. Undanþágan er bundin því skilyrði
      að innflytjandi lýsi því yfir í aðflutningsskýrslu, með þeim hætti sem
   tollstjórinn í Reykjavík ákveður, að umbúðirnar verði sannanlega fluttar úr
-landi til endurnotkunar hjá birgjum og komi ekki til úrvinnslu hér á landi.]^2)
+landi til endurnotkunar hjá birgjum og komi ekki til úrvinnslu hér á landi.]^3)
 Gjaldskyldur aðili skal við tollafgreiðslu gefa upp þyngd umbúða í vörusendingu
    til tollafgreiðslu samkvæmt staðfestum upplýsingum þar um. [Ef staðfestar
   upplýsingar um þyngd umbúða vöru fást ekki er gjaldskyldum aðila heimilt að
-   greiða úrvinnslugjald í samræmi við reiknireglur í viðauka XVIII.]^3) ^2)
+   greiða úrvinnslugjald í samræmi við reiknireglur í viðauka XVIII.]^4) ^3)
     Um álagningu úrvinnslugjalds á heyrúlluplast og um skilagjald á einnota
 drykkjarvöruumbúðum með skilagjaldi úr áli, stáli, gleri og plastefnum fer skv.
                                      8. gr.
      [[Pappa-, pappírs- og plastumbúðir í eftirtöldum tollskrárnúmerum eru
    undanþegnar úrvinnslugjaldi að því skilyrði uppfylltu að innflytjandi gefi
   yfirlýsingu í aðflutningsskýrslu, sbr. 3. mgr., um að viðkomandi vara verði
-     sannanlega flutt úr landi og komi ekki til úrvinnslu hér á landi:]^2)
+     sannanlega flutt úr landi og komi ekki til úrvinnslu hér á landi:]^3)
 
 [3919.1000              3923.3000          4819.2011          4819.5001
-3920.1009]^2)           3923.4000          4819.2019          4819.5002
+3920.1009]^3)           3923.4000          4819.2019          4819.5002
 3923.1001               3923.5000          4819.2091          4819.5009
 3923.1009               3923.9001          4819.2099          4819.6000
 3923.2101               3923.9002          4819.3001          4822.1000
@@ -170,7 +170,7 @@ skýrum hætti ef umbúðir eru undanþegnar úrvinnslugjaldi. Kaupandi skal sta
  útflutnings. Endanleg yfirlýsing kaupanda er staðfest við greiðslu reiknings.
  Kaupandi er ábyrgur, gagnvart innheimtumönnum ríkissjóðs, fyrir því að umbúðir
                 keyptar án úrvinnslugjalds fari til útflutnings.
-    [Ríkisskattstjóra]^4) er heimilt að gefa út úrvinnslugjaldsskírteini til
+    [Ríkisskattstjóra]^5) er heimilt að gefa út úrvinnslugjaldsskírteini til
 framleiðanda, innflytjanda og seljanda umbúða úr pappír, pappa eða plasti, sbr.
  6. mgr. Forsenda heimildar er að umbúðirnar séu utan um vörur til útflutnings
   eða til nota utan um vörur er fara á innanlandsmarkað og að umsækjandi hafi
@@ -181,11 +181,11 @@ Skírteinið veitir handhafa þess heimild til að flytja inn eða kaupa innan l
       Ef handhafi úrvinnslugjaldsskírteinis tekur til eigin nota vörur sem
 úrvinnslugjald hefur verið fellt niður af á grundvelli skírteinisins skal hann á
   næsta gjalddaga almenns uppgjörstímabils standa skil á úrvinnslugjaldi vegna
-                                þeirra nota.]^2
+                                þeirra nota.]^3
 Umhverfisráðherra setur með reglugerð nánari ákvæði um framkvæmd niðurfellingar
-                            úrvinnslugjalds.]^3)]^5)
-     ^1)L. 15/2007, 1. gr. ^2)L. 106/2006, 3. gr. ^3)L. 114/2005, 1. gr. ^4)L.
-                    136/2009, 95. gr. ^5)L. 128/2004, 4. gr.
+                            úrvinnslugjalds.]^4)]^6)
+     ^1)L. 69/2010, 1. gr. ^2)L. 15/2007, 1. gr. ^3)L. 106/2006, 3. gr. ^4)L.
+        114/2005, 1. gr. ^5)L. 136/2009, 95. gr. ^6)L. 128/2004, 4. gr.
                      8. gr. [Úrvinnslugjald á aðrar vörur.
 Úrvinnslugjald skal leggja á eftirtalda vöruflokka, eins og nánar er kveðið á um
                           í viðaukum með lögum þessum:
@@ -468,7 +468,7 @@ kemur frá fyrirtækjum og bylgjupappa koma til framkvæmda 1. apríl 2005 og ve
                               Viðaukar IXVIII.^1)
      ^1)Um texta viðauka þessara vísast til Stjtíð. A 2002, bls. 514535, sbr.
 Stjtíð. A 2003, bls. 15 og bls. 584587, Stjtíð. A 2004, bls. 772788, Stjtíð. A
-         2005, bls. 10301043, Stjtíð. A 2007, bls. 2031 og bls. 138.
+2005, bls. 10301043, Stjtíð. A 2007, bls. 2031 og bls. 138, Stjtíð. A 69/2010.
 
 References
 

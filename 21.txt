@@ -23,10 +23,10 @@
      * Lög um Myndlista- og handíðaskóla Íslands, [8]nr. 38 11. maí 1965
      * Lög um Leiklistarskóla Íslands, [9]nr. 37 26. maí 1975
      * Lög um Félagsmálaskóla alþýðu, [10]nr. 60 31. maí. 1989
-     * Lög um starfsmenntun í atvinnulífinu, [11]nr. 19 15. maí 1992
-     * Lög um Skálholtsskóla, [12]nr. 22 29. mars 1993
-     * Lög um köfun, [13]nr. 31 2. apríl 1996
-     * Lög um búnaðarfræðslu, [14]nr. 57 19. mars 1999
+     * Lög um Skálholtsskóla, [11]nr. 22 29. mars 1993
+     * Lög um köfun, [12]nr. 31 2. apríl 1996
+     * Lög um búnaðarfræðslu, [13]nr. 57 19. mars 1999
+     * Lög um framhaldsfræðslu, [14]nr. 27 31. mars 2010
 
   21.e. Nám á háskólastigi o.fl.
 
@@ -37,14 +37,14 @@
        apríl 1968
      * Lög um rétt manna til að kalla sig viðskiptafræðinga eða hagfræðinga,
        [19]nr. 27 25. maí 1981
-     * Lög um viðurkenningu á menntun og prófskírteinum, [20]nr. 83 18. maí
-       1993
-     * Lög um Tækniháskóla Íslands, [21]nr. 53 8. maí 2002
-     * Lög um sameiningu Kennaraháskóla Íslands og Háskóla Íslands, [22]nr.
+     * Lög um Tækniháskóla Íslands, [20]nr. 53 8. maí 2002
+     * Lög um sameiningu Kennaraháskóla Íslands og Háskóla Íslands, [21]nr.
        37 27. mars 2007
      * Lög um menntun og ráðningu kennara og skólastjórnenda við leikskóla,
-       grunnskóla og framhaldsskóla, [23]nr. 87 12. júní 2008
-     * Lög um náms- og starfsráðgjafa, [24]nr. 35 3. apríl 2009
+       grunnskóla og framhaldsskóla, [22]nr. 87 12. júní 2008
+     * Lög um náms- og starfsráðgjafa, [23]nr. 35 3. apríl 2009
+     * Lög um viðurkenningu á faglegri menntun og hæfi til starfa hér á
+       landi, [24]nr. 26 31. mars 2010
 
   21.f. Námslán og menntunarkostnaður
 
@@ -99,20 +99,20 @@ References
    8. file://1965038.html
    9. file://1975037.html
   10. file://1989060.html
-  11. file://1992019.html
-  12. file://1993022.html
-  13. file://1996031.html
-  14. file://1999057.html
+  11. file://1993022.html
+  12. file://1996031.html
+  13. file://1999057.html
+  14. file://2010027.html
   15. file://2006063.html
   16. file://2008085.html
   17. file://1947016.html
   18. file://1968033.html
   19. file://1981027.html
-  20. file://1993083.html
-  21. file://2002053.html
-  22. file://2007037.html
-  23. file://2008087.html
-  24. file://2009035.html
+  20. file://2002053.html
+  21. file://2007037.html
+  22. file://2008087.html
+  23. file://2009035.html
+  24. file://2010026.html
   25. file://1992021.html
   26. file://2003079.html
   27. file://1965064.html

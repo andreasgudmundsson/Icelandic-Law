@@ -12,8 +12,9 @@
 43/2002 (tóku gildi 7. maí 2002), [1]l. 141/2003 (tóku gildi 30. des. 2003), l.
  142/2003 (tóku gildi 1. jan. 2004), [2]l. 136/2004 (tóku gildi 1. jan. 2005),
 [3]l. 47/2006 (tóku gildi 1. júlí 2006), l. 65/2006 (tóku gildi 27. júní 2006),
-l. 167/2006 (tóku gildi 1. jan. 2007), l. 62/2007 (tóku gildi 4. apríl 2007) og
-                   [4]l. 12/2009 (tóku gildi 25. apríl 2009).
+ l. 167/2006 (tóku gildi 1. jan. 2007), l. 62/2007 (tóku gildi 4. apríl 2007),
+[4]l. 12/2009 (tóku gildi 25. apríl 2009), l. 48/2010 (tóku gildi 11. júní 2010)
+                   og l. 65/2010 (tóku gildi 27. júní 2010).
 
                             I. kafli. Almenn ákvæði.
   1. gr. Sjóðurinn heitir Lífeyrissjóður starfsmanna ríkisins. Heimili hans og
@@ -362,15 +363,14 @@ janúar 1930, 2% að auki fyrir hvert ár sem makinn er fæddur eftir 1. janúar
   til þessa sjóðs. Séu skilyrði 1. mgr. um iðgjaldagreiðslutíma ekki uppfyllt
           ákvarðast upphæð makalífeyris í samræmi við 2. mgr. 19. gr.
  Rétthafi samkvæmt þessari grein telst sá eða sú sem við andlátið var í hjúskap
-með sjóðfélaga, staðfestri samvist, sbr. [8]lög nr. 87/1996, eða óvígðri sambúð,
- enda hafi fjárfélagi ekki verið slitið fyrir andlát sjóðfélagans. Með óvígðri
-sambúð er hér átt við sambúð karls og konu sem eiga sameiginlegt lögheimili, eru
-    samvistum, eiga barn saman eða konan er þunguð eða sambúðin hefur varað
-    samfleytt í a.m.k. eitt ár. [Sama gildir um sambúð einstaklinga af sama
-kyni.]^1) Réttur til makalífeyris fellur niður ef makinn gengur í hjónaband á ný
-eða stofnar til sambúðar sem jafna má til hjúskapar, en gengur aftur í gildi ef
+ með sjóðfélaga ^1) eða óvígðri sambúð, enda hafi fjárfélagi ekki verið slitið
+  fyrir andlát sjóðfélagans. Með óvígðri sambúð er hér átt við sambúð [tveggja
+  einstaklinga]^1) sem eiga sameiginlegt lögheimili, eru samvistum, eiga barn
+ saman eða konan er þunguð eða sambúðin hefur varað samfleytt í a.m.k. eitt ár.
+ ^1) Réttur til makalífeyris fellur niður ef makinn gengur í hjónaband á ný eða
+  stofnar til sambúðar sem jafna má til hjúskapar, en gengur aftur í gildi ef
              síðara hjónabandinu er slitið án réttar til lífeyris.
-                               ^1)L. 65/2006, 7. gr.
+                              ^1)L. 65/2010, 39. gr.
 18. gr. Nú andast sjóðfélagi sem greitt hefur iðgjöld til sjóðsins eða notið úr
 honum örorkulífeyris í a.m.k. sex mánuði á undanfarandi tólf mánuðum, og eiga þá
   börn hans og kjörbörn sem hann lætur eftir sig og yngri eru en 22 ára rétt á
@@ -446,9 +446,9 @@ kjarasamninga sem sveitarfélög gera á grundvelli laga um kjarasamninga opinbe
    starfsmanna skal stjórn sjóðsins ákveða þau viðmiðunarlaun sem iðgjöld eru
     greidd af og miðað er við til greiðslu lífeyris og skulu þau ákveðin með
     hliðsjón af launaákvörðunum sem gilda um ríkisstarfsmenn eða starfsmenn
-    sveitarfélaga samkvæmt [9]lögum nr. 94/1986, um kjarasamninga opinberra
+    sveitarfélaga samkvæmt [8]lögum nr. 94/1986, um kjarasamninga opinberra
                   starfsmanna, og [lögum um kjararáð].^2)]^3)
-      ^1)L. 167/2006, 5. gr. ^2)[10]L. 47/2006, 13. gr. ^3)L. 43/2002, 2. gr.
+      ^1)L. 167/2006, 5. gr. ^2)[9]L. 47/2006, 13. gr. ^3)L. 43/2002, 2. gr.
 24. gr. Hver sjóðfélagi, sem greitt hefur iðgjald til sjóðsins, á rétt á lífeyri
  frá næstu mánaðamótum eftir að hann verður 65 ára, enda hafi hann þá látið af
               þeim störfum sem veitt hafa honum aðild að sjóðnum.
@@ -493,7 +493,7 @@ gr., á ekki auk launa jafnframt rétt til lífeyris meðan hann gegnir því st
  Sama á við um þá sem fá greidd óskert laun, sem starfinu fylgja, eftir að þeir
                                 láta af störfum.
                                       ^3)
-     ^1)L. 43/2002, 3. gr. ^2)L. 142/2003, 1. gr. ^3)[11]L. 141/2003, 21. gr.
+     ^1)L. 43/2002, 3. gr. ^2)L. 142/2003, 1. gr. ^3)[10]L. 141/2003, 21. gr.
 25. gr. Vaktavinnufólk, það er þeir sjóðfélagar sem hafa vinnutíma sem hreyfist
        með reglubundnum hætti, skal fá rétt til sérstaks viðbótarlífeyris
   (ellilífeyris, örorkulífeyris eða makalífeyris) úr Lífeyrissjóði starfsmanna
@@ -759,9 +759,9 @@ starf eru ekki tæk til viðmiðunar á iðgjaldagreiðslum til deildarinnar, sb
     mgr. 23. gr. laganna, skal stjórn sjóðsins ákveða þau viðmiðunarlaun sem
       greiðslur lífeyris taka mið af og skulu þau ákveðin með hliðsjón af
    launaákvörðunum sem gilda um ríkisstarfsmenn eða starfsmenn sveitarfélaga
-   samkvæmt [12]lögum nr. 94/1986, um kjarasamninga opinberra starfsmanna, og
+   samkvæmt [11]lögum nr. 94/1986, um kjarasamninga opinberra starfsmanna, og
                           [lögum um kjararáð].^1)]^2)
-                 ^1)[13]L. 47/2006, 13. gr. ^2)L. 43/2002, 6. gr.
+                 ^1)[12]L. 47/2006, 13. gr. ^2)L. 43/2002, 6. gr.
      36. gr. Þrátt fyrir ákvæði 1. mgr. 30. gr. skal reikna lífeyri þeirra
   sjóðfélaga, sem greitt hafa skemur en þrjú ár til sjóðsins, þegar þeir hefja
 iðgjaldagreiðslu til A-deildar þannig að miðað verði við meðalhækkanir á launum
@@ -769,13 +769,15 @@ iðgjaldagreiðslu til A-deildar þannig að miðað verði við meðalhækkanir
 iðgjaldagreiðslu til B-deildar sjóðsins og þar til taka lífeyris hefst samkvæmt
          reglum 3. mgr. 28. gr. og 3. mgr. 24. gr., enda sé samanlagður
         iðgjaldagreiðslutími til A-deildar og B-deildar a.m.k. þrjú ár.
-      37. gr. Sjóðfélagar, sem rétt eiga á að greiða iðgjald til B-deildar
-lífeyrissjóðsins skv. 4. gr. en kjósa fremur að greiða til A-deildar, eiga ekki
- rétt til töku ellilífeyris úr B-deild á meðan þeir gegna störfum sem uppfylla
-                             aðildarskilyrði 4. gr.
+37. gr. [Sjóðfélagar eiga ekki rétt til töku ellilífeyris úr B-deild sjóðsins á
+   meðan þeir gegna störfum sem veitt hefðu rétt til aðildar að Lífeyrissjóði
+starfsmanna ríkisins fyrir stofnun A-deildar sjóðsins, þ.e. eru skipaðir, settir
+      eða ráðnir til a.m.k. eins árs eða ráðnir með minnst þriggja mánaða
+          uppsagnarfresti og starfið er eigi minna en hálft starf.]^1)
  Að öðru leyti skal setja ákvæði í samþykktir sjóðsins til að koma í veg fyrir
-  niðurfall réttinda eða tvítryggingu réttinda þegar sjóðfélagi flytur sig úr
-                          B-deild sjóðsins í A-deild.
+  niðurfall réttinda eða tvítryggingu réttinda þegar sjóðfélagi [á réttindi í
+                        B-deild og A-deild sjóðsins].^1)
+                               ^1)L. 48/2010, 1. gr.
 38. gr. Hafi sjóðfélagi, sem er látinn við gildistöku laga þessara, verið giftur
 oftar en einu sinni og látið eftir sig maka og fyrrverandi maka ákvarðast réttur
    til lífeyris milli fleiri en eins rétthafa makalífeyris eftir eldri lögum.
@@ -823,8 +825,8 @@ framkvæmd samkomulagsins og skal ríkissjóður greiða lífeyrissjóðnum þá
                       ^1)Rg. 705/2008. ^2)L. 62/2007, 3. gr.
 
                             Ákvæði til bráðabirgða.
- I. Félagsmenn í stéttarfélögum, sem samkvæmt ákvæðum [14]laga nr. 29/1963, um
-  Lífeyrissjóð starfsmanna ríkisins, og [15]laga nr. 16/1965, um Lífeyrissjóð
+ I. Félagsmenn í stéttarfélögum, sem samkvæmt ákvæðum [13]laga nr. 29/1963, um
+  Lífeyrissjóð starfsmanna ríkisins, og [14]laga nr. 16/1965, um Lífeyrissjóð
   hjúkrunarkvenna, hefðu átt skylduaðild að þessum sjóðum, skulu eiga rétt til
   aðildar að A-deild sjóðsins þar til samið hefur verið um lífeyrissjóðsaðild
 fyrir þessa starfsmenn, þó svo að ákvæði 1. og 2. mgr. 3. gr. laganna taki ekki
@@ -856,7 +858,7 @@ Lífeyrissjóðs starfsmanna ríkisins við gildistöku laga þessara og eru í 
   sem flytjast til Sambands íslenskra sveitarfélaga og halda þeim áfram, skulu
  eiga rétt til áframhaldandi aðildar að sjóðnum með óslitinni réttindaávinnslu
                        meðan þeir gegna þar störfum.]^1)
-                            ^1)[16]L. 136/2004, 11. gr.
+                            ^1)[15]L. 136/2004, 11. gr.
 
 References
 
@@ -868,12 +870,11 @@ References
    5. file://1986094.html
    6. file://2006047.html#g13
    7. file://2009012.html
-   8. file://1996087.html
-   9. file://1986094.html
-  10. file://2006047.html#g13
-  11. file://2003141.html#g21
-  12. file://1986094.html
-  13. file://2006047.html#g13
-  14. file://1963029.html
-  15. file://1965016.html
-  16. file://2004136.html
+   8. file://1986094.html
+   9. file://2006047.html#g13
+  10. file://2003141.html#g21
+  11. file://1986094.html
+  12. file://2006047.html#g13
+  13. file://1963029.html
+  14. file://1965016.html
+  15. file://2004136.html

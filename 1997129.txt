@@ -22,9 +22,9 @@ gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 140/2006 (tóku gildi 21. des. 2006
  [1]l. 112/2008 (tóku gildi 1. okt. 2008 nema 12. tölul. 59. gr. sem tók gildi
    25. sept. 2008; komu til framkvæmda skv. fyrirmælum í 2. mgr. 56. gr.), l.
  171/2008 (tóku gildi 1. jan. 2009 nema 8. gr. sem tekur gildi 1. jan. 2011 og
-11. gr. sem tók gildi 1. jan. 2010), l. 13/2009 (tóku gildi 14. mars 2009) og l.
+ 11. gr. sem tók gildi 1. jan. 2010), l. 13/2009 (tóku gildi 14. mars 2009), l.
 130/2009 (tóku gildi 30. des. 2009 nema 7.9. gr. og 13.42. gr. sem tóku gildi
-                                 1. jan. 2010).
+            1. jan. 2010) og l. 65/2010 (tóku gildi 27. júní 2010).
 
               I. kafli. Skyldutrygging, iðgjald og tryggingavernd.
 1. gr. Lög þessi gilda um alla lífeyrissjóði og samninga um tryggingavernd eins
@@ -278,8 +278,8 @@ Mánaðarlegur lífeyrir skal verðtryggður og breytast til samræmis við brey
 mála skv. 1.3. tölul. þessarar málsgreinar. Samkomulag þetta skal eftir því sem
      við á ná til ellilífeyrisgreiðslna, verðmætis ellilífeyrisréttinda eða
 ellilífeyrisréttinda beggja aðilanna og fela í sér gagnkvæma og jafna skiptingu
-   áunninna réttinda meðan hjúskapur, óvígð sambúð eða staðfest samvist hefur
-                              staðið eða stendur:
+    áunninna réttinda meðan hjúskapur [eða óvígð sambúð]^2) hefur staðið eða
+                                    stendur:
    1. Að ellilífeyrisgreiðslur sem renna eiga til hans skuli allt að hálfu renna
   til maka hans eða fyrrverandi maka. Viðkomandi lífeyrissjóður skal þá skipta
   greiðslum í samræmi við ákvörðun sjóðfélagans, en þær falla niður við andlát
@@ -296,7 +296,7 @@ ellilífeyrisréttinda beggja aðilanna og fela í sér gagnkvæma og jafna skip
 ráðstöfun iðgjalds til lágmarkstryggingaverndar og viðbótartryggingaverndar skal
 litið svo á að iðgjaldsstofni sjóðfélagans hafi verið skipt milli hans og makans
                               eins og iðgjaldinu.
-                              ^1)L. 171/2008, 3. gr.
+                   ^1)L. 171/2008, 3. gr. ^2)L. 65/2010, 40. gr.
   15. gr. Sjóðfélagi á rétt á örorkulífeyri ef hann verður fyrir orkutapi sem
   metið er 50% eða meira, hefur greitt í lífeyrissjóð í a.m.k. tvö ár og orðið
                   fyrir tekjuskerðingu af völdum orkutapsins.
@@ -327,18 +327,17 @@ Heimilt er að ákveða að örorkulífeyrir greiðist ekki fyrstu þrjá mánu�
   makalífeyrir greiddur á meðan það ástand varir. Fullur makalífeyrir skal að
   lágmarki vera 50% af áunnum örorkulífeyri viðkomandi sjóðfélaga við andlátið
                              miðað við 100% örorku.
- Maki samkvæmt þessari grein telst sá eða sú sem við andlátið var í hjúskap með
-  sjóðfélaga, staðfestri samvist eða óvígðri sambúð, enda hafi fjárfélagi ekki
-  verið slitið fyrir andlát sjóðfélagans. Með óvígðri sambúð er átt við sambúð
- karls og konu sem eiga sameiginlegt lögheimili, eru samvistum, eiga barn saman
- eða konan er þunguð eða sambúðin hefur varað samfleytt í a.m.k. tvö ár. [Sama
- gildir um sambúð einstaklinga af sama kyni.]^1) Réttur til makalífeyris fellur
- niður ef makinn gengur í hjónaband á ný, stofnar til sambúðar sem jafna má til
-  hjúskapar eða stofnar til staðfestrar samvistar, nema kveðið sé á um annað í
+Maki samkvæmt þessari grein telst sá eða sú sem við andlátið var í [hjúskap eða
+óvígðri sambúð með sjóðfélaga],^1) enda hafi fjárfélagi ekki verið slitið fyrir
+       andlát sjóðfélagans. Með óvígðri sambúð er átt við sambúð [tveggja
+  einstaklinga]^1) sem eiga sameiginlegt lögheimili, eru samvistum, eiga barn
+ saman eða konan er þunguð eða sambúðin hefur varað samfleytt í a.m.k. tvö ár.
+^1) Réttur til makalífeyris fellur niður ef makinn gengur í hjónaband á ný [eða
+stofnar til sambúðar sem jafna má til hjúskapar],^1) nema kveðið sé á um annað í
                                   samþykktum.
 Í samþykktum lífeyrissjóðs skulu sett frekari ákvæði um makalífeyri, svo sem um
  fjárhæð hans, framreikningsreglur, útreikning og skilyrði fyrir greiðslu hans.
-                               ^1)L. 65/2006, 8. gr.
+                              ^1)L. 65/2010, 41. gr.
 17. gr. Andist sjóðfélagi sem greitt hefur iðgjöld til lífeyrissjóðs í a.m.k. 24
  mánuði á undanfarandi 36 mánuðum, notið elli- eða örorkulífeyris við andlátið
    eða öðlast rétt til framreiknings skv. 3. mgr. 15. gr. skulu börn hans og
@@ -1134,8 +1133,8 @@ References
   10. file://2002161.html#g32
   11. file://2002161.html#g34
   12. file://2002161.html#g35
-  13. file://1994060.html#g64
-  14. file://1994060.html#g65
+  13. file://1994060.html
+  14. file://1994060.html
   15. file://2003030.html
   16. file://1980055.html
   17. file://1997129.html#g36

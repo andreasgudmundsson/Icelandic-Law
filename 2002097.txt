@@ -14,7 +14,8 @@
 [1]l. 139/2005 (tóku gildi 30. des. 2005), l. 21/2006 (tóku gildi 1. maí 2006),
   l. 108/2006 (tóku gildi 1. nóv. 2006 skv. augl. C 1/2006), l. 106/2007 (tóku
 gildi 27. júní 2007), l. 78/2008 (tóku gildi 1. ágúst 2008; EES-samningurinn: V.
-    viðauki tilskipun 2004/38/EB) og l. 154/2008 (tóku gildi 31. des. 2008).
+  viðauki tilskipun 2004/38/EB), l. 154/2008 (tóku gildi 31. des. 2008) og l.
+                      65/2010 (tóku gildi 27. júní 2010).
 
                             I. kafli. Almenn ákvæði.
                                1. gr. Gildissvið.
@@ -234,10 +235,10 @@ með sömu takmörkunum og þegar leyfið er veitt í fyrsta skipti enda séu sk
   vera uppfyllt. Enn fremur er það skilyrði framlengingar atvinnuleyfisins að
   atvinnurekandi hafi staðið skil á staðgreiðslu skatta sem og tryggingagjaldi
                    lögum samkvæmt vegna starfa hlutaðeigandi.
- Ef hjúskap, staðfestri samvist eða sambúð er slitið vegna þess að útlendingur
-   eða barn hans hefur sætt misnotkun eða ofbeldi í sambandinu er heimilt að
- framlengja atvinnuleyfi samkvæmt ákvæði þessu. Skilyrði er að áður hafi verið
-endurnýjað dvalarleyfi skv. 6. mgr. [2]13. gr. laga um útlendinga, nr. 96/2002.
+  Ef hjúskap ^2) eða sambúð er slitið vegna þess að útlendingur eða barn hans
+     hefur sætt misnotkun eða ofbeldi í sambandinu er heimilt að framlengja
+ atvinnuleyfi samkvæmt ákvæði þessu. Skilyrði er að áður hafi verið endurnýjað
+      dvalarleyfi skv. 6. mgr. [2]13. gr. laga um útlendinga, nr. 96/2002.
     Dveljist nánasti aðstandandi hér á landi á grundvelli dvalarleyfis fyrir
  aðstandendur samkvæmt lögum um útlendinga er heimilt að sækja um atvinnuleyfi
              samkvæmt ákvæði þessu þegar hann er staddur á landinu.
@@ -247,8 +248,8 @@ endurnýjað dvalarleyfi skv. 6. mgr. [2]13. gr. laga um útlendinga, nr. 96/200
                  nánasta aðstandanda íslensks ríkisborgara].^1)
  Börn sem dveljast hér á landi á grundvelli dvalarleyfis fyrir aðstandendur eða
 búsetuleyfis samkvæmt lögum um útlendinga er tímabundið heimilt að starfa hér á
-                 landi án atvinnuleyfa að átján ára aldri.]^2)
-                   ^1)L. 154/2008, 2. gr. ^2)L. 78/2008, 7. gr.
+                 landi án atvinnuleyfa að átján ára aldri.]^3)
+        ^1)L. 154/2008, 2. gr. ^2)L. 65/2010, 30. gr. ^3)L. 78/2008, 7. gr.
                   [13. gr. Tímabundið atvinnuleyfi vegna náms.
 Heimilt er að veita tímabundið atvinnuleyfi vegna starfa útlendings sem stundar
 nám hér á landi. Skilyrði fyrir veitingu atvinnuleyfis samkvæmt ákvæði þessu eru
@@ -329,11 +330,10 @@ Heimilt er að veita nánasta aðstandanda útlendings með óbundið atvinnuley
                atvinnuleyfi þrátt fyrir lengri dvöl erlendis.]^1)
                               ^1)L. 78/2008, 10. gr.
      [18. gr. Tímabundin atvinnuleyfi á grundvelli samninga við önnur ríki.
-    Heimilt er að veita tímabundið atvinnuleyfi til maka, samvistarmaka eða
- sambúðarmaka erlends sendimanns og barna hans undir 21 árs aldri á grundvelli
-  samnings íslenskra stjórnvalda þar að lútandi við önnur ríki enda hafi maki,
-   samvistarmaki eða sambúðarmaki eða börn hans gilt dvalarleyfi á grundvelli
-                              þjóðréttarsamnings.
+   Heimilt er að veita tímabundið atvinnuleyfi til maka ^1) eða sambúðarmaka
+   erlends sendimanns og barna hans undir 21 árs aldri á grundvelli samnings
+   íslenskra stjórnvalda þar að lútandi við önnur ríki enda hafi maki ^1) eða
+  sambúðarmaki eða börn hans gilt dvalarleyfi á grundvelli þjóðréttarsamnings.
 Heimilt er að veita útlendingum á aldrinum 18 til 26 ára tímabundin atvinnuleyfi
 hér á landi að hámarki til eins árs á grundvelli samninga íslenskra stjórnvalda
 við önnur ríki um störf ríkisborgara þeirra hér á landi í þeim tilgangi að kynna
@@ -342,8 +342,8 @@ sér landið og menningu þess. Tímabundið atvinnuleyfi á grundvelli slíks s
 útlendingnum hafi ekki áður verið veitt atvinnuleyfi á grundvelli slíks samnings
            hér á landi. Óheimilt er að framlengja slík atvinnuleyfi.
    Félagsmálaráðherra er heimilt að setja nánari skilyrði fyrir atvinnuleyfum
-                     samkvæmt ákvæði þessu í reglugerð.]^1)
-                              ^1)L. 78/2008, 10. gr.
+                     samkvæmt ákvæði þessu í reglugerð.]^2)
+                   ^1)L. 65/2010, 31. gr. ^2)L. 78/2008, 10. gr.
                    [19. gr. Meðferð umsóknar um atvinnuleyfi.
   Atvinnurekandi sem óskar eftir að ráða útlending tímabundið til starfa skal
 sækja um tímabundið atvinnuleyfi til Vinnumálastofnunar fyrir hönd útlendingsins
@@ -429,12 +429,13 @@ stofnsamnings Fríverslunarsamtaka Evrópu og samnings milli ríkisstjórnar Ís
      takmörkunum sem þar greinir og nánar skal kveðið á um í reglugerð.]^2)
     [b. ]^3) Útlendingar sem hafa verið íslenskir ríkisborgarar frá fæðingu en
                      hafa misst íslenskan ríkisborgararétt.
-    [c. ]^3) [Erlendir makar eða samvistarmakar íslenskra ríkisborgara og börn
-      þeirra að átján ára aldri sem eru í forsjá og á framfæri þeirra.]^2)
+    [c. ]^3) [Erlendir makar ^4) íslenskra ríkisborgara og börn þeirra að átján
+              ára aldri sem eru í forsjá og á framfæri þeirra.]^2)
           [d. ]^3) Útlendingar í einkaþjónustu sendimanna erlendra ríkja.
    [e. Útlendingar sem hafa fengið dvalarleyfi sem flóttamenn samkvæmt lögum um
                                 útlendinga.]^2)
-        ^1)L. 78/2008, 10. gr. ^2)L. 78/2008, 11. gr. ^3)L. 84/2003, 2. gr.
+     ^1)L. 78/2008, 10. gr. ^2)L. 78/2008, 11. gr. ^3)L. 84/2003, 2. gr. ^4)L.
+                                65/2010, 32. gr.
 [23. gr.]^1) Eftirtaldir útlendingar eru undanþegnir kröfu um atvinnuleyfi vegna
                 vinnu í allt að fjórar vikur á ári hér á landi:
    a. Vísindamenn og fyrirlesarar að því leyti sem varðar kennslu eða hliðstæða

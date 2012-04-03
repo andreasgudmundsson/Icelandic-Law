@@ -29,7 +29,7 @@
   * Lög um veiðieftirlitsgjald, [20]nr. 33 5. maí 2000
   * Lög um úrvinnslugjald, [21]nr. 162 20. desember 2002
   * Lög um erfðafjárskatt, [22]nr. 14 26. mars 2004
-  * Lög um olíugjald og kílómetragjald o.fl., [23]nr. 87 9. júní 2004
+  * Lög um olíugjald og kílómetragjald, [23]nr. 87 9. júní 2004
   * Lög um skattskyldu orkufyrirtækja, [24]nr. 50 18. maí 2005
   * Tollalög, [25]nr. 88 18. maí 2005
   * Lög um skattlagningu kaupskipaútgerðar, [26]nr. 86 30. mars 2007
@@ -71,19 +71,21 @@
   * Lög um endurgreiðslu oftekinna skatta og gjalda, [41]nr. 29 6. mars 1995
   * Lög um uppgjör á vangoldnum söluskatti, launaskatti, tekjuskatti og
     eignarskatti, [42]nr. 27 5. maí 1997
+  * Lög um greiðsluuppgjör á opinberum gjöldum lögaðila og einstaklinga í
+    atvinnurekstri, [43]nr. 24 30. mars 2010
 
   13.f. Skyldusparnaður
 
   * Lög um ráðstafanir í efnahagsmálum og fjármálum til þess að stuðla að
     jafnvægi í þjóðarbúskapnum og treysta undirstöðu atvinnu og lífskjara,
-    [43]nr. 11 28. apríl 1975
+    [44]nr. 11 28. apríl 1975
   * Lög um fjáröflun til landhelgisgæslu og fiskverndar, ríkisfjármál og
-    fjármögnun orkuframkvæmda sveitarfélaga, [44]nr. 20 5. maí 1976
-  * Lög um skyldusparnað og ráðstafanir í ríkisfjármálum, [45]nr. 77 31.
+    fjármögnun orkuframkvæmda sveitarfélaga, [45]nr. 20 5. maí 1976
+  * Lög um skyldusparnað og ráðstafanir í ríkisfjármálum, [46]nr. 77 31.
     desember 1977
-  * Lög um ráðstafanir í efnahagsmálum, [46]nr. 3 17. febrúar 1978
+  * Lög um ráðstafanir í efnahagsmálum, [47]nr. 3 17. febrúar 1978
 
-    [47]Kaflar lagasafns
+    [48]Kaflar lagasafns
 
 References
 
@@ -130,8 +132,9 @@ References
   40. file://1980079.html
   41. file://1995029.html
   42. file://1997027.html
-  43. file://1975011.201.html
-  44. file://1976020.200.html
-  45. file://1977077.html
-  46. file://1978003.201.html
-  47. file://kaflar.html
+  43. file://2010024.html
+  44. file://1975011.201.html
+  45. file://1976020.200.html
+  46. file://1977077.html
+  47. file://1978003.201.html
+  48. file://kaflar.html

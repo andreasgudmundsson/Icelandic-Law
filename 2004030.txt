@@ -10,8 +10,9 @@
                  Ferill málsins á Alþingi.   Frumvarp til laga.
 
 Tóku gildi 1. janúar 2006. Breytt með l. 118/2005 (tóku gildi 1. jan. 2006), l.
-156/2007 (tóku gildi 29. des. 2007) og l. 98/2009 (tóku gildi 1. okt. 2009 nema
-                  69. og 70. gr. sem tóku gildi 1. jan. 2010).
+ 156/2007 (tóku gildi 29. des. 2007), l. 98/2009 (tóku gildi 1. okt. 2009 nema
+ 69. og 70. gr. sem tóku gildi 1. jan. 2010) og l. 65/2010 (tóku gildi 27. júní
+                                     2010).
 
                            I. hluti. Skaðatryggingar.
                               I. kafli. Inngangur.
@@ -1184,12 +1185,11 @@ XV. kafli. Ráðstafanir tengdar vátryggingu. Rétturinn til greiðslu frá fé
 Nú hefur vátryggingartaki ekki gert ráðstafanir í samræmi við ákvæði þessa kafla
                          og gilda þá reglur 2.6. mgr.
   [Vátryggingarfjárhæð, sem fellur til við andlát vátryggingartaka, rennur til
-maka hans, hvort sem viðkomandi var í hjúskap eða staðfestri samvist.]^1) Þetta
- gildir þó ekki hafi fyrir andlát hans verið veitt leyfi til skilnaðar að borði
-og sæng eða lögskilnaðar, eða kveðinn upp dómur um það eða hjúskapurinn ógiltur,
-        þótt slík úrlausn sé ekki endanleg eða hafi öðlast réttaráhrif.
-   Vátryggingarfjárhæð, eða hluti hennar, sem fellur til maka, telst ekki til
-       þeirra eigna sem skipta á að jöfnu eftir 93. gr., sbr. [7]103. gr.
+maka hans ^1)]^2) Þetta gildir þó ekki hafi fyrir andlát hans verið veitt leyfi
+ til skilnaðar að borði og sæng eða lögskilnaðar, eða kveðinn upp dómur um það
+  eða hjúskapurinn ógiltur, þótt slík úrlausn sé ekki endanleg eða hafi öðlast
+ réttaráhrif. Vátryggingarfjárhæð, eða hluti hennar, sem fellur til maka, telst
+  ekki til þeirra eigna sem skipta á að jöfnu eftir 93. gr., sbr. [7]103. gr.
  hjúskaparlaga, nr. 31/1993, ef eftirlifandi maki yfirtekur ekki búið óskipt í
                 samræmi við II. kafla [8]erfðalaga, nr. 8/1962.
 Vátryggingarfjárhæð, eða hluti hennar, sem fellur ekki til maka samkvæmt ákvæði
@@ -1205,7 +1205,7 @@ kemur til greiðslu þegar sá fyrsti þeirra deyr fellur vátryggingarfjárhæ�
         skiptist fjárhæðin jafnt á milli þeirra sé ekki um annað samið.
    Vátryggingarfjárhæð, sem kemur til greiðslu af öðru tilefni en við andlát
                       vátryggingartakans, fellur til hans.
-                              ^1)L. 118/2005, 5. gr.
+                   ^1)L. 65/2010, 26. gr. ^2)L. 118/2005, 5. gr.
                          101. gr. Tilnefning rétthafa.
 Vátryggingartaki getur tilnefnt einn eða fleiri rétthafa að vátryggingarfjárhæð
  ásamt ágóðahlutdeild, sem kann að verða, eða hluta af vátryggingarfjárhæðinni,
@@ -1749,7 +1749,7 @@ References
    3. file://1997075.html#g33
    4. file://2001038.html
    5. file://1905014.html
-   6. file://1994060.html#g23
+   6. file://1994060.html
    7. file://1993031.html#g103
    8. file://1962008.html
    9. file://1989090.html#g47

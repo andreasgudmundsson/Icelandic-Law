@@ -13,19 +13,21 @@
      * Lög um manntal 31. janúar 1981, [5]nr. 76 19. desember 1980
      * Lög um lögheimili, [6]nr. 21 5. maí 1990
      * Lög um fyrirtækjaskrá, [7]nr. 17 20. mars 2003
+     * Lög um sameiningu Þjóðskrár og Fasteignaskrár Íslands, [8]nr. 77 25.
+       júní 2010
 
   10.c. Hagskýrslur o.fl.
 
-     * Lög um verslunarskýrslur, [8]nr. 12 19. júní 1922
+     * Lög um verslunarskýrslur, [9]nr. 12 19. júní 1922
 
   10.d. Tímatal
 
-     * Alþingissamþykkt um almanaksbreytinguna, [9]1. júlí 1700
-     * Tilskipun um breytingu almanaksins á Íslandi og í Færeyjum, [10]10.
+     * Alþingissamþykkt um almanaksbreytinguna, [10]1. júlí 1700
+     * Tilskipun um breytingu almanaksins á Íslandi og í Færeyjum, [11]10.
        apríl 1700
-     * Lög um tímareikning á Íslandi, [11]nr. 6 5. apríl 1968
+     * Lög um tímareikning á Íslandi, [12]nr. 6 5. apríl 1968
 
-    [12]Kaflar lagasafns
+    [13]Kaflar lagasafns
 
 References
 
@@ -37,8 +39,9 @@ References
    5. file://1980076.html
    6. file://1990021.html
    7. file://2003017.html
-   8. file://1922012.html
-   9. file://1700017.html
-  10. file://1700104.html
-  11. file://1968006.html
-  12. file://kaflar.html
+   8. file://2010077.html
+   9. file://1922012.html
+  10. file://1700017.html
+  11. file://1700104.html
+  12. file://1968006.html
+  13. file://kaflar.html

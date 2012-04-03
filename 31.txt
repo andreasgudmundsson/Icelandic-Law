@@ -46,8 +46,10 @@
      * Lög um tímabundna breytingu á heimildarlögum um stóriðju vegna
        skattgreiðslna á árunum 2010, 2011 og 2012 o.fl., [22]nr. 151 29.
        desember 2009
+     * Lög um heimild til samninga um gagnaver í Reykjanesbæ, [23]nr. 57 14.
+       júní 2010
 
-    [23]Kaflar lagasafns
+    [24]Kaflar lagasafns
 
 References
 
@@ -74,4 +76,5 @@ References
   20. file://2008152.html
   21. file://2009051.html
   22. file://2009151.html
-  23. file://kaflar.html
+  23. file://2010057.html
+  24. file://kaflar.html
