@@ -7,9 +7,9 @@
 
    --------------------------------------------------------------------------
 
-                           Tóku gildi 1. janúar 2000.
- Breytt með [2]l. 29/2001 (tóku gildi 16. maí 2001), [3]l. 72/2001 (tóku gildi
-          13. júní 2001) og [4]l. 145/2001 (tóku gildi 31. des. 2001).
+ Tóku gildi 1. janúar 2000. Breytt með [2]l. 29/2001 (tóku gildi 16. maí 2001),
+[3]l. 72/2001 (tóku gildi 13. júní 2001) og [4]l. 145/2001 (tóku gildi 31. des.
+                                     2001).
 
                          I. kafli. Skipulag fjarskipta.
                          1. gr. Markmið og gildissvið.
@@ -127,8 +127,8 @@ samræmi við almenna heimild skal tilkynna það Póst- og fjarskiptastofnun a.
 Póst- og fjarskiptastofnun skal halda skrá yfir öll fjarskiptafyrirtæki sem hafa
              tilkynnt að þau muni starfa samkvæmt almennri heimild.
                       6. gr. Skilyrði almennrar heimildar.
-Póst- og fjarskiptastofnun skal setja skilyrði sem gilda um almennar heimildir.
-       Skilyrði skulu vera hlutlæg, skýr og þannig að jafnræðis sé gætt.
+      Póst- og fjarskiptastofnun skal setja skilyrði sem gilda um almennar
+heimildir.^1) Skilyrði skulu vera hlutlæg, skýr og þannig að jafnræðis sé gætt.
               Skilyrði geta verið eitt eða fleiri af eftirtöldum:
                       a. að fylgt sé viðeigandi grunnkröfum,
    b. að veittar séu upplýsingar sem sanngjarnt er að krefjast til þess að ganga
@@ -156,6 +156,7 @@ Póst- og fjarskiptastofnun skal setja skilyrði sem gilda um almennar heimildir
      f. um samtengingu fjarskiptaneta og gagnkvæma starfrækslu þjónustu milli
                                      neta,
           g. um almannaheill, allsherjarreglu og rannsókn opinberra mála.
+                                ^1)[6]Rgl. 86/2002.
                              7. gr. Rekstrarleyfi.
   Póst- og fjarskiptastofnun er heimilt að krefjast þess að einstaklingar eða
             lögaðilar sæki um rekstrarleyfi í eftirfarandi tilvikum:
@@ -200,7 +201,7 @@ strjálbýlis, þ.m.t. skilyrði um aðgang að almenningum, afréttum og eignar
    ekki efnahag leyfishafans eða geri aðrar óvenjulegar ráðstafanir sem dragi
         verulega úr möguleikum til að uppfylla skyldur samkvæmt lögum og
                                 leyfisbréfi.]^1)
-                             ^1)[6]L. 72/2001, 1. gr.
+                             ^1)[7]L. 72/2001, 1. gr.
                 9. gr. Málsmeðferð við veitingu rekstrarleyfis.
 Póst- og fjarskiptastofnun getur krafist af umsækjendum um rekstrarleyfi að þeir
 leggi fram fullnægjandi upplýsingar um eignaraðild, fjárhagsstöðu og fyrirhugaða
@@ -260,7 +261,7 @@ Póst- og fjarskiptastofnun getur ákveðið hámarksverð og lágmarksgæði al
     1. mgr., svo sem vegna fjarlægðar, kostnaðar eða annars óhagræðis, skal
   ágreiningur um synjun borinn undir Póst- og fjarskiptastofnun til úrskurðar.
                Samgönguráðherra setur reglugerð^1) um alþjónustu.
-                       ^1)[7]Rg. 641/2000, sbr. [8]813/2000.
+                       ^1)[8]Rg. 641/2000, sbr. [9]813/2000.
               14. gr. Umsóknir um fjárframlög og greiðslur þeirra.
 Telji rekstrarleyfishafi að alþjónusta sem honum er gert skylt að veita samkvæmt
 rekstrarleyfi, sbr. 13. gr., sé rekin með tapi eða sé óarðbær getur hann krafist
@@ -307,13 +308,13 @@ Nú er hluti af starfsemi rekstrarleyfishafa háður fjárframlögum samkvæmt �
  Jöfnunargjald má draga frá tekjum greiðanda á því rekstrarári þegar stofn þess
                                    myndaðist.
   Um álagningu og innheimtu, [þ.m.t. fyrirframgreiðslu],^1) jöfnunargjalds fer
-  samkvæmt ákvæðum [9]VIII.[10]XIV. kafla laga nr. 75/1981, um tekjuskatt og
+  samkvæmt ákvæðum [10]VIII.[11]XIV. kafla laga nr. 75/1981, um tekjuskatt og
 eignarskatt, með síðari breytingum, eftir því sem við á og skulu innheimtuaðilar
     standa Póst- og fjarskiptastofnun skil á innheimtum gjöldum mánaðarlega.
    Samgönguráðherra setur með reglugerð^2) nánari fyrirmæli um fjárframlög og
 jöfnunargjöld í fjarskiptaþjónustu, þar á meðal um útreikning á kostnaði við að
             veita fjarskiptaþjónustu, og um útreikning rekstrartaps.
-        ^1)[11]L. 145/2001, 1. gr. ^2)[12]Rg. 641/2000, sbr. [13]813/2000.
+        ^1)[12]L. 145/2001, 1. gr. ^2)[13]Rg. 641/2000, sbr. [14]813/2000.
     16. gr. Samningar og greiðslur fyrir sértæka fjarskiptaþjónustu, aðra en
                                   alþjónustu.
 Nú óskar samgönguráðherra eftir því að lagt sé í framkvæmdir eða rekstur sem er
@@ -379,12 +380,12 @@ aðstöðu. Póst- og fjarskiptastofnun getur krafist breytinga á viðmiðunart
     viðmiðana, nauðsynjar þess að viðhalda heildstæði neta eða af tæknilegum
  ástæðum. Náist ekki samkomulag um aðgang getur aðili vísað málinu til Póst- og
           fjarskiptastofnunar. Um málsmeðferð fer skv. 27. og 28. gr.
-Samgönguráðherra skal setja reglugerð skv. 1. mgr. sem felur í sér að reglugerð
-  Evrópuþingsins og ráðsins (EB) nr. 2887/2000 frá 18. desember 2000, um opinn
-   aðgang að heimtaugum, samkvæmt ákvörðun sameiginlegu EES-nefndarinnar nr.
+    Samgönguráðherra skal setja reglugerð^1) skv. 1. mgr. sem felur í sér að
+reglugerð Evrópuþingsins og ráðsins (EB) nr. 2887/2000 frá 18. desember 2000, um
+opinn aðgang að heimtaugum, samkvæmt ákvörðun sameiginlegu EES-nefndarinnar nr.
 47/2001 frá 30. mars 2001, um breytingu á XI. viðauka við EES-samninginn, verði
-                      að fullu innleidd í íslensk lög.]^1)
-                            ^1)[14]L. 145/2001, 2. gr.
+                      að fullu innleidd í íslensk lög.]^2)
+                  ^1)[15]Rg. 199/2002. ^2)[16]L. 145/2001, 2. gr.
                        21. gr. Innlendir reikisamningar.
 Þar sem ekki verður ráðist í uppsetningu og rekstur farsímastöðvar, vegna eðlis
   eða umfangs fjárfestingar, eða þar sem aðstæður til uppsetningar og rekstrar
@@ -490,7 +491,7 @@ sundurliðaða lýsingu, í samræmi við þörf markaðsaðila, á samtengingar
 tengdum skilmálum og skilyrðum, þar á meðal gjaldskrám. Í viðmiðunartilboði skal
   vera verð fyrir aðgang að allri þjónustu sem í boði er á neti fyrirtækisins.
  Stofnunin getur mælt fyrir um rökstuddar breytingar á viðmiðunartilboði. Póst-
-    og fjarskiptastofnun er heimilt að setja reglur um hvert skuli vera efni
+  og fjarskiptastofnun er heimilt að setja reglur^1) um hvert skuli vera efni
                    samtengingarsamninga og viðmiðunartilboðs.
        3. Gjöld fyrir samtengingu skulu vera nægjanlega sundurgreind svo að
  umsækjandi um samtengingu þurfi ekki að greiða fyrir annað en það sem tengist
@@ -498,6 +499,7 @@ tengdum skilmálum og skilyrðum, þar á meðal gjaldskrám. Í viðmiðunartil
 Póst- og fjarskiptastofnun skal tryggja að lýsing á kostnaðarbókhaldi sem sýnir
 helstu kostnaðarliði og reglur sem gilda um færslu kostnaðar við samtengingu séu
                                  aðgengilegar.
+                               ^1)[17]Rgl. 94/2002.
                27. gr. Sáttameðferð Póst- og fjarskiptastofnunar.
 Náist ekki samkomulag með aðilum um samtengingu skv. 23. gr. innan mánaðar getur
   hvor aðili fyrir sig leitað til Póst- og fjarskiptastofnunar sem skal leita
@@ -549,7 +551,7 @@ hvenær sem er og án fyrirvara heimilaður aðgangur að bókhaldi rekstrarleyf
                       samtengingu neta og númeraflutning.
     Samgönguráðherra er heimilt að setja reglugerð^1) um nánara fyrirkomulag
  bókhaldslegrar eða fjárhagslegrar aðgreiningar í rekstri fjarskiptafyrirtækja.
-                               ^1)[15]Rg. 960/2001.
+                               ^1)[18]Rg. 960/2001.
                         30. gr. Reikningar notenda o.fl.
         Áskrifendur fjarskiptaþjónustu eiga rétt á að fá reikninga fyrir
 fjarskiptanotkun sína sundurliðaða eftir tegund þjónustu þeim að kostnaðarlausu.
@@ -600,7 +602,7 @@ vistföng. Samgönguráðherra er heimilt með reglugerð að setja reglur um hl
  óheimilt að nota það í öðrum tilgangi. Símtöl í 112 skulu vera endurgjaldslaus
  og eiga rekstrarleyfishafar ekki kröfu á yfirvöld um greiðslu kostnaðar vegna
                                 slíkra símtala.
-                               ^1)[16]Rgl. 832/2000.
+                               ^1)[19]Rgl. 832/2000.
                      33. gr. Númeraflutningur og forskeyti.
     Enda þótt fjarskiptafyrirtæki hafi heimilað notendum afnot af númerum í
 númeraröðum sínum er notendum frjálst að halda símanúmeri sínu þegar þeir flytja
@@ -620,7 +622,7 @@ umskráningu. Notendum skal vera unnt að halda símanúmeri sínu þó að þei
  fram völdu leið án þess að nota þurfi forskeytið hverju sinni. Símnotandi skal
   þó ávallt geta breytt þessu í einstökum símtölum. Póst- og fjarskiptastofnun
               skal ákveða hvenær forval skal að fullu innleitt.^2)
-          ^1)[17]Rgl. 401/2001, sbr. [18]840/2001. ^2)[19]Rgl. 158/2000.
+          ^1)[20]Rgl. 401/2001, sbr. [21]840/2001. ^2)[22]Rgl. 280/2002.
                           34. gr. Skráning símanúmera.
     Áskrifendur í fjarskiptaþjónustu eiga rétt á að vera skráðir í opinberum
  númeraskrám og fá að skoða upplýsingar sem skráðar eru um þá og ef nauðsynlegt
@@ -665,7 +667,7 @@ frá Alþjóðafjarskiptasambandinu. Tæknilegir eiginleikar í nettengipunktum 
  fjarskiptastofnunar. Stofnuninni er þó heimilt að gefa út almennt leyfi fyrir
  þráðlaus fjarskiptanet í ákveðnum tíðnisviðum þegar geislað afl senda er undir
                           hámarki sem stofnunin setur.
-                               ^1)[20]Rg. 532/2001.
+                               ^1)[23]Rg. 532/2001.
                             37. gr. Notendabúnaður.
     Póst- og fjarskiptastofnun hefur eftirlit með sölu notendabúnaðar fyrir
 fjarskipti og tækja fyrir þráðlaus fjarskipti. Eftirfarandi grunnkröfur eiga við
@@ -786,7 +788,7 @@ Sá sem fyrir tilviljun, mistök eða án sérstakrar heimildar tekur við síms
                    skilyrðum sem Persónuvernd kann að setja.
 Úrvinnsla hljóðritana samkvæmt grein þessari skal vera í samræmi við lagaákvæði
                um persónuvernd og meðferð persónuupplýsinga.]^1)
-                             ^1)[21]L. 29/2001, 1. gr.
+                             ^1)[24]L. 29/2001, 1. gr.
 
                XII. kafli. Sérstök ákvæði um þráðlaus fjarskipti.
                            45. gr. Notkun tíðnirófs.
@@ -836,7 +838,7 @@ reglugerðir. Póst- og fjarskiptastofnun getur bannað notkun fjarskiptabúnað
                                     reglum.
   Þrátt fyrir ákvæði 2. mgr. getur Póst- og fjarskiptastofnun heimilað notkun
           búnaðar sem viðurkenndur er til notkunar á alþjóðavettvangi.
-                                ^1)[22]Rg. 53/2000.
+                                ^1)[25]Rg. 53/2000.
 
                XIII. kafli. Uppsetning og vernd fjarskiptavirkja.
        48. gr. Heimild til að leggja fjarskiptaleiðslur, eignarnám o.fl.
@@ -989,7 +991,7 @@ skal vera hið sama alls staðar á landinu og skal innheimta sérstaks álags v
                        59. gr. Almenn reglugerðarheimild.
       Samgönguráðherra setur í reglugerð^1) nánari fyrirmæli um framkvæmd
                                 fjarskiptamála.
-                      ^1)[23]Rg. 866/2000, [24]rg. 532/2001.
+             ^1)[26]Rg. 866/2000, [27]rg. 532/2001, [28]rg. 298/2002.
                               60. gr. Gildistaka.
                      Lög þessi öðlast gildi 1. janúar 2000.
 
@@ -1022,22 +1024,26 @@ References
    3. file:///altext/stjt/2001.072.html
    4. file:///altext/stjt/2001.145.html
    5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/734-2000
-   6. file:///altext/stjt/2001.072.html
-   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/641-2000
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/813-2000
-   9. file:///altext/stjtnr.html#1981075?k8
-  10. file://1981075.html
-  11. file:///altext/stjt/2001.145.html
-  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/641-2000
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/813-2000
-  14. file:///altext/stjt/2001.145.html
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/960-2001
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/832-2000
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/401-2001
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/840-2001
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/158-2000
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001
-  21. file:///altext/stjt/2001.029.html
-  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/053-2000
-  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000
-  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/086-2002
+   7. file:///altext/stjt/2001.072.html
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/641-2000
+   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/813-2000
+  10. file:///altext/stjtnr.html#1981075?k8
+  11. file://1981075.html
+  12. file:///altext/stjt/2001.145.html
+  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/641-2000
+  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/813-2000
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/199-2002
+  16. file:///altext/stjt/2001.145.html
+  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/094-2002
+  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/960-2001
+  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/832-2000
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/401-2001
+  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/840-2001
+  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/280-2002
+  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001
+  24. file:///altext/stjt/2001.029.html
+  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/053-2000
+  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/866-2000
+  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/532-2001
+  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/298-2002

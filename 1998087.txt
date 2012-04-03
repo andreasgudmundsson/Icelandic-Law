@@ -7,6 +7,10 @@
 
    --------------------------------------------------------------------------
 
+Tóku gildi 1. janúar 1999. Breytt með [2]l. 99/1999 (tóku gildi 30. des. 1999),
+ [3]l. 11/2000 (tóku gildi 28. apríl 2000) og [4]l. 37/2002 (tóku gildi 7. maí
+                                     2002).
+
                         I. kafli. Markmið og gildissvið.
                        1. gr. Markmið og skilgreiningar.
 Markmið laga þessara er að stuðla að því að fjármálastarfsemi sem lög þessi taka
@@ -20,22 +24,23 @@ Markmið laga þessara er að stuðla að því að fjármálastarfsemi sem lög
      Eftirlit samkvæmt þessum lögum tekur til starfsemi eftirtalinna aðila:
                          1. viðskiptabanka og sparisjóða,
              2. lánastofnana annarra en viðskiptabanka og sparisjóða,
-                               3. vátryggingafélaga,
-              4. félaga og einstaklinga sem stunda vátryggingamiðlun,
-                        5. fyrirtækja í verðbréfaþjónustu,
-                6. verðbréfasjóða og rekstrarfélaga verðbréfasjóða,
-                  7. [kauphalla og skipulegra tilboðsmarkaða],^1)
-                              8. verðbréfamiðstöðva,
-                                 9. lífeyrissjóða,
-    10. aðila, annarra en greinir í 1. tölul., sem heimild hafa lögum samkvæmt
-                         til þess að taka við innlánum.
+     [3. rafeyrisfyrirtækja, skv. 1. og 2. gr. laga um rafeyrisfyrirtæki],^1)
+                            [4.] ^1) vátryggingafélaga,
+           [5.] ^1) félaga og einstaklinga sem stunda vátryggingamiðlun,
+                     [6.] ^1) fyrirtækja í verðbréfaþjónustu,
+             [7.] ^1) verðbréfasjóða og rekstrarfélaga verðbréfasjóða,
+               [8.] ^1) [kauphalla og skipulegra tilboðsmarkaða],^2)
+                           [9.] ^1) verðbréfamiðstöðva,
+                             [10.] ^1) lífeyrissjóða,
+      [11.] ^1) aðila, annarra en greinir í 1. tölul., sem heimild hafa lögum
+                    samkvæmt til þess að taka við innlánum.
  Lögin taka einnig til eftirlits með annarri starfsemi en greinir í 1. mgr. sem
              Fjármálaeftirlitinu er falið samkvæmt sérstökum lögum.
 Um eftirlit með starfsemi innlendra aðila erlendis og erlendra aðila hér á landi
     fer samkvæmt ákvæðum sérlaga og alþjóðasamningum sem Ísland er aðili að.
   Þegar vafi leikur á um hvort starfsemi fellur undir þessa grein sker stjórn
                             Fjármálaeftirlitsins úr.
-                             ^1)[2]L. 11/2000, 1. gr.
+                ^1)[5]L. 37/2002, 19. gr. ^2)[6]L. 11/2000, 1. gr.
 
                             II. kafli. Stjórnsýsla.
                                 3. gr. Stofnun.
@@ -77,7 +82,7 @@ meðferð máls er varðar aðila sem eru þeim tengdir persónulega eða fjárh
    við eftirlitsskylda aðila. Þar skal meðal annars kveðið á um takmarkanir á
  heimildum til að vera í fjárhagslegum skuldbindingum gagnvart eftirlitsskyldum
                           aðilum eða eiga hlut í þeim.
-                               ^1)[3]Rgl. 704/2001.
+                               ^1)[7]Rgl. 704/2001.
                   7. gr. Samráðsnefnd eftirlitsskyldra aðila.
 Sérstök samráðsnefnd sem skipuð er fulltrúum eftirlitsskyldra aðila skal starfa
                            í tengslum við stofnunina.
@@ -86,7 +91,7 @@ Sérstök samráðsnefnd sem skipuð er fulltrúum eftirlitsskyldra aðila skal 
                              Fjármálaeftirlitsins.
  Nánar skal kveðið á um samráðsnefndina í reglugerð,^1) meðal annars um skipan
                                     hennar.
-                                ^1)[4]Rg. 562/2001.
+                                ^1)[8]Rg. 562/2001.
 
                              III. kafli. Starfsemi.
                                 8. gr. Eftirlit.
@@ -101,7 +106,7 @@ samræmi við lög, reglugerðir, reglur eða samþykktir sem um starfsemina gil
     Fjármálaeftirlitsins, athuganir þess og upplýsingaöflun samkvæmt ákvæðum
 sérlaga. Um starfsheimildir Fjármálaeftirlitsins fer að öðru leyti eftir ákvæðum
                                   sérlaga.]^1)
-                             ^1)[5]L. 11/2000, 2. gr.
+                             ^1)[9]L. 11/2000, 2. gr.
                           9. gr. Athugun og aðgangur.
 [Fjármálaeftirlitið skal athuga rekstur eftirlitsskyldra aðila svo oft sem þurfa
 þykir. Þeim er skylt að veita Fjármálaeftirlitinu aðgang að öllu bókhaldi sínu,
@@ -127,7 +132,7 @@ reglum sem um viðkomandi starfsemi gilda eða ástæða er til að ætla að at
  eða aðgerðir Fjármálaeftirlitsins nái að öðrum kosti ekki tilætluðum árangri.
      Skal ákvæðum laga um meðferð opinberra mála beitt við framkvæmd slíkra
                                   aðgerða.]^1)
-                             ^1)[6]L. 11/2000, 3. gr.
+                             ^1)[10]L. 11/2000, 3. gr.
                         10. gr. Athugasemdir og úrbætur.
   [Komi í ljós að eftirlitsskyldur aðili fylgir ekki lögum og öðrum reglum sem
   gilda um starfsemi hans skal Fjármálaeftirlitið krefjast þess að úr sé bætt
@@ -141,7 +146,7 @@ til fundar í stjórn eða framkvæmdastjórn hins eftirlitsskylda aðila til þ
       fjalla um athugasemdir þess og kröfur og leiðir til úrbóta. Fulltrúa
    Fjármálaeftirlitsins er heimilt að stýra fundi og hefur hann málfrelsi og
                                 tillögurétt.]^1)
-                             ^1)[7]L. 11/2000, 4. gr.
+                             ^1)[11]L. 11/2000, 4. gr.
                          [11. gr. Févíti og dagsektir.
 Fjármálaeftirlitið getur lagt dagsektir á eftirlitsskyldan aðila veiti hann ekki
   umbeðnar upplýsingar eða sinni ekki kröfum um úrbætur innan hæfilegs frests.
@@ -170,7 +175,7 @@ Fjármálaeftirlitið getur lagt dagsektir á eftirlitsskyldan aðila veiti hann
                            kostnaði við innheimtuna.
    Heimilt er að kveða nánar á um ákvörðun og innheimtu févítis og dagsekta í
                                reglugerð.^1)]^2)
-                   ^1)[8]Rg. 560/2001. ^2)[9]L. 11/2000, 5. gr.
+                  ^1)[12]Rg. 560/2001. ^2)[13]L. 11/2000, 5. gr.
                           [12. gr. Tilkynningarskylda.
         Ef brot eru alvarleg og hinn eftirlitsskyldi aðili hefur að mati
      Fjármálaeftirlitsins með refsiverðum hætti gerst brotlegur við lög ber
@@ -180,7 +185,7 @@ Kröfur, athugasemdir og fyrirhugaðar aðgerðir Fjármálaeftirlitsins skv. 4.
   viðskiptaráðherra, þeim ráðherra sem annars fer með viðkomandi málaflokk og
 stjórn hins eftirlitsskylda aðila eða viðkomandi aðila ef stjórn er ekki til að
                                   dreifa.]^1)
-                             ^1)[10]L. 11/2000, 5. gr.
+                             ^1)[14]L. 11/2000, 5. gr.
 
     IV. kafli. Þagnarskylda. Samskipti við eftirlitsstjórnvöld og Seðlabanka
                                     Íslands.
@@ -208,7 +213,7 @@ Opinber umfjöllun af hálfu þess aðila sem þagnarskyldunni er ætlað að ve
  trúnaðarupplýsingar veitir starfsmönnum Fjármálaeftirlitsins eða sérfræðingum
    sem starfa eða starfað hafa á vegum þess ekki heimild til að láta af hendi
                             trúnaðarupplýsingar.]^2)
-                ^1)[11]L. 11/2000, 5. gr. ^2)[12]L. 11/2000, 6. gr.
+                ^1)[15]L. 11/2000, 5. gr. ^2)[16]L. 11/2000, 6. gr.
                 [14. gr.]^1) Samskipti við eftirlitsstjórnvöld.
     [Fjármálaeftirlitið má veita eftirlitsstjórnvöldum annarra aðildarríkja
 EES-samningsins upplýsingar sem háðar eru þagnarskyldu skv. 13. gr. sé það liður
@@ -230,7 +235,7 @@ hér á landi eða erlendis sem fjalla um gjaldþrot og slit eftirlitsskyldra a�
 Séu upplýsingarnar upprunnar í öðru aðildarríki EES-samningsins er ekki heimilt
 að afhenda þær án skýlauss samþykkis frá lögbærum yfirvöldum sem hafa afhent þær
 og þá einungis til þeirra nota sem sömu yfirvöld hafa gefið samþykki fyrir.]^2)
-                ^1)[13]L. 11/2000, 5. gr. ^2)[14]L. 11/2000, 7. gr.
+                ^1)[17]L. 11/2000, 5. gr. ^2)[18]L. 11/2000, 7. gr.
                  [15. gr.]^1) Samskipti við Seðlabanka Íslands.
  Forstjóri Fjármálaeftirlitsins skal eiga reglulega samráðsfundi með fulltrúum
 Seðlabankans. Þar skal hann veita upplýsingar um starfsemi Fjármálaeftirlitsins
@@ -244,19 +249,19 @@ Fjármálaeftirlitið skal veita Seðlabankanum allar upplýsingar sem stofnunin
              samkvæmt þessum lögum og lögum um Seðlabanka Íslands.
   Stjórn Fjármálaeftirlitsins og bankastjórn Seðlabankans skulu gera sérstakan
    samstarfssamning þar sem kveðið er nánar á um framkvæmd þessarar greinar.
-                             ^1)[15]L. 11/2000, 5. gr.
+                             ^1)[19]L. 11/2000, 5. gr.
 
                              V. kafli. Ýmis ákvæði.
                            [16. gr.]^1) Skýrslugjöf.
 [Fjármálaeftirlitið skal gefa viðskiptaráðherra skýrslu um starfsemi sína fyrir
 15. september ár hvert. Í framhaldi af því gerir viðskiptaráðherra Alþingi grein
                    fyrir starfsemi Fjármálaeftirlitsins.]^2)
-                ^1)[16]L. 11/2000, 5. gr. ^2)[17]L. 11/2000, 8. gr.
+                ^1)[20]L. 11/2000, 5. gr. ^2)[21]L. 11/2000, 8. gr.
                    [17. gr.]^1) Greiðsla eftirlitskostnaðar.
       [Eftirlitsskyldir aðilar skulu standa straum af kostnaði við rekstur
    Fjármálaeftirlitsins. Um greiðslu kostnaðar fer samkvæmt lögum um greiðslu
            kostnaðar við opinbert eftirlit með fjármálastarfsemi.]^2)
-                ^1)[18]L. 11/2000, 5. gr. ^2)[19]L. 99/1999, 9. gr.
+                ^1)[22]L. 11/2000, 5. gr. ^2)[23]L. 99/1999, 9. gr.
                             [18. gr.]^1) Kærunefnd.
      [Ákvörðunum Fjármálaeftirlitsins má skjóta til sérstakrar kærunefndar.
  Kærunefndin er skipuð af viðskiptaráðherra til þriggja ára í senn. Nefndarmenn
@@ -271,15 +276,15 @@ Kostnaður við störf kærunefndar greiðist úr ríkissjóði. Þóknun til ne
     Viðskiptaráðherra getur með reglugerð^2) sett nánari ákvæði um störf og
    starfshætti nefndarinnar. Í slíkri reglugerð má jafnframt kveða nánar á um
  valdsvið kærunefndar, hvaða málefnum megi skjóta til hennar og kærufresti.]^3)
-     ^1)[20]L. 11/2000, 5. gr. ^2)[21]Rg. 507/2000. ^3)[22]L. 11/2000, 9. gr.
+     ^1)[24]L. 11/2000, 5. gr. ^2)[25]Rg. 507/2000. ^3)[26]L. 11/2000, 9. gr.
                             [19. gr.]^1) Reglugerð.
  Ráðherra setur nánari ákvæði um starfsemi Fjármálaeftirlitsins í reglugerð.^2)
            Þar skal m.a. kveðið á um ákvörðun og innheimtu dagsekta.
-                  ^1)[23]L. 11/2000, 5. gr. ^2)[24]Rg. 560/2001.
+                  ^1)[27]L. 11/2000, 5. gr. ^2)[28]Rg. 560/2001.
                              [20. gr.]^1) Viðurlög.
  Fyrir brot á lögum þessum skal refsað með sektum eða fangelsi allt að einu ári
            liggi ekki þyngri refsing við broti samkvæmt öðrum lögum.
-                             ^1)[25]L. 11/2000, 5. gr.
+                             ^1)[29]L. 11/2000, 5. gr.
                          [21. gr.]^1) Gildistaka o.fl.
       Lög þessi öðlast gildi 1. janúar 1999. Á sama tíma leggst starfsemi
       Vátryggingaeftirlitsins og bankaeftirlits Seðlabanka Íslands niður.
@@ -290,34 +295,38 @@ Starfsmenn Vátryggingaeftirlitsins og bankaeftirlits Seðlabanka Íslands sem e
                                      2002.
      Fjármálaeftirlitið fer með þau verkefni sem Vátryggingaeftirlitinu og
        bankaeftirliti Seðlabanka Íslands eru falin samkvæmt öðrum lögum.
-                             ^1)[26]L. 11/2000, 5. gr.
+                             ^1)[30]L. 11/2000, 5. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998087
-   2. file:///altext/stjt/2000.011.html
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/704-2001
-   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001
-   5. file:///altext/stjt/2000.011.html
+   2. file://1999099.html
+   3. file:///altext/stjt/2000.011.html
+   4. file://2002037.html
+   5. file://2002037.html#g19
    6. file:///altext/stjt/2000.011.html
-   7. file:///altext/stjt/2000.011.html
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/560-2001
+   7. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/704-2001
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001
    9. file:///altext/stjt/2000.011.html
   10. file:///altext/stjt/2000.011.html
   11. file:///altext/stjt/2000.011.html
-  12. file:///altext/stjt/2000.011.html
+  12. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/560-2001
   13. file:///altext/stjt/2000.011.html
   14. file:///altext/stjt/2000.011.html
   15. file:///altext/stjt/2000.011.html
   16. file:///altext/stjt/2000.011.html
   17. file:///altext/stjt/2000.011.html
   18. file:///altext/stjt/2000.011.html
-  19. file://1999099.html#g9
+  19. file:///altext/stjt/2000.011.html
   20. file:///altext/stjt/2000.011.html
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/507-2000
+  21. file:///altext/stjt/2000.011.html
   22. file:///altext/stjt/2000.011.html
-  23. file:///altext/stjt/2000.011.html
-  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/560-2001
-  25. file:///altext/stjt/2000.011.html
+  23. file://1999099.html#g9
+  24. file:///altext/stjt/2000.011.html
+  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/507-2000
   26. file:///altext/stjt/2000.011.html
+  27. file:///altext/stjt/2000.011.html
+  28. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/560-2001
+  29. file:///altext/stjt/2000.011.html
+  30. file:///altext/stjt/2000.011.html

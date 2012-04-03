@@ -55,7 +55,7 @@ Við skráningu á eftirlýstum einstaklingum með beiðni um handtöku og frams
    6. gr. Heimilt er að skrá upplýsingar um einstaklinga í upplýsingakerfið í
                              eftirfarandi tilvikum:
       a. vegna beiðni um að eftirlýstur maður verði handtekinn og framseldur,
-               b. þegar meina á útlendingi landgöngu vegna þess að:
+              b.^1) þegar meina á útlendingi landgöngu vegna þess að:
    1. hann hefur verið dæmdur hér á landi eða erlendis í fangelsi í a.m.k. eitt
    ár eða ætla má af öðrum ástæðum að hann muni fremja refsiverðan verknað á
                               Schengen-svæðinu eða
@@ -77,6 +77,8 @@ hefur verið ákærður og koma þarf fyrir dóm eða manns sem birta á dóm í
      d. málsatvik, þar með talið hvar og hvenær brot var framið og þáttur hins
                                eftirlýsta í því,
            e. eftir því sem mögulegt er, hverjar eru afleiðingar brots.
+     ^1)B-lið 1. mgr. hefur verið breytt með [2]59. gr. l. 96/2002 og tekur sú
+                 breyting gildi 1. jan. 2003, skv. sömu grein.
        7. gr. Heimilt er að skrá upplýsingar um einstaklinga og ökutæki í
    upplýsingakerfið til að fram fari eftirlit með leynd, leit, líkamsleit eða
                     líkamsrannsókn í eftirfarandi tilvikum:
@@ -103,14 +105,15 @@ hefur verið ákærður og koma þarf fyrir dóm eða manns sem birta á dóm í
 10. gr. Eftirtalin stjórnvöld skulu vera beinlínutengd við upplýsingakerfið til
                            að sinna þessum verkefnum:
                a. lögreglan við landamæraeftirlit og aðra löggæslu,
-   b. Útlendingaeftirlitið við afgreiðslu umsókna um vegabréfsáritun, landgöngu-
-  eða dvalarleyfi og til að sinna öðrum skyldum samkvæmt lögum um eftirlit með
-útlendingum að því marki sem nauðsynlegt er til að bregðast við upplýsingum sem
-                skráðar eru á grundvelli b-liðar 1. mgr. 6. gr.
+       b. Útlendingaeftirlitið^1) við afgreiðslu umsókna um vegabréfsáritun,
+   landgöngu- eða dvalarleyfi og til að sinna öðrum skyldum samkvæmt lögum um
+  eftirlit með útlendingum að því marki sem nauðsynlegt er til að bregðast við
+        upplýsingum sem skráðar eru á grundvelli b-liðar 1. mgr. 6. gr.
 Til að starfa við upplýsingakerfið verður viðkomandi starfsmaður að fá sérstaka
 heimild ríkislögreglustjóra, enda fullnægi hann settum hæfis- og öryggiskröfum.
  Viðkomandi starfsmaður skal einungis hafa þann aðgang að kerfinu sem honum er
                      nauðsynlegur til að gegna starfi sínu.
+        ^1)Frá 1. jan. 2003, Útlendingastofnun, sbr. [3]59. gr. l. 96/2002.
  11. gr. Eftirtalin stjórnvöld skulu eftir beiðni hafa aðgang að upplýsingum úr
    upplýsingakerfinu að því marki sem þeim er nauðsynlegt til að sinna þessum
                                    verkefnum:
@@ -176,20 +179,24 @@ gilda um persónuvernd og friðhelgi einkalífs. [Persónuvernd]^1) skal einnig 
  Nú gerir [Persónuvernd]^1) athugasemdir við starfrækslu upplýsingakerfisins og
 skal hún þá koma þeim og tillögum um úrbætur á framfæri við ríkislögreglustjóra
                              og dómsmálaráðuneytið.
-                             ^1)[2]L. 77/2000, 46. gr.
+                             ^1)[4]L. 77/2000, 46. gr.
  19. gr. Ráðherra setur nánari ákvæði í reglugerð^1) um framkvæmd laganna, þar
                                  með talið um:
     a. öryggisþætti upplýsingakerfisins og innra eftirlit með því, sbr. 3. gr.,
-    b. hæfis- og öryggiskröfur sem starfsmenn lögreglu eða Útlendingaeftirlits
+   b. hæfis- og öryggiskröfur sem starfsmenn lögreglu eða Útlendingaeftirlits^2)
   verða að fullnægja til að starfa við upplýsingakerfið, sbr. 2. mgr. 10. gr.,
-        c. eftirlit [Persónuverndar]^2) með upplýsingakerfinu, sbr. 18. gr.
-                   ^1)[3]Rg. 112/2001. ^2)[4]L. 77/2000, 46. gr.
+        c. eftirlit [Persónuverndar]^3) með upplýsingakerfinu, sbr. 18. gr.
+    ^1)[5]Rg. 112/2001. ^2)Frá 1. jan. 2003, Útlendingastofnun, sbr. [6]59. gr.
+                     l. 96/2002. ^3)[7]L. 77/2000, 46. gr.
                      20. gr. Lög þessi öðlast þegar gildi.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=2000016
-   2. file://2000077.html#g46
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-2001
+   2. file://2002096.html#g59
+   3. file://2002096.html#g59
    4. file://2000077.html#g46
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-2001
+   6. file://2002096.html#g59
+   7. file://2000077.html#g46

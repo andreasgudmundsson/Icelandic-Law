@@ -7,6 +7,8 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 30. mars 1999. Breytt með [2]l. 79/2002 (tóku gildi 17. maí 2002).
+
                     I. kafli. Almenn ákvæði. Skilgreiningar.
               1. gr. Lög þessi gilda um alþjóðleg viðskiptafélög.
 Með alþjóðlegu viðskiptafélagi er í lögum þessum átt við félag sem stofnað er og
@@ -138,15 +140,12 @@ yfir á aðra aðila. Sé aðstaða eða starfsfólk alþjóðlegs viðskiptafé
         grundvelli almennra kjara og venju í viðskiptum óskyldra aðila.
 
                     V. kafli. Reikningsskil og endurskoðun.
-   13. gr. Fjármálaráðherra getur heimilað alþjóðlegu viðskiptafélagi að færa
-  bókhald sitt og reikningsskil í nánar tiltekinni erlendri mynt í samræmi við
- góða reikningsskilavenju. Skulu skattstofnar þá umreiknaðir í íslenskar krónur
-miðað við gengi í lok reikningsárs. Við ákvörðun skattstofna skal þá ekki beita
-ákvæðum laga um tekjuskatt og eignarskatt um verðlagsbreytingar og endurmat eða
- sambærilegum ákvæðum annarra laga. Fjármálaráðherra er heimilt að setja nánari
-reglur þar sem kveðið er á um umreikning fjárhæða milli mismunandi gjaldmiðla og
- útreikning skattstofna hjá alþjóðlegum viðskiptafélögum sem fengið hafa leyfi
-                            samkvæmt þessari grein.
+13. gr. [Alþjóðlegt viðskiptafélag getur fengið heimild ársreikningaskrár til að
+    færa bókhald sitt í erlendum gjaldmiðli í samræmi við ákvæði [3]laga nr.
+145/1994, um bókhald, með síðari breytingum, og semja og birta ársreikning sinn
+      í erlendum gjaldmiðli í samræmi við ákvæði [4]laga nr. 144/1994, um
+                    ársreikninga, með síðari breytingum.]^1)
+                             ^1)[5]L. 79/2002, 1. gr.
 14. gr. Ársreikningur alþjóðlegs viðskiptafélags skal endurskoðaður af löggiltum
 endurskoðanda eða endurskoðunarfélagi í samræmi við ákvæði laga um ársreikninga
 og laga þessara. Skal endurskoðandi sannreyna að tekjur og gjöld hafi stofnast í
@@ -214,3 +213,7 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1999031
+   2. file:///altext/stjt/2002.079.html
+   3. file://1994145.html
+   4. file://1994144.html
+   5. file:///altext/stjt/2002.079.html

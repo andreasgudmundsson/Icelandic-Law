@@ -7,6 +7,8 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 24. júní 1998. Breytt með [2]l. 18/2002 (tóku gildi 3. apríl 2002).
+
 1. gr. Ríkisskattstjóri skal láta uppi bindandi álit í skattamálum eftir því sem
 nánar er kveðið á um í lögum þessum, enda geti mál varðað verulega hagsmuni þess
 sem eftir slíku áliti leitar. Beiðni um bindandi álit getur tekið til álitamála
@@ -40,7 +42,7 @@ frá með rökstuðningi. Hið sama gildir ef ljóst þykir að álitsbeiðandi 
  4. gr. Þegar ríkisskattstjóri hefur lokið við gerð bindandi álits sendir hann
  það til álitsbeiðanda og viðkomandi skattyfirvalds. Álitið skal vera rökstutt.
        5. gr. Álitsbeiðandi getur kært bindandi álit ríkisskattstjóra til
-yfirskattanefndar. Um kærufrest, efni kæru og málsmeðferð fer eftir [2]lögum nr.
+yfirskattanefndar. Um kærufrest, efni kæru og málsmeðferð fer eftir [3]lögum nr.
                           30/1992, um yfirskattanefnd.
  Álitsbeiðanda og fjármálaráðherra er heimilt að bera úrskurð yfirskattanefndar
    skv. 1. mgr. undir dómstóla enda sé það gert innan eins mánaðar frá því að
@@ -55,14 +57,14 @@ skattlagningu álitsbeiðanda. Álitið er ekki bindandi fyrir skattyfirvöld a�
   7. gr. Til að mæta þeim kostnaði sem ríkisskattstjóri hefur af gerð bindandi
  álita skal greiða gjald er miðast við þá vinnu sem hann hefur af gerð álits í
   hverju tilviki. Þegar beiðni um álit er lögð fram skal greiða grunngjald að
-fjárhæð 10.000 kr. Viðbótargjald sem miðast við umfang máls skal greiða áður en
-   ríkisskattstjóri lætur álitið uppi. Um fjárhæð viðbótargjaldsins fer eftir
- gjaldskrá sem fjármálaráðherra setur, en gjaldið má ekki nema hærri fjárhæð en
-                                   40.000 kr.
+  fjárhæð [50.000]^1) kr. Viðbótargjald sem miðast við umfang máls skal greiða
+ áður en ríkisskattstjóri lætur álitið uppi. [Um fjárhæð viðbótargjaldsins fer
+                eftir gjaldskrá sem fjármálaráðherra setur.]^1)
   Ráðherra getur ákveðið, í þeim tilvikum þegar máli hefur verið vísað frá eða
           beiðni er dregin til baka, að endurgreiða gjald skv. 1. mgr.
       Ákvörðun um fjárhæð gjalds skv. 1. mgr. er hvorki hægt að bera undir
                           yfirskattanefnd né dómstóla.
+                             ^1)[4]L. 18/2002, 1. gr.
   8. gr. Ríkisskattstjóri skal birta ákvarðanir og niðurstöður sem fram koma í
     álitum samkvæmt lögum þessum að því leyti sem þær hafa almenna þýðingu.
   9. gr. Ráðherra er heimilt að setja nánari reglur um framkvæmd laga þessara.
@@ -72,4 +74,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998091
-   2. file://1992030.html
+   2. file:///altext/stjt/2002.018.html
+   3. file://1992030.html
+   4. file:///altext/stjt/2002.018.html

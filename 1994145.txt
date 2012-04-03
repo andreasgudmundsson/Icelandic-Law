@@ -7,6 +7,11 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 1. janúar 1995. Breytt með [2]l. 37/1995 (tóku gildi 9. mars 1995),
+   [3]l. 29/1997 (tóku gildi 16. maí 1997), [4]l. 82/1998 (tóku gildi 1. okt.
+1998), [5]l. 133/2001 (tóku gildi 1. jan. 2002) og [6]l. 25/2002 (tóku gildi 8.
+              apríl 2002 og komu til framkvæmda frá 1. jan. 2002).
+
                            I. kafli. Bókhaldsskylda.
                  1. gr. Eftirtaldir aðilar eru bókhaldsskyldir:
          1. hlutafélög og önnur félög með takmarkaðri ábyrgð félagsaðila;
@@ -139,8 +144,15 @@ greiðslukvittana, samninga eða skeyta, svo og öll önnur gögn sem gerð eru 
     sjóðbók og sjóðsdagbók má hin síðarnefnda vera lausblaðabók. Í handfærðu
  bókhaldi skal aðalbók vera fyrir fram innbundin og blaðsíðurnar tölusettar og
                       færa má ársreikninginn í aðalbókina.
-  Bókhaldsbækurnar skulu vera til staðar hér á landi. Skal texti þeirra vera á
-                   íslensku og fjárhæðir í íslenskum krónum.
+                                      ^1)
+                             ^1)[7]L. 25/2002, 1. gr.
+ [10. gr. A. Bókhaldsbækur skulu vera til staðar hér á landi. Skal texti þeirra
+                vera á íslensku og fjárhæðir í íslenskum krónum.
+Þrátt fyrir ákvæði 1. mgr. geta félög, skv. 1. mgr. 1. gr. laga um ársreikninga,
+ fengið heimild til að færa fjárhæðir í bókhaldsbækur í erlendum gjaldmiðli og
+semja ársreikning í þeim gjaldmiðli, sbr. 2. mgr. 11. gr. laga um ársreikninga.
+      Texti í bókhaldsbókunum skal vera á íslensku, dönsku eða ensku.]^1)
+                             ^1)[8]L. 25/2002, 2. gr.
  11. gr. Að jafnaði skal haga reikningaskipan í bókhaldinu þannig að færðir séu
 hreinir eigna- og skulda-, gjalda- og teknareikningar. Færa skal þá reikninga í
  bókhaldinu sem nauðsynlegt er til að eðlileg sundurliðun náist með tilliti til
@@ -233,10 +245,17 @@ gögn sem varðveitt eru í tölvutæku formi, á örfilmu eða annan sambærile
  viðkomandi reikningsárs. Þeim sem nota sjóðvélar er þó ekki skylt að varðveita
   innri strimla lengur en þrjú ár frá lokum viðkomandi reikningsárs enda liggi
            fyrir fullfrágengið bókhald og undirritaður ársreikningur.
- Ef tölvubúnaði, sem nauðsynlegur er til að kalla fram bókhaldsgögn, er breytt
- eða fargað ber að prenta gögnin í upprunalegu formi eða yfirfæra á nýjan miðil
-                 þannig að áfram verði unnt að kalla þau fram.
+  [Þrátt fyrir ákvæði 1. mgr. er félögum, sem fengið hafa heimild til að færa
+ bókhald og semja ársreikning í erlendum gjaldmiðli skv. 1. mgr. 11. gr. A laga
+ um ársreikninga, heimilt að varðveita gögn skv. 1. mgr. erlendis í allt að sex
+  mánuði. Yfirvöld geta þó krafist aðgangs að þeim hér á landi og skal þeim þá
+ skilað innan hæfilegs tíma. Bókhaldsgögn, sem eru á rafrænu formi, skulu ætíð
+                        vera aðgengileg yfirvöldum.]^1)
+ [Ef tölvubúnaði, sem nauðsynlegur er til að kalla fram bókhaldsgögn, er breytt
+  eða fargað ber að yfirfæra bókhaldsgögnin á nýjan tölvutækan miðil þannig að
+                    áfram verði unnt að kalla þau fram.]^1)
                     Ársreikning skal ætíð varðveita í 25 ár.
+                             ^1)[9]L. 25/2002, 3. gr.
  21. gr. Allt, sem fært er í bækur eða á reikninga, skal vera skýrt og læsilegt
  með varanlegu letri. Eigi má eyða eða gera á annan hátt ólæsilegt það sem eitt
   sinn hefur verið í þær fært þótt fyrst hafi verið misfært af vangá. Þurfi að
@@ -306,8 +325,8 @@ vegið meðalverð allra birgða af sama tagi á grundvelli síðasta innkaupsve
                      ekki innheimtast eða af öðrum ástæðum.
       Matsbreytingar samkvæmt þessari grein skal færa í rekstrarreikning.
                                   30. gr. ^1)
-    ^1)[2]L. 133/2001, 54. gr. Breytingin kemur til framkvæmda við álagningu á
-                        árinu 2003, sbr. [3]56. gr. s.l.
+    ^1)[10]L. 133/2001, 54. gr. Breytingin kemur til framkvæmda við álagningu á
+                       árinu 2003, sbr. [11]56. gr. s.l.
                                    Skýringar.
 31. gr. Í skýringum í ársreikningi skal gefa upplýsingar um eftirfarandi atriði
 með vísan til viðeigandi liða í efnahagsreikningi og rekstrarreikningi komi þau
@@ -325,14 +344,14 @@ með vísan til viðeigandi liða í efnahagsreikningi og rekstrarreikningi komi
  skoðunarmenn ársreikninga og varamenn þeirra. Skoðunarmenn geta verið úr hópi
  félagsmanna en mega ekki sitja í stjórn félagsins eða gegna stjórnunarstörfum
                                    fyrir það.
-  Skoðunarmenn skulu uppfylla hæfisskilyrði [4]11. gr. laga nr. 67/1976,^1) um
+ Skoðunarmenn skulu uppfylla hæfisskilyrði [12]11. gr. laga nr. 67/1976,^1) um
     löggilta endurskoðendur. Uppfylli skoðunarmaður ekki lengur skilyrði til
  starfans og enginn varamaður er til að koma í hans stað skal stjórn félagsins
 annast um að valinn verði nýr skoðunarmaður eins fljótt og unnt er og skal hann
                gegna því starfi þar til kosning getur farið fram.
  Ef félag kýs endurskoðanda í stað skoðunarmanns skulu ákvæði laga um löggilta
                      endurskoðendur eiga við um starf hans.
-                               ^1)Nú [5]l. 18/1997.
+                               ^1)Nú [13]l. 18/1997.
 33. gr. Skoðunarmenn skulu hvenær sem er hafa aðgang að bókhaldi til að gera þær
  athuganir og kannanir sem þeir telja nauðsynlegar. Þá skal stjórn sjá til þess
  að skoðunarmenn fái þau gögn, upplýsingar og aðstoð sem þeir álíta nauðsynleg.
@@ -354,13 +373,13 @@ Skoðunarmönnum er óheimilt að gefa einstökum félagsaðilum eða öðrum up
                                  um hag félags.
 
                     [IV. kafli. Viðurlög og málsmeðferð.]^1)
-                             ^1)[6]L. 37/1995, 1. gr.
+                             ^1)[14]L. 37/1995, 1. gr.
  [36. gr. Hver sem af ásetningi eða stórfelldu gáleysi brýtur gegn ákvæðum laga
  þessara á þann hátt sem lýst er í 38.40. gr. skal sæta fésektum, en brot gegn
  37. gr. og önnur meiri háttar brot gegn 38. gr. varða ^1) fangelsi allt að sex
 árum skv. 2. mgr. 262. gr. almennra hegningarlaga eða fésektum ef málsbætur eru
                                   miklar.]^2)
-                ^1)[7]L. 82/1998, 218. gr. ^2)[8]L. 37/1995, 1. gr.
+               ^1)[15]L. 82/1998, 218. gr. ^2)[16]L. 37/1995, 1. gr.
   [37. gr. Svofelld háttsemi bókhaldsskylds manns eða fyrirsvarsmanns lögaðila
                     telst ætíð meiri háttar brot gegn lögum:
    1. Ef hann færir ekki tilskilið bókhald fyrir sjálfan sig eða lögaðila þannig
@@ -381,7 +400,7 @@ Sama á við um hvers konar bókhaldsgögn sem færslur í bókhaldi verða rakt
                 brotið ekki við 158. gr. almennra hegningarlaga.
  Sama á við ef maður aðstoðar bókhaldsskyldan mann eða fyrirsvarsmann lögaðila
  við þau brot sem lýst er í 1.5. tölul. eða stuðlar að þeim á annan hátt.]^1)
-                             ^1)[9]L. 37/1995, 1. gr.
+                             ^1)[17]L. 37/1995, 1. gr.
   [38. gr. Bókhaldsskyldur maður eða fyrirsvarsmaður lögaðila gerist sekur um
   refsivert brot gegn lögum þessum með athöfnum þeim eða athafnaleysi sem hér
                                      segir:
@@ -406,18 +425,18 @@ hann gefi skýra mynd af rekstrarafkomu á reikningsárinu og efnahag í lok þe
                vörutegundar eða mat vörubirgða er verulega rangt.
  Sama á við ef maður aðstoðar bókhaldsskyldan mann eða fyrirsvarsmann lögaðila
  við brot þau sem lýst er í 1.6. tölul. eða stuðlar að þeim á annan hátt.]^1)
-                             ^1)[10]L. 37/1995, 1. gr.
+                             ^1)[18]L. 37/1995, 1. gr.
 [39. gr. Tilraun til brota og hlutdeild í brotum á lögum þessum, önnur en sú sem
  lýst er í 37. og 38. gr. laga þessara, er refsiverð eftir því sem segir í III.
                        kafla almennra hegningarlaga.]^1)
-                             ^1)[11]L. 37/1995, 1. gr.
+                             ^1)[19]L. 37/1995, 1. gr.
   [40. gr. Gera má lögaðila fésekt fyrir brot gegn lögum þessum óháð því hvort
     brotið megi rekja til saknæms verknaðar fyrirsvarsmanns eða starfsmanns
   lögaðilans. Hafi fyrirsvarsmaður hans eða starfsmaður gerst sekur um brot á
 lögum þessum má auk þeirrar refsingar, sem hann sætir, gera lögaðilanum sekt og
 sviptingu starfsréttinda, enda sé brotið drýgt til hagsbóta fyrir lögaðilann eða
                     hann hafi notið hagnaðar af brotinu.]^1)
-                             ^1)[12]L. 37/1995, 1. gr.
+                             ^1)[20]L. 37/1995, 1. gr.
  [41. gr. Rannsóknarlögregla ríkisins fer með frumrannsókn opinberra mála vegna
     brota á lögum þessum. Skattrannsóknarstjóri ríkisins getur á hvaða stigi
  rannsóknar sem er vísað máli til opinberrar rannsóknar af sjálfsdáðum, svo og
@@ -433,15 +452,15 @@ Yfirskattanefnd úrskurðar sektir vegna brota á lögum þessum, nema máli sé
  vegum skattrannsóknarstjóra ríkisins eða rannsóknarlögreglustjóra ríkisins eða
     hjá löglærðum fulltrúum þeirra, gegn manni sem sökunaut, enda verði ekki
           óeðlilegar tafir á rannsókn máls eða ákvörðun refsingar.]^1)
-                             ^1)[13]L. 37/1995, 1. gr.
+                             ^1)[21]L. 37/1995, 1. gr.
 
                           [V. kafli.]^1) Ýmis ákvæði.
-                             ^1)[14]L. 37/1995, 1. gr.
+                             ^1)[22]L. 37/1995, 1. gr.
    [42. gr.]^1) Fjármálaráðherra getur með reglugerð^2) sett nánari ákvæði um
 framkvæmd laga þessara, svo sem um bókhaldsskyldu, undanþágu frá færslu tvíhliða
 bókhalds, skipulag bókhalds, bókhaldsgögn og notkun tölva við færslu bókhalds og
                                  geymslu gagna.
-     ^1)[15]L. 37/1995, 1. gr. ^2)[16]Rg. 598/1999, sbr. [17]15/2001; [18]rg.
+     ^1)[23]L. 37/1995, 1. gr. ^2)[24]Rg. 598/1999, sbr. [25]15/2001; [26]rg.
                                    600/1999.
                                 [43. gr.]^1) ^2)
  [Í fjármálaráðuneytinu skal haldin skrá yfir viðurkennda bókara. Öðrum en þeim
@@ -463,43 +482,51 @@ samkvæmt lögum þessum. Ákvæði um tilhögun námskeiða, námsgreinar og ke
  og námskeiða- og prófagjöld skulu sett í reglugerð.^3) Við ákvörðun á fjárhæð
   þeirra skal við það miðað að þau séu eigi hærri en kostnaður við námskeið og
                                    próf.]^4)
-     ^1)[19]L. 37/1995, 1. gr. ^2)[20]l. 37/1995, 2. gr. ^3)[21]Rg. 473/2001.
-                           ^4)[22]L. 29/1997, 1. gr.
+     ^1)[27]L. 37/1995, 1. gr. ^2)[28]l. 37/1995, 2. gr. ^3)[29]Rg. 473/2001.
+                           ^4)[30]L. 29/1997, 1. gr.
   [44. gr.]^1) Lög þessi öðlast gildi 1. janúar 1995. Hjá þeim sem hafa annað
  reikningsár en almanaksárið koma lög þessi þó ekki til framkvæmda fyrr en við
            upphaf fyrsta reikningsárs sem hefst eftir 1. janúar 1995.
-                             ^1)[23]L. 37/1995, 1. gr.
+                             ^1)[31]L. 37/1995, 1. gr.
 [Ákvæði til bráðabirgða. Við fyrstu reikningsskil eftir gildistöku laga þessara
  skal leysa upp endurmatsreikning sem myndaður hefur verið skv. 30. gr. og færa
               með öðru óráðstöfuðu eigin fé efnahagsreiknings.]^1)
-    ^1)[24]L. 133/2001, 55. gr. Breytingin kemur til framkvæmda við álagningu á
-                       árinu 2003, sbr. [25]56. gr. s.l.
+    ^1)[32]L. 133/2001, 55. gr. Breytingin kemur til framkvæmda við álagningu á
+                       árinu 2003, sbr. [33]56. gr. s.l.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1994145
-   2. file:///altext/stjt/2001.133.html
-   3. file:///altext/stjt/2001.133.html
-   4. file://1976067.html
-   5. file://1997018.html
-   6. file:///altext/stjt/1995.037.html
-   7. file:///altext/stjt/1998.082.html
-   8. file:///altext/stjt/1995.037.html
-   9. file:///altext/stjt/1995.037.html
-  10. file:///altext/stjt/1995.037.html
-  11. file:///altext/stjt/1995.037.html
-  12. file:///altext/stjt/1995.037.html
-  13. file:///altext/stjt/1995.037.html
+   2. file:///altext/stjt/1995.037.html
+   3. file:///altext/stjt/1997.029.html
+   4. file:///altext/stjt/1998.082.html
+   5. file:///altext/stjt/2001.133.html
+   6. file:///altext/stjt/2002.025.html
+   7. file:///altext/stjt/2002.025.html
+   8. file:///altext/stjt/2002.025.html
+   9. file:///altext/stjt/2002.025.html
+  10. file:///altext/stjt/2001.133.html
+  11. file:///altext/stjt/2001.133.html
+  12. file://1976067.html
+  13. file://1997018.html
   14. file:///altext/stjt/1995.037.html
-  15. file:///altext/stjt/1995.037.html
-  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/598-1999
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/015-2001
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/600-1999
+  15. file:///altext/stjt/1998.082.html
+  16. file:///altext/stjt/1995.037.html
+  17. file:///altext/stjt/1995.037.html
+  18. file:///altext/stjt/1995.037.html
   19. file:///altext/stjt/1995.037.html
   20. file:///altext/stjt/1995.037.html
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/473-2001
-  22. file:///altext/stjt/1997.029.html
+  21. file:///altext/stjt/1995.037.html
+  22. file:///altext/stjt/1995.037.html
   23. file:///altext/stjt/1995.037.html
-  24. file:///altext/stjt/2001.133.html
-  25. file:///altext/stjt/2001.133.html
+  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/598-1999
+  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/015-2001
+  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/600-1999
+  27. file:///altext/stjt/1995.037.html
+  28. file:///altext/stjt/1995.037.html
+  29. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/473-2001
+  30. file:///altext/stjt/1997.029.html
+  31. file:///altext/stjt/1995.037.html
+  32. file:///altext/stjt/2001.133.html
+  33. file:///altext/stjt/2001.133.html

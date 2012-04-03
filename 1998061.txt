@@ -7,6 +7,8 @@
 
    --------------------------------------------------------------------------
 
+ Tóku gildi 1. janúar 1999. Breytt með [2]l. 93/2002 (tóku gildi 31. maí 2002).
+
                               Ritun dánarvottorðs.
    1. gr. Læknir skal rita dánarvottorð fyrir hvern mann er deyr hér á landi.
           Vottorðið skal ritað á eyðublað sem landlæknir lætur útbúa.
@@ -17,9 +19,10 @@
  stofnuninni eða yfirlæknir viðkomandi deildar ábyrgð á að líkið verði skoðað.
 Andist maður utan heilbrigðisstofnunar skal læknir sá sem stundaði hinn látna í
                             banalegunni skoða líkið.
-Við óvænt dauðsföll eða ef ekki tekst að ná til læknis sem stundaði hinn látna í
-banalegunni skal tilkynna andlátið til viðkomandi héraðslæknis. Héraðslæknir ber
-                       þá ábyrgð á að líkið verði skoðað.
+[Við óvænt dauðsföll eða ef ekki tekst að ná til læknis sem stundaði hinn látna
+   í banalegunni skal tilkynna andlátið til yfirlæknis heilsugæslu sem ber þá
+                      ábyrgð á að líkið verði skoðað.]^1)
+                             ^1)[3]L. 93/2002, 22. gr.
                             Tilkynning til lögreglu.
  3. gr. Læknir sem kvaddur er til vegna líkskoðunar skal gera lögreglu viðvart
                                       ef:
@@ -112,7 +115,7 @@ dánarvottorð sé afhent sýslumanni í því umdæmi þar sem maðurinn lést.
         lágmarkskunnáttu lækna sem gera réttarlæknisfræðilega líkskoðun.
                                 3. Réttarkrufningu.
          4. Hvernig Hagstofu Íslands verði tilkynnt um andvana fædd börn.
-                                ^1)[2]Rg. 248/2001.
+                                ^1)[4]Rg. 248/2001.
                                   Gildistaka.
                  15. gr. Lög þessi öðlast gildi 1. janúar 1999.
                                 Brottfall laga.
@@ -124,4 +127,6 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1998061
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/248-2001
+   2. file:///altext/stjt/2002.093.html
+   3. file:///altext/stjt/2002.093.html
+   4. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/248-2001

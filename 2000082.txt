@@ -186,14 +186,15 @@ felur í sér aðgang að trúnaðarupplýsingum í ríkum mæli og öryggishags
  aðgangsheimild, útgefna af sýslumanninum á Keflavíkurflugvelli, í samræmi við
 ákvæði laga þessara og ákvæði loftferðalaga. Heimilt er að takmarka eða synja um
       aðgangsheimild af öryggisástæðum eða ef allsherjarregla krefst þess.
-   Utanríkisráðherra skal í reglugerð kveða nánar á um för manna inn og út af
+ Utanríkisráðherra skal í reglugerð^1) kveða nánar á um för manna inn og út af
    varnarsvæðunum og um dvöl manna á þeim. Brot á reglunum varða tímabundinni
    sviptingu aðgangsheimildar samkvæmt ákvörðun sýslumanns eða varanlegri við
  ítrekuð brot. Sérlega alvarleg brot varða sektum eða fangelsi allt að tveimur
                                      árum.
+                                ^1)[5]Rg. 293/2002.
             11. gr. Undanþága varnarliðsins frá sköttum og gjöldum.
  Varnarliðið skal undanþegið sköttum og gjöldum með þeim hætti sem greinir í 7.
- gr. viðbætis við varnarsamninginn, sbr. og [5]48. gr. laga um virðisaukaskatt,
+ gr. viðbætis við varnarsamninginn, sbr. og [6]48. gr. laga um virðisaukaskatt,
  nr. 50/1988, með síðari breytingum. Að fenginni staðfestingu utanríkisráðherra
 nær undanþága þessi einnig til erlendra fyrirtækja sem starfa einvörðungu innan
   varnarsvæðanna og reka þar starfsemi í þágu varnarliðsins. Þá skal starfsemi
@@ -226,4 +227,5 @@ References
    2. file://1951110.html
    3. file://1954106.html
    4. file://1993008.html#g10
-   5. file://1988050.html#g48
+   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/293-2002
+   6. file://1988050.html#g48

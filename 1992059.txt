@@ -55,13 +55,13 @@ gr., um uppbyggingu þjónustu fyrir fatlaða, sbr. 41. gr., og um nýja eða br
   yfirfærsla málefna fatlaðra til sveitarfélaga kemur til framkvæmda, þó eigi
  lengur en til fjögurra ára.]^1) Landssamtökin Þroskahjálp og Öryrkjabandalagið
 skulu tilnefna sinn fulltrúann hvor og svæðisbundin samtök sveitarfélaga þrjá og
- skal einn þeirra vera félagsmálastjóri á svæðinu. Jafnframt skal héraðslæknir
-eiga sæti í svæðisráði. Ráðherra skipar einn fulltrúa án tilnefningar. Svæðisráð
-   skal kveðja á sinn fund fólk með sérþekkingu á skólamálum þegar ástæða er
-                                    til.]^2)
+  skal einn þeirra vera félagsmálastjóri á svæðinu. [Jafnframt skal landlæknir
+  tilnefna einn fulltrúa úr hópi yfirlækna heilsugæslu á svæðinu.]^2) Ráðherra
+skipar einn fulltrúa án tilnefningar. Svæðisráð skal kveðja á sinn fund fólk með
+               sérþekkingu á skólamálum þegar ástæða er til.]^3)
                        Svæðisráð kýs sér sjálft formann.
             Félagsmálaráðherra setur reglugerð um störf svæðisráða.
-                ^1)[2]L. 156/1998, 1. gr. ^2)[3]L. 161/1996, 1. gr.
+   ^1)[2]L. 156/1998, 1. gr. ^2)[3]L. 93/2002, 34. gr. ^3)[4]L. 161/1996, 1. gr.
 
                           III. kafli. Almenn þjónusta.
        7. gr. Fatlaðir skulu eiga rétt á allri almennri þjónustu ríkis og
@@ -146,8 +146,8 @@ málefni fatlaðra nema sveitarfélög yfirtaki þjónustu að öllu leyti skv. 
                              sinnt hlutverki sínu.
     6. Að annast mat á þörf hins fatlaða fyrir þjónustu, sbr. 2. gr., í samráði
                               við greiningaraðila.
-   7. Að eiga samstarf og samráð við héraðslækna og fræðslustjóra vegna málefna
-                                   fatlaðra.
+     7. Að eiga samstarf og samráð við [heilsugæslu]^1) og fræðslustjóra vegna
+                               málefna fatlaðra.
       8. Að eiga samstarf við sveitarfélög vegna félagsþjónustu og ferlimála
                                    fatlaðra.
          9. Að annast mat á umönnunarþörf fatlaðra barna samkvæmt lögum um
@@ -156,10 +156,10 @@ málefni fatlaðra nema sveitarfélög yfirtaki þjónustu að öllu leyti skv. 
                                     svæðinu.
 [Félagsmálaráðherra skipar framkvæmdastjóra svæðisskrifstofa, að fenginni umsögn
 svæðisráða, til þess tíma er yfirfærsla málefna fatlaðra til sveitarfélaga kemur
-til framkvæmda, þó eigi lengur en til fimm ára.]^1) Framkvæmdastjórum skal sett
+til framkvæmda, þó eigi lengur en til fimm ára.]^2) Framkvæmdastjórum skal sett
                                   erindisbréf.
        Félagsmálaráðherra setur reglugerð um starfsemi svæðisskrifstofa.
-                             ^1)[4]L. 156/1998, 2. gr.
+                ^1)[5]L. 93/2002, 35. gr. ^2)[6]L. 156/1998, 2. gr.
   13. gr. Svæðisráð skal eiga frumkvæði að því að unnið sé að samningum milli
  ríkis og sveitarfélaga um það að sveitarfélögin annist þjónustu við fatlaða að
 hluta til eða að öllu leyti, ýmist á vettvangi sveitarfélaga, byggðasamlaga eða
@@ -221,7 +221,7 @@ Félagsmálaráðherra skal í reglugerð setja nánari ákvæði um hlutverk og
      Stjórn Greiningar- og ráðgjafarstöðvar ríkisins skipa fimm menn. Skulu
 Öryrkjabandalag Íslands og Landssamtökin Þroskahjálp tilnefna sinn aðilann hvor,
 stjórnarnefnd einn en ráðherra skipar tvo án tilnefningar, þar af annan formann.
-                             ^1)[5]L. 161/1996, 3. gr.
+                             ^1)[7]L. 161/1996, 3. gr.
 
                IX. kafli. Málefni barna og fjölskyldna fatlaðra.
 17. gr. Komi í ljós einkenni eftir fæðingu er benda til þess að barn geti verið
@@ -235,8 +235,8 @@ stjórnarnefnd einn en ráðherra skipar tvo án tilnefningar, þar af annan for
                                slíkt skv. 17. gr.
 19. gr. Fötluð börn skulu eiga rétt til leikskóladvalar á vegum sveitarfélaga og
  skal veita hana á almennum leikskólum með nauðsynlegri stuðningsþjónustu eða á
-          sérhæfðum deildum, sbr. [6]lög um leikskóla, nr. 48/1991.^1)
-                               ^1)Nú [7]l. 78/1994.
+          sérhæfðum deildum, sbr. [8]lög um leikskóla, nr. 48/1991.^1)
+                               ^1)Nú [9]l. 78/1994.
   20. gr. Fötluð börn skulu eiga kost á þjónustu leikfangasafna. Auk útlána úr
 leikfangasafni fer þar fram þroska- og leikþjálfun barna. Á leikfangasöfnum skal
        veitt uppeldisleg ráðgjöf og leiðbeiningar við notkun leikfanga í
@@ -282,10 +282,10 @@ sem felur í sér margháttaða aðstoð við ýmsar athafnir daglegs lífs, end
    Félagsmálaráðherra setur reglugerð^1) um framkvæmd þessara ákvæða, svo sem
   skilyrði sem uppfylla þarf til að njóta aðstoðarinnar og viðmiðunarreglur um
                                 fjárhæð styrkja.
-                                ^1)[8]Rg. 550/1994.
+                               ^1)[10]Rg. 550/1994.
 
                            XII. kafli. Atvinnumál.^1)
-                                ^1)[9]Rg. 376/1996.
+                               ^1)[11]Rg. 376/1996.
 28. gr. Á hverju starfssvæði skal starfrækt atvinnuleit sem hefur það markmið að
    afla fötluðum atvinnu við sitt hæfi. Í tengslum við atvinnuleit skal veita
  starfsráðgjöf. Þar sem sveitarfélög starfrækja sérstaka vinnumiðlun skal fela
@@ -361,7 +361,7 @@ Telji aðstandendur fatlaðra, hagsmunasamtök fatlaðra eða aðrir sem láta s
                              málsins sé þess óskað.
 
                      XVI. kafli. Framkvæmdasjóður fatlaðra.
-38. gr. Framkvæmdasjóður fatlaðra, sem stofnaður var með [10]lögum nr. 41/1983,
+38. gr. Framkvæmdasjóður fatlaðra, sem stofnaður var með [12]lögum nr. 41/1983,
   skal vera í vörslu félagsmálaráðuneytis og skal stjórnarnefnd annast stjórn
   sjóðsins, sbr. 4. gr. Þegar stjórnarnefnd fjallar um málefni Framkvæmdasjóðs
     fatlaðra skal fulltrúi tilnefndur af fjárlaganefnd Alþingis taka sæti í
@@ -374,7 +374,7 @@ Telji aðstandendur fatlaðra, hagsmunasamtök fatlaðra eða aðrir sem láta s
      þjónustu í þágu geðfatlaðra næstu fimm ár frá gildistöku laga þessara.
              4. Frjáls framlög og aðrar tekjur er til kunna að falla.
                                   5. Vaxtatekjur.
-                            ^1)[11]L. 174/2000, 5. gr.
+                            ^1)[13]L. 174/2000, 5. gr.
        40. gr. Framkvæmdasjóður fatlaðra hefur eftirfarandi hlutverk:^1)
     1. Sjóðurinn skal fjármagna stofnkostnað þjónustustofnana fatlaðra, sbr. 9.
   gr., og heimila fatlaðra skv. 3.6. tölul. 10. gr. sem eru á vegum ríkisins.
@@ -403,7 +403,7 @@ viðhaldsframkvæmda, sem ekki falla undir rekstrarviðhald í skilningi fjárla
 veita fé til annarra framkvæmda sem nauðsynlegar eru taldar í þágu fatlaðra, svo
   sem breytinga á almennum vinnustöðum þar sem fatlaðir starfa. Enn fremur er
     sjóðnum heimilt að veita fé til kannana og áætlana í málefnum fatlaðra.
-      ^1)Sjá einnig ákvæði [12]l. 174/2000, 5. gr. ^2)[13]L. 161/1996, 4. gr.
+      ^1)Sjá einnig ákvæði [14]l. 174/2000, 5. gr. ^2)[15]L. 161/1996, 4. gr.
 
                       XVII. kafli. Fjármögnun og rekstur.
                                 Stofnkostnaður.
@@ -437,9 +437,9 @@ umsagnar. Sama gildir um félagasamtök og sjálfseignarstofnanir sem hafa á he
  48. gr. Þjónusta og annar rekstrarkostnaður samkvæmt lögum þessum greiðist úr
 ríkissjóði. Þó skulu sveitarfélög greiða kostnað vegna liðveislu, sbr. 24. gr.,
     ferlimála, sbr. 34. gr., og ferðaþjónustu, sbr. 35. gr. Um kostnað vegna
-    leikskóladvalar fatlaðra barna, sbr. 19. gr., fer samkvæmt [14]lögum um
+    leikskóladvalar fatlaðra barna, sbr. 19. gr., fer samkvæmt [16]lögum um
                          leikskóla, nr. 48/1991.^1) ^2)
-                 ^1)Nú [15]l. 78/1994. ^2)[16]L. 130/1997, 4. gr.
+                 ^1)Nú [17]l. 78/1994. ^2)[18]L. 130/1997, 4. gr.
 49. gr. Tekjur, sem falla til vegna þeirrar atvinnustarfsemi stofnana sem nýtur
     framlaga á fjárlögum, skulu koma til frádráttar rekstrarkostnaði þeirra.
 50. gr. Ráðherra er heimilt í reglugerð að ákveða gjaldtöku vegna þjónustu skv.
@@ -457,17 +457,18 @@ greiðist á vegum sveitarfélaga. Ákvæði þetta á þó ekki við um akstur 
                     stjórnarnefndar greiðist úr ríkissjóði.
       53. gr. Sjálfseignarstofnanir og stofnanir á vegum sveitarfélaga og
     félagasamtaka, sem reknar eru samkvæmt lögum þessum og njóta framlaga úr
-      ríkissjóði, skulu skila félagsmálaráðuneyti, viðkomandi svæðisráði,
-    Ríkisbókhaldi og Ríkisendurskoðun ársreikningi undirrituðum af löggiltum
+ ríkissjóði, skulu skila félagsmálaráðuneyti, viðkomandi svæðisráði, [Fjársýslu
+    ríkisins]^1) og Ríkisendurskoðun ársreikningi undirrituðum af löggiltum
               endurskoðanda ásamt skýrslu um starfsemi liðins árs.
+                             ^1)[19]L. 95/2002, 9. gr.
 
                            XVIII. kafli. Ýmis ákvæði.
    54. gr. Sérhverjum, er starfar samkvæmt lögum þessum, ber að gæta fyllstu
                þagmælsku um það sem hann kemst að í starfi sínu.
   55. gr. Félagsmálaráðherra setur með reglugerð^1) nánari ákvæði um framkvæmd
                                  laga þessara.
-        ^1)[17]Rg. 273/1993, [18]204/1994, [19]555/1994, [20]155/1995, sbr.
-                [21]308/2000; [22]rg. 376/1996 og [23]606/1998.
+   ^1)[20]Rg. 273/1993, [21]rg. 204/1994, [22]rg. 155/1995, sbr. [23]308/2000 og
+       [24]67/2002; [25]rg. 376/1996, [26]rg. 606/1998, [27]rg. 296/2002.
 
                             XIX. kafli. Gildistaka.
  56. gr. Lög þessi öðlast gildi 1. september 1992. Þó skal síðari málsgrein 35.
@@ -476,7 +477,7 @@ greiðist á vegum sveitarfélaga. Ákvæði þetta á þó ekki við um akstur 
                             Ákvæði til bráðabirgða.
                                        I.
    II. Lög þessi skal endurskoða innan fjögurra ára frá gildistöku þeirra með
- hliðsjón af endurskoðun laga um félagsþjónustu [24]sveitarfélaga, nr. 40/1991,
+ hliðsjón af endurskoðun laga um félagsþjónustu [28]sveitarfélaga, nr. 40/1991,
     og að höfðu samráði við Samband íslenskra sveitarfélaga og heildarsamtök
 fatlaðra. Endurskoðun laganna skal m.a. miða að því að auka ábyrgð sveitarfélaga
                               í málefnum fatlaðra.
@@ -486,12 +487,12 @@ fatlaðra. Endurskoðun laganna skal m.a. miða að því að auka ábyrgð svei
                             réttindagæslu fatlaðra.
     [Áður en yfirfærsla málaflokksins kemur til framkvæmda hafi Alþingi m.a.
                                    samþykkt:
-    a. ný [25]lög um félagsþjónustu sveitarfélaga sem taka til þeirrar þjónustu
+    a. ný [29]lög um félagsþjónustu sveitarfélaga sem taka til þeirrar þjónustu
  sem veitt er samkvæmt gildandi lögum um málefni fatlaðra, nr. 59/1992, þó ekki
               starfsemi Greiningar- og ráðgjafarstöðvar ríkisins,
                 b. breytingu á lögum um tekjustofna sveitarfélaga,
          c. sérstök lög um Greiningar- og ráðgjafarstöð ríkisins.]^1)]^2)
-              ^1)[26]L. 156/1998, 3. gr. ^2)[27]L. 161/1996, brbákv.
+              ^1)[30]L. 156/1998, 3. gr. ^2)[31]L. 161/1996, brbákv.
   [IV. Meðan á tímabundnum samningi skv. 13. gr. stendur teljast hlutaðeigandi
  starfsmenn svæðisskrifstofu, sem eru í starfi þegar samningurinn tekur gildi,
   vera í þjónustu viðkomandi sveitarfélags, byggðasamlags eða héraðsnefndar. Í
@@ -508,36 +509,40 @@ fatlaðra. Endurskoðun laganna skal m.a. miða að því að auka ábyrgð svei
       Félagsmálaráðherra og fjármálaráðherra annars vegar og sveitarfélag,
     byggðasamlag eða héraðsnefnd hins vegar skulu semja um ábyrgðir sínar og
               greiðslur varðandi réttindi og kjör starfsmanna.]^1)
-                             ^1)[28]L. 52/1999, 1. gr.
+                             ^1)[32]L. 52/1999, 1. gr.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1992059
    2. file:///altext/stjt/1998.156.html
-   3. file:///altext/stjt/1996.161.html
-   4. file:///altext/stjt/1998.156.html
-   5. file:///altext/stjt/1996.161.html
-   6. file:///altext/stjt/1991.048.html
-   7. file://1994078.html
-   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/550-1994
-   9. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-1996
-  10. file:///altext/stjtnr.html#1983041
-  11. file:///altext/stjt/2000.174.html
-  12. file:///altext/stjt/2000.174.html
-  13. file:///altext/stjt/1996.161.html
-  14. file:///altext/stjt/1991.048.html
-  15. file://1994078.html
-  16. file:///altext/stjt/1997.130.html
-  17. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/273-1993
-  18. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/204-1994
-  19. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/555-1994
-  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/155-1995
-  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/308-2000
-  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-1996
-  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/606-1998
-  24. file://1991040.html
-  25. file://1992059.html
-  26. file:///altext/stjt/1998.156.html
-  27. file:///altext/stjt/1996.161.html
-  28. file:///altext/stjt/1999.052.html
+   3. file:///altext/stjt/2002.093.html
+   4. file:///altext/stjt/1996.161.html
+   5. file:///altext/stjt/2002.093.html
+   6. file:///altext/stjt/1998.156.html
+   7. file:///altext/stjt/1996.161.html
+   8. file:///altext/stjt/1991.048.html
+   9. file://1994078.html
+  10. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/550-1994
+  11. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-1996
+  12. file:///altext/stjtnr.html#1983041
+  13. file:///altext/stjt/2000.174.html
+  14. file:///altext/stjt/2000.174.html
+  15. file:///altext/stjt/1996.161.html
+  16. file:///altext/stjt/1991.048.html
+  17. file://1994078.html
+  18. file:///altext/stjt/1997.130.html
+  19. file:///altext/stjt/2002.095.html
+  20. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/273-1993
+  21. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/204-1994
+  22. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/155-1995
+  23. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/308-2000
+  24. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/067-2002
+  25. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/376-1996
+  26. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/606-1998
+  27. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/296-2002
+  28. file://1991040.html
+  29. file://1992059.html
+  30. file:///altext/stjt/1998.156.html
+  31. file:///altext/stjt/1996.161.html
+  32. file:///altext/stjt/1999.052.html

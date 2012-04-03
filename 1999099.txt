@@ -7,9 +7,10 @@
 
    --------------------------------------------------------------------------
 
-                         Tóku gildi 30. desember 1999.
- Breytt með [2]l. 158/2000 (tóku gildi 1. jan. 2001), [3]l. 34/2001 (tóku gildi
-           16. maí 2001) og [4]l. 144/2001 (tóku gildi 1. jan. 2002).
+  Tóku gildi 30. desember 1999. Breytt með [2]l. 158/2000 (tóku gildi 1. jan.
+ 2001), [3]l. 34/2001 (tóku gildi 16. maí 2001), [4]l. 144/2001 (tóku gildi 1.
+             jan. 2002) og [5]l. 37/2002 (tóku gildi 7. maí 2002).
+
                              1. gr. Almennt ákvæði.
 Eftirlitsskyldir aðilar skv. 5. gr. skulu standa straum af kostnaði við rekstur
             Fjármálaeftirlitsins í samræmi við ákvæði laga þessara.
@@ -48,9 +49,10 @@ hina eftirlitsskyldu starfsemi skal miða álagningu við lágmarksgjald skv. 5.
           5. gr. [Gjaldskyldir aðilar, álagningarstofn og álagt gjald.
        Eftirtaldir eftirlitsskyldir aðilar skulu greiða eftirlitsgjald af
           álagningarstofni í þeim hlutföllum og stærðum sem hér segir:
-   1. Viðskiptabankar, sparisjóðir og lánastofnanir aðrar en viðskiptabankar og
-  sparisjóðir skulu greiða 0,0101% af eignum samtals, þó eigi lægri fjárhæð en
-                                  400.000 kr.
+   1. [Viðskiptabankar, sparisjóðir, rafeyrisfyrirtæki og lánastofnanir aðrar en
+ viðskiptabankar og sparisjóðir skulu greiða 0,0101% af eignum samtals, þó eigi
+  lægri fjárhæð en 400.000 kr. Lágmarksgreiðsla rafeyrisfyrirtækja skv. 2. gr.
+                laga um rafeyrisfyrirtæki er þó 150.000 kr.]^1)
    2. Vátryggingafélög skulu greiða 0,24420% af bókfærðum frumtryggingaiðgjöldum
 og 0,04873% af bókfærðum fengnum endurtryggingaiðgjöldum, þó eigi lægri fjárhæð
  en 400.000 kr. Vegna söfnunarlíftrygginga greiðist þó eftirlitsgjald sem nemur
@@ -92,8 +94,8 @@ kr. Póstgíróstofa Íslandspósts hf. skal greiða fastagjald sem nemur 150.00
 starfsemi og dótturfélagið. Ákvæði þetta á þó ekki við um lágmarksgjald skv. 1.
                                       mgr.
     Eftirlitsgjald skal reiknast í heilum þúsundum króna. Við álagningu skal
-             jafnframt færa álagningarstofna í þúsundir króna.]^1)
-                             ^1)[5]L. 144/2001, 1. gr.
+             jafnframt færa álagningarstofna í þúsundir króna.]^2)
+                ^1)[6]L. 37/2002, 20. gr. ^2)[7]L. 144/2001, 1. gr.
                    6. gr. Framkvæmd álagningar og innheimtu.
 Álagning eftirlitsgjalds samkvæmt lögum þessum skal fara fram eigi síðar en 15.
   janúar ár hvert. Fjármálaeftirlitið skal gera eftirlitsskyldum aðilum grein
@@ -140,7 +142,7 @@ opinbert eftirlit með fjármálastarfsemi og reglugerð settri samkvæmt þeim 
   Viðskiptaráðherra er heimilt að kveða nánar á um framkvæmd laga þessara með
                                  reglugerð.^1)
                          Lög þessi öðlast þegar gildi.
-                                ^1)[6]Rg. 562/2001.
+                                ^1)[8]Rg. 562/2001.
      Ákvæði til bráðabirgða. Álagning eftirlitsgjalds fyrir árið 1999, sbr.
  auglýsingu nr. 5 6. janúar 1999, um álagningu eftirlitsgjalds þeirra aðila er
       lúta eftirliti Fjármálaeftirlitsins á árinu 1999, er sem hér segir:
@@ -198,5 +200,7 @@ References
    2. file:///altext/stjt/2000.158.html
    3. file://2001034.html
    4. file:///altext/stjt/2001.144.html
-   5. file:///altext/stjt/2001.144.html
-   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001
+   5. file://2002037.html
+   6. file://2002037.html#g20
+   7. file:///altext/stjt/2001.144.html
+   8. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/562-2001

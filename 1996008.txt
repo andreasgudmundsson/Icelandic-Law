@@ -7,6 +7,9 @@ Lög um löggildingu nokkurra starfsheita sérfræðinga í tækni- og hönnunar
 
    --------------------------------------------------------------------------
 
+Tóku gildi 29. mars 1996. Breytt með [2]l. 4/2000 (tóku gildi 7. apríl 2000) og
+                    [3]l. 69/2002 (tóku gildi 17. maí 2002).
+
               1. gr. Lög þessi taka til eftirtalinna starfsheita:
                                  1. verkfræðinga,
                                  2. tæknifræðinga,
@@ -15,8 +18,9 @@ Lög um löggildingu nokkurra starfsheita sérfræðinga í tækni- og hönnunar
                      5. [húsgagna- og innanhússarkitekta],^1)
                                   6. iðnfræðinga,
                  7. [landslagsarkitekta (landslagshönnuða) og]^1)
-                               8. skipulagsfræðinga.
-                              ^1)[2]L. 4/2000, 1. gr.
+                               8. skipulagsfræðinga,
+                               [9. raffræðinga].^2)
+                 ^1)[4]L. 4/2000, 1. gr. ^2)[5]L. 69/2002, 1. gr.
 2. gr. Rétt til að nota starfsheiti þau sem lög þessi taka til eða orð sem fela
  í sér þau heiti hafa þeir menn einir sem fengið hafa til þess leyfi ráðherra,
 sbr. 3. gr., eða þeir sem fengið hafa staðfestingu ráðherra á leyfi til að bera
@@ -30,13 +34,19 @@ hvaða nám teljist leiða til fullnaðarprófs í viðkomandi starfsgrein. Þæ
     Stjórnartíðindum. Rétt til að öðlast leyfi hafa þeir sem lokið hafa námi
     samkvæmt greindum reglum að mati ráðherra að fenginni umsögn viðkomandi
                                    fagfélags.
-       ^1)[3]Rg. 112/1997 (skipulagsfræði), augl. 845/1999 (verkfræðingar).
+       ^1)[6]Rg. 112/1997 (skipulagsfræði), augl. 845/1999 (verkfræðingar).
 4. gr. Ráðherra skal staðfesta leyfi til að bera starfsheiti sem lög þessi taka
  til samkvæmt umsókn ríkisborgara frá ríki innan Evrópska efnahagssvæðisins ef
   viðkomandi leggur fram vottorð frá ríki innan Evrópska efnahagssvæðisins sem
                               uppfyllir skilyrði:
-               1. tilskipunar 85/384/EBE ef um arkitekt er að ræða.
-          2. tilskipunar 89/48/EBE ef um aðrar starfsstéttir er að ræða.
+    1. tilskipunar 85/384/EBE, [með síðari breytingum],^1) ef um arkitekt er að
+                                     ræða.
+         2. tilskipunar 89/48/EBE, [með síðari breytingum],^1) ef um aðrar
+                           starfsstéttir er að ræða.
+[Við framkvæmd 1. tölul. 1. mgr. skal þess gætt að synjun um leyfi sé rökstudd.
+  Bera má málið undir dómstóla, svo og ef ákvörðun er eigi tekin innan þriggja
+  mánaða frá því að umsækjandi leggur inn umsókn sína ásamt fylgiskjölum.]^1)
+                             ^1)[7]L. 69/2002, 2. gr.
     5. gr. Ráðherra sker úr ágreiningi sem rísa kann um notkun starfsheita.
     6. gr. Ráðherra skal halda skrá um þá sem fengið hafa leyfi til að bera
                        starfsheiti samkvæmt lögum þessum.
@@ -45,7 +55,8 @@ hvaða nám teljist leiða til fullnaðarprófs í viðkomandi starfsgrein. Þæ
                   8. gr. Brot gegn lögum þessum varða sektum.
    9. gr. EES-gerðir, sem vísað er til í lögum þessum, eru birtar í sérritinu
  EES-gerðir, sbr. auglýsingu í C-deild Stjórnartíðinda nr. 31/1993, nr. S 34 á
-                           bls. 18 og bls. 125140.
+  bls. 18 og bls. 125140, [svo og í EES-viðbæti við Stjórnartíðindi EB].^1)
+                             ^1)[8]L. 69/2002, 3. gr.
                      10. gr. Lög þessi öðlast þegar gildi.
 Ákvæði til bráðabirgða. Ákvæði laga þessara breyta ekki rétti þeim sem menn hafa
 öðlast til að nota starfsheiti þau sem lög þessi taka til fyrir gildistöku laga
@@ -56,4 +67,9 @@ References
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996008
    2. file:///altext/stjt/2000.004.html
-   3. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-1997
+   3. file:///altext/stjt/2002.069.html
+   4. file:///altext/stjt/2000.004.html
+   5. file:///altext/stjt/2002.069.html
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/112-1997
+   7. file:///altext/stjt/2002.069.html
+   8. file:///altext/stjt/2002.069.html

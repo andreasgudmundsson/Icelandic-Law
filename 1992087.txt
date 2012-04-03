@@ -146,7 +146,7 @@ upplýsingakerfi og hæfisskilyrði starfsfólks. Í þeim skal enn fremur kveð
 afturköllun heimilda til gjaldeyrisviðskipta að því er varðar þá aðila sem ekki
   hafa heimild til slíkra viðskipta í lögum eða samkvæmt ákvæðum í alþjóðlegum
                        samningum sem Ísland er aðili að.
-                               ^1)[2]Rgl. 742/2000.
+                      ^1)[2]Rgl. 742/2000, [3]rgl. 387/2002.
 9. gr. Ákveða má í reglugerð að viðskipti innlendra aðila við erlenda aðila með
   verðbréf skuli fara fram fyrir milligöngu þeirra aðila sem hafa heimild til
 verðbréfamiðlunar hér á landi samkvæmt lögum eða ákvæðum í alþjóðlegum samningum
@@ -171,7 +171,7 @@ yfirfærslunnar. Með viðskiptamönnum er hins vegar ekki átt við aðila sem 
 lánastofnun, vátryggingafélag, fyrirtæki í verðbréfaþjónustu eða verðbréfasjóð.
  Heimilt er að veita upplýsingar þær sem tilgreindar eru í 1. mgr. með rafrænum
                                    hætti.]^1)
-                             ^1)[3]L. 128/1999, 1. gr.
+                             ^1)[4]L. 128/1999, 1. gr.
   [11. gr. Nú óskar viðskiptamaður eftir því að aðili sem annast yfirfærslu á
  milli viðskiptareikninga á milli landa skuldbindi sig til að ljúka tiltekinni
   yfirfærslu innan ákveðinna tímamarka gegn ákveðnu gjaldi og skal aðilinn þá
@@ -185,7 +185,7 @@ nema viðskiptamaður sem bað um yfirfærsluna hafi tilgreint að móttakandi h
   Evrópska efnahagssvæðisins og að hámarki 4.000.000 kr. eða jafngildi þeirrar
    fjárhæðar í gjaldmiðlum ríkja Evrópska efnahagssvæðisins. Fjárhæð þessi er
     bundin við gengi evru (EUR) miðað við kaupgengi hennar 1. júlí 1999.]^1)
-                             ^1)[4]L. 128/1999, 2. gr.
+                             ^1)[5]L. 128/1999, 2. gr.
   [12. gr. Hafi ekki verið samið um annað á milli viðskiptamanns og aðila sem
   annast yfirfærslu á milli viðskiptareikninga á milli landa skal henni lokið
  fyrir lok fimmta almenns viðskiptadags (bankadags) talið frá deginum eftir að
@@ -211,7 +211,7 @@ viðskiptamanni vexti nema óviðráðanleg ytri atvik hafi komið í veg fyrir 
 Nánar skal kveðið á um framkvæmd þessarar greinar í reglugerð,^1) þar á meðal um
     skuldbindingar sem hvíla á milliliðum er eiga þátt í yfirfærslu á milli
     viðskiptareikninga á milli aðildarríkja Evrópska efnahagssvæðisins.]^2)
-                   ^1)[5]Rg. 56/2000. ^2)[6]L. 128/1999, 2. gr.
+                   ^1)[6]Rg. 56/2000. ^2)[7]L. 128/1999, 2. gr.
     [13. gr. Í reglugerð skal kveðið á um þau kæru- og bótaúrræði sem standa
    viðskiptamanni til boða komi til ágreinings milli hans og aðila sem annast
  yfirfærslu á milli viðskiptareikninga á milli landa eða móttöku yfirfærslna í
@@ -219,7 +219,7 @@ samræmi við ákvæði 11. og 12. gr. Skuldbindingar sem lagðar eru á þá se
  yfirfærslu á milli viðskiptareikninga á milli landa eða móttöku yfirfærslna í
 samræmi við ákvæði 11. og 12. gr. eiga eftir atvikum einnig við þá aðila sem eru
                       milliliðir í slíkum viðskiptum.]^1)
-                             ^1)[7]L. 128/1999, 2. gr.
+                             ^1)[8]L. 128/1999, 2. gr.
      [14. gr.]^1) Skylt er að veita Seðlabankanum allar þær upplýsingar um
      gjaldeyrisviðskipti sem hann kann að óska eftir til að hann geti sinnt
 nauðsynlegu eftirliti og hagskýrslugerð, sbr. ákvæði laga um Seðlabanka Íslands.
@@ -227,45 +227,46 @@ Bankanum er heimilt að setja nánari reglur um framkvæmd gjaldeyrisviðskipta,
    sem um skráningar- og tilkynningarskyldu vegna reikninga innlendra aðila í
  erlendum innlánsstofnunum, framlagningu gagna, almenna upplýsingagjöf og gerð
                                    eyðublaða.
-                             ^1)[8]L. 128/1999, 2. gr.
+                             ^1)[9]L. 128/1999, 2. gr.
 [15. gr.]^1) Þeir sem annast framkvæmd þessara laga eru bundnir þagnarskyldu um
 hagi einstakra viðskiptamanna og önnur atriði sem þeir fá vitneskju um í starfi
  sínu og leynt skulu fara samkvæmt lögum eða eðli málsins, nema dómari úrskurði
  að upplýsingar sé skylt að veita fyrir dómi eða lögreglu eða skylda sé til að
  veita upplýsingar lögum samkvæmt. Þagnarskyldan helst þótt látið sé af starfi.
-                             ^1)[9]L. 128/1999, 2. gr.
+                            ^1)[10]L. 128/1999, 2. gr.
 [16. gr.]^1) Fyrir brot á lögum þessum skal refsa með sektum eða [fangelsi allt
 að 2 árum]^2) liggi ekki þyngri refsing við broti samkvæmt öðrum lögum. Sé brot
 framið í þágu lögaðila er heimilt að beita stjórnendur lögaðilans framangreindum
      viðurlögum og einnig er heimilt að gera lögaðilanum sekt eða sviptingu
   starfsréttinda. Tilraun og hlutdeild í brotum á lögum þessum eru refsiverðar
             eftir því sem segir í III. kafla almennra hegningarlaga.
-              ^1)[10]L. 128/1999, 2. gr. ^2)[11]L. 82/1998, 203. gr.
+              ^1)[11]L. 128/1999, 2. gr. ^2)[12]L. 82/1998, 203. gr.
    [17. gr.]^1) [Viðskiptaráðherra fer með framkvæmd laga þessara. Hann setur
                      reglugerð^2) um framkvæmd þeirra.]^3)
-    ^1)[12]L. 128/1999, 2. gr. ^2)[13]Rg. 679/1994 (um gjaldeyrismál), [14]rg.
-              13/1995, [15]rg. 56/2000. ^3)[16]L. 128/1999, 3. gr.
+    ^1)[13]L. 128/1999, 2. gr. ^2)[14]Rg. 679/1994 (um gjaldeyrismál), [15]rg.
+              13/1995, [16]rg. 56/2000. ^3)[17]L. 128/1999, 3. gr.
                    [18. gr.]^1) Lög þessi öðlast þegar gildi.
-                            ^1)[17]L. 128/1999, 2. gr.
+                            ^1)[18]L. 128/1999, 2. gr.
                             Ákvæði til bráðabirgða.
 
 References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1992087
-   2. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/742-2000
-   3. file:///altext/stjt/1999.128.html
+   2. file:///altext/stjtnr.html#2000742
+   3. file:///altext/stjtnr.html#2002387
    4. file:///altext/stjt/1999.128.html
-   5. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/056-2000
-   6. file:///altext/stjt/1999.128.html
+   5. file:///altext/stjt/1999.128.html
+   6. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/056-2000
    7. file:///altext/stjt/1999.128.html
    8. file:///altext/stjt/1999.128.html
    9. file:///altext/stjt/1999.128.html
   10. file:///altext/stjt/1999.128.html
-  11. file:///altext/stjt/1998.082.html
-  12. file:///altext/stjt/1999.128.html
-  13. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/679-1994
-  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/013-1995
-  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/056-2000
-  16. file:///altext/stjt/1999.128.html
+  11. file:///altext/stjt/1999.128.html
+  12. file:///altext/stjt/1998.082.html
+  13. file:///altext/stjt/1999.128.html
+  14. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/679-1994
+  15. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/013-1995
+  16. http://www.reglugerd.is/interpro/dkm/WebGuard.nsf/key2/056-2000
   17. file:///altext/stjt/1999.128.html
+  18. file:///altext/stjt/1999.128.html
