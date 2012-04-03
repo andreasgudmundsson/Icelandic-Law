@@ -66,7 +66,8 @@
                         Yfirbyggingar, þar með talin ökumannshús fyrir
                         vélknúin ökutæki.
                 e.
-                        ...^1)
+                        [Ökutæki sem aðallega eru ætluð til vöruflutninga og
+                        eru yfir 5 tonn að heildarþyngd.]^2)
 
    [4.]
            ^1) 30% vörugjald:
@@ -79,7 +80,8 @@
                         ætluð til fólksflutninga og skráð eru fyrir 1017
                         farþega að meðtöldum ökumanni.
                 c.
-                        Ökutæki sem aðallega eru ætluð til vöruflutninga.
+                        [Ökutæki sem aðallega eru ætluð til vöruflutninga og
+                        eru 5 tonn eða minna að heildarþyngd.]^2)
                 d.
                         Vélknúin ökutæki til sérstakra nota, gálgabifreiðar
                         o.fl. sem ekki eru aðallega hönnuð til flutnings á
@@ -106,7 +108,7 @@
    kafla til lækkunar eða hækkunar ef sams konar eða svipaðar vörur kaflans
    bera ekki sama vörugjald.
 
-   ^1)[7]L. 41/1995, 2. gr.
+   ^1)[7]L. 41/1995, 2. gr.^2)[8]L. 47/1997, 1. gr. Sjá einnig brbákv. s.l.
 
                                      5. gr.
         Ökutæki í eigu erlendra sendiráða, sendiræðisskrifstofa og
@@ -156,7 +158,7 @@
         Ráðherra er heimilt að setja skilyrði fyrir lækkun eða niðurfellingu
    gjalda skv. 2. mgr.
 
-   ^1)[8]L. 41/1995, 3. gr.
+   ^1)[9]L. 41/1995, 3. gr.
 
                                Innflutt ökutæki.
                                      6. gr.
@@ -168,20 +170,20 @@
    ökutækis er tollyfirvöld meta fullnægjandi.
 
                                      7. gr.
-        Ákvæði [9]6. gr. tollalaga, nr. 55/1987, skulu gilda eftir því sem
+        Ákvæði [10]6. gr. tollalaga, nr. 55/1987, skulu gilda eftir því sem
    við getur átt um gjald af vörum samkvæmt þessum kafla laganna.
 
                        Innlend framleiðsla og aðvinnsla.
                                      8. gr.
         Sá aðili, er framleiðir eða vinnur að breytingum á ökutæki áður en
-   það er skráð samkvæmt [10]umferðarlögum, nr. 50/1987, skal skila gjaldi af
+   það er skráð samkvæmt [11]umferðarlögum, nr. 50/1987, skal skila gjaldi af
    ökutækinu í samræmi við verðmæti þess við skráningu og samkvæmt þeim
    gjaldflokki sem það þá fellur undir samkvæmt lögum þessum.
         Heimilt er að draga frá greiðslu skv. 1. mgr. það vörugjald sem þegar
    hefur verið greitt af ökutækinu eða efnivörum til þess.
 
                                      9. gr.
-        Sé ökutæki, sem skráð hefur verið samkvæmt [11]umferðarlögum, nr.
+        Sé ökutæki, sem skráð hefur verið samkvæmt [12]umferðarlögum, nr.
    50/1987, breytt þannig að það flokkist í hærri gjaldflokk en við
    upphaflega skráningu skal skráður eigandi þess greiða viðbótarvörugjald
    eigi breytingin sér stað innan fimm ára frá upphaflegum skráningardegi.
@@ -231,7 +233,7 @@
                                     14. gr.
         Af bensíni skal greiða [97%]^1) vörugjald.
 
-   ^1)[12]L. 122/1993, 43. gr.
+   ^1)[13]L. 122/1993, 43. gr.
 
                         Sérstakt vörugjald af eldsneyti.
                                     15. gr.
@@ -245,7 +247,7 @@
                                     16. gr.
         Bensíngjald skv. 15. gr. er grunngjald. Ráðherra er heimilt að hækka
    bensíngjald allt að því að það hækki í réttu hlutfalli við þá hækkun sem
-   kann að verða á vísitölu byggingarkostnaðar, sbr. [13]lög nr. 42/1987.
+   kann að verða á vísitölu byggingarkostnaðar, sbr. [14]lög nr. 42/1987.
    Grunntaxti bensíngjalds er miðaður við vísitölu 1. febrúar 1990, þ.e.
    164,9 stig.
         Heimilt er ráðherra að láta hækkun, er hann kann að ákveða á
@@ -281,7 +283,7 @@
                                   Gjaldstofn.
                                     19. gr.
         Gjaldstofn vörugjalds samkvæmt lögum þessum af innfluttum vörum er
-   tollverð þeirra eins og það er ákveðið skv. [14]8.[15]12. gr. tollalaga,
+   tollverð þeirra eins og það er ákveðið skv. [15]8.[16]12. gr. tollalaga,
    nr. 55/1987, að viðbættum gjöldum eins og þau eru ákveðin samkvæmt þeim
    lögum.
 
@@ -314,7 +316,7 @@
    ökutækjum greitt áður en skráning þeirra fer fram, en þó ekki síðar en
    [tólf]^1) mánuðum eftir tollafgreiðslu.
 
-   ^1)[16]L. 41/1995, 4. gr.
+   ^1)[17]L. 41/1995, 4. gr.
 
                                     24. gr.
         Heimilt er að ákveða með reglugerð að innflytjendur fái gjaldfrest á
@@ -338,11 +340,11 @@
         Að því leyti sem eigi er kveðið á um gjaldskyldu, álagningu, úrskurð
    um flokkun til gjaldskyldu, samræmingu gjalda, eftirlit, innheimtu,
    vörslusviptingu, veð, uppboð, sektir, viðurlög, refsingar og aðrar
-   framkvæmdir varðandi gjald skv. [17]1. gr. skulu gilda ákvæði tollalaga,
-   nr. 55/1987, og [18]laga nr. 97/1987, um vörugjald, eftir því sem við
+   framkvæmdir varðandi gjald skv. [18]1. gr. skulu gilda ákvæði tollalaga,
+   nr. 55/1987, og [19]laga nr. 97/1987, um vörugjald, eftir því sem við
    getur átt, svo og reglugerða og annarra fyrirmæla settra samkvæmt þeim.
         Breyting á skráningarskyldu frá því sem nú er ákveðið samkvæmt
-   [19]umferðarlögum, nr. 50/1987, hefur ekki áhrif á gjaldskyldu samkvæmt
+   [20]umferðarlögum, nr. 50/1987, hefur ekki áhrif á gjaldskyldu samkvæmt
    lögum þessum.
 
                                     28. gr.
@@ -360,11 +362,10 @@
                                     30. gr.
         ...
 
-   Ákvæði til bráðabirgða.
+                            Ákvæði til bráðabirgða.
                                        I.
         Ákvæði laga þessara skulu gilda um allar vörur er ekki hafa verið
    teknar til tollafgreiðslu við gildistöku þeirra.
-
                                       II.
         ...
                                      [III.
@@ -379,7 +380,7 @@
         Ráðherra setur í reglugerð nánari reglur^1) um framkvæmd þessa
    ákvæðis, m.a. um skilyrði og fyrirkomulag endurgreiðslu.]^2)
 
-   ^1)Rg. 170/1995.^2)[20]L. 41/1995, brbákv.
+   ^1)Rg. 170/1995.^2)[21]L. 41/1995, brbákv.
 
 References
 
@@ -391,16 +392,17 @@ References
    5. file://1987055.html
    6. file:///altext/stjt/1996.048.html
    7. file:///altext/stjt/1995.041.html
-   8. file:///altext/stjt/1995.041.html
-   9. file://1987055.html#g6
-  10. file://1987050.html
+   8. file:///altext/stjt/1997.047.html
+   9. file:///altext/stjt/1995.041.html
+  10. file://1987055.html#g6
   11. file://1987050.html
-  12. file:///altext/stjt/1993.122.html
-  13. file://1987042.html
-  14. file://1987055.html#g8
-  15. file://1987055.html#g12
-  16. file:///altext/stjt/1995.041.html
-  17. file://1987055.html#g1
-  18. file://1987097.html
-  19. file://1987050.html
-  20. file:///altext/stjt/1995.041.html
+  12. file://1987050.html
+  13. file:///altext/stjt/1993.122.html
+  14. file://1987042.html
+  15. file://1987055.html#g8
+  16. file://1987055.html#g12
+  17. file:///altext/stjt/1995.041.html
+  18. file://1987055.html#g1
+  19. file://1987097.html
+  20. file://1987050.html
+  21. file:///altext/stjt/1995.041.html

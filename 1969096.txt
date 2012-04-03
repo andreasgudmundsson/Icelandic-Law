@@ -129,12 +129,10 @@
                         Íslands.
                 2.
                         Framfærslu og sveitfesti.
-                3.
-                        Brunavarnir og Brunamálastofnun ríkisins.
+                [3.]
+                        ^1) Samband íslenskra sveitarfélaga.
                 [4.]
-                        ^1)Samband íslenskra sveitarfélaga.
-                5.
-                        [Vernd barna og ungmenna.]^2)
+                        ^1) [Vernd barna og ungmenna.]^2)
 
    B.
            Íbúðarhúsnæði, þar á meðal:
@@ -176,8 +174,8 @@
                 5.
                         Atvinnuleyfi útlendinga.
 
-   ^1)Augl. A 27/1993, 1. gr.^2)Augl. A 114/1993, 1. gr.^3)Augl. A 114/1993,
-   2. gr.
+   ^1)Augl. A 103/1997, 1. gr. Öðlast gildi 1. janúar 1998.^2)Augl. A
+   114/1993, 1. gr.^3)Augl. A 114/1993, 2. gr.
 
                                      5. gr.
         Fjármálaráðuneyti fer með mál, er varða:
@@ -281,8 +279,8 @@
    5.
            Skýrsluvélar ríkisins og Reykjavíkurborgar.
    6.
-           Þjóðskrá og almannaskráning, fyrirtækjaskráning og hliðstæð
-           verkefni.
+           Þjóðskrá og almannaskráning, [skráningu fyrirtækja, hlutafélaga,
+           einkahlutafélaga og samvinnufélaga]^1) og hliðstæð verkefni.
    7.
            Skýrslur og úrskurði í þágu opinberra aðilja, svo sem verið hefur.
    8.
@@ -290,6 +288,8 @@
            eftir nánari ákvörðun ráðherra.
    9.
            Almenna upplýsingaþjónustu, svo sem tíðkast hefur.
+
+   ^1)Augl. A 103/1997, 2. gr.
 
                                      7. gr.
         Heilbrigðis- og tryggingamálaráðuneyti fer með mál, er varða:
@@ -507,31 +507,34 @@
    2.
            Varnir gegn mengun á landi, í lofti og legi, eyðingu og
            endurvinnslu hvers konar úrgangs frá byggð og atvinnuvegum,
-           yfirstjórn Hollustuverndar ríkisins að því er varðar
-           mengunarvarnir og yfirstjórn Siglingamálastofnunar ríkisins að því
-           er varðar varnir gegn mengun sjávar.
+           yfirstjórn Hollustuverndar ríkisins ...^2)
    3.
-           Skipulags- og byggingarmál, gerð landnýtingaráætlana og mál er
-           varða landmælingar, skipulagsstjóra ríkisins, skipulagsstjórn og
+           Skipulags- og byggingarmál, [brunavarnir],^3) gerð
+           landnýtingaráætlana og mál er varða landmælingar, skipulagsstjóra
+           ríkisins, skipulagsstjórn, [Brunamálastofnun ríkisins]^3) og
            Landmælingar Íslands.
    4.
            Rannsóknir á sviði umhverfismála í samráði og samvinnu við aðra
            aðila, veðurspár, veðurathuganir og aðrar mælingar á ástandi
            lofthjúps jarðar og alþjóðlega samvinnu á því sviði, Veðurstofu
            Íslands og Náttúrufræðistofnun Íslands.
-   5.
-           Fræðslu og upplýsingastarfsemi á sviði umhverfismála.
-   6.
-           Frumkvæði að samræmingu á aðgerðum ráðuneyta, einstakra
+   [5.
+           Varnir gegn ofanflóðum, sem eigi ber undir annað ráðuneyti lögum
+           samkvæmt.]^2)
+   [6.]
+           ^2) Fræðslu og upplýsingastarfsemi á sviði umhverfismála.
+   [7.]
+           ^2) Frumkvæði að samræmingu á aðgerðum ráðuneyta, einstakra
            ríkisstofnana og sveitarfélaga í málaflokkum sem snerta framkvæmd
            umhverfismála, svo sem í löggjöf um losun úrgangsefna og varnir
            gegn loft-, hávaða-, titrings-, geislunar-, ljós-, varma- og
            lyktarmengun.
-   7.
-           Alþjóðasamskipti og samvinnu á sviði umhverfismála.]^2)]^3)
+   [8.]
+           ^2) Alþjóðasamskipti og samvinnu á sviði umhverfismála.]^4)]^5)
 
-   ^1)Augl. A 27/1993, 5. gr.^2)Augl. A 77/1990, 3. gr.^3)Augl. A 5/1990, 1.
-   gr.
+   ^1)Augl. A 27/1993, 5. gr.^2)Augl. A 103/1997, 3. gr.^3)Augl. A 103/1997,
+   3. gr. Öðlast gildi 1. janúar 1998.^4)Augl. A 77/1990, 3. gr.^5)Augl. A
+   5/1990, 1. gr.
 
                                   [14. gr.]^1)
         [Utanríkisráðuneyti fer með mál, er varða:
@@ -596,18 +599,18 @@
            [Samkeppnismál, óréttmæta viðskiptahætti],^3) verðskráningu og
            verðlag, nema lögð séu til annars ráðuneytis.
    7.
-           Hlutafélög, samvinnufélög og önnur félög um verslun eða annan
-           atvinnurekstur.
+           [Hlutafélög, einkahlutafélög, samvinnufélög, önnur en skráningu,
+           svo]^4) og önnur félög um verslun eða annan atvinnurekstur.
    8.
-           Verslunarskrár og firmu.]^4)
+           Verslunarskrár og firmu.]^5)
    [9.
-           Mælitæki og vogaráhöld.]^5)
+           Mælitæki og vogaráhöld.]^6)
    [10.
-           Vátryggingastarfsemi.]^6)
+           Vátryggingastarfsemi.]^7)
 
    ^1)Augl. A 5/1990, 1. gr.^2)Augl. 116/1996, 1. gr.^3)Augl. A 14/1994, 1.
-   gr.^4)Augl. A 64/1987, 2. gr.^5)Augl. A 77/1990, 4. gr.^6)Augl. 11/1995,
-   2. gr.
+   gr.^4)Augl. A 103/1997, 4. gr.^5)Augl. A 64/1987, 2. gr.^6)Augl. A
+   77/1990, 4. gr.^7)Augl. 11/1995, 2. gr.
 
                                   [16. gr.]^1)
         Málefni, sem eigi er getið í [2.15. gr.],^2) skulu lögð til
@@ -629,7 +632,7 @@ References
    2. file://1966019.html
    3. file://1966022.html
    4. file:///altext/stjtnr.html#1964020
-   5. file://1966052.html#g82
+   5. file://1966052.html
    6. file://1966052.html
    7. file://1988019.html
    8. file://1986012.html

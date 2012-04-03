@@ -118,22 +118,19 @@
          Veita skal aðgang að öðrum gögnum sem 4.6. gr. taka til þegar liðin
    eru þrjátíu ár frá því að gögn urðu til, að frátöldum upplýsingum er varða
      einkamálefni einstaklinga, en aðgang að þeim skal fyrst veita að áttatíu
-     árum liðnum frá því að þau urðu til. Þetta gildir þó ekki um sjúkraskrár
-                og skýrslur sálfræðinga eða félagsráðgjafa. Úrskurðarnefnd um
-            upplýsingamál er þó heimilt að veita aðgang að slíkum skýrslum og
-      sjúkraskrám til rannsókna eftir að þær hafa verið afhentar skjalasafni.
-    Nefndin bindur slíkt leyfi þeim skilyrðum sem hún metur nauðsynleg hverju
-                                                                       sinni.
+                                  árum liðnum frá því að þau urðu til. ...^1)
+
+   ^1)[2]L. 76/1997, 4. gr.
 
                                   III. kafli.
                  Aðgangur aðila að upplýsingum um hann sjálfan.
                                      9. gr.
 
                             Upplýsingaréttur aðila.
-          Stjórnvöldum er skylt, sé þess óskað, að veita aðila sjálfum aðgang
-       að skjölum og öðrum gögnum sem varða tiltekið mál ef þau hafa að geyma
-                                                 upplýsingar um hann sjálfan.
-                                                Ákvæði 1. mgr. gilda þó ekki:
+        Stjórnvöldum er skylt, sé þess óskað, að veita aðila sjálfum aðgang
+   að skjölum og öðrum gögnum sem varða tiltekið mál ef þau hafa að geyma
+   upplýsingar um hann sjálfan.
+        Ákvæði 1. mgr. gilda þó ekki:
 
    1.
            um þau gögn sem talin eru í 4. gr.;
@@ -141,29 +138,32 @@
            um gögn sem hafa að geyma upplýsingar um mikilvæga almannahagsmuni
            er leynt eiga að fara skv. 6. gr.
 
-          Heimilt er að takmarka aðgang aðila að gögnum ef þau hafa jafnframt
-      að geyma upplýsingar um einkamálefni annarra, enda vegi þeir hagsmunir,
-     sem mæla með því að upplýsingunum sé haldið leyndum, þyngra en hagsmunir
-                                      þess sem fer fram á aðgang að gögnunum.
-               Um aðgang sjúklings að sjúkraskrá fer eftir ákvæðum læknalaga.
+        Heimilt er að takmarka aðgang aðila að gögnum ef þau hafa jafnframt
+   að geyma upplýsingar um einkamálefni annarra, enda vegi þeir hagsmunir,
+   sem mæla með því að upplýsingunum sé haldið leyndum, þyngra en hagsmunir
+   þess sem fer fram á aðgang að gögnunum.
+        [Um aðgang sjúklings að upplýsingum úr sjúkraskrá fer eftir ákvæðum
+   laga um réttindi sjúklinga.]^1)
         Ákvæði 3., 7. og 8. gr. gilda, eftir því sem við getur átt, um aðgang
-                                                             aðila að gögnum.
+   aðila að gögnum.
+
+   ^1)[3]L. 76/1997, 5. gr.
 
                                    IV. kafli.
                                   Málsmeðferð.
                                     10. gr.
 
                         Beiðni um aðgang að upplýsingum.
-          Sá sem fer fram á aðgang að gögnum skal tilgreina þau gögn sem hann
-             óskar að kynna sér. Þá getur hann óskað eftir að fá að kynna sér
-      upplýsingar um tiltekið mál án þess að tilgreina einstök gögn sem málið
-                                                                       varða.
-          Stjórnvald getur sett það skilyrði að beiðni um aðgang að gögnum sé
-           skrifleg og komi jafnframt fram á eyðublaði sem það leggur til.^1)
-             Þegar farið er fram á aðgang að gögnum um mál þar sem taka á eða
-    tekin hefur verið ákvörðun um rétt eða skyldu manna skal beiðni beint til
-      þess stjórnvalds sem tekið hefur eða taka mun ákvörðun í málinu. Annars
-     skal beiðni beint til þess stjórnvalds sem hefur gögnin í sínum vörslum.
+        Sá sem fer fram á aðgang að gögnum skal tilgreina þau gögn sem hann
+   óskar að kynna sér. Þá getur hann óskað eftir að fá að kynna sér
+   upplýsingar um tiltekið mál án þess að tilgreina einstök gögn sem málið
+   varða.
+        Stjórnvald getur sett það skilyrði að beiðni um aðgang að gögnum sé
+   skrifleg og komi jafnframt fram á eyðublaði sem það leggur til.^1)
+        Þegar farið er fram á aðgang að gögnum um mál þar sem taka á eða
+   tekin hefur verið ákvörðun um rétt eða skyldu manna skal beiðni beint til
+   þess stjórnvalds sem tekið hefur eða taka mun ákvörðun í málinu. Annars
+   skal beiðni beint til þess stjórnvalds sem hefur gögnin í sínum vörslum.
 
    ^1)Rg. 674/1996.
 
@@ -323,3 +323,5 @@ References
 
    Visible links
    1. http://www.althingi.is/dba-bin/lawformpr.pl?lnr=1996050
+   2. file:///altext/stjt/1997.076.html
+   3. file:///altext/stjt/1997.076.html
